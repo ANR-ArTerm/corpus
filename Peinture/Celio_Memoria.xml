@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita"> Memoria_fatta_dal_signor_Gaspare_Celio_d </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher> tranScriptorium </publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title xml:lang="ita"> Memoria_fatta_dal_signor_Gaspare_Celio_d </title>
+               <idno type="Transkribus"> 7726998 </idno>
+               <idno type="external"> NA </idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <pb n="1"/>
+         <titlePage>
+            <docTitle>
+               <titlePart type="main">
+                  <hi rend="capitals">MEMORIA<lb/>FATTA</hi>
+                  <hi rend="it">Dal Signor</hi><lb/>
+                  <hi rend="capitals"><persName ref="#GaspareCelio">GASPARE CELIO</persName></hi><lb/> dell'habito di<lb/>
+                  <persName ref="#Jesus">Christo</persName>.</titlePart>
+               <titlePart type="sub" rend="it">Delli nomi dell'Artefici delle Pitture, che sono in alcune Chiese, Facciate, e Palazzi di <placeName ref="#Rome">Roma</placeName>.</titlePart>
+            </docTitle>
+            <figure type="ornement"/>
+            <docEdition><hi rend="capitals">IN <placeName ref="#Naples">NAPOLI</placeName></hi>,<lb/> Per <persName ref="#ScipioneBonino">Scipione Bonino</persName>.</docEdition>
+            <docDate><date when="1638">1638</date>.</docDate>
+         </titlePage>
+
+         <pb type="blankpage" n="2"/>
+         <pb n="3"/>
+         <div type="lettre" n="1" xml:lang="ita">
+            <salute> Al Signor <hi rend="capitals"><persName ref="#PaoloGiordani">PAVOLO GIORDANI</persName></hi> Canonico di <persName ref="#Marie">Santa Maria</persName> Inviolata.</salute>
+            <p rend="it">
+               <figure type="lettrine"/><hi rend="capitals">QU</hi>ando con occasione del Santissimo Giubileo fui in cotesta Città di <placeName ref="#Rome">Roma</placeName> per mia devotione, fra l'altre cose maravigliose che vi vidi, fu la quantità grande di pitture, tanto nelle Chiese, come nelle facciate, e palazzi di esse, fatte per mano de maggiori huomini, che habbia havuto il nostro, et gli secoli passati; <pb n="4"/> E come quello, che ne ho gusto molto particolare, mi nacque gran desiderio di saper il nome dell'Artefici di esse: Per il che facendone diligenza, mi capitò alle mani la memoria fatta dal <persName ref="#GaspareCelio">Cavalier Celio</persName> nell'anno <date when="1620">1620</date>, la quale andava per mano molto desiderata, et la portai meco, con intentione di darla in luce. Ma essendo cagione d'altri affari poi passati molti anni, e considerando, ch'era necessario di ampliarla prima, con le nuove cose fatte dopo, Adornandola, io con lettere ne sono stato favorito dall'Eccellentissimo Filosofo il Signor <persName ref="#SebastianoVannini">Sebastiano Vannini</persName> Galeno di questi tempi, il quale, came persona, che si diletta di mostrarsi grato all'amici mi ha <pb n="5"/> avvisato in gran parte per sua gratia di gran parte, se non in tutto di quello, che dal detto tempo in qua è stato posto a vista; onde participatolo con li Curiosi di questa Città me ne viene ogni giorno da ogn'uno dimandata copia. Per sodisfar dunque a loro, et perché ho giudicato, che sarà di gusto universale, mi sono risoluto di darlo alla Stampa, e di dedicarla a Vostra Signoria come quella che di esse pitture, e massime di quelle di devotione si diletta, et che come amicissimo del detto <persName ref="#GaspareCelio">Cavalier Celio</persName>, son certo, che me ne impetrarà perdono, se mi sono pigliato ardire di far ciò senza il suo beneplacito, la prego a gradire quest'affetto dell'animo <pb n="6"/> mio, et ad accertar il Signor <persName ref="#GaspareCelio">Cavalier Celio</persName>, che io gli sono per il suo valore altretanto servitore, come a Vostra Signoria per le molte cortesie, che ho ricevuto da lei, alla quale bacia la mano, di <placeName ref="#Naples">Napoli</placeName> il dì <date when="1638-11-20">20. di Novembre 1638.</date></p>
+            <p> Di Vostra Signoria <lb/>Affettionatissimo Servitore.</p>
+            <signed><hi rend="it"><persName ref="#ScipioneBonino">Scipione Bonino.</persName></hi></signed>
+         </div>
+         <div type="lettre" n="2" xml:lang="ita">
+            <pb n="7"/>
+            <salute> Al Molto Illustre Signore <hi rend="capitals"><hi rend="it">IL SIGNOR</hi>
+                  <persName ref="#GianVittorioRossi">GIOVAN VITTORIO DE ROSSI</persName></hi>. </salute>
+            <p rend="it"> Havendo inteso io alcuni giorni adietro il desiderio suo, non ho voluto mancare al debito, tanto più, che non havevo scusa, che mi potesse defendere. Havendo io nelli miei piccioli anni disegnate per <persName ref="#HendrickGoltzius">Henrigo Goleio</persName> celebre intagliatore Olandese quasi tutte le opere, quali sono in <placeName ref="#Rome">Roma</placeName> di Pittura, e Scultura, che dalli professori eccellenti sono tenute in conto. Oltre che per se medesime sono esse opere nel sommo grado della eccellenza state condotte dalli loro artefici. Di dove ne nasce, che non <pb n="8"/> solo quelli di <placeName ref="#Rome">Roma</placeName> mia patria, ma tutte le nationi esterne da esse opere apprendono il vero modo del bene operare, mancando tanto di buono ad essi studenti, quanto si dilungano dalle qualità di esse opere. </p>
+            <p rend="it"> Non entro a discorrere del più, o meno, circa l'eccellenza, per evitare la prodigalità di chi troppo ardisce, non essendo della professione del disegno, quali si danno a credere, che solo il veder lume basti a poter bene giudicare delle facultà sudette, non ricordandosi delli proverbi fatti dal Celebre <persName ref="#Apelle">Apelle</persName> Pittor Greco, li qua lì sono. Nessun giorno senza linea. Non saprà la pianella, Il Cieco non giudica delli colori: di dove si sente chiaro, che deve sapere operare chi vuol giudicare, <pb n="9"/> dalla prima, e dalla seconda, che non parli alcuno dell'arte, che non è sua, e dalla terza, che sono como ciechi quelli, che parlano senza essere eruditi in esse facultà. Li quali avvertimenti doverebbeno bastare (se non fusse la passione dell'interesse proprio) con approfittarsi delle fatiche altrui. Ma questi tali non vogliono imitare un Prencipe grande per Chi io nella mia gioventù mi honorai di pingere, il quale ancorché sapesse fare un Ritratto molto bene, soleva, parlando della Pittura dirmi, lo posso dire se la mi piace o no, ma non posso dire se là sta bene, o male. E questi cervelli giornali si fanno arbitri alla reale; anzi sono sì arditi che ardiscono contro quelli, che <pb n="10"/> sono insigni, con biasmare l'arbitrio di chi sa, e con far lettioni pretendono di insegnare ad altri quello, che essi non sanno fare, a fine di dar credito alla loro mercantia, senza ricordarsi di quel Cervellone di <persName ref="#Aristote">Aristotile</persName>, il quale nella sua Politica dice netto, Chi sono coloro, li quali vendono le scarpette, che essi non sanno fare, e che sia vero, che coloro, che non sanno operare non conoschino, la prova lo manifesta, Poiché comprano copie non bene copiate per originali, et anco Pitture, e Sculture, fatte da mediocri artefici viventi, per opere d'artefici morti Celebratissimi: et essi dopo si affaticano difendere l'errore etiam in fronte di chi sa, non sapendo, che tanto uno conoscere quanto sa fare <pb n="11"/> sicome tanto sa fare quanto conoscere. Adunque lasciando io di avvisare quello, che più bello sia tenuto nelle opere, darò solo notitia delli artefici, li quali con il nome portano seco il proprio valore molto ben cognito alli Curiosi, sicome Vostra Signoria alla quale facendo riverenza bacio le mani. Di Casa il di <date when="1620-04-11">11. d'Aprile 1620</date>. Sperando in breve inviarli una opera mia Compositione, in terza rima del <objectName>Trionfo della Pittura: intitulata Poetica visione.</objectName>
+            </p>
+            <p rend="it"> Di Vostra Signoria molto Illustre<lb/>Devotissimo et affettionatissimo<lb/>Servitore</p>
+            <signed><persName ref="#GaspareCelio">Gaspare Celio</persName> dell'abito di <persName ref="#Jesus">Christo</persName>.</signed>
+         </div>
+         <div type="poeme" n="1" xml:lang="ita">
+            <pb n="12"/>
+            <head>
+               <hi rend="capitals">SONETTO</hi><lb/><hi rend="it">Del Signor <persName ref="#GianVittorioRossi">Giovan Vittorio de Rossi</persName>.<lb/>Al Signor Cavalier</hi>
+               <persName ref="#GaspareCelio">GASPARE CELIO</persName>, Per haver publicati i nomi dell'autori d'alcune opere di Pittura, che si veggono in <placeName ref="#Rome">Roma</placeName>. </head>
+            <lg rend="it">
+               <l> Mentre con l'opre i nomi alteri, e rari</l>
+               <l> Di lor, ch'oprar si ben l'arte, e'l pennel</l>
+               <l> Con breve sì, ma stil leggiadro, e bello (lo</l>
+               <l> Fai <persName ref="#GaspareCelio">Celio</persName> ad ogni età palesi, e chiari;</l>
+               <l> Vien che Virtù per te s'ammiri e impari</l>
+               <l> Disprezzato dal Volgo empio e rubello</l>
+               <l> Il temerario invido stuol novello</l>
+               <l> Nelle Reggie, ne i Tempi, e ne gli altari;</l>
+               <l> Se pria non posto al mio lodar mai fine</l>
+               <l> Stupido riveria, l'alto valore</l>
+               <l> Di tant'anime eccelse, e pellegrine,</l>
+               <l> Or via più riverente a farle onore</l>
+               <l> De lor nomi alle voci alme, e Divine,</l>
+               <l> Colmo se ne vien di doppia gioia il core.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div1 xml:id="L1" type="livre" n="1">
+            <pb n="13"/>
+            <head rend="capitals">MEMORIA</head>
+            <head rend="it">Da chi siano state depinte alcune Pitture, le quali sono in alcune Chiese, e Palazzi, e facciate di <placeName ref="#Rome">Roma</placeName>, con alcune statue, o nomi d'Architetti</head>
+            <p> Le Chiese vanno per Alfabeto: </p>
+            <div2 xml:id="L1C1" type="chapitre" n="1">
+               <head>A.</head>
+               <div3 xml:id="L1C1SC1" type="sous-chapitre">
+                  <head rend="it"><objectName><persName ref="#SantAmbroise">Sant'Ambrosio</persName></objectName> nella via Flaminia hoggi il Corso.</head>
+                  <p>
+                     <hi rend="capitals">LA</hi>
+                     <objectName>Cappella alla destra</objectName> entrando è di mano di <persName ref="#BaldassarrePeruzzi">Baldassare da <placeName ref="#Sienne">Siena</placeName></persName>. </p>
+                  <p> La facciata dell'<objectName>altare magiore</objectName> di <persName ref="#PietroBuonaccorsi">Pierino del Vago</persName> Fiorentino, finita da <persName ref="#TaddeoZuccaro">Tadeo Zuccaro</persName>, da <placeName ref="#SantAngeloInVado">Sant'Angelo in Vado</placeName>, </p>
+                  <pb n="14"/>
+                  <p> stato d'<placeName ref="#Urbino">Urbino</placeName>, sono tutte a fresco. </p>
+               </div3>
+               <div3 xml:id="L1C1SC2" type="sous-chapitre">
+                  <head rend="it"><objectName><persName ref="#SaintAugustin">Sant'Agostino.</persName></objectName></head>
+                  <p>La <objectName>Pittura dell'<objectName>altare</objectName></objectName> con <persName ref="#SainteCatherine">Santa Caterina</persName> della ruota fatta ad olio sopra il muro con la Santa aginochioni e <persName ref="#SaintLaurent">Santi Lorenzo</persName> e <persName ref="#SaintEtienne">Stefano</persName> Colletarali, de <persName ref="#MarcelloVenusti">Marcello <reg>Venusti</reg></persName>. </p>
+                  <p> La sequente Capella, le Pitture a fresco sono di Avanzinò da <placeName ref="#CittaDiCastello">Città di Castello</placeName>. La Pittura a d'olio di esso altare, <objectName><persName ref="#Marie">Madonna</persName> con il Putto a giacere</objectName>, a Copia di <persName ref="#Raphael">Raffaello Santio</persName> da <placeName ref="#Urbino">Urbino</placeName>. Loriginale sta in <placeName ref="#Volterra">Volterra</placeName> Città di <placeName ref="#Toscane">Toscana</placeName>, ove è dentro il <objectName>Ritratto di Ludovico <reg><persName ref="#LudovicoAriosto">Ariosto</persName></reg> Poeta</objectName> al quale la donò esso <persName ref="#Raphael">Santio</persName>, et esso <reg><persName ref="#LudovicoAriosto">Ariosto</persName></reg> la donò ad un Dottore, che dopò la lassò in fide commisso <pb n="15"/> alla casa sua. </p>
+                  <p> La <objectName>Capella della Croce</objectName> fatta a fresco tutto il disegno e parte del colorito è da <persName ref="#DanieleDaVolterra"><reg>Daniello</reg> Ricci da <placeName ref="#Volterra">Volterra</placeName></persName>, e l'altra parte è di <persName ref="#PellegrinoTibaldi">Pellegrino detto da <placeName ref="#Bologne">Bologna</placeName></persName>. </p>
+                  <p>
+                     <objectName>Le Capelle collatarali</objectName> all'<objectName>altare maggiore</objectName> dipinte a fresco, sono di <persName ref="#GiovanniBattistaRicci">Giovan Battista da <reg><placeName ref="#Novare">Novara</placeName></reg></persName>. </p>
+                  <p> Il <objectName>calamento di Croce Pittura d'altare</objectName> ad olio di <persName ref="#GiorgioVasari">Giorgio Vasari</persName> scrittore delle <objectName>vite del li Pittori, Scultori, et Architetti</objectName>. La <objectName><persName ref="#Marie">Madonna</persName> di <placeName ref="#Loreto">Loreta</placeName></objectName> pittura di altare ad olio di <persName ref="#Caravage"><reg>Michelangelo</reg> da <placeName ref="#Caravaggio">Caravagio</placeName></persName>, li collatarali a fresco di <persName ref="#CristoforoCasolani"><reg>Cristofano</reg> Casolani</persName>. </p>
+                  <p> La <objectName><persName ref="#ApollineDAlexandrie">Sant'Apollonia</persName> Pittura di</objectName>
+                     <pb n="16"/> altare ad olio di <persName ref="#GirolamoMuziano"><reg>Geronimo</reg> Mutiani</persName> da <placeName ref="#Brescia">Brescia</placeName>. </p>
+                  <p> Il <objectName>Profeta nel Pelastro</objectName>, dipinto a secco, di <persName ref="#Raphael">Raffaello Santio</persName> fu guasto a tempo di <persName ref="#PaulIV">Paolo IV.</persName> volendolo lavare il Sacristano, e dopo ritoccato da <choice>
+                        <sic>Niello</sic>
+                        <corr>Daniello da Volterra</corr>
+                     </choice> detto <persName ref="#DanieleDaVolterra">Braghettone</persName> perché ricoperse l'osceno alle figure del giuditio del <persName ref="#MichelAnge"><reg>B</reg>onaruoti</persName> per ordine del detto <persName ref="#PaulIV">Pontefece</persName>, e consenso di esso <persName ref="#MichelAnge">Buonaroti</persName>. </p>
+                  <p> La <objectName><persName ref="#Marie">Madonna</persName> con <persName ref="#SainteAnne">Sant'Anna</persName>, et il <persName ref="#Jesus">Bambino</persName></objectName> di marmo sotto esso Profeta di mano di <persName ref="#JacopoSansovino">Giacomo Sansovino</persName>. </p>
+                  <p> La <objectName><persName ref="#Marie">Madonna</persName> con il Putto</objectName> in un Fondo rincontro al Profeta posta in alto ad olio in tavola di mano dell'<persName ref="#JacopoTorni">Indaco <pb n="17"/> Fiorentino</persName>, antico moderno. </p>
+                  <p> La <objectName><persName ref="#Marie">Madonna</persName> di marmo</objectName> in piede nel medesmo pelastro di <persName ref="#PaoloRomano">Paolo Romano</persName>, dicono. </p>
+                  <p> La <objectName><persName ref="#Marie">Madonna</persName> di marmo</objectName> nell'altare vicino la porta magiore del <persName ref="#JacopoSansovino">Sansovino</persName> giovene. <objectName>Le pitture a torno adessa</objectName> a fresco di <persName ref="#PolidoroDaCaravaggio"><reg>Polidoro</reg> da <placeName ref="#Caravaggio">Caravaggio</placeName></persName>. </p>
+               </div3>
+               <div3 xml:id="L1C1SC3" type="sous-chapitre">
+                  <head rend="it"><objectName>Sant'Aloigi della natione Francesa.</objectName></head>
+                  <p>
+                     <objectName>La pittura ad olio</objectName> dell'<objectName>altare primo</objectName>, entrando alla sinistra con <persName ref="#SaintSebastien">Santissimo Sebastiano</persName>, e due sante, di <persName ref="#GirolamoMassei"><reg>Geronimo</reg> Massei</persName> da <placeName ref="#Lucques">Lucca</placeName>. </p>
+                  <p>
+                     <objectName>La pittura ad olio</objectName> nell'<objectName>altare</objectName> della <objectName>seguente Capella</objectName> con <persName ref="#NicolasDeMyre">San Nicolò Vescovo</persName>, di <persName ref="#GirolamoMuziano"><reg>Geronimo</reg> Mutiani</persName>. </p>
+                  <p> Le pitture collatarali in essa </p>
+                  <pb n="18"/>
+                  <p>
+                     <objectName>Capella di <persName ref="#BaldassarreCroce">Baldassarino da <placeName ref="#Bologne">Bologna</placeName></persName></objectName>, et <persName ref="#GiovanniBattistaRicci">Giovan Battista da <placeName ref="#Novare">Novara</placeName></persName>, sono a fresco. </p>
+                  <p> La <objectName>Capella di <persName ref="#SaintMatthieu">San Matteo</persName></objectName> ultima in essa fila, dalla Cornice in su a fresco di <choice>
+                        <sic>Gioseppe Cesare</sic>
+                        <corr><persName ref="#GiuseppeCesari">Giuseppe Cesari</persName></corr>
+                     </choice> dell'abito di <persName ref="#SaintMichel">San Michele</persName>. Dalla Cornice a basso il tutto ad olio di <persName ref="#Caravage"> Michelangelo da Caravaggio</persName>. </p>
+                  <p>
+                     <objectName>La pittura dell'<objectName>altare magiore</objectName></objectName> ad olio con <objectName>l'Assunta della <persName ref="#Marie">Madonna</persName></objectName>, del <persName ref="#JacopoBassano">secondo Bassano</persName>. Le collaterali a fresco, di <persName ref="#CesareNebbia">Cesare Nebia</persName> da <placeName ref="#Orvieto">Orvieto</placeName>. </p>
+                  <p> La <objectName>pittura dell'<objectName>altare</objectName></objectName> alla sinistra della <objectName>Sacristia</objectName> ad olio con <persName ref="#SaintJeanBaptiste">San Giovanni Evangelista</persName> di <persName ref="#GiovanniBattistaNaldini">Battista Naldini Fiorentino</persName>. </p>
+                  <p>
+                     <objectName>La Capella di <persName ref="#SaintRemi">San Remigio</persName></objectName>, <pb n="19"/> la pittura dell'altare ad olio (dicono) di <persName ref="#JacopinoDelConte"><reg>Iacopino</reg> del Conte</persName>, l'istoria alla destra di <persName ref="#GirolamoSiciolante">Geronimo da <reg><placeName ref="#Sermoneta">Sermoneta</placeName></reg></persName>, il resto di <persName ref="#PellegrinoAretusi">Pellegrino da <placeName ref="#Modene">Modena</placeName></persName>, sono a fresco. </p>
+                  <p> La <objectName>Capella di <persName ref="#SainteCecile">Santa Cecilia</persName></objectName> la <objectName>pittura dell'<objectName>altare</objectName></objectName> ad olio con <persName ref="#SainteCecile">Santa Cecilia</persName>, è copia di <objectName>quella, che sta in <placeName ref="#Bologne">Bologna</placeName> di <persName ref="#Raphael">Raffaello Santio</persName></objectName>; le <objectName>pitture collaterali a fresco, e secco, di <persName ref="#Dominiquin">Domenichino</persName> da <placeName ref="#Bologne">Bologna</placeName></objectName>, il resto di essa Chiesa di diversi. </p>
+               </div3>
+               <div3 xml:id="L1C1SC4" type="sous-chapitre">
+                  <head rend="it"><objectName><persName ref="#SaintAntoineDePadoue">Sant'Antonio</persName> della natione Portughese.</objectName></head>
+                  <p> La pittura ad olio di esso Santo, che sta nell'<objectName>altare magiore</objectName>, l'altre dove è <persName ref="#SaintSebastien">San Sebastiano</persName> pitture di altari ad olio sono di <reg><persName ref="#MarcelloVenusti">Marcello Venusti</persName></reg>. </p>
+                  <pb n="20"/>
+                  <p> La <objectName><persName ref="#ElisabethDAragon">Sant'Elisabetta</persName> Regina di <placeName ref="#Portugal">Portugallo</placeName> pittura nell'<objectName>altare</objectName> alla destra del magiore</objectName> ad olio di <persName ref="#GaspareCelio">Gaspare Celio</persName> Romano dell'abito di <persName ref="#Jesus">Christo</persName>. Il quale abito lo pigliò in essa Chiesa l'anno <date when="1613">1613.</date> e vi fece la professione l'anno <date when="1614">1614</date>. Li fu concesso da <persName ref="#PhilippeIIIDEspagne">Filippo terzo</persName>, che sta in Cielo. </p>
+               </div3>
+               <div3 xml:id="L1C1SC5" type="sous-chapitre">
+                  <head rend="it"><objectName><persName ref="#SaintAndre">Sant'Andrea</persName> in la Valle.</objectName></head>
+                  <p> La <objectName>Tribuna</objectName> li peducci della <objectName>Cuppola</objectName> pitture sopra il muro a fresco, e secco di <persName ref="#Dominiquin">Domenichino</persName> da <placeName ref="#Bologne">Bologna</placeName>. </p>
+                  <p> La <objectName>Cuppola a fresco, e secco</objectName> del Cavalier <persName ref="#GiovanniLanfranco">Giovanni Lanfranco</persName>. </p>
+                  <p> La <objectName>Capella di <persName ref="#SaintMichel">San Michelangelo</persName></objectName> ad olio del Cavalier <persName ref="#CristoforoRoncalli"><reg>Cristofano Roncalli</reg></persName>, dalle <reg><placeName ref="#Pomarance">Pomarance</placeName></reg>. </p>
+                  <pb n="21"/>
+                  <p> La <objectName>pittura di <persName ref="#SaintSebastien">San Sebastiano</persName> in altare</objectName> ad olio, di <persName ref="#GiovanniDeVecchi"><reg>Giovanni</reg> de Vecchi</persName> dal <placeName ref="#Sansepolcro">Borgo</placeName>. </p>
+                  <p> La <objectName>Capella della Pietà</objectName> con le due <objectName>figure collatarali di bronzo</objectName>, sono copie dal <persName ref="#MichelAnge">Buonanoti</persName>. </p>
+                  <p> La <objectName>Capella</objectName> entrando in <objectName>Chiesa</objectName> alla sinistra <objectName>pittura ad olio</objectName> tutta, del <persName ref="#DomenicoCresti">Cavalier Domenico da <reg><placeName ref="#Passignano">Passignano</placeName></reg></persName>. </p>
+               </div3>
+               <div3 xml:id="L1C1SC6" type="sous-chapitre">
+                  <head rend="it">
+                     <objectName>Santi Apostoli.</objectName>
+                  </head>
+                  <p> La <objectName>Capella nella Nave di mezzo</objectName> a fresco, di <persName ref="#NicoloMartinelli">Nicolò</persName> da <placeName ref="#Pesaro">Pesaro</placeName>. </p>
+                  <p> La <objectName>pittura dell'<objectName>altare</objectName></objectName> ad olio con il <persName ref="#Jesus">Cristo</persName> morto, è di <persName ref="#GirolamoSiciolante"><reg>Geronimo</reg> di <placeName ref="#Sermoneta">Sermoneta</placeName></persName>. </p>
+                  <p> II <objectName><persName ref="#SaintFrancois">San Francesco</persName></objectName> dalla destra dell'<objectName>altare magiore</objectName> sopra il muro, di <persName ref="#GirolamoMuziano">Geronimo Mutiani</persName>. </p>
+                  <pb n="22"/>
+                  <p> La <objectName>Tribuna </objectName>a fresco con il <persName ref="#Jesus">Christo</persName>, che va in Cielo, e suoi Apostoli di <persName>Domenico Botticello</persName> Fiorentino, antico moderno. </p>
+                  <p> La <objectName>pittura dell'<objectName>altare</objectName> ad olio </objectName>con <persName ref="#SaintJean">San Giovanni</persName> nella caldara di <persName ref="#MarcoPino">Marco da <placeName ref="#Sienne">Siena</placeName></persName>. </p>
+               </div3>
+               <div3 xml:id="L1C1SC7" type="sous-chapitre">
+                  <head rend="it"><objectName><persName ref="#SaintAndre">Sant'Andrea</persName> delle fratte.</objectName></head>
+                  <p> La <objectName>pittura di <objectName>altare</objectName></objectName> con la <persName ref="#Marie">Madonna</persName>, <persName ref="#SaintFrancois">Santi Francesco</persName> et <persName ref="#SainteHelene">Elena</persName>, di <persName ref="#GirolamoMassei">Geronimo <reg>Massei</reg></persName>. </p>
+                  <p> La <objectName>pittura del <persName ref="#SaintAndre">Sant'Andrea</persName></objectName> ad olio in alto sopra la Custodia, del Cavalier <persName ref="#CristoforoRoncalli">Christofaro <reg>Roncalli</reg></persName>, il resto diversi. </p>
+               </div3>
+               <div3 xml:id="L1C1SC8" type="sous-chapitre">
+                  <head rend="it">
+                     <objectName><persName ref="#SaintAntoine">Sant'Antonio</persName></objectName> vicino a <objectName><persName ref="#Marie">Santa Maria</persName>
+                        <persName ref="#Maggiore">Maggiore</persName></objectName>, edificato con le sue entrate dal <persName ref="#PietroCapocci">Cardinal Capotio</persName> Romano. </head>
+                  <p> Alcuni chiari, oscuri sopra cuperti <pb n="23"/> dell'<objectName>altare</objectName> collaterali al <objectName>magiore</objectName>. La <objectName>pittura</objectName> di esso <objectName>altare</objectName> con <persName ref="#Jesus">Christo</persName> in Croce ad olio, et le <objectName>pitture in fresco</objectName> dalla Cornice a basso, dove sta il <persName ref="#SaintAntoine">Sant'Antonio</persName> di relevo, sono di <persName ref="#NiccoloCircignani"><reg>Nicola dalle Pomerance</reg></persName>, tutto <objectName>il resto delle pitture ad olio et a fresco</objectName> di <objectName>essa Chiesa</objectName>, di <persName ref="#GiovanniBattistaDellaMarca">Giovan Battista della Marca</persName>. </p>
+               </div3>
+               <div3 xml:id="L1C1SC9" type="sous-chapitre">
+                  <head rend="it"><objectName><persName ref="#SaintApollinaire">Sant'Apollinare </persName>del Colleggio Germanico.</objectName></head>
+                  <p> La <objectName>pittura a fresco a torno la <objectName>Chiesa</objectName></objectName>, atti del Santo, di <persName ref="#NiccoloCircignani"><reg>Nicola dalle Pomerance</reg></persName>. </p>
+                  <p> La pittura dell'altare con mezze figure ad olio di <persName ref="#AlbertiDurante">Durante dal <placeName ref="#Sansepolcro">Borgo</placeName></persName>. </p>
+               </div3>
+               <div3 xml:id="L1C1SC10" type="sous-chapitre">
+                  <head rend="it"><objectName><persName ref="#SaintAthanase">Sant'Atanasio</persName>, Chiesa del Colleggio Greco.</objectName></head>
+                  <p> Le <objectName>pitture a fresco</objectName> nelle <pb n="24"/>
+                     <objectName>due Capelle Collaterali</objectName>, in una <objectName><persName ref="#Jesus">Christo</persName> in Croce</objectName>, nell'altra l'<objectName>Assunta della <persName ref="#Marie">Madonna</persName> con li Apostoli</objectName>, del Cavalier <persName ref="#GiuseppeCesari"><reg>Giuseppe Cesari</reg> d'<placeName ref="#Arpino">Arpino</placeName>.</persName>
+                  </p>
+                  <p>
+                     <objectName>L'altre due Collaterali</objectName>, entrando, a fresco; pitture d'altare, in una il <objectName><persName ref="#Jesus">Christo</persName> che disputa con li Sacerdoti</objectName>, nell'altra <objectName>l'Annunciatione</objectName>, le pitture ad olio nella fronte dell'altare <persName ref="#Maggiore">Maggiore</persName>, sono del <persName ref="#FrancescoTraballesi">Trabaldese</persName>. L'architettura della Chiesa è di <persName>Ottaviano Mascanni</persName> Bolognese. </p>
+               </div3>
+               <div3 xml:id="L1C1SC11" type="sous-chapitre">
+                  <head rend="it">
+                     <objectName>L'Annuntiata del Colleggio Romano.</objectName>
+                  </head>
+                  <p> L'<persName ref="#Adam">Adamo</persName>, et Eua nelli triagoli dell'arco a fresco, di Tadeo Zuccari. La Tribona, et il di sotto, a fresco, dipinti da <pb n="25"/> Federico suo featello.</p>
+               </div3>
+            </div2>
+            <div2 xml:id="L1C2" type="chapitre" n="2">
+               <head>B.</head>
+               <div3 xml:id="L1C2SC1" type="sous-chapitre">
+                  <head rend="it">S. Barrolomeo in S. Mauto della natione Bergamasca.</head>
+                  <p> La pittura del l'Altare maggiore ad olio di Dorante del Borgo. </p>
+                  <p> Il S. Giovanne decollato pittura di altare ad olio di <persName ref="#JulesCesar">Cesare</persName> Nobia. </p>
+                  <p> Il deposito rincontro con testa di marmò di Giulio Moretti. Romano. </p>
+               </div3>
+               <div3 xml:id="L1C2SC2" type="sous-chapitre">
+                  <head rend="it"> S. Bartotomeo. delli Vaccinari nella Regola. </head>
+                  <p> La pittura ad olio nell 'Altare <persName ref="#Maggiore">Maggiore</persName> con il martiririo di esso Santo, di Giovanni de Vèchi nle collaterali à ftèsco di Nicolao delle Pomerancie. Il.S. Stefano lapidato <pb n="26"/> pitture d'altare ad olio di Fracesco Ragusa Romano. </p>
+               </div3>
+               <div3 xml:id="L1C2SC3" type="sous-chapitre">
+                  <head rend="it">S. Bernardo nelle Terme. Diocletiane.</head>
+                  <p> Le pitture adoljo delli doi altari collaterali di Tomaso Laureti, li SS. a torno di stucco di Camillo Vicentino, e Francesco Mahoi suo discepolo. La Chiesa, e parte delle terme,</p>
+               </div3>
+            </div2>
+            <div2 xml:id="L1C3" type="chapitre" n="3">
+               <head>C</head>
+               <div3 xml:id="L1C3SC1" type="sous-chapitre">
+                  <head rend="it">S. Caterina alli Funari.</head>
+                  <p> La pittura ad olio dell'altare alla destra entrando con S. Margarita di Anibali Carazzi Bolognese. </p>
+                  <p> La Cappella seguente pittur ad olio con il <persName ref="#Jesus">Christo</persName> morto; e suoi atti, di Geronimo Mutiani. L'arco con suoi <pb n="27"/> pilastri ad olio in essa Capella, le historie collaterali all'al tare <persName ref="#Maggiore">Maggiore</persName> a fresco di <persName ref="#FedericoZuccaro">Federico Zuccari</persName>. Li, putti sdtto esse di <persName ref="#Raphael">Raffaello</persName> da Regio. </p>
+                  <p> La pittura di esso altare maggiore ad'olio di Marco di <placeName ref="#Sienne">Siena</placeName>. </p>
+                  <p> Il Santo Giovanne Battista ad'olio, pittura di altare di <persName ref="#MarcelloVenusti">Marcello <reg>Venusti</reg></persName>. </p>
+                  <p> La pittura dell'altare incontro, di <persName ref="#ScipionAfricain">Scipione</persName> Caetands </p>
+               </div3>
+               <div3 xml:id="L1C3SC2" type="sous-chapitre">
+                  <head rend="it">S. Carlo alli Cattinari.</head>
+                  <p> Le pitture delli quattro pe ducci della cupola a fresco, e secco, di <persName ref="#Dominiquin">Domenichino</persName>, daBologha. </p>
+               </div3>
+            </div2>
+            <div2 xml:id="L1C4" type="chapitre" n="4">
+               <head>D</head>
+            </div2>
+            <div2 xml:id="L1C5" type="chapitre" n="5">
+               <head>E</head>
+               <div3 xml:id="L1C5SC1" type="sous-chapitre">
+                  <head rend="it">S. Eustaquio alla Dogana.</head>
+                  <pb n="28"/>
+                  <p> Le pitture della Tribuna à fresco di Pellegrino di Modena. </p>
+                  <p> Li doi <persName ref="#Santi">Santi</persName> collaterali neb l'altare vicino la porta piccola, di Baldassare di <placeName ref="#Sienne">Siena</placeName>, sono a fresco. </p>
+               </div3>
+            </div2>
+            <div2 xml:id="L1C6" type="chapitre" n="6">
+               <head>F</head>
+               <div3 xml:id="L1C6SC1" type="sous-chapitre">
+                  <head rend="it"><persName ref="#SaintFrancois">S. Francesco</persName> a <persName ref="#CesareRipa">Ripa</persName> grande.</head>
+                  <p>La Pietâ ad'olio, pittura d'Altare d'Anibale Carazzi, vi è la Pietà.</p>
+                  <p>La <persName ref="#Marie">Madonna</persName> con S. Anna, et il. Cristarello, pittura di altare ad olio, nella Cappella della Cetera, del Cavalier Gasparo Celio. </p>
+                  <p> La pittura a fresco a tornò la Chiesa, del Cavallino Romano antica moderna di 300. anmi, il resto diversi. </p>
+               </div3>
+               <div3 xml:id="L1C6SC2" type="sous-chapitre">
+                  <pb n="29"/>
+                  <head rend="it">
+                     <persName ref="#SaintFrancois">S. Francesco</persName> delli mendicanti al Fontanone in capo a strada Giulia.</head>
+                  <p> La pittura dell'altare maggiore ad'olio, con il Santo, che riceve le stimate, e Sisto Quinto, del Cavalier Gaspare Celio. </p>
+               </div3>
+            </div2>
+            <div2 xml:id="L1C7" n="7" type="chapitre">
+               <div3 xml:id="L1C7SC1" type="sous-chapitre">
+                  <head rend="it"> S. Giovanne in Laterano, nel monte Celio. </head>
+                  <p> L'Assuntione di <persName ref="#Jesus">Christo</persName> so pra il frontespitio del Santiss. Sacramento con li Apostoli, fatta a fresco, li doi <persName ref="#Santi">Santi</persName> Gio uanni, pittura dell'altare del Coro ad olio, del Cavalier Gioseppe Cesari. le istorie, che sono attorno, il Carro con il <persName ref="#Constantin">Costantino</persName> del fratello Bellardino. </p>
+                  <pb n="30"/>
+                  <p> L apparitionè del Saluatore, quella del monte Sorate, quella incontro il battesimo, di <placeName ref="#Paris">Paris</placeName> Romano. </p>
+                  <p> Il Battesimo di <persName ref="#Constantin">Costantino</persName>, del Cavalier Cristofaro Rancelli. La incontro vicino a quella di <placeName ref="#Paris">Paris</placeName> di Giovan Battista da <placeName ref="#Novare">Novara</placeName>. La rincontro all'apparitione del Saluatore di <persName ref="#JulesCesar">Cesare</persName> Nebia, il restante di esse pitture delli medenin, lous tutte a freles. La sopra intendenza fu del Cavalier Gioseppe <persName ref="#JulesCesar">Cesare</persName> d' Arpino. </p>
+                  <p> L'Annuntiata alla destra dell'altare magiore pittura di altare ad'olio è copià di una, che vi era gia fatta da <persName ref="#MarcelloVenusti">Marcello <reg>Venusti</reg></persName> con il disegno di Buonaruoti. </p>
+                  <pb n="31"/>
+                  <p> II <persName ref="#SaintFrancois">S. Francesco</persName> pittura di altare ad olio di Tomaso Laureti. </p>
+                  <p> La <persName ref="#Marie">S. Maria</persName>
+                     <persName ref="#MarieMadeleine">Madalena</persName> pitsura di astare ad olio, con il Papa dell'altra parte, di <persName ref="#ScipionAfricain">Scipione</persName> Caietano. </p>
+                  <p> La pittura del Crocefisso, pittura d'altare ad olio denro una Capella, di Gerohymo da Sermoneta. </p>
+                  <p> La pittura nel muro sotto la soffitta a torno la Chiesa del <persName ref="#Pisanello">Pisanello</persName>, et altri Fiorentini antichi moderni. </p>
+                  <p> Il fondo di Metallo con li Cadaveri, e testa vicino allas porta (deposito) del Giacomo del Duca discepolo del Buonaruoti. </p>
+                  <p> La volta della Sacristia à <pb n="32"/> fresco con prospettive, di Giovanni di Berto dal Borgo. </p>
+               </div3>
+               <div3 xml:id="L1C7SC2" type="sous-chapitre">
+                  <head rend="it">
+                     <persName ref="#SaintJean">S. Giovanni</persName>, e Paolo in monte Deliv. </head>
+                  <p> Li dui <persName ref="#Santi">Santi</persName> a fresco nel suo altare di <placeName ref="#Paris">Paris</placeName> Romano. </p>
+               </div3>
+               <div3 xml:id="L1C7SC3" type="sous-chapitre">
+                  <head rend="it"> S. Gregorio nel monte Celio, ove è la Chiesa di S. Andrea edificata dal S. nelle proprie Case. </head>
+                  <p> La pittura del Santo in altare ad olio di Anibale Carazzi l'altro altare ad olio del Cavalier Cristofaro Rancalli. </p>
+                  <p> Le pitture a fresco dove si dà a mangiare alli poveri, di Antonio Sardo da Vrbino. </p>
+               </div3>
+               <div3 xml:id="L1C7SC4" type="sous-chapitre">
+                  <head rend="it">S. Giacomo della natione Spagnuola. </head>
+                  <p> La pittura dell'altare magiore ad blio con il <persName ref="#Jesus">Christo</persName>
+                     <pb n="33"/> in croce, sdi Geronymo da Sarmoneta. </p>
+                  <p> Le pitture collaterali a torno la Capella di S. Giacomo a fresco, di Pellegrino daModena. Il suo S. di marmo del Sansuino giovene, le pitture furno guaste con pretesto di rinovarlo. Il che è errore gradissimo. </p>
+                  <p> La pittura dell altare conS. Diego ad olio, le quelle à fresco dalla Cornice an su sono di mano di Anibale Carazzi da <placeName ref="#Bologne">Bologna</placeName>. Il resto d'abbasso suo disegno, colorite dalli suoi discepoli, li stucchi di Ambrogino Milanese. </p>
+                  <p> La pittura ad olio in tavola appesa in alto con li doi 85. </p>
+                  <pb n="34"/>
+                  <p> Giacomi, e S. Michole, di <persName ref="#MarcelloVenusti">Marcello <reg>Venusti</reg></persName>. </p>
+                  <p> La pittura della <persName ref="#Marie">Madonna</persName>, assunta all'altare, alla destra entrando, di Francesco da <placeName ref="#CittaDiCastello">Castello</placeName> Fiamengo: quelle di sopra a fresco nella volta, di Pierino del <persName ref="#PietroBuonaccorsi">Vago</persName>. </p>
+                  <p> La pittura ad'olio con la resurettione di <persName ref="#Jesus">Christo</persName> in altare, con le collaterali a fresco, di <persName ref="#JulesCesar">Cesare</persName> Nebia: Quella nella sua volta a fresco, diBaldassarino da <placeName ref="#Bologne">Bologna</placeName>. </p>
+                  <p> La <persName ref="#Marie">Madonna</persName> ad olio, copia nel gesto di quella del Popo10, del fattor buono. </p>
+                  <p> La pittura, è stucchid'altare ad olio con SS. Pietro ePauòlo, il resto a fresoo, di Giulio Piacentinò. La testa di marmo <pb n="35"/> nel deposito allà destra della Sacristia, del Cavalier Lorenzo Bernino. </p>
+               </div3>
+               <div3 xml:id="L1C7SC5" type="sous-chapitre">
+                  <head rend="it"> S. Geronimo in strada Giulia. </head>
+                  <p> La pittura dell altare magiore ad olio con il Santo, cho si communica di <persName ref="#Dominiquin">Domenichino</persName> da <placeName ref="#Bologne">Bologna</placeName>. </p>
+               </div3>
+               <div3 xml:id="L1C7SC6" type="sous-chapitre">
+                  <head rend="it"> S. Geronimo in Ripetta. </head>
+                  <p> La pittura di mezzo in Capo al Coro a frosco di Antonio Sordo. IbS. Geronimò in mezzò la volta a fresco di <placeName ref="#Paris">Paris</placeName> Romano, le lunette collaterali di Auanzino: il resto di uersi. L'architettura di essa Chiesa di Giovanni Eontana da Meli. </p>
+               </div3>
+               <div3 xml:id="L1C7SC7" type="sous-chapitre">
+                  <head rend="it"> S. Giacomo dell Iucurubili nella via Flaminia, hoggi il Corso..</head>
+                  <pb n="36"/>
+                  <p> La pitturà dell'altare magioro, il. <persName ref="#Dieu">Dio</persName> Padre a fresco nella volta di Giovan Battista. da <placeName ref="#Novare">Novara</placeName>. La Tribona inuem tione del medessmo, colorita da Francesco Nappli, et altri. </p>
+                  <p> La pittura dell'altare nella Capella alla destra del magio re, con la <persName ref="#Marie">Madonna</persName>, e Pastori ad olio, di Anteveduto Gramatica Romand. </p>
+                  <p> La pittura. nell'altare rincontro con il battesimo di <persName ref="#Jesus">Christo</persName> ad olio, del Cavalier Domenico da Passignano. </p>
+                  <p> Li Angeli dipinti a fresco à torno la <persName ref="#Marie">Madonna</persName> con il di sotto di <placeName ref="#Paris">Paris</placeName> Romano. </p>
+                  <p> La pittura ad olio nellia) tare seguente con il <persName ref="#Jesus">Christo</persName> che risuscita. del Cavalier Raccalli. </p>
+                  <pb n="37"/>
+                  <p> La pittura delli altare rincontro conda <persName ref="#Marie">Madonna</persName>, ehia Glacomo ad olid di Erancoscol Zucca. </p>
+                  <p> IIS. Giacomo di marmo è copia di quello di Sansouinos di mano di Ipolitino Milanese. </p>
+               </div3>
+               <div3 xml:id="L1C7SC8" type="sous-chapitre">
+                  <head rend="it"> S. Giovanne della natione Fiorentina in strada Giulia nel la ripa del Tevere. </head>
+                  <p> La pittura dell'altare nalla Capella di <persName ref="#SaintFrancois">S. Francesco</persName> con IIS. che riceve le stimmate, del Bronzino, le pitture a fresco in essa di Nicolao delle Pomeranie. </p>
+                  <p> La pittura dell'altare nella Capella di S. Geronimo con essoSanto, di <persName ref="#Santi">Santi</persName> di Tito Fiorentino, dalla destra sua de <pb n="38"/> Cavalier Passignano, dalla sinistra di Ludouico da Civoli. Le pitture della Capella di S. Antonio Abate, di Antonio Tempesta, il resto diversi Fiorentim. </p>
+               </div3>
+               <div3 xml:id="L1C7SC9" type="sous-chapitre">
+                  <head rend="it"> S. Giovanne Decollato della natione Fiorentina presso il foro Boario. </head>
+                  <p> La pittura dell'altare magiore ad olio di <persName ref="#GiorgioVasari">Giorgio Vasari</persName>, la Capella alla destra di Giacomo Zucca? Nel suo ora torio la Natività del S. Glovanne. La Visitatione di S. Elisabettà pitture a fresco, di Cechino del Saluiati Fiorenno. Il resto diversi altri Biorentini; il giorno della sua fe sta si suole adornare con pitcure di vatiali artofici. </p>
+               </div3>
+               <pb n="39"/>
+               <div3 xml:id="L1C7SC10" type="sous-chapitre">
+                  <head rend="it"> l Giesu vella Piaxza devi Altieri. </head>
+                  <p> La pittura ad olio nelPaltare magiore con la circoncisione di <persName ref="#Jesus">Christo</persName>, di Geronimo Mutiani. </p>
+                  <p> La pittura ad olio, della Cornice in giùm, con le ationi della <persName ref="#Marie">Madonna</persName>, T'architettura d'essa Capella, del Molto R. Patre Gioscppe Valeriano de ll'Aquila, della Compagnia del Giesu. </p>
+                  <p> La pittura a fresco dallacoruice in su don Angioli, disegno di esso Pudre, depinti da Glovan Dattista Pozzi das <placeName ref="#Milan">Milano</placeName>. </p>
+                  <p> La pittura nella Capelladi S. Frantesoo, della cornicè a basso, di diversi Fiamenghs <pb n="40"/> li suorpaesi di Paolo Brillo, quella del suo altare di <persName ref="#AlbertiDurante">Durante dal Borgo</persName>, sono ad'olio. Della cornice in su sono à fresco di Baldassarino da <placeName ref="#Bologne">Bologna</placeName>. </p>
+                  <p> La pittura delli martirizzati in India collatarale all'altare ad olio, del Cavalier Gioseppe Cesari, </p>
+                  <p> Li quattro Dottori nelli peducci della Cupola, diGiovanne de Vecchi, il resto in essa Cupola, suo disegno de pinto da diversi, sono a fresoo </p>
+                  <p> La pittura, nella Capella dell'Angioli tutts a fresco di <persName ref="#FedericoZuccaro">Federico Zuccari</persName>, quella del suo altare ad olio era fua, mà fu guasta dal Cavalier Passignam. </p>
+                  <pb n="41"/>
+                  <p> 41 La pittura della Capella della Passione di <persName ref="#Jesus">Christo</persName>, della cornice in su a fresco, e dal la cornice a basso ad olio di, Gaspare Celio dell abito di <persName ref="#Jesus">Christo</persName> Romano, la pittura. del suo altare di <persName ref="#ScipionAfricain">Scipione</persName> Caetano, vi è la Pietà ad'olio. </p>
+                  <p> La pittura della Capella seguente con li atti di S. Andrea tutta da mano di Agostino Ciampelli Fiorentino. </p>
+                  <p> Lâ pittura della Capellaincontro di SS. Pietro e Pao lo, l'altra contigua della Natività di <persName ref="#Jesus">Christo</persName>, sono a fre sco, di Nicolao dalle Pomaranie. La pittura del sub altare con il Presepio di N. Pla mengo. </p>
+                  <p> Capella. Le pitture della <pb n="42"/> seguentè dalla cornice a basso, et il tondo nella volta con la creatione, sono a fresco, e secço, del Fratello Giovam Battista Fiammeri della Compamia di Giesu. Il resto della gornice in su di Ventura Sallinbeni Senese, la pittura del suo altare ad olio, è del secondo Bassano. </p>
+                  <p> Le pitture sopra le porte dalla parte di dietro di N. N. Fiamenghi fratelli della Conpagnia di Giesu. </p>
+                  <p> La pianta di essa Cliesa con l'alzato delle Capelle,è architettura del Vignola. La facciata con il resto dellalzato, di <persName ref="#GiovanniGiacomoDellaPorta">Giacomo della Porta</persName> Romano. </p>
+               </div3>
+               <pb n="43"/>
+               <div3 xml:id="L1C7SC11" type="sous-chapitre">
+                  <head rend="it"> S. Honofrio nella Porta del Monte Aureo verso il Vatticano. </head>
+                  <p> La Cappella della <persName ref="#Marie">Madonna</persName> del Loreta, pittura di altare ad olio, di Anibale Cattozzi, il resto a fresco di Giovan Battista da <placeName ref="#Novare">Novara</placeName>. </p>
+                  <p> Le pitture della Cappella rincontro, ancorche moderne, sono del Pinturechio Fiorentino, con quellè dell altare maggiore, daiie ee bassque quelle dalla cornice in su, erano di Baldassare di Sie na, ma sono state guaste, con preresto di rinfreseatle, cosa pernitiosissima. </p>
+                  <p> Il suo claustro a fresco, di Vespasiavo dello Spagnuolo Romane </p>
+               </div3>
+            </div2>
+            <pb n="44"/>
+            <div2 xml:id="L1C8" type="chapitre" n="8">
+               <head> L </head>
+               <div3 xml:id="L1C8SC1" type="sous-chapitre">
+                  <head rend="it"><persName ref="#SaintLaurent">S. Lorenzo</persName> contiguo alla Cancellaria. </head>
+                  <p> La pittura ad olio dell'al tare ma, giore con la coronatione della <persName ref="#Marie">Madonna</persName> di sopra, e di a basso SS. Damaso, e Laurenzo con il suo martirio, di <persName ref="#FedericoZuccaro">Federico Zuccari</persName>. </p>
+                  <p> La pittura sotto la zuffitta, alla sinistra dell'altar maggiore, attioni del Santo, del Cava lier Gioseppe Cesari, La sua rincontro di Nicolao delle Pmerancie. </p>
+                  <p> La facciata da piedi doveè il Santo sopra la craticola vi Giovanne de Vechi, sono tutte a fresco. </p>
+               </div3>
+               <div3 xml:id="L1C8SC2" type="sous-chapitre">
+                  <head rend="it"><persName ref="#SaintLaurent">S. Lorenzo</persName> in Panis nel Colle Viminale. </head>
+                  <pb n="45"/>
+                  <p> La pittura nella facciata dell'altare maggiore con il Martirio del Santo a fresco di Pasqualo Cati Marchegiano.</p>
+               </div3>
+            </div2>
+            <div2 xml:id="L1C9" type="chapitre" n="9">
+               <head>M</head>
+               <div3 xml:id="L1C9SC1" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> del Popolo vicino la Porta Flaminia.</head>
+                  <p> Il Musaico della cupola della Cappella della Natività della <persName ref="#Marie">Madonna</persName>, L'architettura di essa Cappella, di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName> da Vrbino. </p>
+                  <p> Le pitture del freglo sotto essa cuppola con le attioni di <persName ref="#Adam">Adamo</persName>, quelle delle quattro tondi nelli peducci con le quattro stagioni, le due feminè nelvano di mezzo, dove è la Natività. Iuna con una zaina, Paltra con un vaso, sono ad olio di Cechino del Sal uiati <pb n="46"/> uiati, il resto in essa pittura dell'altare, è di Fra Bastiano del Piombo. Le duc statue, l'una di <persName ref="#Jonas">Giona</persName>, l'altra di Santh Matteo con un mezzo rilevo di bronzo, sono del Laurenzetti Fiorentino. </p>
+                  <p> La pittura del <persName ref="#Jesus">Christo</persName>, che si porta a sepelire in altare ad olio, di Giacopino del Con te. </p>
+                  <p> La pittura della Cappella, che siegue con li suoi stucchi, e statua di S.Gaterina della ruota, di Giulio Piacentino, discepolo di Pierino del Va </p>
+                  <p> Le pitture dell'altare della Cappella, che segue, et la parte di sopra, la prima ad'olios la seconda a freesco, di Anibale <pb n="47"/> le Carazzi. Li due quadri ad olio collaterali con le attioni di S. Paolo, di <persName ref="#MichelAnge">Michelangelo</persName> da Caravagio, quelle dellasua volta a fresco di Giovan Battista da Norara. </p>
+                  <p> Le pitture del Choro, quelle della cupola, le tre Cappelle, tutte antiche moderne del Pinturechio Fiorentino. </p>
+               </div3>
+               <div3 xml:id="L1C9SC2" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> dell'Anima della natione Germanica vicina al Circo Agone.</head>
+                  <p> Le pitture della Cappella della Pietà ad'olio, et a fresco, sono di Cechino del Saluiati, e vicino la porta contigua il. S. Cristoforo a fresco, del Fattor buono Fiorentino. </p>
+                  <p> La picoura a frosco a tar <pb n="48"/> no la sepultura di Adriano <persName ref="#CesareDaSesto">Sesto</persName>, di Baldassare da <placeName ref="#Sienne">Siena</placeName>. </p>
+                  <p> La pittura dell'altare àlla destra entrando con la Madon maio SS. Marco, e Rocco, di <persName ref="#GiulioRomano">Giulio Romano</persName>, è ad olio, le sue collaterali a fresco, di Ge tonymo da Sarmoneta. Quella di Giulio la guastò il fiume quando inondò, sotto Cle monte Ottavo, se doppo non solo racconciorono il guasto, ma guastoronò quello, chenon hauèua tocco il fiumLe altre pitture in essa Chiesa di. diversi. L'architettura delli sangalli. </p>
+               </div3>
+               <div3 xml:id="L1C9SC3" type="sous-chapitre">
+                  <head rend="it"> S. Maria della Pace.</head>
+                  <p> LAngioli, e Putemi delle pitture nella facciata alla destua entrando, sond di Raffae <pb n="49"/> lo <persName ref="#Raphael">Santio</persName> da Vrbino. Li Profeti, e <persName ref="#Sibylle">Sibille</persName> sonq di N. da Vr bino, di mano del quale sono li cartoni di esse <persName ref="#Sibylle">Sibille</persName> nella guarda robba di Vrbino. </p>
+                  <p> Le pitture della Cappella incontro, sono di Baldassare da <placeName ref="#Sienne">Siena</placeName>, sono a fresco. </p>
+                  <p> La pittura dell'Altare con l'Annuntiata, di <persName ref="#MarcelloVenusti">Marcello <reg>Venusti</reg></persName>, disegno del Buona ruoti, è ad'olio, sopra l'arco di fuori essa Cappella a fresco vi è <persName ref="#Adam">Adamo</persName>, et Eua con il ser pente, sono del <persName ref="#RossoFiorentino">Rosso</persName> Fiorentino, le sculture di N. N. Fiorentini. </p>
+                  <p> La pittura in altare ad'olio con S. Giovanne Euangelista del Cavalier Gioseppe Cesari. </p>
+                  <pb n="50"/>
+                  <p> Quella dell'altane vicino con il battesimo di <persName ref="#Jesus">Christo</persName>, di Oratio <persName ref="#ArtemisiaGentileschi">Gentileschi</persName> Pisano, è ad'olio. </p>
+                  <p> La pittura a fresco a torno la porta piccola, di Cechino del Saluiati. </p>
+                  <p> La pittura a fresco, a torno, e sotto all'organo, di <persName ref="#GiorgioVasari">Giorgio Vasari</persName>. </p>
+                  <p> Quella della Visitatione, sotto la cornice della cupola, di Baldassare di <placeName ref="#Sienne">Siena</placeName>. Laltare diversi. </p>
+                  <p> Le pitture a torno la <persName ref="#Marie">Madonna</persName> della destra del Cavalier Pisignano, l'altra di <persName ref="#LaviniaFontana">Lavinia Fontana</persName>, di fuora sopra l'arco, dell'Albano, il resto di uersi. </p>
+                  <p> L'architettura del claustre, <pb n="51"/> e restauratura di essa Chiesa, di Antonio S. Gallo. </p>
+               </div3>
+               <div3 xml:id="L1C9SC4" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> in Vallicella presso la via dell orefeci, detto il Pellegrino. </head>
+                  <p> La pittura ad olio nell'al tare in la Cappella prima entrando alla destra, con il Chri sto in Croce, con SSS. Maria, Giovanne, e Maria <persName ref="#MarieMadeleine">Madalena</persName>, di <persName ref="#ScipionAfricain">Scipione</persName> Caetano. </p>
+                  <p> La pittura di Altare con il <persName ref="#Jesus">Christo</persName> morto ad olio, di Mi chelangelo da <persName ref="#Caravage">Caravaggio</persName>. di <persName ref="#ScipionAfricain">Scipione</persName> Caetano. </p>
+                  <p> Il <persName ref="#Jesus">Christo</persName>, che và in Cielo, pittura ad'olio d'altare, entramdo a man sinistra, con quelle della sua volta a fresco, la Co ronatione della <persName ref="#Marie">Madonna</persName>, pit tura d'Altare vicino alla Sacristia, sono del Cavalier Gio <pb n="52"/> seppe Cesari, et incontro. </p>
+                  <p> La presentatione della Ma donna al tempio, pittura d'altare ad'olio, et la visitatione di Santa Elisabetta, pittura di altare ad'olio, sono di Federi co Barocci da Vrbino. </p>
+                  <p> Pittura di altare con la Na tività di <persName ref="#Jesus">Christo</persName> ad'olio, di <persName ref="#AlbertiDurante">Durante</persName> del Borgo. </p>
+                  <p> Le due pitture a fresco sot to la cornice della cupola con li Padri Eterni, di <placeName ref="#Paris">Paris</placeName> Romano. </p>
+                  <p> Il S. Filippo nella sua Cappella ad'olio, di Guidoireni da <placeName ref="#Bologne">Bologna</placeName>. </p>
+                  <p> La pittura dell'Altare <persName ref="#Maggiore">Maggiore</persName> ad'olio di N. Alemano. </p>
+               </div3>
+               <div3 xml:id="L1C9SC5" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> della Nanicella nelMonte Celio.</head>
+                  <pb n="53"/>
+                  <p> Le pitture in fogia di fregio sotto la soffitta con alcuni leoni, di <persName ref="#GiulioRomano">Giulio Romano</persName>, e Pierino del <persName ref="#PietroBuonaccorsi">Vago</persName>. La restauratione di essa. Chiesa di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName>. </p>
+               </div3>
+               <div3 xml:id="L1C9SC6" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> della Consolatione al piede della rupe Tarpeia.</head>
+                  <p> Le pitture della Cappella prima entrando alla destra a, fresco, con li atti della passione di <persName ref="#Jesus">Christo</persName>, di Tadeo Zuccari. Il resto di diversi. L'architettura di Martino Longo. </p>
+               </div3>
+               <div3 xml:id="L1C9SC7" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> in via lata, hoggi del Corso. </head>
+                  <p> La pittura a fresco nellaTribuna con l'Assuntione della <persName ref="#Marie">Madonna</persName>, disegno di Da <pb n="54"/> niello Valterra, colorita da suoi discepoli. La pittura ad olio nell'altare sotterraneo, con li tre <persName ref="#Santi">Santi</persName>, del Cavalier Gaspare Celio. </p>
+               </div3>
+               <div3 xml:id="L1C9SC8" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> in Araceli nel Monte Capitolino.</head>
+                  <p> La volta del Choro a fresco, la volta della Cappella di S. Antonio da <placeName ref="#Padoue">Padova</placeName> a sec co, di Nicolo da <placeName ref="#Pesaro">Pesaro</placeName>. </p>
+                  <p> utte le pirture delle Capelle di S. Matteo. IlS. Paolo, pitturà di altare in altra Capella. Il <persName ref="#Jesus">Christo</persName>, gli Apostoli, pittura di altare, sono ad olio, di Geronymo Mutiani. </p>
+                  <p> Le pitture della Cappella di S. Geronymo ad olio, e fresco, di Giovanni de Vechi, insieme con il Santo Diego, <pb n="55"/> in altro altare ad olio. </p>
+                  <p> La Pietà, pittura di altare ad olio, di <persName ref="#MarcoPino">Marco da Siena</persName>. Le pitture in essa Cappella a fresco, e le altre a fresco nella Cappella di S. Paolo, sono del Cavalier Cristofaro Rancelli. </p>
+                  <p> Le pitture nella Cappella di S. Belardino a fresco, sono del Pinturechino antico moderno. </p>
+                  <p> La testa di <persName ref="#Jesus">Christo</persName> ad olio in un deposito in un Pilastro, del Gavalier Giuseppe Cesarit Li metalli sono di Giacomo Laurenziani Romano. </p>
+               </div3>
+               <div3 xml:id="L1C9SC9" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> delli Monti.</head>
+                  <p> La pittura della Cappella nella sinistra entrando, di Du rante del Borgo. </p>
+                  <p> Le pitture ad olio nella <pb n="56"/> Cappeila della Natività di <persName ref="#Jesus">Christo</persName>, di Geronymo Mutiani. </p>
+                  <p> Le pitture della volta di essa Chiesa a fresco, di Cristofaro Casolani. Quelle della cupola diversi. L'architettura di <persName ref="#GiovanniGiacomoDellaPorta">Giacomo della Porta</persName>. </p>
+               </div3>
+               <div3 xml:id="L1C9SC10" type="sous-chapitre">
+                  <head rend="it">
+                     <persName ref="#Marie">S. Maria</persName> di Loreta delli Fornari vicino alla Colonna Traiana.</head>
+                  <p> Le pitture ad'olio collaterali all'Altare <persName ref="#Maggiore">Maggiore</persName>, del Cavalier Giuseppe Cesari. </p>
+                  <p> La Cappelia delli Magi à fresco, di Nicolao delle Pomerancie. La Cappella di Mu saico, di Paolo da Cerito. L'ar chitettura di Antonio Songalla, fenita la lanterna da Giacomo del Duca Siciliano. </p>
+               </div3>
+               <pb n="57"/>
+               <div3 xml:id="L1C9SC11" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> dell'Orto verso grande.</head>
+                  <p> Le pitture sotto le cornice della Tribuna, l'Annuntiata in uno altare, sono a fresco, di Taddeo Zuccari. La Cap pella alla destra dell'AltareMaggiore, di Nicolò da <placeName ref="#Pesaro">Pesaro</placeName>; il resto diversi. </p>
+               </div3>
+               <div3 xml:id="L1C9SC12" type="sous-chapitre">
+                  <head rend="it"> S. Marca Traspontina.</head>
+                  <p> La pittura nell'altare ad'olio nella Cappella di S. Barbara, e quella della sua volta, a fresco, del Cavalier Giuseppe Cesari, il resto de suoi discepoli. </p>
+                  <p> La pittura della <persName ref="#Marie">Madonna</persName> con il Putto sopra la luna in altare, di Geronymo Mutiani, il resto diversi. L'architettura è di Ottaviano Mascorini. </p>
+               </div3>
+               <pb n="58"/>
+               <div3 xml:id="L1C9SC13" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> della Scala in Trastevere.</head>
+                  <p> La pittura della Decollatione di S. Giovanne, di N. Fia mengo ad olio. La pittura nell'altare incontro ad olio, del Gavalier Cristofaro Roncalli. </p>
+                  <p> La pittura dell'altare con S. Teresia ad'olio, di Giacomo Palma. </p>
+                  <p> La <persName ref="#Marie">Madonna</persName> con S. Dome nico. ad olio, pittura di altare, di Anteveduto Gramatica Romano, il resto diversi. </p>
+               </div3>
+               <div3 xml:id="L1C9SC14" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> in Trastevere.</head>
+                  <p> La pittura a fresco, et olio nella Cappella dove si tiene il Santiss. Sacramento, sono di Pasquale Cati, di fuora sopra l'arco finte di musaico, di Pa ris Romano. </p>
+                  <pb n="59"/>
+                  <p> Le pitture di mezzo nella Cappella del Battistero, e par te dell'arco, con parte di quelle dell'organo, del Cavalier Gaspare Celio. Il restante di essa Cappella, le due figurecollaterali al Crocifisso, di Antonio Sondo. La Cappella di <persName ref="#SaintFrancois">S. Francesco</persName>, di Feraci da <placeName ref="#Faenza">Faenza</placeName>, sono tutte a fresco. La pittura della <persName ref="#Marie">Madonna</persName> Assunta in mezzo il sofsitto ad olio, di <persName ref="#Dominiquin">Domenichino</persName> da <placeName ref="#Bologne">Bologna</placeName>. </p>
+               </div3>
+               <div3 xml:id="L1C9SC15" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName>
+                     <persName ref="#Maggiore">Maggiore</persName> nel Colle Escquilino.</head>
+                  <p> Le pitture della Cappella dove si tiene il Santiss. Sacramento sono. </p>
+                  <p> Il di fuora nella lunetta con le <persName ref="#Sibylle">Sibille</persName>, l'istoria dell'Innocenti <pb n="60"/> nella Cappelletta di den tro, la Visitatione di S. Elisabetta dentro fra li due pelastri, e tutte le altre della medesima maniera, sono di GiO. Battista Pozzi. </p>
+                  <p> Il <persName ref="#David">David</persName> nel peduccio della cupola con le altre di maniera simile, sono di <placeName ref="#Paris">Paris</placeName> Romano. </p>
+                  <p> La figura con il viso velato nel peduccio. Il soldato alla sinistra della fenestra verso Tramontana, sono di Lattantio da <placeName ref="#Bologne">Bologna</placeName>. </p>
+                  <p> La figura alla sinistra del <persName ref="#David">David</persName> nel peduccio, di <persName ref="#JulesCesar">Cesare</persName> Nebia, con le altre di simil maniera. </p>
+                  <p> L'Annuntiata del'Angelo sopra l'arco della Cappelletta <pb n="61"/> alla destra entrando, di Saluatore Fontana. Le pitture della cupola sono delli detti, et altri diversi. </p>
+                  <p> La pittura dove S. Gerony mo lava li piedi alli poveri, di Andr ea di Ancona, </p>
+                  <p> La statua del Sisto Quinto, quella del <persName ref="#SaintPierre">S. Pietro</persName> Martire, del Vassoldo, l'altre di diversi. </p>
+                  <p> Le pitture della Cappella incontro dove è posta la <persName ref="#Marie">Madonna</persName>. Quella della lunetta con il suo arco sopra essa Ma donna, e quella delli quattro peducci della cupola sono del Cavalier Gioseppe Cesari. Quella a torno le fenest: e collaterali, di <persName ref="#Guide">Guido</persName> Rena Quelle della cupola, di Ludovico <pb n="62"/> da Civoli. </p>
+                  <p> La Cappelletta del S. Carlo, di Baldasserino da <placeName ref="#Bologne">Bologna</placeName>; sono tutte a fresco, le altre a fresco, et ad'olio sono di diversi. </p>
+                  <p> L'Angioli di mitallo, che sono a torno la <persName ref="#Marie">Madonna</persName>, mo delli di Camillo Vicentino, il resto delle sculture di diversi. </p>
+               </div3>
+               <div3 xml:id="L1C9SC16" type="sous-chapitre">
+                  <head rend="it">Per la Chiesa.</head>
+                  <p> La Resurrettione di Lazaro ad olio nel muro del campanile, di Geronymo Mutiam, vi è a piede la sua sepul </p>
+                  <p> La pittura con la processione, che si soleva fare della <persName ref="#Marie">Madonna</persName> ad olio, posta sotto dove già soleva stare essa </p>
+                  <pb n="63"/>
+                  <p>
+                     <persName ref="#Marie">Madonna</persName>, di Giacomo Zuc cari. </p>
+                  <p> Le pitture nell'Altare nella Cappella con S. Catherina della ruota, di Geronymo da Sarmoneta. </p>
+                  <p> La Cappella contigua di <persName ref="#JulesCesar">Cesare</persName> Nebia. Il resto di diversi. </p>
+               </div3>
+               <div3 xml:id="L1C9SC17" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> dell Angioli nelle terme Diocletiane.</head>
+                  <p> Le pitture della Cappella di S. Geronymo, delli discepoli di Daniello da Voltera. </p>
+                  <p> La pittura dove è <persName ref="#Jesus">Christo</persName>, che dà le chiave a <persName ref="#SaintPierre">S. Pietro</persName>, è in Altare ad olio, di Geronymo Mutiani. Il resto diversi Fiamenghi. Vi è la sepultura di Pio Quarto. La Chiesa è il vano principale delle Terme. </p>
+               </div3>
+               <pb n="64"/>
+               <div3 xml:id="L1C9SC18" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> in Minerba vicino al Panteon.</head>
+                  <p> La Cappella prima entran do alla destra, la pittura del suo Altare con il S. Domeni co, et li due collaterali, del Ga ualier Gioseppe Cesari, il resto di essa Cappella è di Gaspare Celio dell'abito di Chri sto. Sono tutte ad'olio. </p>
+                  <p> Le pitture della Cappella vicino alla porticella del fianco, con le attione di <persName ref="#Jesus">Christo</persName> a fresco, da quella dell'Altare in fuora, sono da Batistino Venetiano, il suo arco, e pilastri, di Geronymo Mutiani, </p>
+                  <p> Le pitture dove è l'Annun tiata Cappella seguente a fresco, di <persName ref="#JulesCesar">Cesare</persName> Nebia, </p>
+                  <p> La pittura dell'Altare nella </p>
+                  <pb n="65"/>
+                  <p> Cappella, che segue ad olio, con la Santiss. Communione, di Federico Batocci, </p>
+                  <p> La pittura di Altare contutti li <persName ref="#Santi">Santi</persName> ad olio di Nicolao delle Pomerancie. </p>
+                  <p> Le pitture nella Cappella di S. Catherina da <placeName ref="#Sienne">Siena</placeName> a frosco, dalle cornice a basso, di Giovanne de Vecchi. Quelle dalla cornice in su ad olio, di <persName ref="#MarcelloVenusti">Marcello <reg>Venusti</reg></persName>, et anco una pitturà attaccata nella Cappella dove è ili S. Geronymo nell'Altare ad olio, di Auanzino. </p>
+                  <p> Il Santo, che predica, pittura di Altare ad olio, di Luca da <placeName ref="#Genes">Genova</placeName>. Restante diversi, sicome il Claustro. </p>
+                  <p> II <persName ref="#Jesus">Christo</persName> di marmo in <pb n="66"/> piede, che tiene la Croce alla destra dell'Altare <persName ref="#Maggiore">Maggiore</persName>, di <persName ref="#MichelAnge">Michelangelo</persName> Buonaruoti un Frate per scrupulo li ruppe il membro, ancora che vi stasse del continuo un panno. </p>
+                  <p> Le due sepulture di marmo di <persName ref="#LeonX">Leone X</persName>. e di Clemente VII. le quali sono dopòl altarem magiore nel Choro, sovo del Cavalier <persName ref="#BaccioBandinelli">Baccio Bandinelli</persName> Fiorentino. </p>
+                  <p> La testa in pilastro del Car dinale d'Acquino, di Franoe sco Mochi. </p>
+                  <p> La testa in pelastro con beretta a Cantoni dicono di <persName ref="#PaoloRomano">Paolo Romano</persName>, sono di marmo. </p>
+               </div3>
+               <div3 xml:id="L1C9SC19" type="sous-chapitre">
+                  <head rend="it"><persName ref="#Marie">S. Maria</persName> in Rotonda gia Panteone, vi sono molti depositi di persone virtuose.</head>
+                  <pb n="67"/>
+                  <p> Il fusto di esso Tempio, dicono li Professori, che fussea fatto al tempo dellaRepublica, por che non confrontà con il Portico fatto da <persName ref="#MarcusVipsaniusAgrippa">Agrippa</persName>. </p>
+               </div3>
+               <div3 xml:id="L1C9SC20" type="sous-chapitre">
+                  <head rend="it">S. Marcallo nella via latea, hoggi il Corso.</head>
+                  <p> La Capella con le ationi di S. Paolo pittura a fresco, e quella dell'altare ad olio, di Tadeo Zuccan. </p>
+                  <p> Le putture nelle Capelle incontro dove è il Crocifisso dalla cornice in sù, quella del la volta con la Creatione di Eua, le due figure nella parte verso l'altare magiore, sono a fresco, di Pierivo del <persName ref="#PietroBuonaccorsi">Vago</persName>. Le altre duè figure incontro, et L'annutiata collatarale alla fenestra, di Daniello Volterra, <pb n="68"/> et Pellegrino detto da <placeName ref="#Bologne">Bologna</placeName> discepolo di Pierino. </p>
+                  <p> Le pitture a fresco, che sono intorno alla <persName ref="#Marie">Madonna</persName>, nella Capella contigua di Cechino del Saluiati, le altre collatarali in essa Capella. Quelle della Tribuna, la Istoria sopra la porta, sono a fresco, di Giovan Battistà da <placeName ref="#Novare">Novara</placeName>. Il resto diversi. </p>
+               </div3>
+               <div3 xml:id="L1C9SC21" type="sous-chapitre">
+                  <head rend="it"> S. Marta in via presso la Colonna Antonina. </head>
+                  <p> Le pitture nella Capella dell'Annuntiata della cornice a basso a fresco, e quella del suo altare con l'Annuntiata ad olio, del Cavalier Gioseppe Cesari. Dalla cornice in su di Giacomo Zucca. </p>
+               </div3>
+               <pb n="69"/>
+               <div3 xml:id="L1C9SC22" type="sous-chapitre">
+                  <head rend="it">Oratori di Confraternita.</head>
+                  <p> L'Oratorio di S. Marcello, le pitture sotto il Choro alla destra entrando. di <placeName ref="#Paris">Paris</placeName> Romano, le altre alla sinistra del Cavalier CristofaroRancelli. </p>
+                  <p> Le pitture prime dove laCroce risuscita la Donna, e la sua incontro di Nicolao dalle Pomerancie. Quelle dove si attacca il titolo sopra la Croce, e Faltra contigua di Giovan de. Vechi. Quella dove Eraclio porta la Croce diCe sare Nebia. Il resto delli medesmi, sono a fresco. </p>
+               </div3>
+               <div3 xml:id="L1C9SC23" type="sous-chapitre">
+                  <head rend="it"> L'Oratorio dell Carmine dopo SS. Apostoli.</head>
+                  <p> La pittura dell'altare magiore ad olio con la Madonna, <pb n="70"/> che tiene l'abito, del Cavalier Gaspare Celio. Il resto diversi. </p>
+               </div3>
+               <div3 xml:id="L1C9SC24" type="sous-chapitre">
+                  <head>L'Oratorid del Confaltone à Strada Giulio.</head>
+                  <p> La pittura prima alla destra entrando di <persName ref="#Raphael">Raffaello</persName> da Regio, le altre diversi sono à fresco. </p>
+               </div3>
+            </div2>
+            <div2 xml:id="L1C10" type="chapitre" n="10">
+               <head>P</head>
+               <div3 xml:id="L1C10SC1" type="sous-chapitre">
+                  <head rend="it">San Pietro in Vatticano.</head>
+                  <p> L'Altare magiore con lecolonne fatte a vite è suoi aderenti, il tutto di metallo indorato, Inuentione di dan tissimo giuditio, messo in opera dal Cavalier Lorenzo Bernino. </p>
+                  <p> Il disegno del Musaico del la cuppola, e quello del S. Michele di altare, del Cavalier </p>
+                  <pb n="71"/>
+                  <p> Gioseppe <persName ref="#JulesCesar">Cesare</persName>. </p>
+                  <p> Il disegno del S. Giovanne Euangelista nel peduccio di essa cuppola, et il suo rincontrmo di <persName ref="#SaintLuc">S. Luca</persName>, di Giovannes de Vechi. </p>
+                  <p> Il disegno delli Putti Angioli sopra essi tondi delli pe ducci, del Cavalier Christofaro Rancelli. Li altri doi Euangelisti disegno di CesareNebia. Il Musaico fu commesso da diversi. </p>
+                  <p> La pittura in altare <persName ref="#SaintPierre">S. Pietro</persName>, che liberò lo stroppiato fatta ad olio sopra il muro, di Ludouico da Civoli. </p>
+                  <p> Quella della caduta di Simon Mago ad olio sopra il muro di Francesco Vanni Senese. </p>
+                  <pb n="72"/>
+                  <p> Quella, dove S. Tomaso tocca le piaghe a <persName ref="#Jesus">Christo</persName>. Quella dove si pone in Croce <persName ref="#SaintPierre">S. Pietro</persName>. La presentatione al Tempio della <persName ref="#Marie">Madonna</persName> sono del Cavalier Domenico da Passignano. </p>
+                  <p> Quella di S. Simone dove è il Dragono di Agostino Ciampelli. </p>
+                  <p> Quella dove la Santa Por ta la propria testa in mano, di N. Spadarino Romano, sono turte ad olio in tela. </p>
+                  <p> La pittura in altare; quando <persName ref="#SaintPierre">S. Pietro</persName> fa morire Anania ad olio sopra il muro, il disegno del Musaico della Capel la Clementina dalla cornice in su, sonò del Cavalier Christofaro Rancalli. </p>
+                  <pb n="73"/>
+                  <p> La pittura in altare ad olio in tela, con S. Gregorio, che mostra il panno sanguinato, di Andrea Sacco Romano. </p>
+                  <p> La pittura ad olio sopra il muro nella Capella del Battistiere della cornice in sù, e sor to la fenestra con <persName ref="#Jesus">Christo</persName> battezzato da S. Giovanne, è di mano di Gaspare Celio deli abito di <persName ref="#Jesus">Christo</persName>. </p>
+                  <p> La pittura a fresco della cornice m su nella Capella rincontro dove è il Crocifisso del Cavalier Giovanne Lanfranco. </p>
+                  <p> La pittura ad olio sopra il muro in altare con S. Sebastiano legato, di <persName ref="#Dominiquin">Domenichino</persName> da <placeName ref="#Bologne">Bologna</placeName>. </p>
+                  <p> Il disegno del Mosaico nella <pb n="74"/> Gregoriana dalle cornice in sù, la pittura di altare con S. Geronimo, e quella di S. Gregorio Naziazeno, ad olio, sopra la tela, il tutto è di Geronimo Mutiani. Le figure, che sono pinte in quella alla Greca furono finite da <persName ref="#JulesCesar">Cesare</persName> Nebia. </p>
+                  <p> La pittura della creatione del Mondo in altare ad olio sopra il muro, di Pietro Berettino <persName ref="#PierreDeCortone">da Cortona</persName>. </p>
+                  <p> La pittura di altare ad olio con il S. Rè è di Angelo Caroselli Romano. </p>
+                  <p> La pittura, che segue di altare SS. Processo e Martiniano ad olio in tela di N. Francese (ui è il nome. </p>
+                  <p> La pittura, che siegue di S. </p>
+                  <pb n="75"/>
+                  <p> Erasmo ad olio di N. Francese (vi è il nome.) </p>
+                  <p> Quella di Modice fidei etc. del Cavalier Giovan Lanfraco. Il resto diversi. </p>
+                  <p> Quella, dove è S. Petronilla ad olio in tela del Guercino da <placeName ref="#Cento">Cento</placeName>. </p>
+                  <p> La Pietà di marmo di <persName ref="#MichelAnge">Michelangelo</persName> Buonaruoti. La sepultura di metallo di Sisto 1V. delli Pollaioli, antichi mo derni Fiorentini. </p>
+                  <p> La sepultura di Paolo 11I. il modello, e disegno delBuonaruoti, messa in opera daFrà Gulielmo della Porta, con l' agiuto di N. N. Fiamenghi. </p>
+                  <p> Il basso rilevo di Mattilda. La sepultura di Vrbano VIII, del Cavalier Bernino. </p>
+                  <pb n="76"/>
+                  <p> Il modello della Chiesa fù pensiero delli Sangalli, poi vi attese <persName ref="#Bramante">Bramante</persName>, dopò Baldassare da <placeName ref="#Sienne">Siena</placeName>, del quale si veggono li disegni della ricro stata di fuori-senza, che siino mutati. Dopò seguitò il Buonaruoti, seco doppo si soprafedette, seguito dopoi <persName ref="#GiovanniGiacomoDellaPorta">Giacomo della Porta</persName>, a tempo di Sisto v. vi si pose Giovanne Fontana seco, si fece la cupola, dopò seguitò Carlo Maderno, che fece l'aggiunta, et il Portico adesso segue il Cavalier Bernino. </p>
+                  <p> Dentro la Sacristia è una pitturu attaccata in alto, dove è scritto N. de Carpi la fece con le dita in vece di Pinnello. Vi è una Pietà in tela inuentione <pb n="77"/> del Buonaruoti depinta ad olio da Lorenzino di <placeName ref="#Bologne">Bologna</placeName>. Nella Chiesa vicina det ta <persName ref="#Marie">S. Maria</persName>, vi è un S. Geronimo pittura di altare disegno di <persName ref="#DanieleDaVolterra">Daniello da Volterra</persName>. </p>
+               </div3>
+               <div3 xml:id="L1C10SC2" type="sous-chapitre">
+                  <head rend="it">
+                     <persName ref="#SaintPierre">S. Pietro</persName> nel monte Aureo.</head>
+                  <p> La pittura della Capella prima alla destra entrando della cornice in giù ad olio sopra il muro, e di sopra a fresco, vi è <persName ref="#Jesus">Christo</persName> alla colonna, e la transsiguratione è di Frà Bastiano del Piombo Venetiano; disegno del Buonaruoti, </p>
+                  <p> La pittura della Capella incontro tutta a fresco con <persName ref="#SaintFrancois">S. Francesco</persName>, che riceve le sti mate di Giovanni di Vechi. </p>
+                  <p> La pittura dell'altare ad olio con S. Paolo offe so della <pb n="78"/> vista, di mano di Gregorio <persName ref="#GiorgioVasari">Vasari</persName>. La incontro di N. Fiorentino. Le statue di SS. Pietro e Paolo, sono di Da nielo da Volterra. </p>
+                  <p> La pittura dell'altare maziore ad olio sopra la tavola con <persName ref="#Jesus">Christo</persName>, che và in Cielo. Vi sono gli Apostoli, vi e un Indemoniato, è di mano di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName> di Vrbino. </p>
+                  <p> Vi era un <persName ref="#SaintFrancois">S. Francesco</persName> in tavola fatto, a tempera dove hora è il Choro, che l'hanno portato nella Sacristia, mà prima volendolo levare, li frati, l'havevano guasto, e poi malamente concio, nondimeno vi ne rensta il Compagno del Santo chè mostra quello che era. Il resto diversi moderni, <pb n="79"/> et antichi moderni. </p>
+                  <p> Il Tempietto nel cortile del primo Claustro è di <persName ref="#Bramante">Bramante</persName> Architetto, e le pitture d'intorno nel portico di esso Claustro sono di Giovan Battista della Marca a fresco. </p>
+                  <p> Quelle del secondo Claustro di Nicolao delle Pomerancie. </p>
+               </div3>
+               <div3 xml:id="L1C10SC3" type="sous-chapitre">
+                  <head rend="it">
+                     <persName ref="#SaintPierre">S. Pietro</persName> in Vincola nelle Colle Esquilinio.</head>
+                  <p> La pittura a fresco in capo la Chiesa con li atti di S. Pie tro, di N. Pisono. </p>
+                  <p> La sepultura di Giulio 11. disegno del Buonaruoti. Il Moisè, e le due figure contem plativa, et attiva sono di mano di esso Buonaruoti. Il re stante è delli N. N. Moschini da Massa da Carrara. All'entrata <pb n="80"/> di essa Chiesa vi sonò li dopositi delli Pullaioli. Il Palazzo, et la restauratura nella Chiesa, è delli Sangalli. Il Palazzo di fuora era dipinto da <persName ref="#Polydore">Polidoro</persName> da Caravas gio. </p>
+               </div3>
+               <div3 xml:id="L1C10SC4" type="sous-chapitre">
+                  <head rend="it">S. Prassede nel Calle Escqui linio, dove si pensa, che fosse la Torre di Mecenate.</head>
+                  <p> La pittura in Altare con il <persName ref="#Jesus">Christo</persName>, che porta la Croce, ad'olio, di <persName ref="#FedericoZuccaro">Federico Zuccari</persName>, le pitture a fresco in essa Cap pella dalla cornice in sù, del Cavalier Gioseppe Cesari. Gli ornamenti di Giovanne del Borgo. </p>
+               </div3>
+               <pb n="81"/>
+               <div3 xml:id="L1C10SC5" type="sous-chapitre">
+                  <head rend="it">Santa Fodentiana aelle radici del Colle Kiminale, et In capa nlviec. Latritio.</head>
+                  <p> La pittura della cupolax suoi peducci con le quattro sigure di suora nella faccihta di quello, di Nicolao dalle Pomerancie, sono a fresco. </p>
+                  <p> La cuppola di Mulaco, di Paolo da <placeName ref="#Cento">Cento</placeName>. Lacnestauratione di essa Chiesa, et cupola, la ordinò Francesco Volter ra, dove nell'rifondare, per fare la cupola, li muratori tro uorono la statua dell'<persName ref="#Laocoon">Laocon</persName> te in pezzi, ma o pen malitiagme foh tirora o per fingard no fuora altro che voâ ogamba senza piede; et un pugno, il quale mi fu dato dopo alcuni <pb n="82"/> anni, e molti della professione l'hanno visto, mi fù doppo aprubato. Fira maggiore di quello, che stâ in Beluedere, e di bellissima manièra, di modo, che si crede da quelli dello esercitio, che sia il ve ro briginale il quale nomina Plimio, ne si ammiri alcund perché sublebano di antichi, eome suoglionos li moderi copiaro le cose rare, sicomeli hoggi si vede una copia della Pieta di <persName ref="#MichelAnge">Michelangelo</persName> Buonaruoti in <persName ref="#Marie">S. Maria</persName> dell'Anima, la quale se: fossè trovata sorroxuria cagione defla memoria dell'originale, ne si vedesse esso originale, saria dalli mediocu artefici tenuta peo lubuona, e dalli non artefici <pb n="83"/> celebrata per bonissima. Et agiungo, che più volte il Vol terra Architetto se ne dolse meco della tristitia delli muratori, attento, che esso credeva, che come facevano a Cottimo, dubitarono di fare la fatica, e non essere pagati, et esso Volterra non Vandava se non la sera, di modo, che se non vedeva quel Pugno, e la gamba, non ne haveria saputo cosa alcuna. </p>
+               </div3>
+               <div3 xml:id="L1C10SC6" type="sous-chapitre">
+                  <head rend="it">La Pietà, Chiesa delli Pazzi, nella Pia7za della Colonna Antonina.</head>
+                  <p> La pittura nell'Altare Masgiore ad'olio con la Pietà, di <persName ref="#AlbertiDurante">Durante</persName> del Borgo. Vi è un sotterramento di <persName ref="#Jesus">Christo</persName> inAltare collaterale, pittura ad <pb n="84"/> olio, di forma piccola, dicono sia di Cecchino del Saluiati, non di <persName ref="#MarcelloVenusti">Marcello <reg>Venusti</reg></persName>, come alcuni tengono. </p>
+                  <p> La Pietà di fuora, di Tadeo Zuccari. Li due <persName ref="#Santi">Santi</persName> collaterali: il <persName ref="#SaintPierre">S. Pietro</persName> di Tadeo, il S. Paolo di Federico suo fratello, sono a fresco. </p>
+               </div3>
+               <div3 xml:id="L1C10SC7" type="sous-chapitre">
+                  <head rend="it"> S. Paolo fuora di <placeName ref="#Rome">Roma</placeName>, a l'acque Saluie. </head>
+                  <p> La pittura con la Conuersione di S. Paolo in Altare ad'olio, di Oratio <persName ref="#ArtemisiaGentileschi">Gentileschi</persName> Pisano. </p>
+                  <p> La sna incontro, pittura di Altate ad olio, di <persName ref="#LaviniaFontana">Lavinia</persName> lontana </p>
+                  <p> Le pitture a torno l'Altare OA <persName ref="#Maggiore">Maggiore</persName> a fresco, con li atti del Santo, di Auanzino, da </p>
+                  <pb n="85"/>
+                  <p> Città da <placeName ref="#CittaDiCastello">Castello</placeName>. </p>
+               </div3>
+            </div2>
+            <div2 xml:id="L1C11" type="chapitre" n="11">
+               <head>Q.</head>
+            </div2>
+            <div2 xml:id="L1C12" type="chapitre" n="12">
+               <head>R.</head>
+               <div3 xml:id="L1C12SC1" type="sous-chapitre">
+                  <head rend="it">S. Rocco a Ropetta.</head>
+                  <p> Le pitture della Cappella prima entrando alla destra, con la figura di Lazzaro nel pilastro incontro: sopra essoAltare vi è il Presepio, sono di Baldassarre da <placeName ref="#Sienne">Siena</placeName>. </p>
+                  <p> Le pitture della Cappella incontro con l'Annuntiata à fresco del Fattor bono. </p>
+                  <p> Le pitture della Cappella dove è S. Giuliano, a fresco, di Nicolò da <placeName ref="#Pesaro">Pesaro</placeName>. </p>
+                  <p> Le figure a fresco collaterali al Crucifisso, di AntonioSordo. </p>
+                  <p> IlS. Martino ad 'olio, pittura d'altare, di <persName ref="#Donatello">Donato</persName> da Formello. </p>
+               </div3>
+               <pb n="86"/>
+               <div3 xml:id="L1C12SC2" type="sous-chapitre">
+                  <head rend="it">Rifettorio di S. Salvatore del Lauro.</head>
+                  <p> Le pitture nella facciata da capo, con le nozze in <placeName ref="#Cana">Cana</placeName> di Galilea, et li ritratti collaterali ad'olio, et il <persName ref="#SaintGeorges">S. Giorgio</persName> sopra la porta dalla parte di dentro, a fresco, sono di Cecchmo del Saluiati, e non sarà fuori di proposito, che sia avuertito un caso, che è </p>
+                  <p> Un superiore del luogo havendo fatto depingere alcune banclie ad un povero huo mo, ma honorato, secondo il seguito, gli disse il Superiore, voglib, che mi rinfreschi quella pittura là da capo con belli colori, il pover huomo veramente honoratissimo, se ingenocchiò in terra, e disse, </p>
+                  <pb n="87"/>
+                  <p> Prima <persName ref="#Dieu">Dio</persName> mi faccia morire. chio faccia tal forfanteria, et soggiunse, lo non conosco que sta opera, perché sono ignorante, ma havendo sentito dire chi fu Cecchino, mi basta per non far tai mancamento: alla barba di quelli, ch'hanno rinfrescato quelle di <persName ref="#Raphael">Santio</persName>. </p>
+               </div3>
+               <div3 xml:id="L1C12SC3" type="sous-chapitre">
+                  <head rend="it">S. Susanna detta fra li due lauri vicino alle Terme Diocletiane.</head>
+                  <p> La pittura dell'Altar Ma giore ad olio con la Santa in terra colca, di Tomaso Laureti Siciliano. </p>
+                  <p> L'Istoria alla sua sinistra, di <placeName ref="#Paris">Paris</placeName> Romano. La sua incontro, con l'historie a torno a essa Chresa di Susanna, e Daniello, sono a fresco, di Baldassarino <pb n="88"/> da <placeName ref="#Bologne">Bologna</placeName>. </p>
+                  <p> La Cappella delli Martiri, la pittura ad olio di esso Altare con S. Laurentio sopra la graticola, di <persName ref="#JulesCesar">Cesare</persName> Nebia, il resto di essa Cappella a fresco, di Gio. Battista Pozzi Mi lanese, </p>
+               </div3>
+               <div3 xml:id="L1C12SC4" type="sous-chapitre">
+                  <head rend="it">S. Siluestro nel Colle Quirinale.</head>
+                  <p> La pittura d'Altare, Assunta della <persName ref="#Marie">Madonna</persName> ad olio, di <persName ref="#ScipionAfricain">Scipione</persName> Caetano, li tondi, in essi peducci ad olio, di Dome nichino Bolognese. </p>
+                  <p> Li due <persName ref="#Santi">Santi</persName> ad'olio attaccati in alto, collaterali all'Altare <persName ref="#Maggiore">Maggiore</persName>, il <persName ref="#SaintPierre">S. Pietro</persName> di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName>: il <persName ref="#SaintPaul">S. Paulo</persName>, di Fra Bartolomeo Fiorentino. </p>
+                  <pb n="89"/>
+                  <p> La pittura della Cappella piccola prima, alla destra dell'Altar <persName ref="#Maggiore">Maggiore</persName>, dalla cornice in su con Tarco, et pilastri a fresco, di Raffael da Reg gio, il restante tutto di lacomo Zucca. </p>
+                  <p> La pittura tutta della Cappella incontro, di <persName ref="#CesareNebbia">Cesare Nebbia</persName>, il paese in quella di mezzoè di Martheo Brillo. </p>
+                  <p> La pittura dell'Altare contiguo, Venuta dello Spirito Santò ad'olio, di lacomo Pal </p>
+                  <p> La pittura dell'Altare nella Cappella incontro, ad'olio, viè la <persName ref="#Marie">Madonna</persName> con un titratto, è di Marietto Fioren tino. La pittura a torno dalla corniee a basso, a fresco, di <pb n="90"/>
+                     <persName ref="#Polydore">Polidoro</persName> da Caravag, la cornice in su, con il Santo nella facciata di fuora, sono à fresco, del Cavalier Giosep pe Cesari. </p>
+                  <p> La pittura della Cappella contigua, di Gio. Battista da <placeName ref="#Novare">Novara</placeName>. </p>
+                  <p> Quelle della Cappella rin contro sono di Avanzino. </p>
+               </div3>
+               <div3 xml:id="L1C12SC5" type="sous-chapitre">
+                  <head rend="it">S. Stefano nel Monte Celio dove era il Tempio di <persName ref="#Fauno">Fauno</persName>.</head>
+                  <p> Le pitture a fresco a torno, martirij de <persName ref="#Santi">Santi</persName>, di Nicolao dalle Pomerancie, vi hà da essere in Altare una <persName ref="#Marie">Madonna</persName> con il Putto che dorme in tavola, ad olio, di Pierinò del <persName ref="#PietroBuonaccorsi">Vago</persName>. </p>
+               </div3>
+               <pb n="91"/>
+               <div3 xml:id="L1C12SC6" type="sous-chapitre">
+                  <head rend="it">Santa Sabina nel Monte Aventino.</head>
+                  <p> Le pitture della Cappella alla destra entrando a fresco, di <persName ref="#FedericoZuccaro">Federico Zuccari</persName>, quella del suo Altare ad'olio, di <persName ref="#LaviniaFontana">Lavinia Fontana</persName>, vicino vi è una <persName ref="#Marie">Madonna</persName>, copia d'<persName ref="#Raphael">Santio</persName>. </p>
+               </div3>
+               <div3 xml:id="L1C12SC7" type="sous-chapitre">
+                  <head rend="it"> S. Spirito in Sassia nel Borgo delli Sassoni.</head>
+                  <p> La pittura della Tribuna à fresco, l'Istoria di dentro sopra la porta, quella della Cappella, dove è la venuta dello Spirito santo, sono di lacomo Zucca. </p>
+                  <p> Le due pitture collaterali alla porta di dentro, conuersione di S. Pavolo, Visitatione di S. Elisabetta, ad olio, di Mattheo da <placeName ref="#Sienne">Siena</placeName>. </p>
+                  <pb n="92"/>
+                  <p> Tutte le pitture della Cappella prima entrando alla sinistra di <persName ref="#CesareNebbia">Cesare Nebbia</persName>, quella dell'Altar seguente calamento dalla Groce era di Ponpeo dell'Aquila, ma fu fatta guastare malamente, non restato se non il componimento. </p>
+                  <p> Quelle incontro ad'olio in Cappella, et altare con quella passato l'organo, sono di Livio da Fralli, et altri. </p>
+                  <p> Quella dell'assuntionedi <persName ref="#Jesus">Christo</persName> Cap. ella alla 3ore sinistra dell'Altar Ma ad'olio, et fresco, di Gioseppe Valoriano prima ch entrasse nella Compagnia di Giesu. </p>
+                  <p> La pittura della Cappella incontro il S. Giovanne Evangelista, <pb n="93"/> pittura di Altare, di Pierino del <persName ref="#PietroBuonaccorsi">Vago</persName> con li due Profeti sopra l'arco di fuori, il resto è del Fattor bono suo genero: Ancora il fresco della Cappella del Crocifisso. </p>
+                  <p> Quelle pitture della Cappella in mezzo delle dettesono ad'olio di Ruviale Spagnolo? Il disegnio del Ciborio dell'Altar <persName ref="#Maggiore">Maggiore</persName>: la Cappella in mezzo l'hospedale, è architettura di Andrea <persName ref="#AndreaPalladio">Palladio</persName>. </p>
+               </div3>
+            </div2>
+            <div2 xml:id="L1C13" type="chapitre" n="13">
+               <head>T</head>
+               <div3 xml:id="L1C13SC1" type="sous-chapitre">
+                  <head rend="it">Santissima Trinita nel Monte Pincio.</head>
+                  <p> La Pitrura ad'olio dell'Altare <persName ref="#Maggiore">Maggiore</persName> con la Santissima Trinità, del Indaco Fiorentino. </p>
+                  <pb n="94"/>
+                  <p> La pittura della volta alla destra del altar magiore con quella della sua lunetta conla visitatione di S. Elisabetta, et la faccia dell'arco di fuora, con Profeti, e putti a fresco, di Pierino del <persName ref="#PietroBuonaccorsi">Vago</persName>. </p>
+                  <p> La pittura di sotto la cornice in foggia diPietà di Tad deo Zuccari, l'Assunta della <persName ref="#Marie">Madonna</persName>, et la morte sono à fresco, et la pittura dell'altare ad olio, con la coronatione della <persName ref="#Marie">Madonna</persName>, et il d'intorno con Profeti, di <persName ref="#FedericoZuccaro">Federico Zuccari</persName> fratello di Tadeo. </p>
+                  <p> La pittura ad olio dove <persName ref="#Jesus">Christo</persName> appare a <persName ref="#Marie">S. Maria</persName>
+                     <persName ref="#MarieMadeleine">Madalena</persName> nell'horto in altare di <persName ref="#GiulioRomano">Giulio Romano</persName>, le pitture a torno in essa Cappella, <pb n="95"/> dalla cornice a basso a fresco, e li stucchi sono di Pierino del <persName ref="#PietroBuonaccorsi">Vago</persName>. Il resto delle pitture dalla cornice in su del fattor buono. </p>
+                  <p> La pittura del calamento di <persName ref="#Jesus">Christo</persName> dalla Croce in altare con tutte le altre pittu re di essa Capella sono a frescodi <persName ref="#DanieleDaVolterra">Daniello da Volterra</persName>, però vi sono coloriti alcuni pezzi da Pellegrino detto da <placeName ref="#Bologne">Bologna</placeName>, si conosce dalla variatione del fare. </p>
+                  <p> La pittura d'altare con l assunta nella Capella incontro, et l'historia alla sinistradi essa dove è la presenratione al Tempio, sono di <persName ref="#DanieleDaVolterra">Daniello da Volterra</persName>, quella alla destra con l'Innocenti suo disegnio, <pb n="96"/> ì ma colorita da suoi discepoli; Quella dalla cornice in su in essa Capella sono del Pellegrino detto da <placeName ref="#Bologne">Bologna</placeName> perché era allevato in <placeName ref="#Bologne">Bologna</placeName>, ma lui era Milanese, e fu quello, ch ando a seruire Filippo secondo nell'Escuriale, e fu regalato splendidamente, sono le dette pitture tutte a fresco. </p>
+                  <p> Le pitture dove e l'Annuntiata in altare con il restante a fresco, sono del Racionero Cespedes Spagnuolo, li paesi in essa opera sono di <persName ref="#JulesCesar">Cesare</persName> Piamontese. </p>
+                  <p> Le pitture della Chiesa incontro con il Battesimo di <persName ref="#Jesus">Christo</persName> ad olio nell'altare, et il restante a fresco con gl'atti <pb n="97"/> di S. Giovan Battista, di Battista Naldini. </p>
+                  <p> Le pitture nella Capella do ue e il sotterratorio di <persName ref="#Jesus">Christo</persName> ad olio nell'altare, et altre a fresco di <placeName ref="#Paris">Paris</placeName> Romano. Il restante di diversi. Da capo incontro alla Assunta di Federico; vi è la pittura della caduta delli Angiolij con alcuni Profeti, et <persName ref="#Sibylle">Sibille</persName> con la sua inuetriata, il tutto è disegnio di <persName ref="#MichelAnge">Michelangelo</persName> Buo naruon, di chi l'habbia coloritis l'opinione è incertas si dice, che fu un N. Siciliano, che mori dopò subito, altri dicono, che furono quelli dues, che fece venire il Buonaruoti da <placeName ref="#Florence">Fiorenza.</placeName>per cominciare la volta della Gappella di <pb n="98"/> Sisto in <placeName ref="#Vatican">Vaticano</placeName>, può essere, che gli tre insieme la pingessero essa opera, poiche si và vedendo, ehe la volta non ? simile del tutto al restantequanto al colorito. </p>
+               </div3>
+               <div3 xml:id="L1C13SC2" type="sous-chapitre">
+                  <head rend="it">Le Pitture del Caustro di essa Chiesa.</head>
+                  <p> Quella della canonizatio. ne di <persName ref="#SaintFrancois">S. Francesco</persName> da Paola, del Cavalier Gioseppe Cesari. </p>
+                  <p> Il miracolo del Putto prima lunetta, di lacomo Zucca. </p>
+                  <p> Il Santo morto, quando muore, quando sana il leproso, quando sanò l'infermo, quando sana il putto, tutte sono di Geronymo Massej da Lucca, con la pittura di fuora sopra la porta di esso Conuento. </p>
+                  <pb n="99"/>
+                  <p> Quando il Santo si commu nica, quando và in estasi, quan do tiene il fuoco in mano, quando predica, sono di <placeName ref="#Paris">Paris</placeName> Romano. </p>
+                  <p> Quando il Santo sana l'appestato, del Cavalier Christofaro Roncalli. </p>
+                  <p> Quando scongiura la donna, quando essa ne rende le gratie, con le tre sseguenti, sono di lacomo Bresciano. </p>
+                  <p> Quando và il Santo sopra l'acqua, quando si fabrica la Chiesa, quando sana il cieco, sono di Pasquale Cati Marchigiano. </p>
+                  <p> uelle sopra la porta della Sacristia con l'altre vicine, sono di Matteo da <placeName ref="#Faenza">Faenza</placeName>, e </p>
+                  <pb n="100"/>
+                  <p> Gio. Battista dalla Marca suo discepolo, le teste di Auanzino sono tutte a fresco. </p>
+               </div3>
+               <div3 xml:id="L1C13SC3" type="sous-chapitre">
+                  <head rend="it"> Santissima Trinita delli Pellegrini vicino al Ponte Sisto. et alla Regula.</head>
+                  <p> La pittura dell'Altar Mag. giore ad'olio con la Santiss. Trinità di <persName ref="#Guide">Guido</persName> Rem. </p>
+                  <p> La pittura di altare con la <persName ref="#Marie">Madonna</persName>, e SS. Augustino, et Francesco, del Cavalier Gioseppe <persName ref="#JulesCesar">Cesare</persName>, la pittura incontro la Cappella di Giovanni de Vecchi, il resto diversi, la Pietà di marmo, del Coppo Fiamengo. </p>
+               </div3>
+               <div3 xml:id="L1C13SC4" type="sous-chapitre">
+                  <head rend="it">Palazzi in <placeName ref="#Rome">Roma</placeName>, e con giardini.</head>
+                  <head rend="it">Palazzo Pontificio in <placeName ref="#Vatican">Vaticano</placeName>, con sue Pitture, e Statue.</head>
+                  <pb n="101"/>
+                  <p> Tutte le pitture, chae sono nelli capi delle scale, e suoi incontri; sono inuentioni di <persName ref="#GiorgioVasari">Giorgio Vasari</persName>, dipinte da diversi, cioè. </p>
+                  <p> Quella dove <persName ref="#SaintPierre">S. Pietro</persName> trova la moveta nel pescie la ce na con gli Apostoli, e l'altre della medesima maniera, di <persName ref="#Donatello">Donato</persName> da Formello, il resto di Giorgio, et diversi. </p>
+                  <p> L'Arclutettura di esse scale, e della Sala Reggiâ, e della Cappella Pavolina, è di Antonio Sangallo. </p>
+               </div3>
+               <div3 xml:id="L1C13SC5" type="sous-chapitre">
+                  <head rend="it">Dentro la Cappella di Sisto Guarto.</head>
+                  <p> La Pittura della facciatas dove è il Giuditio universale, e tutta quella, ch'è dulla corniee in su cont la volta, è a <pb n="102"/> fresco, di <persName ref="#MichelAnge">Michelangelo</persName> Buonaruoti; solo nel giuditio vi è la testa del. S. Biagio con la veste verde di Santa Caterina della Ruota, di mano di <persName ref="#DanieleDaVolterra">Daniello da Volterra</persName>, che fu rifatta all hora, che si fecero le cuperte alle parti oscene, per rimediare, che il padrone non la facesse buttare a terra. </p>
+                  <p> Le duè historie collaterali di dentro alla porta a fresco, sono di Matteo da Levio, le pitture intorno sotto la cornice erano di mano delli pri mi artefici, che fossero al tem po di Sisto. Quarto, detti antichi modermi, perché non so no li antichi Greci, ne li moderni, che sono dopo: <persName ref="#Perugin">Pietro Perugino</persName>, ma con volerle rin <pb n="103"/> frescare, non sono più quelle; si suole ornare la Cappella in alcune feste principali con l'Aranal, di disegnio di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName> di Vrbinos sono tessuti con seta, et oro. vi sono gl'atti dolli Apostoli, Pietro, e Pavolo. </p>
+               </div3>
+               <div3 xml:id="L1C13SC6" type="sous-chapitre">
+                  <head rend="it">Pitture nella Sala Regia.</head>
+                  <p> Quolla, che stà sopra la Porta di detta Cappella, è di Geronymo da Sermoneta, fu discepolo di Pierino del <persName ref="#PietroBuonaccorsi">Vago</persName>; Quella incontro sopra la porta, del Sommachino da <placeName ref="#Bologne">Bologna</placeName>. Quella dove Federico Imperatore bacia il piede al Papa, di Gioseppe del Saluiati Garfagnino. </p>
+                  <p> Quella che suo incontro con la lega, quella sopra la <pb n="104"/> porta con il Papa, che danna l'heresia, quella dove torna la Sede in <placeName ref="#Rome">Roma</placeName>, quella del Coligni Franzese, sono di mano di Giorgio Vasan. </p>
+                  <p> Quella sopra la porta con Carlo Magno, segnando il breve della donatione, le due figure sopra il frontespitio della Pavolina, sono di mano di Tadeo Zuceari. </p>
+                  <p> Le due istorie collaterali alla porta della Pavolina, di <persName ref="#FedericoZuccaro">Federico Zuccari</persName>, le due istorie sopra le porte collaterali alla Pavolina, di Livio da Fralli. </p>
+                  <p> La sede nel canto dell'armata navale, di Dohato da Formello, il resto dell'armata delli detti. </p>
+                  <pb n="105"/>
+                  <p> L'Angelo, che tiene il Regno, di <persName ref="#Raphael">Raffaello</persName> da Neggio. L'altro, che tiene la chiaves di Lorenzino da <placeName ref="#Bologne">Bologna</placeName>, sono tutte a fresco. </p>
+                  <p> Li stucchi della volta di essa Sala, sono di Pierino del <persName ref="#PietroBuonaccorsi">Vago</persName>. </p>
+                  <p> Le figure nude di stucco sopra li frontispitij attornò essa Sala, sono di mano di Daniel lo da Volterra. Li ornamenti con le figure mezzò rilevo di stucco, sono delli suoi discepoli. </p>
+                  <p> Le due figure attornò l'arme, di Gregorio decimo terzo di stucco, di Prospero Bresciano, quelle dell'arme rin contro, di Daniello. </p>
+               </div3>
+               <pb n="106"/>
+               <div3 xml:id="L1C13SC7" type="sous-chapitre">
+                  <head rend="it">Pitture dentro la Pavolina.</head>
+                  <p> Quella della crucifissione ietro et la sua rincondi S. tro della conuersione di S. Pa uolo, di <persName ref="#MichelAnge">Michelangelo</persName> Buonaroti. </p>
+                  <p> Quelle collaterali di, dentro alla porta, di Lorenzino da <placeName ref="#Bologne">Bologna</placeName>. </p>
+                  <p> La sua volta dalla cornice in su, era di <persName ref="#FedericoZuccaro">Federico Zuccari</persName>, ma. il fume delle candele, che vi si pongono al tempo del sepolcro ha fatta negra, che non si vede punto. </p>
+               </div3>
+               <div3 xml:id="L1C13SC8" type="sous-chapitre">
+                  <head rend="it">Pitture dentro la Saletta, che segue dopo 1a Reggia.</head>
+                  <p> Le due figure collaterali alla porta di dentro, dove si entra con alcune grottesche, <pb n="107"/> et li putti dell'apmerdiGrogo riol Decimoterzo sopra l'altra parte, et Ilstoria di <persName ref="#Hercule">Ercole</persName>, ch ammazza Cacco nella volta, sono di <persName ref="#Raphael">Raffaello</persName> da Reggio. </p>
+                  <p> Le due figure collaterali all'altra porta pure nel fregio, di <placeName ref="#Paris">Paris</placeName> Romano, li paesi sono di <persName ref="#JulesCesar">Cesare</persName> Piamontese, il resto diidiversi. </p>
+                  <p> L'arme nella volta con suo figure, e l'istoria d'<persName ref="#Hercule">Ercole</persName>, che mena il cane con trè teste, di Lorenzino da <placeName ref="#Bologne">Bologna</placeName>, il tutto è a fresco. </p>
+               </div3>
+               <div3 xml:id="L1C13SC9" type="sous-chapitre">
+                  <head rend="it">Pitture in la seconda Saletta, dove si fa la lavatione delli piedi.</head>
+                  <p> Li paesi delle quattro stag. gioni, di Matteo da <placeName ref="#Sienne">Siena</placeName>. </p>
+                  <pb n="108"/>
+                  <p> Quellò in vesta scon il Gallo, di. Giovanne Piamungo; le grottesche delli medesimi. </p>
+               </div3>
+               <div3 xml:id="L1C13SC10" type="sous-chapitre">
+                  <head rend="it">Pitture nelle due stanze seguenti.</head>
+                  <p> Li fregi di esse stanze sono di manò di <persName ref="#Raphael">Raffaello</persName> da Reg gio, di Marco di <placeName ref="#Faenza">Faenza</placeName>, di Gio. Battista della Marcha, di <placeName ref="#Paris">Paris</placeName> Romano, et d'altri. </p>
+                  <p> L'Istoria nella soffiita ad olio, dove soveste il Papa, nella seconda stanza, con la venuta dello Spirito santo; di Geronymo Mutiani Bresciano. </p>
+               </div3>
+               <div3 xml:id="L1C13SC11" type="sous-chapitre">
+                  <head rend="it">Pitture nella loggia al medesimo piano.</head>
+                  <p> La volta fatta in pergolata etdi Gios da Vdine, dipinta à fresvo; Delle dette loggie ne <pb n="109"/> furono architetti Biam ante, e <persName ref="#Raphael">Raffaello</persName> Cantio, per ordine di Lebne Decimo. </p>
+                  <p> Ila volta ddelFaltra loggiapure a pergolata al medesimo piano di <persName ref="#GregoireXIII">Gregorio XIII</persName>. dipinta da <persName ref="#JulesCesar">Cesare</persName> Piamontese. </p>
+                  <p> La pittura dell'arco, che divide le doi loggie dette con li doi puttini attorno l'arme, di Cregorio, sono di Fedèrico Zuceari; Tultii putti dall altro capo, di Ottaviano Mascarini, il resto di diversi. </p>
+               </div3>
+               <div3 xml:id="L1C13SC12" type="sous-chapitre">
+                  <head rend="it">Pitture nella Salà deb medesimo piano, che va a Torre Borgia Palazto vecchio.</head>
+                  <p> Quella della volta con li iegni celesti, quelle delle fenestre di Pieriloidel <persName ref="#PietroBuonaccorsi">Vago</persName>, li <pb n="110"/> chiaroscuri gialli di Livio da Fralli suo discepolo, sono à fresco. Sopra la porta della seconda stanza vi e la <persName ref="#Marie">Madonna</persName> con il Papa in genocchioni dipinta dab Pinturecchio Fiorentino sì come la stanza seguente a fresco. </p>
+               </div3>
+               <div3 xml:id="L1C13SC13" type="sous-chapitre">
+                  <head rend="it">Pitture nella Loggia del secondo piano, etiam di Leone Pectma.</head>
+                  <p> Le grottesche di Giovanni da Vdine: Listorie della sua volta inuentione di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName> da Vrbino, dipinte da diversi, cioè: </p>
+                  <p> L'istoria dell'<persName ref="#Adam">Adamo</persName>, che semina., quella dove bevono le pecore. Il Giacobbe, che sogna la sealo, la cena di <persName ref="#Jesus">Christo</persName> con gl'Apostoli. Il Mose, <pb n="111"/> che mostra le leggi, di mano di Raffaelle <persName ref="#Raphael">Santio</persName>. </p>
+                  <p> Quella del Diluvio, quella dell'adoratione del Vitello di <persName ref="#Raphael">Raffaello</persName> dal Borgo. </p>
+                  <p> Quella dove Giefue ferina il Sole, la Bersabe, et le simili sono di Pierino del <persName ref="#PietroBuonaccorsi">Vago</persName>. </p>
+                  <p> Quella del carro di Polidoro di <persName ref="#Caravage">Caravaggio</persName>, et l'altre simili. </p>
+                  <p> Quando Mose fa scatorin lacqua. Quando <persName ref="#Salomon">Salomone</persName> fa il giuditio delli putti, et altre simili disgiulio Romano. </p>
+                  <p> Quella dove si battezzà il <persName ref="#Jesus">Christo</persName>, et la sua contigua, et baltre similio di Pellegrino da Modona, altre di <persName ref="#Gaudenzio">Gaudentio</persName> Milanese. Però per tutto si vede vi sono pennellate di Santio</p>
+                  <pb n="112"/>
+                  <p> secondo dicono l'intelligenti. </p>
+               </div3>
+               <div3 xml:id="L1C13SC14" type="sous-chapitre">
+                  <head rend="it">Pitture della loggia, che segue uel medesimo piano di Gregorio Decimoter7o.</head>
+                  <p> Le Grottesche sono di mano di Marco da <placeName ref="#Faenza">Faenza</placeName> una gran partè, però sua inuentione il tutto con alcune istorie nel cupo della loggia sì come quella delli Innocenti, et simili. </p>
+                  <p> Alcune faccie delli pilastri in capo di essa loggia di Giovanni da Modona. </p>
+                  <p> Quetlavistoria in la voltadbue si fa dell'acqua vino, et altre simili sonò di Ottaviano Mascarini. </p>
+                  <p> Quella dove <persName ref="#Jesus">Christo</persName> entra lopra l'Asina nella Citta. </p>
+                  <pb n="113"/>
+                  <p> Quella dove Maria <persName ref="#MarieMadeleine">Madalena</persName> lava li piedi a <persName ref="#Jesus">Christo</persName>. Quella dove <persName ref="#Jesus">Christo</persName> lava hi piedi alli Apostoli sono di <persName ref="#Raphael">Raffaello</persName> da Reggio. </p>
+                  <p> Quella dove <persName ref="#Jesus">Christo</persName> caccia li banchieri dal portico et I' altre simili, di <placeName ref="#Paris">Paris</placeName> Romano: Il restante di esse istorie sono di Geronimo Massei, et altri. Sono tutte a fresco. </p>
+               </div3>
+               <div3 xml:id="L1C13SC15" type="sous-chapitre">
+                  <head rend="it">Pittare della loggia di sopra di Gregorio Deoimotero.</head>
+                  <p> L'istorie della sua volta so no di Nicolao dalle Pomaracie, l'altre di Giovan Battista della Marcha e di <placeName ref="#Paris">Paris</placeName> Romano, si eome ulcune cartelle delle quali ve ne sono del Ca ualier Gioseppe Cesafe, d Antonio Tempesta, e li paesi <pb n="114"/> sono di Matteo Brillo Fiamengo. </p>
+               </div3>
+               <div3 xml:id="L1C13SC16" type="sous-chapitre">
+                  <head rend="it">Pitture nollalog. luarto. sime piano di Pio.</head>
+                  <p> L'istorie della sua volta sono del Bronzino, e di Nicolao delle Pomarancie. Le Cosmografie di Antonio daVarese. </p>
+               </div3>
+               <div3 xml:id="L1C13SC17" type="sous-chapitre">
+                  <head rend="it">Tornando al piano della loge. di Leone y andare nell appartamento vecchio, entrado dalla, porta verso le scate.</head>
+                  <p> La pittura sopra essa porta è di <persName ref="#Donatello">Donato</persName> da Formello. Si passa dentro, et si entra nella, saletta delli Sguizzan guardia Pontificia. </p>
+                  <p> La figura del silentio o chiaroscuro, di Pari no. </p>
+                  <pb n="115"/>
+                  <p> Quella del Sansone del me desimo colore del Cavaliere Gioseppe Gesare d'Arpmo. La colorita, che tiene l'ancora di Giovan Battista della Marcha. Quella dell'Honore con alcune storiette gialle sotto le fenestre, di Antonio Tempesta. Il restante delli medesimi. </p>
+               </div3>
+               <div3 xml:id="L1C13SC18" type="sous-chapitre">
+                  <head rend="it">Quello nolla stunza, che Jegue</head>
+                  <p> Li Apostoli dichiaroscuro erano fatti al tempo di <persName ref="#Raphael">Santio</persName>, ma dopò sotto pretesto di rinfrescarli, non si sa di chi sieno. Il suo fregio è delli no minati nell'altra stanza. </p>
+               </div3>
+               <div3 xml:id="L1C13SC19" type="sous-chapitre">
+                  <head rend="it">Pitture nolla Salo, che segue detta di <persName ref="#Constantin">Costantino</persName>.</head>
+                  <p>La inventione dalla cornice <pb n="116"/> a basso è di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName> da Vrbino, il quale mori prima, che si depingesse essa Sala, nella quale. </p>
+                  <p> La pittura del parlamento alli Soldati, di <persName ref="#GiulioRomano">Giulio Romano</persName>. Quella sopra il camino, di <persName ref="#Raphael">Raffaello</persName> del Borgo. Quel la dalsa bataglia, di mano di tutti li nominati nelle loggie di <persName ref="#Raphael">Raffaello</persName>, sì come il resto della cornice a basso. Quella del Batresimo del Fastor buono. </p>
+                  <p> Quelle dalla cornice in sù sono di Tomaso Laurenti Siciliano. </p>
+               </div3>
+               <div3 xml:id="L1C13SC20" type="sous-chapitre">
+                  <head rend="it">Pitture nella segnente stanta.</head>
+                  <p> Tuttè sono inuentioni di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName>. </p>
+                  <p> L'istoria dell'Eliodorolso <pb n="117"/> pra il camino dipinta da <persName ref="#GiulioRomano">Giulio Romano</persName>. Quella d'<persName ref="#Attila">Attila</persName> con il Papa. Quella della carcer di <persName ref="#SaintPierre">S. Pietro</persName>. Quella del Santiss. Sacramento, sono di mano di. Raffuello <persName ref="#Raphael">Santio</persName>. </p>
+               </div3>
+               <div3 xml:id="L1C13SC21" type="sous-chapitre">
+                  <head rend="it">Pitture della feconda stanza.</head>
+                  <p> Quella del Monte Parnaso. Quella della scola d'<placeName ref="#Athenes">Athene</placeName>, di mano di Raffaelle <persName ref="#Raphael">Santio</persName>. Ma sono staterepulite. </p>
+               </div3>
+               <div3 xml:id="L1C13SC22" type="sous-chapitre">
+                  <head rend="it">Pitture netla terzà stanta.</head>
+                  <p> Quella dell'incendio diBorgo, et parte di quella def Concistorio, sono di mano di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName>. </p>
+                  <p>Quella delle barche era di <persName ref="#Gaudenzio">Gaudentio</persName> Milanese, mâ fu racconcia al tempo di Gregorio XV.</p>
+                  <p> Quella di sopra la fenestra <pb n="118"/> non si può considerare di chi sia, se bene è fama che fusse fatta prima meglio, ch'hora non appare. </p>
+                  <p> In quella del Concistoro vi e una figura, che porta un peso vioino ad un armato, quale fù rifatta perché era caduta insie me con la calce, da Lorenzino da Boldgna. </p>
+                  <p> La volta della stanza dell Incendio fu dipinta da <persName ref="#Perugin">Pietro Perugino</persName> prima che <persName ref="#Raphael">Raffaello</persName> fusse in <placeName ref="#Rome">Roma</placeName>. </p>
+                  <p> Le figure dell'altro doi stanze erano cominciate da Bal dassarre da <placeName ref="#Sienne">Siena</placeName>, ma por mutatosi il governo suocesse Architetto <persName ref="#Bramante">Bramante</persName> da Casteldurante, il quale pose nell'ope ra <persName ref="#Raphael">Raffaello</persName>, et Baldassarre <pb n="119"/> hebbe di gratia di fare in esse stanze le cose, che appartenevano alla Prospettiva, sì come fece sotto pretesto di fiutta. Ne gli valse l'essere Eccellemtiss. Architetto oltre la pittura, et ultro. </p>
+                  <p> Tutti li chiaro scuri, che sono sotto l'istorie erano diPie. rino del <persName ref="#PietroBuonaccorsi">Vago</persName>, come in alcuni pezzetti si va vedendo, ancora che siano stavi racconci. </p>
+               </div3>
+               <div3 xml:id="L1C13SC23" type="sous-chapitre">
+                  <head rend="it">Pitture della Galleria che fece fare Gregorio Decimoter40.</head>
+                  <p> Le Cosmograsie furono di segnate dal Padre Ignatio dell'ordine di S. Domenico. </p>
+                  <p> Le figure furono dipintedalli medesimi, che dipinsero dopò nella lo zia Gregoriana </p>
+               </div3>
+               <pb n="120"/>
+               <div3 xml:id="L1C13SC24" type="sous-chapitre">
+                  <head rend="it">Pitture nelle loggie non fenite nel secondo otano.</head>
+                  <p> Quelle istoriette non finite che vi sono parte di ParisRomano, e parte di Pasquale Cati </p>
+               </div3>
+               <div3 xml:id="L1C13SC25" type="sous-chapitre">
+                  <head rend="it">Pitture della sala Clemientina vel medesimo Piano.</head>
+                  <p> Quelle dalla cornice in su figure, et prospettive, sono di Giovanni Alberti dal Borgo. </p>
+                  <p> Quella dalla cornice a basso delle prospettive in fuora che sono del detto Giovanni, sono di Baldassarino da <placeName ref="#Bologne">Bologna</placeName>, e del fratello de Giovanne, il quale era morto. Il mare e di Pavolo Brillo. </p>
+               </div3>
+               <div3 xml:id="L1C13SC26" type="sous-chapitre">
+                  <head rend="it">Pitture vella sala seguante, et sue lamere.</head>
+                  <p> Sono fregi soturto la soffitta <pb n="121"/> con istorie, e paesi, sono di ma no di Baldassarino da <placeName ref="#Bologne">Bologna</placeName>, del Cavalier Gaspare Celio, di Pasquale Cati, d'Antonio Sordo, e d'altri diversi, la sopraintendenza fu del detto. Celio, sono a fresco. </p>
+               </div3>
+               <div3 xml:id="L1C13SC27" type="sous-chapitre">
+                  <head rend="it">Si cala a basso, e si trona il Corritore, che va à Beluedere.</head>
+                  <p> Il corritore, et le scale a lu maca alla destra, è architte tura di Bramhnte. </p>
+                  <p> Le figure di stuoco attor no llarme di Giulio Terzodisegno di Duniello da Volterrà, fatte dalli suoi discepoh. </p>
+                  <p> Le pitture nella volta, chè dopò l'arme, et collaterali, et quelle delli fregi sopra nelle <pb n="122"/> stanze sopra essa volta, sono di Pellegrino detto da <placeName ref="#Bologne">Bologna</placeName>: </p>
+               </div3>
+               <div3 xml:id="L1C13SC28" type="sous-chapitre">
+                  <head rend="it">Si passa per un corritore stretto, et si va verso Tramontana. nell'appertamento, che fece fare Innocentio Ottavo,</head>
+                  <p> La pittura della Capelletta con alcune altre in detto appartamento sonò antiche mo derne, di mano di <persName ref="#AndreaMantegna">Andrea Mantegna</persName> Mantuano: Due putti sopra un camino, sono di <persName ref="#GiulioRomano">Giulio Romano</persName>, sono tutte a fresco, si vede verso Tramontana dalle sue fenestre la Valle dell'Inferno. </p>
+               </div3>
+               <pb n="123"/>
+               <div3 xml:id="L1C13SC29" type="sous-chapitre">
+                  <head rend="it">Si torna fuora di esso apparta mento, et si entra nel picciolo giardino dove sono le statue antiche.</head>
+                  <p> Il torso, cioè il busto del <persName ref="#Hercule">Ercole</persName>, che stà a sedere, li due fiumi Tevere, e <placeName ref="#Nil">Nilo</placeName>, l'<persName ref="#Apollon">Apollo</persName>, l'Antino, il Saturno, la <persName ref="#Venus">Venere</persName>, et altre, sono mag. giori del naturale-Alcune hanno il nome in Greco, Vi è il Laoconte, con li figlivoli, et il serpe. </p>
+               </div3>
+               <div3 xml:id="L1C13SC30" type="sous-chapitre">
+                  <head rend="it">Se passa avanti nell Appartamento, che fece Pio Quarto.</head>
+                  <p> Le pitture, che fono nella prina Saletta, nel suo fregio, qualla; dove Mosè è avanti Faraone con l'altra simile, è <pb n="124"/> di <persName ref="#FedericoZuccaro">Federico Zuccaro</persName>; Quella dove si conuerte la ver ga in serpe, è di Federico Baroccio, et l'altre simili di maniera, l'altra di Taddeo Zuccari. </p>
+                  <p> Vi è un altra Sala in esso appartamento, dove è un fregio molto grande, le due istoriè, che sono piu chiare di colori, sono di Nicolao dalle Pomenrancie; l'atra è di Giovanni de Vecchi; Chi vi habita non ne tiene conto. </p>
+               </div3>
+               <div3 xml:id="L1C13SC31" type="sous-chapitre">
+                  <head rend="it">Palazo de Signori Barberini. nelia calata del Monte Quirinale verso Tramontana.</head>
+                  <p> Nel Palazzo de Signori Barberini, nel quale hora habita l'Eminentissimo Cardi <pb n="125"/> nal Antonio di questo cognome, vi sono Pitture di Raffacllo, del <persName ref="#Correge">Correggio</persName>, di <persName ref="#AndreaDelSarto">Andrea del Sarto</persName>, di <persName ref="#GiulioRomano">Giulio Romano</persName>, del Parmeggianino, et altri artefici, sicome nell'altri Palazzi di questa eccellentissima Casa. </p>
+               </div3>
+               <div3 xml:id="L1C13SC32" type="sous-chapitre">
+                  <head rend="it">Casino sopra il Monte Aureo, che gumanda dalla loggia verso il Teucre.</head>
+                  <p> Le quattro istorie, chè sono nella Saletta, che rappresentaho la trovata della sepol tura di <persName ref="#NumaPompilius">Numa Pompilio</persName>, disegnio di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName>, e colorite da <persName ref="#GiulioRomano">Giulio Romano</persName>. Vi era un stanz ino con alcune teste nella sua volta delli <pb n="126"/> medesimi, ma è stato ritocco, che vuol dir guasto. </p>
+               </div3>
+               <div3 xml:id="L1C13SC33" type="sous-chapitre">
+                  <head rend="it">Pitture fatte nel Palazto di Agostino Gisi nella via detta Longara verso il Tevere.</head>
+                  <p> Quella di fuora di chiaro. scuro, e quella nella loggetta dalla cornice in sù, con una testa di chiaroscuro, sopral'arricciatura in una lunetta sono a freseo, di Baldassarre da <placeName ref="#Sienne">Siena</placeName>, et l'architettura di esso Phlazzo, con alcune prospettive in Sala, et nelle Camere vi sono istorie di Iacomo Sodoma Sanese, et altri. </p>
+                  <p> Quelle della loggia grande sono inuentione di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName>, e di fua mano sono le tre gratie dalle teste in fuora, </p>
+                  <pb n="127"/>
+                  <p> con le tre oratie in capo la tavola delle nozze di Pliche, et ascuni pezzi di puttini dentro le lunette, Il peduccio dove è la Cerare, quello doveGiove bacia <persName ref="#Cupidon">Cupido</persName>; quello dove <persName ref="#Venus">Venere</persName> insegua a <persName ref="#Cupidon">Cupido</persName>, che vada, sono di maho di <persName ref="#GiulioRomano">Giulio Romano</persName>. </p>
+                  <p> Quelle del <persName ref="#Mercure">Mercurio</persName>, quel le verso il prato con femine, sono di <persName ref="#Gaudenzio">Gaudentio</persName>, il resto è delli nominati, con <persName ref="#Raphael">Raffaello</persName> dal Borgo. </p>
+                  <p> Li festoni, et animali sono di Giovanne da Vdine, il tutto è a fresco. </p>
+                  <p> La Galatea, nella loggietta già detta di Baldassarro sopra il muro della tavola damangiare, è di Raffaelle <persName ref="#Raphael">Santio</persName>. </p>
+                  <pb n="128"/>
+                  <p> Il <persName ref="#Polypheme">Polifemo</persName> in essa loggietta con l'<persName ref="#Icare">Icaro</persName>, di Fra Bastiano del Piombo. </p>
+                  <p> L'architettura del Casino dove si tiene il fieno, perche non fu fenita, è quella di una loggietta sopra la riva del evere, è di Raffaelle <persName ref="#Raphael">Santio</persName>, Nella qual loggietta diede da cena a <persName ref="#LeonX">Leone X</persName>. Agostino Ghisi, et si buttavano tutti gli argenti nel. Fovere, ma vi era una rete, che li raccoglieva. et finita la cena tu attertatas sicome stà hora, accion altri non vi fosse regalato. </p>
+                  <p> Dietro lo spatio del Palazzo vi è un casino, ch'hà un cortile con un Cipresso. il quale si vede dalla strada, che tu prantato da Pavolo Terzo </p>
+                  <pb n="129"/>
+                  <p> il giorno che fi addottorò, sicome un Platano, ch'è vicino al Casino dalla parte di verso il Tevere; era luogo di ricrea tione della casa di Pavolo Terzo. </p>
+               </div3>
+               <div3 xml:id="L1C13SC34" type="sous-chapitre">
+                  <head rend="it">Pitture fatte nel Palazzo in strada: Giulia vicino al Tevere, del Cardinal Motepulciano.</head>
+                  <p> Quelle della sala a fresco con li atti di <persName ref="#David">David</persName>, sono di Cecchino del Saluiati. </p>
+               </div3>
+               <div3 xml:id="L1C13SC35" type="sous-chapitre">
+                  <head rend="it">Pitture nel Palazzo detto del Duca, dove si crede fosse il Teatro di Pampeo.</head>
+                  <p> Quelle che sonò nella Sala grande fatte per cominciamento dell'opera con l'attioni <pb n="130"/> di Pavolo Terzo, sono di Tadeo et Federico. Zuccari. </p>
+                  <p> Quelle della seguente saletta, che sono collaterali all antrata di fuon, di Cecchino del Saluiati. </p>
+                  <p> Quelle sopra la porta, et à torno, di Tadeo Zuccari. </p>
+                  <p> Quelle sopra la finestra di <persName ref="#FedericoZuccaro">Federico Zuccari</persName>. </p>
+                  <p> Quelle del fregio dell'altra saletta seguente di <persName ref="#DanieleDaVolterra">Daniello da Volterra</persName>, sono a fresco. </p>
+                  <p> Una. Madomna a sedere con il <persName ref="#Jesus">Christo</persName> sopra le ginocchia, chè dà la benedittione al S. Giovannino in ginocchioni con S. Elisabetta ad olio, di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName>. </p>
+                  <p> Quella dove è il Giudicio Universale, copia del Buona <pb n="131"/> ruoti, fatta ad olio, di mano di <persName ref="#MarcelloVenusti">Marcello <reg>Venusti</reg></persName>. </p>
+                  <p> a sottovolto in un stanzino a fresco di Anibal Caraz </p>
+                  <p> Le istorie dentro la volta della galleria sono copiateldalli disegni di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName>, et fatte da Anibal Carazza, et Agostino suo fratelio. </p>
+                  <p> Il resto della galleria a fresco eon quelle delli stanzini vicino al fiume ad olio sono delli medesimi Anibale, et Agostino fratelli. </p>
+                  <p> La statua del Duca Alessadro nella sala grande è di Si mone Maschino da Carrata. </p>
+               </div3>
+               <div3 xml:id="L1C13SC36" type="sous-chapitre">
+                  <head rend="it">Le Antiche sono.</head>
+                  <p> Li doi pris gioni collaterali alia porta della sala, la sta <pb n="132"/> tua di Paragone, quella di Por fido, et altre che sono di sopra, con molte teste di persone Hroiche. </p>
+               </div3>
+               <div3 xml:id="L1C13SC37" type="sous-chapitre">
+                  <head rend="it">Dopo nel Cortile.</head>
+                  <p> Vi sond li doiExtoli, sa flora, li doi gladiatori. Alcunes sono ristaurate con pezzi mo, derni da Frà Guglielmo della porea con l'interuente onaruoti. </p>
+                  <p> Nel Cortiletto vi è la Dij ce ligata al toro, alquanto restaurat </p>
+                  <p> Di sopra all'yltimo piano del Pasazzo vi èllo studio, che fu di Euluio Orsino persona insigne, neli erudipione antichita, in esso vr erano dise gni di <persName ref="#MichelAnge">Michelangelo</persName> Buonaruoti, di <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName>, e di <pb n="133"/> altri arte fioicon pitture, Camei, et medaglie antiche, ililuque go era l'appartamento dove esso Fuluio habstava. </p>
+                  <p> L'architettura di essob Palazzo ne fecella planta, et alzato fino al primos piano il Sangallo, dopoi segui il Buon naruoti con il qual ordine si è finito. </p>
+                  <p> Rlneontios di esso Palapzo vie Voa cdlls Torovha istatua di <persName ref="#Adonis">Adone</persName> anticà. </p>
+               </div3>
+               <div3 xml:id="L1C13SC38" type="sous-chapitre">
+                  <head rend="it">Ruture del. Palaz Ig della o 101. Cancellaria.</head>
+                  <p> Quelle della seconda salai sonq di Giorgio Nasor, et aletiiperò disegoco di esso Giorgio Archiretturs di de <pb n="134"/> to Palazzo dicono delli Sangalli. </p>
+               </div3>
+               <div3 xml:id="L1C13SC39" type="sous-chapitre">
+                  <head rend="it">Patture nel Palaczo vecchio del Signos Marchese Mutchei.</head>
+                  <p> Quella in un sottovolto nel piano dabasso con Sileno a fresco, di Franoesco da <placeName ref="#CittaDiCastello">Castello</placeName>. </p>
+                  <p> Quelle di vha suletta di sopra, di Tadeo et <persName ref="#FedericoZuccaro">Federico Zuccari</persName>. </p>
+                  <p> Quelle della presa di <persName ref="#Jesus">Christo</persName> mebze figure. Quella de Emaus. Quella del Pastor friso, ad olio, di Michelangele da <persName ref="#Caravage">Caravaggio</persName>. </p>
+                  <p> Quella dove Cestre parla con Pompeb con alcuni soldali o cavalli ad ollo del Cavalier <pb n="135"/> Gaspare Celio. L'architettura del Palazao dicono delli Sangalli. </p>
+               </div3>
+               <div3 xml:id="L1C13SC40" type="sous-chapitre">
+                  <head rend="it">Quelle del Palazno nuodo del medesimo a SCatarina de funari.</head>
+                  <p> La pittura sotto volto nel piano da basso, dove appare <persName ref="#Jupiter">Giove</persName>, che fulmina li Giganti, Quella ch'è nella volta della Sala grande, primo spiano salito le scale, dove è Mosè, ch'hà passato il mar rosso, Quella della Cappelletta nel secondo piano a rresco tutte, Quella, deli Altare di essa Cappelletta con alcuni sopra porti ad'olio, sono tutte del Cavalier Gaspare Celio. La Cappella del secondo piano <pb n="136"/> del Cavalier Christoforo Ron calli, il resto di diversi. LArchitettura del Palazzo, di Car lo Maderna, Ancora ha esso Signor Marchese is giardivo alla navicella nel Monte Celio, con molte cose curiose di statue, et pitture. </p>
+                  <p> uelle pitturè che rappre sentano li Castelli del Marchesato, sono di Pavolo Brilli, sono nel Palazzo nuovo di esso Signor Marchese, </p>
+               </div3>
+               <div3 xml:id="L1C13SC41" type="sous-chapitre">
+                  <head rend="it">Pitture nel Casino del Signor Principe Peretti nel Colle Esquilino, eia Orti di Mece nate, presso <persName ref="#Marie">S. Maria</persName> Mag. giore.</head>
+                  <p> Vi sono molti ritratti di dame, di mano di <persName ref="#ScipionAfricain">Scipione</persName> Caetano, <pb n="137"/> et altre pitture di arten ci nomati, con statue antiche. </p>
+               </div3>
+               <div3 xml:id="L1C13SC42" type="sous-chapitre">
+                  <head rend="it">Pitture nel Palag7o del Signor Principe Borghese, et nella Vogna posta id toco detto Pariolos fuora di Porta Pin lcians.</head>
+                  <p> Nel Ralazzo vi è una Pre tà ad olio di. <persName ref="#Raphael">Raffaello</persName>
+                     <persName ref="#Raphael">Santio</persName>; ve ne sono di <persName ref="#Titien">Titiano</persName>, di <persName ref="#MichelAnge">Michelangelo</persName> da Garavag gio, del: Cavalien Celio, e d'altri artefici, et molte statue antiche. </p>
+                  <p> Nella vigna vo no sono in grandissima quantità, con altre cose assai curiose. </p>
+               </div3>
+               <pb n="138"/>
+               <div3 xml:id="L1C13SC43" type="sous-chapitre">
+                  <head rend="it">Pitture del Casino del Signon Prencipe Aldobrandino nel Monte detvo Magnanapoli.</head>
+                  <p> Quella do <persName ref="#Bacchus">Bacco</persName> che scende dal Curro, è di <persName ref="#Titien">Titiano</persName>. Ve gio, del ne sono del Correg <persName ref="#Parmigianino">Parmegiano</persName>, di <persName ref="#GiulioRomano">Giulio Romano</persName>, e di altri in gran quan tità, con altre cose curiose, </p>
+               </div3>
+               <div3 xml:id="L1C13SC44" type="sous-chapitre">
+                  <head rend="it">Palaz ron giardino del Gran Duca di <placeName ref="#Toscane">Toscana</placeName> sopra il Monte Pincio.</head>
+                  <p> La pittura del <persName ref="#Jesus">Christo</persName>, che porta la Groce, mezze figure, sopraporto, di <persName ref="#ScipionAfricain">Scipione</persName> Caetano. Vi è la copia del ritratto di <persName ref="#LeonX">Leone X</persName>. con il Cardinale Giulio, fatta da quella <pb n="139"/> di Raffaelle <persName ref="#Raphael">Santio</persName>, la quales stà in <placeName ref="#Florence">Fiorenza</placeName>. Vi lono altre copie. et driginali. </p>
+               </div3>
+               <div3 xml:id="L1C13SC45" type="sous-chapitre">
+                  <head rend="it">Le Statue antiche sono</head>
+                  <p> Quelle della lotta, quella del Villano, che arruora il cortello, quella del- <persName ref="#Cupidon">Cupido</persName>, quella della <persName ref="#Venus">Venere</persName>; et altre in esso Palazzo. </p>
+               </div3>
+               <div3 xml:id="L1C13SC46" type="sous-chapitre">
+                  <head rend="it">Nel Giardino vi sond</head>
+                  <p> La istoria della Niobe con molte figure, et un cavalloQuelle della Galleria con- il Martia, et molti Apolli, et Mercurij, Quelle nella facciata del Palazzo verso il Giardino con molti bassi rilievi sono restaurate. Quelle della loggia, che sono Sabbine, <pb n="140"/> quella di metallo, che rappresenta <persName ref="#Mercure">Mercurio</persName>, di Giovan <placeName ref="#Bologne">Bologna</placeName>, la qual serue nella fontana. </p>
+               </div3>
+               <div3 xml:id="L1C13SC47" type="sous-chapitre">
+                  <head rend="it">Nel. Casino, del Signor Duca li Sennesio, nel Monte S. Spiteto, vi sono, molie pitture di artefici nominati, et altre cose curiose.</head>
+                  <p> Nel Palazzo del Sign. Marchese Giustiniano vicino a S. Aloisi, vi sono molte pitture, et altre cose curiose, di Statue, et Medaglie. </p>
+               </div3>
+               <div3 xml:id="L1C13SC48" type="sous-chapitre">
+                  <head rend="it">Pittur del Palazzo del Senato Romano, nel Monte Tareio lopo detto <placeName ref="#Capitole">Campidoglio</placeName>.</head>
+                  <p> Quelle della prima Sala <pb n="141"/> con li Oratij, et Curiatij; et Romoloh et Remo con sa lupa, e tutto il resto, sono a fresco, del Cavalier GioseppeCesare. </p>
+                  <p> Quelle dell'altia Sala, dove è Bruto, che sententia il figlivolo, et Oratio Coclitè sopra il Ponte, sono a fresco, di Tomaso Laureti Siciliano. </p>
+                  <p> Vi fono molte statue, alcune di metallo, molte di pictrà di sopra, ie peri se escale antiche, e nol Cortiletto: </p>
+                  <p> Nella plazza vi è il Cavals lo con la figura sopta di Metallo. Vi lono li due fiumi collaterali alla fontana; vi sonoi li due capalli al capo dells scalo con le sue figure; et ni Trosui di Manio, vi è il fiume: </p>
+                  <pb n="142"/>
+                  <p> Panare, detto dal volgo Mar forio, al principio delle scale vi sono le Sfingie. </p>
+                  <p> L'Architettura del Portico di esso Palazzo, con il suo alzato. è di <persName ref="#MichelAnge">Michelangelo</persName> Buonaruoti. </p>
+                  <p> Vi sono Gentilhuomini par ticolari, ch'hanno cose molto curiosese degnie d'esser viste, e lodates fra li quali il Signor Abbatel Lelio Guidiccioni, il Sig. Angelo Angeloni, che oltre le pitture, ha molto medaglie; et alire cose curiose, sicome il P. Mastro Fra Gio. Battista dell'ordine di S. Agosti no, et altri, li quali non si dicono, perché non e certo dhe iestino ferme, poicha le danno via secondo l'octasione. </p>
+               </div3>
+               <pb n="143"/>
+               <div3 xml:id="L1C13SC49" type="sous-chapitre">
+                  <head rend="it">Pitture sapra le facciate delle case di <placeName ref="#Rome">Roma</placeName>.</head>
+                  <p> La pittura della facciata della Casa incontro a S. Eustachio con leattioni di detto Santo, è di <persName ref="#FedericoZuccaro">Federico Zuccari</persName>, è colorita a fresco. </p>
+                  <p> La facciata di chiaroscuro sopra le botteghe di essa piaz za, di <persName ref="#PolidoroDaCaravaggio">Polidoro da Caravaggio</persName>, delquale sono ancora? l'infrascritte. </p>
+                  <p> Quella incontro al Palazzo del Sig. Duca d'Acquaspar ta, con li avuenimenti di Niobe. </p>
+                  <p> Quella che, gliè incontro nel Palazzo, è di <persName ref="#MaturinoFiorentino">Maturino</persName> Biorentino. </p>
+                  <p> Quella nella via delli Coronan con il bue, de Perillo. </p>
+                  <pb n="144"/>
+                  <p> Quella in strada Giulia con il ratto delle Sabine, et attioni di Mutio Scevola, et quelle di Oratio Coclite, et ialtro. </p>
+                  <p> Quella alla radice del mon te Citorio con alcuni Boui. </p>
+                  <p> Quella nella piazza vicina di Campo Martio; con alcune Bighe, et altro, sono tutte di chiaroscuro. </p>
+                  <p> Quella in Borgo nuovo, che fa cantone per fianco alla Chiesa della <persName ref="#Marie">Madonna</persName> delli Carmelitani. </p>
+                  <p> Quella con uno fregio, casa piccola nel medesimo Bor 3o. sono di Sgraffito, nella pri ma ui sono Battiour di <persName ref="#Apollon">Apollo</persName>, nella seconda vi fogliamem con alcune femine. </p>
+                  <p> Quella fuora di Porta Ca <pb n="145"/> stello casa di Vigna. </p>
+                  <p> Quella dopò la Chiesa del li Orfanelli, vi è la giustitia. </p>
+                  <p> Quella alla destra andando dall'Ostaria. dell'Orso verso la Trinità, con alcune navi, sono di chiaroscuro. </p>
+                  <p> Ve ne erano di esso <persName ref="#Polydore">Polidoro</persName> delle altre, cioè una in Piazza Madama, una a Casapia, la prima havea le attioni delle Sabine, la seconda del segnare che fece Romulo le mura di <placeName ref="#Rome">Roma</placeName>. Una dove hog. gi è la Ripetta delle legnia, con le attioni di <persName ref="#AlexandreLeGrand">Alessandro Magno</persName>, et doi fiumi, Una nel Colle Viminale, quando li Galli pesavano l'oro in Cam pidoglio, questa và in stampa intagliata da Herrigo Gollio, <pb n="146"/> disegnata dal Celio, et altre anco vanno in stampa. </p>
+                  <p> Quella della facciata, che sta alla sinistra per andare da Pasquino a <persName ref="#Marie">S. Maria</persName> dell'Anima, è di chiaroscuro di Pierino del <persName ref="#PietroBuonaccorsi">Vago</persName>, sicome le doi figure collaterali ad un arme di chiaroscuro in borgo nuovo. </p>
+                  <p> Le pitture di un Cortiletto nel vicolo de Savelli, et un arme con molti putti in una loggietta nella Vigna del Gran Duca di <placeName ref="#Toscane">Toscana</placeName> fuora della Porta Flaminia, che guar da verso il Tevere, sopra la Chiesola di S. Andrea, che stà nella detta Via fuora di <placeName ref="#Rome">Roma</placeName>, dove sono due <persName ref="#Santi">Santi</persName> collaterali all'altare, sono tutte <pb n="147"/> di Pellegrino detto da Bolognas. </p>
+                  <p> Andando dal Campo Mar tio a <persName ref="#SaintLaurent">S. Lorenzo</persName> in Lucina, vi è alla sinistra una pittura di chiaroscuro con alcuni gialli, è di Pirro Ligori Antiquario, e tutte l'altre di simile maniera in diversi luoghi per <placeName ref="#Rome">Roma</placeName>. </p>
+                  <p> La facciata incontro la Chiesa di S. Giacomo dell'incurabili colorita, di Pasquale Cati, con un'arme di Casa Medici, che stà nella Piazza della Trinità. </p>
+                  <p> La facciata andando da Campo Martio alla scrofa alla destra, con attioni di <persName ref="#Hercule">Ercole</persName> colorita, un'altra sopra il sine del Monte Citoriò co <pb n="148"/> lorita con <persName ref="#Icare">Icaro</persName>, Un'altra dopò la Chiesa di S; Marcello con <persName ref="#Mercure">Mercurio</persName> colorita, Un fregio in un altra nel Pelle grino colorita, Un altra verso capo le case di chiaroscuro, di <persName ref="#Raphael">Raffaello</persName> da Reggio di lepido. </p>
+                  <p> La facciata di chiaroscuro nella via di Giupponari, Doi paesi coloriti attorno, Un arme, che stà andando da S. Lu cia della Chiavica verso Ban chi alla sinistra, Doi altri putti coloriti atto ro un arma, che stà in Borgo vecchio incontro le carceri, sono di Bal dassarre da <placeName ref="#Sienne">Siena</placeName>. </p>
+                  <p> Vi era una facciata del me desimo nella fine della piaz za delli Altieri, che la levor <pb n="149"/> no per far bianca la facciata. </p>
+                  <p> Ve ne è una dove fi fa l'osteria del Monte di Brianza, ch'il tempo l'ha consumata. </p>
+                  <p> Partendosi da Pasquino per andare alli Cesarini, nella Valle alla sinistra vi è un por tico con colonne di Trivertino, l'architettura è di Baldassarre da <placeName ref="#Sienne">Siena</placeName>; la pittura del fregio nella Sala, è di <persName ref="#DanieleDaVolterra">Daniello da Volterra</persName>. </p>
+                  <p> Passando più avanti pures alla sinistra vi è dentro sopra la porta una lunetta dipinta con una <persName ref="#Marie">Madonna</persName> con il putto, che dorme, e doi <persName ref="#Santi">Santi</persName> collaterali, S. Andrea, et un Vescovo, è a fresco mezze figurive, è di <persName ref="#GiulioRomano">Giulio Romano</persName>, </p>
+                  <p> Per andare a S. Saluatore <pb n="150"/> delle Cupelle partendosi da S. Agostino alla sinistra, vi è un palazzo, le pitture della sua Sala, e dentro, sono di Pie rino del <persName ref="#PietroBuonaccorsi">Vago</persName>. </p>
+                  <p> Dentro il <placeName ref="#CittaDiCastello">Castello</placeName> Sant Angelo nel maschio, vi è laSala dipinta, disegnio di Pie rino del <persName ref="#PietroBuonaccorsi">Vago</persName>, e dipinta insie me con li suoi discepoli, Li uio da Forli, Geronymo da Sermoneta, di Pellegrino detto da <placeName ref="#Bologne">Bologna</placeName>; e dal Fattor buono suo genero. L.Angelo, che rimette la spada, e di mano di Pellegrino. </p>
+                  <p> Vi è un giardinetto vicino a S. Andrea delle Fratte nella casa del Signor Marchese del Bufalo de Cancellieri, dove vi è una volta di una loggiet <pb n="151"/> 151 ta con <persName ref="#Apollon">Apollo</persName>, et le Muse colorita da Taddeo Zuccari; La facciata, che guarda il giardino è di chiaroscuro di Poli doro da <persName ref="#Caravage">Caravaggio</persName>; con altre fatte pure di chiaroscuro, in un cortile dietro esso Gaar dino. </p>
+                  <p> Vi sono alcune facciate di chiaroscuro, che sono di <persName ref="#Bramante">Bramante</persName> Fiorentino, fra le quali una è, dopo li Orfanelli, contigua a quella di <persName ref="#Polydore">Polidoro</persName>, et una nella via, che và da Piazza Condopula a S. Geronymo delli Schiavoni; nella prima vi è un Papa, nella secon da vi è la venuta de Maggi, e per <placeName ref="#Rome">Roma</placeName> ve ne sono molt altre, che alla maniera si ri conoscono. </p>
+                  <pb n="152"/>
+                  <p> Ve ne è una nella piazzetta delli Chiavari, cli'è di N. da San Geminianio. </p>
+                  <p> A mezzò Borgo nuovo vi è una facciata di chiaroscuro con una <persName ref="#Venus">Venere</persName>, et alcuni fabri Sterope, e Bronte, è disse gnio di <persName ref="#Raphael">Santio</persName>, et anco di sua mano molte cose, vi lavorò altri. </p>
+                  <p rend="capitals"> IL FINE. </p>
+               </div3>
+            </div2>
+         </div1>
+      </body>
+      <back type="postface">
+         <div type="dedicace">
+            <pb n="153"/>
+            <salute rend="it"> Al Signor<lb/><hi rend="capitals">GIO. VITTORIO</hi><lb/>de Rossi.</salute>
+            <signed>Il Cavalier Gaspar Celio.</signed>
+            <lg rend="it">
+               <l> SEl Saggio Greco dopò lustri tanti</l>
+               <l> Fè chiaro al Mondo del grand'Ilio il fi</l>
+               <l>Mostrando del Incendio le ruine(ne. </l>
+               <l>Co'l cantar de suoi Greci.i pregi,e i vanti,</l>
+               <l>Questi ancor saggi, e di Pitiura amanti</l>
+               <l>Han con l'opere sue belle, e Divine</l>
+               <l>Espresse l'alte attioni, e poregrine</l>
+               <l>De la GRAN CAVSA, e de gli Eroi, et</l>
+               <l>Ambi con Poesia, loquace è l'una (Canti.</l>
+               <l>E l'altra e muta nel Parnaseo stilo</l>
+               <l>Vpur dl pari van con la fortuna;</l>
+               <l>Poiche mentre i'aggiorua il mortal velo</l>
+               <l>Ogn'inotto, ogn'ardito, e sferza e impruna</l>
+               <l>E gl'Homeri, e gl'Apolli, et anco il Cielo.</l>
+            </lg>
+         </div>
+         <pb n="154"/>
+         <div type="note" xml:lang="lat">
+            <p rend="capitals"><hi rend="it">IMPRIMATVR.</hi></p>
+            <p rend="it">Alexander Lucianus icarius Generalis.</p>
+            <p>M. Fr. Dominicus Gravina Ordinis Praed. Cur. Archiepisc. Theol. </p>
+         </div>
+         <pb n="np"/>
+         <pb n="np"/>
+         <pb n="np"/>
+      </back>
+   </text>
+</TEI>

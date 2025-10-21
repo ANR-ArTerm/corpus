@@ -1,0 +1,1858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita"> Title </title>
+         </titleStmt>
+         <publicationStmt>
+            <p> Publication Information </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher> ATIR </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Vita di <persName ref="#MichelAnge">Michelangelo</persName>, <persName
+               ref="#AscanioCondivi">Ascanio Condivi</persName>, <date when="1553">1553</date>
+            --[-]-- VITA DI MICHELAGNOLO BVONARROTI RACCOLTA PER ASCANIO CONDIVI DA LA RIPA
+            TRANSONE. In <placeName ref="#Rome">Roma</placeName> appresso Antonio Blado Stampatore
+            Camerale nel M. D. LIII. alli. XVI. di Luglio. <pb n=""/> P. SANTO. Io non ardirei.
+            seruo indegno, et di si bassa fortuna, com'io sono. comparir davanti a la Santità
+            Vostra. se l'indegnità et bassezza mia non fossero state prima dispensate, et inuitate
+            da lei medesima, quando s'humiliò tanto uerso di me, che mi fece ammettere a la sua
+            presenza: et con parole conformi a la benegnità et altezza sua, si degnò darmi animo et
+            speranza, sopra al merito, et a la condition mia. Atto ueramente Apostolico, per vertù
+            del quale io mi sento esser divenuto da più ch'io non sono. et ho seguito i miei studi,
+            et la disciplina del maestro, et del'Idol mio, secondo che la Santità Vostra mi confortò
+            ch'io facessi, con tanto feruore; ch'io ho fatte fatiche, et spero di far frutti, che se
+            non hora, a qualche tempo meriteranno forse il favore et la gratia di Vostra Santità,
+            e'l nome d'esser seruitore et discepolo d'un <persName ref="#MichelAnge"
+               >Michelagnolo</persName>
+            <persName ref="#MichelAnge">Buonarroti</persName>. l'uno Principe de la Christianità,
+            l'altro de l'arte del disegno. Et per dare a la Beatitudine uostra un saggio di quel che
+               <pb n=""/> la benignità sua propria ha operato in me, come l'ho dedicato l'animo et
+            la devotion mia per sempre, così le dedico di mano in mano tutte le fatiche che da me
+            nasceranno. Et queste specialmente de la Vita di <persName ref="#MichelAnge"
+               >Michelagnolo</persName>. pensando che le debbano esser grate. per esserli grata la
+            vertù et l'eccellenza de l'huomo, che sua Santità medesima mi propose ad imitare. Questo
+            è quanto mi occorre a dir di lui. Ci restano maggior cose, che da lui si son cavate. le
+            quali si publicheranno poi per finezza et per istabilmento de l'arte: et per gloria de
+            la Santità vostra, che l'arte et l'artifice favorisce. In tanto io la supplico che non
+            si sdegni che io nel'offerisca queste povere premitie. Con le quali humilissimamente
+            m'inchino a'suoi santissimi piedi. D. V. Beat. Indegnissimo seruo <persName
+               ref="#AscanioCondivi">Ascanio Condivi</persName>. <pb n=""/> A'LETTORI. Dal'hora in
+            qua che'l Signor <persName ref="#Dieu">Iddio</persName>, per suo singolar beneficio, mi
+            fece degno, non pur del cospetto (nel quale a pena harei sperato di poter venire) ma de
+            l'amore, de la conuersatione, et de la stretta dimestichezza di <persName
+               ref="#MichelAnge">Michelagnolo</persName>
+            <persName ref="#MichelAnge">Buonarroti</persName> pittore, et scultore unico; Io
+            conoscente di tanta gratia, et amator de la professione, et de la bontà sua; mi diedi
+            con ogni attentione, et ogni studio ad osseruare, et mettere insieme, non solamente i
+            precetti ch'egli mi dava de l'arte, ma i detti, l'attioni, e i costumi suoi. con tutto
+            quello che mi paresse degno, o di maraviglia o d'imitatione, o di laude, in tutta la sua
+            vita. con animo anchora di scriverne a qualche tempo. così per render qualche
+            gratitudine a lui de gli infiniti obblighi, ch'io li tengo, come per giovar anchor agli
+            altri con gli avertimenti, et con l'essempio d'un'huomo tale. sapendosi quanto l'età
+            nostra, et quella da venire li sia obbligata. per haver da l'opere sue tanto di luce
+            rice[vuta]; quanto si può facilmente conoscere, mirando a quello de gli altri, che
+            innanzi a lui son fioriti. Mi truovo dunque haver fatte due conserue <pb n=""/> de le
+            cose sue. una appertenente a l'arte, l'altra a la vita. Et mentre tutte due si uanno
+            parte moltiplicando, et parte digerendo; è nato accidente, che per doppia cagione sono
+            sforzato d'accelerare, anzi di precipitar quella de la vita. Prima perché sono stati
+            alcuni che scrivendo di questo raro huomo, per non haverlo (come credo) così praticato,
+            come ho fatto io, da un canto n'hanno dette cose che mai non furono, da l'altro
+            lassatene molte di quelle, che son dignissime d'esser notate. Di poi per che alcuni
+            altri a'quali ho conferite et fidate queste mie fatiche, se l'hanno per modo
+            appropriate, che come di sue desegnano farsene honore. Onde per sopplire al difetto di
+            quelli, et prevenir l'ingiuria di questi altri; mi son risoluto di darle fuori così
+            immature come le sono. Et quanto al modo con che l'ho distese, poi che i miei studi sono
+            stati piu tosto per dipinger che per iscrivere; poi che le cagioni sopra dette, mi
+            tolgono il tempo di poterui attendere io, o di farmi aiutare, come io disegnava da
+            altri; appresso a'i discreti lettori, ne sarò facilmente scusato. anzi non mi curo di
+            farne scusa, perché non ne cerco laude. Et se punto me ne uiene; mi contento che sia non
+            di buono scrittore, ma di raccoglitor di queste cose diligente et fidele. affermando
+            d'haverle raccolte sinceramente: d'daverle <pb n=""/> cavate con destrezza et con lunga
+            patientia dal vivo oraculo suo: et ultimamente d'haverle scontrate et confermate col
+            testimonio de'scritti et d'huomini degni di fede. Ma per rozzo scrittor ch'io mi sia; al
+            men di questo spero d'esser lodato, che il meglio ch'io posso, ho prouisto con la parte
+            che hora si publica, a la fama del mio Maestro, et con quella che mi resta, a la
+            conseruation d'un gran Thesoro de l'arte nostra. À benefitio de la quale io la
+            comunicherò poi col mondo più consideratamente, che non ho fatto questa. Vegnamo hora a
+            la vita. <pb n="1"/> VITA DI MICHELAGNOLO BVONARROTI. Michelagnol <persName
+               ref="#MichelAnge">Buonarroti</persName> Pittore e Scultore singulare, hebbe l'origin
+            sua da Conti da Canossa, nobile et illustre famiglia del tenitorio di Reggio, si per
+            virtù propria, et antichità, si per haver fatto parentado col sangue Imperiale.
+            Percioché Beatrice sorella d'Henrico. II. fu data per moglie al Conte Bonifacio da
+            Canossa, alhora Signor di <placeName ref="#Mantoue">Mantova</placeName>, donde ne nacque
+            la Contessa Mathilda, donna di rara et singular prudenza et religione. Laquale doppo la
+            morte del marito Gotthifredo, tenne in <placeName ref="#Italie">Italia</placeName> oltre
+            a <placeName ref="#Mantoue">Mantova</placeName>, Lucca, <placeName ref="#Parme"
+               >Parma</placeName> et Reggio et quella parte di <placeName ref="#Toscane"
+               >Toscana</placeName>, che hoggi si chiama il Patrimonio di san Piero. Et havendo in
+            vita fatte molte cose degne di memoria, morendo fu sepolta nella Badia di san Benedetto
+            fuor di <placeName ref="#Mantoue">Mantova</placeName>, la qual ella haveva fabricata et
+            largamente dotata. Di tal famiglia adunq; Nel. M. CC. L. Andando a <placeName
+               ref="#Florence">Firenze</placeName> per potestà un Messer Simone, meritò per sua
+            virtù d'essere fatto Cittadino <pb n="1bis"/> di quella terra, et capo di Sestiere A che
+            in tante parti alhora era la Città divisa, essendo hoggi in quartieri. Et reggendo in
+               <placeName ref="#Florence">Firenze</placeName> la Parte. Guelfa, per li molti
+            benifici che da essa parte recevuti haveva, di Ghibbellino ch'era, diventò Guelfo,
+            mutando il colore, del'arme; che dove prima era un Can bianco rampante col losso in
+            bocca, in campo rosso, fece il Can d'oro in campo azzurro, et dalla Signoria li fur
+            donati di poi cinque gigli rossi in un rastello, et similmente il Cimiero, con due Corna
+            di Toro, Lun d'oro l'altro d'azzuro, come fin'hoggi si può veder dipinto ne targoni loro
+            antichi. Larme vecchia di Messer Simone, si vede nel Palagio del Potestà, da lui fatta
+            di marmo, come sogliano far la maggior parte di quelli, che in tal vfficio si ritrovano.
+            La cagione perché la famiglia in <placeName ref="#Florence">Firenze</placeName> mutasse
+            il nome, et di quegli da Canossa, fusse poi chiamata de <persName ref="#MichelAnge"
+               >Buonarroti</persName>, fu questa, che essendo questo nome di <persName
+               ref="#MichelAnge">Buonarroto</persName> stato in casa loro; d'età in età quasi
+            sempre, fin al tenpo di <persName ref="#MichelAnge">Michelagnolo</persName> il qual
+            hebbe un fratello pur chiamato <persName ref="#MichelAnge">Buonarroto</persName>, et
+            essendo molti di questi <persName ref="#MichelAnge">Buonarroti</persName> stati de
+            Signori, cioè del suppremo Magistrato di quella republica, et il detto suo fratello
+            specialmente, che si trouò di quel numero, nel tempo che fu Papa Lione <pb n="2"/> a
+               <placeName ref="#Florence">Fiorenza</placeName>, come ne gli annali d'essa Città si
+            puo vedere, questo nome continuato in molti di loro, passò in cognome di tutta la
+            famiglia, et tanto piu facilmente quanto il costume di <placeName ref="#Florence"
+               >Fiorenza.</placeName>negli squitini et nel'altre nominationi, è dopo il nome proprio
+            de cittadini, aggiunger quello del Padre, del Auolo, del Bisavolo, e tal volta di quelli
+            piu oltre. Sì che da i molti <persName ref="#MichelAnge">Buonarroti</persName> così
+            continuati et da quel Simone, che fu il primo in quella Città di questa famiglia di casa
+            di canossa che erano, si dissero poi di <persName ref="#MichelAnge"
+               >Buonarroti</persName> Simoni, et così hoggi si chiamano. Vltimamente andando Papa
+            Lione decimo a <placeName ref="#Florence">Firenze</placeName>; oltre a molti privilegi
+            che donò a questa casa, aggiunse ancho alla lor arme la Palla azzurra dell'arme della
+            casa de Medici, con tre gigli d'oro. Di tal casata adunque nacque <persName
+               ref="#MichelAnge">Michelagnolo</persName>, il cui Padre si chiamò Lodouico di
+               <persName ref="#LeonardoDaVinci">Lionardo</persName>
+            <persName ref="#MichelAnge">Buonarroti</persName> Simoni, huomo religioso et buono, et
+            piu tosto d'antichi costumi che nò. Il qual essendo Potestà di Chiusi et di Caprese nel
+            Casentino, hebbe questo figlivolo, l'anno della salute nostra. <date when="1474"
+               >1474</date>. il di sesto di Marzo, quatro hore inanzi giorno, in lunedi. Gran
+            natività certamente, et che gia dimostrava, quanto dovessi essere il fanciullo, et di
+            quanto ingegno, percioché havendo <persName ref="#Mercure">Mercurio</persName> con <pb
+               n="2bis"/>
+            <persName ref="#Venus">Venere</persName> in seconda, nella Casa di <persName
+               ref="#Jupiter">Giove</persName> ricevuto con benigno aspetto, prometteva quel che è
+            poi seguito, che tal parto dovessi essere, di nobile et alto ingegno, da riuscire
+            universalmente in qualunque impresa ma principalmente in quelle arti, che dilettano il
+            senso, come Pittura, Scultura, Architettura. Finito il tempo del'ufficio, il padre sene
+            tornò a Firennze, et lo dette a balia in una villa detta Settignano, vicina alla Città
+            tre miglia, dove anchor hanno una possessione, che fu delle prime cose, che in quel
+            paese M. Simone da Canossa comprasse. La balia fu figlivola d'uno Scarpellino, et
+            similmente in uno Scarpellino maritata. Per questo <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, suol dire non essere maraviglia, che cotanto dello
+            Scarpello dilettato si sia. mottegiando peraventura, o forse ancho dicendo da dovero,
+            per saper che il latte della nutrice in noi ha tanta forza, che spesse volte
+            transmutando la temperatura del corpo, di una inclinatione, ne introduca unaltra, dalla
+            natural molto diversa. Crescendo adunque il fanciullo, et venendo in età, il Padre
+            conoscendolo d'ingegno, desideroso ch'egli attendesse alle lettere, lo mandò alla squola
+            d'un maestro Francesco da Vrbino, che in quel tempo in segnava Gramatica in <placeName
+               ref="#Florence">Firenze</placeName>, ma egli, come che qualche frutto <pb n="3"/> in
+            quelle facesse pur i Cieli et la natura, a cui contrastare difficilmente si può lo
+            ritiravano alla pittura, di maniera che non si poteva tenere, che potendo rubar qualche
+            tempo, non corresse a disegnare, hor qua, hor la, et non cercasse pratica di Pittori,
+            tra liquali molto familiare gli fu un Francesco Granacci, discepolo di Domenico del
+            Ghirllandaio, il qual vedendo la inclinatione, et accesa volontà dil fanciullo, si
+            deliberò d'aiutarlo, et di continuo lo essortava alla Impresa, hor accomodandolo di
+            disegni, hor seco menandolo alla bottega del maestro, o dove fusse qualche opera donde
+            ne potesse trar frutto. La cui opera tanto puote, chè aggiunta alla natura, che sempre
+            lo stimolava, in tutto abandonò le lettere. Onde dal padre et da frategli del padre, i
+            quali tal'arte in odio havevano, ne fu mal'voluto, et bene spesso stranamente battutto,
+            a quali come imperiti del'eccellenza et nobiltà del'arte, parea vergogna ch'ella in casa
+            sua fusse. Il che avenga che dispiacer grandissimo gli porgesse, nondimeno non fu
+            bastante a rivoltarlo in drieto, anzi fatto piu animoso, volse tentare d'adoperare i
+            colori. Et essendogli messa inanzi dai Granacci una carta stampata, dove era ritratta la
+            storia di santo Antonio, quand'è battuto da Diavoli, della qual era autore <pb n="3bis"
+            /> un Martino d'Ollandia, huomo per quel tempo valente, la fece in una tavola di legno
+            et accomodato dal medesimo di colori et di pennegli, talmente la compose et destinse,
+            che non solamente porse maraviglia a chiunche la vedde, ma ancho in uidia, come alcuni
+            vogliano, a Domenico, piu pregiato Pittore di quella età, come in altre cose di poi si
+            puo manifestamente conoscere. Il qual per far l'opera meno maravigliosa, solea dire
+            essere vscita dalla sua bottega, come s'egli ce n'havesse parte. In far questo
+            quadretto, per ciò che oltre all'effigie del santo, c'erano molte strane forme et
+            mostrosità di demoni, vsò <persName ref="#MichelAnge">Michelagnolo</persName> una cotal
+            diligenza, che nessuna parte coloriva, ch'egli prima col naturale non havesse conferita,
+            sì che andatosene in pescharia, considerava di che forma et colore fusser l'ali de
+            pesci, di che colore gliocchi, et ognaltra parte, rappresentandole nel suo quadro, sì
+            che conducendolo a quella perfettione che seppe, dette fine allhora ammiratione al
+            mondo, et come ho detto qualche inuidia al Ghirlandaio, la quale viè piu si scoperse,
+            che essend'egli da <persName ref="#MichelAnge">Michelagnolo</persName> un giorno
+            ricercato d'un suo libro di ritratti, nel qual eran dipinti pastori con sue pecorelle et
+            cani, Paesi, Fabriche, rouine et simiglianti cose, non gnene volse prestare. E in vero
+               <pb n="4"/> hebbe nome d'essere inuidiosetto, per ciò che non solamente verso
+               <persName ref="#MichelAnge">Michelagnolo</persName> apparue poco cortese, ma ancho
+            verso il fratel proprio, il qual egli vedendo andare innanzi et dare grande speranza di
+            se stesso, lo mandò in <placeName ref="#France">Francia</placeName>, non tanto per util
+            di lui, come alcuni dicevano, quanto per restare il primo di quel arte in <placeName
+               ref="#Florence">Firenze</placeName>. Del che ho voluto far mentione, per che m'è
+            detto chel figlivolo di Domenico, suole l'eccellenza, et divinità di <persName
+               ref="#MichelAnge">Michelagnolo</persName>, atribuire in gran parte alla disciplina
+            del padre, non havend'egli portogli aiuto alcuvo, benche <persName ref="#MichelAnge"
+               >Michelagnolo</persName> di ciò non si lamenta, anzi loda Domenico, e nel arte e ne
+            costumi. Ma questa sia un poco di digressione, torniamo alla nostra storia. Porse non
+            minor maraviglia in quel medesimo tempo, un'altra sua fatica, condita però con una cotal
+            piacevolezza. Essendogli data una testa perché egli la ritraessi, così a punto la
+            rappresentò. che rendendo al padrone il ritratto in luogo del essempio, non prima fu da
+            lui lo'nganno conosciuto, che ciò conferendo il fanciullo con un suo compagno et
+            ridendosene, gli fusse scoperto. Molti di ciò volson far paragone, ne trovaron
+            differenza, per ciò che oltre alla perfettione del ritratto, <persName ref="#MichelAnge"
+               >Michelagnolo</persName> col fumo lo fece parer di <pb n="4bis"/> quella medesima
+            vecchiezza, ch'era l'esempio. Questo gli arrecò molta riputatione. Ora ritraendo il
+            fanciullo, hor questa cosa, hor questa altra, non havendo ne fermo luogo ne studio,
+            avuenne che un giorno fu dal Granacci menato al giardin de Medici a san Marco, il qual
+            Giardino il Magnifico Lorenzo padre di Papa Lione, huomo in tutte l'eccellenze
+            singulare, havea di varie statue antiche et di figure ornato. Queste vedendo <persName
+               ref="#MichelAnge">Michelagnolo</persName>, et gustata la bellezza del opere, non piu
+            di poi alla bottega di Domenico, non altrove andava, ma qui tutto il giorno, come in
+            migliore squola di tal facultà si stava, sempre facendo qualche cosa. Tra le altre
+            considerando un giorno la Testa d'un <persName ref="#Fauno">Fauno</persName> in uista
+            gia vecchio, con lunga barba, et volto ridente, anchor che la bocca per l'antichità
+            appena si vedesse o si cognoscesse quel che si fusse, et piacendogli oltre a modo, si
+            propose di ritrarla in marmo. Et facendo il Magnifico Lorenzo in quel luogo alhora
+            lavorare i marmi, o voglian dir conci, per ornar quella nobilissima libreria, ch'egli e
+            i soi magiori racolta di tutto il mondo haveano, la qual fabrica per la morte di Lorenzo
+            et altri accidenti trasandata, fu doppo molti anni da Papa Clemente ripresa, ma però
+            lasciata imperfetta, si <pb n="5"/> che per anchora i libri sono in forzieri,
+            lavorandosi dico tai marmi, <persName ref="#MichelAnge">Michelagnolo</persName> se ne
+            fece dare da quei Maestri un pezzo, et accomodato da quei medesimi de ferri, con tanta
+            attentione et studio si pose a ritrarre il <persName ref="#Fauno">Fauno</persName>, che
+            in pochi giorni lo condusse a perfettione, di sua fantasia suplendo tutto quello, che
+            nel antico mancava, cioè la bocca aperta a guisa d'huom che rida, sì che si vedea il
+            cavo d'essa, con tutti i denti. In questo mezzo venendo il Magnifico per vedere a che
+            termine fusse l'opera sua, trouò il fanciullo ch'era in torno a ripulir la sua testa, et
+            accostatosegli alquanto, considerata primieramente l'eccellenza del opera, et havuto
+            riguardo al età di lui, molto si maravigliò: et avenga che lodasse lopera, non dimeno
+            mottegiando con lui, come con un fanciullo disse, oh tu hai fatto questo <persName
+               ref="#Fauno">Fauno</persName> vecchio, et lasciatigli tutti identi. Non sai tu che a
+            vecchi di tal età sempre ne mancha qualchuno? Parue millanni a <persName
+               ref="#MichelAnge">Michelagnolo</persName> chel Magnifico si partisse, per correggere
+            l'errore, et restato solo, cauò un dente al suo vecchio di quei di sopra, trapanando la
+            gingiva, come se ne fusse vscito colla radice, aspettando l'altro giorno il Magnifico,
+            con gran desiderio. Il qual venuto, et vista la bontà et simplicità del fanciullo, molto
+            se ne rise, ma <pb n="5bis"/> poi stimata seco la prefettione della cosa, et l'età di
+            lui, come padre di tutte le virtù, si deliberò d'aiutare et favorire tanto ingegno, et
+            pigliarselo in casa, et intendendo da lui di chi fusse figlivolo, fa disse, di dire a
+            tuo Patre, ch'io harei caro di parlargli. Tornato dunque a casa <persName
+               ref="#MichelAnge">Michelagnolo</persName>, et fatta l'ambasciata del Magnifico, il
+            Padre che s'indouinava perché fusse chiamato, con gran fatica del Granacci e d'altri, si
+            pottete disporre ad andarci, anzi di lui si lamentava, ch'egli suiava il figlivolo,
+            stando pure in su questo, che non patirebbe mai chel figlivolo fusse scarperllino, non
+            giovando al Granacci dichiararli, quanta differenza fusse tra scultore et scarpellino,
+            et sopra ciò lungamente disputare. Tuttavia essendo alla presenza del Magnifico venuto,
+            et da lui ricercato che gli volesse concedere il figlivolo per suo, non seppe negarlo,
+            anzi soggiunse, non che <persName ref="#MichelAnge">Michelagnolo</persName>, tutti noi
+            altri colla vita et facultà nostre, siamo al piacer della Magnificenza vostra. E
+            adimandato dal Magnifico a che attendesse, gli rispose, Io non feci mai arte nessuna, ma
+            sempre sono fin qui delle mie deboli entrate vivuto, attendendo a quelle poche
+            possessioni, che da miei maggiori mi sono state lasciate, cercando non solamente di
+            mantenerle, ma accrescerle <pb n="6"/> quanto per me si potesse, colla mia diligenza. Il
+            Magnifico alhora, ben disse, guardare se in <placeName ref="#Florence"
+               >Firenze</placeName> è cosa nessuna che per voi faccia, et seruitevi di me, che ui
+            farò quel favore, che per me maggior si potrà. Et licentiato il vecchio, fece dare a
+               <persName ref="#MichelAnge">Michelagnolo</persName> una buona camera in Casa,
+            dandogli tutte quelle commodità ch'egli desiderava, ne altrimenti trattandolo, si in
+            altro, si nella sua mensa che da figlivolo, alla quale come d'un tal homo, sedeano ogni
+            giorno personaggi nobilissimi et di grande affare. Et essendoui questa vsanza, che quei
+            che da principio si trovasser presenti, ciascheduno appresso il Magnifico sicondo il suo
+            grado sedesse, non si movendo di luogo per qualunque di poi sopragiunto fusse, avenne
+            bene spesso, che <persName ref="#MichelAnge">Michelagnolo</persName> sedette sopra i
+            figlivoli di Lorenzo, et altre persone pregiate di che tal casa discontinuo fioriva et
+            abondava. Dai quali tutti <persName ref="#MichelAnge">Michelagnolo</persName> molto era
+            accarezzato, et acceso al honorato suo studio, ma sopra tutti dal Magnifico, ilquale
+            spesse volte il giorno lo faceva chiamare, monstrandogli sue Gioie, Corniole, Medaglie
+            et cose simiglianti di molto pregio, come quel che lo conosceva d'ingegno et di iudicio.
+            Era <persName ref="#MichelAnge">Michelagnolo</persName> quando andò in Casa del
+            Magnifico, d'età d'Anni quindici <pb n="6bis"/> in sedici, et vi stette fin alla Morte
+            di lui, che fu nel novanta due, intorno ad due anni. Nel qual tempo, essendo vacato uno
+            Vfficio della Dogana, qual nessun tener potea che Cittadin non fusse, venne Lodouico
+            Padre di <persName ref="#MichelAnge">Michelagnolo</persName> a trovare il Magnifico, et
+            con tal parlare glie lo chiese. Lorenzo io non so far altro che legere et scrivere. Or
+            essendo morto il compagno di Marco Pucci in Dogana, harei caro d'entrare in suo luogo,
+            parendomi di poter a tal officio acconciamente seruire. Il Magnifico gli dette della
+            mano in su la spalla, et sorridendo disse, tu sarai sempre povero, aspettando che di
+            maggior cosa lo richiedesse. Pur soggiunsse, se volete essere in compagnia di Marco, lo
+            potete fare, fin che si porga occasion di meglio: Importava l'ufficio scudi otto il
+            mese, poco piu o meno. In questo mezzo attendeva <persName ref="#MichelAnge"
+               >Michelagnolo</persName> alli suoi studi, ogni di mostrando qualche frutto delle sue
+            fatiche al Magnifico. Era nella medesima casa il Poliziano, homo come ognun sa et piena
+            testimonanza ne fanno i suoi scritti, dottissimo et acutissimo, costui conoscendo
+               <persName ref="#MichelAnge">Michelagnolo</persName> di spirito elevatitissimo, molto
+            lo amava, et di continuo lo spronava, ben che non bisogniasse, allo studio,
+            dichiarandogli sempre et dandogli da far qualche <pb n="7"/> cosa. Tra le quali un
+            giorno gli propose il ratto de <persName ref="#Dejanire">Deianira</persName>, e la Zuffa
+            de centauri, dichiarandogli a parte per parte tutta la favola. Messesi <persName
+               ref="#MichelAnge">Michelagnolo</persName> a farla in marmo di mezzo rilievo, et così
+            l'ampresa gli succedette, che mi ramenta vdirlo dire, che quando la rivede, cognosce
+            quanto torto egli habbia fatto alla natura, a non seguitar prontamente l'arte della
+            scultura, facendo giudicio per quel opera, quanto potesse riuscire. Ne ciò dice per
+            vantarsi, huomo modestissimo, ma per che pur ueramente si duole, d'essere stato così
+            sfortunato, che per altrui colpa, qualche volta sia stato senza far nulla, dieci e
+            dodici anni, il che disotto si vederà, Questa sua opera anchor si vede in <placeName
+               ref="#Florence">Firenze</placeName> in casa sua, et le figure sono di grandezza di
+            palmi due in circa. Appena haveva finita quest'opera, chel Magnifico Lorenzo passò di
+            questa vita. <persName ref="#MichelAnge">Michelagnolo</persName> se ne tornò a casa del
+            padre, et tanto dolor prese della sua morte, che per molti giorni non potette far cosa
+            alcuna. Pur poi à, se tornato, et comperato un gran pezzo di marmo qual molti anni s'era
+            iaciuto al acqua, e al vento, di quello cauò un Hercole, alto bracia quatro, qual poi fu
+            mandato in <placeName ref="#France">Francia</placeName>. Mentre ch'egli tale statua
+            faceva, essendo in <placeName ref="#Florence">Firenze</placeName> venuta di molta neve,
+            Pier de Medici, <pb n="7bis"/> figlivol maggiore di Lorenzo, che nel medesimo luogo del
+            padre era restato, ma non nella medesima gratia, volendo, come giovane, far fare nel
+            mezzo della sua corte, una statua di neve, si ricordò di <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, et fattolo cercare, gli fece far la statua, et volse che in
+            casa restasse, come al tempo del padre, dandogli la medesima stanza, et tenendolo
+            dicontinuo alla sua mensa come prima, alla qual quella medesima vsanza si teneva, che
+            vivente il padre, cioè che chi da principio a tavola sedesse, per nessuna persona
+            quantunque grande che da poi venisse, di luogo si movesse. Lodouico padre di <persName
+               ref="#MichelAnge">Michelagnolo</persName>, fatto gia piu amico al figlivolo,
+            vedendolo pratichar quasi sempre con huomini grandi, meglio et piu horrevolmente
+            l'adobbò di vestimenti Così il giovane se ne stette con Piero alquanti mesi e da lui fu
+            molto accarezzato, ilqual di due homini della famiglia sua come di persone rare, vantar
+            si soleva, uno <persName ref="#MichelAnge">Michelagnolo</persName>, l'altro uno
+            staffiere spagnivolo, ilquale oltre alla bellezza del corpo, ch'era maravigliosa, era
+            tanto destro et gagliardo, et di tanta lena, che correndo, Piero a cavallo a tutta
+            briglia, non lo avanzava d'un dito. In questo tempo <persName ref="#MichelAnge"
+               >Michelagnolo</persName> a compiacenza del priore di santo Spirito, Tempio molto
+            honorato <pb n="8"/> nella cità di <placeName ref="#Florence">Firenze</placeName>, fece
+            un crocifisso di legno, poco meno chel naturale, il quale fin adhoggi si vede in su
+            laltare maggiore di detta chiesa. Hebbe col detto Priore molto intrinseca pratica, si
+            per ricever da lui molte cortesie, si per essere accomodato et di stanza, et di corpi,
+            da poter far notomia, del che maggior piacer far non segli poteva. Questo fu il
+            principio, ch'egli a tal impresa si messe, seguitandola fin che dalla fortuna concesso
+            gli fu. Praticava in casa di Piero un certo chiamato per sopra nome Cardiere; del qual
+            il Magnifico molto piacer si pigliava, per cantar in su la lira al improuisa
+            maravigliosamente, del che anch'egli profession faceva, sì che quasi ogni sera doppo
+            cena in ciò se essercitava. Questi essendo amico a <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, conferì seco una visione, qual fu tale, che Lorenzo de
+            Medeci gliera apparso con una veste nera, et tutta stracciata, sopra lo ignudo, et gli
+            haveva comandato che dovessi dire al figlivolo, che di corto saria di casa sua cacciato,
+            ne mai piu ci tornerebbe. Era Pier de Medici insolonte et superchievole, di maniera,
+            che, ne la bontà di Giovanni Cardinale suo fratello, ne la cortesia et humanità di
+            Giuliano, tanto poterno a ritenergli in <placeName ref="#Florence">Firenze</placeName>,
+            quanto quei vizi a fargli cacciar fuori. <persName ref="#MichelAnge"
+               >Michelagnolo</persName> lo <pb n="8bis"/> essortava, che di ciò dovessi ragguagliar
+            Piero, et fare il comandamento di Lorenzo. Ma il Cardiere temendo la natura di lui, lo
+            tenne in se. Una altra mattina essendo <persName ref="#MichelAnge"
+               >Michelagnolo</persName> nel cortile del palazzo, eccoti il Cardiere tutto spaventato
+            et dolente, et di nuovo gli dice, quella notte essergli apparso Lorenzo, in quel
+            medesimo habito che prima, et vegliando et vedendo lui, havergli data una gran
+            guanciata, per che quel che haveva visto, non havea a Pier referito. <persName
+               ref="#MichelAnge">Michelagnolo</persName> alhora lo sgridò, et tanto seppe dire, chel
+            Cardiere preso animo, a piè si messe andare a Careggi, villa della casa de Medici,
+            lontana dalla terra circa tre miglia. Ma quando fu quasi a mezza via, si scontrò in
+            Piero, che ritornava a casa: et fermandolo gli spose quanto visto et vdito havesse.
+            Piero se ne fece beffe, et accennati li staffieri, gli fece far mille scherni. el
+            cancilier suo che poi fu Cardinale di Bibiena, gli disse tu sei un pazzo. À chi credi tu
+            che Lorenzo voglia meglio, al figlivolo o a te? se al figlivolo non harebbegli, se ciò
+            fusse, piu tosto ad apparire a lui, che ad altra persona? così schernito lo lasciorno
+            andare. Ilqual tornato a casa, et dolendosi con <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, così efficacemente della visione gli parlò che egli tenendo
+            la cosa per certa, di li a doi <pb n="9"/> giorni, con due compagni di <placeName
+               ref="#Florence">Firenze</placeName> si partì, et andossene a <placeName
+               ref="#Bologne">Bologna</placeName>, et di li a <placeName ref="#Venise"
+               >Vinegia</placeName> temendo che, se quel chel Cardiere prediceva venisse vero, di
+            non essere in <placeName ref="#Florence">Firenze</placeName> sicuro. Ma di li a pochi
+            giorni, per mancamento di danari, percio che spesava i compagni, pensò di tornarsene a
+               <placeName ref="#Florence">Firenze</placeName>, et venuto a <placeName ref="#Bologne"
+               >Bologna</placeName>, gli interuenne un cotal caso. Era in quella terra al tempo di
+            Messer Giovan Bentivogli una legge, che qualunche forestiere entrasse in <placeName
+               ref="#Bologne">Bologna</placeName>, fusse in su lugna del dito grosso sugellato con
+            cera rossa. Entrato adunq; <persName ref="#MichelAnge">Michelagnolo</persName>
+            inavertentemente senza il suggello, fu condotto in sieme co compagni al vfficio delle
+            Bullette, et condannato in lire cinquanta di Bolognini, i quali non havend'egli il modo
+            di pagare, et standosi nel vfficio, un Messer Gian Francesco Aldrovandi Gentilhuom
+            Bolognese, che alhora era de Sedici, vedutolo quivi et intendendo il caso, lo fece
+            liberare, massimamente havendo conosciuto, ch'egli era scultore. Et inuitandolo a casa
+            sua, <persName ref="#MichelAnge">Michelagnolo</persName> lo ringratiò pigliando scusa
+            d'haver seco due compagni, che non gli voleva lasciare, ne colla lor compagnia, lui
+            aggravare. A cui il Gentil huomo. I uerrò anch'io, rispose teco a spasso pel mondo, se
+            mi vuoi far le spese. Per queste et altre parole persuaso <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, <pb n="9bis"/> fatta scusa co compagni, gli licentiò dando
+            lor que pochi danari, che si ritrovava, et andò ad allogiar col gentil huomo. In questo
+            la casa de Medici con tutti i suoi seguaci, di <placeName ref="#Florence"
+               >Firenze</placeName> cacciata, se ne venne a <placeName ref="#Bologne"
+               >Bologna</placeName>, et fu alloggiata in casa di Rossi: così la vision del Cardiere,
+            o delusion diabolica, o predittion divina, o forte imaginatione ch'ella si fusse, si
+            verificò. cosa veramente maravigliosa, et degna dessere scritta, laquale io, com'ho
+            dallo stesso <persName ref="#MichelAnge">Michelagnolo</persName> intesa, così ho
+            narrata. Corser dalla morte del Magnifico Lorenzo al'essilio de'figlioli circa tre anni
+            sì che <persName ref="#MichelAnge">Michelagnolo</persName> poteva esser d'anni venti in
+            ventuno, il quale per ischifare que'primi tumulti populari, fin che la Città di
+               <placeName ref="#Florence">Firenze</placeName> pigliasse qualche forma, se ne stette
+            col gia detto Gentil huomo in <placeName ref="#Bologne">Bologna</placeName>, il quale
+            molto l'honorava, dilettato del suo ingegno, et ogni sera da lui si faceva leggere
+            qualche cosa di <persName ref="#Dante">Dante</persName>, o del Petrarcha, e tal volta
+            del Boccaccio, fin che si adormentasse. Un giorno menandolo per <placeName
+               ref="#Bologne">Bologna</placeName>, lo condusse a veder l'archa di San Domenico,
+            nella chiesa dedicata al detto Santo. dove manchando due figure di Marmo, cioè un San
+            Petronio, et un Angelo in ginocchioni, con un Candeliere in mano, domandando <persName
+               ref="#MichelAnge">Michelagnolo</persName>, se gli dava il <pb n="10"/> cuore di
+            farle: et rispondendo di si, fece che fusser date a fare a lui. delle quali gli fece
+            pagare ducati trenta, del San Petronio diciotto, et del Agnol dodici. Eran le figure
+            d'altezza di tre palmi, et si possan vedere anchora in quel medesimo luogo. Ma poi
+            havendo <persName ref="#MichelAnge">Michelagnolo</persName> sospetto d'uno scoltore
+            Bolognese, il qual si lamentava ch'egli gli haveva tolte le sopra dette statue, essendo
+            quelle prima state promesse a lui, et minacciando di fargli dispiacere, se ne tornò a
+               <placeName ref="#Florence">Firenze</placeName>, massimamente essendo acquietate le
+            cose, et potendo in casa sua sicuramente vivere. Stette con Messer Gian Francesco
+            Aldrovandi, poco piu d'un'anno. Ripatriato <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, si pose a far di marmo un <persName ref="#Dieu"
+               >Dio</persName> d'amore, d'età di sei anni in sette, a iacere in guisa d'huom che
+            dorma. Il qual vedendo Lorenzo di Pier Francesco de Medici, al quale in quel mezzo
+               <persName ref="#MichelAnge">Michelagnolo</persName> haveva fatto un San Giovannino,
+            et giudicandolo bellissimo, gli disse, se tu l'acconciassi che paresse stato sotto
+            terra, io lo manderei a <placeName ref="#Rome">Roma</placeName>, et passarebbe per
+            antico, et molto meglio lo venderesti. <persName ref="#MichelAnge"
+               >Michelagnolo</persName> ciò vdendo, di subito l'acconciò, sì che parea di molti anni
+            per avanti fatto, come quello a cui nessuna via d'ingegno era occulta. Così mandato a
+               <placeName ref="#Rome">Roma</placeName>, il Cardinale <pb n="10bis"/> di San Giorgio
+            lo comprò per antico, ducati ducento. Benche colui che prese tai danari scrivesse a
+               <placeName ref="#Florence">Firenze</placeName>, che fusser contati a <persName
+               ref="#MichelAnge">Michelagnolo</persName> ducati trenta, che tanti del Cupidine
+            n'haveva hauti, ingannando insieme Lorenzo di Pier Francesco et <persName
+               ref="#MichelAnge">Michelagnolo</persName>. Ma in questo mezzo, essendo venuto al
+            orecchie del Cardinale, qualmente il putto era fatto in <placeName ref="#Florence"
+               >Firenze</placeName>, sdignato d'esser gabbato, mandò là un suo Gentil huomo. Il qual
+            fingendo di cercar d'uno scultore per far certe opere in <placeName ref="#Rome"
+               >Roma</placeName>, doppo alcuni altri, fu inuiato a casa <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, et vedendo il giovane, per haver cautamente luce di quel
+            che voleva, lo ricercò che gli mostrasse qualche cosa. Ma egli non havendo che mostrare,
+            prese una penna, percioché in quel tempo il lapis non era in uso, et con tal leggiadria
+            gli dipinse una mano, che ne restò stùpefatto. Di poi lo domandò, se mai haveva fatto
+            opera di scoltura, et rispondendo <persName ref="#MichelAnge">Michelagnolo</persName>
+            che si, tra l'altre un Cupidine di tale statura et atto, il Gintil huomo intese quel che
+            voleva sapere. Et narrata la cosa come era andata, gli promesse, se volea seco andare a
+               <placeName ref="#Rome">Roma</placeName>, di farli risquotere il resto, et
+            d'acconciarlo col padrone, che sapeva che ciò molto harebbe grato. <persName
+               ref="#MichelAnge">Michelagnolo</persName> adunq; parte per isdegno d'essere stato
+            fraudato, <pb n="11"/> parte per vedere <placeName ref="#Rome">Roma</placeName>, cotanto
+            dal Gentil huomo lodatagli, come larghissimo campo, di poter ciaschedun mostrar la sua
+            virtù, seco se ne venne et alloggio in casa sua, vicino al palazzo del Cardinale, il
+            quale in questo mezzo avuisato per lettere, come stesse la cosa, fece metter le mani a
+            dosso a colui, che la statua per antica uenduta gli haveva, et rihavuti in dietro i suoi
+            danari, gliela rese, la qual poi venendo, non so per qual via, in mano del Duca
+            Valentino, fu donata alla Marchesana di <placeName ref="#Mantoue">Mantova</placeName>,
+            et da lei a <placeName ref="#Mantoue">Mantova</placeName> mandata, dove anchor si trova
+            in casa di quei Signori. Fu in questo caso il Cardinale di San Giorgio da alcuni
+            biasimato, percio che, se l'opera in <placeName ref="#Rome">Roma</placeName> da tutti
+            gliartefici vista, da tutti egualmente fu giudicata bellissima, non parea chel dovesse
+            cotanto offendere l'esser moderna, che per dugento scudi se ne privasse, huomo danaroso
+            et ricchissimo. Ma se l'essere stato ingannato gli coceva, poteva gastigar quel tale,
+            facendo sborsare il restante del pagamento al padrone della statua, che di gia haveva
+            tolto in casa. Ma nessun ne pati piu, che <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, il quale altro che quel che'n <placeName ref="#Florence"
+               >Firenze</placeName> ricivuto haveva nulla non ne ritrasse. E chel Cardinal San
+            Giorgio poco s'intendesse o dilettasse di statue, a bastanza <pb n="11bis"/> questo ce
+            lo dichiara, che in tutto il tempo che seco stette, che fu intorno a un anno, a
+            riquisition di lui non fece mai cosa alcuna. Non però mancò chi tal comodità conoscesse,
+            et di lui si seruisse, percioché Messer Iacopo Galli Gentil huomo Romano, et di bello
+            ingegno: gli fece fare in casa sua, un <persName ref="#Bacchus">Bacco</persName> di
+            marmo, di palmi dieci, la cui forma et aspetto corrisponde in ogni parte al'intentione
+            delli scrittori antichi. La faccia Lieta, et gliocchi biechi et lascivi, quali sogliono
+            essere quelli, che soverchiamente dal'amor del vino son presi. Ha nella destra una
+            tazza, in guisa d'un che voglia bere, ad essa remirando, come quel che prende piacere di
+            quel liquore, di ch'egli è stato inuentore: per il quale rispetto, ha cinto il capo
+            d'una ghirlanda di viti. Nel sinistro braccio ha una pelle di Tigre, animale ad esso
+            dedicato, come quel che molto si diletta dell'vua, et vi fece piu tosto l'a pelle che
+            l'animale, volendo significare, che per lasciarsi cotanto tirar dal senso, et
+            dal'appetito di quel frutto, et del liquor d'esso, ui lascia vltimamente la vita. Colla
+            mano di questo braccio, tiene un grappolo d'vua, qual un satiretto che a piè di lui è
+            posto, furtivamente si magnia, allegro e snello, che mostra circa sette anni, come il
+               <persName ref="#Bacchus">Bacco</persName> diciotto. <pb n="12"/> Volse ancho detto
+            Messere Iacopo, ch'egli facesse un Cupidine, et l'una et l'altra di queste opere hoggidi
+            si veggano in casa di Messer Giuliano et Messer Paulo Calli, Gentil huomini cortesi et
+            da bene, coi quali <persName ref="#MichelAnge">Michelagnolo</persName> ha sempre
+            ritenuta intrinseca amicitia. Poco da poi, a requisitione del Cardinal di San Dionygi,
+            chiamato il Cardinal Rovano, in un pezzo di marmo, fece quella maravigliosa statua di
+            Nostra Donna, qual è hoggi nella <persName ref="#Marie">Madonna</persName> della febre,
+            avenga che da principio fusse posta nella chiesa di Santa Petronilla, cappella del Re di
+               <placeName ref="#France">Francia</placeName>, vicina alla sagrestia di san Piero, gia
+            sicondo alcuni tempio di <persName ref="#Mars">Marte</persName>, la quale per rispetto
+            del disegno della nuova chiesa, fu da <persName ref="#Bramante">Bramante</persName>
+            rouinata. Questa se ne stà a sedere in sul sasso, dove fu fitta la Croce, col figlivol
+            morto in grembo, di tanta, et così rara bellezza, che nessun la vede, che dentro a pietà
+            non si commuova. Imagine veramente degna di quella humanità, che al figlivolo de
+               <persName ref="#Dieu">Iddio</persName> si conueniva, et a cotanta Madre. Se ben sono
+            alcuni, che in essa madre riprendino l'esser troppo giovane, rispetto al figlivolo. Del
+            che ragionand'io con <persName ref="#MichelAnge">Michelagnolo</persName> un giorno, non
+            sai tu, mi rispose, che le donne caste, molto piu fresche si mantengano, che le non
+            caste? <pb n="12bis"/> Quanto maggiormente una vergine, nella quale non cadesse mai pur
+            un minimo lascivo desiderio, che alterasse quel corpo? Anzi ti uo dir più, che tal
+            freschezza et fior di gioventù, oltra che per tal natural uia, in lei si mantenesse, è
+            ancho credibile che per divin opera fosse aiutato, a comprobare al mondo la verginità et
+            purità perpetua della madre. Il che non fu necessario nel figlio anzi piu tosto il
+            contrario, percio che uolendo mostrare chel figlivol de <persName ref="#Dieu"
+               >Iddio</persName> prendesse, come prese, ueramente corpo humano, et sottoposto a
+            tutto quel che un'ordinario homo soggiace, eccetto che al peccato, non bisognò coldivino
+            tener indietro l'humano, ma lasciarlo nel corso et ordine suo, sì che quel tempo
+            mostrasse, che haveva apunto, Per tanto, non t'hai da maravigliare, se per tal rispetto,
+            io feci la santissima vergine madre de <persName ref="#Dieu">Iddio</persName>, a
+            comparation del figlivolo assai più giovane, di quelche quell'età ordinariamente
+            ricerca, el figlivolo lasciai nel età sua. Consideration degnissima, di qualunche
+            Theologo, maravigliosa forse in altri, in lui non gia, il quale <persName ref="#Dieu"
+               >Iddio</persName> et la natura ha formato, non solamente ad operar unico di mano, ma
+            degno subietto anchora di qualunche divinissimo concetto, come non solamente in questo,
+               <pb n="13"/> ma in moltissimi suoi ragionamenti, et scritti conoscer si può. Poteva
+            haver <persName ref="#MichelAnge">Michelagnolo</persName> quando fece quest'opera, vinti
+            quattro o vinti cinq; anni. Acquistò per questa fatica gran fama et riputatione,
+            talmente che gia era in openion del mondo, che non solamente trapassasse di gran lunga
+            qualunche altro del suo tempo, et di quello avanti a lui, ma che contendesse anchora con
+            gli antichi. Fatte queste cose, per suoi domestici negoci, fu sforzato tornarssene a
+               <placeName ref="#Florence">Firenze</placeName>, dove dimorato alquanto, fece quella
+            statua, ch'è posta in fin a hoggi, inanzi alla porta del palazzo della signoria, nel
+            estremo della ringhiera, chiamata da tutti il Gigante. Et passò la cosa in questo modo.
+            Havevano li operai di santa Maria del fiore, un pezzo di marmo d'altezza di braccia
+            nove, qual era stato condotto da Carrara, di cento anni inanzi, da un'artefice, per
+            quelche veder si potea, non piu pratico che si bisognasse. Per ciò che per poterlo
+            condur piu comodamente e con manco fatica, l'haveva nella cava medesima bozzato, ma di
+            tal maniera, che ne a lui, ne ad altri bastò giammai l'animo di porui mano, per cavarne
+            statua, non che di quella grandezza, ma neancho di molto minor statura. Poi che di tal
+            pezzo di marmo non potevano cavar <pb n="13bis"/> cosa che buona fusse, parue a un
+            Andrea dal monte a San Souino, di poterlo ottener da loro, et gli ricercò che gliene
+            facessero un presente, promettendo, che aggiungendoui certi pezzi, ne caverebbe una
+            figura. ma essi prima che si disponessero a darlo, mandarono per <persName
+               ref="#MichelAnge">Michelagnolo</persName>, et narrandogli il desiderio el parer
+            d'Andrea, et intesa la confidenza ch'egli haveva di cavarne cosa buona, finalmente
+            l'offerirno a lui. <persName ref="#MichelAnge">Michelagnolo</persName> l'accetò, et
+            senza altri pezzi, ne trasse la gia detta statua, così apunto che, come si può vedere
+            nella summità del capo, e nel posamento, n'apparisce anchor la scorza vecchia del marmo.
+            Il che similmente ha fatto in alcun'altre, come alla sepoltura di <persName
+               ref="#JulesII">Papa Giulio</persName> II. in quella statua, che rapresenta la vita
+            contemplativa. il che è tratto da maestri, et che sien padroni del'arte. Ma in questa
+            statua vi e piu maraviglioso apparue, percio che oltra che pezzi non le aggiunse, è
+            ancho (come suol dir <persName ref="#MichelAnge">Michelagnolo</persName>) impossibile, o
+            almeno difficilissimo nella statuaria, a emendare i vizi della abbozzatura. Hebbe di
+            quest'opera ducati quatro cento, et condussela in mesi diciotto. Et accio che non fusse
+            materia che sotto la statuaria cadesse, dove egli non mettesse le mani, doppo il
+            Gigante, ricercato da Piero <persName ref="#PierSoderini">Soderini</persName> suo grande
+            amico <pb n="14"/> gittò di bronzo una statua grande al naturale, che fu mandata in
+               <placeName ref="#France">Francia</placeName>, et similmente un <persName ref="#David"
+               >David</persName> con Goliad sotto. Quel che si vede nel mezzo della corte del
+            palazzo de signori, è di mano di <persName ref="#Donatello">Donatello</persName>, huomo
+            in tal arte eccellente, et molto da <persName ref="#MichelAnge">Michelagnolo</persName>
+            lodato, se non in una cosa, ch'egli non haveva pacienza in repulir le sue opere, di
+            forte che riuscendo mirabili a vista lontana, da presso perdevon riputatione. Gittò
+            ancho di bronzo una madonna, col suo figlivolino in grembo, laquale da certi Mercanti
+            Fiandresi de Moscheroni, famiglia nobilissima in casa sua, pagatagli ducati cento, fu
+            mandata in <placeName ref="#Flandres">Fiandra</placeName>. Et per non lasciare affatto
+            la pittura, fece una nostra donna in una tavola tonda, a Messer Agnol <persName
+               ref="#AntonFrancescoDoni">Doni</persName>, cittadin fiorentino, della qual egli da
+            lui hebbe ducati settanta. Se ne stette alquanto tempo quasi senza far niuna cosa in tal
+            arte, dandosi alla lettione de Poaeti, et Oratori volgari, et a far sonetti per suo
+            diletto, finche morto Allessandro Papa <persName ref="#CesareDaSesto">Sesto</persName>,
+            fu a <placeName ref="#Rome">Roma</placeName> da <persName ref="#JulesII">Papa
+               Giulio</persName> Secondo chiamato, ricevuti in <placeName ref="#Florence"
+               >Firenze</placeName> per suo viatico, ducati cento. Poteva, esser <persName
+               ref="#MichelAnge">Michelagnolo</persName> in quel tempo, d'anni venti nove per ciò
+            che se conteremo dal nascimento di lui, che fu com'è gia detto nel M. CCCC. Lxxiiii. fin
+            alla morte de <pb n="14bis"/>
+            <persName ref="#AlexandreLeGrand">Alessandro</persName> sopra detto che fu nel <date
+               when="1503">1503</date> troveremo esser corsi igia detti anni. Venuto dunque a
+               <placeName ref="#Rome">Roma</placeName>, passaron molti mesi, prima che Giulio
+            Secondo si risoluesse, in che dovesse seruirsene. Vltimamente gli venne in animo, di
+            fargli fare la sepoltura sua. Et veduto il disegno gli piacque tanto, che subito lo
+            mandò a Carrara per cavar quella quantita di marmi, che a tal impresa facesse dimestieri
+            facendogli in <placeName ref="#Florence">Firenze</placeName> per tale effetto pagare da
+            Alemani Saluiati, ducati mille. Stette in quei monti con due seruitori, et una
+            cavalcatura, senza altra prouisione, se nostr del vitto, meglio d'otto mesi. dove un
+            giorno quei luoghi veggendo, d'un monte, che sopra la marma riguardava, gli venne voglia
+            di fare un Colosso, che da lungi apparisse a naviganti, inuitato massimamente dalla
+            comodità del masso, donde cavare acconciamente si poteva, et dalla emulatione delli
+            antichi, iquali forse per il medesimo effetto che <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, capitati in quel loco, o per fuggir l'otio, o per qual si
+            voglia altro fine, v'hanno lasciate alcune memorie imperfette, et abbozzate, che danno
+            assai bon saggio de l'artifitio loro. Et certo l'harebbe fatto se'l tempo bastato gli
+            fusse, o l'impresa per laquale era venuto, l'havesse concesso. Del che un giorno <pb
+               n="15"/> lo sentì molto dolere. Ora cavati et scelti que'marmi, che li paruero a
+            bastanza, condotti che gli hebbe alla marina, et lasciato un suo, che gli facesse
+            caricare, egli a <placeName ref="#Rome">Roma</placeName> se ne tornò. Et percio che
+            s'era alcuni giorni fermo in <placeName ref="#Florence">Firenze</placeName>, trouò
+            quando giunse, che una parte gia n'era arrivata a <persName ref="#CesareRipa"
+               >Ripa</persName>; la ove scaricati, gli fece portare in su la piazza di San Piero,
+            dietro a santa Catherina, dove egli appresso al corridore, haveva la sua stanza. La
+            quantità de i marmi era grande, sì che distesi in su la piazza, davano a glialtri
+            ammiratione, e al Papa letitia, il quale tanti favori et così smisurati faceva a
+               <persName ref="#MichelAnge">Michelagnolo</persName>, che havend'egli cominciato a
+            lavorare, più et più volte l'andò fin a casa a trovare, quivi seco non altrimenti
+            ragionando, et della sepoltura et d'altre cose, che harebbe fatto con un suo fratello.
+            Et per poterci più comodamente andare, haveva ordinato dal corridore alla stanza di
+               <persName ref="#MichelAnge">Michelagnolo</persName>, buttare un ponte levatoio, per
+            ilquale là secretamente entrasse. Questi tanti et così fatti favori, furon cagione, come
+            bene spesso nelle corti aviene, d'arrecargli inuidia, et doppo l'inuidia persecutioni
+            infinite. Percio che <persName ref="#Bramante">Bramante</persName> Architettore, che dal
+            Papa era amato, con dir quello che ordinariamente dice il volgo, esser male augurio in
+            vita <pb n="15bis"/> farsi la sepultura: et altre novelle, lo fece mutar proposito.
+            Stimolava <persName ref="#Bramante">Bramante</persName> oltre al'inuidia, il timore che
+            haveva del giudicio di <persName ref="#MichelAnge">Michelagnolo</persName>, ilquale
+            molti suoi errori scopriva. Percioché essendo <persName ref="#Bramante"
+               >Bramante</persName>, come ognun sa, dato ad ogni sorte di piacere, et largo
+            spenditore, ne bastandogli la prouision datagli dal Papa, quantunque ricca fusse,
+            cercava d'avanzare nelle sue opere, facendo le muraglie di cattiva materia, et alla
+            grandezza e vastità loro, poco ferme e sicure. Il che si può manifestamente vedere per
+            ogniuno, nella fabrica di San Pietro in vaticano, nel corridore di bel vedere, nel
+            conuento di San Pietro ad vincula, et nel'altre fabriche per lui fatte, lequali tutte è
+            stato necessario rifondare et fortificare di spalle et barbacani, come quelle che
+            cadevano, o sarebbe in breve tempo cadute. Or per che egli non dubitava, che <persName
+               ref="#MichelAnge">Michelagnolo</persName> non conoscesse questi suoi errori, cercò
+            sempre di levarlo di <placeName ref="#Rome">Roma</placeName>, o almeno privarlo della
+            gratia del Papa, et di quella gloria et utile, che col industria sua potesse acquistare.
+            Il che gli successe in questa sepoltura, laquale se fusse stata fatta com'era il primo
+            disegno, non è dubio che nel'arte sua non havesse tolto il vanto (sia detto senza
+            inuidia) a qualunque mai stimato artefice <pb n="16"/> fusse, havendo largo campo, di
+            mostrare, quanto in ciò valesse. Et quel che fusse per fare, lo dimostrano l'altre sue
+            cose, et quelli dui prigioni, che per tal opera haveva gia fatti, i quali chi veduti ha,
+            giudica non esser giamai stata fatta cosa piu degna. Et per darne qualche saggio,
+            brevemente dico, che questa sepoltura, doveva haver quattro faccie, due di braccia
+            diciotto, che seruivan per fianchi, et due di dodici, per teste: tal che veniva ad
+            essere un quadro et mezzo. Intorno, intorno di fuore, erano nicchi, dove entravano
+            statue, et tra nicchio et nicchio termini, aiquali, sopra certi dadi, che movendosi da
+            terra sporgevano in fuori, erano altre statue legate, come prigioni, le quali
+            rappresentavano l'arti liberali, similmente Pittura, Scultura, et Architettura, ogniuna
+            colle sue note, sì che facilmente potesse esser conosciuta, per quel che era, denotando
+            per queste, in sieme con <persName ref="#JulesII">Papa Giulio</persName>, esser prigioni
+            della morte, tutte le virtù, come quelle che non fusser mai per trovare da chi cotanto
+            fussero favorite et nutrite, quanto da lui. Sopra queste correva una cornice, che
+            intorno legava tutta l'opera, nel cui piano eran quattro grandi statue, una delle quali,
+            ciò è il <persName ref="#Moise">Moise</persName>, si vede in San Pietro ad vincula, et
+            di questa parlerà al suo <pb n="16bis"/> luogo. Così ascendendo l'opera. si finiva in un
+            piano, sopra ilquale erano due Agnoli, che sostenevano un'arca, uno d'essi faceva
+            sembiante di ridere, come quello che si rallegrasse, che l'anima del Papa, fusse tra li
+            beati spiriti ricevuta, laltro di piangere, come se si dolesse, chel mondo fusse d'un
+            tal huomo spogliato. Per una delle teste, cioè da quella che era dalla banda di sopra,
+            sentrava dentro alla sepoltura in una stanzetta, a guisa d'un tempietto, in mezzo della
+            quale era un cassone di marmo, dove si doveva sepellire il corpo del Papa, ogni cosa
+            lavorata con maraviglioso artificio. Brevemente, in tutta l'opera andavano sopra
+            quaranta statue, senza le storie di mezzo rilievo fatte di bronzo, tutte a proposito di
+            tal caso, et dove si potevan vedere i fatti di tanto Pontefice. Visto questo disegno il
+            Papa, mandò <persName ref="#MichelAnge">Michelagnolo</persName> in San Pietro, a veder
+            dove comodamente si potesse collocare. Era la forma della chiesa alhora, a modo d'una
+            croce, in capo della quale Papa Nicola Quinto haveva cominciato a tirar su la tribuna di
+            nuovo, et gia era venuta sopra terra, quando mori, al'altezza di tre braccia. Parue a
+               <persName ref="#MichelAnge">Michelagnolo</persName> che tal luogo fusse molto a
+            proposito, et tornato al Papa, gli spose il suo parere, aggiungendo che se così paresse
+            a sua <pb n="17"/> Santità era necessario tirar su la Fabrica et coprirla. Il Papa
+            l'adomandò che spesa sarebbe questa. À cui <persName ref="#MichelAnge"
+               >Michelagnolo</persName> rispose. <placeName ref="#Cento">Cento</placeName> milia
+            Scudi. Sien (disse Giulio) ducento milia. Et mandando il San Gallo architettore, et
+               <persName ref="#Bramante">Bramante</persName> a vedere il luogo, in tai maneggi,
+            venne voglia al Papa, di far tutta la chiesa di nuovo. Et havendo fatti fare più
+            disegni, quel di <persName ref="#Bramante">Bramante</persName> fu accettato, come più
+            vago et meglio inteso delli altri. Così <persName ref="#MichelAnge"
+               >Michelagnolo</persName> venne ad esser cagione, et che quella parte della Fabrica
+            gia cominciata, si finisse, che, se ciò stato non fusse, forse anchora starebbe come
+            l'era, et che venisse voglia al Papa, di rinovare il resto, con nuovo et più bello et
+            più magno disegno. Or tornando alla nostra storia. S'accorse <persName ref="#MichelAnge"
+               >Michelagnolo</persName> della cangiata voluntà del Papa, in questo modo. Haveva il
+            Papa comesso a <persName ref="#MichelAnge">Michelagnolo</persName>, che bisognando
+            danari, non dovesse andare ad altri che a lui, accio non si havesse a girare in qua è in
+            là. Auenne un giorno, che arriuò a <persName ref="#CesareRipa">Ripa</persName> quel
+            resto de marmi, ch'eran restati a Carrara. <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, havendogli fatti scaricare, et portare a San Piero, volendo
+            pagare i noli, scaricatura et conduttura, venne per chieder danari al Papa, ma trouò
+            l'ingresso piu difficile, e lui occupato. Però <pb n="17bis"/> tornato a casa, per non
+            far stare a disagio quei poveri huomini, che havevano havere, pagò tutti del suo,
+            pensando di ritrarsi i suoi danari, come dal Papa comodamente gli potesse havere.
+            Un'altra mattina tornato, et entrato nel'anticamera, per haver audienza, eccoti un
+            Palafreniere farsegli in contro, dicendo, perdonatemi ch'io ho commessione non vi
+            lasciare entrare. Era presente un Vescovo, il qual, sentendo le parole del palafreniere,
+            lo sgridò, dicendo, tu non debbi conoscer chi è questo huomo. Anzi lo conosco, rispose
+            il palafreniere, ma io son tenuto di quel che m'è commesso da miei padroni, senza cercar
+            più là. <persName ref="#MichelAnge">Michelagnolo</persName>, a cui fin alhora non era
+            mai stata tenuta portiera, ne serrato vscio, vedendosi così sbatuto, sdegnato per tal
+            caso, gli rispose. Et voi direte al Papa, che se da qui inanzi mi vorà, mi cercherà
+            altrove. Così tornato a casa, ordinò a due seruitori ch'egli haveva, che venduti tutti i
+            mobili di casa, et tenutisi i danari, lo seguissino a <placeName ref="#Florence"
+               >Firenze</placeName>. Egli montato in poste, a due hore di notte giunse a Poggibonzi,
+            castello del contado di <placeName ref="#Florence">Firenze</placeName>, lontano dalla
+            città, un diciotto o venti miglia. Quivi come in luogo sicuro, si posò. Poco da poi
+            giunsero cinque corrieri di Giulio, c'havean commessione da lui di <pb n="18"/> menarlo
+            in dietro duunque lo trovasseno. Ma havendolo arrivato in loco dove far violenza non gli
+            poteano, minacciando <persName ref="#MichelAnge">Michelagnolo</persName> se niuna cosa
+            tentassino, di fargli ammazzare, si voltorno a preghi, iquali non gli giovando,
+            ottennero da lui, che almeno rispondesse alla lettera del Papa, laqual eglino
+            appresentata gli havevano, et che particularmente scrivesse, che nol'havevano aggiunto,
+            se non in <placeName ref="#Florence">Firenze</placeName>, accio ch'egli potesse
+            intendere, che nol'havevano potuto condure in dietro, contra sua voglia. La lettera del
+            Papa era di questo tenore, che vista la presente, subito tornasse a <placeName
+               ref="#Rome">Roma</placeName>, sotto pena della sua disgratia. Alla qual <persName
+               ref="#MichelAnge">Michelagnolo</persName> brevemente rispose, ch'egli non era mai per
+            tornare, Et che non meritava della buona et fidele seruitù sua, haverne questo cambio,
+            d'esser cacciato dalla sua faccia come un tristo: Et poi che sua Santità non voleva più
+            attendere alla sepoltura, esser disubligato ne volersi vbligare ad altro. Così fatta la
+            data de la lettera, come s'è detto, et licentiati i Corrieri, se ne andò a <placeName
+               ref="#Florence">Firenze</placeName>, dove in tre mesi che ui stette furon mandati tre
+            brevi alla Signoria, pieni di minaccie, che lo mandassero in dietro, o per amore, o per
+            forza. Pier <persName ref="#PierSoderini">Soderini</persName>, che alhora era
+            Confaloniero in vita di quella Republica, <pb n="18bis"/> havendolo per inanzi contra
+            sua voglia lasciato andare a <placeName ref="#Rome">Roma</placeName>, disegnando di
+            seruirsene, in dipigner la sala del Consiglio, al primo breve non isforzò <persName
+               ref="#MichelAnge">Michelagnolo</persName> a tornare, sperando che la collera del Papa
+            dovesse passare, ma venuto il secondo e'l terzo, chiamato <persName ref="#MichelAnge"
+               >Michelagnolo</persName> gli disse. Tu hai fatta una prova col Papa, che non
+            l'harebbe fatta un Re di <placeName ref="#France">Francia</placeName>. Però non è piu da
+            farsi pregare. Noi non vogliamo per te far guerra con lui, et metter lo stato nostro a
+            risico. Però disponti a tornare. <persName ref="#MichelAnge">Michelagnolo</persName>
+            alhora vedendosi condotto a questo, temendo de l'ira del Papa, pensò d'andarsene in
+            Levante, massimamente essendo stato dal Turco ricercato, con grandissime promesse, per
+            mezzo di certi frati di San Francesco, per volersene seruire in far un ponte da
+            Costantinopoli a Pera, et in altri affari. Ma ciò sentendo il Gonfaloniere, mandò per
+            lui, et lo distolse da tal pensiero, dicendo che piu tosto eleggerebbe di morire andando
+            al Papa, che vivere andando al Turco: non dimeno che di ciò non dovesse temere,
+            percioché il Papa era benigno et lo richiamava, per che gli voleva bene, non per fargli
+            dispiacere. Et se pur temeva, che la Signoria lo mandarebbe con titolo <pb n="19"/>
+            d'Ambasciatore, percioché a le persone publiche non si suol far violenza, che non si
+            faccia a chi gli manda. Per queste et altre parole, <persName ref="#MichelAnge"
+               >Michelagnolo</persName> si dispose a ritornare. Ma in questo mezzo ch'egli stette in
+               <placeName ref="#Florence">Firenze</placeName>, due cose occorsero. L'una ch'egli
+            fini quel maraviglioso cartone cominciato per la sala del Consiglio, nel quale
+            rappresentava la guerra tra <placeName ref="#Florence">Fiorenza.</placeName>et
+               <placeName ref="#Pise">Pisa</placeName>, e i molti et vari accidenti occorsi in essa.
+            Dal quale artificiosissimo cartone, heber luce tutti quelli, che di poi misser mano a
+            pennello. Ne so per qual mala fortuna capitasse poi male, essendo stato da <persName
+               ref="#MichelAnge">Michelagnolo</persName> lasciato nella sala del Papa, luogo così
+            chiamato in <placeName ref="#Florence">Firenze</placeName>, a Santa Maria Novella. Se ne
+            vede però qualche pezzo in vari luoghi, serbato con grandissima diligenza et come cosa
+            Sacra. Laltra cosa che occorse fu, che <persName ref="#JulesII">Papa Giulio</persName>
+            havendo presa <placeName ref="#Bologne">Bologna</placeName> la se n'era andato, et per
+            tal acquisto, era tutto lieto. Il che dette animo a <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, con miglior speranza d'andargli inanzi. Giunto a dunque una
+            mattina in <placeName ref="#Bologne">Bologna</placeName>, et andando a San Petronio per
+            vdir messa, eccoti i Palafrenieri del Papa, iquali riconoscendolo lo condussero inanzi a
+            sua Santità, che era a tavola, nel palazzo de'sedici. Ilquale poi che in sua presenza lo
+            vidde, con volto sdegnato <pb n="19bis"/> gli disse. Tu havevi a venire a trovar noi, et
+            hai aspettato che noi vegniamo a trovar te. Volendo intendere, che essendo sua Santità
+            venuta a <placeName ref="#Bologne">Bologna</placeName>, luogo molto piu vicino a
+               <placeName ref="#Florence">Fiorenza.</placeName>che non è <placeName ref="#Rome"
+               >Roma</placeName>, era come venuto a trovar lui. <persName ref="#MichelAnge"
+               >Michelagnolo</persName> inginocchiato, ad alta voce gli domandò perdono, scusandosi
+            di non havere errato per malignità, ma per isdegno, non havendo potuto sopportare
+            d'essere così cacciato: come fu. Stavasene il Papa a capo basso, senza risponder nulla,
+            tutto nel sembiante turbato, quando un Monsignore, mandato dal Cardinal <persName
+               ref="#PierSoderini">Soderini</persName> per iscusare et racommandar <persName
+               ref="#MichelAnge">Michelagnolo</persName>, si volse interporre, et disse, vostra
+            Santità non guardi al error suo, percioché ha errato per ignoranza. I dipintori, dal
+            arte loro in fuore, son tutti cosi. A cui il Papa sdegnato rispose. Tu gli di villania,
+            che non diciamo noi. Lo'gnorante sei tu e lo sciagurato non egli. Lievamiti dinanzi in
+            tua mal'hora. Et non andando, fu da seruitori del Papa, con matti frugoni (come suol dir
+               <persName ref="#MichelAnge">Michelagnolo</persName>) spinto fuore. Così il Papa
+            havendo il più della sua collera sborrata sopra il vescovo, chiamato più a costo
+               <persName ref="#MichelAnge">Michelagnolo</persName>, gli perdonò, et gli commesse che
+            di <placeName ref="#Bologne">Bologna</placeName> non partisse, fin ch'altra commessione
+            da lui <pb n="20"/> non gli fusse data. Ne stette però molto, che mandò per lui, et
+            disse, che voleva ch'egli lo ritraesse in una grande statua, di bronzo, qual voleva
+            collocare nel frontespitio della chiesa di San Petronio. Et per questo effetto lasciati
+            ducati mille in sul banco di Messer Antonmaria da Lignano, se ne tornò a <placeName
+               ref="#Rome">Roma</placeName>. È vero che prima si partisse, gia <persName
+               ref="#MichelAnge">Michelagnolo</persName> l'haveva fatta di terra. Et dubitando quel
+            ch'egli dovesse fare nella man sinistra, facendo la destra sembiante di dar la
+            beneditione, ricercò il Papa, che a veder la statua venuto era, se gli piaceva che gli
+            facesse un'libro. Che libro rispose egli alhora? una spada. Ch'io per me non so lettere.
+            Et motteggiando sopra la destra che era in atto gagliardo, sorridendo disse a <persName
+               ref="#MichelAnge">Michelagnolo</persName>. Questa tua statua, da ella la beneditione
+            o maledittione? a cui <persName ref="#MichelAnge">Michelagnolo</persName>. Minaccia
+            Padre Santo questo populo, se non è savio. Ma come ho detto, tornatosene <persName
+               ref="#JulesII">Papa Giulio</persName> a <placeName ref="#Rome">Roma</placeName>,
+               <persName ref="#MichelAnge">Michelagnolo</persName> restò in <placeName
+               ref="#Bologne">Bologna</placeName>, et in condur la statua, et collocarla dove il
+            Papa gia ordinato gli haveva, spese sedici mesi. Questa statua poi, rientrando i
+            Bentivogli in <placeName ref="#Bologne">Bologna</placeName>, fu a furia di populo
+            gittata a terra, et disfatta. La sua grandezza, fu meglio che tre volte il naturale. Poi
+            ch'hebbe finita <pb n="20bis"/> quest'opera, se ne venne a <placeName ref="#Rome"
+               >Roma</placeName>, dove volendo <persName ref="#JulesII">Papa Giulio</persName>
+            seruirsi di lui, et stando pur in preposito di non far la sepultura, gli fu messo in
+            capo da <persName ref="#Bramante">Bramante</persName> et altri emuli di <persName
+               ref="#MichelAnge">Michelagnolo</persName>, che lo facesse dipignere la volta della
+            Cappella di Papa Sisto quarto, ch'è in Palazzo, dando speranza che in ciò farebbe
+            miracoli. Et tale vfficio facevano con malitia, per ritrarre il Papa da cose di
+            scultura, et percioché tenevano per cosa certa, che o non accettand'egli tale impresa,
+            commoverebbe contra di se il Papa, o accettandola, riuscirebbe assai minore di <persName
+               ref="#Raphael">Raffaello</persName> da Vrbino, alqual per odio di <persName
+               ref="#MichelAnge">Michelagnolo</persName>, prestavano ogni favore, stimando che la
+            principal arte di lui, fusse (come veramente era) la statuaria. <persName
+               ref="#MichelAnge">Michelagnolo</persName> che per anchora colorito non haveva, et
+            conosceva il dipignere una volta, esser cosa difficile, tentò con ogni sforzo di
+            scaricarsi, proponendo <persName ref="#Raphael">Raffaello</persName>, et scusandosi che
+            non era sua arte, et che non riuscirebbe, et tanto procedette ricusando, che quasi il
+            Papa si corucciò. Ma vedendo pur l'ostinatione di lui si mise a fare quel opera, che
+            hoggi in Palazzo del Papa si vede, con ammiratione et stupore del mondo, laqual tanta
+            riputatione gli arrecò, che lo pose sopra ogni inuidia. Della quale darò breve
+            informatione <pb n="21"/> E'la forma della volta, rotonda che communemente chiama a
+            bottei. Et ne posamenti suoi a lunette, che sono per la lunghezza sei, per la larghezza
+            due, sì che tutta vien ad essere due quadri et mezzo. In questa <persName
+               ref="#MichelAnge">Michelagnolo</persName> ha dipinto principalmente la creatione del
+            mondo, ma v'ha di poi abbracciato quasi tutto il Testamento vecchio. Et qtest'opera ha
+            partita in questo modo. Cominciando da i peducci, dove le corna delle lunette si posano,
+            sin quasi a un terzo del arco della volta, finge come un parete piano, tirando suà quel
+            termine, alcuni pilastri et zoccoli, finti di marmo, che sporgono in fuori sopra un
+            piano a guisa di poggiolo, con le sue mensole sotto, et con altri pilastrelli sopra il
+            medesimo piano, dove stanno a sedere profeti et sibille. Iquali primi pilastri,
+            movendosi dalli archi delle lunette, mettono in mezzo i peducci, lasciando però del arco
+            delle lunette, maggior parte, che non è quello spatio, che dentro a loro si contiene.
+            Sopra detti Zoccoli, son finti alcuni fanciulletti ignudi in vari gesti, iquali a guisa
+            de termini, reggono una cornice, che intorno cinge tutta l'opera, lasciando nel mezzo
+            della volta, da capo a piè, come uno aperto cielo. Questa apertura è destinta in nove
+            liste. Percioché dalla cornice sopra <pb n="21bis"/> i pilastri si muoveno al cuni archi
+            corniciati, iquali passano per l'ultima altezza della volta, et vanno a trovare la
+            cornice del opposita parte, lasciando tra arco et arco nove vani, un grande et un
+            picciolo. Nel picciolo son due listarelle finte di marmo, che traversan il uano, fatte
+            talmente, che nel mezzo restan le due parti, et una dalle bande, dove son collocati
+            imedaglioni, come si dirà al suo luogo Et questo ha fatto per fuggir la sacietà, che
+            nasce dalla similitudine. Adunque nel vano primo, nella testa di sopra, il qual è dei
+            minori, si vede in aria l'onipotente <persName ref="#Dieu">Iddio</persName>, che col
+            moto delle braccia divide la luce dalla tenebre. Nel secondo vano è, quando creò i due
+            luminari maggiori, ilqual si vede stare a braccia tutte distese, colla destra accennando
+            al sole, et colla sinistra alla luna. Sonui alcuni Agnoletti in compagnia, un de quali
+            nella sinistra parte, nasconde il volto, e ristringendosi al creator suo, quasi per
+            difendersi dal nocumento della luna. In questo medesimo vano dalla parte sinistra, è il
+            medesimo <persName ref="#Dieu">Iddio</persName>, volto a creare nella terra l'herbe et
+            le piante, fatto con tanto artificio, che dovunque tu ti volti, par c'hegli te seguiti,
+            mostrando tutta laschiena fin alle piante de piedi, Cosa molto bella, et che ci dimostra
+            quel che possa lo scorcio. Nelterzo vano apparisce <pb n="22"/> in aria il magno
+               <persName ref="#Dieu">Iddio</persName>, similmente con agnoli, et remira al acque,
+            comandando loro che produchino tutte quelle spetie et animali che tal elemento nutrisce,
+            non altrimente che nel secondo comandò alla terra. Nel quarto è la creatione del huomo;
+            dove si vede <persName ref="#Dieu">Iddio</persName> col braccio et colla mano distesa,
+            dar quasi i precetti ad <persName ref="#Adam">Adamo</persName>, di quelche far debbe et
+            non fare, et col'altro braccio, racoglie i suoi agnolini. Nel quinto è, quando della
+            costa d'<persName ref="#Adam">Adamo</persName> ne trahe la donna, laquale su uenendo a
+            mani giunte, et sporte verso <persName ref="#Dieu">Iddio</persName>, inchinatasi con
+            dolce atto, par che lo ringratie, et che egli lei benedica. Nel sesto è quando il
+            Demonio, dal mezzo in su in forma humana, et nel resto di serpente, con le gambe
+            trasformate in code, s'avuolge intorno a un'albero, et facendo sembiante, che col'huomo
+            ragioni, lo induce a far contra il suo creatore, et porge alla donna il vieatato pomo.
+            Et nel'altra parte del vano, si vedano ambidue scacciati dal'Agnolo, spaventati et
+            dolenti, fuggirsi dalla faccia de <persName ref="#Dieu">Iddio</persName>. Nel settimo è
+            il sacraficio di <persName ref="#Abel">Abel</persName> et di <persName ref="#Cain"
+               >Cain</persName>, quello grato et accettto a <persName ref="#Dieu">Dio</persName>,
+            questo odioso et reprobato. Nel ottavo è il diluvio dove si può vedere l'Archa di Noe da
+            lunge, in mezzo del'acque, et alcuni, che per suo <pb n="22bis"/> scampo, a lei
+            s'attaccano. Piu da presso nel medesimo pelago, è una nave carrica di varie genti,
+            laquale si per il soverchio peso che haveva, si per le molte et violente percosse del
+            onde, persa la vela, et privata d'ogni aiuto, et argomento humano, si vede gia dentro di
+            se pigliar acque, andarsene a fondo. Dove e miserabil cosa, veder la spetie humana così
+            meschinamente nel onde perire. Similmente piu vicino al'occhio, appare anchor sopra
+            l'acque la cima d'una montagna, a guisa d'un'isola, dove fuggendo l'acque ch'alzavano,
+            s'è ridotta una moltitudine d'huomini et di donne, che mostran vari affetti, ma tutti
+            miserabili et spaventosi, traendosi sotto una tenda, tirata sopra un albore per
+            diffendersi di sopra dalla inusitata pioggia, et sopra questa con grande artificio si
+            rappresenta l'ira di <persName ref="#Dieu">Dio</persName>, che con acque, con fulgori,
+            et con saette, si versa contra di loro. Euvi un'altra sommità di monte, nella destra
+            parte, assai più vicina al occhio, et una moltitudine travagliata dal medesimo
+            accidente, della quale saria longo scrivere ogni particulare, mi basta che sono tutti
+            naturali et formidabili, secondo che in un tale accidente si possono imaginare. Nel nono
+            che è l'ultimo, è la storia di Noe, quando ebbro iacendo in terra, et mostrando le parti
+               <pb n="23"/> vergognose dal figluol Can fu deriso, et da Sem et Iaphet ricoperto.
+            Sotto la cornice gia detta, che finisce il parete, et sopra i peducci, dove le lunette
+            si posano, tra pilastro et pilastro, stanno a sedere dodici figurone tra Profeti et
+               <persName ref="#Sibylle">Sibille</persName>, tutti veramente mirabili, si per
+            l'attitudini, come per l'ornamento et varietà de panni. Ma mirabilissimo sopra tutti, il
+            Profeta Iona, posto nella testa della volta, percioché contro alli siti d'essa volta, et
+            per forza di lumi, et d'ombre, il torso che scorcia in dentro, è ne la parte che è piu
+            vicina al occhio, et le gambe che sporgono in fuori, son ne la parte più lontana. Opera
+            stupenda et che ci dichiara, quanta scienza sia in questo huomo, ne la facultà del girar
+            le linee, ne scorci et nella perspettiva. Ma in quello spatio ch'è sotto le lunette, et
+            così in quel di sopra, ilqual ha figura di Triangolo, v'è dipinta tutta la Genealogia, o
+            voglian dire generatione del Saluatore, ecetto che ne triangoli de cantoni, iquali uniti
+            insieme, di due diventano uno, et lascian'doppio spatio. In uno adunque di questi,
+            vicina alla facciata del giudicio, a man dritta, si vede quando Aman, per comandamento
+            del Re Assuero fu sospeso in croce, et questo percio che volse per la superbia et
+            alterezza sua far sospendere Mardocheo <pb n="23bis"/> Zio della Regina Ester, percioché
+            nel passare suo non gli haveva fatto honore et reverenza. In un'altro è la storia del
+            Serpente di bronzo, elevato da <persName ref="#Moise">Moise</persName> sopra d'un'asta,
+            nel qual il popolo de <placeName ref="#Israel">Israel</placeName> ferito et mal trattato
+            da uivi serpentegli reguardando, era sanato. Nel qual <persName ref="#MichelAnge"
+               >Michelagnolo</persName> ha mostrato mirabil'forze, in quei che si vogliono staccar
+            quelle biscie datorno. Nel terzo cantone da basso, è la vendetta fatta da Iudit, contra
+            Oloferne. Et nel quarto quella di <persName ref="#David">David</persName>, contra
+            Goliad. Et questa è brevemente tutta la storia, Ma non meno di questa è maravigliosa
+            quella parte, che alla storia nostr si appertiene. Questi son certi ignudi, che sopra la
+            gia detta cornice, in alcuni Zoccoli sedendo, un di qua, et un di là, sostengano i
+            medaglioni, che si son detti, finti di metallo, nei quali, a uso di rovesci, son fatte
+            varie storie tutte approposito però della principale. In queste cose tutte, per la
+            vaghezza de compartimenti, per la diversità del'attitudini, et per la contrarietà de
+            siti, mostrò <persName ref="#MichelAnge">Michelagnolo</persName> un'arte grandissima. Ma
+            narrare i particulari di queste et del'altre cose, saria opera infinita, ne bastarebbe
+            un volume. Però brevemente me ne son passato, volendo solamente dare un poco di luce,
+            più tosto del tutto che specificar le parti. Ne in <pb n="24"/> questo mezzo gli
+            mancarono travagli, per ciò che havendola cominciata, et fatto il quadro del Diluvio, se
+            gli cominciò l'opera a muffare, di maniera che appena si scorgevan le figure. Però
+            stimando <persName ref="#MichelAnge">Michelagnolo</persName>, che questa scusa gli
+            dovesse bastare, a fugir un tal carico, se n'andò dal Papa, et gli disse, Io ho pur
+            detto a Vostra Santità, che questa nostr è mia arte: ciò ch'io ho fatto è guasto. Et se
+            nol credete, mandate a vedere. Mandò il Papa il San Gallo, ilquale ciò vedendo, conobbe
+            ch'egli haveva data la calcina troppo acquosa, et per questo calando l'humore, faceva
+            quel effetto; et avisatone <persName ref="#MichelAnge">Michelagnolo</persName>, fece che
+            seguitò, ne gli valse scusa. Mentre che dipingeva, piu volte <persName ref="#JulesII"
+               >Papa Giulio</persName> volse andare a vedere l'opera, salendo su per una scala a
+            pivoli. A cui <persName ref="#MichelAnge">Michelagnolo</persName> porgeva la mano, per
+            farlo montare in sul ponte. Et come quello che era di natura ue'mente, e'mpaciente
+            d'aspettare, poi che fu fatta la metà, cioè dalla porta, fin a mezzo la volta, volse
+            ch'egli la scoprisse, anchor che fusse imperfetta, et non havesse havuta l'ultima mano,
+            L'openione et l'aspettatione che s'haveva di <persName ref="#MichelAnge"
+               >Michelagnolo</persName>; trasse tutta <placeName ref="#Rome">Roma</placeName> a
+            veder questa cosa. Dove andò ancho il Papa, prima che la poluere, che per il disfar del
+            palco era levata, si <pb n="24bis"/> posasse, Doppo quest'opera, <persName
+               ref="#Raphael">Rafaello</persName> havendo vista la nuova et maravigliosa maniera,
+            come quello che in imitare era mirabile, cercò per via di <persName ref="#Bramante"
+               >Bramante</persName> di dipignere il resto. Del che <persName ref="#MichelAnge"
+               >Michelagnolo</persName> molto si turbò, et uenuto inanzi a <persName ref="#JulesII"
+               >Papa Giulio</persName>, gravemente si lamentò dell'ingiuria, che gli faceva
+               <persName ref="#Bramante">Bramante</persName>, et in sua presenza, se ne dolse col
+            Papa, scoprendoli tutte le persecutioni ch'egli haveva recevute dal medesimo, et
+            appresso scoperse molti suoi manchamenti, et massimamente, che disfacendo egli San Piero
+            vecchio, gittava a terra quelle maravigliose colonne, che erano in esso tempio, non si
+            curando ne facendo stima, che andassero in pezzi, potendole pianamente calare, et
+            conseruarlle intere. mostrando com'era facil cosa, a mettere matton sopra mattone, ma
+            che a fare una colonna tale, era difficilissima, et molte altre cose che non occorre
+            narrare, di maniera che'l Papa vdite queste tristitie, volse che <persName
+               ref="#MichelAnge">Michelagnolo</persName> seguitasse, facendogli più favori che mai
+            facesse. Finì tutta quest'opera in mesi venti, senza haver aiuto nessuno, ne d'un pure
+            che gli macinasse i colori. E vero ch'io gli ho sentito dire, ch'ella non è come egli
+            harebbe uoluto finita, impedito dalla fretta del Papa, ilqual dimandandolo un giorno,
+            quando finerebbe <pb n="25"/> quella cappella, et rispondendo lui, quando potrò, Egli
+            irato soggiunse, tu hai voglia ch'io ti faccia gittar giu di quel palco. Il che udendo
+               <persName ref="#MichelAnge">Michelagnolo</persName>, da se disse, me nostr sarai tu
+            gittare, et partitosi, fece disfare il ponte, et scoperse l'opera il giorno l'ogni santi
+            laqual fu vista con gran sodisfatione del Papa, che quel giorno andò in Cappella, et
+            concorso et ammiratione di tutta <placeName ref="#Rome">Roma</placeName> Manchava a
+            ritoccarla con l'azzurro, oltramarino a secco, et con oro, in qualche luogo, perché
+            paresse piu ricca. Giulio, passato quel feruore, voleva pur che <persName
+               ref="#MichelAnge">Michelagnolo</persName> la fornisse, ma egli considerando
+            l'impaccio, che haurebbe havuto in rimettere in ordine il palco, rispose che quel che li
+            manchava, non era cosa che importasse. Bisognarebbe pur rittoccarla d'oro, rispose il
+            Papa, a cui <persName ref="#MichelAnge">Michelagnolo</persName> familiarmente, come
+            soleva con sua Santità, io non veggio che gli huomini portino oro. El Papa: La sarà
+            povera. Quei che sono quivi dipinti, rispose egli, furon poveri anchor loro. Così si
+            buttò in burla et è così rimasta. Hebbe <persName ref="#MichelAnge"
+               >Michelagnolo</persName> di quest'opera ad ogni sua spesa, ducati tre mila, De quali
+            ne dovette spendere in colori, secondo che gli ho sentito dire, intorno a venti, o venti
+            cinque. Spedita quest'opera, <persName ref="#MichelAnge">Michelagnolo</persName> per
+            havere nel dipignere, cosi <pb n="25bis"/> lungo tenmpo, tenuti gliocchi alzati verso la
+            volta, guardando poi in giu, poco vedeva sì che s'egli haveva a legere una lettera o
+            altre cose minute, gli era necessario con le braccia tenerle levate sopra il capo.
+            Nondimeno dipoi appoco appoco, s'ausò a leggere anchora guardando a basso. Per questo
+            possiamo considerare, con quanta attentione et assiduità facesse quest'opera. Molte
+            altre cose gli avennero, uivente <persName ref="#JulesII">Papa Giulio</persName>. Il
+            quale suiceratamente l'amò havendo di lui piu cura et gelosia, che di qualunque altro
+            ch'egli appresso di se havesse. Il che si può per quelche gia scritto n'habbiamo; assai
+            chiaramente conoscere. Anzi un giorno dubitando ch'egli non fusse sdegnato, di subito lo
+            mandò a placare. La cosa fu in questo modo. Volendo <persName ref="#MichelAnge"
+               >Michelagnolo</persName> per San Giovanni andare fin a <placeName ref="#Florence"
+               >Firenze</placeName>, chiese danari al Papa. Et egli dimandando quando finirebbe la
+            Capella, <persName ref="#MichelAnge">Michelagnolo</persName> al'usanza sua gli rispose,
+            quando potrò, il Papa che era di natura subito, lo percosse con un babastone che in mano
+            teneva dicendo, quando potrò, quando potrò. Però tornato a casa <persName
+               ref="#MichelAnge">Michelagnolo</persName> si metteva in ordine per andare senz'altrò
+            a <placeName ref="#Florence">Firenze</placeName>, quando sopravenne Accursio, giovane
+            molto favorito, mandato dal Papa, et gli portò ducati cinquecento, <pb n="26"/>
+            placandolo il meglio che potette, et scusando il Papa. <persName ref="#MichelAnge"
+               >Michelagnolo</persName> accettata la scusa se ne andò a <placeName ref="#Florence"
+               >Fiorenza</placeName>. Sì che di nessuna cosa parue che Giulio maggior cura havesse,
+            che di mantenerse questo huomo, ne uolse solamente seruirsene in uita, ma poi che fu
+            morto anchora, Percioché venendo a morte, ordinò che gli fusse fatta finir quella
+            sepoltura, che gia haveva principiata, dando la cura al Cardinal <persName ref="#Santi"
+               >Santi</persName> quatro vecchio, et al Cardinale Aginense suo nipote. Iquali però
+            gli fecer fare nuovo disegno, parendo loro il primo impresa troppo grande. Così entrò
+               <persName ref="#MichelAnge">Michelagnolo</persName> unaltra uolta nella Tragedia
+            della sepoltura, laquale non piu felicemente gli successe, di quel di prima, Anzi molto
+            peggio, arrecandogli infiniti impacci, dispiaceri, et travagli, et quel ch'è peggio, per
+            la malitia di certi huomini, infamia, della qual'appena doppo molti anni s'è purgato.
+            Ricominciò dunque <persName ref="#MichelAnge">Michelagnolo</persName> di nuovo a far
+            lavorare, condotti da <placeName ref="#Florence">Firenze</placeName> molti maestri, et
+            Bernardo Bini ch'era depositario, dava danari, secondo che bisognava. Ma non molto andò
+            inanzi, che fu con suo gran dispiacere impedito, percioché a Papa Lione, il qual
+            successe a Giulio, venne voglia d'ornare la facciata di San Lorenzo di <placeName
+               ref="#Florence">Firenze</placeName>, con opera et lavori <pb n="26bis"/> di marmo. Fu
+            questa chiesa fabricata dal gran Cosmo de Medici, e fuor che la facciata di nanzi, tutta
+            compitamente finita. Questa parte dunque deliberandosi Papa Lione di fornire; pensò
+            seruirsi di <persName ref="#MichelAnge">Michelagnolo</persName>: et mandando per lui,
+            gli fece fare un disegno, et vltimamente per tal cagione voleva che andasse a <placeName
+               ref="#Florence">Firenze</placeName>, e pigliasse sopra di se tutto quel peso.
+               <persName ref="#MichelAnge">Michelagnolo</persName> che con grande amore s'era messo
+            a far la sepoltura di Giulio, fece tutta quella resistenza che potette, allegando
+            d'esser vbligato al Cardinal <persName ref="#Santi">Santi</persName> quatro, et ad
+            Aginense, ne poter loro manchare. Ma il Papa che incio s'era risolto gli rispose, lascia
+            a me far con loro, che gli farò contenti. Così mandati per tutt'adue, fece dar licenza a
+               <persName ref="#MichelAnge">Michelagnolo</persName>, con grandissimo dolore et di lui
+            et de Cardinali, massimamente d'Aginense, nipote come s'è detto, di <persName
+               ref="#JulesII">Papa Giulio</persName>, a quali però Papa Lione promesse, che
+               <persName ref="#MichelAnge">Michelagnolo</persName> in <placeName ref="#Florence"
+               >Firenze</placeName> la lavorarebbe, et che non la voleva impedire. In questo modo
+               <persName ref="#MichelAnge">Michelagnolo</persName> piangendo, lasciò la sepoltura,
+            et se n'ando a <placeName ref="#Florence">Firenze</placeName>, dove giunto et dato
+            ordine a tutte quelle cose che per la facciata facevan mestieri, se n'andò a a Carrara
+            per condurre i Marmi, non solamente per la facciata, <pb n="27"/> ma etiamdio per la
+            sepoltura, credendo come dal Papa gliera stato promesso, poterla seguitare. In questo
+            mezzo fu scritto a Papa Lione, che nelle montagnie di Pietra Santa, Castello de
+            Fiorentini, eran marmi di quella bellezza et bontà, che erano a Carrara, et che essendo
+            stato sopra di ciò parlato a <persName ref="#MichelAnge">Michelagnolo</persName>, egli
+            per esser amico del Marchese Alberigo, e'ntendersi con lui, voleva più tosto cavare dei
+            Carraresi che di quest'altri che erano nello stato di <placeName ref="#Florence"
+               >Firenze</placeName>, Il Papa scrisse a <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, commettendogli che dovesse andare a Pietra Santa, et veder
+            se così era come da <placeName ref="#Florence">Firenze</placeName> gliera stato scritto.
+            Ilquale andato la, trouò marmi molto intrattabili et poco a proposito, et se ben fussero
+            stati a proposito, era cosa difficile et di molta spesa a condurgli alla marina, percio
+            che bisognava fare una strada di parechi miglia per le montagne, per forza di picconi,
+            et per il piano con palafitte, come quello che era paludoso. Il che scrivendo <persName
+               ref="#MichelAnge">Michelagnolo</persName> al Papa, piu credette a quelli che da
+               <placeName ref="#Florence">Firenze</placeName> scritto gli havevano, che a lui, et
+            gli ordinò che facesse la strada. Sì che mandando ad essecutione la voluntà del Papa,
+            fece fare la strada, et per questa alla marina condurre gran copia di marmi, tra li
+            quali eran cinque colonne di giusta grandezza, <pb n="27bis"/> una delle quali si vede
+            in su la piazza di San Lorenzo, da lui fatta condurre a <placeName ref="#Florence"
+               >Firenze</placeName>, laltre quattro, per havere il Papa cangiata voluntà, et volto
+            il pensiero altrove, per anchora in sulla marina se giaceno. Ma il Marchese di Carrara,
+            stimando che <persName ref="#MichelAnge">Michelagnolo</persName>, per esser cittadin
+            Fiorentino, fusse stato inuentore di cavare a Pietra santa, gli divento nemico, ne di
+            poi volse che a Carrara tornasse per certi marmi, che quivi haveva fatti cavare. Il che
+            a <persName ref="#MichelAnge">Michelagnolo</persName> fu di gran danno. Hor essend'egli
+            tornato a <placeName ref="#Florence">Firenze</placeName>, et havendo trovato come gia
+            s'è detto, il feruore di Papa Lione al tutto spento, dolente, senza far cosa alcuna,
+            lungamente se ne stette, havendo fin alhora, hor in una cosa hor in una altra, gittato
+            uia molto tempo, con suo gran dispiacere. Non di meno con certi marmi ch'egli havea, si
+            pose in casa sua a seguitar la sepoltura. Ma essendo mancato Lione et creato Adriano
+            .vi. fu sforzato un'altra volta ad intermetter l'opera, Percioché lo incaricavano
+            ch'egli haveva ricevuti da Giulio per tal opera ben sedici milia scudi, et non si curava
+            di farla, standose in <placeName ref="#Florence">Firenze</placeName> a suoi piaceri. Sì
+            che per questo rispetto essendo chiamato a <placeName ref="#Rome">Roma</placeName>, il
+            Cardinal de Medici, che poi fu Clemente. vii. et che alhora haveva il governo di <pb
+               n="28"/>
+            <placeName ref="#Florence">Firenze</placeName> in mano, non volse che andasse. et per
+            tenerlo occupato, et haver qualche scusa, lo messe a fare il vaso della Libreria de
+            Medici, in San Lorenzo, et insieme la sagrestia colle sepolture de suoi antichi,
+            promettendo di sodisfare al Papa per lui, et acconciar le cose. Così vivendo pochi mesi
+            Adriano nel Papato, et succedendo Clemente, per un tempo della sepoltura di Giulio, non
+            si fece parola. Ma essend'egli avuisato, chel Duca d'Vrbino Francesco Maria, nipote
+            della felice memoria di <persName ref="#JulesII">Papa Giulio</persName>, di lui
+            grandemente si lamentava, et che aggiungeva ancho minaccie, se ne venne a <placeName
+               ref="#Rome">Roma</placeName>, dove conferendo la cosa con Papa Clemente, egli lo
+            consigliò, che facesse chiamare gli agenti del Duca, a far conto seco, di tutto quello
+            che haveva da Giulio riceuto, et di quelche per lui fatto haveva, sapendo che <persName
+               ref="#MichelAnge">Michelagnolo</persName>, stimandosi le sue cose, resterebbe piu
+            tosto creditore, che debitore. Stava <persName ref="#MichelAnge">Michelagnolo</persName>
+            per questo di mala voglia, et ordinate alcune sue cose, se ne tornò a <placeName
+               ref="#Florence">Firenze</placeName>, massimamente dubitando della rouina, la qual
+            poco da poi venne sopra <placeName ref="#Rome">Roma</placeName>. In tanto la casa de
+            Medici, fu cacciata di <placeName ref="#Florence">Firenze</placeName> dalla parte
+            contraria, per haver presa più auttorità, di quelche sopporti una Città libera, et che
+            si regga a Republica. Et percio che la Signoria <pb n="28bis"/> non dubitava chel Papa
+            non dovesse fare ogni opera, per rimetterla, et aspettando certa guerra, volò l'animo a
+            fortificar la città. Et sopra ciò fece <persName ref="#MichelAnge"
+               >Michelagnolo</persName> Commissario generale. Egli adunque preposto a tale impresa,
+            oltre a molte altre prouisioni da lui per tutta la Città fatte, cinse il monte di San
+            Miniato, che soprastà alla terra, et squopre intorno il paese. Del qual monte, sel
+            nemico insignorito si fusse, non è dubbio che s'impatroniva anchora della Città. Fu
+            adunque tale avedimento la salute della terra, et danno grandisimo del nemico, percioché
+            essendo alto et elevato, come ho detto, molto molestava l'hoste, massimamente dal
+            campanile della chiesa, dove erano due pezzi d'artiglieria, che di continuo gran danno
+            davano al campo di fuore. <persName ref="#MichelAnge">Michelagnolo</persName> anchor che
+            tal prouisione havesse fatta, non di meno per qualunque caso avenir potessi, se ne stava
+            in quel monte. Et essendo stato gia circa sei mesi, si cominciò tra i soldati della
+            città, a mormorare di non so che tradimento: del quale <persName ref="#MichelAnge"
+               >Michelagnolo</persName> parte da se accortosi, parte avisato da certi Capitani suoi
+            amici, sen'andò alla Signoria scoprendole cioche inteso et visto haveva, mostrando loro
+            in che pericolo si trovasse la città: dicendo, che anchor erano a tempo à <pb n="29"/>
+            provedere, se volevano. Ma in luogo di rendergli gratia, gli fu detto villania, et
+            ripreso come huomo timido, et troppo sospettoso. Et colui che ciò gli rispose, harebbe
+            fatto molto meglio a porgergli orecchi, percio che entrata in <placeName ref="#Florence"
+               >Firenze</placeName> la casa de Medici, gli fu tagliata la testa, onde forse saria
+            vivo. Visto <persName ref="#MichelAnge">Michelagnolo</persName> che poca stima era fatto
+            delle sue parole, et la certa rouina della città, col autorità che haveva, si fece
+            aprire una porta, et vscì fuora con due de suoi, et andossone a <placeName ref="#Venise"
+               >Vinegia</placeName>. E certo il tradimento non era favola, ma chi lo maneggiava,
+            giudicò che passerebbe con minore infamia, se alhora non si scoprendo, havesse col tempo
+            fatto il medesimo effetto, col manchar solamente del debito suo, et impedir chi far
+            l'havesse voluto. La partita di <persName ref="#MichelAnge">Michelagnolo</persName>, fu
+            cagione in <placeName ref="#Florence">Firenze</placeName> di gran romore, et egli cadde
+            in gran contumacia di chi reggeva, Nondimeno fu richiamato con gran prieghi, et con
+            raccomandargli la patria, et con dir che non volesse abandonar l'impresa, che haveva
+            sopra di se tolta, et che le cose non erano a quello estremo, ch'egli s'era dato ad
+            intendere, et molte altre cose, dalle quali, et dalla autorità de personaggi che gli
+            scrivevano, et principalmente dal amor della patria persuaso, riceuto un saluo condotto,
+               <pb n="29bis"/> per dieci giorni dal di che arrivava in <placeName ref="#Florence"
+               >Firenze</placeName>, se ne tornò, ma non senza pericolo della vita. Giunto in
+               <placeName ref="#Florence">Firenze</placeName>, la prima cosa che facesse, fu di far
+            armare il Campanile di San Miniato, ilquale era per le continue percosse del artiglieria
+            nemica, tutto lacerato, et portava pericolo, che a lungo andare, non rouinasse, con gran
+            disavantaggio di quei di dentro. Il modo d'armarlo fu questo. che pigliando un gran
+            numero di materazzi ben pieni di lana, la notte con gagliarde corde giù gli calava,
+            dalla sommità fin a piè coprendo quella parte, che poteva essere battuta. Et percioché i
+            cornicioni della torre sporgevano in fuore, venivano i materazzi ad esser lontani dal
+            muro principale del campanile, meglio di sei palmi, di maniera che le palle
+            del'artiglieria venendo, parte per la lontanezza d'onde eran tratte, parte per lo
+            obietto di questi materazzi, facevan nessuno o poco danno, non offendendo ancho i
+            materazzi, percioché cedevano. Così mantenne quella torre tutto il tempo della guerra,
+            che durò un'anno, senza che mai fusse offesa, et giovando grandemente per saluar la
+            terra, et offendere i nemici. Ma essendo poi per accordo entrati i nemici dentro, et
+            molti cittadini presi et vccisi, fu mandata la corte a casa di <persName
+               ref="#MichelAnge">Michelagnolo</persName>
+            <pb n="30"/> per pigliarlo, et furon le stanze et tutte le casse aperte, per in fin al
+            camino, el necessario. Ma <persName ref="#MichelAnge">Michelagnolo</persName> temendo di
+            quel che seguì, se n'era fuggito in casa d'un suo grande amico, dove molti giorni stando
+            nascosto, non sapendo nesuno ch'egli in casa fusse, eccetto che l'amico, si saluò,
+            percioché passato il furore, fu da Papa Clemente scritto a <placeName ref="#Florence"
+               >Firenze</placeName>, che <persName ref="#MichelAnge">Michelagnolo</persName> fusse
+            cercato. et conmesso, che trovandosi, se voleva seguitar l'opera delle sepolture gia
+            comminciate, fusse lasciato libero, et gli fusse vsata cortesia. Il che intendendo
+               <persName ref="#MichelAnge">Michelagnolo</persName>, vsci fuore, et se ben era stato
+            intorno a quindici anni, che non haveva tocchi ferri, con tanto studio si messe a tale
+            impresa; che in pochi mesi fece tutte quelle statue; che nella sagrestia di San Lorenzo
+            si veggiono spinto piu dalla paura che dal'amore. E'vero che nessuna di queste, ha hauta
+            l'ultima mano, però son condotte a tal grado, che molto bene si può veder l'eccelenza
+            del artefice, ne il bozzo impedisce la perfettione et la bellezza del opera. Le
+            sepolture son quatro poste in una sagrestia fatta per questo, nella parte sinistra della
+            chiesa, al incontro della sagrestia vecchia. Et avenga che di tutte fusse una
+            intentione, et una forma, non dimeno le figure son tutte differenti, e'ndiversi <pb
+               n="30bis"/> moti et atti. L'Arche son poste dentro a certe cappelle, sopra i coperchi
+            delle quali, iaceno due figurone, maggiori del naturale, cioè un homo e una donna,
+            significandosi per queste il giorno et la notte, et per ambi due, il tempo che consuma
+            il tutto. Et per che tal suo proposito meglio fusse inteso, messe alla notte, ch'è fatta
+            in forma di donna di maravigliosa bellezza, la civetta, et altri segni accio accomodati,
+            così al giorno le sue note. Et per la significatione del tempo, voleva fare un topo,
+            havendo lasciato in su l'opera un poco di marmo, il qual poi non fece, impedito,
+            percioché tale animaluccio di continuo rode et consuma, non altrimenti chel tempo, ogni
+            cosa divora. Ci son poi altre statue che rappresentano quelli, per chi tai sepolture
+            furon fatte. tutte in conclusione divine più che humane, ma sopra tutte una madonna col
+            suo figliolino acavalcioni sopra la coscia di lei, della quale giudico esser meglio
+            tacere, che dirne poco, però me ne passo. Questo beneficio douiamo a Papa Clemente,
+            ilquale se nesun'altra cosa di lodevole in vita fatta havesse, che pur ne fece molte,
+            questa fu bastante a scancelare ogni suo difetto, che per lui il mondo ha così
+            nobil'opera. Et molto più gli douiamo, ch'egli non altrimenti hebbe <pb n="31"/>
+            rispetto nella presa di <placeName ref="#Florence">Firenze</placeName> alla virtù di
+            questo huomo, che havesse gia Marcello nel entrar di Siracusa, a quella de <persName
+               ref="#Archimede">Archimede</persName>. Benche quella buona voluntà effetto non
+            havesse, questo la <persName ref="#Dieu">Iddio</persName> gratia l'habbia havuto. Con
+            tutto ciò <persName ref="#MichelAnge">Michelagnolo</persName> stava in grandissima
+            paura, percioché il Duca <persName ref="#AlexandreLeGrand">Alessandro</persName> molto
+            l'odiava, giovane come ognun sa, feroce et vendicativo. Ne è dubio che se non fusse
+            stato il rispetto del Papa, che non se lo fusse levato dinanzi. Tanto piu che volendo il
+            Duca di <placeName ref="#Florence">Firenze</placeName>, far quella fortezza che fece, et
+            havendo fatto chiamar <persName ref="#MichelAnge">Michelagnolo</persName> per il Signor
+               <persName ref="#AlexandreLeGrand">Alessandro</persName> vitelli, che cavalcasse seco
+            a veder dove comodamente si potesse fare, egli non volse andare, rispondendo che non
+            haveva tal commessione da Papa Clemente. Del che molto si sdegnò il Duca. Sì che et per
+            questo nuovo rispetto, et per la vecchia malivolenza, et per la natura del Duca,
+            meritamente haveva da stare in paura. E certamente fu dal Signore <persName ref="#Dieu"
+               >Iddio</persName> aiutato, che alla morte di Clemente, non si trouò in <placeName
+               ref="#Florence">Firenze</placeName>, percioché da quel Pontifice, prima c'havesse le
+            sepolture ben finite, fu chiamato a <placeName ref="#Rome">Roma</placeName>, et da lui
+            recevuto lietamente. Rispetto Clemente questo huomo come cosa sacra, et con quella
+            domestichezza ragionava seco, et di cose <pb n="31bis"/> gravi e leggieri, che harebbe
+            fatto con un suo pari. Cercò di scaricarlo della sepoltura di Giulio, accioché
+            fermamente stesse in <placeName ref="#Florence">Firenze</placeName>, et non solamente
+            finisse le cose cominciate, ma ne facesse anchor del'altre non men degne. Ma prima ch'io
+            di ciò più oltre ragioni, m'occorre scrivere d'un altro fatto di questo huomo, ch'io
+            quasi per inavertenza in dietro haveva lasciato. Questo è che doppo la vionlente partita
+            della casa de Medici di <placeName ref="#Florence">Firenze</placeName>, dubitando la
+            Signoria, come se è detto di sopra, di futura guerra, et disegnando di fortificar la
+            città, anchor che conoscessino <persName ref="#MichelAnge">Michelagnolo</persName> di
+            sommo ingegno, et a tale imprese attissimo, tuttavia per consiglio d'alcuni Cittadini, i
+            quali favorivano alle cose de Medici, et volevano astutamente impedire o prolungare la
+            fortificatione della città, lo volsono mandare a Ferrara, con questo colore, che
+            considerasse il modo chel Duca Alfonso haveva tenuto, in munire et fortificare la sua
+            città sapendo che sua Eccellenza in questo era peritissimo, e'n tutte l'altre cose
+            prudentissimo Il Duca con lietissimo volto ricevette <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, si per la grandezza del huomo, si perché Don Hercole suo
+            figlivolo, hoggi Duca di quello stato. era Capitano della Signoria di <placeName
+               ref="#Florence">Firenze</placeName>. Et impersona cavalcando <pb n="32"/> seco, non
+            fu cosa che sopra ciò fusse necessaria, ch'egli non gli mostrasse, tanto di bastioni,
+            quanto d'artiglierie. Anzi gli aprì tutta la sua saluaroba, di sua mano mostrandogli
+            ogni cosa, massimamente alcune opere di pittura, et ritratti dei suoi vecchi, di mano di
+            maestri, secondo che dava quel età che furon fatti, eccellenti. Ma dovendosi <persName
+               ref="#MichelAnge">Michelagnolo</persName> partire, il Duca motteggiando gli disse.
+               <persName ref="#MichelAnge">Michelagnolo</persName> voi siate mio prigione. Se volete
+            ch'io vi lasci libero, voglio che voi mi promettiate di farmi qualche cosa di vostra
+            mano, come ben ui viene, sia quel che si voglia, scultura o pittura. Promesse <persName
+               ref="#MichelAnge">Michelagnolo</persName>, et tornato a <placeName ref="#Florence"
+               >Firenze</placeName> con tutto che nel munir la terra molto occupato fusse, tuttavia
+            principiò un quadrone da sala, rappresentando il concubito del Cygno con <persName
+               ref="#Leda">Leda</persName>, et appresso il parto del uova, di che nacquer <persName
+               ref="#Castor">Castore</persName> et Poluce, secondo che nelle favole delli antichi
+            scritto si legge. Il che sapendo il Duca, come senti la casa de Medici essere entrata in
+               <placeName ref="#Florence">Firenze</placeName>, temendo in quei tumulti di non
+            perdere un'tal Tesoro, mandò subito là un de i suoi. Il quale venuto a casa di <persName
+               ref="#MichelAnge">Michelagnolo</persName>, visto il quadro disse, oh, questa è una
+            poca cosa. Et domandato da <persName ref="#MichelAnge">Michelagnolo</persName> che arte
+            fusse la sua, sapendo, che ogniuno <pb n="32bis"/> meglio di quel'arte giudica, ch'egli
+            essercita, ghignando rispose, io son mercante. Forse stomachato d'un tal quesito, et di
+            non essere stato conosciuto per gentil huomo, et insieme sprezzando la industria de
+            Cittadini Fiorentini, i quali per maggior parte, son volti alle mercantie, come s'egli
+            dicesse, tu m'adimandi che arte e la mia, crederest'tu mai ch'io fussi mercante?
+               <persName ref="#MichelAnge">Michelagnolo</persName> che intese il parlare del gentil
+            huomo, voi farete disse mala mercantia per il Signor vostro, levatemivi dinanzi. Così
+            licentiato il Ducal messo, di li a poco tempo donò il quadro a un suo garzone, il quale
+            havendo due sorelle da maritare, segliera raccomandato. Fu mandato in <placeName
+               ref="#France">Francia</placeName>, et dal Re Francesco comprato, dove anchora è. Or
+            per tornar'là donde m'era partito, essendo <persName ref="#MichelAnge"
+               >Michelagnolo</persName> da Papa Clemente chiamato a <placeName ref="#Rome"
+               >Roma</placeName>, quivi cominciò sopra la sepoltura di Giulio dalli agenti del Duca
+            d'vrbino ad asser travagliato. Clemente che s'harebbe voluto di lui seruire in
+               <placeName ref="#Florence">Firenze</placeName>, per tutte le vie cercava di
+            liberarlo, et gli dette per suo procuratore un Messer Tomaso da Prato, che di poi fu
+            Datario. Ma egli che sapeva la mala volunta del Duca <persName ref="#AlexandreLeGrand"
+               >Alessandro</persName> verso di se, et molto ne temeva, et ancho portava amore et
+            riverenza al'ossa di <persName ref="#JulesII">Papa Giulio</persName>, et alla
+            Illustrissima <pb n="33"/> casa della Rovora, faceva ogni opera per restare in
+               <placeName ref="#Rome">Roma</placeName>, et occuparsi circa alla sepoltura, tanto più
+            ch'egli per tutto era incaricato, de haver recevuti da <persName ref="#JulesII">Papa
+               Giulio</persName> come s'è detto per tale effetto, ben sedici mila scudi, et di
+            godersegli senza fare quel ch'era vbligato: laqual infamia, non potendo sopportare, come
+            quel ch'è tenero del honor suo, voleva, che la cosa si dichiarasse, non ricusando,
+            anchor che fusse gia vecchio, et la impresa gravissima, di finir quel che haveva
+            cominciato. Per questo venuti alle strette, non mostrando li aversari pagamenti che
+            arrivassino a un pezzo a quella somma di che prima era il grido, anzi mancando piu di
+            duoi terzi al intero pagamento del accordo fatto da prima con i doi Cardinali, Clemente
+            stimando gli fusse porta un'occasion bellissima di sbrigarlo, et di poter liberamente
+            seruirsi di lui, chiamatolo gli disse. Orsù, di che tu voi fare questa sepoltura, ma che
+            vuoi sapere, chi t'ha del resto a pagare. <persName ref="#MichelAnge"
+               >Michelagnolo</persName> che sapeva la voluntà del Papa, che l'harebbe voluto
+            occupare in seruigio suo, rispose, et se si troverrà chi mi paghi? a cui Papa Clemente.
+            Tu sei ben matto, se tu ti dai ad intendere, che sia per farsi inanzi chi ti offerisca
+            un quattrino. Così venendo in giudicio Messer Tomaso <pb n="33bis"/> suo procuratore,
+            facendo tal proposta alli agenti del Duca, si cominciomo l'un l'altro a riguardare in
+            viso, et conclusero insieme, che almeno facesse una sepoltura per quelche haveva
+            ricevuto. <persName ref="#MichelAnge">Michelagnolo</persName> parendogli la cosa
+            condotta a bene, acconsentì volontieri, massimamente mosso dal autorità del Cardinale di
+            Monte vecchio, creatura di Giulio II. et Zio di GIVLIO III. al presente, la <persName
+               ref="#Dieu">Iddio</persName> gratia, nostro Pontifice, ilqual inquesto accordo
+            s'interpose. L'accordo fu tale. Ch'egli facesse una sepoltura d'una facciata, et di què
+            marmi si seruisse ch'egli gia per la sepoltura quadrangola havea fatti lavorare,
+            accomodandogli il meglio che si poteva. Et così fusse vbligato a metterci sei statue di
+            sua mano. fu non dimeno concesso a Papa Clemente ch'egli si potesse seruir di <persName
+               ref="#MichelAnge">Michelagnolo</persName> in <placeName ref="#Florence"
+               >Firenze</placeName> o dove gli piacesse, quattro mesi del anno, ciò ricercando Sua
+            Santità per le opere di <placeName ref="#Florence">Firenze</placeName>. Tal fu il
+            contratto che nacque tra l'eccelentia del Duca, et <persName ref="#MichelAnge"
+               >Michelagnolo</persName>. Ma qui s'ha da sapere, che essendo gia dichiarati tutti i
+            conti, <persName ref="#MichelAnge">Michelagnolo</persName> per parere d'esser più
+            vbligato al Duca d'Vrbino, et dar manco fiducia a Papa Clemente di mandarlo a <placeName
+               ref="#Florence">Firenze</placeName>, dove per modo nessuno andar non volea,
+            secretamente s'accordò col' <pb n="34"/> Oratore et agente di Sua Eccellentia, che si
+            dicesse ch'egli haveva recevuti qualche migliaio di scudi di più, di quelli che
+            veramente havesse havuti. Il che essendo fatto, non solamente a parole, ma senza sua
+            saputa et consentimento, stato messo nel contratto, non quando fu rogato, ma quando fu
+            scritto molto sene turbò. Tuttavolta l'oratore lo persuase, checiò nostr li sarebbe di
+            pregiuditio, non importando che'l contratto specificasse più venti mila scudi, che
+            mille, poi ch'erano d'accordo, che la sepoltura si riducesse secondo la quantità
+            de'danari ricevuti veramente, aggiungendo, che nessuno havea da ricercar queste cose, se
+            non esso et che di lui poteva star sicuro, per l'intelligenza ch'era tra loro. A che
+               <persName ref="#MichelAnge">Michelagnolo</persName> si quietò, così perché li parue
+            di potersene assicurare, come per che desiderava che questo colore li seruirse col Papa,
+            per l'effetto che s'è detto di sopra. Et in questo modo passò la cosa per allhora, ma
+            non hebbe però fine, per cioche dopo c'hebbe seruito i quattro mesi a <placeName
+               ref="#Florence">Fiorenza</placeName>, tornatosene a <placeName ref="#Rome"
+               >Roma</placeName>, il Papa cercò d'occuparlo in altro, et fargli dipingere la
+            facciata della Capella de Sisto. Et come quello ch'era di buon giudicio, havendo sopra
+            ciò più et più cose pensate, vltimamente si risoluè, a fargli fare il giorno del estremo
+               <pb n="34bis"/> giudicio, stimando per la varietà et grandezza della materia, dover
+            dare Campo a questo huomo, di far prova delle sue forze, quanto potessero. <persName
+               ref="#MichelAnge">Michelagnolo</persName> che sapeva l'obligo ch'egli haveva col Duca
+            d'Vrbino, fuggi questa cosa quanto puote, ma poi che liberar non si poteva, mandava la
+            cosa in lungo, et fingendo d'occuparsi, come faceva in parte, nel Cartone, secretamente
+            lavorava quelle statue, che dovevano andare nella sepoltura. In questo mezzo Papa
+            Clemente manchò, et fu creato <persName ref="#PaulIII">Paolo terzo</persName>, ilquale
+            mandò per lui, et lo ricercò che stesse seco. <persName ref="#MichelAnge"
+               >Michelagnolo</persName> che dubitava di non essere impedito in tal opera, rispose
+            non poter ciò fare, per essere egli vbligato per contratto al Duca d'Vrbino, finche
+            havesse finita l'opera che haveva per mano. Il Papa se ne turbò, et disse, egli son gia
+            trenta anni, ch'io ho questa voglia, et hora che son Papa, non me la posso cavare? Dove
+            è questo contratto? io lo voglio stracciare. <persName ref="#MichelAnge"
+               >Michelagnolo</persName> vedendosi condotto a questo, fu quasi per partirsi di
+               <placeName ref="#Rome">Roma</placeName>, et andarsene in sul Genovese, ad una Badia
+            del Vescovo d'Aleria, creatura di Giulio, et molto suo amico, et quivi dar fine alla sua
+            opera, per essere luogo comodo a Carrara, et potendo facilmente condure i marmi, per <pb
+               n="35"/> la oportunità del mare. Pensò ancho d'andarsene a Vrbino, dove per avanti
+            haveva disegnato d'habitare, come in luogo quieto et dove per la memoria di Giulio,
+            sperava d'esser visto volontieri, et per questo alcuni mesi inanzi, haveva là mandato un
+            suo, per comprare una casa, et qualche possessione, ma temendo la grandezza del Papa,
+            come meritamente temer doveva, non si partì, et sperava con buone parole di sodisfare al
+            Papa. Ma egli stando fermo in proposito, un giorno se ne venne a trovarlo a casa,
+            accompagnato da otto o dieci Cardinali, et volse vedere il cartone, fatto sotto
+            Clemente, per la facciata della Cappella di Sisto, le statue, ch'egli per la sepoltura
+            haveva gia fatte, et minutamente ogni cosa. Dove il Reverendissimo Cardinale di
+               <placeName ref="#Mantoue">Mantova</placeName>, ch'era presente, vedendo quel
+               <persName ref="#Moise">Moise</persName>, di che gia s'è scritto et qui sotto piu
+            copiosamente si scriverà disse, questa sola statua, è bastante a far honore alla
+            sepoltura di <persName ref="#JulesII">Papa Giulio</persName>. Papa Paolo havendo visto
+            ogni cosa, di nuovo l'affrontò, che andasse a star seco, presenti molti Cardinali e'l
+            gia detto Reverendissimo et Illustrissimo di <placeName ref="#Mantoue"
+               >Mantova</placeName>. Et trovando <persName ref="#MichelAnge">Michelagnolo</persName>
+            star duro, io farò (disse) chel Duca d'vrbino si contenterà di tre statue di tua mano,
+            et che le altre tre che restano, s'i dieno a fare <pb n="35bis"/> ad altri. In questo
+            modo procurò con gli agenti del Duca, che nascesse nuovo contratto, confermato dal
+            Eccellentia del Duca, ilqual non volse in ciò dispiacere al Papa. Così <persName
+               ref="#MichelAnge">Michelagnolo</persName>, anchor che potesse fuggire di pagare le
+            tre statue, disobligato per vigore di tal contratto, nondimeno volse far la spesa egli,
+            et depose per queste et per il restante della sepoltura, ducati mille cinquecento
+            ottanta. Così li agenti di sua Eccellentia le dettero a fare, et la tragedia della
+            sepoltura, et la sepoltura hebber fine, là quale hoggi si vede in San Piero ad Vincula,
+            non secondo il primo disegno di facciate quattro, ma d'una, et delle minori, non
+            istaccata intorno, ma appoggiata ad un parete, per gli impedimenti detti di sopra, È
+            vero che così come ella è rattoppata et rifatta, e però la piu degna che in <placeName
+               ref="#Rome">Roma</placeName> et forse altrove si troui, se non per altro, almeno per
+            le tre statue che ui sono di mano del maestro. tra lequali maravigliosa è quella di
+               <persName ref="#Moise">Moise</persName>, duce e Capitano degli Hebrei, ilquale se ne
+            stà a sedere, in atto di pensoso et savio, tenendo sotto il braccio destro le tavole
+            della legge, et con la sinistra mano sostenendosi il mento, come persona stanca et piena
+            di cure, tra le dita della qual mano escon fuore certe lunghe liste di barba, cosa <pb
+               n="36"/> a veder molto bella. È la faccia piena di vivacità et di spirito, et
+            accomodata ad indurre amore insieme et terrore, qual forse fu il vero. Ha secondo che
+            descriver si suole, le due corna in capo, poco lontane dalla sommità della fronte. È
+            togato et calzato et colle braccia igniude, et ognialtra cosa al'anticha. Opera
+            maravigliosa et piena d'arte, ma molto più, che sotto così belli panni di che è coperto,
+            appar tutto l'o igniudo, non togliendo il vestito l'aspetto della bellezza del corpo. Il
+            che però si vede universalmente in tutte le figure vestite: di pittura et scoltura, da
+            lui essere osseruato. È questa statua di grandezza meglio di due volte al naturale.
+            Dalla destra di questa sotto un nicchio, è l'altra che rapresenta la vita contemplativa,
+            una donna di statura più chel naturale, ma di bellezza rara, con un ginocchio piegato
+            non in terra ma sopra d'un Zoccolo, col volto et con ambe le mani levate al cielo, sì
+            che pare che in ogni sua parte spiri amore. Dal'altro canto cioè dalla sinistra del
+               <persName ref="#Moise">Moise</persName>, è la vita attiva, con uno specchio nella
+            destra mano, nel quale attentamente si contempla, significando per questo, le nostre
+            attioni, dover esser fatte consideratamente, et nella sinistra con una ghirlanda di
+            fiori. Nel che <persName ref="#MichelAnge">Michelagnolo</persName> ha seguitato <pb
+               n="36bis"/>
+            <persName ref="#Dante">Dante</persName>, del qual è sempre stato studioso, che nel suo
+            purgatorio, finge haver trovata la Contessa Matilda, qual egli piglia per la vita
+            attiva, in un prato di fiori. Il tutto della sepoltura non è se non bello, et
+            principalmente il legar delle parti sue insieme, per mezzo del corniciame, al qual non
+            si può apporre. Or questo basti quanto a quest'opera, il che dubito ancho che non sia
+            stato pur troppo, et che in luogo di piacere non habbia porto tedio, a chil'harà letto.
+            Non dimeno m'è parso necessario per istirpare quella sinistra et falsa openione che era
+            nelle menti delli huomini radicata, ch'egli havesse ricevuti sedici mila scudi, et non
+            volesse fare quel che era vbligato di fare. Ne l'un ne l'altro fu vero, percioché da
+            Giulio per la sepoltura non recevette se non quei mille ducati, che egli spese in tanti
+            mesi in cavar marmi a Carrara. Et come potette di poi haver da lui danari, semutò
+            proposito, ne volse piu parlare di sepoltura? Di quelli che doppo la morte di <persName
+               ref="#JulesII">Papa Giulio</persName>, da i due Cardinali essecutori del testamento
+            ricevette, n'ha appresso di se publica fede, per mano di Notaio, mandatagli da Bernardo
+            Bini Cittadin Fiorentino, il qual era depositario, et pagava il denaio. I quali
+            montavano forse a tre mila ducati. Con tutto <pb n="37"/> ciò non fu mai huomo piu
+            pronto ad alcuna sua opera, quant'egli a questa, si per che conosceva quanta riputatione
+            gli fusse per arrecare, si per la memoria che sempre ha ritenuta di quella benedetta
+            anima di <persName ref="#JulesII">Papa Giulio</persName>, per la quale, ha sempre
+            honorata et amata la casa della Rovora, et principalmente i Duchi d'Vrbino, per i quali
+            ha presa la pugna contra due Pontefici, come s'è detto che lo volevan torre da tale
+            impresa: et questo è quel di che <persName ref="#MichelAnge">Michelagnolo</persName> si
+            duole, che in luogo di gratia, che se gli veniva, n'habbia riportato odio et acquistata
+            infamia. Ma tornando a Papa Paolo, dico che doppo l'ultimo accordo fatto tra
+            l'eccellenza del Duca et <persName ref="#MichelAnge">Michelagnolo</persName>,
+            pigliandolo al suo seruitio, volse che mettesse ad essecutione quel ch'egli gia haveva
+            cominciato al tempo di Clemente, et gli fece dipignere la facciata della Cappella di
+            Sisto, laqual egli haveva gia arricciata et serrata con assiti da terra in fin alla
+            volta. Nella qual opera, per esser stata inuentione di Papa Clemente, et al tempo di lui
+            haver havuto principio, non pose l'arme di Paolo, con tutto chel Papa ne lo havesse
+            ricercato. Portava Papa Paolo tanto amore et riverenza a <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, che anchor ch'egli ciò desiderasse, non però mai gli volse
+            dispiacere. In quest'opera, <persName ref="#MichelAnge">Michelagnolo</persName>
+            <pb n="37bis"/> espresse, tutto quel che d'un corpo humano può far larte della pittura,
+            non lasciando in dietro atto o moto alcuno. La composition della storia è prudente et
+            ben pensata, ma lunga a descriverla, et forse non necessaria, essendone stati stampati
+            tanti et così vari ritratti, et mandati per tutto. Nondimeno per chi, o la vera veduta
+            non havesse, o a cui mani il ritratto peruenuto non fusse, brevemente diremo, chel tutto
+            essendo diviso in parte destra et sinistra, superiore et inferiore, et di mezo, nella
+            parte di mezo del aria, vicini alla terra, sono li sette Angnioli scritti da San
+            Giovanni nel Apocalipse, che colle trombe a bocca, chiamano i morti al giuditio dalle
+            quattro parti del mondo, tra i quali ne son due altri con libro aperto in mano, nel
+            quale ciascheduno leggendo, et riconoscendo la passata vita, habbia quasi da se stesso a
+            giudicarsi. Al suono di queste trombe, si vedeno in terra aprire i monumenti, et vscir
+            fuore l'humana spetie, in varii et maravigliosi gesti, mentre che alcuni, secondo la
+            prophezia di <persName ref="#Ezechiel">Ezechiel</persName>, solamente l'ossatura hanno
+            riunita insieme, alcuni di carne mezza vestita, altri tutta. Chi igniudo, chi vestito di
+            què panni o lenzuola, in che portato alla fossa, fu inuolto, et di quelle cercar di
+            suilupparsi. In questi <pb n="38"/> alcuni ci sono, che per anchora non paiano ben ben
+            desti, et riguardando al cielo, stanno quasi dubbiosi, dove la divina giustitia gli
+            chiami. Qui è dilettevol cosa, a vedere alcuni con fatica et sforzo, vscir fuor della
+            terra, et chi colle braccia tese, al cielo pigliare il volo, chi di già haverlo preso,
+            elevati in aria, chi più chi meno, in vari gesti et modi. Sopra li Angioli delle trombe,
+            è il figlivol de <persName ref="#Dieu">Iddio</persName> in maiestà, col braccio et
+            potente destra elevata, in guisa d'huomo che irato maledica i rei, et li scacci dalla
+            faccia sua al fuoco eterno, et colla sinistra distesa alla parte destra, par che
+            dolcemente raccolga i buoni. Per la cui sentenza si veggiono li Angeli, tra cielo et
+            terrà, come essecutori della divina sentenza, nella destra correre in aiuto delli
+            eletti, a cui dalli maligni spiriti fusse impedito il volo, et nella sinistra per
+            ributtare a terra i reprobi, che gia per sua audacia si fussino inalzati, iquali però
+            reprobi, da maligni spiriti sono in giù ritirati i superbi per i capegli, i lussoriosi
+            per le parte vergognose, et consequentemente ogni vitioso per quella parte in che peccò.
+            Sotto a iquali reprobi si vede <persName ref="#Charon">Caronte</persName> colla sua
+            navicella, tal quale lo descrive <persName ref="#Dante">Dante</persName> nel suo
+            inferno, nella palude d'Acheronte, ilqual alza il remo per battere qualunche anima lenta
+               <pb n="38bis"/> si dimostrasse: et giunta la barcha alla ripa si veggion tutte,
+            quel'anime, della barcha a gara gittarsi fuora, spronate dalla divina giustitia, sì che
+            la tema, come dice il poeta, si volge in desio. Poi recevuta da <persName ref="#Minos"
+               >Minos</persName> la sentenza, esser tirate da malingni spiriti, al cupo inferno.
+            dove si veggiono maravigliosi atti di gravi et disperati affetti, quali ricerca il
+            luogo. Intorno al figluol de <persName ref="#Dieu">Iddio</persName> nelle nube del
+            cielo, nella parte di mezzo, fanno cerchio o corna i beati già resuscitati, ma separata
+            e prossima al figlivolo la madre sua, timorosetta in sembiante, et quasi non bene
+            assicurata del ira et secreto de <persName ref="#Dieu">Iddio</persName>, trarsi quanto
+            più può sotto il figlivolo. Doppo lei il Battista et li dodici Apostoli, et <persName
+               ref="#Santi">Santi</persName> et Sante de <persName ref="#Dieu">Iddio</persName>,
+            ciascheduno mostrando al tremendo giudice, quella cosa, per mezzo della quale, mentre
+            confessa il suo nome, fu di vita privo. Santo Andrea la Croce, Santo Bartholomeo la
+            pelle, San Lorenzo la graticola, San Bastiano le frecce, San Biagio i pettini di ferro,
+            Santa Chaterina la ruota, et altri altre cose, per lequali da noi possin'esser
+            conosciuti. Sopra questi al destro et sinistro lato, nella superior parte della
+            facciata, si veggion gruppi d'agnoletti, in atti vaghi et rari, appresentare in cielo la
+            croce del figlivolo de <persName ref="#Dieu">Iddio</persName>, la spunga, la corona <pb
+               n="39"/> de spine, i chioui et la colonna dove fu flagellato, per rinfacciare a i rei
+            i benefici de <persName ref="#Dieu">Iddio</persName>, de quali sieno stati in gratissimi
+            et sconoscenti, et confortare et dar fiducia a buoni. Infiniti particulari ci sono,
+            iquali con silentio mi passo. Basta che oltre alla divina composition della storia, si
+            vede rappresentato tutto quelche d'un corpo humano possa far la natura. Vltimamente,
+            havendo Papa Paolo frabricata una cappella, in quel medesimo piano ch'è quella di Sisto
+            gia detta, volse ornarla delle memorie di questo huomo, et gli fece dipigner doi
+            quadroni, nelle parete de fianchi, in un de quali si rapresenta la istoria di San Paolo,
+            quando fu con la presentia di Giesu <persName ref="#Jesus">Christo</persName> conuertito
+            nel altro la crocifissione di San Piero, ambidue stupendi, si universalmente nella
+            storia, si in particulare in ogni figura. Et questa è l'ultima opera, che fin a questo
+            giorno di lui s'è vista di pittura, laqual finì essendo d'anni settantacinque. Hora ha
+            per le mani un'opera di marmo, qual egli fa a suo diletto, come quello che pieno di
+            concetti, e forza che ogni giorno ne partorisca qualch'uno. Quest'è un groppo di quattro
+            figure piu che al naturale, cioè un <persName ref="#Jesus">Christo</persName> deposto di
+            croce, sostenuto così morto dalla sua madre. Laquale si vede sott'entrare a quel corpo,
+               <pb n="39bis"/> col petto, colle braccia et col ginocchio in mirabil'atto, ma però
+            aiutata di sopra da <persName ref="#Nicodeme">Nicodemo</persName> che ritto et fermo in
+            su le gambe, lo sollieva sotto le braccia, mostrando forza gagliarda, et da una delle
+               <persName ref="#Marie">Marie</persName> della parte sinistra. La quale anchor che
+            molto dolente si dimostri, nostr dimeno nostr mancha di far quel vffitio, che la madre
+            per lo estremo dolore prestar non può. Il <persName ref="#Jesus">Christo</persName>
+            abandonato casca, con tutte le membra relassate, ma in atto molto differente, et da quel
+            che <persName ref="#MichelAnge">Michelagnolo</persName> fece per la Marchesana di
+            pescara, et da quel della <persName ref="#Marie">Madonna</persName> della febre. Saria
+            cosa impossibele narrare la bellezza, et gliaffetti che ne dolenti et mesti volti si
+            veggiono, si di tutti li altri, si dell'affanata madre, però questo basti: vò ben dire,
+            ch'è cosa rara, et delle faticose opere, ch'egli fin a qui habbia fatte, massimamente
+            perché tutte le figure distintamente si vegghono, ne i panni del una, si confondino co i
+            panni del altre. Ha fatte <persName ref="#MichelAnge">Michelagnolo</persName> infinite
+            altre cose, che da me dette non sono, come il <persName ref="#Jesus">Christo</persName>
+            ch'è nella Minerua, un San Matheo in <placeName ref="#Florence">Firenze</placeName>, il
+            qual cominciò, volendo far dodici Apostoli, quali dovevano andare dentro a dodici
+            pilastri del duomo, Cartoni per diverse opere di pittura, disegni di fabriche publiche
+            et private, infiniti, et vltimamente <pb n="40"/> d'un ponte, che andava sopra del canal
+            grande di <placeName ref="#Venise">Vinegia</placeName>, di nuova forma et maniera, et
+            non più vista, et molte altre cose, lequali non si veggiono et saria lungo a scriverle
+            però qui faccio fine. Fa disegno di donar questa pietà a qualche chiesa, et a piè
+            del'altare ove sia posta, farsi seppellire. Il Signore <persName ref="#Dieu"
+               >Iddio</persName> per sua bontà lungamente cel conserui, percioché non dubito, che
+            non sia per esser quel medesimo di, fine della vita sua, et delle fatiche, Il che de
+            Isocrate si scrive. Che anchora molti anni sia per vivere me ne dà ferma speranza, si la
+            vivace et robusta vecchiezza sua, si la lunga vita del padre, ilqual senza sentir che
+            cosa fusse febre arriuò alli novantadue anni, piu tosto per risolutione manchando, che
+            per malattia, di modo che così morto, secondo che referisce <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, riteneva quel medesimo colore in uolto, che haveva uivendo,
+            parendo piu tosto adormentato che morto. E stato <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, fin da fanciullo huomo di molta fatica, et al dono della
+            natura, ha aggiunta la dottrina, la qual egli, non dal'altrui fatiche et industrie, ma
+            dalla stessa natura, ha voluto apprendere, mettendosi quella inanzi come vero esempio.
+            Percioché non è animale di che egli notomia non habbia voluto fare, del huomo tante, <pb
+               n="40bis"/> che quelli che in ciò tutta la sua vita hanno spesa, et ne fan
+            professione, appena altro tanto ne sanno, parlo della cognitione che al'arte della
+            pittura et scoltura è necessaria, non del'altre minutie che osseruano i notomisti. E che
+            così sia, lo mostran le sue figure, nelle quali tant'arte et dottrina si ritruova, che
+            quasi sono inimmitabili, da qual si voglia pittore. Io ho sempre havuta questa opinione,
+            che gli sforzi et conati della natura, habbino un'prescritto termine, posto et ordinato
+            da <persName ref="#Dieu">Dio</persName>, ilqual trapassare non si possa da virtù
+            ordinaria, et ciò esser vero non solamente nella pittura et scoltura ma universalmente
+            in tutte l'arti et scientie, et che ella tal suo sforzo facci in uno, ilquale habbi ad
+            essere essempio et norma, in quella facultà, dandogli il primo luogo, di maniera che chi
+            da poi in tal arte vuol partorir qualche cosa degna d'essere o letta o vista, sia di
+            bisogno che o sia quel medesimo, ch'è gia stato da quel primo partorito, o almeno simile
+            a quello, et vadia per quella via, o non andando, sia tanto più inferiore, quanto più
+            dalla via retta si dilunga. Doppo <persName ref="#Platon">Platone</persName> et
+               <persName ref="#Aristote">Aristotele</persName>, quanti Philosophi habbiamo visti,
+            che non seguitando quelli, siano stati in pregio? Quanti Oratori doppo Demostene et
+               <persName ref="#Ciceron">Cicerone</persName>? Quanti Mathematici <pb n="41"/> doppo
+               <persName ref="#Euclide">Euclide</persName> et <persName ref="#Archimede"
+               >Archimede</persName>? Quanti Medici doppo Hippocrate et Galeno, o Poeti doppo
+               <persName ref="#Homere">Homero</persName> et Vergilio? E se pur qualc'huno ce n'è
+            stato, che in una di queste scientie affaticato se sia, et sia stato subietto attissimo
+            di poter da se arrivare al primo luogo, non dimeno costui, per haverlo gia trovato
+            occupato, et per non essere altro il perfetto che quello, che i primi per avanti hanno
+            mostrato, o ha lasciata la impresa, o havendo giuditio, s'è dato al'imitatione di què
+            primi, come Idea del perfetto. Quest'hoggidi s'è visto nel Bembo, nel Sanazaro, nel
+            Caro, nel Guidoccione, nella Marchesana di Pescara et in altri scrittori et amatori
+            delle <placeName ref="#Toscane">Toscane</placeName> rime, iquali come che sieno stati di
+            sommo et singulare ingegno, nondimeno non potendo da se partorir meglio, di quel che nel
+            Petrarca la natura ha mostrato, si son dati ad imitar lui ma si felicemente, che sono
+            stati giudicati degni d'esser letti, et contati tra buoni. Or per concluder questa mia
+            diceria, dico che a me pare, che nella pittura et scoltura, la natura a <persName
+               ref="#MichelAnge">Michelagnolo</persName> sia stata larga et liberale di tutte le sue
+            richezze: sì che non son da esser ripreso, se ho detto le sue figure, esser quasi in
+            immitabili. Ne mi pare in cio'd'havermi lasciato <pb n="41bis"/> troppo trasportare,
+            percioche, lasciando andare ch'è stato solo fin qui, che allo scarpello, e al pennello
+            insieme degnamente habbia posto mano, et che hoggi delli antichi nella pittura, non
+            resti memoria alcuna, nella statuaria, che pur molte ce ne restano, a chi cede egli? Per
+            giuditio delli homini de larte, certamente a nessuno, se gia non ce ne andiamo dietro al
+            openion'del volgo, che senza altro giudicio, ammira l'antichità, inuidiando alli ingegni
+            et industria de suoi tempi. Benche, non sento per anchora chi il contrario dica: di
+            tanto questo huomo ha superata la inuidia. Raffael da Vrbino quantunque volesse
+            concorrer con <persName ref="#MichelAnge">Michelagnolo</persName>, più volte hebbe a
+            dire, che ringratiava <persName ref="#Dieu">Iddio</persName>, d'esser nato al suo tenpo,
+            havendo ritratta da lui altra maniera di quella, che dal padre che dipintor fu et dal
+               <persName ref="#Perugin">Perugino</persName> suo maestro havea imparata. Ma che segno
+            maggiore et più chiaro può mai essere della eccellenza di questo huomo, che la
+            contentione c'han fatta i Principi del mondo per haverlo? che oltre alli quattro
+            Pontefici Giulio, Lione, Clemente et Paolo, fin'al gran Turco, padre di questo che hoggi
+            tiene lo Imperio, come di sopra ho detto li mandò certi religiosi di san Francesco con
+            sue lettere a pregarlo che dovesse andare à <pb n="42"/> star seco, ordinando per
+            lettere di cambio, non solamente che in <placeName ref="#Florence">Firenze</placeName>
+            dal banco de Gondi, gli fusse sborsata quella quantità di danari ch'egli volessi per suo
+            viatico, ma anchora che passato a Cossa, terra vicina a Ragusia, fusse quindi
+            accompagnato fin a Constantinopoli, da un'de suoi grandi, honoratissimamente. Francesco
+            valesio Re di <placeName ref="#France">Francia</placeName>, lo ricercò per molti mezzi,
+            facendogli contare in <placeName ref="#Rome">Roma</placeName>, ogni volta che volesse
+            andare, tre milia scudi per suo viatico. Dalla Signoria di <placeName ref="#Venise"
+               >Vinegia</placeName> fu a <placeName ref="#Rome">Roma</placeName> mandato il
+            Brucciolo, a inuitarlo ad habitare in quella Città et offerir prouisione di scudi
+            secento l'anno; non lo vbligando a cosa alcuna, ma solamente per che con la persona sua
+            honorasse quella Republica, con conditione, che s'egli in suo seruigio facesse cosa
+            niuna, di tutto fusse pagato, come se da loro prouisione alcuna non havesse. Queste non
+            son cose ordinarie, et che ogni di accaggino, ma nuove et fuor del commune uso, ne
+            sogliono avenire, se non in virtù singulare et eccellentissima, qual fu quella de
+               <persName ref="#Homere">Homero</persName>, del quale molte città contesero, ogniuna
+            di quelle vsurpandoselo, et facendolo suo. Ne in minor conto di tutti i gia nominati
+            l'hà tenuto et tiene il presente Pontefice Giulio Terzo Prencipe di sommo <pb n="42bis"
+            /> giuditio et amatore et fautore universalmente di tutte le virtù, ma in particolare
+            alla Pittura, Scoltura et Architettura inclinatissimo come si puo cognoscer chiaramente
+            da l'opere che sua Santita ha fatte fare in Palazzo en'Beluedere et hora fa fare alla
+            sua villa Giulia memoria et impressa degna d'un'animo alto et generoso qual'è il suo di
+            tante statue antiche et moderne et di si gran varietà di bellissime pietre et di
+            pretiose Colonne, di stucchi, di scolture et d'ogni altra sorte d'ornamenti è ripiena;
+            dellaquale mi riserbo a scriverne un'altra volta come quella che ricerca particolar
+            opera et che per anchora non ha la sua perfettione. Non s'è seruito di <persName
+               ref="#MichelAnge">Michelangelo</persName> in farlo lavorare havendo rispetto all'età
+            in che si trova. Conosce bene et gusta la grandezza sua ma si rispiarma aggravarlo piu
+            di quel ch'egli si voglia, ilquale rispetto a mio giuditio arreca a <persName
+               ref="#MichelAnge">Michelangelo</persName> piu riputatione che qualunche occupatione
+            in che l'han tenuti l'altri Pontefici. È vero che nel'opere di pittura et architettura
+            che di continuo sua Santita fa fare quasi sempre ricerca il parere et giuditio suo,
+            mandando bene spesso gli artefici a trovarlo infin a casa. Mi duole et ne duole ancho a
+            sua Santita che egli per una certa sua natural' --[-]-- timidezza, o vogliam dire
+            rispetto o riverenza, laquale alcuni chiamano superbia, non si serua della benevolenza,
+            bontà et liberal natura d'un tanto Pontefice et tanto suo, ilquale secondo che prima ho
+            inteso dal Reverenn. Monsignor di Forli suo mastro di Camera, piu volte ha havuto a
+            dire, che volentieri (se possibil'fusse) si leverebbe de i suoi anni et del proprio
+            sangue per aggiongerli alla vita di lui, perché il mondo non fusse così presto privo
+            d'un tale huomo. Ilche, havendo anch'io havuto accesso a sua Santita, ho con le mie
+            orecchie dalla sua bocca inteso, et piu che s'à lui sopravive, come par che ricerchi il
+            natural corso della vita, lo vuol fare inbalsamare et haverlo appresso di se, accio
+            l'ossa sieno perpetue come son le opere, laqual cosa ancho nel principio del suo
+            Ponteficato a esso <persName ref="#MichelAnge">Michelagnolo</persName> disse, essendo
+            molti presenti. dellequali parole non so qual cosa possa esser piu honorevole a
+               <persName ref="#MichelAnge">Michelagnolo</persName>, et maggior segno del conto che
+            sua Santità fa di lui. Lo dimostro anchora manifestamente, quando morto Papa Paolo et
+            lui creato Pontefice, in concistoro presenti tutti i Cardinali che allhora si
+            ritrovavano in <placeName ref="#Rome">Roma</placeName>, lo difese et prese sua
+            protettione contra i soprastanti della --[-]-- fabrica di san Piero, iquali, non per
+            colpa di lui, secondo che dicevano, ma di suoi ministri, lo volevano privare di quella
+            autorità, che da Papa Paolo per un moto proprio, delquale poco piu di sotto si dirà, gli
+            fu data, o almeno ristringerla, et in modo lo difese che non solamente gli confirmò il
+            motu proprio, ma l'honorò di molte degne parole, non porgendo piu orecchie ne alle
+            querele de i soprastanti ne d'altri. Conosce <persName ref="#MichelAnge"
+               >Michelagnolo</persName> (come piu volte m'ha detto) l'amore et benevolenza di sua
+            Beatitudine verso di se, et così il rispetto che gli ha, et perché non puo colla sua
+            seruitù renderle il cambio, et mostrar di conoscerla, il restante della vita gli è men
+            grato, come quello che gli pare d'esser'inutile et sconoscente a sua Santità. una cosa
+            (come egli suol dire) alquanto lo conforta, che sapendo quanto la Santita sua sia
+            discreta, spera per questo dover esser scusato appo di lei, et che sia accettata la sua
+            buona volontà non potendo dar'altro. Ne per questo quanto le sue forze si stendano, et
+            in quel ch'egli vale, ricusa, non che altro in seruigio di lei, metter la vita, et
+            questo ho dalla sua bocca. Fece non dimeno <persName ref="#MichelAnge"
+               >Michelagnolo</persName> a requisitione di sua Santita un disegno d'una facciata
+            --[-]-- d'un Palazzo, ilquale havea animo di fabricare in <placeName ref="#Rome"
+               >Roma</placeName>: Cosa per chi lo uedde inusitata et nuova, non ubbligata a maniera
+            o legge alcuna antica over moderna. Ilche ha fatto ancho in molte altre sue cose in
+               <placeName ref="#Florence">Fiorenza.</placeName>et in <placeName ref="#Rome"
+               >Roma</placeName>, mostrando l'Architettura non esser stata così dalli passati
+            assolutamente trattata, che non sia luogo a nuova inuentione nostr men vaga et men
+            bella. Or per tornare alla notomia, lasciò il tagliar de corpi, conciosia che il lungo
+            maneggiargli di maniera gli haveva stenperato lo stomacho, che nostr poteva ne mangiar
+            ne bere, che pro li facesse. E ben vero, che di tal facultà, così dotto et ricco si
+            parti, che più volte ha havuto in animo, in seruigio di quelli che voglion dare opera
+            alla scoltura et pittura, far un'opera, che tratti di tutte le maniere dei moti humani,
+            et apparenze et de l'ossa, con una ingegnosa theorica, per lungo uso da lui ritrovata,
+            et l'harebbe fatta, se nostr si fusse diffidato delle forze sue, et di nostr bastare a
+            trattar con dignità et ornato, una tal cosa, come farebbe uno nelle scientie et nel dire
+            essercitato. So ben che quando legge <persName ref="#AlbrechtDurer">Alberto
+               Duro</persName>, gli par cosa molto debole, vedendo col'animo suo, quanto questo suo
+            concetto fusse per esser più bello et piu utile in tal facultà. E a dire --[-]-- il
+            vero, Alberto non tratta se non delle misure et varieta dei corpi, di che certa regula
+            dar non si può, formando le figure ritte come pali. quel che piu importava, degli atti
+            et gesti humani, non nedice parola. Et perché hoggimai è d'eta grave et matura, ne pensa
+            di poter in scritto mostrare al mondo questa sua fantasia, egli con grande amore
+            minutissimamente m'ha ogni cosa aperto, il che ancho cominciò a conferire con messer
+            Realdo colombo, notomista et medico cerusico eccellentissimo et amicissimo di <persName
+               ref="#MichelAnge">Michelagnolo</persName> et mio, ilquale per tale effetto gli mandò
+            un corpo morto d'un moro giovane bellissimo, et quanto dir si possa dispostissimo, et fu
+            posto in Santa Agata dove io habitava et anchora habito, come in luogo remoto: sopra
+            ilqual corpo <persName ref="#MichelAnge">Michelagnolo</persName> molte cose rare et
+            recondite mi mostrò, forse non mai più intese, le quali io tutte notai, et un giorno
+            spero, col aiuto di qualche huomo dotto dar fuore, a comodità et utile di tutti quelli,
+            che alla pittura o scoltura voglion dare opera. Ma di questo basti. Si dette alla
+            perspettiva et all'Architettura, nellequali quanto profitto facesse, lo dimostrano le
+            sue opere. Ne s'è contentato <persName ref="#MichelAnge">Michelagnolo</persName>
+            solamente della cognitione delle parti principali del Architettura, <pb n="43"/> che ha
+            voluto etiamdio saper tutto quello, ch'à tale professione per qualunche modo seruisse.
+            Come di far lacci, ponti over palchi et simili cose, nelle quali tanto valse, quanto
+            forse quelli che d'altro profession non fanno. Il che si conobbe al tempo di Giulio. II.
+            per cotal via. Dovendo <persName ref="#MichelAnge">Michelagnolo</persName> dipignere la
+            volta della cappella di Sisto, il Papa ordinò a <persName ref="#Bramante"
+               >Bramante</persName> che facesse il ponte. Egli con tutto che fusse quel
+            Architettore, ch'egli era, non sapendo come se lo fare, in più luoghi pertusò la volta,
+            calando per quelli cert canapi che tenessino il ponte. Ciò vedendo <persName
+               ref="#MichelAnge">Michelagnolo</persName> se ne rise, et domandò <persName
+               ref="#Bramante">Bramante</persName>, come harebbe da fare, quando venisse a què
+            pertusi. <persName ref="#Bramante">Bramante</persName> che difension non haveva, altro
+            non rispose, se non che nostr si poteva fare altrimenti. La cosa andò inanzi al Papa, et
+            replicando <persName ref="#Bramante">Bramante</persName> quel medesimo, il Papa voltato
+            a <persName ref="#MichelAnge">Michelagnolo</persName>, poi che questo non è a proposito,
+            va disse, et fattelo da te. Disfece <persName ref="#MichelAnge">Michelagnolo</persName>
+            il ponte, et ne cauò tanti canapi, che havendogli donati a un pover huomo che l'aiutò,
+            fu cagione ch'egli ne maritasse due sue figlivole. Così fece senza corde il suo così ben
+            tessuto et conposto, che sempre era più fermo quanto maggior peso haveva. Ciò fu
+            cagione, d'aprir gliocchi a <persName ref="#Bramante">Bramante</persName>
+            <pb n="43bis"/> et di imparar il modo di far un ponte. Il che poi nella fabrica di San
+            Piero molto gli giouò. Et con tutto ciò che <persName ref="#MichelAnge"
+               >Michelagnolo</persName> in tutte queste cose non havesse pari, nondimeno non volse
+            mai far professione d'architettore. Anzi vltimamente morto Antonio da San Gallo,
+            Architetto della fabrica di San Piero, volendo Papa Paolo metterlo in luogo suo, egli
+            molto il ricusò, allegando che non era sua arte, et così il ricusò, che bisognò che'l
+            Papa gliene comandasse, facendogli un molto proprio amplissimo, qual di poi gli fu
+            confermato. da <persName ref="#JulesII">Papa Giulio</persName>. III. al presente, come
+            ho detto, la <persName ref="#Dieu">Iddio</persName> gratia nostro Pontefice. Per questo
+            suo seruitio <persName ref="#MichelAnge">Michelagnolo</persName> non ha mai voluto cosa
+            alcuna, et così volse che fusse dichiarato nel motu proprio. Sì che mandandogli un
+            giorno Papa Paulo cento scudi d'oro, per Messer Pier Giovanni all'hora saluarobba di sua
+            Santità hora Vescovo di Furli, come quelli che havessino ad essere la sua prouisione
+            d'un mese per conto della Fabrica, egli non gli volse accettare, dicendo che questo
+            nostr era il patto che havevano insieme, et gli rimandò in dietro, del che Papa Paolo si
+            sdegnò, secondo che m'ha detto anchora Messer <persName ref="#AlexandreLeGrand"
+               >Alessandro</persName> Ruffini gentilhuomo Ro. camerier et scalcho allhora di sua
+            Santità, nostr per questo <pb n="44"/> mosse <persName ref="#MichelAnge"
+               >Michelagnolo</persName> del suo proposito. Poi che hebbe accettato questo carico,
+            fece nuovo modello, si per che certe parti del vecchio per molti rispetti, non gli
+            piacevano, si per essere impresa, che prima si potesse sperare di veder l'ultimo giorno
+            del mondo, che San Piero finito. Ilquale modello lodato et approbato dal Pontefice, al
+            presente si seguita, con molta sodisfatione di quelle persone, che hanno giuditio, se
+            ben son certi che non l'approuino. Si dette adunque <persName ref="#MichelAnge"
+               >Michelagnolo</persName> essendo giovane, non solamente alla scoltura et pittura, ma
+            anchora a tutte quelle facultà, che sono, o appertenenti o, adherenti con queste, et ciò
+            con tanto studio fece che per un tempo, poco meno che non s'alienò al tutto dal
+            consortio delli huomeni, nostr praticando eccetto che con pochissimi. Onde ne fu tenuto
+            da chi superbo, et da chi bizzarro et fantastico, nostr havendo ne l'uno ne l'altro
+            vitio, ma (come a molti eccellenti huomini è avuenuto) l'amore della virtù et la
+            continua essercitatione di lei, lo facevan solitario, et così dilettarsi et appagarsi in
+            quella, che le conpagnie non solamente non gli davan contento, ma gli porgevan
+            dispiacere, come quelle che lo suiavano dalla meditatione sua, non essend'egli mai (come
+            di se solea dir quel grande <persName ref="#ScipionAfricain">Scipione</persName>) men
+            solo <pb n="44bis"/> che quando era solo. Ha però volentieri tenuta l'amicitia di
+            coloro, dal cui virtuoso et dotto ragionamento, potesse trar qualche frutto, et in cui
+            rilucesse qualche raggio d'eccellenza, come del Reverendissimo et Illustrissimo
+            Monsignor Polo, per le sue rare virtù et bontà singulare, similmente del Reverendissimo
+            patron mio il Cardinal Crispo per trovare in lui oltre alle molte buone qualità, un raro
+            et eccellente giudicio. È ancho molto affettionato al Reverendissimo Cardinal'Santa
+            Croce, huomo gravissimo et prudentissimo, del quale più volte l'ho sentito parlare
+            honoratisimamente, et del Reverendissimo Maffei, la cui bontà et dottrina ha sempre
+            predicata. et universalmente ama et honora tutte le creature di casa Farnese, per la
+            viva memoria che tiene di Papa Paolo, con somma riverenza ricordato, et buono e santo
+            vecchio nominato continuamente da lui, et così al Reverenn. Patriarcha di Hierusalem gia
+            Vescovo di Cesena, col qual egli più tempo ha praticato con molta domestichezza, come
+            quello a cui molto piace una così candida et liberal natura. Haveva anchor stretta
+            amicitia col mio Reverenn. padrone il Cardinal <persName ref="#CarloRidolfi"
+               >Ridolfi</persName> buona memoria, porto di tutti i virtuosi. Sonci alcuni altri i
+            quali io lascio in dietro <pb n="45"/> per non esser prolisso come Monsignor Claudio
+               <persName ref="#Ptolemee">Tolomei</persName>, Messer Lorenzo <persName
+               ref="#CarloRidolfi">Ridolfi</persName>, Messer <persName ref="#Donatello"
+               >Donato</persName> Giannotti, Messer <persName ref="#LeonardoDaVinci"
+               >Lionardo</persName> malespini, il Lottino, Messer Tomasso del Cavaliere, et altri
+            honorati gentilhuomini, ne i quali più a lungo non mi stendo, vltimamente s'è fatto
+            molto affettionato di AnibalCaro, del quale m'ha detto che si duole di non haverlo prima
+            praticato, havendolo trovato molto a suo gusto: in particulare amò grandemente la
+            Marchesana di Peschara, del cui divino spirito era inamorato, essendo al incontro da lei
+            amato suiceratamente, della quale anchor tiene molte lettere, d'honesto et dolcissimo
+            amore ripiene, et quali di tal petto vscir solevano, havendo egli altresi scritto a lei
+            piu et piu sonetti, pieni d'ingegno et dolce desiderio. Ella più volte si mosse da
+            Viterbo, et d'altri luoghi, dove fusse andata per di porto e per passare l'astate, et a
+               <placeName ref="#Rome">Roma</placeName> se ne venne, non mossa da altra cagione se
+            non di veder <persName ref="#MichelAnge">Michelagnolo</persName>, et egli al incontro
+            tanto amor le portava, che mi ricorda di sentirlo dire, che d'altro non si doleva se non
+            che quando l'andò a vedere nel passar di questa vita, non così le bascio la fronte o la
+            faccia, come bascio la mano. Per la costei morte, più tempo se ne stette sbigotito, et
+            come in sensato. Fece a requisitione di <pb n="45bis"/> questa signora un <persName
+               ref="#Jesus">Christo</persName> ignudo, quando è tolto di croce, il quale come corpo
+            morto abandonato, cascherebbe a piedi della sua santissima Madre, se da due Agnioletti
+            non fusse sostenuto a braccia. Ma ella sotto la croce stando a sedere con volto
+            lacrimoso et dolente, alza al cielo ambè le mani a braccia aperte. con un cotal detto,
+            che nel troncon della croce scritto si legge, non vi si pensa, quanto sangue costa. La
+            croce è simile a quella che da i Bianchi nel tempo della moria del trecento
+            quarant'otto, era portata in processione, che poi fu posta nella chiesa di santa croce
+            di <placeName ref="#Florence">Firenze</placeName>, Fece ancho per amor di lei, un
+            disegno d'un Giesu <persName ref="#Jesus">Christo</persName> in croce, non in sembianza
+            di morto, come communemente s'usa, ma in atto di vivo, col volto levato al padre, et par
+            che dica Heli heli, dove si vede quel corpo non come morto abandonato cascare, ma come
+            vivo, per l'accrbo supplitio risentirsi, et scontorcersi. E sì come s'è molto dilettato
+            de ragionamenti de gli huomini dotti, così ha preso piacere della lettione de gli
+            scrittori tanto di prosa, quanto di versi, tra i quali ha specialmente ammirato
+               <persName ref="#Dante">Dante</persName>, dilettato del mirabil ingegno di quel huomo,
+            qual egli ha quasi tutto a mente, avenga che non men forse tenga del Petrarca, et non
+            solamente s' <pb n="46"/> è dilettato di legerli, ma di comporre ancho tal volta, come
+            si vede per alcuni sonetti, che si trovano de'suoi, che danno bonissimo saggio, de la
+            grande inuentione et giuditio suo et sopra alcuni d'essi son fuora certi discorsi et
+            considerationi del <persName ref="#BenedettoVarchi">Varchi</persName>. Ma a questo ha
+            atteso più per suo diletto, che perché egli ne faccia professione, sempre se stesso
+            abbassando, et accusando in queste cose la ignoranza sua. Ha similmente con grande
+            studio et attentione lette le sacre scritture, si del testamento vecchio come del nuovo,
+            et chi sopra di ciò s'è affaticato, come gli scritti del Savonarola, al qual egli ha
+            senpre havuta grande affettione, restandogli anchor nella mente la memoria della sua
+            viva voce. Ha etiamdio amata la bellezza del corpo, come quello che ottimamente la
+            conosce, et di tal guisa amata, che appo certi huomini carnali et che non sanno
+            intendere amor di bellezza se non lascivo et dishonesto, ha porto cagione di pensare et
+            di dir male di lui, come se <persName ref="#Alcibiade">Alcibiade</persName> giovane
+            formosissimo, non fusse stato da <persName ref="#Socrate">Socrate</persName>
+            castissimamente amato dal cui lato, quando seco si posava, soleva dire non altrimenti
+            levarsi, che dal lato del suo padre. Io piu volte ho sentito <persName ref="#MichelAnge"
+               >Michelagnolo</persName> ragionar et discorrer sopra l'amore, et vdito poi da quelli
+            che si trovaron presenti, lui <pb n="46bis"/> non altrimenti del amor parlare, di
+            quelche, appresso di <persName ref="#Platon">Platone</persName> scritto si legge. Io per
+            me non so quelche <persName ref="#Platon">Platone</persName> sopra ciò si dica, so bene,
+            che havend'io così lungamente et intrinsicamente praticatolo, non sentì mai vscir di
+            quella bocca se nostr parole honestissime, et che havevan forza d'estinguere nella
+            gioventù, ogni incomposto et sfrenato desiderio, che in lei potesse cascare. Et che in
+            lui non nascessin laidi pensieri, si può da questo ancho cognoscere, chegli non
+            solamente ha amata la bellezza humana, ma universalmente ogni cosa bella, un bel
+            cavallo, un bel cane, un bel paese, una bella pianta, una bella montagna, una bella
+            selua, et ogni sito et cosa bella et rara nel suo genere, ammirandole con maraviglioso
+            affetto, così il bello dalla natura scegliendo, come l'api raccolgano il mel da fiori,
+            seruendosene poi nelle sue opere. Il che sempre han fatto tutti quelli, che nella
+            pittura hanno havuto qualche grido. Quel anticho Maestro per fare una venere, non si
+            contentò di vedere una sola vergine, che ne volse contemplare molte, et prendendo da
+            ciaschuna la più bella et piu compita parte, seruirsene nella sua <persName ref="#Venus"
+               >Venere</persName>. Et inuero chi si pensa, senza questa via (con la qual si può
+            acquistar quella vera Theorica) peruenire in quest'arte a qualche <pb n="47"/> grado, di
+            gran lunga s'inganna. E sempre stato nel suo vivere molto parco, vsando il cibo più per
+            necessità che per dilettatione, et massimamente quando è stato in opera, nel qual tempo
+            il più delle volte s'è contentato d'un pezzo di pane, il qual egli etiamdio lavorando
+            mangiava. Pur da un tempo in qua, vive piu accuratamente, ciò richiedendo l'età gia più
+            che matura. Piu volte gli ho sentito dire. Ascanio per riccho ch'io mi sia stato, sempre
+            son vivuto da povero. Et sì come è stato di poco cibo, così di poco sonno, ilquale
+            secondo ch'egli dice rade volte gli ha fatto prò, come quello che dormendo patisce dolor
+            di capo quasi sempre, anzi il troppo dormire gli fa cattivo stomaco. Mentre ch'è stato
+            piu robusto, piu volte ha dormito vestito, et con li stivaletti in gamba, quali ha
+            sempre vsati, si per cagion del granchio di che di continuo ha patito, si per altri
+            rispetti, et è stato qualche volta tanto a cavarsegli, che poi insieme con li
+            stivaletti, n'è venuta la pelle, come quella della biscia. Non fu mai avaro del
+            quattrino, ne attese a cumular danari, contento di tanto, quanto gli bastasse a uivere
+            honestamente. onde ricercato da più et più signori et persone ricche di qualche cosa di
+            sua mano, con promesse larghissime, rade volte l'ha fatto, et <pb n="47bis"/> quelle,
+            più tosto per amicitia et benivolenza, che speranza di premio. Ha donate molte sue cose,
+            lequali se vendere havesse voluto, n'haria tratta una pecunia infinita, s'altro non
+            fusse che quelle due statue ch'egli donò a Messer Ruberto Strozzi suo amicissimo. Ne
+            solamente delle sue opere e stato liberale ma della borsa anchora spesso ha sovuenuto a
+            bisogni di qualche povero virtuoso, e studioso, o di lettere o di pittura, del che io
+            posso essere testimone havendolo visto tale verso me medesimo. Non fu mai inuidioso del
+            altrui fatiche, anchor nel arte sua, più per bontà di natura, che per openione ch'egli
+            habbia di se stesso. Anzi ha sempre lodato universalmente tutti, etiam <persName
+               ref="#Raphael">Raffaello</persName> da Vrbino, in fra ilquale et lui già fu qualche
+            contesa nella pittura, come ho scritto. solamente gli ho sentito dire che <persName
+               ref="#Raphael">Raffaello</persName> non hebbe quest'arte da natura, ma per lungo
+            studio. Ne è vero quel che molti gli appongano, che non habbia uoluto insegnare, anzi
+            ciò ha fatto volontieri, et io lho conosciuto in me stesso, al qual egli ha aperto ogni
+            suo secreto che a tal arte s'appertiene, mala disgratia ha voluto che si sia abbattuto o
+            a subietti poco atti, o se pure sono stati atti, non habbino perseverato, ma poi che
+            sotto la desciplina sua saranno <pb n="44"/> stati pochi mesi si sien tenuti maestri. Et
+            avenga ch'egli ciò prontamente habbia fatto, non ha però havuto grato che si sappia,
+            volendo più tosto fare che parer di far bene. Anchor è da sapere ch'egli sempre ha
+            cercato di mettere quest'arte in persone nobili, come usavano li antichi et non in
+            plebei. È stato di tenacissima memoria, di maniera che havend'egli dipinte tante
+            migliaia di figure quante si vedono, non ha fatta mai una che somigli l'altra, o faccia
+            quella medesima attitudine. Anzi gli ho sentito dire che non tira mai linea, che non si
+            ricordi se più mai l'ha tirata, scancellandola se s'ha a vedere in publico. È ancho di
+            potentissima virtù imaginativa, onde è nato, prima ch'egli poco si sia contentato delle
+            sue cose, et sempre l'habbia abbassate, non patendogli che la mano a quella Idea sia
+            arrivata, chegli dentro si formava. Dal medesimo è nato poi, come avuiene ne la maggior
+            parte di coloro che alla vita otiosa et contemplativa si danno, che sia stato ancho,
+            timido, saluo nel giusto sdegno, quando o a lui, o ad altri si faccia ingiuria e torto
+            contra'l devere, nel qual caso più d'animo piglia, che quei che son tenuti coraggiosi:
+            nel altre cose è poi patientissimo. Della modestia sua non si potrebbe dir tanto, quanto
+            me <pb n="44bis"/> riterebbe così di molte altre sue parti et costumi, i quali ancho fur
+            conditi et di piacevolezza et d'acuti detti. Come fur quelli, ch'egli vsò in <placeName
+               ref="#Bologne">Bologna</placeName> verso un gentil huomo, ilqual vedendo la grandezza
+            e mole diquella statua di bronzo, che <persName ref="#MichelAnge"
+               >Michelagnolo</persName> haveva fatta, maravigliandosi disse. Qual credete che sia
+            maggiore, questa statua o un par di bo? A cui <persName ref="#MichelAnge"
+               >Michelagnolo</persName>, secondo di che buoi uoi intendete. Se di questi Bolognesi,
+            oh senza dubio, son maggiori, se de nostri da <placeName ref="#Florence"
+               >Fiorenza</placeName>, son molti minori. Così questa medesima statua vedendo il
+               <placeName ref="#France">Francia</placeName>, che in quel tempo in <placeName
+               ref="#Bologne">Bologna</placeName> era tenuto uno <persName ref="#Apelle"
+               >Apelle</persName>, et dicendo. Questa è una bella materia. Parendo a <persName
+               ref="#MichelAnge">Michelagnolo</persName> ch'egli lodasse il metallo non la forma,
+            ridendo rispose. Se questa è bella materia, io n'ho a saper grado a <persName
+               ref="#JulesII">Papa Giulio</persName>, che me l'ha data, come voi alli spetiali, che
+            vi danno i colori. Et vedendo un altra volta un figlivol del medesimo <placeName
+               ref="#France">Francia</placeName>, che era molto bello, figlivol mio gli disse, tuo
+            padre fa più belle figure vive che dipinte. È <persName ref="#MichelAnge"
+               >Michelagnolo</persName> di buona complessione di corpo, piu tosto neruuto et ossuto,
+            che carnoso et grasso, sano sopra tutto, si per natura si per lessercitio del corpo, et
+            continenza sua, tanto nel coito, quanto nel cibo, avenga che da fanciullo <pb n="49"/>
+            fusse ammalaticcio et cagionevole, et da huomo due malattie habbia havute. Patisce però
+            da parecchi anni in qua molto del orinare. Il qual male era conuertito in pietra, se per
+            opera et diligenza di Messer Realdo gia detto non fusse stato liberato. Ha sempre hauto
+            bon colore in volto, et la statura sua è tale. È d'altezza di corpo mediocre, largo
+            nelle spalle, nel resto del corpo a proportione di quelle, piu tosto sottile che no. La
+            figura di quella parte del capo che si dimostra in faccia, e di figura rotonda, di
+            maniera che sopra l'orecchie, fa più di mezzo tondo una sesta parte. Così le tempie
+            vengono a sporgere alquanto, piu che le orecchie, et le orecchie più che le guancie, et
+            queste più che il restante. Di modo che il capo a proportione della faccia non si può
+            chiamare se non grande la fronte a questa veduta è quadrata. il naso un poco stiacciato
+            non per natura, ma percioché essendo putto, un chiamato <persName
+               ref="#PietroTorrigiano">Torrigiano</persName> di Torrigiani, huomo bestiale et
+            superbo, con un pugno quasi gli stacco la cartilagine del naso, sì che ne fu come morto
+            portato a casa. Ilquale però <persName ref="#PietroTorrigiano">Torrigiano</persName>,
+            sbandito per questo di <placeName ref="#Florence">Firenze</placeName>, fece mala morte.
+            È però tal naso così come egli è, proportionato alla fronte, e <pb n="49bis"/> al resto
+            del volto. Le labra son sottili, ma quel di sotto al quanto più grossetto, sì che a chi
+            lo vede in profilo, sporge un poco in fuore. Il mento accompagna bene le parti
+            sopradette. La fronte in profilo, quasi avanza il naso, et questo è poco men che retto,
+            se non havesse in mezzo un poco di gobbetta. Le ciglia han pochi peli, li occhi più
+            tosto si posson chiamar piccioli che altrimenti di color corneo, ma vari et macchiati di
+            scintille giallette et azzurrine. Le orecchie giuste, i capelli negri et così la barba,
+            se non che in questa sua età d'anni settanta nove sono copiosamente macchiati di canuti.
+            Ella è bifurchata, lunga da quattro in cinque dita, non molto folta, come nel effigie
+            sua si puo in parte vedere. Molte altre cose mi restavano da dire, le quali per la
+            fretta di dar fuore questo ch'è scritto, ho lasciate in dietro, intendendo che
+            alcun'altri si volevan far honore delle fatiche mie, ch'io loro nelle mani haveva
+            fidate, sì che se mai avuerrà che nessun'altro a tal impresa si voglia mettere, o a far
+            la medesima vita, io m'offerisco a communicarle tutte o darle in scritto,
+            amorevolissimamente. Spero tra poco tempo dar fuore alcuni suoi Sonetti, et Madrigali,
+            quali io con lungo tempo ho racocolti si da <pb n="50"/> lui si da altri, et questo per
+            dar saggio al mondo, quanto nel inuentione vaglia, et quanti bei concetti naschino da
+            quel divino spirito. Et con questo fo fine. FINIS. Error per in avertenza. Nella prima
+            facciata della prima carta, dove dice Miser, a uersi. 25. uol dire Messer. nella seconda
+            similmente a uersi. 12. Acar. 3. a uersi. 5. bor, Or. nella medesima carta a uer. 9.
+            havendo uol dir uedendo. a car. 4. a uersi. 23. nella seconda facciata lavotare,
+            lavorare. a car. 5. nella seconda facciata a uer. 1. prefettione, perfettione. a car. 6.
+            a uer 9. tai tal. a car. 8. a uer. 24. in solonte, insolente. a car. 25. nella seconda
+            facciata babastone, bastone, a car. 41. nella seconda facciata uer. 23. Raguga, Raugia.
+            a car. 43. uer. 8. depingerr, dipingere. a car. 34. uer. 20. seruirse, seruisse. a car.
+            38. nella seconda facciata uer. 11. corna, corona. a car. 21. uer. 9. qtest, questa. a
+            car. 39. uer. 1. chioui, chiodi. a car. 44. uer. 26. devere, dovere. Gl'altri che sono
+            di poca importanza si di qualche paroluzza come di littere, virgule, accenti, et punti,
+            si rimettono al giuditio d'e candidi lettori. </p>
+      </body>
+   </text>
+</TEI>

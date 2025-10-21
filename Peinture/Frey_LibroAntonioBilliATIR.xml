@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita"> Title </title>
+         </titleStmt>
+         <publicationStmt>
+            <p> Publication Information </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher> ATIR </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Il libro di Antonio Billi, Carl Frey, <date when="1892">1892</date> --[-]-- IL LIBRO DI
+            ANTONIO BILLI ESISTENTE IN DUE COPIE NELLA BIBLIOTECA NAZIONALE DI <placeName
+               ref="#Florence">FIRENZE</placeName>. HERAUSGEGEBEN VON CARL FREY. BERLIN. G.
+            GROTE'SCHE VERLAGSBUCHHANDLUNG. <date when="1892">1892</date>. <pb n="1"/> Strozzianus.
+            Pittorj. <persName ref="#Cimabue">Cimabue</persName>
+            <date when="1200">1200</date>. <persName ref="#Giotto">Giotto</persName>
+            <date when="1230">1230</date>. <persName ref="#Giottino">Giottino</persName>, discepolo
+            di detto <persName ref="#Giotto">Giotto</persName>. Taddeo Gaddj <date when="1290"
+               >1290</date>. Agnolo suo figlivolo. Gaddo. Stephano, detto lo Scimmia <date
+               when="1330">1330</date>. <persName ref="#BuonamicoBuffalmacco">Buonamico</persName>,
+            detto <persName ref="#BuonamicoBuffalmacco">Buffalmacco</persName>
+            <date when="1340">1340</date>. Andrea di Cione, detto l'Orcagnia <date when="1350"
+               >1350</date>. Giovannino da Santo Stephano a Ponte <date when="1360">1360</date>.
+            Maso Fiorentino. Gherardo, detto lo Starnina <date when="1390">1390</date>. El Bicci
+               <date when="1410">1410</date>. <persName ref="#Masaccio">Masaccio</persName>
+            <date when="1420">1420</date>. Masolino Frate Lorenzo negli Agnolj <date when="1420"
+               >1420</date>. Frate Giovannj da Fiesole <date when="1430">1430</date>. <persName
+               ref="#LippoMemmi">Lippo</persName> Fiorentino. <persName ref="#SpinelloAretino"
+               >Spinello</persName>, padre di Forzore. Andreino da Cistagno (sic) <date when="1430"
+               >1430</date>. Pagolo Uccello. Frate Philippo. Pisello. Pisellino. Pietro del
+            Pollaivolo. Sandro di Botticello. Alesso Baldouinetti. <pb n="2"/> Architettj Fiorentinj
+            et Scultorj. Philippo di ser Brunellesco. <persName ref="#Donatello">Donato</persName>,
+            detto <persName ref="#Donatello">Donatello</persName>. Lorenzo, detto Lorenzo di
+            Bartoluccio. Luca della Robbia. Desiderio. Antonio, detto el Rossellino. Andrea del
+            Verrocchio. Nannj di Banco. Michelozo. Antonio del Pollaivolo. Bernardo dipintore.
+            Jacopo di Casentino dipintore. Messer Dello pittore. Filippo, figlivolo di frate Filippo
+            pittore. Benozo Fiorentino pittore. Dommenico del Ghirlandaio pittore. Frate Bartolomeo
+            pittore. Andreino del Sarto pittore. <persName ref="#LeonardoDaVinci"
+               >Leonardo</persName> di ser Pietro da Vincj, architetto e pittore <date when="1500"
+               >1500</date>. <persName ref="#MichelAnge">Michelagnolo</persName> Buonarrotj <date
+               when="1530">1530</date>
+            <pb n="4"/> Giovanni <persName ref="#Cimabue">Cimabue</persName>. Giovanni, cognominato
+               <persName ref="#Cimabue">Cimabue</persName>. Costui trovo e liniamentj naturalj et la
+            uera proportione et le figure morte le fece uive et di uarij gesti, in modo che egli
+            lascio di se gran'fama.note <persName ref="#Giotto">Giotto</persName> di Bondone. Esso
+               <persName ref="#Giotto">Giotto</persName> dipinse nella Parte Guelfa la figura a capo
+            alla scala et tutta la sala prima. <persName ref="#Giotto">Giotto</persName> fu suo
+            discepolo et coetaneo di <persName ref="#Dante">Dante</persName> Alinghierj et ritrasse
+            la figura sua nella capella del palagio del Podestá a riscontro all'entrata, da
+            man'destra, allato al cominciamento della finestra, a capo al'altare. Costui fu tanto
+            perfetto, che molti di poi si sono affaticatj et hanno uoluto superarlo. È piena
+               l'<placeName ref="#Italie">Italia</placeName> delle sue pitture, ma mirabile la Nave
+            dj musaico in Santo Piero in <placeName ref="#Rome">Roma</placeName> di doddicj
+            apostolj, e quali ciascuno ha gesti uivi et pronti et in tutto tra loro differentj et
+            nientedimeno condecentj et proprij. Comincio ad aquistare fama per la pittura grande in
+            Santo Francesco d'Ascesi, cominciata da <persName ref="#Cimabue">Cimabue</persName>. Di
+            poi ando a <placeName ref="#Rome">Roma</placeName> et dipinse la trebuna in Santo Piero
+            et di poi la sopradetta Nave et altre cose. Ando poi a <placeName ref="#Naples"
+               >Napoli</placeName> et dipinse nell'Incoronata et in Santa Chiara l'Apocalipse;
+            dicesj con l'aiuto di <persName ref="#Dante">Dante</persName>, ilquale sendo esule ui
+            capitó sconosciuto. In <placeName ref="#Florence">Firenze</placeName> dipinse la
+            cappella del palagio del Podesta, nella quale ritrasse, come è detto, la figura di
+               <persName ref="#Dante">Dante</persName> acanto da man destra, al principio della
+            finestra di detta cappella. Nella Badia di <placeName ref="#Florence"
+               >Firenze</placeName> la cappella dell'altare maggiore. In Santa Croce quattro
+            cappelle: cioe tre allato alla grande inuerso la sacrestia et una dall'altra banda pure
+            allato alla grande et la tavola nella cappella de Baroncegli, a pie della quale è il suo
+            nome. Dipinse ancora in molti altri luoghi in tavole et in fresco. Fece il modello del
+            campanile di Santo Giovannj, ilquale doppo la morte sua si seguitó per Taddeo Gaddj, suo
+            discepolo. Dipinse in Santa Maria Novella uno crocifixo grande, che hoggi è sopra la
+            porta di mezzo, et uno Santo Lodouico sopra il tramezzo da mano destra apresso a Santo
+            Girolamo di mano di Taddeo Gaddj. Dicesj, che il re Carlo di Napolj lo richiese, che gli
+            dipignessj il detto reame, et che <persName ref="#Giotto">Giotto</persName> gli dipinse
+            uno asino imbastato, a pie del quale era uno altro basto nuovo in terra, et che detto
+            asino guardandolo mostrava apetirlo. Apresentando questa pittura al re, ilquale lo
+            domando, perché in tal modo l'havessi figurato, gli rispose, così essere e suoi sudditj,
+            et che ogni giorno desideravano nuovo signore. Di costuj uscirno mirabilj pittorj.
+            Dipinse in Santa Croce di <placeName ref="#Florence">Firenze</placeName> uno Santo
+            Francesco sopra la cappella de Bardj allato all'altare maggiore colle stimmate.
+               <persName ref="#Giottino">Giottino</persName>. <persName ref="#Giottino"
+               >Giottino</persName>, discepolo di <persName ref="#Giotto">Giotto</persName> et per
+            fama suo figlivolo, ilquale fra l'altre cose dipinse il tabernaculo insu la piaza di
+            Santo Spirito di <placeName ref="#Florence">Firenze</placeName> et nel primo chiostro
+            tre archettj. Nella chiesa d'Ognisantj uno Santo Cristofano allato alla porta et
+            apressouj una Nunziata et in Santo Gallo nel primo chiostro una Piata molto bella (et)
+            nelle Campora fuori di <placeName ref="#Florence">Firenze</placeName>. Nella chiesa
+            delli Herminj uno Santo Cosimo et Santo Damiano; sono guastj. In <placeName ref="#Rome"
+               >Roma</placeName> in Santa Maria Aracelj. In Santo Joanni la storia d'uno papa in piu
+            quadri. Al Ponte a Romitj in Valdarno uno tabernacolo. Taddeo Gaddi. Taddeo Gaddj,
+            ilquale dipinse nella Mercatantia dj <placeName ref="#Florence">Firenze</placeName>
+            sopra il banco, nelquale luogo disse essere discepolo di <persName ref="#Giotto"
+               >Giotto</persName> il gran'maestro, dipinse nella chiesa di Santa Croce circa al mezo
+            la chiesa il miraculo del fanciullo resuscitato. Dove è la figura di <persName
+               ref="#Dante">Dante</persName> Alinghierj, dove sono tre figure al naturale insieme;
+            et la sua è quella del mezo. Sono ritte. Sopra l'uscio della sagrestia (dipinse)
+               <persName ref="#Jesus">Cristo</persName> quando disputava. Il tabernacolo a testa
+            alla uia del Crocifisso (dove è <persName ref="#Jesus">Cristo</persName>) esposto di
+            croce. Uno archetto nel chiostro di Santo Spirito, quando <persName ref="#Jesus"
+               >Cristo</persName> è uenduto, et in detto sopra la porta, che uá nel refettorio, uno
+            crocifisso. In Santa Maria Novella uno Santo Girolamo a capo alla sua sepoltura. A
+               <placeName ref="#Pise">Pisa</placeName> in campo santo molte historie di Job. In
+            Santa † (Croce) la cappella de Baroncellj. Agnolo Gaddi. Agnolo Gaddj dipinse la
+            cappella grande di Santa † (Croce) et un'altra cappella in detta chiesa et nel
+            refettorio. In Santo Jacopo tra le Fosse quando <persName ref="#Jesus">Cristo</persName>
+            resuscita Lazero. A Prato la cappella, dove è posta la Cintola. <persName
+               ref="#GaddoGaddi">Gaddo Gaddi</persName>. Gaddo ancora dipinse piu cose. Et dettj
+            Gaddj hanno in casa piu pitture di sua mano et dj Agnolo et di Taddeo. Stefano
+            Fiorentino. Stephano, detto lo Scimmia, che dalla natura espresse qualunche cosa uolse,
+            fu diligentissimo maestro. Dipinse in Santo Spirito la transfiguratione di <persName
+               ref="#Jesus">Cristo</persName> allato all'arco, fatto da Antonio da <placeName
+               ref="#Venise">Vinegia</placeName>, de cinque panj et dua pescj. Dipinse in campo
+            santo di <placeName ref="#Pise">Pisa</placeName> l'assumptione dj Nostra Donna.
+            Dicevasi, che esso era parente di <persName ref="#Giotto">Giotto</persName>. <persName
+               ref="#BuonamicoBuffalmacco">Buonamico</persName>
+            <persName ref="#BuonamicoBuffalmacco">Buffalmacco</persName>. <persName
+               ref="#BuonamicoBuffalmacco">Buonamico</persName>, detto <persName
+               ref="#BuonamicoBuffalmacco">Buffalmacco</persName>, insieme con Bruno, suo compagno,
+            et Calandrino, del quale trahevano assaj piacere, come mostra il Boccaccio nella novella
+            di Niccolo Cornacchinj. Costoro dipinsono la chiesa di <placeName ref="#Faenza"
+               >Faenza</placeName>, dove stanno le moniche; et perché intesano, che esse havevano
+            uernaccia molto buona et a loro dando uino assaj feriale, feciono pensiero, come la
+            potessino asaggiare, et dipinsono figure smorte. Il perché il castaldo gli domando della
+            cagione, alquale risposono, che ben si potevano fare piu colorite, se con qualche uino
+            buono si spruzassino qualche uolta. Il perche il castaldo [re]fece dare di detta
+            uernaccia, et loro cominciorono a colorirle; et in tal modo n'hebbono più uolte. Et
+            perché a loro era dato al mangiare spesso agrumj, come sono agli et cipolle, essi
+            facevano le figure, che uolgevano le spalle et celavano la faccia. Furono domandati,
+            perché facevano le figure in tal modo uolte, lequali non satisfacevano loro. Alli quali
+            essi risposono, che non s'amirassino, perché così fussino uolte, conciosiaché mangiando
+            essi maestri continue detti agli et cipolle, esse figure non piaceva loro cotalj fiatj,
+            et però si uolgevano, dimonstrando loro, che mentre che osseruassino tal uita, le figure
+            sarebbono in tal modo. Et così feciono, che a loro fu mutato uita, et le figure si
+            uoltorono. Dipinsono in casa detto Niccolo Cornacchinj in Camerata et in molti altri
+            luoghi, dove si ueggono moltj buoni trattj. Andrea detto l'Orcagna. Andrea di Cione,
+            detto l'Orcagnia. Costuj dipinse la cappella maggiore in Santa Maria Novella, guasta dal
+            Ghirlandaio, della quale trasse molte belle cose. Dipinse la cappella delli Strozi et
+            (la) tavola in detta chiesa; (et) l'inferno nella chiesa di Santa † (Croce) col
+            paradiso, nelquale ritrasse Guardj, messo del comune, con uno giglio in su la berretta,
+            perché lo pegnoro. Di questo Guardj ne sono discesi quellj d'Andrea di Lapo de Guardj.
+            Fece in marmo l'assumptione di Nostra Donna nel tabernacolo di Orto Santo Michele, dove
+            è la sua figura di mezo rilievo col uiso tondo et alquanta barba col capuccio in capo,
+            et scritto a piede nella cornice il nome suo, come <persName ref="#Giotto"
+               >Giotto</persName>: “Costui fece”. Dilettossj di sonettj, de qualj alcunj sene
+            truova. Resta de sua discendentj al nostro secolo uno Jacopo di Cione merciaio nel corso
+            degli Adimarj, et haveva la casa nella uia de Corazaj uecchia. Giovanni dal Ponte.
+            Giovannino da Santo Stephano a Ponte di <placeName ref="#Florence">Firenze</placeName>.
+            Costui dipinse tre cappelle in Santa Trinita, cioe una degli Schalj et una allato a essa
+            et la terza dall'altro lato della capella maggiore di Santo Pagolo; et dipinse piu altre
+            cose. Maso. Maso Fiorentino. Costuj infra l'altre sue pitture dipinse il duca
+               d'<placeName ref="#Athenes">Athene</placeName> et i suoi seguacj nella faccia della
+            torre del Podesta di <placeName ref="#Florence">Firenze</placeName>. Gherardo Starnina.
+            Gherardo, detto lo Starnina, dipinse nel Carmino la cappella di Santo Girolamo. Et
+            perché gli era stato assai tempo in Ispagna et in <placeName ref="#France"
+               >Francia</placeName>, fene in detta cappella certi uestirj al modo di dettj paesi.
+            Dipinse nell'acquisto di <placeName ref="#Pise">Pisa</placeName> l'anno <date
+               when="1406">1406</date> nella faccia della Parte Guelfa dal lato di fuori Santo
+            Dionigi et la citta di <placeName ref="#Pise">Pisa</placeName> alto sopra la scala.
+            Costui si disse essere huomo molto uirtuoso, in modo che la minore uirtu, che si diceva
+            essere in luj, era la pittura Sono e discendentj detti quelli di Mariano di Gherardo in
+               <placeName ref="#Florence">Firenze</placeName> et hanno a fare alla torre del'Ognogni
+            di la dall'Aparita et stanno a casa nella uia de Buonfantj, passato il canto di uia
+            Ghibellina. Bicci di Lorenzo. El Bicci Fiorentino. Di costui si uede e martirj nella
+            chiesa del Carmino et nella compagnia de Martiri drieto a Camaldolj (et) uno Santo
+            Cristofano allato alla porta del Martello di Santa † (Croce) et la fana (faccia) allato
+            di fuorj et dentro nel chiostro. La sala della casa uecchia de Medicj in uia Larga.
+            apostolj, che sono in Santa Maria del Fiore, et i santj a pie delle finestre delle
+            cappelle. La cappella de Martirj in San Marco, fatta per Neri suo figlivolo, et una
+            cappella in Ogni Santj de Lenzi. Dicono, che Nerj suo figlivolo dipinse la cappella de
+            Lenzi in Ogni Santj. <persName ref="#Masaccio">Masaccio</persName>. <persName
+               ref="#Masaccio">Masaccio</persName> fu optimo immitatore della natura, dj
+            gran'rilievo, universale et buono componitore et puro, senza ornato, perché solo si
+            dette all'immitatione del uero et rilievo di figure. Fu certo buono prospettivo quanto
+            huomo di quelli tempi et di gran'facilitá nel fare, sendo giovane, perché mori d'annj
+            uentisej a <placeName ref="#Rome">Roma</placeName>; dissesj di veneno. Costui dipinse
+            nel Carmine di <placeName ref="#Florence">Firenze</placeName> nel chiostro della porta,
+            che entra in chiesa, una processione con grande artificio et in detta chiesa nel
+            pilastro della cappella de Serragli uno Santo Paulo con grande artifitio. Et nella
+            cappella de Brancaccj in detta chiesa una parte di essa, che infra l'altre figure ui è
+            uno, che triema, et dipinse altre cose. Costuj era amato da Philippo di ser Brunellesco,
+            el grande architetto, perché lo uedeva d'ingegno perspicace; et insegnollj molte cose
+            dell'arte. Et quando esso Philippo intese la sua morte, dimostro, esserlj molesta, et
+            co'suoj domesticj usava di dire: “Noj habbiano fatto una gran'perdita”. Costuj dipinse
+            in Santa Maria Novella uno crocifisso, cioe la Trinita et a piede la morte, molto bella,
+            dietro al pergamo. Masolino. Masolino. Costuj dipinse insieme con <persName
+               ref="#Masaccio">Masaccio</persName> (la cappella) de Brancaccj nel Carmine di
+               <placeName ref="#Florence">Firenze</placeName>. Stette con Lorenzo di Bartoluccio
+            Ghibertj a rinettare le porte di bronzo di San Giovannj et massime e pannj, che non ui
+            sono [et] (e) meglio rinettj che i suoj. Fece nel Carmine nel pilastro della cappella de
+            Serragli uno Santo Piero et dipinse in <placeName ref="#Pise">Pisa</placeName> in piu
+            luoghj. Don <persName ref="#LorenzoMonaco">Lorenzo Monaco</persName>. Frate Lorenzo,
+            frate negli Agnolj di <placeName ref="#Florence">Firenze</placeName>. Costuj dipinse in
+            detto luogo la tavola dell'altare maggiore in detta chiesa, con grande ornamento
+            lavorata, et molte altre cose in detta chiesa. Et in Santa Trinita la cappella delli
+            Ardinghellj, dove sono le immagini di <persName ref="#Dante">Dante</persName> et del
+            Petrarca; la cappella de Bartolinj in detta chiesa, dove è lo sponsalitio di Nostra
+            Donna. Fra Giovanni da Fiesole. Frate Giovannj, detto da Fiesole, angelico et vezzoso et
+            devoto et (di uirtu) ornato molto. Dipinse con grandissima facilita et in <placeName
+               ref="#Florence">Firenze</placeName> et a <placeName ref="#Rome">Roma</placeName> et
+            altrove; et infra l'altre cose: Il capitolo di Santo Marco et la tavola dell'altare
+            maggiore et piu figure per la detta casa. Et nella sagrestia di Santa Trinita la tavola,
+            dove è disposto (deposto) <persName ref="#Jesus">Cristo</persName> di croce. Una tavola
+            in San Gallo (Gilio), dove è dipinto il paradiso. Una tavola nel Tempio, dove è Giesu
+            morto et intorno uno coro delle <persName ref="#Marie">Marie</persName>. Nell'ornamento,
+            dove stanno gli arientj, alla Nunziata de Seruj figure picole. Negli Agnolj, cioe nel
+            munistero uno inferno et paradiso. In <placeName ref="#Rome">Roma</placeName> una
+            cappella a papa Eugenio. In Santa Maria Novella in <placeName ref="#Florence"
+               >Firenze</placeName> tra le tre porte del tramezo, quando era giovanetto, piu
+            tabernacolj in detta chiesa, dove tengono le reliquie. La tavola della cappella del
+            palagio de Medicj, attorno della quale dipinse in fresco Benozo. Dipinse in Santo
+            Dommenico di Fiesole, nella quale habitava, piu tavole. <persName ref="#LippoMemmi"
+               >Lippo</persName>. <persName ref="#LippoMemmi">Lippo</persName> Fiorentino. Costuj fu
+            gentile maestro, per quanto pativano e tempi suoj. Dipinse in piu luoghi et infra gli
+            altrj in Santo Antonio [et] alla porta a <placeName ref="#Faenza">Faenza</placeName>
+            allo spedale certj poverj et nel chiostro l'historia di Santo Antonio et la uisione,
+            quando uidde moltj laccj nel mondo, apresso de quali erano disegnatj gli huominj con
+            diversj apetitj, secondo che da quelli erano tiratj. Fece una figura di musaico con la
+            testa inuetriata, la quale è al presente nella udienza della Parte Guelfa. Et in San
+            Giovannj una historia di musaico di Santo Francesco a capo alla porta del mezzo acanto
+            al battesimo. <persName ref="#SpinelloAretino">Spinello</persName> Aretino. <persName
+               ref="#SpinelloAretino">Spinello</persName>, padre di Forzore. Horafo fu costuj, (et)
+            perché piu tempo habitò in Arezo, era reputato Aretino; et i suoj uscitj di <placeName
+               ref="#Florence">Firenze</placeName> per le parti s'erono ridottj a Arezo. Costuj
+            dipinse la sagrestia di San Miniato a Monte. Andrea dal Castagno. Andreino da Castagno,
+            allevato da piccolo fanciullo in <placeName ref="#Florence">Firenze</placeName>. Alcunj
+            dicono, fu levato da guardare le bestie; et trovato da uno nostro cittadino (come)
+            disegnau ainsu le lastre, lo condusse a <placeName ref="#Florence">Firenze</placeName>.
+            Costuj fu grande disegnatore et di gran'rilievo, amatore delle difficulta dell'arte,
+            vivo et pronto molto et assaj facile nel fare. Dipinse in piu luoghi, come fu una faccia
+            in Santo Gilio di <placeName ref="#Florence">Firenze</placeName>, che è (la prima); la
+            seconda dietro all'altare dipinse Alesso Baldouinettj, et (una) maestro Dommenico da
+               <placeName ref="#Venise">Vinegia</placeName>, il quale fu morto da detto Andreino con
+            una maza ferrata in sula testa per inuidia, per ilche non poté finire detta facciata; et
+            alla morte sua confesso detto homicidio. Nel chiostro delle Ossa di detta chiesa uno
+            Santo Andrea sopra uno uscio. Nel chiostro grande di Santa † (Croce) dipinse <persName
+               ref="#Jesus">Cristo</persName> alla colonna con piu figure intorno. Nella detta
+            chiesa alla cappella de Cavalcantj uno Santo Girolamo et uno Santo Francesco. Nella
+            chiesa della Nunziata di <placeName ref="#Florence">Firenze</placeName> nella cappella
+            di messer Orlando de Medicj 3 figure, tra le qualj è la moglie di detto Andrea, et in un
+            altra cappella di detta chiesa uno Santo Girolamo et in un altra uno Santo Giuliano con
+            l'historia sua. In Santa Maria del Fiore la figura di Niccolo da Tolentino a cavallo,
+            stato capitano de Fiorentinj. Nel munistero degli Agnolj nel primo chiostro riscontro
+            alla porta del Martello uno crucifisso con altre figure. Nel refettorio di Santa Maria
+            Nuova uno cenaculo di <persName ref="#Jesus">Cristo</persName> con gli apostolj, molto
+            bello. Sopra alla porta della chiesa di Santo Giuliano di <placeName ref="#Florence"
+               >Firenze</placeName> uno crocifisso con Santo Giuliano con Maria, bellissimo. Nella
+            loggia della casa de Carduccj, hoggi de Pandolfinj moltj huominj famosj. Alla Scarperia
+            nel palagio del Vicario sopra la porta una Carità ignuda, cosa per escellenza. Dipinse
+            nella faccia del palagio del Podesta di <placeName ref="#Florence">Firenze</placeName>
+            piu huominj cittadinj, statj confinati per lo stato, a uso dj impiccatj per diligione.
+            Il perché acquisto il cognome detto Andreino degli Impiccatj. Paolo Uccelli. Pagolo
+            Vccello Fiorentino. Costuj fu buono componitore et vario, gran maestro di annimalj et di
+            paesi, artificioso negli scorcj, perché intese bene la prospettiva. Fece nel primo
+            chiostro di Santa Maria Novella una storia: quando <persName ref="#Dieu">Dio</persName>
+            plasmo <persName ref="#Adam">Adamo</persName> et Eua, et come furono cacciatj del
+            paradiso delle delitie. Et un altra storia del diluvio, dove sono cose molto belle. In
+            Santa Maria del Fiore la figura di messer Giovannj Aguto, ingenuo (Inglese?) capitano de
+            Fiorentinj, a cavallo di uerde terra. Fece dua figure nella faccia del munistero di
+            Baldaccio. Sopra la porta di Santo Tommaso di <placeName ref="#Florence"
+               >Firenze</placeName>
+            <persName ref="#Jesus">Cristo</persName> et Santo Tommaso. Dipinse negli Agnolj nel
+            chiostro dell'orto grande di uerde terra molte figure, con grand'artifitio et assaj
+            lodate. Dipinse nel chiostro di San Miniato a Monte ancora di uerde terra, ma non molto
+            stimata. Fece piu storie in panni et in altrj luoghi, assaj commendate. Fra Filippo
+            Lippi. Frate Philippo Fiorentino. Costuj fu gratioso di ornato et artifitioso sopra
+            modo. Valse molto nelle compositionj et uarieta, nel colorire, nel rilievo, negli
+            ornamentj d'ogni sorte, massime o immitatj dal uero o fittj Filippo di ser Brunellesco.
+            (le porte le qualj dipoi furno date a fare a Lorenzo di Bartoluccio per la summessione,
+            che esso) uso uerso e cittadinj, la qual cosa Filippo fare non uolse maj. Non dimeno
+            detto Filippo non si poté contenere che non lavorassj in su dette porte, come et feciono
+            et <persName ref="#Donatello">Donato</persName> et Luca della Robbia et Antonio del
+            Pollaivolo, perché se così non fussi seguito, era impossibile, che si conducessino a
+            perfectione. Et conoscionsi tra gl'intendentj le maniere di tutte le figure et maestri
+            distincte, perché in esse è grande uarieta et artifitio. Fece una Santa Maria Magdalena,
+            posta nella chiesa di Santo Spirito, la quale arse, quando la chiesa (arse), cosa
+            eccellentissima senza comparitione a quelle che sono in Santo Giovannj di mano di
+               <persName ref="#Donatello">Donato</persName>. Vedesi in Santa Maria Novella il
+            crocifisso dj rilievo da non equipararlo all'altra figura, fatta a gara con <persName
+               ref="#Donatello">Donato</persName>, il quale n'haveva fatto un'altro, hoggi in Santa
+            Croce. Furono allogate a luj et a <persName ref="#Donatello">Donato</persName> insieme
+            due figure di marmo, che sono nellj pilastrj d'Orto Santo Michele, cioe la figura di
+            Santo Piero et quella di Santo Marco, opere molto degne. Fece in prospettiva la chiesa
+            et la piaza di Santo Gallo (Giovanni) et il palagio de Priorj. Fece il modello della
+            chiesa di Santo Spirito, opera eccellente, benche non fussi seguito interamente l'ordine
+            suo ne nelle porte ne ne ricignimentj di fuorj, che s'haveva a dimostrare, nel modo che
+            esso era dentro, ne negli altarj delle cappelle, che havevano a essere dallato dinanzj,
+            et uolgere il prete el uolto alla chiesa a dire la messa, contrarij, come sono al
+            presente. Ne etiam nella cupola, perché si sono alzati troppo ne pilastrj et ne
+            capitellj delle colonne et nel ricignimento disopra, in modo che successive la cupola
+            uiene a essere uscita della sua ragione et proportione; per la qual cosa è detto
+            edifitio indebilito et è per rouinare gran tempo prima che esso non harebbe fatto.
+            Ancora fece il modello della chiesa di Santo Lorenzo di <placeName ref="#Florence"
+               >Firenze</placeName>; benche ancora non fussi seguito interamente il suo disegno,
+            nondimeno è uno corpo molto bello; et etiam la sagrestia prima. Simile fece il modello
+            del capitolo de Pazi nel chiostro di Santa † (Croce). El modello della casa de Businj,
+            fatta per 2 fratellj. Et il modello della casa et facciata et loggia degli Innocentj, la
+            quale fu fatta senza armadura, nel qual modo si è osseruato per moltj. Et a detto
+            (Eccetto) che è uno ricignimento, fatto per ordine di Francesco della Luna, che è falso
+            et non a proposito et senza architettura, perché Filippo si trovava in detto tempo a
+               <placeName ref="#Milan">Milano</placeName> a seruigi di Filippo Maria duca per il
+            modello d'una forteza; et alla sua tornata uidde, detta facciata essere uscito con uno
+            ricignimento fuori del modello, stato seguito per ordine di Francesco della Luna, il
+            quale haveva opinione d'architettura. Et dimandato Filippo, perché havessi fatto tal
+            cosa, rispose haverlo tratto della chiesa di Santo Giovannj. Il perché Philippo gli
+            disse cosj: “Uno errore era in detto edifitio, et tu l'haj preso et conseruatolo”. Fece
+            il modello della forteza di Vicopisano et quello del porto di Pesero et a <placeName
+               ref="#Milan">Milano</placeName> altre cose. Et usava di dire, che se cento modellj di
+            chiese o altrj edificij havessj a fare, tuttj uariatj gli farebbe et differentj. Fece
+            uno modello della casa o palazo di Cosimo de Medicj, laquale haveva a essere situata in
+            sulla piaza di San Lorenzo riscontro alla chiesa; et dove al presente è il palagio,
+            haveva a essere piaza; edifitio forse non al presente sopra la terra da uedersj. Ma
+            Cosimo parendogli troppo grande et suntuosa impresa, la lascio indietro; il che Filippo,
+            ilquale haveva in esso messo tutto il suo ingegno, per sdegno lo spezo. Perché mentre
+            che lo componeva, usava dire, che a sua dj haveva desiderato di fare una casa et erasj
+            abattuto a uno, che la uoleva et poteva fare; il perché si dice, che mai fu uisto tanto
+            allegro quanto nel tempo che lo fabbricava. Dissesj, Cosimo essersj pentito di non
+            havere seguito tal disegno, et che non gli parue parlare maj a huomo di maggiore
+            intelligenza, ma molto di se medesimo. Hebbe uno suo discepolo, quale teneva in casa, da
+            Buggiano, alquale fe fare l'acquaio di marmo, che è nella sagrestia di Santa Liparata,
+            con quelli bambinj in detto lavoro che gettano acqua. Ancora fece la testa di detto
+            Filippo, che è in Santa Liparata. Ancora fece l'acquaio di pietra della sagrestia
+            uecchia. Fece detto Filippo piu disegni et modellj a signorj et intra gli altrj a
+            Filippo Maria di <placeName ref="#Milan">Milano</placeName> di forteze, ilquale fece
+            forza con ogni premio di ritenerlo apresso luj, et al signore di <placeName
+               ref="#Pesaro">Pesaro</placeName> del porto et a moltj altrj di case et altrj edifitij
+            (et) il modello degli Agnolj, non finito. <persName ref="#Donatello"
+               >Donatello</persName>. <persName ref="#Donatello">Donato</persName> Fiorentino, detto
+               <persName ref="#Donatello">Donatello</persName>, scultore, da essere connumerato fra
+            gli antichj, mirabile in compositione et in uarietà, pronto et con grande uivacità et
+            nell'ordine et nel situare delle figure, lequalj tutte appaiono in moto, fu grande
+            immitatore degli antichj et dj perspettive intese assaj bene. Fece moltissime opere et
+            in <placeName ref="#Florence">Firenze</placeName> et altrove: Nel pilastro di Orto San
+            Michele la figura di Santo Giorgio con gran'uivacità et pronteza. El (e 'l?) tabernaculo
+            in dettj pilastrj riscontro alla chiesa di San Michele, dove poi fu messo le figure di
+            bronzo di Giesu <persName ref="#Jesus">Cristo</persName> et di San Tommaso di mano dj
+            Andrea del Verrocchio. Le figure di San Marco et di Santo Piero a dettj pilastrj, benche
+            fussino allogate a luj insieme con Filippo di ser Brunellesco. Nella faccia di Santa
+            Maria del Fiore Santo Giovannj Euangelista nel tabernaculo allato alla porta di mezo, in
+            ogni sua parte perfetta, et forse poche uolte dagli occhj nostri simile si uedde. La
+            figura di Daniello in detta faccia intra dua colonne, assaj bella. Duo figure nel
+            campanile di detta chiesa dallato della piaza: una, ritratta al naturale, (è) Giovannj
+            dj Barduccio Cherichinj, et l'altra Francesco Soderinj giovane, allato l'una all'altra,
+            et è dallato della Canonnica. La figura della Judetta di bronzo, alpresente alla loggia
+            de nostri Signorj. La figura di Davith di bronzo, laquale è alpresente nel cortile del
+            palazo di dettj Signorj. Una testa et il collo d'uno cavallo di molta grandeza. È opera
+            molto degna, fatta per finire il resto del cavallo, sul quale è l'immagine del re
+            Alphonso di Ragona et <placeName ref="#Sicile">Sicilia</placeName>, Napolj et altrj
+            reamj; laquale è hoggi in <placeName ref="#Naples">Napoli</placeName> in casa del conte
+            dj Mathalona de Caraffi. La figura di Santa Maria <persName ref="#MarieMadeleine"
+               >Madalena</persName>, alpresente nella chiesa di San Giovanni di <placeName
+               ref="#Florence">Firenze</placeName>. Uno uaso di granito con ornamentj di marmo nella
+            casa overo palazo de Medicj, gittante aqua. Uno altro uaso con simile nel orto de Pazi,
+            molto bello, che fa[nno] fonte. Nella sagrestia di Santo Lorenzo uno vaso da lavare le
+            manj, opera molto bella, et il falcone et altrj ornamentj intorno di mano d'Andrea del
+            Vecchio (Verrocchio). Le porte di bronzo in detta sagrestia, benche non habbino molta
+            gratia, et dua pergami di bronzo in detta chiesa, non finitj, et quattro uangelistj di
+            terra in detta chiesa in sula cornice della croce di detta chiesa, bozatj; havevano
+            afarsi di bronzo o di marmo. La Nuntiata nella chiesa di Santa Croce e 'l tabernacolo
+            alla cappella de Cavalcantj con suoj ornamentj begli. Piu teste et figure et massime in
+            casa di Lorenzo della Stufa, molto pronte. Uno crucifisso a meza la chiesa di Santa †
+            (Croce) di rilievo. Gli ornamentj dell'organo della sagrestia uecchia, cioe del minore
+            organo, di marmo di Santa Maria del Fiore. Lequalj figure sono abozate et non finite,
+            nondimeno di terra appaiono assaj et rilievano in apparenza, piu che non fanno le figure
+            dell'organo maggiore, che sono finite con molta diligenza et di terra non appaiono
+            tanto, che sono di mano di Luca della Robbia. Tolse a fare a Sanesj una porta di bronzo
+            et fece il disegno molto bello et le forme per gittarlo. Ma capitandouj uno Bernardetto
+            orafo, detto di Mona Papera, Fiorentino, assaj intendente et suo domestico, et andandolo
+            a uicitare, che tornava da <placeName ref="#Rome">Roma</placeName>, et ueduto ordinata
+            tanto bella opera, lo riprese assaj, che e Sanesj potessero gloriare di tanta degna
+            cosa; et tanto lo persuase, che uno di di festa, che e garzonj erano andatj a spasso,
+            esso <persName ref="#Donatello">Donato</persName> et Bernardo guastorno ogni cosa et
+            uscitj di casa, presono la uia di <placeName ref="#Florence">Firenze</placeName>. Et i
+            garzonj tornando la sera a casa, trovorono guasto tal cosa, et non esseruj <persName
+               ref="#Donatello">Donato</persName>, ne prima di luj intesono, che era giunto in
+               <placeName ref="#Florence">Firenze</placeName>. Fece il sepolcro di papa Janni in
+               <placeName ref="#Florence">Firenze</placeName>, posto nella chiesa di San Giovannj,
+            con tuttj e suoj ornamentj, eccetto che una figura di mano di Michelozo, eccetto che una
+            Fede, che ha uno callice in mano et ha l'uno braccio minore che l'altro. Dicono, che
+            fece il disegno dell'occhio del uetro in testa alla chiesa di Santa Maria del Fiore,
+            cioe di quelli della cupola, che è una incoronatione. Fece a <placeName ref="#Sienne"
+               >Siena</placeName> nella porta del duomo una figura di bronzo di San Giovannj
+            Battista, cosa bella, ma ha meno nel braccio dritto dal gommito in giu, il quale dissesj
+            non havere finito, per non essere sodisfatto del resto del pagamento. Et partitosj di
+            detto luogo, disse, se uolevano finissi detta figura, che gli dessino tanto quanto gli
+            havevano dato del resto della figura; et così la lascio imperfetta. Fece una figura di
+            San Giovanni, hoggi in casa dellj heredj di Ruberto Martellj. Fece infinite cose,
+            frall'altre la Douitia sopra la colonna di Mercato Vecchio. Fuori di <placeName
+               ref="#Florence">Firenze</placeName> furono assaj, di che non ho notitia. A <placeName
+               ref="#Padoue">Padova</placeName> uno cavallo fuor della chiesa di Santo Antonio,
+            suvuj Gattamelata, dj bronzo. Nel dossale dello altare maggiore una Pieta dj marmo con
+            le <persName ref="#Marie">Marie</persName>, cosa eccellente. Sonuj intorno al coro certi
+            quadrj di bronzo, fattj dal <persName ref="#BartolomeoBellano">Vellano</persName> et
+            (con) disegni di <persName ref="#Donatello">Donato</persName>, suo maestro, tanto similj
+            alle cose sue, che io guidicaj, essere fatte da luj. Conoscesi la maniera sua dagli
+            altri differente, che come le ueddj, guidicaj per la uivacita, essere fattj da luj.
+            Lorenzo Ghiberti. Lorenzo di Bartolo, detto Ghibertj, detto Lorenzo di Bartoluccio, è
+            notissimo per le porte di bronzo del nostro Baptistero, cioe quella del mezo et quella
+            di uerso l'Opera et gli stipitj della terza uerso la Misericordia, la quale porta fece
+            maestro <persName ref="#AndreaPisano">Andrea Pisano</persName>. Et benche in sudette
+            porte et massime a quella del mezo piu maestrj Petrei. Andrea Tafi. Andrea Tassi (sic)
+            Fiorentino. Fu costui compagnio di <persName ref="#Cimabue">Cimabue</persName> et fu
+            maestro di musaico. Fu scolare di maestro Appollonio Greco pittore; et insieme con il
+            suo maestro lavoro la parte di sopra della tribuna di <persName ref="#SaintJean">Santo
+               Giovanni</persName>, dove sono que troni et denominationj, et da se solo fecie il
+               <persName ref="#Jesus">Cristo</persName> sopra la banda della cappella maggiore. Mori
+            lo anno <date when="1294">1294</date>. Giovanni <persName ref="#Cimabue"
+               >Cimabue</persName>. <persName ref="#Cimabue">Cimabue</persName> nacque nel <date
+               when="1240">1240</date>, mori l'anno <date when="1300">1300</date>. Giovanni
+               <persName ref="#Cimabue">Cimabue</persName>. Costui trovo e liniamenti naturali et la
+            uera proportione et le figure morte fecie uive et di uarij giesti, di modo che lascio di
+            se grandissima fama. Fu negli anni circha <date when="1240">1240</date>. Truovansi delle
+            opere sue im <placeName ref="#Pise">Pisa</placeName> nella chiesa di Santo Francesco in
+            tavola et in <placeName ref="#Florence">Firenze</placeName> nel primo chiostro di Santo
+            Spirito cierte hystorie, che anno maniera Grecha, et altre pitture im <placeName
+               ref="#Pise">Pisa</placeName> in Santo Francesco scalzo. Dipinse a 'Sciesi nella
+            chiesa di Santo Francesco, che la fini <persName ref="#Giotto">Giotto</persName>, et in
+            Empoli nella pieve et in Santa Maria Novella una tavola grande con una Nostra Donna con
+            angioli intorno, oggi posta alto fra la cappella de Bardj et de Ruciellai. Andolla a
+            uedere im borgo Allegri, mentre che la dipignieva, il re Carlo d'Angio, et fu portata in
+            chiesa a suono di trombe. Stava ad casa nella uia del Cocomero. <persName ref="#Giotto"
+               >Giotto</persName> di Bondone. <persName ref="#Giotto">Giotto</persName> fu nel <date
+               when="1280">1280</date>. <persName ref="#Giotto">Giotto</persName> fu discepolo di
+               <persName ref="#Cimabue">Cimabue</persName> et dipinse nella Parte Guelfa la fiura a
+            capo alla scala et tutta la prima sala. Fu costui tanto perfetto, che moltj dipoi si
+            sono affaticatj per inmitarlo; et è piena la <placeName ref="#Italie">Italia</placeName>
+            delle sue figure. Comincio costuj ad acquistare fama per la pittura grande in Santo
+            Francesco d'Asciesj, cominciata da <persName ref="#Cimabue">Cimabue</persName>. Ando a
+               <placeName ref="#Rome">Roma</placeName> et dipinse la tribuna in Santo Pietro et una
+            Nave et altre cose mirabili. A <placeName ref="#Naples">Napoli</placeName> nella
+            Incoronata et in Santa Chiara (dipinse), dove trovo <persName ref="#Dante"
+               >Dante</persName> Aldinghieri; et in <placeName ref="#Florence">Firenze</placeName>
+            la cappella del palagio del Podesta, dove ritrasse esso <persName ref="#Dante"
+               >Dante</persName> a mano destra, al principio della finestra di decta cappella. Nella
+            Badia di <placeName ref="#Florence">Firenze</placeName> la cappella dello altare
+            maggiore. In Santa † (Croce) quatro cappelle, che tre al lato alla grande uerso la
+            sagrestia et l'altra dall'altra banda dello [dello] altare maggiore et la tavola nella
+            cappella de Baroncielli, dove è il suo nome, et in assaj altri luoghi. Fecie il modello
+            del campanile di <persName ref="#SaintJean">Santo Giovanni</persName>, el quale dopo la
+            morte sua seguito Taddeo, suo disciepolo. Dipinse in Santa Maria Novella uno crocifisso
+            grande, che è oggi sopra la porta di mezo, et uno Santo Lodouico sopra il tramezo da
+            mano destra apresso a Santo Girolamo, che è di mano di Taddeo Gaddi. Il re Carlo di
+               <placeName ref="#Naples">Napoli</placeName> lo richiese, che lui gli dipigniessi l
+            suo reame, et <persName ref="#Giotto">Giotto</persName> gli dipinse uno asino imbastato,
+            a pie del quale era un altro basto nuovo in terra, et decto asino guardandolo mostrava
+            appetirlo; et dimandato da il re, perché in tal modo lo havessi fiurato, gli rispuose,
+            così essere i sua subditi, equali sempre desideravano un altro signore. Dipinse in Santa
+            † (Croce) di <placeName ref="#Florence">Firenze</placeName> uno Santo Francesco sopra la
+            cappella de Bardi al lato allo altare maggiore con le stigmate. Nacque a Vespignano di
+            uno contadino l'anno <date when="1276">1276</date>. <persName ref="#Giottino"
+               >Giottino</persName>. <persName ref="#Giottino">Giottino</persName>, disciepolo di
+               <persName ref="#Giotto">Giotto</persName> et per fama suo figlivolo, infra l'altre
+            cose dipinse il tabernacolo in sulla piaza di Santo Spirito di <placeName
+               ref="#Florence">Firenze</placeName> et nel primo chiostro tre archetti. Nella chiesa
+            d'Ognisanti al lato alla porta uno Santo Cristofano et una Nuntiata et a mano sinistra
+            uno Santo Giorgio et in Santo Gallo nel primo chiostro una Pieta molto bella et alle
+            Campora piu fiure. Negli Ermini uno Santo Cosimo et uno Santo Damiano, che sono guasti;
+            et in <placeName ref="#Rome">Roma</placeName> in Santa Maria Araceli et in Santo Jannj
+            la storia di uno papa im piu quadri. Al Ponte al Romito in Valdarno dipinse uno
+            tabernacolo. Taddeo Gaddi. Taddeo Gaddi dipigniendo nella Mercanzia, disse essere stato
+            disciepolo di <persName ref="#Giotto">Giotto</persName>; et dipinse nella chiesa di
+            Santa † (Croce) circha al mezzo della chiesa il miracolo del fanciullo risucitato, dove
+            è la fiura di <persName ref="#Dante">Dante</persName> Aldinghieri, che ui sono tre
+            figure al naturale insieme; et uno archetto nel chiostro di Santo Spirito, quando
+               <persName ref="#Jesus">Christo</persName> è uenduto, et in detto sopra la porta, che
+            ua nel chiostro, uno crocifisso et una Nostra Donna et <persName ref="#SaintJean">Santo
+               Giovanni</persName>; et in Santa Maria Novella uno Santo Girolamo a capo alla
+            sepoltura sua. A <placeName ref="#Pise">Pisa</placeName> in campo santo molte historie
+            di Job et in Santa † (Croce) la cappella de Baroncielli. Agnolo Gaddi. Agnolo Gaddi
+            dipinse la cappella grande di Santa † (Croce) et una altra cappella in decta chiesa et
+            nel refettorio. In Santo Jacopo tra Fossi quando <persName ref="#Jesus"
+               >Cristo</persName> risucito Lazero et a Prato la cappella, dove è posto la cintura di
+            Nostra Donna. <persName ref="#GaddoGaddi">Gaddo Gaddi</persName>. Gaddo anchora dinpinse
+            piu cose. Et detti Gaddi anno in casa piu pitture di sua mano et di Agnolo et di Taddeo.
+            Stefano Fiorentino. Stefano, detto lo Scimmia, che dalla natura expresse qualunche cosa
+            uolesse, fu diligientissimo maestro. Dipinse in Santo Spirito la transfiguratione di
+               <persName ref="#Jesus">Cristo</persName> allato al'archo, fatto da Antonio da
+               <placeName ref="#Venise">Vinegia</placeName>, de cinque pani e dua pescj. In campo
+            sancto di <placeName ref="#Pise">Pisa</placeName> dipinse la absuntione di Nostra Donna.
+            Et intesi, lui essere discieso di <persName ref="#Giotto">Giotto</persName>. <persName
+               ref="#BuonamicoBuffalmacco">Buonamico</persName>
+            <persName ref="#BuonamicoBuffalmacco">Buffalmacco</persName>. Buonamicho, detto
+            Buffalmacho, insieme con Bruno et Capardino (Calandrino), sua compagni, dipinsono la
+            chiesa di <placeName ref="#Faenza">Faenza</placeName>, dove stanno le monache; dove
+            intesono, che quelle havevono uernaccia molto buona, et feciono disegnio, come potessino
+            assaggiarla, et cominciorno a dipigniere le fiure scolorite. Et addimandati dal
+            castaldo, perché così le faciessino, rispuosono, che bene si farebbono colorite, se
+            qualche uolta si spruzassino la bocha con qualche buono uino; onde il castaldo comincio
+            a dare loro alle uolte di decta uernaccia, et alle fiure torno il colore in uiso.
+            Usavono le monache anchora dare loro a mangiare assai agli et cipolle, et loro
+            cominciorno a far le fiure, che uolgievano le spalle, ne si uedeva il dinanzi. Et
+            dimandati, perché in tal'modo le facievano uolte, che alle monache non satisfacievano
+            niente, [allj qualj] così rispuosono: “Non ui maravigliate di questo, perché le suore ci
+            danno a mangiare tanti agli e cipolle, el quale puzo tanto dispiacie a queste figure,
+            che tutte ci uoltano la stiena, come uedete, per non sentire il nostro tristo fiato”. Et
+            così fu cambiato loro uita, et le fiure tornarono ben fatte. Dipinsono in casa di
+            Nicholo Cornachini in Camerata et in altri luoghi, dove si uede assai buoni tratti. Di
+            costoro fa mentione il Bochaccio. Andrea detto l'Orcagna. Andrea di Cione, detto
+            l'Orgagnia, dipinse la cappella maggiore di Santa Maria Novella, che le guasto a nostri
+            di il Grillandaio et ne trasse di molte belle cose. Guardisi al messo del comune.
+            Dipinse la cappella delli Strozi et la tavola in detta chiesa et lo inferno et messelo
+            nello inferno. Et evui dipinto il messo del comune con uno gilio in sulla berretta,
+            perché lo pegnioro. Fecie di marmo la absuntione di Nostra Donna nel tabernacolo
+            d'Orsanmichele, dove è la sua fiura di mezo rilievo con uiso tondo e barba e capuccio in
+            capo; et a piedi nella cornicie è scritto il nome suo. Dilettosi di comporre, et anchora
+            si truova de sua sonetti. Resta de sua disciendentj al nostro tempo Jacopo di Cione
+            merciaio nel corso degli Aldimari, et stava ad casa nella uia de Corazai, coe nella uia
+            Vechia. Giovanni dal Ponte. Giovannino da Santo Stefano a Ponte di <placeName
+               ref="#Florence">Firenze</placeName> dipinse tre cappelle in Santa Trinita, quella
+            degli Scali et una al lato et la terza dall'altro lato della cappella maggiore di Santo
+            Paolo. Anchora dipinse piu altre cose. Maso. Alesso Baldouinetti (sic.) Fiorentino fra
+            l'altre sipolture (sic.) dipinse il duca di <placeName ref="#Athenes">Athene</placeName>
+            et suoi seguaggi nella faccia della torre del Podesta di <placeName ref="#Florence"
+               >Firenze</placeName>. Gherardo Starnina. Gherardo, detto lo Starnina, dipinse nel
+            Carmine la cappella di Santo Girolamo, et perché egli era stato assai in <placeName
+               ref="#France">Francia</placeName> et in Spagnia, ui achomodo cierti uestiti alla
+            usanza di que paesi. Dipinse alla auta di <placeName ref="#Pise">Pisa</placeName> nel
+               <date when="1406">1406</date> la facciata della Parte Guelfa di fuorj, Santo Dionigi
+            et la citta di <placeName ref="#Pise">Pisa</placeName> allato sopra la scala. Era costui
+            molto uirtudioso, et la minore era la pittura. Sono disciesi di lui quelli di Mariano di
+            Gherardo et anno a fare a torre del'Ogniogni di la dalla Apparita et stanno ad chasa
+            nella uia de Buonfanti. Bicci di Lorenzo. Bicci Fiorentino dipinse e martiri nel Carmine
+            et nella compagnia de Martiri drieto a Candegli (Camaldoli) et uno Santo Cristofano a
+            lato alla porta del Martello di Santa † (Croce) et la faccia allato et nel chiostro di
+            drento de frati. Et nella sala della casa uechia de Medici dipinse piu cose et dipinse
+            dodici apostoli, che sono in Santa Maria del Fiore, et piu santi a pie della finestra
+            della cappella de Lenzi in Ogniesanti. Et Neri suo fratello (figlivolo) dipinse detta
+            cappella de Lenzi in Ognisancti. <persName ref="#Masaccio">Masaccio</persName> e
+            Masolino. <persName ref="#Masaccio">Masaccio</persName> fu ottimo inmitatore della
+            natura, di gran rilievo, universale et buono componitore, puro et senza ornato, perché
+            solo si dette alla inmitazione del uero et del rilievo delle fiure. Fu ualente quanto
+            huomo di quelli tempi et di grande facilita. Mori di anni 26 a <placeName ref="#Rome"
+               >Roma</placeName> di ueleno. Dipinse ne chiostri del Carmine di <placeName
+               ref="#Florence">Firenze</placeName> dalla porta, che entra in chiesa, una processione
+            con grande artifitio et in chiesa nel pilastro della cappella de Serragli uno Santo
+            Piero con grande artifitio et nella cappella de Branchacci in decta chiesa una parte di
+            essa; et infra le altre cose uno, che triema, et assai altre opere. Molto era amato
+            costui da Filippo di sere Brunellescho architettore mediante il suo ingiegnio
+            perspicacie; et insegniolli molte cose della arte. Et quando intese la sua morte,
+            mostro, che assai gli dolessi, diciendo sempre: “Noi habbiano fatto una grande perdita”.
+            Dipinse in Santa Maria Novella uno crocifisso, coe una Trinita, che ha a piedi una
+            Morte, molto bella, dirieto al pergamo. Dipinse insieme con Masolino la cappella de
+            Branchacci nel Carmine. Stette Masolino con Lorenzo Bartolucci a ressattar'(rassettare o
+            rinettare) le porte di bronzo di <persName ref="#SaintJean">Santo Giovanni</persName> et
+            panni, che non ci sono li meglio rinetti che sua. Et im <placeName ref="#Pise"
+               >Pisa</placeName> dipinse assai cose. Don <persName ref="#LorenzoMonaco">Lorenzo
+               Monaco</persName>. Fra Lorenzo, frate negli Agnioli, dipinse la tavola dello altare
+            maggiore di decta chiesa et in Santa Trinita la cappella delli Ardinghelli, dove sono le
+            inmagini di <persName ref="#Dante">Dante</persName> et del Petrarcha, et la cappella de
+            Bartolini in detta chiesa, dove dipinse lo sponsalitio di Nostra Donna. Fra Giovanni da
+            Fiesole. Fra Giovanni, decto da Fiesole, angielicho, uezoso et divoto et di uirtu ornato
+            molto, con grande facilita dipinse in <placeName ref="#Florence">Firenze</placeName>, in
+               <placeName ref="#Rome">Roma</placeName> et altrove; et il capitolo di Santo Marcho di
+               <placeName ref="#Florence">Firenze</placeName> et la tavola dello altare maggiore con
+            piu altre fiure nella decta chiesa et nella sagrestia di Santa Trinita le tavole, dove è
+            diposto <persName ref="#Jesus">Cristo</persName> di † (croce); una tavola in Santo Celio
+            (Gilio), dove è dipinto il paradiso, una tavola nel Tempio, dove è Jesu <persName
+               ref="#Jesus">Cristo</persName> morto et intorno uno choro delle <persName
+               ref="#Marie">Marie</persName>, et nello ornamento, dove stanno gli arienti, alla
+            Nuntiata cierte fiure pichole et nel munistero degli Agniolj uno inferno et paradiso. In
+               <placeName ref="#Rome">Roma</placeName> [in] (una) cappella di papa Eugenio. In Santa
+            Maria Novella tralle tre porte del tramezo, coe del ponte, quando lui era giovanetto. Et
+            in decta chiesa, dove loro tengono le reliquie, fecie piu ornamenti et la tavola della
+            cappella del palazo de Medici, intorno alla quale dipinse in frescho Benozo. Et in Santo
+            Domenico da Fiesole, dove lui habitava, dipinse piu tavole. <persName ref="#LippoMemmi"
+               >Lippo</persName>. <persName ref="#LippoMemmi">Lippo</persName> del Fino fu gientile
+            maestro, per quanto patirno i tempi suoi. Dipinse in piu luoghi e fra gli altri in Santo
+            Antonio della porta a <placeName ref="#Faenza">Faenza</placeName> allo spedale certi
+            poveri et nel chiostro la storia di Santo Antonio et la uisione, quando lui uidde molti
+            lacci nel mondo, apresso de quali erano disegniati huomini con diversi appetiti sicondo
+            dalli dimonij erano tirati. Fecie una fiura di musaico inuetriata, la quale è al
+            presente nella udientia della Parte Guelfa, et in <persName ref="#SaintJean">Santo
+               Giovanni</persName> una storia di musaico di Santo Francesco ad capo alla porta di
+            mezo inuerso il battesimo. <persName ref="#SpinelloAretino">Spinello</persName> Aretino.
+               <persName ref="#SpinelloAretino">Spinello</persName> di Forzore orafo, perché piu
+            tempo habito in Arezo, era reputato Aretino. In Arezo (<placeName ref="#Florence"
+               >Firenze</placeName>) dipinse la sagrestia di Santo Miniato a Monte. Andrea dal
+            Castagno. Andreino da Castagnio, allevato da piccholo in <placeName ref="#Florence"
+               >Firenze</placeName>, 10 [et] fu levato da guardare le bestie da uno maestro
+            Fiorentino, che lo trovo, che disegniava una pecora in su una lastruccia, et lo condusse
+            a <placeName ref="#Florence">Firenze</placeName>. Fu costui grande disegniatore e di
+            grande rilievo et amatore delle difficulta della arte. Dipinse im piu luoghi: Come fu
+            (u)na facciata in Santo Gilio in <placeName ref="#Florence">Firenze</placeName>; et
+            drieto allo altare maggiore dipinse (una) Alesso Baldouinetti, et uno (una) Domenicho da
+               <placeName ref="#Venise">Vinegia</placeName>, elquale fu morto da detto Andreino con
+            una maza ferrata in sulla testa per inuidia, et però non potette finire detta facciata;
+            et alla morte confesso detto omicidio. Fece nel chiostro delle Ossa di Santa Maria Nuova
+            uno Santo Andrea separato con (sopra) uno uscio et nel chiostro grande di Santa †
+            (Croce) uno <persName ref="#Jesus">Cristo</persName> alla colonna con piu fiure intorno
+            et in decta chiesa nella cappella de Cavalcanti uno Santo Girolamo et uno Santo
+            Francesco et nella Nuntiata di <placeName ref="#Florence">Firenze</placeName> nella
+            cappella di messer Orlando de Medici tre fiure, infra le quali ui è la moglie di decto
+            maestro Andreino, et in un altra cappella in decta chiesa uno <persName ref="#SaintJean"
+               >Santo Giovanni</persName> (Girolamo) et in un altra uno Santo Gregorio (Giuliano)
+            con la storia sua et in Santa Maria del Fiore la fiura di Nicholo da Tolentino a
+            cavallo, stato capitano de Fiorentini di fuori. Dipinse nel munistero degli Agnioli nel
+            primo chiostro rincontro alla porta del Martello uno crocifisso con molte fiure et nel
+            refettorio di Santa Maria Novella (Nuova) uno cenacolo di <persName ref="#Jesus"
+               >Cristo</persName> con li apostoli, opera bella, et una bella pittura alla porta
+            della chiesa di Santo Giuliano et nella loggia de Carducci a Sofiano, che oggi è decta
+            casa de Pandolfini, uno crucifisso et uno Santo Girolamo (Giuliano) et Maria, opera
+            excellentissima. Alla Scarperia sopra la porta (del palagio) del Vicario (dipinse) una
+            Carita igniuda, certo bellissima. Dipinse nella faccia del palagio del Podesta di
+               <placeName ref="#Florence">Firenze</placeName> piu cittadini, stati confinati per lo
+            stato, per dilegione a uso di impichati; et da indi in poi fu cogniominato maestro
+            Andreino delli Impichati. Paolo Uccelli. Paulo Ucciello fu buono compositore et uario,
+            grande maestro di animali et di paesi. Fu artificioso nelli scorci et intese molto bene
+            la prospettiva. Fecie nel primo chiostro di Santa Maria Novella una storia, quando
+               <persName ref="#Dieu">Dio</persName> plasmo <persName ref="#Adam">Adamo</persName> et
+            Eua, et come loro furono cacciati del paradiso delle delitie, et una storia del diluvio,
+            cose bellissime. In Santa Maria del Fiore la fiura di messer Giovanni Aguto, capitano
+            Inghilese ad cavallo de Fiorentini, di verde terra. Fecie dua fiure nella faccia del
+            munistero di Annalena et sopra la porta di Santo Tommaso di <placeName ref="#Florence"
+               >Firenze</placeName>
+            <persName ref="#Jesus">Cristo</persName> et Santo Tommaso. Dipinse negli Agnioli nel
+            chiostro dellato (dell'orto) grande di uerde terra di molte figure, assai lodate.
+            Dipinse anchora nel chiostro di Santo Miniato a Monte di uerde terra. Fecie piu storie
+            in panni et in altri luoghi, tutte belle. Fra Filippo Lippi. Fra Filippo Fiorentino fu
+            artifitioso sopra modo. Valse molto nelle compositioni et uarieta, nel colorire, nel
+            rilievo, nello ornamento d'ogni sorte et inmitatore del uero. Dipinse una tavola nel
+            nouitiato di Santa † (Croce). Anchora in <placeName ref="#Florence">Firenze</placeName>
+            et di fuori di molte cose et la cappella maggiore della pieve di Prato et in Santo
+            Ambruogio di <placeName ref="#Florence">Firenze</placeName> una tavola allo altare
+            grande, honoratissima et gratiosa. Fecie una tavola in Santo Spirito nella cappella de
+            Barbadori et una tavola nella cappella degli operaj di Santo Lorenzo. Una predella alla
+            Nuntiata di Santa † (Croce). Nel palazo de Medici una tavola, la quale è oggi nel palazo
+            di Signori, che ui si messe, quando loro furno fatti rubegli. La tavola dello altare
+            maggiore delle Murate, dove è Santo Bernardo, che ha legato il diavolo; et una
+            tavoletta, dove è il presepio, in Annalena. Giuliano di Arrigo, detto il Pesello, e
+            Francesco di Stefano, detto il Pesellino. Pisello ualse sopra gli altri negli animali,
+            et se ne uede molti in grande perfectione; et infra gli altri nella casa de Medici uno
+            lione a una grata et in casa Pierfrancesco de Medici una spalliera di animali, molto
+            bella, et una tavola in Santo Jacopo di Pistoia et molte altre fiure et tavole. Lascio
+            uno allievo, detto Pisellino, coe Francesco, detto Pisellino, elquale lo seguito in cose
+            pichole. Piero del Pollaivolo. Piero del Pollaivolo fecie uno Santo Cristofano a Santo
+            Miniato fra le Torri, che fu disegnio di Antonio suo fratello, et una tavola di Santo
+            Bastiano a Santa Maria de'Serui, dove ritrasse Gino di Lodouico Capponi, et una tavola
+            nella cappella del reverendissimo (cardinale) di Portogallo a Santo Miniato a Monte. Et
+            delle Virtu sie (sei) si uede in una spalliera in sala della Mercantia, et in <placeName
+               ref="#Rome">Roma</placeName> fecie piu opere exciellenti. Sandro Botticelli. Sandro
+            di Botticello fu diciepolo di fra Filippo. Fece da giovanetto nella Mercantia una
+            Forteza bellissima. Una tavola in Santo Marcho allato alla porta della chiesa a mano
+            sinistra et uno Santo Agostino in Ognisancti nel pilastro del coro dinanzi. Una tavola
+            in Santo Spirito di <persName ref="#SaintJean">Santo Giovanni</persName>. In Santo
+            Bernaba una tavola di Nostra Donna et Santa Catherina. Una tavola nelle Conuertite. Una
+            tavola in Santa Maria Novella alla porta del mezo. Piu femmine igniude, belle piu che
+            alchuno altro. Et a <placeName ref="#Rome">Roma</placeName> nella cappella di Sisto III
+            (IV). Fecie piu quadri di cose pichole et infra l'altre uno Santo Girolamo. Alesso
+            Baldovinetti. Alesso Baldouinetti dipinse la tavola dello altare maggiore di Santa
+            Trinita et la detta cappella. Dipinse la faccia in Santo Gilio drieto al'altare
+            maggiore. Dipinse in frescho drieto alla Nuntiata nel chiostro. Dichiaro (Rischiaro) il
+            musaico in <persName ref="#SaintJean">Santo Giovanni</persName>, dove fu fatto
+            architettore (La Ceccha, che) fece uno ordingho, molto bello et facile, che si pensa
+            havessi il disegnio da Bernardo Galluzi, che anchora si uede nella Sapientia, che è
+            fiurata per tutta la cappella. Di Pippo di sere Brunellescho. Pippo di sere
+            Brunellescho, ciptadino Fiorentino, fu dotto in scrittura sacra; et soleva dire maestro
+            Pagolo astrolago, che udendolo parlare, gli pareva Santo Pagolo. Fu arismetricho et
+            geometra. Ritrovo la prospettiva, stata piu tempo smarrita. Era studioso delle opere di
+               <persName ref="#Dante">Dante</persName> et benissimo le intendeva. Truovo il modo di
+            uoltare la cupola di <placeName ref="#Florence">Firenze</placeName> senza armatura,
+            stata piu anni imperfetta, per non trovare chi uolessi o sapessi uoltarla; et erasi in
+               <placeName ref="#Florence">Firenze</placeName> quasi fatta resolutione di riempire et
+            fare il gietto di terra. Hebbe per compagnio Lorenzo Bartolucci. Ma quando furono in sul
+            uoltarla, fingiendosi Pippo havere male, et non potendo o sapendo detto Lorenzo fare
+            senza Pippo, Pippo gli mando a dire, che farebbe ben lui senza Lorenzo; et così gli
+            ufitiali gli dettono tutto il carico et levorno Lorenzo, alquale allogorno le porte di
+            bronzo di <persName ref="#SaintJean">Santo Giovanni</persName>. Fecie tutti gli
+            strumenti et modello (modegli), che alla perfectione di tale opera erano necessarii, et
+            gli lascio nella Opera, che per mala cura (sono) parte guasti et parte perduti. Fecie il
+            modello della lanterna, a concorrentia delquale sino a una donna ebbe ardire di fare un
+            altro modello; dove fu ucciellato da certi maestri, che non uedevano la salita, la quale
+            lui scoperse loro drento a uno pilastro. Valse assai nella scultura, come si uede nel
+            modello di bronzo, che lui fecie per le porte di <persName ref="#SaintJean">Santo
+               Giovanni</persName>; il quale modello è oggi nel dossale della sagrestia di Santo
+            Lorenzo; anchora che poi furno allogate a Lorenzo Bartolucci overo Ghiberti, anchora che
+            sopra ui lavorassino detto Filippo, <persName ref="#Donatello">Donatello</persName>,
+            Luca della Robbia et Antonio del Pollaivolo. Fecie una Santa Maria Magdalena in Santo
+            Spirito, che ardendo quella chiesa, ando male, a gara con una, che è in <persName
+               ref="#SaintJean">Santo Giovanni</persName> di <persName ref="#Donatello"
+               >Donatello</persName>. Fecie il crocifisso di Santa Maria Novella a gara con
+               <persName ref="#Donatello">Donatello</persName>, che ne haveva fatto un altro in
+            Santa † (Croce). Furono allogate allui et a <persName ref="#Donatello"
+               >Donatello</persName> due figure di marmo, che sono ne pilastri di Orsanmichele, coe
+            quella di Santo Piero et di Santo Marcho, opere degnie. Fecie in prospettiva la chiesa
+            et la piaza di <persName ref="#SaintJean">Santo Giovanni</persName> et il palagio de
+            Signorj. Fecie il modello della chiesa di Santo Spirito, opera exciellente, benche non
+            fu seguito interamente lo ordine suo ne nelle porte ne nel ricidimento (ricigniemento)
+            di fuori, che si haveva a dimostrare, nel modo che esso era drento, (ne) nelli altari
+            delle cappelle, che havevono a essere dal lato dinanzi, et uolgiere il prete il uolto
+            alla chiesa al dire la messa, contrarii apunto a quel che sono al presente. Ne anchora
+            (nel) la sua cupola non anno seguito lo ordine suo, che si sono alzati troppo ne
+            pilastri et capitelli delle colonne et nel riagiugnimento (ricigniemento) disopra, in
+            modo che la detta cupola uiene a essere uscita della uera ragione et proportione sua, et
+            detto edifitio uiene tutto a essere piu debole et porta pericolo di non rouinare prima
+            gran tempo che non sarebbe fatto; et anchora per un altro errore, fattoui da imulatori,
+            di uno archo, che si posa in sul falso. Anchora fecie il modello della chiesa di Santo
+            Lorenzo; benche anchora quivi non fu exeguito interamente il suo disegnio, nondimeno è
+            uno corpo molto bello; et così la sagrestia uechia. Simile fecie il modello del capitolo
+            de Pazi nel chiostro di Santa † (Croce) et il modello della casa de Busini. Fecie
+            anchora il modello della casa et facciata della loggia delli Jnnocienti, la quale fecie
+            senza armadura; el qual modo fu anchora obseruato per molti, excepto de uno reggimento
+            (ricigniemento), fatto per ordine di Francesco della Luna, che è falso et fuori
+            architettura. Perché Filippo in detto tempo si trovava a <placeName ref="#Milan"
+               >Milano</placeName> a seruitij di Filippomaria duca per il modello della forteza et
+            alla tornata sua uisto detto errore, lo uoleva rouinare, ma da i ministri con dolci
+            parole non fu lasciato; et così uidde, detta facciata essere uscita fuori del modello
+            con uno reggimento (ricigniemento), stato fatto per ordine di decto Francesco, che
+            haveva oppinione di architettura. Et domandandolo Filippo, perché havesse fatto tal
+            cosa, rispuose haverlo tolto della chiesa di <persName ref="#SaintJean">Santo
+               Giovanni</persName>, al che Filippo disse: “Uno solo errore era in decto edifitio, et
+            tu hai tolto a obseruarselo”. Fecie il modello della forteza di Vico Pisano et quella
+            del porto di Pesero et a <placeName ref="#Milan">Milano</placeName> assai cose. Et usava
+            di dire, che se ciento modelli di chiese o di altri edifitii havessi affare, tutti li
+            farebbe uariati. Fecie uno modello della casa overo palazo di Cosimo de Medici, laquale
+            haveva a essere situata in sulla piaza di Santo Lorenzo, che la porta del palazo si
+            riscontrasse con la porta di Santo Lorenzo, edifitio forse, che pochi ne sarebbe sopra
+            la terra oggi, se si seguitava l'ordine di decto Filippo. Ma parendo a Cosimo troppo
+            sumptuosa spesa, lascio decto ordine indrieto, ancora che poi se ne pentissi fortemente.
+            Perché Filippo havendo messo in quello tutto il suo ingiegno, per sdegnio lo spezo,
+            diciendo, che sempre a sua di haveva desiderato di fare una opera rara, et li pareva
+            essersi abattuto a uno, che la uoleva et poteva farla. Et si dicie, che mai fu uisto
+            tanto allegro, quanto nel tempo che fabricava decto modello. Cosimo si penti fortemente
+            di non havere eseguitolo et dicieva, che non li parue mai parlare a huomo di maggiore
+            intelligentia, et molto di se stesso si dolse. Hebbe uno suo discepolo, quale teneva in
+            casa, detto il Buggiano, alquale fecie fare lo acquaio di marmo della sagrestia di Santa
+            Reparata con quelli bambinj che giettano acqua. Anchora fecie la testa di decto Filippo,
+            che è in Santa Reparata, et fecie uno acquaio di pietra in detta sagrestia. Detto
+            Filippo fecie anchora piu disegni et modelli a uarij signori: infra gli altri a
+            Filippomaria, duca di <placeName ref="#Milan">Milano</placeName>, della forteza; et
+            decto duca fecie ogni opera con ogni premio di ritenerlo ad presso di se. Fecie il
+            modello al signor di Pesero del porto et a molti altri di case et uarij edifitij et il
+            disegnio del conuento degli Agnioli. <persName ref="#Donatello">Donatello</persName>.
+               <persName ref="#Donatello">Donato</persName> Fiorentino, decto <persName
+               ref="#Donatello">Donatello</persName>, scultore, da esser numerato tra li antichi,
+            mirabile cierto in compositione et in uarieta, pronto et con grande uivacita nello
+            ordine e nel situare le fiure, lequali tutte paiono in moto, fu grande inmitatore degli
+            antichi et di prospettive. Fecie moltissime opere in <placeName ref="#Florence"
+               >Firenze</placeName> et altrove. Et infra le altre nel pilastro di Orto San Michele
+            la fiura di Santo Giorgio con grande uivacita. Fecie il tabernacolo in detti pilastri
+            rincontro alla chiesa di Santo Michele, dove poi fu messo la figura di bronzo di Yesu
+               <persName ref="#Jesus">Cristo</persName> et di Santo Tommaso, di mano di Andrea del
+            Verrocchio; et fecie le figure di Santo Marcho et di Santo Pietro in detti pilastri,
+            benche le fussino allogate allui insieme con Filippo Brunelleschi. Alla facciata di
+            Santa Maria del Fiore fecie <persName ref="#SaintJean">Santo Giovanni</persName>
+            Euangelista allato alla porta di mezo, in ogni sua parte perfetto, et forse poche uolte
+            dagli occhi nostri simili statue si uedano. La fiura di <persName ref="#Donatello"
+               >Donatello</persName> (Daniello) in decta faccia è infra dua colonne, molto bella; et
+            due fiure nel campanile di decta chiesa verso la piaza, che (ch'è) una ritratta al
+            naturale, che è Giovanni di <persName ref="#Duccio">Duccio</persName> Ruchini
+            (Cherichini), et l'altra Francesco Soderinj giovane, allato l'una a l'altra. Fecie
+            anchora la Juditta di bronzo, che è nella loggia di piaza de nostri Signori, et la fiura
+            di bronzo di Davitte, laquale è nel cortile del palazo dei decti nostri Signorj. Fecie
+            una testa col collo di uno cavallo di molta grandeza, opera molta degnia, con il resto
+            del cavallo, in sul quale è la inmagine del re Alfonso di Aragona, <placeName
+               ref="#Sicile">Sicilia</placeName>, <placeName ref="#Naples">Napoli</placeName> et di
+            altri reamj; la quale è in <placeName ref="#Naples">Napoli</placeName> nel palazo del
+            conte di Matalona de Caraffi. Fecie la fiura di Santa Maria Magdalena, posta in
+               <persName ref="#SaintJean">Santo Giovanni</persName> di <placeName ref="#Florence"
+               >Firenze</placeName>, et uno vaso di granito con lineamenti (ornamenti) di marmo,
+            posto nella casa de Medici, che gitta acqua. Uno altro uaso con simili ornamenti, che fa
+            fonte, molto bello, nell'orto de Pazi. Nella sagrestia di Santo Lorenzo uno vaso da
+            lavare le mani, opera molto bella, con uno falchone et altri ornamenti intorno, (che)
+            sono di mano di Andrea del Verrocchio. Le porte di bronzo in decta sagrestia, anchora
+            che non habbino molta gratia, et 2 pergami, non finiti, et quatro evangielisti di terra
+            in sulla cornicie di decta chiesa dalle sagrestie, abozati, che anno a farsi di bronzo o
+            di marmo. La Nuntiata nella chiesa di Santa † (Croce) et il tabernacolo della cappella
+            de Cavalcanti con sua ornamenti bellissimj. Piu teste et fiure et maximo in casa Lorenzo
+            della Stufa, molto pronte, et uno crocifisso a meza la chiesa di Santa † (Croce) di
+            rilievo et gli ornamenti dello organo della sagrestia uecchia, coe del minore organo di
+            marmo di Santa Maria del Fiore. Lequali fiure sono abozate et non finite, nondimeno di
+            terra paiono assaj et rilievano in apparenza, piu che non fanno le figure dello organo
+            maggiore, che sono finite con molta diligientia, et sono di mano di Luca della Robbia.
+            Tolse a fare a <placeName ref="#Sienne">Siena</placeName> una porta di bronzo et fecie
+            il disegno [della Robbia] bello et le forme per gittarlo. Ma capitandoui uno Bernardetto
+            orafo, detto di Mona Papera, Fiorentino, assai intendente et suo domestico, che tornava
+            di <placeName ref="#Rome">Roma</placeName>, et andandolo a uisitare et ueduto la bella
+            opera, lo riprese assai, che i Sanesi si potessino gloriare di così honorata cosa; et
+            tanto lo persuase, che uno giorno di festa, che i garzoni erano andati a spasso, esso
+            Bernardetto et <persName ref="#Donatello">Donato</persName> guastorno il tutto et usciti
+            di casa, presono la uia per a <placeName ref="#Florence">Firenze</placeName>. I garzoni
+            tornando la sera a casa, trovorno questa tal cosa, et non esserui <persName
+               ref="#Donatello">Donato</persName>, ne prima di lui intesono, che esso era in
+               <placeName ref="#Florence">Firenze</placeName>. Fece il sepolcro di papa Janni nella
+            chiesa di Santo Giovannj di <placeName ref="#Florence">Firenze</placeName> con tutti i
+            sua ornamenti, excetto che una fiura, che è di mano di Michelozo, et così la Fede con
+            uno calicie in mano, che ha uno braccio minore che l'altro. Fecie il disegnio dello
+            ochio di uetro in testa alla chiesa di Santa Maria del Fiore (dell)a incoronatione, coe
+            (di) quelli della cupola. Fecie in <placeName ref="#Sienne">Siena</placeName> nella
+            opera del duomo una fiura di <persName ref="#SaintJean">Santo Giovanni</persName>
+            Batista di bronzo; ma per non essere satisfatto, la lascio imperfetta nel braccio ritto
+            dal gomito in giu. Fecie una fiura di <persName ref="#SaintJean">Santo
+               Giovanni</persName>, oggi in casa li eredi di Ruberto Martelli. Fecie la Divitia
+            sopra la colonna di Mercato Vecchio. Fuori di <placeName ref="#Florence"
+               >Firenze</placeName> fecie assaj opere, delle quali io non ho notitia. A <placeName
+               ref="#Padoue">Padova</placeName> in sulla piaza di Santo Antonio fecie uno cavallo di
+            bronzo, suvi Gattamelata, et nel dossale dello altare maggiore una pietra (Pietà) di
+            marmo con le <persName ref="#Marie">Marie</persName>, cosa exciellentissima; jntorno al
+            coro cierti quadri di bronzo, che gli fecie Velano, suo disciepolo, pure con il disegnio
+            di <persName ref="#Donatello">Donatello</persName>, tanto simili alle opere sue, che
+            sono tenute fatte dallui per la uivacita, che in quelle si uede. Lorenzo Ghiberti.
+            Lorenzo di Bartolo Berti, detto Lorenzo Bartolucci, è notissimo per le porte di bronzo
+            del nostro <persName ref="#SaintJean">Santo Giovanni</persName>, coe quella di mezo et
+            (quella di uerso l'Opera et) gli stipiti uerso la Misericordia, che la porta fecie
+            maestro <persName ref="#AndreaPisano">Andrea Pisano</persName>. Et benche le decte porte
+            et massimo quella di mezo a piu mostra (maestri?) per la grandezza della opera et per il
+            desiderio, che li cittadini havevano, che tale opera havessi la perfectione, non dimeno
+            allui fu atribuita la palma et la uictoria, anchora che ui sono di molte figure, che i
+            nostri della arte conoschano quelli che le lavororno. Detto Lorenzo fecie anchora molte
+            altre cose, come la fiura di <persName ref="#SaintJean">Santo Giovanni</persName>
+            Batista nel pilastro d'Orsanmichele di bronzo et Santo Stefano in decto pilastro. Et
+            fecie quasi tutti e disegni delle finestre di uetro di Santa Maria del Fiore, excepto
+            che lo ochio sopra la porta di mezo e quello a riscontro tondo che uiene a essere sopra
+            la cappella di Santo Zanobi, che sono disegnio di <persName ref="#Donatello"
+               >Donatello</persName>. Luca della Robbia et Desiderio da Settignano. Luca della
+            Robbia. Costui fecie lo ornamento dello organo maggiore di Santa Maria del Fiore, molto
+            bene lavorato, et le storie a proposito delle fiure, che dimostrano gli effetti loro,
+            benche per la altezza non molto si possono considerare. Et anchora sotto detto organo la
+            porta di bronzo della sagrestia. Et nello archo di decta porta ui è la resurrectione di
+            Nostro Signore con le fiure allo intorno, con molta diligentia lavorate, a chi bene le
+            riguarda, che sono di terra cotta inuetriate, artificio trovato dallui et condotto alla
+            sua perfectione. Anchora fecie la storia sopra la porta della sagrestia uechia di decta
+            chiesa della medesima terra cotta. Della quale fecie in <placeName ref="#Florence"
+               >Firenze</placeName> et fuora di <placeName ref="#Florence">Firenze</placeName>
+            moltissime belle tavole et fiure, diversamente con grande ornamento et artifitio
+            lavorate. Fecie a <placeName ref="#Naples">Napoli</placeName> il sepolcro dello infante,
+            fratello di Alfonso, et altre cose. Lascio di se Andrea, suo nipote. Furno le cose sua
+            di somma gratia, et uezoso (fu) et molto puliva le cose sua; et se non fussi morto
+            (giovane Desiderio da Settigniano), a cierto sarebbe uenuto a somma perfectione et
+            ascritto infra gli ottimi maestri. Fecie il sepolcro di messer Carlo Marsupini in Santa
+            † (Croce) Vedesi uno ornamento del Corpus Dominj in Santo Lorenzo di <placeName
+               ref="#Florence">Firenze</placeName> con uno bambino, cosa mirabile. Fecie la testa
+            della Marietta delli Strozi di marmo, molto bella, et altre arme et uno leone in uno
+            scudo nella faccia della casa de Gianfigliazi. Fecie la sipoltura della beata Villana
+            nella chiesa di Santa Maria Novella allato al tramezo di marmo. Antonio e Bernardo
+            Rosseillno. Antonio, detto il Rossellino dal Proconsolo, perché quivi lavorava, fu
+            delicato et gientile maestro et molto diligiente et lavoro molte cose di marmo, belle,
+            mandate in diversi paesi et molto bene condotte. Anchora in Santo Miniato a Monte fece
+            la cappella et il sepolcro del cardinale di Portogallo, dove è la fiura del cardinale
+            con piu fiure intorno et al dirimpetto, cierto compositione bellissima, el (e'l) cielo
+            della quale è di terra inuetriata di Luca della Robbia, et la tavola dello altare è di
+            mano di Piero del Pollaivolo. Fu Bernardo architettore suo fratello, che fecie il
+            modello della casa de Ruciellai; et della loggia de Ruciellai fecie il modello Antonio
+            di Migliorino Guidotti. Fecie costui in Santa † (Croce) il sepolcro di messer <persName
+               ref="#LeonardoDaVinci">Lionardo</persName> Bruni da Arezo et una Nostra Donna di
+            marmo nella prima colonna sopra il sepolcro di Francesco Norj. Fecie decto Antonio dua
+            tavole di marmo, che una ne mando a Lione nella chiesa de Fini (Fiorentini) et l'altra
+            ando a <placeName ref="#Naples">Napoli</placeName>; et nella pieve di <placeName
+               ref="#Naples">Napoli</placeName> (Empoli) uno Santo Bastiano, cosa miracolosa. Andrea
+            del Verrocchio. Andrea del Verrocchio Fiorentino, diciepolo di <persName
+               ref="#Donatello">Donatello</persName>, fecie dua fiure di bronzo di <persName
+               ref="#Jesus">Cristo</persName> et di Santo Tommaso, poste nel pilastro d'Orto San
+            Michele, et una fiura di bronzo di Davit al capo della scala di palazo de nostri
+            signori. Fecie la palla, il bottone et la crocie in sulla lanterna della cupola et una
+            fiura di Nostra Donna sopra del sepolcro di messer Carlo (<persName
+               ref="#LeonardoDaVinci">Lionardo</persName>) da <placeName ref="#Arezzo"
+               >Arezzo</placeName> di marmo in Santa † (Croce). Fecie uno cavallo di terra a
+               <placeName ref="#Venise">Venetia</placeName>, in sulquale era Bartolomeo da Bergamo,
+            per gittarlo di bronzo; ma assalito dalla morte, non possette finirlo. Fecie il sepolcro
+            in Santo Lorenzo di Piero di (et) Giovanni di Cosimo de Medici et di molte altre in
+               <placeName ref="#Florence">Firenze</placeName> et fuori. Era in oltre di grandissimo
+            disegnio et fecie di molte storie in <persName ref="#SaintJean">Santo
+               Giovanni</persName> et in Santo Salui una tavola di battesimo di Nostro Signiore.
+            Nanni di Antonio di Bancho. Nanni di Antonio di Bancho Fiorentino hebbe lo stato nella
+            citta di <placeName ref="#Florence">Firenze</placeName> per le sue uirtu. Mori giovane,
+            che ueniva ualentissimo. Fecie la fiura di Santo Filippo di marmo nel pilastro di
+            Orsanmichele et i quatro santi in detto luogho et sopra la porta di Santa Maria del
+            Fiore, che ua alla Nuntiata, una absuntione di Nostra Donna, bellissima. Nella faccia
+            dinanzi di decta chiesa al lato alla porta di mezo uerso i legniaivoli uno de quatro
+            evangelisti et altri acanto. Michelozzo Fiorentino. Michelozo Michelozi Fiorentino,
+            architettore et scultore, fece la fiura di bronzo di Santo Matteo, messo nel pilastro
+            d'Orsanmichele. Fecie iil modello del palazo di Cosimo de Medici et il modello della
+            cupola de Serui et una fiura di marmo sotto il sepolcro di papa Janni in <persName
+               ref="#SaintJean">Santo Giovanni</persName>. Fecie assaj modelli et edifitij a uarij
+            signori. A Raugia fecie una rocha et in <placeName ref="#Florence">Firenze</placeName>
+            al palazo de Signori messe le colonne o pilastri nella loggia del cortile. Antonio del
+            Pollaivolo. Antonio del Pollaivolo fu di grandissimo ingiegnio. Lavoro di niello et
+            bulino splendidissimamente. Fecie in <placeName ref="#Rome">Roma</placeName> il sepolcro
+            di bronzo di papa Sisto. Fecie piu istorie et quadri nello altare di ariento di
+               <persName ref="#SaintJean">Santo Giovanni</persName>. Lavoro nella Parte Guelfa con
+            Lorenzo di Bartoluccio, dove fecie cose miracolose, et (per) tutte le storie di
+               <persName ref="#SaintJean">Santo Giovanni</persName> et paramenti di decta chiesa
+            furno i disegni di sua mano. Bernardo Fiorentino. Bernardo Fiorentino dipinse in tavola
+            assai et in <placeName ref="#Pise">Pisa</placeName> la chiesa di Santo Paulo [et] a ripa
+               d'<placeName ref="#Arno">Arno</placeName> et in campo sancto lo inferno et in
+               <placeName ref="#Florence">Firenze</placeName> et di fuori. Jacopo di Casentino.
+            Jacopo di Casentino, elquale fu della linea di messer Cristofano Landini da Prato
+            Vecchio, dipinse assai in Casentino in quelle chiese che ui sono et in <placeName
+               ref="#Florence">Firenze</placeName> il tabernacolo di Mercato Vechio. Dello Delli.
+            Eliseo del Fino (Messer Dello Fiorentino) lavoro fuora di <placeName ref="#Florence"
+               >Firenze</placeName> assai et massimo in Spagnia, nel qual luogo fu fatto dal re
+            cavaliere. Et tornando in <placeName ref="#Florence">Firenze</placeName>, gli fu fatto
+            molto honore, et datoli le bandiere del comune, le quali in decto tempo a messer Filippo
+            Scolari, decto lo Spano, cavaliere similmente, [che] uenendo in <placeName
+               ref="#Florence">Firenze</placeName>, furno negate per la inuidia. Et tornando decto
+            messer Eliseo (Dello) dalla Signoria con dette bandiere et honoranza et passando per
+            Vacchereccia, da certi orafi sua amici nel passare fu bociato; et lui uolto uerso tali
+            bocie, fecie loro con ambe le mani le fiche et senza dire altro passo uia, et quelli
+            tali che lo bociavano quasi suergognati, li feciono reverentia. In <placeName
+               ref="#Florence">Firenze</placeName> non era notitia di sue dipinture se non nel
+            chiostro di Santa Maria Novella di uerde terra, quando Isach dette la benedictione a
+            figlivoli. Et lui quando dipignieva, usava il grembiule di brochato. Filippino Lippi.
+            Filippo di fra Filippo, anchora che morisse giovane, fecie assai cose. Et in <placeName
+               ref="#Rome">Roma</placeName> nella Minerua (fecie) una cappella a 'stantia di
+            Giovanni Tornabuoni in <placeName ref="#Florence">Firenze</placeName>. Et la cappella di
+            Filippo Strozi allato allo altare maggiore di Santa Maria Novella. Fini la cappella de
+            Branchacci nel Carmine, cominciata da <persName ref="#Masaccio">Masaccio</persName> et
+            seguitata da Masolino. Et una tavola a Santo <persName ref="#Donatello"
+               >Donato</persName> a Scopeto dello altare maggiore. Et una tavola nella chiesa di
+            Marigniolle. La tavola dello altare maggiore della Nuntiata illato dinanzi non la fini,
+            che morse. Fini la parte di drieto <persName ref="#Perugin">Pietro Perugino</persName>
+            molto male. Fecie una tavoletta di fiure pichole a Piero del Pugliese; et richiesto da
+            altri cittadini, che ne faciessi una simile, disse, essere impossibile. Faceva costui
+            una mano maggiore che l'altra et se ne aduedeva ne se ne sapeva correggiere. Fecie una
+            tavola a Tanai de Nerli in Santo Spirito et il disegnio della finestra di uetro di Santo
+            Martino. Fecie una tavola al decto Tanaj in Santo Saluadore fuora di <placeName
+               ref="#Florence">Firenze</placeName>. Dipinse a Bolognia, a Gienova et in altri
+            luoghi. Benozzo Gozzoli. Bonorio Fiorentino dipinse im <placeName ref="#Pise"
+               >Pisa</placeName> in campo santo et assaj cose in <placeName ref="#Florence"
+               >Firenze</placeName> et la facciata di Santo Gilio di fuori, quando il papa lo
+            consagro, et in Santo Friano di <placeName ref="#Florence">Firenze</placeName> uno
+            transito di Santo Girolamo, la facciata di fuori di Santa Maria <persName
+               ref="#Maggiore">Maggiore</persName> et la cappella in frescho del palazzo de Medici.
+            Domenico del Grillandajo. Domenico del Grillandaio dipinse la cappella maggiore in Santa
+            Maria Novella et la tavola et guastossi la dipintura uechia, fatta per mano dello
+            Orgagnia, donde cavo parechi buoni tratti in fiure, molto belle. Anchora dipinse la
+            cappella et tavola de Sassetti in Santa Trinita et uno tabernacolo in Santa † (Croce) di
+            Santo Paulino presso alla porta et uno Santo Giorgio in Ognisanti et a <placeName
+               ref="#Rome">Roma</placeName> nella cappella di Sisto piu storie, assai donne et altre
+            dipinture et uno Santo Girolamo nelle Murate. Fra Bartolommeo. Fra Bartolommeo, frate di
+            Santo Marcho, dipinse in frescho fra le Ossa di Santa Maria Nuova uno Giuditio et piu
+            tavole, delle quali ne è in Santo Marcho dua. Et uno Santo Vincentio sopra lo altare di
+            sagrestia et uno Santo Bastiano nella cappella (capitolo) di Santo Marcho igniudo et una
+            tavola, che ando in <placeName ref="#France">Francia</placeName>, molto bella. <persName
+               ref="#AndreaDelSarto">Andrea del Sarto</persName>. Andreino del Sarto dipinse una
+            storia nella compagnia di <persName ref="#SaintJean">Santo Giovanni</persName> Scalzo,
+            bella, et piu storie nel chiostro della Nuntiata: Et fra le altre Santa Anna nel parto
+            di Santa Maria et di Santo Filippo; et piu opere in <placeName ref="#France"
+               >Francia</placeName> et altrove et a <placeName ref="#Milan">Milano</placeName>.
+               <persName ref="#LeonardoDaVinci">Lionardo da Vinci</persName>. <persName
+               ref="#LeonardoDaVinci">Lionardo</persName> di ser <persName ref="#PieroDaVinci">Piero
+               da Vinci</persName>, ciptadino Fiorentino. Costui in disegnio avanzo gli altri et
+            ebbe inuentioni bellissime, ma non colori molte cose, perché mai in niente anchor che
+            belle satisfecie a se medesimo; et però ci sono poche cose di suo, che il suo tanto
+            conosciere gli errori non lo lascio fare. Ritrasse la Gineura di Amerigho Benci, tanto
+            bene finita, che ella propria non era altrimenti. Fecie una Nostra Donna in tavola, cosa
+            rara, et uno <persName ref="#SaintJean">Santo Giovanni</persName>. Fecie una tavola da
+            altare al signore Lodouico di <placeName ref="#Milan">Milano</placeName>, che ha nome
+            delle piu belle cose che in pittura si uegha, laquale esso signore mando nella Magnia
+            allo imperatore. Et in <placeName ref="#Milan">Milano</placeName> è di suo uno
+            cienacolo, cosa excellente. Fecie di terra un cavallo di ismisurata grandeza, suuj il
+            duca Francesco Sforza, per gittarlo di bronzo; ma da tutti fu giudicato impossibile,
+            perché uoleva gittarlo di uno pezo. Fecie infiniti disegni, maravigliosi: Et fra l'altre
+            una Nostra Donna et Santa Anna, che ando in <placeName ref="#France"
+            >Francia</placeName>, et uno cartone della guerra de Fiorentini, quando ruppono Nicholo
+            Piccinino, capitano del duca di <placeName ref="#Milan">Milano</placeName> (a Anghiari).
+            [Filippo da Anghiari.] El quale comincio a mettere in opera nella sala del Consiglio di
+            materia, che non serrava, in modo che rimase imperfetta. Dettesi la colpa, che lui fu
+            ingannato nello olio del seme del lino, che gli fu falsato. Era universale in diverse
+            cose, come nel tirare nelli edifitij et acque, in prospettiva. Et come è detto, nel
+            disegnio quasi passo tutti gli altri ne mai si quietava con lo animo; sempre con lo
+            ingegnio fabricava cose nuove. [Et fecie in <placeName ref="#Milan">Milano</placeName>
+            uno cenacolo miracoloso.] <persName ref="#MichelAnge">Michelangelo
+            Buonarroti</persName>. Michelagniolo di Lodouicho <persName ref="#MichelAnge"
+               >Buonarroti</persName> è da considerare quale piu conueniente chiamare si possa,
+            architettore, scultore overo pittore, perché in tutte le dette faculta ha tanto
+            perfettamente operato: Nella pittura, come si uede in assaissime opere et maximo a
+               <placeName ref="#Rome">Roma</placeName> nella cappella di Julio II in Santo Pietro,
+            dove ha uolsuto a tutto il mondo mostrare, che tutti li altri pittori gli sono
+            inferiori, et (da?) tutti quegli che uogliono di tale arte essere chiamati maestri,
+            apari di quella di Michelagniolo, conosciesi essere tutte l'altre cose impiastrate; et
+            anchora che habbino lo esemplo di decto unico maestro, nondimeno non anno saputo
+            inmitarlo, conosciuta la difficulta della arte et la maestria, laquale in nessuno delli
+            altri appariscie ne antiqui o moderni. Nella architettura ha composte tante altre cose
+            fuori del modello della nuova sagrestia di Santo Lorenzo, dove si potrebbe dire, che
+            nella maggiore parte habbia auto esemplo dalla uechia, fatta in decto Santo Lorenzo,
+            ordinata insieme con la chiesa da Filippo di ser Brunellescho. Nondimeno si conoscie,
+            quanto negli edifitij, fatti dallui, esso ui habbia giuditio maraviglioso et (nello)
+            conmendare dallui le cose fatte bene et con ragione et i manchamenti conosciere in esse
+            et renderne chiara et ampia ragione et nello havere praticha in tutte le cose, et come
+            il giuditio et parere suo tutti gli altri buoni architettori fa taciere. Nella scultura
+            si uede andarsi acostando a quei maestri antichi et soprafare i moderni. Si uede di lui
+            in <placeName ref="#Rome">Roma</placeName> infra le altre cose una Pieta di marmo da
+            fare stupire tutti gli intelligienti et assai altre figure di marmo. Et nella sagrestia
+            di Santo Lorenzo di <placeName ref="#Florence">Firenze</placeName> maravigliose et
+            stupende opere con la libreria di decta chiesa. Uoglio lasciare stare il Davitte di
+            marmo in piaza avanti la porta del palazo de Signiori et tante altre opere miracolose,
+            dallui fatte, per non fare stupire gli audienti. Berto linaivolo. Berto linaivolo
+            (Fiorentino?) im pueritia (stette al linaivolo). Mori giovane, nondimeno fecie molte
+            belle tavole. </p>
+      </body>
+   </text>
+</TEI>
