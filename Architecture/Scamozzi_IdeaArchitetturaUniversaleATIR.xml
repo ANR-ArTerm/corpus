@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title xml:lang="ita">Title</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -12,6 +13,10 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+     <profileDesc>
+        <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+        <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+     </profileDesc>
   </teiHeader>
 <text>
       <body>
