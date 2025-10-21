@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="ita">
+     Sambin_DiversiteTermesArchitecture
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     tranScriptorium
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title xml:lang="ita">
+      Sambin_DiversiteTermesArchitecture
+     </title>
+     <idno type="Transkribus">
+      9248977
+     </idno>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <xi:include href="IndexPersonnes.xml" xpointer="element(/1/1)"/>
+   <xi:include href="IndexLieux.xml" xpointer="element(/1/1)"/>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div>
+    <pb n="1"/>
+    <head>
+     OEUVRE DE LA DEVERSITE DES TERMES, DONT ON use en Architecture, reduict en ordre: Par maistre Hugues Sambin, demeurant à Dijon. A LYON, PAR JEAN DURANT. M. D. LXXII.
+    </head>
+    <pb n="2"/>
+    <pb n="3"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     A TRES HAUT ET TRESPUISSANT SEIGNEVR, MONSEIGNEVR ELEONOR CHABOT, CHEVALIER de j'Ordre du Roy, grand escuyer de <placeName ref="#France">France</placeName>, Lieutenant pour sa Majesté au gouvernement de Bourgongne, Capitaine de cent hommes d armes, Comte de Charni et de Bulançois, Seigneur et Baron de Paigny, Autumes, Auvoires, Raon, Guion, et c.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     HON Seigneur, considerant que les hommes, ausquels <persName ref="#Dieu">Dieu</persName>, a donné ceste excellence de prevaloir à tous autres animaux, en fin retumberoyent en la condition des brutes, s'ils passoyent ceste vie en inutilité, et sans laisser à la posterité quelque tesmoignage de j'estude qu'ils ont suyvy, et du travail qu'ils ont pris pour servir et profiter à la societé des hommes : je me suis advisè que pour eviter ce silence brutal, et pour ne tumber au sepulchre d'inutilitè, je devois commencer à mettre en lumiere, et proposer aux hommes quelque chose qui appartint à j'Architecture, à laquelle je me suis adonné dés mes premiers ans, avec diligente application de mon esprit, sans avoir discontinué.
+    </p>
+    <p>
+     Parquoy ayant mis par ordonnance bon nombre de Termes d'hommes et femmes, aornez de leurs bases, Cornices, Frises, et composez de divers enrichissemens avec observance des nombres, et mesures, propres et requises : je me suis resolu d'en faire un Livre, lequel (Monseigneur) j'ay pris hardiesse vous dedier et presen
+     <pb n="4"/>
+     ter, sachant bien que vostre advis a tousjours esté, que celuy à qui <persName ref="#Dieu">Dieu</persName> à departy quelque science, la doit tenir en exercice continuel, pour le bien de la posterité. Suyvant quoy, j'espere a j'aduenir faire, et vous offrir quelque chose de mieux : servant à j'Architecture, en laquelle j'ay veu moy-mesmes, que vostre heureux, et gencreux entendement, bien souvent se recree, et y prend plaisir et delectation. Partant tout ce que r'ay faict, et feray cy apres en cest art, vous est et sera tousjours vouê : en intention que vous prendrez le tout, pour service digne de me continuer en voz bonnes graces, lesquelles saluant de mes treshumbles recommendations, je prie <persName ref="#Dieu">Dieu</persName> (Monseigneur) maintenir vostre grandeur en prosperitè, et conduire voz desirs à heureuse fin. A Dijon.
+    </p>
+    <p>
+     Par vostre humble serviteur, Hugues Sambin, Architecteur en la ville de Dijon.
+    </p>
+    <pb n="5"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     SONNET. A LAVTHEVR, PAR ESTIENNE TABOVROT ADVOCAT AV Parlement à Dijon.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     Lors que le Roy Tarquin chassoit les anciens Dieux Du mont Tarpeiien, et vousoit seulement Que trois des plus grans Dieux fussent superbement: Adorez des Romains, et posez en leurs licux.
+    </p>
+    <p>
+     Le <persName ref="#Dieu">Dieu</persName> Terme estant là, de sa gloire enuieux, Ne voulut point bouger, et fit divinement Conmistre par effect d'un augure excellent, Qu'il ne cederoit point voire au prince des Cieux.
+    </p>
+    <p>
+     Ainsi, mon cher Sambin, la perle de nostre ange, Il est facile à voir, que le divin ouvrage Des Termes que tu fais, en tel honneur sera:
+    </p>
+    <p>
+     Qu'il ne cedera point aux ouvrages sa gloire, Lesquels anciennement et de nostre memoire, Ont jamais esté Hits et jamais on fera. TOVT EN BONTE SERAI.
+    </p>
+    <pb n="6"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du I. Terme.
+     </p>
+    </figure>
+    <pb n="7"/>
+    <figure type="ornement">
+     <p>
+      Pourtait du I. Terme.
+     </p>
+    </figure>
+    <pb n="8"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 1. Terme.
+    </head>
+    <p>
+     Ce premier Terme est appelle Tuscan, autrement rustique, il represente un homme fort et robuste, bien membru, et aussi à cause qu il y a peu d'enrichissement en iceluy : quand au surplus, il consiste des vrayes proportions dont usoyent leantiques, et principallement les Romains, et Venitiens, qui se delectoyent, d en user comme d un ouvrage qui approche plus de la nature ordinaire dun homme endurcy au travati, ainsi qu eux-mesmes en toutes leurs autres actions vonloyent estre veus, celluy qui voudra en user, doit bien regarder que le reste de son aeuvrey soit conforme : de peur d user d une diversite mal seante au commencement de son ouvrage. Reigle qui servira pour tous les suyvans.
+    </p>
+    <figure type="ornement"/>
+    <pb n="9"/>
+    <pb n="10"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du I. Terme.
+     </p>
+    </figure>
+    <pb n="11"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du I. Terme.
+     </p>
+    </figure>
+    <pb n="12"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 2. Terme.
+    </head>
+    <p>
+     Depuis, comme le temps adjouste tousjours quelque chose aux precedentes inventions : les anciens ont ainsi embelly ce Terme Tuscan, lequel à cause de son enrichissement, ne sent pas son rustique, comme le premier : quanL à ses proportions, elles sont fort bien gardees suyvant j'ordre des Tuscans, comme, en admirant j'antique, je j'ay observé, et icy fidellemenL rapporte.
+    </p>
+    <figure type="ornement"/>
+    <pb n="13"/>
+    <pb n="14"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 3. Terme.
+     </p>
+    </figure>
+    <pb n="15"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 3. Terme.
+     </p>
+    </figure>
+    <pb n="16"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 3. Terme.
+    </head>
+    <p>
+     Ce troisieme Torme tst encores Tuscan, enrichy beaucoup plus artificiellement, que les deux premiers : comme la figure le dimonsire a j'aeil. Je j'ay rapporté suyvant lantique, et me semble que sa proportion, et son artifice est ainsi remanque entre les despouilles de la Venerable antiquité.
+    </p>
+    <figure type="ornement"/>
+    <pb n="17"/>
+    <pb n="18"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 4. Terme.
+     </p>
+    </figure>
+    <pb n="19"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 4. Terme.
+     </p>
+    </figure>
+    <pb n="20"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 4. Terme.
+    </head>
+    <p>
+     Ce quatriesme Terme est appellè Dorique, et ressemble à un fort grand homme : contraire du Tuscan, il est icy tout simplement figuré, embelly toutesfois, de sa symmetrie ordinatre curieusement observee, comme qui voudroit despeindre un bel homme tout nud, sans aucun accoustrement.
+    </p>
+    <figure type="ornement"/>
+    <pb n="21"/>
+    <pb n="22"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 5. Terme.
+     </p>
+    </figure>
+    <pb n="23"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 5. Terme.
+     </p>
+    </figure>
+    <pb n="24"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 5. Terme.
+    </head>
+    <p>
+     Ce cinqiesme Terme, est aussi Dorique, lequel est plus enrichy que le quatriesme, son premier est de fort bonne grace, et ressent bien son antique, lequel ayretirè avec ses proportions diligemment gardees.
+    </p>
+    <figure type="ornement"/>
+    <pb n="25"/>
+    <pb n="26"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 6. Terme.
+     </p>
+    </figure>
+    <pb n="27"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 6. Terme.
+     </p>
+    </figure>
+    <pb n="28"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 6. Terme.
+    </head>
+    <p>
+     Ce sixiesme, est une troiliesme, façon de Dorique, belle en perfection, et reuestue d un enrichissement et proportion, si excellente, qu il semble que j'antique, duquel il est extraict, fasse honte à une infinité d ouvrages modernes, selon le dire des excellens Architecteurs.
+    </p>
+    <figure type="ornement"/>
+    <pb n="29"/>
+    <pb n="30"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 7. Terme.
+     </p>
+    </figure>
+    <pb n="31"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 7. Terme.
+     </p>
+    </figure>
+    <pb n="32"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du; Terme.
+    </head>
+    <p>
+     Ce Terme septiesme est lonique, tout simplement accoustré suyvant, un ancien marbre : doù il est retirè, la symmetrie, ou j'ordre, y est gardè comme il faut, il est assel cogneu par son noms aussi bien que les precedens, aumois, à ceux qui auront tant soit peu, les premiers principes de j'Architecture.
+    </p>
+    <figure type="ornement"/>
+    <pb n="33"/>
+    <pb n="34"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 8. Terme.
+     </p>
+    </figure>
+    <pb n="35"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 8. Terme.
+     </p>
+    </figure>
+    <pb n="36"/>
+    <figure type="ornement"/>
+    <figure type="ornement">
+     <p>
+      Description du 8. Terme.
+     </p>
+    </figure>
+    <p>
+     Ce huictiesme Terme est une seconde sorte de lonique, accoustrè d une façon plus belle que la septiesme : quant au reste, elle consiste du uiesme artifice en sa proportion, et denote bien, je ne scay quoy de gracieux a la veuè, provenu de lantique main d un excellent, ouvrier.
+    </p>
+    <figure type="ornement"/>
+    <pb n="37"/>
+    <pb n="38"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 9. Terme.
+     </p>
+    </figure>
+    <pb n="39"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 9. Terme.
+     </p>
+    </figure>
+    <pb n="40"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 9. Terme.
+    </head>
+    <p>
+     Ce neusiesme Terme : troisiesme en ordre Ionique, se love asse de luy-mesme, tant par son divers enrichissement que pour les bien considerees proportions. Je ne declareray donc plus au long sa beautè tant admirable, que digne de remarquer.
+    </p>
+    <figure type="ornement"/>
+    <pb n="41"/>
+    <pb n="42"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 10. Terme.
+     </p>
+    </figure>
+    <pb n="43"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 10. Terme.
+     </p>
+    </figure>
+    <pb n="44"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 10. Terme.
+    </head>
+    <p>
+     Ceste dixiesme figures appelle <placeName ref="#Corinthe">Corinthe</placeName>, et ressemble à une jeune pucelle à cause de sabeautè et delicatesse. Aussi ordinairement sa proportion represente une fille, et si un homme y est d aduenture exprimè, il se represente mol et effeminé, et son regard ne doit estre st hommasse et farouche du tout, que les precedens.
+    </p>
+    <figure type="ornement"/>
+    <pb n="45"/>
+    <pb n="46"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 11. Terme.
+     </p>
+    </figure>
+    <pb n="47"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 11. Terme.
+     </p>
+    </figure>
+    <pb n="48"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 1I. Terme.
+    </head>
+    <p>
+     L'on(iesme figure est encor un Terme <placeName ref="#Corinthe">Corinthe</placeName>, enrichy selon lantique et bien proportionne, il differe bien peu de son premier : sinon en l embellissement, aussi mignonnement. rechercheé qu il est possible.
+    </p>
+    <figure type="ornement"/>
+    <pb n="49"/>
+    <pb n="50"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 12. Terme.
+     </p>
+    </figure>
+    <pb n="51"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 12. Terme.
+     </p>
+    </figure>
+    <pb n="52"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 12. Terme.
+    </head>
+    <p>
+     Ce douqiesme Terme contient en soyla perfection de <placeName ref="#Corinthe">Corinthe</placeName>, car comme desja j'ay dit au dixiesme Terme, puis que le Terme de <placeName ref="#Corinthe">Corinthe</placeName> approche à une forme de belle pucelle, lon scait asses que c est leur propre d'estre curieusement et mignardement accoustree, ven que le naturel accommode d un artifice, est beaucoup plus à priser que la simple beauté sans autre ayde que d'elle mesme. Aussi ce dernier <placeName ref="#Corinthe">Corinthe</placeName> est enrichy outre la premiere perfection de sa symmetrie, d un ornement le plus exquis dont il c est peu adviser, la curieuse antiquite de laquelle il a estè retire.
+    </p>
+    <figure type="ornement"/>
+    <pb n="53"/>
+    <pb n="54"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 13. Terme.
+     </p>
+    </figure>
+    <pb n="55"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 13. Terme.
+     </p>
+    </figure>
+    <pb n="56"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 13. Terme.
+    </head>
+    <p>
+     Ce treliesme Termes appelle composite, pource qu il est compose des proportions des quatre premiers ordres des Termes, à scavotr, du Tuscan, du Dorique, du fonique, et du <placeName ref="#Corinthe">Corinthe</placeName>, et narien en luy, dont les portions de la symmemetrie curieusement recherchee, ne se retreuvent esdicts quatre premiers ordres, lantique en a use comme d'une fort belle, et luy a donne sa particuliere proportion.
+    </p>
+    <figure type="ornement"/>
+    <pb n="57"/>
+    <pb n="58"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 14. Terme.
+     </p>
+    </figure>
+    <pb n="59"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 14. Terme.
+     </p>
+    </figure>
+    <pb n="60"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 14. Terme.
+    </head>
+    <p>
+     En ce Terme nya, sinon la poursuite d'une Composite refrassee apres lantique, qui est toutesfois bien plaisante, a cause que j'ouvrier a prins peine de j'enrichir de beaux ornemens, et de sa naive proportion.
+    </p>
+    <figure type="ornement"/>
+    <pb n="61"/>
+    <pb n="62"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 15. Terme.
+     </p>
+    </figure>
+    <pb n="63"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 15. Terme.
+     </p>
+    </figure>
+    <pb n="64"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 15. Terme.
+    </head>
+    <p>
+     Le superbe enrichissement dont est ornee ceste trosiesme sorte de Composite, est asses pour faire admirer les curieux de j'antiquite, et leur fatre a croire que toute la perfection des ouvrages de nostre temps, ne sont sinon les despouilles que nous prenons à la defrobec des vicilles et antiques Architectures. Aussi à la veritè, qui la considerera bien : la trouvera excellente.
+    </p>
+    <figure type="ornement"/>
+    <pb n="65"/>
+    <pb n="66"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 16. Terme.
+     </p>
+    </figure>
+    <pb n="67"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 16. Terme.
+     </p>
+    </figure>
+    <pb n="68"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 16. Terme.
+    </head>
+    <p>
+     Jusques icy, les anciens vous ont monstrè la perfection de leurs cinque façons de Termes, enrichys, et non enrichys, maintenant je vous fays part de mon travail, et de ce que j'ay composé, ce sont, trois sortes de Termes, composez, sur les cinque premiers ordres de lantique. Ce premier icy est simple en enrichissement bien proportionne, il pourra servir a plaisir, et selon la volontè de louvrier.
+    </p>
+    <figure type="ornement"/>
+    <pb n="69"/>
+    <pb n="70"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 17. Terme.
+     </p>
+    </figure>
+    <pb n="71"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 17. Terme.
+     </p>
+    </figure>
+    <pb n="72"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 17. Terme.
+    </head>
+    <p>
+     Le second ordre que tu voys icy, est plus bravement enrichy que son premier, selon que je j'ay aussi colligè des cinqu premiers ordres. Quand à sa symmetrie, je lay diligemmentretenue, lart et laeil, te feront, juge. si je dy verite.
+    </p>
+    <figure type="ornement"/>
+    <pb n="73"/>
+    <pb n="74"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 18. Terme.
+     </p>
+    </figure>
+    <pb n="75"/>
+    <figure type="ornement">
+     <p>
+      Pourtrait du 17. Terme.
+     </p>
+    </figure>
+    <pb n="76"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Description du 18. Terme.
+    </head>
+    <p>
+     En ce dixhuictiesme et dernier ordre, est encores vi composè des cinque, au reste j'ay prins peine au micux qu il mi esté possible de lenrichir sujuant, lantique, je croy que sagrate ne sera point trouvce mauvaise, et me semble qu elle viudra bien à propos pour faire quelque mignarde et legere Arbiitecture.
+    </p>
+    <figure type="ornement"/>
+    <pb n="77"/>
+    <p>
+     Imprimé à <placeName ref="#Lyon">Lyon</placeName> par Jean Marcorelle. <date when="1572">1572</date>.
+    </p>
+    <pb n="78"/>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita"> Title </title>
+         </titleStmt>
+         <publicationStmt>
+            <p> Publication Information </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher> ATIR </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Descritione de le chiese, Andrea <persName ref="#AndreaPalladio">Palladio</persName>,
+               <date when="1554">1554</date> --[-]-- </p>
+         <p> DESCRITIONE DE LE CHIESE, Stationi, Indulgenze et Reliquie de Corpi Sancti, che sonno
+            in la Citta de <placeName ref="#Rome">Roma</placeName>. BREVEMENTE RACCOLTA da M. Andrea
+               <persName ref="#AndreaPalladio">Palladio</persName> et novamente posta in Luce , Con
+            gratia et Privilegio per anni diece. </p>
+         <p> FORTES, FORTUNA, ADIVVAT' </p>
+         <p> IN <placeName ref="#Rome">ROMA</placeName> Appresso Vincentio Lucrino. </p>
+         <p>
+            <date when="1554">1554</date>. <pb n=""/>
+         </p>
+         <p> ALLI LETTORI. Havendoui io discritto in un'altro mio libro l'antiquita de la Citta di
+               <placeName ref="#Rome">Roma</placeName>, con quella diligenza et brevità, che per me
+            s'è potuta maggiore, ho uoluto anchora per piu intiera uostra sodisfatione, et
+            consolatione descriverui le cose sacre di essa Città, in quel modo che hora si trovano:
+            conciosia che le memorie che di loro per adietro ne i libri loro son state fatte, al
+            presente in molte parti non rispondeno al uero, essendo esse cose sacre, et per le
+            guerre, et per gli incendij, et ruine passate et edificationi di nuove Chiese Hospitali
+            et Confraternità, mutate, et trasportate da luogo a luogo. Et perché esse cose sacre
+            sono sparse per molte Chiese et Cimiterij di <placeName ref="#Rome">Roma</placeName>,
+            accioché ciascuno senza lungo avolgimento possa facilmente uisitarle dove elle siano,
+            m'è parso di descriverle con uno ordine nuovo, et seguito, nelquale se ogniuno
+            avuertirà, haverà da lodare non <pb n=""/> poco questa mia fatica. Prima adunque
+            scriverò in questo libro le cose delle sette Chiese principali di <placeName ref="#Rome"
+               >Roma</placeName> cominciando da L'Isola al dritto per Trastevere, et per il Borgo,
+            che è tutta una parte, Et dipoi dalla porta del Popolo gia detta Flaminia, uenendo
+            dritto per ordine per la Città hora populata insino al tevere girando per fino al
+               <placeName ref="#Capitole">Campidoglio</placeName> Vltimamente dal <placeName
+               ref="#Capitole">Campidoglio</placeName> in là dove sono i sette colli, et la
+               <placeName ref="#Rome">Roma</placeName> uecchia. Le quali Chiese saprete da chi prima
+            fossero fondate, di quante reliquie di corpi santi adornate, da quali Sommi Pontefici
+            privilegiate, et di quante Indulgentie, et stationi dotate, così nella Quaresima, come
+            in ciascheduno altro giorno del anno: et tutto questo ho io tratto dalle bolle, che in
+            molte di esse Chiese si leggono appresso al choro, o altrove attacate, da sacre
+            historie, et da antichissimi marmi. Auvertendoui, che in <placeName ref="#Rome"
+               >Roma</placeName> gia furono piu di tre milia Chiese, tra quali quattrocento erano
+            consecrate in honor di Maria uergine, et di queste sono la maggior parte <pb n=""/>
+            ruinate, avenga che altre ne siano state di nuovo reedificate, et fondati di molti
+            Hospitali, et confraternità, che fanno ogni giorno a Vergini, poveri, et peregrini molte
+            opere pie, come leggendo potrete facilmente intendere. Onde conoscerete, che se
+               <placeName ref="#Rome">Roma</placeName> fu gia da tutto il mondo temuta et stimata
+            per le gran cose fatte da gli antichi suci, sia molto piu hora degna di essere riverita
+            per tante, et si sacre cose, che in lei sono: per le quali è divenuta capo, et propria
+            sede della uera religion christiana. Allaquale augurando felicità uivete lieti. <pb n=""
+            /> DELLA EDIFICATIONE di <placeName ref="#Rome">Roma</placeName>, et successo sino alla
+            conuersione di Constantino Magno Imperatore, et de la donatione fatta alli Sommi
+            Pontifici de la S. R. Ecclesia. Romolo primo Re e fondatore di la Citta di <placeName
+               ref="#Rome">Roma</placeName>, la edifico gl'anni del mondo. <date when="4333"
+               >4333</date>. adi. 21. de Aprile, sopra la riva del Tevere. 15. miglia longi al Mare
+            Tirreno, dopoi del quale ne successe sei altri Re e lultimo fu Tarquinio superbo, il
+            quale fu scacciato da <placeName ref="#Rome">Roma</placeName> perché <persName
+               ref="#CesareDaSesto">Sesto</persName> suo figlivolo violo di notte Lucretia moglie di
+            Collatino: et regnorno detti sette Re, anni. 243. l'Imperio de li quali nostr si
+            distendeva se non miglia quindeci. Scacciati li Re poi ordinorno il vivere politico, et
+            civile, La qual forma di governo duro anni. 465. nel qual tempo con. 43. battaglie
+            acquistorno quasi il principato del mondo, et vi furno. 877. Consoli, dui anni governo
+            li dieci huomeni et. 43. li tribuni de soldati con potesta consolare, et <pb n=""/>
+            stette quattro anni senza magistrati, et doppo <persName ref="#JulesCesar">Giulio
+               Cesare</persName>, sotto titulo de Ditatore perpetuo occupo l'Imperio et la liberta a
+            un tratto: dimodo che da <persName ref="#JulesCesar">Cesare</persName> Imperatore sino
+            alli Summi Pontefici Christiani duro in <placeName ref="#Rome">Roma</placeName>
+            l'Imperio. 360. anni Constantino magno Imperatore poi la ridusse alla Fede di <persName
+               ref="#Jesus">Christo</persName> come e scritto ne le Croniche. Perseguitava esso
+            Constantino come li suoi antecessori li Christiani, dove che il beato Siluestro Papa in
+            quel tempo, con li altri chierici suoi stavano nascosti nel monte Sorato lontano. 20.
+            miglia da <placeName ref="#Rome">Roma</placeName>: in questo tempo <persName ref="#Dieu"
+               >Dio</persName> de incurabile lepra percosse Constantino et non giovandoli aiuto di
+            medicine, per vltimo rimedio da Medici fu consigliato che nel sangue caldo de fanciulli
+            lattanti si lavasse, per il che essendo fatto laparecchio vedendo lui ben. 20. Milia
+            fanciulli et le madri loro con li capelli sparsi miserabilmente piangere et lamentarsi,
+            da tenera pieta mosso alle afflitte donne così disse non vogliati temere, perché io
+            delibero prima morire che con la occisione di tanti innocenti fanciulli vivere, et così
+            detto comando che tutti quelli figlivoli fossero alle proprie madri con doni deputati
+            restituiti onde per tale atto de misericordia la sequente notte gli gloriosi Apostoli
+            Pietro e Paulo gli apparsero, <pb n=""/> dicendogli, perché tu hai hauto in odio la
+            effusione del sangue de gl'Innocenti figluoli Il nostro Signor Giesu <persName
+               ref="#Jesus">Christo</persName> a te ne manda, notificandoti che per la tua salute
+            adoperi Siluestro Papa, il quale nel monte Sorato sta ascosto. Per il che l'Imperatore
+            da la visione monito mando per Santo Siluestro et da la sua persuasione mosso si vesti
+            subito di candidissime vesti e per sette giorni continui ordino constitutioni in honore
+            di Giesu <persName ref="#Jesus">Christo</persName> et de tutti li Christiani, l'octavo
+            venne alla santa Confessione postergate tutte le Imperiali insegne con le braccie basse
+            in terra con grandissime lacrime se gitto al santissimo batesimo, et non piu che posto
+            nel sacratissimo fonte che con li proprii occhi vide una mano dal Cielo mandata, che
+            dalla lepra il mondava, et subitamente batizato con publico bando comando che per tutto
+            il Romano Imperio gli Tempii de gl'Idoli fussero chiusi, et le chiese di <persName
+               ref="#Jesus">Christo</persName> fussero edificate, et li Sepolcri et Reliquie de
+            Martiri con grandissima veneratione fusseno honorati et reveriti. </p>
+         <p> In questo tempo Helena madre de Constantino che dimorava in Bertagna era persuasa da li
+            hebrei che pigliasse le loro cerimonie et che dovesse lassare la Coltura de gl'Idoli, et
+            non seguire la Religione Christiana per <pb n=""/> il che lei ne scrisse a <placeName
+               ref="#Rome">Roma</placeName> al figluolo alquale <persName ref="#Constantin"
+               >Costantino</persName> respose che volea che in sua presentia li Sacerdoti de gli
+            hebrei et de Christiani de sputassero, et a questa disputatione vi concorse tutti gli
+            huomeni prudenti del Romano imperio et congregoronsi in <placeName ref="#Rome"
+               >Roma</placeName>. 75. Vescoui Christiani et. 290. sacerdoti de gli Ebrei senza li.
+            12. scribi che Isacar loro summo Pontefice vi mando, tutti huomini dottissimi in Hebreo,
+            Greco, et Latino, et li Giudici et Arbitri di questa lite furno doi Filosophi, che non
+            erano ne Christiani ne Hebrei, luno chiamato Cratone, che mai da alcuno fu possibile
+            persuaderli che dono alcuno ricevesse, ne mai havere cosa nessuna de proprio, ne voleva
+            saluarsi cosa alcuna per laltro giorno, dicendo che per non essere ricco somma securita
+            godeva, laltro Filosopho fu Zenofilo costante et prudentissimo huomo et erano di tanta
+            veneratione questi doi huomeni che senza dubbio alcuno da tutti era tenuto che quello
+            che loro dicessero saria verissimo et quello per fermo doversi tenere. Congregati
+            adunque così tutti davanti a l'Imperatore <persName ref="#Constantin"
+               >Costantino</persName> et Helena sua madre fu conbattimento grandissimo fra S.
+            Siluestro et quelli scribi, finalmente si evidentemente il beatissimo Pontefice gli
+            conuinse, che tutti li populi ad una voce chiamorno <pb n=""/> che quegli di <placeName
+               ref="#Rome">Roma</placeName> discacciati fossero, li quali nostr confessassero
+               <persName ref="#Jesus">Christo</persName> essere figlivolo del vero <persName
+               ref="#Dieu">Iddio</persName>, per la quale cosa molti ancora de loro Iudei che erano
+            venuti per impugnare la santa fede si conuertirno, et essi Filosophi giudici de la
+            desputatione anchora loro si battizorno. Uno de gli scribi volendo mostrare la potentia
+            de la sua fede fece ala presentia de tutti menare un Toro di tanta ferocita che a pena
+            cento huomini il poteano condurre, et dissegli certe parole ne le orecchie che immediate
+            cade morto, ilquale esso scriba per forza de parole resusitare non potea, onde tutti li
+            hebrei prometterno che se quello nel nome de Iesu <persName ref="#Jesus"
+               >Christo</persName> suscitasse, si battizariano, et così S. Siluestro fece, et in
+            quell'hora col segno de la etcross2; tolse la potentia nociva a un dragone che tutta
+               <placeName ref="#Rome">Roma</placeName> de incurabile peste contaminava, dove che
+            allh'ora Helena madre di Constantino con tutto il populo basorno li piedi al beato
+            Siluestro. Essendo per questi miracoli Constantino confirmato nella fede parlo al Senato
+            Romano si prudentemente che tutti si battizarono, et di propria volonta et amore
+            deliberorno di esaltare la sede del beato Pietro de gli Apostoli Principe, et che la
+            Romana siede havesse a tenere il Principato sopra tutte le Chiese che nel mondo fossero,
+            et tutti quegli <pb n=""/> Pontefici che di questa chiesa succedessero ordino fossero
+            gli piu eccelsi principi del mondo, et che a loro posta et arbitrio potessero disponere
+            il culto divino, et la Christiana fede, tenendo il Principato et Catedra de l'Apostolato
+            dove Iesu <persName ref="#Jesus">Christo</persName> comando al beato Pietro la dovesse
+            tenere, et dove esso Apostolo il Calice del suo martirio gusto. Et accio che la dignita
+            pontificale per poverta non venisse a mancare, ma che per gloria et dignita de la sedia
+            Romana cressesse, dono al beato Siluestro et a tutti li suoi successori il suo palazzo
+            Lateranense, la Citta di <placeName ref="#Rome">Roma</placeName>, tutta la <placeName
+               ref="#Italie">Italia</placeName>, tutte le Prouintie occidentali, Regioni, Luochi
+            Citta, et Isole, che intorno a l'<placeName ref="#Italie">Italia</placeName> sono, et
+            lui si parti da <placeName ref="#Rome">Roma</placeName> trasferendo l'Imperio in Oriente
+            ne la Citta di Bizantio, che poi dal suo nome Costantinopoli fece chiamare: lassando in
+               <placeName ref="#Rome">Roma</placeName> nel suo palazzo Lateranense una Chiesa doro,
+            et argento, et preciose pietre guarnita in honore del Saluatore nostro Iesu <persName
+               ref="#Jesus">Christo</persName>, et ancora edifico la Chiesa de li beati Apostoli
+            Pietro et Paulo con altre Chiesie, et per le mani del padre S. Siluestro le Reliquie de
+            martiri fece racogliere et colocare: come in questo libro si narrera a laude di Iesu
+               <persName ref="#Jesus">Christo</persName> Signore et Redentore nostro. <pb n=""/>
+         </p>
+         <p> De le sette Chiesie principali. La prima chiesa laquale e sede del pontefice si e
+            quella di <persName ref="#SaintJean">Santo Giovanni</persName> Laterano nel Monte Celio
+            che fu edificata dal Magno <persName ref="#Constantin">Costantino</persName> nel suo
+            Palazzo e dotata di grandissime intrate essendo guasta et ruinata da gli Heretici
+            Nicolo, 4. la rifece et Martino. 5. la comincio a fare dipingere, et lastricare il
+            pavimento, et Eugenio. 4. la fini, et fu consecrata in honore del Saluatore, et di.
+               <persName ref="#SaintJean">S. Giovanni</persName> Battista, et del'Euangelista da. S.
+            Siluestro li. 9. di Novembre, ne la quale consecratione vi apparue quella imagine del
+            Saluatore, che insino ad hoggi di si vede sopra la tribuna de l'altare grande, laquale
+            nostr si abbruscio, essendosi la detta Chiesa abbrusciata due volte, Vi e statione la
+            prima Domenica di quaresima, la Domenica de le palme, il Giovedi, et il sabbato Santo,
+            il sabbato inanzi l'ottava di Pasqua, et ne la vigilia de le pentecoste. Et nel giorno
+            di. <persName ref="#SaintJean">S. Giovanni</persName> dinanzi porta Latina vi e la
+            plenaria remissione de peccati, et la liberatione d'una nima di purgatorio, et dal
+            giorno di S. Bernardino ch'e a. 20. di Maggio insino al primo di d'Agosto, ogni giorno e
+            la remissione plenaria di peccati, Et nel giorno di <persName ref="#SaintJean">S.
+               Giovanni</persName> Battista, de la Trasfiguratione del Signore, de la Decollatione
+               <pb n=""/> di <persName ref="#SaintJean">S. Giovanni</persName>, et ne la dedicatione
+            del Saluatore, et la plenaria remissione di peccati, Nel giorno di <persName
+               ref="#SaintJean">S. Giovanni</persName> Euangelista vi sono anni. 28 millia
+            d'Indulgentia, et altre tante quarantene, et la plenaria remissione di peccati, Et ogni
+            giorno vi sono. <date when="6048">6048</date>. anni, et altre tante quarantene
+            d'Indulgentia, et la remissione de la terza parte di peccati, et chi celebrara, o fara
+            celebrare ne la Capella che appresso la Sacristia, liberara unanima da le pene del
+            purgatorio. Vi sono anchora infinite Indulgentie, lequali, che li sapesse
+            particolarmente non sarebbe bisogno andare al Sepolcro di <persName ref="#Jesus"
+               >Christo</persName> o a S. Giacobo di Galitia. Et in detta Chiesa vi sono
+            l'infrascritte reliquie, lequali si mostrano nel giorno di Pasqua dopo il vespero, nel
+            tabernacolo che e sopra l'altare de la <persName ref="#MarieMadeleine"
+               >Maddalena</persName>, Il Regno con ilquale <persName ref="#Constantin"
+               >Costantino</persName> incorono S. Siluestro, il capo di S. Zaccaria padre di
+               <persName ref="#SaintJean">S. Giovanni</persName> Battista, il capo di S. Pancratio
+            martire, dal quale tre giorni continui usci el sangue, quando questa Chiesa fu
+            abbrusciata da li Heretici, de le reliquie di Santa Maria <persName
+               ref="#MarieMadeleine">Maddalena</persName>, una spalla di <persName
+               ref="#SaintLaurent">S. Lorenzo</persName> un dente di <persName ref="#SaintPierre">S.
+               Pietro</persName> Apostolo, il Calice nel quale <persName ref="#SaintJean">S.
+               Giovanni</persName> Apostolo, et Euangelista per commandamento di Domi. Imp. beve il
+            veneno, et nostr li puote nocere, La catena con <pb n=""/> la quale fu legato quando fu
+            menato da <placeName ref="#Ephese">Efeso</placeName> a <placeName ref="#Rome"
+               >Roma</placeName>, et una sua tonicella, laquale essendo posta sopra tre morti,
+            subito risuscitorno, De le cenere, et cilitio di. <persName ref="#SaintJean">S.
+               Giovanni</persName> battista, Del latte, capelli, et vestimenti de la gloriosa
+            vergine Maria, La camisa che lei fece a Giesu <persName ref="#Jesus">Christo</persName>,
+            Il panicello con il quale il nostro Redentore sugo li piedi a li suoi discepoli, La
+            canna con la quale fu percosso il capo al nostro Saluatore, La ueste rossa che li messe
+            Pilato, tinta del suo preciosissimo sangue, Del legno de la Croce, Il velo de la
+            gloriosa vergine, col quale fu coperto le parti pudende di Giesu <persName ref="#Jesus"
+               >Christo</persName> in Croce, Il Sudario, che li fu posto sopra la faccia nel
+            sepolcro, et di l'acqua, et sangue che gli vsci del costato. Sopra l'altare Papale, in
+            quelle graticolate di ferro vi sono le teste de gli gloriosissimi Apostoli Pietro et
+            Paolo, et ogni volta che si mostrano, vi e Indulgentia d'anni tre milia a li habitanti
+            in <placeName ref="#Rome">Roma</placeName>, che vi sono presenti, a li conuicini, sei
+            milia, et a quelli, che vengono di lontan paese dodeci milia, et altre tante quarantene,
+            et la remissione de la terza parte di peccati, Et sotto il detto altare, e loratorio di.
+               <persName ref="#SaintJean">S. Giovanni</persName> evangelista, quando fu condotto a
+               <placeName ref="#Rome">Roma</placeName> prigione, Et quelle quattro colonne
+            cancellate di rame, che sono dinanzi al detto altare, sono <pb n=""/> piene di terra
+            Santa portata di Gierusalem, et furno fatte da <persName ref="#Auguste"
+               >Augusto</persName> de li sproni de le Galee, che lui prese ne la battaglia navale
+               d'<placeName ref="#Egypte">Egitto</placeName>, et li pose nel Comitio. Ne la Capella,
+            che e appresso la porta grande vi e l'altare che teneva. <persName ref="#SaintJean">S.
+               Giovanni</persName> Battista nel diserto, l'Arca Federis, La Verga d'Aron, et di
+               <persName ref="#Moise">Moise</persName>, et la tavola, sopra la quale il nostro
+            Saluatore fece l'ultima cena con li suoi discepoli, le quali cose furno portate a
+               <placeName ref="#Rome">Roma</placeName> di Gierusalem da Tito, Et di sopra da un capo
+            de la Sala, dove fu fatto l'ultimo Concilio Lateranense, vi e sopra quattro colonne la
+            pietra sopra la quale fu givocata la veste del nostro Redentore, Et da la pietra in giu
+            per quanto si dice e la misura di la sua grandezza, Et dal'altro capo de la Sala vi sono
+            tre porte di marmo, lequali erano nel palazzo di Pilato in Gierusalem, et dicono che per
+            quelle fu condotto il Saluator nostro a Pilato. Et quelle due sedie di porfido, che sono
+            fuori de la Capella di. S. Siluestro per quanto si dice, furno ordinate, dopo che quella
+            femina fu Papa, per toccare li testicoli de i nuoui Pontefici, et lultimo diacono fa
+            questo vffitio Ma Platina ne la vita de li Pontifici dice altramente. Et la finestra di
+            marmo, che sopra la porta di detta Capella era ne la casa di Maria <persName
+               ref="#Marie">Vergine</persName> in Giudea, et dicono che per quello <pb n=""/> entro
+            l'Angelo cabriele ad annonciarli l'incarnatione del figlivolo d'<persName ref="#Dieu"
+               >Iddio</persName>, et quella scala di 28. scalini, ch'e a canto a la detta Capella fu
+            nel palazzo di Pilato, et il nostro Saluatore vi casco sopra, et vi sparse del suo
+            pretiosiss. sangue, il segno del quale insino ad hoggi di se vede Et qualunque persona
+            salira divotamente inginocchioni sopra di essa conseguira per ogni scalino noui anni, et
+            altre tante quarantene d'indulgentia, et la remissione de la terza parte di suoi
+            peccati. Et quella Colonna in dui parti, era in Gierusalem, et si spezzo ne la morte del
+            nostro Redentore. Et ne la capella adimandata Sancta sanctorum, dove non vi entrano mai
+            donne, et fu consecrata da Nicolao 3. a. <persName ref="#SaintLaurent">S.
+               Lorenzo</persName> martire, oltre e l'altre reliquie ui e l'imagine del Saluatore,
+            d'anni 12. ornata dargento, et gemme (come si crede) fu designata da s. Luca, et finita
+            da l'Angelo, laquale, per ordine di Leone 4. li 14. d'Agosto dopo il Vespero, quasi ogn
+            anno, e portata a guisa d'un trionfo antico da i piu honorati cittadini sopra le spalle
+            scambievolmente a santa Maria <persName ref="#Maggiore">Maggiore</persName>, a la quale
+            vi concorre tutta <placeName ref="#Rome">Roma</placeName>, et le citta conuicine, et il
+            giorno seguente dopo la messa cantata, e riportata in Laterano con la medesima pompa. Et
+            in <pb n=""/> simil giorno liberano di prigione 14. huomini che vi se ritrovano essere
+            per la vita. Et il lavare di piedi al Saluatore, di s. Maria nuova, e osseruato in
+            memoria del lavare che facevano li sacerdoti ognanno il primo giorno d'Aprile, la Dea
+               <persName ref="#Cybele">Cibele</persName>, in quel fiumicello, ch'e fuori de la porta
+            di s Sebastiano vicino a la detta chiesa verso l'hospitale, vi e anchora in piedi di
+            forma rotonda, et coperto di piombo. et circondato di colonne di porfido, il luogo dove
+            si battezzo il Magno <persName ref="#Constantin">Costantino</persName>, ilquale era
+            adornato in questa maniera, il sacro fonte era di porfido, et la parte, che teneva
+            l'acqua era d'argento, et nel mezzo vi era una colonna di porfido sopra laquale vi era
+            una lampada d'oro di libre 50. ne laquale la notte di pasqua in luogo d'oglio
+            s'abbrusciava balsamo, nel'estremita de la fonte vi era un Agnelo d'oro, et una statua
+            d'argento del Saluatore di libre dieci, con l'inscrittione ecco l'agnelo d'<persName
+               ref="#Dieu">Iddio</persName>, ecco chi leva li peccati del mondo. Vi erano anchora
+            sette cerui, che spargevano acqua, et ciascuno di loro pesava libre 80. Et quelle tre
+            capelle, che sono vicine al detto luogo Hilario 3. le consecro, una a la croce, et vi
+            misse del legno de la croce, coperto di genme, et quelle due colonnelle che sono in
+            detta capella cancellate <pb n=""/> di ligname furno ne la casa de la beata vergine,
+            l'altra, ne laquale non vi entrano donne, et fu gia la camera di <persName
+               ref="#Constantin">Costantino</persName>, la consecro a s. Giovanni battista, et vi
+            pofe molte reliquie, la terza a s. Giovanni evangelista. Et l'hospedale del Saluatore,
+            hoggi detto di s. Giovanni Laterano, fu edificato da l'illustrissima fameglia Colonna,
+            et ampliato da diversi baroni Romani, Cardinali et altri. vi furno anchora in detta
+            chiesa l'infrascritte cose, che hoggi di non vi sono, <persName ref="#Constantin"
+               >Costantino</persName> Magno vi pose un Saluatore che sedeva di 330. libre 12.
+            Apostoli di 5. piedi luno, liquali pesavano libre 90 un'altro Saluatore di 140. libre,
+            et 4. Angeli, liquali pesavano 105. libre, lequali cose erano d'argento, vi pose anchora
+            d'oro 4. Corone con li Delfini di libre 20. et sette altari di libre ducento, et
+            Hormisda pontifice v'offeri una corona d'argento di libre 20. et sei vasi. <persName
+               ref="#SaintPierre">S. Pietro</persName> in vaticano, questa chiesa fu edificata, et
+            dotata dal Magno <persName ref="#Constantin">Costantino</persName>, et consecrata da s.
+            Siluestro li 18. di Novembre, et ui e stationi il giorno de l'Epifania, la 1 et 5.
+            Dominica di quaresima, il sabato dopo la detta 1. Domenica il lunedi di Pasqua, il di
+            del'Ascensione del Signore, il di de le pentecoste, il Sabbato dopo le pentecoste, li
+            Sabbati <pb n=""/> di tutte le quatro tempora e la 3. Domenica de l'Auvento, et il
+            giorno di s. Marco, la 1. et 4. Domenica de l'Auvento il giorno del Corpo di <persName
+               ref="#Jesus">Christo</persName>, et de la catedra di s. Pietro, ui e indulgentia
+            plenaria, la Domenica de la quinquagesima e indulgentia plenaria, et 28. mille anni, et
+            tante quarantene. Nel giorno di s. Gregorio e indulgentia plenaria, nel di de
+            l'Annontiatione di nostra donna ui sono anni mille d'indulgentia, et dal detto giorno
+            insino al primo d'Agosto, ui sono ogni giorno anni 12. mille, et tante quarantene
+            d'indulgentia, et la remissione de la terza parte de peccati. Ne la uigilia, et giorno
+            di <persName ref="#SaintPierre">S. Pietro</persName>, la 2. Domenica di Luglio, il
+            giorno di S. Simone, e <persName ref="#Judas">Giuda</persName>, de la dedicatione di
+            detta chiesa, di S. Martino, et di S. Andrea, e la plenaria remissione di peccati, Et
+            ogni giorno ui sono anni <date when="6048">6048</date>. d'indulgentia, tante quarantene,
+            et la remissione de la terza parte di peccati, Et ne le festivita di <persName
+               ref="#SaintPierre">S. Pietro</persName>, et de li sette altari principali di detta
+            chiesa, et di tutte le feste dopie, le dette indulgentie sono duplicate, Et ne la
+            capella di Sisto ogni giorno ui e innplgentia plenaria, Et chi ascendera devotamente li
+            scalini che sono dinanzi a detta chiesa, et ne la capella di <persName
+               ref="#SaintPierre">S. Pietro</persName> havera per ciascuno <pb n=""/> anni 7.
+            d'indulgentia. Et ne li uenerdi di Marzo ui sono indulgentie senza numero Vi sono in
+            detta chiesa li corpi di S Simone, et <persName ref="#Judas">Giuda</persName> Apostoli,
+            di <persName ref="#SaintJean">S. Giovanni</persName> Grisostomo, di S Processo, et
+            Martiniano di S. Gregorio papa, et di S. Petronilla, La testa di S Andrea laquale fu
+            portata a <placeName ref="#Rome">Roma</placeName> dal principe de la Marca al tempo di
+            Pio 2. et li ando incontro insino a ponte Molle, quella di <persName ref="#SaintLuc">S.
+               Luca</persName> evangelista, di S. Sebastiano, di s. Giacobo minor, di s. Tomasso
+            Vescovo di Conturba, et martire, et di S. Amando, et una spalla di s. Christoforo, et di
+            s. Stefano, et altri corpi et reliquie de santi, il nome de i quali e scritto nel libro
+            de la uita. Et sotto l'altare maggiore ui e la mita de li corpi di s. Pietro, et di s.
+            Paolo, Et nel tabernacolo che e a mano dritta de la porta grande, ui e la ueronica, o
+            uero uolto Santo, et il ferro de la lanza, che passo il costado al nostro Redentore,
+            ilquale fu mandato dal gran Turco a Innocentio 8. et ogni uolta che si mostra, li
+            habitanti di <placeName ref="#Rome">Roma</placeName>, che ui sono presenti,
+            conseguiscono l'indulgentia d'anni tre mille, et li conuicini sei mille, et quelli che
+            uengono di lontan paesi 12. mille, tante quarantene, et la remissione de la terza parte
+            di peccati. Vi e anchora un quadretto, <pb n=""/> ilquale si mette ne li giorni festivi
+            di detta chiesa sopra l'altare grande, nelquale vi sono dipenti s. Pietro, et s. paolo,
+            et fu di s. Siluestro, et e quello che lui mostro a <persName ref="#Constantin"
+               >Costantino</persName>, quando li domando chi erano questi Pietro, et Paolo, che li
+            erano apparsi, et chi uvole questa historia legga la uita di s Siluestro Quelle colonne
+            che sono in la capella di s. Pietro, et quella che e in chiesa cancellata di ferro (a la
+            quale stava appoggiato il Saluator nostro quando predicava, et si vi si menono dentro li
+            indemoniati subito sono liberati) erano in Gierusalem nel tempio di <persName
+               ref="#Salomon">Salomone</persName>, Honerio. i. copri questa chiesa di tegoli di
+            bronzo dorate, tolte dal tempio di <persName ref="#Jupiter">Giove</persName> capitolino,
+            et Eugenio 4. ui fece fore le porti da Antonio Fiorentino in memoria de le nationi che a
+            tempo suo si riconciliorno a la chiesa, et quel s. Pietro di Bronzo ch'e sotto l'organo
+            fu gia la statua di <persName ref="#Jupiter">Giove</persName> Capitolino Et la pigna,
+            che e nel cortile, laquale e di Bronzo, d'alteza di braccia cinque, et dui quinti,
+            dicono, che fu gia sopra la cupola de la Ritonda, et che una saetta la getto giu, et fu
+            poi portata a s. Pietro, et li pavoni surno gia per ornamento al Sepolcro de li
+            Scipioni, et in quella sepoltura di porfido e sepolto Ottone 2. Imp. ilquale porto da
+            Benevento a <placeName ref="#Rome">Roma</placeName>, il corpo di s. <pb n=""/>
+            Bartolameo. Erano anchora in detta chiesa l'infrascritti ornamenti liquali la malignita
+            de tenpi ha consumati Et prima <persName ref="#Constantin">Costantino</persName> Magno
+            pose sopra il sepolchro di <persName ref="#SaintPierre">S. Pietro</persName> una croce
+            d'oro di libre 150. 4. Candellieri d'argento sopra liquali ui erano scolpiti gli anni de
+            li Apostoli 3. Calici d'oro di 12. libre l'uno et 20. d'argento di libre 10. l'uno 4.
+            uasi d'argento di 50. libre luno, una patena, et un Incensieri d'oro di libre 30. ornato
+            d'una colomba di giacinto, et Cancello l'altare di s. Pietro d'oro, et d'argento, ornato
+            di molte pietre pretiose. Hormisda pontifice li dono 10. vasi et tre ame d'argento
+            Giustino Imp. senior, li dono un Calice d'oro di 5. libre ornato di gemme, et la sua
+            patena di libre 20 Giustiniano Imp. li dono un vaso doro di libre sei, circondato di
+            gemme, doi vasi d'argento di libre 12. l'uno, et doi calici d'argento di libre 15.
+            l'uno. Carlo magno li dono una tavola d'argento, nelaquale era scolpita la citta di
+            Costantinopoli. Teodorico Re lo orno d'un trave d'argento di libre mille e uinti, et di
+            dui Ceroferrarii e l'argento di 35. libre luno. Bellisario dele spoglie di Vitigete gli
+            offeri una croce d'oro di libre cento, ornata di pietre pretiose, et doi Ceroferrarii di
+            gran pretio Et Michele <pb n=""/> figlivolo di Teofilo Imp. di Costantinopoli li dono un
+            Calice, et una patena d'oro, ornato di gemme di grandiss. valuta. </p>
+         <p> S. Paolo, Questa chiesa e ne la uia ostiense, fuori di <placeName ref="#Rome"
+               >Roma</placeName> circa un miglio, et fu edificata, dotata, et ornata come quella di
+               <persName ref="#SaintPierre">S. Pietro</persName> dal Magno <persName
+               ref="#Constantin">Costantino</persName>, nel luogo dove fu miracolosamente ritrovata
+            la testa di s. Paolo apostolo, et e ornata di grandiss. colonne, et altissimi
+            architravi, et fu poi ornata di uarii marmi maravigliosamente intagliati, da Honorio 4.
+            et fu consecrata da S. Siluestro, et ui e statione il Mercordi dopo la 4. Domenica di
+            quaresima, la terza festa di Pasqua, la Domenica de la Sessagesima, et nel di
+            d'Innocenti. Nel giorno poi de la conuersione di S. Paolo ui e indulgentia d'anni cento,
+            tante quarantene, et la plenaria remissione de peccati, Et nel di de la sua
+            commemoratione e la plenaria remissione di peccati, Et nel di de la sua dedicatione sono
+            anni mille d'indulgentia, tante quarantene et la plenaria remissione de peccati. Et
+            qualunque persona uisitata la detta chiesa tutte le Domeniche d'un anno, conseguira
+            tante indulgentie, quante conseguirebbe s'andasse al santo Sepolchro di <persName
+               ref="#Jesus">Christo</persName>, o vero di s. Giacobo di Gallitia. Et ogni di vi sono
+            anni <pb n=""/>
+            <date when="6048">6048</date>. et tante quarantene d'indulgentia, et la remissione de la
+            terza parte de peccati. Et vi sono li corpi di S. Timotheo discepolo di S. Paolo, di s.
+            Celso, Giuliano, et Basilissa; et di molti Innocenti, un braccio di s. Anna madre di
+            Maria vergine, la cathena con laquale fu incatenato s. Paolo, la testa de la samaritana,
+            un dito di s. Nicolao, et molte altre reliquie, Et sotto l'altar grande vi sono la mita
+            de li corpi di s. Pietro et Paolo, et a mano dritta di detto altare ui e l'imagine di
+            quel Crocifisso, che parlo a s Brigida Regina di Suetia, facendo oratione in quel luogo. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> maggiore, questa chiesa e la prima che fusse
+            dedicata in <placeName ref="#Rome">Roma</placeName> a Maria vergine, et fu fatta al
+            tempo di Liberio pontifice, da Giovanni patritio Romano, et da sua moglie liquali non
+            havendo figlivoli desideravano di spendere la loro faculta in suo honore, onde la notte
+            di li 5. d'Agosto hebbero in uisione, che la mattina seguente dovessero andare ne
+            l'Esquilie, et onde uedessero il terreno coperto di neve ivi edificassero il tempio, et
+            l'istessa visione hebbe anchor il pontefice, ilquale la mattina ando con tutta la corte
+            in detto luogo, et ritrovata la neve comincio con le proprie mani a cavare et fu poi
+            fatta la chiesa, <pb n=""/> ne laquale ui estatione tutti li Mercordi de le quatro
+            tempora il mercordi santo, il giorno di Pasqua la 1. Dnnica de l'avuento et la vigilia,
+            et giorno di Natale, et nel primo di de l'Anno nel di de la <persName ref="#Marie"
+               >Madonna</persName> de la neve, nel giorno di s. Girolamo, et de la sua traslatione,
+            laquale se celebra la vigilia de l'Ascensione, vi e la remissione plenaria di peccati.
+            Et nel di de la purificatione, Assensione, nativita, presentatione, et concettione di
+            Maria vergine, vi sono anni mille d'indulgentia, et la plenaria remissione de peccati,
+            et dal di de la sua Assontione insino a la sua nativita, oltre le cotidiane induigentie
+            vi sono anni 12 mille, et ogni di vi sono anni <date when="6048">6048</date>. et tanre
+            quarantene, d'indulgentia, et la remissione de la terza parte di peccati, Et chi
+            celebrara, o fara celebrare, ne la capella del presepio liberara un'anima da le pene del
+            purgatorio, et vi sono in detta chiesa li corpi di s. Matthia apostolo, di s. Romula, et
+            Redenta, et di s. Girolamo, Il presepio nel quale giacque <persName ref="#Jesus"
+               >Christo</persName> in Betheleen, il pannicello con il quale la beata <persName
+               ref="#Marie">Vergine</persName> lo inuolse, La stola di s Girolamo, la tonicella,
+            stola, et manipolo di s. Tomaso vescovo di Conturbia, tinta del suo sangue, Il capo di
+            s. Vibiana, di s Marcellino papa, un braccio di s Mattheo apetlslas;o, et evangelista,
+            di s. Luca evangelista, di s. Tomaso vescovo, et di s. <pb n=""/> Vibiana, et molte
+            altre reliquie, le quasi mostrano il giorno di Pasqua dopo vespero. Et vi furno l
+            infrascritti ornamenti, Sisto 3. vi dono un'altare d'argento di libre 400. tre patene
+            d'argento di libre 40. l'una, cinque vasi d'argento 28. corone d'argento 3. candellieri
+            d'argento, un incensieri di 15. libre, un ceruo d'argento sopra il battisterio. Simaco
+            vi feci un'arco d'argento di libre 15. e Gregorio 3. vi dono una imagine d'oro di Maria
+            vergine che abbracciava il Saluatore. </p>
+         <p>
+            <persName ref="#SaintLaurent">S. Lorenzo</persName> fuori de le mura, Questa chiesa e
+            fuori di <placeName ref="#Rome">Roma</placeName> quasi un miglio ne la via Tiberina et
+            fu edificata dal Magno <persName ref="#Constantin">Costantino</persName>, ilquale li
+            dono una lucerna d'oro, di libre 20. et dieci d'argento di libre 15, l'una il cardinale
+            Olivieri Caraffa poi l'orno di varii marmi, et d'un belliss. sopra cielo dorato, et vi e
+            statione la Domenica de la Septuagesima, la terza Domenica di quaresima, il Mercordi fra
+            l'ottava di pasqua, et il giovedi fra le pentecoste. Nel giorno poi di s. Lorenzo, et di
+            s. Stefano, et per tutta la sua ottava, vi sono anni oo et tante quarantene
+            d'indulgentia, et la remissione de la terza parte de peccati, et nel giorno de
+            l'inuentione di s. Stefano et de le festivita, et stationi di detta chiesa, oltre le
+            sopraditte indulgentie vi e la plenaria remissione de peccati. Et qualunque persona <pb
+               n=""/> confessa, et contrita entrara da la porta che e nel cortile di detta chiesa,
+            et andara dal Crocifisso ch'e sotto il porticale, a quello, ch'e sopra l'altare in
+            faccia di detta porta, conseguira la plenaria rimissione de peccati. Et chi visitara la
+            detta chiesa tutti li Mercordi d'un anno, liberara un'anima da le pene del purgatorio,
+            et il simile fara chi celebrara, o fara celebrare in quella capelletta sotto terra dove
+            e il cimiterio di Ciriaca. Et ogni giorno vi sono anni <date when="6048">6048</date>.
+            d'indulgentia, tante quarantene, et la remissione de la terza parte de peccati, et vi
+            sono li corpi di s. Lorenzo, et di s. Stefano protomartire, et un sasso di quelli che fu
+            lapidato, La pietra sopra laquale fu, posto s. Lorenzo dopo la sua morte, tinta del suo
+            grasso, et sangue, il vaso col quale, essendo in prigione, battezo s. Lucillo, et un
+            pezzo de la graticola sopra laquale fu arrostito, et molte altre reliquie. </p>
+         <p> S. Sebastiano, questa chiesa e fuori di <placeName ref="#Rome">Roma</placeName> ne la
+            uia Apia, et fu edificata da la beata Lucina, et nel giorno di s. Sebastiano, et di
+            tutte le Domeniche di Maggio vi e la plenaria remissione de peccati, Et per intrare ne
+            le catecombe dove e quel pozzo, che stetero un tempo nascosti li corpi di s. Pietro, et
+            Paolo, ui sono tante indulgentie quante sono ne la <pb n=""/> chiesa di s. Pietro, et s.
+            Paolo. Et ogni giorno vi sono <date when="6048">6048</date>. anni, et tante quarantene
+            d'indulgentia, et la remissione de la terza parte de peccati, et chi celebrara, o fara
+            celebrare a l'altare di s. Sebastiano liberera un'anima da le pene del purgatorio. Et
+            nel Cimiterio di Calisto, ilquale e sotto la detta chiesa vi e la plenaria remissione de
+            peccati, et ui sono cento settantaquatro mille martiri, tra liquali ui sono 18.
+            pontifici, Et in chiesa vi e il corpo di S. Sebastiano, et di s. Lucina vergine, et la
+            pietra, che era ne la Capella di Domine quo uadis, sopra laquale <persName ref="#Jesus"
+               >Christo</persName> vi lascio le uestigie del piede, quando apparue a s. Pietro chi
+            fuggiva da <placeName ref="#Rome">Roma</placeName>. </p>
+         <p> S Croce in Gierusalem, questa chiesa fu edificata da <persName ref="#Constantin"
+               >Costantino</persName> figlivolo di <persName ref="#Constantin">Costantino</persName>
+            magno, a prieghi di S. Helena, et fu consecrata dal beato Siluestro li 27. di Marzo,
+            andando poi in ruina Gregorio 2. la ristauro, et Pietro di Mendoza Cardinale, la rinovo,
+            et fu allhora ritrovato il titolo de la croce sopra la tribuna de l'altare maggiore, et
+            e Titolo di cardinale, et vi e statione la 4. Domenica di quaresima, il venerdi Santo,
+            et la 2. Domenica de l'Auvento. Et nel di de l'Inuentione, et Essaltatione, de la Croce,
+            et sue ottave, vi e <pb n=""/> la plenaria remissione de peccati. Et nel di de la
+            consecratione di detta chiesa, ne la capella ch'e sotto l'altar grande ne laquale non vi
+            entrano mai donne, se non in quel giorno, ui e la plenaria remissione de peccati, et
+            tutte le Domeniche de l'anno ui sono trecento anni, et tante quarantene d'indulgentia,
+            et la remissione de la terza parte de peccati. Et ogni di vi sono anzi <date when="6048"
+               >6048</date>. e tante quarantene d'indulgentia, et la remissione de la terza parte di
+            peccati, et visono li corpi di s. Anastasio, et Cesareo, una Ampolla piena del
+            pretiosissimo sangue del nostro Saluatore. La sponga con laquale li fu dato da bevere
+            l'aceto, et fele, due Spine de la corona, che li fu posta in capo, un de chiodi colquale
+            fu conficato in croce il titolo, che li pose sopra Pilato, del legno de la Santiss.
+            Croce, ilquale fu posto da S. Helena coperto d'argento, et ornato d'oro, et di gemme;
+            uno de li trenta danari, che fu venduto, et la mita de la croce del buon ladrone, et
+            molte altre reliquie, lequali si mostrano il venerdi Santo, et vi furno l'infrascritti
+            ornamenti, <persName ref="#Constantin">Costantino</persName> vi dono 4. candellieri
+            d'argento e 4. vasi, dieci calici d'oro, una patena d'argento dorata di libre 50. et una
+            d'argento di libre 250. <pb n=""/>
+         </p>
+         <p> NE L'ISOLA. <persName ref="#SaintJean">S. Giovanni</persName> ne l'Isola, in questa
+            chiesa vi e una imagine di Maria vergine, laquale innondando il Tevere non hebbe lesione
+            alcuna, ne manco l'acqua smorzo le lampade che li ardevano dinanzi. S. Bartolameo ne
+            l'Isola. Questa chiesa fu edificata da Gelasio papa. 2. et nel giorno di s. Bartolameo
+            vi e la plenaria remissione de peccati, et la Domenica de le palme vi e indulgentia
+            d'anni ducento Et vi sono li corpi di s. Paolino di s. Superante di S Alberto, et di s.
+            Marcello, liquali furno ritrovati in quel pozzo, ch'e dinanzi l'altare grande et di s.
+            Bartolameo, ilquale fu portato da Benevento a <placeName ref="#Rome">Roma</placeName> da
+            Orrone 2. Imp. et molte reliquie, lequali si mostrano nel giorno di s. Bartolameo, et ne
+            la Domenica de le palme. </p>
+         <p> IN TRASTEVERE. <persName ref="#Marie">S. Maria</persName> de l'orto apresso ripa ci e
+            uno hospitale per li infermi Marinari. Questa madonna e di molta divotione et a
+            indulgenza <pb n=""/> plenaria concessa a li pizzicaroli et herbaroli artigiani di
+               <placeName ref="#Rome">Roma</placeName> liquali li anno la sua compagnia. S. Cecilia,
+            similmente in Trastevere, dove e questa chiesa fu la propria casa, et habitatione di S.
+            Cecilia, laquale Pascale papa la consecro a honore d'<persName ref="#Dieu"
+               >Iddio</persName>, et di <persName ref="#Marie">S. Maria</persName>, et de <persName
+               ref="#Santi">Santi</persName> apostoli, Pietro, et Paolo, di s. Cecilia, et e titolo
+            di Cardinale, vi e statione il Mercordi dopo la 2. Domenica di quaresima, et nel giorno
+            di s. Cecilia vi e indulgentia plenaria. Et vi sono li corpi di s. Cecilia, et di S.
+            Valeriano, suo marito, di S. Tiburtio, di s. Lucio Papa. 1. et di s. Massimo, et molte
+            altre reliquie. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> in Trastevere, onde e hora questa chiesa vi
+            fu la Taberna meritoria Transtiberina, ne la quale era dato dal senato a li Soldati
+            Romani, che per vecchiezza non potevano piu militare, il vitto, insino al fine de la
+            loro vita, et in questo luogo dove sono al presente, vicino al choro quelle due
+            finestrelle cancellate di ferro, la notte che nacque il nostro Saluatore, vsci
+            miracolosamente da la terra un fonte d'oglio abondantiss. ilquale per spatio di un
+            giorno corse con grandis rivo insino al tevere, et Calisto 1. considerando questo <pb
+               n=""/> miracolo vi fece edificare una picciola chiesa, et essendo poi ruinata,
+            Gregorio 3. la fece rifare da fundamenti, et la fece maggiore, et tutta dipingere.
+            Questa chiesa è titolo di Cardinale, vi è statione il giovedi dopo la 2. Domenica di
+            quaresima. Et ne l'ottava de l'Assontione di nostra Donna vi è la plenaria remissione di
+            peccati. Et nel primo giorno de l'anno vi è indulgentia di anni 25. mille, et la
+            plenaria remissione de peccati. Et vi sono li corpi di S. Calisto. 1. d'Innocentio et di
+            Giulio pontifici, et martiri, et di san <persName ref="#Quirinus">Quirino</persName>
+            Vescovo. </p>
+         <p> S. Grisogono: questa chiesa è anchor lei in Trastevere, et è titolo di Cardinale, et vi
+            è statione il lunedi dopo la 5. Domenica di quaresima, et vi sono l'infrascritte
+            reliquie: un brazzo di S. Giacobo maggiore, una spalla di S. Andrea, il capo et una mano
+            di san Grisogono, del legno de la Croce, et de li capilli di <persName ref="#Jesus"
+               >Christo</persName>: una costa di S. Stefano, de le reliquie di S. Sebastiano di S.
+            Cosmo è Damiano, di S. Giuliano martire, di <persName ref="#SaintPierre">S.
+               Pietro</persName>, di S. Paolo, et di S. Mattheo apostoli: di S. Vrbano Papa: di san
+            Lorenzo, di san Primo, et Feliciano, di san Giorgio, di S. Cecilia, di S. Prisca, di S.
+            Ninfa, et di S. <persName ref="#Bacchus">Dionisio</persName>, del sepolcro di <persName
+               ref="#Jesus">Christo</persName>, del Monte Sion, et della Terra santa di Gierusalem. </p>
+         <p> Santo Francesco, nel giorno de la sua festivita et per tutta la ottava, vi è la
+            plenaria remissione <pb n=""/> de peccati, et nela detta chiesa vi è una capella dove è
+            sepolto el corpo della beata Ludouica Romana quale fa miracoli. </p>
+         <p> S. Cosmate e posta dove era la Naumachia de <persName ref="#JulesCesar"
+               >Cesare</persName> è uno monastero de venerande donne Romane renchiuse de l'ordine de
+               <persName ref="#SaintFrancois">S. Francesco</persName> oseruante, vie molta
+            Indulgenza è perdonanza per li peccati. </p>
+         <p>
+            <persName ref="#SaintPierre">S. Pietro</persName> Montorio: questa chiesa è nel
+            Ianicolo, et fu restaurata da Ferdinando Re di <placeName ref="#Espagne"
+               >Spagna</placeName>, et Clemente 7. essendo Cardinale, vi fece fare la palla de
+            l'altare grande, et il Tabernacolo. Et a mano drita entrando da la porta grande, vi è
+            una imagine di <persName ref="#Jesus">Christo</persName> a la colonna di pinto da fiate
+            Sebastiano Venetiano pittore eccellentiss. Et dove è quella capella rotonda fuori di
+            detta chiesa è il luogo dove fu posto in croce <persName ref="#SaintPierre">S.
+               Pietro</persName> apostolo: et Paolo. 3. vi concesse molte indulgentie, come appare
+            in un marmo sopra la porta per andare a detta capella. Et hora vi è una bellissima
+            sepoltura fabricata dalla Santita de papa Iulio terzo al zio Cardinal d'Monte. </p>
+         <p> S. Pancratio. questa chiesa è fuori de la porta Aurea, ne la via Aurelia, et fu
+            edificata da Honorio. 1. et è ornata di bellissimi porfidi, et è titolo di Cardinale, et
+            vi è statione la Domenica de li Apostoli: Et vi sono li corpi di S. Pancratio Vescovo et
+            martire, et di san Pancratio cavalier è martire, di san Vettore, Malco, Madiano, et di
+               <pb n=""/> Gotteria. Et nel cimiterio di S. Calipodio prete, et martire, ilquale e
+            sotto la detta chiesa vi è un numero infinito di martiri, liquali si possono toccare, et
+            vedere, ma non portarli via senza licentia del Pontefice sotto pena di escommunicatione
+            maggiore. </p>
+         <p> S. Honofrio, questa chiesa sta fra la porta Setignana è S. Spirito sopra del colle
+            ameno, vi sono molte reliquie è perdonanza per li peccati. </p>
+         <p> NEL BORGO. S. Spirito in Sassia: questo Hospitale fu edificato da Innocentio. 3. et
+            dotato di buone rendite, et Sisto 4. lo ristaurò, et gli accrebbe l'entrate, et fu detto
+            in Sassia, perché ivi habitarono un tempo quelli di Sassonia, et vi si fa molte
+            elemosine, et si governano di continuo molti inferml, et orfani. Et novamente il
+            Reverendo. P. N. Lando commendator di detto Hospitale, vi ha edificata da fondamenti una
+            bellissima chiesa, et vi è la perdonanza la Domenica piu prossima a S. Antonio, et il di
+            de la Pentecoste: Et vi è il brazzo di S. Andrea, un dito di S. Caterina, et molte altre
+            reliquie de santi. S. Angelo: questa chiese fu edificata dal beatissimo papa Gregorio
+            quando con il clero è populo Romano andava in processione cantando letanie, che sopra la
+            rocca del castello l'angelo Michaele <pb n=""/> fu veduto rimetere la spada
+            sanguinolente dentro il fodro: vi sono molte reliquie et indulgentia plenaria in
+            remissione deli peccati, et dura per tutta la ottava de la sua festivita, è vie una
+            compagnia di nobile persone Romane che ogni anno maritano povere zittele. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> di Campo santo: in questo luogo vi è un
+            cimiterio di terra santa portata di Gierusalem, et quivi si sepeliscono li pellegrini,
+            et povere persone d'ogni natione, et per quanto si dice in tre giorni si consumano, et
+            vi sono molte indulgentie, et molte reliquie. </p>
+         <p> S. Stefano de l'Indiani drieto la chiesa de san Pietro in <placeName ref="#Vatican"
+               >Vaticano</placeName>, vi è l'abitatione di essi Indiani, et offitiano ne la lor
+            lingua li offitii divini, et li è molta indulgentia concessa dali sommi Pontifici. </p>
+         <p> S. Egidio abbate questa chiesa posta fuori dela porta de. s. Pietro in <placeName
+               ref="#Vatican">Vaticano</placeName> laquale e molto in divotione del popolo Romano,
+            chel primo de Settenbrio vi vano per essere avuocato dela febre et vie Indulgentia
+            plenaria. </p>
+         <p> S: <persName ref="#LazareDeBethanie">Lazaro</persName> è Marta et <persName
+               ref="#MarieMadeleine">Madalena</persName> è fuori dela porta di san Pietro a piedi
+            del monte Mario alli 22. de Lulio vi è molta indulgentia è perdonanza de li peccati:
+            questa Chiesa è posta fuori di <placeName ref="#Rome">Roma</placeName> perché cie
+            lospitale per li poveri ch'hanno il morbo, che vi sono bene governati. </p>
+         <p> S. Catarina: questa chiesa è nella piazza di S. <pb n=""/> Pietro, et nel giorno di S.
+            Catarina vi è la plenaria remissione de peccati: et vi è del latte ch'vsci in luogo di
+            sangue, dal collo di santa Catarina quando li fu tagliata la testa, et de l'oglio che
+            esce dal suo sepolchro. </p>
+         <p> S. Giacobo Scossa cavallo: questa chiesa è su la piazza del Reverendissimo Cardinale
+            Saluiati, et vi è la pietra sopra laquale fu offerto il nostro Saluatore nel Tempio nel
+            di dela sua circoncisione, et quella sopra laquale Abraam volse sacrificare il
+            figlivolo, lequali furno portate a <placeName ref="#Rome">Roma</placeName> per metterle
+            in san Pietro, da S. Helena, et gionte chi furno dove è hora questa chiesa, li cavalli
+            che le conducevano creporno, ne mai piu si potero condurre altrove, per ilche fu poi
+            fatta questa chiesa, et quivi le collocorno. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> Traspontina: In questa chiesa vi sono due
+            colonne a lequali furno flagellati li beatissimi apostoli Pietro, è Paolo. </p>
+         <p> DALLA PORTA FLAMINIA fora del Populo sino alle radici del <placeName ref="#Capitole"
+               >Campidoglio</placeName>. S. Andrea fuori della porta del Popolo nella via flaminia:
+            e una Capella ritonda con grande arte e bellezza fabricata per la S. di N. Sig. papa <pb
+               n=""/> Iulio Terzo il quale ci ha concesso Indulgentia plenaria per li vivi e per li
+            morti, il di de S. Andrea al'ultimo di Novembre. Et in quel di si fa una solenne
+            processione de tutte le compagnie, et fraternita, di <placeName ref="#Rome"
+               >Roma</placeName> da santo Lorenzo in Damaso a san Pietro in <placeName
+               ref="#Vatican">Vaticano</placeName>. <persName ref="#Marie">S. Maria</persName> del
+            Popolo. Dove è l'altar maggiore di detta chiesa sotto un arbore di Noce vi erano sepolte
+            l'ossa di <persName ref="#Neron">Nerone</persName> Imp. custodite da i demonii, liquali
+            infestavano ogniuno che passava per detto luogo, et Pascale papa, per rivelatione della
+            beasissima <persName ref="#Marie">Vergine</persName>, le cauò, et gettò nel Tevere, et
+            fondò un altare, et Sisto 4. da fondamenti la rinouò. Et da mezza quaresima insino per
+            tutta l'ottava di Pasqua sono ogni giorno anni mille, et altre tante quarentene,
+            d'Indulgentia. Et nel di dela Natività, Purificatione, Annonciatione, Visitatione,
+            Assontione, et Concettione di Maria vergine, sue ottave, et tutti li sabbati di
+            quaresima vi e la plenaria remissione de peccati. Et vi sono molte reliquie, et una de
+            le imagini di nostra Donna, che dipinse <persName ref="#SaintLuc">S. Luca</persName>. </p>
+         <p> Santa Maria de miracoli, acanto le mure dela porta del popolo, e una chiesa molto
+            frequentata, et divota de molti miracoli, ci e plenaria Indulgentia et remissrone deli
+            peccati. </p>
+         <p> La Trinita: questa chiesa è nel monte Pincio, et fu fabricata a prieghiere di san
+            Francesco di Paula, da Lodouico. xi. Re di Franza. <pb n=""/>
+         </p>
+         <p> S. Giacobo in Augusta. In questo luogo vi è un hospidale nel quale vi si fa molte
+            elemosine, et si governano li infermi d'infirmità incurabili, et nel di de
+            l'Annontiatione di Maria vergine, il primo giorno di Maggio, et di Morti, vi è la
+            plenaria remissione de peccati, et tutti li sabbati de l'anno vi è la remissione de la
+            terza parte de peccati. </p>
+         <p> Santo Ambroso soto al monte dela Trinita, questa chiesa e suta fabricata dala natione
+            Milanesa, con l'Hospitale per li poveri de la natione loro, Papa Clemente vii. li ha
+            concesa grande Indulgentia e privilegi. </p>
+         <p>
+            <persName ref="#SaintRoch">Santo Roco</persName> a Ripetta, dove prima era il mausoleo
+            de <persName ref="#Auguste">Augusto</persName> Imp. E chiesa fabricata modernamente con
+            un belissimo hospitale per la natione. Lombarda dela compagnia di S Martino vi e ogni di
+            Indulgentia plenaria concessa da molti sommi Pont. </p>
+         <p> Santo Ieronimo deli Schiavoni pure a Ripetta e chiesa di molta divotione, et ci e
+            l'hospitale per la natione Schiavona dove se li da albergo, et da vivere. </p>
+         <p>
+            <persName ref="#SaintLaurent">S. Lorenzo</persName> in Lucina: questa chiesa fu
+            anticamente il Tempio di <persName ref="#Junon">Giunone</persName> Lucina: et Celestino.
+            3. la dedicò a san Lorenzo martire, et è titolo di Cardinale, et vi è statione il
+            venerdi dopo la 3. domenica di quaresima. Et vi sono li corpi di S. <persName
+               ref="#AlexandreLeGrand">Alessandro</persName>, Euentio, Teodolo, Severino, <pb n=""/>
+            Pontiano, Eusebio, Vicentio, Peregrino, et Gordiano. Due ampolle del grasso, et sangue
+            di san Lorenzo, un vase pieno de la sua carne abbrusciata, una parte della graticola
+            sopra laquale fu arrostito, et un panno con ilquale l'Angelo nettò il suo santissimo
+            corpo, et molte altre reliquie. </p>
+         <p> S. Siluestro: questa chiesa fu edificata da Simaco. 1. et e titolo di Cardinale, et vi
+            è statione il giovedi dopo la 4. Domenica di quaresima: Et nel giorno di S. Chiara, et
+            di S. Siluestro, vi è la plenaria remissione de peccati. Et vi e il capo di san Giovanni
+            Battista, di san Stefano papa, et de la beata Margarita di casa Colonna, che fu monacha
+            in detto luogo, un pezzo di cappa di san Francesco, dele reliquie di san Francesco, et
+            di molti altri. </p>
+         <p> Le Conuertite, questo e uno monasterio dedicato a santa Maria <persName
+               ref="#MarieMadeleine">Madalena</persName> per le meretrici pentite ui è molta
+            indulgenza plenaria concessa da papa Clemente. vii. e papa Paulo terzo. </p>
+         <p>
+            <persName ref="#Santi">Santi</persName> Apostoli, Questa chiesa fu edificata dal
+               <persName ref="#Constantin">Magno Constantino</persName> in honore de li. 12
+            Apostoli, et essendo ruinata da li heretici, Pelagio, et Giovanni sommi pontifici, la
+            ristaurorno, et è titolo di Cardinale, et vi è statione tutti li venerdi de li quatro
+            tempori, il Giovedi fra l'ottava di Pasqua, et la. 4. Domenica de l'Aduento, et nel
+            primo giorno di Maggio vi è la plenaria remissione de peccati, Et vi sono li corpi di.
+            s. Filippo, <pb n=""/> e Giacobo Apostoli, et di. s. Giovanni, e Pelagio papa, e
+            martiri, di. s. Teodoro, Cirillo, Honorato, Colofio, Buono, Fausto, Proto Giacinto,
+            Giouino, Mauro, Nazario, Superantio, Basilio, Primitivo, Eugenio, Claudia, Sabino, una
+            gran parte di. s. Grisante, et Daria, una costa di. s. Lorenzo, un ginochio di. s.
+            Andrea, una spalla, et brazzo di. s. Biagio, del legno de la Croce, una veste senza
+            maniche di san Tomasso Apostolo, et il Scapolario di. s. Francesco. </p>
+         <p> S. Marcello, Questa chiesa fu edificata da una gentildonna Romana in honore di s.
+            Marcello papa, ilquale fu posto in detto luogo, (ch'era una stalla) per commandamento di
+            Massentio, et ivi mori dal gran fettore che vi era, et è titolo di Cardinale, et vi è
+            statione il Mercordi dopo la. 3. Domenica di quaresima, et nel giorno di s. Marcello vi
+            è indulgentia plenaria, et vi sono li corpi di santa Degna, Merita, Marcello, Feda,
+            Giovanni prete, Biagio, <persName ref="#Diogene">Diogene</persName>, Longino, et
+            Felicita, con sette figlivoli, li capi di. s. Cosmo, et Damiano, una mascella di. s.
+            Lorenzo, un brazzo di. s. Mattheo Apostolo, et Euangelista, et molte altre reliquie. </p>
+         <p> Santa Maria in via lata. Questa chiesa è titolo di Cardinale et nel giorno de la
+            purificatione et Nativita di Maria vergine vi è la plenaria remissione di peccati, et vi
+            è l'oratorio di. s. Paolo Apostolo, et di. s. Luca, nel quale scrisse li Atti <pb n=""/>
+            de li Apostoli, et dipinse quella imagine di Maria vergine, che e in detta chiesa, in
+            quello stato nel quale esso .s. Luca hebbe prima di lei notitia, et però la depinse con
+            lo anello in dito laquale sino a questo giorno si vede in detto oratorio ne la cui
+            figura la gloriosa vergine operava molti miracoli et molti christiani che a quella
+            venivano per gratie tornavano lieti et exauditi chiamavasi prima loratorio di .s. Paulo
+            e Luca. </p>
+         <p>
+            <persName ref="#SaintMarc">S. Marco</persName>. Questa chiesa fu edificata dal beato
+            Marco Papa, et essendo ruinata Paolo. ij. la ristaurò, et e titolo di Cardinale, et vi e
+            statione il Lunedi dopo la terza Domenica di Quaresima, Et nel primo di de l'anno di .s.
+            Marco evangelista, de l'ottava del corpo di <persName ref="#Jesus">Christo</persName>,
+            etddash; l'Epifania, di. s. Abdon et Sennem, et dal Lunedi santo insino al Martedi di
+            Pasqua, ui e la plenaria remissione de peccati. Et vi sono molte reliquie lequali si
+            mettono sopra l'altar grande ne li giorni festivi di detta chiesa: </p>
+         <p> Santa Maria de Loreto questa chiesa e posta nel foro dou'è la colonna Antonina chiesa
+            molto divota e con belissimo ordine fabricata ui e ali otto de setenb. indul. plen. per
+            li vivi e per li morti. </p>
+         <p> Santa Marta nel rione de la Pigna e uno monasterio di sante donne miserabili, vi e
+            molti privilegij et indulgenza plenaria a chi visitera detta chiesa, apresso a questo vi
+            e uno altro monasterio nominato le male maritate. <pb n=""/>
+         </p>
+         <p> Santa Maria de la strada pure nel rione de la Pigna a la piaza de li Altieri qui ui e
+            ogni giorno grandisima indulgenza concessa a li padri de la conpagnia de Iesu detti
+            preti reformati li quali senza di propio fanno molte devotissime opere in prediche,
+            confessioni, conmunioni, et hanno fatto colegij dove se impara lelhumane lettere Hebree
+            Greci, Latine, in ogni faculta senza pagamento per conmodita del populo Romano. </p>
+         <p> Santa Maria sopra la Minerua, Dove e questa chiesa fu gia il Tempio di Minerua
+            Calcidica, et vi e una compagnia, laquale ogni anno marita molte cittele, et nel giorno
+            di. s. Domenico vi e la plenaria remissione de peccati, Et chi celebrara, o fara
+            celebrare a l'altare grande di detta chiesa liberara una anima da le pene del
+            Purgatorio, et ui sono de li vestimenti, et capelli di Maria vergine, et molte altre
+            reliquie. </p>
+         <p> Santa Maria rotonda. Questa chiesa fu anticamente il Tempio di tutti li Dei. et
+            Bonifacio. 4. la ottenne da Foca Imperatore, et alli 12, di Maggio lo consecrò a Maria
+            vergine, et a tutti li <persName ref="#Santi">Santi</persName>, et vi e statione il
+            venerdl fra l'ottava di Pasqua, et nel di del Inuentione de la Croce, de l'Assontione,
+            Nativira, et Concettione di Maria <persName ref="#Marie">Vergine</persName>, et di tutti
+            li santi, et per tutta la sua ottava, e la plenaria remissione de peccati, Et vi sono li
+            corpi di san Rasio, et Anastasio, et di molti altri. <pb n=""/>
+         </p>
+         <p> Santa Maria <persName ref="#MarieMadeleine">Madalena</persName>. In questa chiesa nel
+            di de la <persName ref="#MarieMadeleine">Madalena</persName> vi è la plena. remissi. de
+            pec. </p>
+         <p> Santa Maria de campo marzo a questa chiesa vi sono Monache che gia, 300 anni venero de
+               <placeName ref="#Grece">Grecia</placeName>, qui è una imagine di un Saluatore molto
+            divota che se chiama la pieta, et ci e il capo de. s. <persName ref="#Quirinus"
+               >Quirino</persName> martire et il corpo di. s. Gregorio Nazanzeno, apresso a questo
+            monasterio vi sono doi altri monasterij de l'ordine di san Francesco chiamati di monte
+            Citorio. </p>
+         <p> Santa Elisabeta ne la piaza Capranica e una chiesa con molte reliquie e perdonanze
+            concesse dali sunmi pontefici, et masimamente da papa Paulo terzo novamente per li
+            fanciulli, et fanciulle miserabili lequali in questo luoco sono de elemosine governati
+            et amaestrati de lettere e vertu. </p>
+         <p> S. Mauto in questa chiesa ci sono molte reliquie di santi et previlegi concessi in nome
+            de .s. Bartolomeo et Alesandro per la compagnia et natione ergamasca. ali. xxv. di
+            Agosto. </p>
+         <p> S. Eustachio. Questa chiesa fu edificata da Celestino. 3. et è titolo di Cardinale, et
+            vi e del sangue, vestimenti, corona di Spini, et legno de la croce di <persName
+               ref="#Jesus">Christo</persName>, de la croce di. s. Andrea, de li carboni sopra
+            liquali fu arrostito .s. Lorenzo de le reliquie di. s. Eustachio, di Teopista sua donna,
+            et di Teopisto, et Agapito suoi figlivoli, et di molti altri. </p>
+         <p> S. Alouise nel Rione de santo Eustachio questa <pb n=""/> chiesa e edificata dala
+            natione Franzese con belissima fabrica, et benissimo offitiata ci sono molti privilegij
+            et indulgenza plenaria ogni giorno ne la capella del Saluatore nela detta chiesa vi e de
+            le reliquie di santa Apolonia con molti altri santi. </p>
+         <p> S. Agostino. Questa chiesa fu da fondamenti rinovata dal Reveren. Cardinale Guglielmo
+            Rotomagense, et nel di di. s. Nicola di Tolentino vi e la plenaria remissione de
+            peccati, et vi e il corpo di. s. Monicha, et una de l'imagini di Maria vergine di quelle
+            che dipinse. s. Luca, laquale al tempo d'Innocentio. 8 fece molte gratie, et ne la
+            chiesa di. s. Trifone laquale e attacata a detta chiesa vi e statione il primo sabbato
+            di quaresima, et vi e il capo di. s. Ruffina. </p>
+         <p> S. Trifone, Questa chiesa e contigua ala chiesa di santo Augustino vi sono molte
+            Reliquie, et e statione el primo sabato de quaresima. </p>
+         <p> S. Antonio de Portoghesi apresso dove se dice la Scrofa questa chiesa Papa Gelasio la
+            dedico a s. Antonio et Vincentio et la dotò di molte indulgentie et privilegij per la
+            natione portoghese quale in questo loco loro hanno il suo ospitale dove si da albergo et
+            vitto a li poveri forestieri del paese che vengano a <placeName ref="#Rome"
+               >Roma</placeName>, </p>
+         <p> S. Apollinare. Questa chiesa fu gia il tempio d'<persName ref="#Apollon"
+               >Apolline</persName>, et Adriavo. j. la dedico a. s. Apollinare, et e titolo di
+            Cardinale, et vi e statione il <pb n=""/> Giovedi dopo la. 5. Domenica di quaresima, et
+            vi sono li corpi di. s. Eustratio, Nardario, Eugenio, Oreste, et Ausentio. </p>
+         <p> S. Giacobo di Spagnoli. Questa chiesa fu edificata da Alfonso Paradina, Spagnuolo,
+            Vescovo civitatense, et vi è la plenaria remissione de peccati adi. 25. de Luglio, et vi
+            e lospitale per la natione spagnola. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> de l'Anima. In questo luogo vi e un hospitale
+            nel quale e concesso allogiamento a ciascuno Todesco per tre notte. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> de la pace. Questa chiesa fu edificata da
+            Sisto. 4. et nel di de la Purificatione, Annontiatione, Visitatione, Neve, Assontione,
+            Nativita, Presentatione, et Concettione di Maria <persName ref="#Marie"
+               >Vergine</persName>, et tutti li sabbati di Quaresima vi e la plenaria remissione de
+            peccati, et da mezza Quaresima insino per tutta l'ottava di Pasqua, vi sono anni mille,
+            et tante quarantene d'indulgen. et vi sono molte reliquie lequali ne la solemnita di
+            detta chiesa si mettono sopra l'altare mag. </p>
+         <p> S. Tomasso in Parione. Questa chiesa e titolo di Cardinale, et fu consecrata da
+            Innocentio. 2. li. xxi. di Decembre l'anno. <date when="1139">1139</date>. et pose ne
+            l'altare grande un brazzo di. s. Damaso, Calisto, Cornelio, Vrbano, Stefano, Siluestro,
+            et Gregorio Pontefici, de le vestimenta di Maria vergine, de i pani d'orzo, de i sassi
+            che fu lapidato. s. Stefano, del sangue di. s. Lucia, de le reliquie di. s. Nicolo, <pb
+               n=""/> Valentino, Sebastiano, Tranquilino, Foca de i quatro coronati, Giovanni, et
+            Paolo, Crisante, et Daria, Cosma, et Damiano, Ninfa, Sofia, Balbina, Marta, et
+            Petronilla, lequali reliquie sono state occolte insino l'anno. <date when="1546"
+               >1546</date>. l'anno. 12. de Paolo. 3. essendo Rettori di detta chiesa il molto
+            Reveren. messer Giuliano Gallo, et furno ritrovate dal Reveren. messer Ambrosio Maggio
+            dottore de l'una et l'altra legge, vicerettor di detta chiesa. </p>
+         <p> S. Saluator del Lauro nel Rione de Ponte, questa chiesa fu edificata dal Cardinale
+            Latino vrsino et adornata de belissima fabrica et Privilegi et e monasterio de frati de
+            l'ordine di san Iorgio d'alega. </p>
+         <p> Santo Ioanni de li Fiorentini a la strada Iulia fu comenciata a fabricare molto
+            al'infreta per fare una bella chiesa et ali. 24. di Iugno vi e indulgenza plenaria. </p>
+         <p> S. Biagio de la Panetta. Questa chiesa fu edificata al tempo d'<persName
+               ref="#AlexandreLeGrand">Alessandro</persName> 2. et ui e del legno de la croce, de la
+            veste di Maria vergine, de le reliquie di .s. Andrea, Biagio, Crisante, et Daria, e
+            Sofia ne la strada Iulia dove Papa Iulio. ii. volea fare il palazo de la ragione di
+               <placeName ref="#Rome">Roma</placeName>. </p>
+         <p> Santa Lucia detta de la Chiavica nel Rione di Ponte in questa chiesa vi e ogni giorno
+            Indulgen. plenaria concesa da molti Summi Pontefici per la venerabile compagnia del
+            Confalone <pb n=""/> quale apresso a deta chiesa hanno il suo oratorio benissimo
+            offitiato. </p>
+         <p> S. loanne in nania apresso corte Savela in questa chiesa vi e una compagnia di molte
+            persone detta de la Oratione altramente detra de la Morte che con bone opere et santa
+            vita hanno indulgenza plenaria ogni seconda Domenica di mese. </p>
+         <p> Santo Gerolimo apreso al palazo Farnese in questa chiesa ogni giorno vi e indulgenza
+            plenaria in remistone de li peccati, et qui vi si fa de molte elimosine a povere persone
+            di <placeName ref="#Rome">Roma</placeName> vergognose per la compagnia della Charita che
+            in deta chiesa si congregano. </p>
+         <p> Casa santa, questa chiesa e monasterio di monache di santa vita quale con bona dotrina
+            amaestrano et imparano vertu ale figliole et ali. 8. di Decembre ui e perdonanza. </p>
+         <p> San Lorenzo in Damaso. Questa chiesa fu edificata, et dotata dal Beato Damaso papa, et
+            li dono una patena d'argento de libre. 20, un vaso di libre. 10. cinque calici, et
+            cinque corone, et essendo mezza guasta il Reveren. Cardinale san Giorgio la reedificò da
+            fondamenti, et ui institui una capella di cantori, et e titolo di cardinale, et ui e
+            statione il Martedi dopo la. 4. Domenica di quarefima, et vi sono li corpi di. s. Buono,
+            Mauro, Faustino, Giouino, Eutirio, et suoi fratelli, la testa di. s. Barbara, del grasso
+            di. s. Lorenzo, un piede di. s. Damaso, et molte altre reliquie. <pb n=""/> Vi sono
+            anchora due compagnie, una del santissimo Sacramento laquale fa molte elemosine, et è la
+            prima che fusse fatta in <placeName ref="#Italie">Italia</placeName>, et l'altra di la
+            Concettione di nostra Donna la quale ogn'anno nel di de la Concettione marita molte
+            citelle. </p>
+         <p> S. Barbara. Questa chiesa è tra piazza Giudea, et campo de Fiore, et vi sono de li
+            capelli di .s. Maria <persName ref="#MarieMadeleine">Maddalena</persName> de le
+            vestimenta di Maria vergine, del velo, et capo di .s. Barbara dele reliquie di. s.
+            Bartolameo, Filippo, et Giacobo Apostoli di. s. Margarita, Felice, Ioricio, Christoforo,
+            Sebastiano, Alessio, Mario, Marta, Lorenzo, et Petronilla, et di molti altri. </p>
+         <p> S. Martinello apreso la Regola questa chiesa fu edificata da un Gualtiero monacho di
+            .s. saluator al tempo di Honorio Papa, 30, qui è de la tunicha, et vestimento che la
+            beata vergine Maria fece al suo figlivolo Iesu Xristo, laquale crebe con seco. </p>
+         <p> S. Saluator in campo apresso a la Regola in questa chiesa vi è ogni giorno grande
+            perdono et ci è la compagnia de la Santissima Trinita, quale con molte elemosine souiene
+            del vivere ali poveri pelegrini che vengano a <placeName ref="#Rome">Roma</placeName>,
+            et a queli infermi poveri che escono deli ospitali che non bene guariti qui se
+            rinforzano. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> de Monticelli. Questa chiesa è nel orione de
+            la regola et vi sono li corpi di .s. Ninfa <pb n=""/> vergine, et di. s. Manciliano
+            vescovo, et altre reliquie. </p>
+         <p> S. Biagio. Questa chiesa è anchor lei nela regola, et vi è l'anello di. s. Biagio, et
+            molte altre reliquie. </p>
+         <p> Santa Maria del Pianto, questa e una chiesa che prima si diceva santo Saluatore e per
+            li miracoli che novamente questa gloriosa figura ha fatto et fa del continuo vi e ogni
+            giorno Indulg. ple. </p>
+         <p> S. Catherina de li funari in questa chiesa vi è il monasterio de le citelle miserabili,
+            le quali qui si nutriscano con santa vita et buoni costumi sino al tempo che sono in
+            essere di maritarsi et si maritano overo si fano monache in questo luoco ogni giorno vi
+            è perdonanza et il giorno di. s. Andrea ui è iubileo plenario conceso dala .s. di N. S.
+            Papa Iulio Terzo. </p>
+         <p> S. Angelo. Questa chiesa è in pescaria, et fu gia il tempio di <persName ref="#Junon"
+               >Giunone</persName>, et è titolo di Cardinale, et vi sono li corpi di. s. Sinforiano,
+            et di suoi compagni, et molte altre reliquie, et il Senatore ogni anno vi offerisce un
+            calice. </p>
+         <p> S. Nicolao in carcere. Dove è questa chiesa, furno le prigioni antiche, et essendo
+            consuli C. Quintio, et M. Attilio ivi fu fatto il Tempio de la Pieta, percioché essendo
+            stato condennato a morire uno di fame in prigione, una sua figlivola ogni giorno, sotto
+            colore d'andarlo a visitare, li dava il latte, et accorgendosi li guardiani, <pb n=""/>
+            lo rifferirno al senato, et il senato per un tal atto di pieta, perdonò al padre, e ad
+            ambedue li diedero il vitto per tutta la vita loro. Questa chiesa è titolo di cardinale,
+            vi è statione il Sabbato dopo la. 4. Domenica di quaresima, et nel giorno di .s. Nicolao
+            è la plenaria remissio. de peccati. Et vi sono una costa di .s. Matteo Apostolo, una
+            mano di. s. Nicolao, et un brazzo di san Alessio. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> Ara celi. Questa chiesa è nel monte
+            Capitolino, et è ornata di belle colonne, et varij marmi, et fu edificata sopra le ruine
+            del Tempio di <persName ref="#Jupiter">Giove</persName> Feretrio, et del palazzo di
+               <persName ref="#Auguste">Augusto</persName>, et nel giorno di .s. Antonio di
+               <placeName ref="#Padoue">Padova</placeName>, di s. Bernardino, de l'Assontione
+            Nativita, et Concettione di Maria vergine di. s. Lodouico vescovo, et de la Nativita del
+            nostro Saluatore vi è la plenaria remissione de peccati, et vi sono li corpi di. s.
+            Artemio, Abondio, et Abondantio, et dinanzi al choro vi è una pietra rotonda cancellata
+            di ferro, ne la quale vi rimasero le vestigie de i piedi d'un Angelo quando Gregorio
+            Papa la consecro, et una imagine di Maria vergine dipinta da .s. Luca in quella maniera
+            che lei stette a la croce di <persName ref="#Jesus">Christo</persName>. Et a la salita
+            di detta chiesa vi è una largiss. scala di marmo di cento e venti otto scalini, liquali
+            furno fatti de li ornamenti del Tempio di <persName ref="#Quirinus">Quirino</persName>,
+            che era nel monte Cavallo. <pb n=""/>
+         </p>
+         <p> DAL CAMPIDOGLIO A MAN manca ne li monti. <persName ref="#SaintPierre">S.
+               Pietro</persName> in carcere Tulliano. Questa chiesa è a piedi di <placeName
+               ref="#Capitole">Campidoglio</placeName>, et la consecrò .s. Siluestro, et ivi stete
+            in prigione .s. Pietro et .s. Paolo, liquali volendo battezzare Processo, et Martiniano,
+            guardiani di detta prigione, vi nacque miracolosamente una fontana, Et ogni di vi sono
+            anni mille, e ducento de indulgentia, et la remisssione de la terza parte de peccati, et
+            ne li giorni festivi sono duplicati. Et vi sono li corpi di .s. Processo, et Martiniano.
+            S. Adriano. Questa chiesa è anchor lei nel foro Romano, et fu anticamente lo Erario, et
+            Honorio .j. la consecrò a .s. Adriano, et è titolo di Cardinale, et vi sono li corpi di
+            .s. Mario, et Martha, et de le reliquie di santo Adriano, et di molti altri. </p>
+         <p> S. Cosmo e Damiano. Questa chiesa è nel foro Romano, et fu anticamente il Tempio di
+            Romolo, et Felice. 4. lo dedico a. s. Cosmo et Damiano, et essendo rouinata il beato
+            Gregorio la restaurò, et è titolo di Cardinale, et vi è statione il Giovedi dopo la .3.
+            Domenica di quaresima, et ogni di vi sono anni mille de indulgentia, et vi sono li corpi
+            di. s. Cosmo, et Damiano, et molte altre reliquie, et le porte che vi sono di Rame sono
+            antiche. <pb n=""/>
+         </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> nuova. Questa chiesa è vicina a larco di
+            Tito, et fu edificata da Leone. 4. et essendo ruinata Nicolo .v. la restaurò, et è
+            titolo di Cardinale, et vi sono li corpi di. s. Nemesio, Giustino, Sinsoriano, Olimpio,
+            Essemperio, et Lucilla, et dinanzi laltare grande in quella sepoltura cancellata di
+            ferro vi è il corpo de la beata Francesca Romana, laquale fu da <persName
+               ref="#AlexandreLeGrand">Alessandro</persName>. 6. canonizata. Et una de le imagini,
+            che dipinse .s. Luca in un tabernacolo di marmo, laquale era in <placeName ref="#Grece"
+               >Grecia</placeName> ne la cirta di Troade fu portata a <placeName ref="#Rome"
+               >Roma</placeName> da lo Illustre cavalier Angelo Freapani, et essendosi abbrusciata
+            questa chiesa al tempo di Honorio. 3. la detta imagine nostr hebbe lesjone alcuna. </p>
+         <p> S. Clemente. Questa chiesa è fra il Colisseo, et .s. Giovanni laterano, et è titolo di
+            Cardinale, et vi è statione il Lunedi dopo la. 2. Domenica di Quaresima la plenaria
+            remissione de peccati et ogni giorno sono anni. 40. et tante quarantene de indulgentia,
+            et ne la quaresima sono duplicate, et vi sono li corpi di. s. Clemente, et di s.
+            Egnatio, et nela capella che è fuori de la chiesa vi è il corpo di. s. Seruolo, vi sono
+            ancho molte reliquie, lequali nel giorno de la statione si vedono su laltare grande. Et
+            dove è quella capelletta del Saluatore fuori di detta chiesa verso il Colisseo, partori
+            quella femina che fu creata Papa, et percio il pontefice quando va à. s. Giovanni
+            laterano non passa per questa strada, ma va da <pb n=""/> quella verso le sette sale. Et
+            in quella capelletta, detta s. Maria imperatrice, verso. s. Giovanni Laterano, vi è una
+            imagine di Maria vergine, laquale parlò a. s. Gregorio et lui vi concesse a chiunque
+            dira tre volte il Pater noster, et l Aue Maria, anni. 15. de indulgentia per ciascuna
+            volta. </p>
+         <p> S. Quattro coronati. Questa chiesa è nel monte Celio, et fu edificata da Honorio. 1. et
+            essendo rouinata Leone. 4. la rifece, e Pascale. 2. la ristaurò, et è titolo di
+            Cardinale, et vi è statione il Lunedi dopo la 4. Domenica di quaresima, et vi sono li
+            corpi di. s. Claudio, Nicostrato. Semproniano, Castorio, Severo, Severiano, Carposoro,
+            Vittorino, Mario, Fellicissimo, Agapito, Hippolito, Aquila, Prisco, Aquinio, Narciso,
+            Marcello, Marcellino, Felicè, <persName ref="#Apollon">Apolline</persName>, Benedetto,
+            Venantio, <persName ref="#Diogene">Diogene</persName>, <persName ref="#LiberaleDaVerona"
+               >Liberale</persName>, et Festo, Il capo di. s. Proto, di. s. Cecilia, <persName
+               ref="#AlexandreLeGrand">Alessandro</persName>, Sisto, Sebastiano, et Prassede. </p>
+         <p>
+            <persName ref="#SaintPierre">S. Pietro</persName>, et Marcellino. Questa chiesa è anchor
+            lei tra il colisseo, et. s. Giovanni laterano, et fu edificata dal Magno <persName
+               ref="#Constantin">Costantino</persName>, ilquale vi dono una patena de oro di libre.
+            35. quattro candelieri dorati di. 12 piedi luno, tri Calici de oro ornati di pietre
+            pretiose, uno altare dargento di libre. 200. et un vase doro de libre. 20. essendo poi
+            rouinata <persName ref="#AlexandreLeGrand">Alessandro</persName>. 4. lanno. <date
+               when="1260">1260</date>. li. 10. de Aprille, la ristaurò, et è titolo di Cardinale,
+            et vi è statione il Sabbato dopo la. ii. Domenica <pb n=""/> di quaresima, et vi sono de
+            le reliquie di detti. s. Pietro, et Marcellino, et di molti altri, come appare in quella
+            pietra di marmo murata di fuori di detta chiesa. </p>
+         <p> S. Matteo in Merulana. Questa chiesa è ne la via che va da. s. Giovanni Laterano a. s.
+            Maria maggiore, et nel giorno di .s. Matteo vi è la plenaria remissione di peccati, et
+            ogni giorno sono anni mille, et tante quarantene de indulgentia, et la remissione de la
+            settima parte de peccati. </p>
+         <p>
+            <persName ref="#SaintPierre">S. Pietro</persName> in vincola. Questa chiesa fu edificata
+            da Eudossa, moglie de Arcadio Impe. sopra le ruine de la curia vecchia, et Sisto. 3. la
+            consecrò, et essendo rouinata Pelagio papa la ristaurò, et è titolo di Cardinale, et vi
+            è statione il primo Lunedi di Quaresima, et il primo di de Agosto vi è la plenaria
+            remissione de peccati, er vi sono li corpi de i <persName ref="#Santi">Santi</persName>
+            Machabei, et le cathene con lequali fu legato .s. Pietro in prigione in Gierusalem una
+            parte de la croce di. s. Andrea et molte altre reliquie vi è anchora un Mose di Marmo
+            sotto la sepoltura di Giulio .2. scolpito con maraviglioso artificio dal diviniss.
+               <persName ref="#MichelAnge">Michel Angelo</persName>. </p>
+         <p>
+            <persName ref="#SaintLaurent">S. Lorenzo</persName> in palisperna. Questa chiesa è sopra
+            il monte Viminale, et ivi fu martirizato. s. Lorenzo et fu edificata da Pio. j. sopra le
+            ruine del palazzo di Decio Imp. et è titolo di Cardinale et vi è statione il giovedi
+            dopo la. j. Domenica <pb n=""/> di Quaresima, et vi e il corpo di. s. Brigida un brazzo
+            di. s. Lorenzo, parte de la Graticola, et de li carboni con liquali fu abbrusciato, et
+            molte altre reliquie. </p>
+         <p> S. Agata. Questa chiesa fu la casa materna di. s. Gregorio, et lui la consecrò a. s.
+            Agata, et è ornata di varij marmi. </p>
+         <p>
+            <persName ref="#SaintLaurent">S. Lorenzo</persName> in Fonte. Questa chiesa è fra. s.
+            Potentiana, et, s. Pietro in vincola, et fu la prigione di. s. Lorenzo nelaquale volendo
+            lui battezzare. s. Hippolito, et. s. Lucillo, vi nacque una fonte, laquale vi si vede
+            insino al presente. </p>
+         <p> S. Potentiana. Questa chiesa fu gia la casa paterna di detta santa, et vi furno le
+            terme Novatiane et Pio. j. la consecrò, et essendo ruinata Simplicio la ristaurò, et è
+            titolo di Cardinale, et vi è statione il Martedi dopo la. 3. Dome. di Quaresima, et ogni
+            giorno vi sono anni tre mille e tante quarantene de indulgentia, et la remissione de la
+            terza parte de peccati, et ivi è il cimiterio di Priscilla, nel quale vi sono lossa di
+            tre mille martiri et ne la Capella, che è apresso, laltare maggiore .s. Pietro Apostolo
+            celebrò la sua prima messa, et vi è la liberatione di una anima da le pene del
+            purgatorio a chi celebrara o fara celebrare in detta Capella, Et in quella di. s.
+            Pastore vi è un pozzo, nel quale vi è il sangue di tre mille martiri, racolto, et posto
+            in detto luogo da .s. Potentiana. Et celebrando un prete in detta Capella dubitò <pb
+               n=""/> se ne la hostia consecrata era il vero corpo di <persName ref="#Jesus"
+               >Christo</persName>, et stando in questo dubio, la Hostia li andò di mano, et cadde
+            in terra, et vi fece un segno di sangue, ilquale insino ad hoggi di si vede, et è
+            cancellato da una picciola graticola di ferro. </p>
+         <p> S. Vito in Macello. Questa chiesa è appresso larco di Galieno, et e titolo di
+            Cardinale, et nel giorno di. S. Vito vi è anni sei mille, et tante quarantene de
+            indulgentia, et ogni di sono anni sei mille, et vi sono de le reliquie di .s. Vito, con
+            lequali si fa un oglio che guarisce le morsicature de li cani arrabiati, et sopra quella
+            pietra di marmo cancellata di ferro, sono stati ammazzati un numero infinito di martiri. </p>
+         <p> S. Giuliano. Questa chiesa è anchor lei vicina a li sopradetti Trofei, et vi sono le
+            reliquie di. s. Giuliano, et Alberto, con lequali vi si fa un Acqua, laquale guarisce
+            ogni febre, et altre infermitadi. </p>
+         <p> S. Eusebio. Questa chiesa è anchor lei poco discosta da li detti Trofei, et è titolo di
+            cardinale, et vi e statione il venerdi dopo la. 4. Domenica di Quare. et ogni di vi sono
+            anni. <date when="7800">7800</date>. e tante quarantene de indulgentia, et vi sono li
+            corpi di. s. Eusebio, Vicentio, Romano, Orosio, Gregorio nazanzeno, paulo confessore,
+            Del freno del cavallo di <persName ref="#Constantin">Costantino</persName>, fatto de un
+            chiodo che confico in croce il nostro saluatore, et de la <pb n=""/> colonna a la quale
+            fu battuto, et del suo monumento, de le reliquie di. s. Stefano Papa, Bartolameo,
+            Mattheo, Helena, Andrea, et di molti altri. </p>
+         <p> S. Bibiana. Questa chiesa è di là da li Trofei di Mario ne la via Labicana, et fu
+            edificata da Simplicio papa, et essendo ruinata Honorio. 3. la ristaurò. Et nel giorno
+            di tutti li santi vi sono anni sei cento mille de indulgentia, et ogni giorno vi sono
+            anni nove mille, et vi è el cimitetio tra dui Lauri, nelquale vi sono lossa di cinque
+            mille martiri, et vi è una herba che pianto santa Bibiana laquale sana il male caduco. </p>
+         <p> S. Martino. Questa chiesa è nel monte Esquilino, et fu dedicata da Sergio. i. et Simaco
+            vi fece sopra laltar maggiore un tabernacolo dargento de libre. 120. et e titolo di
+            cardinale, et vi sono li corpi di. s. Siluestro, Martino, Fabiano, Stefano, et Soter
+            pontefici, di Asterio, Ciriaco, et di molti altri, come appare scolpito in una pietra
+            che è ne la parte destra del choro in detta chiesa. </p>
+         <p> S. Prassede. Questa chiesa è vicina à. s. Maria maggiore, et fu consecrato da Pascale
+            .i. et e titolo di Cardinale, et vi e statione il Lunedi santo, et ogni giorno sono anni
+            dodici mille, et tante quarantene de indulgentia, et la remissione de la terza parte de
+            peccati, et sotto laltar grande vi è il corpo di. s. Prassede. Et ne la capella
+            adimandata horto del paradiso, ne la quale non vi entra mai donne, vi sono li corpi di.
+            s. Valentino <pb n=""/> et Zenone, sopra la Colonna a la quale fu Flagellato il nostro
+            Redentore, laquale fu condotta in <placeName ref="#Rome">Roma</placeName> dal Reveren.
+            Cardinal Colonna adimandato Giovanni, et nel mezzo di detta Capella sotto quella pietra
+            rotonda vi sono sepolti. 40. martiri tra liquali vi sono undici sommi pontifici. Et chi
+            celebrara, o fara celebrare in questa capella liberara una anima da le pene del
+            purgatorio. Et nel mezzo la chiesa, dove è quella pietra rotonda cancellata di ferro
+            (laquale fece cancellare Leone. 10. dopo haver veduto il detto sangue) vi e un pozzo nel
+            quale vi è del sangue de infiniti martiri, ilquale la beata prassede, andava cogliendo
+            per <placeName ref="#Rome">Roma</placeName> con una sponga, et lo portava in detto pozzo
+            vi sono ancho molte reliquie lequali nel giorno di Pasqua dopo il vespero si mostrano. </p>
+         <p> S. Quirico. Questa chiesa e vicina a la Torre de i Conti, et e titolo di Cardinale, et
+            vi e statione il Martedi dopo la. 5. Domenica di quaresima et vi sono molte reliquie. </p>
+         <p> S. Susanna. Questa chiesa e nel monte cavallo et e titolo di Cardinale, et vi e
+            statione il Sabbato dopo la. 3. Domenica di quaresima. Et vi sono li corpi di. s.
+            Susanna di Sabino suo padre et di Felice sua sorella et di la veste, et legno de la
+            croce et sepolchro di <persName ref="#Jesus">Christo</persName> de la veste et capelli
+            di Maria vergine, de le reliquie di. s. Luca, Tomasso, Lorenzo, Marcello, Simone,
+            Siluestro, Bonifacio, <pb n=""/> Clemente, Antonio abbate, Lione, Biagio, Saturnino,
+            Agapito, Lino, <persName ref="#LucienSamosate">Luciano</persName>, Grisante, Daria,
+            Proto, Giacinto, Vitale, Stefano papa,
+            Gregorio nazanzeno, Catherina, Dalmatio, Martino, Tecla Prasseda: Copio Martina et di
+            molti altri. </p>
+         <p> S. Vitale. Questa chiesa e ne la valle di
+            monte cavallo et essendo ruinata fu ristaurata da Sisto 4. et e titolo di Cardinale, et
+            vi e statione il Venerdi dopo la. 2. Domenica di Quaresima. </p>
+         <p> S. Costanza. Questa chiesa e fuori de la porta di. s. Agnese et e di forma rotonda, et
+            fu anticamente il Tempio di <persName ref="#Bacchus">Bacco</persName>, et <persName
+               ref="#AlexandreLeGrand">Alessandro</persName>. 4. il dedicò a. s. Costanza vergine
+            figlivola del Magno <persName ref="#Constantin">Costantino</persName>, laquale e sepolta
+            in detta chiesa in un belliss. sepolcro di porfido. Vi e anchora in detto luogo la
+            chiesa di .s. Agnese edificata da la detta. s. Costanza in honore di .s. Agnese, perché
+            lei la liberò da la lepra et ha le porte di rame: et ornata di varie pietre et vi e un
+            Anello mandato dal cielo a. s. Agnese. </p>
+         <p> DAL CAMPIDOGLIO a mano dritta. <persName ref="#Marie">S. Maria</persName> Liberatrice.
+            Questa chiesa e anchor lei nel foro Romano, et .s. Siluestro la consecrò dopo haver
+            ligata la bocca a un Dracone che ivi era in una profondiss. grotta ilquale con il suo
+            fiato corrompeva laria di <placeName ref="#Rome">Roma</placeName> et sigillatali la <pb
+               n=""/> Bocca con limpressione de la santiss. Croce mai piu fece nocumento alcuno: et
+            ui concesse ogni giorno anni undeci mille de indulgentia. <persName ref="#Marie">S.
+               Maria</persName> de la consolatione. in questa chiesa vi e una imagine di Maria
+            vergine che fa molte grati e et nella. ij. Domenica di Giugno dal primo al secondo
+            vespro, vi e la plenaria remissio. de peccati, concessa da Sisto. 4. Et ne la capella
+            di. s. Maria di gratia ui e una imagine di quelle che dipinse. s. Luca et ui e un
+            hospitale nel quale si fa molte elemosine, et di continuo si ricevono tutti l'infermi
+            che vi vanno. </p>
+         <p> S. Anastasia. Questa chiesa è titolo di Cardinale, et fu il titolo di. s. Girolamo, et
+            vi è statio ne il marte di dopo la. i. Domenica di quaresima nel giorno de la Nativita
+            del Signore a l'Aurora, et il martedi fra l'ottava de le pentecoste. Et vi è il calice
+            di .s. Girolamo, et molte altre reli. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> in portico. Questa chiesa è titolo di
+            Cardinale, et fu gia la casa di Galla figlivola di Simaco patricio Romano, donna di
+            santa vita, a la quale nel pontificato di Giovanni. i. desinando fu portata da li Angeli
+            sopra la sua credenza un zafiro di mirabil splendore, nel quale è impressa l'imagine di
+            Maria vergine con il Saluatore in braccio, Et Gregorio. 7. mosso da questo miracolo vi
+            consecrò questa chiesa, et vi collocò sopra l'altare grande in un Tabernacolo cancellato
+            di ferro la detta imagine, laquale vi si vede <pb n=""/> anchora hoggi di. Et quel
+            Tempio rotondo che è al ponte di. s. Maria fu anticamente il Tempio de la Pudicitia. </p>
+         <p> S. Gregorio. Questa chiesa fu la casa paterna di. s. Gregorio Papa, laquale l'anno
+            secondo del suo pontificato la consecro a .s. Andrea Apostolo, et pregò l'omnipotente
+               <persName ref="#Dieu">Iddio</persName> che qualunque persona eleggera in questo luogo
+            la sua sepoltura, essendo fedel christiano, li vogli concedere vita eterna, et finita
+            c'hebbe l'oratione li apparue un Angelo, et li disse, O Gregorio, la oratione tua e
+            stata essaudita. Et il di de la commemoratione de i morti, et per tutta l'ottava, vi è
+            la plenaria remissione de peccati, et chi celebrara, o fara celebrare in quella capella
+            che e appresso la sacristia, liberara una anima da le pene del purgatorio, et vi e un
+            brazzo di. s. Gregorio, et una gamba di. s. Pantaleone. </p>
+         <p>
+            <persName ref="#SaintJean">S. Giovanni</persName>, e Paolo. Questa chiesa e nel monte
+            Celio, et e titolo di Cardinale, et vi e statione il primo venerdi di Quaresima, et vi
+            sono li corpi di. s. Giovanni, e Paolo di. s. Saturnino, Prestina, Donata, et Seconda,
+            de le reliquie di. s. Stefano, Siluestro, Nicolao, Grisante, Daria Cefas, Saturnino,
+            Sebastiano, Mamiliano, <persName ref="#AlexandreLeGrand">Alessandro</persName>,
+            Prassede, Lucia, Mattheo, <persName ref="#Constantin">Costantino</persName>, Secondo et
+            Peregrino, et de la veste, Croce, et Sepolcro di <persName ref="#Jesus"
+               >Christo</persName>, et la pietra sopra la quale furno decapitati. s. Giovanni, e
+            Paulo, et e quella <pb n=""/> che e ne l'altare che e nel mezzo de la chiesa, et li suoi
+            corpi sono nel muro dirimpeto al detto altare. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> de la Navicella. Questa chiesa e titolo di
+            Cardinale, et vi e statione la. ij. Domenica di Quaresima, et e così detta da quella
+            Navicella di pietra ch'e dinanzi a detta chiesa, et e anchor lei nel monte Celio. </p>
+         <p> S. Stefano Rotondo. Questa chiesa e nel monte Celio, et fu gia il Tempio di <persName
+               ref="#Fauno">Fauno</persName>, et Simplicio. i lo dedico a .s. Stefano protomartire,
+            et essendo rouinato Nicolo. v. lo ristaurò, et e titolo di cardinale, et vi e statione
+            il venerdi dopo la. v. Domenica di Quaresima, et nel giorno di s. Stefano, et vi sono li
+            corpi di s. Primo, et Feliciano, et de le reliquie di. s. Domicilla, Agostino, et
+            Ladislao, et di molti altri. </p>
+         <p> S. Sisto. Questa chiesa e vicina a quella di. s. Gregorio, et fu dotata da Innocentio.
+            4. et e titolo di Cardinale, et vi e statione il Mercordi dopo la terza Domenica di
+            Quaresima, et vi sono li corpi di. s. Sisto Zeferino Lucio i. Lucio. ij <persName
+               ref="#LucienSamosate">Luciano</persName>, Felice, Antero, Massimo, Giulio, Sotero. i.
+            Sotero. ij. Partenio, et Calocerio del Latte, et Capelli di Maria vergine, de la veste
+            di. s. Domenico, del velo, et Mammella di. s. Agatha, de le reliquie di. s. Martino,
+            Agabito, Andrea, Pietro, Lorenzo, et Stefano e di molti altri. et una imagine di Maria
+            vergine che dipinse .s. Luca. <pb n=""/> Et una imagine di Maria <persName ref="#Marie"
+               >Vergine</persName> di quelle che dipinse. s. Luca. </p>
+         <p> S. Sabina. Questa chiesa fu anticamente il Tenpio di <persName ref="#Diane"
+               >Diana</persName>, et è nel monte Auentino, et è titolo di Cardinale, et vi è
+            statione nel primo giorno di quaresima, et essendo ruinata, fu da un vescovo schiavone
+            nel pontificato di Sisto. 3. reedificata, et fu la casa di. s. Sabina, et al tempo de
+            Honorio. 3. era il palazzo pontificale, et lo donò à. s. Domenico, et confermò la sua
+            religione, lanno. <date when="1216">1216</date>. Et vi sono li corpi di .s. Sabina,
+            Sarafia, peregrina, Euentio, Teodolo, et di. s. <persName ref="#AlexandreLeGrand"
+               >Alessandro</persName> papa, una spina de la corona del nostro Redentore, et un pezzo
+            di canna con la quale li fu percosso il capo, de la veste di .s. Domenico del Sepolcro
+            de la vergine Maria, de la terra Santa di Gierusalem, un pezzo de la Croce di .s.
+            Andrea, una costa d'uno de li Innocenti, de le reliquie di .s. Pietro, Paolo,
+            Bartolameo, Matthia, Filippo, et Giacobo, Giovanni Grisostomo, Cosmo, Damiano,
+            Apollinare, Stefano protomartire, Lorenzo, Orsola, Margarita Christoforo, Girolamo
+            Giuliano Gregorio Papa, Martino Sebastiano Cecilia et di. s. Maria egittiaca. Et una
+            croce d'argento piena di reliquie nel mezzo de la quale vi è una croceta del legno de la
+            croce. Et quella pietra negra, che e attacata a laltar grande fu tirata a .s. Domenico
+            per ammazzarlo, mentre faceva oratione in detto luogo, ma <pb n=""/> la si spezzò
+            miracolosamente, et lui non hebbe male alcuno. </p>
+         <p> S. Alessio. Questa chiesa e nel monte Auentino, et fu la casa di. s. Alessio, et si
+            vedono anchora certi scaloni di legname a mano dritta de l'altar grande, dove fece
+            penitenza dopo che ritornò di pellegrinagio insino al fine di sua vita, (et furno anni
+            dicisette) ne fu mai ne da il padre, o alcun'altro di casa conosciuto. In questa chiesa
+            vi e nel giorno di. s. Alessio la plenaria remissione de peccati, et ogni di vi e
+            indulgentla danni cento, e tante quarantene, et sotto laltar grande vi sono li corpi di.
+            s. Alessio, di. s. Bonifacio, di santo Hermete martiri, et molte altre reliquie. Et
+            quella imagine de la beatiss. vergine che e nel tabernacolo alto, era in una chiesa ne
+            la città di Edessa, dinanzi laquale il beatiss. Alessio, essendo in detta città faceva
+            spesso oratione: Et andando un giorno a detta chiesa per orare, ritrouò le porte serate,
+            et la detta imagine disse due volte al portinaro fa entrare lhuomo de <persName
+               ref="#Dieu">Iddio</persName> Alessio perché e degno del cielo. </p>
+         <p> S. Prisca. Questa chiesa e anchor lei nel monte Auentino, et fu gia il Tempio dHercole
+            fatto da Euandro et vi habito .s. Pietro Apostolo et essendo ruinata Calisto. 3. la
+            reedificò, et e titolo di Cardinale, et vi e statione il Martedi santo. Et vi sono li
+            corpi di. s. Prisca, di. s. Quila sua madre, et di. s. Aquilo prete e martire, la <pb
+               n=""/> Stola di. s. Pietro, et un vase di marmo nel quale lui battegiava, et altre
+            reliquie. </p>
+         <p> S. Saba <persName ref="#NicoloDellAbbate">Abbate</persName>. Questa chiesa e anchor lei
+            sopra il detto monte, et vi e una sontana ne la quale vi e dentro il Scapolario di. s.
+            Saba lacqua de la quale e di maravegliosa vertu in sanare molte infermità, et
+            specialmente il flusso di sangue. Et in un sepolcro di marmo appresso il choro ui sono
+            li corpi di Vespasiano et Tito Imperadori. </p>
+         <p> S. Balbina. Questa chiesa e nel istesso monte et fu consecrata da. s Gregorio, et e
+            titolo di cardinale et ui e statione il Martedi dopo la. ij. Domenica di Quaresima, et
+            ogni di vi sono anni sette de indulgentia et vi sono li corpi di. s Balbina di. s.
+               <persName ref="#Quirinus">Quirino</persName>, et di cinque altri santi, il nome de
+            quali e scritto nel libro de la vita. </p>
+         <p>
+            <persName ref="#SaintJean">S. Giovanni</persName> dinanzi porta Latina. Questa chiesa e
+            a porta Latina, et e titolo di cardinale, et ui e statione il Sabbato dopo la. 5.
+            Domenica di quaresima, et a li. 6. di Maggio ui e la plena. remissione de peccati. Et
+            quella capelleta, che e fuori di detta chiesa e il luogo dove fu posto. s. Giovanni
+            Apostolo ne loglio bollente, per commandamento di Domitiano Impe. et se ne vsci senza
+            lesione alcuna. </p>
+         <p> S. Anastasio. Questa chiesa e fuori di <placeName ref="#Rome">Roma</placeName> ne la
+            via Ostiense et fu consecrata da Honorio. j. lanno <date when="1201">1201</date>. ne la
+            quale vi furno presenti. 21. cardinale. Et ui e una colonna sopra la quale fu
+            decapitato. <pb n=""/> s. Paolo Apostolo la testa delquale dopo che fu separata dal
+            busto fece tre salti, et ivi nacque miracolosamente quelle tre fontane, che insino al
+            giorno de hoggi si uedono et nel giorno di .s. Anastasio ui e indulgentia plenaria et
+            ogni di anni sei mille. </p>
+         <p>
+            <persName ref="#Marie">S. Maria</persName> annonciata. Questa chiesa e ne la medesima
+            via, et fu consecrata lanno. <date when="1220">1220</date>. li. 9. de Agosto. Et nel di
+            de la Annonciata ui e la plenaria remissione de peccati et ogni di ui sono anni dieci
+            mille de Indulgentia et nel mezzo del camino di detta chiesa, et quella di .s.
+            Sebastiano dove ui e quella Croce ui sono Il corpi di dicci mille soldati martiri. </p>
+         <p> IL FINE. <pb n=""/>
+         </p>
+         <p> LE STATIONI Indulgentie, et gratie spirituali, che sono in le chiese di <placeName
+               ref="#Rome">Roma</placeName>, si per tutta la Quadragesima, come per tutto lanno
+            novamente poste in luce. da M. Andrea <persName ref="#AndreaPalladio"
+               >Palladio</persName>. </p>
+         <p> FORTES, FORTUNA, ADIVVAT' <pb n=""/>
+         </p>
+         <p> [Le Stationi] </p>
+         <p> El mese di Zenaro. El primo di de l'anno, che e la Circoncisione del nostro Signore; e
+            la statione a santa Maria oltra il Tevere ad fontes olei, e sono. 25 millia anni di vera
+            Indulgenza, e la plenaria remissione de tutti gli peccati. Quel medesimo giorno, e
+            statione a santa Maria Mazore, et a santa Maria in ara Celi, et e plenaria indulgenza de
+            tutti gli peccati. 6 El di della Epiphania del Signore, e statione a santo Pietro, e gli
+            sono. 28. millia anni d'indulgenza, e tante quarantene, e plenaria remissione de tutti
+            gli peccati, e per tutta l'ottava. 7 A santo Iuliano Indulgentia plenaria. 10 A la
+            chiesa de la Trinita san Paulo primo Eremita Indulgentia plenaria. 13 La Ottava, e
+            statione a santo Pietro, et e l'Indulgenza plenaria de tutti gli peccati. 16 A santo
+            Marcello Papa, e l'indulgenza plenaria. 17 A santo Antonio <persName
+               ref="#NicoloDellAbbate">Abbate</persName>, e l'indulgenza plenaria. 18 A santa prisca
+            Indulgentia plenaria. 20 A santo Sebastiano, e l'indulgenza plena 21 A santa Agnese, e
+            l'indulgenza plenaria. 22 A santo Vicenzo, et Anastasio, e l'indulgenza plenaria. <pb
+               n=""/> 25 La Conuersion di. s. Paulo Apostolo, a. s. Paulo e l'indulgenza plenaria.
+            27 A santo Giovan Chrisostomo, e l'indulgenza plenaria de tutti gli peccati. 31 A santo
+            Ciro, et Giovanne, e statione a santa Croce, et e l'indulgenza plenaria, et indulgenza
+            plenaria in santo Ciro et Giovanni. </p>
+         <p> El mese di Febraro. 1 A santa Brigida Indulgentia plenaria. 2 La festa della
+            Purificatione della vergine Maria, e statione a santa Maria <persName ref="#Maggiore"
+               >Maggiore</persName>, et e l'indulgenza plenaria de tutti gli peccati. Quel di
+            medesimo, e statione a santa Maria inuiolata, et a santa Maria della Pace, et e
+            indulgenza plenaria de tutti gli peccati. 3 A santo Biasio indulgentia plenaria. 5 A
+            santa Agata indulgentia plenaria. 9 A santa Apolonia ne la Chiesa di santo Aluise
+            indulgentia plenaria. 22 Alla Cathedra di. s. Pietro, e l'indulgenza plenaria. 24 A
+            santo Mathia Apostolo, e l'indulgenza plenaria. 26 A santa Costantia ne la Chiesa di
+            santa Agnese indulgentia plenaria. etcross2; La Dominica della settuagesima, e statione
+            a santo Lorenzo fora de gli muri, e l'indulgenza <pb n=""/> plenaria et. 11. millia anni
+            d'indulgenza, et. 48. quarantene, e la remissione della terza parte de tutti gli
+            peccati; e libera una anima dalle pene del purgatorio. La Dominica della sessagesima, e
+            statione a santo Paulo, et e l'indulgenza plenaria, et. 12. millia anni d'indulgenza,
+            et. 18. quarantene, e la remissione della terza parte de gli peccati. La Dominica della
+            quinquagesima, e statione a santo Pietro, et e l'indulgenza plenaria, et. 28. millia
+            anni de indulgenza, et altre tante quarantene. </p>
+         <p> Il mese di Marzo. 7 A santo Thomaso de Aquino, e l'indulgenza plenaria. 12 A san
+            Gregorio Papa, e statione a santo Pietro, et e la indulgenza plenaria de tutti gli
+            peccati. 20 La vigilia di san Benedetto, in la capella di santo Siluestro, e
+            l'indulgenza plenaria de tutti gli peccati. 25 La festa della Annunciatione della
+            vergine Maria sono infinite indulgenze, e statione con l'indulgenza plenaria de tutti
+            gli peccati, e per l'ottava. El di della ditta Annunciatione in fino alle Calende di
+            Agosto ogni giorno sono in la chiesa <pb n=""/> d'essa Annunciata. 12. millia anni di
+            vera indulgenza. </p>
+         <p> Le stationi della quaresima. El primo di de quaresima, e statione a santa Sabina et
+            sono anni tre millia d'indulgenza, et la plenaria remissione de tutti gli peccati. La
+            Zobia, e statione a san Giorgio, e sono diece millia anni d'indulgenza. El <persName
+               ref="#Venus">Venere</persName>, e statione a san Giovanne e Paulo, e sono anni. 10.
+            millia d'indulgenza. El Sabbato, e statione a san Triphone, e sono .10. millia anni
+            d'indulgenza, e la plenaria remissione de tutti gli peccati. La prima Dominica della
+            quadragesima, e statione a san Giovanne Laterano, e sono. 18. millia anni d'indulgentia,
+            e la plenaria remissione de tutti gli peccati, et oltra di questo sono altre indulgenze
+            senza numero. El Luni, e statione a san Pietro in Vincula, e sono. 10. millia anni
+            d'indulgenza, e la plenaria remissione de tutti gli peccati. etcross2; El Marti, e
+            statione a santa Anastasia, e sono anni. 28. millia, et altre tante quarantene, e la
+            liberatione d'una anima del purgatorio. El mercore, e statione a santa Maria Magiore, li
+            sono. 28. millia anni d'indulgenza, et altre tante quarantene, e la remission della <pb
+               n=""/> terza parte delli peccati. La Zobia, e statione a san Lorenzo in Palisperna, e
+            sono anni. 10. millia d'indulgenza, e la plenaria remissione de tutti gli peccati. El
+            Venerdi, e la statione a santo Apostolo, e li sono. 12. millia anni d'indulgenza, e la
+            plenaria remissione de tutti gli peccati. El Sabbato, e statione a san Pietro, e li sono
+            anni. 18. millia d'indulgenza, et altre tante quarantene, e la plenaria remissione de
+            tutti gli peccati. La Dominica seconda, e statione a santa Maria in navicula, e gli sono
+            anni. 28. millia d'indulgenza, et altre tante quarantene. El Luni, e statione a san
+            Clemente, e li sono anni. 11. millia d'indulgentia, e la remissione della terza parte de
+            tutti gli peccati. El Marti, e statione a santa Balbina, e sono anni. 10. millia
+            d'indulgenza. Il Mercore, e statione a santa Cecilia, e sono anni. 10. millia
+            d'indulgenza. La zobia, e statione a santa Maria oltra il Tevere, e sono anni. 10.
+            millia d'indulgenza. Il <persName ref="#Venus">Venere</persName>, e statione a san
+               Vitale, e li sono anni. 10. millia
+            d'indulgenza. El Sabbato, e la statione a san Marcellino, e Pietro, e li sono diece
+            millia anni d'indulgenza, e la plenaria remissione de tutti gli <pb n=""/> peccati.
+            etcross2; La Dominica terza, e la statione a san Lorenzo fora di muri, e sono anni. 10.
+            millia d'indulgenza, e. 48. quarantene, e la liberatione d'una anima del purgatorio. El
+            luni, e la statione a santo Marco, et li sono diece millia anni d'indulgentia. El marti,
+            e statione a santa Potentiana, e li sono dieci millia anni d'indulgenza. El mercore, e
+            statione a santo Sisto, e li sono dieci millia anni d'indulgenza, La zobia, e statione,
+            a santo Cosmo, e Damiano, e sono dieci millia anni d'indulgenza El venere e statione a
+            san Lorenzo in Lucina, e li sono dieci millia anni d'indulgenza. El Sabbato, e statione
+            a santa Susanna, e li sono. 13. millia anni d'indulgenza. etcross2; La Dominica quarta,
+            e statione a santa Croce in Hierusalem gli e la plenaria remission de tutti gli peccati,
+            e la liberation d'una anima delle pene del purgatorio. El luni, e statione a gli quattro
+            santi incoronati, e li sono. 10. millia anni d'indulgenza. El marti, e statione a san
+            Lorenzo in Damasco, egli sono. 10. millia anni d'indulgenza, e la remissione della terza
+            parte de tutti gli pec. El mercore, e statione a san Paulo, e sono. 10. millia anni
+            d'indulgenza, e la remissione <pb n=""/> della terza parte delli peccati. La zobia e la
+            statione a san Siluestro, e sono anni diece millia d'indulgenza. El venere, e statione a
+            santo Eusebio, e sono. 10. millia anni d'indulgenza. El Sabbato, e statione a san Nicolo
+            in carcere, e li sono diece millia anni d'indulgenza, e la plenaria remissione de tutti
+            gli peccati. etcross2; La Dominica quinta, e statione a santo Pietro, e sono anni 28.
+            millia d'indulgenza, et altre tante quarantene, e la remissione della terza parte de
+            tutti gli peccati. El Luni, e statione a santo Grisogono, e sono anni. 10. millia
+            d'indulgenza. El marti, e statione a santo Ciriaco, e gli sono dieci millia anni
+            d'indulgenza. El mercore, e statione a santo Marcello, e gli sono diece millia anni
+            d'indulgenza. La zobia, e statione a santo Apollinare, e sono. 10. millia anni
+            d'indulgenza. etcross2; El venere, e la statione a san Stephano in Celio monte, et e la
+            liberatione d'una anima dalle pene del purgatorio. etcross2; El sabbato, e statione a
+            santo Giovanne ante portam latinam, e li sono anni. 13. millia d'indulgenza, e la
+            liberation d'una anima dalle pene del purgatorio. La Dominica de l'olivo, e statione a
+            santo <pb n=""/> Giovanne Laterano, e li sono. 25. millia anni d'indulgenza, et altre
+            tante quarantene, e la plenaria remission de tutti gli peccati. El luni santo, e
+            statione a santa Prassede, e sono anni. 15. millia d'indulgenza, e la plenaria
+            remissione della quarta parte delli peccati, et anchora plenaria remissione de pec. El
+            marti santo, e statione a santa Prisca, e sono. 18 millia anni d'indulgenza, e la
+            plenaria remissione de tutti gli peccati. El mercore santo, e statione a santa Maria
+               <persName ref="#Maggiore">Maggiore</persName>, e li sono. 28. millia anni
+            d'indulgenza, e la ve e plenaria remissione de tutti li peccati. La zobia santa, e
+            statione a santo Giovanne Laterano, e sono. 12. millia anni d'indulgenza, et. 48.
+            quarantene, et anchora due volte la plenaria remissione de tutti li peccati. El venere
+            santo, e statione a santa Croce in Hierusalem. et e la plenaria remissione de tutti li
+            peccati. El sabbato santo, e la statione a santo Giovanne Laterano, e li sono. 12.
+            millia anni d'indulgenza, et. 48. quarantene, e plenaria remissione de tutti li peccati.
+            La dominica di Pascha della resurrettione de messer Iesu <persName ref="#Jesus"
+               >Christo</persName>, e statione a santa Maria <persName ref="#Maggiore"
+               >Maggiore</persName>, e li sono anni. 28. milia d'indulgenza, <pb n=""/> et altre
+            tante quarantene, e la plenaria remissione de tutti li peccati. El lunedi, e statione a
+            santo Pietro, e sono anni. 28. millia d'indulgenza, e la plenaria remissione de tutti li
+            peccati. El martedi, e la statione a san Paulo, et li sono anni. 20. millia, et
+            quarantene. 28. e plenaria remissione de tutti li peccati. El mercordi, e statione a. s.
+            Lorenzo fora delli muri e li sono. 18. millia anni d'indulgenza, et altre tante
+            quarantene, e la liberatione d'una anima dalle pene del purgatorio. La zobia, e statione
+            a. s. Apostolo, e li sono. 15. millia anni d'indulgenza, e la plenaria remissione de
+            peccati. El venerdi, e la statione a santa Maria rotonda, e li sono anni. 15. millia
+            d'indulgenza. El sabbato, e statione a san Giovanne Laterano, e sono anni. 15. millia
+            d'indulgenza. etcross2; La Dominica dell'ottava di Pascha, e statione a. s. Pancratio, e
+            li sono. 15. millia anni d'indulgenza, e la plenaria remissione de tutti li peccati due
+            volte. </p>
+         <p> El mese d'Aprile. 2 A santa Maria Egiptiaca Indulgentia plena. 3 A santo Pancratio la
+            remissione de peccati. 5 In santo Vincenzo dell'ordine de frati predicatori, et la
+            plenaria remissione de tutti li <pb n=""/> peccati. 23 In santo Giorgio, e statione in
+            la sua chiesa, et e plenaria remissione de tutti li peccati. 25 Item il di de santo
+            Marco, e statione a. s. Pietro, e li sono. 28. millia anni d'indulgentia, et altre tante
+            quarantene. 29 A santo Vitale indulgentia
+            plenaria. Item il medesimo di, e statione a santo Marco, et li e plenaria remissione de
+            tutti li peccati. </p>
+         <p> El mese di Maggio. Nota che tutte le Dominiche del mese di Maggio, e la plenaria
+            remissione delli peccati in la chiesa di. s. Sebastiano. 1 In santo Philippo et Iacobo,
+            e la plenaria remissione de tutti li peccati, e così in ogni festa d'Apostolo. 3 In la
+            inuentione de santa Croce in Hierusalem, e statione et li e la plenaria remissione de
+            tutti li peccati, et altre tante infinite indulgenze. In quel di proprio, e la
+            consecratione desanta Maria rotonda, et e la plenaria remission de tutti li peccati. 4
+            Il di de santa Monica ne la Chiesa di santo Agostino sono infinite indulgenze. 6 El di
+            de san Giovanne ante portam Latinan, e la plenaria remissione de tutti li peccati. In
+            quel proprio di, e statione a san Giovanne Laterano, <pb n=""/> et e la plenaria
+            remissione de tutti li peccati, e la liberatione d'una anima del purgatorio. 8 El di
+            della apparitione di. s. Michele, e statione in la sua chiesa, et e la plenaria
+            remissione de tutti li peccati. El di della translatione di santo Gieronimo, e la
+            plenaria remissione de tutti gli peccati. 12 A santo Nerei Archilei la remissione
+            plenaria de tutti li peccati. In santo Victore e Corona e la plenaria remissione de
+            peccati. 19 A santa potentiana la remissione de tutti li peccati. 20 In santo Bernardino
+            de l'ordine de <persName ref="#SaintFrancois">santo Francesco</persName>, e statione a
+            santa Maria d'Araceli, et e la plenaria remissione de tutti li peccati. 21 A santa
+               <persName ref="#Helene">Elena</persName> Indulgentia plenaria. Nota che dal di
+            preditto di. s. Bernardino insino al primo di d'Agosto a san Giovan Laterano ogni giorno
+            e la plenaria remissione de tutti gli peccati. Nota chel luni d'avanti l'Ascensione del
+            signore nostro Iesu <persName ref="#Jesus">Christo</persName>, vanno le processioni a
+            santo Pietro, et li e anni. 28. millia d'indulgentia et altre tante quarantene. El
+            giorno della Ascensione del signor nostro, <pb n=""/> e statione a san Pietro, e li sono
+            anni. 28. millia et altre tante quarantene. La vigilia di Pascha di Maggio, e statione a
+            santo Giovanni Laterano et li sono. 15. millia anni, e la plenaria remissione de tutti
+            li peccati. Il giorno di Pascha di Maggio, e statione a santo Pietro et li e la plenaria
+            remissione de tutti li peccati, et li sono poi infinite indulgenze. El luni, e statione
+            a santo Pietro in vincula, et li e la plenaria remissione de tutti li peccati. El marti,
+            e statione a. s. Anastatia, et li sono. 18. millia anni d'indulgenza. El mercore, e
+            statione a santa Maria <persName ref="#Maggiore">Maggiore</persName>, et li sono anni.
+            28. millia d'indulgenza, et altre tante quarantene, e la remission de la terza parte de
+            li peccati, et ancora plenaria remissione de tutti li peccati. etcross2; La zobia, e
+            statione a. s. Lorenzo fora de le mura, et li sono. 18. millia anni d'indulgenza, et
+            altre tante quarantene, e la remissione della terza parte delli peccati, anchora e la
+            plenaria remissione di tutti li peccati et la liberatione d'una anima delle pene del
+            purgatorio. Il venere, e statione a santo Apostolo, et li sono. 18. millia anni
+            d'indulgenza, e la plenaria <pb n=""/> remissione de tutti li peccati. etcross2; El
+            sabbato, e statione a santo Pietro, et li sono. 18. millia anni d'indulgenza, et altre
+            tante quarantane, e la plenaria remissione de tutti li peccati, e la liberatione de una
+            anima del purgatorio. El giorno del corpo di <persName ref="#Jesus">Christo</persName>,
+            e statione a santo Pietro; e li e la plenaria remissione de tutti li peccati, et ancora
+            poi per tutta l'ottava </p>
+         <p> El mese di Zugno. La seconda Dominica di Zugno, e statione a santa Maria della
+            consolatione, et li e la plenaria remissione de tutti li peccati. 2 A santo Marcellino e
+            l'indulgentia plenaria. 11 In santo Barnaba apostolo, e la plenaria remissione de tutti
+            li peccati. 13 El di de santo Antonio da <placeName ref="#Padoue">Padova</placeName>, e
+            statione a santa Maria in Ara Celi, et e la plenaria remissione de tutti li peccati. 15
+            A santo Vito e Modesto, atq; Crescentio, e statione a santo Vito et Marcello, et li sono
+            sei milia anni d'indulgenza. 24 A santo Giovanne battista, e statione a santo Giovanne
+            Laterano, e la plenaria remissione de tutti li peccati. 28 La vigilia di .s. Pietro e
+            Paulo, e statione a .s. Pietro, et li e la plenaria remissione de tutti li peccati. <pb
+               n=""/> 29 El di de. s. Pietro e Paulo, e statione a santo Pietro, et li e la plenaria
+            remissione de tutti li peccati, et cadauna festa delli dodeci apostoli. 30 La
+            commemoratione de. s. Paulo, e statione a santo Paulo, et e la plenaria remissione de
+            tutti li peccati, et altre infinite indulgenze. </p>
+         <p> El mese di Luglio. 2 La visitatlone della <persName ref="#Marie">Vergine
+               Maria</persName>, e statione a santa Maria del Popolo, et e la plenaria remissione de
+            tutti li peccati, et quel di medesimo e statione a santa Maria della pace, et li e la
+            plenaria remissione de tutti li peccati, e per tutta l'ottava de ditta Visitatione ogni
+            di e la plenaria remissione de tutti li peccati, et altre innumerabili et infinite
+            indulgenze. In santo Bona ventura, che vien la seconda Dominica di Lulio, e statione a
+            santo Pietro, et li e la plenaria remissione de tutti li peccati. 15 A santo Quirico la
+            remissione de li peccati. 17 In santo Alessio, e statione in la sua chiesa, et li e la
+            plenaria remissione de tutti li peccati. 20 A santa Margarita Indulgentia plenaria. 21 A
+            santa Prasseda Indulgentia de sei milia anni de perdonanza. <pb n=""/> 22 In santa Maria
+            Magdalena, e statione alla sua chiesa, e li e la plenaria remissione de tutti li
+            peccati, et altre infinite et innumerabili indulgenze. 23 A santo Apolinare, e la
+            remissione de pec. 25 A santo Iacomo Apostolo, e statione in la sua chiesa, e li e la
+            plenaria remissione de tutti li peccati. 26 A santa Anna Indulgentia plenaria. 29 A
+            santa Marta Indulgentia plenaria. 30 In .s. Abdon et Senen, e statione a santo Marco, li
+            e la plenaria remissione de tutti gli peccati. </p>
+         <p> El mese d'Agosto. 1 In santo Pietro in vincula e statione nella sua chiesa et li e la
+            plenaria remissione de tutti li peccati. 3 In la inuentione di. s. Stephano in .s.
+            Lorenzo fora de li muri dove iace il suo corpo, e statione, et li e la plenaria
+            remissione de tutti li peccati. 5 In santa Maria dalla neve, e plenaria remissione de
+            tutti li peccati. 5 In santo Dominico, e statione a santa Maria in la Minerua, et li e
+            la plenaria remissione de tutti li peccati. 6 In la trasfiguratione di Iesu <persName
+               ref="#Jesus">Christo</persName>, e statione in santo Giovanne Laterano, et li e la
+               <pb n=""/> plenaria remissione de tutti li peccati. 8 A santo Chiriacco, e la
+            plenaria remissione de li peccati. 10 In santo Lorenzo fora di muri, e una delle sette
+            chiese dove iace il corpo suo, et li e la plenaria remissione de tutti li peccati, et
+            anchora per tutta l'ottava. 12 in santa Chiara de l'ordine di. s. Francesco, e statione
+            a santo Siluestro, et li e la plenaria remissione de tutti li peccati. 15 El di della
+            assumptione della <persName ref="#Marie">Madonna</persName>, e statione a santa Maria
+               <persName ref="#Maggiore">Maggiore</persName>, et li e la plenaria remissione de
+            tutti li peccati, e per tutta la sua ottava in quel di e statione a santa Maria Rotonda,
+            a santa Maria del Populo, et a santa Maria in Ara Celi, et in tutte gli e la indulgenza
+            plenaria et remissione de tutti li peccati. 16 A santo Rocho Indulgentia plenaria. 21 A
+            santa Anastasia la remissione de li peccati. 22 In l'ottava de ditta Assumptione, e
+            statione a santa Maria oltra il Tevere, et li e la plenaria remissione de tutti li
+            peccati. 26 A santo Luise de la natione Francese Indulgentia plenaria. Nota che
+            comenzando il giorno dell'Assumptione della <persName ref="#Marie">Madonna</persName>,
+            per fina alla Nativiuita, ogni giorno e. 12. milia anni d'indulgenza, <pb n=""/> et la
+            remissione della rerza parte de li peccati. 19 In santo Lodouico Vescovo, che fu frate
+            di. s. Francesco, e statione a santa Maria d'Ara Celi, et li e la plenaria remissione de
+            tutti li peccati. 25 In santo Bartholomeo Apostolo, e la plenaria remissione de tutti
+            gli peccati. 28 In santo Agostino dottore, e statione in la sua chiesa, et gli e la
+            remissione de tutti gli peccati. 29 Alla Decollatione di santo Giovanni Battista, e
+            statione a santo Giovanni Laterano, et gli e la plenaria remissione de tutti li pec. </p>
+         <p> El mese di Settembrio. 1 A santo Egidio Indulgentia plenaria. 8 La Nativita della
+               <persName ref="#Marie">Madonna</persName>, e statione a santa Maria <persName
+               ref="#Maggiore">Maggiore</persName>, et a santa Maria Rotonda, e a santa Maria d'Ara
+            Celi, et a santa Maria inuialata, et a santa Maria della Pace, et a santa Maria del
+            populo, et in tutte gli e la plenaria remissione de tutti li pec. 10 A san Nicola da
+            Tolentino, e statione a santa Maria del populo, et a. s. Agostino, et li e la plenaria
+            remissione de tutti li peccati. 20 A santo Eustachio la remissione de li pec. 24 El di
+            dell'essaltatione de santa Croce in Hierusalem li e la remissione de tutti li peccati,
+            et <pb n=""/> cosi il giorno della sua ottava, e la plenaria ria remissione de tutti gli
+            peccati. El Mercore dopoi santa Croce di Settembrio che sono le quattro tempora, e
+            statione a santa Maria <persName ref="#Maggiore">Maggiore</persName>, et sono. 28. milia
+            anni d'indulgenza, et altre tante quarantene, et la remissione della terza parte delli
+            pecca. El <persName ref="#Venus">Venere</persName>, e statione a santo Apostolo, e sono.
+            18. milia anni d'indulgenza, e la plenaria remissione de tutti li peccati. El Sabbato, e
+            statione a. s. Pietro, et gli sono .28. milia anni d'indulgenza, et altre tante
+            quarantene, e la remissione della terza parte de tutti li peccati. 21 A santo Mattheo
+            Apostolo, et Euangelista, e statione alla sua chiesa, et li e la plenaria remissione de
+            tutti gli peccati. 27 A santo Cosmo, e Damiano l'indulgentia plenaria. 29 A santo
+            Michael, e statione in la sua chiesa, e gli e la plenaria remissione delli peccati. 30 A
+            santo Gieronimo, e statione a santa Maria <persName ref="#Maggiore">Maggiore</persName>
+            dove iace il suo corpo, et li e la plenaria remissione de tutti li peccati. </p>
+         <p> El mese d'Ottobrio. 4 El giorno de. s. Francesco fundatore, e padre delli frati de
+            l'ordine minore, e statione a. s. Francesco oltra il Tevere, et li e la plenaria <pb
+               n=""/> remissione de tutti li peccati, et il di dell'ottava, e la plenaria remissione
+            de tutti li peccati. 18 A. s. Luca, e la plenaria remissione de tutti li peccati. 23 A
+            santo Theodoro infinita perdonanza. 28 A. s. Simone e Iuda, e statione a. s. Pietro, et
+            li e la plenaria remissione de tutti li peccati, et altre indulgenze. </p>
+         <p> El mese di Novembrio. 1 La festa d'ogni <persName ref="#Santi">Santi</persName>, e
+            statione; in la chiesa di santa Maria rotonda, et gli e molte indulgenze et la plenaria
+            remissione de tutti li peccati, et questo per tutta la sua ottava. El giorno de tutti li
+            Morti, e statione a. s. Gregorio, et li e la plenaria remissione de tutti li peccati, e
+            questo e ogni giorno di tutta l'ottava, et si puol torre ancora per li morti. 7 La
+            dedicatione della chiesa de. s. Pietro, e santo Paulo, e statione a. s. Pietro, et li e
+            la plenaria remissione de tutti li peccati, quel giorno, proprio, e statione a. s.
+            Paulo, et li e la plenaria remissione de tutti li peccati. 8 A santi quatro Coronati
+            Indulgentia ple. 9 La Dedicatione del nostro Saluatore, e statione a. s. Giovanne
+            Laterano, et li e la plenaria remissione de tutti li peccati. 10 A santo Trifone Indul.
+            de anni. 10. milia. <pb n=""/> 11 A san Martin e statione, a. s. Pietro, et li e la
+            plenaria remissione de tutti li peccati. 21 El di della Presentatione della gloriosa
+            vergine Maria, e statione a santa Maria <persName ref="#Maggiore">Maggiore</persName>,
+            et li e la plenaria remissione de tutti li peccati. 22 A santa Cecilia, e statione in la
+            sua chiesa, et li e la plenaria remissione de tutti li pecca. 23 A san Clemente Papa, e
+            statione in la sua chiesa, et li e la plenaria remissione de tutti li peccati. 25 A
+            santa Catherina vergine, e martire, e statione in la sua chiesa, et li e la plenaria
+            remissione de tutti li peccati. 26 A santo Grisogono Indulgentia plenaria. 30 A santo
+            Andrea Apostolo, e statione a. s. Pietro, et li e la plenaria remissione de tutti li
+            peccati. </p>
+         <p> El mese di Decembrio. </p>
+         <p> Le stationi dell'aduento. La prima Dominica, e statione a. s. Maria maggiore, et li
+            sono. 28. milia anni d'indulgenza, et altre tante quarantene, e la remissione della
+            terza parte de tutti li peccati. Quel di proprio e statione a. s. Pietro, et li e la <pb
+               n=""/> remissione de tutti li peccati. Item e indulgenza d'anni mille tutte le feste
+            de la <persName ref="#Marie">Madonna</persName>. La seconda Dominica, e statione a. s.
+            Croce in Hierusalem, et li e la plenaria remissione de tutti li peccati, et. 11. milia
+            anni d'indulgenza, et. s. Siluestro Papa crescere le ditte indulgenze. La terza
+            Dominica, e statione a san Pietro, et li sono. 28. milia anni d'indulgenza, et altre
+            tante quarantene, et li e la plenaria remissione de tutti li peccati. La quarta
+            Dominica, e statione a. s. Pietro, e li e indulgenza plenaria e remissione de tutti li
+            peccati, in quel di proprio e statione a. s. Apostolo, et li sono. 28. milia anni
+            d'indulgenza, et la plenaria remissione de tutti li peccati. 2 A santa Bibiana, e
+            statione in la sua chiesa, et li e la plenaria remissione de tutti li peccati. 4 A santa
+            Barbara, e l'Indulgentia de anni. 16. milia. 5 A santo Savo, e la remissione de peccati.
+            6 A. s. Nicolo vescovo, e statione a. s. Nicolo delle carcere, et li e la plenaria
+            remissione de tutti li peccati. 7 A. s. Ambrosio e la plenaria remissione de tutti li
+            pecati. <pb n=""/> 8 El giorno della Conceptione della gloriosa vergine Maria, e
+            statione a santa Maria <persName ref="#Maggiore">Maggiore</persName> alla rotonda, a
+            santa Maria d'Ara Celi, a santa Maria del Populo, et a santa Maria della pace, in tutte
+            li e indulgenza plenaria e remissione de tutti li peccati, et per l'ottava. 13 A santa
+            Lucia vergine e martyre, e la plenaria remissione de tutti li peccati. El Mercore dopoi.
+            s. Lucia, e le quattro tempora, e statione a. s. Maria <persName ref="#Maggiore"
+               >Maggiore</persName>, e li sono. 28. milia anni d'indulgenza, et altre tante
+            quarantene; e la remissione della terza parte, et la plenaria remissione de tutti li
+            peccati. El Venerdi, e statione a. s. Apostolo, e li sono. 10. milia anni d'indulgenza
+            plenaria e remissione de tutti li peccati. El Sabbato, e statione a. s. Pietro, et li
+            sono. 28. milia anni d'indulgenza, et altre tante quarantene. 21 A santo Thomaso
+            Apostolo, e la plenaria remissione de tutti li peccati. 24 La vigilia della Nativita del
+            nostro signore Iesu <persName ref="#Jesus">Christo</persName>, e statione a santa Maria
+               <persName ref="#Maggiore">Maggiore</persName>, et li sono. 28. milia anni
+            d'indulgenza, et altre tante quarantene, e la remissione della terza parte delli
+            peccati. <pb n=""/> 25 El di della Nativita di Iesu <persName ref="#Jesus"
+               >Christo</persName>, e statione a santa Maria <persName ref="#Maggiore"
+               >Maggiore</persName>, quando se canta la prima messa, et li e la plenaria remissione
+            delli peccati. Quella medesima notte, e statione a santa Maria d'Ara Celi, et li e la
+            plenaria remissione de tutti li peccati. Alla messa dell'Aurora, e statione a. s.
+            Anasta, sia, et li sono anni. 28. milia d'indulgenza, et altre tante quarantene, et la
+            plenaria remissione de tutti li peccati. 25 El giorno e statione a santa Maria d'Ara
+            Celi, et li e la plenaria remissione de tutti li pec. Alla messa grande, e statione a
+            santa Maria <persName ref="#Maggiore">Maggiore</persName> et li e la plenaria remissione
+            de tutti li peccati. Item e statione a. s. Maria d'Ara Celi, a. s. Maria <persName
+               ref="#Maggiore">Maggiore</persName> in quello di proprio in la capella del Presepio
+            del nostro signor Iesu <persName ref="#Jesus">Christo</persName>, li sono anni. 28.
+            milia d'indulgenza, et altre tante quarantene, et la plenaria remissione de tutti li
+            peccati. 26 In santo Stephano protomartire, e statione a san Lorenzo fora delli muri
+            dove iace il suo corpo, et li e la plenaria remissione de tutti li peccati, in quel di
+            proprio e statione a santo Stephano in Celio monte, et li sono. 28. milia anni
+            d'indulgenza, et altre tante quarantene, et la plenaria remissione de <pb n=""/> tutti
+            li peccati. 27 A santo Gionanne Euangelista, e statione a. s. Maria maggiore, et li e la
+            plenaria remissione de tutti li peccati, in quel di e statione a. s. Giovanne Laterano,
+            et li sono 28. milia anni d'indulgenza, et altre tante quarantene, et la plenaria
+            remissione de tutti li peccati. 28 El di de l'Innocenti, e statione a. s. Paulo, et li
+            sono anni. 15. milia d'indulgenza, et altre tante quarantene, et la plenaria remissione
+            de tutti li peccati. 31 A san Siluestro, e statione in la sua chiesa, et li e la
+            plenaria remissione de tutti li peccati. <pb n=""/>
+         </p>
+         <p> Queste sono speciali indulgentie et statione in diverse chiese in <placeName
+               ref="#Rome">Roma</placeName>, concesse per li Sommi Pontefici oltre le soprascritte.
+            A santo Pietro ogni giorno li sono sei milia anni d'indulgenza. A santo Paulo Apostolo
+            ogni giorno li sono sei milia anni d'indulgenza. Nel Spirito santo, ogni giorno gli sono
+            sei milia anni d'indulgenza. A santa Maria <persName ref="#Maggiore"
+            >Maggiore</persName>, ogni giorno gli sono sei milia anni d'indulgenza. A santo Giovanne
+            apostolo et evangelista ogni di gli sono sei milia anni d'indulgenza. A S. Sebastiano
+            ogni giorno gli sono sei milia anni d'indulgenza. A santo Anastasio martire ogni giorno
+            gli sono sei milia anni d'indulgenza. A santa Croce in Hierusalem ogni giorno li sono
+            sei milia anni d'indulgenza. A santo Lorenzo fora delli muri ogni giorno gli sono sei
+            milia anni d'indulgenza. A santo Vito, et Marcello ogni giorno gli sono sei milia anni
+            d'indulgenza. A S. Agnese ogni giorno li sono sei milia anni d'indulgenza. A. s.
+            Prassede ogni giorno gli sono sei milia anni <pb n=""/> d'indulgenza. A .s. Maria que
+            dicitur libera nos a poenis inferni, ogni giorno gli sono otto milia anni d'indulgenza
+            ne qual loco santo Siluestro Papa ligo il dragone. A. s. Maria scala celi dove sono
+            diece milia martiri sepulti, ogni giorno sono diece milia anni d'indulgenza. A. s. Maria
+            Annunciata ogni giorno gli sono dieci milia anni d'indulgenza. A. s. Bibiana sono
+            sepulti cinque milia martiri senza le donne et putti ogni giorno gli sono nove milia
+            anni d'indulgenza. Alla preditta chiesa el giorno d'Ogni santi li sono seicento milia
+            anni di vera indulgenza. A. s. Prassede li sono cento venti milia anni d'indulgenza et
+            altre tante quarantene, et la remissione della terza parte de tutti li pec. A san Cosmo
+            e Damiano, gli sono ogni giorno tante volte quante tu entri in la chiesa anni mille
+            d'indulgenza concessa per S. Gregorio Papa. A santo Eusebio ogni giorno gli sono. <date
+               when="7800">7800</date>. millia anni d'indulgenza, et altre tante quarantene. A. s.
+            Potentiana li sono piu de tre milia corpi de santi Martiri sepulti nel cimiterio di
+            Pristilo, et ivi per ogni corpo e uno anno d'indulgenza, <pb n=""/> et una quarantena;
+            et la remissione della terza parte delli nostri peccati liquali concesse il beato Papa
+            Simpliciano. Alla chiesa di. s. Alesio ogni giorno sono cento anni d'indulgenza et altre
+            tante quarantene. In quel loco dove santo Pietro disse, Domine quo vadis, li sono molte
+            indulgenze. In la chiesa di santa Balbina, ogni giorno li sono sette anni d'indulgenza.
+            In la chiesa che si chiama santa Maria imperatrice li sono. 15. milia anni d'indulgenza
+            ogni volta che tu gli vai, et gli dirai tre Pater nostri, e tre Aue Maria inginocchione,
+            laqual cosa concesse .s. Gregorio Papa per che quella imagine della nostra Donna parlo
+            ad esso .s. Gregorio. Alla chiesa di santo Mathio Apostolo, gli sono ogni giorno mille
+            anni d'indulgenza et altre tante quarantene, et remissione della settima parte delli
+            nostri peccati. </p>
+         <p> Nota che tutti quelli lo chi dove e la stella di fora descegnano che ivi si libera una
+            anima del purgatorio. </p>
+         <p> Finis. </p>
+      </body>
+   </text>
+</TEI>

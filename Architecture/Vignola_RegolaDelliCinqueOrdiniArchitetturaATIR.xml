@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita"> Title </title>
+         </titleStmt>
+         <publicationStmt>
+            <p> Publication Information </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher> ATIR </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Regola delli cinque ordini d'architettura, Giacomo Barozzio da Vignola, [<date
+               when="1562">1562</date>] --[-]-- <figure type="ornement"/> REGOLA DELLI CINQUE ORDINI
+            D'ARCHITETTVRA DI M. IACOMO BAROZZIO DA VIGNOLA. --II-- PIVS PAPA IIII. Motv proprio
+            etc. cum sicut accepimus, dilectus filius Iacobus barozzi'de Vignola unum Architecture
+            librum, quinque ordines sive modos edificandi in se continentem, ex antiquitatum Vrbis
+            edificijs extractum, artem huiusmodi callentibus perutilem et necessarium imprimi facere
+            summopere desideret, et peropet, ueretur tamen ne hec sua industria et labor, alijs qui
+            ex inde exemplum capere possent lucrum, magno cum suo damno pariat. Nos igitur eius
+            commoditatibus, et indemnitati, in premissis opportune consulentes, ipsunq; Iacobum
+            specialibus favoribus, et gratijs prosequentes. Omnibus et singulis Impressoribus, ac
+            quibusuis personis imprimendi artem exercentibus, in quibusuis Regnis et prouincijs, ac
+            dominijs morantibus, sub excomunicationis, et quingentorum ducatorum auri de camera, pro
+            una Camere Apostolice; et pro altera medietutibus eiden Iacobo applicandorum, nec non
+            amissionis librorum imprimendorum, eidem Iacobo similiter applicandorun; respective
+            penis, quas contrafacientes, absq; alia declaratione, ipso facto incurrere volumus, ne
+            per decennium a tempore impressionis dicti libri, librum huiusmodi, sive paruum, sive
+            magnum pro eorum uoluntate, aut ad instantiam quarumcunque personarum cuiuscunq;
+            dignitatis, status, gradus, nobilitatis, uel preeminentie aut conditionis fuerint quouis
+            quesito colore imprimere aut imprimi facere, seu impressos preterquam ex ipsius Iacobi
+            mandato, uenalem seu uenales exponere, quouis modo presumant seu satagant, districtius
+            inibemus, irritum quoque etc. decernimus, et nihilominus universis et singulis Legatis,
+            Vicelegatis, Gubernatoribus, et Iudicibus Ecclesiasticis et secularibus cuiuscunq;
+            dignitatis, status, gradus, ordinis, uel conditionis existant, ut eidem Iacobo in
+            premissis efficacis defensionis pressidio assistant, illaq; obseruari faciat, etiam per
+            quas eis uidebitur, sententias, censuras, et penas, in uirtute sancte obedientie
+            districte precipimus et mandamus, de gratia spetiali. Non obstantibus quibusuis
+            apostolicis, ac prouincialibus, et sinodalibus constitutionibus, et ordinationibus
+            statutis etc. Ceterisq; contrarijs quibuscunq;, cum clausulis opportunis. Volumus autem
+            presentis nostri motus proprij solam signaturam sufficere, et ubiq; fidem facere, in
+            giudicio et extra, etiam si uidebitur, absq; registratura, seu littere per breve
+            nostrum, super premissis expediri possint. Accesserunt Privilegia serenissimorum Regis
+            Hispaniae, Galliaeq; nec non Senatus Veneti, et Ducis Florentiae, ac Senarum ad
+            decennium. --III-- All'Illmo et Rmo Sre mio et Padrone Singulariss.o il Carle Farnese
+            Dapóìche il dedicare: le sue fatiche a quelli huomini, i quali per nobiltà, grandezza di
+            animo, virtuose operationi, et richezze anplissime soprastanno a gli altri quasi terreni
+            Iddij è tanto in uso (come ueggiamo) nella fronte di ciascuna opera che per adornarne il
+            mondo si manda in luce. Ben potrei io parimente IIllmo et Rmo Sre mio con questo
+            essempio donarli questa operetta qual la si sia, accioché sotto lombra del suo gran
+            favore corresse sicura nelle mani de gli huomini, ma poiche ella nata nel giardino della
+            sua gran liberalitade è tutta sua non ui havendo io altra parte che di operario non
+            posso far altro che assicurato dalla sua cortesia senza punto mirare la piccolezza del
+            frutto porgergliela riverentem.te affidandomi in ciò che 'l grande <persName ref="#Dieu"
+               >Iddio</persName> accetta le nostre basse fatiche et le aggradisce per grandi, purche
+            da gran feruore et puro affetto d'animo procedano et li Sri terreni ancora qual minima
+            pianta si truoui ne'lor giardini benche al paro delle piu nobili non lupprezzino
+            nondimeno tal uolta per la sua uarietà se non per altro gliè cara. Et lasciando io a piu
+            ellevati ingegni, et di altra professione il celebrare le sue lodi et quanto in
+            quest'arte particolare sia equale il suo gran giudicio all'animo grande, et spese regali
+            che in essa di continuo le piace di fare, supplicherolla si degni d'aggrandire questo
+            picciol frutto che per hora le porgo, il che sarà cagione di uederne in breve de
+            maggiori i quali renderanno testimonio alli studiosi di quest'arte che della sua gran
+            cortesia et liberalitade uerso di me usata io parimente ne sia stato largo dispensatore.
+            Con questo riventemente le bascio le mani. A i lettori Da qual cagione io mi sià mosso
+            benigni Lettori a fare questa operetta; et qual di poi la si sia al publico seruigio di
+            chi in ciò si diletta donarla, per piu chiara intelligenza di essa brevemente intendo di
+            narrarui. Havendo io per tanti anni in diversi paesi esercitato questa arte
+            dell'Architettura; mi è piacciuto di continuo intorno questa prattica de gli ornamenti
+            vederne il parere di quanti scrittori ho possuto, et quelli comparandoli fra lor stessi,
+            et con l'opre antiche quali si ueggono in essere, uedere di trarne una regola, nella
+            quale io m'aqquetassi con la sicurezza che ad ogni giudicioso di simil arte dovesse in
+            tutto, overo in gran parte piacere: et questa solo per seruirmene nelle mie occorrenze,
+            senza haver posta in essa altra mira. Et per far questo lasciando da parte molte cose de
+            scrittori dove nascono differenze fra loro non picciolo; per potermi appoggiare con
+            fermezza maggiore mi sono proposto innanzi quelli ornamenti antichi delli cinque ordini
+            i quali nelle Anticaglie di <placeName ref="#Rome">Roma</placeName> si veggono: et
+            questi tutti insieme considerandoli, et con diligenti misure esaminandoli, ho trovato
+            quelli che al giudicio comune appaiono piu belli, et con piu gratia si appresentano a
+            gli occhi nostri; questi anchora havere certa corrispondenza, et proportione de numeri
+            insieme meno intrigata, anzi ciascuno minimo membro misurare li maggiori in tante lor
+            parti aputo. La onde considerando piu adentro quanto ogni nostro senso si compiaccia in
+            questa proportione, et le cose spiacevoli essere fuori di quella, come ben provano li
+            Musici nella lor scienza sensatamente, ho presa questa fatica piu anni sono di ridurre
+            sotto una breve regola facile, et spedita da potersene ualere li cinque ordini di
+            Architettura detti, et il modo che in ciò fare ho tenuto è stato tale. Volendo mettere
+            in questa regola (per modo di essempio) l'ordine Dorico; ho considerato quel del Teatro
+            di Marcello essere fra tutti gli altri da ogni huomo il piu lodato: questo dunque ho
+            preso per fondamento della regola di detto ordine sopra il quale havendo terminato le
+            parti principali; se qualche minimo membro non haurà così ubidito intieramente alle
+            proportioni de numeri (il che avuiene ben spesso dall'opera de Scarpellini o per altri
+            accidenti che in queste minutie ponno assai) questo l'havero accomodato nella mia
+            regola, non mi discostando in cosa alcuna di momento. ma bene accompagnando questo poco
+            di licenza con l'autorità de gli altri Dorici, che pur sono tenuti belli: da quali ne ho
+            tolto l'altre minime parti quando miè conuenuto supplire a questo: a talché non come
+               <persName ref="#Zeuxis">Zeusi</persName> delle Vergini fra Crotoniati, ma come ha
+            portato il mio giudicio ho fatta questa scelta de tutti gli ordini cavandogli puramente
+            da gli antichi tutti insieme, ne ui mescolando cosa di mio se non la distributione delle
+            proportioni fondata in numeri semplici senza havere a fare con braccia, ne piedi, ne
+            palmi di qual si uoglia luogo, ma solo ad una misura arbitraria detta modulo divisa in
+            quelle parti che ad ordine per ordine al suo luogo si potrà uedere, et data tal facilità
+            a questa parte d'Architettura altrimente difficile ch'ogni mediocre ingegno, purche
+            habbi alquanto di gusto dell'arte; potra in un'occhiata sola senza gran fastidio di
+            leggere comprendere il tutto, et opportunamente seruirsene. Et non ostante ch'io havessi
+            l'animo molto lontano di doverla publicare hanno potuto nondimeno in me tanto li prieghi
+            di molti amici che la desiderano, et molto piu la liberalitade del mio perpetuo Sre
+            l'Ill.mo et Rmo Car.le. Farnese che oltre l'haverne havuto dalla honorata sua casa
+            cortesie tali che mi è stato concesso il potere fare queste diligentie, m'ha donato il
+            modo anchora di potere sodisfare in questa parte a gli amici, et donare anco a uoi di
+            corto altre cose maggiori in questo soggetto, se questa parte sarà da uoi accettata con
+            quell'animo ch'io credo. Et perché io non penso in questo luogo di volere occorrere a
+            quelle obiettioni che da qualchuno sò che saranno proposte; non essendo questo mio
+            intento, anzi lasciandone il carico all'opera istessa che col piacere a piu giudiciosi,
+            faccia anco che respondino per me contro gli altri; dirò solamente che se qualchuno
+            giudicasse questa fatica vana con dire che non si può dare fermezza alcuna di regola,
+            atteso che secondo il parere de tutti, et massime di <persName ref="#Vitruve"
+               >Vitruvio</persName> molte uolte conuiene crescere o scemare delle proportioni de
+            membri delli ornamenti per supplire con l'arte dove la uista nostra per qualche
+            accidente uenghi ingannata; a questo gli rispondo; in questo caso essere in ogni modo
+            necessario sapere quanto si uvole che appaia all'occhio nostro, il che sara sempre la
+            regola ferma che altri si haverà proposta di osseruare; poi in ciò si procede per certe
+            belle regole di Prespettiva la cui prattica necessaria a questo, et alla Pittura insieme
+            in modo ch'io m'assicuro in sarà grata spero anco di costo donarui. Come è detto il mio
+            intento è stato di essere inteso solamente da quelli che habbino qualche introduttione
+            nell'arte, et per questo non haveva scritto il nome a niuno de'membri particolari di
+            questi cinque ordini presuponendoli per noti: ma uisto poi per esperienza come l'opera
+            piace anco assai a molá Signori mossi dal gusto di potere intendere con pochissima
+            fatica l'intiero dell'arte intorno questi ornamenti; et che solo ni desiderano questi
+            nomi particolari, ho uoluto aggiugnerueli in quel modo che a <placeName ref="#Rome"
+               >Roma</placeName> uengono uolgarmente nominata, et con l'ordine che si potrà uedere:
+            avuertendo solamente che i membri quali sono comuni a piu ordini, doppo che saranno
+            notati una uolta sola nel primo ordine che occorrera, non se ne farà piu mentione nelli
+            altri. --IIII-- <figure type="ornement"/> Non havendo io fra le antiquità di <placeName
+               ref="#Rome">Roma</placeName> trovato ornamento Toscano, di che n'habbia possuto
+            formar regola, come ho trovato delli altri quattrórdeni, cioè Dorico, Ionico, Corintho,
+            et Composito; ho preso l'auttorità da <persName ref="#Vitruve">Vitruvio</persName> nel
+            quarto libro al settimo capitolo, dove dice la colonna toscana dover esser in altezza di
+            sette grossezze di essa colonna con la base, et capitello. Il resto dell'ornamento cioè
+            architrave fregio, et cornice mi pare esser conuenevole, osseruar la regola, la quale ho
+            trovata ne gli altri ordeni, cioè, che l'architrave, fregio, et cornice siano la quarta
+            parte dell'altezza della colonna, la quale è moduli, i 4. con la base, et capitello,
+            come si vede notato per numeri; così l'architrave, fregio et cornice saranno moduli 3 ½,
+            che viene ad essere il quarto di 14. li suoi particulari membri saranno al luogo suo
+            minutamente notati. --V-- <figure type="ornement"/> Havendosi a fare l'ordine Toscano
+            senza piedestallo si partirà tutta l'altezza sua in parti 17, ½, et ciascuna di queste
+            parti chiamaremo Modulo il qual partiamo in 12. parti vguali, et con queste sene forma
+            tutto il detto ordine con suoi particulari membri come si vede in disegno notato per
+            numeri così rotti come intieri. --VI-- <figure type="ornement"/> Ma dovendosi fare
+            quest'ordine col suo piedestallo si partirà tutta l'altezza in parti 22, et ⅙, et ciò
+            sia perché il piedestallo ricerca havere in altezza la terza parte della sua colonna con
+            la base et capitello ch'essendo moduli 14, la terza parte sono moduli 4, ⅔, aggiunti a
+            17, ½, vanno al numero di 22, ⅙. --VII-- <figure type="ornement"/> Anchorche nell'ordine
+            Toscano occorra di raro farui piedestallo nondimeno l'ho messo qui in disegno per
+            seguire l'ordine, avuertendo anchora che in tutti li cinque ordini per regola generale
+            ho osseruato si piedistalli con suoi ornamenti dover esser la terza parte della sua
+            colonna con la base et capitello sì come tutto l'ornamento di sopra ciò è architrave
+            fregio et cornice ha da essere la quarta parte. Dalla qual intelligenza et presuposto ne
+            nasce questa gran facilità nell'operare che havendo a fare qual si uoglia di questi
+            cinque ordini doppo che s'habbi terminato l'altezza che deve havere; questa si divide in
+            dicianove parti con suoi ornamenti. Di novo poi si piglia l'altezza della colonna con la
+            base et capitello et si fa la divisione de suoi moduli secondo che sera o Corinthia o Dorica over d'altro ordine et poi
+            con questo modulo diviso nelle sue parti secondo si vede alli suoi luoghi si fabrica il
+            tutto. A. Vivo della colonna B. Imo scapo della colonna C. Toro D. Plinto E. Listello
+            nome molto generale et usato indeferentemente in tutti li membri simili a minori o a
+            maggiori che sieno F. Gola roverscia G. Piedestallo H. Listello I. Zoccolo --VIII--
+               <figure type="ornement"/> Havendo scritto in generale qui adietro le principali
+            misure per far l'ordine Toscano qui et nella faccia acedente ho disegnato queste parti
+            in grandi accio particolarmente si possa vedere la divisione d'ogni minimo membro con le
+            proietture insieme, et perché la chiarezza del disegno con li numeri appresso supplisca
+            da se sola a farsi intendere senza molte parole come agevolmente ciascuno con qualche
+            consideratione potra conoscere. A. Vuovolo B. Tondino C. Listello overo regoletto D.
+            Corona overo gocciolatoio E. Listello F. Gola roverscia G. Fregio H. Lista
+            dell'Architrave I. Architrave K. Listello dell'abaco overo cimatis L. Abaco M. Vuovolo
+            N. Listello O. Fregio del capitello P. Tondino Q. Colarino della colonna R. Vivo della
+            colonna di sopra --VIIII-- <figure type="ornement"/> Il modo del fare la divisione di
+            questo ordine Dorico senza il piedestallo si è che partita tutta la sua altezza in parti
+            20. di una di queste parti se ne fa il suo modulo, il quale pur si divide in parti 12.
+            come quello del Toscano alla base coll'imo scapo della colonna si darà un modulo, il
+            fusto della colonna senza l'imo scapo si farà de moduli 14, il capitello sarà un modulo,
+            l'ornamento poi cioè architrave fregio et cornice saranno moduli 4, che è la quarta
+            parte della colonna con la base et capitello, come è detto adietro dover esser,
+            l'architrave i, il fregio 1 ½ et la cornice 1 ½ che raccolti questi insieme sono 4 et
+            poi raccolti co glialtri uanno a 20. --X-- <figure type="ornement"/> Volendo fare
+            ornamento de loggie over portici d'ordine Dorico si deve (come è detto) partir l'altezza
+            in parti 20, et formarne il modulo; poi distribuire le larghezze che venghino da un
+            pilastro all'altro moduli 7, et li pilastri sieno moduli 3, che così veniranno partite
+            le larghezze con le altezze alla sua proportione con la luce delli vani di due larghezze
+            in altezza et venira la giusta destributione delle metope et triglife come si vede.
+            Resta solo havere in consideratione che la colonna deve uscire fuor del pilastro un
+            terzo di modulo piu del suo mezzo, et questo. si fa perché le proietture delle imposte
+            non passino il mezzo delle colonne et questa sera regola universale in tutti li casi
+            simili de tutti gli ordini --XI-- <figure type="ornement"/> Havendosi a fare portici
+            overo loggie d'ordine Dorico con li piedistalli, devesi partire in parti 25, et ⅓, et di
+            una farne il modulo, et terminare la larghezza da un pilastro all'altro di moduli 10, et
+            la larghezza de'pilastri di moduli 5, che così ueniranno giuste le destributioni delle
+            metope, et triglife, et il uano de gli archi proportionato uolendo che uenghi l'altezza
+            duplicata alla larghezza quale è di moduli 20, come si puo uedere. --XII-- <figure
+               type="ornement"/> Il piedestallo Dorico deve essere moduli 5. et ⅓ in altezza, la
+            imposta dell'arco qui sopra disegnata modulo 1, et partiti li suoi particolari membri
+            come si vede notato per numeri. .A. somellature della colonna .B. imo scapo della
+            colonna et per tale debbe essere inteso in tutti le ordini .C. tondino overo bastoncino
+            --XIII-- <figure type="ornement"/> Questa parte d'ordine Dorico è cavata dal Teatro di
+            Marcello in <placeName ref="#Rome">Roma</placeName> come nel proemio per modo di
+            essenpio fu detto, et posta in disegno ritiene questa medesima proportione. .A. sguscio
+            .B. dentello .C. capitello del triglifo .D. triglifo nel quale le parti che s fondano
+            indentro sono nominate canaletti, et lo spatio quadrato del fregio che resta fra l'un
+            triglifo, et l'altro si chiama metopa .E. goccie overo campanelle .F. cimano .G.
+            anuletti overo listelletti --XIIII-- <figure type="ornement"/> Quest'altra parte
+            d'ordine Dorico è cavata da diversi fragmenti delle antiquita di <placeName ref="#Rome"
+               >Roma</placeName> et fattone un composito tale che in opera l'ho provato reuscire
+            molto bene. .A. gola diritta .B. Modiglione overo modello, et con questo nome uengono
+            chiamati tutti ancorche sieno di uaria forma purche mostrino l'ufficio di sostenere la
+            cornice che gli è disopra .C. fusaruoli --XV-- <figure type="ornement"/> Havendosi a
+            fare l'ordine Ionico senza il piedestallo tutta l'altezza s'ha da partire in parti 22 ½,
+            et d'una di queste farne il modulo, il quale ua diviso in parti 18. et questo avuiene
+            che per essere ordine piu gentile del Toscano et del Dorico ricerca piu minute
+            divisioni: la sua colonna deve essere 18 moduli con la base et capitello lo architrave
+            modulo 1 ¼ il fregio modulo i ½ la cornice modulo 1 ¾ colti insieme architrave fregio et
+            cornice sono moduli 4 ½ che è la quarta parte dell'altezza della colonna. --XVI--
+               <figure type="ornement"/> Dovendosi fare portici o loggie di ordine Ionico si faranno
+            i pillastri grossi moduli 3 et la larghezza del uano moduli 8 ½ et l'altezza moduli 17
+            che sarà doppia alla larghezza la quale è regola da osseruare fermamente in tutti gli
+            archi di simili ornamenti ogni uolta che gran necessita non astringa. --XVII-- <figure
+               type="ornement"/> Ma dovendosi fare portici o loggie di ordine Ionico con li
+            piedestalli tutta l'altezza ua partita in parti 28 ½ essendo il piedestallo con il suo
+            ornamento moduli 6 parte terza della colonna con la base et capitello come s'è detto
+            dovere essere in tutti li ordini, la larghezza del uano sara moduli 11, l'altezza 22, la
+            larghezza de pillastri moduli 4 come si uede in disegno notato per numerj. --XVIII--
+               <figure type="ornement"/> .A. Scotta overo cavetto superiore .B. Astragali overo
+            tondini .C. Scotta overo cavetto in feriore La cornice della imposta qui sopra è
+            d'altezza modulo 1 et la sua proiettura e ⅓ i particolari membri si ponno uedere da
+            numeri et parimente quelli del piedestallo et della base. --XVIIII-- <figure
+               type="ornement"/> Il modo di fare il capitello lonico ancora che nella presente carta
+            sià designato con la pianta et profilo a piu chiara intelligentia si deve tirar due
+            linee a perpendicolo duoi moduli lontano una dall'altra le quali passano per il centro
+            de gli occhi delle uolute et sono chiamate Catheti. Tutta la uoluta deve essere alta 16
+            parti di modulo 8 restano sopra l'occhio il quale è duoe parti et le sei restano di
+            sotto. Il modo col quale si fanno queste uolute è disegnato nella seguente carta et ui
+            sara anco brevemente scritto (per quanto comporta lo spatio) il modo con che si procede.
+            --XX-- <figure type="ornement"/> Tirato il Catheto di questa prima uoluta et un'altra
+            linea in squadro che passi per il centro dell occhio si divide il detto occhio nel modo
+            segnato di sopra nella figura A et si comincia poi al primo punto segnato. 1. et si gira
+            col compasso una quarta di circolo dipoi al punto segnato 2 si gira l'altra quarta et
+            così procedendo si fa i tre giri compitamente. Per far poi la grossezza del listello sì
+            come egli e la quarta parte della larghezza che lascia di sopra il primo giro così s'ha
+            da partire ciascuna di quelle parti c'hanno seruito per centri in 4 et girando poi
+            altre. 12. quarte di circolo con quelli centri sarà fornita. Volendo fare la voluta nel
+            modo qui sotto disegnata tirasi la linea detta Catheto la quale sarà alta parti. 16.
+            d'un modulo 9. parti deveno restare di sopra del centro et parti. 7. disotto et in detto
+            centro fare la divisione della circonferenza in parti 8. come è disegnata. Dipoi devesi
+            fare il triangolo. B. C. D. che la linea. B. C. sia parti 9 d'un modulo et la linea C D
+            sia parti 7 et perché si può uedere, et conoscere per il disegno fatto per numeri parmi
+            che basti a saperlo formare. Dipoi devesi rapportare su le linee che ne dividono la
+            circonferentia della uoluta li punti della linea B C come si uede per numeri segnati. Et
+            nel girare poi da un punto all'altro si trova il centro mettendo il piede fermo del
+            compasso sul punto segnato. 1. et allargandolo fino al centro dell'occhio della uoluta
+            si tira un poco di circonferenza dentro a detto occhio poi senza movere il compasso si
+            mette il piede fermo sopra il punto segnato. 2. et dove ua ad intersecare su quella poco
+            di circonferenza segnata quivi sera il centro della circonferenza da 1 a 2 poi si mette
+            il piede fermo del compasso sul punto 2 et si stringe fino al centro dell'occhio della
+            uoluta et si tira parimente un poco di circonferenza poi senza movere il compasso si
+            mette il pede fermo sul punto 3. et girando dove s'interseca su quella poco parte di
+            circonferenza quivi sara l'altro centro che tirarà la parte di uoluta da 2. a 3 et così
+            si procede di mano in mano. --XXI-- <figure type="ornement"/> Per fare questo ordine
+            Corintio senza piedestallo, tutta l'altezza si divide in parti 25, et d'una di queste si
+            fa il modulo, il quale poi si divide in parti 18. come quello del Ionico: l'altre
+            divisioni principali si ueggono, et la larghezza da una collonna, all'altra dee essere
+            moduli 4. et ⅔., si per la ragione che gli architravi di sopra non patischino; come anco
+            per accomodare che li modelli di sopra nella cornice. uenghino sopra il mezzo delle
+            colonne nel suo equale scompartimento. --XXII-- <figure type="ornement"/> Et uolendo
+            fare archi di loggie di questo ordine corintio senza piedestallo, devesi fare come è
+            notato per numeri che li uani sieno di moduli 9 in larghezza, et in altezza moduli 18:
+            li pilastri sieno moduli 3. --XXIII-- <figure type="ornement"/> Mase si haverà da fare
+            loggie overo portici con piedestalli si partirà il tutto dell'altezza in parti 32. et
+            d'una se ne farà il modulo: 12 di questi sarà la larghezza del uano et 25. l'altezza: et
+            benche passi li duoi quadri; in questo ordine gli si conuiene per piu leggiadria. Li
+            pillastri si faranno moduli 4 come è notato. --XXIIII-- <figure type="ornement"/> A Toro
+            overo bastone superiore B Toro overo bastone inferiore Se il piedestallo di quest'ordine
+            Corintio fosse la terza parte della colonna sarebbe moduli sei et duoi terzi, ma si può
+            comportare di moduli sette per piu sueltezza, conforme molto, et conueniente a simil
+            ordine; et anco perché il netto del piedestallo senza la cimasa et bassamento riesca di
+            duoi quadri, come si può uedere per li suoi numeri: il resto cioè la base et la cimasa,
+            et il bassamento per essere notato minutamente; or anco la imposta dell'arco, non accade
+            altra scrittura. --XXV-- <figure type="ornement"/> A. et B. insieme uengono detto Abeco
+            del capitello. pure o piu distintione A. si nomina per cimano del Abeco C. Caulicolo D.
+            Foglie minori E. Foglie di mezzo F. Foglie di sotto G. Fiore Con la pianta, et il
+            profilo di questo capitello Corintio si può conoscere tutte le sue misure: dalla pianta
+            si piglia le larghezze facendosi un quadro, che sia per linea diagonale moduli 4, nel
+            quale si faccia un triangolo in una delle faccie nel modo si uede, et nel angolo segnato
+            etcross2; si ferma la punta del compasso, et tirasi il cavo dell'abaco. Per il profilo
+            si piglia l'altezza delle sue foglie, caulicoli et abaco: et il sporgimento delle
+            foglie, et caulicoli. si piglia per la linea che nasce dalla punta dell'abaco al tondino
+            della colonna, come si può uedere sul disegno del profilo; il resto con un poco di
+            consideratione si può facilmente intendere. --XXVI-- <figure type="ornement"/> Questa
+            cornice Corintia e cavata da diversi luoghi di <placeName ref="#Rome">Roma</placeName>,
+            ma principalmente dalla rotonda, et dalle tre colonne che sono nel foro Romano, et
+            raffrontati li suoi principali membri ui ho posta la sua regola, non mi scostando punto
+            dalle antiche, et redottola in tal proportione che uenghi un modiglione al mezzo delle
+            colonne, et che sieno li suoi uvovoli, denticoli, archetti, et fusaroli indritti l'uno
+            all'altro con diligente ordine, come si può uedere. A cognitione delle sue misure
+            suppliscono i numeri fatti per moduli, et parti de moduli, partito il modulo in parti 18
+            come è detto inanzi. --XXVII-- <figure type="ornement"/> Questo piedestullo Composito
+            serua le proportioni del Corintio; solo e uariato de membri nella cimasa et bassamento
+            come si può conoscere. Et perché l'ornamento composito serua le medesime proportioni del
+            Corintio; non ho tenuto per necessario farne colonnati, ne archi proprij, riportandomi a
+            quelli Corintij: solo ho messo la sua uarietà della base, et capitello, et altri suoi
+            ornamenti, come a suoi luoghi si può uedere. --XXVIII-- <figure type="ornement"/> Questa
+            pianta, et profillo del capitello composito, riserua il procedere che fu detto del
+            corintio: solo è uariato che dove nel Corintio sono li caulicoli; questo composito ha le
+            uolute fatte nel modo istesso delle ioniche. Gli antichi Romani pigliando parte del
+            Ionico, et parte del Corintio fecero un composito tale, per unire insieme quanto si
+            potrua di bellezza in una parte sola. --XXVIIII-- <figure type="ornement"/> Quest'ordine
+            Composito. ciò è capitello, architrave. fregio. et cornice è pur cavato da diversi
+            luoghi fra le antiquità di <placeName ref="#Rome">Roma</placeName>. et ridotto a
+            proportione come fu detto del Corintio; il quale per essere diligentemente notuto per
+            numeri da se si mostra. --XXX-- <figure type="ornement"/> Truovansi fra le anticaglie di
+               <placeName ref="#Rome">Roma</placeName> quasi infinite uarieta di capitelli, quali
+            non hanno nomi prorij ma si possono tutti insieme co'questo uocabolo generale nominare
+            compositi et anco seguono le misure principali delli altri compositi derivati solamente
+            dal Ionico et Corintio. Ben è uero che in alcuni si uederano animali in luogo delli
+            caulicoli et in altri cornucopi, in altri altre cose secondo che a lor propositi
+            occorreva come si puo giudicare per il presente'qui disegnato che havendo quattro aquile
+            in luogo delli caulicoli, et in luogo delli fiori faccie di <persName ref="#Jupiter"
+               >Giove</persName> con li fulmini sotto; si può facilmente conoscere fosse in un
+            tempio consecrato a <persName ref="#Jupiter">Giove</persName>. Così si può dire che
+            quest'altro, il quale ha quattro grifoni in luogo de caulicoli, et quattro aquile nelli
+            mezzi con un cane nelle grife fosse appropriato a qualche altro loro Idolo. La sua
+            proportione eccetto li animali è simile alli Corintij. Questa base è da <persName
+               ref="#Vitruve">Vitruvio</persName> nominata atticurga nel terzo libro alterzo
+            capitolo, come prima dalli A tertiesi trovata et posta in opera. Alli nostri tempi è in
+            uso metterla in opera sotto il Corintio, Composito, Ionico et Dorico indiferentemente,
+            la qual però piu sí confa al Composito che ad alcuno altro, et anco si puo tolerare nel
+            Ionico non si seruendo della sua propria. Sotto ad altri ordini poi io la riputerei
+            sconuenevole affatto, et n'addurrei piu ragioni: ma non uoglio mettermi a dire sopra
+            cosa passata in tanta licenza; basti con l'ordine passato mostrarne il suo spartimento
+            qual nasce dal modulo spartito in parti diciotto come quello del Ionico. et Corintio.
+            --XXXI-- <figure type="ornement"/> Farsi in piu modi il sminuire delle colonne, de quali
+            ne pongo qui duoi accettati per, i, migliori! Il primo et piu noto si è, che terminata
+            l'altezza, et la grossezza della colonna et quanto si uvole che sminuischi da la terza
+            parte in su; si forma un semicircolo a basso dove comincia il sminuire, et quella parte
+            che ne uien compresa dalla linea perpendiculare del somo scapo; questa dividendola in
+            quante parti equali si uvole, et in altretanto partendo si duoi terzi della colonna, et
+            poi accordando le linee perpendicolari, con le transuersali, sarano trovati si suoi
+            termini come si uede in figura. Di questa forma colonne si può usare nel Toscano et nel
+            Dorico. Laltro modo de me stesso speculando lho trovato; è benche sia molto men noto, è
+            però facile a comprenderlo da line amenti dirò solamente che terminate tutte le parti
+            come è detto, si die tirare una linea indefinita alla terza parte da basso, la quale
+            comincia da. C. et passa per. D. poi riportando la misura. C. D. in punto. A. et
+            intersecando sul cateto della colonna che sarà in punto B. si stendera. A. B. in punto.
+            E. di dove si può tirare quel numero di linee che parerano quali si partino dal cateto
+            della collona et uadiano alla circonferenza, et su queste riportando la misura. C.D. dal
+            cateto uerso la circonferenza così di sopra la terza parte di sotto uenirano trovati li
+            suoi termini. Di quest'altra sorte colóne si può usare nel Ionico Corintio Composito.
+            Disegnata queste colonnè diritte, et uolendole far torte a similitudine di quelle che
+            sono in <placeName ref="#Rome">Roma</placeName> nella chiesa di <persName
+               ref="#SaintPierre">S. Pietro</persName> devesi far la pianta come si uede, et quel
+            circoletto di mezzo è quanto si uvol che torchi, il qual diviso in otto parti et tirate
+            quelle quattro linee paralelle al cateto, si dividerà tutta la colonna in parti. 48. et
+            si formerà quella linea sperale di mezzo che è centro della colonna; dalla quale si
+            riporterà la grossezza della colonna diritta a linea, per linea come si uede. Solo s'ha
+            da accertar che si li quattro numeri 1. 2. 3. 4. segnati su la pianta hanno a seruire
+            solamente fino alla prima mezza montata e questo per il posamento uvole cominciare nel
+            centro. Dall'in su debbe seguire per il giro del circolo piccolo, se non che a fornire
+            l'ultima mezza montata s'ha da tornare al seruirsi delli quattro punti come da basso.
+            --XXXII-- <figure type="ornement"/> Questa cornice la quale ho messa piu uolte in opera
+            per finimento di facciate, et conosciuto che riesce molto grata. Con tutto che sia di
+            mia inuentione non mi è parso sconuenevole a sodisfattione di chi se ne uolesse seruire
+            metterla in ultimo di questa operetta: La sua proportione con la facciata è che divisa
+            tutta l'altezza in parti undici una resta alla cornice l'altre dieci alla facciata: Il
+            resto si uede. </p>
+      </body>
+   </text>
+</TEI>

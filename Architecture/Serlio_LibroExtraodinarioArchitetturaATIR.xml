@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita"> Title </title>
+         </titleStmt>
+         <publicationStmt>
+            <p> Publication Information </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher> ATIR </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Libro extraordinario di architettura, <persName ref="#SebastianoSerlio">Sebastiano
+               Serlio</persName>, <date when="1558">1558</date> --[-]-- Extraordinario LIBRO DI
+            ARCHITETTVRA DI SEBASTIANO SERLIO, ARCHITETTO DEL RE CHRISTIANISSIMO. NEL QUALE SI
+            DIMOSTRANO. TRENTA PORTE DI OPERA RVSTICA MISTA CON DIVERSI ORDINI: ET VENTI DI OPERA
+            DILICATA DI DIVERSE SPECIE CON LA SCRITTVRA DAVANTI, CHE NARRA IL TVTTO. In <placeName
+               ref="#Venise">Venetia</placeName>, appresso Giovambattista, et Marchio Sessa
+            fratelli. <date when="1558">1558</date>
+            <pb n=""/> AL CHRISTIANISSIMO RE HENRIGO SEBASTIANO SERLIO. Altissimo et potentissimo
+            Sire, essendo la vigilantia, et la sollecitudine grande inimiche del ocio, et della
+            pigritia; et tenendo io la parte delle due prime, non posso fare ch'io non operi in
+            quelle cose, alle quali me inclina il mio Pianeta, che sono gli studii di Architettura.
+            Il perché ritrovandomi di continuo in questa solitudine di <placeName
+               ref="#Fontainebleau">Fontanableo</placeName>, dove sono piu fiere, che huomini, et
+            havendo condotto al sine una mia longa fatica, mi cadde nel animo di voler formare in
+            apparente dissegno alcune porti alla Rustica, miste però con diversi ordini, cioè
+            Thoscano, Dorico, Ionico, Corinthio, et Composito. Et questo non è stato senza cagione.
+            Impero che vegendo, et vdendo spesse volte mirare, et lodare la porta del Reverendiss.
+            et illustriss. Cardinale di Ferrara, dove io mi tengo di continuo; et molti volerne
+            copia per seruirsene: diqui nacque (come ho detto di sopra) ch'io incominciassi tal
+            fatica: et andai tanto avanti, ch'io ne feci fin al numero di XXX. quasi transportato da
+            un'furore Architettico. Ne mi contentai di questo, sentendomi abbondare nove fantasie
+            nell'intelletto; ch'io me deliberai farne fin al numero de XX. di opera dilicata pure di
+            diversi ordini per satisfare a piu appetiti di huomini: et a commun beneficio non
+            solamente del'bel'Regno di <placeName ref="#France">Francia</placeName> tanto inclinato
+            al'Architettura: ma a beneficio di tutti li paessi habitati da huomini, et le quai
+            fatiche ho fatte sotto lo nome et protetione di vostra Maiesta. Prenda addonca quella
+            questa mia picola fatica con quella bellezza di animo, con la quale l'humilissimo suo
+            seruo le porge: et viva felice. <pb n=""/> SEBASTIANO SERLIO A GLI LETTORI.
+            Discretissimi lettori, la cagione, che mi mosse a dar'principio a questa mia fatichetta,
+            la potete havere intesa nella epistola davanti: ma la cagione, per ch'io sia stato così
+            licentioso in molte cose, hora ve la dirò. Dico che conoscendo, che la maggior parte de
+            gli huomini appetiscono il piu delle volte cose nuove, et massimamente che ve ne sono
+            alcuni, che in ogni picola operetta, che facciano fare, gli vorebbono luoghi assai per
+            porui lettere, armi, imprese, et cose simili: altri istoriette di mezo rilevo, o di
+            basso: alcuna fiata una testa antica, o un ritratto moderno, et altre cose simili. Per
+            tal cagione sono io trascorso in cotai licentie, rompendo spesse fiate uno Architrave,
+            il Fregio, et anchora parte della Cornice: seruendomi perhò di l'autorita di alcune
+            antichita Romane. Taluolta ho rotto un'Frontespice per locarui una tabella, o una arme.
+            Hò fasciato di molte colonne, pilastrate, et supercigli, rompendo alcuna volta de gli
+            Fregi, et de Trigliphi, et de fogliami. Le quai tutte cose levate via, et aggiunte delle
+            Cornici, dove son rotte, et finite quelle colonne che sono imperfette, le opere
+            rimarrano integre et nella sua prima forma. Et perché quanto al discrivere le misure io
+            son stato molto breve: il diligente Architetto le truoverra tutte minutamente, facendo
+            cosi. S'imaginera di quanti piedi havera da esser larga la porta, facendo di uno di quei
+            piedi parti dodici, che saranno once, et di una oncia farne sei parti detti minuti:
+            dipoi comincera a misurare una colonna, la quale troverra (esempio gratia) un piede, e
+            sette once, e tre minuti, et mezo: et la pilastrata sara per la meta di essa colonna: et
+            così la colonna sara otto grossezze in altezza, et sara diminuta la sesta parte nella
+            summita. Con questa regola troverra tutte le misure a parte a parte. Et volendo poi
+            ridurre l'opera in forma grande, fara del piede giusto tante once, et d'una oncia tanti
+            minuti. Et così havendo lo compasso picolo per l'opera picola, et lo compasso grande per
+            la grande, trasporterra la cosa picola in forma grande che non falira punto. Ma o voi
+            Architetti fondati sopra la dottrina di <persName ref="#Vitruve">Vitruvio</persName> (la
+            quale summamente io lodo, et dalla quale io non intendo alontanarmi molto) habbiatemi
+            per iscusato di tanti ornamenti, di tante tabelle, di tanti cartocci, volute, et di
+            tanti superflui: et habbiate riguardo al paese, dove io sono, supplendo voi dove io
+            havero mancato: et state sani. <pb n=""/> DESCRITTIONE DELLE TRENTA PORTE RVSTICHE. I
+               <figure type="ornement"/> Primieramente la porta qua davanti, come ho detto, è alla
+            casa del Reverendiss. et Illustriss. Cardinal di Ferrara Don Hippolito da Este: la quale
+            è di opera <placeName ref="#Toscane">Toscana</placeName> vestita di <persName
+               ref="#GiovanniFrancescoRustici">Rustico</persName>, le colonne della quale vorebbon
+            essere di sette diametri, cioè grossezze, prendendo tal misura da basso, secondo li
+            precetti di <persName ref="#Vitruve">Vitruvio</persName>: ma per esser'esse colonne
+            incassate nel muro, et anche cinte dalle fascie Rustiche, et non essendo sopra esse gran
+            peso, elle si faranno di nove grossezze alte con la base, et il capitello. La sua
+            grossezza si immaginara un piede, e mezo. Le sue pilastrate dalli lati saranno per la
+            meta della colonna. L'altezza del piedestale sara piedi tre. L'apertura della porta in
+            larghezza sara piedi otto. L'altezza fin sotto l'arco sara piedi sedici. Le colonne
+            nella parte disopra saranno diminuite la quarta parte. L'Architrave sara per la meta
+            della colonna, così lo Fregio, et anche la Cornice. Lo Frontespice sara dal regolo della
+            Cornice fin alla sua acutezza, piedi tre. Li cunei del arco saranno talmente compartiti,
+            che quel di mezo sia la quarta parte piu largo degli altri. Quanto a l'opera del
+            legname, si aprira dalla fascia in giù: ma dalla fascia in sù, ella sara fermata
+            nell'opera di pietra. Per ciò che l'altezza de l'apertura sara piedi undici, et un
+            quarto. Et chi vorra questa porta, o maggiore, o minore, accresca, o minuisca li piedi.
+            II <figure type="ornement"/> La presente porta è di opera <placeName ref="#Toscane"
+               >Toscana</placeName>, ma di basso rilevo di un'<persName
+               ref="#GiovanniFrancescoRustici">Rustico</persName> dilicato: la larghezza della quale
+            è piedi sei, et mezo imaginati. L'altezza sua sara piedi tredici. La fronte di una
+            colonna sara un'piede. La pilastrata mezo piede. Fra le dua colonne vi è un'piede, et
+            mezo. l'altezza del piedestale è piedi tre. l'altezza delle colonne è piedi dieci, e
+            mezo, ne per ciò sono viciose, per essere di basso, et apresso l'una all'altra.
+            l'Architrave, il Fregio, et la Cornice sara la quinta parte de l'altezza della colonna.
+            La levation'di mezo sara tanto alta col remenato, quanto è larga la porta. La sua
+            larghezza con le colonnelle è quanto contiene le pilastrate della porta. Et in essa
+            levatione, se la porta sara a una casa privata, et che l'entrata sua habbia bisogno di
+            luce, ella seruira per finestra. Et se anche non le accadera luce, si potra in essa
+            mettere qualunque cosa si vorra. III <figure type="ornement"/> Questa porta è tutta di
+            opera <placeName ref="#Toscane">Toscana</placeName> ornata di <persName
+               ref="#GiovanniFrancescoRustici">Rustico</persName>. Le colonne di essa sono di dieci
+            grossezze in altezza: che così le descrive <persName ref="#Vitruve">Vitruvio</persName>
+            nel Tempio rotondo ne l'opera <placeName ref="#Toscane">Toscana</placeName>. La sua
+            grossezza sara di un'piede, et mezo. Et saranno li dua terzi fuori del muro. Fra l'una,
+            et l'altra sara lo spatio di meza colonna. L'altezza di un'piedestale sara tre piedi, e
+            dua terzi. La latitudine della porta sara piedi sette, e un quarto. l'altezza sua sara
+            piedi quatordici, e tre quarti. L'Architrave, Fregio, et la Cornice sara la quarta parte
+            de l'altezza della colonna. Et fatto del tutto diece parti: tre saranno per
+            l'Architrave: quatro si lassaranno per il Fregio: e quatro si daranno alla Cornice. Dal
+            quadretto di essa Cornice fin alla summita del Frontespice, sara piedi quatro. li cunei
+            de l'arco saranno talmente compartiti, che quel di mezo sia la quarta parte piu de
+            glialtri. la tabella, che rompe il Fregio, et l'Architrave, è licentia antica per
+            metterui gran numero di lettere. Et chi non la vorra, la levi, et rimarra l'opera
+            integra. IIII <figure type="ornement"/> La presente porta è tutta Dorica mista col
+               <persName ref="#GiovanniFrancescoRustici">Rustico</persName>, et col tenero per
+            Capriccio. Tenero è quel cussino sopra li capitelli fatto per una bizaria. Et a chi
+            nostr piacera, faci correre la fascia, et sopra essa metta un cimatio. Et così la
+            tabella, che rompe lo Fregio, chi non la vorra, la levi via, et lassi correre la
+            Cornice. Et il medesimo fara di quei pezi rustichi fra le cornici del Frontespice, li
+            quali vi furono posti per carestia di Cornice. Or'parliamo delle misure. La larghezza
+            della porta è piedi otto: et è l'altezza sua piedi tredici, e mezo. la grossezza di una
+            colonna è uno piede, e mezo: et è in altezza piedi dodeci, che sono otto grossezze. li
+            Piedestali sono alti piedi dua, et mezo. le pilastrate dalli lati ciascuna è tre quarti
+            di un'piede. l'Architrave, il Fregio, et la Cornice, sono la quarta parte de l'altezza
+            della colonna. Dalla fascia <pb n=""/> in luogo di Architrave alla cima del Frontespice
+            vi sono quatro piedi, et un'quarto. Li cunei saranno diecinove, facendo quel di mezo
+            maggiore la quarta parte. V <figure type="ornement"/> Parera forse ad alcuno la presente
+            porta essere, come la passata, per esser'le colonne fasciate di <persName
+               ref="#GiovanniFrancescoRustici">Rustico</persName>, come l'altra: ma chi
+            ben'considerara tutte le parti, la trovara assai differente. Questa porta adonca è tutta
+            Dorica tramezzata di <persName ref="#GiovanniFrancescoRustici">Rustico</persName>. la
+            larghezza di essa è piedi otto, e tre quarti. La sua altezza sara piedi quatordici, e
+            un'terzo. la grossezza di una colonna sara piede uno, e mezo. L'altezza della colonna
+            sara piedi dodici e mezo. L'altezza del piedestale sara piedi tre et uno quinto. Le
+            pilastrate saranno per meza colonna. L'Architrave, il Fregio, et la Cornice, sara per la
+            quarta parte della colonna. Ma avuertissi qui lettore, di fare al perpendicolo delle
+            colonne li dua modiglioni: la fronte de quali sara per meza colonna, et la sua altezza
+            sara tre quarti di essa colonna: et fra li dua modiglioni saranno cinque trigliphi, et
+            sei methope. le quai misure trovarai, se vsarai diligentia nel compartire, et nel
+            misurare. Et condotta al fine questa opera, la trovarai reuscire a satisfatione
+            de'giudiciosi. Il frontespice sara alto da sotto lo scudo alla sua cima piedi tre, è
+            mezo. li cunei del mezo circolo saranno decisetti: ma que'di mezo sara la quarta parte
+            maggiore de glialtri. VI <figure type="ornement"/> Gli è pur'grande cosa il voler'variar
+            in tanti modi quelle cose le quali hanno in se pochissimi termini: che quando si
+            havera'fatto a una finestra, o una porta sopra essa la sua Cornice, pura, o lo
+            Frontespice, o il remenato, non vi sara da variare altrimenti. Et io, che mi son'dato a
+            fare cinquanta porte tutte differente, et diverse l'una da l'altra, non farò puoco a
+            satisfare a tutti: pure andarò facendo quanto io sapperò. la presente porta è tutta
+            Dorica, ma stravestita, et fatta mascara, come sono le colonne non finite, ma vi son
+            però le sue misure. Que dua quadreni sopra esse colonne, che rompeno l'Architrave, il
+            Fregio, et parte de la Cornice: quei tre pezzi rustici, li quali traversano lo Fregio, e
+            l'Architrave, e lo Superciglio: le quai tutte cose levate via, la porta rimarra pura: et
+            vi si trovaranno tutte le misure, et la distribuitione de trigliphi, et delle methope.
+            Ma tal fiata uno huomo, che vora variare da glialtri, si contentara di questa
+            inuentione. Quanto alle misure, s'immaginara che una colonna sia grossa un'piede, e
+            mezo, et del piede fatto dodici parti, da quello si traranno tutte le misure. VII
+               <figure type="ornement"/> Io son pure su questa fantasia delle colonne imperfette,
+            per variare daglialtri, et delle quali so ne farò uno arco trionphale. la largheza del
+            quale sara piedi undici: et l'altezza sara ventidua. l'altezza de i piedestali sara
+            piedi sette: et le porticelle saran'sei piedi in altezza, et larghe tre. la grossezza
+            delle colonne è piedi dua: la sua altezza piedi diecinoui, et un terzo. la pilastrata
+            del arco sara un'piede: fra le colonne vi è piedi cinque, un'quarto. l'altezza de
+            l'Architrave, Fregio, et Cornice sara la quarta parte del'altezza della colonna. Et per
+            che in uno arco ci acade scritture assai, imprese, et armi, ci ho voluto fare le tre
+            tabelle oltra la forma ovale nella parte di sopra. la quale altezza con tutto il
+            Frontespice sara piedi tredici, et mezo. li cunei saranno dieci sette: me quel'di mezo
+            sara un quarto di piu de gli altri. VIII <figure type="ornement"/> La porta qua davanti
+            è tutta Dorica, di basso rilevo, mista di rustico dilicato. L'apertura di essa in
+            larghezza è piedi sei, et è alta dodici, le colonne son'piane: et le dua insieme fanno
+            un'pilastro. Ma per far'l'opera piu gratiosa s'è incavato fra esse colonne quanto è la
+            meta di una. l'altezza del piedestal è piedi nove. l'Architrave, Fregio, et Cornice sono
+            in altezza piedi quatro. Et sopra le colonne vi sono li modiglioni in luogo di
+            trigliphi: fra li quali vi è una tabella per metterui delle lettere. Et chi non la
+            vorra, la levi via, et gli compartissa li trigliphi. Et similmente se quelle dua tabelle
+            attacate alle colonne, et quelle fascie rustiche, che cingono le colonne, et la
+            pilastrata, non piaceranno, le levi via: et la porta rimarra tutta netta. l'altezza del
+            Frontespice sara piedi tre dal cimatio della Cornice fin sotto le mascare. IX <figure
+               type="ornement"/> Ne primi tempi. quando non s'era anchora adoperato Marmi, ne altra
+            pietra, si facevano gli edificij di legnami: et per ciò la presente porta dimostra
+            esser'fatta di legnami, così imperfeta di membri particulari: ma, quanto al universale,
+            vi sono osseruate le misure. Et ben che li dua interualli fra li dua trigliphi sopra le
+            dua colonne, siano maggiori deglialtri, questo non è errore, anzi tal varieta si mostra
+            gratiosa a chi non vorra essere piu che rigoroso nelli termini dati da <persName
+               ref="#Vitruve">Vitruvio</persName>, lo quale ne suoi scritti non puote antivedere
+            tutti gliaccidenti. X <figure type="ornement"/> Questa porta partecipa del Dorico, et
+            del Ionico misto col <persName ref="#GiovanniFrancescoRustici">Rustico</persName>, et
+            anche di opera lateritia. le colonne <pb n=""/> sono Doriche, quantunque non vi siano
+            tutti li membri delle basi, et de capitelli. Vi è per ciò la materia da fargli,
+            osseruando le misure. le quai colonne, essendo questa opera soda, sono sette parti, et
+            meza in altezza. Il cuneo sopra l'arco è Ionico, per non vi essere intagli. li cunei de
+            l'arco sono interzati, parti sono Rustici, parti di pietra cotta, per'variare l'opera:
+            et così le pilastrate medesimamente sono variate: cosa che torna bene in opera, come ne
+            dimostra qualche vestigij il portico di <persName ref="#Pompee">Pompeo</persName>, dove
+            si vede opera lateritia, et pietra viva insieme. XI <figure type="ornement"/> Questa
+            rappresenta essere di legname, osseruato perhò il costume Dorico. l'altezza delle
+            colonne è otto parti, e meza, per essere dua propinque una a l'altra: Ne vi sono le
+            basi, ne capitelli, ma per piu fortezza sono cinte di ferro, così da alto, come da
+            basso. Et, come ho detto de l'altra, se questa sara fatta di marmo Greco veneggiato per
+            lo longo, ella tornera bene: o di qualche pietra gialletta, come io ne ho veduto in
+            alcuni luoghi minerali, adoperando poi l'artificio del scarpello in fargli le vene,
+            potrebbe satisfare a qualch'uno: et anche per l'entrata di un'giardino, ella reusciria a
+            farla di legname nel modo apunto, che qui si dimostra, di Larice, di Pino, di Castagno,
+            o di Rovere, o di altro legname rissistente alla pioggia, et al sole. XII <figure
+               type="ornement"/> Questa porta è Dorica dilicata mista, e legata di opera rustica,
+            con la sua iusta distributione de i trigliphi, e dele methope: ben che parte di esse
+            methope et trigliphi son coperte de la tabella sopra esse, per colocarui gran numero di
+            lettere. le colonne di questa sono di otto grosezze, e meza. Et, como ho detto delle
+            altre, elle sono comportabile per tre ragioni. Prima per esser'la terza parte inserte
+            nella muraglia sono fortissime. Seconda per esser'cinte da quelle fascie rustiche, gli è
+            levata quella gracilita. Terza per esser'cannellate dimostrano maggior grossezza, per
+            cagione della virtu visiva, la quale si va dilatando per le concavita, dove la cosa pare
+            piu grossa, che non è in effetto. XIII <figure type="ornement"/> La presente porta è
+            Ionica mista, et legata col rustico. le colonne della qualle se fussero di tutto tondo,
+            et in isola, verrebono essere di otto parti, o al piu di otto, et meza: ma perché sono
+            una parte nel muro, et anche cinte da quelle fascie, elle sono undici grosezze in
+            altitudine. Per la quale cosa l'occhio se ne apaga. Et che le vorra piu grosse, che non
+            siano, che di nuove grossezze le potra fare, obseruando tutte le altre misure e de
+            piedestali et corniciamenti: ma facendo perhò le pilastrate per la meta della grossezza
+            della colonna. XIIII <figure type="ornement"/> Questa porta per non havere colonne, le
+            quali sono la vera cognitione de le spetie del edificio, non si può dire, che rustica,
+            Nondimeno l'Architrave ha del Ionico. E così lo Fregio, per esser'puluinato, et la
+            Cornice è anchora Ionica. la parte di mezo sopra essa per cagione de li modiglioni, che
+            sono nel Fregio, viene a esser'opera composita. XV <figure type="ornement"/> La presente
+            porta è Ionica accompagnata, e legata con l'opera rustica. le colonne della quale sono
+            dieci parti in altezza. Et, come ho detto delle altre, per esser così apresso una
+            all'altra, et cinte del rustico in tanti luoghi elle non sono punto viciose. li
+            capitelli di esse si discostano da i precetti di <persName ref="#Vitruve"
+               >Vitruvio</persName>. Nondimeno io ne ho veduto assai di antichi di simili forma, che
+            riescono bene, anzi l'occhio piu sene contenta, per la ricchezza de gli ornamenti, che
+            di quello discritto da <persName ref="#Vitruve">Vitruvio</persName>. XVI <figure
+               type="ornement"/> Questa è tutta <persName ref="#CallirrhoeDeSicyone"
+               >Corinthia</persName> mista et legata da l'opera rustica. le colonne di essa sono in
+            altezza dieci parte, et meza, con le sue basi, et capitelli. Et anchora che elle non
+            fussero cinte da quelle fascie, non sarebbono viciose, volendo seruirsi dell'autorita de
+            li antichi Romani. Per ciò che in alcuni archi triomphali in <placeName ref="#Rome"
+               >Roma</placeName> ve ne sono di undeci diametri in altezza. XVII <figure
+               type="ornement"/> La presente porta è di opera rustica dilicata, et piana, vestita di
+            tre ordini, cioè Dorico, Ionico, et Composito. le colonne dalli lati sono Doriche. Et
+            ben che paieno così gracili in altezza, elle non sono però divise, anzi vengono a essere
+            dua pilastri al alto la porta, come dinotano le basi, et capitelli. Ma è fatta quella
+            separatione per piu vaghezza, et per prendere sopra esse le dua mensole per ciascun
+            lato, le quali sono Ioniche, per non esse re intagliate. l'Architrave, Fregio, et
+            Cornice sopra esse mensole dimostra opera Composita, per essere li modiglioni nel
+            Fregio. <pb n=""/> XVIII <figure type="ornement"/> Uno Architetto bizarro ritrovando fra
+            le antiquita una porta Corinthia, cioè
+            le pilastrate, et il superciglio, tutta di un pezo: et era contratta la quarta decima
+            parte, come descrive <persName ref="#Vitruve">Vitruvio</persName> la Dorica, et la
+            Ionicha. Questo Architetto deliberò seruirsene. Et essendo fra molti fragmenti di
+            antiquita, trouò dua colonne piane di opera Dorica. Ma per non essere di quella altezza,
+            che a tal porta si conueneva, gli pose sotto dua sedilli; et disopra trouò dua
+            modiglioni Dorici, che supplirono all'altezza del supercilio. Et così per compire il
+            rimanente di essa porta, si accommodò di alcuni pezi di sasso Rustici, et di alcuni pezi
+            di Cornice, componendone un Frontespice, con le sue acroteree sopra esso. XIX <figure
+               type="ornement"/> Sia senza meraviglia de l'intendente Architetto, che l'apertura di
+            questa porta sia così picola, et l'ornamento così grande. Per ciò che, havendosegli a
+            fare un ponte levaturo, bisognava le dua piaghe sopra essa di tanta altezza, che le
+            frezze, che levano esso ponte, havessero spatio da entrare nella muraglia: et il detto
+            ponte si venne a incastrare in quello membro, chi è intorno l'apertura di essa porta.
+            Per ciò che li bognioni intorno a essa sono di gran rilievo. Et perché il giudicioso
+            potria dannare tal ordine a una fortezza, et haveria ragione, che alle fortezze si
+            conuiene opera <placeName ref="#Toscane">Toscana</placeName>, o Dorica, et non opera
+            delicata, come questa: ma io gli rispondo, che io l'ordinai per la entrata di uno
+            bellissimo giardino circondato dall'aque vive. XX <figure type="ornement"/> La presente
+            porta è di piu forte <persName ref="#GiovanniFrancescoRustici">Rustico</persName>: ma lo
+            Frontespice è Dorico. Et in luogo di colonne sono Termini vestiti di gionchi tessuti, et
+            circondati da quelle fascie Rustiche. la Cornice di questa porta è così rotta, per
+            metterci quella tabella, nella quale si mettera qualunque scrittura si vorra. Per
+            trovare la misura del tutto, s'immaginara di quanti piedi habbi a esser'larga la porta,
+            partendo un piede in dodici parti: et con quello trovara la misura del tutto. XXI
+               <figure type="ornement"/> Questa porta per le colonne, et anche per quei pezzi di
+            Cornici, si potra chiamare Dorica mista, et cinta di piu forte <persName
+               ref="#GiovanniFrancescoRustici">Rustico</persName>, la quale è fatta di fragmenti,
+            come si vede. Et per non essere le colonne della sua conueniente altezza, essendo rotte
+            nella parte da basso, se gli è accommodato quei piedestali con le sottobase imperfette.
+            XXII <figure type="ornement"/> Questa porta è tutta <persName ref="#CallirrhoeDeSicyone"
+               >Corinthia</persName> mista de dua forte <persName ref="#GiovanniFrancescoRustici"
+               >Rustico</persName>. le colonne non sono anchora finite: ma vi è la materia a
+            bastanza: et vi si vede la sua misura da basso, nel mezo, et da alto. Et così le foglie
+            de i Capitelli non sono anchor finite. Et per essere lo Frontespice, et la Cornice rotti
+            in piu luoghi, vi ho accomodato quella forma ottogona, per metterui una arma dentro.
+            XXIII <figure type="ornement"/> Questa participa et del Dorico et del Corinthio. E
+            Dorica per li dua pilastri piani a canto le pilastrate. li quali, per farli piu
+            gratiosi, ho fatto quella divisione, facendone tre parti, et mettendo in ciascuna una
+            cannellatura nel mezo, et dalli latti uno incavo del triglipho Dorico: et puoi le ho
+            cinte da quelle fascie di <persName ref="#GiovanniFrancescoRustici">Rustico</persName>
+            dilicato. Sopra queste colonne vi sono dua mensole Corinthie, fra le quali vi è la
+            methope Dorica. Et lo Fregio è Corinthio, ma interrotto da quei cunei, per
+            seguir'l'ordine delle pilastrate. XXIIII <figure type="ornement"/> Questa porta è tutta
+            Ionica mista di <persName ref="#GiovanniFrancescoRustici">Rustico</persName>, et legata
+            di <persName ref="#GiovanniFrancescoRustici">Rustico</persName>. le colonne de laquale
+            sono della sua conueniente altezza: et così lo suo Architrave, Fregio, et Cornice, sono
+            la quarta parte della altezza di esse colonne. la quale proportione torna bene per
+            regola generale. Il supercilio di questa porta non è piano, ne di mezo circolo, ma è la
+            quarta parte del tondo, et si adomanda remenato a tempi nostri, et è anticho. Et a fine
+            che sopra essa porta si possi mettere una grande arma, se gli è accommodato nel Timpano
+            quella forma sesagona. XXV <figure type="ornement"/> Dipoi che io mi son'dato a far'cose
+            licentiose, io ne farò pure una, che a gli intendenti parera licentiosissima, ma
+            peraventura a chi la vedera posta in opera nel modo, ch'io la intendo, ne rimara
+            satisfatto. le pilastrate di questa sono Ioniche, et così lo Fregio, et la Cornice: et è
+            contrata la quartadecima parte nel sumo di essa. li modiglioni dalli lati in luogo di
+            mensole sono Dorici, liquali haveranno tanto di proiettura, cioè di sporto, quanto è la
+            sua altezza. Sopra li quali sara la Cornice, che verra a fare copertura a la porta.
+            l'ornamento della finestra sopra a essa sara di basso rilevo. le colonne dalli lati sono
+               <pb n=""/> Doriche, et di puoco rilevo. Et questa potra seruire a una casa privata:
+            l'andito della quale prendera luce dalla finestra. XXVI <figure type="ornement"/> Questa
+            porta è di uno <persName ref="#GiovanniFrancescoRustici">Rustico</persName> abognioni
+            colmi, come dimostra il disegno. le colonne della quale sono di opera Dorica, anzi sono
+            pilastri divisi in colonne, como si vede alle basi, et a capitelli. l'Architrave,
+            Fregio, et Cornice sono di opera Composita. Altri la dicono Latina: Altri Italica.
+            Perciò che fu inuentata da Romani, et fu posta nella suma parte del'Amphiteatro di
+               <placeName ref="#Rome">Roma</placeName>. XXVII <figure type="ornement"/> Questa è
+            tutta Dorica, opera di basso rilevo, ne viè punto di <persName
+               ref="#GiovanniFrancescoRustici">Rustico</persName>: ma li cunei, et bognoni sono
+            piani, ma rilevati dua detta fuori del muro. l'altezza delle colonne, per esser'piane,
+            et non portando peso alcuno, sono in altezza nove parti: Et per haver'anche le sue
+            pilastre dalli lati, non sono mendose, anzi se in tale caso fussero di sette parti,
+            farieno nana tutta l'opera. XXVIII <figure type="ornement"/> Se non fusse la bizzaria
+            deglihuomini, non si conoscerebbe la modestia degli altri. Et perhò io potevo fare
+            cotesta porta Dorica pura, come in effetto si vede, senza andarla ronpendo con fascie,
+            et con li cunei, et rompere la bellezza sua. Ma perché sempre fu, et è, sara (per quanto
+            io credo) deglihuomini bizzari, che cercano nouità, io ho voluto rompere et guastare la
+            bella forma di questa porta Dorica. Della quale il prudente Architetto se ne potra
+            seruire, gittando da banda le alle Rustiche dalli lati delle colonne, et anche levare
+            via li cunei, che rompeno l'Architrave, et il supercilio. Et così levar via quelle
+            fascie, che cingono le colonne, dove la porta sara Dorica pura, et di opera dilicata,
+            levando via lo <persName ref="#GiovanniFrancescoRustici">Rustico</persName>, et mettere
+            fra li trigliphi le teste de buoui seche, et li piatti: che ciascuna cosa dinota il
+            sacrificio. XXIX <figure type="ornement"/> Questa porta tien del Dorico, del Corinthio,
+            del <persName ref="#GiovanniFrancescoRustici">Rustico</persName>, et anche (per dir il
+            vero) del bestiale. le colonne sono Doriche. li suoi capitelli sono misti di Dorico, et
+            Corinthio. la pilastrata intorno la porta è <persName ref="#CallirrhoeDeSicyone"
+               >Corinthia</persName>, per gli'intagli: et così e lo Architrave, il Fregio, et la
+            Cornice. Tutta la porta è circondata di Rusticho, come si vede. Quanto al'ordine
+            bestiale, non si può negare, che, essendoui qualchi sassi fatti da natura, che han forma
+            di bestie, che non sia opera bestiale. XXX <figure type="ornement"/> Per compire il
+            numero delle trenta porti Rustichi, io ne ho fatto de tante sorte, ch'io sono hormai
+            stanco, dove sono constretto de immaginarmi uno arco triomphale di opera <placeName
+               ref="#Toscane">Toscana</placeName> mista, con la Rustica. Il quale arco potra seruire
+            per la porta di una citta, o fortezza, seruendosi di una delle porti per la ponticella,
+            et l'altra sia finita. Et questa porta nel vero sara moltograta aglihuomini, per la
+            varieta delle cose, che vi sono. Priemieramente li cunei della porta principale sono
+            variati, uno di pietra viva, et l'altro di pietra cotta. Et similmente quelli delle
+            porti picole, et così anchor alle dua finestre chiuse di opera reticolare di pietre
+            cotta, hanno li suoi cunei variati, et medesimamente quello spatio sopra la porta ha li
+            suoi cunei variati. Nel quale si potra fare ogni bella istoria di mezo rilevo, oltra li
+            nicchi dalli latti, ne iquali si meteranno qualche statue. Et appresso vie quella
+            levatione di mezo col Frontespice, et quelle dalli lati, dove si potranno mettere
+            diverse cose a volonta del patrone. Et qui finisse il numero delle trenta porti di opera
+            Rustica mista con diversi ordini. <pb n=""/> DESCRITTIONE DELLE VINTI PORTE DILICATE. I
+               <figure type="ornement"/> Hora, che io ho sfogato la bizaria nelle cose miste, et
+            licentiose, è ben ragione ch'io tratti alquanto delle regolari. Et perciò la presente
+            porta è tutta Corinthia: et è contratta
+            la quarta decima parte, come la descrive <persName ref="#Vitruve">Vitruvio</persName>
+            nella Dorica, et nella Ionica. La Cornice sopra essa sarà di tanto sporto, quanto
+            supportaranno le mensole: et farà copertura a essa porta. Sopra la Cornice sarà una
+            finestra, per dar luce a l'andito della casa: l'ornamento della quale sarà di basso
+            rilevo, et così le alle di essa porta, et le mensole ancora saranno di basso rilevo. II
+               <figure type="ornement"/> Questa porta è la maggior parte Ionica: ma le colonne dalli
+            lati sono Doriche, et di basso rilevo, talmente, che si possono dire pilastri per le
+            basi, et capitelli: Ne i quali sono nichi, et tabelle di pietre miste. Sopra le colonne
+            sono mensole Ioniche, lequali sostengono la Cornice, sopra la quale è una finestra per
+            dar luce a l'andito della casa, la qual finestra è ornata dalli lati, et disopra:
+            liquali ornamenti sono di basso rilevo. III <figure type="ornement"/> Questa porta è
+            tutta Composita, come si vede nelle colonne, et ne l'Architrave, Fregio, et Cornice. le
+            colonne di questa sono di basso rilevo, fra le quale vi è luoco da mettere diverse
+            pietre miste: sopra la quale nel timpano del frontespice sara aperto per dar luce a
+            l'andito della casa. IIII <figure type="ornement"/> Questa porta nel vero è tutta
+            Dorica, quantunque lo Fregio sia occupato in parte da quella tabella, per metterui
+            dentro de la scrittura. Ma levato via essa tabella, si potra continuare li trigliphi, et
+            le methope. Li pilastroni dalli lati sono piani, ma sono ciascuno d'essi così divisi, et
+            fattone dua colonnelle di basso, acciò che l'opera sia piu piacevole a riguardanti. Ne
+            si leva però via la forma de'pilastri, continuando li membri delle basi, et
+            de'capitelli. Perciò che se gli pilastri fussero così larghi, senza opera alcuna dentro,
+            non vi saria tanto artificio, ne tanta bellezza, ne l'ornamento di questa porta. V
+               <figure type="ornement"/> La presente porta è tutta Ionica, ben che sopra le colonne
+            vi sia la forma del Capitello Dorico, cosa che per aventura sarà biasimata dalli buoni
+            Architetti. Perciò che li buoni antichi, et anche li buoni moderni vorrebbono, che le
+            colonne andassero sin sotto l'Architrave. Ma è da sapere, che ritrovandosi uno
+            Architetto quattro bellissime colonne Ioniche, l'altezza delle quali era piedi VIII, et
+            oncie IX: et ne haveva altre tante assai piu picole di finissimo Alabastro, l'altezza
+            delle quali era piedi IIII. et mezo. Et volendo fare una porta, l'apertura della quale
+            fusse piedi VII. et mezo in larghezza, et. xv. piedi in altezza, si volse seruire di
+            queste colonne, mettendo sotto le prime colonne una sottobase di piedi I. et oncie II.
+            et sopra esso misse la forma del capitello Dorico, per l'imposta de l'archo. laltezza
+            sua fu quanto la grossezza di una colonna nella parte di sopra. Di poi sopra le dette
+            colonne vi colloco le altre minor colonne, mettendo sopra esse l'Architrave, il Fregio
+            puluinato, et la Cornice. l'altezza del tutto fu la quarta parte de l'altezza di una
+            colonna. Et così di quelli fragmenti compose la presente porta. Il quale accidente
+            potrebbe accadere all'Architetto un qualche giorno. VI <figure type="ornement"/> Questa
+            porta è tutta Dorica pura: ma si potra arrichire di ornamenti, intagliando li capitelli
+            nel modo, che si è veduto in alcuni altri piu adietro. Et così ne gl'interualli de i
+            trigliphi metterui le teste di buoui, et le bacinette, o qualonque altra cosa si vorra,
+            sequendo la volunta del padrone. VII <figure type="ornement"/> Questa porta è tutta di
+            opera Ionica: ma le colonne di essa, per essere duplicate, sono piu gracili di quelle,
+            che discrive <persName ref="#Vitruve">Vitruvio</persName>. Ma in questo luoco per le
+            ragioni, ch'io ho detto piu adietro, elle non sono da essere biasimate. Io ho occupato
+            lo Fregio in tre luochi. Perché sono alcune persone, che hanno piacere di scrivere
+            assai, et cose diverse. Ma chi vorra lo Fregio schietto, lo potra fare. <pb n=""/> VIII
+               <figure type="ornement"/> Questa è tutta <persName ref="#CallirrhoeDeSicyone"
+               >Corinthia</persName>. Le sue colonne per essere binate come ho detto delle altre,
+            sono in alteza dieci grossezze, et meza: ma che le canelara si mostraranno di
+            magior'grossezza, per le ragioni dette piu adietro, Et la porta sarà piu ricca. Et ben
+            che queste colonne appaiano esserne parte nel muro, si potra nondimeno farle di tutta
+            rotondita, et mettendo di dietro le sue contracolonne piane. IX <figure type="ornement"
+            /> Questa porta è tutta Ionicha. le sue colonne sono in altezza otto diametri. le sue
+            cannellature, per essere dua terzi fuori del muro, vogliono essere sedeci, et otto si
+            nascondeno nel muro, che sono ventiquatro. Il capitello è piu ricco di quello, che
+            descrive <persName ref="#Vitruve">Vitruvio</persName>. Ma per che sia piu grato a
+            l'occhio, io gli ho aggionto quel Fregio sotto l'uvovolo. Perché de simili ne ho veduto
+            gran numero di antichi. Et s'el padrone della casa non si curara di mettere molte
+            lettere sopra la sua porta, potra fare correre la Cornice, et il Fregio, dove l'opera
+            sara piu perfetta. X <figure type="ornement"/> Ben che la settima porta paia simile a
+            questa, quanto alle colonne: che tutte sono Ioniche: non dimeno questa presente è molto
+            diversa da l'altre. Le colonne di questa sono alti nove parti, et meza: et sono dua
+            terzi fuora del muro. Et anche chi le vorra di tutto tondo con le sue colone piane,
+            l'opera havera magior'presentia: et li frontispici sopra esse tornaranno meglio,
+            rimanendo la parte di mezo sopra lo vivo del Fregio. XI <figure type="ornement"/> Questa
+            ha del arco triomphale: non dimeno ella potra seruire per la porta di un Tempio sacro,
+            per esserui sei luochi da meterui diverse statue, oltra la parte di mezo sopra essa,
+            dove si faria una istoria di basso rilevo: et è tutta Corintia. Le sue colonne sono in
+            altezza diece parti, et meza, et che le cannellara dimostraranno magior grossezza, per
+            le ragioni antedette. XII <figure type="ornement"/> Questa è tutta Corinthia: le colonne di essa sono dieci
+            diametri in altezza, et possono essere dua terzi fuora del muro, et anche di tutto tondo
+            con le sue contra colonne piane. Se questa sara a una casa, l'andito della quale habbia
+            bisogno di luce, et similmente a una Ghiesia. La finestra sopra a essa seruira: et non
+            havendo bisogno di luce, si metera una istoria nel luoco medesimo. XIII <figure
+               type="ornement"/> Questa è pur <persName ref="#CallirrhoeDeSicyone"
+               >Corinthia</persName>, come l'altra, ma diversa di forma, et di opera ancora. le
+            colonne della quale sonno dieci diametri et mezo, et sonno dua terzi fuori del muro. Le
+            dua meze colonne dalli lati la arrichisseno assai, nondimeno si puote fare senza esse.
+            Et chi non vorra quelle tabelle disopra, lassara correre l'opera, et sara piu perfetta.
+            E ben che li buoni antichi non hanno vsato di cingere le colonne pel traverso, ma sempre
+            le han cannellate da basso a alto, nondimeno io piglio tale licenzia dalle colonne
+            Gierosolomitane, le quale erano al portico di Salamone. XIIII <figure type="ornement"/>
+            Per la porta di un Tempio questa potra seruire, dove ci sono luochi per immagini, et per
+            bassi rilevi, et per pietre fine. et cose simile. L'opera è tutta Ionica. le colonne da
+            basso sono dua terzi fuori del muro, et sono in altezza nove parti. Quelle disopra sono
+            piane, et di basso rilevo. Et anchora questa potria seruire per uno arco triomphale, et
+            risponderia bene. XV <figure type="ornement"/> Acadera tal volta a L'architetto di voler
+            fare una porta, la larghezza della quale sia piedi X. et l'altezza piedi XX. ma havera
+            alcune colonne di menor altezza, che la metta della porta: volendosi seruire d'esse
+            colonne potra fare l'imposta del arco sopra le colonne di tanta altezza, quanto la
+            quinta parte di una colonna, et sia Cornice, Fregio puluinato, et Architrave, et sotto
+            esse colonne mettera uno piedestale, che posi sul limine d'essa porta. l'altezza del
+            piedestale sara piedi III. onze IX. laltezza della colonna sara piedi IX. onze III.
+            l'Architrave, il Fregio, et la Cornice sopra le colonne sara piedi II. che sono in tutto
+            piedi XV. mezo circolo, che saranno XX. piedi. Si mettera nel mezo del arco una mensola
+            di un piede et diece onze, et sopra le colonne tonde si metteranno colonne piane. la sua
+            altezza sara piedi VI. e onze dieci, ponendo sopra esse l'Architrave, Fregio, et
+            Cornice. l'altezza del tutto sara la quarta parte menor di quella di sotto: et questa
+            potra seruire per la porta di un Tempio, come l'altra qui a canto. XVI <figure
+               type="ornement"/> Questa si potra dire <persName ref="#CallirrhoeDeSicyone"
+               >Corinthia</persName>, per esserui intagliato una gran parte delli suoi membri.
+            l'altezza sua sara <pb n=""/> dua volte quanto è larga. La sua pilastrata sara l'ottava
+            parte della sua larghezza. la fronte di una mensola sara quanto la pilastrata. lo spacio
+            fra le due mensole sara quanto una mensola. l'altezza del Fregio sara la quarta parte
+            piu della pilastrata, che sara il supercilio. l'altezza della Cornice sia quanto lo
+            supercilio, et l'ottava parte di piu. li altri ornamenti sono fatti a beneplacito del
+            huomo. XVII <figure type="ornement"/> Questa porta e Dorica, ma un poco licentiosa, per
+            cagione del rissalto, che fa l'Architrave, Fregio, et la Cornice. Ma questo è ben
+            necessario per cagione delle dua meze colonne piane, le quali sostengono l'Architrave.
+            Et questo è stato per arrichire la porta dalli lati, et anche disopra. Per ciò che
+            l'apertura della porta non è molto grande. Nondimeno il padrone vorra la sua porta richa
+            di ornamento dalli lati, et da alto ancora. Et se l'entrata di questa casa havera
+            bisogno di luce (come è da credere) la finestra disopra porgera luce a l'andito, et fara
+            ornamento sopra la porta. XVIII <figure type="ornement"/> Ritrovandosi uno Architetto
+            dua belle colonne di ordine composito, l'altezza di ciascuna sara piedi XII. et sara la
+            sua grossezza l'undecima parte della sua altezza, cosa (nel vero) un poco licentioseta.
+            Nondimeno e per la sua bellezza, et anche per la necessita, egli sene vorra seruire per
+            ornare una porta, la larghezza della quale sara piedi VIII. per lo meno et vorra ancora
+            che detta porta sia ricca di ornamenti. Se questa porta havera a corrispondere alle
+            colonne, bisognara che sia di quella altezza, che è conceduta communemente, cioè di dua
+            quadri, dove che sotto esse colonne bisognara li piedestali: l'altezza de quali sara
+            piedi IIII. et mezo, che sara in tutta l'altezza piedi XVI. et mezo, fin sotto
+            l'Architrave. Mezo piede sara l'arco, et così l'altezza della porta sara piedi XVI.
+            Sopra le colonne si mettera l'Architrave, il Fregio, et la Cornice. l'altezza del tutto
+            sara la quarta parte della colonna con la base, et il capitello, facendo lo Frontespice,
+            come si vede, ornato, Et aciò che la porta sia bene ornata (come ho detto di sopra) si
+            metera le sue contracolonne piane dietro le tonde duplicando esse colonne piane, et
+            mettendoui delli nicchi fra esse, come si vede nella pianta qui sotto. XIX <figure
+               type="ornement"/> Questa porta è in gran parte simile alla passata, al meno di
+            inuentione conforme alla pianta: ma è differente di specie, et di misure: di specie per
+            che le colonne, et altri ornamenti sono Corinthij. Di misure queste colonne sonno in
+            altezza dieci grossezze, et meza, oltra che quella ha lo frontespice, et li finisse: et
+            questa tiene sopra uno ordine bastardo, dove accadendo sopra essa porta alcuna istoria,
+            o gran numero di lettere, vi sara luogo, et sara diversa da l'altra in alcune parti. XX
+               <figure type="ornement"/> Per compire il numero delle venti porte rogolari, et
+            havendone fatto di tante sorti, ch'io ero stanco hormai, ho pur voluto farne una, la
+            quale si possi conoscere diversa dalle altre, la quale è tutta di opera Composita. la
+            larghezza di questa sara (esempio gracia) piedi dieci, et in altezza piedi vinti.
+            Ciascuna pilastrata sara un piede. la fronte di una colonna sara piedi I. et mezo.
+            l'intercolonnio sara per una colonna et meza. l'altezza del Architrave sara la sesta
+            parte meno della colonna. Altrotanto lo Fregio, et altrotanto la Cornice. li capitelli
+            de'modiglioni sonno membri della Cornice, ne'quali per piu ornamento vi sono quelle
+            foglie intagliate. La ellevatione di mezo sara un'quadro perfetto, dico fra le colonne,
+            le quali colonne saranno al dirito de modiglioni, ornando poi il rimanente, come si
+            vede. Et qui finisse lo numero delle porti tutte variate. FINE. </p>
+      </body>
+   </text>
+</TEI>
