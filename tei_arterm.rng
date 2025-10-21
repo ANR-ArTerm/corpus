@@ -4148,8 +4148,12 @@
   <define name="attlist.placeName" combine="interleave">
     <optional>
       <ref name="tei_att.global.attributes"/>
-      </optional><optional><attribute name="ref"/>      
     </optional>
+      <optional>
+        <attribute name="ref">
+          <ref name="teidata.pointer"/>
+        </attribute>
+      </optional>
   </define>
   <!-- doc:contains a postscript, e.g. to a letter. [4.2. Elements Common to All Divisions] -->
   <define name="postscript">
