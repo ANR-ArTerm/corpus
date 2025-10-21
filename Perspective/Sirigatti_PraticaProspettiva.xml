@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="ita">
+     Sirigatti_PraticaProspettiva
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     tranScriptorium
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title xml:lang="ita">
+      Sirigatti_PraticaProspettiva
+     </title>
+     <idno type="Transkribus">
+      9566060
+     </idno>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <xi:include href="IndexPersonnes.xml" xpointer="element(/1/1)"/>
+   <xi:include href="IndexLieux.xml" xpointer="element(/1/1)"/>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div>
+    <pb n="1"/>
+    <pb n="2"/>
+    <pb n="3"/>
+    <pb n="4"/>
+   </div>
+   <div>
+    <pb n="5"/>
+    <head>
+     LA PRATICA DI PROSPETTIVA DEL CAVALIERE LORENZO Sirigatti AL SER FERDINANDO MEDICI GRANDUCA Di <placeName ref="#Toscane">Toscana</placeName> IN VENETIA Per Girolamo Franceschi Sanese Libraio in <placeName ref="#Florence">Firenze</placeName> MDXCVI.
+    </head>
+    <pb n="6"/>
+   </div>
+   <div>
+    <pb n="7"/>
+    <head>
+     AL SERENISSIMO FERDINANDO MEDICI GRAN DVCA DI TOSCANA.
+    </head>
+    <figure type="ornement"/>
+    <figure type="ornement"/>
+    <p>
+     OGLIONO gli accorti, e amorevoli Padri, quando mandano alcuna volta fuori della propria casa, è della lor Patriai giovanetti figlivoli ingegnarsi di commettergli a scorta pratica, efida, per assicurargli da i disagi è pericoli, chei nuoui, e difficili viaggi apportano seco. Nè mancano oltre a ciò di procurar loro favori, e gratie quanto più possono appo segnalati, e gran personaggi, accioché condotti falui dalle difficultà del cammino, abbiano chi gli difenda, e ol indri(Zi a bene è lodevolmente operare. Io ora ad imitatione di questi si fatti Padri, dovendo mandare alla luce il primo parto del mio debolissimo ingegno, e tale quale egli si sia, desiderando d'incaminarlo a bene, e sicuro da que pericoli, che a così fatte cose s'oppongono a lei lo indiri (Zo, el'inuio, sotto la scorta del suo Sereniss. nome, lo quale non pure in cotal viaggio l'avualori, e lo guidi; ma giunto a felice porto, da ogni colpo di fortuna, o di tempo l'assicuri, è difenda; ed oltre che per mio debito ancora, ed utile di esso parto a tei lo consacro, accio che egli a ciascheduno più grato, e più ragguardevole si rappresenti: illustrato dallo splendore della Vostra Sereniss. Alte(za; alla quale fo umilissima reveren(a, e le prego intera, e suprema felicità. Di Firen(eli 20. Luglio, MDXCVI.
+    </p>
+    <p>
+     D.V. Alteza Serenis.
+    </p>
+    <p>
+     Obligatissseruitore et vassalle
+    </p>
+    <p>
+     Loren (o Sirigatti.
+    </p>
+    <pb n="8"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     A BENIGNI ED AMOREVOLI LET ORI.
+    </head>
+    <figure type="ornement"/>
+    <figure type="ornement"/>
+    <p>
+     ARE che di tutte le scienze due sieno i fini principali, uno dequali consiste nel puro, e semplice atto dello speculare, l'altro è intorno al mettere in atto pratico le cose speculate: e non è dubbio, che il primo di questi due fini, per esser proprio dell'intelletto nostro contemplativo parte principal dell'anima nostra, lontano da ogni alteration materia, e da ogni esercitio meccanico, e del secondo piùi nobile, e più perfetto; nulla di meno se vorremo haver riguardo, non alla perfetione, è diletto particulare, ma all'utile, e perfettione universale, troveremo indubitatamente, ehe il mettere in pratica, ed eseguire le cose speculate, esser più da desiderarsi, e per confermar questa verità con esempli sensati, dico prima, chi di niuna, o pochissima utilità sarebbe alla vita humana, che il medico fermandosi nella sola contemplatione delle nature, e qualità de semplici, e de composti medicamenti, lasciasse gl'infermi privi di quell'aiuto, che col mettere in pratica la sua scienza gli può arrecare; è parimente quando qualche meccanico applica le sue inuentioni a qualche materiale strumento utile o in pace, o in guerra al vivere humano , è degno di maggior lode, e premio, che se quietandosi nelle speculationi astratte da ogni sensibil materia, disprezzasse applicarle all'uso comune . Concludesi dunque che se bene la speculatione è piu nobile della pratica, niente di meno la pratica è più utile, e lodevole, per esser quella perfezione, e ornamento d'un'solo intelletto particulare, e questa utile è comodo di moltissimi particulari, e delle intere Republiche. Il quale utile, è comodo yniversale, ha spinto me ancora ad applicarmi doppo i miei studij delle scienze matematiche a questa pratica di prospettiva; accioché da il diletto mio particulare preso nelle speculationi d'<persName ref="#Euclide">Euclide</persName>, e di <persName ref="#Vitellion">Vitellione</persName>, ne nascesse pure qualche utile a quelli, che praticalmente havessero bisogno di seruirsi della prospettiva; e se bene questa pratica è stata da altri ingegnosamente, e con sottili inuentioni insegnata, non di meno ho considerato, che nel metterla in atto, e massimamente nel digradare, e por re in scorcio figure di molte linee, ed angoli, vengono talmente intrigate, che senza una
+     <pb n="9"/>
+     gran patienza, e una lunga fatica non può uenirsi al fine dell'opera. Tutto questo mi è stato stimolo di pensare se ci fosse modo, o regola di agevolare questa operatione, la quale essendomi paruto d'haver trovato, m e paruto anche di publicarla, persuadendomi che ella sia per essere di giovamento a chi si diletta di simile facoltà. Della perfettione, o imperfetion della quale ne rimetto il giuditio in tutto, e per tutto a quelli, che hanno uisto le regole date da tanti altri, e solo pregherò quelli che la leggeranno a uederla uolentieri, il che uerrà lor fatto tuttavolta, che hauranno riguardo alla sincerità dell'animo mio, il quale non è di acquistarmi ambitiosa lode col superare gl'altri; ma solamente d'apportar qualche giovamento a gli studiosi di così bella scienza. E se conoscerò esser grata, e ricevuta uolentieri questa mia opera, piglierò animo di darne fuori, quanto prima un'altra, la quale in questa materia sarà non meno bella, che utile, spiegando con essa difficultà sottilissime, che in essa materia sogliono accadere, sì che ui prego ad aggradirla uolentieri, e darmi animo di attendere con piu diligenza, che forse non ho fatto sino al presente a simili studij. <persName ref="#Dieu">Dio</persName> ui feliciti.
+    </p>
+    <pb n="10"/>
+    <pb n="11"/>
+    <pb n="12"/>
+    <pb n="13"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="14"/>
+    <head>
+     II. Capitolo
+    </head>
+    <p>
+     DILIGENTI artefici sono soliti di insegnare prima i nomi delli instrumenti, e delle altre cose, che hanno a adoperare quelli, i quali hanno voglia di apprendere le arti loro, e il fare questo è cosa utilissima, accio chi impara, non sapendo distinguere non resti confuso dalla diversità. Noi uolendo nello stesso modo insegnare l'arte della Prospettiva, cominciando da i sua primi principij, e . fondamenti, haviamo giudicato che egli sia necessario dichiarare tutti quei termini, de quali ci haviamo da seruire nel progresso dell'operare, prima che piu oltre si proceda. Ma perché parte di essi sono dichiarati da <persName ref="#Euclide">Euclide</persName> nelle diffinitioni del suo primo libro delli Elementi, e noi desideriamo scrivere con quella più brevità, che è possibile, rimettereno chiunque desidera havere esatta cognitione de prin cipij detti alle dette diffinitioni, bastandoci al presente porre qui appresso le figure con i loro proprij nomi; similmente quanto alla fabbrica, e construtione delle diverse figure, che nella seconda faccia si uedono; formereno il triangolo equilatero, il quadrato, e l'esagono, nello stesso modo, che <persName ref="#Euclide">Euclide</persName> ci insegna per la prima del primo, e per la sesta, e quintadecima del quarto; ma il pentagono ancora, che <persName ref="#Euclide">Euclide</persName> molto sottilmente, e esquisitamente insegni il modo di fabbricarlo, per essere il suo detto modo molto difficile lo fabbrichereno nel modo appresso, è che si uede nella sua figura; Ciò è volendo descrivere un'pentagono sopra la linea A. B. descrivasi il cerchio de P. B. sopra il centro A. et allo spatio A. B. e di nuovo si descriva sopra il centro B. e allo spatio B. A. il cerchio A. E. T, et con la medesima apritura di compasso sopra il centro P. descrivasi la portione del cerchio S. A. B. T. e tirisi la linea P. O. la quale seghi la circunferenza S. A. B. T. nel punto H. e da i punti S. T. si tirino per il punto H. le linee S. H. N. e T. H. Z. e si congiunghino le A. Z. et B. N. le quali saranno due de'lati del pentagono, finalmente per trovare il punto nel quale concorrono gl'altri due lati del pentagono, pongasi il piede immobile del compasso prima nel punto Z. et poi nel punto N. disegnando archi di cerchi, i quali si intersecheranno nel punto C. secondo gli spatij. Z.A. e B. N. e si tirino le linee Z. C. e N. C. e hare no disegnato il pentagono A. Z.C.N. B.
+    </p>
+    <p>
+     A FIGVRA eptagona, o uero di sette faccie, e la ottogo na, o vero di αf otto faccie non ci sono state insegnate da <persName ref="#Euclide">Euclide</persName>, però uolendo disegnar&amp;le, e prima la di sette faccie, faremo nel modo appresso. Descrivasi il cerchio N. sopra il centro A. et con la medesima apritura di seste fatto centro in qualunque punto della circumferenza già descritta uerbigratia nel punto O. descrivasi l'arco H. D. P. e tirisi la corda H. P. della quale se ne pigli la metà, e questa sarà il lato della figura di fette faccie, ilquale adattato sette uolte dentro la circumferenza del cerchio N. descriverà la detta figura.
+    </p>
+    <p>
+     INVOVO uolendo descrivere l'ottangolo descrivasi prima nel cerchio D. C. O. I. il quadrato D. C. O. I. e haremo diviso la circumferenza in quattro parti uguali, e dividendo ciascuna diesse peril mezzo, nei punti F.T. L. H. haremo gl'otto punti . D. F. C. T. O. L. I. H. iquali saranno gl'angoli dell'Ottangolo, et tanto basti circa questi primi principij.
+    </p>
+    <figure type="ornement"/>
+    <figure type="ornement"/>
+    <figure type="ornement"/>
+    <pb n="15"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="16"/>
+    <head>
+     Capitolo III.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     E COSE tutte, le quali noi uediamo per tre cagioni sono sotile, di apparire all'occhio nostro di grandezza talora diversa da quella, che è loro veramente propria. Due delle quali nascono dalla diversita del luogo di essa cosa veduta, l'altra dalla diversità del mezzo, mediante il quale le spetie di essa cosa peruengono all'occhio nostro. perché di altra grandezza ci si rappresentarà l'immagine d'un'huomo, dovendo ella prima che arrivi all'occhio nostro passare per un'vetro piano, che se ella dovesse passare per un'uetre concavo; ma di questa cagione non è nostra intentione di ragionare al presente . Ma si bene dell'altre due cagioni, l'una delle quali nasce dalla lontananza dell'oggetto, il quale ci si rappresenta tanto minore quanto sarà collocato più lontano dall'occhio nostro, l'altra dalla diversa positione dello stesso oggetto , ancorche la lontananza sia la medesima, perché di maggiore lunghezza ci si rappresenta una co lonna diritta, che a giacere, ancorche in questo modo ci fusse posta più uicina, ogni volta però che la sua base fusse volta verso l'occhio nostro. le ragioni di questi due effetti dico, quan to alla speculatione hanno dottamente assegnate prima <persName ref="#Euclide">Euclide</persName>, di poi più diffusamente <persName ref="#Vitellion">Vitellione</persName> ne i loro proprij libri della prospettiva . Ma quanto a quella pratica, che ci insegna disegnare con diligenza le cose lontane, e le uicine sopra il medesimo piano, e quelle che con bellissimo inganno della vista ci appariscano corpi sodi, et rilevati sopra il piano, e di più uoti dentro , sfuggendo o rilevando gli stessi corpi. Per dare qualche saggio delle fatiche nostre habbiamo determinato dare in luce una nostra regola forse più facile dell'altre, è più breve, ancorche da altri Autori ne siano stati scritti modi ingegniosi, e regole atte a ciò conseguire, se però le cose nostre non ci ingannano, i cui fondamenti dependono immediate dalla stessa na tura, e dallo modo stesso del vedere, perché considerando noi che de gl'oggetti tutti, che appariscono all'occhio nostro non uediamo altro che le sole superficie, però la superficie per tal conto da Greci fù chiamata apparenza, e non si potendo variare la superficie per quanto appartiene alla quantità se non in due modi, per che essa è solo capace di due misure, ciò è della lunghezza, e della larghezza. le cose adunque che habbiamo a disegnare potranno solamente digradare, e scorciare per due versi, l'uno secondo la lunghezza, l'altro secondo la larghezza Auvertiti da questo fondamento habbiamo immaginato due linee, una delle quali ci dia le misure delle lunghezze. l'altra quelle delle larghezze, le quali linee tagliando i raggi, che a guisa di piramide si distendono dall'ggietto all'occhio, l'una secondo la lunghezza, l'altra secondo la larghezza, quanto saranno poste più vicine all'occhio . ci daranno tanto minore il disegno dell'oggetto, atteso che tali raggi si ristringono uerso l'occhiò, e formano una piramide tale, che la basa è nell'oggetto, e la punta, ò vero sommità nell'occhio, si seruiamo ancora di due altre linee poste a piombo l'una sopra l'altra, con l'ajuto delle quali traportiamo nel piano, dove uogliamo disegnare le lunghezze, e le larghezze gia trou ate per mezzo dell'altre due dette linee . Ma perché meglio s'intendino queste cose pigliamo innazi il disegno, nel quale il quadrato A., B. C. D. sia ueduto dall'occhio. O mediante i raggi O. A. e O. C. e O. B. e O. D. i quali essendo segati dalla linea G. L. ci daranno nella stessa linea G. L. le misure M. N. e P. Q. mase fossero segati più vicini all'occhio, come dalla linea E. F. le medesime misure scemerebbono, come fanno la R. S. eT. V. e quanto si seghassero più vicino all'occhio, tanto scemerebbono con la medesima proportione, come bene dimostra lo stesso <persName ref="#Euclide">Euclide</persName> nel sesto dell'elementi formandosi sempre tiè ango1o simili.
+    </p>
+    <figure type="ornement"/>
+    <p>
+     ELLA seconda figura intenderemo la linea A. L. sia la linea del piano, nel quale sia collocato l'oggetto, che si ha da disegnare in prospettiva, e sotto ad essa si disegnerà la pianta, e sopra il profilo come uedremo più abbasso, la linea C. B. tirata sopra essa ad angoli retti segata nel punto B. sia chamata linea del taglio, o vero delle misure, perché sopra essa saranno tagliati i raggi, et da essa si prenderanno le misure, ma dalla parte di sotto quelle delle larghezze, dalla parte di sopra , ciò è dalla P. C. si prenderanno le misure delle lunghezze . . punto dalla distanza, o vogliamo dire l'occhio sara il punto D. posto a beneplacito, dal quale si ha da tirare una linea a piombo sopra la linea del piano, quale sia la D. L. et il punto L. sia quello, al quale si tireranno dalla pianta i raggi, che ci danno le larghezze, e al punto D. si hanno da tirare i raggi del profilo , da i quali segati sopra la linea P. C. si pigliano le lunghezze . le linee R. S. e O. Z. poste a squa dra sono quelle sopra le quali si disegna nel piano, nel quale si hanno a disegnare, le cose poste in prospettiva, et tiaportare le lunghezze, e le larghezze gia ritrovate, come meglio si comprendera nel procedere dell'opera.
+    </p>
+    <pb n="17"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="18"/>
+    <head>
+     Come si habbia a collocare il punto della distanza. Capitolo IIII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ARRA forse al primo apparire cosa impertinente cercare di dare regola a quello, che interamente ne è privo, e che desideriamo ristringere sotto determinati precetti, cosa che essendo per sua na tura senza termine, ci si può mostrare in infiniti modi, tale in vero è il volere assegnare particulare, e determinato luogo per distanza alla vista, che ha da vedere le immaggini, le quali si hanno da disegnare in prospettiva, atteso ene il medesimo oggetto può essere ueduto da luoghi infiniti, rispondendo a questa ragione apparente diciamo, che per questa sola cagione, ciò è per che in infiniti luoghi si può collocare la vista habbiamo giudicato necessario assegnare luogo particulare per sito di essa, acciò chi opera non resti confuso dalla infinità . Diciamo dunque che la determinatione di questo luo go particulare, si ha da pigliare o per necessità, o per elettione, e per necessita quando constretti dalla scarsità del luogo, o da altro accidente non possiamo allontanarci, o avuicinarci all'oggetto a piacer nostro, però in tali casi ci habbiamo accomodare il meglio che possiamo, ingegnandoci quanto sia possibile di accostarsi alla regola, che uogliamo dare, ove saremo liberi d'ogni impedimento per che allora essendo in nostra eletione pigliare il luogo della uista, giudichiamo (secondo che una lunga esperienza tratta da molti particulari ci insegna ) doversi elegere un'punto talmente posto, che cadendo da esso una perpendiculare sopra il piano, nel quale sarà posto l'ogetto, che si ha da disegnare in scorcio,e dal termine di essa perpendiculare tirata una linea al più uicino termine dell'oggetto, questa linea tirata sia più lunga una volta è mezzo dalla maggioi linea transuersale dell'oggetto, che all'occhio si rappresenta, in oltre sia l'altezza della vista, sopra il piano la terza parte della distanza ora trovata, come per esempio, havendo noi a porre in scorcio qual si voglia delle presente figure, presa la maggior linea transuersale, di qual si uoglia delle poste figure, che in tal qcto ci possa apparire, quale sia la linea A. B. e tirata nel piano la linea C. L. in essa si noti la C. L. sesquialtera della A. B. e dal punto L. si tiri sopra essa la perpendiculare L. D. lunga la terza parte della stessa C. L. lo stesso punto D. sarà il luogo ove si ha da por l'occhio perché cosi facendo gli scorci disegnati haranno più gratiosa proportione, che ponendo la uista in qual si uoglia altro luogo, che così ci ha insegnato l'esperienza maestra di tutte le cose.
+    </p>
+    <pb n="19"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="20"/>
+    <head>
+     Modo da mettere in scorcio un Quadrato perfetto. Capitolo V.
+    </head>
+    <p>
+     AVENDO noi oramai a cominciare l'uso delli nostra regola perprocedere ordinatamente, cominceremo dalle cose più facisi, aprendoci esse delcemente la strada alle cose più difficili . Proponghiamo dunque di mettere in scorcio la superficie quadrata, però tirisi la linea del piano, come nella figura segnata A. sotto la quale sia descrittala metà del quadrato, che questa basterà, dovendo noi porlo con la uista in mezzo, et non fuori di squadra, è gl'angoli della pianta siano segnati con i segni 2. 2. e. 4. 4. e perché la linea 4. 4. è la metà della linea transuersale, notisi nella linea del prano la 4. L. tripla della. 4. 4. che cosi uerrà ad essere una uolta è mezzo maggiore della transuersale, e dal punto L. si tiri laperpendiculare L.D. lunga la terza parte di essa L. 4. e dagl'angoli di sotto della pianta dalpunto L. tirinsi le linee 2. L. e. 4. L. e dagl'angoli di sopra al punto D. si tirino le linee 2. D. e.4.D. e manifesto che se l'occhio fusse nel punto L. la larghezza 2.2. sarebbe ueduta sotto l'angolo 2. L. 2. e la larghezza 4. 4. sotto l'angolo 4. L. 4. quella per essere più lontana sotto minore angolo, e questa come più uicina sotto maggiore, ma la lunghezza compresa nella linea del piano tra i punti 2-c.4. ci apparirebbe nulla, essendo nella medesima linea che la uista . bisogna adunque pigliare le lunghezze dalla altezza dell'occhio, però ponendolo noi sopra il piano cuanto è l'aliezza L.D. la detta lunghez za 2. e. 4. sarà ueduta dall'occhio D. che forma in esso l'angolo 2.D. 4. Ordinate le cose che noi habbiamo dette sino a qui, non è ragionevole tacere una utilità di momento non piccolo, che si può cavare con grandissima facilità dalla nostra operatione, e questa è che desiderando noi, che il nostre digradato scemi dal suo perfetto, secondo una determinata proportione, possiamo conseguire questo, solo con il segare la linea del piano contenuta tra il punto delle larghezze, e la pianta talmente che tutta essa linea habbia la data proportione alla sua parte uerso il detto punto delle larghezze, come per esempio . Se noi nella presente figura desiderassimo che la linea 4. 4. nel digradato tornasse i tre quarti di quello che è nel perfetto, pigitando nella linea L. 4. i tre quarti uerso L. i quali siano L. P e tirando o per il punto P. la linea del taglio ad angoli retti, sopra la linea del piano conseguiremo il nostro intento, perché la linea 4. 4. ci tornerà nel digradato, come la linea P. 6. e perché la linea P. 6. è paralella della linea 4. 4. la linea P. 6. harà la medesima proportione con la 4. 4. che la P. L. con la L. 4. ma la P. L. è itre quarti della L. 4. Dunque la P. 6. sarà ancora i tre quarti della 4. 4. e parimente se vogliamo, come è nel presente esempio, che la 4. 4. digradata ci torni diciannove parti delle uenti, dividasi la 4. L. in uenti parti, delle quali la L. P. ne contenga diciannove, e per il punto P. si tiri la linea del taglio, la linea P. 6. uerrà nel medesimo modo, che si desiderava . Ora per disegnare il nostro digradato, tirisi sopra il piano, nel quale lo uogliamo disegnare la linea R. S. dal mezzo del quale sia tirata la linea O. Z. ad angoli retti, e in essa se noti la linea O. 3. eguale alla P. 3. e per il punto 3. pur ora trovato si tiri la linea 8. 8. paralella alla R. S. e si tiri così dalla destra come dalla sinistra, eguale alla P. 6. segnisi in oltre nella medesina linea O. Z. lalinea O. 9. eguale allalinea P. 9. e per il punto 9. si tiri la linea 4.4. equidistante alla linea R. S. e così dalla destra come dalla sinistra eguale alla P. 5. e si congiunghino le linee 4. 8. e haremo messo in prospettiva il nostro quadrato come era il desiderio nostro .
+    </p>
+    <figure type="ornement"/>
+    <p>
+     A PER ridurre ancora questa nostra operatione ad una pratica più espedita, e per levare all'operante la confusione di molte sinee, che harebbe da tirare, siano fermi ne punti D. L. due piccoli chiodetti, a i quali siano legati duoi sottili fili, da i quali trarremo quelle utilita, che srsono apportate nella figura delle linee punteggiate . Percioche il filo D. disteso sino al punto 4. nella linea del piano, darà la lunghezza P. 3. la quale con il compasso traporteremo in O. 3. saluando il compasso così aperto, preso poi il filo L. e distesolo sino al punto 4. ci darà la larghezza P. 6. nella linea del taglio, la quale presa con altro compasso, traporteremo in O. 4. posto poi nel punto 4. ora notato il piede immobile del compasto della lunghezza O. 3. e in esso 3. il piede immobile del compasso della larghezza O. 4. e incrociando i piedi mobili de due compassi, così da destra, come da sinistra, haremo i punti 8. 8. di nuovo poi facendo la medesima operatione, disteso il filo D. 2. ci darà nella linea del taglio la lunghezza P. 9. e il filo L. 2. la larghezza P. 5. lequali due misure siano tolte con i due compassi, e la P. 9. traportata in O. 9. e la P. 5. in O. 2. così da destra come da sinistra, e messo il piede immobile del com passo della O. 9. sopra il 2. e quello del compasso della O. 2. sopra il punto 9. e incrociando, da destra, e da sinistra, haremo i punti 4. 4. da i quali tirando le linee a i punti 8. 8. e chiudendo la figura ha remo disegnato in scorcio il quadrato nel modo stesso, che havevamo proposto di fare .
+    </p>
+    <figure type="ornement"/>
+    <pb n="21"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="22"/>
+    <head>
+     Per mettere la superficie quadrata in scorcio con un angolo in uerso la uista. VI. Capitolo
+    </head>
+    <figure type="ornement"/>
+    <p>
+     IRISI la linea del piano A. sotto la quale sia tirata la metà del quadrato B. E. F. e dall'angolo E. tirisi sopra la linea del piano , la linea E. E. questa linea sarà la metà della linea transuersale. Però pongasi la F. L. tripla della E. E. e dal punto L. punto delle larghezze si tiri a piombo la linea L. D. ancora si adattino a i punti D. e L. i dua fili, i quali si rappresentano per le linee puntate, e proponghisi le linee R. S. e Z. O. l'una a squadra sopra l'altra, e finalmente si tiri la linea del taglio C. P. B. e dal filo disteso dal punto D. al punto F. si pigli sopra la linea delle lunghezze P. C. la lunghezza P. 2. la quale sia traportata in O. 2. diritto poi il medesimo filo sopra il punto E. si piglierà la lunghezza P. 4. e si traporterà in O. E. e disteso l'altro filo da L. sopra l'angolo E. ci darà la larghezza P. 3. nella linea delle larghezze P. B. la quale larghezza si ha da traportare in O. 3. e posto il piede immobile del compasso della lunghezza O. E. nel punto 3. c quello della larghezza O. 3. nel punto E. incrociando da destra, e da sinistra si notino i punti 7. 7. disteso finalmente il filo D. B. prendasi la lunghezza P. 5. e questa si traporterà in O. 8. E haremo i quattro punti 2. e 7. e 8. c 7. da quali tirando scambicuolmente linee rette, haremo la superficie quadrata in scorcio come cercavamo.
+    </p>
+   </div>
+   <div>
+    <head>
+     Capitolo VII. PPer fare la figura esagona in scorcio.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ON essendo cosa alcuna di nuovo nelle operationi seguenti dalle precedenti, che sia di molto momento, ce ne spediremo con brevità, presupponendo che il discreto lettore intenda benissimo, et possegga le cose dichiarate sino al presente. Siano adunque preparate le cose necessarie, cioè la linea del piano A. c sotto a essa la metà dell'esagono B. B: D. E. E. la distanza E. L. l'occhio D. punto delle lunghezze, e il punto delle larghezze L. la linea del taglio C. P. B. le linee a squadra R. S. c O. Z. e trovate con l'aiuto de fili la lunghezza P. 2. c la larghezza P. 3. traportinsi con il mezzo de compassi, et delle linee R. S. et O. Z. ne punti 2. c 2. e nel medesimo modo la lunghczza P. 5. e la larghezza P. 4. ci terminino i punti 3. e 3. e finalmente la lunghezza P. 6.,e la larghezza P. 7. i punti 4. c 4. e trovati i punti, chiudasi la figura, e haremo l'intento nostro.
+    </p>
+    <pb n="23"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="24"/>
+    <head>
+     Per mettere in scorcio il pentagono con una delle sue faccie verso la vista. VIII. Capitolo
+    </head>
+    <figure type="ornement"/>
+    <p>
+     IANO disposte le cose solite, ciò è la linea del piano A. e sotto essa la metà del pentagono 3. 4. 1. 1. E la linea del taglio C. P. B. e il punto L. delle larghezze, e l'occhio D. o vero punto delle lungh ezze, e dall'angolo 4. si tirerà una linea a piombo sopra la linea del piano, la quale terminerà nel punto 4. e col filo drizzato al punto 1. si piglierà la lunghezza P. 5. e col filo L. drizzato al punto: 1. suo corrispondente si piglierà la larghezza P. 6. e queste traportate, e incrociate al modo solito, ci diano i punti. 1. 1. dentro le lince a squadra, e con la medesima regola siano ritrovati i punti 2. e2. e 3. e chiudasi la figura, e con questa medesima regola metteremo in scorcio qual fi uoglia piano contenuto da linee rette.
+    </p>
+   </div>
+   <div>
+    <head>
+     Per digradare il cerchio. Capitolo IX.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     HABBIAMO nelle operationi precedenti veduto, come per mettere in scorcio le figure retti linee, non habbiamo bisogno se non di trovare in qual luogo si habbino a porre gl'angoli nel digradato, i quali angoli compongono la proposta figura, perché trovati questi, e dall'uno all'altro tirate linee rette, si conseguisce l'intento, e la medesima regola basta per digradare tutti i retti linei. Ma perché la figura circulare non ha angolo alcuno, o vero ne ha infiniti, e stato necessario per digradarla descrivere dentro ad esse un'poligono, dal quale si possa cavare il cerchio perfetto digradato, quando poi sia messo in scorcio con le precedenti regole, ma perché nelroperatione noncileruamodalro, che deliangelibateri dudere lacicumferenza del cerchio in alcune parti, e i punti delle divisioni ci rappresenteranno in scritto gli angoli del poligono, come nella presente figura, nella quale A. sia la linea del piano, D. il punto delle lunghezze. L. il punto delle larghezze, e il mezzo cerchio da digradarsi sia diviso ne punti 2. 3. 4. 5. 6. 7. 8. i quali ci rappresentino gl'angoli d'un'poligono descritto nel cerchio, da quali sopra la linea del piano cadino le linee a piombo, segandola ne punti 2. 3. 4. 5. 6. 7. 8. corrispondenti alli angoli, e da questi con il filo D. si troumo nella linea del taglio le lunghezze P. 1. eP. 2. eP. 3. e da quelli della circumferenzza si prendino le larghezze con il filo L, P. 2. eP. 3. e P. 4. e havendo di gia ordinate le linee a squadra R. S. e O. Z. intersecando tra essa, è da destra, e da sinistra le lunghezze corrispondenti con le larghezze, si troveranno nel digradato i punti 2. 3. 4. 5. 6. 7. 8. 9. 10. sopra i quali con diligente mano si andrà disegnando intoruo l'ovato, ilquale ci rappresenta il cerchio proposto. Ma in questo luogo non mi pare da passare sotto silentio, che non essendo altro il cerchio digradato, che una figura Ouata, chiamata da Greci Elipsi possiamo piu facilmente digradare il nostro cerchio, solo con il ritrovare la maggiore larghezza, la quale è notata nella linea del taglio P. 6. tuttavolta pero, che la linea L 6. tocchi il cerchio, e la maggiore lunghezza 9. 1. presa la L. 6. come maggiore diametro, e la 9. 1. come minore diametro descriveremo una elipsi nel modo che l'Illustrissimo et dottissimo Signore Guidobaldo de'Marchesi del Monte insegna nel fine del secondo libro del suo Planisferio.
+    </p>
+    <pb n="25"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="26"/>
+    <head>
+     Per digradare un piano partito in quadri. Capitolo X.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     IA la linea del piano A. la linea del taglio P. C. B. il punto delle larghczze L. l'occhio, e punto delle lunghezze D. c N. sia la metà del piano da digradarsi, diviso per lunghezza in quante parti vguali si vogliano da i punti 1. 2. 3. 4. 5. e per la metà della larghezza sia diviso da i punti R. c H. Q. e N. e sia disegnato tra le linee a squadra in scorcio, con l'aiuto del Capitolo praecedente il piano proposto, ma non partito, le cui larghezze siano 9. 9. 2. 2. e le lunghezze 9. 2. e 9. 2. ora per partire il quadrato proportionatamente al perfetto, quanto alle larghezze basta dividerle in parti vguali, perché queste non essendo vedute in scorcio, non variano proportione dal perfetto; siano adunque divise ne punti G. H. 3. c quattro, da quali siano tirate le linee G. 3. e H. 4. e quando pure volessimo , possiamo col filo L. trovare nella linea del taglio le medesime divisioni, però che drizzato a punti R. darà le divisioni O. G. che sono nel digradato la G. H. e drizzato a punti H. N. piglieremo le divisioni I. Z. che nel digradato sono le 3. 4. Per trovare poi le divisioni secondo la lunghezza, distendasi il filo D. a i punti I. 2. 3. 4. 5. et notinsi nella linea del taglio P. C. le lunghezze P. 5. c. P. 4. c P. 3. e P. 2. e P.I. e queste siano traportate sopra la linea a squadra O. Z. et siano le O. 5. le O. 4. le O. 3. le O. 2. le O. 1. e peri punti 1. 2. 3. 4. 5. siano tirate le linee paralelle alla 2. 2. charemo il piano compartito come si desiderava.
+    </p>
+   </div>
+   <div>
+    <head>
+     Per disegnare in scorcio il medesimo piano partito a liste. Capitolo XI.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     A presente operatione non sarà differente dalla passata, eccetto che le divisioni non saranno vguali, però ripigliando digradato è il medesimo perfetto, come nella seconda figura si uede, il per fetto e diviso a beneplacito nelle liste, i loro termini nella lunghezza siano 1. 2. 3. 4. 5. cnella larghezza R. S. Q. C. H. H. e trovate col filo L. nella linea del taglio le larghezze P. Z. P. G. e P. 5. siano traportate nel digradato nella linea segata 2. 2. così da destra come da sinistra ne punti 3. e 4. c 5. et prese le largliczze più lontane, le quali nella linea del taglio torneranno P. 1. P. 0. c P. 2. traportinsi nel digrato sopra l'altra linea segnata 9. 9. così da destra, come da sinistra ne punti G. c O. è 2. fatto questo trouinsi con l'aiuto del filo D.: nella linea del taglio i termini notati nella lunghezza del perfetto, i quali saranno P. 5. e P. 4. e. P. 3. e P. 2. e P. 1. et questi siano trasportati nella linea a squadra O. Z. come nella figura si uede, tirate poi da i punti notati nella larghezza 9. 9. a i punti loro corrispondenti, segnati nella larghezzi 2. 2. e similmente tirando per i punti notati nella linea . O. Z. linee para lelle alla linea 2. 2. haremo il nostro digradato compartito a liste, come era nostra intentione, come nella figura si vede.
+    </p>
+    <pb n="27"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="28"/>
+    <head>
+     Per digradare in scorcio il quadrato perfetto fuori di squadra. Capitolo XII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     A PRESENTE operatione sarà differente dalle passate in tre cose, una è che nelle passate per essere la uista in mezzo bailana disegnare la metà della pianta, dove che ora per essere la vista suori di squadra bisogna disegnare la pianta intera l'altra è che quando il quadrato sarà posto più lontano dalla linea del piano , tanto più verrà a scorciare il digrato, e dove prima le misure si traportavano sopia la linea a squadra intersecandole a destra, e a sinistia, ora si hanno da intersecare da una sola banda. Sia adunque la linea del piano A. la linea del taglio C. P. B. l'occhio, e punto delle lunghezze D. il punto delle larghezze L. le linee a squadra R. O. Z. e sotto la linea del piano sia disegnato il quadrato perfetto A. B. C. D. da gl'angoli del quale cadino sopra la linea del piano le linee perpendicolari, segando ne punti . A. B. C. D. i quali disteso il filo D. seghi la linea P. C. ne punti 8. 7. disteso poi il filo L. a gl'angoli del quadrato , seghi la linea P. B. ne punti 3. e4.e5. c6. presa poi con un'compasso la larghezza P. 4. e con un'altro la sua corrispondente lunghezza P. 8. si hanno da intersecare tra le linee a squadra al modo solito, ma solo da man sinistra nel punto 2. parimente presa la larghezza P. 6. e la sua corrispondente lunghezza P. 8. traportinsi intersecandole nel punto 3. preso poi la loro larghezza P. 3. e la loro corrispondente lunghczza P. 7. e intersecandole tra le linee a squadra, dia nel punto 5. è la larghezza P. 5. con la lunghezza P. 7. si intersechino nel punto 4. e finalmente si tirinó le linee 2. 3.c5. 4.e3.4.e2.5. e haremo il quadrato fuori di squadra come bisognava.
+    </p>
+   </div>
+   <div>
+    <head>
+     Per tirare in prospettiva il medesimo quadrato con uno angolo verso la uista. Capitolo XIII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     VA IANO ordinate le solite cose necessarie come nella figura si vede, e sia disegnato il quadrato perfetto R. S. D. Q. da i cui angoli sopra la linea del piano, cadino le linee perpendicolari, segandolo ne 1 punti corrispondenti R. S. Q. D. eprese coni fili la largliczza P. 8 e la sua corrispondente lunghezza P. 2. siano traportate intersecandole tra le linec a squadra nel punto 2. come si vede da una sola banda parimente la larghczza P. 9. con la lunghezza P. 3. si intersechi nel punto 5. la P. 6. con la P. 7. nel punto 4. e finalmente la larghezza P. 4. con la lunghezza P. 3. si intersechino nel punto 3. e chiudendo i quattro punti, come 2. e 3. e 4. c 5. haremo disegnato il scorcio il quadrato, come cercavamo di disegnare.
+    </p>
+    <pb n="29"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="30"/>
+    <head>
+     Per mettere in scorcio la figura Ottogona fuori di squadra. Capitolo XIIII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ABBIAMO poste le due seguenti operationi, non perché in esse siano cose nuove, e diverse dalle passate, ma solo per dare occasione a chi opera di farsi più familiare la nostra regola, mediante la diversità delle figure. Siano adunque come si vede nelle seguente figure messe in ordine, la linea del piano A. la linea del taglio C. P. B. il punto delle lunghczze D. il punto delle larghezze L. e le linee a squadra R. O. Z. e dalli angoli della figura ottogona segnata T. siano tirate le linee per pendicolari sopra la linea del piano, segandola ne punti 1. 2. c 8. 3. e 7. 4. e 6. 5. a i quali disteso il filo D. seghi la linea del taglio ne punti 2. 3. 4. c 5. e il filo L. drizzato a gli angoli dell'ottangolo seghi la linea del taglio ne punti I. 2. 3. 4. 5. 6. 7. 8. presa poi la lunghezza P. 2. con la sua corrispondente larghezza P. 4. e intersecandole tra le linee a squadra al modo solito, haremo il punto 1. e di poi presa la lunghezza P. 2. con la largliezza P: 7. sua corrispondente, ci daranno il punto 2. e di poi presa la lunghezza P. 3. con la larghezza P. 8. si intersecheranno nel punto 3. e con la medesima osseruatione intersecando ciascuna lunghezza con la sua corrispondente larghezza, noteremo tra le linee a squadra i punti rimanenti 4. 5. 6. 7. 8. tra i quali tirando scambicuolmente linee rette, si chiuderà la figura ottogona digradata, come era nostra intentione.
+    </p>
+   </div>
+   <div>
+    <head>
+     Per disegnare il Cerchio fuori di squadra. Capitolo XV.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     VESTA operatione nel medesimo modo non sarà diversa dalle passate, con tutto che la figura circulare sia di natura contraria alle retti linee, perché noi la considereremo non come cerchio, ma come figura di molti lati descritta dentro al cerchio . Siano adunque come nella figura si vede ordinate le cose necessarie, e il cerchio H. posto sotto la linea del piano, sia diviso in quante parti ne piace, aunertendo però che in quante piu si divi derà, tanti pi i punti ne uerranno disposti nel digra dato vicino alla forma circulare. Sia adunque al presente diviso in parte sedici, e i punti siano notati con i numeri continui dall'i. sino al 16. e comè detto cerchio fusse un'poligono rettilineo, simile a quello del Capitolo precedente, i cui angoli fussero notati a i punti nella circumferenza operisi nel modo solito, facendo da ciascheduno punto della circumfereza cadere linec a piombo, sopra la linea del piano, notando i loro termini con i numeri segnati a i punti corrispondenti nella circumferenza del cerchio, come nella figura si scorge, e da questi punti prenderemo, nella linea del taglio P. C. le lunghezze del filo D. e drizzando l'alrro filo L. a gl'altri punti della circumferenza piglieremo le larghezze sopra la linea del taglio P. B. intersecando poi tra le linee a squadra ciascuna larghezza con la sua corrispondente lunghezza, si noteranno i punti, i quali cadranno nella circumferenza d'una figura ovata; sopra i quali tirando con diligente mano detta circumferenza, haremo il nostro cerchio digrato come volevamo.
+    </p>
+    <pb n="31"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="32"/>
+    <head>
+     XVI. Capitolo
+    </head>
+    <figure type="ornement"/>
+    <p>
+     MAVENDO discorso sino a qui largamente intorno alle regole del mettere in scorcio le superficie contenute così da linee rette, come da circulari , et dovendo passare con il ragionamento a i corpi solidi, ed alle regole del digradargli, ci è parso prima che diamo mano dovere apportare non picciola utilità, il dichiarare prima con breve discorso, e dimostrare che le seguenti opcrationi non saranno differenti dalle passate, e persuadere chi impara, che non ci è per havere cosa nesluna di nuovo, che gli habbia da apportare difficultà, ogni volta, che harà inteso bene, e possederà le cose dette sino a qui. Dunque è da sapere che il mettere in prospettiva corpi sodi, come scale, case, Chiese, et simili edifitij non è altro che digradare la medesima, o diverse superficie sopra differenti piani, dico differenti tra di loro per essere l'yno posto più, o meno alto dell'altro, tal che chi harà preso bene il modo del digradare le superficie, non harà da temere, ne sbigottirsi di essere per riscontrare in difficultà alcuna, ma perché molte volte le cose stesse, non per loro natura, ma per essere scritte difficilmente, et oscuramente da chi le tratta sogliono apparire difficili, noi per fuggire questo errore con l'essempio innanzi, cerchereno di esplicare il concento nostro più chiaramente
+    </p>
+    <figure type="ornement"/>
+    <p>
+     αE ADUNQUE sarà nostra intentione mettere in prospettiva il cubo A. B. C.D. E. F. G. H. ogni volta, che haremo ritrovato ove si habbino da collocare nel digradato gl'otto punti A. B. C. D. E. F. G. H. posti a gl'angoli del cubo, non è Odabbio alcuno che haremo conseguito l'intento perché tirando tra essiscambievolmen te le linee rette, che sono i lati del cubo sarà descritto il tutto . Ma per trovare i quattro punti B. C. H. G. che altro haviamo noi a fare che digradare il quadrato B. C. H. G. e per trovare i punti rimanenti, quale altra regola ci sarà necessaria, che quella che ci insegna a disegnare il quadrato A. F. E. D? di niuna certo, è ben vero che il quadrato A. E. F. D. va posto più alto del quadrato B. G. H. C. e questa altezza ci viene data dal profilo di detto cubo, che altro non è, che il quadrato A. B. C. D. e si vede in questa operatione, che il mettere in prospettiva il cu vo, non in, potta altio che digradare il medesimo quadrato sopra duoi diversi piani, il simile vedremo, più particularmente in tutte le sequenti operationi, come dalle piante (le quali ci rappiesentano tutte le diversità de piani disegnate nel piano stesso ) si cavino i digradati de piani, da i quali si compone il corpo, dal profilo si pigliano le loro diverse altezze, e perche a sorte si è fatta mentione dell'altezze, non habbiamo da tacere un'accidente, che suole apportare maraviglia, e talora difficultà, e dubbio della certezza dell'arte a molti, che si esercitano nella prospettiva, e ques. » è uonde possa procedere, che vedendo noi la medes.ma lunghe: za sopra il medesimo piano, quanto più si porra lontano, tanto ci apparirà minore, e disegnata ancora nel digradato tornerà minore la più lontana, che la più vicina, come si vede in questo esempio, nel qualeà manifesto che se l'occhio D. vedrà la lunghezza B. A. vicina gli parrà maggiore, che uedendola posta più lontana, e tale ancora gli tornerà nel digradato, perché la più vicina gli verrà rappresentata dalla linea I. O. e la più lontana dalla S. E. e manifesto che la linea F. O. e maggiore della linea S. E. ma questo accidente non si ritrovando nelle altezze, ha dato come ho detto difficultà a molti, perché se bene il medesimo oggetto posto da noi più lontano, con tutto che sia vero inquanto all'altezza, la quale ci appare minore, non di meno nel digradato non ci torna minore di quello , che sarà posto più vicino, ciò è più basso, come per esempio, la medesima lunghezza A. B. ueduta dall'occhio D. quando sarà bassa, nel vero gli apparirà maggiore, che quando sarà posta più alta, non di meno se io la vorrò disegnare in prospettiva tirando la linea del taglio I. F. la linea S. E non verrà disegnata minore della linea I. O. ma eguale, non vale dunque l'argumento nelle altezze, come nelle distanze sopra un piano, che le cose medesime uedute più da lontano appariscono minori , et nel digradato si hanno a disegnare, non quali sono, ma quali appariscono, dunque le medesime cose poste più alte, apparendoci minori si hanno a disegnare minori delle più basse, ma la cagione di queste diversità, credo che hormai sia stata compresa, per che da altro non deriva, se non che volendo porre in prospettiva l'altezza, la linea del taglio viene paralella alla linea, nella quale sono le altezze . però è necessario che ad essa si osseruino le medesime proportioni, che sono nel perfetto, come nella seconda figura appare, ma disegnando le lunghozze poste nel piano suggetto, et la linea del taglio uenendo perpendicolare sopra il piano suggetto, et non equidistante ad esso, e necessario che le proportioni del perfetto non si mantenghino più, ma si alterino, et che le medesime lunghezze poste più lontane, tornino nel digradato minori delle più vicine .
+    </p>
+    <pb n="33"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="34"/>
+    <head>
+     Per disegnare in scorcio il pozzo di forma quadra. Capitolo XVII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     NER cominciare a dimostrare quello, che succintamente si è dichiarato nel Capitolo passato, proponghiamo di disegnare in scorcio un'pozzo di formna quadra, con la uista in mezo, del quale sia disegnata sotto la linea del piano la metà della pianta segnata G. i cui termini nella sponda di fuori siano R. S. T. V. et nell'interiore H. O. e dalla pianta sia drizzato il profilo N. dell'altezza che si vuole, e questo si farà con il fare surgere dalla pianta, ciò è da i sua termini linee perpendicolari le quali sono quelle che terminano ne punti M. A. B. I. ora si harebbe per la regola ordinaria a digradare la pianta G. ma perché di essa non si potrà uedere nel digradato, che la linea T. V. posto il punto delle larghezze al suo luogo, ma quello delle lunghezze ciò è D. più alto del solito, accio possa scoprire la bocca del pozzo, prendasi con il filo L. la larghezza T. V. la quale nella linea del taglio C. P. B. tornerà P. 8. e presa con il filo D. la sua corrispondente lunghezza che è la distanza del perfetto della linea del taglio, ciò è essa P. V. la quale nella linea del taglio torni P. 6. e incrociate nel modo solito tra le linee a squadra R. S. e O. Z. tanto da destra quanto da sinistra haremo i punti 2. 2. tra i quali tirisi una linea retta resta ora a digradare la medesima pianta G. ma in un'piano ta ito più elevato della linea R. P. S. quanto è l'altezza del profilo N. distendendosi dunque il filo D. al punto F. il quale seghi la linea del taglio nel punto 5. la linea 5. 6. sarà quella, che ci rappresenta la linea I. V. e perché il punto 6. nel digradato ci dava i punti z. 2. tirisi sopra la linea 2. 2. le due perpendicolari 2. 3. e 2. 3. eguali alla linea 5. 6. ò vero per trovare i medesimi punti 3. 3. piglisi la larghezza P. 8. con la sua corrispondente altezza P. 5. et intersichinsi a destra, et a sinistra, che ci daranno i medesimi punti 3. 3. tra i quali tirisi una linea retta, sopra laquale uà disegnata in scorcio la pianta G. le cui larghezze si misureranno al modo solito sopra la linea P. B. ma le lunghezze si devono prendere con il filo D. non sopra la linea del piano R. P. L. ma sopra il piano più alto, ciò è sopra la linea M. A. B. I. misurandole pure sopra la linea del taglio C. P. disteso dunque il filo D. al punto B. la linea P. C. seghi nel punto 4. e presa la lunghezza P. 4. et la sua corrispondente larghezza P. 7. intersecate al modo solito da destra, e da sinistra, ci daranno i punti 5. 5. similmente disteso il filo D. A. e presa la lunghezza P. 3. con la larghezza P. 5. e intersecate ci daranno i punti 6. 6. è finalmente presa la longhezza 2. con il filo M. e la larghezza P. 6. incrociate ci daranno i punti 4. 4. e congiunte le linee 3. 4. e 5. 6. e4. 4. e6. 6. e 6.5. e 4. 3. haremo disegnato il pozzo, come si desiderava . Auertendo però, che il medesimo punto, che nel digradare i piani ci da le lunghezze, nel mettere i sodi in scorcio ci dara anco le altezze, però quando tratteremo di esso lo chiameremo senza differenza alcuna punto delle altezze, o vero lunghezze.
+    </p>
+   </div>
+   <div>
+    <head>
+     Per mettere in scorcio il pozzo Ottangolo. Capitolo XVIII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ISEGNISI la metà della pianta D. come si vede contenuta dentro le linee 1. 3. 6. 8. e2. 4. 5. 7. dalla quale surga il profilo M. all'altezza che si desidera la sponda del pozzo, e da tutti gl'angoli della pianta, siano diritte linee a piombo verso l'estrema linea del profilo terminate ne punti corrispondenti ad esse 1. 2. 3. 4. 5. 6. 7. 8. e ordinate la linea del taglio, le linee a squadra, il punto delle larghezze, e quello delle lunghezze, piglinst al modo solito le larghezze con il filo L. disteso a tutti gl'angoli della pianta sopra la linea del taglio P. 1. P. 2. P. 3. P. 4. P. 5. P. 6. P. 7. P. 8. eperche nel digradato non si potranno uedere, che tre faccie della base del pozzo, sia dall'angolo 6. della pianta piombata una linea sopra la linea del piano, che la seghi nel punto N. e col filo D. disteso a 1punti O. N. piglinsi le lunghezze P. X. e P. H. presa di poi la larghezza P. 5. con la sua corrispondente lunghezza P.X. che intersecate sopra la linea à squadra da destra, eda finistra, ci daranno i puntil2. 2. e la larghezza P. 8. con la lunghezza P. H. ci daranno i punti 3. 3. disteso poi il filo D. a tutti i punti del profilo, notinfi nella linea del taglio tutte le misure contenute tra il punto P. e i numeri 1. 2. 3. 4. 5. 6. 7. 8. le quali intersecate tra le linee à squadra, ciascheduna con la sua corrispondente larghezza, ci termineranno tutti i punti, che nella sboccatura del pozzo si ueggano, tra i quali trovati che siano, tirando le linee rette come si vede, si disegnerà il pozzo in scorcio, come havevamo proposto di fare.
+    </p>
+    <pb n="35"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="36"/>
+    <head>
+     PPer disegnare in scorcio una scala quadra, che sale da tutti i lati. Capitolo XIX.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     IA segnata sotto la linea del piano la metà della pianta R. la quale altro non è che la larghezza di tutti li scalini, e sopra vi siano notati i sua profili, che sono le altezze de medesimi scalini, siano adunque così gl'angoli della pianta, come quelli del profilo corrispondenti ad essi, segnati con lettere A. B. C. R. E. F. e posti i fili a luogli loro, siano segnati con l'aiuto di essi sopra la linea del taglio al modo solito tutte le misure delle larghezze, e lunghezze, e presa la larghezza P. 2. con la sua corrispondente lunghezza P. O. ed intersecate insieme tra le linee a squadra, ci daranno da destra, e da sinistra i punti 2. 2. tra i quali si tirerà una linea che sarà il termine di sotto del primo scalino, e per trovare la sua altezza ritenghasi la medesima larghezza P. 2. e presa la P. N. che rapresenta l'altezza dello scalino I. R. insieme con la distanza P. I. siano le dette misure P. N. e P. 2. intersecate da destra, e da sinistra, le quali ci daranno i punti 3. 3. e volendo la lunghezza del medesimo grado, prendasi le misure P. 4. c P. A. le quali intersecate ci daranno i punti 10. 10. prese poi le misure P. 3. e P. 5. e intersecate ci denotaranno i punti 4. 4. larghezza del secondo grado, la cui altezza 5. 5. troveremo intersecando la medesima larghezza P. 3. con la lunghezza P. T. c la sua larghezza 9. 9. ci verrà terminata dalle misure P. 6. c P. D. intersecate l'una conl'altra, la larghezza 6. 6. del terzo scalino troveremo intersecando le distanze P: 5. e P. V. et l'altezza incrociando la medesima P. 5. con la P. Z. c la lunghezza 8. 8. sarà trovata intersecando P. 7. con P. L. tirinsi poi trai punti trovati, come si vede nell'esempio linee, e haremo la scala disegnata come si desiderava, e se si tireranno ancora le linee 3. 4. 5. 6. e quelle piccoline da i punti 9. 10. dritte a i punti 3. 5. ci rappresenteranno le misure de gradi, o per dir meglio delle pietre che compongono i gradi.
+    </p>
+    <pb n="37"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="38"/>
+    <head>
+     Per digradare la scala che sale da due bande in profilo. Capitolo XX.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ESCRIVASI sotto la linea del piano la metà della pianta, e so pra il suo profilo X. che sono le altezze delli scalini, avuertendo che nella pianta lo spatio O. ci rappresenti il riposo, ciò è quello spatio alto sopra gli scalini, e i piani A. G. e B. H. e C. I. e D. K. sono le larghezze de gradi, i quali nel presente esempio porremo, che sieno quattro. Distendinsi poi i fili a tutti gl'angoli della pianta, e del profilo, e notinsi le intersecationi loro sopra la linea del taglio e sponghinsi le linee a squadra, e per dare principio all'operatione, prendasi la larghezza P. 10. e la sua rispondente lunghezza P. 12. le quali intersecate da destra e da sinistra, ci termineranno i punti 2. 2. per la larghezza della scala nel più basso grado, l'altezza della quale haremo dalla medesima P. 10. incrociata con la P. II. ne punti 3. 3. e la sua larghezza 4. 4. çi sarà terminata dalla intersecatione di P. 9. con la medesima P. 1I. e la medesima P. 9. intersecata con P. 10. ci darà i punti 5. 5. e P. 10. incrociata con P. 8. terminerà i punti 6. 6. e P. 8. intersecata con P. 9. i punti 7. 7. e P. 9. intersecata con P. 7. i punti 8. 8. e P. 7. intersecata con P. 8. ci darà i punti 9. 9. e P. 8. intersecato con P. 6. ipunti 10. 10. e finalmente P. 6. intersecata con P. 7. ci terminerà i punti II. II. e haremo operato sin qui le larghezze, e le altezze di tutti li scalini, le lunghezze de quali come si veggono nel digradato notate con i punti I. 2. 3. 4. 5. troveremo in questa maniera, presa dalla linea del taglio la larghezza P. 1. c la lunghezza P. 5. ci daranno intersecate l'una con l'altra i punti 5. 5. e P. 2. intersecato con P. 4. i punti 4. 4. P. 3. larghezza intersecata con P. 3. lunghezza ci darà i punti 3. 3. P. 4. intersecata con P. 2. ci darà ipunti 2. 2. e finalmente P. 5. intersecato con P. i. ci terminerà i punti 1. 1.
+    </p>
+    <pb n="39"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="40"/>
+    <head>
+     Per mettere in scorcio la scala fuori di squadra, che sale tra due muri. Capitolo XXI.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ER conseguire l'intentione nostra in quanto appartiene alla presente operatione, disegniamo sopra la linea del piano il perfetto profilo M. della scala, che vogliamo digradare, il cui riposo sia A. B. e gli scalini siano disegnati, come si vede nella figura D. da ciascuno de lati cadauna linea a piombo sopra la linea del piano, le quali poi tutte allungate, quanto vorremo che sia la larghezza della scala, ci daranno la sua pianta, come nella figura appare. Ponghinsi poi le linee a squadra R. O. Z. e posti i fili a loro luoghi, e distesi l'uno a punti della pianta, e l'altro a punti del profilo, si seghino le loro intersecationi con la linea del taglio C. P. B. piglisi poi la larghezza P. I. e la distanza P. K. e intersechisi dalle linee a squadra da una sola banda del punto I. che sarà la lunghezza del primo scalino, e volendo ridurre l'operatione piu spedita segninsi nella linea O. Z. le medesime misure che sono nella linea del taglio P. C. e da essa tirinsi le linee paralelle alla linea O. R. et le due prime quali sono le K. 1. c le 9. 2. siano poste vguali alla larghezza P. 1. le due seguenti, e L. 3. e 4. 8. siano uguali alla P. H. e uadasi seguitando con questo ordine sino al fine, l'vltimo termine del riposo, ciò è la linea S. 17. sia eguale alla P. A. e haremo le altezze di tutti li scalini, e le lunghezze, e se congiugneremo poi le linee 1. 2. e 2. 3. e 3. 4. e 4.5. daremo compimento all'operatione.
+    </p>
+    <pb n="41"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="42"/>
+    <head>
+     Per disegnare in scorcio la scala, che sale da una banda fuori di squadra. Capitolo XXII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     EGNISI sotto la linea del piano la sua pianta nel modo appresso, tirisi la linea A. F. lontana dalla linea del piano quanto si vuole, che la scala uenghi fuori di squadra, e sotto di essa siano disegnate le larghezze di quanti scalini si uorranno, e siano questi gli spatij A. F. e B. G. e C.H. e D.I. sotto i quali finalmente sia descritto il suo riposo S. no tisi poi sopra la detta linea del piano il suo profilo R. che altro non sarà, che tra le due linee F.R.e A.X. tirate a piombo, è a dirittura delle A. M. e F. N. disegna re l'altezze de gradi, sia in oltre tirata la linea del taglio, e si ponghino le linee a squadra, e i fili a luoghi loro, e drizzati l'uno a gl'angoli della pianta, l'altro a gl'angoli del profilo, notinsi le loro intersecationi con la linea del taglio, e presa la larghezza P. 10. c la lungliezza P. 11. intersecate fra le linec a squadra da una sola banda, ci daranno il punto 2. la medesima larghezza P.10. con l'altra lunghezza P.10. susperiore inter secate ci daranno il punto. 3. e seguendo di pigliare le misure,che nascono sopra la linea del taglio da in punti delle linee F. R. e F. N. e incrociando ciascuno con i suoi duoi corrispondenti, haremo tutti i punti segnati tra le linee a squadra 2. 3. 4. 5. sino in 12. parimente intersecando ciascuna delle misure, che nascono da i punti della A. M. con le due corrispondenti misure, che derivono dalla A. X. ci daranno i punti segnati tra le linee a squadra da 1. sino in 1I. come per esempio la larghezza P. 5. in tersecate le due corrispondenti. P. X. e P. 5. ci darà i punti 1I. 10. la P. 4 intersecata con le due superiori P. 5. e P. 4. ci darà i punti 9. 8. la P. 2. intersecata con le due superiori P. 4. e P. 3. ci dara i punti 7. 6. e così dell'altre e nel fine P. Q. e P. 5. ci daranno il punto 1. e tirate tra i punti le linee, come si uede haremo digratata la scala come desideravamo.
+    </p>
+    <pb n="43"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="44"/>
+    <head>
+     Per disegnare in scorcio fuori di squadra la scala, che sale uerso la uista. Capitolo XXIII
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ISEGNISI sopra la linea del piano il profilo della scala, che si ha da disegnare, talmente che salga verso la linea del taglio, come nell'esempio si vede, e segnisi sotto la medesima linea del piano la pianta corrispondente al profilo, nel numero, e nelle larghezze de gradi, e sia tanto lontana dalla linea del piano, quanto vogliamo che ella sia fuori di squadra, e avuertiscasi che ciascuno grado sia posto a piombo con ciascuno del profilo sia dunque il profilo S. e la pianta M. e posti i fili, e la linea del taglio a luoghi loro, e ordinate le linee a squadra, distendasi il filo D. a ciascheduno angolo del profilo, e l'altro silo L. a ciascheduno angolo della pianta, e notinsi le intersecationi sopra la linea del taglio, e per dare principio all'operatione prendasi la larghezza P. T. la quale intersecata con P. H. ci darà il punto 2. la medesima P. T. incrociata con P. 3. ci darà il punto 4. ma il punto 6. ci sarà dato dall'intersecatione della larghezza P. 5. con l'altezza P. 1. c la medesima larghezza P. 5. intersecata con P. R. ci darà il punto 1. la larghezza P. G. intersecata con le duc altezze P. 2. e P. Q. ci darà i punti 2. 3. ma i punti 4. 5. uengano dalla intersecatione della larghezza P. F. con le due altezze P. 4. e P. 2. nel medesimo modo intersecando ciascuna delle seguenti larghezze con le due misure tolte dal profilo, che rispondano ad esse, haremo i punti 6. 7. e perinsino al punto 15. congiungasi poi le linee 1. 2. 3. c 4. e 5. 6. c 7.8. e 9.10. C II. 12 c 13. 14. e peri punti 2. 4. 6.8. 10. 12. 14. si tirino linee paralelle alla O. R. e saranno disegnati tutti li scalini; più oltre intersecando la larghezza P. V. con le due P. H. e P. 3. haremo i punti 3. e 5. e il punto 7. ci verrà notato dall'intersecatione delle misure P. X. c P. L. e finalmente tirando le linee 6. 7.c 7.5.c5.4.c4.2.c3. 2. daremo perfettione all'opera; Auertiscasi che le linee puntate senza numeri, che sono nella pianta, seruano per chi volesse trovare l'altra testata della scala, la quale viene occulta.
+    </p>
+    <pb n="45"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="46"/>
+    <head>
+     Per mettere in scorcio la scala che sale opposta alla uista. Capitolo XXIIII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ISEGNISI il profilo R. che scenda verso la linea del taglio, e sotto il quale sia posta a piombo la sua pianta K. lontana dalla linea del piano quanto vorreno che la sia fuori di squadra, e posti i fili a luoghi loro distesi l'uno a gl'angoli del profilo, segninsi le misure sopra la linea del taglio, ordinate poi le linee a squadra R. O. Z, e incrociata la larghezza P. 1. con le due altezze P. R. e P. 9. cidarà i punti 1. 2, c le medesime altezze intersccate con la larghezza P. R. ci daranno i punti 17.16. ma la larghezza P. 2. intersecata con P. L. e P. 8. ci darà i punti 3. 4. e le medesime P. L. e P. 8. incrociate con P. C. ci daranno 15. 14. la larghezza P. 3. incrociata con le due P. M. e P. 7. danno ipunti.5. 6. c le medesime P. M. e P. 7. incrociate con P. D. danno i punti 13. 12. e seguendo il medesimo ordine troveremo i punti rimanenti talché l'estremità del riposo notata da i punti 1. e 17. ci verrà notata dall'intersecatione delle larghezze P. 9. e con l'altezza P. 1. el'angolo 18. nascerà dalla larghczza P. 9. incrociatascon l'altezza P. A. tirando poi tra i punti ritrovati le linee rette, haremo dato fine alla nostra operatione.
+    </p>
+    <pb n="47"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="48"/>
+    <head>
+     Capitolo XXV Per disegnare in scorcio la scala a chiocciola.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     AVENDO insino a qui insegnate le regole di porre in prospettiva, le scale ordinarie, e in diverse vedute, pare ora douiamo mostrare la regola del disegnare in scorcio le scale a chiocciola. Proponghiamo dunque di mettere in prospettiva detta scala, e per ciò fare disegnisi la metà della pianta di essa sotto la linea del piano A. e sia la detta pianta la metà d'un'ottangolo, uolendo per essempio che la nostra scala contenga in ogni rivolta otto scalini, e siano gl'angoli della pianta segnati 1. 2. 3. 4. e sopra il centro X. sia tirata la X. R. a piombo nella quale si noteranno le altezze delli scalini uguali tra di loro, e per disegnare il profilo piglieremo sopra la linea del piano i tre punti 1. 1. 1. posti à piombo sopra il punto 1. della pianta, e corrispondenti alle prime tre altezze segnate nella linea X. R. e questi tre punti ci daranno le altezze, del primo, e del secondo grado, similmente piglieremo i tre punti 2. 2. 2. i quali cadino a piombo sopra il punto 2. della pianta, e alla seconda, terza, e quarta altezza prese nella linea X. R. e nel medesimo modo si noteranno i tre punti 3. 3. 3. alzandosi sempre un grado più de'punti precedenti; Piglieremo di poi i quattro punti 4. 4. 4. 4. a piombo sopra il punto 4. della pianta, i quali conterranno tre altezze, per essere lo scalino segato O. ueduto in faccia nella rivolta della scala, come nello scorcio si vede piu manifesto, e questo si deve ofleruare, ciò è di pigliare nel profilo tre altczze in tutti i gradi, che vorremo così da destra come da sinistra, segnati nella estremità del profilo, a gl'altri poi come nella figura si uede, si piglieranno tre punti soli, i quali comprendino due altezze. Havendo in questa maniera ordinato la pianta, e il profilo non sarà difficile l'operare quel che resta, perché segando le linee a squadra R. S. e O. Z. e poste le distanze a luoghi lore, prendasi l'altezza P. 1. da basso, e larghezza P. 1. e intersecate da destra, e da sinistra haremo i primi termini del posamento del primo scalino, e la medesima larghezza incrocia ta con la seconda altezza P. 1. ci darà l’altezza del medesimo grado, gl'alrri dua termia. croe i penti X. e N. civengono presi trapoitando nella linea O. Z. le duc altezze P. X. e P. N. avuertendo che per brevità si potranno segnare nel fusto Z. O. le altezze di tutti gli altri gradi ciascheduna eguale all'altezza gia trovata del primo grado, la medesima larghezza i ieit erta selnente dalmi cen la teira lughezta P. 1. ci daià l'altezza segnata 1. del lecondo Icalmo e gl'altri due puntinotati 2. 2. ci uello fegnati dalla interfecatione della lar ghezza P. 2. con le altezze P. 2. e P. 2. seconda, e la medesima larghezza incrociata pure da si nistra con la terza altezza P. 2. ci darà l'alteza del terzo scalino segnata 2. del quale gli altri due punti 3. 3. ci uerranno dati dall'intersecatione della larghezza P. 3. con le due prime aliezac P. 3. e cen la medesn'a regola con facilità grandissima si ritroveranno i termini delli altri scalini, avuertendo, che nello scalino che uiene in faccia su le rivolte del la lumaca , quale è lo scalino 4. 4. 4. 4. si hannio da fare le intersecatione da destra, e da siistra, come a ni petlera di givciio potia neglio comprendere da questo essempio, come da qual sivoglia dich iaratione di parole.
+    </p>
+    <pb n="49"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="50"/>
+    <head>
+     Per disegnare in scorcio due archi con la uista in mezzo. Capitolo XXVI.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     SSENDO spediti dalla diversità delle scale, è tempo di passare ad altra materia, utile a saperla prima che si ragioni delle crociere, e questo sarà il digradare due archi, e prima con la vista in mezzo. Descrivasi dunque il profilo di essi M. sopra la linea del piano nel modo appresso. Descrivinsi due Pilastri le cui base, e capitelli per piùi facilita siano senza membri, con li puri aggetti, e siavi sopra posto l'arco il quale seguita il vivo de pilastri, descrivasi poi sotto la sua pianta, della quale basterà descriverne la metà per essere veduta in faccia, e questa si troverà tirando in lungo due linee corrispondenti al vivo de pilastri negli estremi de quali saranno posti i due quadrati R. R. i quali ci rappresentano il sodo de pilastri, intorno a quali quadrati ne disegneremo due altri più larghi de primi quanto è la larghezza delli aggetti. Sia dunque descritto il profilo M. e la pianta H. segnati con numeri come nella figura si vede, e per dare principio all'operatione, posti i fili a luoghi loro descriviamo le linee a squadra, le quali ora per la scarsità del luogo si metteranno in uno altro foglio . Distendasi il silo D. al punto 3. inferiore del profilo, e presa la distanza tra P. e la sua intersecatione sopra la linea del taglio, si ha da incrociare con le due larghiezze tratte dal filo L. disteso a punti 3. 3. della pianta, e ci darà intersecata da destra, e da sinistra i punti 3. 3. queste due medesime larghezze intersecate pure da destra, e da sinistra con l'altezza presa dal punto 3. più alto del profilo, ci daranno nel digradato i punti 3. 3. superiori, che faranno le due larghezze delli aggetti i punti 1. 1. inferiori dello scorcio nascono dalle due larghezze prese col filo L. disteso a punti 1. 1. della pianta, è intersecate con l'altezza presa col filo D. drizzato al punto 1. inferiore del profilo, e l'altezza tolta dal punto 1. superiore del profilo incrociata con le due pure ora nominate larghezze, ci da i punti 1. 1. superiori nello scorcio, e questi quattro punti segnati 1. I. 1. 1. sono i termini de pilastri . I punti che si ueggono segnati nello scorcio 2.2. derivano dalla larghezza tolta dal punto 2. della pianta, e intersecata con le due altezze tratte da i punti 2. 2. del profilo, la larghezza tolta dal punto 4. della pianta, e intersecata con le due altczze tratte da i punti 4.4. del profilo, ci da nello scorcio i punti 4. 4. c havendo trovato tutti questi termini, descriviamo i due pilastri più vicini alla vista, e per di segnare il loro arco piglisi nella linea Z.O. il punto i. alto al pari de punti 3.c 3. et fattolo centro descriviamo sopra esso due mezzi cerchi corrispondenti alla larghezza de uivi de pilastri, e questi saranno la larghezza di detto arco, la cui grossezza si disegnerà intorno al centro 2. alto quanto i punti 4. 4. secondo lo interuallo delle grossezze de'pilastri, seguendo poi puntalmente il medesimo ordine, cavando le misure dall'altra parte della pianta, e del profilo, si disegneranno gl'altri due pilastri più lontani con il loro arco .
+    </p>
+    <pb n="51"/>
+    <figure type="ornement"/>
+    <pb n="52"/>
+    <pb n="53"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="54"/>
+    <head>
+     Per disegnare in scorcio due archi come i passati fuori di squadra. Capitolo XXVII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     IRISI la linea del piano A. sopra la quale si descriva solamente il profilo D. della metà de due pilastri, perché così ci conuerrà fare mediante la strettezza del luogo, e sopra detto profilo, sia il profilo dell'arco , sia poi sotto la linea del piano descritta la pianta A. corrispondente al profilo disegnando i quattro quadrati H: e X. e Q. eL. iquali ci iappresentino i uivi de pilastri, e intorno ad essi siano gl'altri maggiori quadrati tanto più larghi, quanto le base, e gl'agetti, i quali si suppongono essere della medesima grandezza, si allargano più de pilastri, e avuertiscasi come sempre si deve fare, che la pianta sia posta a piombo sotto al profilo, e dalla linea del piano lontana quanto si vuole, che uenga fuori di squadia. Tuit. poi la linea del taglio C. P. B. e posti i fili a luoghi loro, e contrasegnati la pianta, el profilo con numeri tra loro corrispondenti come nell'essempio si vede, il che si fa perché dovendo noi disegnare i pilastri più alti di quello del profilo si caveranno con l'intersecarli di sopra, e di sotto di debita proportione . Sia ora nostra prima intentione disegnare il pilastro, che nell'altra figura si vede disegnato X. piglisi la minore largl ezza P. 1. tratta dalla pianta X. et intersechisi sopra, e sotto le linee a squadra con la minore altezza P. 1. corrispondente ad essa, e haremo i punti 1. 1. altezza del pilastro X. la cui larghezza segnata pure de gl'altri due numeri 1. 1. ci verrà data dalla medesima altezza P. 1, intersecata con la maggiore iarghezza P. 1. della pianta X. i punti 2. 2. i quali nello scorcio ei rapresen tano la grossezza del medesimo pilastro X. ci saranno dati dall'intersecatione delle minore altezza, e larghezza P. 2. l'altezza P. 3. incrociata con le due larghezze P. 3. e P. 3. ci dara i quattro estremi termini del capitello, e della base segnati 3. 3. 3. 3. e gl'altri due termini segnati 4. 4. ci saranno dati dall'altezze P. 4. e larghezza P. 4. e haremo tutti i termini del pilastro X. tra i quali tirando le linee, come si vede, il detto pilastro sarà disegnato nel medesimo modo , incrociate l'altezze con il medesimo ordine, con le corrispondenti larghezze tolte dalla pianta Q. ci daranno il pilastro Q. e parimente seguendo il medesimo ordine precisamente dall'altezze, tolte dall'altra parte del profilo, e intersecate ora con le larghezze tolte dalla pianta H. Ora con le altre tolte dalla pianta L. caveremo gl'altri due pilastri H. e L. per descrivere poi l'arco sopra i due maggiori pilastri, dividasi per mezzo la distanza, che è tra le piante X. e Q. de punti 1. 2. come si uede e disteso il filo L. al punto t. e presa tal larghezza sia incrociata con la maggiore altezza P. 1. e ci darà il punto 1. sopra il quale fatto centro con l'interuallo de due punti 3. 3. si descriveranno due mezzi cerchi per la larghezza di detto arco, tolta poi dalla altra pianta la larghezza P. 2. e incrociata con la maggiore altezza P. 2. ci darà l'altro centro 2. sopra il quale con l'interuallo corrispondente al canto del pilastro destro segnato 2. 2. si descriverà la groslezza del medesimo, arco, e sopra il medesimo centro, con la distanza corrispondente al canto 2. 2. dell'altro pilastro si descriverà quel poco superiore della medesima grossezza, che apparisce, il cui resto ci si occulta . Con il medesimo ordine si descriverà l'arco delli altri due pilaitri .
+    </p>
+    <pb n="55"/>
+    <figure type="ornement"/>
+    <pb n="56"/>
+    <pb n="57"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="58"/>
+    <head>
+     Per disegnare due archi, o vero due porte l'uno a destra, et l'altro a sinistra. Capitolo XXVIII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     escrivasi sopra la linea del piano il profilo d'uno de detti archi, il quale sia H. ciò è descrivinsi le larghezze de due pilastri S. e R. e sopra essi si volghino i mezzi cerchi, il maggiore de quali siadiviso in quante parte uguali, e i punti delle divisioni siano segnati 1. 2. 3. 4. 5. 6. 7. 8. a i quali siano tirate dal centro linee rette, le quali segheranno il minore mezzo cerchio in altre tante parti uguali le quali siano segnate con le lettere A. B. C. D. E. F. G. H. D. Descrivasi por sotto la linea del piano la metà della pianta X. in questa maniera. Prolunghinsi i pilastri del profilo per la metà della distanza, che uorremo sia tra luna, e l'altra porta, et nelle estremità si disegnino i due quadrati S. e R. i quali ci rappresenteranno le base de'pilastri, e si tirino dall'uno quadrato all'altro, le due linee come si vede, le quali ci dinoteranno la grossezza dell'arco. Tirinsi finalmente da i punti delle divisioni de i mezzi cerchi a piombo linee alle due linee pure ora tirate dall'un' quadrato all'altro, e dove le cadano siano contrasegnate con i medesimi numeri o vero lettere. E per dare principio all'operatione, tirisi la livea del taglio C. P. B. e posti i fili a luoghi loro dirizzinsi l'uno a punti del profilo, e l'altro a quelli della pianta, e notisi sopra la linea del taglio le larghezze, e altezze al modo solito, tirinsi poi le linee à squadra R. S. e O. Z. e presa la minore altezza P. 1. intersecata da destra, e da sinistra con le due larghezze P. 1. ci darà i punti 1. 1. e le medesime larghezze intersecate con la maggiore altezza P. 1. ci daranno i punti più alti 1. 1. le due larghezze P. 2. incrociate pure da destra, e da sinistra con l'altezza P. 2. ci daranno i punti 2. 2. e l'altezza P. 3. intersecando le due larghezze P. 3. ci darà i punti 3. 3: similmente l'altezza P. 4. intersecata con le due larghezze P. 4. darà i punti 4. 4. l'altezza P. 5. intersecando la larghezza P. 5. darà il punto 5. et nel medesimo modo si troveranno nello scorcio gl'altri punti del mezzo cerchio superiore 6. e 7. e 8. sin che le due altezze P. 9. incrociate con la larghezza P. 9. ci daranno i punti 9. 9. e sino a qui haremo disegnati i termini di fuori delli archi, e per disegnare i termini di drento piglisi la minore altezza P. A. la quale intersecata con le due larghezze P. A. ci darà i più bassi punti A. cA. e le medesime altezze incrociandosi con la maggiore altezza P. A. daranno ipiù alti punti A. cA l'altezza P. B. intersecando le due larghezze P. B. darà i punti B. B. e ritrovereno i punti C. e C. dalla intersecatione dell'altezza P. C. con le due larghezze P. C. seguendo poi d'intersecare l'altezza P. D. con la larghezza P. D. darà il punto D. e procedendo con il medesimo ordine, troveremo nello scorcio gl'altri punti E. e F. G. eH. sino a che le due altezze P. e D. ci daranno intersecando la larghezza P. D. i punti D. e D. i quali finalmente trovati sarà trovato tutto quello, che si cercava per che tirando le linee come si vede, haremo messo in prospettiva ledue porte come era nostra intentione.
+    </p>
+    <pb n="59"/>
+    <figure type="ornement"/>
+    <pb n="60"/>
+    <pb n="61"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="62"/>
+    <head>
+     PPer disegnare in scorcio la crociera con la vista in mezzo. Capitolo XXIX.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     BAREMO la presente operatione con semplici linee per fare minore confusione, e per mostrare più distintamente l'effetto della crociera però descrivasisopra la linea del piano il profilo X. tirando le due linee 1. 1. c 9. 9. c sopra esse voltando il mezzo cerchio, diviso come si vede in quante parti uguali ci piacerà, disegnisi poi sotto il profilo, la sua pianta V. la quale sia la metà d'un'perfetto quadrato e dal punto di mezzo O. si tirino le due diagonali O. 9. e O. 1. e tirate dalle divisioni dell'arco linee a piombo verso la pianta, seghino le linee diagonali, e la linea inferiore 1. 9. ne punti contrasegnati con i numeri corrispondenti 2. 3. 4.5. 6. 7. 8. sia poi tirata la linea del taglio C. P. B. et posti i fili à luoghi loro, e per il poco spatio si descriveranno le linee a squadra nella seguente figura; e per dar principio ad una spedita operatione, piglisi le due altezze P. 1. le quali tra le linee a squadra siano intersecate con la larghezza P. 1. da destra, e da sinistra, le quali ci daranno i quattro Punti 1. 1. c I.1. l'altezza P. 2. intersecata con le due larghez ze, tolte dalla pianta de'due corrispondenti punti segnati 2. e 2. incrociate da destra, e da sinistra, ci daranno i punti 2. e 2. e con il medesimo ordine le due larghezze tolte da i due punti della pianta 3.3. intersacate con l'altezea P.3. pur sempre da destra, e da sinistra, ci termineranno i punti 3. 3. e seguendo il medesimo ordine di incrociare ciascheduna altezza con le sue due corrispondenti larghezze, con agevolezza mirabile troveremo i rimanenti punti segnati 4. 4. e5. 5. c6. 6. e7. 7.e8. 8. e finalmente incrociando le due altezze P. 9. con la medesima lunghezza P. 9. haremo nello scorcio gli altri punti 9. 9. c 9. 9. trovati i punti tirinsi le linee rette 1. 1. e 1. 9. e 9. 9. e sopra i più alti punti 1. 1. disegnisi il mezzo cerchio, come ancora sopra li 9. 9. gl'altri due mezzi cerchi che scorciano, e gl'archi della crociera si disegneranno con diligenza, e con l'aiuto delle linee curue sopra i punti ritrovati, e havendo possedute le cose sino a qui dimostrate, non sarà difficile il difegnare una crociera eon i sua pilastri base, et capitelli conforme a quella, che nel secondo libro si vede posta a carte 49.
+    </p>
+    <pb n="63"/>
+    <figure type="ornement"/>
+    <pb n="64"/>
+    <pb n="65"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="66"/>
+    <head>
+     Per disegnare in scorcio la crociera fuori di squadra. Capitolo XXX.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ESCRIVISI il profilo X. con semplici linec alto dalla linca del piano A. la metà di quello, che dourebbe essere rappresentato dallo scorcio, il che facciamo qui per scarsità di luogo . Descrivasi poi sotto la linea del piano l'intera pianta V. lontana da essa quanto vorremo che lo scorcio sia fuori di squadra, e sia detta pianta un'persetto quadrato, corrispondente alla larghezza del profilo, il cui arco sia diviso in quante parti uguali ci piacerà, come che in questo luogo si uede diviso in otto parti, e da i punti delle divisioni tirata la linea a piombo uerso la pianta, notinsi con numeri corrispondenti le loro intersecat oni, sopra le due diagonali, e l'altre due linee come nel esempio si vede E. per dare principio ad una bella, e facile operatione, mettinsi in ordine le linee a squadra, che nell'altio disegno si veggono, delle quali però la Z. O. sia prolungata di sotto ancora, che così è necessario fare non essendo disegnata se non la metà dell'altezza del profilo, e posti i fili a luoghi loro, e tirata la linea del taglio, prendasi l'altezza tolta dal punto 1. del profilo, la quale sia incrociata con le due larghezze tratte da i punti 1.1. della pianta sotto , e sopra la linea R. O. e ci darà i quattro punti 1. 1. c 1. 1. l'altezza presa dal punto 9. del profilo intersecando pure sopra, e sotto la linea R. O. ci darà le due larghezze prese da punti 9. della pianta, si noterà gl'altri punti quattro 9. 9. c 9. 9. tra i quali tireremo tutte le sinee rette, come nello scorcio si vede, è sopra i punti 1. 1. descriveremo il mezzo cerchio X. e sopra i punti 9. 9. l'altro mezzo cerchio V. Resta ora a descrivere i quattro cerchi, che scorciano i quali si vedono puntati, e questi descriveremo con bello ordine, e gran facilità nella maniera appresso . Piglisi l'altezza P. 2. e intersechisi con le quattro altezze tolte dalla pianta de quattro punti 2. 2. e 2. 2. la quale ci darà nello scorcio i punti 2. 2. e 2. 2. similmente l'altezza P. 3. intersecando le quattro larghczze P. 3. darà i quattro punti 3.3 . e 3. 3. l'altezza P. 4. incrociata con l'altezza P. 4. darà i quattro punti 4. 4. c4.4. l'altezza P. 5. intersecata con i tre punti 5. 5. 5. delle larghezze darà i punti 5. 5. 5. e seguendo questo ordine sino al fine troveremo haver notato tutti i punti de'quattro archi con esquisita facilità, i quali scorciano, e sopra i quali si descriveranno con diligente mano gl'archi che nell'esempio si vedano puntati, e chi possederà bene questa operatione, potrà con facilità disegnare la crociera fuor di squadra con tutti i sua membri, simile a quella che si vede disegnata nel secondo libro a carte 50.
+    </p>
+    <pb n="67"/>
+    <figure type="ornement"/>
+    <pb n="68"/>
+    <pb n="69"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="70"/>
+    <head>
+     Per disegnare in scorcio il piedestello Toscano. Capitolo XXXI.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     IRISI la linea del piano A. sopra la quale si descriva il profilo M. con i debiti membri, e con le proprie proportioni, che l'architettura ci insegna, e sotto la linea del piano descrivasi la sua pianta N. lontana da essa quanto vorremo, che sia veduto fuori di squadra. la quale sarà ordinata di cinque quadrati, il nascimento de quali deriva dalle cinque diverse larghezze de gl'angoli del profilo, e siano la pianta, e il profilo contrasegnati con numeri tra loro corrispondenti, come nell'esempio è manifesto, e posti i fili a luoghi loro, descrivinsi le linee a squadra, per una delle quali per la strettezza del luogo ci seruiremo della stessa linea del piano tirandoui sopra l'altra perpenidiculare O. Z. e presa la minore larghezza P. 2. intersechinsi con le quattro altezze P. 2. e ci darà i quattro punti B. D. I. L. le medesime quattro altezze intersecate con la maggiore altezza P. 2. ci daranno i quattro punti C. E. K. M. le due altezze P. 3. incrociate con la minore altezza P. 3. daranno i punti F.G. e intersecate con la maggiore ci daranno i punti H.I.I. duoi punti A. O. ci saranno dati dalla intersecatione delle due altezze P. 6. con la minore iarghezza P. 6. e le medesime altezze con la maggiore larghezza P. 6. daranno i punti P. B. l'altezza P. 8. incrociata con le due larghezze P. 8. darà i punti E. D. i punti G. F. vengono terminati dall'altezza P. 4. incrociata con le larghezze P. 3. e P. 4. oltre a questo la minore larghezza P. 5. incrociando le quattro altezze P5. darà i quattro punti K. L. N. O. i punti M. N. vengono dalle intersecatione delle duc altezze P. 7. con la minore larghezza P. 7. il punto Q. uiene dalla larghezza P. 10. incrociata con l'altczza P. 10. la larghezza P. 8. intersecata con l'altezza P. 8. ci assegna il punto C. e finalmente il punto H. ci sarà assegnato dalla intersecatione della larghezza P. 4. con la larghezza P. 4. e il punto P. dà l'altezza P. 5. e la larghczza magiore P. 5. e havendo trovato tutti in punti tirinsi le linee rette, con le loro modinature, e sarà digradato il picdestello come si uede nell'esempio.
+    </p>
+    <pb n="71"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="72"/>
+    <head>
+     Per disegnare in scorcio la base <placeName ref="#Toscane">Toscana</placeName>. Capitolo XXXII
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ESCRIVASI il profilo R. della basa, sopra la linea del piano A. conforme a precetti d'architettura, e sotto si descriva la meta della pianta H. secondo la larghezza del piano di detta base, et intorno al centro X. si descriva il maggior cerchio causato dal maggiore aggetto del toro, e il minore secondo il vivo della colonna, e in oltre il mezzo cerchio A. B. E. corrispondente all'imo scapo della colonna, e gl'altri due mezzi cerchi secondo la quantità 8. 6. e 2. notati nel profilo, e nel posamento del toro, e diviso il maggiore mezzo cerchio in parti uguali tirinsi da i punti delle divisioni linee rette al centro X. le quali divideranno gl'altri mezzi cerchi con la medesima portione, e da i punti delle divisioni, si tirino linee a piombo dal profilo, le quali seghino le linee rette conforme a i cerchi cavati da loro, e notinsi i segamenti con numeri, e lettere corrispondenti alla pianta, come si vede, e posti i fili a luoghi loro, e tirata la linea del taglio tirinsi le linee à squadra R. S. c O. Z. e per dare principio all'operatione intersechinsi tutte le larghczze tratte dal mezzo cerchio minore con l'altezze corrispondenti ad esse, prese da i punti della linea del profilo corrispondente al cerchio, e questo si faccia da destra, e da sinistra, e haremo descritto il cerchio, che ci rappresenta il vivo della colonna, le larghezze tolte da punti del mezzo cerchio A. B. C. D. E. F. incrociate con l'altezze corrispondenti ad esse, prese da i punti delle due linec A. B. C. D. E. F. daranno nello scorçio i cerchi A. B. C. D. E. F. le larghezze, prese da punti del mezzo cerchio, causati dal posamento del toro, intersecati con le altezze corrispondenti, tolte dalla linea P. D. ci daranno il posamento del toro sino al punto 5. Ma per disegnare giusta la volta di detto toro, traportinsi i punti della volta 6.7.8. paralelli alla linea C. D. sino al mezzo, dove cadrebbono le perpendiculari, le quali fussero tirate dalla pianta da i punti 6. 7.c8. de i maggiori cerchi . piglinsi dunque tali larghezze, et siano incrociate con le loro corrispondenti altezze, che in tal modo ci daranno la uolta del toro 6. 7.8. Il punto che è notato nel profilo corrispondente al punto 9. nella pianta è disegnato per pigliare l'altezza, e larghezza dove uiene a finire la volta del toro, la quale va occulta, Restaci a mettere in scorcio il plintio della cui operatione per essere facilissima, e nota, non diremo altro, e con tal ordine si disegnerà in scorcio ogni spetie di base, come nel secondo libro si vede a carte 46. 47. 48.
+    </p>
+    <pb n="73"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="74"/>
+    <head>
+     Per disegnare in scorcio il Capitello Toscano. Capitolo XXXIII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ESCRIVASI il suo profilo C. secondo i precetti d'architettura, e questo si faccia elevato sopra la linea del piano, accio si possa vedere sotto il vivo della colonna, e si descriva la metà della pianta X. corrispondente al profilo, facendo i due mezzi quadrati corrispondenti all'abbaco, e dentro ad essi i mezzi cerchi secondo le misure de membri particolari del capitello, siano poi come nella passata divisi i cerchi in parti uguali, e si tirino linee à piombo dalla divisione verso il profilo, le quali seghino le linee corrispondenti a cerchi, e siano notate, di numeri, e di lettere conformi alla pianta, e accio si possa scoprire il disotto, vseremo un'sol filo, e questo lo porremo nella linea del piano . Piglinsi finalmente le linee a squadra R. O. S. Z. tra le quali incrociando da destra, e da sinistra le altezze, e larghezze corrispondenti prese dal profilo, e dalla pianta del vivo della colonna, si haura in scorcio il cerchio basso, che ci figura il detto vivo, e procedendo come più volte si è detto col medesimo ordine si troverà con facilità tutti i punti delli altri membri. Per trovare poi il corpo dell'vuovole, dividasi il suo profilo per mezzo del punto O. secondo la cui quantità si descriverà nella pianta un'mezzo cerchio, nel quale si piglieranno i punti Y. X. E. da essi si tireranno a piombo verso il profilo due linee, lequali in esso ci daranno i punti corrispondenti Y. X. dall'altezze, e larghezze de quali si caveranno nello scorcio i punti Y. X. nella volta di detto vuovolo, similmente si descriveranno i punti dell'abbaco, facendo occulti quelli, a quali vanno dritte le linee inclinanti, e non si maravigli alcuno della nostra brevità, per che siamo sicuri, che chi haurà, preso bene le pratiche, e operationi sin qui insegnati più comodità trarrà dal vedere disegnate le presente operationi dichiarate con brevità, che se con lunghi, e confusi ragionamenti fussero dimostrate, e havendo appreso il modo del digradare il capitello Toscano procedendo con modo simile, si disegneranno gl'altri, come si vede nel secondo libro a carte 45. 46. 47. 48.
+    </p>
+    <pb n="75"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="76"/>
+    <head>
+     Per disegnare in scorcio la Cornice <placeName ref="#Toscane">Toscana</placeName> Cap. XXXIIII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ESCRIVASI sopra la linea del piano il suo profilo X. con i sua membri proportionati, e sia da essa tanto lontano, che si squopra il disotto dell'architrave, e sotto a piombo gli sia descritto la pianta Q. composta di tanti rettangoli, quanti sono i membri particolari del profilo, tra loro differenti, come più distintamente si scorge nel disegno che dalle parole, e contrasegnati il profilo, e la pianta di numeri tra loro corrispondenti, e prese con i soliti fili tutte le misure, faccinsi le linee a squadra R. O. Z. e intersecate tutte le altezze prese da i punti più in su la man destra del profilo, con le larghezze corrispondenti, tolti da i punti destri della pianta, ci daranno tutti i punti dello scorcio,i quali dintornano la parte della cornice alla vista più vicina; le misure poi, cioè l'altezze prese da i punti sinistri del profilo, e intersecate con le larghezze tolte pure da punti della parte sinistra della pianta, daranno il dintorno più dalla vista remoto, alquale da i punti pur ora trovati, si tireranno le linee rette cadenti, che figureranno la cornice, che scorcia dintornando con accuratezza i membri de dintorni curui come l'uvovolo, il suo bastoncino, e tirando poi dal dintorno propinquo alla vista verso la linea Q. D. linee paralelle alla linea R. O. sarà disegnata l'altra parte della cornice, che non scorcia, e con tal regola si porranno in prospettiva, tutti gl'ordini di cornice, come nel secondo libro fi vede a carte 45.
+    </p>
+    <pb n="77"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="78"/>
+    <head>
+     Per mettere in scorcio il Casamento. Capitolo XXXV.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ISEGNISI il suo profilo in maestà sopra la linea del piano, come nell'esempio si vede, segnato X. e sotto lontano da detta linea quanto ci piacerà sia descritta la pianta M. posta a piombo sotto il profilo, facendo le larghezze delli scalini innanzi alla porta, e le corniçi e il muro segnato O. che rigira intorno, e tutto sia contrasegnato quodfi numeri corrispondenti, e si tiri la linea del taglio C. P. B. e siponga i fili a luoghi loro, e finalmente si descriva le linee a squadra, sequali per la strettezza del luogo habbiamo poste nella seguente carta. e per dare principio siano intersecate le altezze tratte dall'estremità del profilo vicina alla linea del taglio con le loro corrispondenti larghezze, e ci daranno 5.5.6.5.7. alla vista più vicino, et il più lontano ci verrà terminato dall'altezze dell'altro estremo dintorno dalla linea del taglio più remoto, incrociato con le sue corrispondenti larghezze, ilquale trovato tirinsi le linee inclinanti, che nello scorcio ci figurano la cornice sotto le seconde finestre, e il supremo corniçione, e finalmente perché giudichiamo non potersi dichiarare più facilmente con parole (à quelli però che possederanno bene le cose dimostrate sino a qui) quanto è necessario che çon l'esempio de presenti disegni concludiamo, che prese tutte le misure, e intersecate corrispondentemente tra di loro, con gran facilità si troveranno tutti i termini della scala, delle finestre, e della porta, tra i quali tirando linee, come bene ci rappresenta il disegno dello scorcio, sarà disegnato in prospet tiva il nostro casamento, e con la medesima regola si disegneranno gl'altri con i loro adornamenti, conforme a quello che appare nel secondo libro a carte 51.
+    </p>
+    <pb n="79"/>
+    <figure type="ornement"/>
+    <pb n="80"/>
+    <pb n="81"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="82"/>
+    <head>
+     Per mettere in scorcio la palla con la vista in mezzo. Capitolo XXXVI.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     AVENDO sino a qui dato rego le bastanti per mettere in prospettiva tutti i corpi di architettura, non sarà cosa inutile mostrare con quali mezzi si possino digradare i corpi geometrici, e prima tratteremo della sphera, o verò palla che chiamare la vogliamo. Sia adunque nostra intentione mettere in prospettiva una palla, e prima descrivasi il suo profilo N. il quale sara un'cerchio il maggiore che sia nella palla, che noi vogliamo rappresentare, e sia il cerchio N. il quale si divida in quante parti uguali ne piace, pur che la moltitudine loro sia misurata dal 4. che così ci verrà piu facile l'operatrone, e volendo con la vista in mezzo, basterà mettere in scorcio la quarta parte . Dividasi dunque in parte 16. tra le quali siano tirate linee rette, come nell'esempio si vede . disegnisi poi sotto la linea del piano; la metà della sua pianta A. la quale sarà composta di quattro mezzi cerchi, i diametri de quali saranno uguali alle linee pure ora drento al profilo tirate, e diviso il maggiore mezzo cerchio in parti uguali, in grandezza alle parti del profilo, le quali in numero saranno la metà, tirinsi dalle divisioni al centro linee rette, le quali segheranno proportionatamente gl'altri cerchi, e tirinsi linee perpendicolari, alle linee rette del profilo da ciascuno segamento a ciascuno mezzo cerchio, e questo si faccia solamente per una quarta parte, che tanto basta, e si contrasegnino i termini della pianta, e del profilo, di lettere, e numeri tra loro corrispondenti, ponghinsi poi i fili D. L. a luoghi loro, e il punto D. sia tanto alto sopra la linea del piano, quanto è l'altezza del semidiametro del profilo, accio la vista sia in mezzo, e si tiri la linea del taglio C. P. B. e le linee a squadra R. S. e O. Z. Ordinate tutte queste cose, per dare principio all'operatione, mettasi in scorcio il cerchio maggiore rappresentaci nella pianta per il iczzo cerchio A. B. C. D. intersecandò le larghezze tolte da i suoi termini con la medesima altezza P. A. la quale sola basta come e manifesto, e si faccino le interseca tioni da destra, e da sinistra, e mettere in scorcio il prossimo cerchio 4. 5. 6. siano intersecate le sue larghezze, con le altezze corrispondenti da destra, e da sinistra, e gl'altri duoi seguenti cerchi ci verranno terminati dalle intersecationi dell'altezze, con le loro corrispondenti larghezze, e finalmente l'altezza P. F. ci darà nello scorcio il punto F. e haremo trovati tutti i termini della metà inferiore della palla da i quali facilissimamente, se ne caverà l'altra metà, e finalmente tirando tra essi linee come l'esempio ne mostra, se saranno rette haremo una palla divisa in faccie, e con simile regola si potranno digradare i cinque corpi regolari, come nel secondo libro si vede a carte 5 3.
+    </p>
+    <pb n="83"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="84"/>
+    <head>
+     Per mettere in scorcio la palla pendente con la vista fuori di squadia. XXXVII. Cap
+    </head>
+    <figure type="ornement"/>
+    <p>
+     AVENDO qui a dietro dimostrato il modo di mettere in scorcio la palla con la vista in mezzo, metteremo hora la sopradetta. palla in prospettiva pendente, però descrivasi prima il suo profilo B. il quale sia un'cerchio de maggiori, che si descrivano sopra detta palla, tirisi poi il diametro A. C. che penda quanto si vuole, che penda la detta palla, e detto cerchio B. sia diviso in quante parti vguali ne piace, pur che siano misurate dal quattro, che cosi facendo verrà piu facile, dividasi dunque in parti dodeci, tra lequali siano tirate le linee pendenti, come si vede; sia di poi tirata sotto la linea del piano A. la linea C. D. equidistante alla linea del piano, lontana quanto si vede, che venga fuori di squadra il detto corpo, e sopra la linea C. D. si mandino a piombo linee da i segamenti delle linee pendenti dal diametro A. C. del cerchio B. e intorno a tutti i punti trovati nella linea C. D. si defcriveranno cerchi secondo l'interuallo. 1. e 4. 3. e 6. 4. e 7. 5. e 8. avuertendo, che detti interualli si hanno a pigliare a piano, e sia ciascuno cerchio della pianta spartito in parte dodeci vguali, e piglinsi le misure d'ogni cerchio, e sieno traportate nelle loro linee pendenti del cerchio B. come si vede contrasegnato di numeri simili, le quali rappresentano i diametri de cerchi della pianta . Pongasi poi i fili D. e L. a i loro luoghi, e il filo D. si porrà alto quanto si vorrà scoprire del disopra della palla; tirisi poi la linea del taglio C. P. B. e la linea dello squadro Z. O. R. e per dare principio all'operatione, sia presa nel profilo l'altezza P. A. e nella pianta la larghezza P. A. lequali intersccate da banda destra, ci daranno nello scorcio il punto A. e per mettere in scorcio il primo cerchio sia preso l'altezza P. 1. e la larghezza P. 1. e intersecate come si è detto, si harà il punto I. e così seguendo dell'altre misure corrispondenti l'una all'altra, haremo il restante del primo cerchio, e così seguendo ancora delli altri cerchi, si condurrà il corpo soptadetto col tirare le linee da un'punto all'altro, come per l'esempio dello scor ciò si vede, e questo modo sarà non solo sufficiente per digradare la palla pendente, ma ancora qual si voglia altro corpo pendente, come appare nel secondo libro a carte 5 9.
+    </p>
+    <pb n="85"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="86"/>
+    <head>
+     Per digradare in scorcio una palla, la quale piegata in mezzo per l'altezza, et posta in uno angolo, o interiore, o esteriore apparisca tonda. Capitolo XXXVIII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     JIACEVOLISSIMO è l'inganno della presente operatione, non solo per la nouità del concetto, quanto per la facilità sua, non variando cosa alcuna dalla passata, saluo che la grandezza della pianta, la quale si pone non corrispondente al profilo maggiore, e per venire al fatto, proponghiamo voler mettere in scorcio, la palla medesima della quale di sopra si è trattato, e ripiglisi il suo profilo N. e la sua pianta, divisi, e distinti nelle medesime parti apunto, ma la sua pianta B. sia posta in disparte, come nell'esempio appare, dovendosi sotto la linea del piano disegnare la maggiore pianta Q. la quale si troverà in questo modo. prolunglusi la linea P. D. della pianta B. sino al punto D. e volendo che la palla apparisca tonda posta sopra un'angolo retto, piglisi la linea H. X. eguale al semidiametro A. A. se sopra un'angolo acuto piglisi la H. X. maggiore, se sopra un'angolo otteso piglisi la H. X. minore. Ora sia uguale, e congiungasi la linea X. A. c per i punti del maggiore mezzo cerchio A. B. C. D. tirinsi le linee D. O. e C. S. c B. R. paralelle alla P. X. e la linea X. O. R. S. A. sia trasportata così divisa sopra la linea del piano, la quale sarà la F. O. S. R. A. e fatto centro F. con gl'interualli de quattro punti O. S. R. A. descrivansi i quattro mezzi cerchi della pianta Q. il maggiore de quali sia diviso in tante parti uguali, in quante è diviso la metà del profilo, e siano le divisioni A. B. C. D. dalle quali al centto F. si tirino le linee rette, le quali dividino gl'altri mezzi cerchi, con le medesime proportioni, le divisioni de quali siano contrasegnate, con numeri conformi a numeri della pianta B. e saranno ancora conformi a i numeri del profilo, e havendo trovata la pianta Q. il restante dell'operatione non sarà in parte alcuna differente dall'operatione passata. Operisi adunque che intersecandosi da destra, e da sinistra le larghezze tolte dalla pianta Q. con le corrispondenti altezze prese dal profilo, troveremo i termini della metà della palla, che cercavamo, e l'altra metà (havendo come di sopra posto la vista in mezzo) sarà simile in tutto alla già ritrovata, e questa palla piegata come si è detto ad angolo uguale all'angolo X. apparirà rotonda come la passata.
+    </p>
+    <pb n="87"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="88"/>
+    <head>
+     Per mettere in scorcio il mazzocchio di quattro faccie. Capitolo XXXIX.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ESCRIVASI la linea del piano A. e si descrivino due mezzi cerchi intorno al centro C. secondo la grandezza, e grossezza che uogliamo il mazzocchio, e sopra le linee 9. I. e A. 1. che sono le differenze de loro diametri, si descrivino i due quadrati X. X. e congiungasi la linea superiore A.1.e haremo la pianta O.e il profilo B. dividasi il maggiore mezzo cerchio in quante parte eguali ci piacerà, e si tirino dalle divisioni al centro linee rette, lequali seghino l'altro mezzo cerchio secondo le medesime proportioni, e siano le divisioni del maggic re, segnate con i numeri,e l'altre con le lettere,e dalle dette divisioni si tirono linee perpendicolari all'un a, e all'altra linea del profilo, contrasegnando i loro termini con lettere, e numeri corrispondenti alla pianta. Tirisi finalmente la linea del taglio C. P. B. e posti i fili a luoghi loro si tirino le linee a squadra. R. S. e O. Z. e perché l'operatione restante e facilissima senza più allargarsi in parole intersecando da destra, e da sinistra le larghezze del maggiore mezzo cerchio, con le altezze prese da i punti corrispondenti della più alta linea del profilo, ci uerranno terminati i punti del maggiore, e del più alto cerchio, che si uegga nel digradato, le medesime largliczze incrociate con l'altezze tolte da i punti corrispondenti della piu bassa linea della pianta, che è la linea del piano, ci daranno il maggiore cerchio più basso nel digradato, disegnandone di esso però quella sola parte, che all'occhio si rappresenta, e con il medesimo ordine le larghezze prese dal minore mezzo cerchio incrociate da destra, e da sinistra, con le maggiori, e con le minori altezze tolte da i termini corrispondenti delle due linee della pianta, termineranno i punti de due minori cerchi del digradato, notandone nel più basso quel li, soli, che alla uista si appresentano, e trovati tutti i termini, tirinsi tra essi le linee, come ne mostra l'esempio, e hauremo il mazzocchio in scorcio, e con simile regola si tireranno diverse forme di mazzocchi come quelle, che nel secondo libro si uegono a carte. 55. 58. 59.
+    </p>
+    <pb n="89"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="90"/>
+    <head>
+     Per disegnare in scorcio la Piramide equilatra traforata. Capitolo XXXX.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ESCRIVASI sopra la linea del piano il triangolo 2. 4. 6. dentro al quale ne sia descritto un'altro tanto minore quanto vogliamo che sia la grossezza de regoli, de quali si ha da fingere, che sia composta la piramide, e negl'angoli siano disegnate le incastrature de i detu regoli come nel disegno si vede, e questo sarà il profilo X. della piramide, fotto ilquale si disegnerà la metà della pianta. Z. volendo che non sia veduto fuori di squadra, che se lo volessimo fuori di squadra faremo tutta la pianta come più volte haviamo insegnato, e volendo che lo scorcio torni con una faccia verso la vista facciasi la pianta con una faccia verso la linea del taglio, e sia detta pianta la metà del triangolo eguale al profilo, disegnato con le sue incastrature corrispondenti a quelle del profilo, e sia detto profilo contrasegnato con numeri, e lettere corrispondenti alla pianta, e per cominciare l'operatione, tirisi la linea del taglio, c linee a squadra R. O. S. Z. e ponghinsi i fili a luoghi loro, e incrociata l'altezza P. 2. con la larghezza P. 2. da destra, e da sinistra darà i punti 2. 2. e ponghisi sopra la linea O. Z. l'altezza P. 4. e congiungasi le tre linee 4. 2. 2. 2.c2.4. c haremo l'estremo dintorno esteriore della piramide, l'altezza P. 3. con la larghezza P. 3. darà i punti 3. 3. c l'altezza P. 5. si traporti sopra la linea O. Z. et giungasi l'altre tre linee 5. 3. e 3. 3. e 3. 3. e haremo la larghezza de regoli verso la vista ; la larghczza P. 7. con l'altezza P. 7. terminerà i punti 7. 7. e l'altezza P. O. sia segnata nella linea O. Z. e congiungasi l'altre tre linee O. 7. e7.7.e 7. O. grossezza de det ti regoli . Pongasi l'altezza P. 9. sopra la O. Z. eintersccata l'altezza P. C. da basso con la larghezza P. C. ci darà i punti occulti C. C. a i quali siano diritte dal punto 9. due linee l'altezza P. 1. si ha da traportare sopra la O. Z. l'altezza P. 7. con la larghezza P. 7. darà i punti 7. 7. da i quali siano tirate a dirittura due linee 1. e 7. l'altezza P. 8. con la larghezza P. 8. darà i punti 4. 4. la larghezza P. C. maggiore con l'altezza P. C. più alta darà i punti C. c C. occulti, a quali da punti 4. 4. siano tirate due linee rette, e da i punti 4. 4. ora trovati siano tirate due linee rette, che saranno l'altezza de due regoli che posano, e scorciano, e haremo messo in scorcio la piramide come desideravamo, e con la medesima regola si potranno mettere in prospettiva tut ti i corpi simili come appare nel secondo libro a carte 60. 61. 62. 63. 64. 65.
+    </p>
+    <pb n="91"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="92"/>
+    <head>
+     Per disegnare in scorcio una viola con la uista fuori di squadra. Capitolo XXXXI.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     UNIVERSALE sino a questo giorno, ha tenuto cosa molto difficile il mettere in scorcio corpi regolari, e massime i composti di linee curue come sono la viola, e il liuto, e nel uero uolendo operare eon le regole date da gl'altri, che hanno scritto di prospettiva, troveremo ciò cosa difficilissima. Dunque habbiamo al presente occasione di mostrare la facilità della nostra regola, da che possiamo con essa digradare agevolmente prima la viola, di poi il liuto. Descrivasi dunque per venire al fatto la pianta della viola segnata R. la quale douiamo fare conforme alle misure di una uiola naturale, disegnandoui le rose, il cordiere, il ponticello, et tutte le sue appartenenze, e questa contrasegneremo dalla parte di sotto con i numeri 1. 2.3. 4.5. 6. 7. 7.8. 9. 10. cominciandoci dall'appiccatura del manico sino all'estremità del cordiere, sarà nel medesimo modo segnata di nume ri 1. 2. 3. 4. la parte di sotto della bischeriera, tireremo di poi la linea del piano A. tanto lontana dalla pianta, quanto vogliamo che ella sia fuori di squadra, e sopra essa disegneremo il suo Profilo M. corrispondente alla pianta, e da i punti notati di sotto nella parte della pianta si faranno venire verso il profilo linee a squadra, le quali segheranno ancora la parte superiore di detta pianta, e contrasegneremo la pianta, e il profilo con i medesimi numeri tra loro corrispondenti, e le perpendicolari de punti 5. 6. 7. contrasegneranno segando ancora le rosette . Ora pigliando tutte le larghezze del dintorno della pianta, e intersecandole con le altezze prese da i punti corrispondenti della parte superiore del profilo, haremo il fondo superiore nello scorcio della viola, le medesime larghezze incrociate con le altezze della parte inferiore del profilo daranno il fondo di sotto della viola, ma di queste ne noteremo quelle sole, che si possono appresentare alla vista nello scorcio, facendo il simile dell'altezze, e larghezze del manico, troveremo nello stesso modo i termini del manico digradato come sotto si vede distintamente dall'esempio, e più cluiaramente ancora che con parole possiamo riferirlo; e perché in questa si e disegnata la pianta, e il profilo con il manico verso la linea del taglio, lo scorcio torna con il manico verso la vista, e volendo al contrario si disegnerà detta pianta, e profilo per l'opposito.
+    </p>
+    <pb n="93"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="94"/>
+    <head>
+     Pei disegnare in scor.io un liuto con la uista fuoridi squadra. Capitolo XXXXII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     IRISI la linea del piano A. sopra la quale si facci il profilo X. con le sue fette diminuite secondo la proportione del liuto naturale , le quali siano quattro, uolendo noi rappresentare un'liuto di nove fette, e disegneremo la pianta H. dividendola in nove fette , corrispondenti a perpendicolari, che ci possiamo immaginare, che ci fussero dati da il liuto naturale, che in questo bastera il giuditio più di altra regola, che dare se ne possa; noter emo ancora il suo ponticello, è il cerchio A. A. C. C. che ci rappresenta la rosa; partasi poi il dintorno di fuori, in quante parti ne piace, e nel nostro esempio sia partito in quattordici, dalle quali divisioni si mandino linee perpendicolari alla linea del fondo nel Profilo, contra segnandole con numeri corrispondenti alla pianta, e il simile si farà dell'altre fette ponghinsi poi i fili a luoghi loro, e tirinsi le linee a squadra R. O. Z. Ordinate, e scompartite che sisaranno con diligenza la pianta, e il profilo, non haremo più difficultà nella nostra operatione, perché quello che rimane e facilissimo, e non è differente in parte alcuna dalle cose passate, e perché quello che ci rimane a fare, non si potrebbe dichia rare senza lunghezza di parole, la quale lunghezza apporterebbe più tosto tedio all'operante, che facilità rimetteremo il discretto lettore ad apprendere il restante dal presente disegno, assicurandolo che se haurà bene possedute le altre operationi, insegnate da noi sino al presente, non harà difficultà alcuna, ne in questa ne in qual si voglia altra intrigata operatione, e uolendo il liuto uolto con il corpo all'insù, bestera disegnare il profilo uolto all'insù, e la medesima pianta ci seruirà .
+    </p>
+    <pb n="95"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <pb n="96"/>
+    <head>
+     Per disegnare il finto della Scena talmente che unisca con le case del palco. Capitolo XXXXIII.
+    </head>
+    <figure type="ornement"/>
+    <p>
+     ON sia chi creda come forse credano alcuni, che il punto si possa collocare talmente nella tela del finto, che le case figurate in essa possino apparire da tutte le vedute unite, e continuate con gl'edificij di rilieuo della Scena, perché questo non si può fare atteso che ponendo l'occhio solamente in una certa linea determinata si vede unire il rilicuo del palco, con il finto della tela, come meglio si intenderà qui appresso. Sia il palco della prospettiva B. O. e S. S. i cui termini B. S. e O. S. Vadano ad unirsi nel punto Q. è manifesto che dovendo si fabbricate edifitij sopra le linee B. S. c O. S. si potrebbe arrivare sino al punto Q. ma perché il palco B. S. e S. O. è assai per i recitanti, e si può riserbare lo spatio S. Q. S. per comodità delli strioni si è giudicato, che egli sia ben fatto drizzare una tela S. S. e in essa fingere con la pittura quelli edifitij, che se fussero materiali occuperebbero lo spatio S. Q. S. e perché l'occhio resti più facilmente ingannato dal finto, si è cercato di porre il pun to talmente nella tela, che faccia quello effetto, che farebbe il punto Q. e per conseguenza gl'edifitij finti unischino con i veri, quasi che fussero continuati sopra le linee S. Q. e se bene il fare, che tale unione tra il finto, e il vero apparisca da tutti i luoghi, è cosa del tutto impossibile, nondimeno si può mediante l'arte situare talmente il detto punto, che posto l'occhio in una linea data, il finto apparisca unito col vero, e il modo è questo . Presuppongasi per esempio, che l'occhio che ha da vedere la Scena, si rilievi sopra il punto A. quanto è la linea A. E. per trovare quanto habbiamo da porre alto il punto nella tela, facciasi che la medesima proportione, che la linea B. O. con la linea S. S. l'habbia ancora la linea A. E. con un'altra, e quest'altra sarà l'altezza del punto del finto sopra il piano del palco come A. G. Ponghiamo che B. O. sia venti libbre, e S. S. dodici, e A. E. 2. 4. per la regola del tre multiplichisi dodici per dua è mezzo fa trenta, e questo si parta per uenti ne uiene uno è mezzo, e tanto deve essere l'altczza del punto segnato nella tela P. sopra il piano del palco S. G. S. e questo ancora si comprenderà nel profilo della Scena, dove A. G. Q. è il piano del palco la tela viene sopra il punto G. e la linea A. E. è l'altezza data, la linea G. P. viene ad essere l'altezza del punto del finto, e se ci immagineremo una linea tirata dal punto P. al punto E. e tirata perlo lungo in infinito dal punto E. verso il punto X. tutti quelli che haranno la vista nella linea P. E. X. giudicheranno il rilievo unire con il finto, ma quelli che saranno con la vista fuori di detta linea conosceranno l'inganno, e tanto più quanto si allontaneranno da essa.
+    </p>
+    <pb n="97"/>
+    <figure type="ornement"/>
+    <pb n="98"/>
+    <pb n="99"/>
+    <figure type="ornement"/>
+    <p>
+     VENETIA. Appresso Girolamo de Franceschi Senese. MDXCVI.
+    </p>
+    <pb n="100"/>
+   </div>
+   <div>
+    <pb n="101"/>
+    <head>
+     LIBRO SECONDO
+    </head>
+    <pb n="102"/>
+    <pb n="103"/>
+    <figure type="ornement"/>
+    <pb n="104"/>
+    <pb n="105"/>
+    <figure type="ornement"/>
+    <pb n="106"/>
+    <pb n="107"/>
+    <figure type="ornement"/>
+    <pb n="108"/>
+    <pb n="109"/>
+    <figure type="ornement"/>
+    <pb n="110"/>
+    <pb n="111"/>
+    <figure type="ornement"/>
+    <pb n="112"/>
+    <pb n="113"/>
+    <figure type="ornement"/>
+    <pb n="114"/>
+    <pb n="115"/>
+    <figure type="ornement"/>
+    <pb n="116"/>
+    <pb n="117"/>
+    <figure type="ornement"/>
+    <pb n="118"/>
+    <pb n="119"/>
+    <figure type="ornement"/>
+    <pb n="120"/>
+    <pb n="121"/>
+    <figure type="ornement"/>
+    <pb n="122"/>
+    <pb n="123"/>
+    <figure type="ornement"/>
+    <pb n="124"/>
+    <pb n="125"/>
+    <figure type="ornement"/>
+    <pb n="126"/>
+    <pb n="127"/>
+    <figure type="ornement"/>
+    <pb n="128"/>
+    <pb n="129"/>
+    <figure type="ornement"/>
+    <pb n="130"/>
+    <pb n="131"/>
+    <figure type="ornement"/>
+    <pb n="132"/>
+    <pb n="133"/>
+    <figure type="ornement"/>
+    <pb n="134"/>
+    <pb n="135"/>
+    <figure type="ornement"/>
+    <pb n="136"/>
+    <pb n="137"/>
+    <figure type="ornement"/>
+    <pb n="138"/>
+    <pb n="139"/>
+    <figure type="ornement"/>
+    <pb n="140"/>
+    <pb n="141"/>
+    <figure type="ornement"/>
+    <pb n="142"/>
+    <pb n="143"/>
+    <figure type="ornement"/>
+    <pb n="144"/>
+    <pb n="145"/>
+    <pb n="146"/>
+    <pb n="147"/>
+    <pb n="148"/>
+   </div>
+  </body>
+ </text>
+</TEI>

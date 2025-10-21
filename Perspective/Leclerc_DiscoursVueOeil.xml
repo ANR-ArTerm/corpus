@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="ita">
+     Leclerc_DiscoursVueOeil
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     tranScriptorium
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title xml:lang="ita">
+      Leclerc_DiscoursVueOeil
+     </title>
+     <idno type="Transkribus">
+      9566221
+     </idno>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <xi:include href="IndexPersonnes.xml" xpointer="element(/1/1)"/>
+   <xi:include href="IndexLieux.xml" xpointer="element(/1/1)"/>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div>
+    <pb n="1"/>
+    <pb n="2"/>
+    <pb n="3"/>
+    <pb n="4"/>
+    <pb n="5"/>
+    <pb n="6"/>
+   </div>
+   <div>
+    <pb n="7"/>
+    <head>
+     DISCOURS TOUCHANT LE POINT DE VEUE, Dans lequel il est prouvé que les choses qu'on voit distinctement ne sont veuës que d'un oeil. Par SEB. LECLERC. A <placeName ref="#Paris">PARIS</placeName>, Chez THOMAS JOLLY, Libraire Juré, sur le Perron de la Courneuve du Palais, aux Arems d'<placeName ref="#Hollande">Hollande</placeName> et à la Palme. M. DC LXXIX. AVEC PRIVILEGE DU ROY.
+    </head>
+    <pb n="8"/>
+    <pb n="9"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     A MONSIEUR COLBERT D'ORMOY,
+    </head>
+    <p>
+     Receu en survivance à la Charge de sur-Intendant des Bâtimens et Jardins de Sa Majesté, Arts et Manufactures de <placeName ref="#France">France</placeName>.
+    </p>
+    <p>
+     Monsieur,
+    </p>
+    <p>
+     L'honneur que j'ay eu de vous entretenir quelque-fois
+     <pb n="10"/>
+     touchant la Perspective et la proportion des figures, ne me permet pas d'offrir à d'autre qu à vous le petit ouvrage que je vous presente. Mais avec cela je crains bien qu'en vous j'offrant, je ne tombe dans quelque sorte de fuute ; parce que c est trop peu de chose en comparaison de ce grand fonds de lumieres et de connoissances avec lequel vous charmez et étonnez tous ceux qui ont j'avantage de vous connoistre. Quand je fais reflexion, MONSIEUR, à tant d'éclatantes preuves d'esprit que vous avez donnees au Public, et sur tout à celle ou j'on vous vit il y a quelques
+     <pb n="11"/>
+     mois dans les Ecoles de Droit developper et resoudre les questions les plus difficiles; quand je pense avec combien d'habileté, de grace et d'intelligence, vous maniez ces grands livres, les sources de toute la prudence Civile et sanonique : en verité j'ay honte de ne vous apporter icy qu un écrit de quatre ou cinqe feuilles. Te ne puis m empescher de craindre que vous, MONSIEUR, que je sçay se connoistre parfaitement en proportions, vous nen trouviez aucune entre la liberté que je prens de mettre vostre nom a une dissertation de deux ou trois heures, et) ces
+     <pb n="12"/>
+     grands talens d'esprit qui fourniroient la matiere de plusieurs livres, et qui vous ont déja tant de fois merité du public des éloges qui ne sont propres qu'à vous, quoy que d'ordinaire on ne trouve encore à lover dans les personnes de vostre âge que le bonheur de leur naissance ett) la vertu de leur pere. Mais vous, MONSIEUR, vous avez un merite personnel qui subsiste independemment de tout autre. Il n'est point necessaire pour vous lover de dire que vous estes fils d'un des plus grands hommes que la <placeName ref="#France">France</placeName> ait jamais eu; que c est par la prudence con
+     <pb n="13"/>
+     sommée et par j'application continuelle avec laquelle Monseigneur vostre pere travaille sous le plus grand des Roys, qu'on voit dans la police ( dans les affaires cet ordre merveilleux qui fait la richesse, la beauté et la seurete de j'Estat; Que c est luy qui dans le mesme temps qu'il a fourny au Roy par j'administration des Finances les premiers moyens de vaincre ; a fait encore élever des monumens éternels à la gloire de ce Prince incomparable qui si heroiquea si souvent( ment vaincu. Mais aprés tout, MONSIEUR, quelque
+     <pb n="14"/>
+     admirables que soient les choses qu'a faites Monseigneur vostre pere, j'oserois dire que de vostre part vous en avez fait qui ne donnent pas moins d'admiratio dans leur genre. Car enfin, estre à vostre âge aussi avancé que vous j'estes dans les lettres; avoir toujours esté le plus jeune, et le plus sçavant de vos condisciples ; avoir commencé vostre cours de Philosophie à onze ans, j'avoir acheve avant quatorze, avec un applaudissement universel ; connoistre ce quil ya deplus beau dans toutes les parties des Mathematiques ; scavoir écrire et dessigner comme les Maistres ; avoir
+     <pb n="15"/>
+     adjoûté à toutes ces connoissances celle de la Jurisprudence sivile et Canonique ; et avoir pù ainsi à quinze ans joindre le genie des affaires avec j'esprit des Arts ; n est-ce pas avoir fait aussi bien que Monseigneur vostre pere des choses quon navoit point encore veuès et) quon estimoit impossibles. Vous ne pouviez manquer avec cela de vous attirer (comme il est arrive tant de fois) j'admiration du public; mais ce qui vous est encore en quelque sorte plus avantageux, c est celle des particuliers qui vous connoissent, laquelle augmente à mesure qu'ils vous
+     <pb n="16"/>
+     connoissent plus particuliere ment : de forte que vos maistres ont toujours estè vos plus grands et plus sinceres admi. rateurs, parce que ce sont eux qui ont mieux connu j'extreme facilité que vous avez pour toutes les choses qui dépendent de j'esprit, soit du jugement soit de j'imagination. Ils ont veu que sans nul effort presque en vous jovant vous estes entre jusques dans le fonds de leurs connoissances, et que trés-souvent vous aviez compris les choses avant qu'ils eussent achevé de vous les dire. Que ce genie est capable d'estre le sur
+     <pb n="17"/>
+     Intendant des Arts ! Quil y aura de plaisir à les voir tous dans la plus glorieuse paix que la <placeName ref="#France">France</placeName> ait jamais euê, agir à j'envy les uns des autres sous la conduite d'un esprit si agissant! Et que cette promptitude d'intelligence sera propre pour les faire travailler a la gloire d'un Prince qui a estè si prompt à meriter tout ce qu ils peuvent faire pour honorer la vertu. Je me rejouis déja par avance de j'honneur qui vous en reviendra dans j'exercice de votre (harge, où j'on verra briller de toutes parts les grandes qualitez d'esprit qui sont en vous. ay bien pourtant que c est es
+     <pb n="18"/>
+     cette même grâdeur d'esprit qui condamne ma hardiesse en faisant paroistre encore davantage la petitesse de mon present: mais il vous est tres-facile, MONSIEUR, de j'agrandir, par la manière dont vous le traiterez, il deviendra considerable, si vous voulez, bien lay accorder j'honneur de vostre protection ; et je le regarderay comme une grande fortune pour moy, si vous avez la bonté de le recevoir comme une marque du prosond respect et de j'entier attachement avec lequel je suis,
+    </p>
+    <p>
+     MONSIEUR,
+    </p>
+    <p>
+     Yostre trés humble et trésobeissant Serviteur, SIB. LECLEEC,
+    </p>
+    <pb n="19"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     AU LECTEUR.
+    </head>
+    <p>
+     'ESTANT trouvé dans une compagnie où j'art de peindre faisoit le sujet de la conversation, et où plusieurs questions qui le concernent estoient agitees; celle-cyentre autres y fut proposee: sçavoir, si la Perspective, qui est une partie de la Peinture, devoit avoir quelque rang dans les Mathematiques. Il y en eut qui dirent qu on nen devoit pas douter, et la raison qu'ils en alleguerent estoit que la Geometrie en produisoit les reigles. D'autres dirent au contraire, qu on ne devoit pas attribuer à la Geometrie qui est la source de toutes les veritez Mathematiques des rei
+     <pb n="20"/>
+     gles qui n'estoient fondées que sur de faux principes, et qui par consequent ne pouvoient produire que des erreurs, et soûtenant cette proposition avec chaleur, ils avancerent plusieurs choses, qui principalement tendoient à faire voir que les Peintres ne pouvoient par le moyen d'un seul point de veuë arriver à leur but, qui est d'imiter la nature.
+    </p>
+    <p>
+     Le Peintre, disoient-ils, considere les objets de ses deux yeux et il fait profession de les peindre comme il les voit ; ainsi j'art de la Perspective, nadmettant, qu'un point pour representer les deux yeux, ses reigles ne peuvent respondre à j'intention du Peintre.
+    </p>
+    <p>
+     A cette objection quelqu'un répondit, que si les Astronomes ne consideroient la terre que comme un petit bouton, quoy qu'elle soit
+     <pb n="21"/>
+     d'une grandeur fort considerable, les Peintres pouvoient bien ne considerer les deux yeux que comme un point, puis que les deux yeux estoient trés-petits à j'égard des grandes choses qui tomboient sous le sens de la veuë, et une partie de la compagnie trouva cette raison assez bonne. Neanmoins, comme elle n'estoit pas capable de satisfaire des gens qui demandoient une precision Mathematique, une personne, qui se trouva là, fort éclairée prit la parole, et dit que Monsieur Huret qui estoit j'Auteur qui avoit le plus examiné les secrets de la Perspective, avoit decidé cette question lors qu'il avoit prouvé la necessite ou estoient les Peintres de n'admettre qu un point de veue et j'impossibilite qu'il y avoit à trouver de la précision dans la Perspective de leurs Tableaux, en les re
+     <pb n="22"/>
+     gardant avec les deux yeux : et que c'estoit une raillerie de vouloir que j'on fermast un oeil et que j'on se privast de la moitié de la veuë pour s'accommoder au defaut de cet art: adjoûtant à cela qu'il démonstreroit aisement que quand mesme on fermeroit un œeil en regardant un Tableau, on auroit pas une sensation de Perspective semblable à celle que j'on avoit en regardant la nature avec les deux yeux : et là-dessus il me pria de vouloir dire ce que j en pensois. Je dis donc, que quoy qu'il fust vray qu'on ne devoit pas considerer les deux yeux comme un point, neanmoins les Peintres ne pouvoient considerer la veuë autrement, mesme en rigveur de Geometrie ; et que si les Auteurs qui avoient ecrit de la Perspective avoient fonde leurs reigles sur un seul point de veuê par pure necessité et
+     <pb n="23"/>
+     sans connoissance, ils auroient deub le faire par intelligence ; et parce que la verité les y obligeoit, et voila ce qui me fit d'abord écrire quelque chose sur ce sujet. Mais parce qu insensiblement je me suis engage à respondre à beaucoup de difficultez quim ont esté proposees, j'ay passe d'un petit projet à un plus grand, et d'un traitté que j'avois fait seulement pour les Peintres et ceux qui dessignent, y en ay fait un qui regarde generalement toutes les personnes qui se plaisent à observer les causes et les effets de la veuë.
+    </p>
+    <figure type="ornement"/>
+    <pb n="24"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     DU POINT DE VEUE.
+    </head>
+    <p>
+     Out ce que je me propose dans ce Traitté, est principalement de démonstrer que les Peintres ne doivent considerer la veuë que comme un point.
+    </p>
+    <p>
+     Je croiray avoir reussi dans mon dessein, si je prouve deux choses.
+    </p>
+    <p>
+     La premiere, que tout ce que j'on voit distinctement j'on ne le voit que d'un oeil, et que les deux yeux par consequent ne servent pas a voir une mesme chose en mesme temps.
+    </p>
+    <p>
+     Et la seconde, que tous les rayons visuels par lesquels on voit distinctement, se réunissent dans j'oeil à un seul point.
+    </p>
+    <pb n="25"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     Que tout ce que j'on voit distinctement on ne le voit que d'un œil.
+    </head>
+    <p>
+     A Nature nous a donné deux Dyeux, mais ces deux yeux ont leurs fonctions separées ; et quand il ne s'agit que de voir une mesme chose, ils ne nous sont pas tout deux necessaires : mais au contraire s'ils servoient ensemble, j'un nuiroit à j'autre. Quoy que nous avons deux mains, c'est ordinairement la droite qui seule nous sert pour peindre et pour écrire, et que j'habitude nous rend necessaire. Il en est de mesme des yeux : car quoy que nous en ayons deux, quand il est question de voir et d'examiner les
+     <pb n="26"/>
+     objets qui nous sont presentez nous ne nous servons que d'un seul, et je le prouve.
+    </p>
+    <p>
+     Si vous regardez de l'œeil gauche C dans le miroir AB, vous y verrez j'image du Globule G en E, et si vous y regardez de l'œil droit D, cette image vous parroistra en F; cela est d'experience et se démonstre par j'Axiome suivant.
+    </p>
+    <p>
+     Tout le monde sçait que j'angle de reflexion est égal à j'angle d'incidence : ainsi les images passent du miroir dans j'oeil par des angles égaux à ceux qu'elles font en passant des objets au miroir, de sorte que supposé que j'œeil C voye j'image du Globule en E, parce que j'angle AEC que l'on appelle de reflexion est égal à j'angle d'incidence BEG, j'oeil droit D par la mesme raison verra j'image en F car autrement j'angle de reflexion
+     <pb n="27"/>
+     <figure type="ornement"/>
+     <pb n="28"/>
+     ne seroit pas égal à j'angle d'incidence, les deux yeux ne faisant pas un mesme point.
+    </p>
+    <p>
+     Ce que je dis de ce Globule se peut entendre du point, de la ligne des superficies et de toutes autres sortes d'objets, et par l'effet de la reflexion, lors que vous regardez un objet de vos deux yeux l'un aprés j'autre, vous le voyez dans le miroir en des endroits differens. Par exemple le Globule G en E et en F, et la ligne HGJen KEL et MFN. Et remarquez que cette loy est si precise, qu'il est impossible de toute impossibilité que de j'œeil gauche vous puissiez voir j'image de la ligne HGI ailleurs qu'en KEL, ny que de j'œeil droit quelque effort que vous puissiez faire, vous puissiez jamais voir j'image de cette mesme ligne ailleurs qu'en NFM, ny du Globule ail
+     <pb n="29"/>
+     <figure type="ornement"/>
+     <pb n="30"/>
+     leurs qu'en E et en F, supposé que vos yeux, j'objet et le miroir ne changent point de situation.
+    </p>
+    <p>
+     Cela prouvé, il est manifeste qu'on ne sçauroit voir le mesme objet des deux yeux en mesme endroit et en mesme temps : car il s'ensuivroit contre la preuve et j'experience, qu'ayant les deux yeux ouverts vous verriez en mesme temps et en mesme endroit j'image du Globule G en E et en F, et l'image de j'obiet HJen KL et MN, et qu'en vous regardant dans un miroir vous verriez des deux yeux vostre image en mesme temps et en mesme endroit, quoy qu'en deux endroits differens.
+    </p>
+    <p>
+     L'experience est, qu'ayant les deux yeux ouverts vous ne voyez qu'une de ces deux images ; il nya donc qu'un de voys yeux qui sert en cette occasion, et si c'est j'ima
+     <pb n="31"/>
+     <figure type="ornement"/>
+     <pb n="32"/>
+     ge F que vous appercevez, c'est sculement de j'oeil droit D, et ce qui est veu de j'œeil droit ne j'est pas de j'œil gauche. Par exemple; si cet homme ferme j'oeil gauche et qu'il regarde de j'oeil droit, il verra le centre du Globule C dans la vitre au point D et non ailleurs. mais s'il ferme j'oeil droit et qu'il regarde de l'œeil gauche il verra ce centre C au point E dans la vitre parce que les deux yeux voyent par des rayons differens, de sorte que cet homme regardant de j'oeil droit verra le Globule au point D, comme si ce point D en estoit le centre mesme.
+    </p>
+    <p>
+     Au contraire regardant de j'œeil gauche, il verra le Globule au point E, comme si ce point en estoit le centre.
+    </p>
+    <p>
+     Et s'il ouvre les deux yeux, il ne verra pas le Globule à j'endroit de
+     <pb n="33"/>
+     <figure type="ornement"/>
+     <pb n="34"/>
+     ces deux points D et E, mais seulement a j'endroit de j'un des deux.
+    </p>
+    <p>
+     Si c'est au point D, c'est la sensation de j'oeil droit A. Mais pourquoy ne paroist-il pas aussi à j'endroit du point E selon la sensation de j'œil gauche B? Il faut de deux choses j'une, ou que vous conveniez avec moy que j'œeil gauche ne voit pas le Globule, ou que vous me fassiez voir que j'oeil gauche peut voir le Globule ailleurs qu'à l'endroit du point E, et c'est ce que vous ne ferez jamais : car les points C et E estant enfilez par un mesme rayon CEB, j'œeil gauche ne peut voir ces deux points separez j'un de j'autre, parce qu'un rayon ne peut causer que la sensation d'un point. Je sçay bien que Monsieur de ... dit que j'oeil droit fait la rectitude de
+     <pb n="35"/>
+     <figure type="ornement"/>
+     <pb n="36"/>
+     la veuê et que la ligne sur la quelle j'oeil droit voit les obiets est la mesme que celle qui dirige les deux yeux, ce que j avouë, que je ne comprens pas bien et qui ne voudroit dire au plus, si cen est que les deux yeux concourent diversement à voir une mesmechose, que j'oeil droit voit directement, et j'oeil gauche indirectement, ce qui est impossible ; car supposons comme nous venons de dire, que le regardant ayant les deux yeux ouverts voye le Globule seulement à j'endroit du point D, je dis qu'il ne le voit que de j'oeil droit, autrement s'il le voyoit aussi de j'oeil gauche ce ne seroit plus par le rayon BEC mais par un rayon rompu BDC, puis que ce point D luy cacheroit le centre C, ce qui est absurde et il n'y a point de changement de milieu pour causer cette refraction.
+    </p>
+    <pb n="37"/>
+    <figure type="ornement"/>
+    <pb n="38"/>
+    <p>
+     L'oil gauche ne voit donc point le Globule par un rayon rompu, et il ne le voit pas par le rayon droit BEC, puis que c'est le point D qui cache le centre du Globule à j'œeil droit qui le regarde : car souvenez- vous toûiours qu'il est impossible que j'oeil gauche puisse voir le centre du Globule ailleurs qu'au point E, et que par consequent s'il voyoit le Globule par le rayon BEC il verroit le point E dans son centre et non pas le point D.
+    </p>
+    <p>
+     Reste donc que le Globule soit veu seulement de j'oeil droit par le rayon ADC.
+    </p>
+    <p>
+     Mais si j'oeil gauche ne voit pas le centre C il ne voit pas non plus la ligne DC, puis que le regardant ne voit que le point D qui luy couvre le point C, et s'il ne voit pas la ligne DC, il ne sçauroit voir
+     <pb n="39"/>
+     <figure type="ornement"/>
+     <pb n="40"/>
+     non plus j'obiet E qui est à costé. Voyons cecy par une experience plus sensible.
+    </p>
+    <p>
+     GH est un fil de Soye bien tendu sur une table, D et C sont deux grosses épingles plantées bien à plon sur un des bouts de ce fil, et directement entre ces deux épingles est une petite aiguille I, si vous vous placez au bout de la table G en telle sorte que vous puissiez voir j'épingle D directement devant j'épingle C, il est constant que vous ne verrez ny l'aiguille I ny la partie du fil qui se rencontre entre les deux épingles D et C, et si c'est j'oeil droit qui se rencontre regarder directement vous ne j'aurez pas plutost ferme que vous verrez j'un et j'autre, et de mesme si c'est le gauche, car il est indifferent et arbitraire duquel des deux on regarde directement, et il y a des gens qui sont gauchers des yeux,
+     <pb n="41"/>
+     <figure type="ornement"/>
+     <pb n="42"/>
+     comme il y en a qui le sont des mains.
+    </p>
+    <p>
+     Or si ayant les deux yeux ouverts vous ne voyez aucun espace entre ces deux épingles ou entre ces deux points D et C, c est que les rayons CBF qui sont reflechis de j'obiet F sont empeschez de faire aucune impression sensible dans j'oeil gauche par j'application de j'oeil droit, et puis qu'ils ne font aucune impression sensible, je conclus que j'obiet CFn est pas veu de j'œil gauche mais seulement de j'oeil droit, donc ce qui est veu d'un oeil ne j'est pas de j'autre.
+    </p>
+    <p>
+     Mais si en voyant distinctement de j'œil droit A, j'œeil gauche ne voit rien dans j'angle CBF, il faut dire aussi qu'il ne verra rien dans j'angle GBH car j'œeil droit voyant j'obiet CF, il pourra voir aussi Tobiet GH qui est dans le mesme
+     <pb n="43"/>
+     <figure type="ornement"/>
+     <pb n="44"/>
+     angle visuel, et voyant cet obiet j'oeil gauche ne le verra pas suivant ce que j'ay démonstré, et si l'obiet GHn est pas veu de j'oeil gauche. Il est encore évident que j'oeil gauche ne verra pas j'obiet OS, ainsi si cet obiet OS est veu ce ne sera que de j'oeil droit, et j'oeil droit le voyant il pourra voir aussi j'obiet TR, et par les raisons déja dites j'obiet TR ne sera pas veu de j'œeil gauche, et par consequent j'oeil gauche ne verra rien dans j'angle TBR, et enfin cette démonstration se pourroit continuer à j'égard de tous les obiets qui pourroient estre veus dè j'oeil droit.
+    </p>
+    <p>
+     Et parce que j'oeil droit voit autant d'estenduë que j'orbite où il est enchassé luy permet d'en découvrir, il s'ensuit que j'autre oeil ne voit que trés-peu de chose et par des rayons extremement obli
+     <pb n="45"/>
+     <figure type="ornement"/>
+     <pb n="46"/>
+     ques, qui ne peuvent causer de sensation ny distincte ny capable de servir de suiet à la peinture, car les choses que nous nous proposons ordinairement pour suj et sont celles vers lesquelles nous tournons la veuê directement, et qui ne peuvent pas s'estendre dans un angle plus grand que d'environ 45. ou 50. degrez, comme il sera prouvé cyapres ; au delà duquel angle les objets ne nous peuvent causer que des sensations confuses et d'autant plus confuses que les rayons s'éloiSnent davantage de cet angle.
+    </p>
+    <p>
+     Or cet angle visuel de 45. ou 50. degrez ne peut estre compris que dans les rayons de j'oeil dont la vision domine : Exemple j'arc de j'angle visuel de j'oeil droit BAC est d'environ 150. degrez, le rayon du milieu AD que nous appellons central ou laxe de j'oeil, est le plus
+     <pb n="47"/>
+     <figure type="ornement"/>
+     <pb n="48"/>
+     vif et les autres le sont plus ou moins à proportion qu'ils en approchent ou qu'ils s'en éloignent (du moins c est j'opinion commune, et je veux bien la supposer pour vraye) mais cette dégradation n'est recevable que jusques à j'angle d'environ 20. ou 25. degrez de chaque costé, au delà les rayons ne sont plus capables de donner une sensation distincte ; de sorte que les rayons visuels que je considere pouvoir causer une sensation capable de servir de sujet aux Peintres se trouvent reniermez dans un angle EAF, dont j'arc EF est d'environ 45. ou50. degrez et tous les autres rayons qui sont au delà doivent estre comptez pour rien, parce que la sensation ne se fait distincte que par des rayons qui coupent lem cristalin à angles égaux; ce qui ne peut s'estendre au delà
+     <pb n="49"/>
+     <figure type="ornement"/>
+     <pb n="50"/>
+     de 45. ou 50. degrez, selon qu'on a la pupille de j'oeil plus ou moins grande, comme je le feray voir dans la suite aprés que j'auray entierement estably les deux parties de mon premier principe.
+    </p>
+    <p>
+     Or cet angle EAF se trouve renfermé dans le milieu du grand angle BAC, puis que laxe AD est commun aux deux angles, donc un oil seul voit tout ce que j'on peut voir distinctement ; car si ces rayons EABn apportent qu une sensation confuse parce qu'ils frappent le cristalin de j'œeil obliquement, à plus forte raison les rayons de j'oeil gauche qui sont encore plus obliques seront- ils de nulle consideration.
+    </p>
+    <p>
+     On fait une objection, qu'on ne conçoit pas pourquoy un chasseur ferme un oeil pour tirer un lievre, puis que selon moy on ne voit
+     <pb n="51"/>
+     <figure type="ornement"/>
+     <pb n="52"/>
+     jamais distinctement que d'un seul: mais bien loin que cela puisse faire contre mon opinion cela fait pour; car ce n'est que pour déterminer plus promptement les esprits à j'oeil dont on se veut servir, ou empescher l'effet de la forte reflexion de la lumiere causée par la proximité du fufil. Parce que souvent en regardant un but avec une forte application, les esprits qui se portent en foule à cette action se jettent dans les deux nerfs optiques et transmettent une seconde image du but dans le cerveau, et pour lors il faut fermer un oeil pour ne pas voir double, et que souvent aussi un corps trop proche de nous agit si puissamment sur nos yeux qu'il nous fait voir des deux mesme contre nostre volonté mais fort confusement ; et c'est ce que fait la couche du fusil lors que nous j'avons
+     <pb n="53"/>
+     en jouë, et de cela mesme que la pluspart des chasseurs ferment un ccil pour tirer, il se voit clairement que j'un nuit à j'autre quand ils voyent ensemble un mesme objet.
+    </p>
+    <p>
+     Je remarque aussi que j'objet peut estre veu des deux yeux en deux manieres. Premierement en voyant des parties differentes, c'est à dire un oeil voyant seulement ce que j'autre ne peut voir, comme lors que regardant une reigle par une de ses extremitez pour voir si elle est droite, un costé de la reigle est veu de j'œeil droit et j'autre costé est veu de j'œil gauche, qui est une maniere de voir assez ordinaire à beaucoup de personnes et qui semble répondre a j'intention de la nature, qui sans doute ne nous a donne deux yeux qu'afin que dans la necessité un oeil supplée à ce que
+     <pb n="54"/>
+     j'autre ne peut faire. Mais il est facile de prouver que cette maniere de voir n'est jamais distincte, et que j'oeil gauche ne sçauroit rien voir dans le cone visuel de j'œeil droit sans confusion.
+    </p>
+    <p>
+     Supposez que dans le cone visuel de j'oeil droit A il se trouve la fleche CD laquelle ne peut estre veuê de cet oeil, mais seulement de j'œil gauche B, je dis que cette fleche CD quoy que veuë de l'oeil gauche seul, ne pourra estre veuë nettement.
+    </p>
+    <p>
+     Tous les rayons qui composent j'angle visuel de j'œil droit se joignent j'un j'autre et ne laissent aucun vuidé dans la Peinture qu'ils font dans le lieu de la vision ; car si le rayon OA est le dernier que le cercle OIP envoye à j'œil A, le rayon AC suit immediatement qui porte au mesme oeil la peinture
+     <pb n="55"/>
+     <figure type="ornement"/>
+     <pb n="56"/>
+     du point C ; de sorte que la peinture du point C et du point O se trouvent jointes j'une à j'aure sur la retine de j'œeil, et par consequent dans le lieu de la vision ; car je ne voit rien qui les puisse disjoindre en y passant, et ces rayons aussi bien que tous les autres qui les suivent de mesme ne laissent dans la peinture qu'ils décrivent aucun vuide où les rayons de j'angle visuel CBD puissent décrire j'objet CD, de sorte que si l'image de cet objet CD estoit veue ce ne pourroit estre qu'au travers de quelque image, comme si elle se trouvoit à coste de j'image CE elle parroistroit messée avec j'image du globe IO, ce qui ne pourroit arriver sans qu'une image détruisist j'autre.
+    </p>
+    <p>
+     Posez encore que l'objet G est blanc et que j'objet H est noir, j'oeil
+     <pb n="57"/>
+     <figure type="ornement"/>
+     <pb n="58"/>
+     droit qui voit ces objets j'un devant j'autre verra j'objet H comme une tache noir dans j'objet blanc, mais si j'oeil gauche voyoit la partie J'qui est cachee à j'oeil droit, il verroint du blanc où j'oeil droit verroit du noir ou plûtost le regardant verroit le blanc au travers du noir, j'ombre au travers de la lumiere et une figure au travers d'une autre figure, ce qui ne se pourroit faire sans confusion ; car les deux sensations blanche et noire estant meslée en donneroient une troisiême qui seroit grise, et cette sensation grise confondroit la blanche et la noire.
+    </p>
+    <p>
+     Secondement, si les deux yeux peuvent voir ensemble les mesmes parties d'un objet, cela n'arrive jamais que j'on ne voye j'objet double, j ay fait voir que j'oeil droit regardant seul voit le globule im
+     <pb n="59"/>
+     <figure type="ornement"/>
+     <pb n="60"/>
+     mediatement à j'endroit du point D et au contraire que j'œeil gauche regardant aussi seul le voyt immediatement à j'endroit du point E. Or il est constant que ces deux sensations qui font voir le globule en deux endroits, ne sçauroient subsister en mesme temps que le regardant ne voye le globule double, et c'est ce que j'experience nous montre ; car si j'on regarde le globule C jusques à ce qu'on le voye des deux yeux (ce qui arrive souvent aprés que l'on a regardé quelque temps avec application) on le verra en mesme temps aux deux endroits où on j'avoit veu en deux temps differens. Aussi je m asseure que si j'aveugle dont parle Monsieur <persName ref="#ReneDescartes">Descartes</persName> estoit capable d'estre interrogé sur ce que ses deux bastons auroient este touchez à leurs extremitez d'un mesme coup
+     <pb n="61"/>
+     <figure type="ornement"/>
+     <pb n="62"/>
+     ou d'un mesme heurt, il diroit qu'il auroit esté frappe à la main droite et a la main gauche en mesme temps, et quoy qu'il ne se figurast qu'une pierre contre laquelle il auroit heurtè ses deux bastons, neanmoins il ne laisseroit pas pour cela d'en avoir ressenty deux coups qu'il distingueroit fort bien j'un de j'autre.
+    </p>
+    <p>
+     On ne voit donc pas un mesme objet des deux yeux sans le vbir double, et parce que j'on ne sçauroit voir double sans voir mal, j ay prouvé qu'il est impossible que les deux yeux voyent distinctement un mesme objet en mesme temps.
+    </p>
+    <p>
+     Monsieur <persName ref="#ReneDescartes">Descartes</persName> ayant considere que suivant ses principes les objets exterieurs devoient faire impression sur ses deux yeux, et que j'ame neanmoins n'avoit qu'une perception a crû que les images d'un mesme objet qui se trouvent
+     <pb n="63"/>
+     <figure type="ornement"/>
+     <pb n="64"/>
+     dans les deux yeux se réunissoient dans le cerveau, mais si ce grand genie avoit fait un peu plus de reflexion sur les demonstrations qu'il en a voulu donner dans son traité de la machine de j'homme, il auroit reconnu que les images des deux yeux, quoy que produites d'un mesme objet, sont differentes, et qu'estant differentes la réunion en est impossible.
+    </p>
+    <p>
+     ue les images des deux yeux foient differentes entr elles, cela est manifeste ; car suppose que j'objet DEFG soit veu des deux yeux A et B, l'œeil A voit j'angle G entre les rayons AF et AE, au contraire j'oeil B le voit entre les ravons BD, BF, et ainsi si j'oeil A voit le point G dans la ligne EF au point H, j'oeil B le voit dans la ligne FD au point I.
+    </p>
+    <pb n="65"/>
+    <figure type="ornement"/>
+    <pb n="66"/>
+    <p>
+     De plus j'oeil a voit la ligne df, sous un angle d'environ 20. degrez et j'œeil b ne la voit que sous un angle d'environ 12. degrez. Or la diversité des images visuelles dépend de la diversite des angles visuels, et par consequent j'image de j'œil a est differente de l'image de j'œil b.
+    </p>
+    <p>
+     Ma démonstration est plus sensible dans cette figure où j'on peut remarquer que j'oeil B voit les lignes CD, EF à costé l'une de j'autre, et que j'oeil A les voit j'une au dessus de j'autre de sorte que j'image de j'oeil droit est un trapeze regulier et j'image de j'oeil gauche un trapeze irregulier.
+    </p>
+    <p>
+     Il est donc vray que les images des deux yeux produites par arangement inegal de rayons visuels sont differentes entr'elles.
+    </p>
+    <p>
+     Or les images des deux yeux es
+     <pb n="67"/>
+     <figure type="ornement"/>
+     <pb n="68"/>
+     tant differentes elles ne peuvent convenir ensemble ; car selon <persName ref="#Euclide">Euclide</persName> deux figures ne conviennent que quand j'une estant posée sur j'autre, elles s'ajustent tellement ensemble que les costez et les angles de celle-cy se trouvent posez sur les costez et les angles de celle-là, et que j'une n'excede nyn'est excedée de j'autre.
+    </p>
+    <p>
+     Et lors que deux figures conviennent ainsi ensemble, nous disons qu elles sont semblables et égales, et par consequent qu'elles ne peuvent convenir ensemble quand elles sont dissemblables et inégales.
+    </p>
+    <p>
+     Les images des deux yeux sont dissembiables, donc elles ne peuvent convenir ensemble ; et si elles ne peuvent convenir ensemble, à plus forte raison ne se peuvent-elles réunir.
+    </p>
+    <pb n="69"/>
+    <p>
+     51 Je sçay bien que j'on me pouroit objecter que si les images differentes qui se portent aux deux yeux viennent d'un mesme objet, que ces melmes images differentes pouvant s'en retourner dans les mesmes concours de rayons qui les ont produites et se rassembler à j'objet, pouroient aussi se rassembler ailleurs, mais mal à propos, car on ne pouroit pas inferer de-là qu'elles se puissent rassembler de mesme sur la glande (supposé que la glande soit le lieu ou elles se terminent. comme j'a dit Monsieur D. et qu'il y a bien de j'apparence, comme je le feray voir dans la suite) ny sur quelque autre corps qu on voudroit se figurer ce qui seroit toûjours pour moy la mesme chose: suppoions donc que ce soit la glande, les images ne s'y peuvent rassembler, car pour cela il faudroit
+     <pb n="70"/>
+     que la glande fut toûjours figurée comme j'objet, et que les routes et passages des yeux à gglande fussent toujours semblables aux routes et passages des yeux à j'objet. Or il seroit ridicule de penser que la glande prenne une figure semblable à celle des objets, et chacun sçait la difference qu'il peut y avoir entre le passage des objets aux yeux et le passage des yeux a la glande, que celuy-cy varie en autant de manieres que j'objet peut estre differemment exposé, et que celuy-là est toûjours le mesme, puis que les yeux, les nerfs optiques et la glande sont toûjours en mesme distance j'un de j'autre : cat pour le mouvement que j'on attribuê à la glande il ne peut estre que tréspetit et ne sçauroit jamais respondre en proportion aux differens éloignemens qui se peuvent trou
+     <pb n="71"/>
+     ver entre j'objet et les yeux ; mais sans membarrasser au raisonnement j'experience resout la difficulté, car quand nous regardons un objet de j'oeil droit nous le voyons d'une maniere, et quand nous le regardons de j'oeil gauche, nous le voyons d'une autre : ce qui n'arriveroit pas si les rayons de j'œil droit se terminoient en mesme ordre sur la glande que ceux de j'œeil gauche et que j'arengement n'en fut pas inégal.
+    </p>
+    <p>
+     Or si les images des deux yeux ne se peuvent reunir, il faut de deux choses j'une, ou que j'ame n'ait que la perception d'une de ces deux images, et pour lors elle ne verra que par un oeil, ou que si elle voit par les deux elle voye confusement, et c est ce qu'il me semble avoir prouvé.
+    </p>
+    <p>
+     J'ay veu un homme qui ne voyoit
+     <pb n="72"/>
+     jamais distinctement qu'en fermant un oeil, quand il fermoit j'oeil droit il voyoit trés-bien de j'œeil gauche, et quand il fermoit j'oeil gauche il voyoit tres-bien de j'oeil droit, mais quand il ouvroit les deux yeux il ne voyoit que confusement, ce qui me paroist ne pouvoir arriver que par la mechante habitude qu'il avoit de regarder des deux yeux en mesme temps.
+    </p>
+    <p>
+     Ceux qui n'entendent rien aux démonstrations Mathematiques pourront remarquer sensiblement tout ce que j'ay avancé en regardant avec des lunettes sur le nez; car s'ils y prennent garde de bien près ils ne verront qu autravers d'un des vers, et supposé que ce soit autravers du droit, s'ils ferment j'oeil du mesme costé, pour lors les objets leurs paroistront dans le verre gauche, et quand derechef ils
+     <pb n="73"/>
+     auront ouverts les deux yeux, les objets ne leur paroistront plus dans le verre gauche mais dans le droit, ce qui leur fera connoistre que la sensation d'un oeil supprime la sention de j'autre.
+    </p>
+    <p>
+     La raison de ce que les deux yeux ne voyent pas en mesme temps un mesme objet est que leurs axes tendent plustost à s'é carter l'un de j'autre qu'à se rencontrer à quelque objet exterieur, comme j'on peut remarquer sensiblement aux animaux qui les ont placez de maniere, particulierement les oyseaux, qu'il est impossible que j'un puisse voir en mesme temps ce que voit j'autre, d'ou il faut inferer qne j'on n'en pointe qu un vers un mesme point, et que quand j'ame se détermine à examiner un objet elle envoye des esprits vers un oeil plûtost que vers j'autre, tout ainsi
+     <pb n="74"/>
+     qu'elle en envoye pour nous faire porter la main droite plustost que la main gauche vers quelque endroit qu'elle nous veut faire toucher.
+    </p>
+    <figure type="ornement"/>
+    <pb n="75"/>
+    <pb n="76"/>
+    <figure type="ornement"/>
+    <pb n="77"/>
+    <figure type="ornement"/>
+   </div>
+   <div>
+    <head>
+     ue tous les rayons visuels par lesquels on voit distinctement se reunissent dans j'œil en un seul point.
+    </head>
+    <p>
+     Prés avoir prouvé que nous Ane voyons distinctement que d'un oeil, reste à faire voir que j'oeil ne doit estre consideré dans j'art de la Perspective que comme un point, ou plustost que tous les rayons par le moyen desquels on voit distinctement se réunissent dans j'œeil à un seul point.
+    </p>
+    <p>
+     Il ne seroit pas necessaire, pour conclure que les reigles de la Perspective sont bien fondées sur un seul point de veuë, d'autre preuve
+     <pb n="78"/>
+     que la figure qui suit, dont la seule inspection peut convaincre de la verite du faict, les rayons qui portent l'image de l'objet AB à l'œil C tendent visiblement à se reunir à un seul point : mais pour tascher de ne point laisser de difficulté à ceux qui s en pourroient faire, prevenus de j'hypothese des pinceaux optiques ou de la refraction qu on pretend arriver aux rayons dans la penetration des humeurs de j'œeil, je men vas examiner la maniere dont les images visuelles sont portées à j'œeil.
+    </p>
+    <p>
+     Les Auteurs qui ont écrit de j'optique et dont les Traitez sont venus à ma connoissance disent que si j'oeil voit un point, c'est par une multitude de rayons que quelquuns qualifient pinceaux optiques.
+    </p>
+    <pb n="79"/>
+    <figure type="ornement"/>
+    <pb n="80"/>
+    <p>
+     Ils disent que le point A envoye des rayons spheriquement dans tout le milieu, c'est a dire tout au tour de soy.
+    </p>
+    <p>
+     Que de ces rayons ceux qui tombent dans la capacité de la prunelle de j'œeil changent leurs déterminations à la rencontre du cristalin, et que de divergens qu'ils estoient ils deviennent convergens, le cristalin les portant à se reinir à un seul point sur la retine ; de sorte que selon leur opinion les especes du point A sont portées sur la retine par deux cones de rayons qui font à peu prés la figure et j'office d'un pinceau ; le premier cone ABD, estant composé de rayons visuels en tant qu'ils tendent à s'ecarter les uns des autres, et le second cone BDC estant compose de ces mesmes rayons, mais en tant qu'ils tendent à se rassembler
+     <pb n="81"/>
+     <figure type="ornement"/>
+     <pb n="82"/>
+     62. sur la retine au point C pour y peindre tous ensembles j'image du point A.
+    </p>
+    <p>
+     Les Peintres au contraire supposent que si j'on voit un point ce n est que par un seul rayon visuel: Voyons laquelle de ces deux hypotheses est la plus vraye.
+    </p>
+    <p>
+     Personne ne met en doute que j'on pointe laxe de j'œil vers le point qu'on regarde avec application.
+    </p>
+    <p>
+     Que laxe est un rayon qui ne souffre aucune refraction dans j'oeil, parce qu'il en penetre toutes les humeurs à angles égaux.
+    </p>
+    <p>
+     Cet axe supposé CA est donc un rayon connu, par lequel nous sommes certains que j'image du point A passe dans le fond de j'oeil au point C.
+    </p>
+    <p>
+     Cela posé pour constant, voyons si j'image du point A est portée au
+     <pb n="83"/>
+     <figure type="ornement"/>
+     <pb n="84"/>
+     61 fond de j'oeil simplement par cet axe, où si elle y est portée par le moyen de tous les rayons que je veux bien supposer icy qui composent un pinceau optique ABCD.
+    </p>
+    <p>
+     Par exemple si quelqu'un regarde au travers d'une vitre le point A, et qu'on luy dise de le marquer sur la vitre, le marquera-il de la grandeur NM qui est la section ou la coupe du pinceau optique? asseurement que non ; car autrement il marqueroit un cercle pour un point, et ce cercle peignant son image dans j'oeil par autant de points qu'il renfermeroit de rayons dont je ne marque icy la coupe que de trois principaux par les trois points ; sçavoir, le centre S qui coule à j'oeil par j'axe au point C, et les deux extremitez du diamettre N et M qui portent leurs images en P et O;) il s'ensuivroit que
+     <pb n="85"/>
+     <figure type="ornement"/>
+     <pb n="86"/>
+     j'image visuelle OP, que ce cercle NM peindroit dans j'oeil seroit plus grande que j'objet ou point A, ce qui seroit absurde ; car les images des objets viennent à j'œeil en se diminuant de grandeur.
+    </p>
+    <p>
+     Bien loin donc de marquer j'apparence du point A de la grandeur NM, s'il y avoit quelque chose de plus petit qu un point, le regardant s'en serviroit pour designer la place que cette apparence occuperoit dans la vitre. Cela estant je demande dans lequel de tous ces rayons ABD le regardant posera un point pour marquer j'endroit dans la vitre où il voit le point A.
+    </p>
+    <p>
+     S'il le pose dans le rayon extreme M, l'image de ce point M passera dans j'oeil au point O et le regardant verroit ces deux points A et M separez j'un de j'autre, et par consequent il nauroit pas pose
+     <pb n="87"/>
+     <figure type="ornement"/>
+     <pb n="88"/>
+     le point M sur la vitre à j'endroit où il voit le point A.
+    </p>
+    <p>
+     La mesme chose se peut démonstrer de tous les autres points qu'il poseroit dans la vitre, à la reserve du seul point S qu'il poseroit dans l'axe CA car l'image de ce point S coulant dans j'oeil precisement au point C, pour lors le regardant verroit ce point S qui luy cacheroit le point A.
+    </p>
+    <p>
+     Mais ce point S qui empescheroit j'oeil de voir le point An'intercepteroit qu'un seul rayon de tout le pinceau optique, il n'y avoit donc que le seul rayon ASC qui portoit une image sensible du point A dans le fond de j'œeil du regardant.
+    </p>
+    <p>
+     Il en est de mesme de tous les autres rayons qui coupent la cornée de j'œil à angles égaux, d'où il est évident que cen est que par
+     <pb n="89"/>
+     <figure type="ornement"/>
+     <pb n="90"/>
+     ces seuls rayons que se fait la vision distincte.
+    </p>
+    <p>
+     On me dira peut-estre qu'il est vray que le point S n interceptera que le seul rayon AC, mais que je ne songe pas que j'œeil changera de figure pour voir le point S, et qu'ayant changé de figure il ne sera plus disposé à voir le point A; et qu'ainsi il se fera un nouveau pinceau optique SBDC qui causera j'aneantissement du premier ABDC.
+    </p>
+    <p>
+     Il n'est pas difficile de respondre à cette objection : Premierement, s'il estoit vray que j'on eut la perception d'un point par une multitude de rayons réûnis sur la retine, il s'ensuivroit que le point S ne pourroit empescher de voir le point A si le regardant avoit la volonté de le voir, parce que j'œeil se disposant pour le pinceau ABDC le
+     <pb n="91"/>
+     <figure type="ornement"/>
+     <pb n="92"/>
+     second SBDC s'aneantiroit ; de sorte qu encore que ces deux points A et S fussent j'un devant j'autre, neanmoins il seroit au choix du regardant de voir lequel il voudroit des deux, ce qui est tout-à-fait contraire à j'experience (du moins à mon égard) car aprés avoir pose lepoint S, quelque essay que j aye fait, je n'ay pû revoir le point A quoy qu'il fut blanc sur un fond brun, et que le point S fut noir, et par consequent peu capable de reflechir la lumiere qui nous rend les objets visibles.
+    </p>
+    <p>
+     Secondement, il s'ensuivroit qu'on ne verroit jamais en mesme temps deux points diversement éloignez, ce que je démonstre aisement.
+    </p>
+    <p>
+     Car supposez que les points A et B peignent leurs images dans le fond de j'oeil ena et b par les pin
+     <pb n="93"/>
+     <figure type="ornement"/>
+     <pb n="94"/>
+     ceaux optiques Aeaf, Bebf, il est évident que le point O ne peindroit pas la sienne sur la retine, car ce point O envoyant des rayons divergens sur toute la partie anterieure du cristalin, ces rayons composeroient le premier cone visuel Oef ; et comme les rayons extremes Oe, Of seroient les mesmes que les rayons Be, AF, ils devroient avoir mesmes refractions.
+    </p>
+    <p>
+     Le rayon e b est la refractlon du rayon eB, ainsi le mesme rayon ebP seroit la refraction du rayon eO.
+    </p>
+    <p>
+     De mesme le rayon af est la refraction du rayon fA, le rayon faP seroit aussi la refraction du rayon Of.
+    </p>
+    <p>
+     Mais ces refractions eb, fa concourent au point P, donc le pinceau du point O ne porteroit pas sa pointe sur la retine.
+     <pb n="95"/>
+     <figure type="ornement"/>
+     <pb n="96"/>
+     Si nous examinons encore le pinceau optique du point C nous trouverons qu'il ne se termineroit pas non plus au fond de j'oeil mais en g
+    </p>
+    <p>
+     L'on ne verroit donc pas en mesme temps deux points diversement éloignez, et quand un Chasseur verroit le Lievre il ne verroit pas le bout de son fusil, bien plus il ne se feroit jamais dans j'oeil une peinture entiere de j'objet qu on voudroit voir ce que j'on reconnoistra estre la derniere absurdité si j'on y veut faire tant soit peu de reflexion. Qu'on ne dise pas que j'oeil est dans une variation perpetuelle, et qu'en examinant un objet il passe d'un point à un autre avec tant de prompitude, qu'encore qu'il ne voye les points d'un objet que successivement et j'un après j'autre, il semble qu'il les voye en mesme instant;
+     <pb n="97"/>
+     <figure type="ornement"/>
+     <pb n="98"/>
+     car ne voyons-nous pas que la lumiere entrant dans une chambre obscure par un petit verre y peint sur un mesme papier et en mesme temps des objets diversement éloignez sans qu'il soit necessaire d'apporter aucun changement dans la disposition ny du verre ny du papier pour leur donner entr'eux des distances proportionnées aux divers éloignemens des objets. Que la nature soit plus parfaite dans les choses inanimées que dans j'homme il ny a guerre d'apparence : Aussi voyons-nous d'un seul coup d'oeil des estenduës plus grandes et plus distinctement que la lumiere nen sçauroit peindre dans une chambre obscure.
+    </p>
+    <p>
+     Je remarque qu'en voyant de mon cabinet une bonne partie de <placeName ref="#Paris">Paris</placeName>, j apperçois toute cette grande estenduë de bastiment bornée
+     <pb n="99"/>
+     et tranchée net par le contour du chassis de la fenestre par laquelle je regarde, ce qui m'est une preuve qu en regardant des objets fort éloignez ceux qui sont prés ne laissent pas de se peindre nettement dans j'œil.
+    </p>
+    <p>
+     Il est vray que lors qu'il s'agit d'avoir une veritable connoissance des choses que je regarde, je les examine partie à partie, et que dans j'instant que je lis les premiers mots d'une page d'écriture, je n'apperçois pas quels peuvent estre les mots qui suivent, mais de cela il ne s'ensuit pas qu'il ne se peint dans mon oeil qu'un seul mot a la fois: car ne jugeons-nous pas d'un seul coup d'oeil si tout une page d'écriture est d'un beau caractere, sans sçavoir ce qu elle contient ny si elle est Françoise ou Latine? Que si je ne connois pas plusieurs mots à
+     <pb n="100"/>
+     la fois, c'est que la combinaison qu'il faut faire des caracteres demande une reflexion particulicre à chaque mot. Vous ne disconvenez pas de cela, dittes-vous, et neanmoins vous pretendez prouver que toute une page d'écriture se peut peindre dans j'oeil et dans un instant par des pinceaux optiques, mais supposez que vous en puissiez prouver la possibilité, ce n'est pas assez, et il faut faire voir que la chose se fait effectivement, et c'est ce que jamais vous ne sçauriez en cette occasion, car si les points ABC se peignoient dans l'œil és points FGH par les trois pinceaux optiques ADFE, BDGE CDHE comme vous nous le voulez persuader, il s'ensuivroit que quand on abaisseroit la paupiere superieure sur la moitié ou les deux tiers de la prunelle de j'oeil, on ne
+     <pb n="101"/>
+     <figure type="ornement"/>
+     <pb n="102"/>
+     laisseroit pas de voir j'objet ABC tout entier, parce qu'il entreroit encore dans j'oeil des rayons de chacun de ces trois pinceaux : Or c'est ce qui n'arrive pas, car à mesure que j'on abaisse la paupiere j'objet se couvre, c'est à dire que si j'on abaisse la paupière jusques sur la moitié ou les deux tiers de la prunelle on ne voit plus que la moitie ou les deux tiers de I1 bjet ABC.
+    </p>
+    <p>
+     De plus je prouveray dans le traitè qui suit que les rayons qui tombent divergens sur le cristalin ne sont pas faits convergens sur la retine ou fond de j'œeil, ce qui renverse encore davantage cette hypothese que je croy avoir déja assez combattuë.
+    </p>
+    <p>
+     Ne parlons donc plus de pinceaux optiques! mais faisons voir que si les rayons par lesquels on voir dil
+     <pb n="103"/>
+     <figure type="ornement"/>
+     <pb n="104"/>
+     tinctement souffrent quelqus refractions dans j'oeil, ce ne peut estre qu'apres s'estre rencontrez en un seul point.
+    </p>
+    <p>
+     C'est un axiome de dioptrique què les rayons qui tombent à angles égaux sur un corps diaphane ne souffrent point de refraction en le penetrant.
+    </p>
+    <p>
+     Or les rayons par lesquels nous voyons distinctement, comme je l'ay prouvé, tombent à angles égaux sur la cornée ou prunelle de j'oeil, et par consequent ils la penetrent sans refraction.
+    </p>
+    <p>
+     Ils tombent aussi à angles égaux sur la partie anterieure du cristalin, car selon toutes les apparences le cristalin est concentrique à la cornée. Donc ils penetrent aussi le cristalin sans refraction, et comme la cornée et le cristalin sont de convexité spherique, les rayons visuels qui les penetrent doivent tendre à
+     <pb n="105"/>
+     <figure type="ornement"/>
+     <pb n="106"/>
+     un seul point A, mais ce point est dans le cristalin mesme. Donc ces rayons se réunissent à un seul point dans j'oeil sans avoir souffert aucune refraction : Voilà je pense ce que je m'estois propose de prouver pour faire voir que c'est avec raison que les Peintres conduisent les images visuelles à j'œeil par des rayons ou lignes droites qui tendent à se réunir a un seul point.
+    </p>
+    <p>
+     FIN.
+    </p>
+   </div>
+   <div>
+    <pb n="107"/>
+    <head>
+     Extrait du Privilege du Roy.
+    </head>
+    <p>
+     )Ar Grace et Privilege du Roy, donné à S. Germain en Laye le 2. Aoust <date when="1679">1679</date>. il est permis au Sicur Sebastien le Clerc nostre Dessinateur et Graveur ordinaire, de faire imprimer par tel Imprimeur ou Libraire qu'il luy plaira, un Discours touchant le Point de Veue, etc. et ce durant le temps, et e space de six années, à compter du jour qu il seraachevé d'estre imprimé pour la premiere fois; et deffences sont faites à toutes personnes de quelque qualité qu'ils soient d'imprimer, vendre ny distribuer ledit Livre sans le consentement dudit Exposant, à peine de deux mille livres d'amende, ainsi qu'il est plusamplement porté par lesdites Lettres.
+    </p>
+    <p>
+     Et ledit Sicur le Clerc a cedé le present droit de Privilege à THOMAS JOLLY, Libraire Juré à <placeName ref="#Paris">Paris</placeName>, pour en jouir suivany j'accord fait entr'eux.
+    </p>
+    <p>
+     Registré fur Livre de la Communautem des Marchands Libraires et Imprimeurs de <placeName ref="#Paris">Paris</placeName> le troiAoust <date when="1679">1679</date>. Signé COUTTEROT Scyndicq.
+    </p>
+    <p>
+     Achevé d'imprimer le 12. Aoust <date when="1679">1679</date>.
+    </p>
+    <pb n="108"/>
+    <pb n="109"/>
+    <pb n="110"/>
+    <pb n="111"/>
+    <pb n="112"/>
+    <pb n="113"/>
+    <pb n="114"/>
+   </div>
+  </body>
+ </text>
+</TEI>
