@@ -3897,7 +3897,9 @@
   </define>
   <define name="attlist.objectName" combine="interleave">
     <optional>
-      <attribute name="calendar"/>
+      <attribute name="ref">
+        <ref name="teidata.pointer"/>
+      </attribute>
     </optional>
   </define>
   <!-- doc:(occupation) contains an informal description of a person's trade, profession or occupation. [16.2.2. The Participant Description] -->
