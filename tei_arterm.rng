@@ -4038,6 +4038,11 @@
         </choice>
       </attribute>
     </optional>
+    <optional>
+      <attribute name="facs">
+        <text/>
+      </attribute>
+    </optional>
   </define>
   <!-- doc:(personal name) contains a proper noun or proper-noun phrase referring to a person, possibly including one or more of the person's forenames, surnames, honorifics, added names, etc. [14.2.1. Personal Names] -->
   <define name="persName">
