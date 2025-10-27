@@ -3424,9 +3424,12 @@
     </element>
   </define>
   <define name="attlist.listObject" combine="interleave">
-    <ref name="tei_att.global.attributes"/>
-    <ref name="tei_att.typed.attributes"/>
-    <ref name="tei_att.sortable.attributes"/>
+    <optional>
+      <attribute name="type"/>
+    </optional>
+    <optional>
+      <attribute name="subtype"/>
+    </optional>
   </define>
   <!-- doc:(list of persons) contains a list of descriptions, each of which provides information about an identifiable person or a group of people, for example the participants in a language interaction, or the people referred to in a historical source. [14.3.2. The Person Element 16.2. Contextual Information 2.4. The Profile Description 16.3.2. Declarable Elements] -->
   <define name="listPerson">
@@ -4009,6 +4012,7 @@
             <ref name="model.personLike"/>
             <ref name="listPerson"/>
             <ref name="listOrg"/>
+            <ref name="listObject"></ref>
           </choice>
         </oneOrMore>
       </choice>
