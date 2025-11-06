@@ -1131,14 +1131,14 @@
                            Antoine</persName> en grava quelques unes qui sont.</p>
                   </item>
                   <pb n="75" facs="https://gallica.bnf.fr/ark:/12148/bpt6k1503469p/f93.item"/>
-                  <item>25. <objectName ref="#https://www.wikidata.org/wiki/Q125732373">La Predication de <persName ref="#SaintPaul">saint
+                  <item>25. <objectName ref="#RaimondiPredicationSaintPaul">La Predication de <persName ref="#SaintPaul">saint
                            Paul</persName>
                      </objectName>.</item>
                   <item>26. <objectName>Le Martyre de <persName ref="#SaintEtienne">Sainct
                            Estienne</persName>
                      </objectName>.</item>
                   <item>27. <objectName ref="#VenezianoElymas">L'aveugle Illuminé</objectName>.</item>
-                  <item>28. <objectName>L'Histoire de <persName ref="#SimonMagicien">Simon
+                  <item>28. <objectName ref="#VenezianoAnanias">L'Histoire de <persName ref="#SimonMagicien">Simon
                            Magus</persName>
                      </objectName>.</item>
                   <item>29. Puis <objectName>une Sibille qui lict, et un enfant qui luy
@@ -1194,7 +1194,7 @@
                   dessein de <persName ref="#Raphael">Raphael</persName>. Outre cela il tailla aussi
                      <objectName>une Justice tirée des desseins des Tapisseries</objectName>: puis
                   il tailla <objectName ref="#RaimondiAurore">l'Aurore à laquelle les heures donne des brides pour
-                     conduire ses Chevaux</objectName>: puis les <objectName>trois graces tirées de
+                     conduire ses Chevaux</objectName>: puis les <objectName ref="#RaimondiTroisGraces">trois graces tirées de
                         l'Antique</objectName>, et <objectName ref="#RaimondiMadeleineMarie">une Histoire de <persName ref="#Marie"
                         >la Vierge</persName> qui monte au Temple</objectName>. <persName
                      ref="#GiulioRomano">Jules Romain</persName> qui du temps de <persName
@@ -1226,7 +1226,7 @@
                   fameux escrivit des Sonnets encores plus lassifs; dequoy <persName
                      ref="#ClementVII">le Pape</persName> estant en collere fit mettre <persName
                      ref="#MarcantonioRaimondi">Marc Antoine</persName> prisonnier; mais apres qu'il
-                  fut dehors il acheva de graver <objectName>le beau Martire de <persName
+                  fut dehors il acheva de graver <objectName ref="#RaimondiMartyreSaintLaurent">le beau Martire de <persName
                         ref="#SaintLaurent">S. Laurent</persName>
                   </objectName> de <persName ref="#BaccioBandinelli">Baccio Bandinelle</persName>,
                   ou il reussit si bien qu'il en tira des Louanges de la bouche du <persName
@@ -1250,7 +1250,7 @@
                   suivent.</p>
                <list rend="bulleted">
                   <item>
-                     <objectName>Un <persName ref="#Jesus">Christ</persName> mort</objectName>,
+                     <objectName ref="#RaimondiMariesPleurantChristMort">Un <persName ref="#Jesus">Christ</persName> mort</objectName>,
                      couché <pb n="82"
                         facs="https://gallica.bnf.fr/ark:/12148/bpt6k1503469p/f100.item"/>par terre
                      au pieds duquel sont <persName ref="#SaintJean">S. Jean</persName>, la
@@ -1279,11 +1279,11 @@
                            >Roxane</persName>
                      </objectName> qui luy presente une Couronne Royalle, accompagnée de plusieurs
                      petits amours.</item>
-                  <item> Ils taillerent encores <objectName>la Cene de Nostre Seigneur, avec ses
+                  <item> Ils taillerent encores <objectName ref="#DenteCene">la Cene de Nostre Seigneur, avec ses
                         Apostres</objectName> assez grande.</item>
-                  <item>Plus <objectName>une Annonciation</objectName>, tout sur les desseins de
+                  <item>Plus <objectName ref="#DenteAnnonciation">une Annonciation</objectName>, tout sur les desseins de
                         <persName ref="#Raphael">Raphael</persName>.</item>
-                  <item>Ensuitte dequoy ils taillerent <objectName>deux Histoires des Nopces de
+                  <item>Ensuitte dequoy ils taillerent <objectName ref="#VenezianoPsyche">deux Histoires des Nopces de
                            <persName ref="#Psyche">Psiché</persName>
                      </objectName>, que <persName ref="#Raphael">Raphael</persName> avoit peinte peu
                      auparavant.</item>
@@ -1311,14 +1311,14 @@
                      Rouge</objectName>, <objectName>
                      <persName ref="#Moise">Moïse</persName> qui reçoit les Tables de la <pb n="85"
                         facs="https://gallica.bnf.fr/ark:/12148/bpt6k1503469p/f103.item"
-                     />Loy</objectName>, <objectName>la Manne</objectName>, <objectName>
+                     />Loy</objectName>, <objectName ref="#VenezianoManne">la Manne</objectName>, <objectName>
                      <persName ref="#David">David</persName> qui tue <persName ref="#Goliath"
                         >Goliât</persName>
                   </objectName>. Celle-là avoit des-ja esté gravé par <persName
                      ref="#MarcantonioRaimondi">Marc Antoine</persName>. <objectName>
                      <persName ref="#Salomon">Salomon</persName> qui édifie le Temple</objectName>,
-                     <objectName>son Jugement</objectName>, Et <objectName>la visite que la Reyne de
-                     Saba luy rendit</objectName>. Puis ils en graverent quelques unes du nouueau
+                     <objectName>son Jugement</objectName>, Et <objectName ref="#RaimondiReineSaba">la visite que la Reyne de
+                     Saba luy rendit</objectName>. Puis ils en graverent quelques unes du nouveau
                   Testament qui suiuent, <objectName>La Nativité de N. Seigneur</objectName>,
                      <objectName>La Resurrection</objectName>, <objectName>La Descente du S. Esprit
                      sur les Apostres</objectName>, toutes lesquelles furent Imprimées du vivant de
@@ -1333,11 +1333,11 @@
                   </objectName>.</p>
                <p>
                   <persName ref="#BaccioBandinelli">Baccio</persName> ensuitte fit encores graver
-                     <objectName>le Martire des Innocents</objectName>, qu'il avoit desseigné.</p>
+                     <objectName ref="#DenteMassacreInnocents">le Martire des Innocents</objectName>, qu'il avoit desseigné.</p>
                <p>
                   <persName ref="#AgostinoVeneziano">Augustin Venitien</persName> partant de
                      <placeName ref="#Rome">Rome</placeName> pour <placeName ref="#Florence"
-                     >Florence</placeName>, grava <objectName>un Christ mort, soustenu par trois
+                     >Florence</placeName>, grava <objectName ref="#VenezianoChristTroisAnges">un Christ mort, soustenu par trois
                      Anges</objectName>, sur le dessein d'<persName ref="#AndreaDelSarto">Andre del
                      Sarto</persName>, et <persName ref="#MarcoDente">Marc de Ravenne</persName>
                   grava aussi beaucoup d'autres pieces apres sa separation d'<persName
@@ -1348,13 +1348,13 @@
                   planches pour imprimer sur du papier de couleur avec du rehaut, c'est le premier
                   qui en a trouvé <pb n="87"
                      facs="https://gallica.bnf.fr/ark:/12148/bpt6k1503469p/f105.item"/>l'invention.
-                  Il commença par <objectName>la Sibille qui lit avec un enfant qui tient un
+                  Il commença par <objectName ref="#DaCarpiSybilleFlambeau">la Sibille qui lit avec un enfant qui tient un
                      Flambeau</objectName>, et voyant qu'il reussissoit il en tailla encores
                   d'autres. <objectName>L'Embrazement de <placeName ref="#Troie">Troye</placeName>
-                  </objectName>, <objectName>une descente de Croix</objectName>,
-                     <objectName>l'Histoire de <persName ref="#SimonMagicien">Simon Magus</persName>
+                  </objectName>, <objectName ref="#DaCarpiDescenteCroix">une descente de Croix</objectName>,
+                     <objectName ref="#DaCarpiMortAnanias">l'Histoire de <persName ref="#SimonMagicien">Simon Magus</persName>
                   </objectName>, desja gravée par les autres, sur les desseins de <persName
-                     ref="#Raphael">Raphael</persName>. Ensuitte il tailla <objectName>
+                     ref="#Raphael">Raphael</persName>. Ensuitte il tailla <objectName ref="#DaCarpiDavidGoliath">
                      <persName ref="#David">David</persName> qui tue <persName ref="#Goliath"
                         >Goliât</persName>
                   </objectName>, <objectName>La fuitte des Philistins, avec une <persName
