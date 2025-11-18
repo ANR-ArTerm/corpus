@@ -267,8 +267,14 @@
       <ref name="teidata.pointer"/>
     </attribute>
   </define>
+  <define name="tei_att.canonical.attribute.key">
+    <attribute name="key">
+      <ref name="teidata.text"/>
+    </attribute>
+  </define>
   <define name="tei_att.canonical.attributes">
     <ref name="tei_att.canonical.attribute.ref"/>
+    <ref name="tei_att.canonical.attribute.key"/>
   </define>
   <define name="tei_att.datable.w3c.attribute.when">
     <optional>
@@ -1346,6 +1352,7 @@
     <ref name="tei_att.global.attributes"/>
     <ref name="tei_att.typed.attributes"/>
     <ref name="tei_att.sortable.attributes"/>
+    <ref name="tei_att.canonical.attributes"/>
   </define>
   <!-- doc:(fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI file description are present. [3.12.1. Methods of Encoding Bibliographic References and Lists of References 2.2. The File Description 2.2.7. The Source Description 16.3.2. Declarable Elements] -->
   <define name="biblFull">
