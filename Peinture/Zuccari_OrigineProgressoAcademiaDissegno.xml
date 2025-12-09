@@ -160,9 +160,9 @@
 			<div type="poeme" xml:lang="ita" n="3">
 				<head rend="capitals">AL SIGNOR CAVALIER <persName ref="#FedericoZuccaro">ZUCCARO,
 					</persName></head>
-				<head>Havendo egli dipinto <objectName>il Beato <persName ref="#CarloBorromeo">
-							<hi rend="capitals">CARLO</hi> Borromeo</persName></objectName>, quando
-					prese l'habito di Cardinale.</head>
+				<head>Havendo egli dipinto <objectName ref="#ZuccariCardinaleBorromeo">il Beato <persName ref="#CarloBorromeo">
+							<hi rend="capitals">CARLO</hi> Borromeo</persName>, quando
+					prese l'habito di Cardinale</objectName>.</head>
 				<head>Sonetto del Signor <persName ref="#GiovanniGiorgi">Giovanni
 					Giorgi</persName>.</head>
 				<lg rend="it">
@@ -425,7 +425,7 @@
 
 			<div type="avis" xml:lang="ita" n="2">
 				<p>Io <persName>Frat'Aurelio da Lodi</persName>, Lettore primo di Sacra
-						Theologia nel <objectName>Convento di San Thomaso di <placeName
+					Theologia nel <objectName ref="#SaintThomasPavie">Convento di San Thomaso di <placeName
 							ref="#Pavie">Pavia</placeName></objectName>, e Consultore Theologo del
 					Sant'Offitio, ho veduto il presente libro intitolato,
 						Origine, et progresso dell'Academia del Dissegno,
@@ -486,8 +486,8 @@
 							>Signor Principe</persName>, et da esso <persName
 							ref="#FedericoBorromeo">Signor Principe</persName> l'eletione de suoi
 						coadiutori, e consiglieri, et altri officiali nel luoco destinato, sotto il
-							<placeName ref="#Capitole">Campidoglio</placeName> in <objectName>Santa
-							Martina</objectName>, e suo ristretto; fece la sua prima radunanza, et
+							<placeName ref="#Capitole">Campidoglio</placeName> in Santa
+							Martina, e suo ristretto; fece la sua prima radunanza, et
 						prima Academia, sotto il dì <date when="1593-11-14">14 di Novembre del
 							1593</date> et una buona, e convenevole essortatione a tutti gli
 						Academici fratelli, che presente all'hora si trovorno in assai buon numero,
@@ -501,16 +501,16 @@
 						<p>
 							<figure type="lettrine"/><hi rend="capitals">RADUNATOSI</hi> questi
 							spiritosi ingegni, e nobilissimi intelletti nel sudetto luogo di
-								<objectName>Santa Martina</objectName>, sotto il <placeName
+								Santa Martina, sotto il <placeName
 								ref="#Capitole">Campidoglio</placeName>, dove di già si è
-							principiata la nostra nuova <objectName>Chiesa di San Luca Evangelista</objectName>
+							principiata la nostra nuova <objectName ref="#SaintLucEtMartineRome">Chiesa di San Luca Evangelista</objectName>
 							nostro Avvocato, e quivi trovato un luogo assai capace per potersi
 							ridurre insieme, e fare una nobilissima Academia. Il detto <persName
 								ref="#FedericoZuccaro">Signor Principe</persName> fece di un fenile,
 							a che serviva, quel luogo ben presto al meglio che si potè accommodare
 							per Academia, così provisto di sedie, banchi,
 							tavole, e tavolino, e simili altre cose, con un Altare in capo ad essa
-								Academia, con <objectName>l'imagine della
+								Academia, con <objectName ref="#RaphaelStLuc">l'imagine della
 								gloriosa <persName ref="#Marie">Vergine</persName>, e di <persName
 									ref="#SaintLuc">San Luca</persName></objectName>. Riduttosi,
 							come detto abbiamo, tutti quei Pittori, Scultori, et Architetti, che si
@@ -586,7 +586,7 @@
 							l'istesso Sommo, e <persName ref="#ClementVIII">Santo
 								Pontefice</persName> ci sovvenirà di gratie, e doni suoi
 							particolari, tanto spirituali, come corporali, per edificatione della
-								<objectName>Chiesa, et Tempio nostro di <persName ref="#SaintLuc">San
+								<objectName ref="#SaintLucEtMartine">Chiesa, et Tempio nostro di <persName ref="#SaintLuc">San
 									Luca</persName></objectName>
 							, che solo manca in <placeName ref="#Rome">Roma</placeName>
 							delli quattro Evangelisti, si che inanimiamoci<pb n="4"/>tutti a fare
