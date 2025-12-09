@@ -1,35 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI>
-  <settingDesc xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <settingDesc>
     <listPlace>
-      <place xml:id="FertéSousJouarre" source="https://www.wikidata.org/wiki/Q907721"></place>
-      <place xml:id="ChalonsenChampagne" source="https://www.wikidata.org/wiki/Q47135"></place>
-      <place xml:id="Fraize" source="https://www.wikidata.org/wiki/Q957731"></place>
-      <place xml:id="SaintNicolaDePort" source="https://www.wikidata.org/wiki/Q125278"></place>
-      <place xml:id="Nancy" source="https://www.wikidata.org/wiki/Q40898"></place>
-      <place xml:id="Toul" source="https://www.wikidata.org/wiki/Q154728"></place>
-      <place xml:id="BarLeDuc" source="https://www.wikidata.org/wiki/Q185721"></place>
-      <place xml:id="Lorraine" source="https://www.wikidata.org/wiki/Q1137"></place>
-      <place xml:id="VitryLeFrancois" source="https://www.wikidata.org/wiki/Q623374"></place>
-      <place xml:id="Meaux" source="https://www.wikidata.org/wiki/Q207620"></place>
-      <place xml:id="SaintDenis" source="https://www.wikidata.org/wiki/Q160506"></place>
-      <place xml:id="Lydie" source="https://www.wikidata.org/wiki/Q620765"></place>
-      <place xml:id="SaintAntoineLAbbaye" source="https://www.wikidata.org/wiki/Q28530461"></place>
-      <place xml:id="Gallarate" source="https://www.wikidata.org/wiki/Q40854"></place>
-      <place xml:id="Gaillon" source="https://www.wikidata.org/wiki/Q627220"></place>
-      <place  xml:id="Amboise" source="https://www.wikidata.org/wiki/Q205116"></place>
-      <place xml:id="SainteColombe" source="https://www.wikidata.org/wiki/Q770710"></place>      
-      <place xml:id="Beaune" source="https://www.wikidata.org/wiki/Q16121"></place>
-      <place xml:id="Vanzaghello" source="https://www.wikidata.org/wiki/Q42825"></place>
-      <place xml:id="PontSaintEsprit" source="https://www.wikidata.org/wiki/Q243074"></place>
-      <place xml:id="IlesDHyeres" source="https://www.wikidata.org/wiki/Q292728"></place>
-      <place xml:id="SalonDeProvence" source="https://www.wikidata.org/wiki/Q232567"></place>
-      <place xml:id="ChateauneufDuPape" source="https://www.wikidata.org/wiki/Q338877"></place>
-      <place xml:id="Bollene" source="https://www.wikidata.org/wiki/Q331579"></place>
-      <place xml:id="Mornas" source="https://www.wikidata.org/wiki/Q470952"></place>
-      <place xml:id="Roquemaure" source="https://www.wikidata.org/wiki/Q322376"></place>
-      <place xml:id="SaintQuentin" source="https://www.wikidata.org/wiki/Q182744"></place>
-      <place xml:id="Vervins" source="https://www.wikidata.org/wiki/Q209840"></place>
       <place xml:id="Calidonia" />
       <place xml:id="Adee" />
       <place xml:id="Cotton" />
@@ -1192,6 +1164,28 @@
         </location>
         <idno type="wikidata">Q23824393</idno>
       </place>
+      <place xml:id="Amboise" source="https://www.wikidata.org/wiki/Q205116"><placeName xml:lang="fra">Amboise</placeName><placeName xml:lang="ita">Amboise</placeName><location><country>France</country><geo>47.411388888889 0.9825</geo></location><idno type="wikidata">Q205116</idno></place>
+      <place xml:id="BarLeDuc" source="https://www.wikidata.org/wiki/Q185721"><placeName xml:lang="fra">Bar-le-Duc</placeName><placeName xml:lang="ita">Bar-le-Duc</placeName><location><country>France</country><geo>48.771666666667 5.1672222222222</geo></location><idno type="wikidata">Q185721</idno></place>
+      <place xml:id="Beaune" source="https://www.wikidata.org/wiki/Q16121"><placeName xml:lang="fra">Beaune</placeName><placeName xml:lang="ita">Beaune</placeName><location><country>France</country><geo>47.024166666667 4.8388888888889</geo></location><idno type="wikidata">Q16121</idno></place>
+      <place xml:id="Bollene" source="https://www.wikidata.org/wiki/Q331579"><placeName xml:lang="fra">Bollène</placeName><placeName xml:lang="ita">Bollène</placeName><location><country>France</country><geo>44.280277777778 4.7488888888889</geo></location><idno type="wikidata">Q331579</idno></place>
+      <place xml:id="ChalonsenChampagne" source="https://www.wikidata.org/wiki/Q47135"><placeName xml:lang="fra">Châlons-en-Champagne</placeName><placeName xml:lang="ita">Châlons-en-Champagne</placeName><location><country>France</country><geo>48.956666666667 4.3644444444444</geo></location><idno type="wikidata">Q47135</idno></place>
+      <place xml:id="ChateauneufDuPape" source="https://www.wikidata.org/wiki/Q338877"><placeName xml:lang="fra">Châteauneuf-du-Pape</placeName><placeName xml:lang="ita">Châteauneuf-du-Pape</placeName><location><country>France</country><geo>44.056388888889 4.8316666666667</geo></location><idno type="wikidata">Q338877</idno></place>
+      <place xml:id="Gaillon" source="https://www.wikidata.org/wiki/Q627220"><placeName xml:lang="fra">Gaillon</placeName><placeName xml:lang="ita">Gaillon</placeName><location><country>France</country><geo>49.160277777778 1.3358333333333</geo></location><idno type="wikidata">Q627220</idno></place>
+      <place xml:id="FertéSousJouarre" source="https://www.wikidata.org/wiki/Q907721"><placeName xml:lang="fra">La Ferté-sous-Jouarre</placeName><placeName xml:lang="ita">La Ferté-sous-Jouarre</placeName><location><country>France</country><geo>48.949166666667 3.1294444444444</geo></location><idno type="wikidata">Q907721</idno></place>
+      <place xml:id="Lorraine" source="https://www.wikidata.org/wiki/Q1137"><placeName xml:lang="fra">Lorraine</placeName><placeName xml:lang="ita">Lorena</placeName><location><country>France</country><geo>48.6 6.4872222222222</geo></location><idno type="wikidata">Q1137</idno></place>
+      <place xml:id="Meaux" source="https://www.wikidata.org/wiki/Q207620"><placeName xml:lang="fra">Meaux</placeName><placeName xml:lang="ita">Meaux</placeName><location><country>France</country><geo>48.959444444444 2.8877777777778</geo></location><idno type="wikidata">Q207620</idno></place>
+      <place xml:id="Mornas" source="https://www.wikidata.org/wiki/Q470952"><placeName xml:lang="fra">Mornas</placeName><placeName xml:lang="ita">Mornas</placeName><location><country>France</country><geo>44.2025 4.7280555555556</geo></location><idno type="wikidata">Q470952</idno></place>
+      <place xml:id="PontSaintEsprit" source="https://www.wikidata.org/wiki/Q243074"><placeName xml:lang="fra">Pont-Saint-Esprit</placeName><placeName xml:lang="ita">Pont-Saint-Esprit</placeName><location><country>France</country><geo>44.256388888889 4.6483333333333</geo></location><idno type="wikidata">Q243074</idno></place>
+      <place xml:id="Roquemaure" source="https://www.wikidata.org/wiki/Q322376"><placeName xml:lang="fra">Roquemaure</placeName><placeName xml:lang="ita">Roquemaure</placeName><location><country>France</country><geo>44.051666666667 4.7783333333333</geo></location><idno type="wikidata">Q322376</idno></place>
+      <place xml:id="SaintAntoineLAbbaye" source="https://www.wikidata.org/wiki/Q28530461"><placeName xml:lang="fra">Saint Antoine l'Abbaye</placeName><placeName xml:lang="ita">Saint Antoine l'Abbaye</placeName><location><country>France</country><geo>45.175 5.2166666666667</geo></location><idno type="wikidata">Q28530461</idno></place>
+      <place xml:id="SaintDenis" source="https://www.wikidata.org/wiki/Q160506"><placeName xml:lang="fra">Saint-Denis</placeName><placeName xml:lang="ita">Saint-Denis</placeName><location><country>France</country><geo>48.935555555556 2.3538888888889</geo></location><idno type="wikidata">Q160506</idno></place>
+      <place xml:id="SaintNicolaDePort" source="https://www.wikidata.org/wiki/Q125278"><placeName xml:lang="fra">Saint-Nicolas-de-Port</placeName><placeName xml:lang="ita">Saint-Nicolas-de-Port</placeName><location><country>France</country><geo>48.630833333333 6.3022222222222</geo></location><idno type="wikidata">Q125278</idno></place>
+      <place xml:id="SaintQuentin" source="https://www.wikidata.org/wiki/Q182744"><placeName xml:lang="fra">Saint-Quentin</placeName><placeName xml:lang="ita">San Quintino</placeName><location><country>France</country><geo>49.847777777778 3.2855555555556</geo></location><idno type="wikidata">Q182744</idno></place>
+      <place xml:id="SainteColombe" source="https://www.wikidata.org/wiki/Q770710"><placeName xml:lang="fra">Sainte-Colombe</placeName><placeName xml:lang="ita">Sainte-Colombe</placeName><location><country>France</country><geo>45.525277777778 4.8666666666667</geo></location><idno type="wikidata">Q770710</idno></place>      
+      <place xml:id="SalonDeProvence" source="https://www.wikidata.org/wiki/Q232567"><placeName xml:lang="fra">Salon-de-Provence</placeName><placeName xml:lang="ita">Salon-de-Provence</placeName><location><country>France</country><geo>43.640555555556 5.0972222222222</geo></location><idno type="wikidata">Q232567</idno></place>
+      <place xml:id="Vervins" source="https://www.wikidata.org/wiki/Q209840"><placeName xml:lang="fra">Vervins</placeName><placeName xml:lang="ita">Vervins</placeName><location><country>France</country><geo>49.835 3.9091666666667</geo></location><idno type="wikidata">Q209840</idno></place>
+      <place xml:id="VitryLeFrancois" source="https://www.wikidata.org/wiki/Q623374"><placeName xml:lang="fra">Vitry-le-François</placeName><placeName xml:lang="ita">Vitry-le-François</placeName><location><country>France</country><geo>48.724722222222 4.5844444444444</geo></location><idno type="wikidata">Q623374</idno></place>
+      <place xml:id="IlesDHyeres" source="https://www.wikidata.org/wiki/Q292728"><placeName xml:lang="fra">îles d'Hyères</placeName><placeName xml:lang="ita">Isole di Hyères</placeName><location><country>France</country><geo>43.01 6.4045</geo></location><idno type="wikidata">Q292728</idno></place>
       <place xml:id="Argos" source="https://www.wikidata.org/wiki/Q189901">
         <placeName xml:lang="fra">Argos</placeName>
         <placeName xml:lang="ita">Argo</placeName>
@@ -2469,6 +2463,8 @@
         </location>
         <idno type="wikidata">Q2028</idno>
       </place>
+      <place xml:id="Gallarate" source="https://www.wikidata.org/wiki/Q40854"><placeName xml:lang="fra">Gallarate</placeName><placeName xml:lang="ita">Gallarate</placeName><location><country>Italie</country><geo>45.6649 8.7914</geo></location><idno type="wikidata">Q40854</idno></place>
+      <place xml:id="Vanzaghello" source="https://www.wikidata.org/wiki/Q42825"><placeName xml:lang="fra">Vanzaghello</placeName><placeName xml:lang="ita">Vanzaghello</placeName><location><country>Italie</country><geo>45.583333333333 8.7833333333333</geo></location><idno type="wikidata">Q42825</idno></place>
       <place xml:id="Tyr" source="https://www.wikidata.org/wiki/Q82070">
         <placeName xml:lang="fra">Tyr</placeName>
         <placeName xml:lang="ita">Tiro</placeName>
@@ -2837,6 +2833,7 @@
         </location>
         <idno type="wikidata">Q47611</idno>
       </place>
+      <place xml:id="Nancy" source="https://www.wikidata.org/wiki/Q40898"><placeName xml:lang="fra">Nancy</placeName><placeName xml:lang="ita">Nancy</placeName><location><country>duché de Lorraine</country><geo>48.692777777778 6.1836111111111</geo></location><idno type="wikidata">Q40898</idno></place>
       <place xml:id="Pavie" source="https://www.wikidata.org/wiki/Q6259">
         <placeName xml:lang="fra">Pavie</placeName>
         <placeName xml:lang="ita">Pavia</placeName>
@@ -3067,6 +3064,7 @@
         </location>
         <idno type="wikidata">Q858</idno>
       </place>
+      <place xml:id="Lydie" source="https://www.wikidata.org/wiki/Q620765"><placeName xml:lang="fra">Lydie</placeName><placeName xml:lang="ita">Lidia</placeName><location><region type="continent">Asie</region><country>Turquie</country><geo>40 30</geo></location><idno type="wikidata">Q620765</idno></place>
       <place xml:id="Jerusalem" source="https://www.wikidata.org/wiki/Q1218">
         <placeName xml:lang="fra">Jérusalem</placeName>
         <placeName xml:lang="ita">Gerusalemme</placeName>
@@ -3301,6 +3299,8 @@
         </location>
         <idno type="wikidata">Q7880</idno>
       </place>
+      <place xml:id="Fraize" source="https://www.wikidata.org/wiki/Q957731"><placeName xml:lang="fra">Fraize</placeName><placeName xml:lang="ita">Fraize</placeName><location><region type="continent">Europe</region><country>France</country><geo>48.185833333333 7.0013888888889</geo></location><idno type="wikidata">Q957731</idno></place>
+      <place xml:id="Toul" source="https://www.wikidata.org/wiki/Q154728"><placeName xml:lang="fra">Toul</placeName><placeName xml:lang="ita">Toul</placeName><location><region type="continent">Europe</region><country>France</country><geo>48.675 5.891666667</geo></location><idno type="wikidata">Q154728</idno></place>
       <place xml:id="Grece" source="https://www.wikidata.org/wiki/Q41">
         <placeName xml:lang="fra">Grèce</placeName>
         <placeName xml:lang="ita">Grecia</placeName>
