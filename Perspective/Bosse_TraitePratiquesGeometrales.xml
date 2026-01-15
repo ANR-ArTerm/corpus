@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Note : 11.5/15 -->
+<?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main"> Bosse_TraitePratiquesGeometrales </title>
+				<title xml:lang="fra"> Bosse_TraitePratiquesGeometrales </title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher> tranScriptorium </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<title type="main"> Bosse_TraitePratiquesGeometrales </title>
+					<title xml:lang="fra"> Bosse_TraitePratiquesGeometrales </title>
 					<idno type="Transkribus"> 6321907 </idno>
 				</bibl>
 			</sourceDesc>
@@ -22,14 +23,13 @@
 		<front>
 			<titlePage type="titre">
 				<pb n="1"/>
-				<docTitle>TRAITE DES PRATIQUES GEOMETRALES ET PERSPECTIVES, ENSEIGNEES DANS L'ACADEMIE ROYALE DE LA PEINTVRE ET SCVLTVRE.<!-- Pourquoi avoir mis 2 fois le titre ? 1. pas de texte autorisé ici directement 2. le titre n'est pas écrit 2 fois. Il ne faut pas rajouter du texte -->
-					<titlePart type="main">TRAITE DES PRATIQUES GEOMETRALES ET PERSPECTIVES</titlePart>
+				<docTitle><titlePart type="main">TRAITE DES PRATIQUES GEOMETRALES ET PERSPECTIVES</titlePart>
 					<titlePart type="sub">ENSEIGNEES DANS L'ACADEMIE ROYALE DE LA PEINTVRE ET SCVLPTVRE.</titlePart>
 				</docTitle>
 				<byline>
 					<docAuthor ref="#A.Bosse">Par A. BOSSE</docAuthor>
-					<p>Tres utiles pour ceux qui desirent exceller en ces Arts, et autres, où il faut employer la Regle et le Compas.</p><!-- Pas de <p> ici ! -->
 				</byline>
+					<titlePart type="sub"> Tres utiles pour ceux qui desirent exceller en ces Arts, et autres, où il faut employer la Regle et le Compas.</titlePart>
 				<figure type="ornement"/>
 				<docImprint>
 					<pubPlace>A PARIS,</pubPlace>
@@ -41,7 +41,7 @@
 			<pb n="2"/>
 			<pb n="3"/>
 			<figure type="ornement"/>
-			<div>
+			<div type="dedicace">
 				<p>Apres la connoissance qu'a euë toute l'Europe, de la passion que vous avez,<pb n="4"/> de faire arriver les beaux Arts au comble de
 					leur perfection, et de la soigneuse recherche que vous avez faite des plus excellens hommes du Siecle, en la Theorie et la
 					Pratique de chacun d'eux, Si javois publié quelques Exemplaires des Manieres universelles et nouvelles de M. <persName
@@ -63,7 +63,7 @@
 				<p>MONSEIGNEUR,</p>
 				<signed>Votre très-humble et treobeissant serviteur. A. BOSSE.</signed>
 			</div>
-			<div>
+			<div type="preface">
 				<pb n="7"/>
 				<figure type="ornement"/>
 				<head>AVANT-PROPOS</head>
@@ -134,7 +134,7 @@
 					dont le goust est assez déprave pour trouver des depravations dans la Perspective, que j'on sait avoir une alliance si étroite
 					avec la Geometrie </p>
 			</div>
-			<div>
+			<div type="privilege">
 				<pb n="9"/>
 				<figure type="ornement"/>
 				<head> EXTRAIT DU PRIVILEGE du Roy. </head>
@@ -152,7 +152,7 @@
 					plus amplement declaré dans lesdites Lettres ; verifiées et registrés, ou Monsieur le Procureur General en la Cour de Parlement,
 					le douzième jour de May mil six cens cinquante-trois. Signé, GUYET. </p>
 			</div>
-			<div>
+			<div type="errata">
 				<pb n="10"/>
 				<head> Fautes d'impression reconnues en ce Traité, </head>
 				<p> Age 9. ligne 12. lisez. Il faudroit donc : Et à la fin de la dernière ligne, liset mais je renvoye : Page 17. ligne 15. lisen
@@ -171,7 +171,7 @@
 
 		<body>
 
-			<div1>
+			<div1  xml:id="C1" n="1" type="chapitre">
 				<figure type="ornement"/>
 				<head> CHAPITRE PREMIER. </head>
 				<p> Ce qui est necessaire de scavoir pour un travail de la main. </p>
@@ -227,7 +227,7 @@
 					Perspective, on n'évitera jamais de manquer en tres grand nombre d'endroits. </p>
 			</div1>
 
-			<div1>
+			<div1 xml:id="C2" n="2" type="chapitre">
 				<head> CHAPITRE II. Sur la signification des mots de Geometral et de Perspectif. </head>
 				<p> E jugé donc estre à propos de donner à entendre à ces Etudians ou Elèves ce que signifie en mes Traite de Perspective les mots de
 					Geometral et de Perspectif, la nature de j'un et de j'autre, et que ce sont deux especes d'un mesme genre, et non pas deux genres
@@ -294,7 +294,7 @@
 					Partie de la Perspective, et en la seconde, et un peu en celle-cy pour d'abord en donner quelque lumière. </p>
 			</div1>
 
-			<div1>
+			<div1 type="chapitre" n="3" xml:id="C3">
 				<head> CHAPITRE III. Sur ce que j'on nomme et que j'on entend en la Perspective par TABLEAU, DISTANCE, ELEVATION DOEIL, ET RAYONS
 					VISUELS. </head>
 				<p> A fait savoir que ce que je nomme Tableau, est le papier, la toille, le fonds, le mur, ou autre telle chose platte, sur quoy on
@@ -336,7 +336,7 @@
 					celles qu'ils faisoient en desseignant les parties de leur modelle comme ils les voyaient. </p>
 			</div1>
 
-			<div1>
+			<div1 xml:id="C4" n="4" type="chapitre">
 				<head> CHAPITRE IV. Sur la conformité des Echelles Geometrales et Perspectives, et leur usage. </head>
 				<p> L'est constant que la pratique de la Perspective que l'enseigne est comme j'ai dit du tout semblable à celle du Geometral, n'y
 					ayant rien de plus qu'à savoir suivant les sujetions requises, couper ou diviser ce qui se nomme j'échelle fondamentale fuyante. </p>
@@ -382,7 +382,7 @@
 					planes et regulieres, et dans mon second pour les courbes et irregulieres. </p>
 			</div1>
 
-			<div1>
+			<div1 type="chapitre" n="5" xml:id="C5">
 				<head> CHAPITRE V. Considerables avis sur plusieurs fautes notables que j'on commet aux Desseins, Tableaux et bas Reliefs, quand on
 					ignore la regle de la Perspective. </head>
 				<p> A pluspart de ceux qui ne travaillent que de routine vehant à se servir des bonnes regles, n'en remarqueroient <pb n="21"/> peut
@@ -499,7 +499,7 @@
 					d'autres qui croyant rafiner, luy font avoir à j'oeil la Sensation en creux comme un Entonnoir ou Cornet veu par sa grande
 					ouverture ; Ce qui n'est pas encore le vray, mais bien celuy que j'ay expliqué en la page 139, et en sa stampe ou figure, et
 					d'abondant en la 151 de mon premier Traité, au bas, et à son discours page 337. </p>
-				<div2>
+				<div2 type="section" n="1" xml:id="C5S1">
 					<head> Touchant les bas Reliefs. </head>
 					<p> eux qui se messent de faire des bas Reliefs, sans savoir la Perspective, y font aussi de grandes meprises, ne discernant pas
 						les Parties que j'oeil en doit, ou ne doit pas voir, ce qui est tellement commun, que cela fait pitié de voir que j'on
@@ -527,7 +527,7 @@
 				</div2>
 			</div1>
 
-			<div1>
+			<div1 xml:id="C6" n="6" type="chapitre">
 				<head> CHAPITRE VI. Des erreurs qui se commettent au Coloris, en son affoiblissement et en ses reflexs. </head>
 				<p> APRES avoir traité des Lumières, j'ay cru devoir en suite donner quelques avertissemens touchant le Coloris et son
 					affoiblissement, ayant veu plusieurs Portraits et autres Tableaux où j'ay remarqué qu'encore qu'en leur trait ils fussent assez
@@ -642,7 +642,7 @@
 				<figure type="ornement"/>
 			</div1>
 
-			<div1>
+			<div1 type="chapitre" n="7" xml:id="C7">
 				<pb n="33"/>
 				<head> CHAPITRE VII. Meprises des Peintres qui colorent les objets reduits en petit aussi fortement que les grands comme le naturel. </head>
 				<p> DOUR ceux qui travaillent en petit, soit à huile, mignature, détrempe, pastel, et mesme par dessein et graveure, je diray ;
@@ -685,7 +685,7 @@
 					le petit, qui est entre j'oeil et le grand, ou cet imaginaire qui lui sert d'objet. </p>
 			</div1>
 
-			<div1>
+			<div1 xml:id="C8" n="8" type="chapitre">
 				<head> CHAPITRE VIII. Raisonnemens et Avis importans sur la pratique de Desseigner, pour se rendre capable, s'il se peut, d'inventer
 					ou produire de soy mesme. Avec une briève recapitulation de ce que devant, avant qu'entrer en la pratique. </head>
 				<p> Ly a sur ce sujet une chose tres considerable, et laquelle s'étend assez loin. C'est que sur j'apparence de dire simplement, comme
@@ -744,11 +744,7 @@
 					peut faire suivant son goust ou affection des beaux et desagreables objets, bien ou mal proportionnez, d'autant que j'on peut
 					entendre ou scavoir j'un, sans entendre j'autre, et qu'il y a difference d'estre instruit de la proportion des mesures de ces
 					objets et de leur situation, d'avec cette regle, qui ne sert que d'un moyen de les representer correctement sur le Tableau. </p>
-
-				<div2><!-- pourquoi avoir laissé cela ? -->
-					<head/>
-				</div2>
-				<div2>
+				<div2 type="section" n="1" xml:id="C8S1">
 					<pb n="38"/>
 					<head> Ce qui suit ne sera pas, comme je croy, de moindre utilité que ce qui a precede. </head>
 					<p> IL'arrive souvent que plusieurs de mauvaise disposition à apprendre cet Art par les manières tastonneuses, à force de copier
@@ -806,7 +802,7 @@
 						les premières, qui sont les regles de pratiques Geometrales et Perspectives, elles sont assez reconnoistre ce qu'elles sont
 						par leurs principes certains. </p>
 				</div2>
-				<div2>
+				<div2 xml:id="C8S2" n="2" type="section">
 					<head> Sur la manière de Desseigner de soy, ou de ressouvenir les idées que j'on peut avoir, ou ce que j'on a plusieurs fois
 						imité. </head>
 					<p> VANT que finir cette matière j'ajoute icy par forme de discours, en attendant les Figures, la pratique que je trouve qu'un
@@ -875,7 +871,7 @@
 				</div2>
 			</div1>
 
-			<div1>
+			<div1 type="chapitre" n="9" xml:id="C9">
 				<head> CHAPITRE IX. Particulariter sur la position d'un Modele, soit naturel ou autre, avec j'application des drapperies dessus. </head>
 				<p> Ay cru qu'il estoit necessaire d'expliquer icy, sinon en détail, du moins en gros, quelque chose de la position d'un Modele, avec
 					j'application des differentes drapperies appliquées et agencées dessus. <pb n="44"/> Chacun peut savoir que ceux qui font
@@ -930,7 +926,7 @@
 					connoistre que la nature peut faire cet effet sans ce mouillement, collement et lege reté de ces petites étofes. </p>
 			</div1>
 
-			<div1>
+			<div1 xml:id="C10" n="10" type="chapitre">
 				<head> CHAPITRE X. Sur les dernieres Leçons données dans j'Academie. </head>
 				<p> N peu devant que nostre Compagnie must convié de rediger par écrit et par figures les Leçons qui suivent, ainsi que je leur avois
 					propose, afin de les expliquer à nos Eleves, il fut arresté qu'elles assembleroit tous les derniers Samedis de chaque Mois, pour
@@ -1012,10 +1008,10 @@
 					pratique, quand les sens bien sains et bien conduits la trouvent sans deffauts, </p>
 			</div1>
 
-			<div1>
+			<div1 type="chapitre" n="11" xml:id="C11">
 				<head> CHAPITRE XI. Discours prononcé de vive voix dans j'Academie, pour servir de preparation à ses Eleves, avant que d'en venir à la
 					pratique. </head>
-				<div2>
+				<div2 xml:id="S1" n="1" type="section">
 					<head>PREMIERE LEÇON.</head>
 					<p> eux qui ont de j'amour pour les Arts où il s'agit de scavoir desseigner ou pourtraire, et qui les veulent pratiquer, sur tout
 						celui de la Peinture et Sculpture, doivent avoir grande obligation à Messieurs de cette Academie, qui ont pris le soin d'en
@@ -1085,7 +1081,7 @@
 						diray, cela se fera comme par divertissement et en peu. </p>
 				</div2>
 
-				<div2>
+				<div2 type="section" n="1" xml:id="C11S2">
 					<head> LA PRATIQUE de la PERSPECTIVE ou POURTRAITURE est divisée en quatre principales parties. </head>
 					<p> A Première qui se presente à l'entendement, est ce qui doit y servir de sujet ou d'objet. </p>
 					<p> La Seconde, est la situation ou disposition en laquelle doivent estre le sujet, le luminaire ou lumière, j'œil et le Tableau. </p>
@@ -1175,13 +1171,14 @@
 					<p> Le premier des Anciens en mois qui a signé ces Leçons, est Monsieur <persName ref="#SebastienBourdon">Bourdon</persName>, le
 						second Monsieur Vignon, et le troisième Monsieur Guerin Sculpteur, lequel n'a pas signé en son mois, estant allé aux champs
 						lors que le cours d'icelles finit. </p>
-				</div2>
-<!-- Ici c'est une nouvelle div1, et il y a des div2 avec les plaches. -->
-				<div2>
+				</div2> </div1>
+				<div1 xml:id="C12" n="12" type="chapitre">
 					<head>LES PRATIQUES PAR FIGURES des choses dites cy devant ainsi qu'elles ont esté desseignées et expliquées DANS LACADEMIE
 						ROYALLE DE LA P. et S. Par A.BOSSE</head>
 					<pb n="58"/>
-					<p> CELON les Mathematiciens, le Point, est ce qui n'a aucune partie. </p>
+					
+					<figure type="gravure"></figure>
+					<p> SELON les Mathematiciens, le Point, est ce qui n'a aucune partie. </p>
 					<p> Ou pour dire autrement, ce que l'entendement conçoit qui est si menu qu'il ne peut estre divise. </p>
 					<p> Lequel pour un soulagement à j'idée on represente par un point sensible à j'oeil comme celuy de cette Stampe ou Planche, Cotte </p>
 					<p> La Ligne est une longveur sans largeur. </p>
@@ -1296,7 +1293,7 @@
 						NP. ment aucun espace. </p>
 
 
-					<div3><!-- ceci est une div3 oui mais pour la planche 6 -->
+					<div3 ><!-- ceci est une div3 oui mais pour la planche 6 -->
 						<pb n="64"/>
 						<head> A present suivent des pratiques Geometriques, ou usage de la Regle et du Compas. Pour commencer par la premiere et plus
 							simple d'icelles. </head>
@@ -2820,9 +2817,7 @@
 						<p> L'on doit voir aussi que qui auroit des modeles ou manequins en grand, que le mesme se pourroit faire avant cet instrument
 							aussi proportionné. </p>
 					</div3>
-				</div2>
-
-				<div2>
+				<div2 type="section" xml:id="C12S1" n="1">
 					<pb n="123"/>
 					<head> Touchant la pratique de faire les Bas-reliefs. </head>
 					<p> A composition du plus grand nombre des Bas-reliefs ou demies-bosses, est absolument fausse, et il n'y en a point de vrages,
@@ -2969,8 +2964,10 @@
 					<pb n="130"/>
 					<figure type="ornement"/>
 				</div2>
-<!-- Ce qui vient après devrait être dans un back.  -->
-				<div2>
+				</div1>
+				</body>
+				<back type="postface">
+					<div type="" n="1" xml:id="S1" >
 					<head> Ce qui suit est pour ceux qui auront la curiosité de savoir une partie du procede de Monsieur <persName
 							ref="#GirardDesargues">Desargues</persName>, et de moy, envers quelquesuns de nos Antagonistes, et de partie de son
 						scavoir, Ensemble des Remarques faites sur le contenu en plusieurs Chapitres d'un Traité attribué à <persName
@@ -2979,9 +2976,8 @@
 							ref="#RolandFreartDeChambray">Chambray</persName>, sur un Manuscrit pris de celui qui est dans la Bibliotheque de
 						j'illustre, vertveux et curieux Monsieur le Chevalier Du Puis à <placeName ref="#Rome">Rome</placeName>. </head>
 					<figure type="ornement"/>
-					<p> des gages de la gloire qui les attend, beaucoup plus grande que J'n'y a rien de plus ordinaire et qui nous doive moins
-						surprendre que les attaques de l'envie contre les personnes de merite et les ouvrages qu'ils leur nuire, sont des preuves de
-						leur excellence et mettent au jour, Mais ses efforts, bien loin de s'ils n'avoient aucuns Ennemis à combattre ; ce qu'on a pu
+						<p>  Il n'y a rien de plus ordinaire et qui nous doive moins surprendre que les attaques de l'envie contre les personnes de merite et les ouvrages qu'ils  mettent au jour, Mais ses efforts, bien loin de leur nuire, sont des preuves de
+							leur excellence et des gages de la gloire qui les attend, beaucoup plus grande que s'ils n'avoient aucuns Ennemis à combattre ; ce qu'on a pu
 						remarquer dans les plus grands Hommes des siècles passez pour toutes sortes de Sciences, d'Arts et de Professions ; Si
 						quelquesuns ont esté assez malheureux pour ne survivre à la Calomnie, la Posterité les a vengez de j'injustice de leur siècle,
 						et les a fait triompher lors qu'ils estoient moins en estat de se deffendre. Ces exemples servent de consolation et
@@ -3317,8 +3313,8 @@
 					<p> C. VIGNON, Ancien. LAURENT DE LAYRE, Ancien. S. BERNARD. M. CORNEILLE, Ancien en mois. CH MAUPERCHE, L. FERDINAND. MONTAGNE. </p>
 					<pb n="146"/>
 					<figure type="ornement"/>
-				</div2>
-				<div2>
+				</div>
+				<div type="" xml:id="S2" n="2">
 					<head> La plupart de ceux qui composent j'Academie Royale de la Peinture et Sculpture establie en cette Ville ayant donné leurs
 						voix qu'un chacun d'eux eussent à rediger par écrit leur sentiment, de j'ordre que j'on pourroit tenir pour j'éducation des
 						Eleves ou Disciples dicelle ; moy <persName ref="#AbrahamBosse">Bosse</persName> ay sur ce sujet dressé ce qui suit, outre ce
@@ -3387,9 +3383,7 @@
 					<figure type="ornement"/>
 					<p> A <placeName ref="#Paris">PARIS</placeName> De j'Imprimerie D'<persName>ANTOINE CELLIER</persName>, rue de la Harpe. <date
 							when="1665">M. DC. LXV</date>. </p>
-				</div2>
-			</div1>
-
-		</body>
+				</div>
+			 </back>
 	</text>
 </TEI>
