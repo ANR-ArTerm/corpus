@@ -25,12 +25,14 @@
 	</teiHeader>
 	<text>
 		<front>
-			<figure type="dessin"
+			<pb facs="https://gallica.bnf.fr/ark:/12148/bpt6k6568782t/f13.item"></pb>
+			<figure type="gravure"
 				source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/31e60921-a59a-483f-b75a-964a9b84ff15/87,403,3781,6249/max/0/default.jpg">
 				<p><hi rend="it" xml:lang="lat">Ego nec Studium Sine divite venia,<lb/>Nec rude quid
 						prosit video ingenium.</hi></p>
 			</figure>
 			<pb type="blankpage"/>
+			<pb></pb>
 			<titlePage>
 				<docTitle>
 					<titlePart type="main"><hi rend="capitals">Abregé De la vie Des peintres,</hi>
