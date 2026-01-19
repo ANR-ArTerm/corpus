@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../tei_arterm.rng" type="applicazion/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<teiHeader>
 		<fileDesc>
@@ -106,10 +107,11 @@
 					sostanza, né toccato il ponto, come si suol dire, di sì alto, e nobile soggetto,
 					per non haver loro fatto quella diligenza, che si conveniva, et anco per non
 					havere quella speculazione ch'è necessaria a trattar di questo soggetto: et
-					questo pur troppo si scoperse ne i <pb n="3"/><bibl ref="zuccariOrigineProgressoDellAcademia1604">discorsi fatti nell'Academia di
-						<placeName ref="#Rome">Roma</placeName></bibl>; ond'io farò prova di dirne cosa di
-					più sostanza, et di maggior compimento, et se non potrò intieramente
-					discorrerne, almeno aprirò la porta a belli ingegni.</p>
+					questo pur troppo si scoperse ne i <pb n="3"/><bibl
+						key="zuccariOrigineProgressoDellAcademia1604">discorsi fatti nell'Academia
+						di <placeName ref="#Rome">Roma</placeName></bibl>; ond'io farò prova di
+					dirne cosa di più sostanza, et di maggior compimento, et se non potrò
+					intieramente discorrerne, almeno aprirò la porta a belli ingegni.</p>
 				<p>Volendo dunque trattare, et discorrere del Dissegno, come causa, et regola
 					dell'ordine, e dovere ch'io ne ragioni con ordine; et però seguendo l'orme de'
 					Filosofi, et particolarmente d'<persName ref="#Aristote">Aristotele</persName>,
@@ -146,9 +148,9 @@
 					interno.</head>
 				<p>Ma prima che si tratti di qualsivoglia cosa è necessario dichiarare il nome suo,
 					com'insegna il Prencipe de Filosofi <persName ref="#Aristote"
-						>Aristotele</persName> nella sua Logica, altrimente sarebbe un caminare per
-					una strada incognita senza guida, o entrar nel
-						<objectName>Laberinto</objectName> di <persName ref="#Dedale"
+						>Aristotele</persName> nella sua <bibl key="aristoteOrganon">Logica</bibl>,
+					altrimente sarebbe un caminare per una strada incognita senza guida, o entrar
+					nel <objectName ref="#DedaleLabyrinthe">Laberinto</objectName> di <persName ref="#Dedale"
 						>Dedalo</persName> senza filo. Però cominciando da questo capo dichiararo,
 					che cosa io intenda per questo nome Dissegno interno, et seguendo la commune
 					intelligenza così appresso de Dotti, come del vulgo, dirò, che per Dissegno
@@ -359,41 +361,41 @@
 					di lui, se voglio<lb/>
 					<pb n="11"/>dir cosa di sostanza in simile proposito, et parlar chiaro, perché
 					ogni uno m'intenda, quando esponendo quello, che dice il gran Cronista del Mondo
-						<persName ref="#Moise">Mosè</persName> nel principio della Genesi, cioè che
-						<persName ref="#Dieu">Iddio</persName> nel principio del tempo in sei giorni
-					divise, distinse, et creo tutte le cose, che in questa machina del Mondo si
-					trovano, dice che non solo <persName ref="#Dieu">Iddio</persName> sommo
-					Artefice, e Pittore creo, divise, et ornò questo Mondo, et quanto in esso si
-					contiene nello spazio delli sei giorni sudetti; ma anco creò, dipinse, et ornò
-					un'altro Mondo, spiritualmente nella mente dell'Angelo; et siccome creo il Cielo
-					parte superiore del Mondo, et la Terra parte inferiore sublunare secondo l'esser
-					loro reali. Così creò molte forme spirituali rappresentanti tutte queste cose,
-					et l'impresse nella mente de gli Angeli; Overo diciamo, che siccome creò i
-					Cieli, gli elementi, le cose elementate, le pietre, le piante, gli arbusti,
-					l'herbe, i fiori, gli animali, gli huomini, et tutte queste cose distinse, et
-					differentiò di specie, di genere, et differenza; et tutte queste abbellì, ornò,
-					et rese a meraviglia vaghe, et questo in sei giorni; così concreò tant'altre
-					forme spirituali rappresentanti tutte queste cose in generale, et in
-					particolare; et queste poi infuse, et quasi inestò ne gl'intelletti angelici; et
-					in sei giorni appunto; cioè distinse queste forme nelle menti angeliche,
-					rappresentanti sei ordini di cose, come quel Santo più al lungo descrive. Et la
-					necessità di questo fu, ch'essendo gli Angioli puri spiriti senza materia, e
-					senza corpo, come dicevo, et perciò senza sensi esterni, et interni non
-					haverebbono potuto acquistare le forme rappresentanti tutte le cose create, come
-					facciamo noi altri huomini; ne haverebbono, potuto intendere, né operare, che
-					senza queste, o simili forme non può creatura alcuna intendere, sicché essi, che
-					sono sostanze compitissime, et perfettissime quanto alla natura, sarebbono state
-					imperfettissime nell'intendere, et nell'operare. Però Iddio Agente compitissimo,
-					acciò quelli fossero perfetti, non solo quanto alla natura, ma anco
-					nell'intendere, et nell'operare, siccome creò in essere reale, visibile, et
-					sensibile questo Mondo; così ne creò un'altro in essere spirituale, ma solo
-					intelligibile nella mente angelica, onde per questo si dice l'Angelo essere fra
-					tutte le creature più simile a Dio, non pure per la natura sua spiriruale,
-					intellettuale, et sempiterna; ma<pb n="12"/> anco perché, siccome Iddio ha nella
-					mente sua il Mondo tutto spiritualmente, non però distinto dalla sua sostanza,
-					come dicevo nel capitolo precedente, così l'Angelo ha l'istesso Mondo in essere
-					spirituale; ma distinto da lui per queste forme concreate, che ha nella mente
-					sua.</p>
+						<persName ref="#Moise">Mosè</persName> nel principio della <bibl
+						key="Genese">Genesi</bibl>, cioè che <persName ref="#Dieu">Iddio</persName>
+					nel principio del tempo in sei giorni divise, distinse, et creo tutte le cose,
+					che in questa machina del Mondo si trovano, dice che non solo <persName
+						ref="#Dieu">Iddio</persName> sommo Artefice, e Pittore creo, divise, et ornò
+					questo Mondo, et quanto in esso si contiene nello spazio delli sei giorni
+					sudetti; ma anco creò, dipinse, et ornò un'altro Mondo, spiritualmente nella
+					mente dell'Angelo; et siccome creo il Cielo parte superiore del Mondo, et la
+					Terra parte inferiore sublunare secondo l'esser loro reali. Così creò molte
+					forme spirituali rappresentanti tutte queste cose, et l'impresse nella mente de
+					gli Angeli; Overo diciamo, che siccome creò i Cieli, gli elementi, le cose
+					elementate, le pietre, le piante, gli arbusti, l'herbe, i fiori, gli animali,
+					gli huomini, et tutte queste cose distinse, et differentiò di specie, di genere,
+					et differenza; et tutte queste abbellì, ornò, et rese a meraviglia vaghe, et
+					questo in sei giorni; così concreò tant'altre forme spirituali rappresentanti
+					tutte queste cose in generale, et in particolare; et queste poi infuse, et quasi
+					inestò ne gl'intelletti angelici; et in sei giorni appunto; cioè distinse queste
+					forme nelle menti angeliche, rappresentanti sei ordini di cose, come quel Santo
+					più al lungo descrive. Et la necessità di questo fu, ch'essendo gli Angioli
+					puri spiriti senza materia, e senza corpo, come dicevo, et perciò senza sensi
+					esterni, et interni non haverebbono potuto acquistare le forme rappresentanti
+					tutte le cose create, come facciamo noi altri huomini; ne haverebbono, potuto
+					intendere, né operare, che senza queste, o simili forme non può creatura alcuna
+					intendere, sicché essi, che sono sostanze compitissime, et perfettissime quanto
+					alla natura, sarebbono state imperfettissime nell'intendere, et nell'operare.
+					Però Iddio Agente compitissimo, acciò quelli fossero perfetti, non solo quanto
+					alla natura, ma anco nell'intendere, et nell'operare, siccome creò in essere
+					reale, visibile, et sensibile questo Mondo; così ne creò un'altro in essere
+					spirituale, ma solo intelligibile nella mente angelica, onde per questo si dice
+					l'Angelo essere fra tutte le creature più simile a Dio, non pure per la natura
+					sua spiriruale, intellettuale, et sempiterna; ma<pb n="12"/> anco perché,
+					siccome Iddio ha nella mente sua il Mondo tutto spiritualmente, non però
+					distinto dalla sua sostanza, come dicevo nel capitolo precedente, così l'Angelo
+					ha l'istesso Mondo in essere spirituale; ma distinto da lui per queste forme
+					concreate, che ha nella mente sua.</p>
 				<p>Et eccovi scoperta la necessità, che ha l'Angelo di queste forme spirituali per
 					poter intendere, et conoscere le cose da Dio create fuori di lui.</p>
 				<p>Hora da questi principi argumento, che è necessario prima che l'Angelo intenda
@@ -481,15 +483,17 @@
 					se intendessi questo Dissegno esser Scintilla della divinità, cioè parte della
 					sostanza Divina, o accidente di quella, havrei detto male, per le ragioni<pb
 						n="15"/> sopra addotte, in particolare perché Iddio è semplicissimo, e
-					purissimo atto sostantiale. E nell'istesso libro dell'Academia di <placeName
-						ref="#Rome">Roma</placeName>, ch'è posto in luce, chiamai anco questo
-					Disegno Luce dell'intelletto, et Causa dell'intelligenze, et operazioni nostre,
-					e di queste istesse Regola, e Meta. E se questo Disegno non movesse, et
-					ammaestrasse l'intelletto nostro in particolare il prattico, e questo non
-					movesse, cioè non guidasse la volontà nostra, e questa poi non commandasse alle
-					nostre virtù, e potenze inferiori, et alle parti del corpo, in particolare alle
-					mani, non si trovarebbe ordine, né modo di operare rettamente entro di noi; né
-					fuori di noi si vedrebbono opere sì belle, et meravigliose, come si veggono.</p>
+					purissimo atto sostantiale. E nell'istesso <bibl
+						key="zuccariOrigineProgressoDellAcademia1604">libro dell'Academia di
+							<placeName ref="#Rome">Roma</placeName></bibl>, ch'è posto in luce,
+					chiamai anco questo Disegno Luce dell'intelletto, et Causa dell'intelligenze, et
+					operazioni nostre, e di queste istesse Regola, e Meta. E se questo Disegno non
+					movesse, et ammaestrasse l'intelletto nostro in particolare il prattico, e
+					questo non movesse, cioè non guidasse la volontà nostra, e questa poi non
+					commandasse alle nostre virtù, e potenze inferiori, et alle parti del corpo, in
+					particolare alle mani, non si trovarebbe ordine, né modo di operare rettamente
+					entro di noi; né fuori di noi si vedrebbono opere sì belle, et meravigliose,
+					come si veggono.</p>
 				<p>Ecco in breve discorso ristrette le cose principali, et le prime condizioni del
 					Disegno interno humano in commune, hora scendiamo a ragionar di lui in
 					particolare.</p>
@@ -1125,9 +1129,9 @@
 					unite; così l'anima razionale è intieramente perfetta nelle sue operazioni con
 					le sudette potenze, et facoltà a se stessa unite. E questo nostro pensiero lo
 					troviamo anco presso <persName ref="#AnselmedeCantorbery">Santo
-						Anselmo</persName> nel <objectName>libro della concordia della grazia del
-						libero arbitrio cap.19</objectName> ove egli dice le potenze esser
-					nell'anima, come sono le membra nel corpo.</p>
+						Anselmo</persName> nel <bibl key="anselmedecantorberyConcordia" n="chap. 19"
+						>libro della concordia della grazia del libero arbitrio</bibl> cap.19 ove
+					egli dice le potenze esser nell'anima, come sono le membra nel corpo.</p>
 				<p>Diciamo ancora i sentimenti del corpo esser parto, e facoltà dell'Anima, per
 					esser lei la vita, et la causa de i sentimenti vitali per vivificare esso corpo;
 					e però esso corpo opera tutte queste cose per i sentimenti suoi, sente, vede,
@@ -1247,26 +1251,27 @@
 					nell'havere.</p>
 				<p>Quanto all'essere misurato dal tempo, è nel quando.</p>
 				<p>La seconda parte, che gli è regola a governare la seconda operazione, la compose
-					l'istesso <persName ref="#Aristote">Aristotele</persName>, et la chiamò
-						<objectName>Periermenìa</objectName>, ove tratta della proposizione in
-					generale, et in particolare, con la quale si formano senza errore le
-					composizioni, et divisioni.</p>
+					l'istesso <persName ref="#Aristote">Aristotele</persName>, et la chiamò <bibl
+						key="aristoteLinterpretation">Periermenìa</bibl>, ove tratta della
+					proposizione in generale, et in particolare, con la quale si formano senza
+					errore le composizioni, et divisioni.</p>
 				<p>La terza parte con cui governa la terza operazione, fu composta dall'istesso
-						<persName ref="#Aristote">Aristotele</persName>, et chiamata Silogistica, o
-					giudiciale, o giudicativa, ove tratta del silogismo: con la cui scorta senza
-					errore da i principi si deducono le conclusioni.</p>
+						<persName ref="#Aristote">Aristotele</persName>, et chiamata
+						<bibl>Silogistica</bibl>, o giudiciale, o giudicativa, ove tratta del
+					silogismo: con la cui scorta senza errore da i principi si deducono le
+					conclusioni.</p>
 				<p>Hora, perché il Disegno Logico in tre maniere, o in tre sorti formato, è causa di
-					queste tre parti della Logica, numerate, et di altre sotto queste contenute a
-					gli tre effetti annoverati; si dice, che egli è Padre, et la Logica sua figlia,
-					et se bene questa è minore delle altre, è nondimeno esperta, et industriosa, et
-					aiuta quelle nell'opere loro; ma siccome essa aiuta le sue sorelle maggiori;<pb
-						n="40"/> così è aiutata da un altra sua sorella generata dall'istesso
-					Disegno, et nata dall'istessa madre la Ragione, et questa è la Poesia. Et se
-					bene la Logica per farci conoscere la verità, et la falsità in tutte le cose,
-					va ordinando le tre nominate operazioni con le sue professioni. La Poesia però
-					con finzioni graziose và esprimendo, et la verità, et la falsità con cose
-					sensate, et così più facilmente muove l'animo nostro al seguir la verità, et
-					fuggire la falsità. </p>
+					queste tre parti della <bibl key="aristoteOrganon">Logica</bibl>, numerate, et
+					di altre sotto queste contenute a gli tre effetti annoverati; si dice, che egli
+					è Padre, et la Logica sua figlia, et se bene questa è minore delle altre, è
+					nondimeno esperta, et industriosa, et aiuta quelle nell'opere loro; ma siccome
+					essa aiuta le sue sorelle maggiori;<pb n="40"/> così è aiutata da un altra sua
+					sorella generata dall'istesso Disegno, et nata dall'istessa madre la Ragione, et
+					questa è la Poesia. Et se bene la Logica per farci conoscere la verità, et la
+					falsità in tutte le cose, va ordinando le tre nominate operazioni con le sue
+					professioni. La Poesia però con finzioni graziose và esprimendo, et la verità,
+					et la falsità con cose sensate, et così più facilmente muove l'animo nostro al
+					seguir la verità, et fuggire la falsità. </p>
 				<p>Ne pure con questa moglie della Ragione, per così dire, il Disegno genera la
 					Logica, et la Poesia, et altre figlie simili; ma genera un' altra prole più
 					degna, più illustre, e di maggior grazia, e beltade, et è quella delle scienze
@@ -1426,7 +1431,7 @@
 					virtù non ponno operare, come si deve. Però così brevemente faremo un discorso
 					di luoro, per poter mostrare più compitamente, come queste scienze operino.</p>
 				<p><persName ref="#Aristote">Aristotele</persName>
-						nell'<objectName>Etica</objectName> numera quattro virtù morali necessarie a
+					nell'<bibl key="aristoteEthiqueNicomaque">Etica </bibl>numera quattro virtù morali necessarie a
 					questo effetto, che sono però generali, e contengono sotto di se molte altre più
 					particolari, e dependenti da quelle, e sono Prudenza, Giustitia, Fortezza, e
 					Temperanza.</p>
@@ -1642,7 +1647,7 @@
 					istruzione de nostri Comprofessori, che così fecero anco gli antichi Filosofi ne
 					i soggetti, de quali trattarono.</p>
 				<p>Il <persName ref="#GiorgioVasari">Vasari</persName>, per cominciar da lui, nelle
-					sue <objectName>vite de Pittori, Scultori, et Architetti</objectName>, così
+					sue <bibl key="vasariVitePiuEccellenti1550">vite de Pittori, Scultori, et Architetti</bibl>, così
 					diffinisce questo Disegno. Il Disegno è un apparente espressione, e
 					dichiarazione del concetto, ch'era prima nell'animo, e di quello, che s'era
 					prima imaginato nella mente, e fabricato nell'Idea.</p>
@@ -1687,8 +1692,8 @@
 					l'apparenza di queste diffinizioni, e non m'impedisco nel resto, come anco fece
 						<persName ref="#Aristote">Aristotele</persName> quando impugno così al longo
 					la proposizione di <persName ref="#Platon">Platone</persName> dell'Idee. Et
-						<persName ref="#Vitruve">Vitruvio</persName> nelle sue <objectName>regole
-						d'Architettura</objectName>, quando riprese <persName ref="#PytheosdePriene"
+					<persName ref="#Vitruve">Vitruvio</persName> nelle sue <bibl key="vitruveArchitectura">regole
+						d'Architettura</bibl>, quando riprese <persName ref="#PytheosdePriene"
 						>Pithio Architetto</persName>, il qual voleva, che l'Architetto fosse dotato
 					di tutte l'arti, e dottrine, al paro di qualsivoglia altro eccellente
 					scientiato.</p>
