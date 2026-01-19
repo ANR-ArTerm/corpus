@@ -2,6 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <particDesc>
     <listPerson>
+<<<<<<< HEAD
       <person xml:id="Demonax" source="https://www.wikidata.org/wiki/Q36303"></person>
       <person xml:id="Thales" source="https://www.wikidata.org/wiki/Q36303"></person>
       <person xml:id="AndreaDazzi" source="https://www.wikidata.org/wiki/Q55226892"></person>
@@ -12,6 +13,11 @@
       <person xml:id="GiovanniStrozzi" source="https://www.wikidata.org/wiki/Q11924261"></person>
       <person xml:id="OttavianoDeMedici" source="https://www.wikidata.org/wiki/Q3887191"></person>
       <person xml:id="GiovambattistaRicasoli" source="https://www.wikidata.org/wiki/Q68910321"></person>
+=======
+      <person xml:id="FrancoisJollain" source="https://www.wikidata.org/wiki/Q55875000"></person>
+      <person xml:id="BartolomeoColleoni" source="https://www.wikidata.org/wiki/Q809506"></person>
+      <person xml:id="AlessandroLeopardi" source="https://www.wikidata.org/wiki/Q724827"></person>
+>>>>>>> 798c3b381d53aca142cb9305a31590d16ebc1f5b
       <person xml:id="NiccoloDeMedici"></person>
       <person xml:id="BernardoSegni"></person>
       <person xml:id="LorenzoRidolfi"></person>
@@ -25921,7 +25927,7 @@
         <idno type="isni">0000000448881660</idno>
         <idno type="wikidata">Q161904</idno>
       </person>
-      <person xml:id="Hippocrate" role="médecin grec du siècle de Périclès (vers 460-vers 370 avant JC)" source="https://www.wikidata.org/wiki/Q5264">
+      <person xml:id="Hippocrate" role="médecin grec du siècle de Périclès (vers 460 vers 370 avant JC)" source="https://www.wikidata.org/wiki/Q5264">
         <persName>
           <forename>Hippocrate</forename>
           <surname>Kos, de</surname>

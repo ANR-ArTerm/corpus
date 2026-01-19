@@ -25,12 +25,14 @@
 	</teiHeader>
 	<text>
 		<front>
-			<figure type="dessin"
+			<pb facs="https://gallica.bnf.fr/ark:/12148/bpt6k6568782t/f13.item"></pb>
+			<figure type="gravure"
 				source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/31e60921-a59a-483f-b75a-964a9b84ff15/87,403,3781,6249/max/0/default.jpg">
 				<p><hi rend="it" xml:lang="lat">Ego nec Studium Sine divite venia,<lb/>Nec rude quid
 						prosit video ingenium.</hi></p>
 			</figure>
 			<pb type="blankpage"/>
+			<pb></pb>
 			<titlePage>
 				<docTitle>
 					<titlePart type="main"><hi rend="capitals">Abregé De la vie Des peintres,</hi>
@@ -3180,9 +3182,9 @@
 						Il y avoit fait entr'autres <objectName>deux Tableaux</objectName>, qui
 						furent mis a bas par le commandement de <persName ref="#JulesII">Jules
 							II</persName>. pour y en substituer deux autres, que <persName
-								ref="#Raphael">Raphaël</persName> fit du <objectName ref="#RaphaelMiracleBolsena">miracle du saint
+								ref="#Raphael">Raphaël</persName> fit du <objectName ref="#RaphaelMesseBolsena">miracle du saint
 							Sacrement</objectName> arrivé à <placeName ref="#Bolsena"
-							>Bolséne</placeName>, et de <objectName>Saint Pierre dans sa
+							>Bolséne</placeName>, et de <objectName ref="#RaphaelDelivrancePierre">Saint Pierre dans sa
 							Prison</objectName>. Il a fait beaucoup de Portraits, et a écrit de
 						l'Arithmétique et de la Géométrie. Il eût pour Disciples <hi rend="capitals"
 								><persName ref="#AngeloDiLorentino">LAURENTININO D'ANGELO
@@ -3229,7 +3231,7 @@
 						pieté, et par une humilité si profonde, qu'il refusa l'Archevêché de
 							<placeName ref="#Florence">Florence</placeName>
 						<pb n="146"/> que <persName ref="#NicolasV">Nicolas V</persName> luy offrit.
-						Ce Pape l'employa pour les <objectName>Peintures de sa
+						Ce Pape l'employa pour les <objectName ref="#FraAngelicoChapelleNicoline">Peintures de sa
 						Chapelle</objectName>, et luy fit faire quelques Ouvrages de Miniature dans
 						des Livres d'Eglise. Dans ses meilleurs Tableaux il laissoit quelquefois des
 						fautes grossiéres, pour modérer les loüanges qu'il en auroit pû éspérer. Il
@@ -3287,7 +3289,7 @@
 						couppa ses draps par bandes, descendit par sa fénêtre, et se mit en
 						liberté. </p>
 					<p> Un Citoyen de <placeName ref="#Florence">Florence</placeName>, luy fit faire
-						ensuite un <objectName>Tableau de Vierge</objectName> pour un Monastére où
+						ensuite un <objectName ref="#FilippoLippiViergeCeinturePrato">Tableau de Vierge</objectName> pour un Monastére où
 						il avoit une tres-belle Fille pensionnaire. Ce Pére et les Religieuses du
 						Convent voulurent bien luy permettre de se servir de cette Pensionnaire pour
 						modéle. Comme il la peignoit, se trouvant seul avec elle, il l'a corrompit
@@ -3361,7 +3363,7 @@
 						déclaré au lit de la mort. Ce fut cet <persName ref="#AndreaDelCastagno"
 							>André</persName>, qui pour avoir peint à <placeName ref="#Florence"
 							>Florence</placeName> contre le <placeName>Palais du Podesta</placeName>
-						par ordre de la République <objectName>l'Exécution des
+						par ordre de la République <objectName ref="#AndreaDelCastagnoExecutionConjures">l'Exécution des
 						Conjurez</objectName>, qui avoient conspiré contre <persName ref="#Medicis"
 							>les Medicis</persName>, fut appellé dans la suite <hi rend="it"
 								><persName ref="#AndreaDelCastagno">Andrea de
@@ -3423,7 +3425,7 @@
 						approfondir, et faisoit souvent pour cela des expériences de Mathématiqus.
 						Comme il faisoit fort bien les Chevaux, et qu'il savoit l'Art de fondre et
 						de couler les métaux, les Vénitiens voulurent le servir de luy pour ériger
-						une <objectName>Statue Equestre de bronze</objectName> à Barthélemi de
+						une <objectName ref="#VerrocchioBartolomeoColleoni">Statue Equestre de bronze</objectName> à Barthélemi de
 							<placeName ref="#Bergame">Bergame</placeName>, à qui ils devoient les
 						bons succés de leurs Armes. Il en fit le modéle de cire en grand : mais un
 						autre luy ayant été préféré pour fondre l'Ouvrage, il en conçût tant de
