@@ -1,29 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI>
   <particDesc>
     <listPerson>
-      <person xml:id="FrancoisJollain" source="https://www.wikidata.org/wiki/Q55875000"></person>
-      <person xml:id="BartolomeoColleoni" source="https://www.wikidata.org/wiki/Q809506"></person>
-      <person xml:id="AlessandroLeopardi" source="https://www.wikidata.org/wiki/Q724827"></person>
       <person xml:id="NiccoloDeMedici"></person>
       <person xml:id="BernardoSegni"></person>
       <person xml:id="LorenzoRidolfi"></person>
       <person xml:id="LorenzoAntinori"></person>
       <person xml:id="PietroDarica"></person>
-      <person xml:id="Boece" source="https://www.wikidata.org/wiki/Q102851"></person>
-      <person xml:id="PierfrancescoGiambullari" source="https://www.wikidata.org/wiki/Q1754685"></person>
-      <person xml:id="CarloLenzoni" source="https://www.wikidata.org/wiki/Q24262721"></person>
-      <person xml:id="GiovanniDeMedici" source="https://www.wikidata.org/wiki/Q80986"></person>
-      <person xml:id="FarinataDegliUberti" source="https://www.wikidata.org/wiki/Q2721219"></person>
-      <person xml:id="LeonardoBruni" source="https://www.wikidata.org/wiki/Q314488"></person>
-      <person xml:id="FrancescoGuidetti" source="https://www.wikidata.org/wiki/Q60843489"></person>
       <person xml:id="FerrantePandolfini"></person>
       <person xml:id="LodovicoDeMasi"></person>
       <person xml:id="LeonardoDoffi"></person>
-      <person xml:id="AngeloDellaStufa" source="https://www.treccani.it/enciclopedia/angelo-della-stufa_(Dizionario-Biografico)/"></person>
-      <person xml:id="VincenzoMartelli" source="https://www.wikidata.org/wiki/Q21548773"></person>
-      <person xml:id="Atlas" source="https://www.wikidata.org/wiki/Q130818"></person>
-      
+      <person xml:id="AngeloDellaStufa" source="https://www.treccani.it/enciclopedia/angelo-della-stufa_(Dizionario-Biografico)/"></person>      
       <person xml:id="HansVonAachen" role="peintre allemand (1552–1615)" source="http://www.wikidata.org/entity/Q152835">
         <persName ref="https://www.getty.edu/vow/ULANFullDisplay?find=Joseph+Hains&amp;role=&amp;nation=&amp;page=1&amp;subjectid=500127905">
           <forename>Hans von</forename>
@@ -133,7 +120,7 @@
           <addName>Abgar d'Édesse</addName>
           <addName>Abagare</addName>
         </persName>
-        <birth when="0001-01-01">
+        <birth when="-0001-01-01">
           <placeName>N/A</placeName>
         </birth>
         <death when="0050-01-01">
@@ -317,7 +304,7 @@
         <birth>
           <placeName>Éden</placeName>
         </birth>
-        <death when="3074-00-00">
+        <death when="3074">
           <placeName>N/A</placeName>
         </death>
         <trait>
@@ -1383,6 +1370,17 @@
         <idno type="isni">0000000109101009</idno>
         <idno type="vat">495/24411</idno>
         <idno type="wikidata">Q691894</idno>
+      </person>
+      <person xml:id="AlessandroLeopardi" source="https://www.wikidata.org/wiki/Q724827">
+        <persName/>
+        <birth when="1447"/>
+        <death when="1522"/>
+        <idno type="ulan">500025604</idno>
+        <idno type="viaf">35251487</idno>
+        <idno type="wikidata">Q724827</idno>
+        <persName/>
+        <birth when="1447"/>
+        <death when="1522"/>
       </person>
       <person xml:id="AlexandreLeGrand" role="roi de Macédoine et conquérant de la Perse achéménide (356-323 av. J.-C.)"
         source="https://www.wikidata.org/wiki/Q8409">
@@ -2561,7 +2559,7 @@
       </person>
       <person xml:id="Anthistene" source="https://www.wikidata.org/wiki/Q179149" role="philosophe antique">
         <persName><forename>Antisthène</forename><surname>Antisthène</surname></persName>
-        <birth when="0445-00-00"><placeName>Le Pirée</placeName></birth>
+        <birth when="0445"><placeName>Le Pirée</placeName></birth>
         <death when="0365-01-01"><placeName>Athènes</placeName></death>
         <nationality>Athènes</nationality>
         <idno type="bnf">13197870p</idno>
@@ -4012,6 +4010,17 @@
           <objectName>Sur les héros</objectName>
         </floruit>
       </person>
+      <person xml:id="Atlas" source="https://www.wikidata.org/wiki/Q130818">
+        <persName/>
+        <birth/>
+        <death/>
+        <idno type="bnf">12246100b</idno>
+        <idno type="viaf">5728390</idno>
+        <idno type="wikidata">Q130818</idno>
+        <persName/>
+        <birth/>
+        <death/>
+      </person>
       <person xml:id="AttaleII" role="roi de Pergame (220-138 av. J.-C.)" source="https://www.wikidata.org/wiki/Q312431">
         <persName>
           <forename>Attale</forename>
@@ -5294,6 +5303,20 @@
           <objectName>Adoration des mages</objectName>
           <objectName>Madonna Berenson</objectName>
         </floruit>
+      </person>
+      <person xml:id="BartolomeoColleoni" source="https://www.wikidata.org/wiki/Q809506">
+        <persName/>
+        <birth when="1400"/>
+        <death when="1475-11-02"/>
+        <idno type="ulan">500239279</idno>
+        <idno type="bnf">12252970z</idno>
+        <idno type="viaf">15563458</idno>
+        <idno type="isni">0000000121219376</idno>
+        <idno type="vat">495/29527</idno>
+        <idno type="wikidata">Q809506</idno>
+        <persName/>
+        <birth when="1400"/>
+        <death when="1475-11-02"/>
       </person>
       <person xml:id="MarcoBasaiti" role="peintre italien" source="http://www.wikidata.org/entity/Q918859">
         <persName ref="https://www.getty.edu/vow/ULANFullDisplay?find=Marco+Basaiti&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500081478">
@@ -6799,6 +6822,20 @@
         <idno type="isni">0000000123200345</idno>
         <idno type="vat">495/92115</idno>
         <idno type="wikidata">Q5479222</idno>
+      </person>
+      <person xml:id="Boece" source="https://www.wikidata.org/wiki/Q102851">
+        <persName/>
+        <birth when="0480-01-01"/>
+        <death when="0525"/>
+        <idno type="ulan">500355319</idno>
+        <idno type="bnf">118857741</idno>
+        <idno type="viaf">100218964</idno>
+        <idno type="isni">0000000122834442</idno>
+        <idno type="vat">495/44468</idno>
+        <idno type="wikidata">Q102851</idno>
+        <persName/>
+        <birth when="0480-01-01"/>
+        <death when="0525"/>
       </person>
       <person xml:id="FerdinandBol" role="peintre et graveur néerlandais (1616-1680)" source="http://www.wikidata.org/entity/Q374039">
         <persName ref="https://www.getty.edu/vow/ULANFullDisplay?find=Ferdinand+Bol&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500013764">
@@ -10469,6 +10506,18 @@
           <objectName>cardan</objectName>
         </floruit>
       </person>
+      <person xml:id="CarloLenzoni" source="https://www.wikidata.org/wiki/Q24262721">
+        <persName/>
+        <birth when="1501"/>
+        <death when="1551"/>
+        <idno type="viaf">59430884</idno>
+        <idno type="isni">0000000061380212</idno>
+        <idno type="vat">495/211152</idno>
+        <idno type="wikidata">Q24262721</idno>
+        <persName/>
+        <birth when="1501"/>
+        <death when="1551"/>
+      </person>
       <person xml:id="BavieroDeCarocci" role="artist, publishers, printers, painter, printmaker">
         <persName ref="https://www.getty.edu/vow/ULANFullDisplay?find=Baviera&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500314021">
           <forename>Baviero de</forename>
@@ -13144,10 +13193,10 @@
           <p>orfèvre graveur ou graveuse, médailleur</p>
           <p>graveur italien</p>
         </trait>
-        <birth when="1600-00-00">
+        <birth when="1600">
           <placeName>Rome</placeName>
         </birth>
-        <death when="1586-00-00"/>
+        <death when="1586"/>
         <idno type="ulan">500076860</idno>
         <idno type="viaf">96226319</idno>
         <idno type="wikidata">Q51574250</idno>
@@ -14394,7 +14443,7 @@
       </person>
       <person xml:id="GeorgesDAmboise" source="https://www.wikidata.org/wiki/Q729743" role="cardinal de l'Église catholique romaine">
         <persName><forename>Georges</forename><surname>d'Amboise</surname></persName>
-        <birth when="1460-00-00"><placeName>Chaumont-sur-Loire</placeName></birth>
+        <birth when="1460"><placeName>Chaumont-sur-Loire</placeName></birth>
         <death when="1510-05-25"><placeName>Lyon</placeName></death>
         <nationality>France</nationality>
         <idno type="bnf">14551174p</idno>
@@ -14742,7 +14791,7 @@
       </person>
       <person xml:id="GabrielleDEstrees" source="https://www.wikidata.org/wiki/Q234911" role="noble française, maîtresse de Henri IV, roi de France">
         <persName><forename>Gabrielle</forename><surname>d'Estrées</surname></persName>
-        <birth when="1573-00-00"><placeName>château de La Bourdaisière</placeName></birth>
+        <birth when="1573"><placeName>château de La Bourdaisière</placeName></birth>
         <death when="1599-04-10"><placeName>Paris</placeName></death>
         <nationality>royaume de France</nationality>
         <idno type="bnf">12129253b</idno>
@@ -16372,7 +16421,7 @@
           <objectName>premier édit de Dioclétien contre les chrétiens</objectName>
         </floruit>
       </person>
-      <person xml:id="DiodoreDeSicile" role="historien et chroniqueur grec du Ier siècle av. J.-C." source="https://www.wikidata.org/wiki/Q171241">
+      <person xml:id="DiodoreDeSicile" role="historien et chroniqueur grec du Ier siecle av. J-C" source="https://www.wikidata.org/wiki/Q171241">
         <persName>
           <forename>Diodore</forename>
           <surname>Diodore de Sicile</surname>
@@ -16611,7 +16660,7 @@
         <birth>
           <placeName>Mantova</placeName>
         </birth>
-        <death when="1630-00-00">
+        <death when="1630">
           <placeName>Mantova</placeName>
         </death>
         <trait>
@@ -17543,7 +17592,7 @@
         <birth>
           <placeName>N/A</placeName>
         </birth>
-        <death when="0400-00-00">
+        <death when="0400">
           <placeName>N/A</placeName>
         </death>
         <trait>
@@ -18677,6 +18726,18 @@
         <idno type="viaf">96128869</idno>
         <idno type="wikidata">Q6119969</idno>
       </person>
+      <person xml:id="FarinataDegliUberti" source="https://www.wikidata.org/wiki/Q2721219">
+        <persName/>
+        <birth when="1212-01-01"/>
+        <death when="1264-11-11"/>
+        <idno type="bnf">16719298p</idno>
+        <idno type="viaf">22073869</idno>
+        <idno type="isni">0000000078197975</idno>
+        <idno type="wikidata">Q2721219</idno>
+        <persName/>
+        <birth when="1212-01-01"/>
+        <death when="1264-11-11"/>
+      </person>
       <person xml:id="PaoloFarinati" role="peintre, graveur et architecte italien (1524-1606)" source="http://www.wikidata.org/entity/Q367287">
         <persName ref="https://www.getty.edu/vow/ULANFullDisplay?find=Paolo+Farinati&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500013893">
           <forename>Paolo</forename>
@@ -19258,7 +19319,7 @@
           <addName>Ambroise Sigin</addName>
           <addName>Figini</addName>
         </persName>
-        <birth when="1553-00-00">
+        <birth when="1553">
           <placeName>1548</placeName>
         </birth>
         <death when="1608-10-11">
@@ -20296,6 +20357,17 @@
           <objectName>Madonna della Misericordia</objectName>
         </floruit>
       </person>
+      <person xml:id="FrancescoGuidetti" source="https://www.wikidata.org/wiki/Q60843489">
+        <persName/>
+        <birth when="1493-01-01"/>
+        <death when="1565-01-01"/>
+        <idno type="viaf">122196687</idno>
+        <idno type="isni">0000000083385647</idno>
+        <idno type="wikidata">Q60843489</idno>
+        <persName/>
+        <birth when="1493-01-01"/>
+        <death when="1565-01-01"/>
+      </person>
       <person xml:id="FrancescoFrancia" role="peintre, orfèvre et médailleur italien" source="http://www.wikidata.org/entity/Q260057">
         <persName ref="https://www.getty.edu/vow/ULANFullDisplay?find=Francesco+Francia&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500115527">
           <forename>Francesco</forename>
@@ -20375,6 +20447,19 @@
         <idno type="viaf">88890888</idno>
         <idno type="isni">0000000121428987</idno>
         <idno type="wikidata">Q132548</idno>
+      </person>
+      <person xml:id="FrancoisJollain" source="https://www.wikidata.org/wiki/Q55875000">
+        <persName/>
+        <birth when="1641-01-01"/>
+        <death when="1704-01-01"/>
+        <idno type="ulan">500124825</idno>
+        <idno type="bnf">14952804c</idno>
+        <idno type="viaf">29805992</idno>
+        <idno type="isni">0000000116143776</idno>
+        <idno type="wikidata">Q55875000</idno>
+        <persName/>
+        <birth when="1641-01-01"/>
+        <death when="1704-01-01"/>
       </person>
       <person xml:id="Frangipane">
         <persName>
@@ -22102,6 +22187,19 @@
         <idno type="isni">0000000081553360</idno>
         <idno type="wikidata">Q1071025</idno>
       </person>
+      <person xml:id="GiovanniDeMedici" source="https://www.wikidata.org/wiki/Q80986">
+        <persName/>
+        <birth when="1498-04-06"/>
+        <death when="1526-11-30"/>
+        <idno type="bnf">144831707</idno>
+        <idno type="viaf">67276483</idno>
+        <idno type="isni">0000000061385443</idno>
+        <idno type="vat">495/32280</idno>
+        <idno type="wikidata">Q80986</idno>
+        <persName/>
+        <birth when="1498-04-06"/>
+        <death when="1526-11-30"/>
+      </person>
       <person xml:id="PaoloGiovio" role="médecin, historien, écrivain et prélat catholique italien" source="https://www.wikidata.org/wiki/Q437543">
         <persName>
           <forename>Paolo</forename>
@@ -22393,8 +22491,8 @@
       </person>
       <person xml:id="JeromeDeGondi" source="https://www.wikidata.org/wiki/Q23000804">
         <persName><forename>Girolamo</forename><surname>Gondi</surname></persName>
-        <birth when="1550-00-00"><placeName>Valence</placeName></birth>
-        <death when="1604-00-00"/>
+        <birth when="1550"><placeName>Valence</placeName></birth>
+        <death when="1604"/>
         <idno type="viaf">8282196</idno>
         <idno type="wikidata">Q23000804</idno>
       </person>
@@ -25914,7 +26012,7 @@
         <idno type="isni">0000000448881660</idno>
         <idno type="wikidata">Q161904</idno>
       </person>
-      <person xml:id="Hippocrate" role="médecin grec du siècle de Périclès (vers 460 vers 370 avant JC)" source="https://www.wikidata.org/wiki/Q5264">
+      <person xml:id="Hippocrate" role="médecin grec du siècle de Périclès (vers 460 vers 370 avant JC)" source="https://www.wikidata.org/wiki/Q5264">
         <persName>
           <forename>Hippocrate</forename>
           <surname>Kos, de</surname>
@@ -27237,6 +27335,20 @@
         <idno type="viaf">43593712</idno>
         <idno type="wikidata">Q41641</idno>
       </person>
+      <person xml:id="LeonardoBruni" source="https://www.wikidata.org/wiki/Q314488">
+        <persName/>
+        <birth when="1369"/>
+        <death when="1444"/>
+        <idno type="ulan">500315043</idno>
+        <idno type="bnf">120276366</idno>
+        <idno type="viaf">95283478</idno>
+        <idno type="isni">0000000121442279</idno>
+        <idno type="vat">495/19688</idno>
+        <idno type="wikidata">Q314488</idno>
+        <persName/>
+        <birth when="1369"/>
+        <death when="1444"/>
+      </person>
       <person xml:id="LeoneLeoni" role="artiste italien" source="http://www.wikidata.org/entity/Q722092">
         <persName ref="https://www.getty.edu/vow/ULANFullDisplay?find=Leone+Leoni&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500008130">
           <forename>Leone</forename>
@@ -27581,7 +27693,7 @@
         <idno type="vat">495/75778</idno>
         <idno type="wikidata">Q1337128</idno>
       </person>
-      <person xml:id="CharesDeLindos" role="sculpteur grec du IVe siècle av. J.-C" source="https://www.wikidata.org/wiki/Q449057">
+      <person xml:id="CharesDeLindos" role="sculpteur grec du IVe siecle av. JC" source="https://www.wikidata.org/wiki/Q449057">
         <persName>
           <forename>Charès de</forename>
           <surname>Lindos</surname>
@@ -29916,7 +30028,7 @@
           <addName>Jean Martin</addName>
           <addName>Jan Martin</addName>
         </persName>
-        <birth when="1507-00-00">
+        <birth when="1507">
           <placeName>Paris</placeName>
         </birth>
         <death when="1553">
@@ -30076,10 +30188,10 @@
           <addName>Girolamo Mazzei</addName>
           <addName>Geronimo Massei</addName>
         </persName>
-        <birth when="1540-00-00">
+        <birth when="1540">
           <placeName>Lucca</placeName>
         </birth>
-        <death when="1620-00-00">
+        <death when="1620">
           <placeName>Lucca</placeName>
         </death>
         <trait>
@@ -31573,7 +31685,7 @@
       </person>
       <person xml:id="Ambroise" source="https://www.wikidata.org/wiki/Q43689" role="évêque de Milan, docteur et père de l'Église catholique">
         <persName><forename>Ambroise</forename><surname>Milan</surname></persName>
-        <birth when="0339-00-00"><placeName>Trèves</placeName></birth>
+        <birth when="0339"><placeName>Trèves</placeName></birth>
         <death when="0397-04-04"><placeName>Milan</placeName></death>
         <nationality>Rome antique</nationality>
         <idno type="ulan">500285185</idno>
@@ -36139,6 +36251,19 @@
         </trait>
         <idno type="wikidata">Q235724</idno>
       </person>
+      <person xml:id="PierfrancescoGiambullari" source="https://www.wikidata.org/wiki/Q1754685">
+        <persName/>
+        <birth when="1495-01-01"/>
+        <death when="1555-08-24"/>
+        <idno type="bnf">12060297f</idno>
+        <idno type="viaf">41861634</idno>
+        <idno type="isni">0000000116280834</idno>
+        <idno type="vat">495/28431</idno>
+        <idno type="wikidata">Q1754685</idno>
+        <persName/>
+        <birth when="1495-01-01"/>
+        <death when="1555-08-24"/>
+      </person>
       <person xml:id="SaintPierre" role="apôtre de Jésus Christ" source="https://www.wikidata.org/wiki/Q33923">
         <persName>
           <forename>Pierre</forename>
@@ -36580,7 +36705,7 @@
       <person xml:id="AnneDePisseleu" source="https://www.wikidata.org/wiki/Q257557" role="duchesse d'Étampes, favorite du roi François Ier">
         <persName><forename>Anne</forename><surname>Pisseleu</surname></persName>
         <birth when="1508-01-01"><placeName>Fontaine-Lavaganne</placeName></birth>
-        <death when="1580-00-00"><placeName>Heilly</placeName></death>
+        <death when="1580"><placeName>Heilly</placeName></death>
         <nationality>France</nationality>
         <idno type="bnf">14978045m</idno>
         <idno type="viaf">10939253</idno>
@@ -40508,7 +40633,7 @@
       </person>
       <person xml:id="TommasoRues" source="https://www.wikidata.org/wiki/Q3992848" role="sculpteur italien (1636-1703)">
         <persName><forename>Tommaso</forename><surname>Rues</surname></persName>
-        <birth when="1633-00-00"><placeName>Brunico</placeName></birth>
+        <birth when="1633"><placeName>Brunico</placeName></birth>
         <death when="1703-12-27"><placeName>Venise</placeName></death>
         <nationality>république de Venise</nationality>
         <idno type="viaf">10725294</idno>
@@ -41479,7 +41604,7 @@
       </person>
       <person xml:id="GiovanniAntonioSangiorgio" source="https://www.wikidata.org/wiki/Q2255180" role="prélat catholique">
         <persName><forename>Giovanni</forename><surname>Sangiorgio</surname></persName>
-        <birth when="1439-00-00"><placeName>Milan</placeName></birth>
+        <birth when="1439"><placeName>Milan</placeName></birth>
         <death when="1509-03-14"><placeName>Rome</placeName></death>
         <idno type="bnf">12546745g</idno>
         <idno type="viaf">12420302</idno>
@@ -41591,7 +41716,7 @@
         <birth>
           <placeName>N/A</placeName>
         </birth>
-        <death when="0283-00-00">
+        <death when="0283">
           <placeName>N/A</placeName>
         </death>
         <trait>
@@ -42086,10 +42211,10 @@
           <surname>Savot</surname>
           <addName>Savot</addName>
         </persName>
-        <birth when="1570-00-00">
+        <birth when="1570">
           <placeName/>
         </birth>
-        <death when="1640-00-00">
+        <death when="1640">
           <placeName/>
         </death>
         <trait/>
@@ -42886,7 +43011,7 @@
         </trait>
         <idno type="wikidata">Q16937338</idno>
       </person>
-      <person xml:id="Lysippe" role="sculpteur et bronzier grec du IVe siècle av. J.-C" source="https://www.wikidata.org/wiki/Q192222">
+      <person xml:id="Lysippe" role="sculpteur et bronzier grec du IVe siecle av. J-C" source="https://www.wikidata.org/wiki/Q192222">
         <persName>
           <forename>Lysippe, de</forename>
           <surname>Sicyone</surname>
@@ -46200,7 +46325,7 @@
         <birth when="1614-07-28">
           <placeName>Châteaudun</placeName>
         </birth>
-        <death when="1650-00-00">
+        <death when="1650">
           <placeName>Paris</placeName>
         </death>
         <nationality>France</nationality>
@@ -48397,6 +48522,15 @@
         <idno type="isni">0000000121403704</idno>
         <idno type="vat">495/92305</idno>
         <idno type="wikidata">Q313817</idno>
+      </person>
+      <person xml:id="VincenzoMartelli" source="https://www.wikidata.org/wiki/Q21548773">
+        <persName/>
+        <birth when="1509-10-11"/>
+        <death/>
+        <idno type="wikidata">Q21548773</idno>
+        <persName/>
+        <birth when="1509-10-11"/>
+        <death/>
       </person>
       <person xml:id="LeonardoDaVinci" role="peintre, sculpteur, architecte et ingénieur, théoricien de l'art et chercheur scientifique toscan"
         source="http://www.wikidata.org/entity/Q762">
