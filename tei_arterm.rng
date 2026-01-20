@@ -4602,7 +4602,9 @@
     </element>
   </define>
   <define name="attlist.sourceDesc" combine="interleave">
-    <empty/>
+      <optional>
+        <attribute name="xml:base"/>
+      </optional>
   </define>
   <!-- doc:(state) contains a description of some status or quality attributed to a person, place, or organization often at some specific time or for a specific date range. [14.3.1. Basic Principles 14.3.2.1. Personal Characteristics] -->
   <define name="state">
