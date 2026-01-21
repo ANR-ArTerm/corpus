@@ -3435,6 +3435,9 @@
     </element>
   </define>
   <define name="attlist.listObject" combine="interleave">
+        <optional>
+      <attribute name="xml:base"/>
+    </optional>
     <optional>
       <attribute name="type"/>
     </optional>
@@ -3839,9 +3842,9 @@
   <define name="object">
     <element name="object">
       <ref name="attlist.object"/>
-      <oneOrMore>
+      <zeroOrMore>
         <ref name="objectIdentifier"/>
-      </oneOrMore>
+      </zeroOrMore>
       <zeroOrMore>
         <ref name="model.headLike"/>
       </zeroOrMore>
@@ -3875,7 +3878,9 @@
     <ref name="tei_att.global.attributes"/>
     <ref name="tei_att.sortable.attributes"/>
     <ref name="tei_att.typed.attributes"/>
-    <ref name="tei_att.canonical.attributes"/>
+    <optional>
+      <ref name="tei_att.canonical.attributes"/>
+    </optional>
   </define>
   <!-- doc:(object description) contains a description of the physical components making up the object which is being described. [11.7.1. Object Description] -->
   <define name="objectDesc">
@@ -4602,7 +4607,9 @@
     </element>
   </define>
   <define name="attlist.sourceDesc" combine="interleave">
-    <empty/>
+      <optional>
+        <attribute name="xml:base"/>
+      </optional>
   </define>
   <!-- doc:(state) contains a description of some status or quality attributed to a person, place, or organization often at some specific time or for a specific date range. [14.3.1. Basic Principles 14.3.2.1. Personal Characteristics] -->
   <define name="state">
