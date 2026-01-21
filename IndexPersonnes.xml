@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
-    <listPerson>    
+    <listPerson> 
+      <person xml:id="VincenzoBandello" source="https://www.wikidata.org/wiki/Q7932205"></person>
       <person xml:id="NiccoloDeMedici"></person>
       <person xml:id="BernardoSegni"></person>
       <person xml:id="LorenzoRidolfi"></person>
