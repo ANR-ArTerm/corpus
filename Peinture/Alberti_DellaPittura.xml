@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ita"> Alberti_DellaPittura </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher> tranScriptorium </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title xml:lang="ita"> Alberti_DellaPittura </title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+            <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <docAuthor ref="#LeonBattistaAlberti">LEON BATTISTA ALBERTI</docAuthor>
+                <docTitle>
+                    <titlePart>DE PICTURA</titlePart>
+                </docTitle>
+            </titlePage>
+            <pb/>
+            <figure type="tableau"/>
+            <div type="preface">
+
+                <head>LEON BATTISTA ALBERTI DE PICTURA</head>
+                <head> PROLOGUS</head>
+                <p>Io solea maravigliarmi insieme e dolermi che tante ottime e divine arti e
+                    scienzie, quali per loro opere e per le istorie veggiamo copiose erano in que’
+                    virtuosissimi passati antiqui, ora così siano mancate e quasi in tutto perdute:
+                    pittori, scultori, architetti, musici, ieometri, retorici, auguri e simili
+                    nobilissimi e maravigliosi intelletti oggi si truovano rarissimi e poco da
+                    lodarli. Onde stimai fusse, quanto da molti questo così essere udiva, che già la
+                    natura, maestra delle cose, fatta antica e stracca, più non producea, come né
+                    giuganti così né ingegni, quali in que’ suoi quasi giovinili e più gloriosi
+                    tempi produsse amplissimi e maravigliosi.</p>
+                <p>Ma poi che io dal lungo esilio in quale siamo noi Alberti invechiati, qui fui in
+                    questa nostra sopra l’altre ornatissima patria ridutto, compresi in molti, ma
+                    prima in te, Filippo, e in quel nostro amicissimo Donato scultore e in quelli
+                    altri, Nencio e Luca e Masaccio, essere a ogni lodata cosa ingegno da non
+                    postporli a qual si sia stato antiquo e famoso in queste arti. Per tanto m’avidi
+                    in nostra industria e diligenzia, non meno che in benificio della natura e de’
+                    tempi, stare il potere acquistarsi ogni laude di qual si sia virtù. Confessoti
+                    sì a quelli antiqui, avendo, quale aveano, copia da chi imparare e imitarli,
+                    meno era difficile salire in cognizione di quelle supreme arti, quali oggi a noi
+                    sono faticosissime; ma quinci tanto più el nostro nome più debba essere
+                    maggiore, se noi sanza precettori, senza esemplo alcuno, troviamo arti e
+                    scienzie non udite e mai vedute. Chi mai sì duro o sì invido non lodasse Pippo
+                    architetto vedendo qui struttura sì grande, erta sopra e cieli, ampla da coprire
+                    con sua ombra tutti e popoli toscani, fatta sanza alcuno aiuto di travamenti o
+                    di copia di legname? Quale artificio, certo, se io ben iudico, come a questi
+                    tempi era incredibile potersi, così forse a presso gli antichi fu non saputo né
+                    conosciuto. Ma delle tue lodi e della virtù del nostro Donato insieme e degli
+                    altri, quali a me sono per loro costumi gratissimi, altro luogo sarà da
+                    recitarne. Tu tanto persevera in trovare, quanto fai, di dì in dì cose per quali
+                    il tuo ingegno maraviglioso s’aquista perpetua fama e nome; e se in tempo
+                    t’accade ozio, mi piacerà rivega questa mia operetta de pictura quale a tuo nome
+                    feci in lingua toscana.</p>
+                <p> Vederai tre libri: el primo, tutto matematico, dalle radici entro dalla natura
+                    fa sorgere questa leggiadra e nobilissima arte; el secondo libro pone l’arte in
+                    mano allo artefice, distinguendo sue parti e tutto dimostrando; el terzo
+                    instituisce l’artefice quale e come possa e debba acquistare perfetta arte e
+                    notizia di tutta la pittura. Piacciati adunque leggermi con diligenzia, e se
+                    cosa vi ti par da emendarla, correggimi: niuno scrittore mai fu sì dotto al
+                    quale non fussero utilissimi gli amici eruditi e io in prima da te desidero
+                    essere emendato per non essere morso da’ detrattori. </p>
+            </div>
+        </front>
+        <body>
+            <div1 n="1" type="livre" xml:id="L1">
+                <head> LIBRO I </head>
+                <p>Scrivendo de pictura in questi brevissimi comentarii, acciò che ’l nostro dire
+                    sia ben chiaro, piglieremo da i matematici quelle cose in prima quali alla
+                    nostra matera apartengano, e, conosciùtole, quanto l’ingegno ci porgerà,
+                    esporremo la pittura da i primi principii della natura. Ma in ogni nostro
+                    favellare molto priego si consideri me non come matematico, ma come pittore
+                    scrivere di queste cose: quelli col solo ingegno, separata ogni matera, mesurano
+                    le forme delle cose; noi, perché vogliamo le cose essere poste da vedere, per
+                    questo useremo, quanto dicono, più grassa Minerva e bene stimeremo assai se, in
+                    qualunque modo, in questa certo difficile e da niuno altro che io sappi
+                    descritta matera, chi noi legerà intenderà. Adunque priego i nostri detti sieno
+                    come da solo pittore interpetrati. </p>
+                <p>Dico in principio dobiamo sapere il punto essere segno quale non si possa
+                    dividere in parte. Segno qui appello qualunque cosa stia alla superficie per
+                    modo che l’occhio possa vederla. Delle cose quali non possiamo vedere, neuno
+                    nega nulla apartenersene al pittore; solo studia il pittore fingere quello si
+                    vede. E i punti, se in ordine costati l’uno a l’altro s’agiungono, crescono una
+                    linea. E a presso di noi sarà linea segno la cui longitudine si può dividere, ma
+                    di larghezza tanto sarà sottile che non si potrà fendere. Delle linee alcuna si
+                    chiama dritta, alcuna flessa. La linea ritta sarà da uno punto ad uno altro
+                    dritto, tratto in lungo, segno. La flessa linea sarà da uno punto ad un altro
+                    non dritto, ma come uno arco fatto, segno. Più linee, quasi come nella tela più
+                    fili accostati, fanno superficie. E è superficie certa parte estrema del corpo,
+                    quale si conosce non per sua alcuna profondità, ma solo per sua longitudine e
+                    latitudine e per sue ancora qualità. Delle qualità alcune così stanno perpetue
+                    alla superficie che, se non alteri la superficie, nulla indi possano muoversi;
+                    altre sono qualità tali che, rimanendo il medesimo essere della superficie, pur
+                    così giaciono a vederle che paiono, a chi le guarda, mutate. Le qualità perpetue
+                    sono due. L’una si conosce per quello ultimo orlo quale chiuda la superficie. E
+                    sarà questo orlo chiuso d’una o di più linee: sarà una la circulare, saranno più
+                    come una flessa e una retta, o insieme più diritte linee. Sarà circulare quella
+                    quale inchiude uno circolo. Sarà circolo forma di superficie quale una intera
+                    linea quasi come una ghirlanda l’avvolge; e se qui in mezzo sarà uno punto,
+                    qualunque linea da questo punto sino alla ghirlanda sarà d’una mensura a l’altre
+                    equale, e questo punto in mezzo si chiama centro. Quella linea dritta, la quale
+                    coprirà il punto e taglierà in due luoghi il circolo, si dice appresso de’
+                    matematici diamitro: noi giovi chiamarla centrica. E qui sia da’ matematici
+                    persuaso, quanto essi dicono, che niuna linea segna alla ghirlanda del circolo
+                    angoli equali se non quella una quale dritta cuopra il centro. </p>
+                <p>Ma torniamo alla superficie. Qui vedi che, mutato l’andare de l’orlo, la
+                    superficie muta e faccia e nome, e quello si dicea triangolo ora si dirà
+                    quadrangolo o di più canti. Dicesi mutato l’orlo se le linee, o vero li
+                    angoli, saranno più o meno, più lunghi, più corti, più acuti o più ottusi. 4
+                    Questo luogo ammonisce si dica delli angoli. 5 Dico angolo essere certa
+                    estremità di superficie, fatto da due linee quali l’una l’altra seghi. 6 Sono
+                    tre generi d’angoli: retto, ottuso, acuto. 7 L’angolo retto sarà uno de’ quattro
+                    fatti da due ritte linee ove l’una sega l’altra in modo che di loro ciascuno sia
+                    equale all’altro: di qui si dice che tutti li angoli retti sono a sé equali; 8
+                    l’angolo ottuso è quello che sia maggiore che il retto, e quello che sia minore
+                    che il retto si chiama acuto. </p>
+                <p> Ancora ritorniamo alle superficie. Sia persuaso, quanto a l’orlo sue linee e
+                    angoli non si mutano, tanto sarà medesima superficie. Abiamo adunque mostro
+                    una qualità che mai si parte da torno dalla superficie. 4 Abiamo a dire
+                    dell’altra qualità quale sta quasi come buccia sopra tutto il dosso della
+                    superficie. 5 Questa si divide in tre: sono alcune superficie piane, alcune
+                    cavate in dentro, alcune gonfiate in fuori e sperice; e a queste agiugni la
+                    quarta quale sia composta da due di queste. 6 La superficie piana sarà quella
+                    quale, sopra tràttoli uno regolo diritto, ad ogni parte se l’acosterà; a questa
+                    molto sta simile la superficie dell’acqua. 7 Sperica superficia s’assomiglia al
+                    dosso della spera. 8 Dicono la spera essere uno corpo ritondo, volubile in ogni
+                    parte, in cui mezzo siede uno punto, dal quale punto qual si sia parte estrema
+                    di quel corpo a l’altre simile sia distante. 9 La superficie cavata sarà dentro,
+                    sotto l’ultimo estremo della superficie sperica, quasi come drento il guscio
+                    dell’uovo. 10 La superficie composta sarà quella che per uno verso sia piana,
+                    per un altro verso sia cavata o sperica, qual’ sono drento i cannoni e di fuori
+                    le colonne. </p>
+                <p>Adunque l’orlo e dorso danno suoi nomi alle superficie. Ma le qualità per le
+                    quali, non alterata la superficie né mutàtoli suo nome, pure possono parere
+                    alterate, sono due, quali pigliano variazione per mutazione del luogo o de’
+                    lumi. Diciamo prima del luogo, poi de’ lumi, e investighiamo in che modo, per
+                    questo, le qualità alla superficie paiano mutate. 4 Questo s’apartiene alla
+                    forza del vedere, imperò che, mutato il sito, le cose parrano o maggiori o
+                    d’altro orlo o d’altro colore, quali tutte cose misuriamo col vedere. 5
+                    Cerchiamo a questo sue ragioni, cominciando dalla sentenzia de’ filosafi, i
+                    quali affermano misurarsi le superficie con alcuni razzi, quasi ministri al
+                    vedere, chiamati per questo visivi, quali portino la forma delle cose vedute al
+                    senso. 6 E noi qui immaginiamo i razzi quasi essere fili sottilissimi, da un
+                    capo, quasi come una mappa, molto strettissimi legati dentro all’occhio ove
+                    siede il senso che vede; 7 e quivi, quasi come tronco di tutti i razzi, quel
+                    nodo estenda drittissimi e sottilissimi suoi virgulti per in sino alla opposita
+                    superficie. 8 Ma fra questi razzi si truova differenza necessaria a conoscere:
+                    sono loro differenzie quanto alla forza e quanto all’oficio. 9 Alcuni di questi
+                    razzi giugnendo all’orlo delle superficie misurano sue tutte quantità; adunque,
+                    perché così cozzano l’ultime e estreme parti della superficie, nominiàlli
+                    estremi o vuoi estrinsici. 10 Altri razzi da tutto il dorso della superficie
+                    escono sino a l’occhio, e questi hanno suoi officii, però che da que’ colori e
+                    que’ lumi acesi, da i quali la superficie splende, empiono la pirramide della
+                    quale più giù diremo al suo luogo; e questi così si chiamino radî mediani. 11
+                    Ècci fra i razzi visivi uno detto centrico: questo, quando giugne alla
+                    superficie, fa di qua e di qua, torno a sé, gli angoli retti e equali; dicesi
+                    centrico a similitudine di quella sopradetta centrica linea. 12 Adunque abiamo
+                    trovate tre differenze di radii: estremi, mediani e centrici. </p>
+                <p>Ora investighiamo quanto ciascuno razzo s’adoperi al vedere. Prima diremo delli
+                    estremi, poi de’ mezzani, e ivi a presso del centrico. Co i razzi estremi si
+                    misurano le quantità. 4 Quantità si chiama ogni spazio su per la superficie qual
+                    sia da uno punto dell’orlo a l’altro. 5 E misura l’ochio queste quantità con i
+                    razzi └visivi┘ quasi come con un paio di seste. 6 E sono in ogni superficie
+                    tante quantità quanti sono spazii tra punto e punto, però che l’altezza da basso
+                    in su, la larghezza da man destra a sinistra, la grossezza tra presso e lunge e
+                    qualunque altra dimensione vel misurazione si faccia guatando, a quella
+                    s’adopera questi razzi estremi. 7 Onde si suole dire che al vedere si fa
+                    triangolo, la basa del quale sia la veduta quantità e i lati sono questi radii,
+                    i quali da i punti della quantità si estendono sino a l’occhio; 8 e è certissimo
+                    niuna quantità potersi sanza triangolo vedere. 9 Li angoli in questo triangolo
+                    visivo sono prima i due punti della quantità; il terzo, quale sia opposto alla
+                    base, sta drento all’occhio. 10 Sono qui regole: quanto a l’occhio l’angolo sarà
+                    acuto, tanto la veduta quantità parrà minore; di qui si conosce qual cagione
+                    facci una quantità molto distante quasi parere non maggiore che uno punto. 11 E
+                    ben che così sia, pure si truova alcuna quantità e superficia di quale, quanto
+                    più li sia presso, meno ne vedi, e da lunge ne vegga molto più parte: vedesi di
+                    questo pruova nel corpo sperico. 12 Adunque le quantità per la distanzia paiono
+                    maggiori e minori. 13 E chi ben gusta quello che detto è, credo intenda come,
+                    mutato l’intervallo, i razzi estrinsici divenghino mediani, e così i mediani
+                    estrinsici; 14 e intenderà, dove i mediani radii sieno fatti estrinsici, subito
+                    quella quantità parere minore, e, contrario, quando i razzi estremi saranno
+                    dentro a l’orlo adiritti, quanto più distanti da l’orlo, tanto parrà la veduta
+                    quantità maggiore. 15 Qui soglio io appresso a i miei amici dare simile regola:
+                    quanto a vedere più razzi occupi, tanto ti pare quel che si vede maggiore, e
+                    quanto meno razzi, tanto minore. 16 E questi razzi estrinsici, così circuendo la
+                    superficie che l’uno tocchi l’altro, chiugono tutta la superficie quasi come
+                    vetrici ad una gabbia, e fanno, quanto si dice, quella pirramide visiva. </p>
+                <p>Adunque mi pare da dire che cosa sia pirramide, e a che modo sia da questi razzi
+                    construtta. Noi la discriveremo a nostro modo. La pirramide sarà figura
+                    d’uno corpo dalla cui base tutte le linee diritte tirate in su terminano ad uno
+                    solo punto. 4 La basa di questa pirramida sarà una superficie che si vede; 5 i
+                    lati della pirramide sono quelli razzi i quali io chiamai estrinsici; 6 la
+                    cuspide, cioè la punta della pirramide, sta drento all’occhio quivi dov’è
+                    l’angulo opposto alla quantità. 7 Sino a qui dicemmo de i razzi estrinsici da i
+                    quali sia conceputa la pirramide, e parmi provato quanto differenzii una più che
+                    un’altra distanzia tra l’ochio e quello che si vegga. 8 Seguita a dire de i
+                    razzi mediani, quali sono quella moltitudine nella pirramide dentro ai razzi
+                    estrinsici; 9 e questi fanno quanto si dice il cameleone, animale che piglia
+                    d’ogni a sé prossima cosa colore, imperò che, da dove toccano le superficie per
+                    fino all’ochio, così pigliano colori e lume qual sia alla superficie, che,
+                    dovunque li rompesse, per tutto li troveresti per uno modo luminati e colorati.
+                    10 E di questo si pruova che per molta distanzia indebiliscono; credo ne sia
+                    ragione che, carichi di lume e di colore, trapassano l’aere, quale, umido di
+                    certa grassezza, stracca i carichi razzi. 11 Onde traemmo regola: quanto
+                    maggiore sarà la distanzia, tanto la veduta superficie parrà più fusca. </p>
+                <p>Restaci a dire del razzo centrico. Sarà centrico razzo quello uno solo quale sì
+                    cozza la quantità che, di qua e di qua, ciascuno angolo sia a l’altro equale.
+                    Questo uno razzo, fra tutti gli altri gagliardissimo e vivacissimo, fa che niuna
+                    quantità mai pare maggiore che quando la ferisce. 4 Potrebbesi di questo razzo
+                    dire più cose, ma basti che questo uno, stivato da li altri razzi, ultimo
+                    abandona la cosa veduta; onde merito si può dire prencipe de’ razzi. 5 Parmi
+                    avere dimostrato assai che, mutato la distanzia e mutato il porre del razzo
+                    centrico, subito la superficie parrà alterata. 6 Adunque la distanzia e la
+                    posizione del centrico razzo molto vale alla certezza del vedere. 7 Ècci ancora
+                    una terza qual facci parere la superficie variata: questo viene dal ricevere il
+                    lume. 8 Vedesi nelle superficie speriche e concave: sendo ad uno lume, hanno
+                    questa parte oscura e quella chiara, 9 e, bene che sia quella medesima distanzia
+                    e posizione di centrica linea, ponendo il lume altrove vedrai quelle parti,
+                    quali prima erano chiare, ora essere oscure, e quelle chiare quali erano oscure;
+                    10 e dove attorno fussino più lumi, secondo loro numero e forza, vedresti più
+                    macole di chiarore e di oscurità. </p>
+                <p>Questo luogo m’amonisce a dire de’ colori insieme e de’ lumi. Parmi manifesto
+                    che i colori pigliano variazione da i lumi, poi che ogni colore, posto in ombra,
+                    pare non quello che è nel chiarore: fa l’ombra il colore fusco e il lume fa
+                    chiaro ove percuote. 4 Dicono i filosafi nulla potersi vedere quale non sia
+                    luminato e colorato. 5 Adunque tengono gran parentado i colori co i lumi a farsi
+                    vedere, e quanto sia grande vedilo che, mancando il lume, mancano i colori e,
+                    ritornando il lume, tornano i colori. 6 Adunque parmi da dire prima de’ colori,
+                    poi investigheremo come sotto il lume si variino. 7 Parliamo come pittore. 8
+                    Dico per la permistione de’ colori nascere infiniti altri colori, ma veri colori
+                    solo essere, quanto li elementi, quattro, da i quali più e più altre spezie di
+                    colori nascono. 9 Fia colore di fuoco il rosso, dell’aere il celestrino,
+                    dell’acqua il verde e la terra bigia e cenericcia; li altri colori, come diaspri
+                    e porfidi, sono permistione di questi. 10 Adunque quattro sono generi di colori,
+                    e fanno spezie sue secondo se li agiunga oscuro o chiarore, nero o bianco. 11 E
+                    sono quasi innumerabili: veggiamo le fronde verzose di grado in grado perdere la
+                    verdura per in sino che divengono scialbe; 12 simile, in aere circa a
+                    l’orizonte, non raro essere vapore bianchiccio, e a poco a poco seguirsi
+                    perdendo; 13 e nelle rose veggiamo ad alcune molta porpora, alcune simigliarsi
+                    alle gote delle fanciulle, alcune allo avorio; 14 e così la terra, secondo il
+                    bianco e ’l nero, fa suo spezie di colore.</p>
+                <p>Adunque la permistione del bianco non muta e generi de’ colori, ma ben fa spezie;
+                    così il nero colore tiene simile forza, con sua permistione, fare quasi
+                    infinite spezie di colori. Vedesi dall’ombra i colori alterati: crescendo
+                    l’ombra s’empiono i colori, e crescendo il lume diventano i colori più aperti e
+                    chiari. 4 Per questo assai si può persuadere al pittore che ’l bianco e ’l nero
+                    non sono veri colori, ma sono alterazione de li altri colori, 5 però che il
+                    pittore truova cosa niuna con la quale elli ripresenti l’ultimo lustro de’ lumi,
+                    altro che il bianco, e così solo il nero a dimostrare le tenebre. 6 Aggiugni che
+                    mai troverai bianco o nero, il quale non sia sotto qualcuno di quelli quattro
+                    colori. </p>
+                <p>Seguita de’ lumi. Dico de’ lumi alcuno essere dalle stelle, come dal sole, da
+                    la luna e da quell’altra bella stella Venere; altri lumi sono da i fuochi. Ma
+                    tra questi si vede molta differenzia: il lume delle stelle fa l’ombra pari al
+                    corpo, ma il fuoco le fa maggiori. 4 Rimane ombra dove i razzi de’ lumi sono
+                    interrotti. 5 I razzi interrotti o ritornano onde vennono, o s’adirizzano
+                    altrove: vedili adiritti altrove quando, aggiunti alla superficie de l’acqua,
+                    feriscono i travi della casa. 6 Circa a queste reflessioni sì potre’ dire più
+                    cose, quali apartengono a quelli miracoli della pittura, quali più miei compagni
+                    viddero da me fatti altra volta in Roma; 7 ma basti qui che questi razzi flessi
+                    seco portano quel colore quale essi truovano alla superficie: vedilo che chi
+                    passeggia su pe’ prati al sole pare nel viso verzoso. </p>
+                <p>Dicemo sino a qui delle superficie; dicemo de’ razzi; dicemmo in che modo vedendo
+                    si facci pirramide; provammo quanto facci la distanzia e posizione del razzo
+                    centrico insieme e ricevere de’ lumi. Ora, poi che ad uno solo guardare non
+                    solo una superficie si vede, ma più, investigheremo in che modo molte insieme
+                    giunte si veggano. Vedesti che ciascuna superficie in sé tiene sua pirramide,
+                    colori e lumi; 4 ma, poi che i corpi sono coperti dalle superficie, tutte le
+                    vedute insieme superficie d’uno corpo faranno una pirramide di tante minori
+                    pirramide gravida quanto in quello guardare si vedranno superficie. 5 Ma dirà
+                    qui alcuno: «Che giova al pittore cotanto investigare?». 6 Estimi ogni pittore
+                    ivi sé essere ottimo maestro, ove bene intende le proporzioni e agiugnimenti
+                    delle superficie, quale cosa pochissimi conoscono; 7 e domandando in su quella
+                    quale e’ tingono superficie che cosa essi cerchino di fare, diranti ogni altra
+                    cosa più a proposito di quello di che tu domandi. 8 Adunque priego li studiosi
+                    pittori non si vergognino d’udirci: mai fu sozzo imparare, da chi si sia, cosa
+                    quale giovi sapere. 9 E sappiano che quando con sue linee circuiscono la
+                    superficie, e quando empiono di colori e luoghi descritti, niun’altra cosa
+                    cercarsi se non che in questa superficia si representino le forme delle cose
+                    vedute, 10 non altrimenti che se essa fusse di vetro tralucente tale che la
+                    pirramide visiva indi trapassasse, posto una certa distanzia, con certi lumi e
+                    certa posizione di centro in aere e ne’ suoi luoghi altrove. 11 Qual cosa così
+                    essere dimostra ciascuno pittore quando se stessi da quello dipigne sé pone a
+                    lunge, dutto dalla natura, quasi come ivi cerchi la punta e angolo della
+                    pirramide, onde intende le cose dipinte meglio remirarsi. 12 Ma, ove questa sola
+                    veggiamo essere una superficie, o di muro o di tavola, nella quale il pittore
+                    studia figurare più superficie comprese nella pirramide visiva, converralli in
+                    qualche luogo segare a traverso questa pirramida, a ciò che simili orli e lumi
+                    con colori e con sue linee il pittore possa dipignendo espriemere. 13 Qual cosa
+                    se così è quanto dissi, adunque chi mira una pittura vede certa intersegazione
+                    d’una pirramide. 14 Sarà adunque pittura non altro che intersegazione della
+                    pirramide visiva sicondo data distanzia, posto il centro e constituiti i lumi,
+                    in una certa superficie con linee e colori artificioso representata. </p>
+                <p>Ora poi che dicemmo la pittura essere intercisione della pirramide, convienci
+                    investigare qualunque cosa a noi faccia questa intersegazione conosciuta. 
+                    Convienci avere nuovo principio a ragionare delle superficie, dalle quali
+                    dicemmo che la pirramide usciva. Dico delle superficie alcuna essere in terra
+                    riversa e giacere, come i pavimenti e i solari delli edifici e ciascuna
+                    superficia quale equalmente da questa sia distante; 4 altre stanno apoggiate in
+                    lato, come i pareti e l’altre superficie conlinearii a i pareti. 5 Le superficie
+                    equalmente fra sé distanti saranno quando la distanzia fra l’una e l’altra in
+                    ciascuna sua parte sarà equale. 6 Conlinearii superficie saranno quelle quali
+                    una diritta linea in ogni parte equalmente toccherà, come sono le faccie de’
+                    pilastri quadri posti ad ordine in uno portico. 7 E sono queste cose da essere
+                    aggiunte a quelle quali di sopra dicemmo delle superficie, e a quelle cose quali
+                    dicemmo de’ razzi intrinsici, estrinsici e centrico, e a quelle dicemmo della
+                    pirramide. 8 Aggiugni la sentenzia de’ matematici, onde si pruova che, se una
+                    dritta linea taglia due lati d’uno triangolo, e sia questa linea, qual ora fa
+                    triangolo, equedistante alla linea del primo e maggiore triangolo, certo sarà
+                    questo minore triangolo a quel maggiore proporzionale; tanto dicono i
+                    matematici. 9 Ma noi, per fare più chiaro il nostro dire, parleremo in questo
+                    più largo. </p>
+                <p>Conviensi intendere qui che cosa sia proporzionale. Diconsi proporzionali quelli
+                    triangoli quali con suo lati e angoli abbiano fra sé una ragione che, se uno
+                    lato di questo triangolo sarà in lunghezza due volte più che la base e l’altro
+                    tre, ogni triangolo simile, o sia maggiore o sia minore, abiendo una medesima
+                    convenienza alla sua base, sarà a quello proporzionale: 4 imperò che quale
+                    ragione sta da parte a parte nel minore triangolo, quella ancora sta medesima
+                    nel maggiore; adunque tutti i triangoli così fatti saranno fra sé proporzionali.
+                    5 E, per meglio intendere questo, useremo una similitudine: 6 vedi uno picciolo
+                    uomo certo proporzionale ad uno grande, imperò che medesima proporzione, dal
+                    palmo al passo e dal piè a l’altre sue parti del corpo, fu in Evandro qual fu in
+                    Ercole, quale Aulo Gelio conietturava essere stato grande sopra a li altri
+                    uomini; 7 né, simile, fu nel corpo di Hercole proporzione altra che ne i membri
+                    d’Anteo gigante, ove a l’uno e a l’altro si congiugneva con pari ragioni e
+                    ordini dalla mano al cubito e dal cubito al capo, e così poi ogni suo membro. 8
+                    Simile truovi ne’ triangoli misura per la quale il minore al maggiore sia,
+                    eccetto che nella grandezza, equale. 9 E se qui bene sono inteso, istatuirò coi
+                    matematici, quanto a noi s’apartenga, che ogni intercesione di qual sia
+                    triangolo, pure che sia equidistante dalla base, fa nuovo triangolo
+                    proporzionale a quello maggiore. 10 E quelle cose quali fra sé sieno
+                    proporzionali, in queste, ciascune parti conrispondono; ma dove sieno diverse e
+                    poco conrispondano le parti, queste sono certo non proporzionali. </p>
+                <p>E sono parte del triangolo visivo, quanto ti dissi, i razzi, i quali certo
+                    saranno nelle quantità proporzionali, quanto al numero, pari e in le non
+                    proporzionali non pari, imperò che una di queste non proporzionali quantità
+                    occuperà razzi o più o meno. Vedesti adunque come uno minore triangolo sia
+                    proporzionale ad uno maggiore, e imparasti da i triangoli farsi la pirramide
+                    visiva. Per tanto traduchiamo il nostro ragionare a questa pirramide. 4 Ma sia
+                    persuaso che niuna quantità equidistante dalla intercesione potere nella pittura
+                    fare alcuna alterazione, imperò che esse sono in ogni equedistante
+                    intersegazione pari alle sue proporzionali. 5 Quali cose sendo così, ne seguita
+                    che, non alterate le quantità onde se ne fa l’orlo, sarà del medesimo orlo in
+                    pittura niuna alterazione. 6 E così resta manifesto che ogni intersegazione
+                    della piramide visiva, qual sia alla veduta superficie equedistante, sarà a
+                    quella guardata superficie proporzionale. </p>
+                <p>Dicemmo delle superficie proporzionali alla intercesione, cioè equedistante dalla
+                    dipinta superficie. Ma, poi che molte superficie si truovano non equedistanti,
+                    conviensi di queste avere diligente investigazione, acciò che tutta la ragione
+                    della intersegazione sia manifesta. Sarebbe cosa lunga, difficile e oscura in
+                    queste intersegazione di triangoli e di pirramide seguire ogni cosa con la
+                    regola de’ matematici; 4 seguiremo dicendo pure come pittore. </p>
+                <p>Recitiamo delle quantità non equedistanti brevissime, quali conosciute, facile
+                    conosceremo le superficie non equedistante. Delle quantità non equedistante
+                    alcune sono a i razzi visivi conlinearii, altre sono ad alcuni razzi visivi
+                    equedistanti. Le quantità a i razzi visivi conlinearii, perché non fanno
+                    triangolo né occupano numero di razzi, adunque niuno luogo hanno alla
+                    intersegazione. 4 Ma le quantità a i razzi visivi equedistanti, quanto l’angolo
+                    quale è maggiore nel triangolo alla base sarà più ottuso, tanto quella quantità
+                    meno occuperà de i razzi e per questo alla intersegazione meno spazio. 5 Dicemo
+                    a torno coprirsi la superficie dalle quantità. 6 Ma, ove non raro avviene che in
+                    una superficie sarà qualche quantità equedistante dalla intersegazione, quella
+                    così fatta quantità certo nella pittura farà niuna alterazione; 7 quelle vero
+                    quantità non equedistante, quanto aranno l’angolo alla base maggiore, tanto più
+                    faranno alterazione. </p>
+                <p>E conviensi a queste dette cose agiugnere quella oppinione de’ filosafi e quali
+                    affermano, se il cielo, le stelle, il mare e i monti e tutti li animali e tutti
+                    i corpi divenissono, così volendo Iddio, la metà minori, sarebbe che a noi
+                    nulla parrebbe da parte alcuna diminuta, imperò che grande, picciolo, lungo,
+                    brieve, alto, basso, largo, stretto, chiaro, oscuro, luminoso, tenebroso, e ogni
+                    simile cosa, quale, perché può essere e non essere agiunta alle cose, però
+                    quelle sogliono i filosafi appellarle accidenti, sono sì fatte che ogni loro
+                    cognizione si fa per comparazione. 4 Disse Virgilio Henea vedersi sopra li
+                    uomini tutte le spalle, quale, posto presso a Polifemo, parrebbe uno
+                    piccinnacolo; 5 Niso e Heurialo furono bellissimi, quali, comparati a Ganimede
+                    ratto dalli iddii, forse parrebono sozzi; 6 appresso de l’Ispani molte fanciulle
+                    paiono biancose, che, a presso a’ Germani, sarebbono fusche e brune; 7 l’avorio
+                    e l’argento sono bianchi, quali, posti presso al cigno o alla neve, parrebbono
+                    palidi. 8 Per questa ragione nella pittura paiono cose splendidissime ove sia
+                    quivi buona proporzione di bianco a nero, simile a quella sia nelle cose dal
+                    luminoso all’ombroso. 9 Così queste cose tutte si conoscono per comparazione. 10
+                    In sé tiene questa forza la comparazione, che subito dimostra in le cose qual
+                    sia più, qual meno o equale; 11 onde si dice grande quello che sia maggiore che
+                    questo picciolo, e grandissimo quello che sia maggiore che questo grande; 12
+                    lucido qual sia più chiaro che questo oscuro, lucidissimo quale più sia chiaro
+                    che questo chiaro. 13 E fassi comparazione in prima alle cose molto notissime;
+                    14 e dove a noi sia l’uomo fra tutte le cose notissimo, forse Pictagora, dicendo
+                    che l’uomo era modo e misura di tutte le cose, intendea che tutti li accidenti
+                    delle cose, comparati fra gli accidenti de l’uomo, si conoscessero. 15 Questo
+                    che io dico appartiene a dare ad intendere che, bene che piccioli corpi sieno
+                    dipinti nella pittura, questi parranno grandi e piccioli a comparazione di quale
+                    ivi sia dipinto uomo. 16 E parmi che Thimantes pittore, fra li altri antiqui,
+                    gustasse questa forza di comparazione, 17 il quale, in una picciola tavoletta
+                    dipignendo uno ciclope gigante adormentato, fece ivi alcuni satiri iddii quali a
+                    lui misuravano il dito grosso; 18 tale che, comparando colui che giacea a questi
+                    satiri, parea grandissimo. </p>
+                <p>Per sino a qui dicemmo tutto quanto apartenga alla forza del vedere, e quanto
+                    s’apartenga alla intersegazione. Ma, poi che non solo giova sapere che cosa
+                    sia intersegazione, e conviene al pittore sapere intersegare, di ciò diremo.
+                    Qui solo, lassato l’altre cose, dirò quello fo io quando dipingo. 4 Principio,
+                    dove io debbo dipignere scrivo uno quadrangolo di retti angoli quanto grande io
+                    voglio, el quale reputo essere una finestra aperta per donde io miri quello che
+                    quivi sarà dipinto; 5 e quivi ditermino quanto mi piaccino nella mia pittura
+                    uomini grandi, e divido la lunghezza di questo uomo in tre parti, quali a me
+                    ciascuna sia proporzionale a quella misura si chiama braccio, però che,
+                    misurando uno comune uomo, si vede essere quasi braccia tre; 6 e con queste
+                    braccia segno la linea di sotto, qual giace nel quadrangolo, in tante parti
+                    quanto ne riceva; 7 e èmmi questa linea medesima proporzionale a quella quantità
+                    quale prima mi si traversò in anzi. 8 Poi dentro a questo quadrangolo, dove a me
+                    paia, fermo uno punto, il quale occupi quello luogo dove il razzo centrico
+                    ferisce, e per questo il chiamo punto centrico. 9 Sarà bene posto questo punto
+                    alto dalla linea che sottogiace nel quadrangolo non più che sia l’altezza de
+                    l’uomo quale ivi io abbia a dipignere, però che così e chi vede e le dipinte
+                    cose vedute paiono medesimo in su uno piano. 10 Adunque, posto il punto centrico
+                    come dissi, segno diritte linee da esso a ciascuna divisione posta nella linea
+                    del quadrangolo che giace, quali segnate linee a me dimostrino in che modo,
+                    quasi per sino in infinito, ciascuna traversa quantità segua alterandosi. 11 Qui
+                    sarebbono alcuni i quali segnerebbono una linea a traverso equedistante dalla
+                    linea che giace nel quadrangolo e quella distanzia, quale ora fusse tra queste
+                    due linee, dividerebbono in tre parti; 12 e présone le due, a tanta distanzia
+                    sopr’agiugnerebbono un’altra linea, e così a questa aggiugnerebbono un’altra e
+                    poi un’altra, sempre così misurando che quello spazio diviso in tre, qual fusse
+                    tra la prima e la seconda, sempre una parte avanzi lo spazio che sia fra la
+                    seconda e la terza; 13 e così seguendo farebbe che sempre sarebbono li spazii
+                    superbipartienti, come dicono i matematici, a i suoi seguenti. 14 Questi forse
+                    così farebbono quali, bene che seguisero a loro ditto buona via da dipignere,
+                    pure dico errerebbono, 15 però che, ponendo la prima linea a caso, ben che
+                    l’altre seguano a ragione, non però sanno ove sia certo luogo alla cuspide della
+                    pirramide visiva, onde loro succedono errori alla pittura non piccioli. 16
+                    Aggiugni a questo quanto la loro ragione sia viziosa, ove il punto centrico sia
+                    più alto o più basso che la lunghezza del dipinto uomo. 17 E sappi che cosa
+                    niuna dipinta mai parrà pari alle vere, dove non sia certa distanzia a vederle;
+                    18 ma di questo dirémone sue ragioni, se mai scriveremo di quelle dimostrazioni
+                    quali, fatte da noi, li amici, veggendole e maravigliandosi, chiamavano
+                    miracoli. 19 Ivi ciò che sino a qui dissi molto s’apartiene. 20 Adunque torniamo
+                    al nostro proposito. </p>
+                <p>Trovai adunque io questo modo ottimo, così in tutte le cose seguendo quanto
+                    dissi, ponendo il punto centrico, traendo indi linee alle divisioni della
+                    giacente linea del quadrangolo. Ma nelle quantità transverse, come l’una
+                    seguiti l’altra così conosco. Prendo uno picciolo spazio nel quale scrivo una
+                    diritta linea, e questa divido in simile parte in quale divisi la linea che
+                    giace nel quadrangolo. 4 Poi pongo di sopra uno punto alto da questa linea
+                    quanto nel quadrangolo posi el punto centrico alto dalla linea che giace nel
+                    quadrangolo, e da questo punto tiro linee a ciascuna divisione segnata in quella
+                    prima linea. 5 Poi constituisco quanto io voglia distanzia dall’ochio alla
+                    pittura, e ivi segno, quanto dicono i matematici, una perpendiculare linea
+                    tagliando qualunque truovi linea.6 Dicesi linea perpendiculare quella linea
+                    dritta, quale, tagliando un’altra linea diritta, fa a presso di sé, di qua e di
+                    qua, angoli retti. 7 Questa così perpendiculare linea, dove dall’altre sarà
+                    tagliata, così mi darà la successione di tutte le trasverse quantità. 8 E a
+                    questo modo mi truovo descritto tutti e paralelli, cioè le braccia quadrate del
+                    pavimento nella dipintura, quali, quanto sieno dirittamente descritti, a me ne
+                    sarà indizio se una medesima ritta linea continoverà diamitro di più quadrangoli
+                    descritti nella pittura. 9 Dicono i matematici diamitro d’uno quadrangolo quella
+                    retta linea da uno angolo ad un altro angolo, quale divida in due parti il
+                    quadrangolo per modo che d’uno quadrangolo sia due triangoli. 10 Fatto questo,
+                    io descrivo nel quadrangolo della pittura, attraverso, una dritta linea dalle
+                    inferiori equedistante, quale, da l’uno lato a l’altro passando su pel centrico
+                    punto, divida il quadrangolo. 11 Questa linea a me tiene uno termine quale niuna
+                    veduta quantità, non più alta che l’occhio che vede, può sopr’agiudicare. 12 E
+                    questa, perché passa pel punto centrico, dicasi linea centrica. 13 Di qui
+                    interviene che li uomini dipinti, posti nell’ultimo braccio quadro della
+                    dipintura, sono minori che gli altri, qual cosa così essere la natura medesima a
+                    noi dimostra: 14 veggiamo ne’ tempî i capi delli uomini quasi tutti ad
+                    un’equalità, ma i piedi de’ più lontani quasi conrispondere a i ginochi de’ più
+                    presso. </p>
+                <p>Ma questa ragione di dividere il pavimento s’apartiene a quella parte quale al
+                    suo luogo chiameremo composizione. E sono tali che io dubito, sì per la novità
+                    della matera, sì etiam per questa brevità del nostro comentare, sarà non molto
+                    forse intesa da chi leggerà. E quanto sia difficile veggasi nell’opere delli
+                    antiqui scultori e pittori: forse perché era oscura, loro fu ascosa e incognita.
+                    4 Appena vedrai alcuna storia antiqua attamente composta. </p>
+                <p>Da me sino a qui sono dette cose utili, ma brieve e, come estimo, non in tutto
+                    oscure. Ma bene intendo, quali sieno, che, dove in esse io posso acquistare
+                    laude niuna di eloquenzia, ivi ancora chi non le comprende al primo aspetto,
+                    costui appena mai, con quanta sia fatica, l’aprenderà. 3 Ma a i sottili ingegni
+                    e atti alla pittura queste nostre cose, in qualunque modo dette, saranno facili
+                    e bellissime 4 e a chi altri sia rozzo e da natura poco dato a queste arti
+                    nobilissime saranno queste cose, ben che da eloquentissimi scritte, ingrate. 5
+                    Da noi, forse, perché sono sanza eloquenzia scritte, si leggeranno con fastidio,
+                    ma priego mi perdonino, se, dove io in prima volli essere inteso, ebbi raguardo
+                    a fare il nostro dire chiaro molto più che ornato. 6 Quello che seguirà, credo,
+                    sarà meno tedioso a chi leggerà. </p>
+                <p>Dicemmo de’ triangoli, della pirramide, della intercesione quanto parea da dire,
+                    quale cose, mia usanza, soglio a presso de’ miei amici prolisso con certe
+                    dimostrazioni giometrice esplicare, quali in questi comentari per brevità mi
+                    parve da lassare; qui solo raccontai i primi dirozzamenti de l’arte, e per
+                    questo così li chiamo dirozzamenti, quali a i pittori non eruditi dieno i primi
+                    fondamenti a ben dipignere. 4 Ma sono sì fatti che, chi bene li conoscerà,
+                    costui, come allo ingegno, così a conoscere la difinizione della pittura,
+                    intenderà quanto li giovi. 5 Né sia chi dubiti quanto mai sarà buono alcuno
+                    pittore colui il quale non molto intenda qualunque cosa si sforzi di fare: 6
+                    indarno si tira l’arco ove non hai da dirizare la saetta. 7 E voglio sia
+                    persuaso a presso di noi che solo colui sarà ottimo artefice, el quale arà
+                    imparato conoscere li orli delle superficie e ogni sua qualità; 8 così,
+                    contrario, mai sarà buono artefice chi non sarà diligentissimo a conoscere
+                    quanto abiamo sino a qui detto.</p>
+                <p>Furono adunque cose necessarie queste intersegazioni e superficie. Seguita ad
+                    iscrivere il pittore in che modo possa seguire colla mano quanto arà co
+                    l’ingegno compreso. </p>
+            </div1>
+            <div1 xml:id="L2" n="2" type="livre">
+                <head>LIBRO II</head>
+                <p>Ma, perché forse questo imparare a i giovani può parere cosa faticosa, parmi qui
+                    da dimostrare quanto la pittura sia non indegna da consumarvi ogni nostra opera
+                    e studio. Tiene in sé la pittura forza divina: non solo quanto si dice
+                    dell’amicizia, quale fa li uomini assenti essere presenti, ma più i morti dopo
+                    molti secoli essere quasi vivi; tale che con molta ammirazione de l’artefice e
+                    con molta voluttà si riconoscono. Dice Plutarco Cassandro, uno de’ capitani di
+                    Allessandro, perché vide la immagine d’Allessandro re, tremò con tutto il corpo;
+                    4 Agesilao lacedemonio mai permise alcuno il dipignesse o isculpisse: non li
+                    piacea la propia sua forma che fuggiva essere conosciuto da chi dopo lui
+                    venisse. 5 E così certo il viso di chi già sia morto, per la pittura vive lunga
+                    vita. 6 E che la pittura tenga espressi li iddii quali siano adorati dalle
+                    genti, questo certo fu sempre grandissimo dono ai mortali, però che la pittura
+                    molto così giova a quella pièta per quale siamo congiunti alli iddii insieme e a
+                    tenere li animi nostri pieni di religione. 7 Dicono che Fidia fece in Elide uno
+                    idio Giove, la bellezza del quale non poco confermò la ora presa religione. 8 E
+                    quanto alle delizie dell’animo onestissime e alla bellezza delle cose s’agiunga
+                    dalla pittura, puossi d’altronde e in prima di qui vedere, che a me darai cosa
+                    niuna tanto preziosa, quale non sia per la pittura molto più cara e molto più
+                    graziosa fatta. 9 L’avorio, le gemme e simili care cose per mano del pittore
+                    diventano più preziose; 10 e anque l’oro, lavorato con arte di pittura, si
+                    contrapesa con molto più oro; 11 anzi ancora il piombo medesimo, metallo in fra
+                    li altri vilissimo, fàttone figure per mano di Fidia o Praxitelis, si stimerà
+                    più prezioso che l’argento. 12 Zeusis pittore cominciava a donare le sue cose,
+                    quali, come dicea, non si poteano comperare, né estimava costui poters’invenire
+                    atto pregio quale satisfacesse a chi fingendo, dipignendo animali, sé porgesse
+                    quasi uno iddio. 13 Adunque in sé tiene queste lode la pittura, che qual sia
+                    pittore maestro vedrà le sue opere essere adorate e sentirà sé quasi giudicato
+                    un altro idio. </p>
+                <p>E chi dubita, qui a presso, la pittura essere maestra, o certo non picciolo
+                    ornamento a tutte le cose? Prese l’architetto, se io non erro, pure dal
+                    pittore li architravi, le base, i capitelli, le colonne, frontispicii e simili
+                    tutte altre cose; e con regola e arte del pittore tutti i fabri, iscultori,
+                    ogni bottega e ogni arte si regge; 4 né forse troverrai arte alcuna non
+                    vilissima la quale non raguardi la pittura: tale che, qualunque truovi bellezza
+                    nelle cose, quella puoi dire nata dalla pittura. 5 Però usai di dire tra i miei
+                    amici, secondo la sentenzia de’ poeti, quel Narcisso convertito in fiore essere
+                    della pittura stato inventore: 6 ché, già ove sia la pittura fiore d’ogni arte,
+                    ivi tutta la storia di Narcìs viene a proposito. 7 Che dirai tu essere dipignere
+                    altra cosa che simile abracciare con arte quella ivi superficie del fonte? 8
+                    Diceva Quintiliano ch’e pittori antichi soleano circonscrivere l’ombre al sole,
+                    e così indi poi si trovò questa arte cresciuta. 9 Sono chi dicono uno certo
+                    Filocle egizio, e non so quale altro Cleante furono di questa arte tra i primi
+                    inventori; 10 li Egizii affermano fra loro bene anni se’ milia essere la pittura
+                    stata in uso prima che fusse traslata in Grecia; 11 di Grecia dicono i nostri
+                    translata la pittura dopo le vittorie di Marcello avute di Sicilia. 12 Ma qui
+                    non molto si richiede sapere quali prima fussero inventori dell’arte o pittori,
+                    poi che noi non come Plinio recitiamo storie, ma di nuovo fabrichiamo un’arte di
+                    pittura, della quale in questa età, quale io vegga, nulla si truova scritto, 13
+                    ben che dicono Heufranore isthmio scrivesse non so che delle misure e de’
+                    colori, e dicono che Antigono e Xenocrate misono in lettere non so che pitture,
+                    e dicono che Appelle scrisse a Pelleo de pittura; 14 raconta Laertio Diogenes
+                    che Demetrio fece commentarii della pittura. 15 E così estimo, quando tutte
+                    l’altre buone arti furono da i nostri maggiori acomandate alle lettere, con
+                    quelle insieme dai nostri latini scrittori fu la pittura non negletta, già che i
+                    nostri Toscani antiquissimi furon in Italia maestri in dipignere peritissimi. </p>
+                <p>Giudica Trimegisto, vechissimo scrittore, che insieme con la religione nacque la
+                    pittura e scoltura. Ma chi può qui negare in tutte le cose publiche e private,
+                    profane e religiose, la pittura a sé avere prese tutte le parti onestissime?
+                    Tale che mi pare cosa niuna tanto sempre essere stata estimata da i mortali.
+                    Racontasi i pregi incredibili di tavole dipinte: Aristide thebano vendé una sola
+                    pittura talenti cento. 4 E dicono che Rodi non fu arsa da Demetrio re, ove temea
+                    che una tavola di Protogenes non perisse: 5 possiamo adunque qui affermare che
+                    la città di Rodi fu ricomperata da i nemici con una sola dipintura. 6 Simile
+                    molte cose raccolse Plinio, per le quali tu conoscerai i buoni pittori sempre
+                    stati a presso di tutti in molto onore, tanto che molti nobilissimi cittadini,
+                    filosafi, ancora e non pochi re, non solo di cose dipinte, ma e di sua mano
+                    dipignerle assai si dilettavano: 7 Lucio Manilio, cittadino romano, e Fabio,
+                    uomo nobilissimo, furono dipintori; 8 Turpilio, cavaliere romano, dipinse a
+                    Verona; 9 Sitedio, uomo stato pretore e proconsolo, aquistò, dipignendo, nome;
+                    10 Pacuvio, poeta tragico, nipote ad Ennio poeta, dipinse Hercole in foro
+                    romano; 11 Socrate, Platone, Metrodoro, Pirro furono in pittura conosciuti; 12
+                    Nerone, Valentiniano e Alexandro Severo, imperadori, furono studiosissimi in
+                    pittura. 13 Ma sarebbe qui lungo racontare a quanti principi e re sia piaciuto
+                    la pittura. 14 E ancora non mi pare da racontare tutta la turba delli antiqui
+                    pittori, quale, quanto fusse grande, vedilo quinci che a Demetrio Falerio,
+                    figliuolo di Fanostrato, furono fra quattrocento dì trecentosessanta statue,
+                    parte a cavallo, parte su i carri, compiute. 15 E in questa terra, in quale sia
+                    stato tanto numero di scultori, credi che manco fussero pittori? 16 Sono certo
+                    queste arti cognate e da uno medesimo ingegno nutrite, la pittura insieme con la
+                    scoltura, 17 ma io sempre preposi l’ingegno del pittore, perché s’aopera in cosa
+                    più dificile. 18 Pure torniamo al fatto nostro. </p>
+                <p>Fu certo grande numero di scultori in que’ tempi e di pittori, quando i prencipi
+                    e i plebei e i dotti, l’indotti si dilettavano di pittura, e quando fra le
+                    prime prede delle province si estendeano ne’ teatri tavole dipinte e immagini.
+                    E processe in tanto che Paolo Emilio e non pochi altri cittadini romani fra le
+                    buone arti a bene e beato vivere a i figliuoli insegnavano la pittura, quale
+                    ottimo costume molto a presso de’ Greci s’osservava: 4 voleano che i figliuoli
+                    bene allevati, insieme con geometria e musica, imparassono dipignere. 5 Anzi fu
+                    ancora alle femine onore sapere dipignere: Martia, figliuola di Varrone, si loda
+                    a presso delli scrittori che seppe dipignere. 6 E fu in tanta lode e onore a
+                    presso de’ Greci la pittura, che fecero editto e legge non essere a i servi
+                    licito imparare pittura. 7 Fecero certo bene, però che l’arte del dipignere
+                    sempre fu a i liberali ingegni e a li animi nobili dignissima. 8 E quant’io,
+                    certo così estimo: ottimo indizio d’uno perfettissimo ingegno essere in chi
+                    molto si diletti di pittura, 9 ben che intervenga che questa una arte così sta
+                    grata a i dotti quanto a l’indotti. Qual cosa poco accade in quale altra si sia
+                    arte, che quello qual diletti ai periti muova chi sia imperito, 10 né ispesso
+                    troverrai chi non molto desideri sé essere in pittura ben dotto. 11 Anzi: la
+                    natura medesima pare si diletti di dipignere, quale veggiamo quanto nelle
+                    fessure de’ marmi spesso dipinga ipocentauri e più facce di re barbate e
+                    crinite. 12 Anzi più: dicono che in una gemma di Pirro si trovò dipinto dalla
+                    natura tutte e nove le Muse distinte con suo segno. 13 Agiugni a questo che
+                    niuna si truova arte in quale ogni età di periti e d’imperiti così volentieri
+                    s’affatichi ad impararla e a esercitarla. 14 Sia licito confessare di me stesso:
+                    io, se mai per mio piacere mi do a dipignere, qual cosa fo non raro quando
+                    dall’altre mie maggiori faccende io truovo ozio, 15 ivi con tanta voluttà sto
+                    fermo al lavoro, che spesso mi maraviglio così avere passate tre o quattro ore. </p>
+                <p>Così adunque dà voluttà questa arte a chi bene la eserciti, e lode, ricchezze e
+                    perpetua fama a chi ne sia maestro. Quale cose così sendo, quanto dicemmo, se
+                    la pittura sia ottimo e antiquissimo ornamento delle cose, digna a i liberi
+                    uomini, grata a i dotti e a l’indotti, molto conforto i giovani studiosi diano,
+                    quanto sia licito, opera alla pittura. E poi ammonisco chi sia studioso di
+                    dipignere imparino questa arte. 4 Sia a chi in prima cerca gloriarsi di pittura
+                    questa una cura grande ad aquistare fama e nome, quale vedete li antiqui avere
+                    agiunta. 5 E gioveravi ricordarvi che l’avarizia fu sempre inimica della virtù:
+                    raro potrà acquistare nome animo alcuno che sia dato al guadagno. 6 Vidi io
+                    molti, quasi nel primo fiore d’imparare subito caduti al guadagno, indi
+                    acquistare né ricchezze né lode, quali certo, se avessero acresciuto suo ingegno
+                    con studio, facile sarebbono saliti in molta lode e ivi arebbono acquistato
+                    richezze e piacere assai. 7 Ma di queste assai sino a qui sia detto; torniamo al
+                    nostro proposito. </p>
+                <p>Dividesi la pittura in tre parti, qual divisione abbiamo presta dalla natura. E
+                    dove la pittura studia ripresentare cose vedute, notiamo in che modo le cose si
+                    veggano. Principio, vedendo ‘qualcosa’, diciamo questo esser ‘cosa quale’
+                    occupa uno luogo; 4 qui il pittore, descrivendo questo spazio, dirà questo suo
+                    guidare uno orlo con linea essere circonscrizione. 5 A presso, rimirandolo,
+                    conosciamo come più superficie del veduto corpo insieme convengano; 6 e qui
+                    l’artefice, segnandole in suoi luoghi, dirà fare composizione. 7 Ultimo, più
+                    distinto discerniamo colori e qualità delle superficie; 8 quali ripresentandoli,
+                    ché ogni differenza nasce da’ lumi, proprio possiamo chiamarlo recezione di
+                    lumi. </p>
+                <p>Adunque la pittura si compie di circonscrizione, composizione, e ricevere di
+                    lumi. Seguita adunque dirne brevissimo. Prima diremo della circunscrizione.
+                    4 Sarà circunscrizione quella che descriva l’attorniare dell’orlo nella pittura.
+                    5 In questa dicono Parrasio, quel pittore el quale appresso Xenofonte favella
+                    con Socrate, essere stato molto perito e molto aver queste linee esaminate. 6 Io
+                    così dico: in questa circonscrizione molto doversi osservare ch’ella sia di
+                    linee sottilissime fatta, quasi tali che fuggano essere vedute (in quali solea
+                    sé Appelles pittore esercitare e contendere con Protogene), 7 però che la
+                    circonscrizione è non altro che disegnamento de l’orlo, quale, ove sia fatto con
+                    linea troppo apparente, non dimostrerà ivi essere margine di superficie, ma
+                    fessura, 8 e io desiderrei nulla proseguirsi circonscrivendo che solo l’andare
+                    de l’orlo; in qual cosa, || così affermo, debbano molto esercitarsi. 9 Niuna
+                    composizione e niuno ricevere di lumi si può lodare ove non sia buona
+                    circonscrizione aggiunta; e non raro pur si vede solo una buona circonscrizione,
+                    cioè uno buono disegno, per sé essere gratissimo. 10 Qui adunque si dia
+                    principale opera, a quale, se bene vorremo tenerla, nulla si può trovare, quanto
+                    io estimo, più acommodata cosa altra che quel velo, quale io tra i miei amici
+                    soglio appellare intersegazione. 11 Quello sta così: egli è uno velo
+                    sottilissimo, tessuto raro, tinto di quale a te piace colore, distinto con fili
+                    più grossi in quanti a te piace paralelli, qual velo pongo tra l’occhio e la
+                    cosa veduta: tale che la pirramide visiva penetra per la rarità del velo. 12
+                    Porgeti questo velo certo non picciola commodità: primo, che sempre ti
+                    ripresenta medesima non mossa superficie, dove tu, posti certi termini, subito
+                    ritruovi la vera cuspide della pirramide, 13 qual cosa certo senza intercisione
+                    sarebbe difficile e sai quanto sia impossibile bene contraffare cosa quale non
+                    continovo servi una medesima presenzia: 14 di qui per tanto sono più facili a
+                    ritrarre le cose dipinte che le scolpite. 15 E conosci quanto, mutato la
+                    distanzia e mutato la posizione del centro, paia quello che tu vedi molto
+                    alterato. 16 Adunque il velo ti darà, quanto dissi, non poca utilità, ove sempre
+                    a vederla sarà una medesima cosa. 17 L’altra sarà utilità, che tu potrai facile
+                    constituire i termini delli orli e delle superficie, ove in questo paralelo
+                    vedrai il fronte, in quello è il naso, in un altro le guance, in quel di sotto
+                    il mento, e così ogni cosa distinto ne’ suoi luoghi; 18 così tu, nella tavola o
+                    in parete divisa in simili paraleli, ogni cosa a punto porrai. 19 Ultimo, a te
+                    darà il velo molto aiuto ad imparare dipignere, quando vedrai nel velo cose
+                    ritonde e rilevate. 20 Per le quali cose assai potrai, e con giudicio e con
+                    esperienza, provare quanto a te sia il nostro velo utilissimo. </p>
+                <p>Né io qui udirò quelli che dicano poco convenirsi al pittore usarsi a queste
+                    cose, quali, bene che portino molto aiuto a bene dipignere, pure sono sì fatte
+                    che poi senza quelle potrai nulla. Non credo io dal pittore si richiegga
+                    infinita fatica, ma bene s’aspetti pittura quale molto paia rilevata e
+                    simigliata a chi ella sì ritrae; qual cosa non intendo io sanza aiuto del velo
+                    alcuno mai possa. Adunque usino questa intercisione, cioè velo, qual dissi; e
+                    dove a loro piaccia provare l’ingegno suo senza velo, pure in prima notino i
+                    termini delle cose drento da’ paraleli del velo; 4 o vero così seguitino
+                    rimirandole che sempre immaginino una linea a traverso ivi da un’altra
+                    perpendiculare essere segata ove sia statuito quel termine. 5 Ma, perché non
+                    raro a i pittori inesperti sono li orli delle superficie non conosciuti, dubbi e
+                    incerti, come ne’ visi delli uomini, ove non discernono che mezzo sia tra ’l
+                    fronte e le tempie, per tanto conviensi loro insegnare in che modo possano
+                    conoscere. 6 Questo bene ci dimostra la natura: veggiamo nelle piane superficie
+                    che ciascuna ci si dimostra con sue linee, lumi e ombre; 7 così ancora le
+                    speriche, concave superficie veggiamo quasi divise in molte superficie quasi
+                    quadrate con diverse macchie di lumi e d’ombre. 8 Per tanto ciascuna parte, con
+                    sua chiarità divisa da quella che sia oscura, si vuole avere per più superficie.
+                    9 Ma se una medesima superficie, cominciando ombrosa, a poco a poco venendo in
+                    chiaro continua, allora quello che fra loro sia il mezzo si noti con una
+                    sottilissima linea, acciò che ivi sia la ragione del colorire men dubbia. </p>
+                <p>Resta da dire della circonscrizione cosa quale non poco apartiene alla
+                    composizione; per questo si conviene sapere che sia in pittura composizione.
+                    Dico composizione essere quella ragione di dipignere, per la quale le parti si
+                    compongono nella opera dipinta. 3 Grandissima opera del pittore sarà l’istoria,
+                    parte della istoria sono i corpi, parte de’ corpi sono i membri, parte de’
+                    membri sono le superficie. 4 E dove la circonscrizione non altro sia che certa
+                    ragione di segnare l’orlo delle superficie, poi che delle superficie alcuna si
+                    truova picciola come quella delli animali, alcuna si truova grande come quella
+                    delli edificii e de’ colossi, 5 delle picciole superficie bastino i precetti
+                    sino a qui detti, quali dimostrano quanto s’apprendano col velo; alle superficie
+                    maggiori ci convien trovare nuove ragioni. 6 Ma dobiamo ricordarci di quanto di
+                    sopra ne’ dirozzamenti dicemmo delle superficie, de’ razzi, della pirramide e
+                    della intersegazione, ancora e de’ paraleli del pavimento, e del centrico punto
+                    e linea. 7 Nel pavimento, scritto con sue linee e paraleli, sono da edificare
+                    muri e simili superficie, quali apellamo └giacenti┘. 8 Qui adunque dirò
+                    brevissimo quello che io faccio. 9 Principio, comincio da i fondamenti: pongo la
+                    larghezza e la lunghezza de’ muri ne’ suoi paraleli, in quale descrizione seguo
+                    la natura, 10 in qual veggo che di niuno quadrato corpo, quale abbia retti
+                    angoli, ad uno tratto posso vedere d’in torno più che due facce congiunte. 11
+                    Così io questo osservo, descrivendo i fondamenti de i pareti; 12 e sempre in
+                    prima comincio dalle più prossimane superficie, massime da quelle quali
+                    equalmente sieno distanti dalla intersegazione. 13 Queste, adunque, metto in
+                    anzi l’altre, descrivendo loro latitudine e longitudine in quelli paraleli del
+                    pavimento, in modo che, quante io voglia occupare braccia, tanto prendo
+                    paraleli. 14 E a ritrovare il mezzo di ciascuno paralelo truovo dove l’uno e
+                    l’altro diamitro si sega insieme, e così, quanto voglio, i fondamenti descrivo.
+                    15 Poi l’altezza seguo con ordine non difficilissimo: conosco l’altezza del
+                    parete in sé tenere questa proporzione, che quanto sia dal luogo onde essa nasce
+                    sul pavimento per sino alla centrica linea, con quella medesima in su crescere.
+                    16 Onde, se vorrai questa quantità dal pavimento per sino alla centrica linea
+                    essere l’altezza d’uno uomo (saranno adunque queste braccia tre), 17 tu adunque,
+                    volendo il parete tuo essere braccia dodici, tre volte tanto andrai su in alto
+                    quanto sia dalla centrica linea per sino a quel luogo del pavimento. 18 Con
+                    queste ragioni così possiamo disegnare tutte le superficie quali abbiano angolo. </p>
+                <p>Restaci a dire in che modo si disegnino le circulari. Tragonsi le circulari
+                    delle angulari e questo fo io così: fo in su lo spazzo uno quadrangolo con
+                    angoli retti, e divido i lati di questo quadrangolo in parte simili a quelle
+                    parti in quale divisi la linea iacente nel primo quadrangolo della pittura; 4 e
+                    qui, da ciascuno punto al suo oposito punto, tiro linee, e così rimane lo spazzo
+                    diviso in molti piccioli quadrangoli. 5 Quivi io scrivo uno cerchio quanto il
+                    voglio grande, così che le linee de’ piccioli quadrati e la linea del circolo
+                    insieme l’una con l’altra si tagli, 6 e noto tutti i punti di questi
+                    tagliamenti, quali luoghi segno ne’ paraleli del pavimento nella mia pittura. 7
+                    Ma, perché sarebbe fatica || estrema e quasi infinita con nuovi minori paraleli
+                    dividere il cerchio in molti luoghi, e così con molto numero di punti seguire
+                    continovando il circolo, 8 per questo, quando io arò notato otto o più
+                    tagliamenti, seguo con ingegno il mio circulo nella pittura, guidando la linea
+                    da termine a termine. 9 Forse sarebbe più brieve via còrlo a l’ombra? 10 Certo
+                    sì, dove il corpo, quale facesse ombra, fusse in mezzo posto con sua ragione in
+                    suo luogo. 11 Dicemmo adunque in che modo, coll’aiuto de’ paraleli, le
+                    superficie grandi acantonate e tonde, si disegnino. 12 Finita adunque la
+                    circunscrizione, cioè il modo del disegnare, restaci a dire della composizione.
+                    13 Convienci repetere che sia composizione. </p>
+                <p>Composizione è quella ragione di dipignere con la quale le parti delle cose
+                    vedute si pongono insieme in pittura. Grandissima opera del pittore non uno
+                    collosso, ma istoria; maggiore loda d’ingegno rende l’istoria che qual sia
+                    collosso. 3 Parte della istoria sono i corpi, parte de’ corpi i membri, parte
+                    de’ membri la superficie. Le prime adunque parti del dipignere sono le
+                    superficie. 5 Nasce della composizione delle superficie quella grazia ne’ corpi
+                    quale dicono bellezza. 6 Vedesi uno viso, il quale abbia sue superficie chi
+                    grandi e chi piccole, quivi ben rilevate e qui ben drento riposto simile al viso
+                    delle vecchierelle, questo essere in aspetto bruttissimo. 7 Ma quelli visi,
+                    s’aranno le superficie giunte in modo che piglino ombre e lumi ameni e suavi, né
+                    abbino asperitate alcuna di rilevati canti, certo diremo questi essere formosi e
+                    dilicati visi. 8 Adunque in questa composizione di superficie molto si cerca la
+                    grazia e bellezza delle cose, quale, a chi voglia seguirla, pare a me niuna più
+                    atta e più certa via che di torla dalla natura, 9 ponendo mente in che modo la
+                    natura, maravigliosa artefice delle cose, bene abbia in be’ corpi composte le
+                    superficie. 10 A quale imitarla, si conviene molto avervi continovo pensieri e
+                    cura insieme e molto dilettarsi del nostro, qual di sopra dicemmo, velo; 11 e
+                    quando vogliamo mettere in opera quanto aremo compreso dalla natura, prima
+                    sempre aremo notato i termini, dove tiriamo ad uno certo luogo nostre linee. </p>
+                <p>Sino a qui detto della composizione delle superficie, seguita de’ membri.
+                    Conviensi in prima dare opera che tutti i membri bene convengano. Converrano
+                    quando e di grandezza e d’offizio e di spezie e di colore e d’altre simili cose
+                    conresponderanno ad una bellezza: 4 ché, se fusse in una dipintura il capo
+                    grandissimo e il petto piccolo, la mano ampia e il piè enfiato, il corpo
+                    gonfiato, questa composizione certo sarebbe brutta a vederla. 5 Adunque
+                    conviensi tenere certa ragione circa alla grandezza de’ membri, in quale
+                    commensurazione gioverà prima allogare ciascuno osso dell’animale, poi a presso
+                    agiungere i suoi muscoli, di poi tutto vestirlo di sue carne. 6 Ma qui sarà chi
+                    mi contraponga, quanto di sopra dissi, che al pittore nulla s’apartiene delle
+                    cose quali non vede. 7 Ben ramentano costoro, ma come a vestire l’uomo prima si
+                    disegna ignudo, poi il circondiamo di panni, 8 così dipignendo il nudo, prima
+                    pogniamo sue ossa e muscoli, quali poi così copriamo con sue carni che non sia
+                    difficile intendere ove sotto sia ciascuno moscolo. 9 E poi che la natura ci ha
+                    porto in mezzo le misure, ove si truova non poca utilità a riconoscerle dalla
+                    natura, ivi adunque piglino li studiosi pittori questa fatica: 10 per tanto
+                    tenere a mente quello che piglino dalla natura, quanto a riconoscerle aranno
+                    posto suo studio e opera. 11 Una cosa ramento: che a bene misurare uno animante
+                    si pigli uno qualche suo membro col quale li altri si misurino. 12 Vitruvio
+                    architetto misurava la lunghezza de l’omo co i piedi; 13 a me pare cosa più
+                    degna l’altre membra si riferiscano al capo, ben che ho posto mente, quasi
+                    comune in tutti li uomini, che il piede tanto è lungo quanto dal mento al
+                    cocuzolo del capo. 14 Così adunque, preso uno membro, s’accommodi ogni altro
+                    membro in modo che niuno di loro sia non conveniente a li altri in lunghezza e
+                    in larghezza. </p>
+                <p>Poi si provegga che ciascuno membro segua a quello che ivi si fa, al suo oficio.
+                    Sta bene a chi corre non meno gittare le mani che i piedi, ma voglio un
+                    filosafo, mentre che favella, dimostri molto più modestia che arte di schermire.
+                    Lodasi una storia in Roma nella quale Meleagro morto, portato aggrava quelli
+                    che portano il peso e in sé pare in ogni suo membro ben morto: 4 ogni cosa
+                    pende, mani, dito e capo, ogni cosa cade languido; ciò che ve si dà ad
+                    espriemere uno corpo morto. 5 Qual cosa certo è difficilissima, però che in uno
+                    corpo chi saprà fingere ciascuno membro ozioso sarà ottimo artefice. 6 Così
+                    adunque in ogni pittura si osservi che ciascuno membro così faccia il suo
+                    officio che niuno per minimo articolo che sia resti ozioso, 7 e sieno le membra
+                    de’ morti sino a l’unghie morte, de i vivi sia ogni minima parte viva. 8 Dicesi
+                    vivere il corpo quando, a sua posta, abbia certo movimento; dicesi morte dove i
+                    membri non più possono portare li offici della vita, cioè movimento e
+                    sentimento. 9 Adunque il pittore, volendo espriemere nelle cose vita, farà ogni
+                    sua parte in moto, ma in ciascuno moto terrà venustà e grazia. 10 Sono
+                    gratissimi i movimenti e ben vivaci quelli e quali si muovano in alto verso
+                    l’aere. 11 Dicemo ancora alla composizione de’ membri doversi certa spezie: 12 e
+                    sarebbe cosa assurda se le mani di Helena o di Efigenia fussero vecchizze e
+                    zotiche, 13 o se in Nestor fusse il petto tenero e il collo dilicato, 14 o se a
+                    Ganimede fusse la fronte crespa o le cosce d’un fachino, 15 o se a Milone,
+                    fralli altri gagliardissimo, fusseno i fianchi magrolini e sottiluzzi. 16 E
+                    ancora: in quella figura, in quale fusse il viso fresco e lattoso, sarebbe sozzo
+                    soggiungervi le braccia e le mani seche per magrezza; 17 così chi dipignesse
+                    Acamenide, trovato da Henea in su quell’isola con quella faccia quale Virgilio
+                    il descrive, non seguendo li altri membri a tanta tisichezza sarebbe pittore da
+                    farsene beffe. 18 Per tanto così conviene tutte le membra condicano ad una
+                    spezie. 19 E ancora: voglio le membra conrispondano ad uno colore, però che a
+                    chi avesse il viso rosato, candido e venusto, a costui poco s’affarebbe il petto
+                    e l’altre membra brutte e sucide. </p>
+                <p>Adunque nella composizione de’ membri dobiamo seguire quanto dissi della
+                    grandezza, officio, spezie e colori: poi a presso ogni cosa seguiti ad una
+                    dignità. Sarebbe cosa non conveniente vestire Venere o Minerva con uno
+                    capperone da saccomanno; simile sarebbe vestire Marte o Giove con una vesta di
+                    femmina. 4 Curavano li antiqui dipintori, dipignendo Castor e Poluce, fare che
+                    paressero fratelli, ma nell’uno apparesse natura pugnace, nell’altro agilità; 5
+                    facevano ancora che a Vulcano, sotto la vesta, parea il suo vizio di zopicare: 6
+                    tanto era in loro studio espriemere officio, spezie e dignità a qualunque cosa
+                    dipignessero. </p>
+                <p>Seguita la composizione de’ corpi, nella quale ogni lode e ingegno del pittore
+                    consiste; alla quale composizione certe cose, dette nella composizione de’
+                    membri, qui s’apartengono. Conviensi che i corpi insieme si confacciano in
+                    istoria con grandezza e con adoperarsi. Chi dipignesse centauri far briga a
+                    presso la cena, sarebbe cosa innetta in tanto tumulto che alcuno carico di vino
+                    stesse adormentato; 4 e sarebbe vizio se in pari distanzia l’uno fusse più che
+                    l’altro maggiore, o se ivi fussero o cani equali a i cavalli, 5 o vero se,
+                    quello che spesse volte veggo, ivi fusse uomo alcuno nello edificio quasi come
+                    in uno scrigno inchiuso, dove a pena sedendo vi si assetti. 6 Adunque tutti i
+                    corpi per grandezza e suo oficio s’aconfaranno a quello che ivi nella storia si
+                    facci. </p>
+                <p>Sarà la storia, qual tu possa lodare e maravigliare, tale che con sue
+                    piacevolezze si porgerà sì ornata e grata che ella terrà con diletto e movimento
+                    d’animo qualunque dotto o indotto la miri. Quello che prima dà voluttà nella
+                    istoria viene dalla copia e varietà delle cose. Come ne’ cibi e nella musica
+                    sempre la novità e abondanzia tanto piace quanto sia differente dalle cose
+                    antique e consuete, così l’animo si diletta d’ogni copia e varietà: 4 per questo
+                    in pittura la copia e varietà piace. 5 Dirò io quella istoria essere
+                    copiosissima in quale, a’ suo luoghi, sieno permisti vecchi, giovani, fanciulli,
+                    donne, fanciulle, fanciullini, polli, catellini, uccellini, cavalli, pecore,
+                    edifici, province, e tutte simili cose: 6 e loderò io qualunque copia quale
+                    s’apartenga a quella istoria. 7 E interviene, dove chi guarda soprasta rimirando
+                    tutte le cose, ivi la copia del pittore aquisti molta grazia. 8 Ma vorrei io
+                    questa copia essere, ornata di certa varietà, ancora moderata e grave di dignità
+                    e verecundia. 9 Biasimo io quelli pittori quali, dove vogliono parere copiosi,
+                    nulla lassando vacuo, ivi non composizione, ma dissoluta confusione disseminano;
+                    10 per tanto non pare la storia facci qualche cosa degna, ma sia in tumulto
+                    aviluppata. 11 E forse chi molto cercherà dignità in sua storia, a costui
+                    piacerà la solitudine. 12 Suole a i prencipi la carestia delle parole tenere
+                    maestà, dove fanno intendere suoi precetti; 13 così in istoria uno certo
+                    competente numero di corpi rende non poca dignità. 14 Dispiacemi la solitudine
+                    in istoria, pure né però laudo copia alcuna quale sia sanza dignità. 15 Ma in
+                    ogni storia la varietà sempre fu ioconda, e in prima sempre fu grata quella
+                    pittura in quale sieno i corpi con suoi posari molto dissimili. 16 Ivi adunque
+                    stieno alcuni ritti e mostrino tutta la faccia, con le mani in alto e con le
+                    dita liete, fermi in su un piè; 17 a li altri sia il viso contrario e le braccia
+                    remisse, co i piedi agiunti; 18 e così a ciascuno sia suo atto e flessione di
+                    membra: altri segga, altri si posi su un ginochio, altri giacciano. 19 E se così
+                    ivi sia licito, sievi alcuno ignudo, e alcuni parte nudi e parte vestiti, ma
+                    sempre si serva alla vergogna e alla pudicizia: 20 le parti brutte a vedere del
+                    corpo e l’altre simili, quali porgono poca grazia, si cuoprano col panno, con
+                    qualche fronde o con la mano. 21 Dipignevano li antiqui l’immagine d’Antigono
+                    solo da quella parte del viso ove non era mancamento dell’occhio; 22 e dicono
+                    che a Pericle era suo capo lungo e brutto, e per questo da i pittori e dalli
+                    scultori, non come || li altri era col capo nudo, ma col capo armato ritratto;
+                    23 e dice Plutarco li antiqui pittori, dipignendo i re, se in loro era qualche
+                    vizio, non volerlo però essere non notato, ma quanto potevano, servando la
+                    similitudine, lo emendavano. 24 Così adunque desidero in ogni storia servarsi,
+                    quanto dissi, modestia e verecundia, e così sforzarsi che in niuno sia un
+                    medesimo gesto o posamento che ne l’altro. </p>
+                <p>Poi moverà l’istoria l’animo quando li uomini ivi dipinti molto porgeranno suo
+                    propio movimento d’animo. Interviene da natura, quale nulla più che lei si
+                    truova rapace di cose a sé simile, che piagniamo con chi piange, e ridiamo con
+                    chi ride, e dolianci con chi si duole. Ma questi movimenti d’animo si
+                    conoscono da i movimenti del corpo: 4 e veggiamo quanto uno atristito, perché la
+                    cura estrigne e il pensiero l’assedia, stanno con sue forze e sentimenti quasi
+                    balordi, tenendo se stessi lenti e pigri in sue membra palide e malsostenute; 5
+                    vedrai a chi sia malinconico il fronte premuto, la cervice languida, al tutto
+                    ogni suo membro quasi stracco e negletto cade; 6 vero, a chi sia irato, perché
+                    l’ira incita l’animo, però gonfia di stizza negli occhi e nel viso, e incendesi
+                    di colore, e ogni suo membro, quanto il furore, tanto ardito sì getta; 7 a li
+                    uomini lieti e gioiosi sono i movimenti liberi e con certe inflessioni grati. 8
+                    Dicono che Aristide tebano, equale ad Apelle, molto conoscea questi movimenti,
+                    quali certo e noi conosceremo quando a conoscerli porremo studio e diligenzia. </p>
+                <p>Così adunque conviene sieno a i pittori notissimi tutti i movimenti del corpo,
+                    quali bene impareranno dalla natura, bene che sia cosa difficile imitare i molti
+                    movimenti dello animo. E chi mai credesse, se non provando, tanto essere
+                    difficile, volendo dipignere uno viso che rida, schifare di non lo fare più
+                    tosto piangioso che lieto? E ancora: chi mai potesse senza grandissimo studio
+                    espriemere visi nei quale la bocca, il mento, li occhi, le guance, il fronte, i
+                    cigli, tutti ad uno ridere o piangere convengono? 4 Per questo molto conviensi
+                    impararli da la natura, e sempre seguire cose molto pronte e quali lassino da
+                    pensare a chi le guarda molto più che elli non vede. 5 Ma che? Noi racontiamo
+                    alcune cose di questi movimenti, quali parte fabricammo con nostro ingegno,
+                    parte imparammo dalla natura. 6 Parmi in prima tutti e corpi a quello si debbano
+                    muovere a che sia ordinata la storia. 7 E piacemi sia nella storia chi ammonisca
+                    e insegni a noi quello che ivi si facci, 8 o chiami con la mano a vedere, o, con
+                    viso cruccioso e con li occhi turbati, minacci che niuno verso loro vada, 9 o
+                    dimostri qualche pericolo o cosa ivi maravigliosa, o te inviti a piagnere con
+                    loro insieme o a ridere; 10 e così qualunque cosa fra loro o teco facciano i
+                    dipinti, tutto apartenga a ornare o a insegnarti la storia. 11 Lodasi Timantes
+                    di Cipri in quella tavola in quale elli vinse Colocentrio, ché nella imolazione
+                    di Efigenia, avendo finto Calcante mesto, Ulisse più mesto, e in Menelao poi
+                    avesse consunto ogni suo arte a molto mostrarlo adolorato, 12 non avendo in che
+                    modo mostrare la tristezza del padre, a lui avolse uno panno al capo, e così
+                    lassò si pensasse, qual non si vedea, suo acerbissimo merore. 13 Lodasi la nave
+                    dipinta a Roma, in quale el nostro toscano dipintore Giotto pose undici
+                    discepoli tutti commossi da paura vedendo uno de’ suoi compagni passeggiare
+                    sopra l’acqua, 14 ché ivi espresse ciascuno con suo viso e gesto porgere suo
+                    certo indizio d’animo turbato: tale che in ciascuno erano suoi diversi movimenti
+                    e stati. 15 Ma piacemi brevissimo passare tutto questo luogo de’ movimenti. </p>
+                <p>Sono alcuni movimenti d’animo, detti affezione, come ira, dolore, gaudio e
+                    timore, desiderio e simili; altri sono movimenti de’ corpi. Muovonsi i corpi
+                    in più modi: crescendo, discrescendo, infermandosi, guarendo e mutandosi da
+                    luogo a luogo. Ma noi dipintori, i quali vogliamo co i movimenti delle membra
+                    mostrare i movimenti dell’animo, solo riferiamo di quel movimento si fa mutando
+                    el luogo. 4 Qualunque cosa si muove da luogo può fare sette vie: in su, uno; in
+                    giù, l’altro; in destra, il terzo; in sinistra, il quarto; colà lunge movendosi
+                    di qui; o di là venendo in qua; e il settimo andando a torno. 5 Questi adunque
+                    tutti movimenti desidero io essere in pittura: 6 sianvi corpi alcuni quali si
+                    porgano verso noi, alcuni si porgano in qua verso e in là, e d’uno medesimo
+                    alcune parti si dimostrino a chi guarda, alcune si retriano, alcune stieno alte
+                    e alcune basse. 7 Ma, perché talora in questi movimenti si truova chi passa ogni
+                    ragione, mi piace qui de’ posari e de’ movimenti raccontare alcune cose quali ho
+                    raccolte dalla natura, 8 onde bene intenderemo con che moderazione si debbiano
+                    usare. 9 Posi mente come l’uomo in ogni suo posare sottostatuisca tutto il corpo
+                    a sostenere il capo, membro fra li altri gravissimo; 10 e posandosi in uno piè
+                    sempre ferma il piè perpendiculare sotto il capo, quasi come base d’una colonna;
+                    11 e quasi sempre, di chi stia diritto, il viso si porge dove si dirizzi il piè.
+                    12 I movimenti del capo veggo quasi sempre essere tale che sotto a sé hanno
+                    qualche parte del corpo a sostenerlo, tanto è sì grande peso quello del capo; 13
+                    o vero certo in contraria parte, quasi come stile d’una bilancia, distende uno
+                    membro quale conrisponda al peso del capo. 14 E vegiamo che chi sul braccio
+                    disteso sostiene uno peso, fermando il piè quasi come ago di bilancia, tutta
+                    l’altra parte del corpo si contraponga a contrapesare il peso. 15 Parmi ancora
+                    che, alzando il capo, niuno più porga la faccia in alto se non quanto vegga in
+                    mezzo il cielo; 16 né in lato alcuno più si volge il viso se non quanto il mento
+                    tochi la spalla; 17 in quella parte del corpo ove ti cigni, quasi mai tanto ti
+                    torci che la punta della spalla sia perpendiculare sopra il bellico. 18 I
+                    movimenti delle gambe e delle braccia sono molto liberi, ma non vorrei io
+                    coprisero alcuna degna e onesta parte del corpo; 19 e veggo da la natura quasi
+                    mai le mani levarsi sopra il capo, né le gomita sopra la spalla, né sopra il
+                    ginocchio il piede, né tra uno piè ad un altro essere più spazio che d’uno solo
+                    piede; 20 e posi mente, distendendo in alto una mano, che per sino al piede
+                    tutta quella parte del corpo la subsegua: tale che il calcagno medesimo del piè
+                    || si leva dal pavimento. </p>
+                <p>Simile molte cose uno diligente artefice da sé a sé noterà; e forse quali dissi
+                    cose tanto sono in pronto che paiono superflue recitate; ma, perché veggio non
+                    pochi in quelle errare, parsemi da non tacerle. Truovasi chi esprimendo
+                    movimenti troppo arditi, e in una medesima figura faccendo che ad uno tratto si
+                    vede il petto e le reni, cosa impossibile e non condicente, credono essere
+                    lodati, perché odono quelle immagini molto parer vive quali molto gettino ogni
+                    suo membro, e per questo in loro figure fanno parerle schermidori e istrioni,
+                    senza alcuna degnità di pittura; 4 onde non solo sono senza grazia e dolcezza,
+                    ma più, ancora mostrano l’ingegno dell’artefice troppo fervente e furioso. 5 E
+                    conviensi alla pittura avere movimenti soavi e grati, convenienti a quello ivi
+                    si facci: 6 siano alle vergini movimenti e posari ariosi, pieni di semplicità,
+                    in quali più tosto sia dolcezza di quiete che gagliardia, bene che ad Homero,
+                    quale seguitò Zeosis, piacque la forma fatticcia per sino in le femine; 7 siano
+                    i movimenti a i garzonetti leggieri, iocondi, con una certa demostrazione di
+                    grande animo e buone forze; 8 sia nell’uomo movimenti con più fermezza, ornati
+                    con belli posari e artificiosi; 9 sia a i vechi loro movimenti e posari
+                    stracchi: non solo in su due piè, ma ancora si sostenghino su le mani. 10 E così
+                    a ciascuno con dignità siano i suoi movimenti del corpo ad espriemere qual vuoi
+                    movimento d’animo; 11 e delle grandissime perturbazione de l’animo simile sieno
+                    grandissimi movimenti delle membra. 12 E questa ragione de i movimenti comune si
+                    osservi in tutti li animanti: 13 già non si aconfà ad uno bue aratore darli que’
+                    movimenti quali daresti a Bucefalas, gagliardissimo cavallo d’Alexandro; 14
+                    forse faccendo Yo, quale fu conversa in vacca, correre colla coda ritta,
+                    rintorcigliata, col collo erto, co i piè levati, sarebbe atta pittura. </p>
+                <p>Basti così avere discorso il movimento delli animanti. Ora, poi che ancora le
+                    cose non animate si muovono in tutti quelli modi quali di sopra dicemmo, adunque
+                    e di queste diremo. Dilettano ne i capelli, ne i crini, ne’ rami, frondi e
+                    veste vedere qualche movimento. 4 Quanto certo a me, piace ne i capelli vedere
+                    quale io dissi sette movimenti: volgansi in uno giro quasi volendo anodarsi e
+                    ondeggino in aria simile alle fiamme, parte quasi come serpe si tessano fra li
+                    altri, parte crescendo in qua e parte in là. 5 Così i rami ora in alto si
+                    torcano, ora in giù, ora in fuori, ora in dentro, parte si contorcano come funi.
+                    6 Medesimo ancora le pieghe facciano, e nascano le pieghe come al tronco
+                    dell’albero i suo rami; 7 in queste adunque si seguano tutti i movimenti: tale
+                    che parte niuna del panno sia senza vacuo movimento. 8 Ma siano, quanto spesso
+                    ricordo, i movimenti moderati e dolci, più tosto quali porgano grazia a chi miri
+                    che maraviglia di fatica alcuna. 9 Ma dove così vogliamo a i panni suoi
+                    movimenti, sendo i panni di natura gravi e continuo cadendo a terra, per questo
+                    starà bene in la pittura porvi la faccia del vento Zeffiro o Austro che soffi
+                    tra le nuvole, onde i panni ventoleggino; 10 e quinci verrà a quella grazia che
+                    i corpi, da questa parte percossi dal vento, sotto i panni in buona parte
+                    mostreranno il nudo, dall’altra parte i panni, gittati dal vento, dolce
+                    voleranno per aria; 11 e in questo ventoleggiare guardi il pittore non ispiegare
+                    alcuno panno contro il vento. 12 E così tutto osservi quanto dicemmo de’
+                    movimenti delli animali e delle cose non animate. 13 Ancora: con diligenzia
+                    séguiti quanto racontammo della composizione delle superficie, de’ membri e de’
+                    corpi. </p>
+                <p>Resta a dire del ricevere de’ lumi. Ne’ dirozzamenti di sopra assai dimostrammo
+                    quanto i lumi abiano forza a variare i colori, ché insegnammo come, istando uno
+                    medesimo colore, secondo il lume e l’ombra che riceve altera sua veduta; e
+                    dicemmo che ’l bianco e ’l nero al pittore esprimea l’ombra e il chiarore, tutti
+                    li altri colori essere al pittore come materia a quale agiugnesse più o meno
+                    ombra o lume. 4 Adunque, lassando l’altre cose, qui solo resta a dire in che
+                    modo abbia il pittore usare suo bianco e nero. 5 Dicono che gli antiqui pittori
+                    Polignoto e Thimante usavano solo colori quattro, 6 e Aglaophon si maravigliano
+                    si dilettasse dipignere in uno solo semplice colore, 7 quasi come fusse poco, in
+                    quanto estimavano grandissimo numero di colori, se quelli ottimi dipintori
+                    avessero eletti quelli pochi, 8 e ad uno copioso artefice credeano convenirsi
+                    tutta la moltitudine de’ colori. 9 Certo affermo che alla grazia e lode della
+                    pittura la copia e varietà de’ colori molto giova, 10 ma voglio così estimino i
+                    dotti, che tutta la somma industria e arte sta in sapere usare il bianco e ’l
+                    nero. 11 E in ben sapere usare questi due conviensi porre tutto lo studio e
+                    diligenzia, però che il lume e l’ombra fanno parere le cose rilevate, 12 così il
+                    bianco e ’l nero fa le cose dipinte parere rilevate, e dà quella lode quale si
+                    dava a Nitia pittore atheniese. 13 Dicono che Zeusis, antiquissimo e famosissimo
+                    dipintore, fu quasi prencipe delli altri in conoscere la forza de’ lumi e
+                    dell’ombre: alli altri poco fu data simile loda. 14 Ma io quasi mai estimerò
+                    mezzano dipintore quello quale non bene intenda che forza ogni lume e ombra
+                    tenga in ogni superficie. 15 Io, co i dotti e non dotti, loderò quelli visi
+                    quali, come scolpiti, parranno uscire fuori della tavola e biasimerò quelli visi
+                    in quali vegga arte niuna altra che solo forse nel disegno: 16 vorrei io un
+                    buono disegno ad una buona composizione essere bene colorata. 17 Così adunque in
+                    prima studino circ’a i lumi e circa a l’ombre, e pongano mente come quella
+                    superficie più che l’altra sia chiara in quale feriscano i razzi del lume, e
+                    come, dove manca la forza del lume, quel medesimo colore diventa fusco. 18 E
+                    notino che sempre contro al lume da l’altra parte conrisponda l’ombra: tale che
+                    in corpo niuno sarà parte alcuna luminata, a cui non sia altra parte diversa
+                    oscura. 19 Ma quanto ad imitare il chiarore col bianco e l’ombra col nero,
+                    ammonisco molto abino studio a conoscere distinte superficie, quanto ciascuna
+                    sia coperta di lume o d’ombra. 20 Questo assai da te comprenderai dalla natura;
+                    e quando bene le conoscerai, ivi con molta avarizia, dove bisogni, comincerai a
+                    porvi il bianco, e subito, contrario, ove bisogni, il nero, 21 però che con
+                    questo bilanciare il bianco col nero molto si scorge quanto le cose si
+                    rilievino. 22 E così, pure con avarizia, a poco a poco seguirai acrescendo più
+                    bianco e più nero quanto basti: 23 e saratti a conoscere buono giudice lo
+                    specchio. Né so come le cose ben dipinte molto abbino nello specchio grazia; 24
+                    cosa maravigliosa, come ogni vizio della pittura si manifesti diforme nello
+                    specchio: 25 adunque le cose prese dalla natura si emendino collo spechio. </p>
+                <p>Qui vero racontiamo cose quali imparammo dalla natura. Posi mente che alla
+                    superficie piana in ogni suo luogo sta il colore uniforme; nelle superficie
+                    cave e sperice piglia il colore variazione, però ch’è qui chiaro, ivi oscuro, in
+                    altro luogo mezzo colore. 4 Questa alterazione de’ colori inganna li sciochi
+                    pittori, quali, se, come dicemmo, bene avessono disegnato li orli delle
+                    superficie, sentirebbono facile il porvi i lumi. 5 Così farebbono: prima, quasi
+                    come leggerissima rugiada, per in fino a l’orlo coprirebbono la superficie di
+                    qual bisognasse bianco o nero; di poi sopra a questa un’altra e poi un’altra; 6
+                    e così a poco a poco farebbono che, dove fusse più lume, ivi più bianco; da
+                    torno, mancando il lume, il bianco si perderebbe quasi in fummo. 7 E, simile,
+                    contrario farebbero del nero. 8 Ma ramentisi mai fare bianca alcuna superficie
+                    tanto che ancora non possa farla vie più bianca: 9 se bene vestissi di panni
+                    candidissimi, convienti fermare molto più giù che l’ultima bianchezza. 10 Truova
+                    il pittore cosa niuna altro che ’l bianco con quale dimostri l’ultimo lustro
+                    d’una forbitissima spada, e solo il nero a dimostrare l’ultime tenebre della
+                    notte. 11 E vedesi forza in ben comporre bianco presso a nero, che vasi, per
+                    questo, paiano d’argento, d’oro e di vetro, e paiono, dipinti, risplendere. 12
+                    Per questo molto si biasimi ciascuno pittore il quale, senza molto modo, usi
+                    bianco o nero. 13 Piacerebbemi a presso de’ pittori il bianco si vendesse più
+                    che le preziosissime gemme caro; 14 sarebbe certo utile il bianco e nero si
+                    facesse di quelle grossissime perle quale Cleopatra distruggeva in aceto, 15 ché
+                    ne sarebbono, quanto debbono, avari e massai e sarebbero loro opere più al vero
+                    dolci e vezzose. 16 Né si può dire quanto di questi si convenga masserizia al
+                    dipintore. 17 E se pure in distribuirli peccano, meno si riprenda chi adoperi
+                    molto nero che chi non bene distende il bianco. 18 Di dì in dì fa la natura che
+                    ti viene in odio le cose orride e oscure e, quanto più faccendo impari, tanto
+                    più la mano si fa dilicata a vezzosa grazia; 19 certo da natura amiamo le cose
+                    aperte e chiare. Adunque più si chiuda la via quale più stia facile a peccare. </p>
+                <p>Detto del bianco e nero, diremo degli altri colori; non, come Vitruvio
+                    architetto, in che luogo nasca ciascuno ottimo e ben provato colore, ma diremo
+                    in che modo i colori ben triti s’adoperino in pittura. Dicono che Eufranor,
+                    antiquissimo dipintore, scrisse non so che de’ colori: non si truova oggi. 4 Noi
+                    vero, i quali, se mai da altri fu scritta, abiamo cavata quest’arte di sotterra,
+                    o, se non mai fu scritta, l’abbiamo tratta di cielo, seguiamo, quanto sino a qui
+                    facemmo, con nostro ingegno. 5 Vorrei nella pittura si vedessero tutti i generi
+                    e ciascuna sua spezie con molto diletto e grazia a rimirarla. 6 Sarà ivi grazia
+                    quando l’uno colore a presso molto sarà da l’altro differente, 7 ché, se
+                    dipignerai Diana guidi il coro, sia a questa ninfa panni verdi, a quella
+                    bianchi, all’altra rosati, a l’altra crocei, 8 e così a ciascuna diversi colori:
+                    tale che sempre i chiari sieno presso ad altri diversi colori oscuri. 9 Sarà per
+                    questa comparazione ivi la bellezza de’ colori più chiara e più leggiadra. 10 E
+                    truovasi certa amicizia de’ colori, che l’uno, giunto con l’altro, li porge
+                    dignità e grazia: 11 il colore rosato presso al verde e al cilestro si danno
+                    insieme onore e vista; 12 il colore bianco, non solo appresso il cenericcio e a
+                    presso il croceo, ma quasi presso a tutti posto, porge letizia. 13 I colori
+                    oscuri stanno fra i chiari non sanza alcuna dignità, e così i chiari bene
+                    s’avolgano fra li oscuri. 14 Così adunque, quanto dissi, il pittore disporrà suo
+                    colori. </p>
+                <p>Truovasi chi adopera molto in sue storie oro, ché stima porga maestà: non lo
+                    lodo. E ben che dipignesse quella Didone di Virgilio, a cui era la faretra
+                    d’oro, i capelli aurei nodati in oro, e la vesta purpurea cinta pur d’oro, i
+                    freni al cavallo e ogni cosa d’oro, non però ivi vorrei punto adoperassi oro;
+                    però che ne i colori, imitando i razzi de l’oro, sta più ammirazione e lode a
+                    l’artefice; 4 e ancora veggiamo in una piana tavola alcune superficie ove sia
+                    l’oro, quando deono essere oscure, risplendere e quando deono essere chiare,
+                    parere nere. 5 Dico bene che li altri fabrili ornamenti giunti alla pittura,
+                    qual’ sono colunne scolpite, base, capitelli e frontispicii, non li biasimerò se
+                    ben fussero d’oro purissimo e massiccio; 6 anzi più: una ben perfetta storia
+                    merita ornamenti di gemme preziosissime. </p>
+                <p>Sino a qui dicemmo brevissime di tre parti della pittura: dicemmo della
+                    circonscrizione delle minori e maggiori superficie; dicemmo della composizione
+                    delle superficie, membri e corpi; dicemmo de’ colori quanto a l’uso del pittore
+                    estimammo s’apartenesse. Adunque così esponemmo tutta la pittura, quale
+                    dicemmo stava in queste tre cose: circonscrizione, composizione e ricevere di
+                    lumi. </p>
+            </div1>
+            <div1 xml:id="L3" n="3" type="livre">
+                <head>LIBRO III</head>
+                <p>Ma, poi che ancora altre utili cose restano a fare uno pittore tale che possa
+                    seguire intera lode, parmi in questi commentarii da non lassarlo. Direnne
+                    molto brevissimo. </p>
+                <p>Dico l’oficio del pittore essere così descrivere con linee e tignere con colori,
+                    in qual sia dàtoli tavola o parete, simile vedute superficie di qualunque corpo,
+                    che quelle, ad una || certa distanzia e ad una certa posizione di centro,
+                    paiano rilevate e molto simili avere i corpi; la fine della pittura rendere
+                    grazia e benivolenza e lode all’artefice molto più che richezze. 4 E seguiranno
+                    questo i pittori ove la loro pittura terrà li occhi e l’animo di chi la miri, 5
+                    qual cosa, come possa farlo, dicemmo di sopra dove trattammo della composizione
+                    e del ricevere de’ lumi. 6 Ma piacerammi sia il pittore, per bene potere tenere
+                    tutte queste cose, uomo buono e dotto in buone lettere. 7 E sa ciascuno quanto
+                    la bontà de l’uomo molto più vaglia che ogni industria o arte ad acquistarsi
+                    benivolenza da’ cittadini, 8 e niuno dubita la benivolenza di molti molto
+                    all’artefice giovare a lode insieme e al guadagno; 9 e interviene spesso che i
+                    ricchi, mossi più da benivolenza che da maravigliarsi d’altrui arte, prima danno
+                    guadagno a costui modesto e buono, lassando adrieto quell’altro pittore, forse
+                    migliore in arte, ma non sì buono in costumi. 10 Adunque conviensi all’artefice
+                    molto porgersi costumato, massime da umanità e facilità, e così arà benivolenza,
+                    fermo aiuto contro la povertà, e guadagni, ottimo aiuto a bene imparare sua
+                    arte. </p>
+                <p>Piacemi il pittore sia dotto, in quanto e’ possa, in tutte l’arti liberali, ma in
+                    prima desidero sappi geometria. Piacemi la sentenzia di Panfilo, antiquo e
+                    nobilissimo pittore, dal quale i giovani nobili cominciarono ad imparare
+                    dipignere: stimava niuno pittore potere bene dipignere se non sapea molta
+                    geometria. 4 I nostri dirozzamenti, da i quali si esprieme tutta la perfetta,
+                    absoluta arte di dipignere, saranno intesi facile dal geometra, 5 ma chi sia
+                    ignorante in geometria né intenderà quelle né alcun’altra ragione di dipignere;
+                    6 per tanto affermo sia necessario al pittore imprendere geometria. 7 E farassi
+                    per loro dilettarsi de’ poeti e delli oratori. 8 Questi hanno molti ornamenti
+                    comuni col pittore e, copiosi di notizia di molte cose, molto gioveranno a bello
+                    componere l’istoria, 9 di cui ogni laude consiste in la invenzione, quale suole
+                    avere questa forza, quanto vediamo, che sola, senza pittura, per sé la bella
+                    invenzione sta grata. </p>
+                <p>Lodasi, leggendo, quella discrizione della Calunnia, quale Luciano raconta
+                    dipinta da Appelle: parmi cosa non aliena dal nostro proposito qui narrarla,
+                    per ammonire i pittori in che cose, circa alla invenzione, loro convenga essere
+                    vigilanti. 3 Era quella pittura uno uomo con sue orechie molto grandissime, a
+                    presso del quale, una di qua e una di là, stavano due femine: l’una si chiamava
+                    Ignoranzia, l’altra si chiamava Sospezione. 4 Più in là veniva la Calunnia:
+                    questa era una femina a vederla bellissima, ma parea nel viso troppo astuta; 5
+                    tenea nella sua destra mano una face incesa, con l’altra mano trainava, preso
+                    pe’ capelli, uno garzonetto, il quale stendea suo mani alte al cielo. 6 E eravi
+                    uno uomo palido, brutto, tutto lordo, con aspetto iniquo, quale potresti
+                    assimigliare a chi ne’ campi dell’armi, con lunga fatica fusse magrito e riarso:
+                    costui era guida della Calunnia e chiamavasi Livore. 7 E erano due altre
+                    femmine, compagne alla Calunnia, quali a lei aconciavano suoi ornamenti e panni:
+                    chiamasi l’una Insidie e l’altra Fraude. 8 Drieto a queste era la Penitenzia,
+                    femmina vestita di veste funerali, quale se stessa tutta stracciava; dietro
+                    seguiva una fanciulletta vergognosa e pudica, chiamata Verità. 9 Quale istoria,
+                    se mentre che si recita piace, pensa quanto essa avesse grazia e amenità a
+                    vederla dipinta di mano di Appelle.10 Piacerebbe ancora vedere quelle tre
+                    sorelle, a quali Hesiodo pose nome Egle, Heufronesis e Thalia, quali si
+                    dipignevano prese fra loro l’una l’altra per mano ridendo, con la vesta scinta e
+                    ben monda; 11 per quali volea s’intendesse la liberalità, ché una di queste
+                    sorelle dà, l’altra riceve, la terza rende il benificio, quali gradi debbano in
+                    ogni perfetta liberalità essere. 12 Adunque si vede quanta lode porgano simile
+                    invenzioni a l’artefice: per tanto consiglio ciascuno pittore molto si faccia
+                    familiare a i poeti, retorici e alli altri simili dotti di lettere, 13 già che
+                    costoro doneranno nuove invenzioni o certo aiuteranno a bello componere sua
+                    storia, per quali certo acquisteranno in sua pittura molte lode e nome. 14
+                    Fidias, più che li altri pittori famoso, confessava avere imparato da Homero
+                    poeta dipignere Iove con molta divina maestà; 15 così noi, studiosi d’imparare
+                    più che di guadagno, da i nostri poeti impareremo più e più cose utili alla
+                    pittura. </p>
+                <p>Ma non raro avviene che li studiosi e cupidi d’imparare, non meno si straccano
+                    ove non sanno imparare che dove l’incresce la fatica; per questo diremo in che
+                    modo si diventi in questa arte dotto. Niuno dubiti capo e principio di questa
+                    arte, e così ogni suo grado a diventare maestro, doversi prendere dalla natura;
+                    il perficere l’arte si troverà con diligenza, assiduitate e studio. 4 Voglio che
+                    i giovani, quali ora nuovi si danno a dipignere, così facciano, quanto veggo, di
+                    chi impara a scrivere: 5 questi in prima separato insegnano tutte le forme delle
+                    lettere, quali li antiqui chiamano elementi, poi insegnano le silabe, poi a
+                    presso insegnano componere tutte le dizzioni. 6 Con questa ragione ancora
+                    seguitino i nostri a dipignere: in prima imparino ben disegnare li orli delle
+                    superficie e qui sé esercitino quasi come ne’ primi elementi della pittura, 7
+                    poi imparino giugnere insieme le superficie, poi imparino ciascuna forma
+                    distinta di ciascuno membro e mandino a mente qualunque possa essere differenza
+                    in ciascuno membro. 8 E sono le differenzie de’ membri non poche e molto chiare:
+                    vedrai a chi sarà il naso rilevato e gobbo, altri aranno le narici scimmie o
+                    arovesciate aperte, altri porgerà i labri pendenti, alcuni altri aranno
+                    ornamento di labrolini magruzzi. 9 E così esamini il pittore qualunque cosa a
+                    ciascuno membro, essendo più o meno, il facci differente. 10 E noti ancora,
+                    quanto veggiamo, che i nostri membri fanciulleschi sono ritondi, quasi fatti a
+                    tornio e dilicati; nella età più provetta sono aspri e canteruti. 11 Così tutte
+                    queste cose lo studioso pittore conoscerà dalla natura e con se stessi molto
+                    assiduo le esaminerà, in che modo ciascuna stia, e continuo starà in questa
+                    investigazione e opera desto con suo ochi e mente: 12 porrà mente il grembo a
+                    chi siede, porrà mente quanto dolce le gambe a chi segga sieno pendenti, noterà
+                    di chi stia dritto tutto il corpo; 13 né sarà ivi parte alcuna della quale non
+                    sappi suo officio e sua misura. 14 E di tutte le parti li piacerà, non solo
+                    renderne similitudine, ma più, aggiugnervi bellezza, però che nella pittura la
+                    vaghezza non meno è grata che richiesta. 15 A Demetrio, antiquo pittore, mancò
+                    ad acquistare l’ultima lode, ché fu curioso di fare cose assimigliate al
+                    naturale molto più che vaghe. 16 Per questo gioverà pigliare da tutti i belli
+                    corpi ciascuna lodata parte e sempre ad imparare molta vaghezza si contenda con
+                    istudio e con industria. 17 Qual cosa, bene che sia difficile perché nonne in
+                    uno corpo solo si truova compiute bellezze, ma sono disperse e rare in più
+                    corpi, pure si debba, ad investigarla e impararla, porvi ogni fatica. 18
+                    Interverrà come a chi s’ausi volgere e prendere cose maggiori, che facile costui
+                    potrà le minori: né truovasi cosa alcuna tanto difficile quale lo studio e
+                    assiduità non vinca. </p>
+                <p>Ma, per non perdere studio e fatica, si vuole fuggire quella consuetudine
+                    d’alcuni sciocchi, i quali, presuntuosi di suo ingegno, senza avere essemplo
+                    alcuno dalla natura, quale con ochi o mente seguano, studiano da sé a sé
+                    acquistare lode di dipignere: questi non imparano dipignere bene, ma
+                    assuefanno sé a’ suoi errori. Fugge l’ingegni non periti quella idea delle
+                    bellezze quale i bene esercitatissimi appena discernono. 4 Zeusis,
+                    prestantissimo e fra li altri esercitatissimo pittore, per fare una tavola qual
+                    publico pose nel tempio di Lucina appresso de’ Crotoniati, 5 non fidandosi
+                    pazzamente, quanto oggi ciascuno pittore, del suo ingegno, ma perché pensava non
+                    potere in uno solo corpo trovare quante bellezze elli ricercava, perché dalla
+                    natura non erano ad uno solo date, 6 per tanto di tutta la ioventù di quella
+                    terra elesse cinque fanciulle le più belle, per torre da queste qualunque
+                    bellezza lodata in una femmina; 7 savio pittore, se conobbe che a i pittori, ove
+                    loro sia niuno esemplo della natura quale elli seguitino, ma pure vogliono con
+                    suoi ingegni giugnere le lode della bellezza, 8 ivi facile loro avverrà che, non
+                    quale cercano bellezza con tanta fatica troveranno, ma certo piglieranno sue
+                    pratiche non buone, quali poi, ben volendo, mai potranno lassare. 9 Ma chi da
+                    essa natura s’auserà prendere qualunque facci cosa, costui renderà sua mano sì
+                    esercitata che sempre, qualunque cosa farà, parrà tratta dal naturale. 10 Qual
+                    cosa, quanto sia dal pittore a ricercarla, si può intendere ove, poi che in una
+                    storia sarà uno viso di qualche conosciuto e degno uomo, bene che ivi sieno
+                    altre figure di arte molto più che questa perfette e grate, 11 pure quel viso
+                    conosciuto a sé in prima trarrà tutti li occhi di chi la storia raguardi: tanto
+                    si vede in sé tiene forza ciò che sia ritratto dalla natura. 12 Per questo
+                    sempre ciò che vorremo dipignere piglieremo dalla natura e sempre torremo le
+                    cose più belle. </p>
+                <p>Ma guarda non fare come molti, quali imparano disegnare in picciole tavolelle;
+                    voglio te eserciti disegnando cose grandi, quasi pari al ripresentare la
+                    grandezza di quello che tu disegni, però che ne i piccioli disegni facile
+                    s’asconde ogni gran vizio, ne i grandi molto i bene minimi vizii si veggono. 4
+                    Scrive Galieno medico avere ne i suo tempi veduto scolpito in uno anello
+                    Phetonte portato da quattro cavalli, de i quali suo freni, petto e tutti i piedi
+                    distinti si vedeano. 5 Ma i nostri pittori lassino queste lode alli scultori
+                    delle gemme; loro vero si spassino in campi maggiori di lode. 6 Chi saprà ben
+                    dipignere una gran figura molto facile in uno solo colpo potrà quest’altre cose
+                    minute ben formare, 7 ma chi in questi piccioli vezzi e monili arà usato suo
+                    mano e ingegno, costui facile errerà in cose maggiori. </p>
+                <p>Alcuni ritranno figure d’altri pittori e ivi cercano lode quale fu data a
+                    Calamide scultore, quanto referiscono, che scolpì due tazze in quali così
+                    retratte cose prima simili fatte da Zenodoro, che niuna differenza vi si
+                    conosceva. Ma certo i nostri pittori saranno in grandi errori se non
+                    intenderanno che chi dipinse si sforzò ripresentarti cosa quale puoi vedere nel
+                    nostro, quale di sopra dicemmo, velo, dolce e bene da essa natura dipinto. 4 E
+                    se pure ti piace ritrarre opere d’altrui, perché elle più teco hanno pazienza
+                    che le cose vive, più mi piace a ritrarre una mediocre scultura che una ottima
+                    dipintura, 5 però che dalle cose dipinte nulla più acquisti che solo sapere
+                    asimigliarteli, ma dalle cose scolpite impari asimigliarti e impari conoscere e
+                    ritrarre i lumi. 6 E molto giova, a gustare i lumi, socchiudere l’occhio e
+                    strignere il vedere co i peli delle palpebre, acciò che ivi i lumi si veggano
+                    abacinati e quasi come in intersegazione dipinti. 7 E forse più sarà utile
+                    esercitarsi al rilievo che al disegno: 8 cioè, s’io non erro, la scultura più
+                    sta certa che la pittura e raro sarà chi possa bene dipignere quella cosa della
+                    quale elli non conosca ogni suo rilievo, e più facile si truova il rilievo
+                    scolpendo che dipignendo. 9 Sia questo argomento atto, quanto veggiamo: che
+                    quasi in ogni età sono stati alcuni mediocri scultori, ma truovi quasi niuno
+                    pittore non in tutto da riderlo e disadatto. </p>
+                <p> Ma, in quale ti eserciti, sempre abbi in anzi qualche elegante e singulare
+                    essempio, quale tu rimirando ritria. E in ritrarlo giudico bisogni avere una
+                    diligenza, congiunta con prestezza, che mai ponga lo stile o suo pennello se
+                    prima non bene con la mente arà constituito quello che elli abbi a fare e in che
+                    modo abia a condurlo; ché certo più sarà sicuro emendare li errori colla mente
+                    che raderli dalla pittura. 4 E ancora: quando saremo usati a fare nulla senza
+                    prima avere ordinato, interverracci che, molto più che Asclipiodoro, saremo
+                    pittori velocissimi, quale uno antiquo pittore dicono fra li altri fu dipignendo
+                    velocissimo. 5 E l’ingegno, mosso e riscaldato, per esercitazione molto si rende
+                    pronto e espedito al lavoro e quella mano seguita velocissima, quale sia da
+                    certa ragione d’ingegno ben guidata. 6 E se alcuno si troverà pigro artefice,
+                    costui per questo così sarà pigro: perché, lento e temoroso, tenterà quelle cose
+                    quale non arà prima fatte alla sua mente conosciute e chiare; 7 e mentre che
+                    s’avolgerà fra quelle tenebre d’errori e quasi come il cieco con sua bacchetta,
+                    così lui con suo pennello tasterà questa e quest’altra via. 8 Per tanto, se non
+                    con ingegno scorgidore, bene erudito, mai porrà mano a suo lavoro. </p>
+                <p>Ma, poi che la istoria è summa opera del pittore, in quale dee essere ogni copia
+                    e eleganzia di tutte le cose, conviensi curare sappiamo dipignere non solo uno
+                    uomo, ma ancora cavalli, cani e tutti altri animali e tutte altre cose degne
+                    d’essere vedute. Questo così conviensi per bene fare copiosa la nostra
+                    istoria. Cosa qual ti confesso grandissima e a chi si fusse de li antiqui non
+                    molto concessa, 4 che uno in ogni cosa, non dico eccellente fusse, ma mediocre
+                    dotto. 5 Pure affermo dobbiamo sforzarci che per nostra negligenzia quelle cose
+                    non manchino, quale, acquistate, rendono lode e, neglette, lassano biasimo. 6
+                    Nitias, atheniese pittore, diligente dipinse femmine; 7 Eraclides fu lodato in
+                    dipigner navi; 8 Serapion non potea dipignere uomini: altra qual vuoi cosa molto
+                    dipignea bene; 9 Dionisio nulla potea dipignere altri che uomini; 10 Allexandro,
+                    quello il quale dipinse il portico di Pompeo, sopra li altri bene dipignea
+                    animali, massime cani; 11 Aurelio, che sempre amava, solo dipignendo dee
+                    ritraeva i loro visi quali esso amava; 12 Fidias in dimostrare la maestà delli
+                    iddii più dava opera che in seguire la bellezza delli uomini; 13 Eufranore si
+                    dilettava espriemere la degnità de’ signori e in questo avanzò tutti li altri.
+                    14 Così a ciascuno fu non equali facultà e diede la natura a ciascuno ingegno
+                    sue propie dote; 15 delle quali non però in tanto dobiamo essere contenti che
+                    per negligenzia lassiamo di tentare quanto ancora più oltre, con nostro studio,
+                    possiamo. 16 E conviensi cultivare i beni della natura con studio e esercizio e
+                    così di dì in dì farli maggiori; e conviensi per nostra negligenzia nulla
+                    pretermettere quale a noi possa retribuere lode. </p>
+                <p>E quando aremo a dipignere storia, prima fra noi molto penseremo qual modo e
+                    quale ordine in quella sia bellissimo e faremo nostri concetti e modelli, di
+                    tutta la storia e di ciascuna sua parte, prima e chiameremo tutti li amici a
+                    consigliarci sopra a ciò. E così ci sforzeremo avere ogni parte in noi prima
+                    ben pensata: tale che nella opera abbi a essere cosa alcuna, quale non
+                    intendiamo ove e come debba essere fatta e conlocata. 4 E per meglio di tutto
+                    aver certezza, segneremo i modelli nostri con paraleli, 5 onde nel publico
+                    lavoro torremo da i nostri congetti, quasi come da privati commentarii, ogni
+                    stanzia e sito delle cose. 6 In lavorare la istoria aremo quella prestezza di
+                    fare, congiunta con diligenzia, quale a noi non dia fastidio o tedio lavorando 7
+                    e fuggiremo quella cupidità di finire le cose quale ci facci abboracciare il
+                    lavoro, 8 e qualche volta si conviene interlassare la fatica del lavorare
+                    ricreando l’animo. 9 Né giova fare come alcuni: intraprendere più opere,
+                    cominciando ogi questa e domani quest’altra e così lassarle non perfette, ma,
+                    qual pigli opera, questa renderla da ogni parte compiuta. 10 Fu uno a cui
+                    Appelles rispose, quando li mostrava una sua dipintura dicendo: «Oggi feci
+                    questo»; 11 disseli: «Non me ne maraviglio se bene avessi più altre simili
+                    fatte». 12 Vidi io alcuni pittori, scultori – ancora rettorici e poeti, se in
+                    questa età si truovano rettorici o poeti – con ardentissimo studio darsi a
+                    qualche opera; 13 poi, freddato quello ardore d’ingegno, lassano l’opera
+                    cominciata e rozza e con nuova cupidità si danno a nuove cose. 14 Io certo
+                    vitupero così fatti uomini, però che qualunque vuole le sue cose essere, a chi
+                    dopo viene, grate e acette, 15 conviene prima bene pensi quello che elli ha a
+                    fare e poi con molta diligenza il renda bene perfetto. 16 Né in poche cose più
+                    si pregia la diligenza che l’ingegno, ma conviensi fuggire quella decimaggine di
+                    coloro 17 i quali, volendo ad ogni cosa manchi ogni vizio e tutto essere troppo
+                    pulito, prima in loro mani diventa l’opera vecchia e sucida che finita. 18
+                    Biasimavano li antiqui Protogene pittore che non sapesse levare la mano d’in su
+                    la tavola: 19 meritamente questo, però che, ben che si convenga sforzare, quanto
+                    in noi sia ingegno, che le cose con nostra diligenza sieno ben fatte, 20 pure,
+                    volere in tutte le cose più che a te non sia possibile mi pare atto di pertinace
+                    e bizzarro, non d’uomo diligente. 21 Adunque alle cose si dia diligenza
+                    moderata. </p>
+                <p>E abbisi consiglio delli amici e, dipignendo, s’apra a chiunche viene e odasi
+                    ciascuno. L’opera del pittore cerca essere grata a tutta la moltitudine:
+                    adunque non si spregi il giudicio e sentenzia della moltitudine, quando ancora
+                    sia licito satisfare a loro oppenione. 4 Dicono che Appelles, nascoso drieto
+                    alla tavola, acciò che ciascuno potesse più libero biasimarlo e lui più onesto
+                    udirlo, udiva quanto ciascuno biasimava o lodava; 5 così io voglio i nostri
+                    pittori apertamente domandino o odano ciascuno quello che giudichi. 6 E
+                    gioveralli questo ad acquistar grazia; niuno si truova il quale non estimi onore
+                    porre sua sentenzia nella fatica altrui. 7 E ancora poco mi pare da dubitare che
+                    li invidi e detrattori nuocano alle lode del pittore: 8 sempre fu al pittore
+                    ogni sua lode palese e sono alle sue lode testimoni cose quale bene arà dipinte.
+                    9 Adunque oda ciascuno e in prima tutto bene pensi e bene seco gastighi e,
+                    quando arà udito ciascuno, creda a i più periti. </p>
+                <p>Ebbi da dire queste cose della pittura, quali, se sono commode e utili a’
+                    pittori, solo questo domando in premio delle mie fatiche, che nelle sue
+                    istorie dipingano il viso mio, acciò dimostrino sé essere grati e me essere
+                    stato studioso dell’arte. E se meno satisfeci alle loro aspettazioni, non però
+                    vituperino me, se ebbi animo traprendere matera sì grande; 4 e se il nostro
+                    ingegno non ha potuto finire quello che fu laude tentare, pure solo il volere ne
+                    i grandi e difficili fatti suole essere lode. 5 Forse dopo me sarà chi emenderà
+                    e nostri scritti errori e in questa dignissima e prestantissima arte saranno,
+                    più che noi, in aiuto e utile a i pittori; 6 quale io, se mai alcuno sarà,
+                    priego e molto ripriego piglino questa fatica con animo lieto e pronto, in quale
+                    essercitino suo ingegno e rendano questa arte nobilissima ben governata. 7 Noi
+                    però ci reputeremo a voluttà primi aver presa questa palma d’avere ardito
+                    commendare alle lettere questa arte sottilissima e nobilissima. 8 In quale
+                    impresa difficilissima, se poco abbiamo potuto satisfare alla espettazione di
+                    chi ci ha letto, incolpino la natura non meno che noi, 9 quale impose questa
+                    legge alle cose, che niuna si truovi arte quale non abbia avuto suoi inizii da
+                    cose mendose: nulla si truova insieme nato e perfetto. 10 Chi noi seguirà, se
+                    forse sarà alcuno di studio e d’ingegno più prestante che noi, costui, quanto mi
+                    stimo, farà la pittura absoluta e perfetta. </p>
+            </div1>
+        </body>
+    </text>
+</TEI>
