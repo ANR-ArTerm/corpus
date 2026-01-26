@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title xml:lang="ita"> Desargues_ManierePerspectiveDistance </title>
+    <title xml:lang="fra"> Desargues_ManierePerspectiveDistance </title>
    </titleStmt>
    <publicationStmt>
     <publisher> tranScriptorium </publisher>
    </publicationStmt>
    <sourceDesc>
     <bibl>
-     <title xml:lang="ita"> Desargues_ManierePerspectiveDistance </title>
+     <title xml:lang="fra"> Desargues_ManierePerspectiveDistance </title>
      <idno type="Transkribus"> 9566057 </idno>
     </bibl>
    </sourceDesc>
@@ -22,183 +22,463 @@
   </profileDesc>
  </teiHeader>
  <text>
+  <front>
+   <head> Exemple de L'une des manieres universelles du S. G D L Touchant la pratique de la
+    Perspective, sans employer aucun tiers poinct de Distance ou d'autre nature qui soit hors du
+    champ de L'ouvrage. Echelles faictes au tableau Celle des Eloignemens Celle des Mesures </head>
+   <figure type="gravure"/>
+   <pb/>
+   <head> Exemple de L'une des manieres universelles du S. G D L Touchant la pratique de la
+    Perspective, sans employer aucun tiers poinct de Distance ou d'autre nature qui soit hors du
+    champ de L'ouvrage. Echelles faictes au tableau Celle des Eloignemens Celle des Mesures </head>
+   <figure type="gravure"/>
+  </front>
   <body>
-   <div>
+   <div type="livre">
     <pb n="1"/>
-    <pb n="2"/>
-    <figure type="ornement">
-     <p> Exemple de L'une des manieres universelles du S. G D L Touchant la pratique de la Perspective, sans employer aucun tiers poinct de Distance ou d'autre nature qui soit hors du champ de L'ouvrage. Echelles faictes au tableau Celle des Eloignemens Celle des Mesures </p>
-    </figure>
-    <pb n="3"/>
-    <pb n="4"/>
     <figure type="ornement"/>
-   </div>
-   <div>
-    <head> EXEMPLE DE LUNE DES MANIERES UNIVERSELLES DVS. G. D. L. TOVCHANT LA PRATIQUE DE LA PERSPECTIVE SANS EMPLOIER AVCUN TIERS POINT, DE DISTANCE NY DAVTRE nature, qui soit hors du champ de j'ouvrage. </head>
-    <figure type="ornement"/>
-    <p> OMME cét Exemple d'une maniere universelle de pratiquer la perspective sans emploier aucun tiers point, de distance ou d autre na ture, qui soit hors du champ de j'ouvrage, se manifeste en langue Françoise, aussi les mesures y sont de j'usage de la <placeName ref="#France">France</placeName>. </p>
-    <p> Les Mots PERSPECTIVE, APARENCE, REPRESENTATION, et PoVrtraIT, y sont chacun le nom d'une même chose. </p>
-    <p> Les Mots, EXTREMITEZ, BORDS, COSTEZ et CONTOVR, dune figure y sont aussi chacun le nom d'une méme chose. </p>
-    <p> Et les Mots, REPRESENTER, POVRTRAIRE, TROVVER L'APARENCE, FAIRE OW METTRE en PERSPECTIVE ) sont emploiez, en même signification j'un que j'autre. </p>
-    <p> Les Mots a NIVEAV, de NIVEAV, PARALEL à LHORISON,) signifient aussi chacun une même chose. </p>
-    <p> Les Mots à PLOMB, PERPENDICVLAIRE à L'HORISON, et (QUarreMent à Lhorison y signifient aussi chacun une méme chose. </p>
-    <p> Et les Mots QUARREMENT, à LEQUIERE, et DROITS ANGLES, et PERPENDICVLAIREMENT ) signisient encor en general une même chose j'un que j'autre. </p>
-    <p> Ce qu on se propose à pourtraire y à nom SVIET. </p>
-    <p> Ce qu aucuns nomment plan geometral, autres plan de terre, autres la plante du sujet, y à nom ASSIETE du SVIET. </p>
-    <p> Ce quaucuns nomment la transparence, autres la section, autres d'un sautre nom, à sçavoir la surface de la chose en laquelle on fait une perspectique s'y nomme TABLEaV, devant comme apres j'ouvrage achevé. </p>
-    <p> L'assiete du sujet, et le tableau dont il est icy parlè sont en des surfaces plates, c est à dire quil n'est icy parlé que des tableaux plats, et des assieites de sujet plates, lesquelles assietes et tableaux sont considerez, comme aians deux faces chacun. </p>
-    <p> La face du tableau qui se trouve exposée à j'aeil sy nomme le DEVANT du TABLEAV comme son autre face laquelle n'est pas exposée à j'œeil, sy nomme le DERRIERE du TABLEAV. </p>
-    <p> Quand j'assiete du sujet est étenduë à Niveau, celle de ses faces qui se strouve tournée du coste du Ciel, y à non le DESSVS de L'ASSIETE Mdu svJeT, comme j'autre face de la mesme asssiete qui se trouve tournée <pb n="5"/> du coté de la terre y à nom le DESSOVS de L'ASSIETE du SVIET. </p>
-    <p> L'étenduë ou la surface plate et indeterminée, en laquelle est figurée j'assiete du sujet sy nomme PLAN de L'ASSIETE du SVIET. </p>
-    <p> L'étenduè plate et indeterminée aussi, dans laquelle est le tableau sy nomme le PLAN du TABLEAV. </p>
-    <p> Toutes les lignes y sont entendues drêtes. </p>
-    <p> En une seule et méme stampe, et pour ce même et seul exemple il y a strois figures separées et cotées de Caracteres d'un méme nom, mais de forme diferente en chacune de ces figures. </p>
-    <p> Les Caracteres de renuoi sont de la méme forme en j'impression, qu en celle de ces trois figures à laquelle se raporte le discours en châque endret. </p>
-    <p> Quand en j'mpression il y à pour renuoi plus d'une fois en suite des Caracteres de méme nom ; mais de forme diferente entr eux, cela signifie que le discours en cet endrét là, s'adresse également à chacune des figures ou les semblables Caracteres sont estampez. </p>
-    <p> Quand les deux bouts d'une ligne en j'une de ces figures sont cotés de Caracteres de méme nom que les deux bouts aussi d'une ligne en une autre de ces figures, ces deux lignes ainsi cotées ont de la corespondance entre elles, et sont j'une en sa figure et en son espece, la même chose que j'autre en sa figure et en son espece. </p>
-    <p> En cet Art il est supose qu un seul aeil voit d'une même aeillade le sujet avec son assiete et le tableau, disposez, j'un au drét de j'autre, comme que ce soit : il n'importe si c est par Emission de raions visuels, ou par la reception des especes émanées du sujet, ny de quel endrét, ou lequel des deux il voit devant ou derriere j'autre, moienant qu'il les voie tous deux facilement d'une même œillade. </p>
-    <p> Il est encore suposé que celuy qui pratique cét Art, entend la façon et j'usage de j'échelle à faire une asssiete du sujet avec son élevation et dans cét exemple il est suposé qu'il entend quelle chose c'est quon nomme communement la perspective. </p>
-    <p> Et par cette maniere icy de la pratiquer aiant j'assiete et les élevations necessaires d'un sujet avec les interuales convenables traces en telle grandeur que ce soit, ou seulement leur route et leurs mesures écrites en un devis, et la disposition des plans de j'assiete du sujet et du tableau cogneuè ; avec la regle et le compas communs on trouve et fait au premier coup facilement le trait de la perspective d'untel sujet, en ce tableau de telle grandeur qu il puisse étre, sans ayde aucune de point qui soit hors de son étenduë en telle distance et de telle façon, que le sujet son assiete et le tableau soient disposez, entre eux et devant j'œil. </p>
-    <p> Dont les régles generales s'expriment en autre langage, enuelopent diverses manieres universelles de pratique, s apliquent à nomvre de cas et de figures dissemblables, et se demonstrent avec deux seules propositions manifestes et <pb n="6"/> familieres à ceux qui sont disposex à les concevoir. </p>
-    <p> Mais quand à present, et pour ceux qui sçavent seulement executer les anciennes régles de la pratique de j'art, cet exemple simple en langage, et de sujet commun à ces régles anciennes, est de pure pratique. </p>
+    <head> EXEMPLE DE L'UNE DES MANIERES UNIVERSELLES DU S. G. D. L. TOUCHANT LA PRATIQUE DE LA
+     PERSPECTIVE SANS EMPLOIER AUCUN TIERS POINT, DE DISTANCE NY DAUTRE nature, qui soit hors du
+     champ de l'ouvrage. </head>
+    <p><figure type="lettrine"/> COMME cet Exemple d'une maniere universelle de pratiquer la
+     perspective sans emploier aucun tiers point, de distance ou d'autre nature, qui soit hors du
+     champ de l'ouvrage, se manifeste en langue Françoise, aussi les mesures y sont de l'usage de la
+      <placeName ref="#France">France</placeName>. </p>
+    <p> Les Mots PERSPECTIVE, APARENCE, REPRESENTATION, et POURTRAIT, y sont chacun le nom d'une
+     meme chose. </p>
+    <p> Les Mots, EXTREMITEZ, BORDS, COSTEZ et CONTOUR, d'une figure y sont aussi chacun le nom
+     d'une meme chose. </p>
+    <p> Et les Mots, REPRESENTER, POURTRAIRE, TROUVER L'APARENCE, FAIRE ou METTRE en PERSPECTIVE y
+     sont emploiez, en meme signification l'un que l'autre. </p>
+    <p> Les Mots à NIVEAU, de NIVEAU, PARALEL à L'HORISON, y signifient aussi chacun une meme chose. </p>
+    <p> Les Mots à PLOMB, PERPENDICULAIRE à L'HORISON, et QUARREMENT à L'HORISON y signifient aussi
+     chacun une meme chose. </p>
+    <p> Et les Mots QUARREMENT, à L'EQUIERE, et DROITS ANGLES, et PERPENDICULAIREMENT y signifient
+     encor en general une meme chose l'un que l'autre. </p>
+    <p> Ce qu'on se propose à pourtraire y à nom SUJET. </p>
+    <p> Ce qu'aucuns nomment plan geometral, autres plan de terre, autres la plante du sujet, y à
+     nom ASSIETE du SUJET. </p>
+    <p> Ce qu'aucuns nomment la transparence, autres la section, autres d'un autre nom, à sçavoir la
+     surface de la chose en laquelle on fait une perspectique s'y nomme TABLEAU, devant comme apres
+     l'ouvrage achevé. </p>
+    <p> L'assiete du sujet, et le tableau dont il est icy parlé sont en des surfaces plates, c'est à
+     dire quil n'est icy parlé que des tableaux plats, et des assietes de sujet plates, lesquelles
+     assietes et tableaux sont considerez, comme aians deux faces chacun. </p>
+    <p> La face du tableau qui se trouve exposée à l'œil s'y nomme le DEVANT du TABLEAU comme son
+     autre face laquelle n'est pas exposée à l'œil, s'y nomme le DERRIERE du TABLEAU. </p>
+    <p> Quand l'assiete du sujet est étendue à Niveau, celle de ses faces qui se trouve tournée du
+     costé du Ciel, y à <reg>nom</reg> le DESSUS de L'ASSIETE du SUJET, comme l'autre face de la
+     mesme assiete qui se trouve tournée <pb n="2"/> du côté de la terre y à nom le DESSOUS de
+     L'ASSIETE du SUJET. </p>
+    <p> L'étendue ou la surface plate et indeterminée, en laquelle est figurée l'assiete du sujet
+     s'y nomme PLAN de L'ASSIETE du SUJET. </p>
+    <p> L'étendue plate et indeterminée aussi, dans laquelle est le tableau s'y nomme le PLAN du
+     TABLEAU. </p>
+    <p> Toutes les lignes y sont entendues dretes. </p>
+    <p> En une seule et meme stampe, et pour ce meme et seul exemple il y a trois figures separées
+     et cotées de Caracteres d'un meme nom, mais de forme diferente en chacune de ces figures. </p>
+    <p> Les Caracteres de renvoi sont de la meme forme en l'impression, qu'en celle de ces trois
+     figures à laquelle se raporte le discours en chaque endret. </p>
+    <p> Quand en l'impression il y a pour renvoi plus d'une fois en suite des Caracteres de meme nom
+     ; mais de forme diferente entr'eux, cela signifie que le discours en cet endret là, s'adresse
+     également à chacune des figures où les semblables Caracteres sont estampez. </p>
+    <p> Quand les deux bouts d'une ligne en l'une de ces figures sont cotés de Caracteres de meme
+     nom que les deux bouts aussi d'une ligne en une autre de ces figures, ces deux lignes ainsi
+     cotées ont de la corespondance entre elles, et sont l'une en sa figure et en son espece, la
+     meme chose que l'autre en sa figure et en son espece. </p>
+    <p> En cet Art il est suposé qu un seul œil voit d'une meme œillade le sujet avec son assiete et
+     le tableau, disposez, l'un au dret de l'autre, comme que ce soit; il n'importe si c'est par
+     Emission de raions visuels, ou par la reception des especes émanées du sujet, ny de quel
+     endret, ou lequel des deux il voit devant ou derriere l'autre, moienant qu'il les voie tous
+     deux facilement d'une meme œillade. </p>
+    <p> Il est encore suposé que celuy qui pratique cet Art, entend la façon et l'usage de l'échelle
+     à faire une asssiete du sujet avec son élevation et dans cet exemple il est suposé qu'il entend
+     qu'elle chose c'est qu'on nomme communement la perspective. </p>
+    <p> Et par cette maniere icy de la pratiquer aiant l'assiete et les élevations necessaires d'un
+     sujet avec les intervales convenables tracés en telle grandeur que ce soit, ou seulement leur
+     route et leurs mesures écrites en un devis, et la disposition des plans de l'assiete du sujet
+     et du tableau cogneue ; avec la regle et le compas communs on trouve et fait au premier coup
+     facilement le trait de la perspective d'un tel sujet, en ce tableau de telle grandeur qu'il
+     puisse etre, sans ayde aucune de point qui soit hors de son étendue en telle distance et de
+     telle façon, que le sujet son assiete et le tableau soient disposez, entre eux et devant l'œil. </p>
+    <p> Dont les regles generales s'expriment en autre langage, envelopent diverses manieres
+     universelles de pratique, s apliquent à nombre de cas et de figures dissemblables, et se
+     demonstrent avec deux seules propositions manifestes et <pb n="3"/> familieres à ceux qui sont
+     disposez à les concevoir. </p>
+    <p> Mais quand à present, et pour ceux qui sçavent seulement executer les anciennes regles de la
+     pratique de l'art, cet exemple simple en langage, et de sujet commun à ces regles anciennes,
+     est de pure pratique. </p>
     <p> Où pour circonstances de remarque on commence par trois especes de preparations. </p>
     <p> L'une qui regarde le sujet et se fait au plan de son assiete, ou bien autre part. </p>
-    <p> Les deux autres concernent j'aparence du sujet, et sont faites communement au tableau même. </p>
-    <p> Le sujet en cét exemple est une cage bastie simplement de lignes, quarrée et d'égale grosseur jusqu à certain endrêt depuis lequel elle aboutit en pointe massive, à la maniere d un bastiment couvert en pavillon, asssiz, en raxe campagne, élevé sur terre à plomb jusquau toit, creuxe dans œeuvre plus vas que le niveau du terrain d'alentour, avec les mesures de quelques lignes debout et penchantes en divers endrêts hors et dans cette cage dans terre, sus terre, et suspenduës hors terre, chacune paralelle au tableau qui pend à plomb. </p>
+    <p> Les deux autres concernent l'aparence du sujet, et sont faites communement au tableau meme. </p>
+    <p> Le sujet en cet exemple est une cage bastie simplement de lignes, quarrée et d'égale
+     grosseur jusqu'à certain endret depuis lequel elle aboutit en pointe massive, à la maniere d'un
+     bastiment couvert en pavillon, assiz, en raze campagne, élevé sur terre à plomb jusqu'au toit,
+     creuzé dans l'œuvre plus bas que le niveau du terrain d'alentour, avec les mesures de quelques
+     lignes debout et penchantes en divers endrets hors et dans cette cage dans terre, sus terre, et
+     suspendues hors terre, chacune paralelle au tableau qui pend à plomb. </p>
     <p> Au haut de la Stampe à main droite. </p>
-    <p> La figure quarrée, m, l, i, k, de telle étenduè qu elle se rencontre, est j'assiete de cette cage, laquelle assiete est icy posée de niveau. </p>
-    <p> La ligne, x, est la hauteur des élevations, pieds drêts, ou montans de la méme cage, entendus posez, à plomb à son assiete un à chacun des quatri coins du quarré, m, l, i, k. </p>
-    <p> La ligne, d, est la longveur de trois thoises de j'échelle, à laquelle ont este mesurez, les bords de j'assiete de cette cage, et ses élevations, ici nommée ESCHELLE du SVIET. </p>
-    <p> La ligne, ts, est la mesure de la hauteur perpendiculaire de j'aeil au dessis du plan de j'assiete du sujet, laquelle hauteur d'aeil rencontre ce plan au poinct, t. </p>
-    <p> Par le même plan de cette assiete du sujet, à scavoir à j'endrêt auquel est entendu que le plan du tableau le rencontre est menée une ligne, a b, nommée LIGNE du PLAN du TABLeaV, de façon qu'ici j'aeil voit le tableau devant le sujet, ou bien j'aeil voit le sujet derriere le tableau. </p>
-    <p> La ligne, t c, est la distance perpendiculaire du pied de j'œeil au tableau, c'est à dire, la distance perpendiculaire de j'œeil au même tableau. </p>
-    <p> Par un des poincts, a, ou, b, de cette ligne, a b, comme ici par le poinct, a, dans le méme plan, et de la part de j'assiete du sujet est menée une ligne lindeterminée, a g, paralelle à la ligne, t c. </p>
-    <p> Puis de chacun des points remarquables en j'asssiete du sujet ici des quatre coins, et du milieu de j'un des côtez, du quarré, m, l, i, k, sont menées jusqu'à cette ligne, a g, des lignes paralelles a la ligne, a b, comme les lignes, mr, lb, kn, e 15. et ig. </p>
-    <pb n="7"/>
-    <p> Par j'autre poinct, b, de la même ligne, a b, est menée la ligne encore indeterminée, b qu, paralelle aux lignes, a g, t c. </p>
-    <p> La longveur de chacune de ces lignes ou piece remarquable d'icelles, est mesurée avec j'échelle du sujet, d, et leur mesure est retenuè en memoire, ou pour memorial est écrite sur elle, ou en un devis. </p>
-    <p> Ainsi les nombres 15. écrits aupres des bords du quarré, m, l, i, k, denotent que chacun des côte? de cette figure a quinxe pieds de long. </p>
-    <p> Et les nombres 1,17, écrits aupres de la ligne des élevations, x, denotent que chacune des élevations du sujet a dix-huict pieds de long, à scavoin dix-sept pieds hors terre, et un pied dans terre. </p>
-    <p> Ainsi le nombre 12. écrit aupres de la ligne, a b, denote qu'en cét exemple, cette ligne a douze pieds de long. </p>
-    <p> Ainsi le nombre 17. denote que la piece de la ligne, a g, contenuè entre les lignes, r m, et a b, se rencontre avoir dix-sept pieds de longveur, et par ce moien, ou selon cette façon de mesurer, ici davanture le sujet est derriere le tableau a dix-sept pieds loin de lui, ce qui veut dire encore quici davanture le tableau se rencontre devant le sujet a dix-sept pieds loin de lui. </p>
-    <p> Semblablement le nombre 4 de la ligne, s t, monstre quici j'œeil est éleue quatre pieds et demi de hauteur perpendiculaire au dessus du plan de j'assiete du sujet. </p>
-    <p> De même le nombre 24. signifie quici le pied de j'aeil, ou j'aeil même, est éloigné quarrement à vingt quatre pieds loin du tableau devant lui. </p>
-    <p> De méme le nombre 13 denote que la ligne, lh, a treize pieds et demi de long. </p>
-    <p> De méme j'un des nombres 9. denote que la piece de la ligne, a g, contenuè entre les lignes, r m, lh, a neuf pieds de long. </p>
-    <p> Tout de méme des nombres 3. comme encore de chacun des autres semblables. </p>
+    <p> La figure quarrée, m, l, i, k, de telle étendue qu'elle se rencontre, est l'assiete de cette
+     cage, laquelle assiete est icy posée de niveau. </p>
+    <p> La ligne, x, est la hauteur des élevations, pieds drets, ou montans de la meme cage,
+     entendus posez à plomb à son assiete un à chacun des quatre coins du quarré, m, l, i, k. </p>
+    <p> La ligne, d, est la longueur de trois thoises de l'échelle, à laquelle ont esté mesurez, les
+     bords de l'assiete de cette cage, et ses élevations, ici nommée ESCHELLE du SUJET. </p>
+    <p> La ligne, t s, est la mesure de la hauteur perpendiculaire de l'œil au dessus du plan de
+     l'assiete du sujet, laquelle hauteur d'œil rencontre ce plan au poinct, t. </p>
+    <p> Par le meme plan de cette assiete du sujet, à sçavoir à l'endret auquel est entendu que le
+     plan du tableau le rencontre est menée une ligne, a b, nommée LIGNE du PLAN du TABLEAU, de
+     façon qu'ici l'œil voit le tableau devant le sujet, ou bien l'œil voit le sujet derriere le
+     tableau. </p>
+    <p> La ligne, t c, est la distance perpendiculaire du pied de l'œil au tableau, c'est à dire, la
+     distance perpendiculaire de l'œil au meme tableau. </p>
+    <p> Par un des poincts, a, ou, b, de cette ligne, a b, comme ici par le poinct, a, dans le meme
+     plan, et de la part de l'assiete du sujet est menée une ligne indeterminée, a g, paralelle à la
+     ligne, t c. </p>
+    <p> Puis de chacun des points remarquables en l'asssiete du sujet ici des quatre coins, et du
+     milieu de l'un des côtez, du quarré, m, l, i, k, sont menées jusqu'à cette ligne, a g, des
+     lignes paralelles à la ligne, a b, comme les lignes, m r, l h, k n, e 15, et ig. </p>
+    <pb n="4"/>
+    <p> Par l'autre poinct, b, de la meme ligne, a b, est menée la ligne encore indeterminée, b q,
+     paralelle aux lignes, a g, t c. </p>
+    <p> La longueur de chacune de ces lignes ou piece remarquable d'icelles, est mesurée avec
+     l'échelle du sujet, d, et leur mesure est retenue en memoire, ou pour memorial est écrite sur
+     elle, ou en un devis. </p>
+    <p> Ainsi les nombres 15. écrits aupres des bords du quarré, m, l, i, k, denotent que chacun des
+     côtez de cette figure a quinze pieds de long. </p>
+    <p> Et les nombres 1,17, écrits aupres de la ligne des élevations, x, denotent que chacune des
+     élevations du sujet a dix-huict pieds de long, à sçavoir dix-sept pieds hors terre, et un pied
+     dans terre. </p>
+    <p> Ainsi le nombre 12. écrit aupres de la ligne, a b, denote qu'en cet exemple, cette ligne a
+     douze pieds de long. </p>
+    <p> Ainsi le nombre 17. denote que la piece de la ligne, a g, contenue entre les lignes, r m, et
+     a b, se rencontre avoir dix-sept pieds de longueur, et par ce moien, ou selon cette façon de
+     mesurer, ici davanture le sujet est derriere le tableau a dix-sept pieds loin de lui, ce qui
+     veut dire encore qu'ici davanture le tableau se rencontre devant le sujet a dix-sept pieds loin
+     de lui. </p>
+    <p> Semblablement le nombre 4 1/2 de la ligne, s t, monstre qu'ici l'œil est élevé quatre pieds
+     et demi de hauteur perpendiculaire au dessus du plan de l'assiete du sujet. </p>
+    <p> De meme le nombre 24. signifie qu'ici le pied de l'œil, ou l'œil meme, est éloigné
+     quarrement à vingt quatre pieds loin du tableau devant lui. </p>
+    <p> De meme le nombre 13 1/2 denote que la ligne, l h, a treize pieds et demi de long. </p>
+    <p> De meme l'un des nombres 9. denote que la piece de la ligne, a g, contenue entre les lignes,
+     r m, l h, a neuf pieds de long. </p>
+    <p> Tout de meme des nombres 3. comme encore de chacun des autres semblables. </p>
     <p> Et voila celle des trois preparations qui regarde le sujet, achevée. </p>
-    <p> Maintenant, la Stampe entiere est comme une planche de bois, une muraille, ou semblable chose accommodée et preparée à faire un tableau de telle étenduëm qu'il puisse estre, entendu pendant à plomb sur le plan de j'assiete du sujet, auquel plan il touche comme en la ligne, a b, dans lequel tableau su pose que j'on se propose à representer cette cage par une figure en perspective de grandeur proportionnée à celle du tableau, sans aide pour cela d'aucun poinct qui soit hors de lui, ny faire premierement ailleurs une autre perspective de largeur égale à la ligne, a b, pour apres la contretirer dans ce tableau proportionnellement, au moien du treillis ou du petit pied. </p>
+    <p> Maintenant, la Stampe entiere est comme une planche de bois, une muraille, ou semblable
+     chose accommodée et preparée à faire un tableau de telle étendue qu'il puisse estre, entendu
+     pendant à plomb sur le plan de l'assiete du sujet, auquel plan il touche comme en la ligne, a
+     b, dans lequel tableau suposé que l'on se propose à representer cette cage par une figure en
+     perspective de grandeur proportionnée à celle du tableau, sans aide pour cela d'aucun poinct
+     qui soit hors de lui, ny faire premierement ailleurs une autre perspective de largeur égale à
+     la ligne, a b, pour apres la contretirer dans ce tableau proportionnellement, au moien du
+     treillis ou du petit pied. </p>
     <p> Au bas de la Stampe. </p>
-    <p> Acette fin est menée la ligne, A B, de niveau si longue, qu'il est possible au bas du tableau corespondante à la ligne, a b. </p>
-    <p> De suite aux bouts, A, et B, d'une même part de cette ligne, AB, sont menées <pb n="8"/> menées deux autres lignes, à F, et BE, paralelles entrelles, et communément comme ici perpendiculaires à cette ligne, AB. </p>
-    <p> Puis cette ligne, AB, est divisée en autant de parties égales, que la ligne, a b, contient de pieds. </p>
-    <p> Ici la ligne, a b, contient douze pieds de long, partant la ligne, AB, est divisée en douze parties égales marquées au dessus d'elle, qui sont une échelle dautant de pieds, j'un desquels ici le septiéme, sa moitié, ou son quart est sousdivisé en ses pouces, et lignes s il en est besoin. </p>
-    <p> D'abondant est considerée la hauteur de j'œeil au dessus du plan de j'asstete du sujet, laquelle hauteur d'œeil est ici de quatre pieds et demi, et cette mesure de quatre pieds et demi, est lors prise des pieds de j'échelle ainsi faite en la ligne, AB, et portée sur chacune des deux lignes, AB, et BE, scavoir d'A en r, et de B, en E, puis est menée la ligne, » E, paralelle par ce moien à la ligne ,AB. </p>
-    <p> Davantage en cette ligne, r u, est marqué le poinct au drêt duquel on entend que j'œeil est au bout de sa distance, pointé devant le tableau, comme ici le poinct, et, au drét duquel on entend que j'aeil est vingt-quatre pieds loin à j'équiere devant le tableau. </p>
-    <p> Par ce poinct, et, d'une suite est menée la ligne, c C, paralelle à chacune des lignes, AF, et BE, sçavoir ici quarrement à la ligne, AB, de façon que j'espace, ArEn, sè trouve divisé d'aventure en deux autres espaces, dont les bords oposez, sont en chacun, des lignes paralelles enti elles, scavoir ici les espaces, GCAF, et GCBE. </p>
-    <p> Lors, ou dans tout j'espace, ABEF, ou bien dans j'un ou dans j'autre des deux moindres espaces, GCAF, et GCBE, comme ici dans j'espace, GCAF, sont menées les deux lignes, AG, et CF. </p>
-    <p> Par le poinct auquel ces deux lignes, AG, et CI, se rencontrent, est menée la ligne, uD, paralelle à la ligne, A B, laquelle ligne, iI D, rencontre la ligne, BE, au poinct, D, la ligne, e C, au poinct, r, et la ligne, AF, au poinct, H. </p>
-    <p> Puis de j'un ou de j'autre des poincts, i, ou, T, est menée une ligne dans le méme espace, gcar, à celui des poincts, e, ou, Y, qui lui est oposé diagonalement. </p>
-    <p> Si cette ligne est menée comme au bas de la Stampe du poinct, G, tendant au poinct, u, c'est la ligne, GH. </p>
-    <p> Que si cette ligne est menée comme au haut de la Stampe à main gauche, du poinct, f, tendant au poinct, t, c est la ligne, f t. </p>
-    <p> Et suposé que par les poincts, f, et t, j'on ait mené la ligne, ft, lors par le poinct auquel cette ligne, ft, rencontre la ligne, a g, est menée la ligne, nq, paralelle à ligne, a b. </p>
-    <p> Puis par le poinct auquel cette ligne, n qu, rencontre la ligne, c g, icy le poinct, o, et par le poinct, f, est menée la ligne, f o. </p>
-    <pb n="9"/>
-    <p> Puis par le poinct auquel cette ligne, fo, rencontre la ligne, a g, estmenée la ligne, su, paralelle à la ligne, a b. </p>
-    <p> Et semblable operation est continuée autant de fois qu il en est besoin. </p>
-    <p> Supose maintenant quon ait pratiqué cette operation au moien des lignes. cr et Ar, les lignes, no et sy, sont toujours au méme endrét du tableau qu'elles seroient aiant esté menées au moien des lignes, AG, et CC. </p>
-    <p> Finalement la piece de la ligne, ab, AB, laquelle se rencontre du côté de j'espace auquel on a fait une semblable operation, comme ici la piece, a c, AC, est divisée en autant de parties égales qu'en contient la distance de j'aeil au tableau. </p>
-    <p> Ici la distance de j'aeil au tableau contient vingt-quatre pieds de longveur, partant cette piece, a c, AC, de la ligne, ab, AB, est divisée en vingt-quatre parties égales marquées sous elle, qui sont comme autant de pieds, j'un desquels sa moitié ou son quart peut au besoin étre encore sousdivisé en ses pouces et lignes. </p>
-    <p> Lors est achevée j'une des deux preparations qui concernent la perspective entreprise, laquelle preparation forme une figure ici nommée ECHELLE des ELOIGNEMENs, dira qui voudra d'optique ou autrement. </p>
-    <p> Davantage, de tel poinct que ce soit commode pour j'ouvrage, en la ligne, AB, ab, comme ici du poinct, G, g, sont menées des lignes aux poincts de la premiere division en douxe pieds égaux de la ligne entiere, AB, a b. </p>
-    <p> Dans cet exemple ces lignes sont menées du poinct, G, g, seulement aux poincts de cette division, qui sont en la piece de cette ligne, AB, a b, qui se rencontre du côté de j'espace, CCBI, gcbf, laquelle est ici la piece, BC, bc, dautant qu'il sufit de cela, voire de moindre nombre : Et de méme du poinct, G, g, sont menées des lignes aux poincts de la sous-division de j'un de ces douze pieds, ici le septiéme, sa moitié ou son quart en ses pouces. </p>
-    <p> Lors est achevée j'autre des deux preparations qui concernent la perspective entreprise, laquelle preparation forme une figure en triangle, GCE, gcb, ici nommée ECHELLE des MESVRes, dira qui voudra Geometrique ou autrement, et qui dans cette maniere de pratiquer la perspective, est à j'ouvrier run outil de méme usage que le compas de proportion. </p>
-    <p> Ces deux échelles des éloignemens et des mesures pour la perspective, peuvent au besoin etre faites ailleurs, et disposées autrement au tableau même en nombre comme innombrable, de manieres diferentes qui reviennent toutes à même chose. </p>
-    <p> Et au moien du raport ou de la corespondance quil y a de j'une de ces deux échelles à j'autre, on fait ce que j'on desire en perspective. </p>
-    <p> Car avec j'échelle des éloignemens on trouve les places au tableau des aparences de chaque poinct remarquable du plan de j'assiete du sujet, et du sujet méme. </p>
-    <p> Et avec j'échelle des mesures on trouve les diverses mesures de chacune des </p>
-    <pb n="10"/>
-    <p> lignes du sujet qui sont paralelles au tableau, suivant leurs divers éloignemens au regard du tableau méme, et j'angle scus lequel elles sont veuès. </p>
-    <p> Maintenant, les lignes, a», ab, et a b, considerées comme une seule et méme ligne, il avient de ces preparations que j'aparence de la ligne, a g, est en la ligne, Ac, ag, et que j'aparence de la ligne, bq, est en la ligne, BG, bg. </p>
-    <p> Davantage, il avient que la ligne, ao, a g, se trouve retranchée du côté du bout, G, g, premierement en sa moitié, puis en sa troisième, puis en sa quatriéme partie, et ainsi de siute en autant de parties que j'on continuè de fois j'operation qui fait j'échelle des éloignemens. </p>
-    <p> De plus, il avient que le poinct du premier de ces retranchemens de la ligne, AC, a g, qui est le poinct auquel la ligne, a », h d, la rencontre, est j'aparence d'un poinct en la ligne, a g, reculé 24. pieds derriere le tableau, scavoir aussi loin du tableau derriere lui, que j'aeil est élolgné du méme tableau devant lui. </p>
-    <p> Et que le poinct du deuxième de ces retranchemens de la ligne, A0, a g, qui est celuy auquel la ligne, NO, nqu, la rencontre, est j'aparence d'un autre poinct en la ligne, a g, reculé 48. pieds derriere le tableau, scavoir deux fois aussi loin du tableau derriere lui, que j'aeil est éloigné du méme tableau devant lui. </p>
-    <p> Et que le poinct du troisième de ces retranchemens de la ligne, AG, a g, qui est celui auquel la ligne, sy, su, la rencontre est j'aparence d'un autre poinct de la ligne, a g, reculé 72. pieds derriere le tableau, scavoir trois fois aussi loin du tableau derriere lui, que j'aeil est éloigné du méme tableau devant lui. </p>
-    <p> Et semblablement des autres semblables lignes quand on continuë plus de sois j'operation qui fait j'échelle des éloignemens. </p>
-    <p> D'abondant, il avient que les mémes lignes de j'échelle des mesures qui venans du poinct, G, g, aux poincts de la premiere division en 12. pieds de la ligne, AB, ab, marquent et divisent cinq de ces 12. pieds en la piece, BC, be, de cette ligne, A B, a b, les mèmes lignes marquent et divisent les pieces qu'elles rencontrent des lignes, uD, hd, NQ, nq, sy, su, et de leurs paralelles chacune de méme en cinqu pieds égaux entreux, qui sont autant d'échelles diferentes pour les diverses mesures des aparences des lignes du sujet, paralelles au tableau, et situees à divers éloignemens au regard du tableau même. </p>
-    <p> Il avient finalement de ces preparations, que la ligne, AB, a b, contenant 12. pieds de long, la ligne, H D, hd, en contient 24. la ligne, NO, nq, 36. et la ligne, sv, su, 48. cét à scavoir chacune de ceux que j'échelle des mesures marque en la piece qu elle en rencontre. </p>
-    <p> Desquelles choses il est evident que la ligne, un, est j'aparente d'une ligne du plan de j'assiete du sujet, paralelle a la ligne, a b, et reculée 24. pieds <pb n="11"/> derriere le tableau. Mais le poinct, m, n'est reculé que 17. pieds derriere le tableau méme, donc ce poinct, m, est en une ligne, comme, r m, paralelle à la ligne, a b, et reculée 7. pieds moins du tableau derriere lui, que n'en est recutée celle que la ligne, HD, represente. </p>
+    <p> A cette fin est menée la ligne, A B, de niveau si longue, qu'il est possible au bas du
+     tableau corespondante à la ligne, a b. </p>
+    <p> De suite aux bouts, A et B, d'une meme part de cette ligne, AB, sont <pb n="5"/> menées deux
+     autres lignes, A F, et B E, paralelles entr'elles, et communément comme ici perpendiculaires à
+     cette ligne, A B. </p>
+    <p> Puis cette ligne, AB, est divisée en autant de parties égales, que la ligne, a b, contient
+     de pieds. </p>
+    <p> Ici la ligne, a b, contient douze pieds de long, partant la ligne, A B, est divisée en douze
+     parties égales marquées au dessus d'elle, qui sont une échelle dautant de pieds, l'un desquels
+     ici le septiéme, sa moitié, ou son quart est sous-divisé en ses pouces, et lignes s'il en est
+     besoin. </p>
+    <p> D'abondant est considerée la hauteur de l'œil au dessus du plan de l'assiete du sujet,
+     laquelle hauteur d'œil est ici de quatre pieds et demi, et cette mesure de quatre pieds et
+     demi, est lors prise des pieds de l'échelle ainsi faite en la ligne, A B, et portée sur chacune
+     des deux lignes, A F, et B E, sçavoir d'A en F, et de B, en E, puis est menée la ligne, F E,
+     paralelle par ce moien à la ligne, A B. </p>
+    <p> Davantage en cette ligne, F E, est marqué le poinct au dret duquel on entend que l'œil est
+     au bout de sa distance, pointé devant le tableau, comme ici le poinct, et, au dret duquel on
+     entend que l'œil est vingt-quatre pieds loin à l'équiere devant le tableau. </p>
+    <p> Par ce poinct, G, d'une suite est menée la ligne, G C, paralelle à chacune des lignes, A F,
+     et B E, sçavoir ici quarrement à la ligne, A B, de façon que l'espace, A F E B, se trouve
+     divisé d'aventure en deux autres espaces, dont les bords oposez, sont en chacun, des lignes
+     paralelles entr'elles, scavoir ici les espaces, G C A F, et G C B E. </p>
+    <p> Lors, ou dans tout l'espace, A B E F, ou bien dans l'un ou dans l'autre des deux moindres
+     espaces, G C A F, et G C B E, comme ici dans l'espace, G C A F, sont menées les deux lignes, A
+     G, et C F. </p>
+    <p> Par le poinct auquel ces deux lignes, A G, et C F, se rencontrent, est menée la ligne, H D,
+     paralelle à la ligne, A B, laquelle ligne, H D, rencontre la ligne, B E, au poinct, D, la
+     ligne, G C, au poinct, T, et la ligne, A F, au poinct, H. </p>
+    <p> Puis de l'un ou de l'autre des poincts, H, ou, T, est menée une ligne dans le meme espace, G
+     C A F, à celui des poincts, G, ou, F, qui lui est oposé diagonalement. </p>
+    <p> Si cette ligne est menée comme au bas de la Stampe du poinct, G, tendant au poinct, H, c'est
+     la ligne, G H. </p>
+    <p> Que si cette ligne est menée comme au haut de la Stampe à main gauche, du poinct, f, tendant
+     au poinct, t, c est la ligne, f t. </p>
+    <p> Et suposé que par les poincts, f, et t, l'on ait mené la ligne, f t, lors par le poinct
+     auquel cette ligne, f t, rencontre la ligne, a g, est menée la ligne, a g, paralelle à ligne, a
+     b. </p>
+    <p> Puis par le poinct auquel cette ligne, n q, rencontre la ligne, c g, icy le poinct, o, et
+     par le poinct, f, est menée la ligne, f o. </p>
+    <pb n="6"/>
+    <p> Puis par le poinct auquel cette ligne, f o, rencontre la ligne, a g, est menée la ligne, s
+     u, paralelle à la ligne, a b. </p>
+    <p> Et semblable operation est continuée autant de fois qu'il en est besoin. </p>
+    <p> Suposé maintenant quon ait pratiqué cette operation au moien des lignes, C F et A F, les
+     lignes, N Q et S V, sont toujours au meme endret du tableau qu'elles seroient aiant esté menées
+     au moien des lignes, A G, et C G. </p>
+    <p> Finalement la piece de la ligne, a b, A B, laquelle se rencontre du côté de l'espace auquel
+     on a fait une semblable operation, comme ici la piece, a c, A C, est divisée en autant de
+     parties égales qu'en contient la distance de l'œil au tableau. </p>
+    <p> Ici la distance de l'œil au tableau contient vingt-quatre pieds de longueur, partant cette
+     piece, a c, A C, de la ligne, a b , A B, est divisée en vingt-quatre parties égales marquées
+     sous elle, qui sont comme autant de pieds, l'un desquels sa moitié ou son quart peut au besoin
+     etre encore sous-divisé en ses pouces et lignes. </p>
+    <p> Lors est achevée l'une des deux preparations qui concernent la perspective entreprise,
+     laquelle preparation forme une figure ici nommée ECHELLE des ELOIGNEMENS, dira qui voudra
+     d'optique ou autrement. </p>
+    <p> Davantage, de tel poinct que ce soit commode pour l'ouvrage, en la ligne, A B, a b, comme
+     ici du poinct, G, g, sont menées des lignes aux poincts de la premiere division en douze pieds
+     égaux de la ligne entiere, A B, a b. </p>
+    <p> Dans cet exemple ces lignes sont menées du poinct, G, g, seulement aux poincts de cette
+     division, qui sont en la piece de cette ligne, A B, a b, qui se rencontre du côté de l'espace,
+     G C B F, g c b f, laquelle est ici la piece, B C, b c, dautant qu'il sufit de cela, voire de
+     moindre nombre : Et de meme du poinct, G, g, sont menées des lignes aux poincts de la
+     sous-division de l'un de ces douze pieds, ici le septieme, sa moitié ou son quart en ses
+     pouces. </p>
+    <p> Lors est achevée l'autre des deux preparations qui concernent la perspective entreprise,
+     laquelle preparation forme une figure en triangle, GCE, gcb, ici nommée ECHELLE des MESURES,
+     dira qui voudra Geometrique ou autrement, et qui dans cette maniere de pratiquer la
+     perspective, est à l'ouvrier un outil de meme usage que le compas de proportion. </p>
+    <p> Ces deux échelles des éloignemens et des mesures pour la perspective, peuvent au besoin etre
+     faites ailleurs, et disposées autrement au tableau meme en nombre comme innombrable, de
+     manieres diferentes qui reviennent toutes à meme chose. </p>
+    <p> Et au moien du raport ou de la corespondance quil y a de l'une de ces deux échelles à
+     l'autre, on fait ce que l'on desire en perspective. </p>
+    <p> Car avec l'échelle des éloignemens on trouve les places au tableau des aparences de chaque
+     poinct remarquable du plan de l'assiete du sujet, et du sujet meme. </p>
+    <p> Et avec l'échelle des mesures on trouve les diverses mesures de chacune des </p>
+    <pb n="7"/>
+    <p> lignes du sujet qui sont paralelles au tableau, suivant leurs divers éloignemens au regard
+     du tableau meme, et l'angle sous lequel elles sont veus. </p>
+    <p> Maintenant, les lignes, A B, a b, et a b, considerées comme une seule et meme ligne, il
+     avient de ces preparations que l'aparence de la ligne, a g, est en la ligne, A G, a g, et que
+     l'aparence de la ligne, b q, est en la ligne, B G, b g. </p>
+    <p> Davantage, il avient que la ligne, A G, a g, se trouve retranchée du côté du bout, G, g,
+     premierement en sa moitié, puis en sa troisieme, puis en sa quatrieme partie, et ainsi de suite
+     en autant de parties que l'on continue de fois l'operation qui fait l'échelle des éloignemens. </p>
+    <p> De plus, il avient que le poinct du premier de ces retranchemens de la ligne, A G, a g, qui
+     est le poinct auquel la ligne, H D, h d, la rencontre, est l'aparence d'un poinct en la ligne,
+     a g, reculé 24. pieds derriere le tableau, sçavoir aussi loin du tableau derriere lui, que
+     l'œil est éloigné du meme tableau devant lui. </p>
+    <p> Et que le poinct du deuxième de ces retranchemens de la ligne, A G, a g, qui est celuy
+     auquel la ligne, N Q, n q, la rencontre, est l'aparence d'un autre poinct en la ligne, a g,
+     reculé 48. pieds derriere le tableau, sçavoir deux fois aussi loin du tableau derriere lui, que
+     l'œil est éloigné du meme tableau devant lui. </p>
+    <p> Et que le poinct du troisième de ces retranchemens de la ligne, A G, a g, qui est celui
+     auquel la ligne, S V, s u la rencontre est l'aparence d'un autre poinct de la ligne, a g,
+     reculé 72. pieds derriere le tableau, scavoir trois fois aussi loin du tableau derriere lui,
+     que l'œil est éloigné du meme tableau devant lui. </p>
+    <p> Et semblablement des autres semblables lignes quand on continue plus de fois l'operation qui
+     fait l'échelle des éloignemens. </p>
+    <p> D'abondant, il avient que les memes lignes de l'échelle des mesures qui venans du poinct, G,
+     g, aux poincts de la premiere division en 12. pieds de la ligne, A B, a b, marquent et divisent
+     cinq de ces 12. pieds en la piece, B C, b c, de cette ligne, A B, a b, les memes lignes
+     marquent et divisent les pieces qu'elles rencontrent des lignes, H D, h d, N Q, n q, S V, su,
+     et de leurs paralelles chacune de meme en cinq pieds égaux entr'eux, qui sont autant d'échelles
+     diferentes pour les diverses mesures des aparences des lignes du sujet, paralelles au tableau,
+     et situées à divers éloignemens au regard du tableau meme. </p>
+    <p> Il avient finalement de ces preparations, que la ligne, A B, a b, contenant 12. pieds de
+     long, la ligne, H D, hd , en contient 24. la ligne, N Q, n q, 36. et la ligne, S V, s u, 48.
+     cet à sçavoir chacune de ceux que l'échelle des mesures marque en la piece qu'elle en
+     rencontre. </p>
+    <p> Desquelles choses il est evident que la ligne, H D, est l'aparente d'une ligne du plan de
+     l'assiete du sujet, paralelle à la ligne, a b, et reculée 24. pieds <pb n="8"/> derriere le
+     tableau. Mais le poinct, m, n'est reculé que 17. pieds derriere le tableau meme, donc ce
+     poinct, m, est en une ligne, comme, r m, paralelle à la ligne, a b, et reculée 7. pieds moins
+     du tableau derriere lui, que n'en est reculée celle que la ligne, H D, represente. </p>
     <p> L'aparence de ce poinct, m, est donc trouvée en cette façon. </p>
-    <p> Premierement, avec j'échelle des éloignemens est trouvé un poinct en la ligne, AG, qui soit j'aparence d'un poinct en la ligne, a g, reculé 17. pieds loin du tableau, c est à dire, est premierement trouvëe j'aparence du poinct, r, et pour ce faire, du poinct, r, est menée une ligne au poinct qui marque la 17, et la separe d'avec la 18° des 24. parties égales de la ligne, aC, et le poinct auquel cette ligne ainsi menée rencontre la ligne, Ao, ici le poinct, n, est j'aparence d un poinct en la ligne, a g, reculé 17. pieds loin du tableau, c est à dire, que le poinct, R, est j'aparence du poinct, r, puis par le poinct, R, est menée la ligne, RM, paralelle à la ligne, aB, laquelle ligne, nM, est j'aparence de la ligne, rm, en laquelle est le poinct, m, partant j'aparence du poinct, m, esi en cette ligne, RM. </p>
-    <p> Et dautant què le poinct, m, est en la ligne, rm, à dréte de la ligne, a g. un pied et demi loin du poinct, r, la ligne, r M, alongée qu elle traversè j'échelle des mesures, lors avec un compas commun est prisè la longveur d'un pied et demi, de ceux que j'échelle des mesures marque en cette ligne, RM, et le compas ouvert de cette mesure, une de ses iambes est aiustéè au poinct, Ir, et son autre iambe est tournée à dréte de la ligne, aC, et arrestée sur la méme ligne, RM, et comme au poinct, M, lequel est j'aparence du poinct, m. </p>
+    <p> Premierement, avec l'échelle des éloignemens est trouvé un poinct en la ligne, A G, qui soit
+     l'aparence d'un poinct en la ligne, a g, reculé 17. pieds loin du tableau, c'est à dire, est
+     premierement trouvée l'aparence du poinct, r, et pour ce faire, du poinct, F, est menée une
+     ligne au poinct qui marque la 17e, et la separe d'avec la 18e des 24. parties égales de la
+     ligne, A C, et le poinct auquel cette ligne ainsi menée rencontre la ligne, A G, ici le poinct,
+     R, est l'aparence d'un poinct en la ligne, a g, reculé 17. pieds loin du tableau, c'est à dire,
+     que le poinct, R, est l'aparence du poinct, r, puis par le poinct, R, est menée la ligne, RM,
+     paralelle à la ligne, A B, laquelle ligne, R M, est l'aparence de la ligne, r m, en laquelle
+     est le poinct, m, partant l'aparence du poinct, m, est en cette ligne, R M. </p>
+    <p> Et dautant que le poinct, m, est en la ligne, r m, à drete de la ligne, a g, un pied et demi
+     loin du poinct, r, la ligne, R M, alongée qu'elle traverse l'échelle des mesures, lors avec un
+     compas commun est prise la longueur d'un pied et demi, de ceux que l'échelle des mesures marque
+     en cette ligne, R M, et le compas ouvert de cette mesure, une de ses jambes est ajustée au
+     poinct, R, et son autre jambe est tournée à drete de la ligne, A G, et arrestée sur la meme
+     ligne, R M, et comme au poinct, M, lequel est l'aparence du poinct, m. </p>
     <p> L'aparence du poinct, k, est trouvée en la façon qui suit. </p>
-    <p> Consideré que la ligne, a r, à 17. pieds de long, la ligne, rh, en à 9. et la ligne, hn, en à 3. aiant aiousté ces trois nombres 17, 9, et 3, leur somme est 29. de façon que ce poinct, k, se rencontre en une ligne paralelle à la ligne, a b, et reculée 29. pieds loin du tableau derriere lui, scavoir est cinq pieds davantage loin que n'en est reculée celle que la ligne, uD, represente. </p>
-    <p> En ce cas, Premierement avec j'échelle des éloignemens est trouvée en la ligne, aS, j'aparence d'un poinct'en la ligne, a g, reculé 29. pieds loin du tableau, c'est à dire, cinqui pieds davantage loin que n en est reculée la ligne que la ligne, iI D, represente et pour ce faire, du poinct, o, est menée une ligne au poinct qui marque la 5'et la separe d'avec la 6 des 24. parties égales de la ligne, a c. Par le poinct auquel la ligne ainsi menée rencontre la ligne, HI D, est menée une autre ligne au poinct, i, et le poinct auquel cette derniere ligne rencontre la ligne, AG, est j'aparence du poinct, n, puis par cette aparence du poinct, n, est menée une ligne paralelle à la ligne, an, laquelle est j'aparence de la ligne, n'k, en laquelle est le poinct, k, partant j'aparence du poinct, k, est en cette derniere ligne. </p>
-    <p> Et dautant que le poinct, k, est en la ligne, n k, à gauche de la ligne, a g. sept pieds et demi loin du poinct, n, aiant alongé la ligne derniere menée au <pb n="12"/> Les lignes, L ff, x fr, et j'sp, aparences des élevations du sujet sur les autres poincts, l, k, i, de son assiete quarrée, m, l, i, k, et longues aussi chacune de 17. pieds, sont trouvées de méme façon que j'aparence, m st, bien en. tendu que les 17. pieds dont chacune de ces aparences est longue, sont de ceux que j'échelle des mesures marque en la ligne menée par son bout d'embas paralelle à la ligne, AB. </p>
-    <p> tableau paralelle à la ligne, a n d'est à dire celle qui est j'aparence de la ligne kn, asin qu elle traverse j'échelle des mesures ; lors avec un compas commun sont pris 7. pieds et demi de ceux que j'échelle des mesures y marque, et le compas ouvert de cette mesure, une de sès iambes est aiustée à j'aparence du poinct, n, et son autre iambe tournée a gauche de là ligne, AG, et arrestée sur la méme ligne ainsi derniere menée, et comme au poinct, x, lequel par ce moien est j'aparence du poinct, k. </p>
-    <p> Si j'on vouioit avoir en la ligne, NG, j'aparence d un poinct en la ligne, ag, reculé 53. pieds loin derriere le tableau, scavoir 5. pieds davantage loin que n en est reculée la ligne que represente la ligne, NO. En ce cas aiant mené la ligne du poinct, C, au poinct qui marque la 5', et la separe d'avec la 6'des 24. parties égales de la ligne, aC, lors du poinct auquel cette ligne ainsi menée rencontre la ligne, NO, j'on meneroit une ligne au poinct, r, laquelle rencontreroit la ligne, AG, en un poinct lequel est j'aparence d un poinct en la ligne, a g, reculé 5. pieds davantage loin du tableau que n en est reculée la ligne, qui la ligne, NO, represente, et ainsi des semblables. </p>
-    <p> Les poincts, L, et 1, aparences des poincts, l, et i, sont trouvés en la même façon. </p>
-    <p> Apres sont menées convenablement de poinct en poinct les lignes, ML)MK, xI, et LI, qui sont les aparences chacune de sa corespondante des côtez,, ml, mk, ki, et li, du quarré, m, l, i, k. </p>
-    <p> Maintenant pour trouver j'aparence d'un poinct élevé 17. pieds à plomb au dessus du poinct, m. Par le poinct, M, est menee de la part de la ligne, FE, une ligne, M st, perpendiculaire à la ligne, AB, et cette ligne, M st, est faite égale a 17. des pieds que j'échelle des mesures marque en la ligne, MR, ainsi la ligne, M st, est j'aparence de j'élevation du sujet, haute de 17. pieds à plomb sur le poinct, m. </p>
-    <p> Pour avoir les aparences des abaissemens du sujet un pied sous les mêmes poincts, m, l, i, k, et par les mémes lignes des élevations, on alonge par embas les aparences de ces élevations chacune un pied de long de sa mesure propre et particuliere ; et par les poincts bas du pied dont ces aparences là sont alongees, on méne des lignes convenables desquelles on marque ce que le dehors œeuvre en j'assiete du sujet, n empesche pas d'etre veu comme le montre la figure du bas de la Stampe. </p>
-    <p> Dabondant la ligne, Z, longue de 13. pieds un quart, étant la mesure à plomb de te, dont le poinct auquel aboutissent les arétiers du couvert, est éleue <pb n="13"/> dessis le poinct milieu de j'assiete du sujet plus haut que chacune de ses encoigneures, les aparences de ces arétiers sont trouvées en la méme façon. </p>
-    <p> Car aiant au moien ci-dessus trouvé le poinct, a, aparence du poinct auquel aboutissent les arétiers au festè du sujet, lors de chacun des poincts hauts des aparences des élevations des encoigneures ici des poincts, st, ff, fr, et sp. sont menées à ce poinct, ae, les lignes, st a, ffa, fr a, et sp E, lesquelles sont les aparences chacune de sa corespondante des lignes de ces arétiers. </p>
-    <p> Les lignes, N, z, W, et N. sont jes mesures des hauteurs de quelques personnes debout en divers endréts du plan de j'assiete du sujet. </p>
-    <p> La ligne, x, est la mesure de la hauteur d'une personne debout sur le fonds du creux de la cage, lequel fonds est suposé de niveau comme celui d'un bassin de fontaine. </p>
-    <p> La ligne, ss, est j'aparence d'une ligne de 12. pieds de long, qui pose d'un bout sur le plan ae j'assiete du sujet en la ligne alongée, hl, 4. pieds 9, pouces loin du poinct, l, et apuie de j'autre bout au montant que la ligne, Lff, represente. </p>
-    <p> La ligne, x, est j'aparence d'une ligne de 5. pieds de long, suspenduë où pendante à plomb du milieu de la cime de j'un des flancs du sujet. </p>
-    <p> Ces aparences là, celles de chacun des membres des ornemens de j'architecture, celles de la cheute des ombres, et generalement les aparences de toute chose telle quelle puisse estre de nature à representer en portraiture, moiennam les interuales convenables coneùis sont ainsi trouvez, en un tableau plat de quelque façon et biais qu il soit disposé, pendant à plomb en plat fonds, ou penchant d'un ou d'autre côté devant j'œeil, soit que le poinct quon nomme à j'ordinaire poinct de veuè, se rencontre dans ce tableau, soit qu'il en soit hors ; mais en chacune de ces diferentes circonstances, il y a matiere de nombre d'exemples diferens comme de plusieurs figures : outre que j'intelligence de cette maniere de faire les tableaux plats, conduit aisément au moien de faire les tableaux en toute autre espece de surface, et des filets atachez, aux poinct, F et C, releuent j'ouvrier de beaucoup de lignes fausses. </p>
-    <p> Il y a régle aussi de la place du fort et du féble coulory, dont la demonstration est mélée en partie de Geometrie, en partie de Phisique, et ne se trouque en <placeName ref="#France">France</placeName> encore expliquée en aucun livre public. </p>
-    <p> Pour les divers rencontres en cét art, il y a des moiens particuliers de les expedier chacun aisément à la façon de cét exemple et autrement, ou bien avec des instrumens fondés en demonstration Geometrique, desquels il y a diverses façons. </p>
-    <p> Les uns pour copier diligemment tout sujet plat en plus petit, égal, ou plus grand, et le mêtre de même en perspectivie avec ses élevations, de quelque façon, biais et distance que ce soit, aussi promptement qu on j'auroit copié </p>
-    <p> Les autres pour dessiner exactement le sujet en le voiant par une figure plus petite, égale, ou plus grande, et semblablement posée que celle qui vien <pb n="14"/> droit au plan mênme auquel j'instrument est apliqué, desquels instrumens, ou de j'un d'eux, a été fait à <placeName ref="#Rome">Rome</placeName> un traité deux ans environ apres le privilege des presentes séelé en <placeName ref="#France">France</placeName>, lequel traité de <placeName ref="#Rome">Rome</placeName> ne contient pas le moien d'avoir la figure d'aparence, égale et disposée comme celle qui se fait au même plan auquel j'instrument est apliqué. </p>
-    <p> Il y a de méme des manieres universelles et demonstrées, touchant la pratique du trait pour la coupe des pierres en j'Architecture, avec les preuves pour conétre si j'on a procedé bien exactement à j'execution. </p>
-    <p> Il y a de suite des manieres universelles aussi demontrées pour tracer les quadrans solaires avec la régle, le compas, le plomb et j'equiere communs, en toutes les surfaces plates generalement, ou j'essieu du monde est convenablement apliqué, de quelque sens ou biais qu'elles soient étendues. </p>
+    <p> Consideré que la ligne, a r, a 17. pieds de long, la ligne, r h, en a 9. et la ligne, h n,
+     en a 3. aiant ajousté ces trois nombres 17, 9, et 3, leur somme est 29. de façon que ce poinct,
+     k, se rencontre en une ligne n k paralelle à la ligne, a b, et reculée 29. pieds loin du
+     tableau derriere lui, sçavoir est cinq pieds davantage loin que n'en est reculée celle que la
+     ligne, H D, represente. </p>
+    <p> En ce cas, Premierement avec l'échelle des éloignemens est trouvée en la ligne, A G,
+     l'aparence d'un poinct n en la ligne, a g, reculé 29. pieds loin du tableau, c'est à dire, cinq
+     pieds davantage loin que n'en est reculée la ligne que la ligne, H D, represente; et pour ce
+     faire, du poinct, G, est menée une ligne au poinct qui marque la 5e et la separe d'avec la 6e
+     des 24. parties égales de la ligne, A C. Par le poinct auquel la ligne ainsi menée rencontre la
+     ligne, H D, est menée une autre ligne au poinct, F, et le poinct auquel cette derniere ligne
+     rencontre la ligne, A G, est l'aparence du poinct, n, puis par cette aparence du poinct, n, est
+     menée une ligne paralelle à la ligne, A B, laquelle est l'aparence de la ligne, n k, en
+     laquelle est le poinct, k, partant l'aparence du poinct, k, est en cette derniere ligne. </p>
+    <p> Et dautant que le poinct, k, est en la ligne, n k, à gauche de la ligne, a g, sept pieds et
+     demi loin du poinct, n, aiant alongé la ligne derniere menée au <pb n="9"/> tableau paralelle à
+     la ligne, A B, c'est à dire celle qui est l'aparence de la ligne k n, afin qu'elle traverse
+     l'échelle des mesures ; lors avec un compas commun sont pris 7. pieds et demi de ceux que
+     l'échelle des mesures y marque, et le compas ouvert de cette mesure, une de ses jambes est
+     ajustée à l'aparence du poinct, n, et son autre jambe tournée à gauche de la ligne, A G, et
+     arrestée sur la meme ligne ainsi derniere menée, et comme au poinct, K, lequel par ce moien est
+     l'aparence du poinct, k. </p>
+    <p> Si l'on vouloit avoir en la ligne, A G, l'aparence d'un poinct en la ligne, a g, reculé 53.
+     pieds loin derriere le tableau, sçavoir 5. pieds davantage loin que n'en est reculée la ligne
+     que represente la ligne, N Q. En ce cas aiant mené la ligne du poinct, G, au poinct qui marque
+     la 5e, et la separe d'avec la 6e des 24. parties égales de la ligne, A C, lors du poinct auquel
+     cette ligne ainsi menée rencontre la ligne, N Q, l'on meneroit une ligne au poinct, F, laquelle
+     rencontreroit la ligne, A G, en un poinct lequel est l'aparence d un poinct en la ligne, a g,
+     reculé 5. pieds davantage loin du tableau que n'en est reculée la ligne, que la ligne, N Q,
+     represente, et ainsi des semblables. </p>
+    <p> Les poincts, L, et I, aparences des poincts, l, et i, sont trouvés en la meme façon. </p>
+    <p> Apres sont menées convenablement de poinct en poinct les lignes, M L, M K, K I, et L I, qui
+     sont les aparences chacune de sa corespondante des côtez, m l, m k, k i, et l i, du quarré, m,
+     l, i, k. </p>
+    <p> Maintenant pour trouver l'aparence d'un poinct élevé 17. pieds à plomb au dessus du poinct,
+     m. Par le poinct, M, est menee de la part de la ligne, F E, une ligne, M st, perpendiculaire à
+     la ligne, A B, et cette ligne, M st, est faite égale a 17. des pieds que l'échelle des mesures
+     marque en la ligne, M R, ainsi la ligne, M st, est l'aparence de l'élevation du sujet, haute de
+     17. pieds à plomb sur le poinct, m. </p>
+    <p>Les lignes, L ff, k fr, et I ∫p, aparences des élevations du sujet sur les autres poincts, l,
+     k, i, de son assiete quarrée, m, l, i, k, et longues aussi chacune de 17. pieds, sont trouvées
+     de meme façon que l'aparence, M st, bien en. tendu que les 17. pieds dont chacune de ces
+     aparences est longue, sont de ceux que l'échelle des mesures marque en la ligne menée par son
+     bout d'embas paralelle à la ligne, A B. </p>
+    <p> Pour avoir les aparences des abaissemens du sujet un pied sous les memes poincts, m, l, i,
+     k, et par les memes lignes des élevations, on alonge par embas les aparences de ces élevations
+     chacune un pied de long de sa mesure propre et particuliere ; et par les poincts bas du pied
+     dont ces aparences là sont alongées, on mene des lignes convenables desquelles on marque ce que
+     le dehors œuvre en l'assiete du sujet, n'empesche pas d'etre veu comme le montre la figure du
+     bas de la Stampe. </p>
+    <p> Dabondant la ligne, Z, longue de 13. pieds un quart, étant la mesure à plomb de ce, dont le
+     poinct auquel aboutissent les aretiers du couvert, C est élevé <pb n="10"/> dessus le poinct
+     milieu de l'assiete du sujet plus haut que chacune de ses encoigneures, les aparences de ces
+     aretiers sont trouvées en la meme façon. </p>
+    <p> Car aiant au moien ci-dessus trouvé le poinct, Æ, aparence du poinct auquel aboutissent les
+     aretiers au feste du sujet, lors de chacun des poincts hauts des aparences des élevations des
+     encoigneures ici des poincts, st, ff, fr, et ∫p, sont menées à ce poinct, Æ, les lignes, st Æ,
+     ff Æ, fr Æ, et ∫p Æ, lesquelles sont les aparences chacune de sa corespondante des lignes de
+     ces aretiers. </p>
+    <p> Les lignes, XV, z, W, et RX. sont les mesures des hauteurs de quelques personnes debout en
+     divers endrets du plan de l'assiete du sujet. </p>
+    <p> La ligne, *, est la mesure de la hauteur d'une personne debout sur le fonds du creux de la
+     cage, lequel fonds est suposé de niveau comme celui d'un bassin de fontaine. </p>
+    <p> La ligne, ß, est l'aparence d'une ligne de 12. pieds de long, qui pose d'un bout sur le plan
+     de l'assiete du sujet en la ligne alongée, h l, 4. pieds 9, pouces loin du poinct, l, et apuie
+     de l'autre bout au montant que la ligne, L ff, represente. </p>
+    <p> La ligne, x, est l'aparence d'une ligne de 5. pieds de long, suspendue ou pendante à plomb
+     du milieu de la cime de l'un des flancs du sujet. </p>
+    <p> Ces aparences là, celles de chacun des membres des ornemens de l'architecture, celles de la
+     cheute des ombres, et generalement les aparences de toute chose telle quelle puisse estre de
+     nature à representer en portraiture, moiennant les intervales convenables coneus sont ainsi
+     trouvez, en un tableau plat de quelque façon et biais qu'il soit disposé, pendant à plomb en
+     plat fonds, ou penchant d'un ou d'autre côté devant l'œil, soit que le poinct qu'on nomme à
+     l'ordinaire poinct de veue, se rencontre dans ce tableau, soit qu'il en soit hors ; mais en
+     chacune de ces diferentes circonstances, il y a matiere de nombre d'exemples diferens comme de
+     plusieurs figures : outre que l'intelligence de cette maniere de faire les tableaux plats,
+     conduit aisément au moien de faire les tableaux en toute autre espece de surface, et des filets
+     atachez, aux poinct, F et G, relevent l'ouvrier de beaucoup de lignes fausses. </p>
+    <p> Il y a regle aussi de la place du fort et du feble coulory, dont la demonstration est mélée
+     en partie de Geometrie, en partie de Phisique, et ne se trouve en <placeName ref="#France"
+      >France</placeName> encore expliquée en aucun livre public. </p>
+    <p> Pour les divers rencontres en cet art, il y a des moiens particuliers de les expedier chacun
+     aisément à la façon de cet exemple et autrement, ou bien avec des instrumens fondés en
+     demonstration Geometrique, desquels il y a diverses façons. </p>
+    <p> Les uns pour copier diligemment tout sujet plat en plus petit, égal, ou plus grand, et le
+     metre de meme en perspectivie avec ses élevations, de quelque façon, biais et distance que ce
+     soit, aussi promptement qu on l'auroit copié </p>
+    <p> Les autres pour dessiner exactement le sujet en le voiant par une figure plus petite, égale,
+     ou plus grande, et semblablement posée que celle qui viendroit <pb n="11"/> au plan meme auquel
+     l'instrument est apliqué, desquels instrumens, ou de l'un d'eux, a été fait à <placeName
+      ref="#Rome">Rome</placeName> un traité deux ans environ apres le privilege des presentes seelé
+     en <placeName ref="#France">France</placeName>, lequel traité de <placeName ref="#Rome"
+      >Rome</placeName> ne contient pas le moien d'avoir la figure d'aparence, égale et disposée
+     comme celle qui se fait au meme plan auquel l'instrument est apliqué. </p>
+    <p> Il y a de meme des manieres universelles et demonstrées, touchant la pratique du trait pour
+     la coupe des pierres en l'Architecture, avec les preuves pour conetre si l'on a procedé bien
+     exactement à l'execution. </p>
+    <p> Il y a de suite des manieres universelles aussi demontrées pour tracer les quadrans solaires
+     avec la regle, le compas, le plomb et l'equiere communs, en toutes les surfaces plates
+     generalement, ou l'essieu du monde est convenablement apliqué, de quelque sens ou biais
+     qu'elles soient étendues. </p>
     <figure type="ornement"/>
-    <p> En ce reste de place les contemplatifs auront quelques propositions lesquelles peuvent etre enoncées autrement pour diverses matieres, mais elles sont accommodées ici pour la perspective, et la demonstration en est asse? intelligible sans figure, puis que toutes les lignes y sont encore entenduës drêtes, et les tableaux toujours plats. Il est vrai qu en fin c est une fourmiliere de grandes propositions, abondante en lieux. </p>
-    <p> Aiant imaginé qu au centre immobile de j'aeil passe une ligne indeterminée et mobile ailleurs de son long en tous sens, une telle ligne est ici nommée LigNe de LoEIL, laquelle au besoin est menée paralelle à telle autre ligne que ce soit. </p>
-    <p> Quand le sujet est un poinct, et que des poincts de sujet et de j'aeil, sont menées jusqu au tableau des lignes paralelles entre elles, j'aparence du sujet est en la ligne menée par les poincts ausquels ces paralelles rencontrent le tableau, dautant que ces paralelles, et cette ligne ainsi menée au tableau, sont en un même plan entr'elles. </p>
-    <p> Quand le sujet est des lignes, elles sont, ou bien paralelles, ou bien inclinées entr elles. </p>
-    <p> Quand des lignes sujet sont paralelles enti elles, la ligne de j'aeil menée paralelle à icelles, est ou bien paralelle, ou bien non paralelle au tableau, mais toujours chacune de ces lignes sujet, est en un même plan avec cette ligne de j'œeil, en laquelle tous ces plans s entre-coupent ainsi qu en leur commun esssieu. </p>
-    <p> Quand des lignes sujet sont paralelles entr elles, et que la ligne de j'aeil menée paralelle à icelles est paralelle au tableau, les aparences de ces lignes sujet sont des lignes paralelles entr elles, aux lignes sujet, et à la ligne de j'aeil, a causè que chacune de ces lignes sujet est en un même plan avec cette ligne de j'aeil, en laquelle tous ces plans s entre-coupent ainsi qu en leur commun essieu, et que tous ces plans sont coupez, d'un autre méme plan le tableau. </p>
+    <p> En ce reste de place les contemplatifs auront quelques propositions lesquelles peuvent etre
+     enoncées autrement pour diverses matieres, mais elles sont accommodées ici pour la perspective,
+     et la demonstration en est assez intelligible sans figure, puis que toutes les lignes y sont
+     encore entendues dretes, et les tableaux toujours plats. Il est vrai qu'en fin c'est une
+     fourmiliere de grandes propositions, abondante en lieux. </p>
+    <p> Aiant imaginé qu'au centre immobile de l'œil passe une ligne indeterminée et mobile ailleurs
+     de son long en tous sens, une telle ligne est ici nommée LIGNE DE L'ŒIL, laquelle au besoin est
+     menée paralelle à telle autre ligne que ce soit. </p>
+    <p> Quand le sujet est un poinct, et que des poincts de sujet et de l'œil, sont menées jusq'au
+     tableau des lignes paralelles entre elles, l'aparence du sujet est en la ligne menée par les
+     poincts ausquels ces paralelles rencontrent le tableau, dautant que ces paralelles, et cette
+     ligne ainsi menée au tableau, sont en un meme plan entr'elles. </p>
+    <p> Quand le sujet est des lignes, elles sont, ou bien paralelles, ou bien inclinées entr'elles. </p>
+    <p> Quand des lignes sujet sont paralelles entr'elles, la ligne de l'œil menée paralelle à
+     icelles, est ou bien paralelle, ou bien non paralelle au tableau, mais toujours chacune de ces
+     lignes sujet, est en un meme plan avec cette ligne de l'œil, en laquelle tous ces plans
+     s'entre-coupent ainsi qu'en leur commun essieu. </p>
+    <p> Quand des lignes sujet sont paralelles entr'elles, et que la ligne de l'œil menée paralelle
+     à icelles est paralelle au tableau, les aparences de ces lignes sujet sont des lignes
+     paralelles entr'elles, aux lignes sujet, et à la ligne de l'œil, à cause que chacune de ces
+     lignes sujet est en un meme plan avec cette ligne de l'œil, en laquelle tous ces plans
+     s'entre-coupent ainsi qu'en leur commun essieu, et que tous ces plans sont coupez, d'un autre
+     meme plan le tableau. </p>
+    <pb n="12"/>
+    <p> Quand des lignes sujet sont paralelles entr elles, et que la ligne de l'œil menée paralelle
+     à icelles n'est pas paralelle au tableau ; les apparences de ces lignes sujet, sont des lignes
+     qui tendent toutes au poinct auquel cette ligne de l'œil rencontre le tableau, dautant que
+     chacune de ces lignes sujet est en un meme plan avec cette ligne de l'œil, en laquelle tous ces
+     plans s'entre-coupent ainsi qu'en leur commun essieu, et que tous ces plans sont coupez, d'un
+     autre meme plan le tableau. </p>
+    <p> Quand des lignes sujet inclinées entr'elles tendent toutes à un poinct, la ligne de l'œil
+     menée à ce poinct est, ou bien paralelle, ou bien non paralelle au tableau, mais toujours
+     chacune de ces lignes sujet est en un meme plan avec cette ligne de l'œil, en laquelle tous ces
+     plans s'entre-coupent ainsi qu'en leur commun esssieu. </p>
+    <p> Quand des lignes sujet inclinées entr'elles tendent toutes à un poinct, auquel aiant mené la
+     ligne de l'œil elle est paralelle au tableau, les aparences de ces lignes sujet sont des lignes
+     paralelles entr'elles, et à la ligne de l'œil à cause que chacune de ces lignes sujet est en un
+     meme plan avec cette ligne de l'œil, en laquelle tous ces plans s'entre-coupent ainsi qu'en
+     leur commun essieu, et que tous ces plans sont coupez, d'un autre meme plan le tableau. </p>
+    <p> Quand des lignes sujet inclinées entr'elles tendent toutes à un poinct, auquel aiant mené la
+     ligne de l'œil elle n'est pas paralelle au tableau, les aparences de ces lignes sujet sont des
+     lignes qui tendent toutes au poinct auquel cette ligne de l'œil rencontre le tableau, dautant
+     que chacune de ces lignes sujet est en un meme plan avec cette ligne de l'œil, en laquelle tous
+     ces plans s'entre-coupent ainsi qu'en leur commun essieu, et que tous ces plans sont coupez
+     d'un autre meme plan le tableau. </p>
+    <p> La proposition qui suit ne se devide pas si brievement que celles qui precedent. </p>
+    <p> Aiant à pourtraire une coupe de cone plate, y mener deux lignes, dont les aparences soient
+     les essieux de la figure qui la representera. </p>
+    <p> A <placeName ref="#Paris">Paris</placeName>, en May <date when="1636">1636</date>. avec
+     Privilege. </p>
+    <p> Ces Exemplaires sont dans les mains de <persName>Monsieur Bidault H. du Roy</persName>, demeurant
+     au gros Pavillon des Tuylleries, au bout de la grande Galerie du Louvre. </p>
+   </div>
+   <div type="section">
+    <pb n="13"/>
+    <figure type="gravure"/>
+    <pb n="14"/>
+    <figure type="gravure"/>
     <pb n="15"/>
-    <p> Quand des lignes sujet sont paralelles entr elles, et que la ligne de j'ail menée paralelle à icelles n'est pas paralelle au tableaus les apparences de ces lignes sujet, sont des lignes qui tendent toutes au poinct auquel cette ligne de j'œil rencontre le tableau, dautant que chacune de ces lignes sujet est en un même plan avec cette ligne de j'aeil, en laquelle tous ces plans s entre-coupent ainsi qu en leur commun essieu, et que tous ces plans sont coupez, d'un autre même plan le tableau. </p>
-    <p> Quand des lignes sujet inclinées entr elles tendent toutes à un poinct, la ligne de j'œeil menée à ce poinct est, ou bien paralelle, ou bien non paralelle au tableau, mais toujours chacune de ces lignes sujet est en un méme plan avec cette ligne de j'aeil, en laquelle tous ces plans s entre-coupent ainsi qu en leur commun esssieu. </p>
-    <p> Quand des lignes sujet inclinées entr elles tendent toutes à un poinct, auquel aiant mené la ligne de j'aeil elle est paralelle au tableau, les aparences de ces lignes sujet sont des lignes paralelles entr elles, et à la ligne de j'aeil à cause que chacune de ces lignes sujet est en un même plan avec cette ligne de j'aeil, en laquelle tous ces pianss entre-coupent ainsi qu en leur commun essieu, et que tous ces plans sont coupez, d'un autre même plan le tableau. </p>
-    <p> Quand des lignes sujet inclinées entr elles tendent toutes à un poinct, auquel aiant mené la ligne de j'aeil elle n'est pas paralelle au tableau, les aparences de ces lignes sujet sont des lignes qui tendent toutes au poinct auquel cette ligne de j'œeil rencontre le tableau, dautant que chacune de ces lignes sujet est en un même plan avec cette ligne de j'œil, en laquelle tous ces plans sentre-coupent ainsi qu en leur commun essieu, et que tous ces plans sont coupez d'un autre même plan le tableau. </p>
-    <p> La proposition qui suit ne se devide pas si briéuement que celles qui precedent. </p>
-    <p> Aiant à pourtraire une coupe de cone plate, y mener deux lignes, dont les aparences soient les essieux de la figure qui la representera. </p>
-    <p> A <placeName ref="#Paris">Paris</placeName>, en May <date when="1636">1636</date>. avec Pfluilege. </p>
-    <p> Ces Exemplaires sont és mains de Monsicur Bidault H. du Roy, demeurant au gros Pavillon des Tuylleries, au bout de la grande Galerie du Louvre. </p>
+    <figure type="gravure"/>
     <pb n="16"/>
-    <figure type="ornement"/>
+    <figure type="gravure"/>
     <pb n="17"/>
+    <figure type="gravure"/>
     <pb n="18"/>
-    <figure type="ornement"/>
+    <figure type="gravure"/>
     <pb n="19"/>
-    <figure type="ornement"/>
-    <pb n="20"/>
-    <figure type="ornement"/>
-    <pb n="21"/>
-    <figure type="ornement"/>
-    <pb n="22"/>
-    <figure type="ornement"/>
-    <pb n="23"/>
-    <pb n="24"/>
-    <pb n="25"/>
-    <pb n="26"/>
-    <pb n="27"/>
-    <pb n="28"/>
-    <pb n="29"/>
-    <pb n="30"/>
-    <pb n="31"/>
-    <pb n="32"/>
-    <pb n="33"/>
-    <pb n="34"/>
-    <pb n="35"/>
-    <pb n="36"/>
-    <pb n="37"/>
-    <pb n="38"/>
+    <figure type="gravure"/>
+    <pb type="blankpage"/>
    </div>
   </body>
  </text>
