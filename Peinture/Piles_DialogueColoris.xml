@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
@@ -13,12 +13,11 @@
             <p/>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>
-         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
-      </profileDesc>
+      <profileDesc><xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/></profileDesc>
    </teiHeader>
    <text>
+      <pb facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f2.item"/>
       <front>
          <titlePage type="titre">
             <docTitle>
@@ -30,25 +29,23 @@
                   Victoire.</pubPlace>
             </docImprint>
             <docDate when="1699"> M. DC. XCIX. </docDate>
-
             <imprimatur> AVEC PRIVILEGE DU ROI. </imprimatur>
          </titlePage>
       </front>
       <body>
          <div1 n="1" type="livre" xml:id="L1">
-            <pb n="1"/>
+            <pb n="1" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f3.item"/>
             <figure type="ornement"/>
             <head> DIALOGUE SUR LE COLORIS. </head>
             <p>
-               <figure type="lettrine"/><hi rend="capitals">PAMPHILE</hi> et <persName ref="#Damon"
-                  >Damon</persName> sortant il y a quelques jours de l'Academie de Peinture, et ne
+               <figure type="lettrine"/>
+               <hi rend="capitals">PAMPHILE</hi> et <persName ref="#Damon">Damon</persName> sortant il y a quelques jours de l'Academie de Peinture, et ne
                sçachant que faire pour employer le reste de l'apresdinée, s'aviserent de me venir
                voir. Et comme ce sont gens de merite, qui ayment les Arts, et qui s'y connoissent
                tres-bien, je cru ne pouvoir mieux reconnoître leur civilité, qu'en leur faisant
                voir quelques Tableaux et quelques autres curiositez que j'avois receuës de
                   <placeName ref="#Rome">Rome</placeName> le jour precedent. Je leur montray donc
-               d'abord cinq ou six Tableaux de mediocre grandeur qu'ils trouverent fort à<pb n="2"
-               /> leur gré ; et apres avoir fait retourner une grande <objectName ref="#">Baccanale</objectName> qu'un habile homme
+               d'abord cinq ou six Tableaux de mediocre grandeur qu'ils trouverent fort à<pb n="2" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f4.item"/> leur gré ; et apres avoir fait retourner une grande <objectName ref="#TitienCopieBacchanale">Baccanale</objectName> qu'un habile homme
                m'avoit copiée d'apres le <persName ref="#Titien">Titien</persName> : Voila,
                s'écria brusquement <persName ref="#Damon">Damon</persName>, le sujet de nostre
                querelle, et se tournant vers <persName ref="#Pamphile">Pamphile</persName> : Hé
@@ -60,12 +57,11 @@
                découvrir pour les mettre en pratique.</p>
             <p>Ne sçaurois-je estre arbitre de votre different, interrompis-je, et quelle est donc
                cette querelle?</p>
-            <p>Nous sortons de l'Academie de Peinture, reprit <persName ref="#Pamphile"
-                  >Pamphile</persName>, et chemin faisant, nous nous entretenions <persName
-                  ref="#Damon">Damon</persName> et moy des choses qui se sont dites dans la
+            <p>Nous sortons de l'Academie de Peinture, reprit <persName ref="#Pamphile">Pamphile</persName>, et chemin faisant, nous nous entretenions <persName ref="#Damon">Damon</persName> et moy des choses qui se sont dites dans la
                Conference.</p>
-            <p>Je me doutay aussi tost, puisque<pb n="3"/> mon Tableau du <persName ref="#Titien"
-                  >Titien</persName> avoit donné lieu de réveiller la querelle, qu'on avoit parlé
+            <p>Je me doutay aussi tost, puisque<pb n="3" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f5.item"/>
+               <objectName ref="#TitienCopieBacchanale"> mon Tableau du <persName ref="#Titien">Titien</persName>
+               </objectName> avoit donné lieu de réveiller la querelle, qu'on avoit parlé
                du Coloris. Je les priay de me faire part de ce qu'ils avoient oüi dans cette
                Conference, (ce qu'ils voulurent bien m'accorder) : et pour les y engager davantage,
                je les retins à souper. Cependant nous achevâmes de voir les nouveautez qui
@@ -73,14 +69,12 @@
                ensuite approchez du feu, je les remis sur les voyes, les faisant souvenir de ce
                qu'ils m'avoient promis. <persName ref="#Damon">Damon</persName> dit d'abord que pour
                me faire tout entendre et me donner plus de plaisir, il faloit reprendre la chose
-               dés son commencement ; qu'il interrogeroit <persName ref="#Pamphile"
-                  >Pamphile</persName>, s'il le vouloit bien, et qu'il luy feroit toutes les
+               dés son commencement ; qu'il interrogeroit <persName ref="#Pamphile">Pamphile</persName>, s'il le vouloit bien, et qu'il luy feroit toutes les
                objections qui luy viendroient dans l'esprit contre le merite du Coloris dont on
                avoit parlé à l'Academie ; car <persName ref="#Pamphile">Pamphile</persName> aymoit
-               extremement cette partie<pb n="4"/> de la Peinture. Je leur témoignay que cela
+               extremement cette partie<pb n="4" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f6.item"/> de la Peinture. Je leur témoignay que cela
                seroit le mieux du monde ; <persName ref="#Pamphile">Pamphile</persName> y consentit,
-               et <persName ref="#Damon">Damon</persName> regardant <persName ref="#Pamphile"
-                  >Pamphile</persName> commença en cette sorte.</p>
+               et <persName ref="#Damon">Damon</persName> regardant <persName ref="#Pamphile">Pamphile</persName> commença en cette sorte.</p>
             <p>Souffrez, dit-il, avant toutes choses que je vous demande ce que vous appellez
                Coloris?</p>
             <p>C'est, répondit <persName ref="#Pamphile">Pamphile</persName>, une des parties de la
@@ -92,7 +86,7 @@
                laisser là les disputes des Philosophes, sçavoir si c'est quelque chose de réel,
                ou si c'est seulement la refraction de la lumiere avec la modification du corps
                coloré ; je vous diray que la Couleur est ce qui rend les objets sensibles à la
-               vûe. <pb n="5"/>Or comme les Peintres doivent considerer deux sortes d'objets, le
+               vûe. <pb n="5" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f7.item"/>Or comme les Peintres doivent considerer deux sortes d'objets, le
                naturel ou celuy qui est veritable ; et l'artificiel ou celuy qui est peint ; ils
                doivent aussi considerer deux sortes de Couleurs, la naturelle et l'artificielle. La
                couleur naturelle est celle qui nous rend actuellement visibles tous les objets qui
@@ -103,7 +97,7 @@
                naturels. Le Peintre doit avoir une parfaite connoissance de ces deux sortes de
                Couleurs : de la naturelle, afin qu'il sçache ce qu'il doit imiter ; et de
                l'artificielle, pour en faire une composition et une teinte capable de representer
-               parfaitement la Couleur<pb n="6"/> naturelle. Il faut qu'il sçache encore, que dans
+               parfaitement la Couleur<pb n="6" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f8.item"/> naturelle. Il faut qu'il sçache encore, que dans
                la Couleur naturelle, il y a la Couleur veritable de l'objet, la Couleur reflechie,
                et la Couleur de la lumiere, et parmy les Couleurs artificielles, il doit connoître
                celles qui ont amitié ensemble (pour ainsi dire) et celles qui ont antipathie ; il
@@ -115,7 +109,7 @@
             <p>La nature, reprit <persName ref="#Pamphile">Pamphile</persName>, n'est pas toûjours
                bonne à imiter ; il faut que le Peintre la choisisse selon les regles de son Art ;
                et s'il ne la trouve pas telle qu'il la cherche, il faut qu'il corrige celle qui luy
-               est presente. Et de mesme que celuy qui dessine n'imite<pb n="7"/> pas tout ce qu'il
+               est presente. Et de mesme que celuy qui dessine n'imite<pb n="7" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f9.item"/> pas tout ce qu'il
                voit dans un modele defectueux, et qu'au contraire, il change en des proportions et
                des contours avantageux les défauts qu'il y trouve : ainsi le Peintre ne doit pas
                imiter toutes les couleurs qui se presentent indifferemment, il ne doit choisir que
@@ -127,7 +121,7 @@
                force des couleurs qu'il y trouve.</p>
             <p>Je sçay bien, dit <persName ref="#Damon">Damon</persName>, qu'on doit corriger les
                défauts du Naturel ; mais je ne croyois pas que cela ailast jusqu'à donner plus de
-               vivacité et plus<pb n="8"/> de force qu'il n'y en paroist lorsque le Peintre
+               vivacité et plus<pb n="8" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f10.item"/> de force qu'il n'y en paroist lorsque le Peintre
                l'imite.</p>
             <p>Mais que diriez-vous, repliqua <persName ref="#Pamphile">Pamphile</persName>, si l'on
                vous faisoit connoitre que cette force et cette vivacité, dont vous parlez, ne sont
@@ -140,7 +134,7 @@
                point estre esclave de la Nature, il en doit estre Arbitre, et judicieux imitateur :
                et pourvû qu'un Tableau fasse son effet, et qu'il impose agreablement aux yeux,
                c'est tout ce qu'on en peut attendre.</p>
-            <pb n="9"/>
+            <pb n="9" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f11.item"/>
             <p>Je voy bien, dit <persName ref="#Damon">Damon</persName>, que vous voulez que le
                Peintre ne laisse rien échapper de tout ce qui est de plus avantageux dans son
                Art.</p>
@@ -154,37 +148,33 @@
                jamais parfait quand il y manque quelque chose : mais voudriez-vous que le Coloris
                fust une partie aussi necessaire à la Peinture que le Dessein?</p>
             <p>En doutez-vous? dit <persName ref="#Pamphile">Pamphile</persName>, ne sçavez-vous
-               pas que vous detruisez le tout si vous en retranchez une partie,<pb n="10"/>
+               pas que vous detruisez le tout si vous en retranchez une partie,<pb n="10" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f12.item"/>
                principalement quand elle est aussi essentielle à son tout, comme est celle du
                Coloris à l'Art de Peinture.</p>
             <p>Je juge assez, reprit <persName ref="#Damon">Damon</persName>, que vous voulez dire
                que tous les objets ne tombant sous la veuë que par la Couleur, et n'estant
                distinguez les uns des autres que par là, ils doivent estre imitez par leur Couleur
                aussi bien que par leur forme exterieure : j'en tombe d'accord. Mais que me repondrez
-               vous quand je vous feray voir des Tableaux de <persName ref="#PolidoroDaCaravaggio"
-                  >Polidore de Caravage</persName> qui passent pour de tres beaux Ouvrages de
+               vous quand je vous feray voir des Tableaux de <persName ref="#PolidoroDaCaravaggio">Polidore de Caravage</persName> qui passent pour de tres beaux Ouvrages de
                Peinture, quoy qu'ils ne soient peints que d'une mesme Couleur de clair-obscur ?</p>
             <p>Il est vray, dit <persName ref="#Pamphile">Pamphile</persName>, que ce sont de tres
                beaux Tableaux ; mais il est vray aussi que ce ne sont point de veritables Ouvrages
                de Peinture, et qu'ils sont fort éloignez de tromper la veuë ; car vous tombez
-               vous-mesme d'accord que pour imiter la Nature, il faut l'imiter comme elle nous<pb
-                  n="11"/> paroist, et qu'elle ne paroist à nos yeux que sous les apparences de la
+               vous-mesme d'accord que pour imiter la Nature, il faut l'imiter comme elle nous<pb n="11" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f13.item"/> paroist, et qu'elle ne paroist à nos yeux que sous les apparences de la
                Couleur.</p>
             <p>Mais, poursuivit <persName ref="#Damon">Damon</persName>, quoy que l'Ouvrage ne soit
                que d'une mesme couleur, s'il est tellement bien conduit de lumiere et d'ombre, qu'il
                semble que ce soit un Ouvrage de Sculpture, qu'aurez-vous à dire?</p>
-            <p>Je diray pour lors que rien n'y manque, repliqua <persName ref="#Pamphile"
-                  >Pamphile</persName>, et que c'est un veritable Ouvrage de Peinture, puisqu'il
+            <p>Je diray pour lors que rien n'y manque, repliqua <persName ref="#Pamphile">Pamphile</persName>, et que c'est un veritable Ouvrage de Peinture, puisqu'il
                imitera par le Dessein et par la Couleur l'ouvrage de Sculpture que vous supposez. La
                beauté du Coloris ne consiste pas dans une bigarure de couleurs differentes : mais
                dans leur juste distribution, en sorte que les objets qui sont peints ayent la même
                Couleur que les veritables ; que la pierre peinte, par exemple, ressemble à la
                pierre naturelle, que les carnations paroissent de veritables chairs : Et enfin que
-               non seulement chaque objet particulier represente<pb n="12"/> parfaitement la Couleur
+               non seulement chaque objet particulier represente<pb n="12" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f14.item"/> parfaitement la Couleur
                de ceux qu'il imite ; mais que tous ensemble fassent une agreable union dans tout le
                Tableau.</p>
-            <p>Puisque nous en sommes sur les ouvrages de clair-obscur, interrompit <persName
-                  ref="#Damon">Damon</persName>, dites-moy, je vous prie, sous quelle partie de la
+            <p>Puisque nous en sommes sur les ouvrages de clair-obscur, interrompit <persName ref="#Damon">Damon</persName>, dites-moy, je vous prie, sous quelle partie de la
                Peinture est comprise l'intelligence des lumieres, et des ombres ?</p>
             <p>Sous le Coloris, répondit <persName ref="#Pamphile">Pamphile</persName> ; puisque
                dans la Nature la lumiere et la Couleur sont inséparables ; que partout où il y a
@@ -194,7 +184,7 @@
                chaquë objet, et que le Peintre doit faire valoir par la comparaison, et cette
                industrie comprend encore la connoissance de la nature des couleurs : c'est-à-dire
                de leur union, et de leur antipathie.</p>
-            <pb n="13"/>
+            <pb n="13" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f15.item"/>
             <p>Et le clair-obscur est l'art de distribuer avantageusement les lumieres et les
                ombres, non seulement sur les objets particuliers, mais encore sur le general du
                Tableau. Cet artifice, qui n'a êté connu que d'un petit nombre de Peintres est le
@@ -207,8 +197,7 @@
                les lumieres et les ombres sont observées : et j'en ay vû plusieurs de la main de
                   <persName ref="#PeterPaulRubens">Rubens</persName> de cette maniere qui faisoient
                un effet merveilleux, et qu'on ne nommoit point autrement.</p>
-            <p>C'est aussi de cette maniere qu'ils<pb n="14"/> doivent être nommez, dit <persName
-                  ref="#Pamphile">Pamphile</persName> ; puisque c'est l'usage, et que nous n'avons
+            <p>C'est aussi de cette maniere qu'ils<pb n="14" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f16.item"/> doivent être nommez, dit <persName ref="#Pamphile">Pamphile</persName> ; puisque c'est l'usage, et que nous n'avons
                pas d'autres termes pour nous expliquer. Mais le nom de Dessein qu'on leur donne
                n'est pas celuy qui convient à l'une des parties de la Peinture. Le Dessein est fort
                équivoque et se prend de differentes façons, qu'on peut reduire à trois, comme a
@@ -219,7 +208,7 @@
                dehors sur du papier ou sur de la toile pour juger de l'effet de l'Ouvrage qu'il
                medite, et de cette maniere l'on peut appeller du nom de Dessein non seulement un
                esquisse : mais encore un Ouvrage bien entendu de lumieres et d'ombres, ou même un
-               Tableau bien colorié. C'est de cette sorte que<pb n="15"/>
+               Tableau bien colorié. C'est de cette sorte que<pb n="15" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f17.item"/>
                <persName ref="#PeterPaulRubens">Rubens</persName> faisoit presque tous ses Desseins,
                et de la maniere qu'ont été faits ceux dont vous parlez. Enfin l'on appelle
                Dessein, les justes mesures, les proportions et les formes exterieures que doivent
@@ -232,9 +221,8 @@
             <p>Pensez-vous, reprit <persName ref="#Damon">Damon</persName>, que tout le monde
                veuïlle convenir, que la partie de la Peinture qu'on appelle Dessein, soit seulement
                les proportions et les concours ?</p>
-            <p>Il faut bien en convenir vrayment, dit <persName ref="#Pamphile"
-               >Pamphile</persName>.</p>
-            <pb n="16"/>
+            <p>Il faut bien en convenir vrayment, dit <persName ref="#Pamphile">Pamphile</persName>.</p>
+            <pb n="16" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f18.item"/>
             <p>Et que diriez-vous, continua <persName ref="#Damon">Damon</persName>, si quelqu'un
                vous soûtenoit que c'est aussi cette seconde sorte de Dessein que vous venez de
                définir ; c'est à dire la pensée d'un plus grand Tableau que l'on médite ; soit
@@ -247,7 +235,7 @@
                Coloris et l'Invention mesme : Et pour lors il faudroit toûjours convenir de
                nouveaux termes, et demander à ce quelqu'un que vous supposez, comment il voudroit
                que l'on appellast la partie du Dessein, laquelle trouve les objets qui composent une
-                  Histoire,<pb n="17"/> et comment il voudroit encore qu'on nommast cette autre
+                  Histoire,<pb n="17" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f19.item"/> et comment il voudroit encore qu'on nommast cette autre
                partie du Dessein qui distribuë les Couleurs ; les Lumieres et les Ombres. Ainsi vous
                voyez qu'il n'importe pas de quelle façon l'on appelle les choses pourvû que l'on
                s'entende et que l'on convienne de leur nom ; c'est un point, comme vous sçavez,
@@ -259,22 +247,22 @@
                vous avez donnée, pour prouver que l'intelligence des lumieres dépendoit du Coloris
                : c'est, dites-vous, parce que dans la nature l'une est inséparable de l'autre. Et
                ne peut-on pas dire la mesme chose du Dessein, puisque sans lumiere l'œil ne
-                  sçauroit<pb n="18"/> voir pareillement dans la nature, les contours ny les
+                  sçauroit<pb n="18" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f20.item"/> voir pareillement dans la nature, les contours ny les
                proportions des figures.</p>
             <p>N'avez-vous point oüi parler, dit <persName ref="#Pamphile">Pamphile</persName>,
-               d'un certain Sculpteur aveugle, qui faisoit des portraits de cire fort
+               d'un certain <persName ref="#GiovanniGonnelli">Sculpteur aveugle</persName>, qui faisoit des portraits de cire fort
                ressemblans?</p>
             <p>Non-seulement j'en ay oüi parler, reprit <persName ref="#Damon">Damon</persName>,
                mais je l'ay veu à <placeName ref="#Rome">Rome</placeName>, et je me suis entretenu
-               plusieurs fois avec luy. Il estoit de <placeName ref="#GambassiTerme"
-                  >Cambassi</placeName> dans la <placeName ref="#Toscane">Toscane</placeName>.
+               plusieurs fois avec luy. Il estoit de <placeName ref="#GambassiTerme">Cambassi</placeName> dans la <placeName ref="#Toscane">Toscane</placeName>.
                C'estoit un homme fort bien fait, de belle taille, et qui paroissoit âgé d'environ
                50 ans ; il avoit beaucoup d'esprit et de bon sens, aymant à parler, et disant
                agreablement les choses. Un jour entr'autres l'ayant rencontré dans le Palais
-               Justinien qu'il copioit une statuë de <persName ref="#Minerve">Minerve</persName>,
+               Justinien qu'il copioit <objectName ref="#AthenaGiustiniani">une statuë de <persName ref="#Minerve">Minerve</persName>
+               </objectName>,
                je pris occasion de luy demander s'il ne voyoit pas un peu, pour copier aussi juste
                qu'il faisoit? Je ne voy rien, me dit-il, et mes yeux sont au bout de mes doigts.
-               Mais encore, luy dis-je, comment est-il possible<pb n="19"/> que ne voyant goûte du
+               Mais encore, luy dis-je, comment est-il possible<pb n="19" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f21.item"/> que ne voyant goûte du
                tout, vous fassiez de si belles choses? Je taste, dit-il, mon Original, j'en examine
                attentivement les dimensions, les éminences et les cavitez, je tasche de les retenir
                dans ma memoire, puis je porte la main sur ma cire, et par la comparaison que je fais
@@ -286,22 +274,22 @@
                ressemblant. Mais quoyque cet Ouvrage fust admiré de tous ceux qui le voyoient, on
                ne laissa pas d'objecter à l'ouvrier que la barbe du Duc estoit un grand avantage
                pour le faire ressembler, et qu'il n'auroit pas cette mesme facilité s'il luy faloit
-               imiter un visage sans barbe. Hé bien,<pb n="20"/> dit-il, qu'on m'en donne un autre.
+               imiter un visage sans barbe. Hé bien,<pb n="20" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f22.item"/> dit-il, qu'on m'en donne un autre.
                On luy proposa de faire le portrait de l'une des Demoiselles de la Duchesse, il
                l'entreprit, et le fit tres ressemblant. J'ay encore vû de la main de ce Sculpteur
-               le portrait du feu <persName ref="#JacquesIer">Roy d'Angleterre</persName>, et celuy
-               du <persName ref="#UrbainVIII">Pape Urbain VIII</persName> tous deux copiez d'aprés
+               le portrait du feu <persName ref="#JacquesIer">Roy d'Angleterre</persName>, et <objectName ref="#GonnelliUrbainVIII">celuy
+               du <persName ref="#UrbainVIII">Pape Urbain VIII</persName>
+               </objectName>tous deux copiez d'aprés
                le marbre tres-finis et tres-ressemblans.</p>
             <p>Sans aller plus loiu, interrompit <persName ref="#Pamphile">Pamphile</persName>, nous
                avons à <placeName ref="#Paris">Paris</placeName> un portrait de sa main.</p>
             <p>N'est ce pas celuy de feu <persName ref="#LouisHesselin">M. Hesselin</persName>,
                repliqua <persName ref="#Damon">Damon</persName>.</p>
-            <p>Celuy-là mesme, reprit <persName ref="#Pamphile">Pamphile</persName>, et <persName
-                  ref="#LouisHesselin">M. Hesselin</persName> en fut si content, et trouva la chose
+            <p>Celuy-là mesme, reprit <persName ref="#Pamphile">Pamphile</persName>, et <persName ref="#LouisHesselin">M. Hesselin</persName> en fut si content, et trouva la chose
                si merveilleuse, qu'il pria cet illustre aveugle de vouloir bien se laisser peindre
                pour emporter son portrait en <placeName ref="#France">France</placeName>, et pour y
                conserver sa memoire. J'ay vû autrefois ce portrait, et je m'apperceus en le
-               regardant, que le Peintre luy avoit mis un œil à chaque bout de doigt<pb n="21"/>
+               regardant, que le Peintre luy avoit mis un œil à chaque bout de doigt<pb n="21" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f23.item"/>
                pour faire voir que ceux qu'il avoit ailleurs, luy estoient tout à fait inutiles.
                Enfin, vous voyez par là, continua <persName ref="#Pamphile">Pamphile</persName>,
                qu'il n'est pas toûjours necessaire pour juger des contours que l'œil les voye,
@@ -315,7 +303,7 @@
                luy avoit donné moyen de satisfaire son esprit, et de se consoler en quelque facon
                de la perte qu'il avoit faite d'un sens aussi pretieux qu'est celuy de la veuë : et
                que s'il avoit esté Peintre, il auroit esté privé de cette consolation.</p>
-            <pb n="22"/>
+            <pb n="22" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f24.item"/>
             <p>C'est, repartit <persName ref="#Pamphile">Pamphile</persName>, que la Couleur et la
                Lumiere ne sont l'objet que de la veuë, et que le Dessein l'est encore du toucher,
                comme je vous l'ay déja dit. Je vous avouë que la pureté et la delicatesse du
@@ -328,7 +316,7 @@
                l'on considere un bras ou une jambe, ou quelqu'autre partie sans laquelle l'homme ne
                laisse pas d'estre homme quoy qu'il soit moins entier et moins parfait : et qu'ainsi
                sans le Coloris un Tableau ne laissoit pas d'estre un ouvrage de Peinture ; mais un
-                  ouvrage<pb n="23"/> de Peintre moins parfait.</p>
+                  ouvrage<pb n="23" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f25.item"/> de Peintre moins parfait.</p>
             <p>Je voy bien, dit <persName ref="#Pamphile">Pamphile</persName>, que vous n'avez
                jamais fait reflexion sur ce que c'est que Peinture, et que vous ne sçavez pas qu'on
                la définit, <hi rend="it">Un Art qui par le moyen de la forme exterieure et des
@@ -344,7 +332,7 @@
                ; de mesme que la raison qui est la difference de l'homme est ce qui fait
                l'homme.</p>
             <p>Et que deviendra le Dessein, reprit <persName ref="#Damon">Damon</persName> ?</p>
-            <pb n="24"/>
+            <pb n="24" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f26.item"/>
             <p>Le Dessein, repliqua <persName ref="#Pamphile">Pamphile</persName>, tient fort bien
                sa place : puisque c'est une partie essentielle de la Peinture, et sans laquelle la
                Peinture ne peut subsister non plus que le Coloris.</p>
@@ -358,7 +346,7 @@
                difference de l'homme, ne se communique qu'à l'homme seul.</p>
             <p>A quels autres Arts, reprit <persName ref="#Damon">Damon</persName>, voulez-vous que
                le Dessein se communique?</p>
-            <p>A la Sculpture, répondit <persName ref="#Pamphile">Pamphile</persName>,<pb n="25"/>
+            <p>A la Sculpture, répondit <persName ref="#Pamphile">Pamphile</persName>,<pb n="25" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f27.item"/>
                à la Graveure, à l'Architecture, et aux autres Arts qui donnent des mesures et des
                proportions.</p>
             <p>Mais le Dessein du Sculpteur, repliqua <persName ref="#Damon">Damon</persName>, n'est
@@ -372,11 +360,10 @@
                est Geometral : et enfin, il est constant que les Sculpteurs se servent de
                Perspective dans leurs Bas-reliefs, comme les Peintres font dans leurs Tableaux.</p>
             <p>Je conviens, dit <persName ref="#Damon">Damon</persName>, que le Dessein se
-               communique à plusieurs sortes d'Arts ; mais ne pourroit-on<pb n="26"/> pas vous dire
+               communique à plusieurs sortes d'Arts ; mais ne pourroit-on<pb n="26" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f28.item"/> pas vous dire
                que la Couleur se communique aussi de la mesme maniere, et que les Tapissiers et les
                Teinturiers s'en servent aussi bien que les Peintres.</p>
-            <p>Pour l'ouvrage des Tapissiers, repliqua <persName ref="#Pamphile"
-               >Pamphile</persName>, je ne trouve pas qu'il soit different de celuy des Peintres ;
+            <p>Pour l'ouvrage des Tapissiers, repliqua <persName ref="#Pamphile">Pamphile</persName>, je ne trouve pas qu'il soit different de celuy des Peintres ;
                les Tapissiers representent comme les Peintres, les Couleurs et les formes qui sont
                dans la Nature. Leurs Couleurs sont attachées aux laines, et celles des Peintres aux
                terres ou aux mineraux qu'ils employent : et cette difference de matiere, comme vous
@@ -384,7 +371,7 @@
                bien vous passer de me la faire, et de mettre en compromis les Peintres avec les
                Teinturiers : neanmoins il faut vous satisfaire. Il est vray que les Teinturiers
                entendent quelque chose aux Couleurs ; mais non pas au Coloris dont il est icy
-               question. L'on appelle souvent du<pb n="27"/> nom de Couleur la partie de Peinture
+               question. L'on appelle souvent du<pb n="27" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f29.item"/> nom de Couleur la partie de Peinture
                qui s'appelle Coloris, l'usage en est assez ordinaire, et cette équivoque vous a
                fait faire l'objection des Teinturiers : Cependant, il y a grande difference entre
                Couleur et Coloris, et je vous ay fait voir que le Coloris n'estoit point, ny le
@@ -397,7 +384,7 @@
                Coloris, et que le Coloris ne peut subsister sans le Dessein.</p>
             <p>Quand tout cela seroit, dit <persName ref="#Pamphile">Pamphile</persName>, quelle
                consequence en voudriez-vous tirer ?</p>
-            <pb n="28"/>
+            <pb n="28" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f30.item"/>
             <p>Que le-Dessein, reprit <persName ref="#Damon">Damon</persName>, est plus necessaire,
                plus considerable et plus noble que le Coloris.</p>
             <p>Vous ne prenez pas garde, continua <persName ref="#Pamphile">Pamphile</persName>, que
@@ -411,7 +398,7 @@
                formes substantielles. Le corps de l'homme, par exemple, doit estre entierement
                formé et organisé avant que l'ame y soit receuë. Et c'est avec cet ordre que
                   <persName ref="#Dieu">Dieu</persName> fit le premier homme ; il prit de la
-                  terre,<pb n="29"/> il en forma un corps, il y mit toutes les dispositions
+                  terre,<pb n="29" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f31.item"/> il en forma un corps, il y mit toutes les dispositions
                necessaires, puis il crea l'ame qu'il y infusa pour le perfectionner, et pour en
                faire un homme. Ce corps ne dépendoit point de l'ame pour subsister ; puisqu'il
                estoit avant l'ame : Cependant vous ne voudriez pas soûtenir que le corps fust la
@@ -423,7 +410,7 @@
                jointe au corps, aussi n'y a-t-il point de Peinture si le Coloris n'est joint au
                Dessein.</p>
             <p>Je veux bien vous avoüer, reprit <persName ref="#Damon">Damon</persName>, que le
-               Coloris est aussi necessaire à la Peinture que le Dessein:<pb n="30"/> mais il faut
+               Coloris est aussi necessaire à la Peinture que le Dessein:<pb n="30" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f32.item"/> mais il faut
                aussi que vous m'accordiez que celuy-cy est plus : necessaire pour le Peintre.</p>
             <p>Oüy pour le Peintre, répondit <persName ref="#Pamphile">Pamphile</persName>, qui
                veut expedier quantité d'ouvrages sans se mettre en peine de les achever, ny de
@@ -436,7 +423,7 @@
                toutes les plantes soit plus noble et plus estimable en elle-mesme, que toutes les
                pierres precieuses ensemble.</p>
             <p>Tout le monde court à l'utile, repartit <persName ref="#Damon">Damon</persName> en
-               riant, et d'abord<pb n="31"/> on envisage les choses par ce côté-là. Ne vous
+               riant, et d'abord<pb n="31" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f33.item"/> on envisage les choses par ce côté-là. Ne vous
                étonnez donc pas si le Dessein estant plus d'usage et par consequent plus utile dans
                le monde, on l'estime generalement davantage. Mais avec tout cela, je ne sçaurois
                m'empescher de vous dire ingenuëment, que je trouve dans le beau Dessein une
@@ -449,7 +436,7 @@
                Peinture, demeureront toûjours imparfaites sans le secours du Coloris, lequel met le
                Peintre au dessus du Sculpteur, et fait que les objets peints ressemblent plus
                parfaitement aux veritables ?</p>
-            <pb n="32"/>
+            <pb n="32" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f34.item"/>
             <p>Vous dites, repartit <persName ref="#Damon">Damon</persName>, que le beau Dessein
                charme l'esprit ; et n'y a-t il pas plus d'avantage à charmer l'esprit que les
                yeux?</p>
@@ -464,44 +451,36 @@
                preferer les Tableaux où la Couleur sera mieux entenduë, pourveu que le Dessein n'y
                soit point trop mal. La raison de cela est, que le Dessein se trouve ailleurs que
                dans les Tableaux : il se rencontre dans les Estampes, dans les Statuës et dans les
-               Bas-reliefs, sans<pb n="33"/> compter qu'il se trouve encore dans la Nature mesme :
+               Bas-reliefs, sans<pb n="33" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f35.item"/> compter qu'il se trouve encore dans la Nature mesme :
                Mais une belle intelligence de Couleurs ne se trouve que dans un tres-petit nombre de
                Tableaux. Ainsi supposé que je voulusse faire Cabinet, j'y ferois entrer de toutes
                sortes de Tableaux où je verrois de la beauté dans quelque partie que ce soit :
                mais je prefererois toûjours ceux du <persName ref="#Titien">Titien</persName> aux
                autres, pour la raison que je viens de vous dire.</p>
-            <p>Et lequel de ces deux Peintres aimeriez-vous mieux estre, continuay-je, de <persName
-                  ref="#Raphael">Raphaël</persName> ou du <persName ref="#Titien">Titien</persName>
+            <p>Et lequel de ces deux Peintres aimeriez-vous mieux estre, continuay-je, de <persName ref="#Raphael">Raphaël</persName> ou du <persName ref="#Titien">Titien</persName>
                ?</p>
             <p>Vous m'embarassez fort, repondit <persName ref="#Pamphile">Pamphile</persName> ;
                attendez que j'y pense un peu.</p>
             <p>Je ne crovois pas, repris-je, que vous dûssiez balancer de cette sorte, apres ce que
                je viens de vous entendre dire.</p>
             <p>J'aimerois mieux estre <persName ref="#Raphael">Raphaël</persName>, continua
-                  <persName ref="#Pamphile">Pamphile</persName>, et j'estime que le <persName
-                  ref="#Titien">Titien</persName> est un plus grand Peintre.</p>
-            <p>Je vous entends bien, luy dis-je,<pb n="34"/> c'est-à-dire, que <persName
-                  ref="#Raphael">Raphaël</persName> avec la correction de son Dessein, avoit
+                  <persName ref="#Pamphile">Pamphile</persName>, et j'estime que le <persName ref="#Titien">Titien</persName> est un plus grand Peintre.</p>
+            <p>Je vous entends bien, luy dis-je,<pb n="34" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f36.item"/> c'est-à-dire, que <persName ref="#Raphael">Raphaël</persName> avec la correction de son Dessein, avoit
                plusieurs autres talens, et que tout cela ensemble vous plaist davantage que le
                Coloris du <persName ref="#Titien">Titien</persName>.</p>
             <p>Je vous avoüe, dit <persName ref="#Pamphile">Pamphile</persName>, que je suis encore
-               assez irresolu : neantmoins la correction du Dessein de <persName ref="#Raphael"
-                  >Raphaël</persName>, l'élegance de ses contours, sa maniere de drapper, ses
+               assez irresolu : neantmoins la correction du Dessein de <persName ref="#Raphael">Raphaël</persName>, l'élegance de ses contours, sa maniere de drapper, ses
                expressions si touchantes, la facilité de son genie, ses compositions nobles, riches
                et abondantes, la grandeur, la simplicité et la vraysemblance de ses attitudes,
                enfin, les graces qu'il répandoit dans tous ses ouvrages, me l'ont fait preferer au
                   <persName ref="#Titien">Titien</persName>.</p>
-            <p>Quoy au <persName ref="#Titien">Titien</persName>, s'écria <persName ref="#Damon"
-                  >Damon</persName>, le plus grand Peintre, selon vous, qui ait jamais esté et qui
+            <p>Quoy au <persName ref="#Titien">Titien</persName>, s'écria <persName ref="#Damon">Damon</persName>, le plus grand Peintre, selon vous, qui ait jamais esté et qui
                sera peut-estre jamais.</p>
-            <p>Je vous l'avoüe, dit <persName ref="#Pamphile">Pamphile</persName>, mais <persName
-                  ref="#Raphael">Raphaël</persName>, avec tous les avantages que je viens de vous
-               dire, avoit encore celuy, d'estre entré sur la fin de sa vie<pb n="35"/> dans
+            <p>Je vous l'avoüe, dit <persName ref="#Pamphile">Pamphile</persName>, mais <persName ref="#Raphael">Raphaël</persName>, avec tous les avantages que je viens de vous
+               dire, avoit encore celuy, d'estre entré sur la fin de sa vie<pb n="35" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f37.item"/> dans
                l'inteligence des Lumieres et des Ombres, et d'avoir déja fait un si grand progrés
                dans le Coloris, qu'il auroit bientost possedé cette partie dans sa derniere
-               perfection. Ainsi je me persuade, si j'estois <persName ref="#Raphael"
-                  >Raphaël</persName>, que dans peu de temps je serois encore le <persName
-                  ref="#Titien">Titien</persName>.</p>
+               perfection. Ainsi je me persuade, si j'estois <persName ref="#Raphael">Raphaël</persName>, que dans peu de temps je serois encore le <persName ref="#Titien">Titien</persName>.</p>
             <p>Il semble, interrompis-je, que la pluspart des Peintres ne sont gueres persuadez que
                le Coloris soit aussi necessaire que vous le dites ; car leurs Ouvrages ne font pas
                extremement connoistre que cette partie leur plaise, ny qu'ils se mettent fort en
@@ -510,23 +489,18 @@
                pratiquent, puis qu'ils ne la sçavent pas (je parle pour la pluspart) et comment
                l'aimeront-ils, puisqu'ils ne l'ont jamais connue ̈?</p>
             <p>Il est vray, luy dis-je, qu'ils s'attachent beaucoup plus au Dessein.</p>
-            <p>Je le veux croire ? repartit <persName ref="#Pamphile">Pamphile</persName>;<pb n="36"
-               /> mais je ne voy pas que ce soit avec beaucoup de succés, puisque j'ay mesme lieu
+            <p>Je le veux croire ? repartit <persName ref="#Pamphile">Pamphile</persName>;<pb n="36" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f38.item"/> mais je ne voy pas que ce soit avec beaucoup de succés, puisque j'ay mesme lieu
                de douter qu'ils en sçachent tous les principes.</p>
             <p>Comment pouvez-vous dire cela, reprit <persName ref="#Damon">Damon</persName>,
                puisqu'on les voit dessiner avec tant de facilité d'aprés le Modele ?</p>
-            <p>Tant de facilité qu'il vous plaira, dit <persName ref="#Pamphile"
-                  >Pamphile</persName>, mais je vous assure que c'est bien tout ce qu'ils pourroient
+            <p>Tant de facilité qu'il vous plaira, dit <persName ref="#Pamphile">Pamphile</persName>, mais je vous assure que c'est bien tout ce qu'ils pourroient
                faire que de rendre raison de ce qu'ils dessinent.</p>
             <p>Mais ils font ce qu'ils voyent, dit <persName ref="#Damon">Damon</persName>.</p>
-            <p>Et s'ils ne sçavent ce qu'ils voyent, repliqua <persName ref="#Pamphile"
-                  >Pamphile</persName>.</p>
-            <p>Il faut bien qu'ils le sçachent vrayment, continua <persName ref="#Damon"
-                  >Damon</persName>, depuis le temps qu'ils dessinent.</p>
-            <p>Ils ne le sçavent pas, vous dis je poursuivit <persName ref="#Pamphile"
-                  >Pamphile</persName> : car cette connoissance dépend en partie de l'Anatomie, et
+            <p>Et s'ils ne sçavent ce qu'ils voyent, repliqua <persName ref="#Pamphile">Pamphile</persName>.</p>
+            <p>Il faut bien qu'ils le sçachent vrayment, continua <persName ref="#Damon">Damon</persName>, depuis le temps qu'ils dessinent.</p>
+            <p>Ils ne le sçavent pas, vous dis je poursuivit <persName ref="#Pamphile">Pamphile</persName> : car cette connoissance dépend en partie de l'Anatomie, et
                il y en a tres-peu qui la sçachent.</p>
-            <pb n="37"/>
+            <pb n="37" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f39.item"/>
             <p>Je m'en estonne, repris-je, car cela n'est pas apres tout si difficile, puisqu'il n'y
                a pas un petit Chirurgien qui n'en apprenne en un mois beaucoup plus qu'il n'en faut
                pour un Peintre.</p>
@@ -539,11 +513,10 @@
                   <placeName ref="#Rome">Rome</placeName>, continua t-il en me regardant, vous ne
                vous contenteriez pas de prendre un bon cheval, vous voudriez encore sçavoir la
                distance des lieux et tous les chemins que vous auriez à tenir.</p>
-            <p>Il est vray, luy dis-je, que sans cela,<pb n="38"/> je n'y arriverois que par 10 plus
+            <p>Il est vray, luy dis-je, que sans cela,<pb n="38" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f40.item"/> je n'y arriverois que par 10 plus
                grand hazard du monde. Mais comment les Peintres n'instruisent-ils pas leurs Eleves
                de cette science? poursuivis-je.</p>
-            <p>Il faut la bien sçavoir pour la bien montrer, répondit <persName ref="#Pamphile"
-                  >Pamphile</persName>, et je ne voudrois pas estre garant de leur capacité sur
+            <p>Il faut la bien sçavoir pour la bien montrer, répondit <persName ref="#Pamphile">Pamphile</persName>, et je ne voudrois pas estre garant de leur capacité sur
                cela.</p>
             <p>Tout au moins, repartis-je, devroient-ils en conseiller l'étude, et faire connoistre
                sa necessité.</p>
@@ -552,14 +525,13 @@
                Art, et a voulu que parmy les Professeurs qu'il y a gagez, il y en eust un
                specialement pour enseigner l'Anatomie, ce qui est un avantage considerable pour les
                Peintres de nostre Nation : pourveu toutefois que ce Professeur soit Peintre, et
-               qu'il sçache accommoder l'Anatomie à la Peinture : car un Chirurgien<pb n="39"/>
+               qu'il sçache accommoder l'Anatomie à la Peinture : car un Chirurgien<pb n="39" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f41.item"/>
                sera-plûtost capable de donner aux Peintres de l'aversion pour cette science, que de
                les en instruire facilement.</p>
             <p>Il est vray, dit <persName ref="#Damon">Damon</persName>, que de la maniere dont me
                parla dernierement un des plus habiles de cette Academie, les choses n'ont jamais
                esté plus favorablement disposées en nul lieu du monde pour faire d'excellens
-               Peintres, qu'elles le sont aujourd'huy dans nostre <placeName ref="#France"
-                  >France</placeName>.</p>
+               Peintres, qu'elles le sont aujourd'huy dans nostre <placeName ref="#France">France</placeName>.</p>
             <p>De sorte, continua-t-il, que vous croyez, que l'Anatomie est un des principes du
                Dessein, par où doivent commencer les jeunes gens qui vont à l'Academie.</p>
             <p>Oüy, sans doute, dit <persName ref="#Pamphile">Pamphile</persName>, s'ils veulent
@@ -567,7 +539,7 @@
             <p>Je sçay bien, reprit <persName ref="#Damon">Damon</persName>, qu'il faut supposer
                l'habitude dans la main, et la facilité d'imiter avec le crayon tout ce qui sera
                devant les yeux.</p>
-            <pb n="40"/>
+            <pb n="40" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f42.item"/>
             <p>Ce n'est pas assez, dit <persName ref="#Pamphile">Pamphile</persName>, il faut encore
                avoir le goust bon, et sçavoir les belles proportions pour corriger le Naturel, qui
                d'ordinaire est mesquin et defectueux.</p>
@@ -581,19 +553,17 @@
                esté touchez de quelques endroits bien ressentis, qu'ils ont remarquez dans les
                Antiques, ils ont crû qu'ils ne pouvoient mieux faire que de les bien retenir, ils
                s'en servent en toutes rencontres, sans sçavoir si l'action le demande ainsi ; ils
-               exagerent mesme<pb n="41"/> d'autant plus ces endroits qu'ils croyent par là attirer
+               exagerent mesme<pb n="41" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f43.item"/> d'autant plus ces endroits qu'ils croyent par là attirer
                plus d'admiration pour leurs ouvrages, et plus d'estime, pour eux-mesmes ; et c'est
                ce qu'ils appellent dessiner de grand goust et de grande maniere.</p>
-            <p>Peu de gens y prennent garde aprés tout, reprit <persName ref="#Damon"
-                  >Damon</persName>, et cela ne laisse pas de passer pour estre fort bien.</p>
-            <p>C'est que peu de gens s'y connoissent, repliqua <persName ref="#Pamphile"
-                  >Pamphile</persName> ; et dans la verité, tel qui se pâme d'admiration en voyant
+            <p>Peu de gens y prennent garde aprés tout, reprit <persName ref="#Damon">Damon</persName>, et cela ne laisse pas de passer pour estre fort bien.</p>
+            <p>C'est que peu de gens s'y connoissent, repliqua <persName ref="#Pamphile">Pamphile</persName> ; et dans la verité, tel qui se pâme d'admiration en voyant
                ces belles Antiques, et qui veut passer pour grand Connoisseur est tres-souvent fort
                éloigné de sçavoir la raison des beautez qu'il admire.</p>
             <p>Mais croyez-vous, poursuivit <persName ref="#Damon">Damon</persName>, que tous les
                Peintres qui ont eu de la reputation, ayent esté si sçavans dans l'Anatomie ?</p>
             <p>Non pas tous, répondit <persName ref="#Pamphile">Pamphile</persName>, mais les plus
-               habiles : car vous sçavez qu'il y a des genies assez heureux<pb n="42"/> pour
+               habiles : car vous sçavez qu'il y a des genies assez heureux<pb n="42" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f44.item"/> pour
                apprendre toutes choses sans autres regles que cellee de leur bon sens, avec une
                certaine lumiere naturelle qui leur fait suivre ce qui est bien, et fuir ce qui est
                mal. Et cela par des moyens qui leurs sont toûjours inconnus dans les commencemens,
@@ -603,29 +573,26 @@
                le principe dont je vous parle, est un chemin infaillible pour s'acquerir dans le
                Dessein une maniere trés-sçavante et tres-solide. Et si vous voulez en estre
                persuadé, prenez la peine de lire quelques vies des Peintres qui vivoient du temps
-               de <persName ref="#LeonX">Leon X</persName> et de <persName ref="#FrancoisIer"
-                  >Francois premier</persName> ; et vous verrez que ceux qui avoient le plus de
+               de <persName ref="#LeonX">Leon X</persName> et de <persName ref="#FrancoisIer">Francois premier</persName> ; et vous verrez que ceux qui avoient le plus de
                connoissaince dans le Dessein, se l'étoient acquise par le moyen de l'Anatomie.</p>
-            <pb n="43"/>
+            <pb n="43" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f45.item"/>
             <p>Ah! vous pa<reg>r</reg>lez d'un siecle bien different du nostre, interrompit
                   <persName ref="#Damon">Damon</persName> en soûpirant ; les Peintres de ce
                temps-là travailloient à s'établir une solide reputation, et ceux d'aujourd'huy ne
                travaillent la pluspart que pour amasser de l'argent. Cependant, ils ne laissent pas
                de se croire de fort grands personnages.</p>
-            <p>Et c'est en quoy leur mal est desesperé, repartit <persName ref="#Pamphile"
-                  >Pamphile</persName>, puisqu'ils ne sentent pas combien ils sont malades. Mais que
+            <p>Et c'est en quoy leur mal est desesperé, repartit <persName ref="#Pamphile">Pamphile</persName>, puisqu'ils ne sentent pas combien ils sont malades. Mais que
                dites-vous de moy, ajoûta-t-il, de vous parler des Peintres de cette sorte ?</p>
             <p>Nous sçavons, dit <persName ref="#Damon">Damon</persName>, que vous parlez de bonne
                foy, et que vous dites ce que vous pensez. Mais quand vous parlez d'eux de cette
                maniere, vous ne les y comprenez pas tous ?</p>
-            <p><persName ref="#Dieu">Dieu</persName> m'en garde, repartit <persName ref="#Pamphile"
-                  >Pamphile</persName>, vous sçavez bien que nous en connoissons de tres-habiles,
-               et d'autres qui s'avancent à grands pas dans<pb n="44"/> le chemin de la perfection
+            <p>
+               <persName ref="#Dieu">Dieu</persName> m'en garde, repartit <persName ref="#Pamphile">Pamphile</persName>, vous sçavez bien que nous en connoissons de tres-habiles,
+               et d'autres qui s'avancent à grands pas dans<pb n="44" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f46.item"/> le chemin de la perfection
                qu'ils ont heureusement rencontré.</p>
             <p>Mais dites-moy, je vous prie, continuay-je, d'où vous croyez que vienne
                l'indifference qu'ont la pluspart des Peintres pour le beau Coloris?</p>
-            <p>Cela vient à mon avis de plusieurs choses, dit <persName ref="#Pamphile"
-                  >Pamphile</persName>. Je vous ay déja répondu, que ce n'est point l'ordinaire
+            <p>Cela vient à mon avis de plusieurs choses, dit <persName ref="#Pamphile">Pamphile</persName>. Je vous ay déja répondu, que ce n'est point l'ordinaire
                d'estimer une chose, et d'en avoir le cœur touché quand on ne la connoist pas, et
                qu'il y a peu de Peintres qui connoissent cette partie de la Peinture.</p>
             <p>Il semble, luy dis-je, à vous entendre parler, que le Coloris soit une chose fort
@@ -633,26 +600,22 @@
             <p>Plus difficile que vous ne pensez, me dit il, et tout ce que j'ay à vous dire
                là-dessus, c'est que depuis prés de trois cent ans que la Peinture est resuscitée,
                à peine peut-on conter six Peintres qui ayent bien Colorié, et l'on en conteroit
-               pour le moins trente qui ont esté de tres-bons Dessinateurs.<pb n="45"/> Et la
+               pour le moins trente qui ont esté de tres-bons Dessinateurs.<pb n="45" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f47.item"/> Et la
                raison de cela est, que le Dessein a des regles fondées sur les proportions, sur
                l'Anatomie et sur une experience continuelle de la mesme chose : au lieu que le
                Coloris n'a point encore de regles bien connuës, et que l'experience qu'on y fait,
                estant quasi toûjours differente, à cause des differens sujets que l'on traite, n'a
                pû encore en etablir de bien precises.</p>
-            <p>Quoy le Coloris n'a point de regles ? repeit <persName ref="#Damon"
-               >Damon</persName>.</p>
+            <p>Quoy le Coloris n'a point de regles ? repeit <persName ref="#Damon">Damon</persName>.</p>
             <p>Je ne dis pas cela, repartit <persName ref="#Pamphile">Pamphile</persName>, mais
                seulement qu'elles ne sont gueres connuës.</p>
-            <p>Le <persName ref="#Titien">Titien</persName> à vostre avis, continua <persName
-                  ref="#Damon">Damon</persName>, et les autres bons Coloristes ne les ont-ils pas
+            <p>Le <persName ref="#Titien">Titien</persName> à vostre avis, continua <persName ref="#Damon">Damon</persName>, et les autres bons Coloristes ne les ont-ils pas
                connuës ces regles ?</p>
             <p>Je croy, dit <persName ref="#Pamphile">Pamphile</persName>, qu'ils en ont connu la
-               meilleure partie : mais <persName ref="#Giorgione">Giorgion</persName>, <persName
-                  ref="#Titien">Titien</persName>, <persName ref="#PeterPaulRubens"
-                  >Rubens</persName> et <persName ref="#VanDyck">Vandeik</persName>, plus que les
+               meilleure partie : mais <persName ref="#Giorgione">Giorgion</persName>, <persName ref="#Titien">Titien</persName>, <persName ref="#PeterPaulRubens">Rubens</persName> et <persName ref="#VanDyck">Vandeik</persName>, plus que les
                autres.</p>
             <p>Hé bien, dit, <persName ref="#Damon">Damon</persName>, ce qu'ils nous ont laissé
-               sont autant de Livres<pb n="46"/> publics qui peuvent instruire tous les Peintres. Il
+               sont autant de Livres<pb n="46" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f48.item"/> publics qui peuvent instruire tous les Peintres. Il
                n'y a qu'à bien examiner leurs ouvrages, les copier pendant un temps considerable,
                et faire dessus toutes les remarques qu'on croira necessaires pour en tirer du
                profit.</p>
@@ -665,7 +628,7 @@
                maniere à profiter de tout, à ne remarquer que ce qui est remarquable, et à
                penetrer les veritables causes des effets qu'on admire. Vous avez fort bien dit, que
                les Ouvrages de ces grands Hommes estoient des Livres où les preceptes du Coloris
-               estoient écrits :<pb n="47"/> mais ignorez-vous que toutes sortes de personnes ne
+               estoient écrits :<pb n="47" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f49.item"/> mais ignorez-vous que toutes sortes de personnes ne
                sont pas capables d'entendre tous les Livres et d'en profiter, principalement quand
                ils sont aussi difficiles à entendre que ceux-là ? Il y a des Peintres qui ont
                copié le <persName ref="#Titien">Titien</persName> durant beaucoup d'années, qui
@@ -678,22 +641,19 @@
                esté de ces gens-là ? (parlez-nous franchement;) car pour avoir autant copié, qu'il
                a fait, les Ouvrages du <persName ref="#Titien">Titien</persName>, les siens n'en
                tiennent gueres.</p>
-            <p>Vous parlez-là, me répondit <persName ref="#Pamphile">Pamphile</persName>,<pb
-                  n="48"/> d'un homme dont la memoirs sera toûjours en veneration à la posterité.
+            <p>Vous parlez-là, me répondit <persName ref="#Pamphile">Pamphile</persName>,<pb n="48" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f50.item"/> d'un homme dont la memoirs sera toûjours en veneration à la posterité.
                Il a possedé si, parfaitement le Dessein, il a traité si doctement ses sujets,
                enfin-il a sçeu tant d'autres parties necessaires à la Peinture, qu'on peut bien
                luy pardonner si les soins qu'il a pris à chercher le beau Coloris ne luy ont pas
                reussi.</p>
             <p>Vous tombez donc d'accord, reprit <persName ref="#Damon">Damon</persName>, qu'il n'a
-               pas compris l'artifice qui est dans les Tableaux du <persName ref="#Titien"
-                  >Titien</persName>.</p>
+               pas compris l'artifice qui est dans les Tableaux du <persName ref="#Titien">Titien</persName>.</p>
             <p>Non assurément, dit <persName ref="#Pamphile">Pamphile</persName>, et la plus grande
                partie de ses Ouvrages le font assez connoistre.</p>
-            <p>Il est bien vray, qu'aprés avoir copié des Ouvrages du <persName ref="#Titien"
-                  >Titien</persName>, ses Tableaux en avoient quelque chose ; mais ce n'en estoit
+            <p>Il est bien vray, qu'aprés avoir copié des Ouvrages du <persName ref="#Titien">Titien</persName>, ses Tableaux en avoient quelque chose ; mais ce n'en estoit
                que la superficie : Et s'il avoit veritablement compris les maximes, les finesses et
                les delicatesses du <persName ref="#Titien">Titien</persName>, il en auroit profité,
-               et ses auroit sans doute fait valoir ; il avoit trop de bon sens pour<pb n="49"/>
+               et ses auroit sans doute fait valoir ; il avoit trop de bon sens pour<pb n="49" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f51.item"/>
                n'en pas user de cette sorte. Le mesme esprit qui luy fit trouver des beautez dans
                les Ouvrages du <persName ref="#Titien">Titien</persName> jusqu'à s'attacher
                fortement à les copier, pour en imiter le Coloris, ce mesme esprit, bien loin de le
@@ -702,12 +662,11 @@
                auroient dû estre les plus forts.</p>
             <p>On pourra vous dire à cela, reprit <persName ref="#Damon">Damon</persName>, que le
                   <persName ref="#NicolasPoussin">Poussin</persName> dans ses commencemens, fût
-               d'abord attiré par la force que l'on voit dans les Tableaux du <persName
-                  ref="#Titien">Titien</persName>, qu'il se laissa surprendre aux attraits de leur
+               d'abord attiré par la force que l'on voit dans les Tableaux du <persName ref="#Titien">Titien</persName>, qu'il se laissa surprendre aux attraits de leur
                Coloris, et que c'est pour cette raison qu'il fit tous ses efforts pour se l'acquerir
                : mais que s'en étant approché de plus prés, pour ainsi dire, et ses études luy
                ayant donné plus de lumiere, il avoit trouvé que cette partie étoit
-                  d<unclear>a</unclear>ngereuse, (comme parlent quelques-uns) et de<pb n="50"/> peu
+                  d<unclear>a</unclear>ngereuse, (comme parlent quelques-uns) et de<pb n="50" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f52.item"/> peu
                de consequence, et qu'ainsi il devoit l'abandonner.</p>
             <p>Je vous répondray d'abord, dit <persName ref="#Pamphile">Pamphile</persName>, que la
                Peinture n'est faite que pour surprendre les yeux, que celle qui surprend le plus est
@@ -723,21 +682,19 @@
                l'autre.</p>
             <p>Pour lors, repliqua <persName ref="#Pamphile">Pamphile</persName>, ce n'est pas la
                faute du Coloris ; mais de l'esprit qui a trop peu d'étenduë pour faire attention
-               à deux choses en même<pb n="51"/> temps. Ce ne sont pas de ces sortes d'esprits que
+               à deux choses en même<pb n="51" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f53.item"/> temps. Ce ne sont pas de ces sortes d'esprits que
                demande la Peinture, elle n'admet dans ses bonnes graces que ceux qui sont capables
                d'embrasser plusieurs objets, ou qui sont si bien tournez et qui sçavent si bien se
                ménager qu'ils ne s'attachent qu'aux choses qui doivent augmenter par degrez leurs
                connoissances. Les nouvelles études qu'ils entreprennent ne leur font point oublier
                celles qu'ils ont déja faites, au contraire, ils fortifient les unes par les autres,
                et s'efforcent de les acquerir toutes, comme des moyens necessaires pour arriver à
-               leur fin. C'est de ce caractere qu'étoit l'esprit de <persName ref="#Raphael"
-                  >Raphaël</persName>, l'ordre et la netteté avec laquelle il concevoit les
+               leur fin. C'est de ce caractere qu'étoit l'esprit de <persName ref="#Raphael">Raphaël</persName>, l'ordre et la netteté avec laquelle il concevoit les
                choses, ne luy ont jamais permis de rien oublier, il augmentoit toûjours ses
                connoissances, et fortifioit par les nouvelles lumieres qu'il acqueroit, celles qu'il
                avoit déja acquises.</p>
             <p>Quoy, repartit <persName ref="#Damon">Damon</persName>, ne croyez.</p>
-            <p>vous pas que le <persName ref="#NicolasPoussin">Poussin</persName> ait eu l'esprit<pb
-                  n="52"/> d'une assez grande étenduë pour la Peinture?</p>
+            <p>vous pas que le <persName ref="#NicolasPoussin">Poussin</persName> ait eu l'esprit<pb n="52" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f54.item"/> d'une assez grande étenduë pour la Peinture?</p>
             <p>Pardonnez-moy, répondit <persName ref="#Pamphile">Pamphile</persName>, et c'est ce
                qui me fait croire que les recherches qu'il a si heureusement faites, du Dessein, de
                l'Antiquité et de tant d'autres belles choses, ne luy auroient point fait oublier
@@ -749,7 +706,7 @@
                pour le Coloris, tantôt pour le païsage, tantôt pour les animaux, et tantôt enfin
                pour quelqu'autre talent, soit qu'elle les verse liberalement, ou qu'on les ait
                meritées par les recherches assiduës qu'on en aura faites.</p>
-            <pb n="53"/>
+            <pb n="53" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f55.item"/>
             <p>Mais encore, poursuivit <persName ref="#Damon">Damon</persName>, d'où vient que
                cette connoissance du Coloris, que vous dites, que la plûpart des Peintres n'ont
                pas, leur est si difficile à acquerir ?</p>
@@ -762,7 +719,7 @@
                de leurs Maîtres et ceux qui sont publics ; ils estiment naturellement les premiers,
                et se nourrissent insensiblement l'esprit par la veuë des autres. Et cela se fait
                avec d'autant plus de facilité, que ces ouvrages sont les objets qui se presentent
-               les premiers à leurs yeux et à leur<pb n="54"/> esprit. C'est enfin cotte premiere
+               les premiers à leurs yeux et à leur<pb n="54" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f56.item"/> esprit. C'est enfin cotte premiere
                liqueur, laquelle étant mise dans un vaisseau tout neuf, y communique tellement son
                odeur, que quoy qu'on puisse faire pour l'en ôter, elle y demeure tres longtemps.
                Ainsi les Peintres qui se sont nourris l'esprit de cette sorte, ont deux choses à
@@ -775,20 +732,19 @@
                peindre.</p>
             <p>Et quel moyen donc de fortir de là ? poursuivis-je.</p>
             <p>Pour moy, dit <persName ref="#Pamphile">Pamphile</persName>, je croirois (supposé
-               qu'on en eut bien envie) qu'il faudroit changer du blanc au<pb n="55"/> noir, et
+               qu'on en eut bien envie) qu'il faudroit changer du blanc au<pb n="55" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f57.item"/> noir, et
                porter les choses dans l'autre extremité pendant quelque temps. Et si l'on faisoit
                bien (poursuivit il d'un ton railleur) l'on interposeroit l'autorité des Magistrats,
                afin d'interdire pour six ans aux Peintres, la Laque et la Terre verte.</p>
             <p>C'est en effet, repartit <persName ref="#Damon">Damon</persName>, porter les choses
                dans l'extremité. Je sçay bien que les grands maux demandent de grands remedes :
                mais quel moyen de se passer d'une couleur aussi necessaire qu'est la Laque?</p>
-            <p>Je ne la retranche pas pour toûjours, reprit <persName ref="#Pamphile"
-                  >Pamphile</persName> ; on y reviendroit, comme un convalescent revient à la
+            <p>Je ne la retranche pas pour toûjours, reprit <persName ref="#Pamphile">Pamphile</persName> ; on y reviendroit, comme un convalescent revient à la
                viande solide, qu'on lui a défenduë pendant sa maladie, et d'autant plus que cette
                maladie étoit causée de repletion.</p>
             <p>Je vous entends fort bien, dit <persName ref="#Damon">Damon</persName> ; mais quand
                on revient en convalescence, sçavez-vous que l'on a ordinairement un trop grand
-               appetit, et principalement des viandes qui<pb n="56"/> ont êté défenduës pendant
+               appetit, et principalement des viandes qui<pb n="56" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f58.item"/> ont êté défenduës pendant
                la maladie ?</p>
             <p>Je le sçay fort bien, repliqua <persName ref="#Pamphile">Pamphile</persName> ; et
                c'est pour cela que l'on ordonne au convalescent un regime de vivre, jusques à ce
@@ -801,7 +757,7 @@
                état de se servir utilement de toutes leurs Couleurs.</p>
             <p>Le regime est merveilleux, dit <persName ref="#Damon">Damon</persName> en se mettant
                à rire : mais je ne tiens pas, continua-t-il, que l'exécution en soit aisée. Les
-               Tableaux bien conduits de Lumieres et de Couleurs,<pb n="57"/> tels que vous les
+               Tableaux bien conduits de Lumieres et de Couleurs,<pb n="57" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f59.item"/> tels que vous les
                demandez, sont rares, et la difficulté de les avoir pour quelque temps, est assez
                grande.</p>
             <p>L'amour est ingenieux, repliqua <persName ref="#Pamphile">Pamphile</persName>, et
@@ -816,37 +772,31 @@
                seulement les bons endroits, et qu'on neglige, si l'on veut, le reste : que l'on voye
                souvent les Cabinets des particuliers, et celuy du Roy, toutes les fois qu'on le
                pourra.</p>
-            <p>Vous abandonnez bien vôtre amy<pb n="58"/>
+            <p>Vous abandonnez bien vôtre amy<pb n="58" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f60.item"/>
                <persName ref="#PeterPaulRubens">Rubens</persName> dans l'occasion, interronpit
                   <persName ref="#Damon">Damon</persName>. Estes-vous broüillé avec luy, depuis que
                je vous ay oüy tant priser ses Ouvrages ?</p>
-            <p>Je vous en allois parler, quand vous m'avez interrompu, dit <persName ref="#Pamphile"
-                  >Pamphile</persName>, quoy que je n'aye rien à ajoûter à ce que je vous en ay
+            <p>Je vous en allois parler, quand vous m'avez interrompu, dit <persName ref="#Pamphile">Pamphile</persName>, quoy que je n'aye rien à ajoûter à ce que je vous en ay
                dit autrefois. Je vous diray seulement à cause de la matiere que nous traitons, et
                de l'endroit où nous sommes tombez, que le meilleur conseil que j'aurois à donner
                aux Peintres, dont nous parlons (si j'étois capable de leur en donner ) ce seroit de
-               voir pendant un an, tous les huit jours une fois, <placeName>la gallerie du
-                  Luxembourg</placeName>, de quitter toutes choses, et de ne rien épargner pour
-               cela. Ce jour seroit sans doute le plus utilement employé de la semaine. <persName
-                  ref="#PeterPaulRubens">Rubens</persName> est ce me femble celuy de tous les
+               voir pendant un an, tous les huit jours une fois, <objectName ref="#RubensCycleMedicisLuxembourg">la gallerie du
+                  Luxembourg</objectName>, de quitter toutes choses, et de ne rien épargner pour
+               cela. Ce jour seroit sans doute le plus utilement employé de la semaine. <persName ref="#PeterPaulRubens">Rubens</persName> est ce me femble celuy de tous les
                Peintres, qui a rendu le chemin qui conduit au Coloris, plus facile et plus
-               débarassé : Et l'Ouvrage dont je vous parle, est la main secourable<pb n="59"/> qui
+               débarassé : Et l'Ouvrage dont je vous parle, est la main secourable<pb n="59" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f61.item"/> qui
                peut tirer le Peintre du naufrage où il se seroit innocemment engagé.</p>
             <p>Il faut joindre cela au regime, dit <persName ref="#Damon">Damon</persName> en
-               souriant. Je sçay bien, continua-t-il, que <persName ref="#PeterPaulRubens"
-                  >Rubens</persName> est un de vos Heros de Peinture, et que vous avez toûjours
-               estimé l'Ouvrage qui est dans la <placeName>gallerie du Luxembourg</placeName>,
-               comme une des plus belles choses qui soient dans l'<placeName ref="#Europe"
-                  >Europe</placeName>, si l'on en retranchoit (disiez-vous) en beaucoup d'endroits
+               souriant. Je sçay bien, continua-t-il, que <persName ref="#PeterPaulRubens">Rubens</persName> est un de vos Heros de Peinture, et que vous avez toûjours
+               estimé <objectName ref="#RubensCycleMedicisLuxembourg">l'Ouvrage qui est dans la gallerie du Luxembourg</objectName>,
+               comme une des plus belles choses qui soient dans l'<placeName ref="#Europe">Europe</placeName>, si l'on en retranchoit (disiez-vous) en beaucoup d'endroits
                le goût de Dessein dont il n'est pas question presentement. Mais tout le monde n'est
                pas de vôtre goût, et ceux qui sont d'un sentiment contraire, disent qu'on trouve
-               peu de verité dans les Ouvrages de <persName ref="#PeterPaulRubens"
-                  >Rubens</persName>, quand on les examine de prés, que les Couleurs et les
+               peu de verité dans les Ouvrages de <persName ref="#PeterPaulRubens">Rubens</persName>, quand on les examine de prés, que les Couleurs et les
                Lumieres y sont exagerées, que ce n'est qu'un fard, et qu'enfin ce n'est point ainsi
                que l'on voit ordinairement la Nature.</p>
-            <p>O le beau fard : s'écria <persName ref="#Pamphile">Pamphile</persName>,<pb n="60"/>
-               et plût à <persName ref="#Dieu">Dieu</persName>, mon cher <persName ref="#Damon"
-                  >Damon</persName>, que les Tableaux qu'on fait aujourd'huy, fussent fardez de
+            <p>O le beau fard : s'écria <persName ref="#Pamphile">Pamphile</persName>,<pb n="60" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f62.item"/>
+               et plût à <persName ref="#Dieu">Dieu</persName>, mon cher <persName ref="#Damon">Damon</persName>, que les Tableaux qu'on fait aujourd'huy, fussent fardez de
                cette sorte : ne sçavez-vous pas que la Peinture n'est qu'un fard, qu'il est de son
                essence de tromper, et que le plus grand trompeur en cet Art est le plus grand
                Peintre. La Nature est ingrate d'elle-même, et qui s'attacheroit à la copier
@@ -855,9 +805,8 @@
                les Lumieres, est une admirable industrie, qui fait paroître les objets peints plus
                veritables (s'il faut ainsi dire) que les veritables mêmes. C'est ainsi que les
                Tableaux de <persName ref="#PeterPaulRubens">Rubens</persName> sont plus beaux que la
-               Nature, laquelle semble n'être que la copie des Ouvrages de <persName
-                  ref="#PeterPaulRubens">ce grand Homme</persName>. Et quand les choses aprés être
-               bien examinées ne se trouveroient pas justes, comme vous le<pb n="61"/> supposez,
+               Nature, laquelle semble n'être que la copie des Ouvrages de <persName ref="#PeterPaulRubens">ce grand Homme</persName>. Et quand les choses aprés être
+               bien examinées ne se trouveroient pas justes, comme vous le<pb n="61" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f63.item"/> supposez,
                qu'importe, pourvû qu'elles le paroissent ; puisque la fin de la Peinture n'est pas
                tant de convaincre l'esprit que de tromper les yeux.</p>
             <p>Cet artifice, dit <persName ref="#Damon">Damon</persName>, me semble merveilleux dans
@@ -867,13 +816,12 @@
                sensible à ceux qui sont capables d'y faire attention et de l'examiner : car aux
                personnes qui ne s'y connoissent que peu, rien n'est plus caché que cet
                Artifice.</p>
-            <p>Et <persName ref="#VanDyck">Vandeik</persName>, interrompit <persName ref="#Damon"
-                  >Damon</persName>, ne trouvera-t-il point icy quelque place ?</p>
+            <p>Et <persName ref="#VanDyck">Vandeik</persName>, interrompit <persName ref="#Damon">Damon</persName>, ne trouvera-t-il point icy quelque place ?</p>
             <p>Quand je parle de <persName ref="#PeterPaulRubens">Rubens</persName>, reprit
                   <persName ref="#Pamphile">Pamphile</persName>, j'entens, comme vous sçavez, toute
                son école. Neanmoins, vous avez raison de vouloir que l'on fasse un cas particulier
                de <persName ref="#VanDyck">cet illustre Disciple</persName> ; puisque s'il n'a pas
-               eu tant de Genie que son Maistre, ny tant de talent pour les grandes<pb n="62"/>
+               eu tant de Genie que son Maistre, ny tant de talent pour les grandes<pb n="62" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f64.item"/>
                exécutions, il l'a surpassé en bien des rencontres dans certaines delicatesses de
                l'Art, et il est constant qu'il a fait des carnations plus fraîches et plus
                veritables que <persName ref="#PeterPaulRubens">Rubens</persName>.</p>
@@ -886,7 +834,7 @@
                les Tableaux bien Coloriez, bien loin de prendre la peine de vouloir les imiter dans
                ce qu'ils font, veulent qu'on donne des loüanges à leurs Tableaux qui à l'égard
                de cette partie, en sont extrêmement éloignez. Ainsi jugez vous-même, s'il y a
-               lieu d'esperer ce changement si prompt, lequel-ne se peut faire<pb n="63"/> qu'en
+               lieu d'esperer ce changement si prompt, lequel-ne se peut faire<pb n="63" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f65.item"/> qu'en
                profitant de la veuë des belles choses.</p>
             <p>Il ne laisse pas, interrompit <persName ref="#Damon">Damon</persName>, d'y avoir dans
                   <placeName ref="#Paris">Paris</placeName> beaucoup de beaux Tableaux.</p>
@@ -897,16 +845,18 @@
                   Teste</persName>, qui sont un cahos de bizareries, pendant qu'ils ne connoissent
                pas seulement le nom d'<persName ref="#OttoVanVeen">Otho Vænius</persName>, dont les
                Ouvrages meritent assurement beaucoup de loüange.</p>
-            <p><persName ref="#OttoVanVeen">Otho Vænius</persName>? repeta <persName ref="#Damon"
-                  >Damon</persName>. N'est-ce pas luy qui a fait les emblêmes d'<persName
-                  ref="#Horace">Horace</persName>, celles des Amours divin et profane, et la vie de
-                  <persName ref="#SaintThomas">saint Thomas d'Aquin</persName> ?</p>
+            <p>
+               <persName ref="#OttoVanVeen">Otho Vænius</persName>? repeta <persName ref="#Damon">Damon</persName>. N'est-ce pas luy qui a fait <objectName ref="#OttoVanVeenEmblemesHorace">les emblêmes d'<persName ref="#Horace">Horace</persName>
+               </objectName>, <objectName ref="#OttoVanVeenEmblemesAmour">celles des Amours divin et profane</objectName>, et <objectName ref="#OttoVanVeenThomasAquin">la vie de
+                  <persName ref="#SaintThomas">saint Thomas d'Aquin</persName>
+               </objectName>?</p>
             <p>Luy-même, dit <persName ref="#Pamphile">Pamphile</persName>.</p>
-            <p>Il est vray que je n'en ay jamais<pb n="64"/> oüy parler à aucun Peintre, continua
+            <p>Il est vray que je n'en ay jamais<pb n="64" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f66.item"/> oüy parler à aucun Peintre, continua
                   <persName ref="#Damon">Damon</persName>, et c'est peut-être qu'il n'a pas fait
                beaucoup d'ouvrages.</p>
             <p>C'est pour cela, repliqua <persName ref="#Pamphile">Pamphile</persName>, qu'on les
-               doit d'autant plus tenir chers et les conserver plus soigneusement<reg>.</reg></p>
+               doit d'autant plus tenir chers et les conserver plus soigneusement<reg>.</reg>
+            </p>
             <p>Mais il semble, dit <persName ref="#Damon">Damon</persName>, que ses figures sont un
                peu courtes.</p>
             <p>Si cet excellent Homme, répondit <persName ref="#Pamphile">Pamphile</persName>, a
@@ -916,7 +866,7 @@
                les expressions en sont pour la plûpart, belles et naturelles. Les pieds et les
                mains en sont correctement dessinez, les Draperies bien jettées, les plis beaux et
                dans la place qu'il est necessaire pour marquer agréablement le nud, et pour en
-               conserver les masses. Mais ce qui se<pb n="65"/> voit par excellence dans ses
+               conserver les masses. Mais ce qui se<pb n="65" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f67.item"/> voit par excellence dans ses
                Ouvrages, c'est une admirable intelligence de Lumieres et d'Ombres sur les Figures en
                particulier, et dans toute l'œconomie de l'ouvrage : enfin l'on y voit un grand art
                par tout. Aussi ne vous en étonnerez-vous pas quand je vous diray qu'il étoit le
@@ -929,15 +879,12 @@
                Mais n'y a-t-il que les Livres d'<persName ref="#OttoVanVeen">Otho
                Vaænius</persName>, où l'on voye cet agreable artifice du Jour et de l'Ombre.</p>
             <p>Pardonnez-moy, répondit <persName ref="#Pamphile">Pamphile</persName> ; tout ce qui
-               se voit de bien gravé d'aprés les Ouvrages du <persName ref="#Titien"
-                  >Titien</persName>, et d'aprés ceux de l'école de<pb n="66"/>
+               se voit de bien gravé d'aprés les Ouvrages du <persName ref="#Titien">Titien</persName>, et d'aprés ceux de l'école de<pb n="66" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f68.item"/>
                <persName ref="#PeterPaulRubens">Rubens</persName>, en donne encore
                l'intelligence.</p>
             <p>Et qu'appellez-vous bien graver, reprit <persName ref="#Damon">Damon</persName> ?
-               Est-ce couper le cuivre hardiment comme <persName ref="#HendrickGoltzius"
-                  >Goltius</persName>, ou poliment comme <persName ref="#AbrahamBloemaert"
-                  >Bloemart</persName> et<persName ref="#MichelNatalis">Natalis</persName> ?</p>
-            <p>Ce n'est pas cela précisément, repliqua Pamplile, la premiere façon que vous
+               Est-ce couper le cuivre hardiment comme <persName ref="#HendrickGoltzius">Goltius</persName>, ou poliment comme <persName ref="#AbrahamBloemaert">Bloemart</persName> et<persName ref="#MichelNatalis">Natalis</persName> ?</p>
+            <p>Ce n'est pas cela précisément, repliqua <persName ref="#Pamphile">Pamphile</persName>, la premiere façon que vous
                attribuez à <persName ref="#HendrickGoltzius">Goltius</persName> n'y est pas mesme
                fort propre ; puisque pour bien graver, il ne faut pas, s'il est posfible, que le
                Graveur se fassee reconnoistre dans son Ouvrage : il doit simplement faire en sorte
@@ -947,7 +894,7 @@
                ?</p>
             <p>Non vrayement, repartit <persName ref="#Pamphile">Pamphile</persName>, et il y en a
                peu qui le sachent faire, lors principalement qu'ils ont à graver un Tableau bien
-               Colorié et bien entendu de Lumieres et d'Ombres.<pb n="67"/> Ils en imitent les
+               Colorié et bien entendu de Lumieres et d'Ombres.<pb n="67" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f69.item"/> Ils en imitent les
                figures comme si elles estoient de Sculpture, et comme d'une même Couleur. Cependant
                les oppositions qui se trouvent dans les Tableaux par les differens tons de Couleurs,
                contribuant extrêmement à leur donner de la force, il n'est pas étonnant que leurs
@@ -959,8 +906,7 @@
                et à <persName ref="#MichelNatalis">Natalis</persName>, elles sont sans contredit
                les plus agréables, quand les choses, dont je viens de vous parler, s'y rencontrent.
                Mais parmy toutes les Estampes où l'on voit ce bel artifice du clair-obseur, celles
-               qui ont été gravées d'aprés les œuvres de <persName ref="#PeterPaulRubens"
-                  >Rubens</persName>,<pb n="68"/> me semblent d'une beauté incomparable.</p>
+               qui ont été gravées d'aprés les œuvres de <persName ref="#PeterPaulRubens">Rubens</persName>,<pb n="68" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f70.item"/> me semblent d'une beauté incomparable.</p>
             <p>Et moy, dit <persName ref="#Damon">Damon</persName>, j'ay veu de nos Peintres et des
                plus habiles, qui ne pouvoient souffrir ces Estampes ; parce que, disoient-ils, elles
                sentoient le Flamand.</p>
@@ -972,7 +918,7 @@
                ils n'ont assurement pas raison. Il faut estimer les choses pour ce qu'elles valent :
                Il n'y a point de Tableau parfait, et les plus beaux ne sont estimez tels, que pour
                estre les moins mal. Il est donc ridicule de mépriser un Ouvrage qui n'est
-               defectueux que par une seule chose, quand il est recommandable<pb n="69"/> par
+               defectueux que par une seule chose, quand il est recommandable<pb n="69" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f71.item"/> par
                beaucoup d'autres : Si le Dessein n'est pas ce qu'on doit estimer davantage dans les
                Estampes de <persName ref="#PeterPaulRubens">Rubens</persName>, il y a assez d'autres
                parties qui les rendent considerables, et qui malheureusement pour les Peintres dont
@@ -985,7 +931,7 @@
                reprendre à plusieurs fois les matieres qui sont de quelque conséquence : les
                lumieres ne viennent pas tout d'un coup ; et ce que l'on a condamné dans un temps,
                est bien souvent approuvé dans un autre, par des raisons plus fortes. Il faut
-               chercher de bonne foy la verité,<pb n="70"/> et s'y rendre quand on l'a une fois
+               chercher de bonne foy la verité,<pb n="70" facs="https://gallica.bnf.fr/ark:/12148/bpt6k111107n/f72.item"/> et s'y rendre quand on l'a une fois
                trouvée.</p>
             <p>Il est vray, dit <persName ref="#Damon">Damon</persName>, que voila la troisiéme
                Conference qui se fait sur cette matiere. Mais quand on auroit décidé quelque
@@ -999,8 +945,7 @@
                tard, luy dit que ce seroit pour une autre fois. Là-dessus aprés quelques civilitez
                de part et d'autre, ils se retirerent chez-eux, et me laisserent fort satisfait de
                leur entretien.</p>
-            <p>De l'Imprimerie d'<persName>Antoine Lambin</persName>, <date when="#1699"
-               >1699</date>.</p>
+            <p>De l'Imprimerie d'<persName>Antoine Lambin</persName>, <date when="#1699">1699</date>.</p>
          </div1>
       </body>
    </text>

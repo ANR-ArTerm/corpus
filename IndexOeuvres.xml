@@ -7,6 +7,9 @@
         <object xml:id="AgnoloGaddiTour">
             <p>Giotto, Campanile de Santa Maria del Fiore</p>
         </object>
+        <object xml:id="AgostinoVenezianoEcoleAthenes">
+            <p>AgostinoVeneziano, Groupe de figures issues de l'Ecole d'Athènes de Raphaël</p>
+        </object>
         <object xml:id="AndreaAndreaniTriompheGrave">
             <p>AndreaAndreani, Les Triomphes de Jules César</p>
         </object>
@@ -29,7 +32,7 @@
             <p>Inconnu, Basilique Saint Augustin</p>
         </object>
         <object xml:id="BasiliqueSantaMariaDelPopolo">
-            <p>Inconnu, Basilique Santa Maria del Popolo</p>
+            <p>None, Basilique Santa Maria del Popolo</p>
         </object>
         <object xml:id="BibliothequeAmbrosienneMilan">
             <p>Inconnu, Bibliothèque Ambrosienne</p>
@@ -48,6 +51,9 @@
         </object>
         <object xml:id="ColonneAntonine">
             <p>Inconnu, Colonne Antonine</p>
+        </object>
+        <object xml:id="ColonneMarcAureleRome">
+            <p>Inconnu, Colonne de Marc-Aurèle</p>
         </object>
         <object xml:id="ColonneTrajane">
             <p>Inconnu, Colonne Trajane</p>
@@ -135,9 +141,6 @@
         </object>
         <object xml:id="LoSpagnaRaphaelJardinOlivier">
             <p>LoSpagna, Copie du Jardin des oliviers Raphael</p>
-        </object>
-        <object xml:id="LogesVatican">
-            <p>Inconnu, Loges vaticanes</p>
         </object>
         <object xml:id="Louvre">
             <p>Inconnu, Louvre</p>
@@ -337,7 +340,7 @@
         <object xml:id="RaphaelPalaSanNicola">
             <p>Raphael, Retable Baronci</p>
         </object>
-        <object xml:id="RaphaelPanasse">
+        <object xml:id="RaphaelParnasse">
             <p>Raphael, Parnasse</p>
         </object>
         <object xml:id="RaphaelPortementCroix">
@@ -406,11 +409,11 @@
         <object xml:id="RaphaelViergeLorette">
             <p>Raphael, La Vierge de Lorette</p>
         </object>
+        <object xml:id="RembrandtJeuneFilleDulwich">
+            <p>Rembrandt, Jeune fille à la fenêtre</p>
+        </object>
         <object xml:id="RubensAnghiari">
             <p>PeterPaulRubens, Bataille d'Anghiari</p>
-        </object>
-        <object xml:id="RubensCycleMedicisLuxembourg">
-            <p>PeterPaulRubens, Cycle de Marie de Médicis</p>
         </object>
         <object xml:id="RubensNaissanceLouisXIII">
             <p>PeterPaulRubens, Naissance de Louis XIII à Fontainebleau le 27 septembre 1601</p>
@@ -425,7 +428,7 @@
             <p>Inconnu, Eglise de Saint-Thomas de Pavie</p>
         </object>
         <object xml:id="SainteMariePaixRome">
-            <p>Inconnu, Sainte Marie de la Paix</p>
+            <p>Bramante, Église Sainte-Marie-de-la-Paix</p>
         </object>
         <object xml:id="Salle500Florence">
             <p>Inconnu, Salle des Cinq-Cents, Palazzo Vecchio</p>
@@ -453,9 +456,6 @@
         </object>
         <object xml:id="SimoneMemmiLaureSade">
             <p>SimoneMemmi, Portrait de La belle Laure</p>
-        </object>
-        <object xml:id="StanzeVatican">
-            <p>Inconnu, Chambres de Raphaël au Vatican</p>
         </object>
         <object xml:id="TafiDiRicoChristFlorence">
             <p>AndreaTafiDiRico, Le Christ Pantocrator au plafond du baptistère Saint-Jean-Baptiste de Florence</p>
