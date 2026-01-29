@@ -1212,7 +1212,7 @@
 						la même intention d'instruire et d'édifier, ne sauroit suivre un meilleur
 						modéle.</p>
 					<p><persName ref="#NicolasPoussin">Le Poussin</persName>, qui dans son
-							<objectName>Tableau de <persName ref="#Moise"
+							<objectName ref="#PoussinMoise">Tableau de <persName ref="#Moise"
 							>Moise</persName></objectName> trouvé, a tenu la même conduite pour
 						représenter le Fleuve du <placeName ref="#Nil">Nil</placeName>, en a été
 						blâmé par quelques personnes, et voicy la raison qu'ils en apportent.</p>
@@ -3489,8 +3489,7 @@
 							<persName ref="#InnocentVIII">Innocent VIII</persName></objectName> et <objectName ref="#PinturicchioAppartementsBorgia">pour <persName
 							ref="#AlexandreVI">Alexandre VI</persName></objectName>. La cause de 1a mort est
 						assez curieuse à savoir. Etant à <placeName ref="#Sienne"
-						>Sienne</placeName>, les Religieux de Saint François, qui vouloient avoir
-							<objectName>un Tableau de sa main</objectName>, luy donnérent une
+						>Sienne</placeName>, les Religieux de Saint François, qui vouloient avoir un Tableau de sa main, luy donnérent une
 						chambre pour travailler plus commodément, et afin que le lieu ne fut
 						embarassé d'aucune chose inutile à son Art, ils en ôterent tous les meubles,
 						à la réserve d'une vieille Armoire, qui leur sembla trop <pb n="156"/>
@@ -3745,7 +3744,7 @@
 						capable.</p>
 					<p>Les Expressions de <persName ref="#LeonardoDaVinci">Leonard de
 							Vinci</persName> sont tres-vives et tres-spirituelles. J'ay un Dessein
-						de sa main de cette fameuse <objectName>Céne</objectName> qu'il a peinte à
+						de sa main de cette fameuse <objectName ref="#LeonardCeneMilan">Céne</objectName> qu'il a peinte à
 							<placeName ref="#Milan">Milan</placeName>, et dont on ne voit presque
 						plus aucun vertige. Ce Dessein seul est preuve suffisante, pour montrer
 						combien profondément il pénétroit dans le coeur humain, et avec<pb n="166"
@@ -3785,7 +3784,7 @@
 					<p>
 						<hi rend="it">Le prémier des exemples qu'il nous a laissez, est le Tableau
 							qu'il a peint à <placeName ref="#Milan">Milan</placeName> de
-								<objectName>la Céne de Nôtre- Seigneur</objectName>, dans laquelle
+							<objectName ref="#LeonardCeneMilan">la Céne de Nôtre- Seigneur</objectName>, dans laquelle
 							il a réprésenté les Apôtres dans les places qui leur conviennent, et
 							Nôtre-Seigneur dans la plus honorable au milieu de tous, n'ayant
 							personne qui le presse, ni qui soit trop prés de ses côtez. Son Attitude
@@ -3805,8 +3804,8 @@
 						faits, et que <persName ref="#PeterPaulRubens">Rubens</persName> avoit vu
 						parmi les curiositez d'un nommé <persName ref="#PompeoLeoni">Pompée
 							Leoni</persName>, qui étoit d'<placeName ref="#Arezzo"
-							>Arezzo</placeName>. Il continue par l'<objectName>Anatomie des
-							Chevaux</objectName>, et par les Observations que <persName
+							>Arezzo</placeName>. Il continue par l'Anatomie des
+							Chevaux, et par les Observations que <persName
 							ref="#LeonardoDaVinci">Leonard</persName> avoit faites sur la
 						Phisionomie, dont <persName ref="#PeterPaulRubens">Rubens</persName> avoit
 						vû pareillement les Desseins ; et il finit par la méthode dont ce Peintre
@@ -3908,15 +3907,14 @@
 							>Vatican</placeName>. <persName ref="#Raphael">Raphaël</persName>
 						commença pa le Tableau qu'on appelle<objectName ref="#RaphaelEcoleAthenes"> l'Ecole
 							d'Athénes</objectName>, puis <objectName ref="#RaphaelDisputeSacrement">la Dispute du saint
-							Sacrement</objectName>, et ensuite <objectName>les autres qui sont dans
+								Sacrement</objectName>, et ensuite <objectName ref="#RaphaelChambreSignature">les autres qui sont dans
 							la Chambre de la Signature</objectName>. Les soins qu'il y prit sont
 						incroyables ; aussi ne furent-ils pas infructueux, car la reputation de ces
 						Ouvrages porta le nom de <persName ref="#Raphael">Raphaël</persName> par
 						tout le Monde. Il forma la délicatesse de son Goût sur les Satues et sur les
 						Bas-reliefs Antiques qu'il dessin long-tems avec une extréme application. Et
 						il joignit à cette delicatesse une grandeur de maniére que la vue de la
-							<placeName>Chapelle de <persName ref="#MichelAnge"
-							>Michelange</persName></placeName> luy inspira tout d'un coup. <ref
+						<objectName ref="#ChapelleSixtine">Chapelle de <persName ref="#MichelAnge">Michelange</persName> </objectName>luy inspira tout d'un coup. <ref
 							target="#N4"/>Ce fut <persName ref="#Bramante">Bramante</persName> son
 						Ami qui <note xml:id="N4"> * <persName ref="#GiovanniPietroBellori">Piétre
 								Bellori</persName> dans son Livre intitulé: <hi rend="it"
@@ -3930,8 +3928,8 @@
 								ref="#MichelAnge">Michelange</persName> et <persName ref="#Raphael"
 								>Raphaël</persName>, et, qui, bien loin d'avoir été contredit par
 							aucun Ecrivian de ces tems-là, se trouve soutenu en cela par trois
-							Auteurs qui ont écrit en particulier <objectName>la Vie de <persName
-									ref="#MichelAnge">Michelange</persName></objectName>. Mais ce
+							Auteurs qui ont écrit en particulier <bibl key="">la Vie de <persName
+									ref="#MichelAnge">Michelange</persName></bibl>. Mais ce
 							qui est une grande présomption, que <persName ref="#Raphael"
 								>Raphaël</persName> ait voulu profiter des Ouvrages de <persName
 								ref="#MichelAnge">Michelange</persName> pour agrandir sa maniére,
@@ -3939,7 +3937,7 @@
 								>Raphaël</persName> ; au dos duquel Dessein est une Etude du même
 								<persName ref="#Raphael">Raphaël</persName>, dessinée d'aprés une
 							Figure que <persName ref="#MichelAnge">Michelange</persName> a peinte
-							dans la <objectName>Chapelle du Pape</objectName></note>
+							dans la <objectName ref="#ChapelleSixtine">Chapelle du Pape</objectName></note>
 						<pb n="173"/> l'y fit entrer contre la défense générale que luy en avoit
 						fait <persName ref="#MichelAnge">Michelange</persName> en luy en confiant la
 						clef. Outre les peines que que <persName ref="#Raphael">Raphaël</persName>
@@ -3957,10 +3955,10 @@
 						laborieux, on voit fort peu de Tableaux faits de propre main ; il s'occupoit
 						plus ordinairement à dessiner, pour ne point laisser inutiles le grand
 						nombre d'Eléves qu'ont exécuté ses Desseins en plusieurs endroits,
-						principalement dans les Loges et dans les Appartemens du <placeName
-							ref="#Vatican">Vatican</placeName> ; dans l'Eglise de Nôtre-Dame de la
-						Paix, et dans le <placeName>Palais Ghigi</placeName>, à la résérve de la
-						Galatée et d'un seul Angle, où sont les trois Déesses qu'il a peint
+						principalement dans les <objectName ref="#LogesVatican">Loges</objectName> et dans <objectName ref="#StanzeVatican">les Appartemens du <placeName
+								ref="#Vatican">Vatican</placeName> </objectName>; dans <objectName ref="#SainteMariePaixRome">l'Eglise de Nôtre-Dame de la
+									Paix</objectName>, et dans le <objectName ref="#VillaFarnesina">Palais Ghigi</objectName>, à la résérve de la
+						<objectName ref="#RaphaelGalatee">Galatée</objectName> et d'un seul Angle, où sont <objectName ref="#RaphaelGracesFarnesina">les trois Déesses</objectName> qu'il a peint
 						luy-même. Se tempéramment doux le fit aimer de tout le monde, et
 						principalement des Papes de son tems. Le <persName
 							ref="#BernardoDoviziDaBibbiena">Cardinal de Sainte Bibiane</persName>
@@ -4060,14 +4058,14 @@
 						ni bien vrayes ni bien sauvages : mais les ombres en sont un peu trop
 						noires. Il n'a jamais eu pour le Clair-obscur une intelligence bien nette,
 						quoy qu'il semble par ses derniers Ouvrages qu'il l'ait cherché, et qu'il
-						ait tâché de se l'aquérir : comme on le peut voir dans les Tapisseries des
-						Actes des Apôtres, et dans son Tableau de la Transfiguration. Mais ce qui
+						ait tâché de se l'aquérir : comme on le peut voir dans <objectName ref="#RaphaelTapisseriesApotres">les Tapisseries des
+							Actes des Apôtres</objectName>, et dans son Tableau de la <objectName ref="#RaphaelTransfiguration">Transfiguration</objectName>. Mais ce qui
 						manquoit à <persName ref="#Raphael">Raphaël</persName> du côté du Coloris,
 						se fait oublier par quantité d'autres parties qu'il a possédées. Il a même
 						fait des Portraits si bien entendus de couleurs et de lumiére, que même de
 						ce côté-la ils pourroient entrer en comparaison avec ceux du <persName
-							ref="#Titien">Titien</persName>, aussi-bien que le <persName
-							ref="#SaintJean">Saint Jean</persName> qui est dans le Cabinet de
+							ref="#Titien">Titien</persName>, aussi-bien que <objectName ref="#TitienSaintJeanBaptisteAccademia">le <persName
+							ref="#SaintJean">Saint Jean</persName></objectName> qui est dans le Cabinet de
 						Monsieur le Prémier Président, et qui dans toutes les parties de la Peinture
 							<pb n="179"/> mérite d'être reconnu pour le Chef d'œuvre de son Auteur. </p>
 					<p>
@@ -4145,14 +4143,13 @@
 							ref="#GiovanniFrancescoPenni">Jean-Francesque Penni</persName>,
 						surnommé <hi rend="it"><persName ref="#GiovanniFrancescoPenni">il
 								Fattoré</persName></hi>. Aprés la mort de <persName ref="#Raphael"
-							>Raphaël</persName>, ces deux Peintres achevérent plusieurs
-							<objectName>Ouvrages</objectName> que leur Maître avoit laissez
+							>Raphaël</persName>, ces deux Peintres achevérent plusieurs Ouvrages que leur Maître avoit laissez
 						imparfaits. <persName ref="#GiulioRomano">Jules Romain</persName> étoit non
 						seulement excellent Peintre, mais il entendoit encore parfaitement
 						l'Architécture. <persName ref="#ClementVII">Le Cardinal de
 							Medicis</persName>, qui fut depuis <persName ref="#ClementVII">Clement
 							VII</persName>. L'employa pour batir le Palais, qu'on appelle
-						aujourd'huy <objectName>la Vigne Madame</objectName> ; et aprés en avoir
+						aujourd'huy <objectName ref="#VillaMadamaRome">la Vigne Madame</objectName> ; et aprés en avoir
 						conduit l'Architécture, il en fit la peinture et les ornemens. </p>
 					<p> La mort de <persName ref="#LeonX">Leon X</persName>. déconcerta un peu
 							<persName ref="#GiulioRomano">Jules Romain</persName> par l'Election
@@ -4162,11 +4159,11 @@
 						de faim s'il eut duré long-tems : mais <persName ref="#ClementVII">Clément
 							VII</persName>. luy succeda. Il ne fut pas plutôt élu, qu'il fit
 						travailler <persName ref="#GiulioRomano">Jules Romain</persName> à la
-							<objectName>Sale de Constantin</objectName>, où l'Histoire de cet
+						<objectName ref="#SalleConstantinVatican">Sale de Constantin</objectName>, où l'Histoire de cet
 						Empereur avoit été commencée par <persName ref="#Raphael"
 							>Raphaël</persName>, qui en avoit fait tous les Desseins. Cet Ouvrage
 						étant achevé, <persName ref="#GiulioRomano">Jules</persName> s'occupa à
-						faire <objectName>plusieurs Tableaux</objectName> pour des Eglises et pour
+						faire plusieurs Tableaux pour des Eglises et pour
 						des Particuliers. Sa maniére commença à changer, et à donner dans le rouge
 						et dans le noir pour le Coloris, <pb n="183"/> et dans le sévere pour le
 						Dessein. </p>
@@ -4174,8 +4171,8 @@
 						<persName ref="#FredericIIMantoue">Fréderic de Gonzagues</persName> Marquis
 						de <placeName ref="#Mantoue">Mantouë</placeName> informe de la capacité de
 							<persName ref="#GiulioRomano">Jules</persName>, l'attira dans ses Etats
-						; sa bonne fortune l'y conduisit : car ayant fait les Desseins de vingt
-						Estampes fort dissouës, qui avoient été gravées par <persName
+						; sa bonne fortune l'y conduisit : car ayant fait <objectName ref="#GiulioRomanoIModi">les Desseins de vingt
+						Estampes fort dissouës</objectName>, qui avoient été gravées par <persName
 							ref="#MarcantonioRaimondi">Marc-Antoine</persName>, et ausquelles
 							<persName ref="#PietroAretino">l'Aretin</persName> avoit fait autant de
 						Sonnets, il auroit été sévérement puni s'il se fut trouvé à <placeName
@@ -4188,7 +4185,7 @@
 							Romain</persName> travailloit à <placeName ref="#Mantoue"
 							>Mantoue</placeName>, où il donnoit des marques éternelles de son
 						extrême habileté dans l'Architécture et dans la Peinture. Il y bâtit le
-						Palais du T. et rendit la Ville de <placeName ref="#Mantoue"
+						<objectName ref="#PalaisduTe">Palais du T.</objectName> et rendit la Ville de <placeName ref="#Mantoue"
 							>Mantoue</placeName> plus belle, plus forte et plus saine ; et à l'égard
 						de ses Onvrages de Peinture, on peut dire que c'est principalement à
 							<placeName ref="#Mantoue">Mantouë</placeName> que le Génie de <persName
@@ -4219,8 +4216,8 @@
 						vit en liberté, ou plutôt comme un torrent, qui, ayant été retenu, rompt
 						ses digues, et se fait un cours impétueux ; de même, <persName
 							ref="#GiulioRomano">Jules Romain</persName>, aprés avoir produit
-						plusieurs <objectName>Tableaux de chevalet</objectName>, et peint de grans
-						Ouvrages dans les Sales du <placeName ref="#Vatican">Vatican</placeName> sur
+						plusieurs Tableaux de chevalet, et peint de grans
+						Ouvrages dans <objectName ref="#SalleConstantinVatican">les Sales du <placeName ref="#Vatican">Vatican</placeName></objectName> sur
 						les Desseins de <persName ref="#Raphael">Raphaël</persName>, tant devant,
 						qu'aprés la mort de cet illustre Maître, changea aussi-tôt de maniére, et se
 						laissa emporter par le cours rapide de son Génie dans les Ouvrages qu'il
@@ -4247,8 +4244,8 @@
 						tellement tournées en habitude, que ses Ouvrages en sont tres-aisez à
 						reconnoître. Cette maniére est tres-grande : la vérité, parce qu'il l'avoit
 						formée sur les Bas-reliefs Antiques qu'il avoit étudiez tres-soigneusement,
-						et principalement ceux des <objectName>Colomnes Trajane</objectName> et
-							<objectName>Antoniane</objectName>, qu'il a entiérement dessinées Mais
+						et principalement ceux des <objectName ref="#ColonneTrajane">Colomnes Trajane</objectName> et
+						<objectName ref="#ColonneMarcAureleRome">Antoniane</objectName>, qu'il a entiérement dessinées Mais
 						ces belles choses qui suffisent pour faire seules un Sculpteur habile, ont
 						bésoin d'être accompagnées des véritez de la Nature pour former un grand
 						Peintre : les Draperies qui contribuent ordinairement à la majesté des
