@@ -33,16 +33,16 @@
                   </imprint>
                </monogr>
             </biblStruct>
-            <bibl type="digital_copy">
+            <!--<bibl type="digital_copy">
                <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k111861m/f192#"> </ref>
                <editor ref="#AntoinePech #JeanPech">Veuve de J. Pech et A. Pech</editor>
                <textLang mainLang="fra">français</textLang>
-               <!--<msIdentifier>
+               <msIdentifier>
                   <bloc> La numérotation au sein du corpus textuel est réalisée en chiffres arabes
                      et romanes, en haut de la page. L'écriture est présentée par une colonne par
                      page, avec les dessins et les ornements. </bloc>
-               </msIdentifier>-->
-            </bibl>
+               </msIdentifier>
+            </bibl>-->
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -1142,7 +1142,7 @@
       </body>
       <back type="postface">
          <pb n="381"/>
-         <figure type="ornement"/>         
+         <figure type="ornement"/>
          <head>Table des Principales Marieres.</head>
          <p><hi rend="capitals">L'Auteur</hi> donne les raisons qui l'ont obligé d'écrire sur la Peinture, il expose le Plan de son Ouvrage, et declare que c'est principalement en vueu des grandes Ordonnances qu'il a écrit. Préface</p>
          <p>Premiere Dissertation.</p>
