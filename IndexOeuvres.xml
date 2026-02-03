@@ -28,11 +28,17 @@
         <object xml:id="ArcheAlliance">
             <p>Inconnu, Arche d'alliance</p>
         </object>
+        <object xml:id="AthenaGiustiniani">
+            <p>Inconnu, Athena Giustiniani</p>
+        </object>
         <object xml:id="BasiliqueSaintAugustinRome">
             <p>Inconnu, Basilique Saint Augustin</p>
         </object>
         <object xml:id="BasiliqueSantaMariaDelPopolo">
-            <p>None, Basilique Santa Maria del Popolo</p>
+            <p>Aaron, Basilique Santa Maria del Popolo</p>
+        </object>
+        <object xml:id="BelvedereVatican">
+            <p>AntonioPollaiuolo, Palais du Belvédère (Vatican)</p>
         </object>
         <object xml:id="BibliothequeAmbrosienneMilan">
             <p>Inconnu, Bibliothèque Ambrosienne</p>
@@ -88,6 +94,12 @@
         <object xml:id="GiottoNacelleSaintPierreRome">
             <p>Giotto, La Nacelle ou la Barque de Saint Pierre agitée par la tempête</p>
         </object>
+        <object xml:id="GiulioRomanoIModi">
+            <p>GiulioRomano, I Modi ou illustrations des Sonetti lussuriosi</p>
+        </object>
+        <object xml:id="GonnelliUrbainVIII">
+            <p>GiovanniGonnelli, Buste d'Urbain VIII</p>
+        </object>
         <object xml:id="LeonardAdamEve">
             <p>LeonardoDaVinci, Adam et Eve</p>
         </object>
@@ -103,11 +115,8 @@
         <object xml:id="LeonardCartonBurlington">
             <p>LeonardoDaVinci, La Vierge, l'Enfant Jésus avec sainte Anne et saint Jean-Baptiste</p>
         </object>
-        <object xml:id="LeonardCene">
-            <p>LeonardoDaVinci, La Cène</p>
-        </object>
         <object xml:id="LeonardCeneMilan">
-            <p>LeonardDeVinci, La Cène</p>
+            <p>None, La Cène</p>
         </object>
         <object xml:id="LeonardDessinNeptune">
             <p>LeonardoDaVinci, Dessin de Neptune pour Antonio Segni</p>
@@ -157,6 +166,9 @@
         <object xml:id="MantegnaTriompheCesar">
             <p>AndreaMantegna, Les Triomphes de César</p>
         </object>
+        <object xml:id="MarcantonioRaimondiIModi">
+            <p>MarcantonioRaimondi, I Modi ou illustration des</p>
+        </object>
         <object xml:id="MargaritoArezzoTombeauGregoireX">
             <p>Inconnu, Tombeau de Grégoire X</p>
         </object>
@@ -183,6 +195,9 @@
         </object>
         <object xml:id="PalaisLuxembourg">
             <p>Marin de la Vallée, Palais du Luxembourg</p>
+        </object>
+        <object xml:id="PalaisduTe">
+            <p>GiulioRomano, Palais du Té</p>
         </object>
         <object xml:id="PalazzoBranconioAquilaRome">
             <p>Inconnu, Palazzo Branconio dell'Aquila</p>
@@ -211,6 +226,21 @@
         <object xml:id="PinturicchioVueVilleBelvedere">
             <p>Pinturicchio, Vues de villes italiennes</p>
         </object>
+        <object xml:id="PoussinMoise">
+            <p>Inconnu, Moïse</p>
+        </object>
+        <object xml:id="PoussinMoiseDresde">
+            <p>NicolasPoussin, Moïse exposé aux eaux</p>
+        </object>
+        <object xml:id="PoussinMoiseLeNotre">
+            <p>NicolasPoussin, Moïse sauvé des eaux</p>
+        </object>
+        <object xml:id="PoussinMoiseOxford">
+            <p>NicolasPoussin, Moïse exposé sur les eaux est</p>
+        </object>
+        <object xml:id="PoussinMoisePointel">
+            <p>NicolasPoussin, Moise sauvé des eaux</p>
+        </object>
         <object xml:id="ProtogeneJalisus">
             <p>Protogene, Tableau représentant Ialyssós ou Jalisus, héros de la ville éponyme</p>
         </object>
@@ -231,15 +261,6 @@
         </object>
         <object xml:id="RaphaelBindoAltoviti">
             <p>Raphael, Portrait de Bindo Altoviti</p>
-        </object>
-        <object xml:id="RaphaelChambreHeliodore">
-            <p>Raphael, Chambre d'Heliodore</p>
-        </object>
-        <object xml:id="RaphaelChambreIncendieBorgo">
-            <p>Raphael, Chambre de l'Incendie de Borgo</p>
-        </object>
-        <object xml:id="RaphaelChambreSignature">
-            <p>Raphael, Chambre de la Signature</p>
         </object>
         <object xml:id="RaphaelCouronnementCharlemagne">
             <p>Raphael, Couronnement de Charlemagne</p>
@@ -264,6 +285,9 @@
         </object>
         <object xml:id="RaphaelGalatee">
             <p>Raphael, Le triomphe de Galatée</p>
+        </object>
+        <object xml:id="RaphaelGracesFarnesina">
+            <p>Raphael, Cupidon et les grâces</p>
         </object>
         <object xml:id="RaphaelHeliodore">
             <p>Raphael, Heliodore chassé du temple</p>
@@ -379,6 +403,18 @@
         <object xml:id="RaphaelSibyllesProphetesChigi">
             <p>Raphael, Les Sibylles et les Prophètes (Raphaël)</p>
         </object>
+        <object xml:id="RaphaelSignatureJustice">
+            <p>Raphael, Allégorie de la Justice au plafond de la Chambre de la Signature</p>
+        </object>
+        <object xml:id="RaphaelSignaturePhilosophie">
+            <p>Raphael, Allégorie de la Philosophie au plafond de la Chambre de la Signature</p>
+        </object>
+        <object xml:id="RaphaelSignaturePoesie">
+            <p>Raphael, Allégorie de la Poésie au plafond de la Chambre de la Signature</p>
+        </object>
+        <object xml:id="RaphaelSignatureTheologie">
+            <p>Raphael, Allégorie de la Théologie au plafond de la Chambre de la Signature</p>
+        </object>
         <object xml:id="RaphaelSpozalio">
             <p>Raphael, Mariage de la Vierge</p>
         </object>
@@ -386,7 +422,7 @@
             <p>Raphael, Saint Luc peignant la Vierge en présence de Raphaël</p>
         </object>
         <object xml:id="RaphaelTapisseriesApotres">
-            <p>Raphael, Tapisseries des actes des apotres</p>
+            <p>Raphael, Tapisseries des actes des apôtres</p>
         </object>
         <object xml:id="RaphaelTransfiguration">
             <p>Raphael, La Transfiguration</p>
@@ -434,7 +470,7 @@
             <p>Inconnu, Salle des Cinq-Cents, Palazzo Vecchio</p>
         </object>
         <object xml:id="SalleConstantinVatican">
-            <p>Inconnu, Salle de Constantin</p>
+            <p>Raphael, Salle de Constantin</p>
         </object>
         <object xml:id="SallePalfreniersVatican">
             <p>Inconnu, Salle des Palefreniers</p>
@@ -469,8 +505,17 @@
         <object xml:id="TimantheSacrificeIphigenie">
             <p>Timanthe, Le Sacrifice d'Iphigénie</p>
         </object>
+        <object xml:id="TitienBacchanaleAndriens">
+            <p>Titien, La Bacchanale des Andriens</p>
+        </object>
         <object xml:id="TitienBacchusAriane">
             <p>Titien, Bacchus et Ariane</p>
+        </object>
+        <object xml:id="TitienCopieBacchanale">
+            <p>Inconnu, Bacchanale copiée d'après Titien, collection de Roger de Piles</p>
+        </object>
+        <object xml:id="TitienSaintJeanBaptisteAccademia">
+            <p>Titien, Portrait de Saint Jean-Baptiste dans le désert</p>
         </object>
         <object xml:id="TriniteMontsRome">
             <p>Inconnu, Eglise et couvent de la Trinité-des-Monts de Rome</p>
@@ -493,11 +538,14 @@
         <object xml:id="VigneAldobrandine">
             <p>Inconnu, Les Noces Aldobrandines</p>
         </object>
+        <object xml:id="VillaFarnesina">
+            <p>BaldassarrePeruzzi, La villa Farnesina anciennement appelée Palais Chigi</p>
+        </object>
         <object xml:id="VillaFarnesineRome">
             <p>Inconnu, Villa Farnesine</p>
         </object>
         <object xml:id="VillaMadamaRome">
-            <p>Inconnu, Villa Madame</p>
+            <p>Raphael, Villa Madame aussi appelée Vigne Madame</p>
         </object>
         <object xml:id="ZeuxisCentaure">
             <p>Zeuxis, La famille d'un centaure</p>
