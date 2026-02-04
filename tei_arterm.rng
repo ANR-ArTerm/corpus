@@ -263,9 +263,11 @@
     <ref name="tei_att.anchoring.attribute.targetEnd"/>
   </define>
   <define name="tei_att.canonical.attribute.ref">
+   <optional>
     <attribute name="ref">
       <ref name="teidata.pointer"/>
     </attribute>
+   </optional>
   </define>
   <define name="tei_att.canonical.attribute.key">
     <optional>
@@ -1351,11 +1353,13 @@
     </element>
   </define>
   <define name="attlist.bibl" combine="interleave">
-    <optional><ref name="tei_att.global.attributes"/>
+    <optional>
+      <ref name="tei_att.global.attributes"/>
     <ref name="tei_att.typed.attributes"/>
     <ref name="tei_att.sortable.attributes"/>
     <ref name="tei_att.canonical.attribute.ref"/>
-    <ref name="tei_att.canonical.attribute.key"/></optional>
+    <ref name="tei_att.canonical.attribute.key"/>
+    </optional>
   </define>
   <!-- doc:(fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI file description are present. [3.12.1. Methods of Encoding Bibliographic References and Lists of References 2.2. The File Description 2.2.7. The Source Description 16.3.2. Declarable Elements] -->
   <define name="biblFull">
