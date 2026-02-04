@@ -16,6 +16,15 @@
         <object xml:id="AndreaDelCastagnoExecutionConjures">
             <p>AndreaDelCastagno, L'Exécution des conjurés ou Gli Impiccati</p>
         </object>
+        <object xml:id="AndreaDelSartoLeonX">
+            <p>AndreaDelSarto, Portrait de Léon X</p>
+        </object>
+        <object xml:id="AndreaDelSartoSaintJerome">
+            <p>AndreaDelSarto, Saint Jérôme</p>
+        </object>
+        <object xml:id="AndreaDelSartoSebastien">
+            <p>AndreaDelSarto, Saint Sébastien</p>
+        </object>
         <object xml:id="AnonymeHelene">
             <p>Inconnu, Tableau représentant Hélène</p>
         </object>
@@ -49,11 +58,11 @@
         <object xml:id="CarracheGalerieFarnese">
             <p>AnnibaleCarracci, Galerie Farnese</p>
         </object>
+        <object xml:id="CasaBuonarroti">
+            <p>MichelAnge, Casa Buonarroti, maison de MichelAnge</p>
+        </object>
         <object xml:id="CavalliniCrucifixSaintPaul">
             <p>PietroCavallini, Crucifix de bois</p>
-        </object>
-        <object xml:id="ChapelleSixtine">
-            <p>Inconnu, Chapelle Sixtine</p>
         </object>
         <object xml:id="ColonneAntonine">
             <p>Inconnu, Colonne Antonine</p>
@@ -175,14 +184,29 @@
         <object xml:id="MelziFlora">
             <p>FrancescoMelzi, Flora</p>
         </object>
+        <object xml:id="MichelAngeCapitoleRome">
+            <p>MichelAnge, Place du Capitole</p>
+        </object>
         <object xml:id="MichelAngeCascina">
             <p>MichelAnge, Bataille de Cascina</p>
+        </object>
+        <object xml:id="MichelAngeCupidonDormant">
+            <p>MichelAnge, Le Cupidon dormant</p>
+        </object>
+        <object xml:id="MichelAngeIsaieSixtine">
+            <p>MichelAnge, Le Prophète Isaïe</p>
         </object>
         <object xml:id="MichelAngeJugementSixtine">
             <p>MichelAnge, Le Jugement dernier</p>
         </object>
-        <object xml:id="MichelAngePlafondSixtine">
-            <p>MichelAnge, Plafond de la chapelle Sixtine</p>
+        <object xml:id="MichelAngeLeda">
+            <p>MichelAnge, Léda et le cygne</p>
+        </object>
+        <object xml:id="MichelAngeTombeauJulienMédicis">
+            <p>MichelAnge, Tombeau de Julien de Médicis</p>
+        </object>
+        <object xml:id="MichelAngeTombeauLaurentIIMédicis">
+            <p>MichelAnge, Tombeau de Laurent II de Médicis</p>
         </object>
         <object xml:id="OrcagnaJugementDernierPise">
             <p>Orcagna, Fresque du jugement dernier</p>
@@ -191,7 +215,7 @@
             <p>Inconnu, Palais Caprini</p>
         </object>
         <object xml:id="PalaisFarneseRome">
-            <p>Inconnu, Palais Farnese</p>
+            <p>AntonioDaSangalloIlGiovane, Palais Farnese</p>
         </object>
         <object xml:id="PalaisLuxembourg">
             <p>Marin de la Vallée, Palais du Luxembourg</p>
@@ -211,11 +235,17 @@
         <object xml:id="PantheonRome">
             <p>Inconnu, Panthéon</p>
         </object>
+        <object xml:id="PavementDuomoSienne">
+            <p>DomenicoBeccafumi, Pavement intérieur du Duomo de Sienne</p>
+        </object>
         <object xml:id="PerugiaSanSevero">
             <p>Inconnu, Chapelle Saint Severe</p>
         </object>
         <object xml:id="PeruginRaphaelTrinita">
             <p>Perugin, La Trinité et six saints</p>
+        </object>
+        <object xml:id="PietroBuonaccorsiTapisserieDiane">
+            <p>PietroBuonaccorsi, Tapisserie des sept planètes</p>
         </object>
         <object xml:id="PinturicchioAppartementsBorgia">
             <p>Pinturicchio, Peintures des apparetements Borgia</p>
@@ -225,6 +255,15 @@
         </object>
         <object xml:id="PinturicchioVueVilleBelvedere">
             <p>Pinturicchio, Vues de villes italiennes</p>
+        </object>
+        <object xml:id="PolidoroDaCaravaggioArcCharlesQuint">
+            <p>Inconnu, Arcs de Triomphe en l'honneur de Charles Quint à Messine</p>
+        </object>
+        <object xml:id="PolidoroDaCaravaggioFaçadesRome">
+            <p>PolidoroDaCaravaggio, Façades peintes dans la ville de Rome</p>
+        </object>
+        <object xml:id="PontormoSanLorenzo">
+            <p>Pontormo, Chœur de la basilique San Lorenzo</p>
         </object>
         <object xml:id="PoussinMoise">
             <p>Inconnu, Moïse</p>
@@ -253,6 +292,9 @@
         <object xml:id="RaphaelAnnonciationOddi">
             <p>Raphael, Annonciation (Prédelle de la Pala Oddi)</p>
         </object>
+        <object xml:id="RaphaelBaptemeVatican">
+            <p>Raphael, Le Baptême du Christ</p>
+        </object>
         <object xml:id="RaphaelBatailleOstie">
             <p>Raphael, Bataille d'Ostie</p>
         </object>
@@ -261,6 +303,21 @@
         </object>
         <object xml:id="RaphaelBindoAltoviti">
             <p>Raphael, Portrait de Bindo Altoviti</p>
+        </object>
+        <object xml:id="RaphaelCalvairePalaColonna">
+            <p>Raphael, Procession au Calvaire (Prédelle du Retable Colonna)</p>
+        </object>
+        <object xml:id="RaphaelCeneVatican">
+            <p>Raphael, La Cène</p>
+        </object>
+        <object xml:id="RaphaelChristJardinOliviersPalaColonna">
+            <p>Raphael, Le Christ au jardin des Oliviers (Prédelle du Retable Colonna)</p>
+        </object>
+        <object xml:id="RaphaelChuteJérichoVatican">
+            <p>Raphael, La chute des murs de Jéricho</p>
+        </object>
+        <object xml:id="RaphaelConseilDieuxFarnesina">
+            <p>Raphael, Conseil des Dieux (Loge de Psyché)</p>
         </object>
         <object xml:id="RaphaelCouronnementCharlemagne">
             <p>Raphael, Couronnement de Charlemagne</p>
@@ -304,11 +361,17 @@
         <object xml:id="RaphaelJardinOlivier">
             <p>Raphael, Jardin des oliviers</p>
         </object>
+        <object xml:id="RaphaelJosueVatican">
+            <p>Raphael, Josué arrêtant le soleil et la lune</p>
+        </object>
         <object xml:id="RaphaelJourdainVatican">
             <p>Raphael, Le Passage du Jourdain</p>
         </object>
         <object xml:id="RaphaelJulesII">
             <p>Raphael, Portrait du pape Jules II</p>
+        </object>
+        <object xml:id="RaphaelJupiterAmourFarnesina">
+            <p>Raphael, Jupiter et l'Amour (Loge de Psyché)</p>
         </object>
         <object xml:id="RaphaelLaPerla">
             <p>Raphael, La Sainte Famille dite La Perla</p>
@@ -321,6 +384,9 @@
         </object>
         <object xml:id="RaphaelLorenzoMedici">
             <p>Raphael, Portrait de Lorenzo de' Medici</p>
+        </object>
+        <object xml:id="RaphaelLunetteDieuPalaColonna">
+            <p>Raphael, Dieu le père bénissant entouré de deux anges (Lunette du Retable Colonna)</p>
         </object>
         <object xml:id="RaphaelMaddalenaDoni">
             <p>Raphael, Portrait de Maddalena Doni</p>
@@ -346,14 +412,20 @@
         <object xml:id="RaphaelMadonneSixtine">
             <p>Raphael, Madonne Sixtine</p>
         </object>
+        <object xml:id="RaphaelMercureFarnesine">
+            <p>Raphael, Mercure</p>
+        </object>
         <object xml:id="RaphaelMesseBolsena">
             <p>Raphael, La messe de Bolsena ou le miracle du saint Sacrement de Bolsena</p>
         </object>
+        <object xml:id="RaphaelNativiteVatican">
+            <p>Raphael, La Nativité</p>
+        </object>
+        <object xml:id="RaphaelNocesPsycheFarnesina">
+            <p>Raphael, Noces de Psyché</p>
+        </object>
         <object xml:id="RaphaelPalaAnsidei">
             <p>Raphael, Retable Ansidei</p>
-        </object>
-        <object xml:id="RaphaelPalaColonna">
-            <p>Raphael, Retable Colonna</p>
         </object>
         <object xml:id="RaphaelPalaGavari">
             <p>Raphael, Crucifixion Mond</p>
@@ -366,6 +438,9 @@
         </object>
         <object xml:id="RaphaelParnasse">
             <p>Raphael, Parnasse</p>
+        </object>
+        <object xml:id="RaphaelPietaPalaColonna">
+            <p>Raphael, Lamentation sur le corps du Christ (Prédelle du retable Colonna)</p>
         </object>
         <object xml:id="RaphaelPortementCroix">
             <p>Raphael, Portement de Croix</p>
@@ -384,6 +459,9 @@
         </object>
         <object xml:id="RaphaelSainteCecile">
             <p>Raphael, L'Extase de sainte Cécile</p>
+        </object>
+        <object xml:id="RaphaelSainteCecileBologne">
+            <p>Raphael, L'extase de Saint Cécile</p>
         </object>
         <object xml:id="RaphaelSainteFamilleCanigiani">
             <p>Raphael, Sainte Famille Canigiani</p>
@@ -421,8 +499,8 @@
         <object xml:id="RaphaelStLuc">
             <p>Raphael, Saint Luc peignant la Vierge en présence de Raphaël</p>
         </object>
-        <object xml:id="RaphaelTapisseriesApotres">
-            <p>Raphael, Tapisseries des actes des apôtres</p>
+        <object xml:id="RaphaelTapisseriesSixtine">
+            <p>Raphael, Tenture des Actes des Apôtres</p>
         </object>
         <object xml:id="RaphaelTransfiguration">
             <p>Raphael, La Transfiguration</p>
@@ -430,11 +508,17 @@
         <object xml:id="RaphaelVelata">
             <p>Raphael, La Velata</p>
         </object>
+        <object xml:id="RaphaelVenusCharFarnesina">
+            <p>Raphael, Vénus sur son char</p>
+        </object>
         <object xml:id="RaphaelVertusVatican">
             <p>Raphael, Les Vertus cardinales et théologales</p>
         </object>
         <object xml:id="RaphaelViergeEnfantErmitage">
             <p>Raphael, La Vierge à l'Enfant et saint Joseph</p>
+        </object>
+        <object xml:id="RaphaelViergeEnfantSaintsPalaColonna">
+            <p>Raphael, Vierge à l'enfant entourée de saints (Retable Colonna)</p>
         </object>
         <object xml:id="RaphaelViergeFoligno">
             <p>Raphael, Vierge de Foligno</p>
@@ -523,6 +607,9 @@
         <object xml:id="TuileriesParis">
             <p>Inconnu, Palais des Tuileries</p>
         </object>
+        <object xml:id="VasariSepultureMichelAnge">
+            <p>GiorgioVasari, Tombeau de Michel Ange à Florence</p>
+        </object>
         <object xml:id="VeroneseCana">
             <p>Veronese, Les Noces de Cana</p>
         </object>
@@ -538,14 +625,14 @@
         <object xml:id="VigneAldobrandine">
             <p>Inconnu, Les Noces Aldobrandines</p>
         </object>
-        <object xml:id="VillaFarnesina">
-            <p>BaldassarrePeruzzi, La villa Farnesina anciennement appelée Palais Chigi</p>
-        </object>
         <object xml:id="VillaFarnesineRome">
-            <p>Inconnu, Villa Farnesine</p>
+            <p>BaldassarrePeruzzi, La villa Farnesina anciennement appelée Palais Chigi</p>
         </object>
         <object xml:id="VillaMadamaRome">
             <p>Raphael, Villa Madame aussi appelée Vigne Madame</p>
+        </object>
+        <object xml:id="VilladelPrincipeGenes">
+            <p>Inconnu, Villa del Principe ou palazzo di Andrea Doria</p>
         </object>
         <object xml:id="ZeuxisCentaure">
             <p>Zeuxis, La famille d'un centaure</p>
