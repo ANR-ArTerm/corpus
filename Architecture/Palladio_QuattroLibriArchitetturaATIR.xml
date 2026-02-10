@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title xml:lang="ita">Title</title>
@@ -13,26 +13,26 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-        <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
    <text>
       <front>
          <titlePage>
             <titlePart>I QUATTRO LIBRI DELL'ARCHITETTVRA Di Andrea <persName ref="#AndreaPalladio">Palladio</persName>. Ne'quali, dopo un breve trattato de'cinque ordini, et di quelli avertimenti, che sono piu necessarij nel fabricare ; SI TRATTA DELLE CASE PRIVATE, delle Vie, de i Ponti, delle Piazze, de i Xisti, et de'Tempij . 
-         CON PRIVILEGI. 
-          IN VENETIA, Apresso Dominico de' Franceschi. 
-         
-            <date when="1570">1570</date>. <pb n=""/>
-         </titlePart>
+               CON PRIVILEGI. 
+               IN VENETIA, Apresso Dominico de' Franceschi. 
+               
+               <date when="1570">1570</date>. <pb n=""/>
+            </titlePart>
          </titlePage>
          <div type="dedicace">
             <p> AL MOLTO MAGNIFICO MIO SIGNOR OSSERVANDISSIMO, IL SIGNOR CONTE GIACOMO ANGARANNO. I meriti amplissimi della uostra infinita cortesia (molto Magnifico Signor mio) sono per li molti singolarissimi beneficij, che con perpetua liberalità già tanti, e tanti anni m'havete fatto continuamente; in tal modo cresciuti, et di numero, et di grandezza: che s'io non cercassi di rendermivi grato, almeno co'l dimostrarmene sempre ricordevole; son certissimo, che porterei pericolo di esser notato, e tenuto da tutti per discortese, e per ingrato. E perché fin dalla mia giovanezza mi son grandemente dilettato delle cose di Architettura, onde non solamente ho rivolto con faticoso studio di molt'anni i libri di coloro, che con abbondante felicità d'ingegno hanno arricchito d'eccellentissimi precetti questa scientia nobilissima: ma mi son trasferito ancora spesse uolte in <placeName ref="#Rome">Roma</placeName>, et in altri luoghi d'<placeName ref="#Italie">Italia</placeName>, e fuori; dove con gli occhi proprij ho ueduto, et con le proprie mani misurato i fragmenti di molti edificij antichi: iqualisendo restati in piedi fino a nostri tempi con maraviglioso spettacolo di Barbara crudeltà; rendono anco nelle grandissime ruine loro chiaro, et illustre testimonio della virtù, et della grandezza Romana: in modo che ritrovandomi io grandemente esercitato, et infiammato ne gli ottimi studij di questa qualità di Virtù, et havendo con gran speranza messo in lei tutti i miei pensieri; mi posi anco all'impresa di scriver gli avertimenti necessarij, che si devono osseruare da tutti i belli ingegni, che sono desiderosi di edificar bene, et leggiadramente; et oltra di ciò di mostrar in disegno molte di quelle fabriche, che da me sono state in diversi luoghi ordinate; et tutti quelli antichi edificij, c'ho fin'hora ueduti: Però (non già per pagar alcuno de gli oblighi infiniti, c'ho contratto con la uostra gentilezza, per laquale uoi sete sopra ogn'altro amato celebrato, et reputato degno d'ogni altissimo grado d'honore; ma per dimostrarui solamente con honorato testimonio delle fatiche mie alcun segno del mio animo grato, et ricordevole della grandezza del uostro ualore) ui faccio hora un dono di questi due miei primi libri, ove io tratto delle case private; ne'quali confesso haver havuto i Cieli tanto favorevoli, che havendoli io in molte grandi mie occupationi, che quasi del continuo mi tengono il corpo, e l'animo oppresso, et dopo alcune mie non picciole infirmità, finalmente ridotti a quella perfettione, che per me s'è potuta; et havendo approvato quel tanto, che in lor si contiene con lunga esperienza, ardisco di dire, d'haver forse dato tanto di lume alle cose di Architettura in questa parte, che coloro, che dopo me uerranno; potranno con l'esempio mio, esercitando l'acutezza de i lor chiari ingegni; ridurre con molta facilità la magnificenza de gli edificij loro alla uera bellezza, e leggiadria de gli antichi. Pregoui dunque Illustre mio Signore, che uoi, facendo un'atto degno della uostra virtù; uogliate in premio dell'affettion; ch'io ui porto, degnarui di ricevere in dono, et con allegro uolto favorire questa prima parte dell'opera mia, che fu già con nobil pensiero incominciata sotto i felicissimi auspicij uostri; laquale, come primitie del mio ingegno, ui dedico; et di esser contento, che hora, che con tanto favor della uostra liberalità ella si ritrova finita; possa anco andare con lieto augurio nella luce del Mondo, da ogni parte illustrata dal chiarissimo lume del nome uostro; poi che io son sicuro, che'l testimonio solo di uoi, che per altezza d'ingegno, è per splendore, e fama di nobilissime virtù sete grandemente chiaro, et illustre; porterà tanta grandezza, e tanta auttorità a questi miei libri che meritamente si sono già fatti uostri, ch'io solamente per questo potrò sperare di uiver lungamente, et con perpetua lode famoso, et honorato nella memoria di coloro, che dopo noi uerranno; e con questa speranza, pregandoui felice, e lieta uita; faccio fine. In <placeName ref="#Venise">Venetia</placeName> il Primo di Novembre. Del M. D. LXX. </p>
-         <p> Di V. S. </p>
-         <p> Devotiss. Seruitore. </p>
-         <p> Andrea <persName ref="#AndreaPalladio">Palladio</persName>. </p></div>
+            <p> Di V. S. </p>
+            <p> Devotiss. Seruitore. </p>
+            <p> Andrea <persName ref="#AndreaPalladio">Palladio</persName>. </p></div>
       </front>
       <body>       
          <pb n="5"/>
