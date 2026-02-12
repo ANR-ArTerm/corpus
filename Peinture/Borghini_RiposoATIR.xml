@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title xml:lang="ita">Title</title>
@@ -13,11 +13,11 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-        <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
    <text>
       <body>
          <p> Il riposo, <persName ref="#RafaelleBorghini">Raffaello Borghini</persName>, <date when="1584">1584</date> --[-]-- IL RIPOSO DI RAFFAELLO BORGHINI IN CVI DELLA PITTVRA, E DELLA Scultura si favella, de'piu illustri Pittori, e Scultori, e delle piu famose opere loro si fa mentione; e le cose principali appartenenti a dette arti s'insegnano. All'Illustriss. et Eccellentiss. Sig. Padron suo singulariss. il Sig. Don Giovanni Medici . IN FIORENZA, Appresso Giorgio Marescotti M.D.LXXXIIII. Con Licenza de'Superiori . <pb n=""/> A'PITTORI, ET A GLI SCVLTORI FIORENTINI Piero di Gherardo Capponi. Se di dolce vergogna il volto tinta Natura ammiri le bell'opre, e rare, Che per man vostra assai pregiate, e care Brama, e sper'<placeName ref="#Arno">Arno</placeName>, e diasi a voi per vinta; Da questi inchiostri, ove sculta, e dipinta Viva Idea de l'arti vostre appare, Ciascun prima che oprar leggendo Impare Dar vita al marmo, e corpo a l'ombra finta; Poi mostri come ben sculpe, e colora: E novo <persName ref="#Polyclete">Policleto</persName> in questa, e in quella, Arte con simil guida un Regol'erga. Securo che di ciò superba Flora Gli inghirlandi la fronte, e vie piu bella Voli al ciel l'alma, ove virtude alberga. </p>
