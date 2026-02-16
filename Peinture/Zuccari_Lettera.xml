@@ -51,7 +51,7 @@
 				<figure type="ornement"
 					source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/d5d3dfd4-76ae-4dda-adcb-be09827184f0/221,104,1503,194/max/0/default.jpg"/>
 				<head>
-					<hi rend="capitals">PER UNA <objectName>PIETÀ</objectName> DIPINTA
+					<hi rend="capitals">PER UNA <objectName ref="#FedericoZuccaroPieta">PIETÀ</objectName> DIPINTA
 						DALL'ECCELLENTE SIGNORE CAVAGLIER <persName ref="#FedericoZuccaro">FEDERICO
 							ZUCCARO</persName> ALLA SERENISSIMA <persName ref="#EleonoraMedici"
 							>MADAMA LEONORA MEDICI GONZAGA</persName> DUCHESSA DI <placeName
@@ -138,7 +138,7 @@
 				<figure type="ornement"
 					source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/f2f3cc2c-e8e0-45f4-83c0-6e319ed80a83/536,74,1549,170/max/0/default.jpg"/>
 				<head>
-					<hi rend="capitals">PER UNA <objectName><persName ref="#Venus">VENERE</persName>
+					<hi rend="capitals">PER UNA <objectName ref="#FedericoZuccaroVenus"><persName ref="#Venus">VENERE</persName>
 							IGNUDA</objectName> FATTA DALL'ISTESSO SIG. <persName
 							ref="#FedericoZuccaro">CAVAGLIERE</persName> AL SERENISSIMO SIG.
 							<persName ref="#VincentIdeMantoue">DUCA DI MANTOVA</persName>, MADRIGALE
@@ -280,8 +280,8 @@
 						<l>Et mi rassembri il volto di colei, </l>
 						<l>Che scolpita ho nel cor con maggior cura. </l>
 					</lg></p>
-				<p>Il <persName ref="#TorquatoTasso">Tasso</persName> sopra il Pittor della Sig.
-					Marfisa, scrisse: <lg rend="it">
+				<p>Il <persName ref="#TorquatoTasso">Tasso</persName> sopra il Pittor della <persName ref="#MarfisaEste">Sig.
+					Marfisa</persName>, scrisse: <lg rend="it">
 						<l>Saggio Pittor hai chiusa in breve spazio</l>
 						<l>Beltà, che troppe eccede ogni misura.</l>
 					</lg></p>
@@ -294,7 +294,7 @@
 						<l>Del tuo pennel stupor' e meraviglia, </l>
 						<l>Ben agguaglia il sembiante. </l>
 					</lg>Et finalmente, per non andar tanto digredendo, il <persName
-						ref="#GiambattistaMarino">Marino</persName> sopra una <objectName>pittura di
+						ref="#GiambattistaMarino">Marino</persName> sopra una <objectName ref="#TitienSaintSebastien">pittura di
 						S. Sebastiano</objectName> di mano di <persName ref="#Titien"
 						>Titiano</persName>, disse: <lg rend="it">
 						<l>Si viva è questa imago,</l>
@@ -331,10 +331,10 @@
 					che sodisfaccino ancora più a quell'effetto perche son fatte, cioè di conservar
 					la memoria delle cose passate.</p>
 				<p>Et fra gli altri gli Statuarii sono i più degni scultori che siano et sono
-					antichissimi, come lo dimostrò la <objectName>statua d'Hercole</objectName>
+					antichissimi, come lo dimostrò la <objectName ref="#HerculesCapitolini">statua d'Hercole</objectName>
 					sacrata da <persName ref="#Evandre">Evandro</persName>, posta già nel
-						<placeName>foro Boario</placeName> in <placeName ref="#Rome"
-						>Roma</placeName>; et quel <objectName>Iano bifronte</objectName> dicato da
+					<placeName ref="#ForumBoarium">foro Boario</placeName> in <placeName ref="#Rome"
+						>Roma</placeName>; et quel <objectName ref="#GianoBifronte">Iano bifronte</objectName> dicato da
 						<persName ref="#NumaPompilius">Numa Pompilio</persName>, descritto da
 						<persName ref="#Pline">Plinio</persName>.</p>
 				<p>Segue nell'ultimo luogo l'Architettura, la qual è un'arte di ben' edificare; et
@@ -750,7 +750,7 @@
 					<l>Che a chiaro, e a scuro fe' cose sì rare, </l>
 					<l>E del chiaro, e del scuro hebbe l'alloro. </l>
 					<l>Fierezze d'artificio singolare </l>
-					<l>Figurava egli, e finse <objectName>un marmo</objectName> tale </l>
+					<l>Figurava egli, e finse un marmo tale </l>
 					<l>Che in questo egli non hebbe un altro pare.</l>
 					<note xml:id="N10">Si finge che la Pittura havesse un albergo regio per lo
 						studio.</note>
