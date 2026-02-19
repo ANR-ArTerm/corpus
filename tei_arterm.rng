@@ -840,6 +840,7 @@
       <ref name="model.inter"/>
       <ref name="model.phrase"/>
       <ref name="lg"/>
+      <ref name="model.gLike"/>
     </choice>
   </define>
   <define name="model.limitedPhrase">
