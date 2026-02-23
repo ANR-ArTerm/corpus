@@ -4264,6 +4264,13 @@
   </define>
   <define name="attlist.ptr" combine="interleave">
     <ref name="tei_att.pointing.attribute.target"/>
+    <attribute name="type">
+      <choice>
+        <value>figure</value>
+        <value>traduction</value>
+        <value>intertextualite</value>
+      </choice>
+    </attribute>
   </define>
   <!-- doc:(publication place) contains the name of the place where a bibliographic item was published. [3.12.2.4. Imprint, Size of a Document, and Reprint Information] -->
   <define name="pubPlace">
