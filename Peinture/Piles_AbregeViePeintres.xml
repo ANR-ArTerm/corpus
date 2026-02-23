@@ -5540,7 +5540,7 @@
 						dessina avec ardeur et avec persevérance toutes les Sculptures Antiques et
 						tous <pb n="237"/> les Ouvrages de Peintures qui étoient de quelque mérite:
 						et quoy qu'il se fut beaucoup fortifié dans la partie du Dessein, en copiant
-						toute <objectName>la Chapelle de <persName ref="#MichelAnge"
+						toute <objectName ref="#ChapelleSixtine">la Chapelle de <persName ref="#MichelAnge"
 								>Michelange</persName></objectName>, il ne laissa pas néanmoins de
 						dessiner avec <persName ref="#FrancescoSalviati">le Salviati</persName> tous
 						les Ouvrages de <persName ref="#Raphael">Raphaël</persName> et de <persName
@@ -5563,22 +5563,22 @@
 						beaucoup de Vertus Morales, qui, jointes à la politesse, luy attirérent
 						l'estime des Cardinaux de son tems. Celuy de <persName>Médicis</persName>,
 						qui le protégeoit particuliérement, l'engagea à travailler sur
-							<objectName>les Vies des Peintres</objectName>. Il nous en a laissé
-						trois Volumes, dont <persName>Annibal Caro</persName> fait l'Eloge, en
+						<bibl key="vasariVitePiuEccellenti">les Vies des Peintres</bibl>. Il nous en a laissé
+						trois Volumes, dont <persName ref="#AnnibalCaro">Annibal Caro</persName> fait l'Eloge, en
 						disant qu'elles sont écrites poliment et judicieusement. On luy reproche
 						néanmoins d'y avoir trop loüe les Peintres de son Païs : c'est-à-dire les
 						Florentins. Quoy qu'il en soit, la Peinture luy doit un Monument éternel,
 						pour avoir transmis à la Postérité la mémoire de tant d'habiles Hommes, dont
 						la plupart des noms seroient déja ensevelis dans l'oubli, sans les soins
 						qu'il a pris de les éterniser. Outre ces Vies de Peintres, il a fait
-						imprimer des <objectName>Raisonnemens sur les Ouvrages</objectName> qu'il a
+						imprimer des <bibl key="VasariRagionamenti1588">Raisonnemens sur les Ouvrages</bibl> qu'il a
 						peints, dont les principaux sont à <placeName ref="#Rome">Rome</placeName>,
 						à <placeName ref="#Florence">Florence</placeName> et à <placeName
 							ref="#Bologne">Bologne</placeName>. Il mourut à <placeName
 							ref="#Florence">Florence</placeName> en <date when="1578">1578</date>.
 						âgé de soixante-quatre ans. Son Corps fut transporté à <placeName
 							ref="#Arezzo">Arezzo</placeName>, où il fut enterré dans une
-							<objectName>Chapelle ornée d'Architecture</objectName>, qu'il avoit fait
+						<objectName ref="#EgliseSantaMariaDellaPieveArezzo">Chapelle ornée d'Architecture</objectName>, qu'il avoit fait
 						bâtir pendant sa vie. </p>
 				</div2>
 				<div2 n="92" type="chapitre" xml:id="C92" xml:lang="fra">
@@ -5590,7 +5590,7 @@
 							>Duché d'Urbin</placeName>, appellé <placeName ref="#SantAngeloInVado"
 							>Agnolo in Vado</placeName>, fut amené par ses parens à <placeName
 							ref="#Rome">Rome</placeName> à l'occasion du Jubilé de <date when="1550"
-							>1550</date>. On le donna à son Frére Tadée, qui étoit déja un des
+							>1550</date>. On le donna à son Frére <persName ref="#TaddeoZuccaro">Tadée</persName>, qui étoit déja un des
 						célebres Peintres d'<placeName ref="#Italie">Italie</placeName> ; il fut son
 						Disciple, et dans la suite sentant un peu ses forces, il porta impatiémment
 						les corrections de son Frére. Ils ont beaucoup travaillé tous deux à
@@ -5601,9 +5601,9 @@
 						trente-sept ans. Fréderic fut employé par le Pape <persName
 							ref="#GregoireXIII">Grégoire XIII</persName>. pour quelques Ouvrages
 						qui luy attirérent des différens avec les Officiers de Sa Sainteté ; et
-						pour se vanger de leurs mauvais offices, il fit le <objectName>Tableau de la
-							Calomnie</objectName>, qui a depuis été gravé par <persName
-							ref="#CornelisCort">Corneille Cort</persName>, où il répresenta avec des
+						pour se vanger de leurs mauvais offices, il fit le <objectName ref="#FedericoZuccaroCalomnie">Tableau de la
+							Calomnie</objectName>, qui a depuis été <objectName ref="#CornelisCortCalomnie">gravé par <persName
+							ref="#CornelisCort">Corneille Cort</persName></objectName>, où il répresenta avec des
 						oreilles d'asne tous ceux qui l'avoient offensé. Il l'éxposa publiquement
 						sur la Porte de l'<placeName>Eglise de <persName ref="#SaintLuc">Saint
 								Luc</persName></placeName> le jour de la Fête de ce Saint, et sortit
