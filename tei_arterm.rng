@@ -2659,6 +2659,9 @@
       </choice>
     </attribute>
     <optional>
+      <attribute name="xml:id"/>
+    </optional>
+    <optional>
       <attribute name="source"/>
     </optional>
     <optional>
