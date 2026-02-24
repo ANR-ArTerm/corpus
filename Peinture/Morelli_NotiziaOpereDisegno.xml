@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
@@ -7,10 +7,10 @@
             <title xml:lang="ita">Title</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p xml:id="MOR_NOD_P1">Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p xml:id="MOR_NOD_P2">Information about the source</p>
          </sourceDesc>
       </fileDesc>
      <profileDesc>
@@ -20,7 +20,7 @@
   </teiHeader>
   <text>
       <body>
-         <p>Notizia d'opere di disegno, D. Iacopo Morelli, 1800
+         <p xml:id="MOR_NOD_P3">Notizia d'opere di disegno, D. Iacopo Morelli, 1800
 --[-]--
 
 NOTIZIA

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
  <teiHeader>
@@ -7,7 +7,7 @@
     <title xml:lang="ita"> Alberti_DellaPittura </title>
    </titleStmt>
    <publicationStmt>
-    <p> ARTERM </p>
+    <p xml:id="ALB_DP_P1"> ARTERM </p>
    </publicationStmt>
    <sourceDesc>
     <bibl>
@@ -28,13 +28,11 @@
     <docTitle>
      <titlePart>LA PITTURA</titlePart>
     </docTitle>
-    <byline>DI <docAuthor>LEON BATTISTA ALBERTI</docAuthor> TRADOTTA PER <persName
-      ref="#LodovicoDomenichi">M. LODOVICO DOMENICHI</persName></byline>
+    <byline>DI <docAuthor>LEON BATTISTA ALBERTI</docAuthor> TRADOTTA PER <persName ref="#LodovicoDomenichi">M. LODOVICO DOMENICHI</persName></byline>
     <figure type="ornement"/>
     <imprimatur> Con Gratia et Privilegio. </imprimatur>
     <figure type="ornement"/>
-    <docImprint>In <pubPlace ref="#Venise">Vinegia</pubPlace>, Appresso <publisher><persName
-       ref="#GabrieleGiolitoDeFerrari">Gabriel Giolito de
+    <docImprint>In <pubPlace ref="#Venise">Vinegia</pubPlace>, Appresso <publisher><persName ref="#GabrieleGiolitoDeFerrari">Gabriel Giolito de
      Ferrari</persName></publisher></docImprint>
     <docDate>
      <date when="1547">M D X L V II.</date>
@@ -44,11 +42,10 @@
    <div type="dedicace">
     <pb n="2"/>
     <head>
-     <persName ref="#LodovicoDomenichi">LODOVICO DOMENICHI</persName> A <persName
-      ref="#FrancescoSalviati">FRANCESCO SALVIATI</persName> PITTORE ECCELLENTISSIMO. </head>
+     <persName ref="#LodovicoDomenichi">LODOVICO DOMENICHI</persName> A <persName ref="#FrancescoSalviati">FRANCESCO SALVIATI</persName> PITTORE ECCELLENTISSIMO. </head>
     <figure type="ornement"/>
     <figure type="ornement"/>
-    <p> VOI DOVETE Sapere, Francesco amantissimo, come opinione di alcuni Philosophi, che le anime
+    <p xml:id="ALB_DP_P1"> VOI DOVETE Sapere, Francesco amantissimo, come opinione di alcuni Philosophi, che le anime
      nostre siano da principio tutte create nella mente di <persName ref="#Dieu">Dio</persName>, et
      quivi stiano, fin ch'a lui piace mandarle a peregrinare qua giù ne'corpi nostri. La quale
      opinione se licito mi fosse per la fede nostra confessar per vera, io non dubiterei di dire,
@@ -60,8 +57,7 @@
      rividi, cominciai strettissimamente ad amarvi, anzi per meglio dire, a continuare l'antica
      benivolenza. Onde per segno di cio mi ho poi sempre ingegnato di mostrarmivi amico con alcun
      dono, che vi facesse testimonio della simiglianza, ch'è fra gli animi nostri. Perché
-     ritornandomi in mano la traduttione ch'io feci già della Pittura di <persName
-      ref="#LeonBattistaAlberti">Leon Battista Alberti</persName>, ho giudicato che ella meriti di
+     ritornandomi in mano la traduttione ch'io feci già della Pittura di <persName ref="#LeonBattistaAlberti">Leon Battista Alberti</persName>, ho giudicato che ella meriti di
      esservi intitolata. Non che a voi faccia mistiero nel nobilissimo <pb n="3"/> essercitio vostro
      alcuno ammaestramento che in tale opra si trovi; perché i mirabili artifici delle vostre mani
      ne tranno ogniun di dubbio; fra gli altri la sala di sua Illustrissima Eccellenza, dove tosto
@@ -78,8 +74,7 @@
      trovandosi ogn'hora in voi gentilezza corte sia et nobilta d'animo, oltra quella che le virtù
      vostre meritamente acquistato v'hanno. Ma ritornando al libro, accettatelo gratamente et
      habbiatelo caro, così per pegno della nostra amicitia, come per testimonio del vostro valore.
-     State sano. Alli XX. di Febraro <date when="1547">MDXLVII</date>. Di <placeName ref="#Florence"
-      >Fiorenza</placeName>. </p>
+     State sano. Alli XX. di Febraro <date when="1547">MDXLVII</date>. Di <placeName ref="#Florence">Fiorenza</placeName>. </p>
    </div>
   </front>
   <body>
@@ -88,7 +83,7 @@
     <head> LIBRO PRIMO DE LA PITTURA DI <persName ref="#LeonBattistaAlberti">LEON BATTISTA
       ALBERTI</persName>. </head>
     <figure type="ornement"/>
-    <p>
+    <p xml:id="ALB_DP_L1_P1">
      <figure type="lettrine"/> HAVENDO io a scrivere de la Pittura in questi brevissimi comentari,
      accioché il mio ragionamento sia più chiaro, prima torrò da i Mathematici quelle cose, che mi
      parranno necessarie a la materia. Le quali poiché si saranno intese, inquanto l'ingegno mi
@@ -96,8 +91,7 @@
      ragionamento voglio, che questo sopra tutto si consideri, che io non ragiono di queste tai cose
      come Mathematico, ma come pittore. Percioché quegli con l'ingegno solo levata ogni materia,
      misurano le specie, et le forme de le cose. Ma noi, perché vogliamo che la cosa sia posta
-     inanzi a gli occhi, useremo perciò scrivendo, come si suol dire, una più grassa <persName
-      ref="#Minerve">Minerva</persName>. Et veramente che mi parrà d'aver fatto assai, se i pittori,
+     inanzi a gli occhi, useremo perciò scrivendo, come si suol dire, una più grassa <persName ref="#Minerve">Minerva</persName>. Et veramente che mi parrà d'aver fatto assai, se i pittori,
      che leggeranno, m'intenderanno, scrivendo io il meglio, ch'io so, in questa materia certo
      difficile, et de la quale, per quel, ch'io habbia veduto, non è mai più stato scritto cosa
      alcuna. Voglio dunque, che le mie <pb n="4bis"/> cose siano interpretate non come scritte da
@@ -133,8 +127,7 @@
      se non quella dritta, che tocca il centro proprio. Ma ritorniamo a le superficie. Perché da
      quel, ch'io ho detto, facilmente si può intendere, come mutandosi il tratto del dintorno, la
      superficie istessa perda l'aspetto, e'l nome di prima: et quella, che peraventura si diceva
-     triangolo, hora si chiamerà quadrato, o forse di più canti. Il dintorno s'intenderà <pb
-      n="5bis"/> esser mutato, se sarà fatta breve la linea, o i canti non solo più, ma più
+     triangolo, hora si chiamerà quadrato, o forse di più canti. Il dintorno s'intenderà <pb n="5bis"/> esser mutato, se sarà fatta breve la linea, o i canti non solo più, ma più
      spuntati, più lunghi, più acuti, o più brevi, in qual modo si sia. Questo loco richiede, che
      diciamo alcuna cosa de gli anguli. Perché angulo è il confine de la superficie fatto da due
      linee, che si tagliano l'una l'altra. Tre sorti sono d'anguli; retto, ottuso, et acuto. Angulo
@@ -382,12 +375,9 @@
      in questo modo, appresso di noi saranno chiamati proportionali fra loro; et accioché questo
      anchora più chiaramente s'intenda, useremo una certa similitudine. Un'huom picciolo è
      proportionale a uno huomo grandissimo al cubito, dove che sarà la medesima proportione del
-     palmo, et del piede a l'altre parti del suo corpo, in questo, come sarebbe <persName
-      ref="#Evandre">Evandro</persName>, in quello come sarebbe <persName ref="#Hercule"
-      >Hercole</persName>, il quale <persName ref="#AuluGelle">Gellio</persName> fa congiettura, che
+     palmo, et del piede a l'altre parti del suo corpo, in questo, come sarebbe <persName ref="#Evandre">Evandro</persName>, in quello come sarebbe <persName ref="#Hercule">Hercole</persName>, il quale <persName ref="#AuluGelle">Gellio</persName> fa congiettura, che
      fosse grande, et sinisurato sopra gli al tri huomini. Ne vi fu anchora altra proportione ne le
-     membra d'<persName ref="#Hercule">Hercole</persName>, di quella, che fu nel corpo d'<persName
-      ref="#Antee">Antheo</persName> gigante. Percioché sì come a l'uno, et l'altro la simmetria de
+     membra d'<persName ref="#Hercule">Hercole</persName>, di quella, che fu nel corpo d'<persName ref="#Antee">Antheo</persName> gigante. Percioché sì come a l'uno, et l'altro la simmetria de
      la mano al cubito, et del cubito al proprio capo, et de gli altri membri convenivano fra loro
      con egual misura; così questo medesimo accaderà ne i nostri trianguli; accioché sia alcuna
      misura fra i trianguli, per la quale il minore si confaccia col maggiore ne l'altre cose,
@@ -437,25 +427,19 @@
      in parte alcuna di quel, che sono hora. Percioché il grande, il piccolo, il lungo, il breve,
      l'alto, il basso, lo stretto, il largo, l'oscuro, il tenebroso, et ciascuna altra cosa tale, le
      quali perché possono essere et non essere ne le cose i philosophi hanno per questo chiamato
-     accidenti, sono di modo, che la cognition piena di quelle tutta si fa col paragone. <persName
-      ref="#Virgile">Virgilio</persName> dice, ch'<persName ref="#Enee">Enea</persName> avanzava con
-     tutte le spalle sopra gli altri uomini. Et nondimeno se si farà paragon di lui a <persName
-      ref="#Polypheme">Poliphemo</persName>, egli parrà un pigmeo. Dicono, ch'<persName
-      ref="#Euryale">Eurialo</persName> fu bellissimo; et pure se lo paragoneremo a <persName
-      ref="#Ganymede">Ganimede</persName> rapito da <persName ref="#Jupiter">Giove</persName>, forse
+     accidenti, sono di modo, che la cognition piena di quelle tutta si fa col paragone. <persName ref="#Virgile">Virgilio</persName> dice, ch'<persName ref="#Enee">Enea</persName> avanzava con
+     tutte le spalle sopra gli altri uomini. Et nondimeno se si farà paragon di lui a <persName ref="#Polypheme">Poliphemo</persName>, egli parrà un pigmeo. Dicono, ch'<persName ref="#Euryale">Eurialo</persName> fu bellissimo; et pure se lo paragoneremo a <persName ref="#Ganymede">Ganimede</persName> rapito da <persName ref="#Jupiter">Giove</persName>, forse
      che parrà brutto. In <placeName ref="#Espagne">Hispagna</placeName> molte vergini sono stimate
      bianche, le quali sarebbono credute in <placeName ref="#Allemagne">Alemagna</placeName> di
      color fosco. L'avorio, et l'argento son bianchi di colore; i quali se si metteranno a paragone
      del Cigno o de drappi simili a la neve, parranno smorti. Per questo rispetto ne la pittura le
      superficie paiono forbitissime, et fuor di modo risplendenti; quando in quelle vi è quella
-     proportione del bianco al nero, la quale è ne le cose istesse del chiaro a l'ombroso. <pb
-      n="14bis"/> Tutte queste cose dunque s'imparano con paragoni. Percioché vi è una forza in far
+     proportione del bianco al nero, la quale è ne le cose istesse del chiaro a l'ombroso. <pb n="14bis"/> Tutte queste cose dunque s'imparano con paragoni. Percioché vi è una forza in far
      paragone de le cose, onde conoscemo poi quel ch'è più, et meno, et cio, che v'è di eguale. La
      onde chiamiamo grande cio, ch'è maggiore di questa cosa picciola; grandissimo quel, ch'è
      maggiore di questo grande, lucido quel, ch'è più chiaro de l'escuro, lucidissimo quel, ch'è più
      lucido di questo chiaro. Il paragone si fa principalmente a le cose notissime. Ma essendo
-     l'uomo notissimo a l'huomo più che tutte l'altre cose, per aventura <persName ref="#Protagoras"
-      >Protagora</persName>, il quale diceva, che l'uomo e modo, et misura di tutte le cose, questo
+     l'uomo notissimo a l'huomo più che tutte l'altre cose, per aventura <persName ref="#Protagoras">Protagora</persName>, il quale diceva, che l'uomo e modo, et misura di tutte le cose, questo
      medesimo voleva dire, che gli accidenti di tutte le cose drittamente si paragonano, et si
      conoscono con gli accidenti de l'uomo. Queste cose risguardano a quel fine accio che
      conosciamo, che quai corpi si vogliano, che tu dipingerai ne la pittura, che quegli paiono
@@ -466,8 +450,7 @@
      che dormiva; accioché con quella misura de i satiri colui, che dormiva, paresse di gran lunga
      molto più grande. Hora fin qui noi habbiamo detto quasi tutte le cose, che appartengono a la
      forza del vedere, et a conoscere il taglio. Ma perché è necessario a la materia sapere non pur
-     ciò ch'è, et di che si faccia il taglio, ma anchora in che modo egli si fa, s'ha da dire di <pb
-      n="15"/> questo taglio, con quale arte dipingendo egli s'esprima. Di questo dunque lasciando
+     ciò ch'è, et di che si faccia il taglio, ma anchora in che modo egli si fa, s'ha da dire di <pb n="15"/> questo taglio, con quale arte dipingendo egli s'esprima. Di questo dunque lasciando
      stare l'altre cose, dirò quel, ch'io medesimo soglio fare, quando io dipingo. In prima nel
      dipingere la superficie faccio un quadrato grande, quanto mi piace d'anguli dritti; il quale mi
      serve per una finestra aperta, onde si possa vedere l'historia; et quivi determino quanto io
@@ -577,16 +560,14 @@
       ALBERTI</persName>. </head>
     <figure type="ornement"/>
 
-    <p><figure type="ornement"/> MA Perché forse questo studio d'imparare potrebbe parere troppo
+    <p xml:id="ALB_DP_L2_P1"><figure type="ornement"/> MA Perché forse questo studio d'imparare potrebbe parere troppo
      faticoso a i giovani; però giudico, che in questo loco si debba mostrare, quanto sia degna la
      pittura, ne la quale ogni opera, et studio consumiamo. Percioché ella ha veramente in se una
      certa forza molto divina; non solo, perché come dicono de l'amicitia, la pittura ci faccia
      esser presenti quei, che sono absenti, ma perché anchora rappresenta a i vivi quei, che son
      morti dopo lunghi secoli; accioché siano conosciuti con gran maraviglia de l'artifice, et
      piacere di quei, che veggono. <persName ref="#Plutarque">Plutarcho</persName> racconta, che
-      <persName ref="#Cassandre">Cassandro</persName> uno de i capitani d'<persName
-      ref="#AlexandreLeGrand">Alessandro</persName>, nel vedere il ritratto d'<persName
-      ref="#AlexandreLeGrand">Alessandro</persName> già morto, et nel riconoscere la maestà di tanto
+      <persName ref="#Cassandre">Cassandro</persName> uno de i capitani d'<persName ref="#AlexandreLeGrand">Alessandro</persName>, nel vedere il ritratto d'<persName ref="#AlexandreLeGrand">Alessandro</persName> già morto, et nel riconoscere la maestà di tanto
      Rè, tremò in tutto il corpo; et che <persName ref="#Agesilaos">Agesilao Lacedemone</persName>,
      perché si conosceva esser molto brutto, non volse, che l'effigie sua passasse a cognitione de i
      posteri; et che per questo non volse essere ne ritratto, ne scolpito d'alcuno. A questo modo i
@@ -602,16 +583,13 @@
      compagnia de la pittura non sia fatta et molto più cara, et di gran lunga più grave. L'avorio,
      le gioie, et tutte queste cose care, si fanno più preciose con la mano del pittore. Et l'oro
      istesso anchora lavorato con l'arte de la pittura si paga poi con molto più oro. Ma che più, il
-     piombo uilissimo de gli altri metalli, s'egli e ridotto in alcuna statova per mano di <persName
-      ref="#Phidias">Phidia</persName>, o di <persName ref="#Praxitele">Prassitele</persName>,
-     peraventura sarà stimato, che sia più precioso de l'argento rozo, et non lavorato. <persName
-      ref="#Zeuxis">Zeusi</persName> pittore haveva cominciato a donare le cose sue, perché, come
+     piombo uilissimo de gli altri metalli, s'egli e ridotto in alcuna statova per mano di <persName ref="#Phidias">Phidia</persName>, o di <persName ref="#Praxitele">Prassitele</persName>,
+     peraventura sarà stimato, che sia più precioso de l'argento rozo, et non lavorato. <persName ref="#Zeuxis">Zeusi</persName> pittore haveva cominciato a donare le cose sue, perché, come
      egli diceva, elle non si potevano comprare con prezzo alcuno. Percioché credeva, che non si
      ritrovasse prezzo veruno, che potesse sodisfar colui, il quale in dipingere, o scolpire gli
      animali si mostrasse quasi un <persName ref="#Dieu">Dio</persName> fra gli huomini. La pittura
      ha dunque queste lode, che quegli, che sono ammaestrati in essa, quando veggiono ammirare
-     l'opre loro, alhora si conoscono <pb n="19"/> esser molto simili a <persName ref="#Dieu"
-      >Dio</persName>. Ma che più, non è ella la pittura o maestra di tutte l'arti, o almeno
+     l'opre loro, alhora si conoscono <pb n="19"/> esser molto simili a <persName ref="#Dieu">Dio</persName>. Ma che più, non è ella la pittura o maestra di tutte l'arti, o almeno
      principale ornamento? Percioché l'architetto, s'io non m'inganno, ha tolto dal pittore gli
      epistili, i capitelli, le basi, le colonne, e i cornicioni, et tutte l'altre così fatte lodi de
      gli edifici. Percioché il tagliapietra, lo scultore, et tutte le opre de i fabri, insieme con
@@ -627,39 +605,26 @@
      molto a questa materia. Perché che altro è dipingere, che abbracciare con arte quella
      superficie de la fonte? <persName ref="#Quintilien">Quintiliano</persName> era d'opinione, che
      gli antichi pittori fossero usati a circonscrivere l'ombre al Sole; et che poi con augumenti
-     l'arte si sia accresciuta. Vi sono di quei, che dicono, che un certo <persName
-      ref="#PhiloclesdEgypte">Philocle Egittio</persName>, et non so chi <persName ref="#Cleanthe"
-      >Cleante</persName> fossero tra i primi inventori di questa arte. Gli Egitti affermano, che la
+     l'arte si sia accresciuta. Vi sono di quei, che dicono, che un certo <persName ref="#PhiloclesdEgypte">Philocle Egittio</persName>, et non so chi <persName ref="#Cleanthe">Cleante</persName> fossero tra i primi inventori di questa arte. Gli Egitti affermano, che la
      pittura s'usava apresso <pb n="19bis"/> di loro sei mila anni inanzi ch'ella fosse portata in
       <placeName ref="#Grece">Grecia</placeName>. I nostri dicono poi, che la pittura venne di
-     Grecia in <placeName ref="#Italie">Italia</placeName> dopo le vittorie di <persName
-      ref="#MarcusClaudiusMarcellus">Marcello di <placeName ref="#Sicile"
-      >Sicilia</placeName></persName>. Ma non importa molto sapere o i primi pittori, o gli
+     Grecia in <placeName ref="#Italie">Italia</placeName> dopo le vittorie di <persName ref="#MarcusClaudiusMarcellus">Marcello di <placeName ref="#Sicile">Sicilia</placeName></persName>. Ma non importa molto sapere o i primi pittori, o gli
      inventori de la pittura, perché ultimamente noi non raccontiamo l'historia de la pittura, come
       <persName ref="#Pline">Plinio</persName>, ma l'arte. De la quale al tempo nostro non si
      ritrova memoria alcuna de gli antichi scrittori, ch'io habbia visto. Benché si dica, che
       <persName ref="#Euphranor">Eufranore Hischimio</persName> scrisse alcuna cosa de la simmetria,
-     et de i colori; et che <persName ref="#Antigonus">Antigono</persName>, et <persName
-      ref="#Xenocrate">Xenocrate</persName> scrissero non so che de la pittura, et che <persName
-      ref="#Apelle">Apelle</persName> fece un trattato de la pittura a <persName ref="#Persee"
-      >Perseo</persName>. Racconta <persName ref="#DiogeneLaerce">Diogene Laertio</persName>, che
+     et de i colori; et che <persName ref="#Antigonus">Antigono</persName>, et <persName ref="#Xenocrate">Xenocrate</persName> scrissero non so che de la pittura, et che <persName ref="#Apelle">Apelle</persName> fece un trattato de la pittura a <persName ref="#Persee">Perseo</persName>. Racconta <persName ref="#DiogeneLaerce">Diogene Laertio</persName>, che
       <persName ref="#DemetriosAlopece">Demetrio</persName> Philosopho anch'egli comentò la pittura.
      Ma anchora io son d'opinione, che essendo stato scritto da gli antichi nostri di tutte l'altre
      buone arti, che la pittura anch'ella non sia stata sprezzata da i nostri scrittori Italiani.
      Percioché furono in <placeName ref="#Italie">Italia</placeName> gli antichissimi Toscani
-     peritissimi ne l'arte del dipingere. Giudica <persName ref="#HermesTrismegiste"
-      >Trimegisto</persName> scrittor vecchissimo, che la scultura, et la pittura nascessero insieme
-     con la religione; perché egli ragiona di questo modo ad <persName ref="#Asclepios"
-      >Asclepio</persName>. L'humanità ricordevole de la natura, et de la origine sua, figurò gli
+     peritissimi ne l'arte del dipingere. Giudica <persName ref="#HermesTrismegiste">Trimegisto</persName> scrittor vecchissimo, che la scultura, et la pittura nascessero insieme
+     con la religione; perché egli ragiona di questo modo ad <persName ref="#Asclepios">Asclepio</persName>. L'humanità ricordevole de la natura, et de la origine sua, figurò gli
      Dei da la sembianza del suo volto. Et chi vorra negare, che la pittura in tutte le cose così
      publiche, come private, prophane, et religiose non habbia havuto loco honorevolissimo? Di modo
      ch'artificio alcuno appresso gli uomini tanto sia stato stimato da ogniuno. Si raccontano
      prezzi quasi incredibili <pb n="20"/> di tavole dipinte. <persName ref="#Aristide">Aristide
-      Thebano</persName> vendè una pittura sola cento talenti. Dicesi anchora, che il Rè <persName
-      ref="#DemetriosAlopece">Demetrio</persName> non lasciò brusciar <placeName ref="#Rhodes"
-      >Rhodo</placeName>, accio che non si perdesse una tavola di <persName ref="#Protogene"
-      >Prothogene</persName>. Possiamo dunque affermare, che <placeName ref="#Rhodes"
-      >Rhodo</placeName> fosse liberata da gli inimici per una sola pittura. Oltra di questo molte
+      Thebano</persName> vendè una pittura sola cento talenti. Dicesi anchora, che il Rè <persName ref="#DemetriosAlopece">Demetrio</persName> non lasciò brusciar <placeName ref="#Rhodes">Rhodo</placeName>, accio che non si perdesse una tavola di <persName ref="#Protogene">Prothogene</persName>. Possiamo dunque affermare, che <placeName ref="#Rhodes">Rhodo</placeName> fosse liberata da gli inimici per una sola pittura. Oltra di questo molte
      altre simili cose sono state raccolte, per le quali chiaramente si può conoscere, che i buoni
      pittori furono sempre lodati, et tenuti in grandissimo honore appresso ogniuno; di modo che non
      pure nobilissimi, et prestantissimi cittadini, ma philosophi, et Re anchora, non solo si
@@ -669,17 +634,13 @@
      a <placeName ref="#Verone">Verona</placeName>. <persName>Sibedio</persName>, ch'era stato
      pretor et proconsule, guadagnò nome dipingendo. <persName ref="#Pacuvius">Pacuvio</persName>
      poeta Tragico, nipote d'una figlia d'<persName ref="#QuintusEnnius">Ennio</persName> poeta,
-     dipinse uno <objectName>Hercole</objectName> in piazza. <persName ref="#Socrate"
-      >Socrate</persName>, <persName ref="#Platon">Platone</persName>, <persName ref="#Metrodore"
-      >Metrodoto</persName>, et <persName ref="#Pyrrhon">Pirrhone</persName> philosophi furono
-     eccellenti ne la pittura. <persName ref="#Neron">Nerone</persName>, <persName
-      ref="#ValentinienI">Valentiniano</persName>, et <persName ref="#AlexandreSevere">Alessandro
+     dipinse uno <objectName>Hercole</objectName> in piazza. <persName ref="#Socrate">Socrate</persName>, <persName ref="#Platon">Platone</persName>, <persName ref="#Metrodore">Metrodoto</persName>, et <persName ref="#Pyrrhon">Pirrhone</persName> philosophi furono
+     eccellenti ne la pittura. <persName ref="#Neron">Nerone</persName>, <persName ref="#ValentinienI">Valentiniano</persName>, et <persName ref="#AlexandreSevere">Alessandro
       Severo</persName> Imperatori furono studiosisimi de la pittura. Sarebbe lungo il raccontare
      quanti principi, et quanti Re furono inclinati a questa nobilissimatarte. Ma non e honesto
      anchora ch'io riferisca tutta la turba de i pittori antichi; la quale quanta ella fosse di qui
      si può vedere, che 360 statue parte a cavallo, parte in carrette, et cocchi furono finite a
-      <persName ref="#DemetriosDePhalere">Demetrio Valerio</persName> figlivolo di <persName
-      ref="#Phanostrate">Phanostrato</persName> quasi in termine di 400 dì. Et perché non dobbiamo
+      <persName ref="#DemetriosDePhalere">Demetrio Valerio</persName> figlivolo di <persName ref="#Phanostrate">Phanostrato</persName> quasi in termine di 400 dì. Et perché non dobbiamo
       <pb n="20bis"/> credere, che in quella città, ne la quale fu tanto numero di scultori, si
      ritrovassero anchora assaissimi pittori? Percioché la pittura, et la scultura sono arti,
      c'hanno parentado insieme; et sono nodrite con un medesimo ingegno. Ma io metterò sempre inanzi
@@ -697,8 +658,7 @@
      Fu la pittura ancho in tanta laude, et honore, che i Greci fecero uno editto, che i servi non
      la potessero imparare; et questo a gran ragione. Percioché l'arte del dipingere e dignissima
      veramente de gli animi liberali, et nobilisimi; et presso a me su sempre grandissimo argomento
-     d'ottimo, et singolare ingegno di colui, ch'io habbia veduto grandemente dilettarsi <pb n="21"
-     /> de la pittura. Benché questa arte sola egualmente sia grata fuor di modo a i dotti, et a gli
+     d'ottimo, et singolare ingegno di colui, ch'io habbia veduto grandemente dilettarsi <pb n="21"/> de la pittura. Benché questa arte sola egualmente sia grata fuor di modo a i dotti, et a gli
      ignoranti. La qual cosa non avviene quasi in nessuna altra arte; che quel, che diletta gli
      uomini periti, piaccia ancho a gli imperiti. Ne facilmente ritroverai alcuno, il quale oltra
      modo non desideri di fare granfrutto ne la pittura. Finalmente chiaro è, che la natura istessa
@@ -737,14 +697,10 @@
      ricetto di lumi. Tre cose dunque fanno perfetta la pittura circonscrittione, compositione, et
      ricevere de i lumi. Di queste cose resta dunque, che brevissimamente parliamo, et prima de la
      circonscrittione. La circonscrittione è quella, la quale ne la pittura circonscrive con linee
-     il circuito del contorno. Dicesi, che in questa fu molto eccellente <persName ref="#Parrhasios"
-      >Parrhasio</persName> pittore quello, col quale parla <persName ref="#Socrate"
-      >Socrate</persName> appresso <persName ref="#Xenophon">Xenophonte</persName>. Percioché
+     il circuito del contorno. Dicesi, che in questa fu molto eccellente <persName ref="#Parrhasios">Parrhasio</persName> pittore quello, col quale parla <persName ref="#Socrate">Socrate</persName> appresso <persName ref="#Xenophon">Xenophonte</persName>. Percioché
      dicono, ch'egli essaminò diligentissimamente le linee. Hora in questa circonscrittione giudico
      io, che questo sovra tutto si debba servare, ch'ella si faccia con linee sottilisime, et che
-     fuggano molte da essere vedute, del modo, che dicono, che <persName ref="#Apelle"
-      >Apelle</persName> era usato essercitarsi, et haver conteso con <persName ref="#Protogene"
-      >Prothogene</persName>. Percioché circonscrittione non è niente altro, che notatione di
+     fuggano molte da essere vedute, del modo, che dicono, che <persName ref="#Apelle">Apelle</persName> era usato essercitarsi, et haver conteso con <persName ref="#Protogene">Prothogene</persName>. Percioché circonscrittione non è niente altro, che notatione di
      contorni; la quale se sarà fatta con linea, che molto paia, non appariranno margini di
      superficie ne la dipintura, ma alcune fessure picciole. Ma io vorrei, che niente altro si
      proseguisse con la circonscrittione, se non il circuito de contorni. Ne la quale io stimo, che
@@ -889,8 +845,7 @@
      fatica, accioché quanto studio, <pb n="26bis"/> et opra porranno in riconoscere la simmetria de
      le membra, tanto conoscano, che gli abbia giovato a fermarsi ne la memoria quelle cose,
      c'havranno imparate. D'una cosa però gli aviso, che in misurare l'animale pigliamo alcun membro
-     di quello istesso animale, col quale misuriamo l'altre. <persName ref="#Vitruve"
-      >Vitruvio</persName> Architetto numera la lunghezza de l'huomo co' piedi. Ma io stimo cosa più
+     di quello istesso animale, col quale misuriamo l'altre. <persName ref="#Vitruve">Vitruvio</persName> Architetto numera la lunghezza de l'huomo co' piedi. Ma io stimo cosa più
      degna, se l'altre si riferiscono a la quantità del campo. Ben che io ho considerato questo
      esser quasi comune ne gli huomini, che quella medesima misura vi è del piede, ch'è de la testa
      dal mento a la collottona. Tolto dunque un membro l'altre sono d'acommodare a questo. Di modo
@@ -900,10 +855,8 @@
      philosopho, che ora, voglio che in ogni suo membro mostri più tosto modestia che essercitio.
       <persName ref="#Damon">Demone</persName> pittore espresse <objectName>Hoplicite</objectName>
      in un combattimento, di modo, che tu havresti detto ch'egli sudava; et che l'altro deponeva
-     l'armi, di maniera che pareva che ansasse. Vi fu ancho chi dipinse <persName ref="#Ulysse"
-      >Ulisse</persName> che tu havresti conosciuto in lui non una vera, ma finta, et simulata
-     pazzia. E lodata una historia appresso <reg>Romani</reg>, ne la quale è portato <persName
-      ref="#Meleagre">Meleagro</persName> morto; et quei che vi sono sotto, s'affannano; et pare che
+     l'armi, di maniera che pareva che ansasse. Vi fu ancho chi dipinse <persName ref="#Ulysse">Ulisse</persName> che tu havresti conosciuto in lui non una vera, ma finta, et simulata
+     pazzia. E lodata una historia appresso <reg>Romani</reg>, ne la quale è portato <persName ref="#Meleagre">Meleagro</persName> morto; et quei che vi sono sotto, s'affannano; et pare che
      s'affaticano con tutte le membra. In quel, ch'è morto, non vi è membro alcuno che non paia
      morto, <pb n="27"/> cioè tutti pendono, la mano, le dita, il collo, et tutti languidi cascano.
      Finalmente tutti convengono a esprimere la morte del corpo; la qual cosa è molto più difficile
@@ -918,15 +871,13 @@
      farà che tutte le membra pongano in essecutione i suoi moti. Ma in ogni moto s'ha da seguire la
      vaghezza, et la gratia. Et sovra tutti quei moti de le membra sono vivaci, et gratissimi, i
      quali tolgono l'aere in alto. Habbiamo detto anchora che la specie è da essere considerata in
-     componere le membra. Perché sarebbe molto goffo vedere le mani d'<persName ref="#Helene"
-      >Helena</persName>, o d'<persName ref="#Iphigenie">Iphigenia</persName> vecchie, et da
+     componere le membra. Perché sarebbe molto goffo vedere le mani d'<persName ref="#Helene">Helena</persName>, o d'<persName ref="#Iphigenie">Iphigenia</persName> vecchie, et da
      villano. O vero se dessimo a <persName ref="#Nestor">Nestore</persName> il petto tenero, e'l
      collo delicato; o a <persName ref="#Ganymede">Ganimede</persName> la fronte piena di crespe, le
      gambe da lottatore; o a <persName ref="#MilonDeCrotone">Milone</persName> huomo robustissimo i
      fianchi debili, et sottili. Ma anchora in quella imagine, ne la quale sia volto <pb n="27bis"/>
      sodo, et pieno di succo, come si dice, sarebbe un vituperio mettervi le braccia, et le mani
-     consumate da la magrezza. Et per il contrario chi di pingesse <persName ref="#Achemenide"
-      >Achemenide</persName> ritrovato da <persName ref="#Enee">Enea</persName> ne l'isola col volto
+     consumate da la magrezza. Et per il contrario chi di pingesse <persName ref="#Achemenide">Achemenide</persName> ritrovato da <persName ref="#Enee">Enea</persName> ne l'isola col volto
      che <persName ref="#Virgile">Virgilio</persName> dice ch'egli haveva, et non vi seguissero
      l'altre cose convenienti a la faccia, certo costui sarebbe un pittore molto ridicolo, et goffo.
      Bisogna dunque che ogni cosa si confaccia in specie. Vorrei anchora che corrispondessero
@@ -961,8 +912,7 @@
      cose l'animo si diletta molto de l'abbondanza. Et per questo ne la pittura la varietà de i
      corpi, et de i colori è dilettevole. Quella dirò io che sia una historia copiosissima; ne la
      quale vi saranno a i suoi luoghi mescolati huomini, giovani, garzoni, fanciulli, matrene,
-     vergini, bambini, animali domestici, cagnuoli, uccelletti, cavalli, bestie, ed fici, et <pb
-      n="28bis"/> paesi; et loderò ogni abbondanza, pur ch'ella convegna a quella cosa, de la quale
+     vergini, bambini, animali domestici, cagnuoli, uccelletti, cavalli, bestie, ed fici, et <pb n="28bis"/> paesi; et loderò ogni abbondanza, pur ch'ella convegna a quella cosa, de la quale
      ivi si tratta. Percioché avviene che mentre i risguardanti dimorano a guardare le cose,
      ch'alhora l'abbondanza del pittore acquista la gratia. Ma io vorrei che questa copia fosse
      ornata con una certa varietà, grave, et temprata con dignità, et vergogna. Et certo io biasimo
@@ -977,8 +927,7 @@
      che ne l'istoria molto mi piace quello che io veggio osservato da i poeti Tragici, et Comici,
      che rappresentano la favola con quante poche persone possono. A mio giudicio veramente non sarà
      historia alcuna ripiena di tanta varietà di cose, la quale nove, o dieci huomini non possano
-     sofficientemente rappresentare: di modo ch'io giudico che quella opinione di <persName
-      ref="#Varron">Varrone</persName> si confaccia a questo, il quale fuggendo il tumulto nel
+     sofficientemente rappresentare: di modo ch'io giudico che quella opinione di <persName ref="#Varron">Varrone</persName> si confaccia a questo, il quale fuggendo il tumulto nel
      convivio, non vi admetteva più che nove convitati. Ma <pb n="29"/> benché la varietà sia
      dilettevole in ogni historia, nondimeno quella pittura sopra tutte l'altre è grata, ne la quale
      lo stato, e'l moto de i corpi sono fra se molto dissimili. Stiano dunque alcun rilevati con
@@ -988,10 +937,8 @@
      o si giacciano appresso; alcuni, se così conviene, stiano nudi; altri vi si veggano, mescolata
      l'arte de l'uno, et l'altro, parte coperti, et parte nudi. Ma però sempre habbiamo rispetto a
      l'onesta, et a la vergogna. Percioché le parti vergognose del corpo, et tutte quelle, c'hanno
-     poca gratia, stanno ben coperte di panno, di frondi, o con mano. <persName ref="#Apelle"
-      >Apelle</persName> dipingeva l'imagine d'<persName ref="#Antigonus">Antigono</persName> da
-     quella parte sola del volto, ne la quale non era il difetto de l'occhio. Et <persName
-      ref="#Homere">Homero</persName>, quando egli fa, ch'<persName ref="#Ulysse">Ulisse</persName>
+     poca gratia, stanno ben coperte di panno, di frondi, o con mano. <persName ref="#Apelle">Apelle</persName> dipingeva l'imagine d'<persName ref="#Antigonus">Antigono</persName> da
+     quella parte sola del volto, ne la quale non era il difetto de l'occhio. Et <persName ref="#Homere">Homero</persName>, quando egli fa, ch'<persName ref="#Ulysse">Ulisse</persName>
      naufrago svegliato dal sonno esce fuora nudo de la selva a la voce de le femine, leggesi, che
      gli diede un ramo di foglie d'albero per coprire quelle parti del corpo che non si possono
      nominare senza vergogna. Dicesi che <persName ref="#Pericles">Pericle</persName> hebbe il capo
@@ -1013,12 +960,9 @@
      che sono corrocciati, per havere gli animi infiammati da l'ira, e'l volto, et gli occhi si gli
      gonfiano, et gli divengono rossi; e i moti di tutte le membra per il furor de la colera sono in
      loro gagliardisimi, et molto risentiti. Ma quando siamo allegri, et giocondi, alhora habbiamo i
-     moti sciolti, et grati con certe piegature. E lodato <persName ref="#Euphranor"
-      >Euphranore</persName>, perché egli fece in <persName ref="#AlexandreLeGrand"
-      >Alessandro</persName> il volto di <persName ref="#ParisMythologie">Pari</persName>, et la
+     moti sciolti, et grati con certe piegature. E lodato <persName ref="#Euphranor">Euphranore</persName>, perché egli fece in <persName ref="#AlexandreLeGrand">Alessandro</persName> il volto di <persName ref="#ParisMythologie">Pari</persName>, et la
      faccia; ne la quale tu lo puoi conoscere in un tempo giudice de le Dee, <pb n="30"/> amator
-      d'<persName ref="#Helene">Helena</persName>, et micidial d'<persName ref="#Achille"
-      >Achille</persName>. <persName ref="#Damon">Demone</persName> pittore anch'egli fu
+      d'<persName ref="#Helene">Helena</persName>, et micidial d'<persName ref="#Achille">Achille</persName>. <persName ref="#Damon">Demone</persName> pittore anch'egli fu
      mirabilmente lodato, perché ne le sue tavole vi si vede in un tempo il corrocciato, l'ingiusto,
      l'incostante, et insieme l'inesorabile, il clemente, il misericordioso, il glorioso, l'umile,
      e'l feroce. Ma fra gli altri dicono ch'<persName ref="#Aristide">Aristide Thebano</persName>
@@ -1047,16 +991,14 @@
       Cipriano</persName> in quella tavola, ne la quale egli vinse Collotrico; c'avendo fatto nel
       <objectName>sacrificio d'Iphigenia</objectName>
      <persName ref="#Calchas">Calcante</persName> mesto, <persName ref="#Ulysse">Ulisse</persName>
-     molto più, et consumato tutta l'arte, et l'ingegno in <persName ref="#Menelas"
-      >Menelao</persName> abbattuto dal dolore; spesi tutti gli affetti, non ritrovando in che modo
+     molto più, et consumato tutta l'arte, et l'ingegno in <persName ref="#Menelas">Menelao</persName> abbattuto dal dolore; spesi tutti gli affetti, non ritrovando in che modo
      degnamente potesse rappresentare il volto del padre mestisimo, gli coperse la faccia co'panni;
      sì come a cui lasciava più da pensare ne l'animo circa il dolor suo, che non si sarebbe potuto
      esprimere con la vista. In <placeName ref="#Rome">Roma</placeName> anchora è molto lodata
      quella nave, ne la quale un nostro Toscano pittore <persName ref="#Giotto">Giotto</persName>
      espresse undici combattuti da la paura, et da la maraviglia per il compagno, il quale vedevano
      caminare sopra l'acque; di modo che ciascuno mostra per se il suo inditio de l'animo turbato
-     nel volto, e in tutto il corpo che in un per uno si veggono i propri moti de l'affettione. <pb
-      n="31"/> Ma egli è honesto, che brevissimamente si tratti tutto questo loco de i moti. Perché
+     nel volto, e in tutto il corpo che in un per uno si veggono i propri moti de l'affettione. <pb n="31"/> Ma egli è honesto, che brevissimamente si tratti tutto questo loco de i moti. Perché
      vi sono alcuni moti de gli animi, i quali gli huomini dotti chiamano affettioni, come ira,
      dolore, allegrezza, paura, desiderio, et altri simili; altri vi sono de i corpi. Percioché i
      corpi sono detti moversi in più modi, sì come quando crescono, et scemano; et quando sani
@@ -1072,8 +1014,7 @@
      s'inalzino su; altre vadano in giù. Ma per che in dipingere questi moti le più volte si passa
      il modo, et la ragione, piacemi di raccontare in questo loco alcune cose de lo stato, et de i
      moti de le membra, le quali io ho raccolte da la natura istessa; accioché chiaramente si
-     conosca con quanta destrezza si debbe servire di questi moti. Certo io ho considerato <pb
-      n="31bis"/> ne l'uomo, quanto egli in ogni suo stato sottoponga tutto il corpo a la testa più
+     conosca con quanta destrezza si debbe servire di questi moti. Certo io ho considerato <pb n="31bis"/> ne l'uomo, quanto egli in ogni suo stato sottoponga tutto il corpo a la testa più
      grave membro di tutte l'altre. Et anchora s'egli si fermerà con tutto il corpo in su un piede,
      sempre quel piede, come base de la colonna, è sottoposto perpendicolarmente al capo. Et quasi
      sempre il volto di colui che sta fermo, è rivolto la dove è drizzato il piede. Io ho
@@ -1104,8 +1045,7 @@
      esprimono anchora l'ingegno troppo ardente de l'artefice. Percioché la pittura dee havere i
      moti soavi, et grati, et accommodati a la cosa, di che si tratta. Sia ne le vergini un moto et
      uno habito leggiadro, ornato, et dilettevole per una semplice età, il quale tenga più tosto
-     d'una fermezza, et d'un dolce riposo che de l'essercitio; benché ad <persName ref="#Homere"
-      >Homero</persName>, il quale <persName ref="#Zeuxis">Zeusi</persName> seguitò, piacesse ne le
+     d'una fermezza, et d'un dolce riposo che de l'essercitio; benché ad <persName ref="#Homere">Homero</persName>, il quale <persName ref="#Zeuxis">Zeusi</persName> seguitò, piacesse ne le
      donne anchora una bellezza molto gagliarda. Siano in uno garzone moti più leggieri, et
      giocondi, con una certa dimostratione d'animo valente, <pb n="32bis"/> et di forze. Siano in
      uno huomo moti più fermi, et stati ornati molto a una veloce lotta. Habbiano i vecchi tutti i
@@ -1134,8 +1074,7 @@
      moderati et facili, et mostrino più tosto gratia che maraviglia di fatica. Hora poi che
      vogliamo che i panni siano accommodati a i moti; et poi che secondo la natura loro, i panni
      gravi che spesso cadono in terra, fuggono molto tutte le pieghe, per ciò si metterà benissimo
-     ne la pittura la faccia di <persName ref="#Zephyr">Zephiro</persName>, o d'<persName
-      ref="#Astreos">Austro</persName>, che soffia tra i nuvoli, in un cantone de l'historia, la
+     ne la pittura la faccia di <persName ref="#Zephyr">Zephiro</persName>, o d'<persName ref="#Astreos">Austro</persName>, che soffia tra i nuvoli, in un cantone de l'historia, la
      dove tutti i panni rivolti si disacciano. Onde vi si vedrà quella gratia che i lati del corpo
      che sono feriti dal vento, percioché i panni sono dal vento rassettati al corpo, quei parranno
      quasi ignudi sotto la coperta del panno. Ma da gli altri lati i panni mossi dal vento benissimo
@@ -1152,9 +1091,7 @@
      lumi, et l'ombre ne la pittura; et che gli altri colori sono considerati come materia, co i
      quali vi si diano le alterationi del lume, et de l'ombra. Lasciate dunque l'altre cose, s'ha da
      dichiarare hora; in che modo il pittore ha d'adoprare il bianco, e'l nero. I pittori antichi si
-     maravigliano che <persName ref="#Polygnote">Polignoto</persName>, et <persName ref="#Timanthe"
-      >Thimante</persName> usassero solo quattro colori; et che <persName ref="#Aglaophon"
-      >Aglaophone</persName> si dilettasse d'un solo; come se in tanto numero, quanto pensavano che
+     maravigliano che <persName ref="#Polygnote">Polignoto</persName>, et <persName ref="#Timanthe">Thimante</persName> usassero solo quattro colori; et che <persName ref="#Aglaophon">Aglaophone</persName> si dilettasse d'un solo; come se in tanto numero, quanto pensavano che
      vi fosse di colori, sia poco, se quegli eccellentissimi pittori se ne servissero di così pochi;
      et pensano che sia cosa di copioso artefice mettere insieme ne l'opra tutta la moltitudine de i
      colori. Veramente io affermo che l'abbondanza, et la varietà de i colori possa molto a dar
@@ -1228,8 +1165,7 @@
      amiamo le cose apte, et chiare. In quella parte dunque, dove si vede più facile la via al
      peccato, ivi ella più s'ha da serrare. Queste cose fin qui siano dette de l'uso del bianco, et
      nero. Ma de le sorti de i colori vi s'ha da <reg>usare</reg> una ragione anchora. Resta dunque,
-     che diciamo de le sorti de i colori alcune cose, non già nel modo che dice <persName
-      ref="#Vitruve">Vitruvio</persName> architetto, in che loco si trovino cinabri ottimi, et
+     che diciamo de le sorti de i colori alcune cose, non già nel modo che dice <persName ref="#Vitruve">Vitruvio</persName> architetto, in che loco si trovino cinabri ottimi, et
      colori eccellentissimi. Ma in qual modo i colori scelti, et molto macinati siano da essere
      composti ne la pittura. Dicono ch'<persName ref="#Euphranor">Euphranore</persName> pittore
      antico scrisse alcuna cosa de i colori; quegli scritti non vi sono al tempo nostro. Ma io che
@@ -1251,8 +1187,7 @@
      posti benissimo tra gli oscuri. Il pittor dunque disporrà ne la historia quella varietà di
      colori ch'io ho detto. Vi sono di quei ch'adoprano di molto oro, per che si credono, che l'oro
      dia una certa maiestà a l'istoria; costoro io non gli lodo in tutto; anzi s'io volessi
-     dipingere quella <persName ref="#Didon">Didone</persName> di <persName ref="#Virgile"
-      >Virgilio</persName>, la quale haveva <pb n="36bis"/> il turcasso d'oro, e i capegli legati in
+     dipingere quella <persName ref="#Didon">Didone</persName> di <persName ref="#Virgile">Virgilio</persName>, la quale haveva <pb n="36bis"/> il turcasso d'oro, e i capegli legati in
      oro; che s'allacciava la veste con una fibbia d'oro, et aveva il freno d'oro, e'n somma ogni
      cosa le resplendeva d'oro; io nondimeno mi sforzarei d'imitar più tosto con colori, che con oro
      quella abbondanza di raggi d'oro; la quale d'ogni parte empisse gli occhi de i risguardanti.
@@ -1275,7 +1210,7 @@
     <head> LIBRO TERZO DE LA PITTURA DI <persName ref="#LeonBattistaAlberti">LEON BATTISTA
       ALBERTI</persName>. </head>
     <figure type="ornement"/>
-    <p>
+    <p xml:id="ALB_DP_L3_P1">
      <figure type="lettrine"/> HORA perché alcune cose ci restano ancho a fare un perfetto pittore,
      accioché egli sia degno di tutte le lodi, c'habbiamo raccontato; le quali cose io non ho voluto
      tacere in questi comentari, io le dirò quanto più brevemente sarà possibile. Ufficio del
@@ -1332,10 +1267,7 @@
      gran lode a l'artefice. Et perciò do questo consiglio, che un pittore studioso si faccia
      familiare, et amico a i poeti, a gli oratori, et a gli altri dotti, et letterati. Percioché da
      simili begli ingegni ne riceverà ornamenti ottimi; et sarà anchora aiutato in queste
-     inventioni, le quali si vendicheranno ne la pittura la prima lode. <persName ref="#Phidias"
-      >Phidia</persName> pittore eccellente confessava d'avere imparato da <persName ref="#Homere"
-      >Homero</persName>, in che maestà egli deveva dipingere <persName ref="#Jupiter"
-      >Giove</persName>. Così giudico anchora che noi si faremo più copiosi, et più emendati
+     inventioni, le quali si vendicheranno ne la pittura la prima lode. <persName ref="#Phidias">Phidia</persName> pittore eccellente confessava d'avere imparato da <persName ref="#Homere">Homero</persName>, in che maestà egli deveva dipingere <persName ref="#Jupiter">Giove</persName>. Così giudico anchora che noi si faremo più copiosi, et più emendati
      leggendo i nostri poeti; pur che siamo più studiosi d'imparare che del guadagno. Ma le più
      volte i non meno studiosi che desiderosi si rompono, perché non sanno la via d'imparare la
      scientia che per fatica d'imparare. Et però incominciamo a dire, in che modo bisogna farsi
@@ -1375,8 +1307,7 @@
      quella usanza di molti, i quali con l'ingegno di loro medesimi contendono ad acquistare lode ne
      la pittura, senza mettersi inanzi con gli occhi, et con la faccia alcuna naturale di quella
      cosa. Percioché costoro non imparino a dipinger bene, ma s'avezzano ne gli errori. Perché non
-     sanno ritrovare gli ignoranti quella idea de la bellezza ch'a pena gli eccellentissimi <pb
-      n="40"/> ingegni possono discernere. <persName ref="#Zeuxis">Zeusi</persName> prestantissimo,
+     sanno ritrovare gli ignoranti quella idea de la bellezza ch'a pena gli eccellentissimi <pb n="40"/> ingegni possono discernere. <persName ref="#Zeuxis">Zeusi</persName> prestantissimo,
      eccellentissimo et dottissimo pittore sopra tutti gli altri, essendo per fare una tavola, la
      quale publicamente voleva dedicare nel <placeName>tempio di Lucina appresso i
       Crothoniati</placeName>, non confidandosi temerariamente nel suo proprio ingegno, sì come
@@ -1432,8 +1363,7 @@
      stilo a lavoro che non habbia prima benissimo ordinato ne la mente quel ch'egli e per fare, et
      in che modo l'ha da fornire. Percioché più securo è levare gli errori de la mente, che
      scancellarli <pb n="41bis"/> de l'opera. Et perché anchora mentre che s'avezzaremo tutte le
-     cose a far pensatamente, avvie ne che diventiamo più pronti artefici d'<persName
-      ref="#Asclepiodore">Asclepiodoro</persName>; il quale dicono che fu velocissimo sopra ogniuno
+     cose a far pensatamente, avvie ne che diventiamo più pronti artefici d'<persName ref="#Asclepiodore">Asclepiodoro</persName>; il quale dicono che fu velocissimo sopra ogniuno
      in dipingere. Percioché quello ingegno che maneggiato ne l'essercitio si riscalda, diventa
      pronto, presto, et spedito. Et quella mano velocissima segue, la quale è guidata da certa
      ragione d'ingegno. Ma se vi sono alcuni artefici pigri, questi veramente sono tali, per che
@@ -1449,8 +1379,7 @@
      grande, ne a pena concessa ad alcuno de gli antichi che fosse eccellente non dico in ogni cosa,
      ma che fosse pure mezzanamente dotto; nondimeno io giudico che si debba mettere ogni studio che
      per negligenza nostra non ci manchino quelle cose, le <pb n="42"/> quali, se s'acquistano,
-     danno gran lode; et vituperio, se non se ne tien conto. <persName ref="#Nicias"
-      >Nicia</persName> pittore Atheniese diligentissimamente dipinse le donne. Ma dicono che
+     danno gran lode; et vituperio, se non se ne tien conto. <persName ref="#Nicias">Nicia</persName> pittore Atheniese diligentissimamente dipinse le donne. Ma dicono che
       <persName ref="#Zeuxis">Zeusi</persName> fu molto più eccellente de gli altri in dipingere un
      corpo di donna. <persName ref="#HeraclitedeMacedonie">Eraclide</persName> fu singolare in
      dipingere navi. <persName ref="#Serapion">Serapione</persName> non poteva dipingere uno huomo,
@@ -1460,8 +1389,7 @@
      gli animali da quattro piedi, et specialmente i cani. <persName>Aurelio</persName>,
      percioch'egli era sempre innamorato, si delettava solo di rappresentare le Dee, et ne le
      imagini di quelle i volti, che egli amava. <persName ref="#Phidias">Phidia</persName>
-     s'affaticava più in mostrare la maestà de gli Dei, che la bellezza de gli huomini. <persName
-      ref="#Euphranor">Euphranore</persName> studiava molto in simulare la dignità de gli Heroi; et
+     s'affaticava più in mostrare la maestà de gli Dei, che la bellezza de gli huomini. <persName ref="#Euphranor">Euphranore</persName> studiava molto in simulare la dignità de gli Heroi; et
      in questa cosa avanzò tutti gli altri. A questo modo ogniuno hebbe diversa virtù. Percioché la
      natura ha donato le proprie doti a ciascuno ingegno; de le quali non debbiamo però restare
      talmente con tenti, che non cerchiamo di tentare, se forse alcuna cosa possiamo fare più oltra;
@@ -1479,8 +1407,7 @@
      fastidio non spaventi da proseguirla, nel desiderio di fornire la precipiti. Alcuna volta si
      dee tralasciare la fatica del negotio, et ricreare l'animo; et non fare quel che molti fanno,
      che togliono opere assai, quella incominciano, questa gettano da parte cominciata, et
-     imperfetta. Ma l'opre che tu comincierai, sono da essere compite in ogni parte. <persName
-      ref="#Apelle">Apelle</persName> rispose a un certo, che mostrandogli una imagine gli disse, io
+     imperfetta. Ma l'opre che tu comincierai, sono da essere compite in ogni parte. <persName ref="#Apelle">Apelle</persName> rispose a un certo, che mostrandogli una imagine gli disse, io
      l'ho dipinta hor hora; certo, che ciò si vede ben chiaro, anchora che tu tacessi; anzi io mi
      maraviglio che tu non ne habbia dipinto di molte altre così fatte. Ho veduto io alcuni et
      pittori, et scultori, et de gli oratori, et de i poeti anchora; se pure alcuni meritano a l'età
@@ -1532,12 +1459,10 @@
      un tempo, et perfetta. Ma quei che verranno dopo me, se ve ne saranno alcuni di più eccellente
      ingegno, et studio, ch'io non sono, questi peraventura l'arte de la pittura faranno, et
      perfetta, et compita. </p>
-    <p> IL FINE. </p>
-    <p> REGISTRO. </p>
-    <p> ABCDEF. Tutti sono Quaterni, eccetto F che è Duerno. </p>
-    <p> In <placeName ref="#Venise">Venegia</placeName> appresso <persName
-      ref="#GabrieleGiolitoDeFerrari">GABRIEL GIOLITO</persName>, de <placeName ref="#Ferrare"
-      >Ferrari</placeName>. <date when="1547">MDXLVII</date>. </p>
+    <p xml:id="ALB_DP_L3_P2"> IL FINE. </p>
+    <p xml:id="ALB_DP_L3_P3"> REGISTRO. </p>
+    <p xml:id="ALB_DP_L3_P4"> ABCDEF. Tutti sono Quaterni, eccetto F che è Duerno. </p>
+    <p xml:id="ALB_DP_L3_P5"> In <placeName ref="#Venise">Venegia</placeName> appresso <persName ref="#GabrieleGiolitoDeFerrari">GABRIEL GIOLITO</persName>, de <placeName ref="#Ferrare">Ferrari</placeName>. <date when="1547">MDXLVII</date>. </p>
     <pb/>
     <figure type="ornement"/>
    </div>

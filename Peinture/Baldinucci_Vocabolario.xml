@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
  <teiHeader>
@@ -9,12 +9,12 @@
     </title>
    </titleStmt>
    <publicationStmt>
-    <p>
+    <p xml:id="BAL_V_P1">
      Publication Information
     </p>
    </publicationStmt>
    <sourceDesc>
-    <p>
+    <p xml:id="BAL_V_P2">
      Information about the source
     </p>
    </sourceDesc>
@@ -26,7 +26,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>
+   <p xml:id="BAL_V_P3">
     I.	A
 Abaco
 m. Vedi Membra degli ornamenti.
