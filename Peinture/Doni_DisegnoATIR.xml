@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
@@ -7,7 +7,7 @@
             <title xml:lang="ita"> Disegno, Antonio Francesco Doni </title>
          </titleStmt>
          <publicationStmt>
-            <p> Publication Information </p>
+            <p xml:id="DON_D_P1"> Publication Information </p>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -37,10 +37,9 @@
          <div type="dedicace">
             <head>ALLO ILLUSTRISS. ET REVERENDISS. S. IL S. <persName ref="#JuanHurtadoDeMendoza">
                   GIOVANNI URTHADO DI MENDOZZA</persName>, DEL CONSIGLIO DI SUA MAESTA CESAREA. ET
-               IMBASCIADORE DIGNISSIMO. ALLA ILLUSTRISS. ET ECCELLENTISS. SIGNORIA DI <placeName
-                  ref="#Venise">VINEGIA</placeName>. <persName ref="#AntonFrancescoDoni">ANTON
+               IMBASCIADORE DIGNISSIMO. ALLA ILLUSTRISS. ET ECCELLENTISS. SIGNORIA DI <placeName ref="#Venise">VINEGIA</placeName>. <persName ref="#AntonFrancescoDoni">ANTON
                   FRANCESCO DONI</persName>.</head>
-            <p> Egl'è venuto un tempo Illustrissimo S. che molti di coloro che fanno per via di
+            <p xml:id="DON_D_P1"> Egl'è venuto un tempo Illustrissimo S. che molti di coloro che fanno per via di
                compositione opere, o le trascrivano per modo di traduttione; non dedicano più i
                libri per il merito del Signore a cui gl'intitolano, ma per la virtù de i presenti
                che gl'aspettano. et <pb n="2bis"/> molte volte daranno alle publiche stampe tali
@@ -63,8 +62,7 @@
                giudicato non meno temerario che arrogante, supplisca il tacere, nostr ne potendo
                dire a pieno: tenendomi nel numero de suoi fidelissimi seruitori, mentre che io
                m'inchino riverentemente <pb n="3bis"/> come io son tenuto et vi bascio
-               l'honoratissima et virtuosissima mano. Di <placeName ref="#Venise"
-                  >Vinegia</placeName> alli<date when="1549-08-30"> XXX. d'Agosto. MDXLIX</date>.
+               l'honoratissima et virtuosissima mano. Di <placeName ref="#Venise">Vinegia</placeName> alli<date when="1549-08-30"> XXX. d'Agosto. MDXLIX</date>.
             </p>
          </div>
       </front>
@@ -75,7 +73,7 @@
             <div2 type="chapitre" n="1" xml:id="C1">
                <pb n="5"/>
                <head>LA PRIMA PARTE DEL DISEGNO DEL DONI. LA NATURA, ET L'ARTE.</head>
-               <p>Perché ti lodi tu tanto da te medesima? A. Per haverti in molte cose imitata
+               <p xml:id="DON_D_T1_C1_P1">Perché ti lodi tu tanto da te medesima? A. Per haverti in molte cose imitata
                   appunto; anzi ardirò dir così mi par d'haverti avanzata s'io non m'inganno. N.
                   Questi son di quegl'errori, che soglion fare gl'huomini, nel disputtare della
                   pittura, et della scoltura; che non havendo cognition dell'arte, si fermano sopra
@@ -87,8 +85,7 @@
                   sua, che quella d'un'altro. A. Chi sarà colui, che d'ambe due egualmente possi
                   ragionare? N. Michel Agnolo, o un'buon giudicio senza passione; che dell'una et
                   dell'altra parimente s'intenda: laqual cosa mi cred'io che si truoui di rado. A. I
-                  Poeti sarebbono eglino il proposito? N. Non mi credo io, perché o son <pb n="5bis"
-                  /> fondati d'opinione sopra la philosophia morale, o naturale, o sopra il lor
+                  Poeti sarebbono eglino il proposito? N. Non mi credo io, perché o son <pb n="5bis"/> fondati d'opinione sopra la philosophia morale, o naturale, o sopra il lor
                   capriccio; il quale termina o in favola, o in bugia: et se vanno con le
                   philosophie loro sciocche e m'aviluppono si oscuramente la cognition del vero, con
                   gl'argomenti; che gl'è piu il fastidio a sentirgli; che la fatica a fare una
@@ -109,8 +106,7 @@
                   pittura divina, et non in mestiche di colori humani. A. Questa distintion mi piace
                   molto: ma io mi penso che la vadia in infinito, et che mal si possi terminare
                   queste cose per le bocche de gl'huomini. N. Io mi son fatte tal volta si gran
-                  risa, di questo loro affanno della nobiltà della scoltura, et della pittura <pb
-                     n="6"/> che si pigliono, chi é piu nobile, che m'è durato molti giorni: la
+                  risa, di questo loro affanno della nobiltà della scoltura, et della pittura <pb n="6"/> che si pigliono, chi é piu nobile, che m'è durato molti giorni: la
                   cagione è questa, che di cinque sentimenti che io ho dato all'huomo, solo uno gli
                   serue ad havere questa cognitione dell'arte. A. In che modo. N. Laveduta
                   solamente, rende ragion della pittura, hor vedi che debolezza. A. In verità che tu
@@ -127,10 +123,8 @@
                   modi che gl'usono nel lavorare, e defficultà, et l'altre cose. A. O chi n'è stata
                   inuentrice se non io, et chi meglio le sa di me; che l'ho tutte dentro unite, et
                   distinte; et come le fanno di bisogno. N. Si, ma tu mi sei nimica, però che con
-                  l'imitarmi, vorresti esser da piu di me; et mi ricordo che <persName
-                     ref="#Donatello">Donatello</persName> scultore Fiorentino havendo fatto una
-                  figura di marmo; chiamato da tutto il volgo di <placeName ref="#Florence"
-                     >Fiorenza</placeName>, il Zucchone: (laquale statua è posta nella torre
+                  l'imitarmi, vorresti esser da piu di me; et mi ricordo che <persName ref="#Donatello">Donatello</persName> scultore Fiorentino havendo fatto una
+                  figura di marmo; chiamato da tutto il volgo di <placeName ref="#Florence">Fiorenza</placeName>, il Zucchone: (laquale statua è posta nella torre
                   miracolosa del campanile di Santa Liberata) dandogli un colpo con la mano, disse;
                   parla. A. Questo lo fece mi <pb n="6bis"/> credo io, perché gli parue la piu bella
                   che facesse mai. N. Di pure che si credette esser me, et si prese quello ardire;
@@ -144,8 +138,7 @@
                   della sua arte. N. E fia bisogno, uno statuario cioé uno che lavori di getto,
                   un'prospettivo, un architetto, et sopra tutto che gl'habbino buon disegno. A.
                   Troppo sarebbe che udire, mettendo tutti costoro insieme; et troppo lunghe
-                  sarebbono le lor ragioni. N. Chiamasi dunque <persName ref="#Apelle"
-                     >Apelle</persName>, che faceva cose inaudite, et haveva giudicio retto; perché
+                  sarebbono le lor ragioni. N. Chiamasi dunque <persName ref="#Apelle">Apelle</persName>, che faceva cose inaudite, et haveva giudicio retto; perché
                   si vede che nel fare la faccia d'<persName ref="#Antigonus">Antigono</persName>
                   ilquale era cieco da un'occhio la voltò in modo, che coperse quel difetto. Et
                   questo mancamento non harebbe potuto asconder la scoltura. A. Chi t'udisse
@@ -259,8 +252,7 @@
                   gli puo discernere; et la pratica della mano non se ne puo liberare. N. Et quanto
                   moltiplicano tali disegni mi credo io, moltiplicano tanto gl'errori, che ogn'altro
                   assai meglio gli vede che l'artefice. A. Quest'è vero: perché gl'è tanto accecato,
-                  et tanto si fida ne suoi modi, che non crede potere errare: adunque questo <pb
-                     n="9bis"/> modo non porta ne honore, ne lode, però entriamo piu inanzi. N. Per
+                  et tanto si fida ne suoi modi, che non crede potere errare: adunque questo <pb n="9bis"/> modo non porta ne honore, ne lode, però entriamo piu inanzi. N. Per
                   cominciare a ristringerli a qualche particolare essempio che ti par di quella
                   ragione che dicono che il primo huomo fu di Scultura? A. È debole come tu dicesti
                   poco fa, perché volendo per tal via mostrar la sua nobiltà concorrerà in questa
@@ -269,8 +261,7 @@
                   pare che sia arte di Pittura quel che è d'un sol colore. A. Vorrei qualche
                   ragione. N. Eccoti uno essempio. Noi veggiamo nella Musica laquale è molto unita
                   con il disegno, che quello che è sola voce per non havere in se alcuna consonanza,
-                  non è in se vera Musica: però giudico da poi che fu fatto <persName ref="#Adam"
-                     >Adamo</persName> et incarnato con quei variati colori c'hoggi si vede colorato
+                  non è in se vera Musica: però giudico da poi che fu fatto <persName ref="#Adam">Adamo</persName> et incarnato con quei variati colori c'hoggi si vede colorato
                   vaghissimamente l'huomo et la donna; allhora in tale atto mi pare che cominciasse
                   la Pittura. A. Tu mi fai certe ragion chiare, et aperte; in modo che la Scoltura
                   mi pare piu tosto madre et madonna della Pittura, che sorella o compagna. N. Non
@@ -292,15 +283,14 @@
                   gl'huomini si seruono di tutte le cose per vivere, et per uso humano di scoltura;
                   et quando e si volessero cavare il sonno o la fame, i letti et i vitelli dipinti
                   et vasi di vino coloriti non gli sodisfarebbono; benche tu potresti rispondermi
-                  togli di marmo, anche per questo ci sarebbe che dire, a <persName ref="#Dieu"
-                     >Dio</persName>. IL FINE.</p>
+                  togli di marmo, anche per questo ci sarebbe che dire, a <persName ref="#Dieu">Dio</persName>. IL FINE.</p>
                <pb n="10bis"/>
             </div2>
 
             <div2 type="chapitre" n="2" xml:id="C2">
                <head>LA SECONDA PARTE DEL DISEGNO. SILVIO SCVLTORE, ET PINO PITTORE. LA NATVRA, ET
                   L'ARTE.</head>
-               <p> Gvarda che facenda m'è sopravenuta alle mani, in effetto e non bisognerebbe haver
+               <p xml:id="DON_D_T1_C2_P1"> Gvarda che facenda m'è sopravenuta alle mani, in effetto e non bisognerebbe haver
                   obligo con persona alcuna, la Natura mi sforza, et l'Arte mi prega a ragionar
                   della profession mia, onde seruendo loro, dispiacerò a me medesimo. P. Anchora io
                   mal volentieri mi metto a questa impresa, pur la violenza che m'è fatta, mi sarà
@@ -323,8 +313,7 @@
                   laquale non ha il Diavolo dentro come gl'antichi Idoli, forse che tu saresti
                   entrato in maggiore stimolo di carnalità che non fece quel giovane. P. Io ho bene
                   udito dire cose da fare stupire la Natura, et l'Arte di quelle figure che sono in
-                  quella sagrestia di San Lorenzo di <placeName ref="#Florence"
-                  >Fiorenza</placeName>. S. Non se ne dice tanto che non sia piu. P. Questo huomo
+                  quella sagrestia di San Lorenzo di <placeName ref="#Florence">Fiorenza</placeName>. S. Non se ne dice tanto che non sia piu. P. Questo huomo
                   vorrei che fosse stato chiamato da loro et da esso fosse stato dato la sentenza
                   della nobiltà dell'una et dell'altra professione. S. Certo che non c'é huomo che
                   la possi terminare se non Michel Agnolo; per possedere il disegno, esser padrone
@@ -332,8 +321,7 @@
                   derivano, non so come l'andrà, perché la pittura venne da l'ombra, et la Scoltura
                   da gl'Idoli. P. Taci queste favole, perché ne viene la Natura et l'Arte verso noi,
                   però ci bisogna oprare altro stilo, et altra dottrina; et favellare di tal maniera
-                  che in cambio di riportane vittoria; noi non ci caricassimo di vituperio. <pb
-                     n="11bis"/> N. Siluio che ordinamento é il tuo circa il ragionamento che t'è
+                  che in cambio di riportane vittoria; noi non ci caricassimo di vituperio. <pb n="11bis"/> N. Siluio che ordinamento é il tuo circa il ragionamento che t'è
                   stato imposto? N. S. Di dire tutto quello che io saprò, in favor dell'Arte mia. N.
                   Et tu Pino che così coraggiosamente hai scritto della Pittura come sei disposto?
                   P. Il piu ch'io potrò sostentar la mia ragione N. Date adunque principio a vostri
@@ -388,8 +376,7 @@
                   dipinte non sono. Appresso piu nobiltà d'arte si vede di qualche materia stabile
                   figurata di forme d'huomini o donne, o d'altri animali terrestri, o mostri marini;
                   che vederli dipinti, anchora che vaghi sieno. et chi uvol vedere fontane mirabili,
-                  guardine palazzi delle Vigne de prelati in <placeName ref="#Rome"
-                  >Roma</placeName>. P. Non è egli opera sottile, et artificiosa i fiori piccioli et
+                  guardine palazzi delle Vigne de prelati in <placeName ref="#Rome">Roma</placeName>. P. Non è egli opera sottile, et artificiosa i fiori piccioli et
                   i variati animaletti minuti, che la terra produce che son dipinti con minio si
                   sottile colorati si vivamente? S. Non é egli mirabilissimo l'esempio, che si vede
                   uscito da gl'antichi, et da moderni, che si sono veduti intagliati tali animaluzzi
@@ -438,8 +425,7 @@
                   ogni minimo membro si trasporta, et di qui in alto si rilieva. Però dico per
                   conclusione che essendo piu eccellente la causa che l'effetto, ne segue che
                   l'Architettura in propria forma fabricata di lunga mano sia piu eccellente che la
-                  prospettiva; cosa tanto facile, che debolissimi ingegni la sanno fare. <pb n="14"
-                  /> Et per questo s'é veduto che molti valenti huomini si son vergognati a metterui
+                  prospettiva; cosa tanto facile, che debolissimi ingegni la sanno fare. <pb n="14"/> Et per questo s'é veduto che molti valenti huomini si son vergognati a metterui
                   alcun tempo. Ma l'Architettura che contiene molte virtu in benefiico humano per
                   essere in propria forma et con infiniti ornamenti intagliati in varie pietre,
                   nessuno ha da dubitare, che non sia arte et vero membro di Scultore. Anzi per
@@ -461,8 +447,7 @@
                   dentro, ha creduto molte volte che la Pittura sia stata piu eccellente che la
                   Scoltura. Certo e meritano d'esser escusati, perche <pb n="14bis"/> chi non é
                   pratico et intendente in ciascuna parimente, non ne puo dare vera testimonianza se
-                  fusse piu letteruto che i Platoni et gl'Aristoteli, et come disse <persName
-                     ref="#Vitruve">Vitruvio</persName> autore dell'Architettura honorato; non ne
+                  fusse piu letteruto che i Platoni et gl'Aristoteli, et come disse <persName ref="#Vitruve">Vitruvio</persName> autore dell'Architettura honorato; non ne
                   puo perfettamente parlare chi di essa non è operatore. Hora pensisi come di tanto
                   difficile arte si possa rendere alcuna ragione, se altri non ha lunga esperienza.
                   N. Parlatemi hora alquanto delle pratiche che mettono in atto il disegno nella
@@ -564,8 +549,7 @@
                   tanto che i loro finti broccati o rasi ingannano l'huomo. Perché in queste cose di
                   leggier disegno gl'oltramontani ci aplicano piu l'ingegno, et la pratica, che
                   gl'Italiani non fanno; onde si dice in proverbio, che gl'hanno il ceruello nelle
-                  mani. Et benche molte altre descritioni si potessino adurre di diversi modi di <pb
-                     n="17"/> panni, a me basta haver narrato quelle cose che piu importanti sono,
+                  mani. Et benche molte altre descritioni si potessino adurre di diversi modi di <pb n="17"/> panni, a me basta haver narrato quelle cose che piu importanti sono,
                   così del modo del colorirgli a tempera, et a olio; come del modo del comporgli. A.
                   Horsu da che si fa tardi, per hoggi si porra fine al nostro ragionamento, et
                   Siluio in questo mezzo ordinerà le sue risposte. S. Mentre adunque che io penserò
@@ -576,8 +560,7 @@
                   val poco, et di Scoltura molto: questo è pure una utile arte per la prima. P. L'è
                   ben tanta la difficultà a far di coteste medaglie che le mi fanno sudare a
                   pensarui non che a farle. A. Non andate piu aggiungendo parole, la medaglia è
-                  bella et utilissima. N. Anzi la materia è dannosa: et percio <persName ref="#Dieu"
-                     >Iddio</persName> me la fece riporre nelle mie viscere, ne volle che la fosse
+                  bella et utilissima. N. Anzi la materia è dannosa: et percio <persName ref="#Dieu">Iddio</persName> me la fece riporre nelle mie viscere, ne volle che la fosse
                   alle mani, come sono i frutti, le pelli, et l'acque; ma tu del mio male
                   desiderosa, l'hai posta in uso. P. Finiscasi il ragionamento, perché l'oro mi
                   darebbe poca noia, pur che io havessi dell'argento assai. S. Anchora ti farò veder
@@ -593,21 +576,16 @@
                   tanto i possessori del vitio. S. Se tu voi far satira, di da te solo, se non;
                   lasciami finire. P. Di ch'io non apro piu bocca. S. Ho poi una quantità de
                   diaspri, corniole, et avorij intagliati a figure, storiette di bassi rilievi,
-                  alcune teste di marmo antiche venute di <placeName ref="#Grece"
-                  >Grecia</placeName>, et altre reliquie cavate di <placeName ref="#Rome"
-                     >Roma</placeName>. P. È pur gran cosa che questa <placeName ref="#Rome"
-                     >Roma</placeName> fornisca tutto il mondo d'anticaglie. S. Ogni ritto ha il suo
+                  alcune teste di marmo antiche venute di <placeName ref="#Grece">Grecia</placeName>, et altre reliquie cavate di <placeName ref="#Rome">Roma</placeName>. P. È pur gran cosa che questa <placeName ref="#Rome">Roma</placeName> fornisca tutto il mondo d'anticaglie. S. Ogni ritto ha il suo
                   rovescio dice l'avuerbio, la fece anchor lei la salua robba di tutte le cose del
-                  mondo, et spogliò ogni paese: hora come tu sai che <persName ref="#Pythagore"
-                     >Pittagora</persName> disse che ogn'huomo torna in questo mondo molte volte, et
+                  mondo, et spogliò ogni paese: hora come tu sai che <persName ref="#Pythagore">Pittagora</persName> disse che ogn'huomo torna in questo mondo molte volte, et
                   essendo ritornati ogn'uno cerca di rihaver le cose sue, et però non è gran fatto
-                  perche in cent'anni et cento mesi l'acqua torni a suoi paesi, a <persName
-                     ref="#Dieu">Dio</persName>. IL FINE. </p>
+                  perche in cent'anni et cento mesi l'acqua torni a suoi paesi, a <persName ref="#Dieu">Dio</persName>. IL FINE. </p>
             </div2>
             <div2 type="chapitre" n="3" xml:id="C3">
                <pb n="18"/>
                <head>LA TERZA PARTE DEL DISEGNO. SILVIO PINO. LA NATVRA, ET L'ARTE.</head>
-               <p>Veramente il pittore con maraviglioso ingegno ha parlato, et molto bene distinto
+               <p xml:id="DON_D_T1_C3_P1">Veramente il pittore con maraviglioso ingegno ha parlato, et molto bene distinto
                   gli strani habiti con assai variati modi di far panni: et mostro la difficultà de
                   conposti colori et la fatica di colorire; et oltre a questo molti belli ornamenti
                   di pietre pretiosissime tessute in lavori d'oro et d'argento cose bellissime a
@@ -689,8 +667,7 @@
                   piu sono fantastichi gl'andamenti de panni tanto piu sono le pieghe difficili; et
                   piu astratte masseritie bisogna adoperare a lavorargli del mondo, con una fatica
                   estrema di tutti i sensi; et con tale fatica hanno a ubbidire a l'intelletto. P.
-                  Filippo di ser Brunellesco intendo che sostentava contra a <persName
-                     ref="#Donatello">Donatello</persName> scultore molto gagliardamente di questa
+                  Filippo di ser Brunellesco intendo che sostentava contra a <persName ref="#Donatello">Donatello</persName> scultore molto gagliardamente di questa
                   materia. S. Egl'è vero, però <persName ref="#Donatello">Donato</persName> gli
                   disse Pippo togli della materia; et fa anchor tu, et poi mi parla. Così
                   doverebbono far coloro, i quali della Scoltura voglion ragionare. Et come io ho
@@ -756,8 +733,7 @@
                   profani, publici, o privati; pure che non fossero le croste de muri di marmo
                   pulito et finito: perché quivi gli stucchi non s'attaccano, come per gl'esempi si
                   vede in tutti gl'antichi edifitij murati di trevertino, o pepergono, o mattoni, o
-                  di pietre pomicine, come in molti luoghi di <placeName ref="#Rome"
-                     >Roma</placeName> et altrove si puo vedere infiniti vestigi, et principalmente
+                  di pietre pomicine, come in molti luoghi di <placeName ref="#Rome">Roma</placeName> et altrove si puo vedere infiniti vestigi, et principalmente
                   nel Coliseo, ilquale edifitio, dentro et fuore era tutto in crostato di questi
                   stucchi con sottilissimi lavori et bellissime historie di figure, con molte
                   bizzarre grottesche fatte di sottili lavori; tanto che quel poco che c'è restato
@@ -795,8 +771,7 @@
                   mai nostr ci è stato modo di dir altrimenti. N. Io mi ricordo hora che le si
                   chiamavano Chimere per mia fede, et per questo nome che tu m'hai ricordato, dico,
                   che gli stucchi ne impattono a quel colorire. P. Le grottesche son pur anchor loro
-                  colorite. S. Horsu diamogli la tara, perché <persName ref="#Vitruve"
-                     >Vitruvio</persName> vitupera questa bugia che è tutta posta in aria senza
+                  colorite. S. Horsu diamogli la tara, perché <persName ref="#Vitruve">Vitruvio</persName> vitupera questa bugia che è tutta posta in aria senza
                   fondamenno alcuno, conciosia che tu fai con li tuoi pennelli un casamento posto
                   sopra un gambo di finocchio, o sopra nuvoli, queste Chimere dipinte son lodate poi
                   da certi ceruelli, hor su non voglio andar piu inanzi. Hor di se tu uvoi altro. P.
@@ -809,9 +784,7 @@
                   sopra tutte l'altre cose di Pittura, ma è stata rarissime volte imitata per la sua
                   difficultà. Et perché l'è rouinata insieme con le rouine et incendij de
                   gl'edifitij et delle città pochissime <pb n="23"/> reliquie belle se ne truova
-                  hoggi. Ma un maraviglioso essempio ne mostra la nave di <persName ref="#Giotto"
-                     >Giotto</persName> fatta di Musaico nel cortile di San Pietro in <placeName
-                     ref="#Rome">Roma</placeName>. Ilquale posto che fosse eccellentissimo Pittore,
+                  hoggi. Ma un maraviglioso essempio ne mostra la nave di <persName ref="#Giotto">Giotto</persName> fatta di Musaico nel cortile di San Pietro in <placeName ref="#Rome">Roma</placeName>. Ilquale posto che fosse eccellentissimo Pittore,
                   niente di manco non fece mai piu bella ne piu artifitiosa Pittura di questa nave.
                   Historia magnifica veramente: benche ella non sia fatta di vero Musaico; come
                   gl'antichi usarono; i quali d'ogni cosa volsero ottenere il principato: in modo
@@ -834,8 +807,7 @@
                   gl'altri modi di dipingere, il che tu puoi ben conoscere per haverle a comporre
                   d'infiniti pezzi come di sopra ho detto; et per questa ragione volentieri si fa
                   tal pittura, et piu volentieri si mostra in opera, ma in luoghi alti: ben'è vero
-                  che hoggi si ritrovano due fratelli che lavorano di Musaico in <placeName
-                     ref="#Venise">Vinegia</placeName>; i quali lo fanno di tanti pezzi, che stando
+                  che hoggi si ritrovano due fratelli che lavorano di Musaico in <placeName ref="#Venise">Vinegia</placeName>; i quali lo fanno di tanti pezzi, che stando
                   appresso par pittura; non dirò gia qui il parer mio perché anchora non mi basta
                   l'animo di giudicar l'eternità dell'uno et dell'altro Musaico, ma questo si potrà
                   discernere da coloro che verranno; et al giudicio di molti, è tenuta cosa degna.
@@ -893,7 +865,7 @@
             </div2>
             <div2 type="chapitre" n="4" xml:id="C4">
                <head>LA QUARTA PARTE DEL DISEGNO. DEL DONI. SILVIO, ET PINO.</head>
-               <p> Io stetti lungo spatio a udirere le tue ragioni, et a comprendere i maravigliosi
+               <p xml:id="DON_D_T1_C4_P1"> Io stetti lungo spatio a udirere le tue ragioni, et a comprendere i maravigliosi
                   modi della tua arte, durabili per ogni età, con sommo diletto di chi le rimira:
                   perché il sopra detto Musaico con forti et tenacissimi stucchi è attaccato alle
                   mura, et ne pavimenti et archi; et questa dignità è tutta della Pittura; laqual
@@ -945,10 +917,8 @@
                   in infinito piu eterne, che le dipinture. Però ti voglio domandare che giudicio tu
                   farai di vedere scolpire statue assai maggiori del naturale in pietre orientali di
                   porfido et di durissimo serpentino, et di pietre Africane, lequali si chiamano
-                  folgori, tanto forti, che tagliano il ferro. Però in certi paesi d'<placeName
-                     ref="#Afrique">Africa</placeName> s'adoperano per iscure et <pb n="26bis"/>
-                  ascie. Et di questa pietra fu fatto uno <persName ref="#ScipionAfricain"
-                     >Scipione</persName> Africano (laqual pietra trahe molto al verde) et per la
+                  folgori, tanto forti, che tagliano il ferro. Però in certi paesi d'<placeName ref="#Afrique">Africa</placeName> s'adoperano per iscure et <pb n="26bis"/>
+                  ascie. Et di questa pietra fu fatto uno <persName ref="#ScipionAfricain">Scipione</persName> Africano (laqual pietra trahe molto al verde) et per la
                   sua durezza piglia tanto lustro che vi si specchia dentro. Hor giudichi ogn'huomo
                   che difficilissimi stromenti con forze grandissime et ruote per piu lati, con piu
                   huomini; modi di lavorare strani, che per la lor difficultà et industria di mente
@@ -989,17 +959,14 @@
                   intorno a ciascuno con l'effigie proportione et habito si di maschio, come di
                   Minerua <persName ref="#Junon">Giunone</persName> et altre Dee. Sivedevano anchora
                   molti Satiri in conpagnia di leggiadre Nimphe habitar in folte selue tra
-                  christalline fonti. Et si vedea appresso <persName ref="#Neptune"
-                     >Nettuno</persName> sopra un carro adorno con nichi marini battere <pb
-                     n="27bis"/> col tridente i suoi marittimi cavalli. Si vedeva anchora Plutone
+                  christalline fonti. Et si vedea appresso <persName ref="#Neptune">Nettuno</persName> sopra un carro adorno con nichi marini battere <pb n="27bis"/> col tridente i suoi marittimi cavalli. Si vedeva anchora Plutone
                   che rapiva Proserpina; et la Dea Cerere sopra il carro tirato da suoi serpenti
                   cercare della figlia l'universo; et con mirabile arte dipingere tutte queste
                   bellissime storie. Ho veduto anchora in certe stanze dipinti molti pargoletti
                   amori; i quali giocavano con varij pomi volando sopra albori et per terra
                   scherzando. Di che si vedeva <persName ref="#Venus">Venere</persName> pigliarne
                   ineffabile diletto, givocando anchora ella con rose leprette et colombi animali
-                  piacevoli et suggetti ad amore. Anchora si vedeva l'historia di <persName
-                     ref="#Vulcain">Vulcano</persName> con grandissimi incendij di fuochi, et esso
+                  piacevoli et suggetti ad amore. Anchora si vedeva l'historia di <persName ref="#Vulcain">Vulcano</persName> con grandissimi incendij di fuochi, et esso
                   con la chioma et barba ardente, in modo che in tutti i lati dove e passava si
                   vedevano per l'ardere de gl'albori abbrucciati, i fiumi secchi, et la terra tutta
                   arsiccia. Piu oltre si vedeva <persName ref="#Apollon">Apollo</persName> con le
@@ -1107,8 +1074,7 @@
                   pittura a non partecipi nulla. Et conseguentemente quanto piu le cose formate son
                   capaci et palpabili, piu con la mente et con l'occhio si discerne il vero, et ne
                   participa piu sensi di questa Scoltura. Però piu chiaramente conosci tutte quelle
-                  nature et costumi de gl'huomini, (come ne da molti essempi <persName ref="#Pline"
-                     >Plinio</persName>) che nelle tue historie hai fatto mentione. Perché nella
+                  nature et costumi de gl'huomini, (come ne da molti essempi <persName ref="#Pline">Plinio</persName>) che nelle tue historie hai fatto mentione. Perché nella
                   Scoltura tu le poi considerare per infiniti lati, tal che l'una veduta ti fa tanto
                   paragone all'altra che in tutto d'essi costumi ti chiarisci, et questa forza hanno
                   le cose di Scoltura; et tal virtu è del rilievo; in modo che la pittura assai
@@ -1229,8 +1195,7 @@
                   silentio a quello che s'appartiene alla scienza, cioè disegno, per la detta
                   ragione; solo si attenda a mostrare gli eccellentissimi subietti i quali seguono a
                   concludere et formare il nostro divino disegno nel durissimo et candido marmo;
-                  dove uvoi formare la piu perfetta forma, che habbia fatto <persName ref="#Dieu"
-                     >Iddio</persName> et l'hai a cavare della piu sproportionata et goffa figura,
+                  dove uvoi formare la piu perfetta forma, che habbia fatto <persName ref="#Dieu">Iddio</persName> et l'hai a cavare della piu sproportionata et goffa figura,
                   che la natura per gl'alpestrissimi luoghi habbia fatto. Et con tale paragone tu ti
                   hai da mettere inanzi a gl'occhi un perfetto et delicatissimo huomo o femina
                   ignudi, et solo a vedere queste due forme tanto contrarie, elleno ti mettono tanta
@@ -1243,8 +1208,7 @@
                   principij suoi sono tanti sproportionati da suoi modelli a disegni, che ti mettono
                   in timore et suspensione d'animo tale, che ti smarrisce. Et per non ti potere per
                   la durezza della pietra valere d'alcuno ordine o misure di compassi, caschi in una
-                  confusione, che l'intelletto si stanca; in modo che per forza le mani errano <pb
-                     n="34"/> senza rimedio. La qual difficultà non ha in se la Pittura, che ogni
+                  confusione, che l'intelletto si stanca; in modo che per forza le mani errano <pb n="34"/> senza rimedio. La qual difficultà non ha in se la Pittura, che ogni
                   hora facilissimamente puo rimediare a tutti gli suoi errori. Però si vede quasi la
                   maggior parte de gli Scultori in breve tempo abbandonar l'arte et darsi
                   all'architettura o ad'altra professione. Ma non mai si vede architetto o pittore
@@ -1253,8 +1217,7 @@
                   chiarissimo nella statua di marmo una gratia tanto eccellente et divina, che
                   superatutte l'altre forme et figure aggratiate; et tutte nasce dal suo lucidissimo
                   et candido colore, piu simile al Sole, che alcuno altro bel colore che l'occhio
-                  vegga. Però i Greci e i Latini in questo marmo formarono il divino <persName
-                     ref="#Apollon">Apollo</persName>, che a nessuna statua s'aspetta piu gratia, et
+                  vegga. Però i Greci e i Latini in questo marmo formarono il divino <persName ref="#Apollon">Apollo</persName>, che a nessuna statua s'aspetta piu gratia, et
                   come s'è detto tanto è piu nobile uno effetto quanto piu s'approssima alla sua
                   causa. Et tenendo il principato di tutti i colori la bianchissima luce, dalla
                   quale nasce uno splendore, che ne solidi corpi reflette, onde ne mostra tutti i
@@ -1289,8 +1252,7 @@
                   cose, che per ispeculativo <pb n="35"/> che sia uno ingegno, durerà fatica a
                   pensare, come tale spettacolo sia fatto. Che veggiamo per essempio i pezzi del
                   Colosso, che fu fatto per <persName ref="#Neron">Nerone</persName> Imperadore, i
-                  quali a tempi nostri si veggono per terra in <placeName ref="#Capitole"
-                     >Campidoglio</placeName> di <placeName ref="#Rome">Roma</placeName>, iquali
+                  quali a tempi nostri si veggono per terra in <placeName ref="#Capitole">Campidoglio</placeName> di <placeName ref="#Rome">Roma</placeName>, iquali
                   grandissima maraviglia arrecano alle menti de gl'huomini, et tanto piu, quanto
                   celebrate et honorate sono. Et questo medesimo effetto in tutta la natura si vede.
                   Per laqual ragione le forme celesti assai piu che le terrene celebriamo; solo
@@ -1305,8 +1267,7 @@
                   delle figure vestite, che una minima piega girando attorno non si vegga fatta con
                   una menomissima disgratia. Anchora le pannine volanti et date al vento con
                   sottilissime pieghe, di maniera che lo ignudo vi traspaia sotto, come se panno non
-                  vi fosse sopra. Come si da per essempio la Dea Fortuna, et la Dea <persName
-                     ref="#Diane">Diana</persName> con le sue Nimphe cacciatrici vestite di
+                  vi fosse sopra. Come si da per essempio la Dea Fortuna, et la Dea <persName ref="#Diane">Diana</persName> con le sue Nimphe cacciatrici vestite di
                   sottilissimi veli, nel modo che si fingono tutte le Nimphe. Onde si domanda a i
                   disegnatori dove appaia piu eccellente virtu o ritrarre un panno di naturale, o da
                   modello, <pb n="35bis"/> in Pittura, o in marmo; certo non é dubbio alcuno, che
@@ -1344,12 +1305,10 @@
                   durezza, che viene a pigliare grandissimo lustro; ne ci si vede alcuna macchia,
                   come ne nostri da Carrara. P. Pur che tu non le cavi queste tue historie del
                   Bugiale di <persName ref="#Pline">Plinio</persName>. ogni cosa va bene. S. Le
-                  furon vere non bugie. Fu fatta anchora una <persName ref="#Venus"
-                     >Venere</persName> et collocata in un tempio edificato in una Isola inhabita;
+                  furon vere non bugie. Fu fatta anchora una <persName ref="#Venus">Venere</persName> et collocata in un tempio edificato in una Isola inhabita;
                   laqual femina fu di tanta eccellenza che commosse tanti popoli andare ad adorarla,
                   che subito vi furono edificati molti borghi, iquali in breve tempo diventarono
-                  città popolate. Si vede anchora al tempo de Romani ardere il tempio di <persName
-                     ref="#Diane">Diana</persName>, et un generale Romano senza timore o rispetto
+                  città popolate. Si vede anchora al tempo de Romani ardere il tempio di <persName ref="#Diane">Diana</persName>, et un generale Romano senza timore o rispetto
                   alcuno della sua propria vita entrò per mezzo il fuoco, per saluare la statua di
                      <persName ref="#Diane">Diana</persName>, che non ardesse: et così l'uno et
                   l'altro si liberò dall'incendio. O che mirabili essempi ci sono dell'arte
@@ -1379,24 +1338,19 @@
                   Egli fa memoria di bellissimi essempi di Pittura con suo grand'honore seguiti.
                   Perché <persName ref="#JulesCesar">Giulio Cesare</persName> et altri prencipi
                   hanno comprato tavole dipinte tanto oro quanto hanno pesato; et dedicatole ne i
-                  tempij de gli loro Dei. Fu anchora di grandissimo honore all'arte <persName
-                     ref="#Apelle">d'Apelle</persName>, a cui si da il principato della Pittura, che
+                  tempij de gli loro Dei. Fu anchora di grandissimo honore all'arte <persName ref="#Apelle">d'Apelle</persName>, a cui si da il principato della Pittura, che
                   è fosse tanto domestico et grato ad <persName ref="#AlexandreLeGrand">Alessandro
                      Magno</persName>; che stando spesso nella sua bottega et ragionando dell'arte
                   imprudentemente i fanciulli che macinavano i colori se ne ridevano, in modo che
                      <persName ref="#Apelle">Apelle</persName> con piacevol motto l'avertì che
-                  tacesse: et per la riverenza che <persName ref="#AlexandreLeGrand"
-                     >Alessandro</persName> gli portava tacque; atto maraviglioso nell'animo superbo
+                  tacesse: et per la riverenza che <persName ref="#AlexandreLeGrand">Alessandro</persName> gli portava tacque; atto maraviglioso nell'animo superbo
                   di tanto Re, cui tutto il mondo non bastò ad acquietarlo; hora cedesse alla virtu
                   d'un semplice Pittore; alquale fece vedere ignuda et ritrarre una sua cara et
-                  bellissima donna: laquale tanto singolarmente <persName ref="#Apelle"
-                     >Apelle</persName> dipinse, che <persName ref="#AlexandreLeGrand"
-                     >Alessandro</persName> consentì et amò piu la virtu del maestro, che la sua
+                  bellissima donna: laquale tanto singolarmente <persName ref="#Apelle">Apelle</persName> dipinse, che <persName ref="#AlexandreLeGrand">Alessandro</persName> consentì et amò piu la virtu del maestro, che la sua
                   amata; quell'altro essempio tra <persName ref="#Apelle">Apelle</persName> et
                      <persName ref="#Protogene">Protogene</persName> Pittor Rodiano dell haver
                   tirato quelle linee si diritte et sottili. Et quell'altra gara che nacque tra
-                     <persName ref="#Zeuxis">Zeusi</persName> et <persName ref="#Parrhasios"
-                     >Parrasio</persName> di quella Pittura, laqual cosa è tanto trita et divolgata
+                     <persName ref="#Zeuxis">Zeusi</persName> et <persName ref="#Parrhasios">Parrasio</persName> di quella Pittura, laqual cosa è tanto trita et divolgata
                   che io mi vergogno a dirla che uno ingannasse gl'uccelli, et l'altro il Pittore.
                   S. E mi penetrò nel ceruello un passo che tu dicesti del modo di compor lestorie
                   et me la mostrasti per un'arte molto speculativa et che gl'era di grande
@@ -1444,8 +1398,7 @@
                   la virtu, che la crudeltà dello sparger del sangue. Et per questa riputatione et
                   riverenza che hebbero la Scoltura et la Pittura, gl'antichi per publica legge
                   vietarono, che non la potesse imparare alcun seruo o meccanico. P. Et da questo
-                  nacque che con tanta dignità fu essercitata, come si vede ne cittadini Romani, <pb
-                     n="38bis"/> che non potevano ottener tal nome, se non erano intelligenti come
+                  nacque che con tanta dignità fu essercitata, come si vede ne cittadini Romani, <pb n="38bis"/> che non potevano ottener tal nome, se non erano intelligenti come
                   di lotta, per sapere in terra et in mare essercitarsi, et insegnare a gl'altri il
                   mestiero della guerra; anchor Musica per confortar gli spiriti dopo molto te
                   fatiche. Fra i quali termini di contivuo a fare molte dimostrationi in
@@ -1459,8 +1412,7 @@
                   illustri Capitani: sì come Paolo Emilio, che fece imparare a figlivoli, et a
                      <persName ref="#ScipionAfricain">Scipione</persName> Emilio; iquali per esser
                   cosa eccellentissima, noi veggiamo qualche Prencipe imitargli; adunque taceremo
-                  alquanto accio che non pigliamo fastidio de nostri ragionamenti. IL FINE. <pb
-                     n="39"/> LA SESTA ET VLTIMA PARTE DEL DISEGNO. DEL DONI. LA NATVRA, ET L'ARTE.
+                  alquanto accio che non pigliamo fastidio de nostri ragionamenti. IL FINE. <pb n="39"/> LA SESTA ET VLTIMA PARTE DEL DISEGNO. DEL DONI. LA NATVRA, ET L'ARTE.
                   SILVIO PINO ET IL CAVALIERE. Baccio disegnatore miracoloso ha veduto i
                   ragionamenti nostri, et molto gl'ha commendati et perché gl'ha la scienza del
                   colorire, et dello sculpire, presente la Natura et l'Arte, ci darà una resolutione
@@ -1503,8 +1455,7 @@
                      nell'<placeName ref="#Italie">Italia</placeName>: onde depende che i belli
                   ingegni quietamente possono essercitare l'arti nobili: la Scoltura et la Pittura
                   si lodano grandemente del Christianissimo Re Francesco che con si fatti premij
-                  tante volte l'ha illustrata. La Republica Divina di <placeName ref="#Venise"
-                     >Vinegia</placeName> anchora con prouisioni publice remunera il Sansouino
+                  tante volte l'ha illustrata. La Republica Divina di <placeName ref="#Venise">Vinegia</placeName> anchora con prouisioni publice remunera il Sansouino
                   Scultore ottimo, et honora <persName ref="#Titien">Titiano</persName> Pittore
                   vivace. Il Duca di <placeName ref="#Florence">Fiorenza.</placeName>illustrissimo
                   generalmente premia tutti gli Scultori et Pittori che se gl'appresentano inanzi;
@@ -1529,29 +1480,24 @@
                      <persName ref="#Apelle">d'Apelle</persName> che e fece un cavallo a gara con
                   altri artefici; et perché stranissimamente lo gareggiavano, pensò di fare un
                   naturalissimo paragone, di mostrare tali cavalli finti a i cavalli vivi, i quali
-                  non facevano mouimento alcuno: ma quando vedevano il cavallo <persName
-                     ref="#Apelle">d'Apelle</persName> anitrivano et sbuffavano et con il raspare
-                  pareva che lo inuitassero a combattere. Dicesi che dipinse anchora uno <persName
-                     ref="#AlexandreLeGrand">Alessandro Magno</persName> col folgore in mano, che
+                  non facevano mouimento alcuno: ma quando vedevano il cavallo <persName ref="#Apelle">d'Apelle</persName> anitrivano et sbuffavano et con il raspare
+                  pareva che lo inuitassero a combattere. Dicesi che dipinse anchora uno <persName ref="#AlexandreLeGrand">Alessandro Magno</persName> col folgore in mano, che
                   mostrava tanto rilievo, che gl'huomini erano incitati andare a toccare la Pittura,
                   s'era di rilievo (bella sentenza disse Michel Agnolo, tanto è piu buona la Pittura
                   quanto piu s'approssima al rilievo, et tanto é piu cattiva la Scoltura quanto
                   s'accosta alla Pittura.) Et l'opere di lui furon tanto nobili, quanto facessero
                   mai molti valentissimi huomini. Et <persName ref="#Protogene">Protogene</persName>
-                  fu suo emulo, ma virtuosamente, et con buona amicitia. A costui opponeva <persName
-                     ref="#Apelle">Apelle</persName>, che era troppo diligente; in modo che durava
+                  fu suo emulo, ma virtuosamente, et con buona amicitia. A costui opponeva <persName ref="#Apelle">Apelle</persName>, che era troppo diligente; in modo che durava
                      <pb n="41"/> fatica a trovare il fine d'una Pittura: perché tanto nuoce la
                   troppa tardità, quanto la troppa prestezza; conciosiacosa che fa perdere una certa
-                  pratica et isperienza, che affina il giudicio. Però <persName ref="#Apelle"
-                     >Apelle</persName> saviamente rispose a quel maestro che gli mostrò una tavola
+                  pratica et isperienza, che affina il giudicio. Però <persName ref="#Apelle">Apelle</persName> saviamente rispose a quel maestro che gli mostrò una tavola
                   dipinta dicendogli per honorarsi, che l'haveva fatta molto tosto. a cui rispose
                      <persName ref="#Apelle">Apelle</persName> che si pareva bene; senza che lo
                   dicesse. Et perché l'intention vostra e stata per quel che io ho potuto
                   comprendere nel leggere delle vostre dispute di parlar piu del paragone et natura
                   dell'opere di Scoltura et Pittura, che di nomi et di facetie di maestri, o di loro
                   smisurati prezzi d'opere o di loro ricchezze o altre dignità, delle quai cose mi
-                  pare che <persName ref="#Varron">Varrone</persName>, <persName ref="#Pline"
-                     >Plinio</persName> et altri gravi scrittori Greci o Latini habbino scritto a
+                  pare che <persName ref="#Varron">Varrone</persName>, <persName ref="#Pline">Plinio</persName> et altri gravi scrittori Greci o Latini habbino scritto a
                   bastanza, et con piu auttorità che non possiamo far noi; perché si trovavano piu
                   vicini a eccellentissimi artefici. Hora per tornare alla nostra materia; che posto
                   che della quistione tra la Scoltura et la Pittura si possa dire per quel che io ho
@@ -1667,8 +1613,7 @@
                   calde, coleriche atte a fare con facilità ogni gran cosa; et hanno lunga vita. Chi
                   ha color piombino et denti radi, é segno di vita breve et debile; et non è di
                   troppo buoni costumi. Gl'huomini grassi ritondi et pieni nelle tempie, son grossi
-                  d'ingegno: et chi ha le guancie con tutto il corpo pieno di carne, è di natura <pb
-                     n="44"/> allegra et sanguigna, grave, et pericolosa ad ogni malattia; et mostra
+                  d'ingegno: et chi ha le guancie con tutto il corpo pieno di carne, è di natura <pb n="44"/> allegra et sanguigna, grave, et pericolosa ad ogni malattia; et mostra
                   brevità di vita: sono molti impotenti et gravi. Pure ogni regola patisce
                   eccettione. Hora non mi pare da dubitare che tali giudicij si possino fare piu
                   giusti et retti nelle figure di scolture in modo che attorno per tutte le parti le
@@ -1702,7 +1647,7 @@
             <div2 type="lettre" n="1" xml:id="L1">
                <head> AL MAGNIFICO M. CIPRIANO MORESINI GENTILHVOMO VENETIANO, ET MIO SIGNORE
                   OSSERVANDISSIMO.</head>
-               <p>Dignissimo Signor mio. Io non voglio entrare hora a lodare la nobiltà della casa,
+               <p xml:id="DON_D_T2_L1_P1">Dignissimo Signor mio. Io non voglio entrare hora a lodare la nobiltà della casa,
                   o esaltare le virtu vostre; perché l'una è tanto honorata et l'altre sono si
                   grandi che troppo lungo sarebbe il tempo da raccontarle; senza che bisognarebbe
                   altra lingua sapiente et altra penna dotta che non è la mia. et se pure io dicessi
@@ -1747,8 +1692,7 @@
                   fidi piu del saper suo se non voi, ilquale mi sete padrone per amore et per
                   merito, et io le son figlivolo per humiltà, et schiavo per debito. et leggerà in
                   tanto questo ragionamento honorato che tratta della Scoltura et della Pittura,
-                  ilquale è il primo frutto che habbi prodotto la stanza d'<persName ref="#Apollon"
-                     >Apolline</persName>, Academia <pb n="46bis"/> fabricata da voi in casa vostra,
+                  ilquale è il primo frutto che habbi prodotto la stanza d'<persName ref="#Apollon">Apolline</persName>, Academia <pb n="46bis"/> fabricata da voi in casa vostra,
                   ricetto di tutti gli spiriti nobili, et virtuosi et con somma riverenza mi
                   raccomando, pregando che mi perdoniate, s'io son troppo, ardito nello scrivere et
                   poco humile nel richiedere. di <placeName ref="#Venise">Venetia</placeName> adi
@@ -1769,12 +1713,11 @@
                   perché voi farete duoi seruitij che da tutto il mondo sarete lodato, uno con far
                   riverenza a si degno huomo, l'altro con aiutare un fedel suo seruitore. di
                      <placeName ref="#Venise">Vinegia</placeName> alli. XVI. d'Agosto. MDXLIX.
-                  Sempre paratissimo a vostri comandi. Il <persName ref="#AntonFrancescoDoni"
-                     >Doni</persName>.</p>
+                  Sempre paratissimo a vostri comandi. Il <persName ref="#AntonFrancescoDoni">Doni</persName>.</p>
             </div2>
             <div2 type="lettre" n="2" xml:id="L2">
                <head>AL SIGNOR ALBERTO LOLLIO, SIGNOR MIO SINGVLARISSIMO. </head>
-               <p>Gentilissimo S. Alberto da che voi vi siate risoluto di vedere una volta la città
+               <p xml:id="DON_D_T2_L2_P1">Gentilissimo S. Alberto da che voi vi siate risoluto di vedere una volta la città
                   di <placeName ref="#Florence">Fiorenza.</placeName>m'è venuto alla memoria molte
                   cose degne d'esser vedute et considerate, et tanto piu da voi che vi dilettate di
                   cose virtuose, et rare. et ve le scrivo. Prima quando voi sarate all'Vccellatoio
@@ -1782,12 +1725,16 @@
                   et che arriverete all'Aparita fermatevi a dare un'occhiata al sito, al luogo della
                   città, al fiume d'<placeName ref="#Arno">Arno</placeName>, alla pianura, alle
                   colline, a i monticelli, et al paese amenissimo che veramente rimarrete tutto
+<<<<<<< HEAD
                   stupefatto. come voi sarete sotto le mura di <placeName ref="#Florence"
                      >Fiorenza</placeName>, voltatevi in verso la gran città di Fiesole tutta
                   destrutta et nel considerar quell'antichità havrete gran maraviglia nella mente,
+=======
+                  stupefatto. come voi sarete sotto le mura di <placeName ref="#Florence">Fiorenza</placeName>, voltatevi in verso la gran città di Fiesole tutta
+                  destrutta et nel considerar quell'antichità haurete gran maraviglia nella mente,
+>>>>>>> 081f660e4b4c35173b77a1b30cd5e95dfa036aa6
                   et sommo piacer con l'occhio della dolce vista <pb n="47bis"/> e'l bel veder
-                  quella piaggia piena di casamenti, et di palazzi. Entrato in <placeName
-                     ref="#Florence">Fiorenza.</placeName>non andaste per niente a casa m'a anchora
+                  quella piaggia piena di casamenti, et di palazzi. Entrato in <placeName ref="#Florence">Fiorenza.</placeName>non andaste per niente a casa m'a anchora
                   che io ve n'habbia molte come è Santa Maria Nuova, Bonifatio, l'Elmo, et altre,
                   perché voi staresti male. andate pure all'Hosteria dell'Agnolo, o della Campana,
                   benche fosse migliore alloggiare all'insegna del campanile, et riposatevi
@@ -1797,20 +1744,16 @@
                   fosse mirabil huomo Philippo di ser Brunellesco architetto Fiorentino. vedrete
                      <persName ref="#Dante">Dante</persName>, <persName ref="#MarsileFicin">Marsilio
                      Ficino</persName>, <persName ref="#Giotto">Giotto</persName> et l'architetto:
-                  duoi cavalli in Pittura bellissimi, il Campanile di <persName ref="#Giotto"
-                     >Giotto</persName> et molte figure di <persName ref="#Donatello"
-                     >Donatello</persName> Scultore. Entrarete poi in San Giovanni dove si battezza
+                  duoi cavalli in Pittura bellissimi, il Campanile di <persName ref="#Giotto">Giotto</persName> et molte figure di <persName ref="#Donatello">Donatello</persName> Scultore. Entrarete poi in San Giovanni dove si battezza
                   tutti quelli della città, Tempio antico tutto di Musaico dentro, et vedrete il
-                  sepolchro d'un quondam Papa Giovanni, et una statua di Santa Maria <persName
-                     ref="#MarieMadeleine">Maddalena</persName>, bella; considererete le porte che
+                  sepolchro d'un quondam Papa Giovanni, et una statua di Santa Maria <persName ref="#MarieMadeleine">Maddalena</persName>, bella; considererete le porte che
                   son di bronzo che sarebbon bastanti a stare alle porte del purgatorio. con tre
                   figuroni di bronzo divini, sopra una di quelle, et inanzi che vi allontaniate
                   scorrete nell'opera a vedere quattro Vangelisti divini. andatevene poi a
                   considerare la macchina del Gigante di Michel Agnolo che vi farà tutto lieto si è
                   bello et mirabile, considererete poi l'Hercole del Bandinello, et la Iudit di
                   bronzo di <persName ref="#Donatello">Donatello</persName>, et entrato in palazzo
-                  troverre una colonna nel mezzo dove è un Davitte di <persName ref="#Donatello"
-                     >Donatello</persName> dignissimo, et salito le scale della sala grande,
+                  troverre una colonna nel mezzo dove è un Davitte di <persName ref="#Donatello">Donatello</persName> dignissimo, et salito le scale della sala grande,
                   diligentemente date <pb n="48"/> una vista a un gruppo di cavalli et d'huomini (un
                   pezzo di battaglia di <persName ref="#LeonardoDaVinci">Lionardo da
                      Vinci</persName>) che vi parrà una cosa miracolosa. Così salendo le scale vi
@@ -1819,19 +1762,21 @@
                   pitture, che sono molte. et andare se gl'è possibile infino in Ballatoio alto et
                   per considerare come è fondata quella torre si grande del campanile. et rimirare
                      <placeName ref="#Florence">Fiorenza</placeName>. Faretevi mostrare i Leoni, le
-                  figure d'Orzan Michele come é il San Giorgio et l'altre di <persName
-                     ref="#Donatello">Donatello</persName>. mercato nuovo et vecchio et mi penso che
+                  figure d'Orzan Michele come é il San Giorgio et l'altre di <persName ref="#Donatello">Donatello</persName>. mercato nuovo et vecchio et mi penso che
                   sarà hora di disinare. Mettete poi tutto il giorno a vedere le cose mirabili che
                   sono nella chiesa de Medici cioè San Lorenzo. La libreria, i libri, la sagrestia
                   di Michel Agnolo, et habbiate avertenza non vi rapire in estasi nel considerare
                   quelle figure di marmo, et di non vi trasmutare in pietra. La stanza dove lavora,
                   che u'è una <persName ref="#Marie">Madonna</persName> che scese di Paradiso a
                   farsi ritrarre. Un San Cosimo morbido, pastoso et ben lavorato di mano di Messer
-                  Giovanni Agnolo et un San Damiano magrone di <persName ref="#Raphael"
-                     >Raffaello</persName> da Monte Lupo figure bellissime, fatevi aprire la
+                  Giovanni Agnolo et un San Damiano magrone di <persName ref="#Raphael">Raffaello</persName> da Monte Lupo figure bellissime, fatevi aprire la
                   ricchezza de broccati et veduto i pergami di bronzo andate a cena, ma se per sorte
+<<<<<<< HEAD
                   saranno finite le pitture del choro del Pontorno, vi raccomando a <persName
                      ref="#Dieu">Dio</persName> che sarà mezza notte tanto havrete che fare insieme
+=======
+                  saranno finite le pitture del choro del Pontorno, vi raccomando a <persName ref="#Dieu">Dio</persName> che sarà mezza notte tanto haurete che fare insieme
+>>>>>>> 081f660e4b4c35173b77a1b30cd5e95dfa036aa6
                   con la tavola del <persName ref="#RossoFiorentino">Rosso</persName>. Fate poi
                   l'altro giorno un volo al palazzo di <placeName ref="#Troie">Troia</placeName>, et
                   vedetelo dentro poi il chiostro della conpagnia dello Scalzo che é dipinto per
@@ -1846,9 +1791,7 @@
                   una bella cappella sotto con tre tavole dipinte dal frate. vedrete il conuento, et
                   due figure un <persName ref="#Moise">Moise</persName>, et un San Paolo molto
                   belle. La Nuntiata sarà fatica a vederla, et difficile. Il Chiostricino pien di
-                  pitture (che così si chiama) tutte di mano di valenti Pittori. Il <persName
-                     ref="#RossoFiorentino">Rosso</persName>, Iacopo da Pontorno, il <placeName
-                     ref="#France">Francia</placeName>, et Andrea del sarto. come voi havete fornito
+                  pitture (che così si chiama) tutte di mano di valenti Pittori. Il <persName ref="#RossoFiorentino">Rosso</persName>, Iacopo da Pontorno, il <placeName ref="#France">Francia</placeName>, et Andrea del sarto. come voi havete fornito
                   questa visita, penso che nel rimirar la piazza, la loggia de gl'Innocenti, et le
                   case; che voi vedrete la poluer del vostro orologio, che sarà ita giu un pezzo fa:
                   et per mio consiglio u'andrete a riposare. Ecci poi il castello, San Miniato,
@@ -1856,8 +1799,7 @@
                   Maria Nuova, andare in Cupola et altri particolari diletti. Di poi la tavola del
                      <persName ref="#RossoFiorentino">Rosso</persName> in Santo Spirito, in Santa
                   Felicita del Pontorno, nelle monache di San Francesco la Tavola d'Andrea, in San
-                  Bastiano la tavola di Fra Philippo, le cose di <persName ref="#Giotto"
-                     >Giotto</persName>, et d'assai pittori lequali sono in Santa Croce, et nel
+                  Bastiano la tavola di Fra Philippo, le cose di <persName ref="#Giotto">Giotto</persName>, et d'assai pittori lequali sono in Santa Croce, et nel
                   Carmine tutte vi saranno mostrate. Il <persName ref="#Bacchus">Bacco</persName>
                   del dignissimo Iacopo San Souino nell'horto de Partolini. et cose assai vedrete,
                   degne di memoria. Fuori della città havete da vedere il <pb n="49"/> Poggio a
@@ -1873,20 +1815,16 @@
                   perché voi sappiate il nome, e si chiama M. Lelio Torello, ilqual meriterebbe
                   statua eterna per le qualità et virtu sue, sì che questo non vi si scordi. poi
                   montate a cavallo et ricordatevi che io vi son seruidore. et che io sono obligato
-                  molto alla virtu et alla gentilezza vostra. Di <placeName ref="#Venise"
-                     >Vinegia</placeName> alli XVII. d'Agosto‐ MDXLIX . post scritta. Sopra tutto
-                  fatevi mostrare un tondo d'una nostra Donna in casa d'Agnol <persName
-                     ref="#AntonFrancescoDoni">Doni</persName>, et vi basti solo che io dica gl'è di
-                  mano del maestro de maestri. D. V. S. Il <persName ref="#AntonFrancescoDoni"
-                     >Doni</persName> obligatissimo alle cortesie vostre. <pb n="49bis"/> AL MOLTO
+                  molto alla virtu et alla gentilezza vostra. Di <placeName ref="#Venise">Vinegia</placeName> alli XVII. d'Agosto‐ MDXLIX . post scritta. Sopra tutto
+                  fatevi mostrare un tondo d'una nostra Donna in casa d'Agnol <persName ref="#AntonFrancescoDoni">Doni</persName>, et vi basti solo che io dica gl'è di
+                  mano del maestro de maestri. D. V. S. Il <persName ref="#AntonFrancescoDoni">Doni</persName> obligatissimo alle cortesie vostre. <pb n="49bis"/> AL MOLTO
                   ILLVSTRE SIGNORE IL SIGNOR CONTE COLLALTINO DA COLL'ALTO. Messer Gioseppe
                   Bettussi, seruitore et tanto affetionato a V.S. Vi manda alcune medaglie, et un
                   libretto per parte mia, gl'huomini son ben degni di venirui inanzi, ma i miei
                   scritti nò gia: pure in quel che manca la dottrina et la sufficienza, supplisca la
                   divotione del cuor mio tutta pronta a comandi di V. S. Illustre. et le bascio la
                   mano. di <placeName ref="#Venise">Vinegia</placeName> alli XXVI. di Settembre
-                  MDXLIX. D. V. S. Seruidore il <persName ref="#AntonFrancescoDoni"
-                  >Doni</persName>.AL VIRTVOSO M. FRANCESCO SANSOVINO. Rallegratevi ch'io u'ho
+                  MDXLIX. D. V. S. Seruidore il <persName ref="#AntonFrancescoDoni">Doni</persName>.AL VIRTVOSO M. FRANCESCO SANSOVINO. Rallegratevi ch'io u'ho
                   nominato Scultore in parole, poi che io non vi posso fare in opere. L'è stata
                   bella cosa credendo dir Iacopo, che io scrivessi Francesco; ma io non penso haver
                   però errato in tutto; perché padre et figlivolo, sono una cosa medesima secondo la
@@ -1894,14 +1832,12 @@
                   Piaceravui raccomandarmi a --[50r]-- vostro padre et scusarmi se io non gl'ho
                   fatto quello honore che meritano le sue virtu; a voi direi cento cose lequali mi
                   serbo nella penna per questa volta perché la carta ha poco spatio; basta che l'é
-                  tanta che la porta queste due righe. Il <persName ref="#AntonFrancescoDoni"
-                     >Doni</persName> è vostro schiavo, et si raccomanda molto di <placeName
-                     ref="#Venise">Vinegia</placeName> alli XI di Settembre. MDXLIX. Amator delle
+                  tanta che la porta queste due righe. Il <persName ref="#AntonFrancescoDoni">Doni</persName> è vostro schiavo, et si raccomanda molto di <placeName ref="#Venise">Vinegia</placeName> alli XI di Settembre. MDXLIX. Amator delle
                   virtu vostre. Il <persName ref="#AntonFrancescoDoni">Doni</persName>.</p>
             </div2>
             <div2 type="lettre" n="3" xml:id="L3">
                <head>ALL'ECCELLENTE SIGNOR DOTTOR DI LEGGI M. MARINO DE CIRI RAGVGEO MOLTO HONORATO. </head>
-               <p>Da che io non possetti qui in <placeName ref="#Venise">Vinegia</placeName>, far
+               <p xml:id="DON_D_T2_L3_P1">Da che io non possetti qui in <placeName ref="#Venise">Vinegia</placeName>, far
                   l'honore a V. S. che la meritava in fatti per le cortesie usate mi; et per le
                   parole virtuose uscite di tanto degna bocca, quanto quella di V. S. almanco lo
                   farò in parole, con il pregarla che mi scusi per non haver saputo la sua giunta,
@@ -1916,8 +1852,7 @@
                   se non operar, secondo la natura sua perfettissima et costumata a render tai
                   guiderdoni a chi l'ama di cuore come l'amo io, et se bene non merito et non son
                   degno che V. S. mi dia tale et tanta fama, riconosco questo dono da la gentilezza
-                  vostra, et nostr dal merito mio. Hora da che io non posso ricompensarui, <persName
-                     ref="#Dieu">Iddio</persName> giusto remuneratore ve ne renda il cambio per me
+                  vostra, et nostr dal merito mio. Hora da che io non posso ricompensarui, <persName ref="#Dieu">Iddio</persName> giusto remuneratore ve ne renda il cambio per me
                   se non come si conuiene, almanco tanto quanto io desidero, et vi mantenga. Leggete
                   adunque questa operetta anchor che picciola, scritta con gran fatica, et questo
                   basso libro sarà arra d'un piu alto volume che io spero dedicarui et consacrare a
@@ -1926,13 +1861,12 @@
                   con tale amore perfettissimo fo fine et mi raccomando a quella mille volte et
                   altre tante la saluto pregando continuamente il vostro Genio che vi conserui tal
                   animo perpetuamente per honore et util mio. Per renderui il cambio de seruitij che
-                  voi mi fate prontissimo. Il <persName ref="#AntonFrancescoDoni"
-                  >Doni</persName>.</p>
+                  voi mi fate prontissimo. Il <persName ref="#AntonFrancescoDoni">Doni</persName>.</p>
             </div2>
             <div2 type="lettre" n="4" xml:id="L4">
                <pb n="51"/>
                <head>AL NOBILISSIMO ET MOLTO HONORATO S. MIO M. IACHESBVVS. </head>
-               <p>A voi che siate, il sollevamento et l'aiuto di tutti i pittori, et il braccio di
+               <p xml:id="DON_D_T2_L4_P1">A voi che siate, il sollevamento et l'aiuto di tutti i pittori, et il braccio di
                   tutti i virtuosi che vengono a casa vostra, sarebbe di bisogno farui un Prencipe,
                   et darui tanta potenza quanto havete virtu, et perché io conosco che tutto il
                   mondo sa che io dico il vero, non accade che io ne renda testimonianza con
@@ -1940,31 +1874,23 @@
                   ch'io nostr ne facci dono alla persona vostra, altro che questo libretto; pure e
                   tratta di materia che vi diletterà, et sarà testimonio come io vi sono
                   quell'ubligato seruitore che si conuiene a tanti oblighi che io ho con la virtu et
-                  cortesia dell'animo vostro. Devotissimo alle virtu vostre. Il <persName
-                     ref="#AntonFrancescoDoni">Doni</persName>. A MESSER SIMON CARNESECCHI. E non mi
+                  cortesia dell'animo vostro. Devotissimo alle virtu vostre. Il <persName ref="#AntonFrancescoDoni">Doni</persName>. A MESSER SIMON CARNESECCHI. E non mi
                   par tempo di far prologo a scrivere a voi perché sete sempre con gli stivali in
                   piedi et con il pie nella staffa, ma sarò corto et vi dirò cosi. Da che voi havete
                   veduto tutte le cose belle di Scoltura et di pittura et che volentieri le
                   considerate quando andate a spasso il mondo. Non vi scordate di dare un'occhiata
                   in <placeName ref="#Rome">Roma</placeName>, al giuditio di Michel Agnolo, et vi
-                  stupirete et la volta; le camere del Papa di <persName ref="#Raphael"
-                     >Raffaello</persName> d'Vrbino <pb n="51bis"/> Il Laocoonte l'<persName
-                     ref="#Apollon">Apollo</persName>, il Torso dell'Hercole in Beluedere, ilqual
-                  non é in molta consideratione de goffi; <persName ref="#Meleagre"
-                     >Meleagro</persName> che ha in casa un medico, laquale statua la chiamano
+                  stupirete et la volta; le camere del Papa di <persName ref="#Raphael">Raffaello</persName> d'Vrbino <pb n="51bis"/> Il Laocoonte l'<persName ref="#Apollon">Apollo</persName>, il Torso dell'Hercole in Beluedere, ilqual
+                  non é in molta consideratione de goffi; <persName ref="#Meleagre">Meleagro</persName> che ha in casa un medico, laquale statua la chiamano
                      <persName ref="#Adonis">Adone</persName>, ma è fu fatto veramente per un
                      <persName ref="#Meleagre">Meleagro</persName>. L'Antino bellissimo colui che si
-                  cava la spina del piede, la sepoltura di Giulio, la storia di Musaico di <persName
-                     ref="#Giotto">Giotto</persName>, la <persName ref="#Marie">Madonna</persName>
+                  cava la spina del piede, la sepoltura di Giulio, la storia di Musaico di <persName ref="#Giotto">Giotto</persName>, la <persName ref="#Marie">Madonna</persName>
                   della febre, il <persName ref="#Jesus">Christo</persName> di fra Bastiano a San
-                  Piero Montorio, il quadro alla Misericordia di Francesco Saluiati, il <persName
-                     ref="#Jesus">Christo</persName> che è nella medesima chiesa dove è Papa Leone
-                  sepolto et Clemente; la sala di Farnese, di Giorgio d'<placeName ref="#Arezzo"
-                     >Arezzo</placeName>, quei palazzi de Cardinali et quelle vigne dove sono assai
+                  Piero Montorio, il quadro alla Misericordia di Francesco Saluiati, il <persName ref="#Jesus">Christo</persName> che è nella medesima chiesa dove è Papa Leone
+                  sepolto et Clemente; la sala di Farnese, di Giorgio d'<placeName ref="#Arezzo">Arezzo</placeName>, quei palazzi de Cardinali et quelle vigne dove sono assai
                   Sculture. Il cavallo di <placeName ref="#Capitole">Campidoglio</placeName>,
                   l'Aguglia, et le stufe, con tutte l'altre cose hordinarie pasquini devotioni
-                  rouine Culisei archi le grottesche di Giovan da Vdine etc. che per <persName
-                     ref="#Dieu">Dio</persName> s'io ne volessi dire la mezza parte c'andrebbe tutto
+                  rouine Culisei archi le grottesche di Giovan da Vdine etc. che per <persName ref="#Dieu">Dio</persName> s'io ne volessi dire la mezza parte c'andrebbe tutto
                   domani a scrivere le rotonde le colonne i castelli, et le pitture di Pulidoro,
                   Baldessare et <persName ref="#MaturinoFiorentino">Maturino</persName>, e'l Papa
                   che dovevo dire inanzi. A <placeName ref="#Naples">Napoli</placeName> fate
@@ -1972,52 +1898,38 @@
                   Giovan'Agnolo. a <placeName ref="#Genes">Genova</placeName> la statua la sepoltura
                   del Prencipe Doria, et la Cappella opera grande et ben composta et fatta dal
                   medesimo et le cose di Perin del Vaga nel palazzo del Prence a
-                     <placeName ref="#Pavie">Pavia</placeName>, il cavallo, a <placeName
-                     ref="#Padoue">Padova</placeName> il cavallo, a <placeName ref="#Venise"
-                     >Vinegia</placeName> Quattro cavalli divini, le cose di <persName
-                     ref="#Giorgione">Giorgione</persName> da <placeName ref="#CastelFranco">Castel
-                     Franco</placeName> Pittore, la storia di <persName ref="#Titien"
-                     >Titiano</persName> (huomo eccellentissimo) in palazzo, la facciata della casa
-                  dipinta dal Prodonone sopra il Canal grande, una tavola d'altare d'<persName
-                     ref="#AlbrechtDurer">Alberto Duro</persName> in San Bartolomeo; In particolare
+                     <placeName ref="#Pavie">Pavia</placeName>, il cavallo, a <placeName ref="#Padoue">Padova</placeName> il cavallo, a <placeName ref="#Venise">Vinegia</placeName> Quattro cavalli divini, le cose di <persName ref="#Giorgione">Giorgione</persName> da <placeName ref="#CastelFranco">Castel
+                     Franco</placeName> Pittore, la storia di <persName ref="#Titien">Titiano</persName> (huomo eccellentissimo) in palazzo, la facciata della casa
+                  dipinta dal Prodonone sopra il Canal grande, una tavola d'altare d'<persName ref="#AlbrechtDurer">Alberto Duro</persName> in San Bartolomeo; In particolare
                   u'è lo studio del Bembo et di M. --[52r]-- Gabriel Vendramino Gentilhuomo
                   Venetiano alquale io son seruidore con molti altri et infinite antichità poi
                   miracolose come è l'<persName ref="#Apollon">Apollo</persName> di Monsignor de
-                  Martini, che vi saranno mostrate. Andando a <placeName ref="#Parme"
-                     >Parma</placeName> fate di vedere il <persName ref="#Cupidon">Cupido</persName>
+                  Martini, che vi saranno mostrate. Andando a <placeName ref="#Parme">Parma</placeName> fate di vedere il <persName ref="#Cupidon">Cupido</persName>
                   del Parmeganino in ogni modo; ilquale è in mano vel Cavallier Baiardo. et le cose
-                  di Anton da <persName ref="#Correge">Correggio</persName> et in <placeName
-                     ref="#Mantoue">Mantova</placeName> di <persName ref="#GiulioRomano">Giulio
+                  di Anton da <persName ref="#Correge">Correggio</persName> et in <placeName ref="#Mantoue">Mantova</placeName> di <persName ref="#GiulioRomano">Giulio
                      Romano</persName>. Hora le rare cose, oltre a queste, che voi vedrete
                   faretemene parte anchor voi, et perché io non voglio piu scrivere vi dico che io
-                  sto bene et voi conseruatevi ne viaggi sano. A di. Il <persName
-                     ref="#AntonFrancescoDoni">Doni</persName> vostro. AL GENTILISSIMO ET VIRTVOSO
+                  sto bene et voi conseruatevi ne viaggi sano. A di. Il <persName ref="#AntonFrancescoDoni">Doni</persName> vostro. AL GENTILISSIMO ET VIRTVOSO
                   AMICO SVO M. ENEA DA PARMA. Qvesta è una carta disegnata per mano di messer
                   Giovanni Agnolo Fiorentino anchora che non ci uvol nome nissuno sopra: et é sua
                   inuentione et tutto con comissione di faruela intagliare. Io l'ho tenuta nel mezzo
-                  de parecchie carte intagliate una per mano di messer Martino maestro d'<persName
-                     ref="#AlbrechtDurer">Alberto Duro</persName>; ho poi d'Alberto l'<persName
-                     ref="#Adam">Adamo</persName>, il San Girolamo Santo Eustachio, la maninconica
+                  de parecchie carte intagliate una per mano di messer Martino maestro d'<persName ref="#AlbrechtDurer">Alberto Duro</persName>; ho poi d'Alberto l'<persName ref="#Adam">Adamo</persName>, il San Girolamo Santo Eustachio, la maninconica
                   et la passione. et tengo alcune storie del vecchio testamento di Luca d'Olanda. et
-                  di Marco Antonio; il Monte di Parnaso, il giudicio di <placeName ref="#Paris"
-                     >Paris</placeName> con il Netuno --[52v]-- et gl'Innocenti. Le due carte del
+                  di Marco Antonio; il Monte di Parnaso, il giudicio di <placeName ref="#Paris">Paris</placeName> con il Netuno --[52v]-- et gl'Innocenti. Le due carte del
                   Bandinello cioè San Lorenzo et gl'Innocenti, ho anchora acconcio atorno gl'amor de
-                  gli Dei intagliati da Iacopo Veronese. et di Marco da <placeName ref="#Ravenna"
-                     >Ravenna</placeName> il Laocoonte. questi sono i valenti intagliatori che io
+                  gli Dei intagliati da Iacopo Veronese. et di Marco da <placeName ref="#Ravenna">Ravenna</placeName> il Laocoonte. questi sono i valenti intagliatori che io
                   gli ho messo attorno, et perché io tengo il San Paolo vostro taglio bravissimo. et
                   le medaglie che voi m'havete tagliate et di vostra inuention ornata all'incontro a
                   queste; mi par mill'anni che ci sia questa; perché io ho speranza che la vadia nel
                   numero di quelle belle, et poter dire queste son le piu degne carte et i piu
                   valenti intagliatori che habbin tagliato rami insino a hoggi. et se non fosse che
                   voi mi siate amico vi inalzerei sopra i cieli, ma che dico io? le virtu vostre vi
-                  fanno maggiore che non vi farei io et tutta la casa de <persName
-                     ref="#AntonFrancescoDoni">Doni</persName>. State sano et amatemi. di <placeName
-                     ref="#Venise">Vinegia</placeName> l'ultimo d'Agosto. Al seruitio vostro. Il
+                  fanno maggiore che non vi farei io et tutta la casa de <persName ref="#AntonFrancescoDoni">Doni</persName>. State sano et amatemi. di <placeName ref="#Venise">Vinegia</placeName> l'ultimo d'Agosto. Al seruitio vostro. Il
                      <persName ref="#AntonFrancescoDoni">Doni</persName>.</p>
             </div2>
             <div2 type="lettre" n="5" xml:id="L5">
                <head>AL BORDONE, GVIDA DELL'ACADEMIA DE PELLEGRINI SEMPRE OSSERVAMDISS. </head>
-               <p>L'opere che hanno finito i pellegrini quest'anno, vi si mandano; lequali, da tutti
+               <p xml:id="DON_D_T2_L5_P1">L'opere che hanno finito i pellegrini quest'anno, vi si mandano; lequali, da tutti
                   sono state censurate, approvate, et autenticate: egl'é ben vero che ne i titoli, e
                   non si sono anchor ben risoluti, perché di questo <pb n="53"/> (si come si
                   contiene ne capitoli) ne vogliono il parer vostro, accioché tuttisiemo uniti di
@@ -2026,8 +1938,7 @@
                   de gl'angeli et loro effetti; et ha descritto da la prima creation loro, per
                   insino al giorno del giuditio; opera veramente faticosa dotta et difficilissima
                   dove voi stupirete delle grandi imaginationi che gl'ha fatto, et ridotte si bene
-                  con <persName ref="#Bacchus">Dionisio</persName>, <persName ref="#Platon"
-                     >Platone</persName>, et altri. Poi gl'è piacciuto chiamarla. LA MILITIA DEL
+                  con <persName ref="#Bacchus">Dionisio</persName>, <persName ref="#Platon">Platone</persName>, et altri. Poi gl'è piacciuto chiamarla. LA MILITIA DEL
                   CIELO. Lo Spedato anchora che ma le habbi potuto caminare, ha cavato di tutte le
                   storie; la maggiore, et la migliore Fortuna, che mai habbi havuto huomo in un
                   viaggio di vita et l'ha dipinta benissimo: et intitolata LA FORTUNA IMPERIALE:
@@ -2052,8 +1963,7 @@
                   compiacergli, che per altro. Gagliardamente s'è portato le Suogliato, che ha
                   veduto alcuni autori principali d'ogni professione, tanti in filosophia, tanti in
                   humanità, in legge, Storie, Romanzi, Logica, musica Astrologia, et altre
-                  professioni et scienze (modo nuovo da quello dell'<persName
-                     ref="#MarcusVipsaniusAgrippa">Agrippa</persName> differente in infinito) et
+                  professioni et scienze (modo nuovo da quello dell'<persName ref="#MarcusVipsaniusAgrippa">Agrippa</persName> differente in infinito) et
                   datone loro una buona stretta, nel qual libro si comprende quanto e sia buono
                   possessor di buone lettere, talmente che tutti d'accordo, non ne cavando anchor
                   lui di questo numero, habbiamo scritto sopra il suo libro. LA GABBIA DE PAZZI;
@@ -2121,11 +2031,10 @@
             <div2 type="lettre" n="6" xml:id="L6">
                <pb n="55bis"/>
                <head>AL GENTILISSIMO M. GIROLAMO FAVA A BOLOGNA. </head>
-               <p>S'io non imponessi un quadro di Pittura manigolda, fingendoui dentro un'hosteria
+               <p xml:id="DON_D_T2_L6_P1">S'io non imponessi un quadro di Pittura manigolda, fingendoui dentro un'hosteria
                   ladra; dico s'io non facessi uno schizzo sciagurato di mia mano: le brigate non
                   crederebbono che io sapessi imbrattare un foglio. Non vi ricorda egli quando noi
-                  alloggiamo insieme a quella hosteria, cavalcando da <placeName ref="#Florence"
-                     >Fiorenza.</placeName>a <placeName ref="#Bologne">Bologna</placeName>? o che
+                  alloggiamo insieme a quella hosteria, cavalcando da <placeName ref="#Florence">Fiorenza.</placeName>a <placeName ref="#Bologne">Bologna</placeName>? o che
                   brava casa, che mirabil Hoste, che profumata camera, che delicato desinare, et che
                   honorata compagnia havessimo a tavola? Io son qui sospeso alquanto con la
                   fantasia, s'io debbo bociarlo o si nò; et tirare un'arbore di tutta la genologia
@@ -2218,14 +2127,13 @@
                   ha bisogno d'aiuto adunque quando io sentirò da altri metterle in cielo, havrò una
                   parte dell'obligo alla bocca vostra che sarà stata cagione di farmi far quello
                   honore. del quale aspetto maggiore occasione a ristoraruene, che questa breve
-                  lettera, et miraccomando mille volte, di <placeName ref="#Venise"
-                     >Vinegia</placeName> alli XV. d'Ottobre. MDXLIX. Amator delle virtu vostre. Il
+                  lettera, et miraccomando mille volte, di <placeName ref="#Venise">Vinegia</placeName> alli XV. d'Ottobre. MDXLIX. Amator delle virtu vostre. Il
                      <persName ref="#AntonFrancescoDoni">Doni</persName>. </p>
             </div2>
             <div2 type="lettre" n="7" xml:id="L7">
                <pb n="58"/>
                <head>AL GENTILE ET VIRTVOSO M. FRANCESCO VICENZI. A FERRARA.</head>
-               <p>Pvo esser molte volte che io non rispondo alle lettere che mi sono scritte, anzi
+               <p xml:id="DON_D_T2_L7_P1">Pvo esser molte volte che io non rispondo alle lettere che mi sono scritte, anzi
                   per dirla per il nome vero sono trascuratissimo in questo ufficio molto piu che ne
                   gl'altri; non resta per questo che io non mi ricordi et habbia sempre nella
                   memoria l'amico; et che sia la verità; voi lo vedrete nelle mie medaglie, et ve ne
@@ -2234,14 +2142,13 @@
                   importanza, mi legano le braccia, impediscon la penna, et mi lasciano il calamaro
                   aridissimo, hora pensate come io mi ritrovo poi, quando le s'accordono con
                   l'infingardaggine dello scrivere. Amatemi et comandatemi che io son vostro. Alli.
-                  IX. d'Ottobre MDXLIX. Vostro piu che di se medesimo. Il <persName
-                     ref="#AntonFrancescoDoni">Doni</persName>. </p>
+                  IX. d'Ottobre MDXLIX. Vostro piu che di se medesimo. Il <persName ref="#AntonFrancescoDoni">Doni</persName>. </p>
             </div2>
             <div2 type="lettre" n="8" xml:id="L8">
                <pb n="58bis"/>
                <head>AL MOLTO HONORATO ET NOBILE M. ROCCO GRANZA; ET MAGGIORE SVO ET COMPARE
                   OSSERVANDISS. </head>
-               <p>Costoro che si presero la licentia di far comparationi, hanno scritto che il Poeta
+               <p xml:id="DON_D_T2_L8_P1">Costoro che si presero la licentia di far comparationi, hanno scritto che il Poeta
                   é molto simile al Pittore, per tenere alquanto l'uno et l'altro d'una certa
                   libertà di fare a suo modo. hora io vorrei esser di tanta auttorità che io facesse
                   un'altro paragone fra il mercatante di gioie, et il compositor di libri, perché
@@ -2256,8 +2163,7 @@
                   scudi (o età traditora da che bisogna che chi compone stilli il ceruello per
                   comprarsi il pane, et ad alcuni che si dedican l'opere nostr lo meritino, ma solo
                   se gli faccia questo honore per premio della borsa, et non per merito della
-                  persona). Quella sorte di mercatanti avari non loderò io già, ne darò mai fama <pb
-                     n="59"/> a questa razza di bisognosi anchora che io scusi piu tosto questi che
+                  persona). Quella sorte di mercatanti avari non loderò io già, ne darò mai fama <pb n="59"/> a questa razza di bisognosi anchora che io scusi piu tosto questi che
                   quelli anzi gli chiamerò due estremi. Io ho sempre havuto questa sorte, perché mai
                   ho scritto scartabello alcuno ne dedicato (saluo che uno) che prima la cortesia de
                   signori per bontà loro et non per mio merito non sia prevenuta alla mia necessità,
@@ -2274,14 +2180,12 @@
                   almanco di quel biasimo; ciò è; io netto d'avaritia, et voi meritevole di quel
                   dono; et di maggiore anchora, in questo mezzo voi leggerete alcuna cosetta di mio,
                   et mi terrete nella gratia vostra. Di <placeName ref="#Venise">Vinegia</placeName>
-                  alli XVI. d'Ottobre. MDXLIX. Al Seruitio vostro paratissimo. Il <persName
-                     ref="#AntonFrancescoDoni">Doni</persName>. </p>
+                  alli XVI. d'Ottobre. MDXLIX. Al Seruitio vostro paratissimo. Il <persName ref="#AntonFrancescoDoni">Doni</persName>. </p>
             </div2>
             <pb n="59bis"/>
             <div2 type="lettre" n="9" xml:id="L9">
-                <head>ALLO ILLVSTRE S. HERMES BEN TIVOGLI MIO SIGNOR OSSERVANDISSIMO.</head> <p>Da che io non ho
-                  finito l'opera che o vi ragionai già qui in <placeName ref="#Venise"
-                     >Vinegia</placeName>, n'ho pur terminato un'altra, la qual penso che vi sarà di
+                <head>ALLO ILLVSTRE S. HERMES BEN TIVOGLI MIO SIGNOR OSSERVANDISSIMO.</head> <p xml:id="DON_D_T2_L9_P1">Da che io non ho
+                  finito l'opera che o vi ragionai già qui in <placeName ref="#Venise">Vinegia</placeName>, n'ho pur terminato un'altra, la qual penso che vi sarà di
                   piacere quanto quella, anchora che in breve la vi verrà nelle mani, in tanto
                   leggerete questa, laquale vi prega in nome mio nel presentaruisi inanzi, che voi
                   vi ricordiate che'l <persName ref="#AntonFrancescoDoni">Doni</persName> é molto
@@ -2294,7 +2198,7 @@
             <pb n="60bis"/>
             <div2 type="lettre" n="10" xml:id="L10">
                <head>AL S. PIETRO ARETINO. </head>
-               <p>Lasciando star da parte i generali oblighi che io tengo con la virtu, et i
+               <p xml:id="DON_D_T2_L10_P1">Lasciando star da parte i generali oblighi che io tengo con la virtu, et i
                   particolari con la gentilezza vostra, non debb'io universalmente porui per merito
                   nel numero di tanti huomini eccellenti che io honominato in questo libretto?
                   essendo voi uno di quegli intelletti divini; che rendete si bene la ragione delle
@@ -2306,20 +2210,17 @@
                   disegno. questa mi pare delle maggior lodi che voi habbiate havuto mai. Chi sculpì
                   mai Scultore si divinamente quanto facesti voi con una lettera? et dipinse mai
                   quadro quanto il vostro Parnaso? io per me leggo con piu contento il monte uscito
-                  della vostra penna, che io non ho piacere di quello de pennelli di <persName
-                     ref="#Raphael">Raffaello</persName>, et veggo quello Scultore moderno, senza
+                  della vostra penna, che io non ho piacere di quello de pennelli di <persName ref="#Raphael">Raffaello</persName>, et veggo quello Scultore moderno, senza
                   impacci, che si dà si bel tempo, con tanto mio diletto, che io non hebbi mai un si
                   fatto dagli archi antichi. Tenetemi adunque nella gratia vostra, perché io vi fo
-                  riverenza insieme con tutti gl'altri che adorano la vostra virtu. Di <placeName
-                     ref="#Venise">Vinegia</placeName> alli X. d'Agosto. Il <persName
-                     ref="#AntonFrancescoDoni">Doni</persName> che vi s'inchina per debito suo, et
+                  riverenza insieme con tutti gl'altri che adorano la vostra virtu. Di <placeName ref="#Venise">Vinegia</placeName> alli X. d'Agosto. Il <persName ref="#AntonFrancescoDoni">Doni</persName> che vi s'inchina per debito suo, et
                   merito vostro. </p>
             </div2>
             <div2 type="lettre" n="11" xml:id="L11">
                <pb n="61"/>
                <head>ALLA ILLVSTRE SIGNORA CONTESSA DI BAGNOLA S. SILVIA DI SOMMA SIGNORA SEMPRE
                   OSSERVANDISS.</head>
-               <p>La maggior parte de gl'ordini che sono dell'huomo si debbono osseruare, ne in
+               <p xml:id="DON_D_T2_L11_P1">La maggior parte de gl'ordini che sono dell'huomo si debbono osseruare, ne in
                   conto alcuno trapassargli intendendo però quanto sien bastevoli le forze nostre
                   iquali se io volesse nominargli a uno per uno troppo sarebbe lungo lo scriver mio:
                   ne dirò bene uno ilquale importa generalmente, et in particolare tocca a me
@@ -2330,8 +2231,7 @@
                   cinque et lodò la diligenza sua honoratamente. Io seruo di V. S. anchora che
                   indegno, ho ricevuto cinque talenti dalla vostra liberalissima mano, il primo che
                   io hebbi a <placeName ref="#Florence">Fiorenza</placeName>, il secondo a
-                     <placeName ref="#Bologne">Bologna</placeName>, et tre altri in <placeName
-                     ref="#Venise">Vinegia</placeName>. iquali son degni et honorati ch'io dubito
+                     <placeName ref="#Bologne">Bologna</placeName>, et tre altri in <placeName ref="#Venise">Vinegia</placeName>. iquali son degni et honorati ch'io dubito
                   anchor che io ci metto tutto l'animo et l'ingegno mio non poter mai far tanto che
                   io possi ringratiarui et renderuene tal ragione che V. S. mi lodi per buon seruo.
                   Così essendo in questo traffico et ripensando all'honore, all'utile; al modo et
@@ -2375,8 +2275,7 @@
                   Siluio seruitor vostro mentre ch'io m'inchino alla presenza vostra riverentemente
                   con il cuore, egli con la bocca della penna mia, vi bascia l'honorata et virtuosa
                   mano. Di <placeName ref="#Venise">Vinegia</placeName> alli <date when="1549-10-20">XX. d'Ottobre. MDXLIX</date>.
-                  D. V. S. Ill. Seruitore di cuore, et obligatissimo. Il <persName
-                     ref="#AntonFrancescoDoni">Doni</persName>. </p>
+                  D. V. S. Ill. Seruitore di cuore, et obligatissimo. Il <persName ref="#AntonFrancescoDoni">Doni</persName>. </p>
             </div2>
             <gap reason="editorial"/>
          </div1>

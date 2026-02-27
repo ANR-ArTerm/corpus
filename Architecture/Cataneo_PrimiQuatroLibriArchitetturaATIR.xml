@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
@@ -7,10 +7,10 @@
             <title xml:lang="fra">Title</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p xml:id="CAT_PQL_P1">Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p xml:id="CAT_PQL_P2">Information about the source</p>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -32,8 +32,8 @@
          </titlePage>
          <pb type="blankpage"/>
          <div type="dedicace">
-            <p> ALL'ILLVSTRISSIMO SIGNORE, IL SIGNOR ENEA PICCOLHOMINI PIETRO CATANEO. </p>
-            <p>Se la nobiltà del soggetto, come ben sa la S. V. illustrissima, nobilita la scienza che ne tratta; la piu bella parte dell'Architettura
+            <p xml:id="CAT_PQL_P1"> ALL'ILLVSTRISSIMO SIGNORE, IL SIGNOR ENEA PICCOLHOMINI PIETRO CATANEO. </p>
+            <p xml:id="CAT_PQL_P2">Se la nobiltà del soggetto, come ben sa la S. V. illustrissima, nobilita la scienza che ne tratta; la piu bella parte dell'Architettura
                certamente serà quella, che tratta delle città, dove piu moltiplicano gli huomini, et fioriscono le notitie et esercitii humani, le
                quali essendo modernamente offese dalle artiglierie, che non havevano gli antichi; non sera presontione la mia, se io mostrerò di
                edificarle altrimenti, per difenderle da quelle offese, alle quali essi non hanno potuto provedere, per non haverle havute al tempo
@@ -61,7 +61,7 @@
             <div2 type="chapitre" n="1" xml:id="L1C1">
                <head><pb n="1"/> QUEL CHE PIU FACCI DI BISOGNO ALLO ARCHITETTO, et quanta importanza gli sia l'essere buono Prospettivo. Capitolo
                   primo. </head>
-               <p>Essendo l'Architettura scienza di piu dottrine et uarii ammaestramenti ornata, et col giudicio di quella approvandosi tutte l'opere,
+               <p xml:id="CAT_PQL_L1_L1C1_P1">Essendo l'Architettura scienza di piu dottrine et uarii ammaestramenti ornata, et col giudicio di quella approvandosi tutte l'opere,
                   che dalle altre arti si finiscono; serà di bisogno ancora a chi uorra fare professione di buono Architteto, essere scientifico, et
                   di naturale ingegno dotato, però che essendo ingegnoso senza scienza, overo scientifico senza ingegno, non potra farsi perfetto
                   Architettore. Dove gli serà necessario, prima che si possa rendere bene istrutto di questa arte, o scienza, essere bono disegnatore,
@@ -101,7 +101,7 @@
             <div2 type="chapitre" n="2" xml:id="L1C2">
                <head>Come si congregassero gli huomini, et si dessero al uivere politico, che prima come bestie menavano lor uita, et come dalle loro
                   rozze cappanne si uenisse a i superbi edificii, et da chi prima fusse trovata l'Architettura. Cap. II.</head>
-               <p> Nascendo gli huomini per lungo tempo, doppo il principio del mondo, per le selue, boschi, e spelonche, et ignudi discorrendo, si
+               <p xml:id="CAT_PQL_L1_L1C2_P1"> Nascendo gli huomini per lungo tempo, doppo il principio del mondo, per le selue, boschi, e spelonche, et ignudi discorrendo, si
                   pascevano di saluatico cibo, et a guisa di fiere menavano lor uita, quando per gratia del primo motore fu lor dato il fuoco, et il
                   parlare, e ragionare tra di loro; et dipoi dalla necessità mostrato di fuggire il caldo, il freddo, le pioggie, i uenti, et altri
                   insopportabili effetti del cielo, e prima, secondo Vetruvio, avuenne, che un giorno dalle molte tempeste e spesseggiare de'gagliardi
@@ -115,26 +115,21 @@
                   quello. dove, compresone il commodo, et a esso avuicinandosi per cacciar uia il freddo, e comminciando alcuni intra di loro a
                   parlare, piu insieme si raccolsero. Ma si debbe credere, et affermare, piu tosto esser causata la congregatione de gli huomini per
                   proprietà a noi data dalla natura di star in compagnia, aggiuntoui il discorso, per il quale habbiamo conosciuto dalla compagnia et
-                  unione nascer una uita piu bella, piu sicura, piu stabile, e piu giovevole, essendo per bonta di <persName ref="#Dieu"
-                     >Dio</persName> l'huomo per commodo e seruigio dell'altro huomo, non per se stesso nato alla solitudine. onde congregandosi gli
+                  unione nascer una uita piu bella, piu sicura, piu stabile, e piu giovevole, essendo per bonta di <persName ref="#Dieu">Dio</persName> l'huomo per commodo e seruigio dell'altro huomo, non per se stesso nato alla solitudine. onde congregandosi gli
                   huomini, et, di quanto fusse loro piu necessario, trattando, comminciarono alcuni a fare tetti di frondi; altri a cavar le spelonche
-                  sotto i monti, come i Trogloditi; et alcuni popoli di Libia, a gli Esperi et Etiopi uicini, che, secondo <persName ref="#Strabon"
-                     >Strabone</persName>, al tempo suo facevano: et molti imitando i nidi delle rondini, facevano di loto et uimini il loro albergo.
+                  sotto i monti, come i Trogloditi; et alcuni popoli di Libia, a gli Esperi et Etiopi uicini, che, secondo <persName ref="#Strabon">Strabone</persName>, al tempo suo facevano: et molti imitando i nidi delle rondini, facevano di loto et uimini il loro albergo.
                   e di tali inuentioni gloriandosi, aggiugnendo del continuo cose nuove, e dimostrandosi intra di loro gli effetti de gli edifici, di
                   giorno in giorno miglioravano l'habitationi loro: quando alcuni comminciarono con forche per dritto, e con uimini, et uerghe
                   intessute aggiugnendoui loto, a far le pareti, e di canne e frondi le coprivano. ma perché tai coprimi non difendevano la uernata
                   l'habitationi dalle pioggie e dal freddo, aggiunsero i fastigi chinati, e di loto gli coprivano: e così per le gronde <pb n="2"/>
                   scolavano l'acque, e di tali ancora, dice Vetruvio, che al suo tempo la Gallia, la <placeName ref="#Espagne">Spagna</placeName>, la
-                  Lusitania, l'Aquitania, la Phrigia, e, secondo <persName ref="#DiodoreDeSicile">Diodoro</persName>, l'<placeName ref="#Egypte"
-                     >Egitto</placeName> a sua età fabricavano. et ancora appresso tutte le nationi de i medesimi alcuni a tal tempo se ne uedeva. e
+                  Lusitania, l'Aquitania, la Phrigia, e, secondo <persName ref="#DiodoreDeSicile">Diodoro</persName>, l'<placeName ref="#Egypte">Egitto</placeName> a sua età fabricavano. et ancora appresso tutte le nationi de i medesimi alcuni a tal tempo se ne uedeva. e
                   così ancora dice il medesimo Vetruvio che al suo tempo i tetti di Marsilia, antichissima città di Provenza, erano di terra battuta,
-                  senza tegole. e lo Areopago d'<placeName ref="#Athenes">Atene</placeName> era di loto coperto, e nel <placeName ref="#Capitole"
-                     >Campidoglio</placeName> la casa di Romolo con paglia e fieno coperta. e da tali si poteva considerare l'inuentioni de gli
+                  senza tegole. e lo Areopago d'<placeName ref="#Athenes">Atene</placeName> era di loto coperto, e nel <placeName ref="#Capitole">Campidoglio</placeName> la casa di Romolo con paglia e fieno coperta. e da tali si poteva considerare l'inuentioni de gli
                   antichi edifici. le quali, non bastando ancora al desiderio et ingegno humano, andavano di giorno in giorno migliorandoli. e così fu
                   dipoi per industriosa e filosofica prattica trovata la calce, et il far de i mattoni col lavorar delle pietre e del legname: dove
                   peruenendo a poco a poco alle altre arti e scienze, da feroce e seluaggia uita a piu mansueti costumi si ridussero, et a tale
-                  l'Architettura condussero, che il modo di ben fabricar ci dimostra. la quale inuentione <persName ref="#DiodoreDeSicile"
-                     >Diodoro</persName> a <persName ref="#Pallas">Pallade</persName> attribuisce, e <persName ref="#Pline">Plinio</persName> a
+                  l'Architettura condussero, che il modo di ben fabricar ci dimostra. la quale inuentione <persName ref="#DiodoreDeSicile">Diodoro</persName> a <persName ref="#Pallas">Pallade</persName> attribuisce, e <persName ref="#Pline">Plinio</persName> a
                   Cecrope per havere edificata Cecropia, la quale fu dipoi la rocca di <placeName ref="#Athenes">Athene</placeName>. ma gli Egittij
                   uogliono molto innanzi haver edificato Diospoli, città di <persName ref="#Jupiter">Giove</persName>. ma a noi piace piu di credere a
                   Gioseso; il qual dice, che Caino, d'<persName ref="#Adam">Adamo</persName> primo figlivolo, essendo nel principio del mondo, edificò
@@ -147,7 +142,7 @@
             <div2 type="chapitre" n="3" xml:id="L1C3">
                <head>Di tutte le buone parti, o qualità, che in genere si deveno ricercare nell'elettione del sito, dove si conuenga in tutto
                   edificare, o aggrandire nuova città. Cap. III. </head>
-               <p>Conviensi con ogni diligenza nello eleggere il sito di nuova città avuertire, che in quello, essendo possibile, sieno tutte le buone
+               <p xml:id="CAT_PQL_L1_L1C3_P1">Conviensi con ogni diligenza nello eleggere il sito di nuova città avuertire, che in quello, essendo possibile, sieno tutte le buone
                   qualità. perché da questo si ueggono il piu delle uolte nascere le grandezze, o le miserie delle città edificate. Debbesi per tanto
                   nella elettione del suo sito ricercare, la sanità, la fertilità, la fortezza, la commodità, e la uaghezza. la sanità ci serà porta
                   dalla bontà dell'aria, dell'acque, e dell'herbe. E prima, quanto alla bontà dell'aria, come cosa piu importante, è da discorrere due
@@ -157,8 +152,7 @@
                   Vetruvio sia stato male avuertito. Dico dunque, che, in qualunque calda o fredda regione si edificherà la città, che sempre si
                   uoltino le sue mura a quei uenti, che piu la possino contemperare e rendere sana. et il piu sano d'ogn'altro sito si potrà guidicare
                   quello, che serà temperato, e la sua aria serà di continuo purissima, leggiera, lucida, senza nebbie, e non uariabile. Ma perché
-                  nessuno, o rarissimi sono i lochi temperati, benche Galeno uoglia che Pergamo sua patria in <placeName ref="#Grece"
-                     >Grecia</placeName> sia il piu temperato di ogn'altro; Ippocrate dice esser Coos, sua terra, piu temperato di tutti; i poeti
+                  nessuno, o rarissimi sono i lochi temperati, benche Galeno uoglia che Pergamo sua patria in <placeName ref="#Grece">Grecia</placeName> sia il piu temperato di ogn'altro; Ippocrate dice esser Coos, sua terra, piu temperato di tutti; i poeti
                   pigliano per la piu temperata parte del mondo l'Arabia felice; ma Erodoto uvole, che gli Egittii uerso Libia possegghino la piu
                   temperata regione del mondo, soggiugnendo quelli essere huomini sanissimi, perché non ueggano mai l'aria uariarsi; non dando noi piu
                   fede a l'uno che all'altro, <pb n="2bis"/> diciamo, che. quanto piu la regione serà sotto l'equinottio, tanto piu serà temperata, et
@@ -209,8 +203,7 @@
                   posta in collina d'aria fresca, sanissima per la state, et havendo nel suo dominio così grande, uaga, et fertile maremma, et di aria
                   temperatissima il uerno; possono i suoi cittadini ridursi ad habitare la uernata in diversi luoghi di quella, come nella città di
                   Grossetto, nella città di Massa, et per molte castella, come monte Ano, monte Merano, Batignano, Pereta, Magliano, et altre assai
-                  infra terra: et uolendo habitare in su la marina, o a canto a quella, si possono ridurre in Port'<persName ref="#Hercule"
-                     >Ercole</persName>, Talamone, Caparbio, Castiglioni, et in altri diversi luoghi, tutti fertilissimi: i quali havendo belle et
+                  infra terra: et uolendo habitare in su la marina, o a canto a quella, si possono ridurre in Port'<persName ref="#Hercule">Ercole</persName>, Talamone, Caparbio, Castiglioni, et in altri diversi luoghi, tutti fertilissimi: i quali havendo belle et
                   fruttifere pianure, con laghi, et diverse fiumare, con amenissime, et leggiadre colline, copiosissime di uigne, olivi, et di qual si
                   uoglia buona pianta, et arbore dimestico, et partecipando per tutto così le pianure, come le colline del saluatico, come del
                   dimestico; et le sue selue in molti luoghi, oltre a i lecci, le quercie, et altri arbori ghiandiferi, sono piene di lauri, mortelle,
@@ -243,10 +236,9 @@
                   buon'herbe, se gli huomini di tal luoco seranno belli, ben proportionati, di uivo colore, et lieto aspetto, con la multiplicatione
                   grande di lor figli per lo spesso partorire delle donne: et se i uecchi seranno prosperosi, e di buona ualetudine: e non ui nascerà
                   gozzuti, zoppi, ciechi, o altre mostruose creature: et se gli habitatori seranno di buon'ingegno. peroche il buono ingegno uiene
-                  dalla buona temperatura del corpo, e la buona temperatura dalla buoon'aria: dove dicono, che essendo <placeName ref="#Athenes"
-                     >Athene</placeName> in migliore e piu sana aria di Thebe, quantunque fussero in una medesima regione che gli Atheniesi, furono di
+                  dalla buona temperatura del corpo, e la buona temperatura dalla buoon'aria: dove dicono, che essendo <placeName ref="#Athenes">Athene</placeName> in migliore e piu sana aria di Thebe, quantunque fussero in una medesima regione che gli Atheniesi, furono di
                   migliore e piu acuto ingegno de'Thebani. </p>
-               <p> E perche, come da principio s'è detto, non solo dalla bontà dell'aria, ma ancora dalla perfettione dell'acque ci è porto sanità; è
+               <p xml:id="CAT_PQL_L1_L1C3_P2"> E perche, come da principio s'è detto, non solo dalla bontà dell'aria, ma ancora dalla perfettione dell'acque ci è porto sanità; è
                   molto necessario il saper conoscere le buone e perfette lor parti, nel paese massime non habitato, dove in tutto s'habbia a edificar
                   nuova città o castello; atteso non esser cosa tanto necessaria alla uita humana, quanto la acqua: tal che da Tales e Milesio, due
                   delli sette sapienti, è stato giudicato esser l'acqua principio di tutte le cose. e se bene Heraclito ha detto essere stato il
@@ -295,8 +287,7 @@
                   piovane, uogliono, che le meglio di tutte sieno quelle, che entrano nella cisterna la state quando sono piu folgori, tempeste, e
                   tuoni: perché alhora uien piu rotta, piu purgata, et piu leggiera: ma per causa della poluere, terra, o brutture, serà utile, prima
                   lassar lavare il tetto, o la piazza. L'acque, che fanno stagno o padule, sono in tutto triste, e tanto piu non havendo esito alcuno:
-                  perché stando ferme si mantengono grosse, et per la molto loro mota si putrefanno. et di qui è, che <persName ref="#Pline"
-                     >Plinio</persName> non crede che l'acque piovane delle cisterne siano da lodare, soggiugnendo che se le fonti, che fanno mota,
+                  perché stando ferme si mantengono grosse, et per la molto loro mota si putrefanno. et di qui è, che <persName ref="#Pline">Plinio</persName> non crede che l'acque piovane delle cisterne siano da lodare, soggiugnendo che se le fonti, che fanno mota,
                   sono meritamente da biasimare; che ancora le cisterne, per far mota assai, sono mal sane: et che oltre a questo l'acque delle
                   cisterne in breve spatio si putrefanno: et per questo afferma esser triste al uentre: <pb n="4bis"/> perche lo fanno duro, et
                   similmente la gola. Vetruvio, <persName ref="#Pline">Plinio</persName>, et Dioscoride mostrano piu modi a conoscere la bontà
@@ -314,18 +305,16 @@
                   et pigliasse la buona qualità di quella, dove per lungo transito passasse; e tanto piu, se la terra o loto, per il qual passera tale
                   acqua, partecipera di minerà di argento o d'oro, onde è da procedere in tali accidenti con buonissima diligenza, osseruando sempre
                   per regola generale, che tutte le bocche delle cisterne, de i pozzi, et delle fontane siano all'aria scoperta. La piu eccellente
-                  acqua di tutto il mondo, dice <persName ref="#Pline">Plinio</persName>, con testimonio di tutta <placeName ref="#Rome"
-                     >Roma</placeName> essere l'acqua Martia, tra gli altri doni de gl'Iddij conceduta a questa città. Fu quest'acqua gia chiamata
+                  acqua di tutto il mondo, dice <persName ref="#Pline">Plinio</persName>, con testimonio di tutta <placeName ref="#Rome">Roma</placeName> essere l'acqua Martia, tra gli altri doni de gl'Iddij conceduta a questa città. Fu quest'acqua gia chiamata
                   Ausea, et la sua fonte Piconia. nasce nelli ultimi monti de'Peligni, e passa i Marsi, et il lago Fucino, dipoi si nasconde sotterra,
                   et riesce in Tiburtina, et uiene a <placeName ref="#Rome">Roma</placeName> per condotto nove miglia sopra gli archi. Martio Re fu il
-                  primo, che la condusse in <placeName ref="#Rome">Roma</placeName>: dipoi Quinto Martio Re nella sua pretura, et in ultimo <persName
-                     ref="#MarcusVipsaniusAgrippa">Marco Agrippa</persName> la restitui. Et perche, oltre alla bontà dell'aria, et dell'acqua, giovano
+                  primo, che la condusse in <placeName ref="#Rome">Roma</placeName>: dipoi Quinto Martio Re nella sua pretura, et in ultimo <persName ref="#MarcusVipsaniusAgrippa">Marco Agrippa</persName> la restitui. Et perche, oltre alla bontà dell'aria, et dell'acqua, giovano
                   ancor molto alla sanita le buone herbe, usarono gli antichi, per quanto dice Vetruvio, nello edificare la città, mandar prima a
                   pascolar pecore in quel luogo, dove desideravano edificare: (et questo fu anco antico ordine di Democrito) et sparando dipoi quelle,
                   se trovavano il fegato et l'altre loro interiora belle, sane, et senza macula, tenevano che tal sito producesse buon'herbe, et ui
                   sorgessero ottime acque, et ui edificavano la città: ma se tali interiora trovavano guaste, o maculate, giudicavano il luogo mal
                   sano, et lo lassavano inhabitato. </p>
-               <p> Havendo sino a qui mostro le cagioni, che alla città possono porgere sanità; si conuiene discorrere hora circa la sua fertilità.
+               <p xml:id="CAT_PQL_L1_L1C3_P3"> Havendo sino a qui mostro le cagioni, che alla città possono porgere sanità; si conuiene discorrere hora circa la sua fertilità.
                   peroche, uolendo che la città si mantenga in libertà, et augumenti l'imperio, o dominio suo, fabrichisi in tal sito, che della
                   grassezza de i terreni di suo territorio si possa tener contenta, et da quelli si speri delle cose humane ottima conditione, et non
                   habbi bisogno da esser sovuenuta da altri; ma, che per la fertilità del suo paese possa produr grani, et qual si uoglia altri
@@ -337,10 +326,8 @@
                   quale uolendo a gloria <pb n="5"/> sua nuova città edificare, fu consigliato da <persName ref="#Dinocrate">Dinocrate</persName>,
                   eccellente Architetto, che in sul monte Ato la dovesse fare: il qual sito non solo rendeva tal città fortissima, ma sopra esso si
                   poteva dare a quella forma di corpo humano: il che, per esser cosa rara et degna di sua grandezza, porgerebbe all'intelligenti non
-                  piccola meraviglia, ma essendo <persName ref="#Dinocrate">Dinocrate</persName> da <persName ref="#AlexandreLeGrand"
-                     >Alessandro</persName> domandato, per essere il luogo sterilissimo, come gli habitatori si potessero nutrire; rispose, sopra ciò
-                  non haver pensato. onde <persName ref="#AlexandreLeGrand">Alessandro</persName> mostrò a <persName ref="#Dinocrate"
-                     >Dinocrate</persName> quello non esser buon luogo per edificar città, con dirgli che, come senza il latte della nutrice il nato
+                  piccola meraviglia, ma essendo <persName ref="#Dinocrate">Dinocrate</persName> da <persName ref="#AlexandreLeGrand">Alessandro</persName> domandato, per essere il luogo sterilissimo, come gli habitatori si potessero nutrire; rispose, sopra ciò
+                  non haver pensato. onde <persName ref="#AlexandreLeGrand">Alessandro</persName> mostrò a <persName ref="#Dinocrate">Dinocrate</persName> quello non esser buon luogo per edificar città, con dirgli che, come senza il latte della nutrice il nato
                   fanciullo non si può alimentare; così la città, essendo il paese suo sterile, non puo ne aggrandirsi, ne esser frequentata, ne può
                   il suo popolo senza l'abbondanza conseruarsi. Ammirato nondimeno <persName ref="#AlexandreLeGrand">Alessandro</persName> dal uago et
                   ben composto disegno di <persName ref="#Dinocrate">Dinocrate</persName>, et da quello allettato non uolse che da lui si dipartisse,
@@ -351,7 +338,7 @@
                   luogo dello <placeName ref="#Egypte">Egitto</placeName> a ricever tutte le cose, che si navigano per mare, et quelle che si
                   conducono per terra; essendo ancora, che per il fiume del <placeName ref="#Nil">Nilo</placeName> si conduchino così facilmente, et
                   afferma essere <placeName ref="#Alexandrie">Alessandria</placeName> la piu ricca città di mercantie, che sia al mondo. </p>
-               <p> E perché senza la fortezza del sito, quantunque la città fusse in sanissima e fertilissima regione, non potrebbe ne tenersi sicura,
+               <p xml:id="CAT_PQL_L1_L1C3_P4"> E perché senza la fortezza del sito, quantunque la città fusse in sanissima e fertilissima regione, non potrebbe ne tenersi sicura,
                   ne pensar di poter eccedere in alcuna grandezza, eleggasi per tanto, essendo possibile, il suo sito tale, che con facilità, quando
                   bisogni, possa assaltar l'altrui, ne senza gran difficultà possa esser assaltato: quando l'uno puo dare occasione d'aggrandire
                   l'imperio o dominio suo; e l'altro l'aiuta a conseruare. et circa a questo è state da uarie nationi anco uariamente prouisto. Scrive
@@ -406,16 +393,15 @@
                   città per conueniente distanza: come si uede essere stato osseruato da i Duchi di Ferrara, che, per tener quella città piu sana, non
                   occorrendo il bisogno le tengono di continuo la campagna intorno asciutta, et pure a ogn'hora, che bisogni, si puo per molto spatio
                   intorno col fiume <placeName ref="#Po">Po</placeName> inondare, et renderla sicura. </p>
-               <p> Essendo dalla commodità porto molto utile alle attioni et uivere humano, conuiensi per tanto nella edificatione delle città
+               <p xml:id="CAT_PQL_L1_L1C3_P5"> Essendo dalla commodità porto molto utile alle attioni et uivere humano, conuiensi per tanto nella edificatione delle città
                   ricercar, quanto sia possibile, tutte le commodità <pb n="6"/> opportune; le quali molto piu si troveranno nella città di piano, per
                   potersi ualer meglio dell'uso del carro, che in quella del monte. et molto meglio et piu commoda sera quella, che, oltre al ualersi
                   dell'uso del carro, le passerà per mezzo, o a canto un fiume navigabile, ma sopra tutte l'altre commodissima, et piu laudabile di
-                  ogni altra serà la città maritima, che con l'uso del carro habbia il fiume navigabile, et buon porto, come <placeName
-                     ref="#Alexandrie">Alessandria</placeName> d'<placeName ref="#Egypte">Egitto</placeName>, Lisbona di Portogallo, et gia haveva
+                  ogni altra serà la città maritima, che con l'uso del carro habbia il fiume navigabile, et buon porto, come <placeName ref="#Alexandrie">Alessandria</placeName> d'<placeName ref="#Egypte">Egitto</placeName>, Lisbona di Portogallo, et gia haveva
                      <placeName ref="#Rome">Roma</placeName> rispetto al porto d'Ostia et del Tevere: delle quali si può molto commodamente
                   trasportare in uarii et diversi luoghi uettovaglie et ogni sorte di mercantie; et similmente da diverse et lontane regioni si
                   possono condurre a simil città. </p>
-               <p> Dalla uaghezza et amenità, oltre alle buone qualità suddette, e porto a gli huomini molto piacere, et contento. debbesi dunque
+               <p xml:id="CAT_PQL_L1_L1C3_P6"> Dalla uaghezza et amenità, oltre alle buone qualità suddette, e porto a gli huomini molto piacere, et contento. debbesi dunque
                   sciegliere nell'edificationi delle città quel sito, che sia piu uago, havendo l'atre parti sue buone; et che, doppo al porto di
                   mare, et fiume navigabile, di che, oltre all'utilita, si riceve molto contento, et uaghezza, per la diversità delle genti,
                   de'navigii, et delle mercantie, che nuovamente si ueggono apparire ad ogn'hora in quella; habbia il saluatico col dimestico, e'l
@@ -448,12 +434,11 @@
                <pb n="6bis"/>
                <head> Che in qualunque regno o dominio si debbe edificar la principal città in mezzo a quello per risedenza del Prencipe: et le
                   cagioni perché il Turco risegga in Gostantinopoli, estremità di suo imperio. Cap. IIII. </head>
-               <p>Se la commodità del mare, fiume, carro, o qual si uoglia altra buona qualità non lo uieta, in qualunque si uogli dominio, o regno, è
+               <p xml:id="CAT_PQL_L1_L1C4_P1">Se la commodità del mare, fiume, carro, o qual si uoglia altra buona qualità non lo uieta, in qualunque si uogli dominio, o regno, è
                   da edificare la principale città in mezzo a quello, per la commodità de i circunferenti habitatori, et del Prencipe stesso, peroche
                   havendoli a moderare, si accommoda risedere in mezzo a loro, et se altrimenti si uede nel regno Turchesco per risedere il Turco in
                   Gostantinopoli, estremità di suo imperio, è successo per piu cagioni, et non senza grande consideratione. peroche, sempre che il
-                  Prencipe acquista nuova prouincia, massime sotto diversa fede, et di così grande importanza, come questa di <placeName ref="#Grece"
-                     >Grecia</placeName>, gli bisogna, mandandoui colonie, o guarnigioni di soldati, tenerui alle uolte maggiore spesa per uia di sua
+                  Prencipe acquista nuova prouincia, massime sotto diversa fede, et di così grande importanza, come questa di <placeName ref="#Grece">Grecia</placeName>, gli bisogna, mandandoui colonie, o guarnigioni di soldati, tenerui alle uolte maggiore spesa per uia di sua
                   entrata, ma, per essere questa strada mal sicura, meglio è andarui egli et suo successore ad habitare sino a tanto, che l'età di
                   quelli habitatori, al tempo de i quali tal prouincia fu acquistata, sia mancata: conciosia che, ritrovandosi presente la persona del
                   Prencipe, puo riparare a de'subiti inconuenienti: a'quali, essendo lontano, alle uolte provedere non puote. et ne avuerrebbe
@@ -462,35 +447,29 @@
                   fortezza del sito di Gostantinopoli, degno di signoreggiare i conuicini contorni, et paesi, non ue lo ritenesse; atteso massime, la
                   diuturnita del governo succedere, et prosperare lungamente nella medesima stirpe d'Imperatori Ottomani; i quali inuitati dalla
                   grandezza di questo sito, et dalle discordie Cristiane, cercano insignorirsi del tutto. Auvenga che i Romani stimassero oltre a
-                     <placeName ref="#Rome">Roma</placeName> essere tre città atte allo imperio, Cartagine, <placeName ref="#Corinthe"
-                     >Corinto</placeName>, et Capua: delle quali due ne distrussero in tutto, et l'altra lassorono poco meno che distrutta, temendo,
-                  che per la bontà de i loro siti non ritornassero un giorno in tanta grandezza, che divenissero eguali a <placeName ref="#Rome"
-                     >Roma</placeName>. noi nondimeno giudichiamo, che et a quelle et a <placeName ref="#Rome">Roma</placeName> insieme sia
-                  d'anteporre questo sito di Gostantinopoli. del quale Filippo. padre del grande <persName ref="#AlexandreLeGrand"
-                     >Alessandro</persName>, considerate le molte sue buone parti, se ne innamorò grandemente; et ui andò a campo per insignorirsene,
+                     <placeName ref="#Rome">Roma</placeName> essere tre città atte allo imperio, Cartagine, <placeName ref="#Corinthe">Corinto</placeName>, et Capua: delle quali due ne distrussero in tutto, et l'altra lassorono poco meno che distrutta, temendo,
+                  che per la bontà de i loro siti non ritornassero un giorno in tanta grandezza, che divenissero eguali a <placeName ref="#Rome">Roma</placeName>. noi nondimeno giudichiamo, che et a quelle et a <placeName ref="#Rome">Roma</placeName> insieme sia
+                  d'anteporre questo sito di Gostantinopoli. del quale Filippo. padre del grande <persName ref="#AlexandreLeGrand">Alessandro</persName>, considerate le molte sue buone parti, se ne innamorò grandemente; et ui andò a campo per insignorirsene,
                   con grandissimo esercito: ma non gli successe: peroche ualorosissimamente si difese. E situato Gostantinopoli in Europa, nella
                   entrata del Ponto et mare Eusino, chiamato il mare grande, celebrato da diversi scrittori Greci et Latini: et e posto nella
                   prouincia di Tracia, grande, fertilissima, et molto potente: et per le sue ottime qualità si può anteporre a qual si uoglia altro
                   sito. peroche, oltre che si chiude con circa dugento miglia di stretto canale, con quattro castelli, due da capo et due da piedi,
                   egli puo scorrere in diverse parti et per mare et per terra facilissimamente. dove dall'oracolo, et meritamente, furono i
                   Calcedonesi stimati ciechi, havendo lassato così bel luogo, come questo di Bizantio, e tolto il loro men buono. Fugli mutato il nome
-                  di Bizantio a Gostantinopoli, per andarui ad habitare Gostantino, et da questo trasferire l'imperio da <placeName ref="#Rome"
-                     >Roma</placeName> a Gostantinopoli, commincio la bassezza et ruina d'<placeName ref="#Italie">Italia</placeName>. et sono passati
+                  di Bizantio a Gostantinopoli, per andarui ad habitare Gostantino, et da questo trasferire l'imperio da <placeName ref="#Rome">Roma</placeName> a Gostantinopoli, commincio la bassezza et ruina d'<placeName ref="#Italie">Italia</placeName>. et sono passati
                   cento otto anni, che uenne per forza d'armi nelle mani di Maumetto, Re de i Turchi, bisavolo di questo Solimano, che uive hoggi: che
                   a <persName ref="#Dieu">Dio</persName> piaccia per la sua divina bontà mettere pace tra i Prencipi Cristiani, accioché a i tempi
                   nostri lo ueggiamo liberare dalla cattivita in che si trova. </p>
             </div2>
             <div2 type="chapitre" n="5" xml:id="L1C5">
                <pb n="7"/>
-               <head>Come nel principio della edificatione della città. et qual si uoglia altro edificio publico, sia necessario ricorrere a <persName
-                     ref="#Dieu">Dio</persName>. Cap. V. </head>
-               <p>Et perché tutte le cose, che hanno principio, debbono haver fine, parlando di quelle, che sotto il cielo della Luna si contengono;
+               <head>Come nel principio della edificatione della città. et qual si uoglia altro edificio publico, sia necessario ricorrere a <persName ref="#Dieu">Dio</persName>. Cap. V. </head>
+               <p xml:id="CAT_PQL_L1_L1C5_P1">Et perché tutte le cose, che hanno principio, debbono haver fine, parlando di quelle, che sotto il cielo della Luna si contengono;
                   conuiensi per tanto, eletto che sera il sito per edificare nuova città, nel disegnare, e terminare la sua pianta, et nel principio
                   de'suoi fondamenti, et così ne'luoghi pii et altri publici edifici, cercare, che, havendo tali edifici a mancare, resti anco doppo
                   essi la memoria de i primi edificatori. Osseruorono gli antichi, lontani dalla uera religione, nelle edificationi delle città,
                   chiamar prima supplichevolmente, <persName ref="#Jupiter">Giove</persName>, <persName ref="#Apollon">Apollo</persName>, e Libero;
-                     <persName ref="#Jupiter">Giove</persName>, che dovesse difendere la fortezza della città; <persName ref="#Apollon"
-                     >Apollo</persName> per gli augurii; Libero, acciò con la potenza sua la conseruasse libera. et a Nettunno consacravano i
+                     <persName ref="#Jupiter">Giove</persName>, che dovesse difendere la fortezza della città; <persName ref="#Apollon">Apollo</persName> per gli augurii; Libero, acciò con la potenza sua la conseruasse libera. et a Nettunno consacravano i
                   fondamenti, pensando che esso sbattesse la terra co i terremoti, ma essendo noi Cristiani introdotti nella uera et perfetta fede, et
                   religione; et conoscendo, che da Giesu <persName ref="#Jesus">Cristo</persName>, redentor del mondo, tutte le gratie et beni ci sono
                   concessi; devesi per tanto il tutto alla Maestà sua in principio di ogni opera dedicare, facendo con le debite orationi una
@@ -508,7 +487,7 @@
             <div2 type="chapitre" n="6" xml:id="L1C6">
                <head> Di quanta importanza sia nel terminar la pianta di nuova città, i buon compartimenti delle piazze, strade, tempu, palazzi, et di
                   ogni altro spatio, o edificio publico. Cap. VI. </head>
-               <p>Quantunque gli antichi edificii riempino di meraviglia qualunque gli uede, non sera inutile dubitar delle parti loro co i bassi miei
+               <p xml:id="CAT_PQL_L1_L1C6_P1">Quantunque gli antichi edificii riempino di meraviglia qualunque gli uede, non sera inutile dubitar delle parti loro co i bassi miei
                   argomenti; accioché in parte riluca piu la uirtù de gli antichi Architetti. Primieramente gli antichi nell'edificare città o
                   castella usorono la figura circulare. così anco mostra Vetruvio che si debbi fare. ma essendo l'angulare piu atta a difendersi coi
                   fianculi et angulari baluardi dalla moderna artiglieria, per esser tale offesa nuova; non si scema in tal caso l'antica uirtù loro
@@ -522,19 +501,14 @@
                   non solo in tali distributioni, ma che ancora la maggior parte delle città sono state edificate a caso, conoscendosi che in molte
                   uarie, et diverse regioni, e paesi sono stati lassati i miglior siti, et presi i meno buoni nell'edificationi loro. et se bene
                   alcune di quelle, come <placeName ref="#Rome">Roma</placeName>. Cartagine, <placeName ref="#Athenes">Atene</placeName>, Capova,
-                     <placeName ref="#Naples">Napoli</placeName>, <placeName ref="#Corinthe">Corinto</placeName>, Gostantinopoli, <placeName
-                     ref="#Venise">Venetia</placeName>, et altre sono state edificate in buono et perfetto sito; non si uede, per quel che si habbia
+                     <placeName ref="#Naples">Napoli</placeName>, <placeName ref="#Corinthe">Corinto</placeName>, Gostantinopoli, <placeName ref="#Venise">Venetia</placeName>, et altre sono state edificate in buono et perfetto sito; non si uede, per quel che si habbia
                   notitia, che di quelle le strade, le piazze, come ancora i tempi, palazzi, et altri loro membri o edificii publici o privati sieno
-                  stati con buoni compartimenti e proportioni distribuiti. Potrebbe ben'essere, che <placeName ref="#Alexandrie"
-                     >Alessandria</placeName> di <placeName ref="#Egypte">Egitto</placeName>, oltre all'essere in perfettissimo sito, essendo stata
-                  edificata tutta in un tratto dalla pianta dal grande <persName ref="#AlexandreLeGrand">Alessandro</persName> per ordine di <persName
-                     ref="#Dinocrate">Dinocrate</persName>, eccellente Architetto, che all'ottime qualità di tal sito correspondessero le buone
+                  stati con buoni compartimenti e proportioni distribuiti. Potrebbe ben'essere, che <placeName ref="#Alexandrie">Alessandria</placeName> di <placeName ref="#Egypte">Egitto</placeName>, oltre all'essere in perfettissimo sito, essendo stata
+                  edificata tutta in un tratto dalla pianta dal grande <persName ref="#AlexandreLeGrand">Alessandro</persName> per ordine di <persName ref="#Dinocrate">Dinocrate</persName>, eccellente Architetto, che all'ottime qualità di tal sito correspondessero le buone
                   distributioni delle strade, piazze, et ogni altro suo spatio dentro; et similmente i tempi, i palazzi, et ogni altro publico et
-                  privato suo edificio fussero con buone proportioni guidati. ma perché di questa città, ne di altre antiche, da <placeName
-                     ref="#Rome">Roma</placeName> in poi, non si ha de'lor membri notitia, non si puo dar di quelli alcun ragguaglio. ma parlando di
+                  privato suo edificio fussero con buone proportioni guidati. ma perché di questa città, ne di altre antiche, da <placeName ref="#Rome">Roma</placeName> in poi, non si ha de'lor membri notitia, non si puo dar di quelli alcun ragguaglio. ma parlando di
                      <placeName ref="#Rome">Roma</placeName>, di che si ha piu di ogni altra notitia, la quale ancor che sia stata imperatrice del
-                  mondo, et che da Romolo nel suo principio fusse di quella fatta la minor parte, havendo sol preso in tal edificatione il <placeName
-                     ref="#Capitole">Campidoglio</placeName>, et il monte Palatino, dove esso fu nutrito, si potevano nondimeno per mio avuiso nel
+                  mondo, et che da Romolo nel suo principio fusse di quella fatta la minor parte, havendo sol preso in tal edificatione il <placeName ref="#Capitole">Campidoglio</placeName>, et il monte Palatino, dove esso fu nutrito, si potevano nondimeno per mio avuiso nel
                   crescerla dipoi molti membri et edificii publici distribuir molto meglio di quel, che si uede esser stato fatto. peroche, oltre alla
                   tortuosità et mal distributione di quelle, et delle piazze, gran parte delli edificii, che furono edificati lontani dal foro Romano,
                   o piazza principale, over centro della città, dovevano esser posti intorno a tal piazza, o uicini a quella, et massime i piu
@@ -574,8 +548,7 @@
                   Circa la commodità, non si debbe negare che i carri et le bestie da soma con gli habitatori insieme anderanno piu commodi per le
                   larghe, che per le strette strade. Quanto alla uaghezza, chiara cosa è, che per abbondar nelle larghe maggior lume, et per essere
                   ancora l'una banda da l'altra sua opposita manco occupata, si potrà molto meglio nelle larghe considerare la uaghezza de'tempii et
-                  palazzi. per il che se ne ricevera maggior contento; et dalla larghezza ne diverrà piu ornata la città. onde <persName ref="#Homere"
-                     >Homero</persName>, uolendo dar piu honorato nome a Micena et a <placeName ref="#Troie">Troia</placeName>, le chiama spesso città
+                  palazzi. per il che se ne ricevera maggior contento; et dalla larghezza ne diverrà piu ornata la città. onde <persName ref="#Homere">Homero</persName>, uolendo dar piu honorato nome a Micena et a <placeName ref="#Troie">Troia</placeName>, le chiama spesso città
                   di larghe strade. Ma essendo la città in luogo caldo, se le sue strade seranno strette et i casamenti, contempereranno assai la
                   calidità del sito, et ne seguiterà piu sanità. Cornelio Tacito dice, che, allargando <persName ref="#Neron">Nerone</persName> le
                   strade di <placeName ref="#Rome">Roma</placeName>, la fece piu calda, et men sana. noi giudichiamo nondimeno, che nella città di
@@ -621,8 +594,7 @@
                   legnami, et d'altre cose simili, sieno o nella principale piazza, o a canto a quella: et così la munition della poluere: la quale,
                   per fuggire ogni pericolo, sia da ogni altra stanza appartata et maneggiata da particolare et accorta persona. Le chiese
                   parrochiali, et i tempii conuentuali, monisteri delle monache, le fraternita, et altre chiese et luoghi pii sieno con buone ragioni
-                  per la città distribuiti. Hanno usato molte città per i tempi passati far fuori delle lor mura diversi conuenti di frati, <pb n="9"
-                  /> et monistieri di monache. il che à'tempi d'hoggi non si debbe in alcun modo usare, ne acconsentire. peroche, se quelli seranno
+                  per la città distribuiti. Hanno usato molte città per i tempi passati far fuori delle lor mura diversi conuenti di frati, <pb n="9"/> et monistieri di monache. il che à'tempi d'hoggi non si debbe in alcun modo usare, ne acconsentire. peroche, se quelli seranno
                   uicini alle mura, seranno sol commodo de gli eserciti nimici: quando, per mio avuiso, tre miglia, o almen due fuori delle mura si
                   debbe la campagna senza case et arbori tener netta. onde se tali conuenti et monisteri uerranno tre miglia fuori della città,
                   seranno troppo in disagio a quella, et ne diverranno di raro dal suo popolo uisitati. per il che si potranno giudicare inutili et di
@@ -640,8 +612,7 @@
                   ma alla città nostra di <placeName ref="#Sienne">Siena</placeName> non fanno di bisogno tai granari: che, per essere quella in
                   collina, si conserua il grano dentro alle sue fosse quindici o uenti anni. Potrassi, oltre a i detti luoghi et edificii, fare il
                   luogo del ludo navale, a guisa di un laghetto, con stanze et portichi intorno, in forma di theatro, et così per uari combattimenti,
-                  giostre, et diversi givochi si potranno far alcuni altri edificii simili di forma ovata, che fu in <placeName ref="#Rome"
-                     >Roma</placeName> il circo massimo, o di altra, secondo che piu si conuenisse, si potra fare il luogo da natare. et se ben non
+                  giostre, et diversi givochi si potranno far alcuni altri edificii simili di forma ovata, che fu in <placeName ref="#Rome">Roma</placeName> il circo massimo, o di altra, secondo che piu si conuenisse, si potra fare il luogo da natare. et se ben non
                   seranno uicini alla piazza principale, non serà biasimevole; pur che sieno congiunti con spatiose piazze. I macellari, et così la
                   pescaria o luogo, dove si uende il pesce, non sieno lontane dalla principale piazza, ma in altre piazze uicine a quella fuori delle
                   strade principali. Hebber i Romani la libraria publica, la qual hoggi, per causa della stampa, non è così necessaria. Hebbero ancora
@@ -656,8 +627,7 @@
                   Settimio, detta molto innanzi da gli antichi Miliario aureo: dalla quale si pigliava et sapeva la misura dello spatio, che era da
                   quella a ciascuna porta di <placeName ref="#Rome">Roma</placeName> et ogni altro uiaggio. il che a me piacerebbe d'imitare. Il pane,
                   gli herbaggi, le legna, et ogni altra cosa necessaria al commodo et uso humano si uenderanno per diverse piazze della città, secondo
-                  che piu ne porgerà la commodità. delle quai piazze, come ancor de i tempi, palazzi, portici, et altri edificii publici, non <pb
-                     n="9bis"/> si può in tutto terminatamente narrare: perché secondo la grandezza del recinto delle mura della città, bisogna che in
+                  che piu ne porgerà la commodità. delle quai piazze, come ancor de i tempi, palazzi, portici, et altri edificii publici, non <pb n="9bis"/> si può in tutto terminatamente narrare: perché secondo la grandezza del recinto delle mura della città, bisogna che in
                   quantità et in magnificenza corrispondino gli spatii, et edificii suoi. Giovera assai, se da quelle bande, che riguarderanno alla
                   non sana regione del cielo, si piantera in tali spatii lassati tra le mura et le case della città una lama, o seluetta di alberi,
                   Oppii, Abeti, Faggi, d'altra sorte d'arbori, atti a crescere o andare in alto, secondo che dal terreno si conoscera dover essere piu
@@ -691,7 +661,7 @@
                <pb n="10"/>
                <head> Della città posta nel piano, et se il fiume le porgerà o torrà di sanità: et dove a quello bisognerà dare o torre rivolture, et
                   come la coverta delle sue mura sia piu laudabile di mattoni. Cap. VII. </head>
-               <p>Parlando hora piu particolarmente delle parti, che si deveno ricercare ne i siti delle città, mi pare assai a proposito appropriare
+               <p xml:id="CAT_PQL_L1_L1C7_P1">Parlando hora piu particolarmente delle parti, che si deveno ricercare ne i siti delle città, mi pare assai a proposito appropriare
                   a ciascun sito le parti sue, dimostrando quel che ricerca la città di piano, quel che si appartenga a quella di monte, et quanto si
                   conuenga alla città di mare, o per il Prencipe, o per la republica, che ad edificare s'havesse. Et parlando prima della città di
                   piano, et infra terra posta, giudichiamo, che si troui il sito forte, sano, fertile, et di ogni commodità atta al uitto et uso
@@ -751,7 +721,7 @@
                <head>Della città quadrata, posta nel piano, sottoposta a batterie, con le misure della sua pianta, et da quella tiratone il suo alzato
                   per ordine di Prospettiva; et di che misure si conuenghino fare i piu piccoli baluardi, con le misure ancora de i Reali et maggiori
                   baluardi. Cap. VIII. </head>
-               <p>Desiderando hor noi, per quanto le poche forze nostre si distendano, mostrare per diverse piante co i loro alzati per ordine di
+               <p xml:id="CAT_PQL_L1_L1C8_P1">Desiderando hor noi, per quanto le poche forze nostre si distendano, mostrare per diverse piante co i loro alzati per ordine di
                   Prospettiva, ancor che piccoli sieno, uarie et diverse forme di citta e cittadelle, et in maggior parte i particulari membri loro,
                   comminciaremo prima dalla figura quadrata perfetta: la quale, per mostrarsi in piano, si comprende sottoposta d'ogn'in torno a
                   battarie. ma innanzi che piu oltre si proceda, è da discorrere, che maggiore et minor grandezza, et di piu et men fianco si
@@ -810,7 +780,7 @@
             <div2 type="chapitre" n="9" xml:id="L1C9">
                <head> Della città pentagonale equilatera, posta nel piano, sottoposta a batterie, con le misure della sua pianta, et da quella
                   tiratone l'alzato per ordine di Prospettiva. Cap. IX. </head>
-               <p>Mostraremo appresso la forma della città pentagonale equilatera, posta nel piano, con tre porte o entrate. Le misure della sua
+               <p xml:id="CAT_PQL_L1_L1C9_P1">Mostraremo appresso la forma della città pentagonale equilatera, posta nel piano, con tre porte o entrate. Le misure della sua
                   pianta seranno queste, che ciascun lato del pentagono serà canne ottanta. Dalla estremità de gli anguli del pentagono, segnati di
                   lettera, o, a i fianchi, segnati di crocetta, sono canne sedici. i fianchi son canne quindici: delle quali se ne lasserà canne otto
                   alle spalle; et canne otto per tal uerso si daranno alla piazza da basso a due cannoniere, che uerrà a pigliar una canna dentro alla
@@ -823,22 +793,20 @@
                   spatio fra le case et le mura, s'è lassato canne quindici et mezzo, che sono braccia sessantadue: delle quali braccia dodici se ne
                   lassa alla strada, che gira intorno tra'l terrapieno et le case, et braccia cinquanta ne rimangono il terrapieno: delle quali
                   braccia uinti o uinticinque ne salgano dolce dolce, et l'altra metà restano per il piano del terrapieno: nel quale si potrà fare al
-                  mezzo di ogni cortina il suo cavalliere, per giudicar et offender meglio la campagna, et difficultar in parte al nemico <pb
-                     n="12bis"/> in tempo di guerra il poter far simili cavallieri. La piazza principale in mezzo la città s'è lassata per un uerso
+                  mezzo di ogni cortina il suo cavalliere, per giudicar et offender meglio la campagna, et difficultar in parte al nemico <pb n="12bis"/> in tempo di guerra il poter far simili cavallieri. La piazza principale in mezzo la città s'è lassata per un uerso
                   canne uintidue e mezzo, et per l'altro canne quindici, le misure delle altre quattro piazze delle strade, et de gli spatii ombrati
                   per gli edificii si troveranno col compasso, proportionandole alle già dette. et a tutte le misure, che si sono dette, ci s'aggiugne
                   di piu lo sporto della scarpa. peroche, essendosi fatta alta la scarpa canne cinque, et perdendo a ogni quattro braccia un braccio,
                   sporta, oltre a quel che s'è detto, tal muraglia braccia cinque. <figure type="schema"/>
                   <pb n="13"/> Il disegno, che segue, rappresenta l'alzato della pianta passata, tirato da quella per ordine di Prospettiva. l'altezza
                   delle sue mura è braccia uintidue e mezzo: che uiene a rimaner sopra la scarpa il resto della muraglia col cordone braccia due e
-                  mezzo, il fosso è cupo canne due e mezzo. il resto di ciascun membro si troverà, proportionandolo con gli altri già detti. <figure
-                     type="schema"/>
+                  mezzo, il fosso è cupo canne due e mezzo. il resto di ciascun membro si troverà, proportionandolo con gli altri già detti. <figure type="schema"/>
                </p>
             </div2>
             <div2 type="chapitre" n="10" xml:id="L1C10">
                <head> Della città esagonale equilatera posta nel piano, co i baluardi a mezzo le cortine oltre a quei degli anguli, con le sue misure,
                   et dalla sua pianta n'è tirato l'alzato per ordine di Prospettiva. Cap. X. </head>
-               <p>Et se nel piano piu sottoposto a batterie si uorrà fare la città di forma esagonale equilatera, et che intra suoi anguli si lassasse
+               <p xml:id="CAT_PQL_L1_L1C10_P1">Et se nel piano piu sottoposto a batterie si uorrà fare la città di forma esagonale equilatera, et che intra suoi anguli si lassasse
                   tal distanza, che, uolendo difendere il suo recinto, bisognasse fare nel mezzo delle cortine altri baluardi, quando per mio avuiso,
                   come nell'ottavo capitolo di questo si è detto, non sono da usare le piatte forme; hor come si uede in questa di quattro entrate,
                   che da angulo et angulo dello esagono corre di distanza braccia secentocinquanta, che a braccia quattro per canna sono canne
@@ -850,8 +818,7 @@
                   il parapetto della seconda piazza: che in tutto fanno canne dieci e mezzo: che sino a dicisette e mezzo ui corre canne sette e
                   mezzo. e tanto resterà di spatio alla piazza di sopra sino allo angulo dello esagono. et se i baluardi di mezzo si uorranno fare di
                   maggiori, et piu acute fronti, si piglierà la saetta a mezzo la cortina, che è tra i detti et quelli delle fronti. de i quali in
-                  questa se ne sono fatti tre, come per lettera, o, si dimostra. et altri tre, che la loro saetta delle fronti uiene da i fianchi <pb
-                     n="13bis"/> de baluardi de gli anguli. et se ben parasse, che tai baluardi di maggior fronte potessero esser urtati dalle botte,
+                  questa se ne sono fatti tre, come per lettera, o, si dimostra. et altri tre, che la loro saetta delle fronti uiene da i fianchi <pb n="13bis"/> de baluardi de gli anguli. et se ben parasse, che tai baluardi di maggior fronte potessero esser urtati dalle botte,
                   che uscissero da i fianchi di quelli de gli anguli; io nondimeno tengo, che tal fronte sia piu utile. perché se a tai tre baluardi
                   di maggior fronte segnati di lettera, o, fusse dalla batteria nimica levata parte della lor fronte; serà nondimeno tal rottura
                   scoperta et difesa molto meglio da i fianchi di quelli de gli anguli, che non sarebbono gli altri di minor fronte. Lo spatio tra le
@@ -869,7 +836,7 @@
             </div2>
             <div2 type="chapitre" n="11" xml:id="L1C11">
                <head> Pianta di città eptagona, posta nel piano, con baluardi differenti da quelli, che si sono mostri sino a hora. Cap. XI. </head>
-               <p>Et se la forma del recinto delle mura della città o castello fusse tale, che i fianchi de'suoi baluardi, o parte di quelli, si
+               <p xml:id="CAT_PQL_L1_L1C11_P1">Et se la forma del recinto delle mura della città o castello fusse tale, che i fianchi de'suoi baluardi, o parte di quelli, si
                   dimostrassero troppo al nemico, et si potessero per tal causa rimboccar dalla campagna le cannoniere de i parapetti delle loro
                   piazze da basso; si potra in tal caso usare i baluardi in forma di cuore: che così gli diciamo; ancor che da i capitani sino a hoggi
                   sieno stati detti, a coglione, et si potranno anco fare angulati, entrando co i parapetti delle prime piazze da basso tanto dentro
@@ -894,7 +861,7 @@
                <head>Modi diversi da fortificare, e tener i siti, quando si sospetti di guerra: et come tra gli eserciti nimici si costumino i forti o
                   castrametarioni: et che i medesimi ordini si osseruano nell'accamparsi alle città: col modo di fortificar quei luoghi, che per
                   mancamento di terreno non si potessero terrapianare. Cap. XII.</head>
-               <p> Può occorrere tal uolta, che il Prencipe o la republica non potrà circundar di muraglia il disegnato sito della città o castello,
+               <p xml:id="CAT_PQL_L1_L1C12_P1"> Può occorrere tal uolta, che il Prencipe o la republica non potrà circundar di muraglia il disegnato sito della città o castello,
                   se prima non lo sicura dall'offese sospette di uno o piu potentati uicini, guadagnandosi, occupandosi similmente uno o piu siti
                   forti de'nimici, per doverli tenere, et farne dipoi città o castello, et sospettando che da quelli non gli sia dato tempo da poterli
                   circondar di mura. faccisi in tal caso intorno a tal sito il suo forte terrapianato con ragionevoli fossi, cortine, et baluardi: a i
@@ -928,10 +895,9 @@
                <pb n="15bis"/>
                <head>Delle città di collina in genere, et quel che si ricerchi al loro sito; et come le regioni montuose non si deveno lassare
                   inhabitate. Cap. XIII. </head>
-               <p>Havendo l'Architettor del tutto creato il mondo di così belle et uariate maniere, et mostroci che lo deviamo rimbellire; non si
+               <p xml:id="CAT_PQL_L1_L1C13_P1">Havendo l'Architettor del tutto creato il mondo di così belle et uariate maniere, et mostroci che lo deviamo rimbellire; non si
                   conuengono per tanto le regioni montuose lassare inhabitate, ma di quelle scieglierne i migliori siti, et fabricarui città o
-                  castella di tal recinto, che la qualita et grandezza del suo dominio ricercasse. E da sapere, secondo <persName ref="#Strabon"
-                     >Strabone</persName> nel decimoterzo, tolto da <persName ref="#Platon">Platone</persName>, gli huomini doppo il diluvio per
+                  castella di tal recinto, che la qualita et grandezza del suo dominio ricercasse. E da sapere, secondo <persName ref="#Strabon">Strabone</persName> nel decimoterzo, tolto da <persName ref="#Platon">Platone</persName>, gli huomini doppo il diluvio per
                   timore dell'acque haver tenuto tre sorte di uita; la prima, per sicurarsi da nuove mondationi, essere stata nella sommita'de'monti;
                   la seconda alle radici di quelli, quando i campi comminciavano a rasciugarsi; la terza nelle pianure; et doppo per larghezza di
                   tempo, deposto il timore, haver havuto ardire di habitare appresso il mare, et nell'isole. onde e da considerare, che secondo la
@@ -968,7 +934,7 @@
             <div2 type="chapitre" n="14" xml:id="L1C14">
                <head>Della città nel monte o colle posta, in particolare, con le misure della sua pianta, et da quella tiratone il suo alzato per
                   ordine da Prospettiva. Cap. XIIII.</head>
-               <p> Corre non solo gran differenza tra i siti di monte et quelli del piano, ma ancora intra loro stessi. quei di monte sono di molto
+               <p xml:id="CAT_PQL_L1_L1C14_P1"> Corre non solo gran differenza tra i siti di monte et quelli del piano, ma ancora intra loro stessi. quei di monte sono di molto
                   piu differenti qualità, che quelli del piano: et secondo la diversita di essi et di lor forme si conuiene ancor diversamente
                   procedere nelle circuitioni delle mura delle città, o castella: quando in quelli del piano, per havere spatioso campo, si puo quasi
                   sempre far la forma del recinto della città o castello di eguali anguli et lati: et difendendosi ancora egualmente, ne diviene
@@ -1020,7 +986,7 @@
             </div2>
             <div2 type="chapitre" n="15" xml:id="L1C15">
                <head> Come non si può molte uolte ne i monti o colli, per la loro strana figura, far baluardi, ne intra quelli cortine. Cap. XV. </head>
-               <p>Trovansi, oltre a quel, che si è detto, ancor tal uolta questi colli et luoghi montuosi di così strana figura, che, uolendo
+               <p xml:id="CAT_PQL_L1_L1C15_P1">Trovansi, oltre a quel, che si è detto, ancor tal uolta questi colli et luoghi montuosi di così strana figura, che, uolendo
                   abbracciarli con bastioni, o muraglia, di maniera che non resti fuor di essi spatio ne da potergli battere, ne da uenirui a
                   combattere, non si può in detti colli fare baluardi, ne intra quelli cortine; ma è necessario procedere quasi secondo che nel
                   disegno della presente pianta, che segue, si dimostra: del quale non ne addurrò misura alcuna, per non mi potere astrignere a
@@ -1036,7 +1002,7 @@
                <head>Ordine del fabricar le cittadelle, e come a i baluardi di quelle, o d'altre fortezze piccole, dove non si possino far ritirate,
                   non si conuenga far minor fianco, che a i baluardi delle città grandi. e che non in ogni luogo, ne ad ogni Prencipe conuenga far
                   cittadelle. Cap. XVI. </head>
-               <p>Dovendosi hor discorrere sopra l'ordine del fabricar le cittadelle. è da sapere, che quelle uogliono partecipar dentro e fuore della
+               <p xml:id="CAT_PQL_L1_L1C16_P1">Dovendosi hor discorrere sopra l'ordine del fabricar le cittadelle. è da sapere, che quelle uogliono partecipar dentro e fuore della
                   città, et con quella non solo deveno essere collegate, ma anco nella piu forte et alta parte della città conuengono esser edificate:
                   le quali si mostrino robuste, superbe, minacciose, et sieno di conueniente recinto, et habbino piu entrate o uscite commode, et in
                   modo coperte, che non possino esser uiste o giudicate dalla banda di fuore; acciò che mal grado de'nimici si possa mettere e trar
@@ -1047,8 +1013,7 @@
                   baluardi. ma nelle città grandi, per doversi lassar tra il terrapieno et le lor case dentro spatio da poter far ritirate, si puo con
                   quelle sicurarsi da'nemici; ancor che dalle loro batterie fusse ruinata co i baluardi tutta o parte della prima circuitione delle
                   lor mura co i baluardi insieme. onde, per quel che si è detto, alle fortezze et luoghi piccoli è da usar baluardi grandi et di
-                  bonissimo fianco, e tanto piu alle cittadelle, peroche nel perdersi quelle se ne perde tal uolta la città: e ne causa <pb n="18bis"
-                  /> maggior danno, che si perdessero molte altre castella insieme. Et essendo la citadella in piano, si potranno empire i suoi fossi
+                  bonissimo fianco, e tanto piu alle cittadelle, peroche nel perdersi quelle se ne perde tal uolta la città: e ne causa <pb n="18bis"/> maggior danno, che si perdessero molte altre castella insieme. Et essendo la citadella in piano, si potranno empire i suoi fossi
                   di acqua, come si fusse fatto in quelli della sua città. ma essendo nel monte, serà difficile poter mettere l'acqua ne'suoi fossi.
                   Auvertendo sempre così nella cittadella, come nella sua città, di uoltare le fronti de i baluardi a quelle parti, che piu
                   dall'artiglieria possono essere offesi. Sieno ancora dentro a tali cittadelle per uia di pozzi o cisterne abbondanza di acqua. le
@@ -1076,10 +1041,8 @@
                   et avuertire di stirpare ogni seditione, che in quelle si potessero nutrire. onde ne peruiene dipoi l'amor grandissimo de'popoli
                   uerso la persona del Prencipe. et questi sono i mezzi di aggrandire il regno o l'imperio suo, e se ne schifa tal uolta dubbie e
                   pericolosissime guerre. perché è molto difficile et pericoloso assaltar un regno o una prouincia, che i suoi popoli portino
-                  universalmente benivolenza al Prencipe o alla republica. Tito Quintio Flamminino, havendo in poco tempo ridotta la <placeName
-                     ref="#Grece">Grecia</placeName> in confederatione et amicitia de'Romani, per haverla messa in libertà, il che non poterno fare
-                  altri capitani in molti anni, schifò una molto piu dubbiosa et pericolosa guerra di quel che fu. peroche la <placeName ref="#Grece"
-                     >Grecia</placeName> nel passare di Antioco non sarebbe stata in favor de'Romani. onde havendo Antioco corrotto gli Etoli, popoli
+                  universalmente benivolenza al Prencipe o alla republica. Tito Quintio Flamminino, havendo in poco tempo ridotta la <placeName ref="#Grece">Grecia</placeName> in confederatione et amicitia de'Romani, per haverla messa in libertà, il che non poterno fare
+                  altri capitani in molti anni, schifò una molto piu dubbiosa et pericolosa guerra di quel che fu. peroche la <placeName ref="#Grece">Grecia</placeName> nel passare di Antioco non sarebbe stata in favor de'Romani. onde havendo Antioco corrotto gli Etoli, popoli
                   Greci, et con quelli confederatosi, cercando con ogni sollecitudine di corrompere il resto, persuadeva le città a ribellarsi. I
                   Romani ui mandorono per capitano Manilio consolo, et Tito, per esser molto amato da'Greci, ui mandorono legato. ilquale per la molta
                   sua benignità et piacevolezza ritenne et confermò nella fede <pb n="19"/> de'Romani i popoli dubbiosi et mezzo inchinati alla
@@ -1091,8 +1054,7 @@
                   fortezze, ma le hanno ruinate et disfatte, parendo loro questa ottima strada per mantenersi nel loro stato. Guid'Vbaldo, Duca
                   d'Vrbino, tornando nel suo stato, del quale da <persName ref="#JulesCesar">Cesare</persName> Borgia era stato cacciato, uolendo
                   mostrare a i popoli che con benivolenza et non per forza gli uoleva tenere, ruino da i fondamenti tutte le fortezze, giudicando
-                  senza quelle dover tener lo stato molto piu sicuro. furono da i Bentivogli, ritornando in <placeName ref="#Bologne"
-                     >Bologna</placeName>, usati i medesimi termini. il Signor Nicolo Vitelli similmente, non è molti anni, che in Città di castello
+                  senza quelle dover tener lo stato molto piu sicuro. furono da i Bentivogli, ritornando in <placeName ref="#Bologne">Bologna</placeName>, usati i medesimi termini. il Signor Nicolo Vitelli similmente, non è molti anni, che in Città di castello
                   ruino due fortezze, pensando per tal mezzo tener quello stato con men sospetto. È successo ancor tal uolta, che le fortezze sono
                   diventate armi nimiche a quelli stessi, che l'hanno fabricate, et a loro successori; come si è uisto di Piagenza; che doppo la morte
                   del Signor Pierluigi Farnese ha fatto quella cittadella da lui principiata piu guerra a casa Farnese, che ad altri. Il castel di
@@ -1113,7 +1075,7 @@
             <div2 type="chapitre" n="17" xml:id="L1C17">
                <head>Della città del Prencipe di forma decagonale equilatera, posta nel piano, con la sua cittadella pentagonale, con le misure della
                   sua pianta, et da quella tiratone il suo alzato per ordine di Prospettiva. Cap. XVII. </head>
-               <p>Ancor che la città del Prencipe si potesse fare di piu anguli, et lati, et molto maggiore di questa, secondo che la grandezza et
+               <p xml:id="CAT_PQL_L1_L1C17_P1">Ancor che la città del Prencipe si potesse fare di piu anguli, et lati, et molto maggiore di questa, secondo che la grandezza et
                   fertilità del dominio suo richiedesse: noi nondimeno, per il poco spatio de'nostri disegni, ne formaremo una di dieci angoli, et
                   lati equilateri, di cinque porte, con la sua cittadella pentagonale equilatera; laquale partecipando dentro et fuore uiene con la
                   sua città collegata; et di quella nella piu forte et suprema parte sia posta. <pb n="19bis"/> Hor, uenendo alle particolari misure,
@@ -1157,24 +1119,21 @@
                      <figure type="schema"/>
                   <pb n="20bis"/> Il disegno, che segue, rappresenta l'alzato della pianta passata, tirato da quella per ordine di Prospettiva,
                   l'altezza delle mura così della cittadella, come quelle della sua città, è canne cinque e mezzo scarpate sino alla loro sommità, con
-                  le piazze da basso da maneggiarui commodissimamente due mezzi cannoni, o altri pezzi grossi, che piu paressero a proposito. <figure
-                     type="schema"/>
+                  le piazze da basso da maneggiarui commodissimamente due mezzi cannoni, o altri pezzi grossi, che piu paressero a proposito. <figure type="schema"/>
                </p>
             </div2>
             <div2 type="chapitre" n="18" xml:id="L1C18">
                <head> Della città maritima con la sua cittadella, et con il suo ruolo, per uia d'ale di mura fabricato, con le misure della sua
                   pianta, et da quella per ordine di Prospettiva tiratone il suo alzato, mostrando per uariare tutta la muraglia sopra i fondamenti
                   senza alcun terrapieno. Cap. XVIII.</head>
-               <p> Ancora che, per la opinione di <persName ref="#Platon">Platone</persName>, la città dovesse esser per lo meno dieci miglia dal mare
+               <p xml:id="CAT_PQL_L1_L1C18_P1"> Ancora che, per la opinione di <persName ref="#Platon">Platone</persName>, la città dovesse esser per lo meno dieci miglia dal mare
                   scostata, il che credo dicesse per piu sanità: si uede nondimeno, che il mare non porge alla città tristezza d'aria; come si puo
-                  considerare di <placeName ref="#Venise">Venetia</placeName>, <placeName ref="#Naples">Napoli</placeName>, <placeName ref="#Genes"
-                     >Genova</placeName>, Gostantinopoli, et altre assai, che sono di buona et perfetta aria. Ricevesi poi molto piu contentezza
+                  considerare di <placeName ref="#Venise">Venetia</placeName>, <placeName ref="#Naples">Napoli</placeName>, <placeName ref="#Genes">Genova</placeName>, Gostantinopoli, et altre assai, che sono di buona et perfetta aria. Ricevesi poi molto piu contentezza
                   nell'habitare la città maritima, che quella di terra ferma. conciosia cosa che se egli è utile la città, dove facilmente può
                   esercitarsi il carro: meglio serà quella, che goderà tal commodità, et per essa o presso a lei passerà il fiume navigabile, et molto
                   meglio serà quella, che, oltre alle due dette commodità, serà posta in buon porto di mare, havendo l'altre qualità pari. peroche non
                   solo da i luoghi uicini, ma da molto lontani potra essere sovuenuta, et piu sicura di ogni altra si potrà rendere. peroche,
-                  uolendola assediare, bisognarebbe una armata per mare, et uno esercito in terra; come conuenne fare a Tiro <persName
-                     ref="#AlexandreLeGrand">Alessandro Magno</persName>. et a quella per l'abbondanza grande del pesce serà porto in tempo di guerra
+                  uolendola assediare, bisognarebbe una armata per mare, et uno esercito in terra; come conuenne fare a Tiro <persName ref="#AlexandreLeGrand">Alessandro Magno</persName>. et a quella per l'abbondanza grande del pesce serà porto in tempo di guerra
                   non piccol sussidio; essendo molto facile ancora a i mercanti per la <pb n="21"/> commodità del mare col comprar uile, et uender
                   caro, navigar mercantie et altre cose da molte lontane regioni alla loro città o ad altre, et così da quella trasportare ad altri
                   luoghi discosto; sì come interuiene alle sopra nominate, et a molte altre città maritime: dalle quali per le dimostrate ragioni si
@@ -1243,15 +1202,14 @@
                   meglio parra. et ancor che le mura della città et cittadella conuenghino essere terrapienate: si dimostra nondimeno in questo alzato
                   tal muraglia tutta sopra i fondamenti sino alla sua sommità senza alcun terrapieno; acciò che quella piu facilmente possa essere
                   considerata. et ancora che nelle mura della città non si dimostrino le sue sei entrate, il che avuiene per la brevità del disegno:
-                  ci si deveno nondimeno così in questo come nella sua pianta considerare, et così ancora l'entrate della cittadella. <figure
-                     type="schema"/>
+                  ci si deveno nondimeno così in questo come nella sua pianta considerare, et così ancora l'entrate della cittadella. <figure type="schema"/>
                </p>
             </div2>
             <div2 type="chapitre" n="19" xml:id="L1C19">
                <pb n="23"/>
                <head> Altra forma di città maritima posta nel piano, di sette porte o entrate, il modo della quale serue ancora per cittadella: con le
                   misure della sua pianta, et da quella tiratone il suo alzato per ordine di Prospettiva. Cap. XIX. </head>
-               <p>Havendo intra me pensato, che alla città maritima regale, per piu sicurtà del Re, essendo massime a i confini di qualche suo regno,
+               <p xml:id="CAT_PQL_L1_L1C19_P1">Havendo intra me pensato, che alla città maritima regale, per piu sicurtà del Re, essendo massime a i confini di qualche suo regno,
                   overo in prouincie di popoli sospetti, o nuovamente acquistate, si potrà far che il molo serua anco per cittadella; et così si potrà
                   meglio la città et recinto del molo insieme offendere et giudicare; il qual molo essendo in tutto sicuro dalle fortune, uerrà ancora
                   a far Darsenale: però ne ho formato quest'altro disegno: che, come si uede, la sua città è di dodici anguli et lati eguali: ma i due
@@ -1307,13 +1265,12 @@
                <pb n="25"/>
                <head> Di quanta utilità sia a qual si uoglia Prencipe, o republica fortificare i dominii loro: et come secondo la diversa qualità
                   de'potentati si conuenga anco in tali fortificationi diversamente procedere. Cap. XX.</head>
-               <p> Non è cosa, che possa rendere piu sicurtà, et porgere occasione di aggrandir qual si uoglia dominio, o regno, che difficultar di
+               <p xml:id="CAT_PQL_L1_L1C20_P1"> Non è cosa, che possa rendere piu sicurtà, et porgere occasione di aggrandir qual si uoglia dominio, o regno, che difficultar di
                   quello al nemico l'entrata. et in questo si può in duo modi procedere. de'quali il migliore e, fortificare i confini, con tutte
                   l'altre terre, et luoghi, che per natura sono di sito piu forti; et in quelle a i tempi sospetti ridurre tutti gli habitatori et
                   ogni sorte di uettovaglie delle altre terre et luoghi debili. l'altro modo men buono, non potendo fortificare, è il bruciar et
                   guastar le uettovaglie e'l paese per buona distanza uerso il nemico. Circa il fortificare corre differenza, secondo che differenti
-                  sono ancora la grandezza de'dominii et regni, et qualita de'potentati. peroche non così e astretto il Re di <placeName ref="#France"
-                     >Francia</placeName> o'l Turco, come un Duca, un Marchese, o altro particolar Signore, o republica non molto potente: ma
+                  sono ancora la grandezza de'dominii et regni, et qualita de'potentati. peroche non così e astretto il Re di <placeName ref="#France">Francia</placeName> o'l Turco, come un Duca, un Marchese, o altro particolar Signore, o republica non molto potente: ma
                   discorrendo prima sopra il Re di <placeName ref="#France">Francia</placeName>, dico non essere necessitato fortificar altro che i
                   confini del suo regno, per sicurarlo in tutto, et porgere occasione a se stesso d'allargar tai confini, et aggrandir il suo regno.
                   perocho, essendo quello anticamente hereditario, et risedendo in mezzo di gran quantitan di Signori antichi, riconosciuti da i loro
@@ -1328,8 +1285,7 @@
                   quel, che si e detto, di <placeName ref="#France">Francia</placeName>. peroche al Turco, essendoli tutti stiavi, et obligati, non si
                   possono corrompere: ne in tal regno puo esser chiamato, o aperto ad alcuno la strada da baroni o Signori. et per questo è molto piu
                   difficile il poterui entrare: ma entrandoui, et ammazzando il Turco, et spegnendo il suo sangue, non havendo tal regno alcun
-                  Signore, o altra persona, che habbia credito co i populi, si terrebbe senza alcuna difficultà: come interuenne al grande <persName
-                     ref="#AlexandreLeGrand">Alessandro</persName>: che havendo urtato, rotto, et morto Dario, et non rimanendo doppo lui Signore o
+                  Signore, o altra persona, che habbia credito co i populi, si terrebbe senza alcuna difficultà: come interuenne al grande <persName ref="#AlexandreLeGrand">Alessandro</persName>: che havendo urtato, rotto, et morto Dario, et non rimanendo doppo lui Signore o
                   persona alcuna di credito, per esser'simile a quel del Turco, si gode quel regno sicuro. Hor, quanto a un Duca, un Marchese, o altro
                   particolar Signore, e necessario, ancor che sieno amati da i loro sudditi, fortificare, oltre a i confini, tutte quelle terre et
                   luoghi dentro al loro dominio, che di sito sono naturalmente piu forti; et in quelle a i tempi sospetti ridur tutte le genti et
@@ -1341,19 +1297,15 @@
                   occorrere tal uolta, che un Prencipe o altro potentato uicino <pb n="25bis"/> si accostasse tanto con le terre del suo dominio al
                   paese, che egli assaltasse, che, non trovando molto ben fortificati i confini, quantunque trovasse sgombrate le uettovaglie et
                   bruciato il paese, potrebbe nondimeno accostarsi, et piantare l'esercito alla principal città di tal paese assaltato, come fece a di
-                  XXVI. di Gennaro, M. D. LIII. Cosimo Duca di <placeName ref="#Florence">Fiorenza.</placeName>alla città nostra di <placeName
-                     ref="#Sienne">Siena</placeName>: il dominio della quale, saluo che uerso <placeName ref="#Florence">Fiorenza</placeName>, si
-                  estende in ogni altro uerso per molte miglia. et essendo da ogni altra banda i confini di <placeName ref="#Sienne"
-                  >Siena</placeName>, che da questa di uerso <placeName ref="#Florence">Fiorenza</placeName>, fuor di porta a Camollia assai bene
+                  XXVI. di Gennaro, M. D. LIII. Cosimo Duca di <placeName ref="#Florence">Fiorenza.</placeName>alla città nostra di <placeName ref="#Sienne">Siena</placeName>: il dominio della quale, saluo che uerso <placeName ref="#Florence">Fiorenza</placeName>, si
+                  estende in ogni altro uerso per molte miglia. et essendo da ogni altra banda i confini di <placeName ref="#Sienne">Siena</placeName>, che da questa di uerso <placeName ref="#Florence">Fiorenza</placeName>, fuor di porta a Camollia assai bene
                   fortificati, et accostandosi uerso la città nostra di <placeName ref="#Sienne">Siena</placeName> per tal banda il dominio Fiorentino
-                  a cinque o sei miglia con piu castella; et essendo tra il Duca Cosimo, per essere imperiale, et la republica nostra di <placeName
-                     ref="#Sienne">Siena</placeName> Francese, grandissimo sospetto di guerra, et maggiormente per la uenuta del Signor Pietro
+                  a cinque o sei miglia con piu castella; et essendo tra il Duca Cosimo, per essere imperiale, et la republica nostra di <placeName ref="#Sienne">Siena</placeName> Francese, grandissimo sospetto di guerra, et maggiormente per la uenuta del Signor Pietro
                   Strozzi, general del Re in <placeName ref="#Italie">Italia</placeName>, uenuto in <placeName ref="#Sienne">Siena</placeName> pochi
                   giorni inanzi; uolendo dunque il Duca Cosimo fuggire una pericolosa guerra, come sarebbe stata, se si fusse per i Signori Francesi
                   con lo aiuto de'Sanesi assaltato prima il suo dominio; penso il Duca, che, movendo egli prima la guerra, fuggirebbe il pericolo, e
                   metterebbelo addosso ad altri, et, non riuscendoli in tutto il suo pensiero, mantenersi nondimeno la riputatione dell'armi; et,
-                  dovendo uenire a gli accordi, riuscirne con piu honorati patti. onde, uedendo non essere in <placeName ref="#Sienne"
-                     >Siena</placeName> guarnigion di soldati, et non ritrovandosi il Signor Pietro, per essere andato a ordinare et ueder le
+                  dovendo uenire a gli accordi, riuscirne con piu honorati patti. onde, uedendo non essere in <placeName ref="#Sienne">Siena</placeName> guarnigion di soldati, et non ritrovandosi il Signor Pietro, per essere andato a ordinare et ueder le
                   fortificationi fatte et da farsi per tutto il dominio, tento il Duca in un medesimo tempo la presa di mont'Alcino, et di Pienza,
                   mandandoui alcune sue bande sotto insegne Franzesi: et fece uscir quattrocento Spagnuoli di Orbetello, per ammazzar o far prigione
                   il Signor Pietro, che alhora con poca gente si trovana cinquanta miglia lontano da <placeName ref="#Sienne">Siena</placeName> tra
@@ -1369,15 +1321,14 @@
                   dentro a una città. e tutto è avuenuto, perché da questa banda di uerso <placeName ref="#Florence">Fiorenza</placeName>, che piu
                   dovevano esser fortificati i confini, ci si hebbe manco avuertenza di ogni altro luogo. et pur si potevano fortificar con poca
                   spesa, et molta prestezza. et si sarebbe uietato di quelli al Duca l'entrata. et deliberando egli pur muoverci la guerra, non
-                  l'haremmo havuta così sprovedutamente in su le mura. il successo et fine della quale si sta in cospetto della bontan di <persName
-                     ref="#Dieu">Dio</persName>: alla quale piaccia per sua gratia metter pace tra'Prencipi Cristiani, et disporli a uoltare
+                  l'haremmo havuta così sprovedutamente in su le mura. il successo et fine della quale si sta in cospetto della bontan di <persName ref="#Dieu">Dio</persName>: alla quale piaccia per sua gratia metter pace tra'Prencipi Cristiani, et disporli a uoltare
                   unitamente le loro forze contra il commune nimico.</p>
             </div2>
          </div1>
          <div1 type="livre" n="2" xml:id="L2">
             <pb n="26"/>
             <head>IL SECONDO LIBRO DI ARCHITETTURA DI PIETRO CATANEO SENESE, ove si tratta di quanto si aspetta alla materia per la fabrica. </head>
-            <p> Non debbe il buono Architetto, Illustrissimo Signor, haver manco notitia della materia atta ad ogni generatione di edificio, che di
+            <p xml:id="CAT_PQL_L2_P1"> Non debbe il buono Architetto, Illustrissimo Signor, haver manco notitia della materia atta ad ogni generatione di edificio, che di
                qual si uoglia altra cosa: peroche, se bene tutte le fabriche fussero in ogni parte con ottima proportione guidate, et non fussero di
                buona materia, ne a i debiti tempi fabricate; potrebbono facilmente ruinare, et in piccolo tempo uenire al meno: di che ne peruerrebbe
                non piccolo danno, et dishonore dello edificatore, et dello Architetto. È necessario per tanto, che tale artefice habbia buona notitia
@@ -1399,7 +1350,7 @@
             <div2 type="chapitre" n="1" xml:id="L2C1">
                <head> A che si conoschi la buona creta; et come, et a che tempo s'impasti nel far de i mattoni, et altri lavori di quella per le
                   fabriche accommodati. Capitolo primo. </head>
-               <p>Se si anderà ben considerando nelle antiche et moderne fabriche, si potrà espressamente giudicare, che per quelle sieno piu conmodi
+               <p xml:id="CAT_PQL_L2_L2C1_P1">Se si anderà ben considerando nelle antiche et moderne fabriche, si potrà espressamente giudicare, che per quelle sieno piu conmodi
                   i mattoni, che le pietre, quando sieno di buona creta, a i debiti tempi lavorati, et conuenientemente asciutti et cotti. Onde
                   Semiramide a maggior perpetuita fece le mura di <placeName ref="#Babylone">Babilonia</placeName>, poste tra le sette cose
                   meravigliose del mondo, di mattoni, murati con bitume tenacissimo, del lago Asfalthide. et è da considerare, che alhora serà
@@ -1408,8 +1359,7 @@
                   diviene fuor di squadra: et la troppo magra, per essere sabbionosa, in oltre che mai s'impasta bene, essendo ancora troppo cotta, il
                   lavoro suo si torce, et essendo mal cotta il lavoro suo si sfarina, et massime quando con quella sieno mescolati nichiarelli o
                   pietruzze. et questa in tutto si debbe fuggire. Dico dunque, che havendo trovata la creta bianca, rossa, o uero bigiccia: quando di
-                  ciascuna di queste in piu luoghi della buona se ne trova: ma <placeName ref="#Sienne">Siena</placeName>, <placeName ref="#Pise"
-                     >Pisa</placeName>, Perugia, Vrbino hanno migliori crete di tutto il resto d'<placeName ref="#Italie">Italia</placeName>, et
+                  ciascuna di queste in piu luoghi della buona se ne trova: ma <placeName ref="#Sienne">Siena</placeName>, <placeName ref="#Pise">Pisa</placeName>, Perugia, Vrbino hanno migliori crete di tutto il resto d'<placeName ref="#Italie">Italia</placeName>, et
                   massime <placeName ref="#Sienne">Siena</placeName>, che intorno et a canto alle sue mura in piu luoghi se ne lavora della perfetta
                   in grande abbondanza. onde di ogni una di queste trovatone della buona, lo autunno, per essere stagione piu appropriata, si debbe
                   cavare; et cavata che sia, stiacciarla, et crivellarla bene, e tenerla macerata per tutto il uerno, et lavorarla dipoi nella
@@ -1420,8 +1370,7 @@
                   anni possa essere bene asciutto: il quale approva ancora per tale materia il sabbione mastio. Furono da gli antichi usate uarie
                   forme di mattoni di maggiori et minori grandezze, disponendo i maggiori a i publici, et i minori a i privati edificii. ma tutti
                   erano di maggior forma di quelli, che s'usano al presente. Quei lavori di creta cotta, che si costumano hoggi communemente in
-                     <placeName ref="#Florence">Fiorenza</placeName>, in <placeName ref="#Sienne">Siena</placeName>, in <placeName ref="#Rome"
-                     >Roma</placeName>, et per tutta <placeName ref="#Toscane">Toscana</placeName>, sono mattoni di due sorti, quadrucci,
+                     <placeName ref="#Florence">Fiorenza</placeName>, in <placeName ref="#Sienne">Siena</placeName>, in <placeName ref="#Rome">Roma</placeName>, et per tutta <placeName ref="#Toscane">Toscana</placeName>, sono mattoni di due sorti, quadrucci,
                   quadruccioni, mezzane, pianelle, et pianelloni. i mattoni ordinarii si fanno lunghi un piede, cioè mezzo braccio Toscano, e larghi
                   la metà di loro lunghezza, che e un quarro di braccio, et grossi la metà di loro larghezza, cioè uno ottavo di braccio. et questi
                   seruono quasi a tutte l'opere delle muraglie. l'altra sorte di mattoni si fanno lunghi ottavo piu de i detti, che uengono a essere
@@ -1443,8 +1392,7 @@
                   usato per alcuni, satti <pb n="27"/> che hanno i mattoni, acciò si uenghino egualmente a inuetriare, di ribagnarli in liquidissima
                   et bianca creta. Gioverà assai alla uaghezza et bontà de i mattoni, se, innanzi che si cuochino, si raderanno, o lisceranno;
                   avuertendo che conuenientemente sieno cotti: perché per il troppo cuocere, si torcono; et per il poco, al tempo del freddo il lavoro
-                  si sfarina. Trovansi di uariate nature di creta da far tai lavori, delle quali, per quanto dice Vetruvio, nella ulteriore <placeName
-                     ref="#Espagne">Spagna</placeName> nella città di Calento, in Marsilia di <placeName ref="#France">Francia</placeName>, et in
+                  si sfarina. Trovansi di uariate nature di creta da far tai lavori, delle quali, per quanto dice Vetruvio, nella ulteriore <placeName ref="#Espagne">Spagna</placeName> nella città di Calento, in Marsilia di <placeName ref="#France">Francia</placeName>, et in
                      <placeName ref="#Asie">Asia</placeName> in Pithane di una sorte si trova, che, per essere pomicosa, et molto leggiera, fattone
                   mattoni stanno a galla sopra l'acqua, sì come fussero di leggierissimo legno. Puossi anco in caso di necessità, quando non si
                   potesse havere in tutto buona creta, aggiugnere della magra con della grassa in conuenevole portione, et impastarla con diligenza.
@@ -1453,7 +1401,7 @@
             <div2 type="chapitre" n="2" xml:id="L2C2">
                <head>Natura et effetti di pietre: et prima delle marmoree, et come i Porfidi, Mischi, Serpentini, Graniti, et altre assai colorate si
                   conuenghino tenere per marmi. Cap. II.</head>
-               <p> Conoscesi partorire nelle pietre effetti quasi miracolosi. conciosia che alcune nelle uiscere loro hanno nutriti uarii animali;
+               <p xml:id="CAT_PQL_L2_L2C2_P1"> Conoscesi partorire nelle pietre effetti quasi miracolosi. conciosia che alcune nelle uiscere loro hanno nutriti uarii animali;
                   altre consumano presto i corpi; et altre lungo tempo gli conseruano; et de altre se ne trovano, che bruciano come legna; et altre
                   dal fuoco et da ogni altro impeto si difendono. delle quali alcune nella medesima cava crescono: altre si creano di acqua e terra
                   congelata: et alcune sono da i fiumi prodotte. ma la maggior parte sono dalla terra concette: et si trovano di natura diverse. delle
@@ -1462,63 +1410,56 @@
                   de i quali i bianchi dell'isola di Paros furono innanzi ad ogni altro marmo da i primi, come da Dyopeno, Scylo, Babulo, et altri
                   eccellenti et degni scultori messi in opera. et di questo ne furono fatte molte uarie et diverse statue. e tale marmo chiamorono
                   lichnite. peroche dentro alle cave si tagliava a lume di lucerna: quando che lichno significa lucerna. Usorono gli antichi lungo
-                  tempo il Naxio marmo, dell'isola di Cipro. giudicorono dipoi migliori quelli di Armenia. trovoronsi doppo questi in <placeName
-                     ref="#Italie">Italia</placeName> nel monte di Luni, dominio di Carrara, marmi molto piu candidi: i quali furono, et sono ancora
-                  giudicati ottimi, et di anteporre a tutti i suddetti per fare statue: et se ne cavano grandissime saldezze. <persName
-                     ref="#DiodoreDeSicile">Diodoro</persName> nel suo terzo libro da il uanto al marmo di Arabia, affermando, in bianchezza, in
+                  tempo il Naxio marmo, dell'isola di Cipro. giudicorono dipoi migliori quelli di Armenia. trovoronsi doppo questi in <placeName ref="#Italie">Italia</placeName> nel monte di Luni, dominio di Carrara, marmi molto piu candidi: i quali furono, et sono ancora
+                  giudicati ottimi, et di anteporre a tutti i suddetti per fare statue: et se ne cavano grandissime saldezze. <persName ref="#DiodoreDeSicile">Diodoro</persName> nel suo terzo libro da il uanto al marmo di Arabia, affermando, in bianchezza, in
                   lustro, in pasta, et in peso essere migliore di tutti; et ciò avuenire dalla buona qualità dell'aria; dicendo, che il calore lo
                   condensa, la siccità lo affina, et i raggi solari lo illuminano. Trovansi, in oltre a i marmi bianchi, de i negri, de i rossi, de i
                   gialli, de i pavonazzi, de i bigi, de i uerdi, et quasi di ogni altro colore, et di quelli, che hanno mostro uarii et diversi
                   disegni, degni di assai consideratione: et sopra ogn'altra fu cosa meravigliosa, quando che in Paros si ritrouò in una falda di
                   marmo l'immagine di Sileno. Ci sono ancora i marmi Porphiritri, così detti da gli antichi: et hoggi ancora si riseruano il neme di
                   Porphido, come porfidioso di resistere al ferro, per essere d'ogn'altra pietra piu duro: il quale ancora fu chiamato Leucostycto: et
-                  è rosso, punteggiato, o schizzato minutissimamente di bianco. et di tale se n'è cavata ogni grandezza, et si trova in <placeName
-                     ref="#Egypte">Egitto</placeName>: et si tiene, che così questo, come ancora tutte le altre sorte di marmi, et pietre, sieno assai
+                  è rosso, punteggiato, o schizzato minutissimamente di bianco. et di tale se n'è cavata ogni grandezza, et si trova in <placeName ref="#Egypte">Egitto</placeName>: et si tiene, che così questo, come ancora tutte le altre sorte di marmi, et pietre, sieno assai
                   men duri a lavorarle quando si cavano, che quando per alcun tempo sieno state <pb n="27bis"/> all'aria scoperta. et di tale Porphido
                   se ne trovano molte opere di diverse maniere, come quadri, tondi, ottanguli, et altre di piu et meno anguli, et lati, spianati per
                   pavimenti, con piu ragioni di colonne piccole et grandi, con figure di mezzo et basso rilievo, animali, maschere, statue, urne,
-                  pili, et altre assai uariate cose sotto diversi disegni. Asinio Pollione, procuratore di Claudio <persName ref="#JulesCesar"
-                     >Cesare</persName>, gli mandò di <placeName ref="#Egypte">Egitto</placeName> a <placeName ref="#Rome">Roma</placeName> tre statue
+                  pili, et altre assai uariate cose sotto diversi disegni. Asinio Pollione, procuratore di Claudio <persName ref="#JulesCesar">Cesare</persName>, gli mandò di <placeName ref="#Egypte">Egitto</placeName> a <placeName ref="#Rome">Roma</placeName> tre statue
                   di Porphido: et ciò fu tenuta cosa nuova, per non se ne essere uiste prima in questa città: ma non fu molto apprezzata: et però non
                   fu dipoi per molto tempo alcuno, chi lo imitasse nel far uenire statue di Porphido. </p>
-               <p> Ecci dipoi il marmo Ophite, così chiamato da gli antichi per confarsi assai con le macchie delle serpi: et hoggi ancora si chiama
+               <p xml:id="CAT_PQL_L2_L2C2_P2"> Ecci dipoi il marmo Ophite, così chiamato da gli antichi per confarsi assai con le macchie delle serpi: et hoggi ancora si chiama
                   Serpentino. delquale non se ne trovano colonne se non piccole, con piu base, et altri pezzi rotondi et angulati di piu sorti,
                   spianati per pavimenti. e tal pietra <persName ref="#Pline">Plinio</persName> la fa di due sorti: una delle quali dice essere
                   tenera, et bianca, l'altra nereggiante, et dura. </p>
-               <p> Pretiosissimo et piu allegro di tutti fu tenuto dalli antichi il marmo uerde di Lacedemonia, et così lo Augusteo, et dipoi il
+               <p xml:id="CAT_PQL_L2_L2C2_P3"> Pretiosissimo et piu allegro di tutti fu tenuto dalli antichi il marmo uerde di Lacedemonia, et così lo Augusteo, et dipoi il
                      <persName ref="#Tibere">Tiberio</persName>: i quali furono trovati in <placeName ref="#Egypte">Egitto</placeName> nel principato
                   di <persName ref="#Auguste">Augusto</persName>, et di <persName ref="#Tibere">Tiberio</persName>; et sono macchiati in diversi modi.
                   lo Augusteo mostra molti crespi ritrosi; et il <persName ref="#Tibere">Tiberio</persName> è inuolto in una inuiluppata canutezza. </p>
-               <p> Seguita appresso il marmo Mischio, dalla mescolanza pezzata, con larghe macchie di uarii colori: de i quali i piu duri et i piu
-                  uaghi sono gli Egittii, et i Greci: ancor che di tali se ne trova ne i monti di Luni, o Carrara, in quelli di <placeName
-                     ref="#Verone">Verona</placeName>, in quel di <placeName ref="#Sienne">Siena</placeName> uicino alla città, et in altri assai
+               <p xml:id="CAT_PQL_L2_L2C2_P4"> Seguita appresso il marmo Mischio, dalla mescolanza pezzata, con larghe macchie di uarii colori: de i quali i piu duri et i piu
+                  uaghi sono gli Egittii, et i Greci: ancor che di tali se ne trova ne i monti di Luni, o Carrara, in quelli di <placeName ref="#Verone">Verona</placeName>, in quel di <placeName ref="#Sienne">Siena</placeName> uicino alla città, et in altri assai
                   luoghi così d'<placeName ref="#Italie">Italia</placeName>, come di altre regioni. et di questi non se ne sono uiste statue, o
                   animali, ma bene grandi et grosse colonne, uasi, pili, basamenti, stipiti, cornici, et di molti altri lavori conuenienti alle opere
                   delle fabriche. </p>
-               <p> Ci sono ancora i marmi Graniti: i quali sono di molta durezza. et di questi alcuni se ne trovano puntati o schizzati di rosso,
+               <p xml:id="CAT_PQL_L2_L2C2_P5"> Ci sono ancora i marmi Graniti: i quali sono di molta durezza. et di questi alcuni se ne trovano puntati o schizzati di rosso,
                   altri di nero, altri di bianco, et alcuni di altri colori, et di tali in <placeName ref="#Egypte">Egitto</placeName> se ne sono
                   cavate maggiori saldezze, che di qual si uoglia altra sorte; come ne rendono testimonio le Piramidi, gli obelischi, et i grandissimi
                   uasi per i bagni, et le superbe colonne, che in <placeName ref="#Rome">Roma</placeName> et in altre regioni et diversi luoghi si
                   ritrovano. et di questi se ne sono ancora per piu luoghi d'<placeName ref="#Italie">Italia</placeName> tagliati assai grandi
                   rocchii: ma i maggiori, quanto all'<placeName ref="#Italie">Italia</placeName>, si sono cavati da i Romani nella isola dell'Elba. </p>
-               <p> Sono sopra tutti molto da celebrare i marmi trasparenti, come era quello detto speculare, del quale se ne seruivano: de i quali i
+               <p xml:id="CAT_PQL_L2_L2C2_P6"> Sono sopra tutti molto da celebrare i marmi trasparenti, come era quello detto speculare, del quale se ne seruivano: de i quali i
                   piu pendono alquanto in gialliccio, per potersene seruire in ogni luogo dove possino nuocere i uenti, come ne i bagni, stufe,
                   lumiere per i porti di mare, per i luoghi da passeggiar de i giardini, et per altri assai accidenti, et massime ne i finestrati: il
-                  quale era dalli antichi messo in uso, come hoggi il uetro nelle finestre uetriate. di tali per piu luoghi di <placeName ref="#Grece"
-                     >Grecia</placeName>, et per piu diverse parti di Levante se ne ritrovano: et furono trovati la prima uolta in Cappodacia nel
+                  quale era dalli antichi messo in uso, come hoggi il uetro nelle finestre uetriate. di tali per piu luoghi di <placeName ref="#Grece">Grecia</placeName>, et per piu diverse parti di Levante se ne ritrovano: et furono trovati la prima uolta in Cappodacia nel
                   principato di <persName ref="#Neron">Nerone</persName>. et di questo ne edifico egli il tempio della Fortuna. et del medesimo mi do
                   a credere io che fusse la torre, che nell'isola di Pharo fece fare <persName ref="#Ptolemee">Tolomeo</persName> al porto di
                      <placeName ref="#Alexandrie">Alessandria</placeName>, per far lume la notte a i naviganti. et uolse che in quella fusse scritto
                   il nome di Sostrato, Architetto di tale opera. </p>
-               <p> Auvenga che da molti moderni parte de i suddetti, come il Porfido, il Serpentino, il Mistio, il Granito, et altri della medesima
+               <p xml:id="CAT_PQL_L2_L2C2_P7"> Auvenga che da molti moderni parte de i suddetti, come il Porfido, il Serpentino, il Mistio, il Granito, et altri della medesima
                   natura, sieno stati da i marmi divisi: tutti nondimeno, come si e detto. si deveno tenere per marmi: et così ancora il negro: del
                   quale del tanto bello si trova, che serue per paragone. Le prime cave, che mostrassero ne i marmi queste macchie o grane di uarii
                   colori, furono quelle dell'isola di Chio, et di questi fecero le mura di quella citta: che dipoi mostrandole a tutti come cosa
-                  magnifica, fu loro risposto con piacevole motto da Marco <persName ref="#Ciceron">Tullio</persName>, che piu meravigliosa <pb n="28"
-                  /> cosa sarebbe stata, se l'havessero fatte di sasso Tevertino. Et circa tali uarietà di colori sono anco uarie opinioni: quando
+                  magnifica, fu loro risposto con piacevole motto da Marco <persName ref="#Ciceron">Tullio</persName>, che piu meravigliosa <pb n="28"/> cosa sarebbe stata, se l'havessero fatte di sasso Tevertino. Et circa tali uarietà di colori sono anco uarie opinioni: quando
                   alcuni uogliono, che uenga dal Sole, altri dalla qualità et mistura delle terra, et altri, massime quando sono misti, dalla
                   corrottione et fumo di alcuno metallo sotto a tai marmi generato. </p>
-               <p> Trovansi non solo marmi in molte altre regioni, ma ancora in piu luoghi de i dominii di particolari città così de i colorati come
+               <p xml:id="CAT_PQL_L2_L2C2_P8"> Trovansi non solo marmi in molte altre regioni, ma ancora in piu luoghi de i dominii di particolari città così de i colorati come
                   de i bianchi; come per <placeName ref="#Italie">Italia</placeName> si può considerare, che non solo quei di Luni o Carrara piu di
                   tutti gli altri approvati, ma se ne trovano ancora ne i monti di <placeName ref="#Verone">Verona</placeName>, in quelli di
                      <placeName ref="#Milan">Milano</placeName>, nell'isola dell'Elba, et in piu luoghi del dominio de'Senesi. et prima nella
@@ -1537,7 +1478,7 @@
             <div2 type="chapitre" n="3" xml:id="L2C3">
                <head> Del Tevertino, del Macigno, del Tufo, et altre pietre; et come si conuenghino all'aria scoperta, o dentro al coperto mettere in
                   opera, secondo che la qualità di loro nature ricerca. Cap. III. </head>
-               <p>Si trovano, oltre a i marmi, piu uarie sorti di pietre, come le Tevertine, le Macigne, le Tufigne, et altre assai, che per la
+               <p xml:id="CAT_PQL_L2_L2C3_P1">Si trovano, oltre a i marmi, piu uarie sorti di pietre, come le Tevertine, le Macigne, le Tufigne, et altre assai, che per la
                   diversità de'loro colori et durezze sono anco sotto diversi nomi chiamate. ma innanzi, che di tali piu oltre si proceda, è da
                   considerare come cosa importante, che nel murare delle pietre, sono da collocare allo'scoperto quelle, che piu partecipano dell'aria
                   et del fuoco, come le marmoree sudette, le Tevertine, et altre di natura simili. ma tali dal fuoco non si difendono. Et quelle, che
@@ -1569,27 +1510,22 @@
                   altro a <placeName ref="#Tivoli">Tivoli</placeName> in sul Teverone: et si tiene per opinione commune; che sia creato di terra, et
                   di acqua congelata. trovasene ancora in piu et diversi luoghi del dominio Senese, come a Rapolano, a Maciareto, a Sciano, a
                   Motalceto, a Sanprugnano, et a Sancasciano de i bagni, et in altri luoghi di tale territorio, tutti bianchissimi et di buona pasta.
-                  ma i migliori si cavano a Rapolano, uicino dodici miglia alla città, et a Sanprugnano quaranta miglia discosto da <placeName
-                     ref="#Sienne">Siena</placeName>. et di questi due il piu approvato è quello di Sanprugnano: il quale è tanto bianco, et così
+                  ma i migliori si cavano a Rapolano, uicino dodici miglia alla città, et a Sanprugnano quaranta miglia discosto da <placeName ref="#Sienne">Siena</placeName>. et di questi due il piu approvato è quello di Sanprugnano: il quale è tanto bianco, et così
                   serrato, che per alcun tempo fu tenuto per marmo. Quello del palazzo Spannocchi sudetto, che pende come il tufo tra'l gialliccio e'l
                   tanè, si cava alla <persName ref="#CesareRipa">Ripa</persName>, tre miglia uicino a <placeName ref="#Sienne">Siena</placeName>: et
                   il Colombino delle torri sopra nominate, per piu luoghi, tre e quattro miglia intorno a tal città. Cavasi ancora del Tevertino
-                  bianchissimo et buono in quel di <placeName ref="#Pise">Pisa</placeName>, di Lucca, et in altri assai luoghi d'<placeName
-                     ref="#Italie">Italia</placeName>. Il Macigno ancora si cava per piu diverse parti d'<placeName ref="#Italie">Italia</placeName>,
+                  bianchissimo et buono in quel di <placeName ref="#Pise">Pisa</placeName>, di Lucca, et in altri assai luoghi d'<placeName ref="#Italie">Italia</placeName>. Il Macigno ancora si cava per piu diverse parti d'<placeName ref="#Italie">Italia</placeName>,
                   et massime nel dominio Fiorentino, et così ancora in piu luoghi del territorio di <placeName ref="#Sienne">Siena</placeName>, come a
                   Castel novo, a Sangusine, et a Seluoli, tutti uicini alla città dalle sette in sino dieci miglia. questa sorte di pietra pende nel
                   colore tra'l bigio et l'azzurro, e nelle opere si dimostra a l'occhio molto grata; ma, come si e detto, non resiste all'aria
                   scoperta; ma al coperto si conserua et et augumenta in durezza: et il piu bello, et in maggiore quantità si cava nel Fiorentino. et
                   di ciò ne fanno fede molte et diverse opere magnifiche, fatte da piu eccellenti Architetti in quella nobilissima città. </p>
-               <p> Delle pietre Tufigne se ne trovano delle bianche, delle gialliccie, delle tane scure, et chiare, et d'altre che tendono al nero. et
+               <p xml:id="CAT_PQL_L2_L2C3_P2"> Delle pietre Tufigne se ne trovano delle bianche, delle gialliccie, delle tane scure, et chiare, et d'altre che tendono al nero. et
                   di queste se ne ritrovano per molte regioni et diversi parti d'<placeName ref="#Italie">Italia</placeName> in maggiore quantita di
                   ogni altra sorte pietra, et massime a <placeName ref="#Sienne">Siena</placeName>: che così dentro, come fuore, et per tutto intorno,
-                  et a canto alle sue mura se ne cava. le quali, come habbiamo detto, per essere sottoposte piu di tutte l'altre alle tempeste, <pb
-                     n="29"/> non si conuengono mettere in opera allo scoperto. </p>
-               <p> Nella prouincia Belgica si sega una pietra bianca, assai piu facile, che il legname: della quale ne fanno tegole per coprime
-                  de'tetti. Trovasi in piu parti di <placeName ref="#Espagne">Spagna</placeName> citeriore, in <placeName ref="#France"
-                     >Francia</placeName>, in Cipri, in Cappadocia, in <placeName ref="#Afrique">Africa</placeName>, in <placeName ref="#Sicile"
-                     >Sicilia</placeName>, nella riviera di <placeName ref="#Genes">Genova</placeName>, nel Bolognese, et in altri assai luoghi una
+                  et a canto alle sue mura se ne cava. le quali, come habbiamo detto, per essere sottoposte piu di tutte l'altre alle tempeste, <pb n="29"/> non si conuengono mettere in opera allo scoperto. </p>
+               <p xml:id="CAT_PQL_L2_L2C3_P3"> Nella prouincia Belgica si sega una pietra bianca, assai piu facile, che il legname: della quale ne fanno tegole per coprime
+                  de'tetti. Trovasi in piu parti di <placeName ref="#Espagne">Spagna</placeName> citeriore, in <placeName ref="#France">Francia</placeName>, in Cipri, in Cappadocia, in <placeName ref="#Afrique">Africa</placeName>, in <placeName ref="#Sicile">Sicilia</placeName>, nella riviera di <placeName ref="#Genes">Genova</placeName>, nel Bolognese, et in altri assai luoghi una
                   sorte di pietra, che si cava et si divide in corteccie o lastre sottili di eguali grossezze, come se fussero spianate dall'arte con
                   la pialla: le quali seruon'eccellentemente a coprire o lastricare i tetti: e se ne trovano delle bianche, delle bigie scure, et
                   d'altri colori. ma di tutte, quella di <placeName ref="#Espagne">Spagna</placeName> è giudicata migliore. quella della riviera di
@@ -1603,7 +1539,7 @@
             <div2 type="chapitre" n="4" xml:id="L2C4">
                <head> Della diversità delle rene, et a che si conoschino le migliori, et come le marine o salmastre si debbino in tutto fuggire. Cap.
                   IIII.</head>
-               <p> Sono le rene di varie et diverse nature: quando alcune sono di cava, altre di fiume, et altre di mare: ma le migliori sono le
+               <p xml:id="CAT_PQL_L2_L2C4_P1"> Sono le rene di varie et diverse nature: quando alcune sono di cava, altre di fiume, et altre di mare: ma le migliori sono le
                   bianche, et di cava: essendo che d'altri colori se ne troui, cioè delle bigie, delle rosse, delle nere, et altre di colore
                   d'argilla. Conoscesi la bontà delle rene, quando, strignendole in mano, non s'appiccano, ma disfacendosi si subito lassano netta la
                   mano; overo, mettendole in candido pannolino, e quello scotendo, non ui lassano alcuna macchia. et in tutto sono da fuggire quelle
@@ -1625,7 +1561,7 @@
             <div2 type="chapitre" n="5" xml:id="L2C5">
                <pb n="29bis"/>
                <head>Delle calcine; et quali per farle sieno pietre migliori. Cap. V. </head>
-               <p>Varia la natura delle calcine secondo la uarietà delle pietre; e tanto fanno piu forte presa, quanto di piu dure petrine sono fatte,
+               <p xml:id="CAT_PQL_L2_L2C5_P1">Varia la natura delle calcine secondo la uarietà delle pietre; e tanto fanno piu forte presa, quanto di piu dure petrine sono fatte,
                   delle quali alcune sono che in luoghi sotterranei, dove l'humidità abbonda, serrano meravigliosamente: et queste sono le albazzane:
                   delle quali le buone si fanno di petrina albarese gentile, di cava, et così ogni altra calcina è molto meglio di cava, che di sassi
                   raccolti sopra la terra, et le dette albazzane spente ch'elle sono, si conuengono subito lavorarle: perché stando spente,
@@ -1660,7 +1596,7 @@
             </div2>
             <div2 type="chapitre" n="6" xml:id="L2C6">
                <head> Lode de gli arbori in genere; et come quelli sieno stati tenuti da gli antichi in grande ueneratione. Cap. VI. </head>
-               <p>Meritamente furono dalli antichi, et hoggi sono, et sempre ancora seranno gli arbori da tener in grande ueneratione: quando da
+               <p xml:id="CAT_PQL_L2_L2C6_P1">Meritamente furono dalli antichi, et hoggi sono, et sempre ancora seranno gli arbori da tener in grande ueneratione: quando da
                   quelli ne habbiamo tanti e si buoni frutti, co i quali, quando non si trovasse grano, si potrebbono, come nella prima età,
                   nutrirsene gli huomini. Quelli di Chio, essendo assediati, sopportorono la fame con le ghiande del faggio, le quali sono piu dolce
                   di ogni altra sorte ghiande: ma meglio si sopportarebbe con le castagne; et con quelle gli eserciti si potrebbono nutrire, essendo
@@ -1675,8 +1611,7 @@
                   lauro ad <persName ref="#Apollon">Apolline</persName>, lo olivo a Minerua, la mortina a <persName ref="#Venus">Venere</persName>,
                   l'oppio ad <persName ref="#Hercule">Ercole</persName>: et di piu uogliono, che i Fauni, et i Siluani, et altri loro Dei fussero dal
                   cielo dati alle selue, ma il platano fu da tutti non solo tenuto in prezzo, ma ancora adorato; et fu non senza meraviglia condotto
-                  per il mare Ionio nell'isola di Diomede, solo per fare ombra al suo sepolcro. fu dipoi trasportato in <placeName ref="#Sicile"
-                     >Sicilia</placeName>, e tra i primi donato all'<placeName ref="#Italie">Italia</placeName>, et peruenne sino a gl'Inglesi uerso
+                  per il mare Ionio nell'isola di Diomede, solo per fare ombra al suo sepolcro. fu dipoi trasportato in <placeName ref="#Sicile">Sicilia</placeName>, e tra i primi donato all'<placeName ref="#Italie">Italia</placeName>, et peruenne sino a gl'Inglesi uerso
                   l'Oceano; acciò che le genti pagassero il tributo per l'ombra. et <persName ref="#Bacchus">Dionisio</persName> primo tiranno di
                      <placeName ref="#Sicile">Sicilia</placeName> trasferi quello nella regia sua città; acciò che ivi havesse a rappresentare
                   miracolo: che dipoi ui fu fatto il ginnasio: e tanto accrebbe di reputatione questo arboro, che si comminciò a inaffiare col uino,
@@ -1696,30 +1631,27 @@
             <div2 type="chapitre" n="7" xml:id="L2C7">
                <pb n="30bis"/>
                <head>Delli arbori universalmente; et come si conuenghino secondo la uarietà di loro nature anco a uariate opere disporre. Cap. VII. </head>
-               <p>Lassando hor noi da parte il legno santo, et gli altri arbori medicinali, et aromatici, et quelli che producono specierie, per non
+               <p xml:id="CAT_PQL_L2_L2C7_P1">Lassando hor noi da parte il legno santo, et gli altri arbori medicinali, et aromatici, et quelli che producono specierie, per non
                   essere cosa da questo luogo; et parlando delli arbori, che all'opere di lavoro per le fabriche sono in cognitione, et piu in uso; ci
                   pare molto conueniente disporre quelli a diversi lavori, secondo che la qualità di loro nature ricerca. La quercia ne i fondamenti
                   delle fabriche si conserua eternamente in luoghi humidi et paludosi: peroche, come dice Vetruvio, havendo poco dell'humore,
                   dell'aria, et del fuoco, et essendo molto denso, overo serrato legname, non può l'humore per i suoi pochi pori penetrarla, pur che
                   sia tosto coperta, et in modo collocata, che non uegga aria. il medesimo dice avuenir dello alno: che, per essere di natura simile
                   alla quercia, alle opere sotterranee in luoghi acquatili si conserua gran tempo; et nelle palificationi e steccate è di tutti gli
-                  altri migliore, et piu atto a sostenere ponderosi pesi: et nasce a canto alle ripe de i fiumi. <persName ref="#Pline"
-                     >Plinio</persName>, confermando quanto si è detto, uvole di piu che il rovero duri sotterra, ma che marcisca nell'acqua marina:
+                  altri migliore, et piu atto a sostenere ponderosi pesi: et nasce a canto alle ripe de i fiumi. <persName ref="#Pline">Plinio</persName>, confermando quanto si è detto, uvole di piu che il rovero duri sotterra, ma che marcisca nell'acqua marina:
                   et che il larice et l'ontano nero durino assai nell'humido, et che il faggio, il noce, et il ginepro sieno da laudare et mettere tra
                   i principali, che nell'acqua o sotterra si mettono in opera per le fabriche, soggiugne di piu, che il pino, la picca, et l'alno si
                   cavano o uotiano per docci, o canali per condurre acque; et sottera durano molti anni: ma se tosto non si coprano, marciscano.
                   uogliono ancora, che il faggio nell'acqua non si corrompa, ma che duri gran tempo. </p>
-               <p> Il larice è stato tenuto di molta maggior uirtù et perfettione, et il piu approvato di tutti i legnami, et di meravigliosa natura:
+               <p xml:id="CAT_PQL_L2_L2C7_P2"> Il larice è stato tenuto di molta maggior uirtù et perfettione, et il piu approvato di tutti i legnami, et di meravigliosa natura:
                   quando quello per l'amaritudine del suo liquore non solo non può essere offeso da tarli, o tigni, ma ancora dal fuoco si difende: il
                   quale, per non partecipare quasi niente dell'aria, et del fuoco, ma di molto humore e terreno, è di spessa materia indurito: onde
                   non havendo pori, per i quali possa penetrare il fuoco, si difende da quello. dice Vetruvio, che il larice non brucia, ne fa
                   carbone: et il medesimo afferma <persName ref="#Pline">Plinio</persName>: soggiugnendo Vetruvio, che di questo hebbe cognitione
                      <persName ref="#JulesCesar">Giulio Cesare</persName>: il quale essendo intorno alle alpi con l'esercito, et havendo commandato
-                  alli municipii, cioè alle città o populi uerso il mare Adriano, che godevano delle esentioni et magistrati di <placeName ref="#Rome"
-                     >Roma</placeName>, che lo sovuenissero di uettovaglie, dove a una terra tra l'altre, per non uolere ubbidire, fu costretto andare
+                  alli municipii, cioè alle città o populi uerso il mare Adriano, che godevano delle esentioni et magistrati di <placeName ref="#Rome">Roma</placeName>, che lo sovuenissero di uettovaglie, dove a una terra tra l'altre, per non uolere ubbidire, fu costretto andare
                   a campo: et havendo quella dinanzi la porta un'altissima torre, a guisa di pira, di travi di larice in traverso radoppiate, dalla
-                  quale quei della terra, per non havere altro che legni, et con quelli non potendo offendere l'esercito; fu commandato da <persName
-                     ref="#JulesCesar">Cesare</persName> a i soldati, che ciascuno portasse un fascio di legna intorno alla torre: et così havendovene
+                  quale quei della terra, per non havere altro che legni, et con quelli non potendo offendere l'esercito; fu commandato da <persName ref="#JulesCesar">Cesare</persName> a i soldati, che ciascuno portasse un fascio di legna intorno alla torre: et così havendovene
                   fatta gran massa, ui fece appiccare il fuoco: et alzando all'aria grandissima fiamma, si pensò che tutta bruciare dovesse. ma per
                   non la uedere doppo il mancar del fuoco con grande meraviglia maculata in parte alcuna, ui fece accostare l'esercito: per timore del
                   quale quei del castello s'arresero: et essendo da <persName ref="#JulesCesar">Cesare</persName> domandati, dove facessero tali
@@ -1727,8 +1659,7 @@
                   era chiamata tal terra, il castello di Larigno. Conducevasi di questo legname assai per il <placeName ref="#Po">Po</placeName> a
                   Fano, <placeName ref="#Pesaro">Pesaro</placeName>, Ancona, et altri luoghi di tale regione: et se si fusse potuto con facilità
                   condurre a <placeName ref="#Rome">Roma</placeName>, sarebbe stato di grandissima utilità: quando per quello sarebbono stati gli
-                  edificii da gl'incendi sicuri; essendo che tale legname per se stesso ne fiamma ne carboni può ricevere: et il suo arboro <pb n="31"
-                  /> è trattabile et facile a lavorarlo; et è di foglie simile al Pino, ma di maggiore altezza et di quello, et di ogni altra sorte
+                  edificii da gl'incendi sicuri; essendo che tale legname per se stesso ne fiamma ne carboni può ricevere: et il suo arboro <pb n="31"/> è trattabile et facile a lavorarlo; et è di foglie simile al Pino, ma di maggiore altezza et di quello, et di ogni altra sorte
                   arboro; come si può considerare per quella trave di larice, che <persName ref="#Tibere">Tiberio</persName>
                   <persName ref="#JulesCesar">Cesare</persName> condusse a <placeName ref="#Rome">Roma</placeName>, longa centouinti piedi, et grossa
                   due piedi egualmente per tutto: che, considerato quello che poteva esser il resto sino alla cima, fu tenuto miracolo di tale
@@ -1742,7 +1673,7 @@
                   miglior fattione, che qual si uogli'altro carbone a far colare la uena del ferro. et oltre a questo, il suo legname, quando è secco,
                   per essere molto grasso, arde con grandissimo impeto: et molto si adopera nelle montagne di Trentino a scaldare i forni, et le
                   stufe. noi, che di tal cosa non habbiamo fatto esperienza, lassaremo il tutto in cospetto del uero. </p>
-               <p> Il cedro et il ginepero sono di molto utile et uirtuoso legname per ogni opera di lavoro, et sono simili di natura; da i quali se
+               <p xml:id="CAT_PQL_L2_L2C7_P3"> Il cedro et il ginepero sono di molto utile et uirtuoso legname per ogni opera di lavoro, et sono simili di natura; da i quali se
                   ne trae l'oglio. <persName ref="#Pline">Plinio</persName> mette di piu sorte cedri, diversi in odore et sapore di frutto: ma i piu,
                   per quanto dimostra, sono tanto simili al ginepero, che in alcune prouincie il cedro è chiamato ginepero: et questo, per quanto dice
                   il Mattiolo, accade in Istria: che facendoui i cedri di così piccola altezza et grossezza, sono dalli habitatori tenuti per
@@ -1767,7 +1698,7 @@
                      <pb n="31bis"/> alle pitture, et uernicare il ferro. Le travi del tempio di <persName ref="#Diane">Diana</persName> condotta in
                      <placeName ref="#Espagne">Spagna</placeName> dall'isola di Zacintho piu antico, di ogni altro, erono di ginepero, et si uedevano
                   doppo molti secoli bellissime, et come nuove: il quale Annibale non uolse guastare, ritenuto dalla riverenza di tale Idea. </p>
-               <p> Il cipresso et il pino ancora sono simili di natura, et porgono qualche meraviglia: peroche abbondando quelli di humore, et nelle
+               <p xml:id="CAT_PQL_L2_L2C7_P4"> Il cipresso et il pino ancora sono simili di natura, et porgono qualche meraviglia: peroche abbondando quelli di humore, et nelle
                   altre mistioni partecipando egualmente, sogliono nelle opere essere flessibili, o atti a piegarsi, essendo tagliati gioveni: et il
                   pino tal uolta tarlerà: ma se nella uecchiezza, o antichità de i loro anni si taglieranno, si conseruerà il loro legname nelle opere
                   di lavoro senza uitio, o difetto alcuno: peroche il liquore, che in essi rimarrà, diventerà talmente amaro, che da tarli o altri
@@ -1782,7 +1713,7 @@
                   dove fussero i morti; acciò che di quello facesse indicio manifesto. gli antichi ne piantavano le selue, tenendole di grandissimo
                   guadagno: et le chiamavano dote delle figlivole. <placeName ref="#Rome">Roma</placeName> stette quattrocento anni coperta di asse et
                   scheggie di pino, fino alla guerra di Pirrho. </p>
-               <p> L'abeto è molto forte, bello, atto, et durabile: il quale, per il rigore naturale, non si piega per il peso, ma si mantiene
+               <p xml:id="CAT_PQL_L2_L2C7_P5"> L'abeto è molto forte, bello, atto, et durabile: il quale, per il rigore naturale, non si piega per il peso, ma si mantiene
                   saldissimo; et per la sua leggierezza non grava la fabrica; et però nelle travi, et molli, o piane è molto approvato. et così nelle
                   porte, casse, et forzieri, et quasi ad ogni altra opera di lavoro, per essere molto facile a lavorarlo. et per tali molli, o piane,
                   overo cantiere, uvole <persName ref="#Pline">Plinio</persName> che tutti gli arbori ghiandiferi seruino. ma l'abeto è di tutti
@@ -1797,13 +1728,12 @@
                   durabili. et il medesimo può avuenire ancora nelli altri arbori. l'abeto per la sua leggierezza per i naviglii è meglio di ogni
                   altro. ma quelli di <placeName ref="#Egypte">Egitto</placeName> et di Soria, secondo <persName ref="#Pline">Plinio</persName>, per
                   non havere abeto, facevano le navi di cedro. </p>
-               <p> L'olmo et il frassino, havendo grandissimo humore, et poco dell'aria, et del fuoco, et di terreno temperati, quando di gioveni
+               <p xml:id="CAT_PQL_L2_L2C7_P6"> L'olmo et il frassino, havendo grandissimo humore, et poco dell'aria, et del fuoco, et di terreno temperati, quando di gioveni
                   arbori il loro legname sia messo in opera, seranno flessibili, overo piegabili, et per l'abbondanza dello humore per sostenere peso
                   non seranno forti, et prestamente apriranno: ma se innanzi che si taglino, seranno <pb n="32"/> da i molto anni loro divenuti
                   antichi, si faranno aridi, et si morrà in essi per la loro uecchiezza l'humore, et ne diverranno ottimi per incatenature o chiavarde
                   di mura, o uolte, essendo però ben secco il loro legname. Accommodasi benissimo il frassino a diverse opere; ma per le picche de i
-                  soldati, et per tutte l'altre aste è di ogni altro arboro migliore, et è stato molto lodato et nobilitato da <persName ref="#Homere"
-                     >Homero</persName> per l'asta di <persName ref="#Achille">Achille</persName>. L'olmo è molto lodevole per fare cardini et imposte
+                  soldati, et per tutte l'altre aste è di ogni altro arboro migliore, et è stato molto lodato et nobilitato da <persName ref="#Homere">Homero</persName> per l'asta di <persName ref="#Achille">Achille</persName>. L'olmo è molto lodevole per fare cardini et imposte
                   a gli usci, osseruando però, che il pedone sopra et la uetta sotto sieno posti. è legname rigido, o rustico, et resiste molto al
                   soffiare de i uenti, et è ottimo ne i mozzi o ceppi delle ruote; et il frassino nelle asse di quelle per la sua lentezza è molto
                   approvato. il frassino secondo Theofrasto è di duo specie: l'uno cresce altissimo, et è molto bello, et il suo legno è bianco,
@@ -1812,22 +1742,22 @@
                   alle serpi, che, per quanto tien la sua ombra, non mai si accostano a quello. è tale arboro ottimo rimedio al morso di qual si
                   uoglia uelenoso serpe. produce il fiore innanzi che le serpi eschino delle caverne, ne mai si spoglia delle frondi, se prima quelle
                   non ritornano alle loro tane. uogliono alcuni, che l'orno, detto da i Toscani orniello, sia specie di frassino. </p>
-               <p> Il leccio, per essere di tutti gli elementi temperato, è utile et commodo a molte opere di lavoro, ma sotterra, secondo Vetruvio,
+               <p xml:id="CAT_PQL_L2_L2C7_P7"> Il leccio, per essere di tutti gli elementi temperato, è utile et commodo a molte opere di lavoro, ma sotterra, secondo Vetruvio,
                   marcisce presto. </p>
-               <p> L'oppio bianco, et il nero, il salcio, il tiglio, et il uetice, essendo del fuoco et della aria satiati, et partecipando poco del
+               <p xml:id="CAT_PQL_L2_L2C7_P8"> L'oppio bianco, et il nero, il salcio, il tiglio, et il uetice, essendo del fuoco et della aria satiati, et partecipando poco del
                   terreno, et essendo di humore temperati, divengono candidi, et leggieri, et molto facili a lavorargli: et però Vetruvio loda per
                   farse statue, e tal uolta uasi. Penso che Vetruvio faccia la medesima differenza tra l'oppio bianco et il nero, che fanno i Toscani
                   tra l'oppio et l'albero, che sono di natura simili. ma l'oppio è manco nodoso, et piu gentile a lavorarlo: et di ciascuno se ne
                   fanno travi, travicelli: benche sieno alquanto flessibili, o atti a piegarsi: et seruono a usci, finestre, et molte altre opere: ma
                   per casse et forzieri sono molto a proposito. </p>
-               <p> Il carpine, tenendo pochissima mistione di fuoco, et di terreno, ma assai di humore, et di aria, non è fragile, ma nerboso: et però
+               <p xml:id="CAT_PQL_L2_L2C7_P9"> Il carpine, tenendo pochissima mistione di fuoco, et di terreno, ma assai di humore, et di aria, non è fragile, ma nerboso: et però
                   gli antichi, et massime i Greci ne facevano i gioghi a i giovenchi. </p>
-               <p> Tutti gli arbori acquatili, secondo <persName ref="#Pline">Plinio</persName>, sono frigidissimi, et molto facili a piegarsi. onde
+               <p xml:id="CAT_PQL_L2_L2C7_P10"> Tutti gli arbori acquatili, secondo <persName ref="#Pline">Plinio</persName>, sono frigidissimi, et molto facili a piegarsi. onde
                   sono appropriati a fare scudi o targhe. imperoché forati per loro medesimi si richiudono, et difficilmente si forano, o si passano
                   col ferro. et di tale generatione sono oppio, salcio, betula, et sambuco. ma il meglio di tutti, ancora che non sia acquatile, è il
                   fico: che per le traverse intrigature delle sue uene si fora o passa difficilmente: et è impossibile farlo drittamente aprire col
                   ferro. al quale arboro, si ha per certo, che i folgori, che discendono dall'aria, hanno il medesimo rispetto, che al lauro. </p>
-               <p> Il noce et il saragio sono bellissimi et bonissimi legnami: ma molto meglio et piu usato è il noce: il quale per cuccie, armari,
+               <p xml:id="CAT_PQL_L2_L2C7_P11"> Il noce et il saragio sono bellissimi et bonissimi legnami: ma molto meglio et piu usato è il noce: il quale per cuccie, armari,
                   credenze, casse, banche, et altri assai lavori è piu di ogni altro lo devole et approvato. et s'intagliano le sue opere di fogliami,
                   animali, mascare, figure, et di altri uariati disegni: che in tutti i modi, o d'intaglio, o senza che sieno le sue opere, porgono
                   grande maestà, et all'occhio si dimostrano molto grate. ma non si debbe farne travi per sostenere pesi: ancor che per questo
@@ -1838,7 +1768,7 @@
                   rosseggia et sparge bellissime uene. et i primi, che si uedessero in <placeName ref="#Italie">Italia</placeName>, gli condusse
                   Locullo di Ponto a <placeName ref="#Rome">Roma</placeName> nella uittoria, che hebbe contra Mitridate: et si sparsero dipoi sino in
                      <placeName ref="#Angleterre">Inghilterra</placeName>. </p>
-               <p> Il pero, melo, sorbo, il legno del suvero, il bosso, ma piu di tutti l'hebano sono di molto denso overo serrato legname, ma
+               <p xml:id="CAT_PQL_L2_L2C7_P12"> Il pero, melo, sorbo, il legno del suvero, il bosso, ma piu di tutti l'hebano sono di molto denso overo serrato legname, ma
                   schiantano uolentieri: et così fanno, secondo <persName ref="#Pline">Plinio</persName>, tutti gli arbori crespi. seruono tutti a
                   molti uarii et diversi lavori, ma difficilmente pigliano la colla: et l'hebano, et il bosso sono piu serrati et piu gravi di tutti:
                   et però nell'acqua non stanno a galla: et così il legno del suvero, et il larice. Il pero, sorbo, et bosso, oltre a molti altri
@@ -1849,7 +1779,7 @@
                   Pausania, non fa ne frutto, ne frondi. Il suvero, ancor che si scortecci, non si secca, come fanno gli altri arbori. onde molto gli
                   fu benigna la Natura; che sapendo, che spesso sarebbe spogliato, gli provedde di nuovo mantello. adoperano la sua corteccia i
                   calzari nelle suole delle pianelle, et i pescatori alle palle delle loro reti: perché non uadino a fondo. </p>
-               <p> Il lauro, l'hedera, et il moro, stropicciandogli insieme, per la loro caldezza fanno fuoco, et massime il lauro con l'hedera: che
+               <p xml:id="CAT_PQL_L2_L2C7_P13"> Il lauro, l'hedera, et il moro, stropicciandogli insieme, per la loro caldezza fanno fuoco, et massime il lauro con l'hedera: che
                   dipoi con foglie o funghi secchi si riceve. et questo, per quanto dice <persName ref="#Pline">Plinio</persName>, fu trovato da
                   pastori et spie de i campi. È molto lodato il moro, il quale per l'antichità diventa nero, et è l'ultimo arboro, che tra i dimestici
                   germogli o metta fuor le foglie, onde da gli antichi è stato chiamato sapientissimo. et sono notissimi così i neri come i bianchi,
@@ -1861,54 +1791,49 @@
                      Magno</persName> tornò d'India coronato di hedera: et dipoi i Tirsi, et altri popoli ne coprirono gli elmi, et gli scudi. è
                   nimica a tutti gli arbori, rompe ogni muro, et è gratissima al freddo delle serpi: onde intra essa habitano uolentieri: et di qui è,
                   che molti si meravigliano, che le sia fatto alcuno honore. </p>
-               <p> Del faggio, et del terebintho ne sono stati fatti da gli antichi bellissimi calici, et altri uasi: ma piu di tutti erono apprezzati
+               <p xml:id="CAT_PQL_L2_L2C7_P14"> Del faggio, et del terebintho ne sono stati fatti da gli antichi bellissimi calici, et altri uasi: ma piu di tutti erono apprezzati
                   quelli di terebintho: il quale si confà assai col noce. dè fama a Tericle il fare al tornio calici di terebintho. et diventa
                   migliore, et piu uago il suo lavoro, ognendolo con oglio di ulive. Manio Curio giurò non haver tolto cosa alcuna della preda, saluo
                   che un calice di faggio: il quale è molto commodo et utile in casse et forzieri: perché si sega in sottilissime lame. fassene i
                   pettini: et quantunque sia flessibile, serue a molte altre opere. è arboro ghiandifero, et, secondo che scrive Cornelio
                   Alessandrino, quelli di Chio, essendo da i nimici assediati, sostennero la fame con le faggiole o ghiande sue. </p>
-               <p> Il corniolo è arboro durissimo, ma sottile; et è ottimo alle stelle de i carri. et se in alcuno legno si hanno da mettere conii, o
+               <p xml:id="CAT_PQL_L2_L2C7_P15"> Il corniolo è arboro durissimo, ma sottile; et è ottimo alle stelle de i carri. et se in alcuno legno si hanno da mettere conii, o
                   si ha da conficcare in cambio di chiodi di ferro, per essere a simile uso, tal legno è molto buono, et appropriato. </p>
-               <p> L'ischio è molto fedele, et di bello colore; et è utile per molli, o scandole, overo <pb n="33"/> piane, et per altre assai opere,
+               <p xml:id="CAT_PQL_L2_L2C7_P16"> L'ischio è molto fedele, et di bello colore; et è utile per molli, o scandole, overo <pb n="33"/> piane, et per altre assai opere,
                   ma piu in quelle cose, che, per essere stropicciate, patiscono, come nelle asse delle ruote; che per la sua durezza in simili opere
                   si mantiene assai, et si sega in sottilissimi assarelli, et lame da farne ogni lavoro. </p>
-               <p> L'ontano è uago, denso, et assai duro legname: et di quello se ne fanno molti uarii diversi lavori: et massime al tornio si fanno
+               <p xml:id="CAT_PQL_L2_L2C7_P17"> L'ontano è uago, denso, et assai duro legname: et di quello se ne fanno molti uarii diversi lavori: et massime al tornio si fanno
                   di quello bellissime opere. è legname rosso, et a l'occhio non spiacevole. La palma ancora è buonissimo legname; et è quasi miracolo
                   in essa, essendo uero ch'ella si pieghi, come dice <persName ref="#Pline">Plinio</persName>, contra il peso; il quale si fa
                   meraviglia, che Trogo dica, che in <placeName ref="#Babylone">Babilonia</placeName>, seminando le foglie della palma, uasca il suo
                   arboro. Nasce la palma in piu luoghi, ma in quasi tutti sterile, saluo che in <placeName ref="#Egypte">Egitto</placeName>. </p>
-               <p> Costumorono gia i ricchi, per quanto dice Theofrasto, fare gli usci di loto, ilice, et bosso, giudicandogli di assai piu prezzo et
+               <p xml:id="CAT_PQL_L2_L2C7_P18"> Costumorono gia i ricchi, per quanto dice Theofrasto, fare gli usci di loto, ilice, et bosso, giudicandogli di assai piu prezzo et
                   uaghezza de gli altri. I magli et i manichi de i succhielli furono fatti di ulivastro, bosso, ischio, et olmo. et le stanghe,
                   secondo Catone, si debbono fare di acquifoglio, di olmo, et di lauro. et i manichi de i rustici o uillani, come di uanghe, pale,
                   scure, marre, o zappe, et così tutti gli altri si faranno, secondo Iginio, di carpino, ischio, et cerro: ma che sieno segati di
                   pedone, o ramo grosso. Il pino saluatico, il suvero, il moro, l'acero, et l'olmo sono stati giudicati buoni et commodi per colonne. </p>
-               <p> Le uiti ancora sono state nominate tra gli arbori. Nella città di Populonia era la statua di <persName ref="#Jupiter"
-                     >Giove</persName> fatta di una sola uite, et durò salda et intera molti secoli. Il tempio di <persName ref="#Junon"
-                     >Giunone</persName> nella città di Metaponto havea le colonne di uite. La scala, che andava al tetto del tempio di <persName
-                     ref="#Diane">Diana</persName> Ephesia, era di una sola uite Cipria. onde si tiene, che le uiti si mantenghino senza corrompersi
+               <p xml:id="CAT_PQL_L2_L2C7_P19"> Le uiti ancora sono state nominate tra gli arbori. Nella città di Populonia era la statua di <persName ref="#Jupiter">Giove</persName> fatta di una sola uite, et durò salda et intera molti secoli. Il tempio di <persName ref="#Junon">Giunone</persName> nella città di Metaponto havea le colonne di uite. La scala, che andava al tetto del tempio di <persName ref="#Diane">Diana</persName> Ephesia, era di una sola uite Cipria. onde si tiene, che le uiti si mantenghino senza corrompersi
                   piu di ogni altro legno. ma tali uiti erano seluaggie, o non erano state potate. però che quelle, che sono potate, non possono
-                  uenire così grosse, ne di tanta altezza: quando la loro possanza si perde ne i tralci, o se ne ua in propagini. Dice <persName
-                     ref="#Strabon">Strabone</persName>, che in Ariana, prouincia de gl'Indiani, sono uiti di tale grossezza, che a pena due huomini
+                  uenire così grosse, ne di tanta altezza: quando la loro possanza si perde ne i tralci, o se ne ua in propagini. Dice <persName ref="#Strabon">Strabone</persName>, che in Ariana, prouincia de gl'Indiani, sono uiti di tale grossezza, che a pena due huomini
                   insieme possono abbracciare il troncone. </p>
-               <p> Arbori, che per la loro uaghezza ridotti i sottili, asse, o lame, sono utilissimi per coprirne altri legnami. </p>
-               <p> Et perché tal uolta, per non havere legname di quella bellezza et proprietà conueniente alla fabrica o uolontà di chi la fa; si
+               <p xml:id="CAT_PQL_L2_L2C7_P20"> Arbori, che per la loro uaghezza ridotti i sottili, asse, o lame, sono utilissimi per coprirne altri legnami. </p>
+               <p xml:id="CAT_PQL_L2_L2C7_P21"> Et perché tal uolta, per non havere legname di quella bellezza et proprietà conueniente alla fabrica o uolontà di chi la fa; si
                   costuma coprirgli o covertargli di lame o asse sottili di altro legname, che piu paia a proposito: et quelli, che gli antichi per
                   tale effeto hanno tenuti piu in pregio, sono stati cedro, terebintho, acero, bosso, palma, acquifoglio, ischio, oppio, et la radice
                   del sambuco. </p>
-               <p> Arbori, che non tarlano; et altri, che non fendono; et quelli, che di tutti sono piu eterni. </p>
-               <p> Gli arbori, che non tarlano, per quanto dice <persName ref="#Pline">Plinio</persName>, sono cipresso, cedro, hebano, loto, bosso,
+               <p xml:id="CAT_PQL_L2_L2C7_P22"> Arbori, che non tarlano; et altri, che non fendono; et quelli, che di tutti sono piu eterni. </p>
+               <p xml:id="CAT_PQL_L2_L2C7_P23"> Gli arbori, che non tarlano, per quanto dice <persName ref="#Pline">Plinio</persName>, sono cipresso, cedro, hebano, loto, bosso,
                   nasso, ginepro, ulivastro, et ulivo; et quelli, che con grande tardità tarlano, sono arice, rovero, castagno, et noce. ma quanto
                   all'arice, è in disparere <persName ref="#Pline">Plinio</persName> con Vetruvio: peroche egli non uvole, che per l'amaritudine del
                   suo liquore possi tarlare. È da considerare, che alcuni arbori, per l'amaritudine di loro liquore, non possono essere offesi da
-                  tarli; come avuiene nel cipresso, et in altri per la loro densità et sodezza non si possono generare i tarli. uvole <persName
-                     ref="#Pline">Plinio</persName>, che il cipresso, cedro, et ulivo non fendino, et di tutti i piu eterni sieno l'hebano, cipresso,
+                  tarli; come avuiene nel cipresso, et in altri per la loro densità et sodezza non si possono generare i tarli. uvole <persName ref="#Pline">Plinio</persName>, che il cipresso, cedro, et ulivo non fendino, et di tutti i piu eterni sieno l'hebano, cipresso,
                   et cedro. <pb n="33bis"/>
                </p>
             </div2>
             <div2 type="chapitre" n="8" xml:id="L2C8">
                <head> Del castagno, et come il suo legname non sia meno lodevole di nissuno altro; quantunque non sia stato in consideratione de gli
                   antichi. Cap. VIII </head>
-               <p>Non posso se non grandemente meravigliarmi, che, essendo oltre al suo frutto il legname del castagno universalmente così buono, non
+               <p xml:id="CAT_PQL_L2_L2C8_P1">Non posso se non grandemente meravigliarmi, che, essendo oltre al suo frutto il legname del castagno universalmente così buono, non
                   sia stato in consideratione de gli antichi, non havendo di quello fatta alcuna mentione. et prima in tutti i luoghi humidi,
                   paludosi, et sotterranei, per i fondamenti delle muraglie, palificcate, steccate, docci, et canali per condurre acque, come ancora
                   all'aria scoperta, per le gronde de i tetti, et per i docci per ricevere l'acque di quelle, per parlare le uigne, per i pergoletti,
@@ -1934,7 +1859,7 @@
             </div2>
             <div2 type="chapitre" n="9" xml:id="L2C9">
                <head>Di che tempo si conuenghino tagliare gli arbori per le fabriche, et come in diversi modi si conserui il loro legname. Cap. IX. </head>
-               <p>Piace a Vetruvio, che si debbano tagliare gli arbori per le fabriche dal principio dello autunno insino a quel tempo innanzi, che
+               <p xml:id="CAT_PQL_L2_L2C9_P1">Piace a Vetruvio, che si debbano tagliare gli arbori per le fabriche dal principio dello autunno insino a quel tempo innanzi, che
                   comminci a soffiare Favonio. questo è uocabolo latino, et è quel uento, che i Toscani chiamano Zephiro, che ne riporta la primavera,
                   tolto puramente da Greci, non significa altro che apportare uita: perché soffiando sempre questo uento nel principio della
                   primavera, impregnando la terra et le piante, uengono dipoi a produrre uarietà di herbe, fiori, et frutti. onde si può considerare
@@ -1956,8 +1881,8 @@
                   allume, non puote mai da <persName ref="#Sylla">Silla</persName> essere arsa. </p>
             </div2>
             <div2 type="chapitre" n="10" xml:id="L2C10">
-               <p>Quali tempi sieno piu conuenienti al murare delle fabriche. Cap. X. </p>
-               <p>Se tutte le cose, che sono fatte fuor de i debiti tempi, ne dimostrano il piu delle uolte tristi, et dannosi effetti, et ne
+               <p xml:id="CAT_PQL_L2_L2C10_P1">Quali tempi sieno piu conuenienti al murare delle fabriche. Cap. X. </p>
+               <p xml:id="CAT_PQL_L2_L2C10_P2">Se tutte le cose, che sono fatte fuor de i debiti tempi, ne dimostrano il piu delle uolte tristi, et dannosi effetti, et ne
                   perturbano la mente; si deveno per tanto fuggire i tempi non buoni, et accostarsi a quelli, che piu si richieggono, et massime nelle
                   fabriche delle muraglie, esercitandosi in quelle nella piu temperata stagione di tutto l'anno. et non essendo da grande necessità
                   astretto, non si debbe mai acconsentire, che a i tempi molto freddi, o molto caldi si muri, massime le parti di fuore, che uengono
@@ -1975,7 +1900,7 @@
             <div2 type="chapitre" n="11" xml:id="L2C11">
                <pb n="34bis"/>
                <head>Come s'impastino et si lavorino gli stucchi. Cap. XI.</head>
-               <p> Bella et utilissima inuentione fu ueramente quella dello stucco, col quale da gli antichi furono fatte et hoggi ancora si fanno
+               <p xml:id="CAT_PQL_L2_L2C11_P1"> Bella et utilissima inuentione fu ueramente quella dello stucco, col quale da gli antichi furono fatte et hoggi ancora si fanno
                   ogni maniera di statue di animali, maschere, incrostature, porte, finestre, cornici, fogliami, et ogni altro disegno di piu o meno
                   rilievo, secondo la uolontà di chi fa fare, o dello artefice. et si dimostrano le sue opere così uaghe, et ne divengono talmente
                   durabili, come se fussero di marmo o Tevertino con lo scarpello lavorate; come ne fanno fede piu opere antiche in diversi luoghi di
@@ -2009,15 +1934,14 @@
             <div2 type="chapitre" n="12" xml:id="L2C12">
                <pb n="35"/>
                <head>Calcestruzzo, o smalto di due sorti. Cap. XII. </head>
-               <p>Grande utile commodità, et uaghezza ci rende lo smalto, o calcestruzzo: et si fa di due sorti: una serue a i pozzi, cisterne,
+               <p xml:id="CAT_PQL_L2_L2C12_P1">Grande utile commodità, et uaghezza ci rende lo smalto, o calcestruzzo: et si fa di due sorti: una serue a i pozzi, cisterne,
                   fontane, et conserue di acqua, ritenendola in quelle, acciò che per i pori della terra non possa pigliare esito. così ancora per le
                   loggie, che si fanno scoperte senza tetto, resiste all'acque, che non possino penetrare sotto le loro uolte, quando sia con
                   diligentia bene ordinato. et uolendo fare questo, piglisi parti una di buona calcina albazzana, parti una di ghiarra sottile, parti
                   una di buonissima rena, et in questi si piglia per i piu la rena di fiume molto bene lavata, aggiugnendoui poluere di Tevertino:
                   perché lo fa migliore: et messo che egli è in opera, non se gli da piu molestia. L'altra sorte di calcestruzzo o smalto serue per i
                   pavimenti delle case o altre fabriche dentro al coperto, in tutti quei luoghi massime, che non habbino commodità di buoni et
-                  perfetti mattoni, o altro lavoro di quadro a tale uso conueniente; come interuiene per la maggior parte di <placeName
-                     ref="#Lombardie">Lombardia</placeName>, et a <placeName ref="#Venise">Venetia</placeName>: che in questa città ui si fa del molto
+                  perfetti mattoni, o altro lavoro di quadro a tale uso conueniente; come interuiene per la maggior parte di <placeName ref="#Lombardie">Lombardia</placeName>, et a <placeName ref="#Venise">Venetia</placeName>: che in questa città ui si fa del molto
                   bello. La sua compositione si farà in questo modo. piglisi per ogni due staia di calcina due altre staia di poluere di tegole, con
                   mezzo staio di scaglia di ferro: et s'intridino et mescolino insieme con decottione di buccie di olmo, rimenandole spesso per
                   quindici giorni; acciò che meglio uenghino a imbeverarsi et fare corpo insieme: et smaltisi dipoi il pavimento, o qual si sia altra
@@ -2031,7 +1955,7 @@
             <head>LIBRO TERZO DI ARCHITETTURA DI PIETRO CATANEO SENESE: nel quale si tratta di diverse forme di tempii, Et come al principal della
                città, volendo seruare il decoro della religione Cristiana, si conuenga fabricare a crociera: Et dalle loro piante ne sono tirati gli
                alzati per ordine di Prospettiva. </head>
-            <p> Tutte quelle republiche, et Prencipi antichi o moderni, Illustrissimo Signor, che con piu osseruanza hanno proceduto nella buona
+            <p xml:id="CAT_PQL_L3_P1"> Tutte quelle republiche, et Prencipi antichi o moderni, Illustrissimo Signor, che con piu osseruanza hanno proceduto nella buona
                religione, hanno ancor messo ogni loro potere nell'ornamento et magnificenza de i loro tempii: onde dipoi sono ascese piu delle altre a
                molto maggior grandezza d'imperio; come per molti esempii si può espressamente giudicare. ma di tutti gli antichi è stato tenuto, che i
                Romani habbino maggiormente osseruata la buona religione, per haver messo gran cura nella magnificenza, et grandezza de gl'infiniti
@@ -2045,16 +1969,14 @@
                Epheso il tempio a <persName ref="#Diane">Diana</persName>: il quale per la sua grandezza et per la magnificenza et ricchezza delle
                bene terminate sue parti, et perché fu fondato in una palude per sicurarlo da i terremoti, fu a pena finito in quattrocento anni:
                quantunque così grandi potenze, che furono piu che il terzo di tutto il mondo, contribuissero a quello. Ma lassando da parte questi e
-               tutti gli altri simili, per essere dedicati a uani e buggiardi dei, si conobbe essersi molto compiacciuto <persName ref="#Dieu"
-                  >Iddio</persName> nella molta grandezza et magnificenza del tempio fatto da Salamone in Gierusalem: il qual di ricchezza ha
+               tutti gli altri simili, per essere dedicati a uani e buggiardi dei, si conobbe essersi molto compiacciuto <persName ref="#Dieu">Iddio</persName> nella molta grandezza et magnificenza del tempio fatto da Salamone in Gierusalem: il qual di ricchezza ha
                trappassato di molto ogni altro, di che si habbia notitia sino a hoggi, et per quello su da Salamone ordinata così santa religione,
                che, sino a tanto che ella non fu macchiata, ne uenne continuamente augumentar la grandezza de gli Hebrei. </p>
             <div2 type="chapitre" n="1" xml:id="L3C1">
                <head> Come il principal tempio della città, uolendo seruare il decoro della religione Cristiana, si conuenga fare a crociera et a
                   similitudine di un ben proportionato corpo humano, col suo disegno. Capitolo primo. </head>
-               <p>Ancor che da gli antichi fusse data al principal tempio della città forma circolare, ovale, quadrangulare, ottangula, et di piu et
-                  meno anguli o lati: noi nondimeno giudichiamo che, essendo per noi Cristiani morto il figlivol di <persName ref="#Dieu"
-                     >Dio</persName> sopra il legno della croce, doppo tal morte per commemoratione della nostra redentione, uolendo seruare il decoro
+               <p xml:id="CAT_PQL_L3_L3C1_P1">Ancor che da gli antichi fusse data al principal tempio della città forma circolare, ovale, quadrangulare, ottangula, et di piu et
+                  meno anguli o lati: noi nondimeno giudichiamo che, essendo per noi Cristiani morto il figlivol di <persName ref="#Dieu">Dio</persName> sopra il legno della croce, doppo tal morte per commemoratione della nostra redentione, uolendo seruare il decoro
                   della religione Cristiana, si conueniva, si conuiene, et sempre con nostro debito si conuerrà anco a crociera fabricare il principal
                   tempio della città. Fu questo segno della croce molto tempo innanzi che <persName ref="#Jesus">Cristo</persName> redentor nostro
                   patisse per revelatione et pronostico honorato da <pb n="36"/> molti popoli, sì come da gli Egittij, et da gli Arabi, gli Egittij se
@@ -2067,8 +1989,7 @@
                   ciascuno la dovesse grandemente honorare: al quale fu dipoi per <persName ref="#Dieu">Dio</persName> miracolosamente mostrata una
                   croce per l'aria, con la quale combattè et uinse Massentio persecutore de i Cristiani. Considerato dunque che per mezzo della croce
                   piacque a <persName ref="#Dieu">Dio</persName> darci il regno del cielo, si deve per noi fedeli in ciascuna attione grandemente
-                  uenerarla, et massime nell'edificare il principal tempio o chiesa catedrale della città, dedicando quella a Giesu <persName
-                     ref="#Jesus">Cristo</persName> crocifisso, et dal suo santissimo corpo pigliare le misure del tempio, lassando in luogo della sua
+                  uenerarla, et massime nell'edificare il principal tempio o chiesa catedrale della città, dedicando quella a Giesu <persName ref="#Jesus">Cristo</persName> crocifisso, et dal suo santissimo corpo pigliare le misure del tempio, lassando in luogo della sua
                   divina testa il uano per il cappellone, nel quale i preti stanno a celebrare il culto suo, et in luogo del suo di ogni ben largo
                   petto sia lassato il uano per la principal tribuna, dal quale si muouino le braccia, nella sommità delle quali, in luogo delle sue
                   liberalissime mani, una entrata per banda si potrà fare, et in luogo de'suoi sempre di carità uivaci piedi una, o tre, over cinque
@@ -2086,9 +2007,7 @@
                   piu si debbe fare in questo del Duomo, per essere il principal di ogni altro tempio o luogo pio. Debbe per tanto il Prencipe, o
                   essendo republica i principali suoi cittadini nel principio di tal tempio riconciliarsi con <persName ref="#Dieu">Dio</persName>, et
                   a quello rendersi puri, sinceri, et senza macchia alcuna di sangue. Havendo <persName ref="#David">David</persName> fabricata l'arca
-                  et essendosi dipoi nelle guerre di human sangue bagnato, non gli fu lecito edificare il tempio ma si contentò <persName ref="#Dieu"
-                     >Iddio</persName> che fusse edificato da Salamone. Comminciò dunque Salamone a edificare il tempio doppo la morte di <persName
-                     ref="#David">David</persName> suo padre l'anno quarto del suo regno, alla magnificenza del quale non fu ne serà mai fabrica che a
+                  et essendosi dipoi nelle guerre di human sangue bagnato, non gli fu lecito edificare il tempio ma si contentò <persName ref="#Dieu">Iddio</persName> che fusse edificato da Salamone. Comminciò dunque Salamone a edificare il tempio doppo la morte di <persName ref="#David">David</persName> suo padre l'anno quarto del suo regno, alla magnificenza del quale non fu ne serà mai fabrica che a
                   gran pezzo sia arrivata. Furono ordinati da Salamone cento ottanta miglia huomini, per cavare, tagliare, segare, et condurre le
                   pietre per il tempio: le quali furono così pulitamente lavorate, et messe in opera, che non si uedeva ne colpo di martello, ne
                   commissura alcuna. Furono sopra uarii officii di questo tempio proposti trent'otto miglia huomini: de i quali quattro miglia ne
@@ -2111,11 +2030,9 @@
                   queste cose magnificamente et in gran copia in sette anni. compiacquesi <persName ref="#Dieu">Iddio</persName> tanto di questo
                   ammirando tempio, che nel mezzo dell'opera apparue a Salamone, dicendogli che gli chiedesse alcun dono: et doppo che fu finito, si
                   contentò uenirui ad habitare. Tutto quel, che si è detto, sia a confusione di quelli, che dicono, che le molte spese et ricchezze de
-                  i tempii sieno in maggior parte perse et senza profitto, non considerando che quel, che si fa a honore di <persName ref="#Dieu"
-                     >Dio</persName>, non si può mai fare tanto magnifico et perfetto, quanto si conuerrebbe. Debbesi per tanto a imitatione di
+                  i tempii sieno in maggior parte perse et senza profitto, non considerando che quel, che si fa a honore di <persName ref="#Dieu">Dio</persName>, non si può mai fare tanto magnifico et perfetto, quanto si conuerrebbe. Debbesi per tanto a imitatione di
                   Salamone guidare il principal tempio della città con ottime proportioni di membri, et in quello ridur quanto di ricchezza et
-                  magnificenza si può, risparmiando piu tosto in tutte l'altre fabriche: et ciò facendo si compiacerà a Giesu <persName ref="#Jesus"
-                     >Cristo</persName>, et se ne renderà superba la città, dovendo massime quello essere uisitato non solo dalla universalità del suo
+                  magnificenza si può, risparmiando piu tosto in tutte l'altre fabriche: et ciò facendo si compiacerà a Giesu <persName ref="#Jesus">Cristo</persName>, et se ne renderà superba la città, dovendo massime quello essere uisitato non solo dalla universalità del suo
                   popolo, ma ancora da i forestieri, che per transito passeranno per quella. </p>
                <pb n="37"/>
                <figure type="schema"/>
@@ -2123,7 +2040,7 @@
             <div2 type="chapitre" n="2" xml:id="L3C2">
                <head>Secondo disegno del tempio a crociera, et dalla sua pianta tiratone gli alzati per ordine di Prospettiva, così della parte
                   interiore, come di quella di fuore, con le particolari misure de'membri suoi principali. Cap. II. </head>
-               <p>Dovendo hor noi mostrar con le loro misure et proportioni piu maniere et uariate forme di tempii, comminciaremo a quelle di tre
+               <p xml:id="CAT_PQL_L3_L3C2_P1">Dovendo hor noi mostrar con le loro misure et proportioni piu maniere et uariate forme di tempii, comminciaremo a quelle di tre
                   navate. Le misure della sua pianta seranno queste, che la lunghezza del suo uano dentro col cappellone si farà di piedi cento
                   uint'otto, et nella sua larghezza piedi settantatre; la navata di mezzo piedi uintiquattro: et il medesimo spatio correrà tra i
                   quattro pilastri, che levano la tribuna. l'altre due navate dalle bande seranno larghe piedi diciotto e mezzo. il resto serà
@@ -2143,7 +2060,7 @@
                <pb n="37bis"/>
                <head> Variata for ma di pianta del tempio a crociera, et di minore spesa, per città piccola, o honorato castello, con le misure
                   de'suoi membri principali. Cap. V.</head>
-               <p> In altro modo et di minore spesa si potrà fabricare il tempio a crociera, come per la presente pianta si dimostra. il transito
+               <p xml:id="CAT_PQL_L3_L3C5_P1"> In altro modo et di minore spesa si potrà fabricare il tempio a crociera, come per la presente pianta si dimostra. il transito
                   principale del suo corpo serà largo piedi trentasei, quello delle braccia piedi uintisette, i suoi pilastri o colonne piedi tre
                   larghe: et per minore spesa si potranno fare di muro, con i capitelli, base, et cornici di pietre. le cappelle del corpo sono piedi
                   dieci larghe: le quali si potranno ancora compartire come quelle del lato destro: che ue ne sono due non in tutto circolari. le
@@ -2164,25 +2081,22 @@
                   proportionandole alle altre dette. et intorno a questo si potranno continuare di fuore le mezze colonne per suo ornamento, come
                   nella fronte si è fatto. et se il tempio serà elevato sopra cinque, sette, o nove scalini, serà tanto piu grato all'occhio, et
                   haverà assai piu del grande. Questa parte di fuore si è fatta di assai piu forte, robusto, et durabile ordine, tendendo al Dorico,
-                  che non è il suo dentro. il che è assai conueniente. peroche, quanto alle parti esteriori, Giesu <persName ref="#Jesus"
-                     >Cristo</persName> redentor nostro, al quale, come si è detto, si deve dedicare il principal tempio della città, uolse mostrarsi
+                  che non è il suo dentro. il che è assai conueniente. peroche, quanto alle parti esteriori, Giesu <persName ref="#Jesus">Cristo</persName> redentor nostro, al quale, come si è detto, si deve dedicare il principal tempio della città, uolse mostrarsi
                   puro et semplice così nel suo nascimento, come ancora nella uita, et dipoi nella morte fu piu di ogni altro costante et forte.
                   essendo dunque il dentro di questo tempio di ordine <placeName ref="#Corinthe">Corinto</placeName>, si dimostra molto piu nobile che
                   la parte sua di fuore, che è Dorica. così ancora senza comparatione fu piu nobile l'anima et la divinità, parte interiore di Giesu
-                     <persName ref="#Jesus">Cristo</persName>, che il corpo, parte sua esteriore. et oltre a quella santissima di <persName
-                     ref="#Jesus">Cristo</persName>, l'anima ancora di ogni santo, et così di ogni buon Cristiano è molto piu nobile, che non è il
+                     <persName ref="#Jesus">Cristo</persName>, che il corpo, parte sua esteriore. et oltre a quella santissima di <persName ref="#Jesus">Cristo</persName>, l'anima ancora di ogni santo, et così di ogni buon Cristiano è molto piu nobile, che non è il
                   corpo. Sarebbesi possuto fare il suo dentro di ordine Ionico, et così ancora composito: che ogni uno di questi, per esser piu nobili
                   del Dorico, si sarebbono possuti ben disporre. È da considerare ancora, che le colonne, o pilastri, o simili membri di fuore di
                   qualunque tempio, o altra fabrica serà bene, potendo, di farle di maggiore grossezza di quelle della parte sua interiore; si perché
-                  meglio per confermatione di quel, che si è detto, seruerà il decoro; et si ancora perché piu lungo tempo si conserueranno. <figure
-                     type="schema"/>
+                  meglio per confermatione di quel, che si è detto, seruerà il decoro; et si ancora perché piu lungo tempo si conserueranno. <figure type="schema"/>
                   <pb n="38bis"/>
                </p>
             </div2>
             <div2 type="chapitre" n="3" xml:id="L3C3">
                <head> Pianta di tempio a crociera, per la città di potentissimo Prencipe, o gran republica, con le misure de'suoi membri particolari.
                   Cap. III. </head>
-               <p>Et se nella città Imperiale, Regale, o di qualche gran republica, o altro potentissimo Prencipe si uorrà fabricare il principale
+               <p xml:id="CAT_PQL_L3_L3C3_P1">Et se nella città Imperiale, Regale, o di qualche gran republica, o altro potentissimo Prencipe si uorrà fabricare il principale
                   tempio a crociera, uolendolo rappresentare magnifico, si potrà farlo di cinque navate nel suo corpo, et di tre nelle braccia, come
                   per la presente pianta si può considerare. della quale, per essere così piccola, non ne mostreremo altro alzato. Seranno dunque di
                   tal pianta ciascuna delle quattro fronti di ogni suo pilastro, o colonna, piedi tre larghe, et piedi trenta alte. le quattro navate
@@ -2208,7 +2122,7 @@
             <div2 type="chapitre" n="4" xml:id="L3C4">
                <pb n="39bis"/>
                <head>Pianta di tempio a crociera per castello, o città piccola, con le misure de'suoi membri principali. Cap. IIII.</head>
-               <p> Potrassi il tempio a crociera per una città piccola o gran castello fabricare di questa simile forma di una sola navata. i pilastri
+               <p xml:id="CAT_PQL_L3_L3C4_P1"> Potrassi il tempio a crociera per una città piccola o gran castello fabricare di questa simile forma di una sola navata. i pilastri
                   seranno per ciascuna delle tre loro fronti piedi tre: et movendosi dall'altra loro fronte un muro di piedi tre grosso, si uerrà a
                   congiugnere con l'altre duo mura estreme dalle bande: et ne uerranno da ogni banda a formare cinque cappelle di larghezza di piedi
                   quindici l'una: et si potranno, parendo piccole, fare sino uinti: et si potranno fare entrar di una in altra con porticciole di
@@ -2234,7 +2148,7 @@
             <div2 type="chapitre" n="6" xml:id="L3C6">
                <head> Diversa forma, et piu breve, di pianta di tempio a crociera, per città piccola, o castello, con le misure de'suoi membri
                   principali. Cap. VI. </head>
-               <p>E l'altra forma ancora piu semplice, come questa, che segue, o simile, si potrà fare in una terra piccola il tempio suo principale a
+               <p xml:id="CAT_PQL_L3_L3C6_P1">E l'altra forma ancora piu semplice, come questa, che segue, o simile, si potrà fare in una terra piccola il tempio suo principale a
                   crociera. Serà dunque di questo il transito del suo corpo largo piedi cinquantasei, quel delle braccia piedi trentadue, le sue
                   colonne piane di dentro piedi due e mezzo, et i loro membretti piedi uno et un quarto. et non uolendo farle tutte di pietra, basterà
                   fare le loro base, capitello, et cornicione di conci, come nelle due passate si è detto. gli spatii intra i pilastri per le cappelle
@@ -2252,7 +2166,7 @@
                <pb n="41"/>
                <head> Della forma del tempio rotondo, et dalla sua pianta, tiratone gli alzati per ordine di Prospettiva così della parte interiore,
                   come di quella di fuore, con le misure de i membri loro particolari. Cap. VII. </head>
-               <p>Avuenga che, oltre al principale, si potessero fare altri tempii per la città a crociera, così a parrochie, a conuenti, et per altri
+               <p xml:id="CAT_PQL_L3_L3C7_P1">Avuenga che, oltre al principale, si potessero fare altri tempii per la città a crociera, così a parrochie, a conuenti, et per altri
                   luoghi pii: ma perché la uarietà porga bellezza, si farà per tanto dal principale in poi, gli altri tempii della città di uariate et
                   diverse forme, come circolari, ovali, quadrangulari, et di piu anguli et lati, secondo che piu si conuenisse, ualendosi massime
                   dell'ottangula, per essere molto grata all'occhio, et porgere molta maestà a i riguardanti. formaremo dunque noi un tempio circolare
@@ -2274,7 +2188,7 @@
                   imposta seranno alte dette cappelle piedi uintinove. <figure type="schema"/>
                   <pb n="42bis"/>
                </p>
-               <p> Havendo a dietro dimostro la pianta et la metà del dentro del tempio rotondo, si dimostrerà hora l'alzato, che di fuore si può
+               <p xml:id="CAT_PQL_L3_L3C7_P2"> Havendo a dietro dimostro la pianta et la metà del dentro del tempio rotondo, si dimostrerà hora l'alzato, che di fuore si può
                   uedere, di tutto il tempio, tirato dalla detta sua pianta per ordine di Prospettiva, del quale i dodici intercolunni maggiori sono
                   piedi uintidue l'uno: che tutti uengono a essere piedi dugento sessantaquattro. ciascuna delle quattro entrate è larga piedi dieci,
                   et ciascuna delle otto loro pilastrate, che seruono per membretti alle colonne, è larga piedi due e mezzo: che tutte otto uengono a
@@ -2296,7 +2210,7 @@
             <div2 type="chapitre" n="8" xml:id="L3C8">
                <head> Come la medesima inuentione et ordine del tempio rotondo passato si possa usare nelle figure latere, come per la pianta
                   ottangula si dimostra. Cap. VIII. </head>
-               <p>Potrassi ualere l'Architetto della medesima inuentione della figura passata ancor nelle figure latere, come per la pianta ottangula
+               <p xml:id="CAT_PQL_L3_L3C8_P1">Potrassi ualere l'Architetto della medesima inuentione della figura passata ancor nelle figure latere, come per la pianta ottangula
                   si dimostra nel disegno, che segue, con quattro entrate: ma nelli anguli si accozzeranno di necessità due cappelle della medesima
                   figura: et di una di quelle si potrà fare la sagrestia, et sopra essa il suo campanile. ne di tale si farà altro alzato; ne si darà
                   alcuna misura. peroche si potrà fare di quella grandezza, che il luogo ricercherà. et di tale inuentione si potrà ancora ualere
@@ -2307,7 +2221,7 @@
                <pb n="44"/>
                <head>Diversa forma di tempio rotondo da quel, che si è mostro, et dalla sua pianta tiratone gli alzati per ordine di Prospettiva, così
                   della parte interiore, come di quella di fuore, con le misure de i membri suoi principali. Cap. IX. </head>
-               <p>In altro modo si potrà fare il tempio rotondo, sì come per questa figura si dimostra. il quale essendo porticato con sedici cappelle
+               <p xml:id="CAT_PQL_L3_L3C9_P1">In altro modo si potrà fare il tempio rotondo, sì come per questa figura si dimostra. il quale essendo porticato con sedici cappelle
                   così fuore come dentro, ne renderà non piccola uaghezza et commodità: quando intorno a quelle sopra la piana di tal portico si potrà
                   insieme con la parte interiore celebrare il culto divino. Parlando prima delle misure della sua pianta, le sue colonne piane di
                   dentro seranno larghe piedi quattro; et i loro membretti piedi due. le cappelle sono larghe piedi undici et un terzo, et così le sue
@@ -2318,15 +2232,14 @@
                   terzi; come per questa si dimostra: et sopra quella si farà il suo campanile, andandoui per scala a chiocciola. et a lui uicino si
                   farà l'altare maggiore. ma se tutte quattro le sue entrate si uorranno lassare libere, si potrà fare tal sagrestia sopra la uolta di
                   una delle sue entrate, et lo altare maggiore nel mezzo del tempio. <figure type="schema"/>
-                  <pb n="44bis"/> La figura, qui appresso che segue, rappresenta la metà del tempio nella parte interiore di ordine <placeName
-                     ref="#Corinthe">Corinto</placeName>, tirato dalla sua pianta passata per ordine di Prospettiva. et essendo, come si è detto, le
+                  <pb n="44bis"/> La figura, qui appresso che segue, rappresenta la metà del tempio nella parte interiore di ordine <placeName ref="#Corinthe">Corinto</placeName>, tirato dalla sua pianta passata per ordine di Prospettiva. et essendo, come si è detto, le
                   sue colonne piane piedi quattro, si faranno alte piedi trent'otto et duo terzi, il cornicione alto piedi sette et un terzo: che
                   fanno piedi quarantasei: i pilastri sopra con le loro cornici piedi quattordici: che in tutto fanno piedi sesse di altezza, et sopra
                   quella si moverà la sua tribuna. il diametro della lanterna dentro serà piedi uintiquatrto, et le sue otto colonne composite grosse
                   un piede et un terzo, et alte quattordici. <figure type="schema"/>
                </p>
                <pb n="45"/>
-               <p> Il disegno, che segue, rappresenta l'alzato di quanto si può ueder della parte di fuore del tempio rotondo, tirato per ordine di
+               <p xml:id="CAT_PQL_L3_L3C9_P2"> Il disegno, che segue, rappresenta l'alzato di quanto si può ueder della parte di fuore del tempio rotondo, tirato per ordine di
                   Prospettiva dalla detta sua pianta passata. le sue colonne Doriche sono larghe piedi quattro e mezzo, et alte trenta: che,
                   aggiuntoui piedi dieci, che sono la metà di uinti, che è largo il portico, fanno quaranta. e tanto seranno alte le uolte sotto,
                   uolendole dare tutto sesto. et di uerso il muro per causa del pendino si moverà sopra quelle il tetto alto piedi otto: et piedi
@@ -2345,7 +2258,7 @@
             <div2 type="chapitre" n="10" xml:id="L3C10">
                <pb n="46"/>
                <head> Pianta di tempio uariata dall'altre a similitudine di croce, con le misure de'suoi membri principali: Cap. X.</head>
-               <p> Voglio al presente mostrare l'ordine di un tempio a similitudine di croce: che in opera, per mio avuiso, si renderebbe molto uago;
+               <p xml:id="CAT_PQL_L3_L3C10_P1"> Voglio al presente mostrare l'ordine di un tempio a similitudine di croce: che in opera, per mio avuiso, si renderebbe molto uago;
                   come per la pianta, che segue, si può considerare. del quale ciascuno de i due diametri lunghi delle croci, senza le cappelle, che
                   gli sono in testa, sono lunghi piedi cento, et la loro larghezza piedi quaranta. il diametro dell'emiciclo di ciascuna delle tre
                   cappelle di testa è piedi uinti. et il medesimo è il diametro delle quattro cappelle circolari. di una delle quali si potrà fare la
@@ -2360,9 +2273,9 @@
          </div1>
          <div1 type="livre" n="4" xml:id="L4">
             <pb n="46bis"/>
-            <p>LIBRO QUARTO DI ARCHITETTURA DI PIETRO CATANEO SENESE: dove si tratta per uia di uarie piante l'ordine di piu palazzi, et casamenti:
+            <p xml:id="CAT_PQL_L4_P1">LIBRO QUARTO DI ARCHITETTURA DI PIETRO CATANEO SENESE: dove si tratta per uia di uarie piante l'ordine di piu palazzi, et casamenti:
                uenendo dal palazzo reale a quello di particolar Signore, et honorato gentilhuomo, sino alle case di persone private. </p>
-            <p> Non è cosa, che renda piu contentezza a gli huomini, Illustrissimo Signore, che l'havere una sana, ben composta, et uaga habitatione,
+            <p xml:id="CAT_PQL_L4_P2"> Non è cosa, che renda piu contentezza a gli huomini, Illustrissimo Signore, che l'havere una sana, ben composta, et uaga habitatione,
                per ricreatione et riposo doppo i uarii et diversi travagliamenti. et questo deve desiderare ogni gran Prencipe, ciascun Signore, et
                qual si uoglia honorato gentilhuomo, et ogni altra particolare persona; considerato, che alla maggior parte del tempo i Prencipi
                grandi, per causa delle molte audienze et negotii importanti, conuiene star dentro a i loro palazzi. poco meno interuiene a i
@@ -2371,23 +2284,20 @@
                simili ben proportionati edificii. ma molto piu le Princesse et gran madonne hanno da desiderare il palazzo, o habitatione loro di aria
                sana, et di bello et ben proportionato aspetto, per conuenirsi molto piu alle donne honorate, che a gli huomini stare in casa, et di
                raro lassarsi uedere. costumasi in molte prouincie, ma piu di ogni altra in <placeName ref="#Toscane">Toscana</placeName>, come
-                  <placeName ref="#Rome">Roma</placeName>, <placeName ref="#Sienne">Siena</placeName>, <placeName ref="#Florence"
-               >Fiorenza</placeName>, Lucca, et altri assai luoghi, così per i mercanti, come per uarii Signori et gentilhuomini, uoler per diporto
+                  <placeName ref="#Rome">Roma</placeName>, <placeName ref="#Sienne">Siena</placeName>, <placeName ref="#Florence">Fiorenza</placeName>, Lucca, et altri assai luoghi, così per i mercanti, come per uarii Signori et gentilhuomini, uoler per diporto
                intra le possessioni o uille loro un luogo particolare di piu salubrità, ornamento, et uaghezza di tutti gli altri, si per pigliare
                aria la primavera, o l'autunno, e tal uolta la state, essendo massime in qualche ameno, uago, et fresco colletto, copioso di uerzura,
-               con fiumicelli, et acque uive per fontane, come interuiene in maggior parte delle nostre colline intorno a <placeName ref="#Sienne"
-                  >Siena</placeName>, pigliandosi in tai loro uille per uia di pescagioni, cacciagioni, uccellare, canti, balli, ueglie, givochi, et
+               con fiumicelli, et acque uive per fontane, come interuiene in maggior parte delle nostre colline intorno a <placeName ref="#Sienne">Siena</placeName>, pigliandosi in tai loro uille per uia di pescagioni, cacciagioni, uccellare, canti, balli, ueglie, givochi, et
                altri uariati piaceri grato, honorato, et honesto diletto: quando simili piaceri, o maggior parte di quelli si possono con molto piu
                libertà usare alla uilla, che non si farebbe alla città. </p>
             <div2 type="chapitre" n="" xml:id="L4C1">
                <head> Delle qualità, che in genere si deveno ricercare ne i palazzi et casamenti così del Re, et di gran Prencipe, o di altro Signore,
                   et honorato gentilhuomo, come di ogni altra particolare persona. Capitolo primo. </head>
-               <p>Dovendo hor noi particolarmente parlare delle buone qualità, che si deveno ricercare nella edificatione de i palazzi, casamenti, o
+               <p xml:id="CAT_PQL_L4_L4C1_P1">Dovendo hor noi particolarmente parlare delle buone qualità, che si deveno ricercare nella edificatione de i palazzi, casamenti, o
                   altre fabriche habitabili di qual si uoglia Re, Prencipe, Prelato, Signore, o honorato gentilhuomo, et qual si uoglia persona
                   particolare, et come secondo la facultà dell'entrate et dignità del personaggio si conuenga procedere nella spesa et magnificentia
                   della fabrica, et similmente che tutte le parti et membri dell'edificio debbono havere intra loro ragionevole et corrispondente
-                  proportione: onde prima nella elettione di qual si uoglia gran palazzo, o casamento, che nella città si pensasse edificare, <pb
-                     n="47"/> si deve ricercare il buono aspetto del cielo, la commodità del giardino, con quella capacità delle piazze dinanzi o
+                  proportione: onde prima nella elettione di qual si uoglia gran palazzo, o casamento, che nella città si pensasse edificare, <pb n="47"/> si deve ricercare il buono aspetto del cielo, la commodità del giardino, con quella capacità delle piazze dinanzi o
                   d'intorno, che alla qualità dell'edificio et dignità di chi edifica si conuenisse. et se ui sorgeranno presso l'acque uive, che ui
                   si possino condurre; serà tanto meglio, potendosi massime per uia di cannone di metallo, et uarii pispini farle cadere da qualche
                   altezza nelle uaghe, ornate, fresche, et ombrate da uerzure fontane de i loro giardini. Et se alla uilla si uorrà fabricare palazzo,
@@ -2439,7 +2349,7 @@
             <div2 type="chapitre" n="2" xml:id="L4C2">
                <head>Pianta di palazzo reale, o di gran republica, con le braccia di due appartamenti, et con quattro porte incontro l'una a l'altra,
                   uenendo ciascuna nel mezzo della sua faccia, con le particolari misure di ogni suo membro. Cap. II. </head>
-               <p>Dovendo hor noi dar principio a uarii et diversi compartimenti di palazzi et casamenti, et per esser i disegni et membri di quelli
+               <p xml:id="CAT_PQL_L4_L4C2_P1">Dovendo hor noi dar principio a uarii et diversi compartimenti di palazzi et casamenti, et per esser i disegni et membri di quelli
                   così piccoli, non ne diverriano i loro alzati quasi niente aiutati dalla Prospettiva; mostraremo per tanto solo di essi le uariate
                   loro piante, dalle quali si potrà facilmente, riducendole in forma grande, disegnare gli alzati loro per ordine di Prospettiva.
                   Formaremo dunque prima un palazzo reale, o per potente republica, di due appartamenti, con quattro porte, o entrate, incontro l'una
@@ -2494,7 +2404,7 @@
             <div2 type="chapitre" n="3" xml:id="L4C3">
                <pb n="49"/>
                <head>Variata pianta di palazzo regale, di due appartamenti, di forma quadrata, con le misure de'suoi membri principali. Cap. III. </head>
-               <p>In altro modo, et di minore spesa, et ricetto, si potrà fare il palazzo Signorile, et potrà seruire per due appartamenti, piglisi di
+               <p xml:id="CAT_PQL_L4_L4C3_P1">In altro modo, et di minore spesa, et ricetto, si potrà fare il palazzo Signorile, et potrà seruire per due appartamenti, piglisi di
                   quadro per ogni uerso braccia cento settantadue; le quali si partino per braccia quattro: che in questa si fanno i sodi, et i uani,
                   o porte così aperte, come finte: et ne uerrà quarantatre: che seranno uintiduo sodi, et uint'uno uano: et così serà compartita tutta
                   la faccia fuore di esso palazzo: il quale si presuppone spiccato di ogn'intorno, et che si possa accommodare con quello honorato
@@ -2523,7 +2433,7 @@
                <pb n="49bis"/>
                <head>Altra pianta di palazzo quadrato, di minore spesa, et ricetto, con due appartamenti, et con le misure de'suoi membri principali.
                   Cap. IIII. </head>
-               <p>Di altra forma piu piccola, et di minore spesa si potra far il palazzo quadrato, di due appartamenti, come in questa pianta seguente
+               <p xml:id="CAT_PQL_L4_L4C4_P1">Di altra forma piu piccola, et di minore spesa si potra far il palazzo quadrato, di due appartamenti, come in questa pianta seguente
                   si mostra. il quale si è fatto per ogni uerso braccia cento tredici: et si sono partite per uintisette tra uani et sodi. i sodi
                   delle cantonate si sono fatti di braccia sei, et le porte principali di mezzo braccia cinque larghe: che per ogni faccia occupano le
                   due cantonate et la porta principale braccia dicissette: che tratte di cento tredici restano braccia novantasei per gli altri
@@ -2549,7 +2459,7 @@
                <pb n="50bis"/>
                <head>Pianta diversa da l'altre già mostre di palazzo, per il Prencipe, con due cortili, et due entrate principali, incontro l'una
                   all'altra, pur di due appartamenti, con le misure de'suoi membre principali. Cap. V. </head>
-               <p>Potrassi ancora fare il palazzo Signorile con due cortili, et due appartamenti, et con due entrate principali, incontro l'una
+               <p xml:id="CAT_PQL_L4_L4C5_P1">Potrassi ancora fare il palazzo Signorile con due cortili, et due appartamenti, et con due entrate principali, incontro l'una
                   all'altra, di modo che da una porta spassi la uista per l'altra sua opposita, come per la presente pianta si dimostra. la quale
                   piglia di spatio per un uerso braccia centouintitre, et per l'altro ottantasei, e tutti i sodi sono braccia cinque: et il medesimo
                   sono le due porte principali: et ciascuno de gli spatii o uani intra sodi uiene a restar braccia quattro. le mura delle quattro
@@ -2570,7 +2480,7 @@
                <pb n="53"/>
                <head>Pianta di palazzo quadro per particolar Signore o ricco gentilhuomo, di molto minore spesa, et ricetto dell'altre passate; pur di
                   due appartamenti, con le sue misure principali. Cap. VI. </head>
-               <p>Di assai minore spesa et ricetto di quel, che si è mostro sino hora, si potrà fare il palazzo quadro per particolar Signore o ricco
+               <p xml:id="CAT_PQL_L4_L4C6_P1">Di assai minore spesa et ricetto di quel, che si è mostro sino hora, si potrà fare il palazzo quadro per particolar Signore o ricco
                   gentilhuomo, di due appartamenti, con due principali entrate, incontro l'una a l'altra. et si potrà pigliare di spatio per ogni
                   uerso braccia novantacinque, dividendolo per diciennove tra'sodi o porte, così aperte come finte, o uani che dir gli uogliamo; tal
                   che ciascuno di essi serà braccia cinque. et se i sodi paressero di troppo spatio, considerato che i finestrati uengono assai
@@ -2592,7 +2502,7 @@
             <div2 type="chapitre" n="7" xml:id="L4C7">
                <pb n="53bis"/>
                <head>Pianta di casa per particolar persona, senza cortile, con le sue particolari misure. Cap. VII. </head>
-               <p>Passando hora alle case piu universali, et per persone particolari, ne formaremo una pianta senza cortile, come qui si uede; la
+               <p xml:id="CAT_PQL_L4_L4C7_P1">Passando hora alle case piu universali, et per persone particolari, ne formaremo una pianta senza cortile, come qui si uede; la
                   faccia della quale, et così la parte sua opposita serà braccia sessanta: et et da ciascuno de i duo fianchi è braccia uint'otto.
                   essi divisa la facciata sua in quindici parti, et i fianchi in parti sette; tal che ogni sodo et spatio per le porte finte, come
                   ancora per la sua aperta principale è braccia quattro. essi lassato dietro due porte aperte, di braccia tre larghe, da seruirsene
@@ -2611,7 +2521,7 @@
             <div2 type="chapitre" n="8" xml:id="L4C8">
                <head>Variata pianta per particolar persona, con cortile da una banda della casa, et parte opposita della sua faccia principale, con le
                   sue misure paticolari. Cap. VIII. </head>
-               <p>Et volendo fare il cortile da una banda della casa, et parte opposita della sua faccia principale, si è preso braccia sessantanove
+               <p xml:id="CAT_PQL_L4_L4C8_P1">Et volendo fare il cortile da una banda della casa, et parte opposita della sua faccia principale, si è preso braccia sessantanove
                   di quadro per ogni uerso: et si è compartita la sua faccia in uintitre tra sodi, et uani, o spatii per i finestrati: ne si è lassata
                   altra porta, che la principale: alla quale si è dato braccia quattro di apertura. i sodi delle cantonate si sono fatti braccia tre e
                   tre quarti. tutti gli altri sodi et così i uani per i finestrati da basso braccia due e mezzo. et in questa facciata non si è
@@ -2628,7 +2538,7 @@
                <figure type="schema"/></div2>
             <div2 type="chapitre" n="9" xml:id="L4C9">
                <head>Altra pianta di casa per particolar persona, con le sue misure. Cap. IX.</head>
-               <p> Potrassi fare la casa in quest'altro modo. piglisi per la lunghezza braccia quarantatre; et partisi la sua facciata per quindici
+               <p xml:id="CAT_PQL_L4_L4C9_P1"> Potrassi fare la casa in quest'altro modo. piglisi per la lunghezza braccia quarantatre; et partisi la sua facciata per quindici
                   tra sodi, et uani, o porte così finte, come per la principale. i sodi delle cantonate si faranno braccia due e mezzo, e tutti gli
                   altri di tal faccia braccia due. ma i uani delle porte finte, et così l'apertura della sua porta principale seranno di braccia
                   quattro. i fianchi di tal casa sono braccia uintisette: che si sono compartiti egualmente in nove tra sodi et uani di braccia tre
@@ -2646,7 +2556,7 @@
                <figure type="schema"/></div2>
             <div2 type="chapitre" n="10" xml:id="L4C10">
                <head>Modo novo, et non piu usato, di pianta di palazzo a crociera, con le sue misure. Cap. X. </head>
-               <p>Bella cosa è ueramente il uariare da gli edificii ordinarii: di che molte uolte con lode universale se ne acquista la gratia della
+               <p xml:id="CAT_PQL_L4_L4C10_P1">Bella cosa è ueramente il uariare da gli edificii ordinarii: di che molte uolte con lode universale se ne acquista la gratia della
                   republica, o del suo Signore. Sforzerommi per tanto di piu inuentioni, che mi uengono in mente, darne alcuno esempio, che piu mi
                   paia da dover esser messo in opera; quantunque i medesimi si potessero diversamente mostrare. onde formaremo prima in pianta un
                   palazzo a crociera, tratto dal quadro. et essendo intorno spiccato, abbonderanno per tutto le sue stanze di bellissimi lumi: del
@@ -2658,15 +2568,14 @@
                   tramezzi braccia uno e mezzo grossi, uengono a restare le stanze o camere da i fianchi per la larghezza della sala braccia dieci: et
                   per l'altro uerso uengono a restar tai camere braccia nove e tre quarti. la sala maggiore da man sinistra si è lassata larga braccia
                   diciotto. et uolendo fare il palazzo di quattro entrate, si potra fare nel medesimo modo la sala di man destra, che quella di mano
-                  sinistra. Il uano o spatio del cortile, come si è detto, è braccia trentanove. essi con quattro colonne, di un braccia et un <pb
-                     n="53"/> quarto l'una di grossezza, diviso in cinque intercolunni: che resta braccia sei e quattro quinti di spatio per
+                  sinistra. Il uano o spatio del cortile, come si è detto, è braccia trentanove. essi con quattro colonne, di un braccia et un <pb n="53"/> quarto l'una di grossezza, diviso in cinque intercolunni: che resta braccia sei e quattro quinti di spatio per
                   intercolunnio: e nelle cantonate del cortile, per meglio procedere, si faranno le colonne o pilastri quadri. le misure delle scale
                   et altre stanze si troveranno proportionandole alle altre già dette. </p>
                <figure type="schema"/></div2>
             <div2 type="chapitre" n="11" xml:id="L4C11">
                <head>Che ne i palazzi, o casamenti si può procedere fuor delle figure rettangule, et come dalla pianta passata si possa fare il palazzo
                   ottangulo, con le sue particolari misure. Cap. XI.</head>
-               <p> Potrassi ancor procedere ne i casamenti, o palazzi fuor delle figure rettangule, facendo il palazzo esagono, ottangulo, et di piu
+               <p xml:id="CAT_PQL_L4_L4C11_P1"> Potrassi ancor procedere ne i casamenti, o palazzi fuor delle figure rettangule, facendo il palazzo esagono, ottangulo, et di piu
                   anguli et lati, di uarie et diverse maniere, secondo il desiderio di chi edifica. ma noi per hora mostraremo, come dalla pianta
                   passata si possa causare il palazzo di otto anguli, o lati: quantunque le stanze non concordino in tutto nella distributione loro
                   con quelle della figura già mostra, per dimostrarsi questa di due sole entrate principali: benche questa ancora si potria fare di
@@ -2678,7 +2587,7 @@
                <figure type="schema"/></div2>
             <div2 type="chapitre" n="12" xml:id="L4C12">
                <head>Forma di palazzo rotonda fuor dell'uso ordinario. Cap. XII. </head>
-               <p>Non solo è conueniente tal uolta, per uariare, così ne'palazzi come nell'altre fabriche uscire delle figure contenute da anguli
+               <p xml:id="CAT_PQL_L4_L4C12_P1">Non solo è conueniente tal uolta, per uariare, così ne'palazzi come nell'altre fabriche uscire delle figure contenute da anguli
                   retti; ma ancor tal uolta, per compiacere massime a i capricci de'Signori, è necessario procedere fuor delle figure rettelinee, et
                   fabricare il palazzo circolare, ovale, o di altre simili figure. ma noi ne formaremo una pianta di circolo perfetto: ancor ch'io non
                   creda, che hoggi si uegga, ne che nell'antico si sia uisto usata tal figura ne i palazzi o casamenti; ne ch'io approui che sia da
@@ -2694,7 +2603,7 @@
          </div1>
       </body>
       <back type="postface">
-         <p> TAVOLA DI QUANTO NE I QUATTRO LIBRI dell'architettura di Pietro Cataneo si contiene. CAPITOLI DEL PRIMO LIBRO. Quel che piu facci di
+         <p xml:id="CAT_PQL_P3"> TAVOLA DI QUANTO NE I QUATTRO LIBRI dell'architettura di Pietro Cataneo si contiene. CAPITOLI DEL PRIMO LIBRO. Quel che piu facci di
             bisogno allo Architetto, et di quanta importanza gli sia l'essere nella Prospettiva ben prattico. Capitolo primo. Come si congregassero
             gli huomini, et si dessero al uivere politico; che prima, come bestie, menavano lor uita: et come dalle loro rozze cappanne si uenisse a i
             superbi edificii: et da chi prima fusse trovata l'Architettura. Cap. II. Di tutte le buone parti, che in genere si deveno ricercare nella
@@ -2725,7 +2634,7 @@
             città maritima, posta nel piano, col molo, che serue anco per cittadella, con le misure della sua pianta, et da quella tiratone l'alzato
             per ordine di Prospettiva. Cap. XIX. Come in uno stesso regno o dominio si conuenga fortificar quelle terre o luoghi, che all'entrate et
             qualità del potentato si ricerca, uenendo sino a un particolar gentilhuomo. Cap. XX. </p>
-         <p> CAPITOLI DEL SECONDO LIBRO. À che si conosca la buona creta, et come, et a che tempo s'impasti nel fare i mattoni et altri suoi lavori
+         <p xml:id="CAT_PQL_P4"> CAPITOLI DEL SECONDO LIBRO. À che si conosca la buona creta, et come, et a che tempo s'impasti nel fare i mattoni et altri suoi lavori
             accommodati per le fabriche. Capitolo primo. Natura et effetti di pietre, et prima delle marmoree, et come i porfidi, mischi, serpentini,
             graniti, et altre assai colorate sieno da tener per marmi. Cap. II. Del tevertino, del macigno, del tufo, et altre sorti di pietre, et
             come si conuenghino all'aria scoperta, o dentro al coperto metter in opera, secondo la qualità di loro nature. Cap. III. Della diversità
@@ -2736,7 +2645,7 @@
             VIII. Di che tempo si conuenghino tagliar gli arbori per le fabriche et per ogni opera di lavoro, et come in diversi modi si conserui il
             lor legname. Cap. IX. Quali tempi sieno piu conuenienti al murare delle fabriche. Cap. X. Come s'impastino et si lavorino gli stucchi.
             Cap. XI. Calcestruzzo, o smalto di due sorti. Cap. XII. </p>
-         <p> CAPITOLI DEL TERZO LIBRO. Come il principal tempio della città, uolendo seruare il decoro della religione Cristiana, si conuenga fare a
+         <p xml:id="CAT_PQL_P5"> CAPITOLI DEL TERZO LIBRO. Come il principal tempio della città, uolendo seruare il decoro della religione Cristiana, si conuenga fare a
             crociera, et a similitudine di un ben proportionato corpo humano, col suo disegno. Capitolo primo. Secondo disegno del tempio a crociera,
             et dalla sua pianta tiratone gli alzati per ordine di Prospettiva così della parte interiore come di quella di fuore, con le particolari
             misure de i membri loro principali, et come il suo dentro si debbi fare di ordine piu nobile e men robusto che la parte sua di fuore. Cap.
@@ -2750,7 +2659,7 @@
             rotondo da quel che si è mostro, et dalla sua pianta tiratone gli alzati per ordine di Prospettiva così della parte interiore come di
             quella di fuore con le misure de'suoi membri principali. Cap. IX. Pianta di tempio uariata da gli altri, a similitudine di croce con le
             misure de'suoi membri principali. Cap. X. </p>
-         <p> CAPITOLI DEL QUARTO LIBRO. Delle qualità, che in genere si deveno ricercare ne i palazzi et casamenti così del Re, et di gran republica,
+         <p xml:id="CAT_PQL_P6"> CAPITOLI DEL QUARTO LIBRO. Delle qualità, che in genere si deveno ricercare ne i palazzi et casamenti così del Re, et di gran republica,
             o potente Prencipe, come di altro Signore et honorato gentilhuomo, sino alle case di particolar persona. Capitolo primo. Pianta di palazzo
             regale, o di gran republica, di due appartamenti, con le braccia, con quattro porte, o entrate, con le sue particolari misure. Cap. II.
             Variata pianta di palazzo regale, di due appartamenti, di forma quadrata, senza braccia, con le sue particolari misure. Cap. III. Altra
@@ -2763,9 +2672,9 @@
             nuovo, e non piu usato, di pianta di palazzo a crociera, con le sue misure. Ca. X. Che ne i palazzi, o casamenti si può procedere fuor
             delle figure rettangule; et come della pianta passata si può fare il palazzo ottagono; con le sue particolari misure. Cap. XI. Forma di
             palazzo rotondo, fuor dell'uso ordinario. Cap. XII. </p>
-         <p> REGISTRO. A B C D E F G H I K L M N O. Tutti sono duerni. </p>
-         <p> In <placeName ref="#Venise">Vinegia</placeName>, in casa de'figlivoli di Aldo. </p>
-         <p> M. D. LIIII. </p>
+         <p xml:id="CAT_PQL_P7"> REGISTRO. A B C D E F G H I K L M N O. Tutti sono duerni. </p>
+         <p xml:id="CAT_PQL_P8"> In <placeName ref="#Venise">Vinegia</placeName>, in casa de'figlivoli di Aldo. </p>
+         <p xml:id="CAT_PQL_P9"> M. D. LIIII. </p>
       </back>
    </text>
 </TEI>

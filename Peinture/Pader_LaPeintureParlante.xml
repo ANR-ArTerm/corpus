@@ -56,7 +56,7 @@
 					</msIdentifier>
 					<msContents>
 						<summary>
-							<p>Le document comporte 85 pages. Les premières pages, non numérotées, correspondent tout d'abord à une adresse aux peintres de l'Académie royale de peinture suivie d'une explication de termes artistiques puis du texte du privilège accordé par le roi, enfin viennent quelques dédicaces. La numérotation des feuillets, de 1 à 61, correspond au texte de la Peinture parlante, la composition des pages est régulière, sur une colonne. Les caractères principalement utilisés sont des caractères italiques, on trouve quelques notes marginales en caractères romains.Les deux dernières pages, numérotées 62 et 62, sont une retranscription d'une lettre de <persName ref="#NicolasPoussin">Nicolas Poussin</persName> à <persName ref="#HilairePader">Hilaire Pader</persName>. </p>
+							<p xml:id="PAD_LPP_P1">Le document comporte 85 pages. Les premières pages, non numérotées, correspondent tout d'abord à une adresse aux peintres de l'Académie royale de peinture suivie d'une explication de termes artistiques puis du texte du privilège accordé par le roi, enfin viennent quelques dédicaces. La numérotation des feuillets, de 1 à 61, correspond au texte de la Peinture parlante, la composition des pages est régulière, sur une colonne. Les caractères principalement utilisés sont des caractères italiques, on trouve quelques notes marginales en caractères romains.Les deux dernières pages, numérotées 62 et 62, sont une retranscription d'une lettre de <persName ref="#NicolasPoussin">Nicolas Poussin</persName> à <persName ref="#HilairePader">Hilaire Pader</persName>. </p>
 						</summary>
 					</msContents>
 				</msDesc>
@@ -86,10 +86,10 @@
 				<head>
 					<hi rend="capitals">À MESSIEURS LES PEINTRES DE L'ACCADEMIE ROYALE DE <placeName>PARIS</placeName>.</hi>
 				</head>
-				<p>
+				<p xml:id="PAD_LPP_P1">
 					<hi rend="capitals">Messieurs,</hi>
 				</p>
-				<p>Quoy que je sçache que je ne suis pas moins temeraire de vous dedier mon Ouvrage, que j'ay esté hardy à l'entreprendre ; je ne desespere pas neantmoins que vous ne luy fassiez un accueil favorable, sur l'asseurance que je vous donne qu'il n'a desiré d'estre veu de vous que pour vous tesmoigner mon respect. Ce n'est pas, MESSIEURS, que j'aye creu vous pouvoir descouvrir de nouvelles graces, elles vous sont toutes connues ; et j'ay trop de connoissance de mon peu de sçavoir (que l'ignorance du Grec et du Latin <pb n="III" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f10.item"/> deffendra tousjours du blasme de Pedanterie, et rendra excusable d'une infinité de defauts) pour pretendre autre chose de vostre Auguste Academie que l'honneur de vostre protection. Je sçay que bien que ma Peinture parle, elle ne sçauroit estre favorablement escoutée de personne si elle ne l'est premierement de vous ; l'estime de Monsieur <persName ref="#NicolasPoussin">Poussin</persName> luy a donné veritablement l'estre, mais la vostre, MESSIEURS, luy donnera le bien estre ; et si vos oreilles delicates ont la mesme bonté qu'a eu ce Heros de souffrir la dureté de ses accents et de ses paroles mal ordonnées, je poursuivray l'impression de la seconde Partie, qui est plus purgée ; et par ce moyen, je ne feray pas difficulté de pretendre meriter l'aprobation de tout le reste du monde : Qui me la pourroit refuser sous le tiltre de MESSIEURS. <unclear>Vostre tres-humble serviteur et Peintre.</unclear><lb/>
+				<p xml:id="PAD_LPP_P2">Quoy que je sçache que je ne suis pas moins temeraire de vous dedier mon Ouvrage, que j'ay esté hardy à l'entreprendre ; je ne desespere pas neantmoins que vous ne luy fassiez un accueil favorable, sur l'asseurance que je vous donne qu'il n'a desiré d'estre veu de vous que pour vous tesmoigner mon respect. Ce n'est pas, MESSIEURS, que j'aye creu vous pouvoir descouvrir de nouvelles graces, elles vous sont toutes connues ; et j'ay trop de connoissance de mon peu de sçavoir (que l'ignorance du Grec et du Latin <pb n="III" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f10.item"/> deffendra tousjours du blasme de Pedanterie, et rendra excusable d'une infinité de defauts) pour pretendre autre chose de vostre Auguste Academie que l'honneur de vostre protection. Je sçay que bien que ma Peinture parle, elle ne sçauroit estre favorablement escoutée de personne si elle ne l'est premierement de vous ; l'estime de Monsieur <persName ref="#NicolasPoussin">Poussin</persName> luy a donné veritablement l'estre, mais la vostre, MESSIEURS, luy donnera le bien estre ; et si vos oreilles delicates ont la mesme bonté qu'a eu ce Heros de souffrir la dureté de ses accents et de ses paroles mal ordonnées, je poursuivray l'impression de la seconde Partie, qui est plus purgée ; et par ce moyen, je ne feray pas difficulté de pretendre meriter l'aprobation de tout le reste du monde : Qui me la pourroit refuser sous le tiltre de MESSIEURS. <unclear>Vostre tres-humble serviteur et Peintre.</unclear><lb/>
 				</p>
 			</div>
 			<div xml:id="lexique" type="lexique" xml:lang="fra">
@@ -98,41 +98,41 @@
 				<head>
 					<hi rend="capitals">Explication des mots <lb/> Et termes de la peinture,</hi>
 					<lb/> qui se trouvent marquez de Paraffes.</head>
-				<p>
+				<p xml:id="PAD_LPP_lexique_P1">
 					<figure type="lettrine"/><hi rend="capitals">CONTOURS</hi>, Ce sont les lineaments (que les Peintres appellent par fois simple traict), par le moyen desquels l'œil distingue toutes les choses que l'ouvrier veut <unclear>representer</unclear>, et qui sans ombre et sans couleurs font paroistre sur une plate superficie la troisiéme dimention qui n'y est point, à sçavoir la profondeur, ce qu'ils font à l'aide des racourciments et de la perspective. De sorte que les Contours sont le premier Element de la Peinture, et du reste des Arts qui dependent du Dessein : C'est par eux qu'on discerne non seulement les choses tant naturelles qu'artificielles, mais de surcroit la difference des phisionomies et les passions de l'ame, à la faveur des mouvements exterieurs. Or si les susdits Contours doivent estre marquez ou non quand on peint, c'est un poinct tres delicat : puis que les Venitiens, et la plus part des Lombards les confondent dans le champ, et que les Romains Sectateurs du dessein les affectent ; c'est pourquoy je renvoye le curieux aux riches <bibl key="lomazzoIdeaTempioPittura1590">Traictés de la peinture</bibl> du <persName ref="#GiovanniPaoloLomazzo">Lomasse</persName>. Et neanmoint je diray en passant, que si la lumiere esclaire le corps opaque terminé plus par deriere que par devant, il faut que le Contour soit net du costé que la lumiere frape ; ce qui doit estre entendu des corps Spheriques, et non de la plus part de ceux de l'Archirecture qui ont leurs bornes (quelque disposition qu'ait la lumiere) nettes et sans cette confusion, ou pour mieux dire, sçavant melange que les Italiens appellent <hi rend="it" xml:lang="ita">Abagliamento</hi>.</p>
-				<p><persName ref="#PaoloGuidotti"><hi rend="capitals">GUIDOTI</hi></persName> vivoit du temps du <persName ref="#PaulV">Pape Paul V.</persName> Il estoit Peintre, <pb n="V" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f12.item"/> Sculpteur, Ingenieur, tres-intelligent aux Mathematiques, versé aux forces mouvantes des Machines, à tel point qu'il en avoit composé deux en forme d'aisles de chauve-souris qu'il estendoit et resseroit selon la force du vent, et qu'il attachoit à ses espaules pour voler ; si bien qu'apres avoir fait la preuve à cachettes en son particulier, il se declara au <persName ref="#PaulV">Pape</persName>, et entreprit de voler du <placeName ref="#Vatican">Vatican</placeName>, jusqu'au delà du Tibre, ce qu'il auroit executé heureusement si la teste ne luy eut tourné de frayeur, quand il se vid au droit du fleuve, de sorte que n'ayant plus le jugement de se conduire, il tomba dans de la chaux destrempée sur le bord du Tibre, ce qui luy sauva la vie : Cette action se passa en presence du susdit <persName ref="#PaulV">Pape</persName>, de tous les Cardinaux et du Peuple Romain, qui s'estoient assemblés à la place S. Pierre pour voir cette merveille. Il fit quelques ouvrages rares, tant de Peinture que d'Esculpture, toutesfois il ne se soustint point, et il fut de ses œuvres comme de sa machine. Cét esprit bouillant ne se pouvant contenir alloit d'une science à l'autre comme les oyseaux de l'une à l'autre branche, et pour estre trop remply de fumées et de vanité, il donnoit tousjours dans les entreprises extraordinaires, qui bien souvent ne luy reussissoient pas selon qu'il se les estoit proposées.</p>
-				<p><hi rend="capitals">POLIONS</hi>, C'est à dire d'excellents Architectes : parce que <persName ref="#Vitruve">Vitruve Polion</persName> (qui vivoit sous l'Empire d'<persName ref="#Auguste">Auguste</persName>, auquel les ouvrages que nous en voyons encore aujour d'huy furent dediez par ce rare esprit) semble avoir tiré l'eschelle apres soy, pour l'Architecture Reguliere.</p>
-				<p><hi rend="capitals">DESSEIN</hi>, Le mien en cet endroit est de faire connoistre qu'il y en a de deux façons, dont les premiers sont universels, veu que personne n'agit sans dessein, et les seconds sont particuliers, et appartiennent proprement aux Peintres. Le pemier est pere du second, et peut estre sans luy, où le second ne se peut tirer de puissance en acte que par le moyen du premier. Le fils a pourtant beaucoup de la ressemblance du pere, comme l'exemple suivant le fera connoistre. J'ay faict dessein de me rendre aupres de <persName ref="#HonoreIIDeMonaco">Monseigneur le Prince de Monaco</persName>, pour avoir l'honneur de servir cét Altesse : Voyla le dessein ideal en blot, les parties duquel sont que je passeray à <placeName ref="#Arles">Arles</placeName>, <pb n="VI" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f13.item"/>à <placeName ref="#Marseille">Marseille</placeName>, de là, par une pieuse curiosité à la Saincte Baume, etc. Neantmoins il se pourra faire que divers accidents m'obligeront de prendre un autre route qui sera plus incommode, (ce sont les estropiemens desquels nous parlerons.) Si j'arrive à Monaco le Dessein sera achevé, quoy qu'imparfaictement eu esgard à ce que je me l'estois proposé : Voyla ce que j'entens pour Dessein universel, d'autant que tout le monde en a de cette nature, quoy que pour des sujets differents. Où le second, qui appartient purement aux Peintres, ne peut estre executé que par ceux qui sçavent portraire. Voicy le rapport que je trouve qu'il a avec le premier. C'est qu'auparavant que le Peintre mette la main au Crayon, il faut que le premier Dessein ait precedé, qui est l'intention de ce qu'il veut representer, et en suite que le Dessein ideal de la mesme histoire qu'il veut faire soit tracé au blanc de son esprit avant qu'il le couche sur le papier : si c'est une fuite en <placeName ref="#Egypte">Egypte</placeName> et que l'Ouvrier ait l'intention de la representer à la descente d'une Montaigne, au passage d'une Riviere, ou qu'ils se reposent. Chacune de ces intentions fait un Dessein en blot, qu'il faut enfanter par le moyen des parties qui le composent : si c'est la descente par la representation de la <persName ref="#Marie">Vierge</persName> qui porte avec grande precaution le petit <persName ref="#Jesus">Jesus</persName> entre ses bras, tandis que <persName ref="#Joseph">S. Joseph</persName> conduit la Mule et que les Anges leur rendent de bons offices, et les escortent en ce voyage. Les beaux esprits des hommes seulement litterez peuvent mesmes arriver jusqu'icy touchant les Desseins ideals ; mais ce qui suit appartient purement au Peintre (quoy qu'il soit sous la mesme Cathegorie des ldées), et c'est l'arrangement historique des figures qu'on a arresté de representer, c'est-à-dire l'Assiette, et les gestes qu'on leur veut donner. Apres il faut exprimer sur le papier promptement (afin qu'en recherchant les parties, la belle disposition du total n'eschape), ce qui a esté imaginé : Et ces premiers Desseins s'appelent Esquis, ou Brouillards, apres lesquels on fait un autre dessein qu'on acheve jusqu'à ses moindres parties, et où nous espreuvons la verité de ce Proverbe Italien, qui dit (<hi rend="it" xml:lang="ita">del dir al fatto ch'é grand tratto</hi>, veu que le plus souvent il ne nous reüssit pas comme nous nous l'estions proposé, où les <pb n="VII" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f14.item"/>estropiements et autres deffauts sont les fourvoyements et autres mauvais accidents qui arrivent à ceux qui ont entrepris un voyage, ou autre affaire, sous la premiere sorte de desseins que j'ay nommés universels, et desquels je n'ay pas entendu parler en mes vers, ains de ceux qui sont faits avec du Crayon sur le papier.</p>
-				<p><hi rend="capitals">CARTONS</hi>, ce sont des Desseins aussi grands que l'ouvrage qu'on veut peindre à Frais, et pour l'ordinaire, on n'y fait que les seuls Traicts ou Contours, fort corrects pourtant, ce qu'on fait sur de grandes feuilles de papier, proprement jointes ensemble, jusqu'à ce qu'elles fassent la juste grandeur de la piece qu'on veut peindre, et de là vient leur nom ; Parce que CARTA en Italien veut dire Papier : l'Enduite estant faite par le Masson sur la muraille, de ce que le Peintre juge pouvoit achever cette journée, il attache son Carton dessus, et calque les Contours (qui demeurent imprimez sur l'enduite) avec <hi rend="capitals">L'ANTE</hi> du Pinceau (c'est le manche), ce que <persName ref="#LucaCambiaso"><hi rend="capitals">LUCAS CANGIASIO</hi></persName>, (ce prodigieux Ouvrier pour la Frais, duquel il a esté parlé peu auparavant) ne faisoit pas le plus souvent. Ce que j'ay verifié à la <objectName ref="#LucaCambiasoFacadeNordPalaisMonaco">Façade</objectName> qui tourne sur la grand Cour du Palais du <persName ref="#HonoreIIDeMonaco">Prince de Monaco</persName> (le plus rare ouvrage qui se puisse voir en sa façon) et où cét Illustre Genois semble avoir épuisé tout ce qu'il avoit de rare, sur tout aux deux frises, où j'ay remarqué qu'il ne s'estoit pas servi de Cartons, l'enduite n'estant nullement enfoncée au droit des Contours, ce qui marque la grande promptitude que cet Ouvrier avoit d'exprimer aisement ce qu'il vouloit avec le pinceau, en quoy il fut esgalé par <persName ref="#JacopoTintoretto">Jacques Tintorez</persName> Peintre Venitien, qui avoit plustot fait son Tableau que les autres Peintres, qui vivoient de son temps à <placeName ref="#Venise">Venise</placeName>, n'avoient fait le Dessein.. </p>
-				<p><hi rend="capitals">FLOVET</hi>, c'est tenir sa Peinture bien nourrie de couleurs et arrondie, qui est le vray moyen de representer la chair potelée, et proprement ce qu'on dit en Italien <hi rend="it" xml:lang="ita">Morbido é Pastoso</hi>.</p>
-				<p><hi rend="capitals">PASTELS</hi>, ce sont des crayons, composez de toutes les couleurs dont on se sert pour peindre, broyées à destrempe en y adjoustant un peu de Plastre. On se sert desdits crayons <pb n="VIII" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f15.item"/>pour desseigner sur le papier gris ou bleu, et la Noblesse se peut fort bien servir d'iceux pour faire des Portraicts colorez au naturel et autres choses, sans estre obligez à se mesler parmy les huilles. <persName ref="#LeonardoDaVinci"><hi rend="capitals">LEONARD D'AVINCE</hi></persName>, selon le grand <persName ref="#GiovanniPaoloLomazzo">Lomasse</persName>, excella en cette façon de desseigner.</p>
-				<p><hi rend="capitals">MANIERE</hi>, c'est comme le Stille parmy les Poëtes, et comme ils sont divers, les Manieres le sont aussi ; de telle sorte que je trouve qu'il y a grande relation des Peintres aux Poëtes. Le Docte <persName ref="#GiovanniPaoloLomazzo">Lomasse</persName> fait voir la conformité qui se trouve entre lez Ouvrages des plus fameux Peintres d'<placeName ref="#Italie">Italie</placeName> et les Stiles des plus encellents Poëtes de la mesme nation ; surquoy je diray apres luy que le grand naturel d'<persName ref="#Ovide">Ovide</persName>, et la facillité de nostre <persName>Theophile</persName> se trouvant aux ouvrages du <persName ref="#GiuseppeCesari">Chevalier Josepin</persName>. Le fonds et la vigueur de <persName ref="#Virgile">Virgile</persName> et <persName>Dubarthas</persName>, en ceux de <persName ref="#MichelAnge">Michel Lange</persName> ; la douceur et l'achevement de <persName ref="#FrancoisDeMalherbe">Malherbe</persName>, en ceux du <persName ref="#NicolasPoussin">Poussin</persName>, ainsi pourroit-on comparer ceux du <persName ref="#LucaCambiaso">Cangiasio</persName> et du <persName ref="#JacopoTintoretto">Tintoret</persName> aux vers ronflans, vigoureux et sçavants du <persName ref="#PierreLeMoyne">Pere le Moyne</persName>. En un mot autant de Stiles parmy les Poetes, autant de manieres entre les Peintres. On dit, je cognois que ce tableau est de telle main par la maniere. Un tel suit la maniere d'un tel, etc.</p>
-				<p><hi rend="capitals">BREGMA</hi>, c'est le sommet de la teste selon <persName ref="#AlbrechtDurer">Albert Duret</persName> excellent Peintre Alleman qui a escrit de la proportion du corps humain, de la Geometrie et Perspective, et qui grava un grand nombre de planches, tant de Taille-douce que sur le bois.</p>
-				<p><hi rend="capitals">TOSCANS</hi>, l'Architecture se divise en cinq ordres dont le Toscan est le premier, c'est celuy qu'on met aux portes des jardins, des caves et autres lieux qui doivent porter quelque pesant fardeau ; aussi est-ce le plus solide et le moins embelly.</p>
-				<p><hi rend="capitals">L'ILLUSTRE MILANOIS</hi>, C'est <persName ref="#GiovanniPaoloLomazzo">JEAN PAUL LOMASSE</persName>. Le plus Docte et plus intelligent Peintre qui ait jamais esté, comme les ouvrages qu'il a mis au jour tant en Prose qu'en Vers le tesmoignent, et sur tout le riche Traicté de la Peinture, Sculpture et Architecture. L'Abbé <persName ref="#GirolamoGhilini">Hierome Ghilini</persName>, Florentin, l'a placé avec de tres-beaux Eloges au rang des illustres <pb n="IX" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f16.item"/>litterés du siecle, où le curieux pourra avoir recours, pour voir quel estoit le merite de ce grand Homme.</p>
-				<p><hi rend="capitals">L'ANATOMIE</hi>, c'est une figure de plastre ou de cire, qui represente le corps humain escorché, ou l'Anatomie exterieure. On la fait pour avoir une plus nette cognoissance des muscles et de leurs scituations : Celle de <persName ref="#BaccioBandinelli">Baccius Bandinelli</persName> est estimée ; celle d'un Medecin Italien, bon Sculpteur, encore plus, et celle que l'Academie de Peintres garde à <placeName ref="#Rome">Rome</placeName>, encore au-delà des precedentes, estant grande comme nature, aussi fut-elle moulée sur le naturel, les Peintres ayant eu permission de ce faire par le Senat, qui leur fit delivrer le corps d'un patient tres bien proportionné, sur lequel les Creux furent faits, et ensuitte le plastre jetté dans iceux, d'ou sortit la figure Anatomique, que le Seigneur <persName>Dom Domaso Saltarelli</persName> Prieur des trois fontaines m'avoit proposé de faire modeller du temps que j'estois à <placeName ref="#Rome">Rome</placeName>, chez le sieur <persName ref="#NiccoloTornioli">Nicolo Tornioli</persName> Peintre du <persName ref="#MauriceDeSavoie">Prince Cardinal de Savoye</persName>.</p>
-				<p><hi rend="capitals">RONDE-BOSSE</hi>, est proprement les Statues destachées de la muraille, et achevées de tous les costez, où la demy-bosse n'a que quelques parties d'estachées du champ. Le Bas-relief est encore plus plat : et la Basse taille l'est à tel point que c'est la Peinture des Sculpteurs, aussi nomment-ils leurs Tableaux cette sorte d'ouvrages, qui sont tousjours plus</p>
-				<p><hi rend="capitals">SECS</hi>, que les nostres, c'est-à-dire plus rudes.</p>
-				<p><hi rend="capitals">UN ACADEMIE</hi>, c'est une figure desseignée conformement au</p>
-				<p><hi rend="capitals">MODELLE</hi> qui est un homme que les Peintres payent pour les servir en le despouillant tout nud, et qu'ils mettent en</p>
-				<p><hi rend="capitals">ACTE</hi>, c'est-à-dire en posture, d'où ledit Modelle ne doit bouger sans en advertir les Escoliers qui desseignent dans l'Academie, d'où leurs figures tirent leur nom.</p>
-				<p>Apelle <hi rend="capitals"><persName>FRANCOIS</persName></hi>, c'est Monsieur <persName ref="#NicolasPoussin">N. POUSSIN</persName>, la gloire de nostre nation, duquel les plus disertes plumes du temps ont publié les merites.</p>
-				<p><hi rend="capitals">PARIETEAUX</hi>, ce sont les os du haut de la teste qui sont separez du basilaire, et de l'os frontal ou coronal par les Sutures.<pb n="X" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f17.item"/>
+				<p xml:id="PAD_LPP_lexique_P2"><persName ref="#PaoloGuidotti"><hi rend="capitals">GUIDOTI</hi></persName> vivoit du temps du <persName ref="#PaulV">Pape Paul V.</persName> Il estoit Peintre, <pb n="V" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f12.item"/> Sculpteur, Ingenieur, tres-intelligent aux Mathematiques, versé aux forces mouvantes des Machines, à tel point qu'il en avoit composé deux en forme d'aisles de chauve-souris qu'il estendoit et resseroit selon la force du vent, et qu'il attachoit à ses espaules pour voler ; si bien qu'apres avoir fait la preuve à cachettes en son particulier, il se declara au <persName ref="#PaulV">Pape</persName>, et entreprit de voler du <placeName ref="#Vatican">Vatican</placeName>, jusqu'au delà du Tibre, ce qu'il auroit executé heureusement si la teste ne luy eut tourné de frayeur, quand il se vid au droit du fleuve, de sorte que n'ayant plus le jugement de se conduire, il tomba dans de la chaux destrempée sur le bord du Tibre, ce qui luy sauva la vie : Cette action se passa en presence du susdit <persName ref="#PaulV">Pape</persName>, de tous les Cardinaux et du Peuple Romain, qui s'estoient assemblés à la place S. Pierre pour voir cette merveille. Il fit quelques ouvrages rares, tant de Peinture que d'Esculpture, toutesfois il ne se soustint point, et il fut de ses œuvres comme de sa machine. Cét esprit bouillant ne se pouvant contenir alloit d'une science à l'autre comme les oyseaux de l'une à l'autre branche, et pour estre trop remply de fumées et de vanité, il donnoit tousjours dans les entreprises extraordinaires, qui bien souvent ne luy reussissoient pas selon qu'il se les estoit proposées.</p>
+				<p xml:id="PAD_LPP_lexique_P3"><hi rend="capitals">POLIONS</hi>, C'est à dire d'excellents Architectes : parce que <persName ref="#Vitruve">Vitruve Polion</persName> (qui vivoit sous l'Empire d'<persName ref="#Auguste">Auguste</persName>, auquel les ouvrages que nous en voyons encore aujour d'huy furent dediez par ce rare esprit) semble avoir tiré l'eschelle apres soy, pour l'Architecture Reguliere.</p>
+				<p xml:id="PAD_LPP_lexique_P4"><hi rend="capitals">DESSEIN</hi>, Le mien en cet endroit est de faire connoistre qu'il y en a de deux façons, dont les premiers sont universels, veu que personne n'agit sans dessein, et les seconds sont particuliers, et appartiennent proprement aux Peintres. Le pemier est pere du second, et peut estre sans luy, où le second ne se peut tirer de puissance en acte que par le moyen du premier. Le fils a pourtant beaucoup de la ressemblance du pere, comme l'exemple suivant le fera connoistre. J'ay faict dessein de me rendre aupres de <persName ref="#HonoreIIDeMonaco">Monseigneur le Prince de Monaco</persName>, pour avoir l'honneur de servir cét Altesse : Voyla le dessein ideal en blot, les parties duquel sont que je passeray à <placeName ref="#Arles">Arles</placeName>, <pb n="VI" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f13.item"/>à <placeName ref="#Marseille">Marseille</placeName>, de là, par une pieuse curiosité à la Saincte Baume, etc. Neantmoins il se pourra faire que divers accidents m'obligeront de prendre un autre route qui sera plus incommode, (ce sont les estropiemens desquels nous parlerons.) Si j'arrive à Monaco le Dessein sera achevé, quoy qu'imparfaictement eu esgard à ce que je me l'estois proposé : Voyla ce que j'entens pour Dessein universel, d'autant que tout le monde en a de cette nature, quoy que pour des sujets differents. Où le second, qui appartient purement aux Peintres, ne peut estre executé que par ceux qui sçavent portraire. Voicy le rapport que je trouve qu'il a avec le premier. C'est qu'auparavant que le Peintre mette la main au Crayon, il faut que le premier Dessein ait precedé, qui est l'intention de ce qu'il veut representer, et en suite que le Dessein ideal de la mesme histoire qu'il veut faire soit tracé au blanc de son esprit avant qu'il le couche sur le papier : si c'est une fuite en <placeName ref="#Egypte">Egypte</placeName> et que l'Ouvrier ait l'intention de la representer à la descente d'une Montaigne, au passage d'une Riviere, ou qu'ils se reposent. Chacune de ces intentions fait un Dessein en blot, qu'il faut enfanter par le moyen des parties qui le composent : si c'est la descente par la representation de la <persName ref="#Marie">Vierge</persName> qui porte avec grande precaution le petit <persName ref="#Jesus">Jesus</persName> entre ses bras, tandis que <persName ref="#Joseph">S. Joseph</persName> conduit la Mule et que les Anges leur rendent de bons offices, et les escortent en ce voyage. Les beaux esprits des hommes seulement litterez peuvent mesmes arriver jusqu'icy touchant les Desseins ideals ; mais ce qui suit appartient purement au Peintre (quoy qu'il soit sous la mesme Cathegorie des ldées), et c'est l'arrangement historique des figures qu'on a arresté de representer, c'est-à-dire l'Assiette, et les gestes qu'on leur veut donner. Apres il faut exprimer sur le papier promptement (afin qu'en recherchant les parties, la belle disposition du total n'eschape), ce qui a esté imaginé : Et ces premiers Desseins s'appelent Esquis, ou Brouillards, apres lesquels on fait un autre dessein qu'on acheve jusqu'à ses moindres parties, et où nous espreuvons la verité de ce Proverbe Italien, qui dit (<hi rend="it" xml:lang="ita">del dir al fatto ch'é grand tratto</hi>, veu que le plus souvent il ne nous reüssit pas comme nous nous l'estions proposé, où les <pb n="VII" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f14.item"/>estropiements et autres deffauts sont les fourvoyements et autres mauvais accidents qui arrivent à ceux qui ont entrepris un voyage, ou autre affaire, sous la premiere sorte de desseins que j'ay nommés universels, et desquels je n'ay pas entendu parler en mes vers, ains de ceux qui sont faits avec du Crayon sur le papier.</p>
+				<p xml:id="PAD_LPP_lexique_P5"><hi rend="capitals">CARTONS</hi>, ce sont des Desseins aussi grands que l'ouvrage qu'on veut peindre à Frais, et pour l'ordinaire, on n'y fait que les seuls Traicts ou Contours, fort corrects pourtant, ce qu'on fait sur de grandes feuilles de papier, proprement jointes ensemble, jusqu'à ce qu'elles fassent la juste grandeur de la piece qu'on veut peindre, et de là vient leur nom ; Parce que CARTA en Italien veut dire Papier : l'Enduite estant faite par le Masson sur la muraille, de ce que le Peintre juge pouvoit achever cette journée, il attache son Carton dessus, et calque les Contours (qui demeurent imprimez sur l'enduite) avec <hi rend="capitals">L'ANTE</hi> du Pinceau (c'est le manche), ce que <persName ref="#LucaCambiaso"><hi rend="capitals">LUCAS CANGIASIO</hi></persName>, (ce prodigieux Ouvrier pour la Frais, duquel il a esté parlé peu auparavant) ne faisoit pas le plus souvent. Ce que j'ay verifié à la <objectName ref="#LucaCambiasoFacadeNordPalaisMonaco">Façade</objectName> qui tourne sur la grand Cour du Palais du <persName ref="#HonoreIIDeMonaco">Prince de Monaco</persName> (le plus rare ouvrage qui se puisse voir en sa façon) et où cét Illustre Genois semble avoir épuisé tout ce qu'il avoit de rare, sur tout aux deux frises, où j'ay remarqué qu'il ne s'estoit pas servi de Cartons, l'enduite n'estant nullement enfoncée au droit des Contours, ce qui marque la grande promptitude que cet Ouvrier avoit d'exprimer aisement ce qu'il vouloit avec le pinceau, en quoy il fut esgalé par <persName ref="#JacopoTintoretto">Jacques Tintorez</persName> Peintre Venitien, qui avoit plustot fait son Tableau que les autres Peintres, qui vivoient de son temps à <placeName ref="#Venise">Venise</placeName>, n'avoient fait le Dessein.. </p>
+				<p xml:id="PAD_LPP_lexique_P6"><hi rend="capitals">FLOVET</hi>, c'est tenir sa Peinture bien nourrie de couleurs et arrondie, qui est le vray moyen de representer la chair potelée, et proprement ce qu'on dit en Italien <hi rend="it" xml:lang="ita">Morbido é Pastoso</hi>.</p>
+				<p xml:id="PAD_LPP_lexique_P7"><hi rend="capitals">PASTELS</hi>, ce sont des crayons, composez de toutes les couleurs dont on se sert pour peindre, broyées à destrempe en y adjoustant un peu de Plastre. On se sert desdits crayons <pb n="VIII" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f15.item"/>pour desseigner sur le papier gris ou bleu, et la Noblesse se peut fort bien servir d'iceux pour faire des Portraicts colorez au naturel et autres choses, sans estre obligez à se mesler parmy les huilles. <persName ref="#LeonardoDaVinci"><hi rend="capitals">LEONARD D'AVINCE</hi></persName>, selon le grand <persName ref="#GiovanniPaoloLomazzo">Lomasse</persName>, excella en cette façon de desseigner.</p>
+				<p xml:id="PAD_LPP_lexique_P8"><hi rend="capitals">MANIERE</hi>, c'est comme le Stille parmy les Poëtes, et comme ils sont divers, les Manieres le sont aussi ; de telle sorte que je trouve qu'il y a grande relation des Peintres aux Poëtes. Le Docte <persName ref="#GiovanniPaoloLomazzo">Lomasse</persName> fait voir la conformité qui se trouve entre lez Ouvrages des plus fameux Peintres d'<placeName ref="#Italie">Italie</placeName> et les Stiles des plus encellents Poëtes de la mesme nation ; surquoy je diray apres luy que le grand naturel d'<persName ref="#Ovide">Ovide</persName>, et la facillité de nostre <persName>Theophile</persName> se trouvant aux ouvrages du <persName ref="#GiuseppeCesari">Chevalier Josepin</persName>. Le fonds et la vigueur de <persName ref="#Virgile">Virgile</persName> et <persName>Dubarthas</persName>, en ceux de <persName ref="#MichelAnge">Michel Lange</persName> ; la douceur et l'achevement de <persName ref="#FrancoisDeMalherbe">Malherbe</persName>, en ceux du <persName ref="#NicolasPoussin">Poussin</persName>, ainsi pourroit-on comparer ceux du <persName ref="#LucaCambiaso">Cangiasio</persName> et du <persName ref="#JacopoTintoretto">Tintoret</persName> aux vers ronflans, vigoureux et sçavants du <persName ref="#PierreLeMoyne">Pere le Moyne</persName>. En un mot autant de Stiles parmy les Poetes, autant de manieres entre les Peintres. On dit, je cognois que ce tableau est de telle main par la maniere. Un tel suit la maniere d'un tel, etc.</p>
+				<p xml:id="PAD_LPP_lexique_P9"><hi rend="capitals">BREGMA</hi>, c'est le sommet de la teste selon <persName ref="#AlbrechtDurer">Albert Duret</persName> excellent Peintre Alleman qui a escrit de la proportion du corps humain, de la Geometrie et Perspective, et qui grava un grand nombre de planches, tant de Taille-douce que sur le bois.</p>
+				<p xml:id="PAD_LPP_lexique_P10"><hi rend="capitals">TOSCANS</hi>, l'Architecture se divise en cinq ordres dont le Toscan est le premier, c'est celuy qu'on met aux portes des jardins, des caves et autres lieux qui doivent porter quelque pesant fardeau ; aussi est-ce le plus solide et le moins embelly.</p>
+				<p xml:id="PAD_LPP_lexique_P11"><hi rend="capitals">L'ILLUSTRE MILANOIS</hi>, C'est <persName ref="#GiovanniPaoloLomazzo">JEAN PAUL LOMASSE</persName>. Le plus Docte et plus intelligent Peintre qui ait jamais esté, comme les ouvrages qu'il a mis au jour tant en Prose qu'en Vers le tesmoignent, et sur tout le riche Traicté de la Peinture, Sculpture et Architecture. L'Abbé <persName ref="#GirolamoGhilini">Hierome Ghilini</persName>, Florentin, l'a placé avec de tres-beaux Eloges au rang des illustres <pb n="IX" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f16.item"/>litterés du siecle, où le curieux pourra avoir recours, pour voir quel estoit le merite de ce grand Homme.</p>
+				<p xml:id="PAD_LPP_lexique_P12"><hi rend="capitals">L'ANATOMIE</hi>, c'est une figure de plastre ou de cire, qui represente le corps humain escorché, ou l'Anatomie exterieure. On la fait pour avoir une plus nette cognoissance des muscles et de leurs scituations : Celle de <persName ref="#BaccioBandinelli">Baccius Bandinelli</persName> est estimée ; celle d'un Medecin Italien, bon Sculpteur, encore plus, et celle que l'Academie de Peintres garde à <placeName ref="#Rome">Rome</placeName>, encore au-delà des precedentes, estant grande comme nature, aussi fut-elle moulée sur le naturel, les Peintres ayant eu permission de ce faire par le Senat, qui leur fit delivrer le corps d'un patient tres bien proportionné, sur lequel les Creux furent faits, et ensuitte le plastre jetté dans iceux, d'ou sortit la figure Anatomique, que le Seigneur <persName>Dom Domaso Saltarelli</persName> Prieur des trois fontaines m'avoit proposé de faire modeller du temps que j'estois à <placeName ref="#Rome">Rome</placeName>, chez le sieur <persName ref="#NiccoloTornioli">Nicolo Tornioli</persName> Peintre du <persName ref="#MauriceDeSavoie">Prince Cardinal de Savoye</persName>.</p>
+				<p xml:id="PAD_LPP_lexique_P13"><hi rend="capitals">RONDE-BOSSE</hi>, est proprement les Statues destachées de la muraille, et achevées de tous les costez, où la demy-bosse n'a que quelques parties d'estachées du champ. Le Bas-relief est encore plus plat : et la Basse taille l'est à tel point que c'est la Peinture des Sculpteurs, aussi nomment-ils leurs Tableaux cette sorte d'ouvrages, qui sont tousjours plus</p>
+				<p xml:id="PAD_LPP_lexique_P14"><hi rend="capitals">SECS</hi>, que les nostres, c'est-à-dire plus rudes.</p>
+				<p xml:id="PAD_LPP_lexique_P15"><hi rend="capitals">UN ACADEMIE</hi>, c'est une figure desseignée conformement au</p>
+				<p xml:id="PAD_LPP_lexique_P16"><hi rend="capitals">MODELLE</hi> qui est un homme que les Peintres payent pour les servir en le despouillant tout nud, et qu'ils mettent en</p>
+				<p xml:id="PAD_LPP_lexique_P17"><hi rend="capitals">ACTE</hi>, c'est-à-dire en posture, d'où ledit Modelle ne doit bouger sans en advertir les Escoliers qui desseignent dans l'Academie, d'où leurs figures tirent leur nom.</p>
+				<p xml:id="PAD_LPP_lexique_P18">Apelle <hi rend="capitals"><persName>FRANCOIS</persName></hi>, c'est Monsieur <persName ref="#NicolasPoussin">N. POUSSIN</persName>, la gloire de nostre nation, duquel les plus disertes plumes du temps ont publié les merites.</p>
+				<p xml:id="PAD_LPP_lexique_P19"><hi rend="capitals">PARIETEAUX</hi>, ce sont les os du haut de la teste qui sont separez du basilaire, et de l'os frontal ou coronal par les Sutures.<pb n="X" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f17.item"/>
 				</p>
-				<p><hi rend="capitals">L'OUTREMER</hi>, est un azur tres fin, et le plus beau que le Peintre puisse employer, il s'en fait de si riche qu'il couste au-delà de l'or, veu qu'il y en a de quarante à cinquante escus l'once : On le tire par un grand artifice du l'Apis Lazuli qui est marquetée de petites estoilles d'or ; aussi dit-on que c'est la mere veine de ce Roy des metaux ; ce qui est croyable, puis qu'elle a beaucoup de raport avec l'or, et sur tout en ce qu'elle resiste à l'examen du feu d'où elle sort avec sa premiere beauté. Voyla pourquoy les Peintres experts font rougir la lame d'un couteau, lors qu'ils veulent achepter l'Outremer, et en mettent un peu dessus, observant s'il change de couleur, auquel cas il est falsifié. Où il faut remarquer que toutes les pierres d'où sont tirez les Azurs se trouvent dans les mines, ou au voisinage de celles des metaux, et que selon l'imperfection d'iceux, les Azurs qui en proviennent le sont aussi, quelque belle monstre qu'ils ayent en apparence ; voyla pourquoy ils deviennent livides et obscurs au susdit examen, s'ils sont d'une mine où il y ait de Plomb ; si de l'estaing, sandrés ; si de celle du fer, jaune ou rouge sale ; et vert si c'est des mines de cuyvre, à cause du Vitriol qui y abonde selon les Philosophes Chimiques. De sorte que la longueur du temps fait sur les Tableaux une partie des effects que la lame rougie fait en peu d'espace ausdits Azurs, ce qui n'arrive point au vray Outremarin qui morgue le temps et les flammes ; les bons Peintres (j'entens les grands Coloristes et qui sont bien payez) en mettent dans les carnations, pour les rendre plus nobles et les faire tenir. Quelques-uns l'appellent Azur d'Acre, d'où sans doubte a esté tiré celuy d'Outremer, parce qu'enciennement cét Azur estoit apporté d'<placeName ref="#Acre">Acre</placeName>, ville sur le bord de la mer de <placeName ref="#Judee">Judée</placeName>, et que les voyages qui se font en ces lieux sont appellez d'outremer.</p>
-				<p><hi rend="capitals">LA DRAPERIE</hi>, est un terme de Peinture pour exprimer en general toute sorte d'habits, où pour les bien faire les Peintres s'aydent d'un homme de bois qui est le</p>
-				<p><hi rend="capitals">MANEQUIN</hi>, fait par un tel artifice qu'il plie aux principales jointures, et pût tres bien servir pour certaines postures, mais non pour celles où il faut que le cosfre du corps courbe. Neantmoins un Peintre adroit en tire un grand soulagement pour bien 
+				<p xml:id="PAD_LPP_lexique_P20"><hi rend="capitals">L'OUTREMER</hi>, est un azur tres fin, et le plus beau que le Peintre puisse employer, il s'en fait de si riche qu'il couste au-delà de l'or, veu qu'il y en a de quarante à cinquante escus l'once : On le tire par un grand artifice du l'Apis Lazuli qui est marquetée de petites estoilles d'or ; aussi dit-on que c'est la mere veine de ce Roy des metaux ; ce qui est croyable, puis qu'elle a beaucoup de raport avec l'or, et sur tout en ce qu'elle resiste à l'examen du feu d'où elle sort avec sa premiere beauté. Voyla pourquoy les Peintres experts font rougir la lame d'un couteau, lors qu'ils veulent achepter l'Outremer, et en mettent un peu dessus, observant s'il change de couleur, auquel cas il est falsifié. Où il faut remarquer que toutes les pierres d'où sont tirez les Azurs se trouvent dans les mines, ou au voisinage de celles des metaux, et que selon l'imperfection d'iceux, les Azurs qui en proviennent le sont aussi, quelque belle monstre qu'ils ayent en apparence ; voyla pourquoy ils deviennent livides et obscurs au susdit examen, s'ils sont d'une mine où il y ait de Plomb ; si de l'estaing, sandrés ; si de celle du fer, jaune ou rouge sale ; et vert si c'est des mines de cuyvre, à cause du Vitriol qui y abonde selon les Philosophes Chimiques. De sorte que la longueur du temps fait sur les Tableaux une partie des effects que la lame rougie fait en peu d'espace ausdits Azurs, ce qui n'arrive point au vray Outremarin qui morgue le temps et les flammes ; les bons Peintres (j'entens les grands Coloristes et qui sont bien payez) en mettent dans les carnations, pour les rendre plus nobles et les faire tenir. Quelques-uns l'appellent Azur d'Acre, d'où sans doubte a esté tiré celuy d'Outremer, parce qu'enciennement cét Azur estoit apporté d'<placeName ref="#Acre">Acre</placeName>, ville sur le bord de la mer de <placeName ref="#Judee">Judée</placeName>, et que les voyages qui se font en ces lieux sont appellez d'outremer.</p>
+				<p xml:id="PAD_LPP_lexique_P21"><hi rend="capitals">LA DRAPERIE</hi>, est un terme de Peinture pour exprimer en general toute sorte d'habits, où pour les bien faire les Peintres s'aydent d'un homme de bois qui est le</p>
+				<p xml:id="PAD_LPP_lexique_P22"><hi rend="capitals">MANEQUIN</hi>, fait par un tel artifice qu'il plie aux principales jointures, et pût tres bien servir pour certaines postures, mais non pour celles où il faut que le cosfre du corps courbe. Neantmoins un Peintre adroit en tire un grand soulagement pour bien 
 				</p>
 				<pb n="XI" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f18.item"/>
-				<p><hi rend="capitals">DRAPER</hi>, c'est parler en Peintre pour exprimer qu'on fait bien touttes estoffes, qui peuvent estre achevées avec loisir parce que l'action estant arrestée, et le Manequin habillé rien ne bouge, si les Vis de fer pressent fort les boules ; il est vray que la grande chaleur de l'Esté est contraire, parce que le bois venant à se restraindre les boules tournent quelque fois d'elles mesmes, se trouvant au large : Voylà pourquoy le Peintre doit estre commode pour avoir les choses qui luy sont necessaires, à sçavoir un lieu humide pour l'Esté, et un chaud pour l'Hiver. Lieux escartez et solitaires, afin que par la distraction des visites, il n'interrompe son estude : Où avant de commencer son ouvrage, il doit conferer avec ceux qui sont entendus en la Peinture, pour voir si la disposition de son Histoire est noble, et l'arrangement des figures qui la composent tel que l'Art le requiert, et apres avoir examiné leur conseil, le prendre s'il le juge à propos (parce qu'il y a bien souvent des envieux). Le Dessein estant arresté l'ouvrier doit commencer, poursuivre et achever son ouvrage en repos, et ne point souffrir qu'on voye son Tableau qu'il ne soit fini, au peril de passer pour fantasque et capricieux ; autrement il sera contraint d'essuyer mille affronts, mais je dis de si sensibles qu'ils le desgousteront de poursuivre à bien faire.</p>
-				<p><hi rend="capitals">LE COLORIS</hi> est une partie tres importante en la Peinture, les discoureurs mediocrement versez en cét Art confondent le Coloris avec le maniment du Pinceau, et s'imaginent que le bien Peindre fait le bon Coloriste : Ils se trompent pourtant, puis qu'un Tableau peut estre bien peint de blanc et noir, que nous appellons grisaille, où l'on ne peut pas dire qu'il y ait cette belle partie du Coloris ; surquoy il faut observer qu'un grand maniment de Pinceau est different d'un grand maniment de couleurs, et qu'un Tableau peut estre bien nourry de couleurs, et partir d'un pinceau franc et net, sans estre ny bien coloré, ny bien Desseigné, de mesme qu'il peut estre bien Desseigné, mal peint et mal coloré.</p>
-				<p><hi rend="capitals">CRU</hi>, C'est lors que les corps sont allumez d'un grand jour et que neantmoins l'Ouvrier fait les ombres extremement fortes, et qui coupent contre les lumieres, sans cet arrondissement <pb n="XII" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f19.item"/> et meslange imperceptible qui cause l'agreement à l'œil, aussi telles manieres de peindre offensent la veue des spectateurs. Il ne se faut pas mesprendre quand on parle des Tableaux et croire que Sec et Crû soit la mesme chose ; veu que la maniere seiche est non seulement celle qui a le Dessein descharné, mais qui de surcroit n'est pas chargée de couleurs, le Tableau ayant esté peu couvert de couleurs, avec des stompes (qui sont des Pinceaux esmoussez,) et des brouesses courtes ; où la maniere crue peut estre dite telle, quoy que bien nourrie de couleurs, le deffaut provenant de l'intelligence des lumieres et des ombres.</p>
-				<p><hi rend="capitals">S'ACTIONNER</hi>, c'est faire quelque posture hardie et violente : quand les Academistes de la Peinture parlent des Modelles, ils disent un tel modelle s'actionne mieux qu'un tel.</p>
-				<p><hi rend="capitals">APRES</hi>, est un pur terme de Peinture. Nous disons cette teste, ce corps, cette draperie, etc. est apres nature, ou apres le Vif, ce Tableau vient d'Apres le tel, cette figure vient d'Apres la bosse, etc.</p>
-				<p>La <hi rend="capitals">LACQUE</hi>, est une couleur qui se tire de la tondure d'Escarlate, aussi fait elle un rouge tres-vif, celle qu'on faisoit autrefois estoit meilleure que celle qu'on vend presentement, aussi les Escarlates estoient plus visves et moins communes, l'avidité du gain cause tous ces desordres, puis que le desir de s'enrichir tout à coup fait que les hommes ne donnent plus à ces marchandises que l'apparence de la bonté qu'elles ont eu autrefois.</p>
-				<p><hi rend="capitals">RESSENTIS</hi>, les Peintres usent de cette façon de parler pour exprimer qu'un corps est fort musclé et quand lesdits muscles ne paroissent point, ils disent, il n'est point ressenti (parlant du Modelle) ou si au contraire, il a les muscles ressentis, etc.</p>
-				<p>Les <hi rend="capitals">VERTEBRES</hi>, ce sont les os qui descendent depuis la nuque du col sous les parieteaux jusques au cropion.</p>
-				<p><hi rend="capitals"><persName ref="#GuidoReni">GUIDE RENI</persName></hi>, Bolognois (disciple des <persName ref="#Carrache">Caraches</persName>) le plus fameux Peintre ltalien qui ait esté de son temps.<lb/>
+				<p xml:id="PAD_LPP_lexique_P23"><hi rend="capitals">DRAPER</hi>, c'est parler en Peintre pour exprimer qu'on fait bien touttes estoffes, qui peuvent estre achevées avec loisir parce que l'action estant arrestée, et le Manequin habillé rien ne bouge, si les Vis de fer pressent fort les boules ; il est vray que la grande chaleur de l'Esté est contraire, parce que le bois venant à se restraindre les boules tournent quelque fois d'elles mesmes, se trouvant au large : Voylà pourquoy le Peintre doit estre commode pour avoir les choses qui luy sont necessaires, à sçavoir un lieu humide pour l'Esté, et un chaud pour l'Hiver. Lieux escartez et solitaires, afin que par la distraction des visites, il n'interrompe son estude : Où avant de commencer son ouvrage, il doit conferer avec ceux qui sont entendus en la Peinture, pour voir si la disposition de son Histoire est noble, et l'arrangement des figures qui la composent tel que l'Art le requiert, et apres avoir examiné leur conseil, le prendre s'il le juge à propos (parce qu'il y a bien souvent des envieux). Le Dessein estant arresté l'ouvrier doit commencer, poursuivre et achever son ouvrage en repos, et ne point souffrir qu'on voye son Tableau qu'il ne soit fini, au peril de passer pour fantasque et capricieux ; autrement il sera contraint d'essuyer mille affronts, mais je dis de si sensibles qu'ils le desgousteront de poursuivre à bien faire.</p>
+				<p xml:id="PAD_LPP_lexique_P24"><hi rend="capitals">LE COLORIS</hi> est une partie tres importante en la Peinture, les discoureurs mediocrement versez en cét Art confondent le Coloris avec le maniment du Pinceau, et s'imaginent que le bien Peindre fait le bon Coloriste : Ils se trompent pourtant, puis qu'un Tableau peut estre bien peint de blanc et noir, que nous appellons grisaille, où l'on ne peut pas dire qu'il y ait cette belle partie du Coloris ; surquoy il faut observer qu'un grand maniment de Pinceau est different d'un grand maniment de couleurs, et qu'un Tableau peut estre bien nourry de couleurs, et partir d'un pinceau franc et net, sans estre ny bien coloré, ny bien Desseigné, de mesme qu'il peut estre bien Desseigné, mal peint et mal coloré.</p>
+				<p xml:id="PAD_LPP_lexique_P25"><hi rend="capitals">CRU</hi>, C'est lors que les corps sont allumez d'un grand jour et que neantmoins l'Ouvrier fait les ombres extremement fortes, et qui coupent contre les lumieres, sans cet arrondissement <pb n="XII" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f19.item"/> et meslange imperceptible qui cause l'agreement à l'œil, aussi telles manieres de peindre offensent la veue des spectateurs. Il ne se faut pas mesprendre quand on parle des Tableaux et croire que Sec et Crû soit la mesme chose ; veu que la maniere seiche est non seulement celle qui a le Dessein descharné, mais qui de surcroit n'est pas chargée de couleurs, le Tableau ayant esté peu couvert de couleurs, avec des stompes (qui sont des Pinceaux esmoussez,) et des brouesses courtes ; où la maniere crue peut estre dite telle, quoy que bien nourrie de couleurs, le deffaut provenant de l'intelligence des lumieres et des ombres.</p>
+				<p xml:id="PAD_LPP_lexique_P26"><hi rend="capitals">S'ACTIONNER</hi>, c'est faire quelque posture hardie et violente : quand les Academistes de la Peinture parlent des Modelles, ils disent un tel modelle s'actionne mieux qu'un tel.</p>
+				<p xml:id="PAD_LPP_lexique_P27"><hi rend="capitals">APRES</hi>, est un pur terme de Peinture. Nous disons cette teste, ce corps, cette draperie, etc. est apres nature, ou apres le Vif, ce Tableau vient d'Apres le tel, cette figure vient d'Apres la bosse, etc.</p>
+				<p xml:id="PAD_LPP_lexique_P28">La <hi rend="capitals">LACQUE</hi>, est une couleur qui se tire de la tondure d'Escarlate, aussi fait elle un rouge tres-vif, celle qu'on faisoit autrefois estoit meilleure que celle qu'on vend presentement, aussi les Escarlates estoient plus visves et moins communes, l'avidité du gain cause tous ces desordres, puis que le desir de s'enrichir tout à coup fait que les hommes ne donnent plus à ces marchandises que l'apparence de la bonté qu'elles ont eu autrefois.</p>
+				<p xml:id="PAD_LPP_lexique_P29"><hi rend="capitals">RESSENTIS</hi>, les Peintres usent de cette façon de parler pour exprimer qu'un corps est fort musclé et quand lesdits muscles ne paroissent point, ils disent, il n'est point ressenti (parlant du Modelle) ou si au contraire, il a les muscles ressentis, etc.</p>
+				<p xml:id="PAD_LPP_lexique_P30">Les <hi rend="capitals">VERTEBRES</hi>, ce sont les os qui descendent depuis la nuque du col sous les parieteaux jusques au cropion.</p>
+				<p xml:id="PAD_LPP_lexique_P31"><hi rend="capitals"><persName ref="#GuidoReni">GUIDE RENI</persName></hi>, Bolognois (disciple des <persName ref="#Carrache">Caraches</persName>) le plus fameux Peintre ltalien qui ait esté de son temps.<lb/>
 				</p>
 			</div>
 			<div type="avis" xml:lang="fra">
@@ -141,12 +141,12 @@
 				<head>
 					<hi rend="capitals">Advis de L'autheur Au lecteur.</hi>
 				</head>
-				<p>Cher Lecteur ne t'estonne pas</p>
-				<p> Si mon stille est mol et bas,</p>
-				<p>Il suit le train de la Nature ;</p>
-				<p> Comment seroit-il achevé</p>
-				<p> Riche, pompeux, et RELEVÉ</p>
-				<p> Si je ne suis instruit qu'en la PLATTE-PEINTURE.<lb/>
+				<p xml:id="PAD_LPP_P1">Cher Lecteur ne t'estonne pas</p>
+				<p xml:id="PAD_LPP_P2"> Si mon stille est mol et bas,</p>
+				<p xml:id="PAD_LPP_P3">Il suit le train de la Nature ;</p>
+				<p xml:id="PAD_LPP_P4"> Comment seroit-il achevé</p>
+				<p xml:id="PAD_LPP_P5"> Riche, pompeux, et RELEVÉ</p>
+				<p xml:id="PAD_LPP_P6"> Si je ne suis instruit qu'en la PLATTE-PEINTURE.<lb/>
 				</p>
 			</div>
 			<div type="poeme" xml:lang="fra">
@@ -203,15 +203,15 @@
 					<l> Copier tes divins Tableaux</l>
 					<l> Qu'un seul en produira dix mille.</l>
 				</lg>
-				<p>Par son tres-humble serviteur, B.R.D.R.<lb/></p>
+				<p xml:id="PAD_LPP_P1">Par son tres-humble serviteur, B.R.D.R.<lb/></p>
 			</div>
 			<div type="privilege" xml:lang="fra">
 				<pb n="XVII" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f24.item"/>
 				<figure type="ornement" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/7f54d6bb-423b-4f84-8645-61f78f16a1c7/279,404,3174,645/max/0/default.jpg"/>
 				<head>PRIVILEGE DU ROY</head>
-				<p><persName ref="#LouisXIV">LOUIS</persName> par la grace de Dieu, Roy de France et de Navarre ; à nos Amez et Feaux Conseillers les gens tenans nos Cours de Parlemens, Prevost de Paris, ou son Lieutenant, et à tous autres nos Officiers qu'il appartiendra, Salut. Notre cher et bien amé <persName ref="#HilairePader">HILLAIRE PADER</persName> nous a fait remonstrer qu'il a composé en vers François un Traité de la Peinture, intitulé <hi rend="it">La Peinture parlante, dediée aux Peintres de l'Academie Royale : avec un discours en forme d'Enigme sur la Peinture Universelle</hi>, qu'il desiroit faire imprimer pour le mettre en lumiere, c'est pourquoy il Nous a fait supplier luy vouloi octroyer nos Lettres necessaires, À CES CAUSES, Nous de nostre grace speciale avons permis et permettons par ces presentes audit Exposant de faire imprimer, vendre et distribuer pendant cinq années ledit Traité de la Peinture ; faisant cependant tres-expresses deffences à tous Imprimeurs et Libraires de faire Imprimer, vendre ny distribuer ledit Traité sans la permission dudit Exposant, à peine de cinq cens livres d'amende, applicable moitié à l'Hospital general, et l'autre audit Exposant : SY VOUS MANDONS, et à chacun de vous ordonnons, que du contenu en ces presentes, vous ayez à faire jouir et user ledit Impetrant, et ceux qui auront droict de luy plainement et paisiblement, cessant et faisant cesser tous troubles et empeschemens au contraire, à la charge d'en mettre deux Exemplaires en nostre Biblioteque publique, et un en celle de nostre tres-cher Feal Chancelier le Sieur <persName ref="#PierreSeguier">Seguier</persName> Chancelier de France ; CAR tel est nostre plaisir. DONNÉ à <placeName ref="#Paris">Paris</placeName> le <date when="1657-08-30">trentiesme jour d'Aoust, l'an de grace mil six cens cinquante-sept</date>, et de nostre Regne le quinzieme.</p>
-				<p>Par le <persName ref="#LouisXIV">Roy</persName> en son Conseil, </p>
-				<p>COUPEAU.</p>
+				<p xml:id="PAD_LPP_P1"><persName ref="#LouisXIV">LOUIS</persName> par la grace de Dieu, Roy de France et de Navarre ; à nos Amez et Feaux Conseillers les gens tenans nos Cours de Parlemens, Prevost de Paris, ou son Lieutenant, et à tous autres nos Officiers qu'il appartiendra, Salut. Notre cher et bien amé <persName ref="#HilairePader">HILLAIRE PADER</persName> nous a fait remonstrer qu'il a composé en vers François un Traité de la Peinture, intitulé <hi rend="it">La Peinture parlante, dediée aux Peintres de l'Academie Royale : avec un discours en forme d'Enigme sur la Peinture Universelle</hi>, qu'il desiroit faire imprimer pour le mettre en lumiere, c'est pourquoy il Nous a fait supplier luy vouloi octroyer nos Lettres necessaires, À CES CAUSES, Nous de nostre grace speciale avons permis et permettons par ces presentes audit Exposant de faire imprimer, vendre et distribuer pendant cinq années ledit Traité de la Peinture ; faisant cependant tres-expresses deffences à tous Imprimeurs et Libraires de faire Imprimer, vendre ny distribuer ledit Traité sans la permission dudit Exposant, à peine de cinq cens livres d'amende, applicable moitié à l'Hospital general, et l'autre audit Exposant : SY VOUS MANDONS, et à chacun de vous ordonnons, que du contenu en ces presentes, vous ayez à faire jouir et user ledit Impetrant, et ceux qui auront droict de luy plainement et paisiblement, cessant et faisant cesser tous troubles et empeschemens au contraire, à la charge d'en mettre deux Exemplaires en nostre Biblioteque publique, et un en celle de nostre tres-cher Feal Chancelier le Sieur <persName ref="#PierreSeguier">Seguier</persName> Chancelier de France ; CAR tel est nostre plaisir. DONNÉ à <placeName ref="#Paris">Paris</placeName> le <date when="1657-08-30">trentiesme jour d'Aoust, l'an de grace mil six cens cinquante-sept</date>, et de nostre Regne le quinzieme.</p>
+				<p xml:id="PAD_LPP_P2">Par le <persName ref="#LouisXIV">Roy</persName> en son Conseil, </p>
+				<p xml:id="PAD_LPP_P3">COUPEAU.</p>
 			</div>
 			<div type="eloge" xml:lang="fra">
 				<pb n="XVIII" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f25.item"/>
@@ -298,7 +298,7 @@
 						<l>
 							<hi rend="capitals"><persName ref="#HilairePader">PADER</persName></hi>, on a tout l'advantage.</l>
 					</lg>
-					<p> C. D.</p>
+					<p xml:id="PAD_LPP_P1"> C. D.</p>
 				</div>
 				<div type="eloge" n="7">
 					<pb n="XXI" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f28.item"/>
@@ -332,8 +332,8 @@
 						<l> La plus faible couleur n'en peut estre changée :</l>
 						<l> Car la Peinture à̀ huille est plus belle dans l'eau.</l>
 					</lg>
-					<p> Par H. P.P.</p>
-					<p> FIN.<lb/></p>
+					<p xml:id="PAD_LPP_P1"> Par H. P.P.</p>
+					<p xml:id="PAD_LPP_P2"> FIN.<lb/></p>
 				</div>
 			</div>
 		</front>
@@ -346,7 +346,7 @@
 						<lb/> Dialogue.</hi>
 				</head>
 				<note xml:id="N0">Il faut avoir recours aux pages précédentes pour avoir l'explication des mots qui auront la mesme marque. <g ref="#lexique"/></note>
-				<p><hi rend="it">Le fils</hi>
+				<p xml:id="PAD_LPP_L1_P1"><hi rend="it">Le fils</hi>
 					<lg>
 						<l><hi rend="capitals">MONSIEUR</hi>, si ces <g ref="#lexique"/> Contours dés le commencement,</l>
 						<l>Me font voir que je fais si peu d'advancement,</l>
@@ -359,7 +359,7 @@
 						<l>Certes je perds courage, et ces difficultez </l>
 						<l>Bornent de mon esprit les nobles facultez.</l>
 					</lg></p>
-				<p>Le Pere. <lg>
+				<p xml:id="PAD_LPP_L1_P2">Le Pere. <lg>
 						<l>Agreable entretien qui porte dans mon Ame </l>
 						<l>Les Vigoureux rayons d'une louable flame! </l>
 						<l>Feux qui sous un bois verd, ne luisez qu'à demy </l>
@@ -392,11 +392,11 @@
 						<l>Au bord d'un haut Rocher, où le Torrent qui passe </l>
 						<l>Au pied roule escumant des cailloux qu'il fracasse.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P3">Le F. <lg>
 						<l>Doncques la connoissance augmente la terreur </l>
 						<l>Imprimant dans nos cœurs tout ce qu'elle à d'horreur</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P4">Le P. <lg>
 						<l>Nulle difficulté l'exemple est manifeste </l>
 						<l>Soit parce que j'ay dit, ou soit par ce qui reste, </l>
 						<pb n="3" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f31.item"/>
@@ -434,17 +434,17 @@
 						<l>L'a voulu ralentir dans ce moite sejour.</l>
 					</lg></p>
 				<pb n="4" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f32.item"/>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P5">Le F. <lg>
 						<l>À vous ouyr parler c'est la seule ignorance </l>
 						<l>Qui nous met à l'abry d'une ferme asseurance ; </l>
 						<l>Puis que le peril veu, cét homme se perdit.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P6">Le P. <lg>
 						<l>Ouy s'il eust ignoré le grand danger qu'il vit </l>
 						<l>Il s'en fust retourné, puis selon sa coustume </l>
 						<l>Eust dormy jusqu'au jour sur la laine ou la plume.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P7">Le F. <lg>
 						<l>Vous m'avez pourtant dit que le jeune aprentif, </l>
 						<l>Bien loin d'estre orgueilleux doit estre un peu craintif,</l>
 						<l>Et qu'il faut preferer une modeste crainte </l>
@@ -456,7 +456,7 @@
 						<l>Il faut donc tout oser, et par l'aveuglement </l>
 						<l>Nager mesme endormi sur l'humide Element.</l>
 					</lg></p>
-				<p>Le P.<lg>
+				<p xml:id="PAD_LPP_L1_P8">Le P.<lg>
 						<l>Tu ne prends pas le biais, ny le sens qu'il faut prendre, </l>
 						<l>Mon conseil est obscur tu ne l'as peu comprendre. </l>
 						<l>La crainte n'exclud pas la belle ambition? </l>
@@ -495,11 +495,11 @@
 						<l>Pour bien Peindre il te faut suivre le naturel</l>
 						<l>Marchant sur un chemin droit et continuel.</l>
 					</lg></p>
-				<p>L. F. <lg>
+				<p xml:id="PAD_LPP_L1_P9">L. F. <lg>
 						<l>Me faut-il simplement imiter la nature</l>
 						<l>Pour devenir fameux en l'Art de la Peinture ;</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P10">Le P. <lg>
 						<l>Il la faut imiter, mais c'est adroitement <ref target="#N2"/> ; </l>
 						<note xml:id="N2">2. Precepte tres important.</note>
 						<l>Car il ne suffit pas d'imiter simplement ; </l>
@@ -514,21 +514,21 @@
 						<l>Superbe en sa matiere, et par l'Architecture </l>
 						<l>Qui doit servir de Temple à la rare Peinture.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P11">Le F. <lg>
 						<l>En effect, c'est parler fort laconiquement </l>
 						<l>De dire, il ne suffit d'imiter simplement,</l>
 						<pb n="6" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f34.item"/>
 						<l>Et qu'il n'est rien de beau, rare, parfait, auguste.</l>
 						<l>Qui n'ait quelque defaut, et que l'Art ne l'ajuste.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P12">Le P. <lg>
 						<l>Tu dois croire pourtant et graver dans ton cœur. </l>
 						<l>La verité qui luit dessous ce voile obscur.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P13">Le F. <lg>
 						<l>Parlez doncques plus clair, rendez-là manifeste.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P14">Le P. <lg>
 						<l>Je le veux, comprends donc et retiens ce qui reste. </l>
 						<l>Si tu veux parvenir à la perfection,</l>
 						<l>jette tes fondements sur la <hi rend="it">Proportion</hi>. <ref target="#N3"/></l>
@@ -638,20 +638,20 @@
 						<l>Mais contre leur attaque, il sçeut bien se deffendre </l>
 						<l>Et sortit du Combat comme un autre <persName ref="#AlexandreLeGrand">Alexandre</persName></l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P15">Le F. <lg>
 						<l>Monsieur faut-il tracer tant de dimentions</l>
 						<l>Pour devenir sçavant en ces proportions.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P16">Le P. <lg>
 						<l>Ouy du commencement afin que tu l'entendes</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P17">Le F. <lg>
 						<l>Et le dois-je tousjours?</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P18">Le P. <lg>
 						<l>Non qu'aux figures grandes.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P19">Le F. <lg>
 						<l>Tant de chiffres ne sont qu'un parfait embarras </l>
 						<l>Qui troublent mon esprit, et me rompent les bras : </l>
 						<l>Et croy-je que la route au Valeureux <persName ref="#Thesee">Thesée</persName>
@@ -664,7 +664,7 @@
 						<l>Qui borne nostre esprit, et retien nostre main, </l>
 						<l>Mettant dans la prison, le peintre et son dessein.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P20">Le P. <lg>
 						<l>Je parlois comme toy lors que j'estois moins sage : </l>
 						<l>Et quand sous le Troyen j'escoulois mon jeun'âge, </l>
 						<l>J'entends le sieur <persName ref="#JeanChalette">Chalette</persName> admirable aux portraicts, </l>
@@ -674,11 +674,11 @@
 						<l>J'escoutay la raison, et pour faire mon cours </l>
 						<l>Le Docte <persName ref="#GiovanniPaoloLomazzo">Milanez</persName> s'offrit à mon secours.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P21">Le F. <lg>
 						<l>Quoy? ne pourrois-je pas sans prendre le <persName ref="#GiovanniPaoloLomazzo">Lomasse</persName></l>
 						<l>Me servir du <persName ref="#JeanCousin">Cousin</persName> et le mettre en sa place.</l>
 					</lg></p>
-				<p> Le P.<lg>
+				<p xml:id="PAD_LPP_L1_P22"> Le P.<lg>
 						<l>
 							<persName ref="#JeanCousin">Jean Cousin</persName> est facile et va naifvement :</l>
 						<pb n="10" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f38.item"/>
@@ -686,11 +686,11 @@
 						<l>Et ne donnant en tout qu'une seule figure </l>
 						<l>Ne peut pas nous pousser quant à la portraiture.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P23">Le F. <lg>
 						<l>Pour rendre encore plus forts ces premiers fondemens </l>
 						<l>Prendray-je point <persName ref="#AlbrechtDurer">Duret</persName> l'honneur des Allemans.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P24">Le P. <lg>
 						<l>Si <persName ref="#JeanCousin">Cousin</persName> est facille, <persName ref="#AlbrechtDurer">Albert</persName> par sa methode</l>
 						<l>Pour estre trop correct, te seroit incommode </l>
 						<l>Son livre est le plus net, plus copieux et parfait </l>
@@ -818,11 +818,11 @@
 						<l>Un solide rampart de qui le fondement </l>
 						<l>Sur des Pilliers Toscans s'appuye fermement.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P25">Le F. <lg>
 						<l>Mon cours estant finy dans la premiere Classe </l>
 						<l>Pour me rendre parfait que faut-il que je fasse.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P26">Le P. <lg>
 						<l>Imiter l'Eternel qui soufla son esprit</l>
 						<pb n="14" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f42.item"/>
 						<l>Dans le corps du Limon que luy mesme paistrit, </l>
@@ -855,12 +855,12 @@
 						<l>La nature admirable, admira l'Immortel </l>
 						<l>Et pour longer <persName ref="#Adam">Adam</persName> offrit son grand Hostel.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P27">Le F. <lg>
 						<l>Encore un coup Monsieur que me faudra-il faire</l>
 						<pb n="15" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f43.item"/>
 						<l>Pour pouvoir reussir en une telle affaire</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P28">Le P. <lg>
 						<l>De la proportion comme du fondement </l>
 						<l>Il te faudra passer dedans le Mouvement,</l>
 						<l>Et des secrets ressorts que son secret nous porte <ref target="#N11"/></l>
@@ -877,22 +877,22 @@
 						<l>Dans ce <bibl key="lomazzoIdeaTempioPittura1590">second Traicté</bibl> mon fils poursuy ton cours,</l>
 						<l>Et tire le profit d'un si rare discours</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P29">Le F. <lg>
 						<l>Comme pour le premier mon ame fust rampante </l>
 						<l>Elle trouve au second sa naturelle pante. </l>
 						<l>Il nous faut animer de violents efforts </l>
 						<l>La Toille et la couleur qui d'eux mesme sont morts.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P30">Le P. <lg>
 						<l>Tout beau, <hi rend="capitals"><persName ref="#HilairePader">PADER</persName></hi> tout beau, ton Genie trop viste, </l>
 						<l>Esblouy d'un faux feu s'esgare sans conduite ; </l>
 						<l>Sans la proportion tout ce beau bastiment </l>
 						<l>S'esboulera bien-tost faute de fondement</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P31">Le F. <lg>
 						<l>Monsieur j'obeïray.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P32">Le P. <lg>
 						<l>Fay donc et te dispose </l>
 						<l>À suivre le conseil que ton Pere propose, </l>
 						<l>L'on s'abuse en effect de donner l'action </l>
@@ -921,10 +921,10 @@
 						<l>Et qui par un prodige admirable et nouveau</l>
 						<l>Nous esclaire sans flame et conduit sans Flambeau.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P33">Le F. <lg>
 						<l>Quoy tousjours l'action en tous cas n'est pas bonne?</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P34">Le P. <lg>
 						<l>Non quand la verité le contraire t'ordonne ;</l>
 						<l>Si le pinceau se meut sous une docte main,</l>
 						<l>Il nous fait distinguer l'Ibere du Germain :</l>
@@ -934,13 +934,13 @@
 						<l>Et le Mahometan, du peuple Baptizé</l>
 						<l>Donnant l'Air, la Couleur, la Phisionomie.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P35">Le F. <lg>
 						<l>Dois-je pas consulter plustost <g ref="#lexique"/>l'Anatomie.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P36">Le P. <lg>
 						<l>Il te la faut sçavoir, mon fils, legerement,</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P37">Le F. <lg>
 						<l>Je Croyois que ce fust le premier Element.</l>
 						<lb/>
 						<pb n="17" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f45.item"/>
@@ -950,7 +950,7 @@
 						<l>Que ce corps despouillé des graces de la peau</l>
 						<l>Fut la source pourtant de celles d'un Tableau.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P38">Le P. <lg>
 						<l>Elle nous fait besoin sur tout pour un <persName ref="#Hercule">Hercule</persName></l>
 						<l>Qui court et fort muselé paroistra ridicule </l>
 						<l>Si comme une <persName ref="#Venus">Venus</persName> ou son cher <persName ref="#Adonis">Adonis</persName>,</l>
@@ -974,11 +974,11 @@
 						<l>Selon la passion qui dans le Corps domine</l>
 						<l>Changeant suivant le temps, l'âge, le poil, la mine.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P39">Le F. <lg>
 						<l>un Acte nonchalant, selon nostre discours ;</l>
 						<l>Se peut doncques souffrir, quoy qu'il ait moins de cours,</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P40">Le P. <lg>
 						<l>C'est icy le mystere, icy mon sein je t'ouvre,</l>
 						<l>Puis qu'un Pere à son fils ses grands secrets découvre,</l>
 						<lb/>
@@ -1352,7 +1352,7 @@
 						<l>Il n'est point de Tableau, qui d'abord ne luy cede </l>
 						<l>Et les beautés de cent luy tout seul les possede.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P41">Le F. <lg>
 						<l>A vous oüyr parler je me trouve surpris? </l>
 						<l>Ce discours mon cher Pere a rauy mes esprits,</l>
 						<l>Sans doute que <persName ref="#NicolasPoussin">Poussin</persName> fait l'honneur de nostre âge ; </l>
@@ -1362,7 +1362,7 @@
 						<l>Ou si le <g ref="#lexique"/> Manequin propre à tant de postures </l>
 						<l>Luy sert de prototype à y Drapper ses figures,</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P42">Le P. <lg>
 						<l>Le Manequin est lourd pour bien representer <ref target="#N16"/></l>
 						<note xml:id="N16">16. Le Manequin inutille à draper les figures qui sont dans des postures agitées.</note>
 						<l>Celuy qui de courroux se laisse transporter ; </l>
@@ -1384,7 +1384,7 @@
 						<l><persName ref="#Hippomene">Hippomene</persName>, <persName ref="#Atalante">Atalente</persName>, et tous ceux qui de peur </l>
 						<l>Couvrent leurs corps fuyards d'une froide vapeur.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P43">Le F. <lg>
 						<l>Mon pere je sçay bien qu'hors de la draperie </l>
 						<l>L'employ du Manequin n'est qu'une resuerie, </l>
 						<l>Mais pour......</l>
@@ -1411,20 +1411,20 @@
 						<l>De bien marquer le Nû, apres telle figure. </l>
 						<l>Le geste d'un Heros par elle a du faquin.</l>
 					</lg></p>
-				<p>Le F.<lg>
+				<p xml:id="PAD_LPP_L1_P44">Le F.<lg>
 						<l> Vous vous servez pourtant de vostre Manequin.</l>
 					</lg></p>
 				<pb n="30" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f58.item"/>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P45">Le P. <lg>
 						<l>Il est vray je m'en sers mais c'est avec adresse, </l>
 						<l>Et lors que le travail du villageois me presse, </l>
 						<l>Pour t'elever, mon fils et tes freres aussi, </l>
 						<l>Les Tableaux mal payés augmentent mon soucy.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P46">Le F. <lg>
 						<l>je n'en feray jamais qu'à force de pistoles.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P47">Le P. <lg>
 						<l>Le temps fera meurir ton sens et tes paroles : </l>
 						<l>Le feu de la jeunesse aussi bien comme toy </l>
 						<l>Pendant mes jeunes ans a gouverné chez moy, </l>
@@ -1550,7 +1550,7 @@
 						<pb n="34" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f62.item"/>
 						<l>Choisissant des Latins le Prince des Poëtes.</l>
 					</lg></p>
-				<p>Le F. <l>Tous ne l'entendent pas</l> Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P48">Le F. <l>Tous ne l'entendent pas</l> Le P. <lg>
 						<l>il a des Interpretes, </l>
 						<l>Et sur tous ..... qui pour nostre François </l>
 						<l>A le mieux expliqué les charmes de sa voix ; <ref target="#N20"/></l>
@@ -1566,9 +1566,9 @@
 						<l>Ne faisant aucuns plis sans sçavoir comme ils viennent, </l>
 						<l>De quelle estoffe ils sont, et bien moins comme ils tiennent.</l>
 					</lg></p>
-				<p>Le F. <l>Dois-je mouiller le linge à bien marquer le Nû.</l></p>
-				<p>Le P. <l>Fort bien.</l> Le F. <l>Et le papier.</l></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P49">Le F. <l>Dois-je mouiller le linge à bien marquer le Nû.</l></p>
+				<p xml:id="PAD_LPP_L1_P50">Le P. <l>Fort bien.</l> Le F. <l>Et le papier.</l></p>
+				<p xml:id="PAD_LPP_L1_P51">Le P. <lg>
 						<l>Non, car il fait trop Y Crû, </l>
 						<l>Ses plis sont mal-suivis, fiers, rudes, Angulaires </l>
 						<l>Et les surfaces sont aspres, triangulaires ;</l>
@@ -1582,7 +1582,7 @@
 						<l>Et leurs habits flottants que la clarté penetre </l>
 						<l>Sont comme des chassis mis sur une fenestre.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P52">Le F. <lg>
 						<l>Puis que la verité d'un pur et clair Flambeau </l>
 						<l>Nous sert d'ourse à voguer sur les flots d'un Tableau : </l>
 						<l>Et que tout au rebours le mensonge nous trompe,</l>
@@ -1595,13 +1595,13 @@
 						<l>Ainsi ce corps mouvant que Zephir fait changer </l>
 						<l>Pourra du moins servir pour un manteau leger.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P53">Le P. <lg>
 						<l>Il se peut rarement et par longs intervales ; </l>
 						<l>A cause qu'il produit des ombres inégales</l>
 						<l>Des plus rudes, aigus, ingrats et mal-faisans </l>
 						<l>Qui veulent grand estude à les rendre plaisans.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P54">Le F. <lg>
 						<l>Adieu donc à ce coup drapperie branslante</l>
 						<l>D'un pur blanc transparant tousjours estincelante,</l>
 						<l>Adieu lourd attirail, et de fer et de bois,</l>
@@ -1617,7 +1617,7 @@
 						<l>Et de la cendre apres la lessive on faira </l>
 						<l>Qui de tant de deffauts la tasche lavera?</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P55">Le P. <lg>
 						<l>C'est trop, le feu t'emporte? à ce coup ta colere </l>
 						<l>Contre cet innocent paroit rude et severe? </l>
 						<l>Que t'a fait ce beau meuble aimable soupple et doux </l>
@@ -1703,7 +1703,7 @@
 						<l>De pareils sentimens mon esprit combattu </l>
 						<l>Sous des severes mots te rendroit abbattu.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P56">Le F. <lg>
 						<l>Vous l'avez cy devant peint tout d'un autre stile</l>
 						<l>Et bien loin d'estre propre il sembloit inutile.</l>
 						<l>Je le considerois d'un œil plein de courroux,</l>
@@ -1711,7 +1711,7 @@
 						<l>Je voudrois neantmoins s'il est peu serviable</l>
 						<l>En faire de l'argent le rendant profitable.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P57">Le P. <lg>
 						<l>je t'ay dit qu'il est lourd pour bien representer </l>
 						<l>Celuy que le courroux dispose à s'emporter. </l>
 						<l>Mais non qu'il fut pourtant tout à fait inutile ; </l>
@@ -1836,9 +1836,9 @@
 						<l>Et sur tout le Brocat, qui comme je t'ay dit,</l>
 						<l>Un damas assez fort d'or et d'argent roidit.</l>
 					</lg></p>
-				<p>Le F <l>Je voy clair maintenant et comprends le mystere.</l>
+				<p xml:id="PAD_LPP_L1_P58">Le F <l>Je voy clair maintenant et comprends le mystere.</l>
 				</p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P59">Le P. <lg>
 						<l>Modere donc ton feu : ne sois pas si severe, </l>
 						<l>Contre cét innocent qui ne se bouge pas,</l>
 						<l>Et qui souffre sur soy toute sorte de draps. </l>
@@ -1847,13 +1847,13 @@
 						<l><g ref="#lexique"/>Apres un homme vif on ne peut rien finir</l>
 						<l>Il bransle à tout moment et ne peut pas tenir.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P60">Le F. <lg>
 						<l>Je l'advoue il est grave et fait bien l'estoïque,</l>
 						<l>Mais comme proceder pour imiter l'antique, </l>
 						<l>Qui fait sous les habits paroistre le corps nu ; </l>
 						<l>Certes c'est un secret qui ne m'est point connuy</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P61">Le P. <lg>
 						<l>En effet ce secret ne se doit pas escrire, </l>
 						<l>Il fait nostre Cabale et suffit de le dire,</l>
 						<l>De bouche à son amy comme autrefois je fis, </l>
@@ -1883,11 +1883,11 @@
 						<l>Et pour mieux naviger se retirer des fautes </l>
 						<l>Où sont mesme tombez des fameux Argonautes.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P62">Le F. <lg>
 						<l>Quel sera ce navire, et quels les matelots</l>
 						<l>Qui pourront surmonter l'Ocean et ses flots.</l>
 					</lg></p>
-				<p>Le P.<lg>
+				<p xml:id="PAD_LPP_L1_P63">Le P.<lg>
 						<l><persName ref="#GiovanniPaoloLomazzo"> Lomasse</persName> est le Pilote et son divin ouvrage,</l>
 						<l>La navire qui va sans crainte de l'orage. <ref target="#N28"/>
 						</l>
@@ -2003,13 +2003,13 @@
 						<pb n="47" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f75.item"/>
 						<l>Son busc court et trappu, doit porter une bosse.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P64">Le F. <lg>
 						<l>Monsieur permettez-moy, de dire, s'il vous plait, </l>
 						<l>Qu'estant court il n'eust peu luy bailler le soufflet : </l>
 						<l>Le defaut seroit grand quant à la portraiture ; </l>
 						<l>Puis que <hi rend="capitals"><persName ref="#Jesus">JESUS</persName></hi> estoit d'une riche Stature.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P65">Le P. <lg>
 						<l>Je ne louë pas peu cette reflection!</l>
 						<l>Mais pour faire exercer cette noire action,</l>
 						<l>Il faut que le Sauveur au devant de Cayphe : </l>
@@ -2206,7 +2206,7 @@
 						<l>D'un causeur ennuyeux qui sans aucun relasche, </l>
 						<l>Presse, suit, persecute, et jamais ne relasche.</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P66">Le F. <lg>
 						<l>Jamais un tel discours ne m'incommoderoit </l>
 						<l>Jamais cét importun ne m'inportuneroit : </l>
 						<l>Et si de pareils mots il dressoit sa requeste </l>
@@ -2217,7 +2217,7 @@
 						<pb n="53" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f81.item"/>
 						<l>Fait réveiller nostre ame alors qu'elle sommeille.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P67">Le P. <lg>
 						<l>C'est le ruisseau fecond tant des biens que des maux, </l>
 						<l>Qui fait adroitement passer le vray pour faux : </l>
 						<l>Et puis tout au rebours d'un eloquent mensonge </l>
@@ -2309,13 +2309,13 @@
 						<l>Mais pour le bien polir font leur derniere preuve </l>
 						<l>Comme si sur la Croix il sortoit d'un estuve</l>
 					</lg></p>
-				<p>Le F. <lg>
+				<p xml:id="PAD_LPP_L1_P68">Le F. <lg>
 						<l>Puis que le Crucifix nous invite à mourir </l>
 						<l>Et que par son exemple un Chrestien doit souffrir </l>
 						<l>Ces Peintres quoy que sots meritent la couronne ; </l>
 						<l>Veu que leur vain travail tant de peine nous donne.</l>
 					</lg></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P69">Le P. <lg>
 						<l>En effet tels objets me font seigner le cœur, </l>
 						<l>Je souffre en les voyant ; mais le despit vainqueur </l>
 						<l>Changeant en peu de temps l'ordre d'un tel martyre </l>
@@ -2379,15 +2379,15 @@
 						<l>Ainsi doit-on tracer, et les corps, et les testes </l>
 						<l>Des Sages, des Prudents, et des autres Prophetes.</l>
 					</lg></p>
-				<p>Le F. <l>Mais comment proceder pour la force du corps? <ref target="#N41"/></l>
+				<p xml:id="PAD_LPP_L1_P70">Le F. <l>Mais comment proceder pour la force du corps? <ref target="#N41"/></l>
 					<note xml:id="N41">41. Pour la force du corps.</note></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P71">Le P. <lg>
 						<l>Qu'elle doit faire voir de terribles efforts,</l>
 						<l>Hardis, fiers, surprenants, à tel point que personne </l>
 						<l>N'y puisse porter l'œil, sans qu'on ne s'en estonne.</l>
 					</lg></p>
-				<p>Le F. <l>Et leur proportion.</l></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P72">Le F. <l>Et leur proportion.</l></p>
+				<p xml:id="PAD_LPP_L1_P73">Le P. <lg>
 						<l><persName ref="#GiovanniPaoloLomazzo">Lomasse</persName> l'a descrit </l>
 						<l>Au Chapitre septiesme avec son bel esprit : </l>
 						<l>Cette <hi rend="it">Force du corps</hi> jointe à celle de l'ame </l>
@@ -2488,8 +2488,8 @@
 						<l>Quiconque en doutera, dans les saincts Cayers lise </l>
 						<l>Les gestes d'<persName ref="#Abraham">Abraham</persName>, avec ceux de <persName ref="#Moise">Moyse</persName>.</l>
 					</lg></p>
-				<p>Le F. <l>Voila bien de leçons pour la devotion.</l></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P74">Le F. <l>Voila bien de leçons pour la devotion.</l></p>
+				<p xml:id="PAD_LPP_L1_P75">Le P. <lg>
 						<l>Encor faut-il sçavoir selon la nation, </l>
 						<l>Faire la difference, à tel point que l'histoire <ref target="#N45"/></l>
 						<note xml:id="N45">45. Selon les lieux et les coustumes des Anciens.</note>
@@ -2507,8 +2507,8 @@
 						<pb n="61" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f89.item"/>
 						<l>Où vas-tu, parle donc?</l>
 					</lg></p>
-				<p>Le F. <l>L'on heurte ce me semble. </l></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P76">Le F. <l>L'on heurte ce me semble. </l></p>
+				<p xml:id="PAD_LPP_L1_P77">Le P. <lg>
 						<l>Garde toy bien d'ouvrir, s'ils sont plusieurs en semble.</l>
 						<l>Et sur tout si c'estoit ce grand Docteur croté, </l>
 						<l>Qui voudroit voir d'abord l'un, et l'autre costé </l>
@@ -2519,27 +2519,27 @@
 						<l>Estançonnant ses Dits de Sentences moisies, </l>
 						<l>Qu'il a des vieux Gaulois avec peine choisies.</l>
 					</lg></p>
-				<p>Le F. <l>Il croit d'y bien entendre.</l></p>
-				<p>Le P. <l>On heurte va donc voir.</l></p>
-				<p>Le F. <l>Et si c'est l'<persName ref="#Aristote">Aristote</persName> à l'eminent sçavoir?</l></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P78">Le F. <l>Il croit d'y bien entendre.</l></p>
+				<p xml:id="PAD_LPP_L1_P79">Le P. <l>On heurte va donc voir.</l></p>
+				<p xml:id="PAD_LPP_L1_P80">Le F. <l>Et si c'est l'<persName ref="#Aristote">Aristote</persName> à l'eminent sçavoir?</l></p>
+				<p xml:id="PAD_LPP_L1_P81">Le P. <lg>
 						<l>Respons qu'il ne se peut, et que J'ay tant affaire,</l>
 						<l>Qu'en le laissant monter tu me pourrois deplaire.</l>
 					</lg></p>
-				<p>Le F. <l>Et s'il presse?</l></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P82">Le F. <l>Et s'il presse?</l></p>
+				<p xml:id="PAD_LPP_L1_P83">Le P. <lg>
 						<l>Dis luy hardiment, et tout net,</l>
 						<l>Que je suis enfermé dedans mon Cabinet.</l>
 					</lg></p>
-				<p>Le F <l>Si ce sont vos Amis, Medor, Alcandre, Asmire?</l></p>
-				<p>Le P. <lg>
+				<p xml:id="PAD_LPP_L1_P84">Le F <l>Si ce sont vos Amis, Medor, Alcandre, Asmire?</l></p>
+				<p xml:id="PAD_LPP_L1_P85">Le P. <lg>
 						<l>Dis leur que sur mon cœur ils ont un tel empire, </l>
 						<l>Qu'ils peuvent tous chez moy, soit de jour, soit de nuit ; </l>
 						<l>Sçachant que pas un d'eux à mon bon-heur ne nuit ; </l>
 						<l>Que veillant pour mon bien, et poussant ma fortune, </l>
 						<l>Leur visite jamais ne peut m'estre importune.</l>
 					</lg></p>
-				<p>Fin de la premiere Partie.</p>
+				<p xml:id="PAD_LPP_L1_P86">Fin de la premiere Partie.</p>
 				<pb n="62" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f90.item"/>
 				<figure type="ornement" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/add24edd-8c05-4b0b-98a9-cda87d6b24f9/867,401,3167,445/max/0/default.jpg"/>
 			</div1>
@@ -2548,12 +2548,12 @@
 					<hi rend="capitals">Lettre <lb/> De <lb/> Monsieur <lb/>Le <persName ref="#NicolasPoussin">Poussin</persName>
 						<lb/>Premier peintre <lb/> Du <persName ref="#LouisXIV">roy</persName>,<lb/> Au sieur <persName ref="#HilairePader">Pader</persName>.</hi>
 				</head>
-				<p>
+				<p xml:id="PAD_LPP_lettre_P1">
 					<figure type="lettrine"/><hi rend="capitals">MONSIEUR,</hi>
 					<lb/> Il y a peu de jours que je receus un pacquet que vour m'avez envoyé de <placeName ref="#Monaco">Monaco</placeName> ; L'on me l'a rendu tard, d'autant (comme je pense) que procedant en toutes mes operations, tout doucement et à l'aise, je suis peu connu du Maistre des Postes : apres en avoir fait l'ouverture, et leu les vers de vôtre Peinture parlante, je me suis trouvé vostre obligé en diverses<pb n="63" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f91.item"/> façons ; La premiere à vous remercier de la memoire, que vous avez eu de moy en divers temps, et lieux, d'où il vous a pleu mécrire des Lettres qui ne m'ont pas esté rendues, car je n'aurois pas manqué d'y respondre à l'heure mesme. La seconde est de l'honneur que vous m'avez fait d'inserer mon nom dans vostre ouvrage de Poësie, quoy que vous m'eussiez d'avantage obligé d'en parler un peu plus bassement, et selon mon peu de merite : je le reconnois pour un effet de la bonne volonté que vous avez pour moy, dont je vous suis infiniment redevable. Il ne faut pas que vous vous incommodiés pour m'envoyer les autres parties de vostre Poësie, l'on juge bien du Lyon par l'ongle.</p>
-				<p>Je n'ay pas encore fait voir la piece que vous m'avez envoyée, je la reserve pour quelqu'un qui en sçaura gouster la beauté ; Ce n'est pas le gibier des Peintres mediocres, ce seroit semer des perles devant les pores, que de leur presenter vostre Livre pour le lire.</p>
-				<p>Au demeurant je suis bien marri de ne vous pouvoir envoyer reciproquement quelque chose du mien, comme vous le desirés, l'on n'a rien gravé de mes ouvrages, dont je ne suis pas beaucoup faché : Regardés cependant si je vous puis servir en quelque autre chose, et commandés celuy qui est de tout sou cœur,</p>
-				<p>A <placeName ref="#Rome">Rome</placeName> le <date when="1634-01-30">30 Janvier 1634</date><lb/>
+				<p xml:id="PAD_LPP_lettre_P2">Je n'ay pas encore fait voir la piece que vous m'avez envoyée, je la reserve pour quelqu'un qui en sçaura gouster la beauté ; Ce n'est pas le gibier des Peintres mediocres, ce seroit semer des perles devant les pores, que de leur presenter vostre Livre pour le lire.</p>
+				<p xml:id="PAD_LPP_lettre_P3">Au demeurant je suis bien marri de ne vous pouvoir envoyer reciproquement quelque chose du mien, comme vous le desirés, l'on n'a rien gravé de mes ouvrages, dont je ne suis pas beaucoup faché : Regardés cependant si je vous puis servir en quelque autre chose, et commandés celuy qui est de tout sou cœur,</p>
+				<p xml:id="PAD_LPP_lettre_P4">A <placeName ref="#Rome">Rome</placeName> le <date when="1634-01-30">30 Janvier 1634</date><lb/>
 					<hi rend="capitals">MONSIEUR</hi><lb/>
 					<lb/>Vostre tres-humble et tres affectionné serviteur, <hi rend="capitals">LE <persName ref="#NicolasPoussin">POUSSIN</persName></hi>.<lb/>
 				</p>
