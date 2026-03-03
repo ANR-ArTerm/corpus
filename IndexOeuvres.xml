@@ -130,6 +130,9 @@
         <object xml:id="GonnelliUrbainVIII">
             <p>GiovanniGonnelli, Buste d'Urbain VIII</p>
         </object>
+        <object xml:id="GuidoReniCrucifixion">
+            <p>GuidoReni, Crucifixion</p>
+        </object>
         <object xml:id="HerculesCapitolini">
             <p>Inconnu, Hercules Boarium</p>
         </object>
@@ -152,7 +155,7 @@
             <p>LeonardoDaVinci, La Vierge, l'Enfant Jésus avec sainte Anne et saint Jean-Baptiste</p>
         </object>
         <object xml:id="LeonardCeneMilan">
-            <p>None, La Cène</p>
+            <p>LeonardoDaVinci, La Cène</p>
         </object>
         <object xml:id="LeonardDessinNeptune">
             <p>LeonardoDaVinci, Dessin de Neptune pour Antonio Segni</p>
@@ -244,6 +247,9 @@
         <object xml:id="MonastereSanLorenzoEscurial">
             <p>Inconnu, Monastère royal de San Lorenzo de El Escorial</p>
         </object>
+        <object xml:id="MonastereSantAgata">
+            <p>None, Monastère de Sant'Agata</p>
+        </object>
         <object xml:id="NilVatian">
             <p>Inconnu, Statue du dieu Nil</p>
         </object>
@@ -331,6 +337,9 @@
         <object xml:id="RaphaelAnnonciationOddi">
             <p>Raphael, Annonciation (Prédelle de la Pala Oddi)</p>
         </object>
+        <object xml:id="RaphaelBaptemeConstantinVatican">
+            <p>Raphael, Baptême de Constantin</p>
+        </object>
         <object xml:id="RaphaelBaptemeVatican">
             <p>Raphael, Le Baptême du Christ</p>
         </object>
@@ -358,8 +367,17 @@
         <object xml:id="RaphaelConseilDieuxFarnesina">
             <p>Raphael, Conseil des Dieux (Loge de Psyché)</p>
         </object>
+        <object xml:id="RaphaelConstructionArcheNoeVatican">
+            <p>Raphael, Construction de l'arche de Noé</p>
+        </object>
         <object xml:id="RaphaelCouronnementCharlemagne">
             <p>Raphael, Couronnement de Charlemagne</p>
+        </object>
+        <object xml:id="RaphaelCreationAnimauxVatican">
+            <p>Raphael, Dieu créant les animaux</p>
+        </object>
+        <object xml:id="RaphaelCreationEveVatican">
+            <p>Raphael, Création d'Ève</p>
         </object>
         <object xml:id="RaphaelDelivrancePierre">
             <p>Raphael, La Délivrance de saint Pierre ou Saint Pierre dans sa Prison</p>
@@ -457,6 +475,9 @@
         <object xml:id="RaphaelMesseBolsena">
             <p>Raphael, La messe de Bolsena ou le miracle du saint Sacrement de Bolsena</p>
         </object>
+        <object xml:id="RaphaelMoiseSauveEauxVatican">
+            <p>Raphael, Moïse sauvé des eaux</p>
+        </object>
         <object xml:id="RaphaelNativiteVatican">
             <p>Raphael, La Nativité</p>
         </object>
@@ -487,8 +508,14 @@
         <object xml:id="RaphaelPresentationTempleOddi">
             <p>Raphael, Presentation au temple (Prédelle de la Pala Oddi)</p>
         </object>
+        <object xml:id="RaphaelRomanoBatailleMilviusVatican">
+            <p>Raphael, Bataille du pont Milvius</p>
+        </object>
         <object xml:id="RaphaelRomanoIsabelleRequesens">
             <p>Raphael, Portrait d'Isabelle de Requesens</p>
+        </object>
+        <object xml:id="RaphaelSacrificeNoeVatican">
+            <p>Raphael, Sacrifice de Noé</p>
         </object>
         <object xml:id="RaphaelSaintJeanBaptisteFlorence">
             <p>Raphael, Saint Jean-Baptiste</p>
@@ -604,8 +631,14 @@
         <object xml:id="SanFrancescoGrandeMilan">
             <p>Inconnu, Eglise Saint-François-Majeur à Milan</p>
         </object>
+        <object xml:id="SanLorenzoFlorence">
+            <p>Inconnu, Duomo San Lorenzo</p>
+        </object>
         <object xml:id="SanPietroMontorioRome">
             <p>Inconnu, Eglise San Pietro in Montorio</p>
+        </object>
+        <object xml:id="SantApolloniaFlorence">
+            <p>Inconnu, Monastère de Sant'Apollonia</p>
         </object>
         <object xml:id="SantaMariaGrazieMilan">
             <p>Inconnu, Église Santa Maria delle Grazie (Milan)</p>
@@ -705,9 +738,6 @@
         </object>
         <object xml:id="ZuccariCardinaleBorromeo">
             <p>FedericoZuccaro, Imposizione del cappello cardinalizio a Carlo Borromeo</p>
-        </object>
-        <object xml:id="bbnjjjbh">
-            <p>Abiron, hihi</p>
         </object>
     </listObject>
 </TEI>
