@@ -56,7 +56,7 @@
 					</msIdentifier>
 					<msContents>
 						<summary>
-							<p xml:id="PAD_LPP_P1">Le document comporte 85 pages. Les premières pages, non numérotées, correspondent tout d'abord à une adresse aux peintres de l'Académie royale de peinture suivie d'une explication de termes artistiques puis du texte du privilège accordé par le roi, enfin viennent quelques dédicaces. La numérotation des feuillets, de 1 à 61, correspond au texte de la Peinture parlante, la composition des pages est régulière, sur une colonne. Les caractères principalement utilisés sont des caractères italiques, on trouve quelques notes marginales en caractères romains.Les deux dernières pages, numérotées 62 et 62, sont une retranscription d'une lettre de <persName ref="#NicolasPoussin">Nicolas Poussin</persName> à <persName ref="#HilairePader">Hilaire Pader</persName>. </p>
+							<p>Le document comporte 85 pages. Les premières pages, non numérotées, correspondent tout d'abord à une adresse aux peintres de l'Académie royale de peinture suivie d'une explication de termes artistiques puis du texte du privilège accordé par le roi, enfin viennent quelques dédicaces. La numérotation des feuillets, de 1 à 61, correspond au texte de la Peinture parlante, la composition des pages est régulière, sur une colonne. Les caractères principalement utilisés sont des caractères italiques, on trouve quelques notes marginales en caractères romains.Les deux dernières pages, numérotées 62 et 62, sont une retranscription d'une lettre de <persName ref="#NicolasPoussin">Nicolas Poussin</persName> à <persName ref="#HilairePader">Hilaire Pader</persName>. </p>
 						</summary>
 					</msContents>
 				</msDesc>
@@ -84,12 +84,12 @@
 			<div type="preface" xml:lang="fra">
 				<pb n="II" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f9.item"/>
 				<head>
-					<hi rend="capitals">À MESSIEURS LES PEINTRES DE L'ACCADEMIE ROYALE DE <placeName>PARIS</placeName>.</hi>
+					<hi rend="capitals">À MESSIEURS LES PEINTRES DE L'ACCADEMIE ROYALE DE <placeName ref="#Paris">PARIS</placeName>.</hi>
 				</head>
-				<p xml:id="PAD_LPP_P1">
+				<p xml:id="PAD_LPP_preface_P1">
 					<hi rend="capitals">Messieurs,</hi>
 				</p>
-				<p xml:id="PAD_LPP_P2">Quoy que je sçache que je ne suis pas moins temeraire de vous dedier mon Ouvrage, que j'ay esté hardy à l'entreprendre ; je ne desespere pas neantmoins que vous ne luy fassiez un accueil favorable, sur l'asseurance que je vous donne qu'il n'a desiré d'estre veu de vous que pour vous tesmoigner mon respect. Ce n'est pas, MESSIEURS, que j'aye creu vous pouvoir descouvrir de nouvelles graces, elles vous sont toutes connues ; et j'ay trop de connoissance de mon peu de sçavoir (que l'ignorance du Grec et du Latin <pb n="III" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f10.item"/> deffendra tousjours du blasme de Pedanterie, et rendra excusable d'une infinité de defauts) pour pretendre autre chose de vostre Auguste Academie que l'honneur de vostre protection. Je sçay que bien que ma Peinture parle, elle ne sçauroit estre favorablement escoutée de personne si elle ne l'est premierement de vous ; l'estime de Monsieur <persName ref="#NicolasPoussin">Poussin</persName> luy a donné veritablement l'estre, mais la vostre, MESSIEURS, luy donnera le bien estre ; et si vos oreilles delicates ont la mesme bonté qu'a eu ce Heros de souffrir la dureté de ses accents et de ses paroles mal ordonnées, je poursuivray l'impression de la seconde Partie, qui est plus purgée ; et par ce moyen, je ne feray pas difficulté de pretendre meriter l'aprobation de tout le reste du monde : Qui me la pourroit refuser sous le tiltre de MESSIEURS. <unclear>Vostre tres-humble serviteur et Peintre.</unclear><lb/>
+				<p xml:id="PAD_LPP_preface_P2">Quoy que je sçache que je ne suis pas moins temeraire de vous dedier mon Ouvrage, que j'ay esté hardy à l'entreprendre ; je ne desespere pas neantmoins que vous ne luy fassiez un accueil favorable, sur l'asseurance que je vous donne qu'il n'a desiré d'estre veu de vous que pour vous tesmoigner mon respect. Ce n'est pas, MESSIEURS, que j'aye creu vous pouvoir descouvrir de nouvelles graces, elles vous sont toutes connues ; et j'ay trop de connoissance de mon peu de sçavoir (que l'ignorance du Grec et du Latin <pb n="III" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f10.item"/> deffendra tousjours du blasme de Pedanterie, et rendra excusable d'une infinité de defauts) pour pretendre autre chose de vostre Auguste Academie que l'honneur de vostre protection. Je sçay que bien que ma Peinture parle, elle ne sçauroit estre favorablement escoutée de personne si elle ne l'est premierement de vous ; l'estime de Monsieur <persName ref="#NicolasPoussin">Poussin</persName> luy a donné veritablement l'estre, mais la vostre, MESSIEURS, luy donnera le bien estre ; et si vos oreilles delicates ont la mesme bonté qu'a eu ce Heros de souffrir la dureté de ses accents et de ses paroles mal ordonnées, je poursuivray l'impression de la seconde Partie, qui est plus purgée ; et par ce moyen, je ne feray pas difficulté de pretendre meriter l'aprobation de tout le reste du monde : Qui me la pourroit refuser sous le tiltre de MESSIEURS. <unclear>Vostre tres-humble serviteur et Peintre.</unclear><lb/>
 				</p>
 			</div>
 			<div xml:id="lexique" type="lexique" xml:lang="fra">
@@ -141,12 +141,12 @@
 				<head>
 					<hi rend="capitals">Advis de L'autheur Au lecteur.</hi>
 				</head>
-				<p xml:id="PAD_LPP_P1">Cher Lecteur ne t'estonne pas</p>
-				<p xml:id="PAD_LPP_P2"> Si mon stille est mol et bas,</p>
-				<p xml:id="PAD_LPP_P3">Il suit le train de la Nature ;</p>
-				<p xml:id="PAD_LPP_P4"> Comment seroit-il achevé</p>
-				<p xml:id="PAD_LPP_P5"> Riche, pompeux, et RELEVÉ</p>
-				<p xml:id="PAD_LPP_P6"> Si je ne suis instruit qu'en la PLATTE-PEINTURE.<lb/>
+				<p xml:id="PAD_LPP_avis_P1">Cher Lecteur ne t'estonne pas</p>
+				<p xml:id="PAD_LPP_avis_P2"> Si mon stille est mol et bas,</p>
+				<p xml:id="PAD_LPP_avis_P3">Il suit le train de la Nature ;</p>
+				<p xml:id="PAD_LPP_avis_P4"> Comment seroit-il achevé</p>
+				<p xml:id="PAD_LPP_avis_P5"> Riche, pompeux, et RELEVÉ</p>
+				<p xml:id="PAD_LPP_avis_P6"> Si je ne suis instruit qu'en la PLATTE-PEINTURE.<lb/>
 				</p>
 			</div>
 			<div type="poeme" xml:lang="fra">
@@ -203,15 +203,15 @@
 					<l> Copier tes divins Tableaux</l>
 					<l> Qu'un seul en produira dix mille.</l>
 				</lg>
-				<p xml:id="PAD_LPP_P1">Par son tres-humble serviteur, B.R.D.R.<lb/></p>
+				<p xml:id="PAD_LPP_lettre_P1">Par son tres-humble serviteur, B.R.D.R.<lb/></p>
 			</div>
 			<div type="privilege" xml:lang="fra">
 				<pb n="XVII" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f24.item"/>
 				<figure type="ornement" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/7f54d6bb-423b-4f84-8645-61f78f16a1c7/279,404,3174,645/max/0/default.jpg"/>
 				<head>PRIVILEGE DU ROY</head>
-				<p xml:id="PAD_LPP_P1"><persName ref="#LouisXIV">LOUIS</persName> par la grace de Dieu, Roy de France et de Navarre ; à nos Amez et Feaux Conseillers les gens tenans nos Cours de Parlemens, Prevost de Paris, ou son Lieutenant, et à tous autres nos Officiers qu'il appartiendra, Salut. Notre cher et bien amé <persName ref="#HilairePader">HILLAIRE PADER</persName> nous a fait remonstrer qu'il a composé en vers François un Traité de la Peinture, intitulé <hi rend="it">La Peinture parlante, dediée aux Peintres de l'Academie Royale : avec un discours en forme d'Enigme sur la Peinture Universelle</hi>, qu'il desiroit faire imprimer pour le mettre en lumiere, c'est pourquoy il Nous a fait supplier luy vouloi octroyer nos Lettres necessaires, À CES CAUSES, Nous de nostre grace speciale avons permis et permettons par ces presentes audit Exposant de faire imprimer, vendre et distribuer pendant cinq années ledit Traité de la Peinture ; faisant cependant tres-expresses deffences à tous Imprimeurs et Libraires de faire Imprimer, vendre ny distribuer ledit Traité sans la permission dudit Exposant, à peine de cinq cens livres d'amende, applicable moitié à l'Hospital general, et l'autre audit Exposant : SY VOUS MANDONS, et à chacun de vous ordonnons, que du contenu en ces presentes, vous ayez à faire jouir et user ledit Impetrant, et ceux qui auront droict de luy plainement et paisiblement, cessant et faisant cesser tous troubles et empeschemens au contraire, à la charge d'en mettre deux Exemplaires en nostre Biblioteque publique, et un en celle de nostre tres-cher Feal Chancelier le Sieur <persName ref="#PierreSeguier">Seguier</persName> Chancelier de France ; CAR tel est nostre plaisir. DONNÉ à <placeName ref="#Paris">Paris</placeName> le <date when="1657-08-30">trentiesme jour d'Aoust, l'an de grace mil six cens cinquante-sept</date>, et de nostre Regne le quinzieme.</p>
-				<p xml:id="PAD_LPP_P2">Par le <persName ref="#LouisXIV">Roy</persName> en son Conseil, </p>
-				<p xml:id="PAD_LPP_P3">COUPEAU.</p>
+				<p xml:id="PAD_LPP_privilege_P1"><persName ref="#LouisXIV">LOUIS</persName> par la grace de Dieu, Roy de France et de Navarre ; à nos Amez et Feaux Conseillers les gens tenans nos Cours de Parlemens, Prevost de Paris, ou son Lieutenant, et à tous autres nos Officiers qu'il appartiendra, Salut. Notre cher et bien amé <persName ref="#HilairePader">HILLAIRE PADER</persName> nous a fait remonstrer qu'il a composé en vers François un Traité de la Peinture, intitulé <hi rend="it">La Peinture parlante, dediée aux Peintres de l'Academie Royale : avec un discours en forme d'Enigme sur la Peinture Universelle</hi>, qu'il desiroit faire imprimer pour le mettre en lumiere, c'est pourquoy il Nous a fait supplier luy vouloi octroyer nos Lettres necessaires, À CES CAUSES, Nous de nostre grace speciale avons permis et permettons par ces presentes audit Exposant de faire imprimer, vendre et distribuer pendant cinq années ledit Traité de la Peinture ; faisant cependant tres-expresses deffences à tous Imprimeurs et Libraires de faire Imprimer, vendre ny distribuer ledit Traité sans la permission dudit Exposant, à peine de cinq cens livres d'amende, applicable moitié à l'Hospital general, et l'autre audit Exposant : SY VOUS MANDONS, et à chacun de vous ordonnons, que du contenu en ces presentes, vous ayez à faire jouir et user ledit Impetrant, et ceux qui auront droict de luy plainement et paisiblement, cessant et faisant cesser tous troubles et empeschemens au contraire, à la charge d'en mettre deux Exemplaires en nostre Biblioteque publique, et un en celle de nostre tres-cher Feal Chancelier le Sieur <persName ref="#PierreSeguier">Seguier</persName> Chancelier de France ; CAR tel est nostre plaisir. DONNÉ à <placeName ref="#Paris">Paris</placeName> le <date when="1657-08-30">trentiesme jour d'Aoust, l'an de grace mil six cens cinquante-sept</date>, et de nostre Regne le quinzieme.</p>
+				<p xml:id="PAD_LPP_privilege_P2">Par le <persName ref="#LouisXIV">Roy</persName> en son Conseil, </p>
+				<p xml:id="PAD_LPP_privilege_P3">COUPEAU.</p>
 			</div>
 			<div type="eloge" xml:lang="fra">
 				<pb n="XVIII" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f25.item"/>
@@ -298,7 +298,7 @@
 						<l>
 							<hi rend="capitals"><persName ref="#HilairePader">PADER</persName></hi>, on a tout l'advantage.</l>
 					</lg>
-					<p xml:id="PAD_LPP_P1"> C. D.</p>
+					<p xml:id="PAD_LPP_eloge_eloge_P1"> C. D.</p>
 				</div>
 				<div type="eloge" n="7">
 					<pb n="XXI" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f28.item"/>
@@ -332,8 +332,8 @@
 						<l> La plus faible couleur n'en peut estre changée :</l>
 						<l> Car la Peinture à̀ huille est plus belle dans l'eau.</l>
 					</lg>
-					<p xml:id="PAD_LPP_P1"> Par H. P.P.</p>
-					<p xml:id="PAD_LPP_P2"> FIN.<lb/></p>
+					<p xml:id="PAD_LPP_eloge_eloge_P2"> Par H. P.P.</p>
+					<p xml:id="PAD_LPP_eloge_eloge_P3"> FIN.<lb/></p>
 				</div>
 			</div>
 		</front>
@@ -2543,17 +2543,17 @@
 				<pb n="62" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f90.item"/>
 				<figure type="ornement" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/add24edd-8c05-4b0b-98a9-cda87d6b24f9/867,401,3167,445/max/0/default.jpg"/>
 			</div1>
-			<div1 xml:id="lettre" type="lettre" n="2" xml:lang="fra">
+			<div1 xml:id="M1" type="lettre" n="2" xml:lang="fra">
 				<head>
 					<hi rend="capitals">Lettre <lb/> De <lb/> Monsieur <lb/>Le <persName ref="#NicolasPoussin">Poussin</persName>
 						<lb/>Premier peintre <lb/> Du <persName ref="#LouisXIV">roy</persName>,<lb/> Au sieur <persName ref="#HilairePader">Pader</persName>.</hi>
 				</head>
-				<p xml:id="PAD_LPP_lettre_P1">
+				<p xml:id="PAD_LPP_M1_P1">
 					<figure type="lettrine"/><hi rend="capitals">MONSIEUR,</hi>
 					<lb/> Il y a peu de jours que je receus un pacquet que vour m'avez envoyé de <placeName ref="#Monaco">Monaco</placeName> ; L'on me l'a rendu tard, d'autant (comme je pense) que procedant en toutes mes operations, tout doucement et à l'aise, je suis peu connu du Maistre des Postes : apres en avoir fait l'ouverture, et leu les vers de vôtre Peinture parlante, je me suis trouvé vostre obligé en diverses<pb n="63" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f91.item"/> façons ; La premiere à vous remercier de la memoire, que vous avez eu de moy en divers temps, et lieux, d'où il vous a pleu mécrire des Lettres qui ne m'ont pas esté rendues, car je n'aurois pas manqué d'y respondre à l'heure mesme. La seconde est de l'honneur que vous m'avez fait d'inserer mon nom dans vostre ouvrage de Poësie, quoy que vous m'eussiez d'avantage obligé d'en parler un peu plus bassement, et selon mon peu de merite : je le reconnois pour un effet de la bonne volonté que vous avez pour moy, dont je vous suis infiniment redevable. Il ne faut pas que vous vous incommodiés pour m'envoyer les autres parties de vostre Poësie, l'on juge bien du Lyon par l'ongle.</p>
-				<p xml:id="PAD_LPP_lettre_P2">Je n'ay pas encore fait voir la piece que vous m'avez envoyée, je la reserve pour quelqu'un qui en sçaura gouster la beauté ; Ce n'est pas le gibier des Peintres mediocres, ce seroit semer des perles devant les pores, que de leur presenter vostre Livre pour le lire.</p>
-				<p xml:id="PAD_LPP_lettre_P3">Au demeurant je suis bien marri de ne vous pouvoir envoyer reciproquement quelque chose du mien, comme vous le desirés, l'on n'a rien gravé de mes ouvrages, dont je ne suis pas beaucoup faché : Regardés cependant si je vous puis servir en quelque autre chose, et commandés celuy qui est de tout sou cœur,</p>
-				<p xml:id="PAD_LPP_lettre_P4">A <placeName ref="#Rome">Rome</placeName> le <date when="1634-01-30">30 Janvier 1634</date><lb/>
+				<p xml:id="PAD_LPP_M1_P2">Je n'ay pas encore fait voir la piece que vous m'avez envoyée, je la reserve pour quelqu'un qui en sçaura gouster la beauté ; Ce n'est pas le gibier des Peintres mediocres, ce seroit semer des perles devant les pores, que de leur presenter vostre Livre pour le lire.</p>
+				<p xml:id="PAD_LPP_M1_P3">Au demeurant je suis bien marri de ne vous pouvoir envoyer reciproquement quelque chose du mien, comme vous le desirés, l'on n'a rien gravé de mes ouvrages, dont je ne suis pas beaucoup faché : Regardés cependant si je vous puis servir en quelque autre chose, et commandés celuy qui est de tout sou cœur,</p>
+				<p xml:id="PAD_LPP_M1_P4">A <placeName ref="#Rome">Rome</placeName> le <date when="1634-01-30">30 Janvier 1634</date><lb/>
 					<hi rend="capitals">MONSIEUR</hi><lb/>
 					<lb/>Vostre tres-humble et tres affectionné serviteur, <hi rend="capitals">LE <persName ref="#NicolasPoussin">POUSSIN</persName></hi>.<lb/>
 				</p>

@@ -2,6 +2,22 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+      <person xml:id="PieterCorneliszVanRijck" source="https://www.wikidata.org/wiki/Q7192766"></person>
+      <person xml:id="CorneilleDeLyon" source="https://www.wikidata.org/wiki/Q720941"></person>
+      <person xml:id="CorneliusVanDerGeest" source="https://www.wikidata.org/wiki/Q5171269"></person>
+      <person xml:id="AndreaSalvadori" source="https://www.wikidata.org/wiki/Q4755263"></person>
+      <person xml:id="AlessandroAdimari" source="https://www.wikidata.org/wiki/Q3609797"></person>
+      <person xml:id="CarloMedici" source="https://www.wikidata.org/wiki/Q59867"></person>
+      <person xml:id="GiacomoCastriotto" source="https://www.wikidata.org/wiki/Q16185900"></person>
+      <person xml:id="GiovanniBattistaVimercato" source="https://www.wikidata.org/wiki/Q19400717"></person>
+      <person xml:id="BaldassarreLanci" source="https://www.wikidata.org/wiki/Q804746"></person>
+      <person xml:id="FrancoisdeTournon" source="https://www.wikidata.org/wiki/Q459338"></person>
+      <person xml:id="PompeoPedemonte" source="https://www.wikidata.org/wiki/Q16591295"></person>
+      <person xml:id="JeanIdeTournes" source="https://www.wikidata.org/wiki/Q174839"></person>
+      <person xml:id="BernardSalomon" source="https://www.wikidata.org/wiki/Q2898582"></person>
+      <person xml:id="GianMarcoCavalli" source="https://www.wikidata.org/wiki/Q19569688"></person>
+      <person xml:id="GiovanniAntonioDaBrescia" source="https://www.wikidata.org/wiki/Q1525753"></person>
+      <person xml:id="PieterAertsen" source="https://www.wikidata.org/wiki/Q326548"></person>
       <person xml:id="Galien" source="https://www.wikidata.org/wiki/Q8778"></person>
       <person xml:id="JuanHurtadoDeMendoza" source="https://www.wikidata.org/wiki/Q559262"></person>
       <person xml:id="SainteApolline" source="https://www.wikidata.org/wiki/Q232427"></person>
@@ -28840,28 +28856,6 @@
           <objectName>abbaye de Port-Royal de Paris</objectName>
         </floruit>
       </person>
-      <person xml:id="BernardusLePetit" role="peintre"
-        source="http://www.wikidata.org/entity/Q41313706">
-        <persName
-          ref="https://www.getty.edu/vow/ULANFullDisplay?find=petit+bernard&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500080229">
-          <forename>Bernardus</forename>
-          <surname>Le Petit</surname>
-          <addName>Le petit Bernard</addName>
-          <addName>petit Bernard</addName>
-        </persName>
-        <birth when="1630">
-          <placeName>La Haye</placeName>
-        </birth>
-        <death when="1669-02-01">
-          <placeName>La Haye</placeName>
-        </death>
-        <trait>
-          <p>N/A</p>
-        </trait>
-        <idno type="ulan">500080229</idno>
-        <idno type="viaf">96254306</idno>
-        <idno type="wikidata">Q41313706</idno>
-      </person>
       <person xml:id="AntoninLePieux" role="empereur romain de 138 à 161"
         source="https://www.wikidata.org/wiki/Q1429">
         <persName>
@@ -33085,7 +33079,7 @@
           <objectName>Saint Pierre</objectName>
         </floruit>
       </person>
-      <person xml:id="SimoneMemmi" role="peintre italien"
+      <person xml:id="SimoneMartini" role="peintre italien"
         source="http://www.wikidata.org/entity/Q221043">
         <persName
           ref="https://getty.edu/vow/ULANFullDisplay?find=memmi&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500399029">
