@@ -20,7 +20,7 @@
 	</teiHeader>
 	<text>
 		<front>
-			<figure type="gravure" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/ee88c0f5-211c-4508-8c13-242ee2272eed/1141,136,2003,3268/max/0/default.jpg"/>
+			<figure type="frontispice" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/ee88c0f5-211c-4508-8c13-242ee2272eed/1141,136,2003,3268/max/0/default.jpg"/>
 			<titlePage type="titre">
 				<docTitle>
 					<titlePart type="main"><hi rend="capitals">HISTOIRE <lb/> DES ARTS QUI ONT RAPORT AU DESSEIN, <lb/> DIVISEE EN TROIS LIVRES</hi></titlePart>
@@ -35,7 +35,7 @@
 			</titlePage>
 			<div type="lettre" xml:lang="fra">
 				<pb n="I"/>
-				<figure type="gravure" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/530be8f3-2233-4bbc-8767-71b0f34d6f57/1221,96,1770,1009/max/0/default.jpg"/>
+				<figure type="ornement" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/530be8f3-2233-4bbc-8767-71b0f34d6f57/1221,96,1770,1009/max/0/default.jpg"/>
 				<head> A MONSIEUR LE <persName ref="#EdouardColbertVillacerf">MARQUIS DE VILACERF</persName> SURINTENDANT des Bâtimens, Arts, et Manufactures de Sa Majesté.</head>
 				<figure type="lettrine"/>
 				<p xml:id="MON_HARD_lettre_P1">

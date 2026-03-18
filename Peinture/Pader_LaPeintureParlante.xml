@@ -69,13 +69,13 @@
 	</teiHeader>
 	<text>
 		<front>
-			<pb n="I" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f7.item"/>
+			<pb n="I" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f5.item"/>
 			<titlePage type="titre">
 				<docTitle>
 					<titlePart type="main"><hi rend="capitals">LA <lb/> PEINTURE<lb/> PARLANTE</hi></titlePart>
 				</docTitle>
 				<byline>DE<docAuthor ref="#HilairePader">H. PADER P. P.</docAuthor></byline>
-				<figure type="gravure"/>
+				<figure type="ornement"/>
 				<docImprint> A <pubPlace>TOLOSE</pubPlace>, <lb/><publisher>Par ARNAUD COLOMIEZ, Premier Imprimeur <lb/> ordinairedu Roi, et de l'Université.</publisher>
 				</docImprint>
 				<docDate when="1653">M DC. LIII.</docDate>
@@ -84,7 +84,7 @@
 			<div type="preface" xml:lang="fra">
 				<pb n="II" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f9.item"/>
 				<head>
-					<hi rend="capitals">À MESSIEURS LES PEINTRES DE L'ACCADEMIE ROYALE DE <placeName>PARIS</placeName>.</hi>
+					<hi rend="capitals">À MESSIEURS LES PEINTRES DE L'ACCADEMIE ROYALE DE <placeName ref="#Paris">PARIS</placeName>.</hi>
 				</head>
 				<p xml:id="PAD_LPP_preface_P1">
 					<hi rend="capitals">Messieurs,</hi>
