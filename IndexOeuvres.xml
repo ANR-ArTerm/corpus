@@ -307,6 +307,9 @@
         <object xml:id="FedericoZuccaroCalomnie">
             <p>FedericoZuccaro, La Calomnie</p>
         </object>
+        <object xml:id="FedericoZuccaroElisabeth">
+            <p>FedericoZuccaro, Portrait Élisabeth Ier</p>
+        </object>
         <object xml:id="FedericoZuccaroPieta">
             <p>FedericoZuccaro, La Pietà</p>
         </object>
@@ -318,6 +321,9 @@
         </object>
         <object xml:id="FilippoLippiViergeCeinturePrato">
             <p>FilippoLippi, Vierge à la ceinture ou Madonna della Cintola</p>
+        </object>
+        <object xml:id="FontaineNeptuneFlorence">
+            <p>BartolomeoAmmannati, Fontaine de Neptune</p>
         </object>
         <object xml:id="FraAngelicoChapelleNicoline">
             <p>Inconnu, Fresques de la chapelle Nicoline</p>
@@ -1015,11 +1021,17 @@
         <object xml:id="SantApolloniaFlorence">
             <p>Inconnu, Monastère de Sant'Apollonia</p>
         </object>
+        <object xml:id="SantaMariaDegliAngeliMartiriRome">
+            <p>LuigiVanvitelli, Basilique Santa Maria Degli Angeli Martiri</p>
+        </object>
         <object xml:id="SantaMariaDellAnimaRome">
             <p>Inconnu, Église Santa Maria dell'Anima</p>
         </object>
         <object xml:id="SantaMariaGrazieMilan">
             <p>Inconnu, Église Santa Maria delle Grazie (Milan)</p>
+        </object>
+        <object xml:id="SantaMariaMaggioreRome">
+            <p>FerdinandoFuga, Basilique Santa Maria Maggiore</p>
         </object>
         <object xml:id="SebastianoDelPiomboLazare">
             <p>SebastianoDelPiombo, La Résurrection de Lazare</p>
