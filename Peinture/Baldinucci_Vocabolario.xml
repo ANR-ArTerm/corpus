@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
  <teiHeader>
@@ -26,7 +26,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>
+   <p xml:id="BAL_V_P3">
     I.	A
 Abaco
 m. Vedi Membra degli ornamenti.
@@ -747,7 +747,7 @@ Abbattere, gettare a terra, abbassare, chinare. Lat. Deijcere.
 Atticciato
 add. V. Tozzo.
 Attignere.
-Tirar l'acqua del pozzo con secchie, o simili vasi. Lat. Haurire.
+Tirar l'acqua del pozzo con secchie, o simili vasi. Lat. havrire.
 Attitudine
 f. L'atto, o l'azzione, o il gesto che fa la figura, cioè, di star ferma, chinarsi, alzarsi, o altrimenti muoversi in qualunque modo, per esprimere gli affetti, che si vogliono rappresentare.
 Attorcere.

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
@@ -32,9 +32,8 @@
       <body>
          <div1 type="lettre" xml:id="L1" n="1">
             <pb n="1"/>
-            <p> Sono molti, Padre Santissimo, li quali misurando col suo piccolo iudicio le cose
-               grandissime che de li Romani, circa l'arme, e de la cità di <placeName ref="#Rome"
-                  >Roma</placeName>, circa el mirabile artificio, le ricchezze, ornamenti e
+            <p xml:id="RAP_LLX_L1_P1"> Sono molti, Padre Santissimo, li quali misurando col suo piccolo iudicio le cose
+               grandissime che de li Romani, circa l'arme, e de la cità di <placeName ref="#Rome">Roma</placeName>, circa el mirabile artificio, le ricchezze, ornamenti e
                grandezza de li aedifici si scrivono, quelle più presto estimano fabulose che vere.
                Ma altrimente a me sòle avenire perché, considerando dalle reliquie che anchor si
                veggono delle ruine di <placeName ref="#Rome">Roma</placeName> la divinitate de
@@ -46,7 +45,7 @@
                in un punto mi dà grandissimo piacere per la cognitione di cosa tanto excellente e
                grandissimo dolore vedendo quasi el cadavero di quella nobil patria, che è stata
                regina del mondo, cosi miseramente lacerato. </p>
-            <p> Onde, se ad ognuno è debita la pietate verso <pb n="2"/> li parenti e la patria,
+            <p xml:id="RAP_LLX_L1_P2"> Onde, se ad ognuno è debita la pietate verso <pb n="2"/> li parenti e la patria,
                tengomi obligato de esponere tutte le piccole force mie accioché, più che si po,
                resti in vita un poco de l'imagine e quasi l'umbra di questa che, in vero, è patria
                universale de tutti e cristiani et per un tempo è stata tanto nobile e potente che
@@ -60,7 +59,7 @@
                dalla scelerata rabbia e crudele impeto di malvaggi homini, anci fiere, arse e
                distrutte: ma non, però, tanto che non vi restasse quasi la machina del tutto, ma
                senza ornamenti e (per dir cosi) l'ossa del corpo senza carne. </p>
-            <p> Ma perché ci dolerem noi de' Gotti, <pb n="3"/> Vandali et altri tai perfidi inimici
+            <p xml:id="RAP_LLX_L1_P3"> Ma perché ci dolerem noi de' Gotti, <pb n="3"/> Vandali et altri tai perfidi inimici
                se quelli che come padri e tuttori deveano deffendere queste povere reliquie di
                   <placeName ref="#Rome">Roma</placeName>, essi medemi hanno lungamente atteso a
                destruerle? Quanti pontifici, Padre Santissimo, quali haveano el medemo officio che
@@ -73,12 +72,11 @@
                tutta questa <placeName ref="#Rome">Roma</placeName> nova che hor si vede, quanto
                grande ch'ella si sia, quanto bella, quanto ornata di pallaggi, chiese et altri
                aedifici, tutta è fabricata di calce di marmi antichi! </p>
-            <p> Né, senza molta compassione, poss'io racordarmi che poi ch'io sono in <placeName
-                  ref="#Rome">Roma</placeName>, che anchor non è l'undicesimo anno, sono state
+            <p xml:id="RAP_LLX_L1_P4"> Né, senza molta compassione, poss'io racordarmi che poi ch'io sono in <placeName ref="#Rome">Roma</placeName>, che anchor non è l'undicesimo anno, sono state
                ruinate molte cose belle, come la <objectName>Meta</objectName> che era nella via
                Alexandrina, l'<objectName>Arco Malaventurato</objectName>, tante colunne, templi,
                maxime da Messer Bartolomeo da la Rovere. </p>
-            <p> Non debe, adonque, Padre Santissimo, esser tra li ultimi pensieri di <pb n="4"/>
+            <p xml:id="RAP_LLX_L1_P5"> Non debe, adonque, Padre Santissimo, esser tra li ultimi pensieri di <pb n="4"/>
                Vostra Santitate, lo haver cura che quello poco che resta di questa anticha madre de
                la gloria e grandezza italiana, per testimonio del vallore e virtute de quelli animi
                divini, che pur talhor con la memoria sua excitano alla virtute li spirti che hoggi
@@ -94,7 +92,7 @@
                excellentia: come per el divino consiglio de Vostra Santitate sperano tutti che
                s'habbia da pervenir al secul nostro. <pb n="5"/> E questo è lo esser veramente
                Pastor clementissimo, anci Padre ottimo de tutto el mondo. </p>
-            <p> Essendomi, adonque, comandato da Vostra Santitate ch'io pongha in dissegno
+            <p xml:id="RAP_LLX_L1_P6"> Essendomi, adonque, comandato da Vostra Santitate ch'io pongha in dissegno
                   <placeName ref="#Rome">Roma</placeName> anticha, quanto conoscer si po da quello
                che hoggi di si vede, con gli edifici che di sé dimostrano tal reliquia, che per vero
                argumento si possono infallibilmente ridurre nel termine proprio come stavano,
@@ -105,16 +103,15 @@
                molti authori latini quello che intendo dimostrare, pure, tra li altri, precipuamente
                ho seguitato el quale, per esser stato delli ultimi, po dar più particular noticia de
                le ultime cose, non pretermettendo anchor le più antiche. </p>
-            <p> E perché ad alchuno potrebbe parer che difficil fosse el conoscer li edifici antichi
+            <p xml:id="RAP_LLX_L1_P7"> E perché ad alchuno potrebbe parer che difficil fosse el conoscer li edifici antichi
                dalli moderni, o li più antichi dalli meno antichi, per non lassare dubbio alchuno
                nella mente de chi vorrà havere questa cognitione, dico che questo con pocha faticha
                far si po, perché tre sorti di aedifici in <placeName ref="#Rome">Roma</placeName>
                solamente si trovano: delle quali la una si è tutti li antichi et antichissimi, li
                quali durorno fin al tempo che <placeName ref="#Rome">Roma</placeName> fu ruinata e
-               guasta dalli Gotti et altri barbari; l'altra tanto che <placeName ref="#Rome"
-                  >Roma</placeName> fu dominata da' Gotti et anchor <pb n="6"/> cento anni dippoi;
+               guasta dalli Gotti et altri barbari; l'altra tanto che <placeName ref="#Rome">Roma</placeName> fu dominata da' Gotti et anchor <pb n="6"/> cento anni dippoi;
                l'altra da quello fino alli tempi nostri. </p>
-            <p> Li aedifici, adonque, moderni e de' tempi nostri sono notissimi, sì per esser novi,
+            <p xml:id="RAP_LLX_L1_P8"> Li aedifici, adonque, moderni e de' tempi nostri sono notissimi, sì per esser novi,
                come anchor per non havere né lla manera così bella come quelli del tempo delli
                imperatori né così goffa come quelli del tempo de li Gotti; di modo che, benché siano
                più distanti di spacio di tempo, sono, però, più proximi per la qualitate e posti
@@ -126,31 +123,25 @@
                intendiam nui de dimostrare; né bisogna che in cor di alchuno naschi
                dubbio che de li edificii antichi li meno antichi fossero men belli o men intesi,
                perché tutti erano d'una raggione. </p>
-            <p> E, benché molte volte molti edifici dalli medemi antichi fossero instaurati, come si
-               legge che nel loco dove era la <objectName>Casa Aurea</objectName> di <persName
-                  ref="#Neron">Nerone</persName> nel medemo, dippoi, fòrno aedificate le
+            <p xml:id="RAP_LLX_L1_P9"> E, benché molte volte molti edifici dalli medemi antichi fossero instaurati, come si
+               legge che nel loco dove era la <objectName>Casa Aurea</objectName> di <persName ref="#Neron">Nerone</persName> nel medemo, dippoi, fòrno aedificate le
                   <objectName>Therme di Tito</objectName> e la sua <objectName>casa</objectName> e
                   l'<objectName>Amphiteatro</objectName>, niente di meno, erano fatti colla medema
-               raggione che gli altri aedifici anchor più antichi che il tempo di <persName
-                  ref="#Neron">Nerone</persName> e coetanei della <objectName>Casa
+               raggione che gli altri aedifici anchor più antichi che il tempo di <persName ref="#Neron">Nerone</persName> e coetanei della <objectName>Casa
                   Aurea</objectName>. E benché le lettere, la sculptura, la pittura e quasi tutte
                l'altre arti fossero lungamente ite in declinatione e peggiorando fin al tempo delli
                ultimi imperatori, pur l'architettura si osservava e manteneasi con bona raggione et
                edificavasi con la medema raggione che li primi: e fu questa, tra l'altre arti,
                l'ultima che si perse. E questo conoscer si po da molte cose e, tra l'altre, da
-                  l'<objectName>Arco di <persName ref="#Constantin"
-                  >Constantino</persName></objectName>, el componimento dil quale <pb n="7"/> è
+                  l'<objectName>Arco di <persName ref="#Constantin">Constantino</persName></objectName>, el componimento dil quale <pb n="7"/> è
                bello e ben fatto in tutto quello che apertiene alla architectura, ma le
                   <objectName>sculpture dil medemo arco</objectName> sono sciocchissime, senza arte
-               o bontate alchuna. Ma quelle che vi sono delle spoglie di <objectName><persName
-                     ref="#Trajan">Traiano</persName></objectName> e d'<objectName><persName
-                     ref="#AntoninLePieux">Antonino Pio</persName></objectName> sono excellentissime
+               o bontate alchuna. Ma quelle che vi sono delle spoglie di <objectName><persName ref="#Trajan">Traiano</persName></objectName> e d'<objectName><persName ref="#AntoninLePieux">Antonino Pio</persName></objectName> sono excellentissime
                e di perfetta manera. El simile si vede nelle <objectName>Terme
                   Diocliciane</objectName> che le <objectName>scolpture</objectName> sono goffissime
                e le <objectName>reliquie de pittura</objectName> che vi si veggono non hanno che
-               fare con quelle del tempo di <persName ref="#Trajan">Traiano</persName> e <persName
-                  ref="#Titus">Tito</persName>, pur la architettura è nobile e ben intesa. </p>
-            <p> Ma poi che <placeName ref="#Rome">Roma</placeName> dalli barbari in tutto fu ruinata
+               fare con quelle del tempo di <persName ref="#Trajan">Traiano</persName> e <persName ref="#Titus">Tito</persName>, pur la architettura è nobile e ben intesa. </p>
+            <p xml:id="RAP_LLX_L1_P10"> Ma poi che <placeName ref="#Rome">Roma</placeName> dalli barbari in tutto fu ruinata
                et arsa, parve che quello incendio e misera ruina ardesse e ruinasse insieme con li
                aedifici anchor l'arte de lo edificare. Onde, essendosi tanto mutata la fortuna de'
                Romani et succedendo in loco de le infinite vittorie e triumphi la calamitate e
@@ -171,7 +162,7 @@
                   <placeName ref="#Grece">Grecia</placeName>, dove già fòrno li inventori e perfetti
                maestri di tutte l'arti. Onde, di là anchor, nacque una manera de pittura, sculptura,
                architettura pessima e de niun vallore. </p>
-            <p> Parve, dippoi, che li Tedeschi cominciassero a risvegliare un poco queste arte,
+            <p xml:id="RAP_LLX_L1_P11"> Parve, dippoi, che li Tedeschi cominciassero a risvegliare un poco queste arte,
                ma nelli ornamenti fòrno goffi e lontanissimi dalla bella manera de' Romani, li
                quali, oltre la machina de tutto lo edificio, haveano bellissime cornici, belli
                freggi, architravi, colonne ornatissime de capitelli e basi e misurate con la
@@ -182,25 +173,21 @@
                nacque da li arbori non anchor tagliati li quali, piegati li rami e religati insieme,
                fanno li lor terci acuti. E, benché questa origine non sia in tutto da sprezzare,
                pure è debile perché molto più reggerebbono le capanne fatte de travi incatenati e
-               posti a uso di colonne, con li culmini loro e coprimenti, come descrive <persName
-                  ref="#Vitruve">Vitruvio</persName> de la origine de la opera dorica, che li terzzi
+               posti a uso di colonne, con li culmini loro e coprimenti, come descrive <persName ref="#Vitruve">Vitruvio</persName> de la origine de la opera dorica, che li terzzi
                acuti li quali hanno dui centri. E però, e molto più anchor, sostiene, secondo la
                raggion mathematica, un meggio tondo el quale ogni <pb n="9"/> sua linea tira ad un
                centro solo et, oltre la debolezza, el terzo acuto non ha quella gratia all'ochio
                nostro al quale piace la perfectione del circulo: e vedesi che la natura non cercha
                quasi altra forma. </p>
-            <p> Ma non è necessario parlare de la architettura romana per farne paragone con la
+            <p xml:id="RAP_LLX_L1_P12"> Ma non è necessario parlare de la architettura romana per farne paragone con la
                barbara perché la differentia è notissima né, anchor, per descrivere l'ordine suo,
-               essendone già tanto excellentemente scritto per <persName ref="#Vitruve"
-                  >Vitruvio</persName>. Basti, adonque, saper che li edificii di <placeName
-                  ref="#Rome">Roma</placeName>, insino al tempo de li ultimi imperatori, fòrno
+               essendone già tanto excellentemente scritto per <persName ref="#Vitruve">Vitruvio</persName>. Basti, adonque, saper che li edificii di <placeName ref="#Rome">Roma</placeName>, insino al tempo de li ultimi imperatori, fòrno
                sempre edificati con bona raggione de architettura e però concordavano con li più
                antichi, onde difficultà alchuna non è discernegli da quelli che fòrno al tempo de li
                Gotti et anchor molti anni dipoi perché fòrno questi quasi dui estremi et oppositi di
                brocha né, anchor, dalli nostri moderni per molte qualitati, ma, specialmente, per la
                novità che li fa notissimi. </p>
-            <p> Havendo a bastanza dechiarato quali aedifici antichi di <placeName
-                  ref="#Rome">Roma</placeName> sono quelli che noi vogliam dimostrare et anchor come
+            <p xml:id="RAP_LLX_L1_P13"> Havendo a bastanza dechiarato quali aedifici antichi di <placeName ref="#Rome">Roma</placeName> sono quelli che noi vogliam dimostrare et anchor come
                facil cosa sia conoscere quelli da li altri, resta ad insegnare el modo che noi
                havemo tenuto in misurarli e disegnarli, accioché chi vorà attendere alla
                architettura sappi oprar l'uno e l'altro senza errore e conoscha noi nella
@@ -209,7 +196,7 @@
                né inteso che sia appresso a alchuno anticho el modo de misurare con la bussola de la
                calamita, el qual modo noi usiamo, estimo che sia inventione de' moderni; però parmi
                bene insegnare con diligentia l'operarla a chi non la sapesse. </p>
-            <p> Farassi, adonque, un instrumento tondo e piano, come un astrolabio, el diametro
+            <p xml:id="RAP_LLX_L1_P14"> Farassi, adonque, un instrumento tondo e piano, come un astrolabio, el diametro
                del quale serà dui palmi, o più o meno, come piace a chi lo vole operare: e la
                circunferentia di questo instrumento partiremo in otto parti iuste et a ciaschuna di
                quelle parti porremo el nome d'uno degli otto venti, dividendola in trentadue altre
@@ -223,7 +210,7 @@
                detti quattro venti principali, restarà el spacio delli altri quattro collaterali che
                sono: grecho, lebecchio, maestro e siroccho, e questi se descriverano con li medemi
                gradi e modi che si è detto de li altri. </p>
-            <p> Fatto cosi, nel punto del centro dove se intersechano <pb n="11"/> le linee
+            <p xml:id="RAP_LLX_L1_P15"> Fatto cosi, nel punto del centro dove se intersechano <pb n="11"/> le linee
                conficharemo un umbilico di ferro, come un chiodetto, drittissimo et acuto e, sopra
                questo, si metterà la calamita in bilancia, come si usa di fare ne li horioli da sole
                che tutto di veggiamo; dippoi chiuderemo questo loco de la calamita con un vetro, o
@@ -234,7 +221,7 @@
                traguardo e serà aconcio di modo che si poterà volger intorno stante fermo el resto
                de l'instrumento. Con questo, adonque, misureremo ogni sorte di aedificio di che
                forma si sia: o tondo o quadro o con strani anguli e svolgimenti quanto dir si possa. </p>
-            <p> XVI. Et il modo è tale che nel loco che si vole misurare si ponga lo instrumento ben
+            <p xml:id="RAP_LLX_L1_P16"> XVI. Et il modo è tale che nel loco che si vole misurare si ponga lo instrumento ben
                piano acioché la calamita vaddi al suo dritto et se acosti a quella parete che si vol
                misurare quanto comporta la circunferentia del stormento; e questo se vadi volgendo
                tanto che la calamita <reg>stia</reg> iusta verso el vento signato per tramontana. E come è ben
@@ -250,7 +237,7 @@
                li gradi del vento et el numero delle misure fin tanto che se circuischa tutto lo
                edificio. E questo pensiamo che basti quanto al misurare, benché bisogna intendere le
                altezze e tondi, li quali se misurano in questo modo: </p>
-            <p>
+            <p xml:id="RAP_LLX_L1_P17">
                <pb n="13"/>XVII. Havendo misurato di quel modo che si è detto e notate tutte le
                misure e prospetti, ciò è tante canne o palmi a tanti gradi di tal vento, per
                dissegnare bene il tutto è oportuno haver una carta della forma e misura propria de
@@ -271,7 +258,7 @@
                piedi 30 a gradi sei di levante, misura piedi 30 e segna. E così di mano in mano, di
                modo che, con la praticha, farai una facilitate grandissima e serà <pb n="14"/>
                questo quasi un dissegno de la pianta e memoriale per dissegnare tutto el resto. </p>
-            <p> E perché, secondo el mio iudicio, molti se inganano circa el dissegnare li
+            <p xml:id="RAP_LLX_L1_P18"> E perché, secondo el mio iudicio, molti se inganano circa el dissegnare li
                aedifici, che in loco di far quello che apertiene allo architetto, fanno quello che
                apertiene al pittore, dirò qual modo mi pare che s'habbia a tenere per intendere
                tutte le misure iustamente e saper trovare tutti li membri delli aedifici senza
@@ -287,7 +274,7 @@
                piombati e perpendiculari tutti li muri e chiamasi questo dissegno pianta, quasi che,
                come el spacio che occupa la pianta del piede, ch'è fondamento di tutto el corpo,
                così questa pianta sia fondamento di tutto lo edificio. </p>
-            <p> Designato che si ha la pianta, e compartitovi li suoi membri con le larghezze
+            <p xml:id="RAP_LLX_L1_P19"> Designato che si ha la pianta, e compartitovi li suoi membri con le larghezze
                loro, o in tondo o in quadro o in qual altra forma si sia, devesi tirare - misurando
                sempre il tutto con la piccola misura - una linea della larghezza delle basi de tutto
                lo edificio e, dal punto di meggio di questa linea, tirarai un'altra linea dritta, la
@@ -303,7 +290,7 @@
                si ponga l'altezza delle basi delle colonne, delli capitelli, delli architravi, delle
                finestre, freggi, cornici e tai cose e questo tutto si faccia con linee paralelle
                della linea del piano dello edificio. </p>
-            <p> Né si diminuisca nella estremitate dello edificio, anchor che fosse tondo, né
+            <p xml:id="RAP_LLX_L1_P20"> Né si diminuisca nella estremitate dello edificio, anchor che fosse tondo, né
                anchor se fosse quadro, per farli mostrare due faccie, come fanno alchuni, diminuendo
                quella che si allontana più da l'ochio, perché subito che li dissegni diminuischono,
                sono fatti con intersechare li raggi piramidali de l'ochio, che è raggion di
@@ -317,7 +304,7 @@
                come volte, archi, trianguli, e poi sono perfetti nelli suoi <pb n="16"/> dritti
                dissegni. E per questo è sempre bisogno havere pronte le misure iuste di palmi,
                piedi, dite, grani, fino alle sue parti minime. </p>
-            <p> La terza parte di questo dissegno si è quella che havemo chiamata la pariete di
+            <p xml:id="RAP_LLX_L1_P21"> La terza parte di questo dissegno si è quella che havemo chiamata la pariete di
                dentro con li suoi ornamenti. E questa è necessaria non meno che l'altre due e fatta
                medemamente dalla pianta con le linee paralelle, come la parete di fora, e dimostra
                la metà dello edificio dentro come se fosse diviso per meggio: dimostra el cortile,
