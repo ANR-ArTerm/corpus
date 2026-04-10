@@ -2,6 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <settingDesc>
     <listPlace>
+      <place xml:id="SanLorenzoEscurial" source="https://www.wikidata.org/wiki/Q371748"></place>
       <place xml:id="Acre" source="https://www.wikidata.org/wiki/Q126084"></place>
       <place xml:id="Arcadie" source="https://www.wikidata.org/wiki/Q12898802"></place>
       <place xml:id="Sardaigne" source="https://www.wikidata.org/wiki/Q19740031"></place>
@@ -3412,7 +3413,7 @@
         </location>
         <idno type="wikidata">Q220</idno>
       </place>
-      <place xml:id="Torino" source="https://www.wikidata.org/wiki/Q495">
+      <place xml:id="Turin" source="https://www.wikidata.org/wiki/Q495">
         <placeName xml:lang="fra">Turin</placeName>
         <placeName xml:lang="ita">Torino</placeName>
         <location>
