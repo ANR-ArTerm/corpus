@@ -383,7 +383,16 @@
   <define name="tei_att.placement.attribute.place">
     <optional>
       <attribute name="place">
-        <data type="NMTOKENS"/>
+        <choice><value>top</value>
+          <value>bottom</value>
+          <value>margin</value>
+          <value>right</value>
+          <value>left</value>
+          <value>above</value>
+          <value>below</value>
+          <value>end</value>
+          <value>inline</value>
+        </choice>
       </attribute>
     </optional>
   </define>
@@ -2669,6 +2678,9 @@
     </optional>
     <optional>
       <attribute name="n"/>
+    </optional>
+    <optional>
+      <ref name="tei_att.placement.attributes"/>
     </optional>
   </define>
   <!-- doc:(file description) contains a full bibliographic description of an electronic file. [2.2. The File Description 2.1.1. The TEI Header and Its Components] -->
