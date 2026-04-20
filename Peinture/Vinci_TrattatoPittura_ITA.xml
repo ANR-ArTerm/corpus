@@ -415,10 +415,12 @@
       <link target="#VIN_TP_C365_P1 #VIN_TP_C365_P2 #VIN_TPITA_L1_C365_P1"/>
     </linkGrp>
     <front>
-      <figure type="gravure">
+      <pb facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f7/full/full/0/native.jpg"/>
+      <figure type="portrait">
         <head>Lionardo da Vinci Della pittura</head>
       </figure>
       <pb type="blankpage"/>
+      <pb facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f9/full/full/0/native.jpg"/>
       <titlePage>
         <docTitle>
           <titlePart type="main">TRATTATO DELLA PITTURA <lb/> DI <persName ref="#LeonardoDaVinci">LEONARDO <lb/> DA VINCI, </persName></titlePart>
@@ -432,6 +434,7 @@
         <imprimatur>CON PRIVILEGIO DEL RE</imprimatur>
       </titlePage>
       <pb type="blankpage"/>
+      <pb facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f11/full/full/0/native.jpg"/>
       <div type="lettre" n="1">
         <figure type="ornement"/>
         <head>ALLA SERENISSIMA E POTENTISSIMA<lb/><persName ref="#ChristineDeSuede">PRINCIPESSA CHRISTINA</persName>, <lb/>PER GRATIA DI DIO <lb/>REGINA <lb/>DE' SVEDESI, GOTI, E VANDALI,<lb/>GRAN DUCHESSA DI FINLANDIA, <lb/>DUCHESSA D'ESTONIA E CARELIA, <lb/>SIGNORA D'INGRIA, etc.</head>
@@ -439,17 +442,16 @@
         <p xml:id="VIN_TPITA_lettre_P2"><figure type="lettrine"/>Vedesi per lunga memoria delle più chiare historie essere stata sempre tenuta in pregio l'arte della pittura, et ogn'un sa ch'<persName ref="#AlexandreLeGrand">Alessandro</persName>, che per grandezza d'animo e di fatti fu il <persName>Gustavo</persName> del suo secolo, hebbe in honore il grande <persName ref="#Apelle">Apelle</persName>. Nulla dirò di <persName ref="#GaiusFabiusPictor">Fabio</persName>, ch'in quella città dove i re si tennero honorati del titolo di cittadino, per l'esercitio di sì nobile arte fu chiamato il Pittore, e ne lasciò il nome alla sua famiglia. Nè per indurre la <persName ref="#ChristineDeSuede">Maestà Vostra</persName> a far stima di questa virtù credo che sia necessario di farla ricordare ch'<persName ref="#AntoninLePieux">Antonino imperatore </persName>con quelle mani che davano le leggi al <pb/> mondo, con quelle istesse si dilettava di maneggiare alle volte i pennelli. A tutti è noto l'amore ch'ella porta alle lettere, ed a tutte le belle arti, e l'ammira il mondo come protettrice e posseditrice ancora delle più recondite scienze, e stupisce vedendo a tanti habiti virtuosi unito sì felicemente l'imperio. Sperando dunque che questa opera, la quale da me vien consecrata a' suoi meriti, e porta in fronte l'augusto nome di <persName ref="#ChristineDeSuede">Vostra Maestà</persName> sia per essere da lei gradita, ho supplicato il <persName ref="#PierreBourdelot">signor Bourdelot</persName>, delitie de' letterati della nostra natione, e che ha un particolar gusto delle cose della pittura, di volerla presentare alla <persName ref="#ChristineDeSuede">Maestà Vostra</persName>, accioché per la gentilezza del donatore il dono acquisti più gratia appresso di lei. L'autore, che scrisse nel principio del secolo passato, fu favorito da prencipi grandi, et il <persName ref="#FrancoisIer">re Francesco primo</persName>, che com'ella fu il nume tutelare de' virtuosi, lo volse, benché carico d'anni, havere nella sua corte, e si sa ch'egli gli morì in braccio. Avventuroso vecchio, essendo hoggidì sua fortuna di rivivere nelle mani d'una dama, che per l'imperio di tante fiere e bellicose nationi si può chiamar la più potente, come per quello della virtù la più compita e gloriosa prencipessa dell'universo, e che da quelli che parlano la lingua de gli dei si deve ad una voce chiamar regina di Parnasso. Ma per non penetrare più oltre nell' ampio campo delle sue lodi, non essendo materia proportionata alla tenuità del mio stile, vengo a supplicar humilmente la <persName ref="#ChristineDeSuede">Maestà Vostra</persName> di gradire le mie fatiche, havendo per la riputatione di <persName ref="#LeonardoDaVinci">Lionardo da Vinci</persName>, e per l'utilità publica, restituito un'opera molto importante, la quale accompagnata dal suo chiaro nome, vincendo le tenebre dell'oblio, ha da passare sino alla più lontana posterità, et io a restar felice, s'ella si degna di riceverla con benigna fronte, si come io la dono e dedico con vivo affetto di cuore, essendo non meno riverente delle sue grandezze, che ammiratore delle sue glorie. </p>
         <signed> DI VOSTRA MAESTA <lb/> Humilissimo e devotissimo servitore,<lb/>
           <persName ref="#RaphaelTrichetDuFresne">RAFAELLE TRICHET DU FRESNE</persName>. </signed>
-        <pb/>
       </div>
+      <pb/>
       <div type="lettre" n="2">
         <head>AL MOLTO ILLUSTRE ED ECCELLENTISSIMO SIGNORE <lb/>IL SIGNOR <persName ref="#PierreBourdelot">PIETRO BOURDELOT</persName>,<lb/>primo Medico della Serenissima Regina di Svetia.<lb/>Molto illustre et eccellentissimo signore, e padrone mio osservandissimo.</head>
         <p xml:id="VIN_TPITA_lettre_P3"> Hò creduto che la nobiltà dell'arte della quale si spiegano i precetti in questa opera, et il merito di <persName ref="#LeonardoDaVinci"> Lionardo da Vinci</persName>, che n'è l'autore, come ancora la bellezza e curiosità con la quale si è stampato il libro, non si potevano fregiare d'un nome più glorioso di quello della sua <persName ref="#ChristineDeSuede">gran Regina</persName>. Ho creduto ancora che se <persName ref="#PierreBourdelot">Vostra Signoria</persName> eccellentissima mi prestasse in questa occasione le mani, più gradita sarebbe la mia oblatione. E mi sono facilmente persuaso che pregandola, come io faccio, ella non mi negherebbe questo ufficio, tanto per la lunga nostra amicitia, quanto per l'amore ch'ella porta alla pittura: il qual gusto nato in lei et in me in un medesimo tempo, cioè quando andavamo con tanta accuratezza esaminando le bellezze dell'una e dell'altra <placeName ref="#Rome">Roma</placeName>, crescendo con la continua applicatione, è diventato, principalmente in lei, sempre più fino et esquisito. Mi sono valuto nel far stampar questo trattato di varii manoscritti. Più nobile per un buon numero di figure, che vi sono schizzate dalla dotta mano del signor <persName ref="#NicolasPoussin">Poussin</persName>, è stato quello del <persName ref="#PaulFreartDeChantelou">signor di Ciantelou</persName>, il quale l'hebbe dal virtuosissimo <persName ref="#CassianoDalPozzo">cavaliere del Pozzo</persName>, nel tempo ch'egli andato in Italia alla conquista delle belle cose, se per la gloria del regno non moriva il nostro <persName ref="#FrancoisSubletDeNoyers">gran Cardinale</persName>, haverebbe portato <placeName ref="#Rome">Roma</placeName> a <placeName ref="#Paris">Parigi</placeName>. L'altro, ch'è assai più corretto, mi è stato communicato dalla cortesia del signor <persName ref="#MelchisedecThevenot">Tevenot</persName>, gentilhuomo d'ogni sorte di belle lettere e cognitioni adorno. Ma per l'ignoranza o negligenza di chi copia libri, o per qualsivoglia altra occasione, pochi si sono trovati i capitoli, ne' quali non vi sia stato qualche intoppo, e principalmente in quelli dove entrava un poco di geometria, che per l'assurdità delle figure restavano quasi inintelligibili. Spero di haver restituito il tutto alla sua prima purità. Vi restano però molte cose che paiono desiderare la lima: vi sono molte repliche inutili, molti ragionamenti troncati, la dicitura è in più luoghi sregolata, e benché vi sia qualche ordine ne' capitoli, non è però tale quale si richiede in un' opera perfetta: donde si conchiude facilmente che <persName ref="#LeonardoDaVinci"> Lionardo da Vinci</persName> non gli diede mai l'ultima mano. Nientedimeno ella è considerabile, e di maravigliosa utilità, e vale sempre più, come sa Vostra Signoria eccellentissima un abbozzo di <persName ref="#MichelAnge">Michelagnolo</persName> che quattro statue finite di qualsivoglia altro scultore mediocre. Havendola dunque purgata quanto si poteva, per maggiormente illustrarla si sono fatte intagliare le figure con quella diligentia ch'ella vede. Il signor <persName ref="#CharlesErrard">Errard</persName> valentissimo pittore, che per la profunda scienza del disegno non si può paragonare se non con i più eccellenti huomini de gli ultimi secoli, e del quale potrebbe dire qualche filosofo che per quel vero gusto ch'egli ha delle cose antiche, fusse passata in lui l'anima di qualch'uno di quei primi maestri, è quello al quale si devono il compimento e gli ornamenti dell'opera, havendovi aggiunto parecchi figure, <pb/> e fra le altre quelle che si vedono verso il fine del libro, dove si ragiona del modo di panneggiare e di vestir le figure: nel resto si è servito di quelle idee e schizzi del signor <persName ref="#NicolasPoussin">Poussin</persName>, che si sono trovati nel manoscritto del signor di <persName ref="#PaulFreartDeChantelou">Ciantelou</persName>. Tale è l'historia di questo trattato. Ho creduto che <persName ref="#PierreBourdelot">Vostra Signoria eccellentissima</persName> haverebbe a caro di esserne informata. Per la conformità della materia si sono aggiunti i tre libri della pittura di <persName ref="#LeonBattistaAlberti">Leon Battista Alberti</persName>, et il trattato della statua dell'istesso, il quale non si trovava più, non essendo mai stato stampato se non una volta sola. Il <persName ref="#GiorgioVasari">Vasari</persName> scrisse già le vite dell'uno e dell'altro autore, ma perché egli ha tralasciato molte cose degne di essere osservate, mi sono messo a farle di nuovo, aggiungendovi quello che la lettura de' libri, e qualche cognitione ch'io mi sono acquistato delle cose d'<placeName ref="#Italie">Italia</placeName> m'hanno suggerito. Hò scritto in lingua Italiana, perche sapendone quanto bastava per essere inteso, mi pareva che cosi lo richiedesse l'accompagnamento dell'opera. Se un'altra volta haverò occasione di parlar Latino o Francese, forse mi riuscirà meglio, e potrò più felicemente spiegare i miei concetti. Intanto supplico Vostra Signoria eccellentissima di volermi essere protettore, e di porgere a miei scritti quell'aiuto che non potrebbono per aventura dall' autore loro sperare, manifestando la sovrabondanza del suo amore nella moltitudine de' miei diffetti. E le bacio mille volte le mani. </p>
         <signed> Di Vostra Signoria eccellentissima, <lb/>Servitore devotissimo e cordialisssimo<lb/>
           <persName ref="#RaphaelTrichetDuFresne">RAFAELLE TRICHET DU FRESNE</persName>. </signed>
       </div>
-      <figure n="1" type="ornement">
-        <p> Ornement 2 </p>
-      </figure>
+      <figure n="1" type="ornement"></figure>
+      <pb facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f15/full/full/0/native.jpg"/>
       <div type="biographie">
         <head> VITA DI<lb/><persName ref="#LeonardoDaVinci">LIONARDO<lb/> DA VINCI</persName> DESCRITTA DA<lb/>
           <persName ref="#RaphaelTrichetDuFresne">RAFAELLE DU FRESNE</persName>
@@ -516,8 +518,8 @@
         <p xml:id="VIN_TPITA_biographie_P27"> Promette ancora nel capitolo 268 un <objectName> Trattato della ponderatione overo libratione del corpo </objectName>. </p>
         <p xml:id="VIN_TPITA_biographie_P28"> Il libro <objectName> Dell'ombre e de'lumi </objectName> si ritrova hoggi nella <placeName> libraria Ambrosiana </placeName> di <placeName ref="#Milan">Milano</placeName>, in folio, coperto di velluto rosso, et è quello che, come si è detto di sopra, fu dato dal signor <persName ref="#GuidoMazenta"> Guido Mazzenta </persName> al <persName ref="#FedericoBorromeo"> Cardinale Borromeo </persName>. Tratta egli quella materia da filosofo, da matematico e da pittore, e ne fa mentione in questo trattato capsitolo 278. Fu miracoloso in questa parte della pittura, imitando con tanta sagacità gli effetti che fa la luce col colore, che le sue opere havevan più del naturale che del finto. </p>
         <p xml:id="VIN_TPITA_biographie_P29"> Resta il <objectName> Trattato della pittura </objectName>, che contiene varii precetti di quella arte, et insieme i modi del disegno e del colorire. Racconta il <persName ref="#GiorgioVasari"> Vasari </persName> ch'<persName>un certo pittore Milanese </persName> passando a <placeName ref="#Florence"> Fiorenza </placeName>, gli fece vedere quella opera, e gli disse che quando saria arrivato a <placeName ref="#Rome">Roma</placeName> subito la farebbe stampare : ma ciò non fu da colui eseguito, e quello ch'a <placeName ref="#Rome">Roma</placeName> non si è fatto, hora dopo un secolo intiero si mette in esecutione a <placeName ref="#Paris">Parigi</placeName>, dove col confronto di varii manoscritti, tutti corrotti e guasti, si è restituita da me un'opera che per l'eccellenza de' precetti, e per il merito dell'autore è degna dell'immortalità. E per renderla ancora più familiare alla nostra natione, il <persName ref="#RolandFreartDeChambray"> signor di Ciambre </persName> gentilhuomo intelligentissimo di tutte le parti del disegno, e che (come dicemmo del gran <persName ref="#LeonX">Leone X</persName> e di studio, n'ha fatto una versione in lingua Francese, che vale un commentario intiero, essendovi con una esquisita e felice diligenza espresso il senso dell'autore. </p>
-        <pb/>
       </div>
+      <pb/>
       <div type="avis">
         <head rend="it"> PER NON LASCIAR QUESTE CARTE VOTE ED INUTILI, si è fatto il seguente indice de gli altri libri che trattano della pittura e del disegno, comme ancora di quelli dove sono descritte le vite de' pittori e le opere loro. </head>
         <p xml:id="VIN_TPITA_avis_P1"> Di <persName ref="#AlbrechtDurer"> Alberto Durero </persName> pittore e geometra chiarissimo, <bibl key="durerSimmetriaCorpiHumani1591"> Della simmetria de i corpi humani, libri quattro</bibl>, novamente tradotti dalla lingua Latina nella Italiana da <persName ref="#GiovanniPaoloGallucciSalodiano"> M. Giovanni Paolo Gallucci Salodiano </persName>, et accresciuti del quinto libro, nel quale si tratta con quai modi possano i pittori e scultori mostrare la diversità della natura de gli huomini e donne, e con quali le passioni che sentono per li diversi accidenti che li occorrono, hora di novo stampati, In <placeName ref="#Venise"> Venetia </placeName>
@@ -607,7 +609,7 @@
           <bibl key="bocchiEccellenzaStatuaSan1584"> Eccellenza della <objectName ref="#DonatelloSaintGeorges"> statua del san Giorgio </objectName> di <persName ref="#Donatello"> Donatello </persName> scultore Fiorentino </bibl>, posta nella faccia di fuori d'<placeName>Orsan Michele</placeName>, scritta da <persName ref="#FrancescoBocchi">M. Francesco Bocchi </persName> , dove si tratta del costume, della vivacità, e della bellezza di detta statua. In <placeName ref="#Florence"> Fiorenza </placeName>
           <date when="1584"> 1584 </date>.8. </p>
         <p xml:id="VIN_TPITA_avis_P29">
-          <bibl key="vasariRagionamentiSigCavaliere1588"> Ragionamenti </bibl> del sig. <persName ref="#GiorgioVasari"> Giorgio Vasari </persName> pittore et architetto Aretino sopra le inventioni <pb/> da lui dipinte in <placeName ref="#Florence">Firenze</placeName> nel palazzo di loro altezze serenissime, con lo illustrissimo et eccellentissimo signor don <persName ref="#FrancoisIMedicis"> Francesco Medici </persName> allora prencipe di <placeName ref="#Florence">Firenze</placeName>, insieme con la inventione della pittura da lui cominciata nella cupola. In <placeName ref="#Florence">Firenze</placeName>
+          <bibl key="vasariRagionamentiSigCavaliere1588"> Ragionamenti </bibl> del sig. <persName ref="#GiorgioVasari"> Giorgio Vasari </persName> pittore et architetto Aretino sopra le inventioni <pb facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f26/full/full/0/native.jpg"/> da lui dipinte in <placeName ref="#Florence">Firenze</placeName> nel palazzo di loro altezze serenissime, con lo illustrissimo et eccellentissimo signor don <persName ref="#FrancoisIMedicis"> Francesco Medici </persName> allora prencipe di <placeName ref="#Florence">Firenze</placeName>, insieme con la inventione della pittura da lui cominciata nella cupola. In <placeName ref="#Florence">Firenze</placeName>
           <date when="1588"> 1588 </date>.4. </p>
         <p xml:id="VIN_TPITA_avis_P30">
           <bibl key="manderHetSchilderboeck1618"> Libro della pittura </bibl>, nel quale si spiegano i fondamenti e la pratica di quell'arte, insieme con le vite de' pittori Italiani e Fiamenghi, scritto e stampato in lingua Fiamenga da <persName ref="#CarelVanMander"> Carlo Vanmander </persName> pittore. In <placeName ref="#Amsterdam">Amsterdam</placeName><date when="1618"> 1618 </date>. </p>
@@ -723,11 +725,42 @@
           <p xml:id="VIN_TPITA_L1_C15_P1">
             <hi rend="capitals"> Niuna </hi> cosa è che più c'inganni ch'il nostro giuditio in dar sentenza alle nostre operationi, e più ti varranno i biasimi de' nimici, che de gl'amici le sentenze, perché gl'amici sono una medesima cosa con teco, e così ti possono col tuo giuditio ingannare. </p>
         </div2>
+        <pb n="4"/>
+                <div2 n="16" type="chapitre" xml:id="C16" xml:lang="ita">
+          <head>
+            <hi rend="it"> Modo di destar l'ingegno a varie inventioni. </hi> CAP. XVI. </head>
+          <p>
+            <hi rend="capitals">Non</hi> resterò di mettere in questi precetti vna nuova inventione di speculatione, la quale, benche paia piccola, e quasi degna di riso, nondimeno è di grand' utilità a destar lingegno à varie inventioni, e quelto è : Se riguarderai in alcuni muri imbrattati, o pietre di vari mischi, potrai qui vi vedere l'inventione e similitudine di diverfi paesi, diverse battaglie, atti pronti di figure, stranarie di volti, e habiti, e infinite altre cose; perche nelle cose confuse l'ingegno si desta a nuove inventioni. </p>
+        </div2>
+        <div2 n="17" type="chapitre" xml:id="C17" xml:lang="ita">
+          <head>
+            <hi rend="it"> Dello studiare infino quando tu ti desti, o prima che tu t'addormenti allo scuro.</hi> CAP. XVII. </head>
+          <p>
+            <hi rend="capitals">Ancora</hi> hò provato essere di non poca utilità, quando ti trovi allo fcuro nel letto, andar con l'imaginativa ripetendo li lineamenti superficiali delle forme per l'addietro studiate, o altre cose notabili di sottile speculatione: e à questo modo si confermano le cole comprese nella memoria. </p>
+        </div2>
+        <div2 n="18" type="chapitre" xml:id="C18" xml:lang="ita">
+          <head>
+            <hi rend="it"> Che si deve prima imparar la diligenza che la presta pratica.</hi> CAP. XVIII. </head>
+          <p>
+            <hi rend="capitals">Quando</hi> vorrai far buono e utile studio, usa nel tuo disegnare di fare adagio, e giudicare intra i lumi, quali e quanti tengono il primo grado di chiarezza; e coli intra lombre, quali siano quelle che sono più scure che l'altre, e in che modo fi mescolano insieme, e la qualità, e paragonare l'una con l'altra, e i lineamenti a che parte s'indrizzano, e nelle linee quanta parte deve essere per l'uno e per l'altro verso, e dove o più o meno evidente, e cosi larga o sottile, e in ultimo, che le tue ombre e lumi siano uniti senza tratti o legni, a uso di fumo: e quando harai fatto l'uso e la mano à quella diligenza, ti verrà fatta la pratica prefto, che tu non ten' avvederai. </p>
+        </div2>
+        <div2 n="19" type="chapitre" xml:id="C19" xml:lang="ita">
+          <head>
+            <hi rend="it"> Come il pittore dev'esser vago d'udir il giuditio d'ogn'uno.</hi> CAP. XIX. </head>
+          <p>
+            <hi rend="capitals">Certamente</hi> non deve ricusare il pittore, mentre ch'ei disegna o dipinge, il giuditio di ciascuno, perche noi conosciamo che l'huomo, benche non sia pittore, haurà notitia delle forme dell'huomo, s'egli è gobbo, se hà gamba grossa, o gran mano, s'egli è zoppo, o hà altri mancamenti. E se noi conosciamo gl'huomini poter giudicare l'opere della natura, quanto maggiormente potranno giudicare i nostri errori.</p>
+        </div2>
+        <div2 n="20" type="chapitre" xml:id="C20" xml:lang="ita">
+          <head>
+            <hi rend="it"> he l'uomo non si deve fidar tanto di se, che non vegga dal naturale.</hi> CAP. XX.</head>
+          <p>
+            <hi rend="capitals">Quello</hi> che si dà ad intendere di poter riservare in se tutti gl'effetti della natura, s'inganna, perche la memoria nostra non è di tanta capacità : pero ogni cosa vedrai dal naturale.</p>
+        </div2>
         <div2 n="21" type="chapitre" xml:id="C21" xml:lang="ita">
           <head>
             <hi rend="it"> Delle varietà delle figure. </hi> CAP. XXI. </head>
           <p xml:id="VIN_TPITA_L1_C21_P1">
-            <hi rend="capitals"> Il </hi> pittore deve cercare d'essere universale, perché gli manca assai dignità, se fa una cosa bene, e l'altra male : come molti che solo studiano nell' <pb n="5"/> ignudo misurato, e proportionato, e non ricercano la sua varietà, perché può essere un huomo proportionato, et esser grosso, e corto, e longo, e sottile, e mediocre, e chi di questa varietà non tien conto, fa sempre le sue figure in stampa, il che merita gran riprensione. </p>
+            <hi rend="capitals"> Il </hi> pittore deve cercare d'essere universale, perché gli manca assai dignità, se fa una cosa bene, e l'altra male : come molti che solo studiano nell' <pb n="5" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f31/full/full/0/native.jpg"/> ignudo misurato, e proportionato, e non ricercano la sua varietà, perché può essere un huomo proportionato, et esser grosso, e corto, e longo, e sottile, e mediocre, e chi di questa varietà non tien conto, fa sempre le sue figure in stampa, il che merita gran riprensione. </p>
         </div2>
         <div2 n="22" type="chapitre" xml:id="C22" xml:lang="ita">
           <head>
@@ -2013,7 +2046,7 @@
             <hi rend="it"> Della bilicatione del peso di qualunque animale immobile sopra le sue gambe. </hi> CAP. CCIII. </head>
           <p xml:id="VIN_TPITA_L1_C203_P1">
             <hi rend="capitals"> La </hi> privatione del moto di qualunque animale, il quale posa li suoi piedi, nasce dalla privatione dell'inegualità che hanno infra loro oppositi pesi che si sostengono sopra i lor pesi. </p>
-          <pb n="61"/>
+          <pb n="61" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f85/full/full/0/native.jpg"/>
           <figure type="dessin">
             <head>
               <hi rend="it"> Figure 11 </hi>
@@ -3288,15 +3321,16 @@
           </figure>
         </div2>
       </div1>
+      <pb type="blankpage"/>
     </body>
     <back type="postface">
-      <pb n="I"/>
+      <pb n="I" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f155/full/full/0/native.jpg"/>
       <figure type="ornement"/>
       <head rend="capitals">
         <persName ref="#LeonBattistaAlberti">LEON BATTISTA ALBERTI </persName> DELLA PITTURA DELLA STATUA. </head>
       <figure type="ornement"/>
       <pb n="II" type="blankpage"/>
-      <pb n="III"/>
+      <pb n="III" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f155/full/full/0/native.jpg"/>
       <figure type="dessin">
         <head>
           <persName ref="#LeonBattistaAlberti">Leon Battista Alberti</persName> Fiorentino</head>
@@ -3304,7 +3338,7 @@
 
       <pb n="IV" type="blankpage"/>
       <div type="lettre">
-        <pb n="V"/>
+        <pb n="V" facs="stop"/>
         <figure type="ornement"/>
         <head rend="capitals"> AL MOLTO ILLUSTRE SIGNORE MIO OSSERVANTISSIMO IL SIGNORE <persName ref="#CharlesErrard">CARLO ERRARD</persName> PITTORE DEL RE CRISTIANISSIMO. </head>
         <opener>
