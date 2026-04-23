@@ -263,17 +263,17 @@
     <ref name="tei_att.anchoring.attribute.targetEnd"/>
   </define>
   <define name="tei_att.canonical.attribute.ref">
-   <optional>
-    <attribute name="ref">
-      <ref name="teidata.pointer"/>
-    </attribute>
-   </optional>
+    <optional>
+      <attribute name="ref">
+        <ref name="teidata.pointer"/>
+      </attribute>
+    </optional>
   </define>
   <define name="tei_att.canonical.attribute.key">
     <optional>
       <attribute name="key">
-      <ref name="teidata.text"/>
-    </attribute>
+        <ref name="teidata.text"/>
+      </attribute>
     </optional>
   </define>
   <define name="tei_att.canonical.attributes">
@@ -383,7 +383,8 @@
   <define name="tei_att.placement.attribute.place">
     <optional>
       <attribute name="place">
-        <choice><value>top</value>
+        <choice>
+          <value>top</value>
           <value>bottom</value>
           <value>margin</value>
           <value>right</value>
@@ -420,6 +421,19 @@
       </attribute>
     </optional>
   </define>
+  <define name="tei_att.scoping.attribute.target">
+    <optional>
+      <attribute name="target">
+        <list>
+          <oneOrMore>
+            <data type="anyURI">
+              <param name="pattern">\S+</param>
+            </data>
+          </oneOrMore>
+        </list>
+      </attribute>
+    </optional>
+  </define>
   <define name="tei_att.pointing.attribute.evaluate">
     <optional>
       <attribute name="evaluate">
@@ -435,6 +449,9 @@
     <ref name="tei_att.pointing.attribute.targetLang"/>
     <ref name="tei_att.pointing.attribute.target"/>
     <ref name="tei_att.pointing.attribute.evaluate"/>
+  </define>
+  <define name="tei_att.scoping.attributes">
+    <ref name="tei_att.scoping.attribute.target"/>
   </define>
   <define name="tei_att.pointing.group.attribute.domains">
     <optional>
@@ -1365,10 +1382,10 @@
   <define name="attlist.bibl" combine="interleave">
     <optional>
       <ref name="tei_att.global.attributes"/>
-    <ref name="tei_att.typed.attributes"/>
-    <ref name="tei_att.sortable.attributes"/>
-    <ref name="tei_att.canonical.attribute.ref"/>
-    <ref name="tei_att.canonical.attribute.key"/>
+      <ref name="tei_att.typed.attributes"/>
+      <ref name="tei_att.sortable.attributes"/>
+      <ref name="tei_att.canonical.attribute.ref"/>
+      <ref name="tei_att.canonical.attribute.key"/>
     </optional>
   </define>
   <!-- doc:(fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI file description are present. [3.12.1. Methods of Encoding Bibliographic References and Lists of References 2.2. The File Description 2.2.7. The Source Description 16.3.2. Declarable Elements] -->
@@ -1608,6 +1625,19 @@
   <define name="attlist.cell" combine="interleave">
     <ref name="tei_att.global.attributes"/>
     <ref name="tei_att.tableDecoration.attributes"/>
+  </define>
+  <!-- doc:(certainty) indique le degré de certitude ou d'incertitude associé à certains aspects du balisage du texte.[22.1.2 Structured Indications of Uncertainty]-->
+  <define name="certainty">
+    <element name="certainty">
+      <ref name="attlist.certainty"/>
+    </element>
+  </define>
+  <define name="attlist.certainty" combine="interleave">
+    <ref name="tei_att.global.attributes"/>
+    <attribute name="locus">
+      <value>value</value>
+    </attribute>
+    <ref name="tei_att.scoping.attributes"/>
   </define>
   <!-- doc:(change) documents a change or set of changes made during the production of a source document, or during the revision of an electronic file. [2.6. The Revision Description 2.4.1. Creation 12.7. Identifying Changes and Revisions] -->
   <define name="change">
@@ -1889,12 +1919,14 @@
     </element>
   </define>
   <define name="attlist.del" combine="interleave">
-    <optional><attribute name="type">
-      <choice>
-        <value>overstrike</value>
-        <value>missing</value>
-      </choice>
-    </attribute></optional>
+    <optional>
+      <attribute name="type">
+        <choice>
+          <value>overstrike</value>
+          <value>missing</value>
+        </choice>
+      </attribute>
+    </optional>
   </define>
   <!-- doc:(description) contains a short description of the purpose, function, or use of its parent element, or when the parent is a documentation element, describes or defines the object being documented.  [23.4.1. Description of Components] -->
   <define name="desc">
@@ -3462,7 +3494,7 @@
     </element>
   </define>
   <define name="attlist.listObject" combine="interleave">
-        <optional>
+    <optional>
       <attribute name="xml:base"/>
     </optional>
     <optional>
@@ -3939,6 +3971,7 @@
     <element name="objectName">
       <ref name="attlist.objectName"/>
       <ref name="macro.phraseSeq"/>
+      <ref name="tei_att.global.attributes"/>
     </element>
   </define>
   <define name="attlist.objectName" combine="interleave">
@@ -4055,7 +4088,7 @@
             <ref name="model.personLike"/>
             <ref name="listPerson"/>
             <ref name="listOrg"/>
-            <ref name="listObject"></ref>
+            <ref name="listObject"/>
           </choice>
         </oneOrMore>
       </choice>
@@ -4128,8 +4161,7 @@
       <data type="ID"/>
     </attribute>
     <optional>
-      <attribute name="role">
-      </attribute>
+      <attribute name="role"> </attribute>
     </optional>
     <optional>
       <attribute name="sex"/>
@@ -4201,11 +4233,11 @@
     <optional>
       <ref name="tei_att.global.attributes"/>
     </optional>
-      <optional>
-        <attribute name="ref">
-          <ref name="teidata.pointer"/>
-        </attribute>
-      </optional>
+    <optional>
+      <attribute name="ref">
+        <ref name="teidata.pointer"/>
+      </attribute>
+    </optional>
   </define>
   <!-- doc:contains a postscript, e.g. to a letter. [4.2. Elements Common to All Divisions] -->
   <define name="postscript">
@@ -4641,9 +4673,9 @@
     </element>
   </define>
   <define name="attlist.sourceDesc" combine="interleave">
-      <optional>
-        <attribute name="xml:base"/>
-      </optional>
+    <optional>
+      <attribute name="xml:base"/>
+    </optional>
   </define>
   <!-- doc:(state) contains a description of some status or quality attributed to a person, place, or organization often at some specific time or for a specific date range. [14.3.1. Basic Principles 14.3.2.1. Personal Characteristics] -->
   <define name="state">
