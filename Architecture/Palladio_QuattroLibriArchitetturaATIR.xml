@@ -21,19 +21,22 @@
    <text>
       <front>
          <titlePage>
-            <titlePart>I QUATTRO LIBRI DELL'ARCHITETTVRA Di <persName ref="#AndreaPalladio">Andrea
-                  Palladio</persName>. Nei quali, dopo un breve trattato de'cinque ordini, et di
-               quelli avertimenti, che sono piu necessari nel fabricare ; SI TRATTA DELLE CASE
-               PRIVATE, delle Vie, de i Ponti, delle Piazze, de i Xisti, et de'Tempi. CON PRIVILEGI.
-               IN <placeName>VENETIA</placeName>, Apresso <persName>Dominico de'
-                  Franceschi</persName>. <date when="1570">1570</date>. <pb n="1"/>
+            <titlePart><hi rend="capitals">I QUATTRO LIBRI DELL'ARCHITETTURA</hi> Di <persName
+                  ref="#AndreaPalladio">Andrea Palladio</persName>. Nei quali, dopo un breve
+               trattato dei cinque ordini, et di quelli avertimenti, che sono piu necessari nel
+               fabricare; <hi rend="capitals">SI TRATTA DELLE CASE PRIVATE</hi>, delle Vie, de i
+               Ponti, delle Piazze, dei Xisti, et dei Tempi. <hi rend="capitals">CON PRIVILEGI</hi>.
+                  <hi rend="capitals">IN <placeName ref="#Venise">VENETIA</placeName></hi>, Apresso
+                  <persName>Dominico dei Franceschi</persName>. <date when="1570">1570</date>. <pb
+                  n="1"/>
             </titlePart>
          </titlePage>
          <pb type="blankpage"/>
          <pb n="3"/>
          <div type="dedicace">
-            <p xml:id="PAL_QLA_dedicace_P1"> AL MOLTO MAGNIFICO MIO SIGNOR OSSERVANDISSIMO, IL
-               SIGNOR CONTE <persName>GIACOMO ANGARANNO</persName>. <figure type="lettrine"/>
+            <p xml:id="PAL_QLA_dedicace_P1"><hi rend="capitals">AL MOLTO MAGNIFICO MIO SIGNOR
+                  OSSERVANDISSIMO, IL SIGNOR CONTE <persName>GIACOMO ANGARANNO</persName></hi>.
+                  <figure type="lettrine"/>
                <hi rend="capitals">I meriti</hi> amplissimi della vostra infinita cortesia (molto
                Magnifico Signor mio) sono per li molti singolarissimi benefici, che con perpetua
                liberalità già tanti, e tanti anni mi havete fatto continuamente; in tal modo
@@ -98,7 +101,7 @@
          <div1 xml:id="L1" type="livre" n="1">
             <head> IL PRIMO LIBRO DELL'ARCHITETTURA DI ANDREA PALLADIO </head>
             <div2 xml:id="L1C1" type="chapitre" n="1">
-               <head>Proemio a i Lettori.</head>
+               <head>Proemio ai Lettori.</head>
                <p xml:id="PAL_QLA_L1_L1C1_P1"><figure type="lettrine"/><hi rend="capitals">Da
                      naturale</hi> inclinatione guidato mi diedi nei miei primi anni allo studio
                   dell'Architettura: e perché sempre fui di opinione che gli Antichi Romani come in
@@ -270,7 +273,7 @@
                   mancare, ne dirò alcuni, restringendomi a i più necessari. </p>
             </div2>
             <div2 xml:id="L1C3" type="chapitre" n="3">
-               <head> DE I LEGNAMI Cap. II.</head>
+               <head> DEI LEGNAMI Cap. II.</head>
                <p xml:id="PAL_QLA_L1_L1C3_P1">
                   <figure type="lettrine"/><hi rend="capitals">I legnami</hi> (come ha <persName
                      ref="#Vitruve">Vitruvio</persName> al cap. IX. del <bibl>II. lib.</bibl>) si
@@ -583,8 +586,8 @@
                      >Vitruvio</persName> dice, che ai suoi tempi communemente si usava; ho voluto
                   porre ancho di questa il disegno. Facevano gli angoli, over cantoni della fabrica
                   di pietra cotta, et ogni due piedi e mezo tiravano tre corsi di quadrello; i quali
-                  legavano tutta la grossezza del muro. <figure type="schema"/>
-               </p>
+                  legavano tutta la grossezza del muro. </p>
+               <figure type="schema"/>
                <p xml:id="PAL_QLA_L1_L1C10_P2">
                   <list rend="numbered">
                      <item>A, Cantonate fatte di quadrello. </item>
@@ -604,8 +607,8 @@
                   maniera sono in <placeName ref="#Rome">Roma</placeName> i muri della <objectName
                      ref="#PantheonRome">Ritonda</objectName>, e delle <objectName
                      ref="#ThermesDiocletienRome">Terme di Dioclitiano</objectName>, et di tutti gli
-                  Edifici antichi che visono. <figure type="schema"/>
-               </p>
+                  Edifici antichi che visono.</p>
+               <figure type="schema"/>
                <p xml:id="PAL_QLA_L1_L1C10_P4">
                   <list rend="numbered">
                      <item>E, Corsi di quadrelli che legano tutto il muro. </item>
@@ -622,9 +625,8 @@
                   lavoro. I muri dell'<objectName ref="#ArenaVerone">'Arena di <placeName
                         ref="#Verone">Verona</placeName></objectName> sono anch'essi di cementi, et
                   ogni tre piedi vi sono tre corsi di quadrelli; e così sono fatti ancho altri
-                  antichi edifici, come si potrà vedere nei miei libri dell'Antichità. <figure
-                     type="schema"/>
-               </p>
+                  antichi edifici, come si potrà vedere nei miei libri dell'Antichità. </p>
+               <figure type="schema"/>
                <p xml:id="PAL_QLA_L1_L1C10_P6">
                   <list rend="numbered">
                      <item>G, Cementi, o cuocoli di fiume.</item>
@@ -638,8 +640,8 @@
                   conmettessero bene insieme, e per nostr haver da provare più, e più volte se la
                   pietra stava bene al luogo, ove essi havevano disegnato di porla. Di questa
                   maniera si veggono muri a <placeName ref="#Preneste">Preneste</placeName>; e le
-                  strade antiche sono in questo modo lastricate. <figure type="schema"/>
-               </p>
+                  strade antiche sono in questo modo lastricate. </p>
+               <figure type="schema"/>
                <p xml:id="PAL_QLA_L1_L1C10_P8">
                   <list rend="numbered">
                      <item>I, Pietre incerte</item>
@@ -648,8 +650,8 @@
                <p xml:id="PAL_QLA_L1_L1C10_P9"> Di pietre quadrate muri si veggono in <placeName
                      ref="#Rome">Roma</placeName>, ove era la piazza et il <objectName
                      ref="#TempleAugusteRome">Tempio di Augusto</objectName>: nei quali inchiavavano
-                  le pietre minori con alcuni corsi di pietre maggiori. <figure type="schema"/>
-               </p>
+                  le pietre minori con alcuni corsi di pietre maggiori. </p>
+               <figure type="schema"/>
                <p xml:id="PAL_QLA_L1_L1C10_P10"><list rend="numbered">
                      <item>k, Corsi di pietre minori. </item>
                      <item>L, Corsi di pietre maggiori. </item>
@@ -659,8 +661,8 @@
                   volevano che fusse grosso il muro, empiendolo di malta, e di pietre di qualunque
                   sorte mescolate insieme, e così andavano facendo di corso in corso. Si veggono
                   muri di questa sorte a <placeName ref="Sirmione">Sirmion</placeName> sopra il
-                     <placeName ref="LacDeGarde">Lago di Garda</placeName>. <figure type="schema"/>
-               </p>
+                     <placeName ref="LacDeGarde">Lago di Garda</placeName>. </p>
+               <figure type="schema"/>
                <p xml:id="PAL_QLA_L1_L1C10_P12"><list rend="numbered">
                      <item>M, Tavole poste in coltello. </item>
                      <item>N, Parte di dentro del muro. </item>
@@ -672,8 +674,8 @@
                   di sasso quadrato grossi quattro piedi, e distanti tra se piedi sei. Sono legati
                   insieme questi muri da altri muri per traverso, e le casse, che rimangono fra
                   detti traversi, et muri esteriori sono sei piedi per quadro, e sono empiute di
-                  sassi e di terra. <figure type="schema"/>
-               </p>
+                  sassi e di terra.</p>
+               <figure type="schema"/>
                <p xml:id="PAL_QLA_L1_L1C10_P14"><list rend="numbered">
                      <item> P, Muri di pietra esteriori. </item>
                      <item>Q. Muri di pietra posti per traverso. </item>
@@ -903,8 +905,10 @@
                   potranno fare gli spati molto grandi: perché gli Architravi si fanno di legno, e
                   però riesce molto commodo per l'uso di Villa, per cagione dei Carri, et d'altri
                   istrumenti rustichi, et è di picciola spesa. Ma se si faranno porte, o loggie con
-                  gli Archi, si servaranno le misure poste <pb n="17"/><figure type="planche"/>
-                  <pb n="18"/><figure type="planche"/>
+                  gli Archi, si servaranno le misure poste <pb n="17"/>
+                  <figure type="planche"/>
+                  <pb n="18"/>
+                  <figure type="planche"/>
                   <pb n="19"/> nel disegno, nel quale si veggono disposte, et incatenate le pietre,
                   come pare a me che si dovrebbe fare, quando si facesse di pietra: il che ho
                   avertito ancho nel fare i disegni degli altri quattro ordini: e questo disponere,
@@ -1110,9 +1114,9 @@
                   </list></p>
                <pb n="27"/>
                <figure type="planche"/>
-               <pb n="28"/>
             </div2>
             <div2 xml:id="L1C17" type="chapitre" n="17">
+               <pb n="28"/>
                <head> DELL'ORDINE IONICO. Cap. XVI. </head>
                <p xml:id="PAL_QLA_L1_L1C17_P1">
                   <figure type="lettrine"/>
@@ -1127,12 +1131,12 @@
                   intercolunni di due diametri, et un quarto: et questa è la più bella, e commoda
                   maniera d'intercolunni: e da <persName ref="#Vitruve">Vitruvio</persName> è detta
                   Eustilos. In quello de gli Archi, i pilastri sono per la terza parte del vano, e
-                  gli archi sono alti in luce due quadri. <pb n="29"/>
-                  <figure type="planche"/>
-                  <pb n="30"/>
-                  <figure type="planche"/>
-                  <pb n="31"/>
-               </p>
+                  gli archi sono alti in luce due quadri. </p>
+               <pb n="29"/>
+               <figure type="planche"/>
+               <pb n="30"/>
+               <figure type="planche"/>
+               <pb n="31"/>
                <p xml:id="PAL_QLA_L1_L1C17_P2"> Se alle colonne Ioniche si porrà Piedestilo, come
                   nel disegno de gli Archi, egli si farà alto, quanto sarà la metà della larghezza
                   della luce dell'Arco, e si dividerà in parti sette e meza, di due si farà la Basa,
@@ -1167,10 +1171,10 @@
                      <item>I, Basa a due modi del Piedestilo. </item>
                      <item>k, Orlo della Basa del Piedestilo. </item>
                      <item>L, Imposte de gli Archi.</item>
-                  </list>
-                  <pb n="32"/>
-                  <figure type="planche"/>
-                  <pb n="33"/></p>
+                  </list></p>
+               <pb n="32"/>
+               <figure type="planche"/>
+               <pb n="33"/>
                <p xml:id="PAL_QLA_L1_L1C17_P4"> Per fare il capitello si divide il piede della
                   colonna in diciotto parti, e dicenove di queste parti è la larghezza, e lunghezza
                   dell'Abaco: e la metà è l'altezza del capitello con le volute: onde viene ad esser
@@ -1224,11 +1228,10 @@
                      <item>P, Cavetto secondo.</item>
                      <item>Q. Orlo. </item>
                      <item>R, Sporto. </item>
-                  </list>
-                  <pb n="34"/>
-                  <figure type="planche"/>
-                  <pb n="35"/>
-               </p>
+                  </list></p>
+               <pb n="34"/>
+               <figure type="planche"/>
+               <pb n="35"/>
                <p xml:id="PAL_QLA_L1_L1C17_P9"> L'Architrave, il Fregio, e la Cornice sono (come ho
                   detto) per la quinta parte dell'altezza della colonna: e si divide il tutto in
                   parti dodeci. L'Architrave è parti quattro: il Fregio tre, e la Cornice cinque.
@@ -1264,9 +1267,9 @@
                   un modiglione, e l'altro. </p>
                <pb n="36"/>
                <figure type="planche"/>
-               <pb n="37"/>
             </div2>
             <div2 xml:id="L1C18" type="chapitre" n="18">
+               <pb n="37"/>
                <head> DELL'ORDINE CORINTHIO. Cap. XVII. </head>
                <p xml:id="PAL_QLA_L1_L1C18_P1">
                   <figure type="lettrine"/>
@@ -1285,12 +1288,12 @@
                      <persName ref="#Vitruve">Vitruvio</persName> è detta Sistilos. Et in quello
                   degli Archi, i pilastri sono per le due parti delle cinque della luce dell'Arco, e
                   l'Arco è in luce per altezza due quadri e mezo, compresa la grossezza di esso
-                  Arco. <pb n="38"/>
-                  <figure type="planche"/>
-                  <pb n="39"/>
-                  <figure type="planche"/>
-                  <pb n="42"/>
-               </p>
+                  Arco.</p>
+               <pb n="38"/>
+               <figure type="planche"/>
+               <pb n="39"/>
+               <figure type="planche"/>
+               <pb n="42"/>
                <p xml:id="PAL_QLA_L1_L1C18_P2"> Sotto le colonne Corinthie si farà il piedestilo
                   alto il quarto dell'altezza della colonna; e si dividerà in otto parti: una si
                   darà alla Cimacia, due alla sua basa, e cinque resteranno al Dado. La Basa si
@@ -1314,11 +1317,10 @@
                      <item>k, Orlo della Basa del piedestilo.</item>
                   </list>
                </p>
-               <p xml:id="PAL_QLA_L1_L1C18_P4"> La imposta de gli Archi è accanto alla colonna. <pb
-                     n="43"/>
-                  <figure type="planche"/>
-                  <pb n="42"/>
-               </p>
+               <p xml:id="PAL_QLA_L1_L1C18_P4"> La imposta de gli Archi è accanto alla colonna.</p>
+               <pb n="43"/>
+               <figure type="planche"/>
+               <pb n="42"/>
                <p xml:id="PAL_QLA_L1_L1C18_P5"> Il capitello Corinthio deve essere alto, quanto è
                   grossa la colonna da basso, e di più la sesta parte: la quale si dà all'Abaco: il
                   resto si divide in tre parti uguali. La prima si dà alla prima foglia, la seconda
@@ -1367,12 +1369,12 @@
                   diametro e mezo, e questa maniera è dimandata da <persName ref="#Vitruve"
                      >Vitruvio</persName> Picnostilos. Et in quello degli Archi i pilastri sono per
                   la metà della luce dell'Arco, e gli Archi sono alti fin sotto il volto due quadri
-                  e mezo. <pb n="45"/>
-                  <figure type="planche"/>
-                  <pb n="46"/>
-                  <figure type="planche"/>
-                  <pb n="47"/>
-               </p>
+                  e mezo. </p>
+               <pb n="45"/>
+               <figure type="planche"/>
+               <pb n="46"/>
+               <figure type="planche"/>
+               <pb n="47"/>
                <p xml:id="PAL_QLA_L1_L1C19_P2"> E perché (come ho detto) si deve far quest'ordine
                   più svelto del Corinthio; il suo Piedestilo è per il terzo dell'altezza della
                   colonna: e si divide in parti otto, e meza. Di una parte si fa la Cimacia, di
@@ -1382,10 +1384,10 @@
                   Corinthio, e si può fare ancho composta dell'Attica, e della Ionica, come si vede
                   nel disegno. </p>
                <p xml:id="PAL_QLA_L1_L1C19_P4"> La Sacoma dell'Imposta degli Archi è accanto al
-                  piano del Piedestilo: e la sua altezza è quanto è grosso il Membretto. <pb n="48"/>
-                  <figure type="planche"/>
-                  <pb n="49"/>
-               </p>
+                  piano del Piedestilo: e la sua altezza è quanto è grosso il Membretto. </p>
+               <pb n="48"/>
+               <figure type="planche"/>
+               <pb n="49"/>
                <p xml:id="PAL_QLA_L1_L1C19_P5"> Il capitello Composito ha quelle istesse misure, che
                   ha il Corinthio: ma è diverso da quello per la Voluta, Ovolo, e Fusarolo, che sono
                   membri attribuiti al Ionico: et il modo di farlo è questo. Dall'Abaco in giù si
@@ -1413,9 +1415,9 @@
                   compartimento. </p>
                <pb n="50"/>
                <figure type="planche"/>
-               <pb n="51"/>
             </div2>
             <div2 xml:id="L1C20" type="chapitre" n="20">
+               <pb n="51"/>
                <head> DEI PIEDESTILI. Cap. XIX. </head>
                <p xml:id="PAL_QLA_L1_L1C20_P1">
                   <figure type="lettrine"/><hi rend="capitals">Sin qui</hi> ho detto, quanto mi è
@@ -1844,9 +1846,9 @@
                   Cornice ad haver di sporto quanto è la sua grossezza, come ancho le sopradette. </p>
                <pb n="59"/>
                <figure type="planche"/>
-               <pb n="60"/>
             </div2>
             <div2 xml:id="L1C28" type="chapitre" n="28">
+               <pb n="60"/>
                <head> DEI CAMINI. Cap. XXVII. </head>
                <p xml:id="PAL_QLA_L1_L1C28_P1">
                   <figure type="lettrine"/>
@@ -2020,9 +2022,9 @@
                <figure type="planche"/>
                <pb n="66"/>
                <figure type="planche"/>
-               <pb n="67"/>
             </div2>
             <div2 xml:id="L1C30" type="chapitre" n="30">
+               <pb n="67"/>
                <head> DEI COPERTI. Cap. XXIX. </head>
                <p xml:id="PAL_QLA_L1_L1C30_P1">
                   <figure type="lettrine"/><hi rend="capitals">Essendosi</hi> tirati i muri alla
@@ -2057,7 +2059,7 @@
                   facilmente si accommodano, e mi piace molto, perché i muri di fuori non sentono
                   molto carico; e perché marcendosi una testa di qualche legno; non è però la
                   coperta in pericolo. </p>
-               <p xml:id="PAL_QLA_L1_L1C30_P2"> IL FINE DEL PRIMO LIBRO. </p>
+               <p xml:id="PAL_QLA_L1_L1C30_P2"><hi rend="capitals">IL FINE DEL PRIMO LIBRO.</hi></p>
             </div2>
          </div1>
          <pb type="blankpage"/>
@@ -2205,10 +2207,8 @@
                   <hi rend="capitals">TUTTO</hi> il piede si partisce in oncie dodici, e ciascuna
                   oncia in quattro minuti. </p>
                <pb n="5"/>
-               <p>
-                  <figure type="plan"/>
-                  <figure type="élévation"/>
-               </p>
+               <figure type="plan"/>
+               <figure type="élévation"/>
                <pb n="6"/>
                <p xml:id="PAL_QLA_L2_L2C3_P4">
                   <hi rend="capitals">IN <placeName ref="#Vicence">VICENZA</placeName></hi> sopra la
@@ -2272,12 +2272,13 @@
                   mezo possano servire all'una, e all'altra parte. Le cantine, e i luoghi simili
                   sono sotterra. Le stalle sono fuori del quadro della casa: et hanno l'entrata per
                   sotto la scala. Dei disegni in forma grande; il primo è di parte della facciata,
-                  et il secondo di parte del cortile. <figure type="ornement"/>
-                  <figure type="plan"/>
-                  <figure type="coupe"/>
-               </p>
+                  et il secondo di parte del cortile.</p>
+               <figure type="plan"/>
+               <figure type="coupe"/>
                <pb n="9"/>
+               <figure type="élévation"/>
                <pb n="10"/>
+               <figure type="élévation"/>
                <pb n="11"/>
                <p xml:id="PAL_QLA_L2_L2C3_P7">
                   <hi rend="capitals">LA</hi>
@@ -2292,10 +2293,7 @@
                   vacue nel mezo. I detti Cortili hanno i Corritori, o Poggiuoli intorno, al pari
                   del piano delle seconde stanze. Le altre Scale servono per maggior commodità di
                   tutta la casa. Questo compartimento riesce benissimo in questo sito: il quale è
-                  lungo, e stretto, et ha la strada maestra da una delle facciate minori. <figure
-                     type="ornement"/>
-               </p>
-               <pb n="11"/>
+                  lungo, e stretto, et ha la strada maestra da una delle facciate minori. </p>
                <figure type="plan"/>
                <figure type="élévation"/>
                <pb n="12"/>
@@ -2329,7 +2327,7 @@
                   alta parte della Città, ove non è pericolo, che l'acqua dia impaccio. </p>
                <pb n="13"/>
                <figure type="plan"/>
-               <figure type="élévation"/>
+               <figure type="coupe"/>
                <p xml:id="PAL_QLA_L2_L2C3_P9">
                   <hi rend="capitals">DEI DISEGNI</hi> che seguono in forma maggiore; il primo è di
                   parte della facciata; il secondo di parte del Cortile della sopraposta fabrica. </p>
@@ -2408,6 +2406,7 @@
                   </list></p>
                <pb n="21"/>
                <figure type="plan"/>
+               <figure type="élévation"/>
                <pb n="22"/>
                <figure type="plan" place="left"/>
                <figure type="élévation" place="left"/>
@@ -2439,6 +2438,7 @@
                <figure type="élévation"/>
             </div2>
             <div2 xml:id="L2C4" type="chapitre" n="4">
+               <pb n="24"/>
                <head> DELL'ATRIO TOSCANO. Cap. IIII. </head>
                <p xml:id="PAL_QLA_L2_L2C4_P1"><figure type="lettrine"/><hi rend="capitals">Da
                      poi</hi> che ho poste alcune di quelle fabriche, che io ho ordinate nelle
@@ -2461,10 +2461,11 @@
                   lume. Sopra gli anditi non vi sarebbe coperta alcuna: ma intorno havrebbono i
                   poggi: e secondo il sito si potrebbono fare più, e meno luoghi di quel che ho
                   disegnato, e secondo che facesse di bisogno all'uso, e commodo di chi vi havesse
-                  ad habitare. <pb n="25"/>
-                  <figure type="plan"/>
-                  <figure type="coupe"/> Segue il disegno di quest'Atrio in forma maggiore. <list
-                     rend="numbered">
+                  ad habitare.</p>
+               <pb n="25"/>
+               <figure type="plan"/>
+               <figure type="coupe"/>
+               <p>Segue il disegno di quest'Atrio in forma maggiore. <list rend="numbered">
                      <item>B, Atrio. </item>
                      <item>D, Fregio, overo trave limitare. </item>
                      <item>G, Porta del Tablino. </item>
@@ -2478,6 +2479,7 @@
                <figure type="plan"/>
             </div2>
             <div2 xml:id="L2C5" type="chapitre" n="5">
+               <pb n="27"/>
                <head>DELL'ATRIO DI QUATTRO COLONNE. Cap. V. </head>
                <p xml:id="PAL_QLA_L2_L2C5_P1"><figure type="lettrine"/><hi rend="capitals">Il
                      disegno</hi> che segue, ha l'Atrio di quattro colonne: il quale è largo delle
@@ -2507,6 +2509,7 @@
                <figure type="plan"/>
             </div2>
             <div2 xml:id="L2C6" type="chapitre" n="6">
+               <pb n="29"/>
                <head>DELL'ATRIO CORINTHIO. Cap. VI.</head>
                <p xml:id="PAL_QLA_L2_L2C6_P1"><figure type="lettrine"/><hi rend="capitals">La
                      seguente</hi> fabrica è del <objectName ref="#SantaMariaDellaCaritaVenise"
@@ -2545,13 +2548,13 @@
                <figure type="coupe"/>
                <p xml:id="PAL_QLA_L2_L2C6_P2">DEI DISEGNI che seguono, il primo è di parte di questo
                   Atrio in forma maggiore, et il secondo di parte dell'Inclaustro. </p>
+               <pb n="31"/>
+               <figure type="élévation"/>
+               <pb n="32"/>
+               <figure type="coupe"/>
             </div2>
-            <pb n="31"/>
-            <figure type="élévation"/>
-            <pb n="32"/>
-            <figure type="coupe"/>
-            <pb n="33"/>
             <div2 xml:id="L2C7" type="chapitre" n="7">
+               <pb n="33"/>
                <head>DELL'ATRIO TESTUGGINATO, E DELLA CASA PRIVATA degli Antichi Romani. Cap. VII. </head>
                <p xml:id="PAL_QLA_L2_L2C7_P1"><figure type="lettrine"/><hi rend="capitals"
                      >Oltra</hi> le sopradette maniere d'Atri un'altra appresso gli Antichi fu molto
@@ -2586,8 +2589,9 @@
                   sopradetti. Le Cancellarie, e Librarie erano in luoghi convenevoli verso
                   l'Oriente; et i Ticlini, i quali erano luoghi dove mangiavano. Vi erano ancho i
                   bagni per gli huomini, e per le donne: i quali io gli ho disegnati nell'ultima
-                  parte della casa. <pb n="34"/>
-                  <list rend="numbered">
+                  parte della casa.</p>
+               <pb n="34"/>
+               <p><list rend="numbered">
                      <item>A, Atrio. </item>
                      <item>B, Tablino.</item>
                      <item>C, Peristilio.</item>
@@ -2597,9 +2601,10 @@
                      <item>G, Luoghi per la Estate.</item>
                      <item>H, Stanze.</item>
                      <item>k, Librarie.</item>
-                  </list>
-                  <figure type="plan"/><figure type="coupe"/>
-                  <hi rend="capitals">IL DISEGNO</hi> che segue è di questo istesso Atrio in forma
+                  </list></p>
+               <figure type="plan"/>
+               <figure type="coupe"/>
+               <p><hi rend="capitals">IL DISEGNO</hi> che segue è di questo istesso Atrio in forma
                   maggiore. <list rend="numbered">
                      <item>D, Atrio. </item>
                      <item>E, Fenestre che danno lume all'Atrio. </item>
@@ -2615,12 +2620,12 @@
                      <item>P, Luoco discoperto sopra il quale viene il lume nell'Atrio.</item>
                   </list>
                </p>
+               <pb n="35"/>
+               <figure type="coupe"/>
+               <figure type="plan"/>
             </div2>
-            <pb n="35"/>
-            <figure type="coupe"/>
-            <figure type="plan"/>
-            <pb n="36"/>
             <div2 xml:id="L2C8" type="chapitre" n="8">
+               <pb n="36"/>
                <head>DELLE SALE DI QUATTRO COLONNE. Cap. VIII.</head>
                <p xml:id="PAL_QLA_L2_L2C8_P1"><figure type="lettrine"/><hi rend="capitals">Il
                      seguente</hi> disegno è delle Sale, che si dicevano Tetrastili, perciò che
@@ -2628,12 +2633,12 @@
                   per proportionare la larghezza all'altezza, e per rendere il luogo di sopra
                   sicuro: il che ho fatto ancor io in molte fabriche, come si è visto nei disegni
                   posti di sopra, e si vederà in quelli, che seguiranno. </p>
+               <pb n="37"/>
+               <figure type="coupe"/>
+               <figure type="plan"/>
             </div2>
-            <pb n="37"/>
-            <figure type="coupe"/>
-            <figure type="plan"/>
-            <pb n="38"/>
             <div2 xml:id="L2C9" type="chapitre" n="9">
+               <pb n="38"/>
                <head>DELLE SALE CORINTHIE. Cap. IX.</head>
                <p xml:id="PAL_QLA_L2_L2C9_P1"><figure type="lettrine"/><hi rend="capitals">Le
                      sale</hi> Corinthie si facevano in due modi, cioè o con le colonne che
@@ -2645,15 +2650,15 @@
                   tanto di frezza, quanto era il terzo della larghezza della Sala, e si doveva
                   adornare con compartimenti di stucchi, e di pitture. La lunghezza di queste Sale
                   sarebbe molto bella di un quadro, e due terzi della larghezza. </p>
+               <pb n="39"/>
+               <figure type="coupe"/>
+               <figure type="plan"/>
+               <pb n="40"/>
+               <figure type="coupe"/>
+               <figure type="plan"/>
             </div2>
-            <pb n="39"/>
-            <figure type="coupe"/>
-            <figure type="plan"/>
-            <pb n="40"/>
-            <figure type="coupe"/>
-            <figure type="plan"/>
-            <pb n="41"/>
             <div2 xml:id="L2C10" type="chapitre" n="10">
+               <pb n="41"/>
                <head>DELLE SALE EGITTIE. Cap. X.</head>
                <p xml:id="PAL_QLA_L2_L2C10_P1"><figure type="lettrine"/><hi rend="capitals">Il
                      disegno</hi> che segue è delle Sale Egittie: le quali erano molto simili alle
@@ -2669,12 +2674,12 @@
                   per l'ornamento delle colonne, si ancho per la sua altezza. Perciò che il soffitto
                   andava sopra la Cornice del secondo ordine, e dovevano riuscir molto commode
                   quando vi si facevano feste, o conviti. </p>
+               <pb n="42"/>
+               <figure type="coupe"/>
+               <figure type="plan"/>
             </div2>
-            <pb n="42"/>
-            <figure type="coupe"/>
-            <figure type="plan"/>
-            <pb n="43"/>
             <div2 xml:id="L2C11" type="chapitre" n="11">
+               <pb n="43"/>
                <head>DELLE CASE PRIVATE DEI GRECI. Cap. XI.</head>
                <p xml:id="PAL_QLA_L2_L2C11_P1"><figure type="lettrine"/><hi rend="capitals">I
                      greci</hi> tennero diverso modo di fabricare dai Latini: perciò che (come dice
@@ -2730,12 +2735,12 @@
                      <item>Z, Strada principale.</item>
                   </list>
                </p>
+               <pb n="44"/>
+               <figure type="élévation"/>
+               <figure type="plan"/>
             </div2>
-            <pb n="44"/>
-            <figure type="élévation"/>
-            <figure type="plan"/>
-            <pb n="45"/>
             <div2 xml:id="L2C12" type="chapitre" n="12">
+               <pb n="45"/>
                <head>DEL SITO DA ELEGGERSI PER LE FABRICHE di Villa. Cap. XII. </head>
                <p xml:id="PAL_QLA_L2_L2C12_P1"><figure type="lettrine"/><hi rend="capitals">Le
                      case</hi> della Città sono veramente al Gentil'huomo di molto splendore, e
@@ -2870,8 +2875,8 @@
                   Resta, che (come io ho promesso) io ponga i disegni di alcune fabriche, che
                   secondo diverse inventioni ho ordinate in Villa. </p>
             </div2>
-            <pb n="47"/>
             <div2 xml:id="L2C14" type="chapitre" n="14">
+               <pb n="47"/>
                <head>DEI DISEGNI DELLE CASE DI VILLA DI ALCUNI nobili Venetiani. Cap. XIIII.</head>
                <p xml:id="PAL_QLA_L2_L2C14_P1"><figure type="lettrine"/><hi rend="capitals">La
                         <objectName ref="#VillaPisaniBagnolo">fabrica</objectName></hi>, che segue è
@@ -3286,8 +3291,8 @@
                <figure type="plan"/>
                <figure type="élévation"/>
             </div2>
-            <pb n="69"/>
             <div2 xml:id="L2C16" type="chapitre" n="16">
+               <pb n="69"/>
                <head> DELLA CASA DI VILLA DEGLI ANTICHI. Cap. XVI. </head>
                <p xml:id="PAL_QLA_L2_L2C16_P1"><figure type="lettrine"/><hi rend="capitals">Ho fin
                      qui</hi> posto i disegni di molte fabriche di Villa da me ordinate: resta che
@@ -3332,8 +3337,8 @@
                <figure type="plan"/>
                <figure type="élévation"/>
             </div2>
-            <pb n="71"/>
             <div2 xml:id="L2C17" type="chapitre" n="17">
+               <pb n="71"/>
                <head>DI ALCUNE INVENTIONI SECONDO DIVERSI SITI. Cap. XVII. </head>
                <p xml:id="PAL_QLA_L2_L2C17_P1"><figure type="lettrine"/><hi rend="capitals">Mia
                      intentione</hi> era parlar solo di quelle fabriche, le quali overo fossero
@@ -3393,8 +3398,8 @@
                   sarebbono una sopra l'altra e tutti i muri havrebbono la lor parte di carico: le
                   Cantine, i luoghi da lavari drappi et gli altri magazini sarebbono stati
                   accommodati sotto terra. </p>
-               <figure type="plan"/>
-               <figure type="élévation"/>
+               <figure type="plan" place="left"/>
+               <figure type="élévation" place="left"/>
                <pb n="73"/>
                <p xml:id="PAL_QLA_L2_L2C17_P3"><hi rend="capitals">FECI</hi> già richiesto dal Conte
                      <persName>Francesco</persName>, et Conte <persName>Lodovico</persName> fratelli
@@ -3436,7 +3441,7 @@
                   colonne della facciata si potrebbe fare un poggiuolo: il quale in molte occasioni
                   tornerebbe commodissimo. </p>
                <figure type="plan" place="right"/>
-               <figure type="élévation"/>
+               <figure type="élévation" place="right"/>
                <pb n="76"/>
                <p xml:id="PAL_QLA_L2_L2C17_P5"><hi rend="capitals">IN VERONA</hi> ai portoni detti
                   volgarmente della Brà, sito notabilissimo, il Conte <persName>Giovanni Battista
