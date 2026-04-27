@@ -2,7 +2,6 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
-      <person xml:id="MarcusAemiliusScaurus" source="https://www.wikidata.org/wiki/Q365148"></person>
       <person xml:id="MarcusAemiliusLepidusPreteur" source="https://www.wikidata.org/wiki/Q4281819"></person>
       <person xml:id="AncusMarcius" source="https://www.wikidata.org/wiki/Q206741"></person>
       <person xml:id="Geryon" source="https://www.wikidata.org/wiki/Q86805"></person>
@@ -53318,7 +53317,7 @@
         <idno type="viaf">89977414</idno>
         <idno type="wikidata">Q467515</idno>
       </person>
-      <person xml:id="MarcusAemiliusScaurus">
+      <person xml:id="MarcusAemiliusScaurus" source="https://www.wikidata.org/wiki/Q365148">
         <persName>
           <forename>Marcus</forename>
           <surname>Æmilius Scaurus</surname>
