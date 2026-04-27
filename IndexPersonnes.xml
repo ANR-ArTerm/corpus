@@ -2,6 +2,13 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+      <person xml:id="MarcusAemiliusLepidusPreteur" source="https://www.wikidata.org/wiki/Q4281819"></person>
+      <person xml:id="AncusMarcius" source="https://www.wikidata.org/wiki/Q206741"></person>
+      <person xml:id="Geryon" source="https://www.wikidata.org/wiki/Q86805"></person>
+      <person xml:id="NitocrisDeBabylone" source="https://www.wikidata.org/wiki/Q372441"></person>
+      <person xml:id="AppiusClaudiusCaecus" source="https://www.wikidata.org/wiki/Q297783"></person>
+      <person xml:id="MarcusAemiliusLepidusConsul" source="https://www.wikidata.org/wiki/Q319561"></person>
+      <person xml:id="CaiusFlaminiusNepos" source="https://www.wikidata.org/wiki/Q318879"></person>
       <person xml:id="EmmanuelPhilibertDeSavoie" source="https://www.wikidata.org/wiki/Q76508"/>
       <person xml:id="BattistaAgnolo" source="https://www.wikidata.org/wiki/Q2891762"/>
       <person xml:id="GualtieroPadovano" source="https://www.wikidata.org/wiki/Q3118716"/>
@@ -53310,7 +53317,7 @@
         <idno type="viaf">89977414</idno>
         <idno type="wikidata">Q467515</idno>
       </person>
-      <person xml:id="MarcusAemiliusScaurus">
+      <person xml:id="MarcusAemiliusScaurus" source="https://www.wikidata.org/wiki/Q365148">
         <persName>
           <forename>Marcus</forename>
           <surname>Æmilius Scaurus</surname>
