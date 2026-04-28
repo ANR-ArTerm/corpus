@@ -3980,6 +3980,15 @@
         <ref name="teidata.pointer"/>
       </attribute>
     </optional>
+    <optional>
+      <attribute name="cert">
+        <choice>
+          <value>low</value>
+          <value>medium</value>
+          <value>high</value>
+        </choice>
+      </attribute>
+    </optional>
   </define>
   <!-- doc:(occupation) contains an informal description of a person's trade, profession or occupation. [16.2.2. The Participant Description] -->
   <define name="occupation">
