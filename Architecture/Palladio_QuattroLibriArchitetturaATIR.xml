@@ -3526,17 +3526,19 @@
             </div2>
          </div1>
          <div1 xml:id="L3" type="livre" n="3">
+            <figure type="frontispice"/>
             <head><hi rend="capitals">IL TERZO LIBRO DELL'ARCHITETTURA</hi> Di <persName
                   ref="#AndreaPalladio">Andrea Palladio</persName>. NEL QUALE SI TRATTA delle Vie,
                dei Ponti, delle Piazze, delle Basiliche, e dei Xisti. IN <placeName ref="#Venise"
-                  >VENETIA</placeName>, Appresso Dominico dei Franceschi. <date when="1570"
-                  >1570</date>. </head>
+                  >VENETIA</placeName>, Appresso <persName>Dominico dei Franceschi</persName>. <date
+                  when="1570">1570</date>. </head>
             <pb type="blankpage"/>
             <div2 xml:id="L3C1" type="chapitre" n="1">
                <pb n="3"/>
                <head rend="capitals">AL SERENISSIMO E MAGNANIMO PRINCIPE <persName
                      ref="#EmmanuelPhilibertDeSavoie">EMANUEL FILIBERTO</persName> DUCA DI SAVOIA,
-                  ETC. <persName ref="#AndreaPalladio">ANDREA PALLADIO</persName>. </head>
+                  ETC. <hi rend="it"><persName ref="#AndreaPalladio">ANDREA
+                  PALLADIO</persName></hi>. </head>
                <p xml:id="PAL_QLA_L3_L3C1_P1"><figure type="lettrine"/><hi rend="capitals"
                      >Dovendo</hi> Io, <persName ref="#EmmanuelPhilibertDeSavoie">Serenissimo
                      Principe</persName>, mandare in luce una parte della mia Architettura, nella
@@ -3815,73 +3817,74 @@
                   (come ho detto di sopra) asciugando i luoghi paludosi, abbassando i monti,
                   pareggiando le valli et facendo i ponti dove bisognava ridusse l'andar per essa
                   spedito et piacevolissimo. È anco celebratissima la <objectName ref="#ViaAurelia"
-                     >via Aurelia</objectName>, chiamata così da <persName>Aurelio</persName>
-                  Cittadino Romano che la fece, haveva il suo principio dalla <objectName
-                     ref="#PortaSanPancrazioRome">porta Aurelia</objectName> hoggi detta di San
-                  Pangratio, e distendendosi per i luoghi maritimi di <placeName ref="#Toscane"
-                     >Toscana</placeName> conduceva fino a <placeName ref="#Pise">Pisa</placeName>.
-                  Furono di non minor nome la <objectName ref="#ViaNomentana">via
-                     Numentana</objectName>, la <objectName ref="#ViaPraenestina"
-                     >Prenestina</objectName>, e la <objectName ref="#ViaLabicana"
-                     >Libicana</objectName>; la <objectName ref="#ViaNomentana">prima</objectName>
-                  cominciava dalla <objectName ref="#PorteViminaleRome">porta Viminale</objectName>,
-                  hoggi detta di Santa Agnesa, e si distendeva sino alla Città di <placeName
-                     ref="#Nomentum">Numento</placeName>; la <objectName ref="#ViaPraenestina"
-                     >seconda</objectName> haveva principio dalla <objectName
+                     >via Aurelia</objectName>, chiamata così da <persName cert="low"
+                     xml:id="PbCaiusAureliusCotta">Aurelio</persName> Cittadino Romano che la fece,
+                  haveva il suo principio dalla <objectName ref="#PortaSanPancrazioRome">porta
+                     Aurelia</objectName> hoggi detta di San Pangratio, e distendendosi per i luoghi
+                  maritimi di <placeName ref="#Toscane">Toscana</placeName> conduceva fino a
+                     <placeName ref="#Pise">Pisa</placeName>. Furono di non minor nome la
+                     <objectName ref="#ViaNomentana">via Numentana</objectName>, la <objectName
+                     ref="#ViaPraenestina">Prenestina</objectName>, e la <objectName
+                     ref="#ViaLabicana">Libicana</objectName>; la <objectName ref="#ViaNomentana"
+                     >prima</objectName> cominciava dalla <objectName ref="#PorteViminaleRome">porta
+                     Viminale</objectName>, hoggi detta di Santa Agnesa, e si distendeva sino alla
+                  Città di <placeName ref="#Nomentum">Numento</placeName>; la <objectName
+                     ref="#ViaPraenestina">seconda</objectName> haveva principio dalla <objectName
                      ref="#PortaEsquilinaRome">porta Esquilina</objectName>, che hora si dice di San
-                  Lorenzo; e la <objectName ref="#ViaLabicana">terza</objectName> dalla
-                     <objectName>porta Nevia</objectName>, cioè da porta Maggiore, e conducevano
-                  queste due vie alla città di <placeName ref="#Preneste">Preneste</placeName>,
-                  hoggi detta Pellestrino, et alla Famosa città di <placeName ref="#Labicum"
-                     >Labicana</placeName>. Vi furono ancora molte altre vie nominate et celebrate
-                  dalli scrittori, cioè la Salara, la Collatina, la Latina et altre, le quali tutte
-                  o da coloro, che le ordinarono, o dalla porta, dalla quale havevano principio, o
-                  dal luogo dove conducevano, presero il nome. Ma tra tutte doveva esser di somma
-                  bellezza, et commodità la <objectName ref="#ViaPortuense">via
-                     Portuense</objectName>, la qual da <placeName ref="#Rome">Roma</placeName>
-                  conduceva a <placeName ref="#OstieAntique">Hostia</placeName>; perciò che (come
-                  dice l'<persName ref="#LeonBattistaAlberti">Alberti</persName> di haver osservato)
-                  era divisa in due strade, tra l'una e l'altra delle quali era un corso di pietre
-                  un piede più alto del rimanente, e serviva per divisione: per una di queste vie si
-                  andava, e per l'altra si <reg>tornava</reg>, schifando l'offesa dell'intrarsi:
-                  inventione molto comoda al grandissimo concorso di persone che a quei tempi era a
-                     <placeName ref="#Rome">Roma</placeName> da tutto il Mondo. Fecero gli antichi
-                  queste lor vie militari in due modi, cioè o lastrigandole di pietre, overo
-                  coprendole tutte di ghiara e di sabbia. Le vie della prima maniera (per quanto da
-                  alcuni vestigi si è potuto conietturare) erano divise in tre spaci: per quel di
-                  mezo, il quale era più alto degli altri due, et il quale era alquanto colmo nel
-                  mezo, acciò le acque potessero scorrere et non vi si affermassero, andavano i
-                  pedoni, et era salicato di pietre incerte, cioè di lati e di angoli diseguali: nel
-                  qual modo di salicare, come è stato detto altrove, usavano una squadra di piombo,
-                  la quale aprivano e serravano, come andavano i lati et gli angoli delle pietre,
-                  onde le commettevano benissimo insieme, et ciò facevano con prestezza: gli altri
-                  due spaci, che erano dalle bande, si facevano alquanto più bassi e si coprivano di
-                  sabbia, et di ghiara minuta, e per quelli andavano i cavalli. Era ciascuno di
-                  questi margini largho per la metà della larghezza del spacio di mezo, dal quale
-                  erano divisi con laste di pietra poste in coltello; et ogni tanto spacio ne erano
-                  poste alcune pietre in piedi più alte del rimanente della strada sopra le quali
-                  salivano, quando volevano montare a cavallo, con ciò sia che gli antichi non
-                  usassero staffe. Oltra di queste pietre poste per l'uso detto, vi erano altre
-                  pietre molto più alte nelle quali si truovava scritto di mano in mano le miglia di
-                  tutto il viaggio, e furono da <persName ref="#CaiusGracchus">Gneo Graco</persName>
-                  misurate queste vie e conficate le dette pietre. Le vie militari della seconda
-                  maniera, cioè fatte di sabbia e di ghiara, facevano gli antichi alquanto colme nel
-                  mezo, per la qual cosa, non potendovi restar l'acqua et essendo elle di materia
-                  atta ad asciugarsi presto, erano d'ogni tempo polite, cioè senza fango e senza
-                  polvere. Di questa sorte se ne vede una nel <placeName ref="#Frioul"
-                     >Friuli</placeName>, la quale è detta dagli habitatori di quei luoghi la
-                  Posthuma, e conduce in <placeName ref="#Hongrie">Ongheria</placeName>: et un'altra
-                  ve n'è su quel di <placeName ref="#Padoue">Padova</placeName>, la quale
-                  cominciando dalla detta Città, nel luogo, che si dice l'Argere, passa per mezo
-                     <placeName ref="#PojanaMaggiore">Cigogna</placeName> Villa del Conte
-                     <persName>Odoardo</persName>, e del Conte <persName>Theodoro</persName>
-                  fratelli de Thieni, e conduce all'Alpi, che dividono L'<placeName ref="#Italie"
-                     >Italia</placeName> dalla <placeName ref="#Allemagne">Germania</placeName>.
-                  Della prima maniera di vie è il disegno che segue, dal quale si può conoscer come
-                  doveva esser fatta la <objectName ref="#ViaOstiense">via Hostiense</objectName>.
-                  Della seconda maniera non mi è parso necessario il farne disegno alcuno, perché è
-                  cosa facilissima, né vi è bisogno di alcuna industria purché si facciano colme nel
-                  mezo, onde l'acqua non vi si possa affermare.</p>
+                  Lorenzo; e la <objectName ref="#ViaLabicana">terza</objectName> dalla <objectName
+                     ref="#PorteNaeviaRome">porta Nevia</objectName>, cioè da porta Maggiore, e
+                  conducevano queste due vie alla città di <placeName ref="#Preneste"
+                     >Preneste</placeName>, hoggi detta Pellestrino, et alla Famosa città di
+                     <placeName ref="#Labicum">Labicana</placeName>. Vi furono ancora molte altre
+                  vie nominate et celebrate dalli scrittori, cioè la Salara, la Collatina, la Latina
+                  et altre, le quali tutte o da coloro, che le ordinarono, o dalla porta, dalla
+                  quale havevano principio, o dal luogo dove conducevano, presero il nome. Ma tra
+                  tutte doveva esser di somma bellezza, et commodità la <objectName
+                     ref="#ViaPortuense">via Portuense</objectName>, la qual da <placeName
+                     ref="#Rome">Roma</placeName> conduceva a <placeName ref="#OstieAntique"
+                     >Hostia</placeName>; perciò che (come dice l'<persName
+                     ref="#LeonBattistaAlberti">Alberti</persName> di haver osservato) era divisa in
+                  due strade, tra l'una e l'altra delle quali era un corso di pietre un piede più
+                  alto del rimanente, e serviva per divisione: per una di queste vie si andava, e
+                  per l'altra si <reg>tornava</reg>, schifando l'offesa dell'intrarsi: inventione
+                  molto comoda al grandissimo concorso di persone che a quei tempi era a <placeName
+                     ref="#Rome">Roma</placeName> da tutto il Mondo. Fecero gli antichi queste lor
+                  vie militari in due modi, cioè o lastrigandole di pietre, overo coprendole tutte
+                  di ghiara e di sabbia. Le vie della prima maniera (per quanto da alcuni vestigi si
+                  è potuto conietturare) erano divise in tre spaci: per quel di mezo, il quale era
+                  più alto degli altri due, et il quale era alquanto colmo nel mezo, acciò le acque
+                  potessero scorrere et non vi si affermassero, andavano i pedoni, et era salicato
+                  di pietre incerte, cioè di lati e di angoli diseguali: nel qual modo di salicare,
+                  come è stato detto altrove, usavano una squadra di piombo, la quale aprivano e
+                  serravano, come andavano i lati et gli angoli delle pietre, onde le commettevano
+                  benissimo insieme, et ciò facevano con prestezza: gli altri due spaci, che erano
+                  dalle bande, si facevano alquanto più bassi e si coprivano di sabbia, et di ghiara
+                  minuta, e per quelli andavano i cavalli. Era ciascuno di questi margini largho per
+                  la metà della larghezza del spacio di mezo, dal quale erano divisi con laste di
+                  pietra poste in coltello; et ogni tanto spacio ne erano poste alcune pietre in
+                  piedi più alte del rimanente della strada sopra le quali salivano, quando volevano
+                  montare a cavallo, con ciò sia che gli antichi non usassero staffe. Oltra di
+                  queste pietre poste per l'uso detto, vi erano altre pietre molto più alte nelle
+                  quali si truovava scritto di mano in mano le miglia di tutto il viaggio, e furono
+                  da <persName ref="#CaiusGracchus">Gneo Graco</persName> misurate queste vie e
+                  conficate le dette pietre. Le vie militari della seconda maniera, cioè fatte di
+                  sabbia e di ghiara, facevano gli antichi alquanto colme nel mezo, per la qual
+                  cosa, non potendovi restar l'acqua et essendo elle di materia atta ad asciugarsi
+                  presto, erano d'ogni tempo polite, cioè senza fango e senza polvere. Di questa
+                  sorte se ne vede una nel <placeName ref="#Frioul">Friuli</placeName>, la quale è
+                  detta dagli habitatori di quei luoghi la Posthuma, e conduce in <placeName
+                     ref="#Hongrie">Ongheria</placeName>: et un'altra ve n'è su quel di <placeName
+                     ref="#Padoue">Padova</placeName>, la quale cominciando dalla detta Città, nel
+                  luogo, che si dice l'Argere, passa per mezo <placeName ref="#PojanaMaggiore"
+                     >Cigogna</placeName> Villa del Conte <persName>Odoardo</persName>, e del Conte
+                     <persName>Theodoro</persName> fratelli de Thieni, e conduce all'Alpi, che
+                  dividono L'<placeName ref="#Italie">Italia</placeName> dalla <placeName
+                     ref="#Allemagne">Germania</placeName>. Della prima maniera di vie è il disegno
+                  che segue, dal quale si può conoscer come doveva esser fatta la <objectName
+                     ref="#ViaOstiense">via Hostiense</objectName>. Della seconda maniera non mi è
+                  parso necessario il farne disegno alcuno, perché è cosa facilissima, né vi è
+                  bisogno di alcuna industria purché si facciano colme nel mezo, onde l'acqua non vi
+                  si possa affermare.</p>
                <p><list rend="numbered">
                      <item>A, È il spacio di mezo per dove andavano i pedoni. </item>
                      <item>B, Sono le pietre, che seruivano a salire a cavallo. </item>
@@ -4394,19 +4397,22 @@
                      ref="#EgliseSantoSpiritoInSassiaRome">Chiesa di Santo Spirito</objectName>. Il
                      <objectName ref="#PonteSistoRome">Ianiculense</objectName>, così chiamato per
                   esser vicino al Monte Ianiculo, il quale, perché è stato ristaurato da <persName
-                     ref="#SixteIV">Papa Sisto IIII</persName>, hora si dimanda Ponte Sisto. Et il
-                     <objectName ref="#PonteMilvioRome">Milvio</objectName> hoggi detto Ponte Molle,
-                  posto nella <objectName ref="#ViaFlaminia">via Flaminia</objectName> lontano da
-                     <placeName ref="#Rome">Roma</placeName> poco meno di due miglia, il quale non
-                  ritiene altro di antico che li fondamenti e dicono che fu edificato al tempo di
-                     <persName ref="#Sylla">Silla</persName> da <persName
-                     ref="#MarcusAemiliusScaurus">Marco Scauro Censore</persName>. Si vedono anco le
-                  ruine di un <objectName ref="#PonteAugusteNarni">ponte</objectName> edificato da
-                     <persName ref="#Auguste">Augusto Cesare</persName> di opera rustica sopra la
-                  Nera, fiume velocissimo appresso <placeName ref="#Narni">Narni</placeName>. E
-                  sopra il Metauro nell'<placeName ref="#Ombrie">Umbria</placeName> a <placeName
-                     ref="#Cagli">Calgi</placeName> se ne vede <objectName ref="#PonteMallioCagli"
-                     >un altro</objectName> di opera rustica similmente con alcuni contraforti nelle
+                     ref="#SixteIV">Papa Sisto <choice>
+                        <sic>IIII</sic>
+                        <corr>IV</corr>
+                     </choice></persName>, hora si dimanda Ponte Sisto. Et il <objectName
+                     ref="#PonteMilvioRome">Milvio</objectName> hoggi detto Ponte Molle, posto nella
+                     <objectName ref="#ViaFlaminia">via Flaminia</objectName> lontano da <placeName
+                     ref="#Rome">Roma</placeName> poco meno di due miglia, il quale non ritiene
+                  altro di antico che li fondamenti e dicono che fu edificato al tempo di <persName
+                     ref="#Sylla">Silla</persName> da <persName ref="#MarcusAemiliusScaurus">Marco
+                     Scauro Censore</persName>. Si vedono anco le ruine di un <objectName
+                     ref="#PonteAugusteNarni">ponte</objectName> edificato da <persName
+                     ref="#Auguste">Augusto Cesare</persName> di opera rustica sopra la Nera, fiume
+                  velocissimo appresso <placeName ref="#Narni">Narni</placeName>. E sopra il Metauro
+                     nell'<placeName ref="#Ombrie">Umbria</placeName> a <placeName ref="#Cagli"
+                     >Calgi</placeName> se ne vede <objectName ref="#PonteMallioCagli">un
+                     altro</objectName> di opera rustica similmente con alcuni contraforti nelle
                   ripe, che sostentano la strada e lo fanno fortissimo. Ma tra tutti i ponti
                   celebri, per cosa maravigliosa è ricordato <objectName>quello</objectName> che
                   fece far <persName ref="#Caligula">Caligola da Pozzolo</persName> a <placeName
@@ -4699,11 +4705,11 @@
                   a <persName ref="#Mercure">Mercurio</persName> et a <persName ref="#Isis"
                      >Iside</persName>, come a Dei presidenti ai negoti et alle mercantie; et in
                      <placeName ref="#Pula">Pola</placeName> Città dell'<placeName ref="#Istrie"
-                     >Istria</placeName> se ne veggono due sopra la <objectName>piazza</objectName>,
-                  l'uno simile all'altro di forma, di grandezza et di ornamenti. Io gli ho figurati
-                  nel disegno di queste piazze a canto la Basilica: le piante e gli alzati dei quali
-                  con tutti i lor membri particolari più distintamente si vederanno nel mio
-                     <bibl>Libro dei Tempi</bibl>.</p>
+                     >Istria</placeName> se ne veggono due sopra la piazza, l'uno simile all'altro
+                  di forma, di grandezza et di ornamenti. Io gli ho figurati nel disegno di queste
+                  piazze a canto la Basilica: le piante e gli alzati dei quali con tutti i lor
+                  membri particolari più distintamente si vederanno nel mio <bibl>Libro dei
+                     Tempi</bibl>.</p>
                <p><list rend="numbered">
                      <item>A, Piazza.</item>
                      <item>B, Portichi doppi.</item>
@@ -4730,7 +4736,7 @@
             </div2>
             <div2 xml:id="L3C20" type="chapitre" n="20">
                <pb n="35"/>
-               <head>DELLE PIAZZE DE'LATINI. Cap. XVIII.</head>
+               <head><hi rend="capitals">DELLE PIAZZE DEI LATINI</hi>. Cap. XVIII.</head>
                <p xml:id="PAL_QLA_L3_L3C20_P1"><figure type="lettrine"/><hi rend="capitals">I
                      romani</hi> et gli Italiani (come dice <persName ref="#Vitruve"
                      >Vitruvio</persName> al <bibl>luogo sopradetto</bibl>), partendosi dall'uso dei
@@ -5006,6 +5012,7 @@
          <pb type="blankpage"/>
          <div1 xml:id="L4" type="livre" n="4">
             <pb n="1"/>
+            <figure type="frontispice"/>
             <head>IL QUARTO LIBRO DELL'ARCHITETTURA Di <persName ref="#AndreaPalladio">Andrea
                   Palladio</persName>. </head>
             <head>NEL QUAL SI DESCRIVONO, e si figurano i Tempi Antichi, che sono in <placeName
@@ -5016,8 +5023,9 @@
             <div2 xml:id="L4C1" type="chapitre" n="1">
                <pb type="blankpage"/>
                <pb n="3"/>
-               <head><hi rend="capitals">IL QUARTO LIBRO DELL'ARCHITETTURA DI ANDREA PALLADIO</hi>.
-                  Proemio ai Lettori.</head>
+               <head><hi rend="capitals">IL QUARTO LIBRO DELL'ARCHITETTURA DI <persName
+                        ref="#AndreaPalladio">ANDREA PALLADIO</persName></hi>. Proemio ai
+                  Lettori.</head>
                <p xml:id="PAL_QLA_L4_L4C1_P1"><figure type="lettrine"/><hi rend="capitals">Se in
                   </hi>fabrica alcuna è da esser posta opera et industria, accioché ella con bella
                   misura e proportione sia compartita, ciò senza alcun dubbio si deve fare nei
@@ -5722,8 +5730,10 @@
                   statue. <hi rend="capitals">M</hi>, Gli ornamenti delle porte quadre che erano
                   nella facciata della piazza rincontro al portico del Tempio. </p>
                <pb n="24"/>
-               <figure type="élévation"/>
-               <figure type="plan"/>
+               <figure type="planche">
+                  <figure type="élévation"/>
+                  <figure type="plan"/>
+               </figure>
                <pb n="25"/>
                <figure type="coupe"/>
                <figure type="plan"/>
@@ -6121,22 +6131,23 @@
                <p xml:id="PAL_QLA_L4_L4C16_P1"><figure type="lettrine"/><hi rend="capitals"
                      >Alla</hi>
                   <objectName>piazza</objectName> detta volgarmente dei Preti, la quale si trova
-                  andando dalla Ritonda alla <objectName ref="#ColonneAntonineRome">colonna di
-                     Antonino</objectName>, si veggono le reliquie del seguente
-                     <objectName>tempio</objectName>; il quale secondo alcuni fu edificato da
-                     <persName ref="#AntoninLePieux">Antonino Imperatore</persName>, et dedicato al
-                  Dio <persName ref="#Mars">Marte</persName>. Il suo aspetto è lo alato a torno. La
-                  maniera è di spesse colonne. Gli intercolunni sono un diametro e mezo. I portici
-                  intorno sono tanto più larghi di uno intercolunnio quanto di più sporgono fuora le
-                  risalite delle anti del rimanente dei muri. Le colonne sono di ordine Corinthio.
-                  La basa è Attica, et ha un bastoncino sotto la cimbia della colonna; la cimbia o
-                  listello è sottile molto, e così riesce molto gratiosa et si fa così sottile ogni
-                  volta che è congiunta con un bastoncino sopra il toro della basa detto anch'esso
-                  bastone, perché non è pericolo che si spezzi. Il capitello è intagliato a foglie
-                  di Olivo et è benissimo inteso. L'Architrave in luogo di intavolato ha un mezo
-                  ovolo et sopra un Cavetto et il Cavetto ha molto belli intagli, e diversi da
-                  quelli del <objectName ref="#ForumDeLaPaixRome">tempio della Pace</objectName>, et
-                  del <objectName>tempio</objectName> che habbiamo detto che era nel <placeName
+                  andando dalla <objectName ref="#PantheonRome">Ritonda</objectName> alla
+                     <objectName ref="#ColonneAntonineRome">colonna di Antonino</objectName>, si
+                  veggono le reliquie del seguente <objectName>tempio</objectName>; il quale secondo
+                  alcuni fu edificato da <persName ref="#AntoninLePieux">Antonino
+                     Imperatore</persName>, et dedicato al Dio <persName ref="#Mars"
+                     >Marte</persName>. Il suo aspetto è lo alato a torno. La maniera è di spesse
+                  colonne. Gli intercolunni sono un diametro e mezo. I portici intorno sono tanto
+                  più larghi di uno intercolunnio quanto di più sporgono fuora le risalite delle
+                  anti del rimanente dei muri. Le colonne sono di ordine Corinthio. La basa è
+                  Attica, et ha un bastoncino sotto la cimbia della colonna; la cimbia o listello è
+                  sottile molto, e così riesce molto gratiosa et si fa così sottile ogni volta che è
+                  congiunta con un bastoncino sopra il toro della basa detto anch'esso bastone,
+                  perché non è pericolo che si spezzi. Il capitello è intagliato a foglie di Olivo
+                  et è benissimo inteso. L'Architrave in luogo di intavolato ha un mezo ovolo et
+                  sopra un Cavetto et il Cavetto ha molto belli intagli, e diversi da quelli del
+                     <objectName ref="#ForumDeLaPaixRome">tempio della Pace</objectName>, et del
+                     <objectName>tempio</objectName> che habbiamo detto che era nel <placeName
                      ref="#Quirinal">monte Quirinale</placeName> dedicato a <persName ref="#Jupiter"
                      >Giove</persName>. Il fregio pende in fuori una delle otto parti della sua
                   altezza et è gonfio nel mezo. La cornice ha il modiglione riquadrato e sopra
@@ -6308,8 +6319,8 @@
                <p xml:id="PAL_QLA_L4_L4C19_P1"><figure type="lettrine"/><hi rend="capitals">Tra</hi>
                   il <placeName ref="#Capitole">Campidoglio</placeName> et il <placeName
                      ref="#MontPalatin">Palatino</placeName> appresso il Foro Romano si veggono tre
-                  colonne di ordine Corinthio, le quali secondo alcuni e<objectName>rano di un
-                     fianco del </objectName>Tempio di <persName ref="#Vulcain">Vulcano</persName>,
+                  colonne di ordine Corinthio, le quali secondo alcuni erano di un fianco del
+                     <objectName>Tempio di <persName ref="#Vulcain">Vulcano</persName></objectName>,
                   e secondo alcuni altri del <objectName>Tempio di Romolo</objectName>; non manca
                   ancho chi dica che elle erano del <objectName>Tempio di <persName ref="#Jupiter"
                         >Giove</persName> Statore</objectName>, e così credo che fusse votato da
@@ -6366,24 +6377,24 @@
                   ornamenti che vi si ueggono sono lavorati delicatissimamente con bellissimi
                   intagli et è cosa manifesta che ai tempi di <persName ref="#Auguste"
                      >Augusto</persName> le opere si facevano più sode, come si vede nel Portico di
-                     <objectName>Santa Maria Ritonda </objectName>edificato da <persName
-                     ref="#MarcusVipsaniusAgrippa">Marco Agrippa</persName>, che è molto semplice,
-                  et in altri edifici ancora. Vogliono alcuni che le colonne che sono quivi, fossero
-                  del ponte, che fece fare <persName ref="#Caligula">Caligula</persName>, la quale
-                  opinione ho mostrato qui appresso come è del tutto falsa. Lo aspetto di questo
-                  Tempio era quello che si dice Dipteros, cioè alato doppio, è ben vero che nella
-                  parte verso il <placeName ref="#Capitole">Campidoglio</placeName> non vi era
-                  portico. Ma per quello, che ho osseruato in altri edifici fabricati vicino ai
-                  monti, mi do a credere che in questa parte egli fusse fatto come dimostra la
-                  Pianta; cioè che egli havesse un muro grossissimo, il quale chiudesse la Cella et
-                  i Portici, et lasciatovi alquanto di spacio un altro muro con contraforti, che
-                  entrassero nel Monte. Perciò che in tai casi facevano gli Antichi il primo muro
-                  molto grosso, accioché l'humidità non penetrasse nella parte di dentro
-                  dell'Edificio et facevano l'altro muro con contraforti, accioché fusse atto a
-                  reggere il continuo carico del monte; e lasciavano il detto spacio tra l'uno e
-                  l'altro dei detti muri; perché le acque, che dal monte scendessero ivi raunate
-                  havessero libero il corso loro et in tal modo non facessero alcun danno alla
-                  fabrica. La maniera di questo Tempio era la Picnostilos. Lo Architrave et il
+                     <objectName ref="#PantheonRome">Santa Maria Ritonda</objectName> edificato da
+                     <persName ref="#MarcusVipsaniusAgrippa">Marco Agrippa</persName>, che è molto
+                  semplice, et in altri edifici ancora. Vogliono alcuni che le colonne che sono
+                  quivi, fossero del ponte, che fece fare <persName ref="#Caligula"
+                     >Caligula</persName>, la quale opinione ho mostrato qui appresso come è del
+                  tutto falsa. Lo aspetto di questo Tempio era quello che si dice Dipteros, cioè
+                  alato doppio, è ben vero che nella parte verso il <placeName ref="#Capitole"
+                     >Campidoglio</placeName> non vi era portico. Ma per quello, che ho osseruato in
+                  altri edifici fabricati vicino ai monti, mi do a credere che in questa parte egli
+                  fusse fatto come dimostra la Pianta; cioè che egli havesse un muro grossissimo, il
+                  quale chiudesse la Cella et i Portici, et lasciatovi alquanto di spacio un altro
+                  muro con contraforti, che entrassero nel Monte. Perciò che in tai casi facevano
+                  gli Antichi il primo muro molto grosso, accioché l'humidità non penetrasse nella
+                  parte di dentro dell'Edificio et facevano l'altro muro con contraforti, accioché
+                  fusse atto a reggere il continuo carico del monte; e lasciavano il detto spacio
+                  tra l'uno e l'altro dei detti muri; perché le acque, che dal monte scendessero ivi
+                  raunate havessero libero il corso loro et in tal modo non facessero alcun danno
+                  alla fabrica. La maniera di questo Tempio era la Picnostilos. Lo Architrave et il
                   Fregio nella fronte erano ad un piano, acciò potesse capire l'intaglio
                   dell'inscrittione et ancora vi si ueggono alcune lettere. L'ovolo della cornice
                   sopra il fregio è diverso da quanti io ne habbia ancora veduti, et questa varietà,
