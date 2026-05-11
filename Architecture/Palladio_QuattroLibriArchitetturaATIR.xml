@@ -23,8 +23,8 @@
          <titlePage>
             <titlePart><hi rend="capitals">I QUATTRO LIBRI DELL'ARCHITETTURA</hi> Di <persName
                   ref="#AndreaPalladio">Andrea Palladio</persName>. Nei quali, dopo un breve
-               trattato dei cinque ordini, et di quelli avertimenti, che sono piu necessari nel
-               fabricare; <hi rend="capitals">SI TRATTA DELLE CASE PRIVATE</hi>, delle Vie, de i
+               trattato dei cinque ordini, et di quelli avertimenti, che sono più necessari nel
+               fabricare; <hi rend="capitals">SI TRATTA DELLE CASE PRIVATE</hi>, delle Vie, dei
                Ponti, delle Piazze, dei Xisti, et dei Tempi. <hi rend="capitals">CON PRIVILEGI</hi>.
                   <hi rend="capitals">IN <placeName ref="#Venise">VENETIA</placeName></hi>, Apresso
                   <persName>Dominico dei Franceschi</persName>. <date when="1570">1570</date>. <pb
@@ -36,21 +36,20 @@
          <div type="dedicace">
             <p xml:id="PAL_QLA_dedicace_P1"><hi rend="capitals">AL MOLTO MAGNIFICO MIO SIGNOR
                   OSSERVANDISSIMO, IL SIGNOR CONTE <persName>GIACOMO ANGARANNO</persName></hi>.
-                  <figure type="lettrine"/>
-               <hi rend="capitals">I meriti</hi> amplissimi della vostra infinita cortesia (molto
-               Magnifico Signor mio) sono per li molti singolarissimi benefici, che con perpetua
-               liberalità già tanti, e tanti anni mi havete fatto continuamente; in tal modo
-               cresciuti, et di numero, et di grandezza: che se io non cercassi di rendermivi grato,
-               almeno con il dimostrarmene sempre ricordevole, son certissimo, che porterei pericolo
-               di esser notato, e tenuto da tutti per discortese, e per ingrato. E perché fin dalla
-               mia giovanezza mi son grandemente dilettato delle cose di Architettura, onde non
-               solamente ho rivolto con faticoso studio di molti anni i libri di coloro, che con
-               abbondante felicità di ingegno hanno arricchito di eccellentissimi precetti questa
-               scientia nobilissima: ma mi son trasferito ancora spesse volte in <placeName
-                  ref="#Rome">Roma</placeName> et in altri luoghi d'<placeName ref="#Italie"
-                  >Italia</placeName>, e fuori; dove con gli occhi propri ho veduto, et con le
-               proprie mani misurato i fragmenti di molti edifici antichi: i quali
-                  <reg>essendo</reg> restati in piedi fino a nostri tempi con maraviglioso
+                  <figure type="lettrine"/><hi rend="capitals">I meriti</hi> amplissimi della vostra
+               infinita cortesia (molto Magnifico Signor mio) sono per li molti singolarissimi
+               benefici, che con perpetua liberalità già tanti, e tanti anni mi havete fatto
+               continuamente; in tal modo cresciuti, et di numero, et di grandezza: che se io non
+               cercassi di rendermivi grato, almeno con il dimostrarmene sempre ricordevole, son
+               certissimo, che porterei pericolo di esser notato, e tenuto da tutti per discortese,
+               e per ingrato. E perché fin dalla mia giovanezza mi son grandemente dilettato delle
+               cose di Architettura, onde non solamente ho rivolto con faticoso studio di molti anni
+               i libri di coloro, che con abbondante felicità di ingegno hanno arricchito di
+               eccellentissimi precetti questa scientia nobilissima: ma mi son trasferito ancora
+               spesse volte in <placeName ref="#Rome">Roma</placeName> et in altri luoghi
+                  d'<placeName ref="#Italie">Italia</placeName>, e fuori; dove con gli occhi propri
+               ho veduto, et con le proprie mani misurato i fragmenti di molti edifici antichi: i
+               quali <reg>essendo</reg> restati in piedi fino a nostri tempi con maraviglioso
                spettacolo di Barbara crudeltà, rendono anco nelle grandissime ruine loro chiaro, et
                illustre testimonio della virtù, et della grandezza Romana: in modo che ritrovandomi
                io grandemente esercitato, et infiammato negli ottimi studi di questa qualità di
@@ -99,48 +98,49 @@
       <body>
          <pb n="5"/>
          <div1 xml:id="L1" type="livre" n="1">
-            <head> IL PRIMO LIBRO DELL'ARCHITETTURA DI ANDREA PALLADIO </head>
+            <head rend="capitals">IL PRIMO LIBRO DELL'ARCHITETTURA DI <persName
+                  ref="#AndreaPalladio">ANDREA PALLADIO</persName></head>
             <div2 xml:id="L1C1" type="chapitre" n="1">
                <head>Proemio ai Lettori.</head>
                <p xml:id="PAL_QLA_L1_L1C1_P1"><figure type="lettrine"/><hi rend="capitals">Da
                      naturale</hi> inclinatione guidato mi diedi nei miei primi anni allo studio
                   dell'Architettura: e perché sempre fui di opinione che gli Antichi Romani come in
                   molte altre cose, così nel fabricar bene habbiano di gran lunga avanzato tutti
-                  quelli che dopo loro sono stati; mi proposi per maestro, e guida <persName
+                  quelli che dopo loro sono stati, mi proposi per maestro e guida <persName
                      ref="#Vitruve">Vitruvio</persName>: il quale è solo antico scrittore di
-                  quest'arte; et mi misi alla investigatione delle reliquie de gli Antichi edifici,
+                  quest'arte; et mi misi alla investigatione delle reliquie degli Antichi edifici,
                   le quali mal grado del tempo et della crudeltà dei Barbari ne sono rimase: et
-                  ritrovandole di molto maggiore osservatione degne, che io non mi haveva prima
+                  ritrovandole di molto maggiore osservatione degne che io non mi haveva prima
                   pensato, cominciai a misurare minutissimamente con somma diligenza ciascuna parte
                   loro: delle quali tanto divenni sollecito investigatore, non vi sapendo conoscer
-                  cosa, che con ragione, et con bella proportione non fusse fatta, che poi non una,
-                  ma più e più volte mi son trasferito in diverse parti d'<placeName ref="#Italie"
-                     >Italia</placeName>, et fuori per potere intieramente da quelle, quale fusse il
+                  cosa che con ragione et con bella proportione non fusse fatta, che poi non una, ma
+                  più e più volte mi son trasferito in diverse parti d'<placeName ref="#Italie"
+                     >Italia</placeName> et fuori per potere intieramente da quelle, quale fusse il
                   tutto, comprendere, et in disegno ridurlo. La onde veggendo, quanto questo commune
                   uso di fabricare, sia lontano dalle osservationi da me fatte nei detti edifici, et
                   lette in <persName ref="#Vitruve">Vitruvio</persName>, et in <persName
                      ref="#LeonBattistaAlberti">Leon Battista Alberti</persName>, et in altri
                   eccellenti scrittori che dopo <persName ref="#Vitruve">Vitruvio</persName> sono
                   stati, et da quelle ancho, che di nuovo da me sono state praticate con molta
-                  sodisfattione, et laude di quelli, che si sono serviti dell'opera mia; mi è parso
+                  sodisfattione, et laude di quelli, che si sono serviti dell'opera mia, mi è parso
                   cosa degna di huomo, il quale non solo a se stesso deve esser nato, ma ad utilità
                   ancho de gli altri, il dare in luce i disegni di quegli edifici, che in tanto
                   tempo et con tanti miei pericoli ho raccolti, et ponere brevemente ciò che in essi
                   mi è parso più degno di consideratione; et oltre a ciò quelle regole, che nel
                   fabricare ho osservate, et osservo: a fine che coloro i quali leggeranno questi
                   miei libri possino servirsi di quel tanto di buono che vi sarà, et in quelle cose
-                  supplire, nelle quali (come che molte forse ve ne saranno) io haverò mancato: onde
+                  supplire, nelle quali (come che molte forse ve ne saranno) io haverò mancato.Onde
                   così a poco a poco si impari a lasciar da parte gli strani abusi, le barbare
-                  inventioni, et le superflue spese, et (quello che più importa) a schifare le
-                  varie, e continoue rovine, che in molte fabriche si sono vedute. Et a questa
-                  impresa tanto più volentieri mi son messo, quanto che io veggo a questi tempi
-                  essere assaissimi di questa professione studiosi: di molti dei quali nei suoi
-                     <bibl>libri</bibl> fa degna, et honorata memoria Messer <persName
-                     ref="#GiorgioVasari">Giorgio Vasari</persName> Aretino Pittore, et Architetto
+                  inventioni et le superflue spese, et (quello che più importa) a schifare le varie
+                  e continoue rovine, che in molte fabriche si sono vedute. Et a questa impresa
+                  tanto più volentieri mi son messo, quanto che io veggo a questi tempi essere
+                  assaissimi di questa professione studiosi: di molti dei quali nei suoi
+                     <bibl>libri</bibl> fa degna et honorata memoria Messer <persName
+                     ref="#GiorgioVasari">Giorgio Vasari</persName> Aretino Pittore et Architetto
                   raro, onde spero che il modo di fabricare con universale utilità si habbia a
-                  ridurre, e tosto a quel termine, che in tutte le arti è sommamente desiderato, et
+                  ridurre, e tosto a quel termine, che in tutte le arti è sommamente desiderato et
                   al quale in questa parte d'<placeName ref="#Italie">Italia</placeName> par che
-                  molto avicinato si sia: con ciò sia che non solo in <placeName ref="#Venise"
+                  molto avicinato si sia. Con ciò sia che non solo in <placeName ref="#Venise"
                      >Venetia</placeName>, ove tutte le buone arti fioriscono, et che sola ne è come
                   esempio rimasa della grandezza, et magnificenza dei Romani, si comincia a veder
                   fabriche che hanno del buono, dapoi che Messer <persName ref="#JacopoSansovino"
@@ -150,21 +150,21 @@
                      nova</objectName>, la quale è il più ricco et ornato edificio che forse sia
                   stato fatto da gli Antichi in qua. Ma ancho in molti altri luoghi di minor nome,
                   et massimamente in <placeName ref="#Vicence">Vicenza</placeName> Città non molto
-                  grande di circuito, ma piena di nobilissimi intelletti, et di ricchezze assai
+                  grande di circuito, ma piena di nobilissimi intelletti et di ricchezze assai
                   abbondante: et ove prima ho havuto occasione di praticare quello che hora a
-                  commune utilità mando in luce, si veggono assaissime belle fabriche, et molti
+                  commune utilità mando in luce, si veggono assaissime belle fabriche et molti
                   gentil'huomini vi sono stati studiosissimi di quest'arte, i quali e per nobiltà e
                   per eccellente dottrina non sono indegni di esser annoverati tra i più illustri;
                   come il Signor <persName ref="#GianGiorgioTrissino">Giovan Giorgio
-                     Trissino</persName> splendore de'tempi nostri; et i Signori Conti
+                     Trissino</persName> splendore dei tempi nostri, et i Signori Conti
                      <persName>Marc'Antonio</persName>, et <persName>Adriano</persName> fratelli de
-                     <placeName ref="#Thiene">Thiene</placeName>; et il Signor <persName>Antenore
-                     Pagello</persName> Cavalier; et oltre a questi, i quali passati a miglior vita
+                     <placeName ref="#Thiene">Thiene</placeName>, et il Signor <persName>Antenore
+                     Pagello</persName> Cavalier. Et oltre a questi, i quali passati a miglior vita
                   nelle belle et ornate fabriche loro hanno lasciato di se un'eterna memoria, vi è
-                  hora il Signor <persName>Fabio Monza</persName> intelligente di assaissime cose;
+                  hora il Signor <persName>Fabio Monza</persName> intelligente di assaissime cose,
                   il Signor <persName>Elio dei Belli</persName> figliuolo che fu del Signor
                      <persName ref="#ValerioBelli">Valerio</persName>, celebre per l'artificio dei
-                  Camei, et dello scolpire in Cristallo; il Signor <persName>Antonio Francesco
+                  Camei, et dello scolpire in Cristallo, il Signor <persName>Antonio Francesco
                      Oliviera</persName>, il quale oltra la cognitione di molte scienze è
                   Architetto, et Poeta eccellente, come ha dimostrato nella sua
                      <objectName>Alemana</objectName>, poema in verso Heroico, et in una sua
@@ -172,43 +172,43 @@
                      >Nanto</placeName>, luogo del Vicentino: <pb n="6"/> et finalmente (per
                   lasciare molti altri, i quali con ragione si potrebbono in questo numero porre) il
                   Signor <persName>Valerio Barbarano</persName>, diligentissimo osservatore di tutto
-                  quello, che a questa professione s'appartiene. Ma per ritornare al proposito
+                  quello, che a questa professione si appartiene. Ma per ritornare al proposito
                   nostro, dovendo io dare in luce quelle fatiche, che dalla mia giovanezza infino a
-                  qui, ho fatte nell'investigare, et nel misurar con tutta quella diligenza, c'ho
+                  qui ho fatte nell'investigare et nel misurar con tutta quella diligenza, che ho
                   potuto maggiore, quel tanto degli antichi edifici, che è pervenuto a notitia mia;
-                  et con questa occasione sotto brevità trattare dell'Architettura più
-                  ordinatamente, et distintamente, che mi fusse possibile; ho pensato esser molto
-                  convenevole cominciare dalle case dei Particolari: si perché si deve credere, che
-                  quelle ai publici edifici le ragioni somministrassero, essendo molto verisimile,
-                  che innanzi, l'huomo da per se habitasse, et dopo vedendo haver mestieri
-                  dell'aiuto degli altri huomini, a conseguir quelle cose, che lo possono render
-                  felice (se felicità alcuna si ritrova quà giù) la compagnia de gli altri huomini
-                  naturalmente desiderasse, et amasse; onde di molte case si facessero li Borghi, e
-                  di molti Borghi poi le Città, et in quelle i luoghi, et gli edifici publichi: si
-                  ancho, perché tra tutte le parti dell'Archittetura, niuna è più necessaria agli
-                  huomini, nè che più spesso sia praticata di questa. Io dunque tratterò prima delle
-                  case private, et verrò poi a publici edifici: e brevemente tratterò delle strade,
-                  dei ponti, delle piazze, delle prigioni, delle Basiliche, cioè luoghi del
-                  giudicio, de i Xisti, e delle Palestre, ch'erano luoghi, ove gli huomini si
-                  esercitavano; de i Tempi, de i Theatri, et de gli Anfitheatri, de gli Archi, delle
-                  Terme, de gli Acquedotti, e finalmente del modo di fortificar le Città, et de i
-                  Porti. Et in tutti questi libri io fuggirò la lunghezza delle parole, et
-                  semplicemente darò quelle avertenze, che mi parranno più necessarie; et mi servirò
-                  di quei nomi, che gli artefici hoggidi communemente usano. E perché di me stesso
-                  non posso prometter altro, che una lunga fatica, e gran diligenza, et amore, che
-                  io ho posto per intendere, et praticare quanto prometto; se egli sarà paciuto a
-                     <persName ref="#Dieu">Dio</persName>, che io non m'habbia affaticato in darno,
-                  ne ringratierò la bontà sua con tutto il cuore, restando appresso molto obligato a
-                  quelli, che dalle loro belle inventioni et dalle esperienze fatte, ne hanno
-                  lasciato i precetti di tal'arte; perciò che hanno aperta più facile, et espedita
+                  et con questa occasione sotto brevità trattare dell'Architettura più ordinatamente
+                  et distintamente che mi fusse possibile; ho pensato esser molto convenevole
+                  cominciare dalle case dei Particolari. Si perché si deve credere, che quelle ai
+                  publici edifici le ragioni somministrassero, essendo molto verisimile, che
+                  innanzi, l'huomo da per se habitasse, et dopo vedendo haver mestieri dell'aiuto
+                  degli altri huomini, a conseguir quelle cose, che lo possono render felice (se
+                  felicità alcuna si ritrova quà giù) la compagnia degli altri huomini naturalmente
+                  desiderasse, et amasse; onde di molte case si facessero li Borghi, e di molti
+                  Borghi poi le Città, et in quelle i luoghi, et gli edifici publichi: si ancho,
+                  perché tra tutte le parti dell'Archittetura, niuna è più necessaria agli huomini,
+                  né che più spesso sia praticata di questa. Io dunque tratterò prima delle case
+                  private, et verrò poi a publici edifici: e brevemente tratterò delle strade, dei
+                  ponti, delle piazze, delle prigioni, delle Basiliche, cioè luoghi del giudicio,
+                  dei Xisti e delle Palestre, che erano luoghi ove gli huomini si esercitavano; dei
+                  Tempi, dei Theatri et de gli Anfitheatri, degli Archi, delle Terme, degli
+                  Acquedotti, e finalmente del modo di fortificar le Città et dei Porti. Et in tutti
+                  questi libri io fuggirò la lunghezza delle parole, et semplicemente darò quelle
+                  avertenze, che mi parranno più necessarie; et mi servirò di quei nomi, che gli
+                  artefici hoggidi communemente usano. E perché di me stesso non posso prometter
+                  altro che una lunga fatica, e gran diligenza, et amore, che io ho posto per
+                  intendere, et praticare quanto prometto; se egli sarà paciuto a <persName
+                     ref="#Dieu">Dio</persName>, che io non mi habbia affaticato in darno, ne
+                  ringratierò la bontà sua con tutto il cuore, restando appresso molto obligato a
+                  quelli che dalle loro belle inventioni et dalle esperienze fatte, ne hanno
+                  lasciato i precetti di tale arte; perciò che hanno aperta più facile, et espedita
                   strada alla investigatione di cose nuove, e di molte (mercè loro) habbiamo
                   cognitione che ne sarebbono per aventura nascoste. Sarà questa prima parte in due
                   libri divisa: nel primo si tratterà della preparatione della materia, e preparata
                   come, et in che forma si debba mettere in opera dalle fondamenta fino al coperto:
                   ove saranno quei precetti, che universali sono, et si deono osservare in tutti gli
                   edifici così publici, come privati. Nel secondo tratterò della qualità delle
-                  fabriche, che a diversi gradi d'huomini si convengono, e prima di quelle della
-                  Città, e poi de i siti opportuni, et commodi per quelle di Villa, e come deono
+                  fabriche, che a diversi gradi di huomini si convengono, e prima di quelle della
+                  Città, e poi dei siti opportuni, et commodi per quelle di Villa, e come deono
                   essere compartite. Et perché in questa parte noi habbiamo pochissimi esempi
                   antichi, dei quali ce ne possiamo servire; io porrò le piante, et gli impiedi di
                   molte fabriche da me per diversi Gentil'huomini ordinate: et i disegni delle case
@@ -216,8 +216,8 @@
                   insegna <persName ref="#Vitruve">Vitruvio</persName>, che così essi facevano. </p>
             </div2>
             <div2 xml:id="L1C2" type="chapitre" n="2">
-               <head> QUALI COSE DEONO CONSIDERARSI, E PREPARARSI avanti che al fabricar si
-                  pervenga. Cap. I. </head>
+               <head><hi rend="capitals">QUALI COSE DEONO CONSIDERARSI, E PREPARARSI</hi> avanti che
+                  al fabricar si pervenga. Cap. I.</head>
                <p xml:id="PAL_QLA_L1_L1C2_P1">
                   <figure type="lettrine"/><hi rend="capitals">Devesi</hi> avanti che a fabricar si
                   cominci, diligentemente considerare ciascuna parte della pianta, et impiedi della
@@ -229,51 +229,51 @@
                   comoda; overo che havendo amendue queste; niuna gratia poi in se contenesse. La
                   commodità si havrà quando a ciascun membro sarà dato luogo atto, sito accommodato,
                   non minore che la dignità si ricchiegga, né maggiore che l'uso si richerchi: et
-                  sarà posto in luogo proprio, cioè quando le Loggie, le Sale, le Stanze, le
-                  Cantine, e i Granari saranno posti a luoghi loro convenevoli. Alla perpetuità si
-                  havrà risguardo, quando tutti i muri saranno diritti a piombo, più grossi nella
-                  parte di sotto, che in quella di sopra, et haveranno buone, et sofficienti le
-                  fondamenta: et oltre a ciò, le colonne di sopra saranno al dritto di quelle di
-                  sotto, et tutti i fori, come usci e fenestre, saranno uno sopra l'altro: onde il
-                  pieno venga sopra il pieno, et il voto sopra il voto. La bellezza risulterà dalla
-                  bella forma, e dalla corrispondenza del tutto alle parti, delle parti fra loro, e
-                  di quelle al tutto: con ciò sia che gli edifici habbiano da parere uno intiero, e
-                  ben finito corpo: nel quale l'un membro all'altro convenga, et tutte le membra
-                  siano necessarie <pb n="7"/> a quello, che si vuol fare. Considerate queste cose
-                  nel disegno e nel Modello, si deve fare diligentemente il conto di tutta la spesa,
-                  che vi può andare: e fare a tempo provisione del danaro, e apparecchiar la
-                  materia, che parerà far di mestieri; accioché edificando, non manchi alcuna cosa,
-                  che impedisca il compimento dell'opera, essendo che non picciola lode sia
-                  dell'edificatore, e non mediocre utilità a tutta la fabrica; se con la debita
-                  prestezza vien fornita, et che tutti i muri ad egual segno tirati; egualmente
-                  calino: onde non facciano quelle fessure, che si sogliono vedere nelle fabriche in
-                  diversi tempi, et inegualmente condotte al fine. E però eletti i più periti
-                  artefici, che si possano havere, accioché ottimamente l'opera sia dirizzata,
-                  secondo il loro consiglio; si provederà di legnami, di pietre, d'arena, di calce,
-                  e di metalli: circa le quali provisioni si haveranno alcune avertenze, come che
-                  per fare le travamenta de solari delle Sale, e delle stanze, di tante travi si
-                  proveda, che ponendole tutte in opera, resti fra l'una e l'altra lo spatio di una
-                  grossezza e meza di trave: medesimamente circa le pietre; si avertirà, che per
-                  fare le erte delle porte, e delle fenestre, non si ricercano pietre più grosse
-                  della quinta parte della larghezza della luce, nè meno della sesta. E se nella
-                  fabrica anderanno adornamenti di colonne, o di pilastri, si potranno far le base,
-                  i capitelli, e gli architravi di pietra, e l'altre parti di pietra cotta. Circa i
-                  muri ancora si haverà consideratione, che si deono diminuire secondo che si
-                  inalzano: le quali avertenze gioveranno a fare il conto giusto, e scemeranno gran
-                  parte della spesa. E perché di tutte queste parti si dirà minutamente a luoghi
-                  loro, basterà per hora haver dato questa universale cognitione, e fatto come un
-                  abbozzamento di tutta la fabrica. Ma perché oltra la quantità, si deve ancho haver
-                  consideratione alla qualità, e bontà della materia; ad elegger la migliore; ci
-                  gioverà molto la esperienza pigliata dalle fabriche fatte da gli altri: perché da
-                  quelle avisati, potremo facilmente determinare ciò che ai bisogni nostri sia
-                  acconcio, et espediente. E benché <persName ref="#Vitruve">Vitruvio</persName>,
-                     <persName ref="#LeonBattistaAlberti">Leon Battista Alberti</persName>, et altri
+                  sarà posto in luogo proprio, cioè quando le Loggie, le Sale, le Stanze, le Cantine
+                  e i Granari saranno posti a luoghi loro convenevoli. Alla perpetuità si havrà
+                  risguardo, quando tutti i muri saranno diritti a piombo, più grossi nella parte di
+                  sotto, che in quella di sopra, et haveranno buone et sofficienti le fondamenta: et
+                  oltre a ciò, le colonne di sopra saranno al dritto di quelle di sotto, et tutti i
+                  fori, come usci e fenestre, saranno uno sopra l'altro: onde il pieno venga sopra
+                  il pieno, et il voto sopra il voto. La bellezza risulterà dalla bella forma, e
+                  dalla corrispondenza del tutto alle parti, delle parti fra loro, e di quelle al
+                  tutto: con ciò sia che gli edifici habbiano da parere uno intiero, e ben finito
+                  corpo: nel quale l'un membro all'altro convenga, et tutte le membra siano
+                  necessarie <pb n="7"/> a quello, che si vuol fare. Considerate queste cose nel
+                  disegno e nel Modello, si deve fare diligentemente il conto di tutta la spesa, che
+                  vi può andare: e fare a tempo provisione del danaro e apparecchiar la materia, che
+                  parerà far di mestieri; accioché edificando, non manchi alcuna cosa, che impedisca
+                  il compimento dell'opera, essendo che non picciola lode sia dell'edificatore, e
+                  non mediocre utilità a tutta la fabrica; se con la debita prestezza vien fornita,
+                  et che tutti i muri ad egual segno tirati; egualmente calino: onde non facciano
+                  quelle fessure, che si sogliono vedere nelle fabriche in diversi tempi, et
+                  inegualmente condotte al fine. E però eletti i più periti artefici, che si possano
+                  havere, accioché ottimamente l'opera sia dirizzata, secondo il loro consiglio; si
+                  provederà di legnami, di pietre, d'arena, di calce, e di metalli: circa le quali
+                  provisioni si haveranno alcune avertenze, come che per fare le travamenta de
+                  solari delle Sale, e delle stanze, di tante travi si proveda, che ponendole tutte
+                  in opera, resti fra l'una e l'altra lo spatio di una grossezza e meza di trave:
+                  medesimamente circa le pietre; si avertirà, che per fare le erte delle porte, e
+                  delle fenestre, non si ricercano pietre più grosse della quinta parte della
+                  larghezza della luce, né meno della sesta. E se nella fabrica anderanno
+                  adornamenti di colonne, o di pilastri, si potranno far le base, i capitelli, e gli
+                  architravi di pietra, e l'altre parti di pietra cotta. Circa i muri ancora si
+                  haverà consideratione, che si deono diminuire secondo che si inalzano: le quali
+                  avertenze gioveranno a fare il conto giusto, e scemeranno gran parte della spesa.
+                  E perché di tutte queste parti si dirà minutamente a luoghi loro, basterà per hora
+                  haver dato questa universale cognitione, e fatto come un abbozzamento di tutta la
+                  fabrica. Ma perché oltra la quantità, si deve ancho haver consideratione alla
+                  qualità, e bontà della materia; ad elegger la migliore; ci gioverà molto la
+                  esperienza pigliata dalle fabriche fatte da gli altri: perché da quelle avisati,
+                  potremo facilmente determinare ciò che ai bisogni nostri sia acconcio, et
+                  espediente. E benché <persName ref="#Vitruve">Vitruvio</persName>, <persName
+                     ref="#LeonBattistaAlberti">Leon Battista Alberti</persName>, et altri
                   eccellenti scrittori habbiano dato quegli avvertimenti, che si debbono havere
                   nell'elegger essa materia, io nondimeno acciò che niente in questi miei libri paia
                   mancare, ne dirò alcuni, restringendomi a i più necessari. </p>
             </div2>
             <div2 xml:id="L1C3" type="chapitre" n="3">
-               <head> DEI LEGNAMI Cap. II.</head>
+               <head><hi rend="capitals">DEI LEGNAMI</hi> Cap. II.</head>
                <p xml:id="PAL_QLA_L1_L1C3_P1">
                   <figure type="lettrine"/><hi rend="capitals">I legnami</hi> (come ha <persName
                      ref="#Vitruve">Vitruvio</persName> al cap. IX. del <bibl>II. lib.</bibl>) si
@@ -297,7 +297,7 @@
                   altri dotti huomini, che ne han scritto copiosamente. </p>
             </div2>
             <div2 xml:id="L1C4" type="chapitre" n="4">
-               <head> DELLE PIETRE. Cap. III. </head>
+               <head><hi rend="capitals">DELLE PIETRE</hi>. Cap. III.</head>
                <p xml:id="PAL_QLA_L1_L1C4_P1">
                   <figure type="lettrine"/><hi rend="capitals">Delle</hi> pietre altre habbiamo
                   dalla Natura, altre sono fatte dall'industria de gli huomini: le naturali si
@@ -332,7 +332,7 @@
                </p>
             </div2>
             <div2 xml:id="L1C5" type="chapitre" n="5">
-               <head> DELL'ARENA. Cap. IIII. </head>
+               <head><hi rend="capitals">DELL'ARENA</hi>. Cap. IIII. </head>
                <p xml:id="PAL_QLA_L1_L1C5_P1">
                   <figure type="lettrine"/><hi rend="capitals">Si ritrova</hi> sabbia, overo Arena
                   di tre sorti, cioè di cava, di fiume, e di mare. Quella di cava è di tutte
@@ -359,7 +359,7 @@
                   e fichi selvatichi, che sono di grandissimo danno alle fabriche. </p>
             </div2>
             <div2 xml:id="L1C6" type="chapitre" n="6">
-               <head> DELLA CALCE, E MODO DI IMPASTARLA. Cap. V. </head>
+               <head><hi rend="capitals">DELLA CALCE E MODO DI IMPASTARLA</hi>. Cap. V. </head>
                <p xml:id="PAL_QLA_L1_L1C6_P1">
                   <figure type="lettrine"/><hi rend="capitals">Le pietre</hi> per far la calce, o si
                   cavano da i monti, o si pigliano da i fiumi. Ogni pietra dei monti è buona, che
@@ -390,7 +390,7 @@
                <pb n="9"/>
             </div2>
             <div2 xml:id="L1C7" type="chapitre" n="7">
-               <head> DEI METALLI. Cap. VI. </head>
+               <head><hi rend="capitals">DEI METALLI</hi>. Cap. VI. </head>
                <p xml:id="PAL_QLA_L1_L1C7_P1">
                   <figure type="lettrine"/><hi rend="capitals">I metalli</hi>, che nelle fabriche si
                   adoperano sono il ferro, il piombo, et il rame. Il ferro serve per fare i chiodi,
@@ -437,27 +437,27 @@
                   chiodi et arpesi di ferro, ma essi li fecero per lo più di rame, perché meno dal
                   tempo può essere consumato, essendo ch'egli non rugginisca. Ne fecero ancho le
                   lettere per le inscrittioni, che si pongono nel fregio de gli edifici, e si legge
-                  che di questo metallo erano le <objectName>cento porte celebri di <placeName
-                        ref="#Babylone">Babilonia</placeName></objectName> e nell'<placeName>Isole
-                     di Gade</placeName> due <objectName>colonne di Hercole</objectName> alte otto
-                  cubiti. Si tiene per eccellentissimo, e per lo migliore quello, che cotto, e
-                  cavato per via del fuoco dalle minerali è di color rosso tendente al giallo, et è
-                  ben fiorito, cioè pieno di buchi: perché questo è segno ch'egli sia purgato, e
-                  libero da ogni feccia. Il rame si accende come il ferro, e si liquefà, onde si può
-                  fondere: ma in ardentssime fornaci posto non tolera le forze delle fiamme, ma si
-                  consuma a fatto. Egli benché sia duro si lascia nondimeno maneggiare dal ferro, e
-                  dilatarsi ancho in sottili sfoglie. Si conserva nella pece liquida ottimamente, e
-                  tutto che non si rugginisca, come il ferro; fa nondimeno ancor egli la sua
-                  ruggine, che chiamiamo verde rame, massimamente se tocca cose acri, e liquide. Di
-                  questo metallo mescolato con stagno, o piombo, o ottone che ancor esso è rame, ma
-                  colorito con la terra cadmia; si fa un misto detto volgarmente Bronzo: del quale
-                  spessissime volte gli Architetti si servono: percioché se ne fanno base, colonne,
-                  capitelli, statue, et altre cose simili. Si veggono in <placeName ref="#Rome"
-                     >Roma</placeName> in <objectName ref="#BasiliqueSaintJeanLatranRome">San
-                     Giovanni Laterano</objectName> quattro colonne di Bronzo: delle quali una sola
-                  ha il capitello: e le fece fare <persName ref="#Auguste">Augusto</persName> del
-                  metallo, ch'era nelli speroni delle navi ch'egli conquistò in <placeName
-                     ref="#Egypte">Egitto</placeName> contra <persName ref="#MarcAntoine">Marco
+                  che di questo metallo erano le cento porte celebri di <placeName ref="#Babylone"
+                     >Babilonia</placeName> e nell'<placeName>Isole di Gade</placeName> due
+                     <objectName>colonne di Hercole</objectName> alte otto cubiti. Si tiene per
+                  eccellentissimo, e per lo migliore quello, che cotto, e cavato per via del fuoco
+                  dalle minerali è di color rosso tendente al giallo, et è ben fiorito, cioè pieno
+                  di buchi: perché questo è segno ch'egli sia purgato, e libero da ogni feccia. Il
+                  rame si accende come il ferro, e si liquefà, onde si può fondere: ma in
+                  ardentssime fornaci posto non tolera le forze delle fiamme, ma si consuma a fatto.
+                  Egli benché sia duro si lascia nondimeno maneggiare dal ferro, e dilatarsi ancho
+                  in sottili sfoglie. Si conserva nella pece liquida ottimamente, e tutto che non si
+                  rugginisca, come il ferro; fa nondimeno ancor egli la sua ruggine, che chiamiamo
+                  verde rame, massimamente se tocca cose acri, e liquide. Di questo metallo
+                  mescolato con stagno, o piombo, o ottone che ancor esso è rame, ma colorito con la
+                  terra cadmia; si fa un misto detto volgarmente Bronzo: del quale spessissime volte
+                  gli Architetti si servono: percioché se ne fanno base, colonne, capitelli, statue,
+                  et altre cose simili. Si veggono in <placeName ref="#Rome">Roma</placeName> in
+                     <objectName ref="#BasiliqueSaintJeanLatranRome">San Giovanni
+                     Laterano</objectName> quattro colonne di Bronzo: delle quali una sola ha il
+                  capitello: e le fece fare <persName ref="#Auguste">Augusto</persName> del metallo,
+                  ch'era nelli speroni delle navi ch'egli conquistò in <placeName ref="#Egypte"
+                     >Egitto</placeName> contra <persName ref="#MarcAntoine">Marco
                      Antonio</persName>. Ne sono ancho restate in <placeName ref="#Rome"
                      >Roma</placeName> fin ad hoggi quattro antiche porte, cioè quella della
                      <objectName>Ritonda</objectName>, che fu già il <objectName ref="#PantheonRome"
@@ -488,7 +488,8 @@
                   mettere in opera. </p>
             </div2>
             <div2 xml:id="L1C8" type="chapitre" n="8">
-               <head> DELLE QUALITÀ DEL TERRENO, OVE SI HANNO DA poner le fondamenta. Cap. VII. </head>
+               <head><hi rend="capitals">DELLE QUALITÀ DEL TERRENO, OVE SI HANNO DA</hi> poner le
+                  fondamenta. Cap. VII. </head>
                <p xml:id="PAL_QLA_L1_L1C8_P1">
                   <figure type="lettrine"/><hi rend="capitals">Le fondamenta</hi> propriamente si
                   dicono la base della fabrica, cioè quella parte, che è sotto terra: la quale
@@ -551,7 +552,7 @@
                   muri, così dette palificate di mezo anderanno più sottili di quelle di fuora. </p>
             </div2>
             <div2 xml:id="L1C9" type="chapitre" n="9">
-               <head> DELLE FONDAMENTA. Cap. VIII. </head>
+               <head><hi rend="capitals">DELLE FONDAMENTA</hi>. Cap. VIII. </head>
                <p xml:id="PAL_QLA_L1_L1C9_P1">
                   <figure type="lettrine"/><hi rend="capitals">Deono</hi> essere le fondamenta il
                   doppio più grosse del muro, c'ha da esservi posto sopra: et in questo si doverà
@@ -576,7 +577,7 @@
                   sino al sommo dell'edificio. </p>
             </div2>
             <div2 xml:id="L1C10" type="chapitre" n="10">
-               <head> DELLE MANIERE DEI MURI. Cap. IX. </head>
+               <head><hi rend="capitals">DELLE MANIERE DEI MURI</hi>. Cap. IX. </head>
                <p xml:id="PAL_QLA_L1_L1C10_P1">
                   <figure type="lettrine"/><hi rend="capitals">Fatte</hi> le fondamenta; resta che
                   trattiamo del muro diritto sopra terra. Sei appresso gli Antichi furono le maniere
@@ -598,7 +599,7 @@
                      <item>E, Parte di mezo del muro fatta de cementi.</item>
                   </list>
                </p>
-               <p xml:id="PAL_QLA_L1_L1C10_P3"> I muri di pietra cotta nelle muraglie delle Città, o
+               <p xml:id="PAL_QLA_L1_L1C10_P3">I muri di pietra cotta nelle muraglie delle Città, o
                   in altri molto grandi edifici si debbono fare, che nella parte di dentro, et in
                   quella di fuori siano di quadrello, e nel mezo pieni di cementi insieme col copo
                   pesto, e che ogni tre piedi di altezza vi siano tre corsi di quadrelli maggiori
@@ -623,7 +624,7 @@
                      <objectName>mura di <placeName ref="#Turin">Turino</placeName></objectName>, le
                   quali sono fatte di cuocoli di fiume tutti spezzati nel mezo, e sono detti cuocoli
                   posti con la parte spezzata in fuo ri, onde fanno drittissimo, e politissimo
-                  lavoro. I muri dell'<objectName ref="#ArenaVerone">'Arena di <placeName
+                  lavoro. I muri dell'<objectName ref="#ArenaVerone">Arena di <placeName
                         ref="#Verone">Verona</placeName></objectName> sono anch'essi di cementi, et
                   ogni tre piedi vi sono tre corsi di quadrelli; e così sono fatti ancho altri
                   antichi edifici, come si potrà vedere nei miei libri dell'Antichità. </p>
@@ -692,7 +693,8 @@
                   è rivolta a Tramontana. </p>
             </div2>
             <div2 xml:id="L1C11" type="chapitre" n="11">
-               <head> DEL MODO CHE TENEVANO GLI ANTICHI NEL FAR gli edifici di pietra. Cap. X. </head>
+               <head><hi rend="capitals">DEL MODO CHE TENEVANO GLI ANTICHI NEL FAR</hi> gli edifici
+                  di pietra. Cap. X. </head>
                <p xml:id="PAL_QLA_L1_L1C11_P1">
                   <figure type="lettrine"/><hi rend="capitals">Perché</hi> alcuna volta occorre che
                   la fabrica tutta, o buona parte si faccia di marmo, o di pezzi grandi d'altra
@@ -715,19 +717,19 @@
                   farsi, essendo le pietre in opera, facevano mentre che quelle erano ancora in
                   terra. Di ciò ottimo indicio sono diversi edifici antichi: nei quali si veggono
                   molte pietre, che non furono finite di lavorare, e polire. <objectName
-                     ref="#ArcoDeiGaviVerone">L'Arco</objectName> appresso <objectName>Castel
-                     vecchio</objectName> in <placeName ref="#Verone">Verona</placeName>, e tutti
-                  quegli altri Archi, et edifici che vi sono furono fatti nel detto modo: il che
-                  molto bene conoscerà chi avertirà ai colpi de martelli, cioè come le pietre vi
-                  siano lavorate. La <objectName ref="#ColonneTrajaneRome">colonna
-                     Traiana</objectName> in <placeName ref="#Rome">Roma</placeName>, e
-                     l'<objectName ref="#ColonneAntonineRome">Antonina</objectName> similmente
-                  furono fatte, nè altramente s'havrebbono potuto congiungere così diligentemente le
-                  pietre, che così bene s'incontrassero le commessure; le quali vanno a traverso le
-                  teste, et altre parti delle figure; e il medesimo dico di quegli Archi che vi si
-                  veggono. E s'era qualche edificio molto grande, come è l<objectName
-                     ref="#ArenaVerone">'Arena di <placeName ref="#Verone"
-                     >Verona</placeName></objectName>, l'<objectName ref="#AmphitheatrePula"
+                     ref="#ArcoDeiGaviVerone">L'Arco</objectName> appresso <objectName
+                     ref="#CastelvecchioVerone">Castel vecchio</objectName> in <placeName
+                     ref="#Verone">Verona</placeName>, e tutti quegli altri Archi, et edifici che vi
+                  sono furono fatti nel detto modo: il che molto bene conoscerà chi avertirà ai
+                  colpi de martelli, cioè come le pietre vi siano lavorate. La <objectName
+                     ref="#ColonneTrajaneRome">colonna Traiana</objectName> in <placeName
+                     ref="#Rome">Roma</placeName>, e l'<objectName ref="#ColonneAntonineRome"
+                     >Antonina</objectName> similmente furono fatte, nè altramente s'havrebbono
+                  potuto congiungere così diligentemente le pietre, che così bene s'incontrassero le
+                  commessure; le quali vanno a traverso le teste, et altre parti delle figure; e il
+                  medesimo dico di quegli Archi che vi si veggono. E s'era qualche edificio molto
+                  grande, come è l<objectName ref="#ArenaVerone">'Arena di <placeName ref="#Verone"
+                        >Verona</placeName></objectName>, l'<objectName ref="#AmphitheatrePula"
                      >Anfitheatro di <placeName ref="#Pula">Pola</placeName></objectName>, e simili,
                   per fuggir la spesa e tempo, che vi sarebbe andato; lavoravano solamente l'imposte
                   dei volti, i capitelli, e le cornici, et il resto lasciavano rustico, tenendo
@@ -743,7 +745,8 @@
                   una fabrica, alla quale si ricerchi al tutto la politezza. </p>
             </div2>
             <div2 xml:id="L1C12" type="chapitre" n="12">
-               <head> DELLE DIMINUTIONI DEI MURI, ET DELLE PARTI LORO. Cap. XI. </head>
+               <head><hi rend="capitals">DELLE DIMINUTIONI DEI MURI, ET DELLE PARTI LORO</hi>. Cap.
+                  XI. </head>
                <p xml:id="PAL_QLA_L1_L1C12_P1"><figure type="lettrine"/><hi rend="capitals">Si
                      deve</hi> osservare, che quanto più i muri ascendono e si inalzano, tanto più
                   si diminuiscono; però quelli che nascono sopra terra, saranno più sottili delle
@@ -768,7 +771,7 @@
                <pb n="15"/>
             </div2>
             <div2 xml:id="L1C13" type="chapitre" n="13">
-               <head> DEI CINQUE ORDINI, CHE USARONO gli Antichi. Cap. XII </head>
+               <head><hi rend="capitals">DEI CINQUE ORDINI, CHE USARONO</hi> gli Antichi. Cap. XII </head>
                <p xml:id="PAL_QLA_L1_L1C13_P1"><figure type="lettrine"/><hi rend="capitals"
                      >Cinque</hi> sono gli ordini dei quali gli Antichi si servirono, cioè il
                   Toscano, Dorico, Ionico, Corinthio, e Composito. Questi si deono così nelle
@@ -787,8 +790,8 @@
                   prima dirò quelle cose, che in universale a tutti si convengono. </p>
             </div2>
             <div2 xml:id="L1C14" type="chapitre" n="14">
-               <head> DELLA GONFIEZZA, E DIMINUTIONE DELLE Colonne, de gli Intercolunni, e dei
-                  Pilastri. Cap. XIII. </head>
+               <head><hi rend="capitals">DELLA GONFIEZZA, E DIMINUTIONE DELLE</hi> Colonne, de gli
+                  Intercolunni, e dei Pilastri. Cap. XIII. </head>
                <p xml:id="PAL_QLA_L1_L1C14_P1"><figure type="lettrine"/>
                   <hi rend="capitals">Le colonne</hi> di ciascun'ordine si deono formare in modo che
                   la parte di sopra sia più sottile di quella di sotto, e nel mezo habbiano alquanto
@@ -891,7 +894,7 @@
                   delle sacome disegnate a ciascun'ordine convenienti. </p>
             </div2>
             <div2 xml:id="L1C15" type="chapitre" n="15">
-               <head> DELL'ORDINE TOSCANO. Cap. XIIII. </head>
+               <head><hi rend="capitals">DELL'ORDINE TOSCANO</hi>. Cap. XIIII. </head>
                <p xml:id="PAL_QLA_L1_L1C15_P1">
                   <figure type="lettrine"/>
                   <hi rend="capitals">L'ordine</hi> Toscano, per quanto ne dice <persName
@@ -993,7 +996,7 @@
                <pb n="22"/>
             </div2>
             <div2 xml:id="L1C16" type="chapitre" n="16">
-               <head> DELL'ORDINE DORICO. Cap. XV. </head>
+               <head><hi rend="capitals">DELL'ORDINE DORICO</hi>. Cap. XV. </head>
                <p xml:id="PAL_QLA_L1_L1C16_P1">
                   <figure type="lettrine"/><hi rend="capitals">L'ordine</hi>Dorico hebbe principio,
                   e nome dai Dori popoli Greci, che habitarono in <placeName ref="#Asie"
@@ -1118,7 +1121,7 @@
             </div2>
             <div2 xml:id="L1C17" type="chapitre" n="17">
                <pb n="28"/>
-               <head> DELL'ORDINE IONICO. Cap. XVI. </head>
+               <head><hi rend="capitals">DELL'ORDINE IONICO</hi>. Cap. XVI. </head>
                <p xml:id="PAL_QLA_L1_L1C17_P1">
                   <figure type="lettrine"/>
                   <hi rend="capitals">L'ordine</hi> Ionico hebbe origine nella <placeName
@@ -1271,7 +1274,7 @@
             </div2>
             <div2 xml:id="L1C18" type="chapitre" n="18">
                <pb n="37"/>
-               <head> DELL'ORDINE CORINTHIO. Cap. XVII. </head>
+               <head><hi rend="capitals">DELL'ORDINE CORINTHIO</hi>. Cap. XVII. </head>
                <p xml:id="PAL_QLA_L1_L1C18_P1">
                   <figure type="lettrine"/>
                   <hi rend="capitals">In <placeName ref="#Corinthe">Corintho</placeName></hi>
@@ -1358,7 +1361,7 @@
                <pb n="44"/>
             </div2>
             <div2 xml:id="L1C19" type="chapitre" n="19">
-               <head> DELL'ORDINE COMPOSITO. Cap. XVIII. </head>
+               <head><hi rend="capitals">DELL'ORDINE COMPOSITO</hi>. Cap. XVIII. </head>
                <p xml:id="PAL_QLA_L1_L1C19_P1">
                   <figure type="lettrine"/>
                   <hi rend="capitals">L'ordine </hi>Composito, il quale vien ancho detto Latino,
@@ -1419,7 +1422,7 @@
             </div2>
             <div2 xml:id="L1C20" type="chapitre" n="20">
                <pb n="51"/>
-               <head> DEI PIEDESTILI. Cap. XIX. </head>
+               <head><hi rend="capitals">DEI PIEDESTILI</hi>. Cap. XIX. </head>
                <p xml:id="PAL_QLA_L1_L1C20_P1">
                   <figure type="lettrine"/><hi rend="capitals">Sin qui</hi> ho detto, quanto mi è
                   parso bisognevole dei muri semplici, e dei loro ornamenti, e toccato in
@@ -1466,7 +1469,7 @@
                   Cimacia, come si vederà nel mio libro degli Archi. </p>
             </div2>
             <div2 xml:id="L1C21" type="chapitre" n="21">
-               <head> DEGLI ABUSI. Cap. XX. </head>
+               <head><hi rend="capitals">DEGLI ABUSI</hi>. Cap. XX. </head>
                <p xml:id="PAL_QLA_L1_L1C21_P1">
                   <figure type="lettrine"/><hi rend="capitals">Havendo</hi> io posto gli ornamenti
                   dell'Architettura, cioè i cinque ordini, et insegnato come si debbano fare, et
@@ -1533,8 +1536,8 @@
                   fabriche. </p>
             </div2>
             <div2 xml:id="L1C22" type="chapitre" n="22">
-               <head> DELLE LOGGIE, DELLE ENTRATE, DELLE SALE, e delle stanze: et della forma loro.
-                  Cap. XXI. </head>
+               <head><hi rend="capitals">DELLE LOGGIE, DELLE ENTRATE, DELLE SALE</hi>, e delle
+                  stanze: et della forma loro. Cap. XXI. </head>
                <p xml:id="PAL_QLA_L1_L1C22_P1"> Si sogliono far le loggie per lo più nella faccia
                   davanti, et in quella di dietro della casa: e si fanno nel mezo, facendone una
                   sola: o dalle bande facendone due. Servono queste loggie a molti commodi, come a
@@ -1568,7 +1571,7 @@
                <pb n="53"/>
             </div2>
             <div2 xml:id="L1C23" type="chapitre" n="23">
-               <head> DEI PAVIMENTI, E DEI SOFFITTATI. Cap. XXII. </head>
+               <head><hi rend="capitals">DEI PAVIMENTI, E DEI SOFFITTATI</hi>. Cap. XXII. </head>
                <p xml:id="PAL_QLA_L1_L1C23_P1"><figure type="lettrine"/>
                   <hi rend="capitals">Havendo</hi> veduto le forme delle Loggie, delle Sale, e delle
                   Stanze; è conveniente cosa che si dica dei pavimenti, e dei soffittati loro. I
@@ -1598,7 +1601,7 @@
                   in ciò certa, e determinata regola. </p>
             </div2>
             <div2 xml:id="L1C24" type="chapitre" n="24">
-               <head> DELL'ALTEZZA DELLE STANZE. Cap. XXIII. </head>
+               <head><hi rend="capitals">DELL'ALTEZZA DELLE STANZE</hi>. Cap. XXIII. </head>
                <p xml:id="PAL_QLA_L1_L1C24_P1">
                   <figure type="lettrine"/>
                   <hi rend="capitals">Le stanze</hi> si fanno o in volto, o in solaro. Se in solaro;
@@ -1661,7 +1664,7 @@
                <p xml:id="PAL_QLA_L1_L1C24_P4"> 12 9 6 108, 72, 54 8 </p>
             </div2>
             <div2 xml:id="L1C25" type="chapitre" n="25">
-               <head> DELLE MANIERE DEI VOLTI. Cap. XXIIII. </head>
+               <head><hi rend="capitals">DELLE MANIERE DEI VOLTI</hi>. Cap. XXIIII. </head>
                <p xml:id="PAL_QLA_L1_L1C25_P1">
                   <figure type="lettrine"/>
                   <hi rend="capitals">Sei</hi> sono le maniere de volti cioè a crociera, a fascia, a
@@ -1680,7 +1683,7 @@
                <pb n="55"/>
             </div2>
             <div2 xml:id="L1C26" type="chapitre" n="26">
-               <head> DELLE MISURE DELLE PORTE, E DELLE finestre. Cap. XXV. </head>
+               <head><hi rend="capitals">DELLE MISURE DELLE PORTE, E DELLE</hi> finestre. Cap. XXV. </head>
                <p xml:id="PAL_QLA_L1_L1C26_P1">
                   <figure type="lettrine"/><hi rend="capitals">Non</hi> si può dare certa, e
                   determinata regola circa le altezze, e larghezze delle porte principali delle
@@ -1737,7 +1740,8 @@
                   ornamenti. </p>
             </div2>
             <div2 xml:id="L1C27" type="chapitre" n="27">
-               <head> DEGLI ORNAMENTI DELLE PORTE, E DELLE FINESTRE. Cap. XXVI. </head>
+               <head><hi rend="capitals">DEGLI ORNAMENTI DELLE PORTE, E DELLE FINESTRE</hi>. Cap.
+                  XXVI. </head>
                <p xml:id="PAL_QLA_L1_L1C27_P1">
                   <figure type="lettrine"/>
                   <hi rend="capitals">Come</hi> si debbano fare gli ornamenti delle porte principali
@@ -1850,55 +1854,56 @@
             </div2>
             <div2 xml:id="L1C28" type="chapitre" n="28">
                <pb n="60"/>
-               <head> DEI CAMINI. Cap. XXVII. </head>
+               <head><hi rend="capitals">DEI CAMINI</hi>. Cap. XXVII. </head>
                <p xml:id="PAL_QLA_L1_L1C28_P1">
                   <figure type="lettrine"/>
                   <hi rend="capitals">Usarono</hi> gli Antichi di scaldare le loro stanze in questo
                   modo. Facevano i camini nel mezo con colonne, o modiglioni, che toglievano suso
                   gli Architravi: sopra i quali era la Piramide del camino, d'onde usciva il fumo,
                   come se ne vedeva uno a <placeName ref="#Baies">Baie</placeName> appresso la
-                     <objectName>Piscina di Nerone</objectName>; et uno non molto lontano da
-                     <placeName ref="#Civitavecchia">Civita Vecchia</placeName>. E quando non vi
-                  volevano camini; facevano nella grossezza del muro alcune canne, o trombe per le
-                  quali il calor del fuoco, ch'era sotto quelle stanze saliva, et usciva fuori per
-                  certi spiragli, o bocche fatte nella sommità di quelle canne. Quasi nell'istesso
-                  modo i Trenti Gentil'huomini Vicentini a <placeName ref="#Costozza"
-                     >Costoza</placeName> lor Villa rinfrescano l'Estate le stanze: Perciò ché
-                  essendo nei monti di detta Villa, alcune cave grandissime, che gli habitatori di
-                  quei luoghi chiamano covali, et erano anticamente Petraie, delle quali credo che
-                  intenda <persName ref="#Vitruve">Vitruvio</persName>, quando nel <bibl>secondo
-                     libro</bibl>, ove tratta delle pietre, dice, che nella Marca Trivigiana si cava
-                  una sorte di pietra, che si taglia con la sega, come il legno, Nelle quali nascono
-                  alcuni venti freschissimi; questi Gentil'huomini per certi volti sotterranei,
-                  ch'essi dimandano Ventidotti; gli conducono alle loro case, et con canne simili
-                  alle sopradette conducono poi quel vento fresco per tutte le stanze, otturandole,
-                  et aprendole a lor piacere per pigliare più, e manco fresco, secondo le stagioni.
-                  E benche per questa grandissima commodità sia questo luogo maraviglioso; nondimeno
-                  molto più degno di esser goduto, et visto lo rende il carcere dei Venti, che è una
-                  stanza sotterra fatta dall'Eccellentissimo Signor <persName>Francesco
-                     Trento</persName>, et da lui chiamata EOLIA: ove molti di detti Ventidutti
-                  sboccano: nella quale per fare che sia ornata, e bella, e conforme al nome, egli
-                  non ha sparagnato nè a diligenza, nè a spesa alcuna. Ma ritornando ai camini; noi
-                  li facciamo nella grossezza dei muri, et alziamo le loro canne fin fuori del
-                  tetto: acciò che portino il fumo nell'Aria. Dove si deve avertire che le canne non
-                  si facciano nè troppo larghe, nè troppo strette: perché se si faranno larghe,
-                  vagando per quelle l'Aria; caccierà il fumo all'in giù, e non lo lascierà
-                  ascendere, et uscir fuori liberamente: e nelle troppo strette il fumo non havendo
-                  libera la uscita; si ingorgherà, e tornerà indietro: però nei camini per le stanze
-                  non si faranno le canne nè meno larghe di mezo piede, nè più di nove oncie, e
-                  lunghe due piedi e mezo: e la bocca della Piramide dove si congiugne con la canna
-                  si farà alquanto più stretta: acciòche ritornando il fumo in giù, trovi
-                  quell'impedimento, e non possa venir nella stanza. Fanno alcuni le canne torte,
-                  acciò che per quella tortuosità, e per lo fuoco che lo spigne in suso, non possa
-                  il fumo tornare indietro. I fumaruoli, cioè i buchi per dove ha da uscire il fumo;
-                  deono essere larghi, e lontani da ogni materia atta ad abbruciarsi. Le Nappe,
-                  sopra le quali si fa la Piramide del camino, deono esser lavorate
-                  delicatissimamente, et in tutto lontane dal Rustico: perciò che l'opera rustica
-                  non si conviene, se non a molto grandi Edifici per le ragioni già dette. </p>
+                     <objectName ref="#ThermesStufeNeroneBaies">Piscina di Nerone</objectName>; et
+                  uno non molto lontano da <placeName ref="#Civitavecchia">Civita
+                     Vecchia</placeName>. E quando non vi volevano camini; facevano nella grossezza
+                  del muro alcune canne, o trombe per le quali il calor del fuoco, ch'era sotto
+                  quelle stanze saliva, et usciva fuori per certi spiragli, o bocche fatte nella
+                  sommità di quelle canne. Quasi nell'istesso modo i Trenti Gentil'huomini Vicentini
+                  a <placeName ref="#Costozza">Costoza</placeName> lor Villa rinfrescano l'Estate le
+                  stanze: Perciò ché essendo nei monti di detta Villa, alcune cave grandissime, che
+                  gli habitatori di quei luoghi chiamano covali, et erano anticamente Petraie, delle
+                  quali credo che intenda <persName ref="#Vitruve">Vitruvio</persName>, quando nel
+                     <bibl>secondo libro</bibl>, ove tratta delle pietre, dice, che nella Marca
+                  Trivigiana si cava una sorte di pietra, che si taglia con la sega, come il legno,
+                  Nelle quali nascono alcuni venti freschissimi; questi Gentil'huomini per certi
+                  volti sotterranei, ch'essi dimandano Ventidotti; gli conducono alle loro case, et
+                  con canne simili alle sopradette conducono poi quel vento fresco per tutte le
+                  stanze, otturandole, et aprendole a lor piacere per pigliare più, e manco fresco,
+                  secondo le stagioni. E benche per questa grandissima commodità sia questo luogo
+                  maraviglioso; nondimeno molto più degno di esser goduto, et visto lo rende il
+                  carcere dei Venti, che è una stanza sotterra fatta dall'Eccellentissimo Signor
+                     <persName>Francesco Trento</persName>, et da lui chiamata <hi rend="capitals"
+                     >EOLIA</hi>: ove molti di detti Ventidutti sboccano: nella quale per fare che
+                  sia ornata, e bella, e conforme al nome, egli non ha sparagnato nè a diligenza, nè
+                  a spesa alcuna. Ma ritornando ai camini; noi li facciamo nella grossezza dei muri,
+                  et alziamo le loro canne fin fuori del tetto: acciò che portino il fumo nell'Aria.
+                  Dove si deve avertire che le canne non si facciano nè troppo larghe, nè troppo
+                  strette: perché se si faranno larghe, vagando per quelle l'Aria; caccierà il fumo
+                  all'in giù, e non lo lascierà ascendere, et uscir fuori liberamente: e nelle
+                  troppo strette il fumo non havendo libera la uscita; si ingorgherà, e tornerà
+                  indietro: però nei camini per le stanze non si faranno le canne nè meno larghe di
+                  mezo piede, nè più di nove oncie, e lunghe due piedi e mezo: e la bocca della
+                  Piramide dove si congiugne con la canna si farà alquanto più stretta: acciòche
+                  ritornando il fumo in giù, trovi quell'impedimento, e non possa venir nella
+                  stanza. Fanno alcuni le canne torte, acciò che per quella tortuosità, e per lo
+                  fuoco che lo spigne in suso, non possa il fumo tornare indietro. I fumaruoli, cioè
+                  i buchi per dove ha da uscire il fumo; deono essere larghi, e lontani da ogni
+                  materia atta ad abbruciarsi. Le Nappe, sopra le quali si fa la Piramide del
+                  camino, deono esser lavorate delicatissimamente, et in tutto lontane dal Rustico:
+                  perciò che l'opera rustica non si conviene, se non a molto grandi Edifici per le
+                  ragioni già dette. </p>
             </div2>
             <div2 xml:id="L1C29" type="chapitre" n="29">
-               <head> DELLE SCALE, E VARIE MANIERE DI QUELLE, e del numero, e grandezza dei gradi.
-                  Cap. XXVIII. </head>
+               <head><hi rend="capitals">DELLE SCALE, E VARIE MANIERE DI QUELLE</hi>, e del numero,
+                  e grandezza dei gradi. Cap. XXVIII. </head>
                <p xml:id="PAL_QLA_L1_L1C29_P1">
                   <figure type="lettrine"/>
                   <hi rend="capitals">Si deve</hi> molto avertire nel poner delle scale: perché è
@@ -1986,7 +1991,7 @@
                <pb n="63"/>
                <figure type="planche"/>
                <pb n="64"/>
-               <p xml:id="PAL_QLA_L1_L1C29_P3"> Un'altra bella maniera di Scale a lumaca fece già
+               <p xml:id="PAL_QLA_L1_L1C29_P3">Un'altra bella maniera di Scale a lumaca fece già
                   fare a <placeName ref="#Chambord">Sciambur</placeName> luoco della <placeName
                      ref="#France">Francia</placeName> il Magnanimo <persName ref="#FrancoisIer">Re
                      Francesco</persName> in un <objectName ref="#ChateauChambord"
@@ -2015,10 +2020,11 @@
                   vacue nel mezo, e ricevono il lume di sopra. Erano ancho molto magnifiche quelle
                   che sono a <objectName ref="#BasiliqueSaintsApotresRome">Santo
                      Apostolo</objectName> nella detta <placeName ref="#Rome">Città</placeName>, e
-                  sagliono su <placeName>Monte Cavallo</placeName>. Erano queste Scale doppie: onde
-                  molti hanno preso poi l'esempio, et conducevano ad un <objectName>Tempio posto in
-                     cima del Monte</objectName>, come dimostro nel <bibl>mio libro dei
-                  Tempi</bibl>: et di questa sorte di Scale è l'ultimo disegno. </p>
+                  sagliono su <placeName ref="#Quirinal">Monte Cavallo</placeName>. Erano queste
+                  Scale doppie: onde molti hanno preso poi l'esempio, et conducevano ad un
+                     <objectName>Tempio posto in cima del Monte</objectName>, come dimostro nel
+                     <bibl>mio libro dei Tempi</bibl>: et di questa sorte di Scale è l'ultimo
+                  disegno. </p>
                <pb n="65"/>
                <figure type="planche"/>
                <pb n="66"/>
@@ -2026,7 +2032,7 @@
             </div2>
             <div2 xml:id="L1C30" type="chapitre" n="30">
                <pb n="67"/>
-               <head> DEI COPERTI. Cap. XXIX. </head>
+               <head><hi rend="capitals">DEI COPERTI</hi>. Cap. XXIX. </head>
                <p xml:id="PAL_QLA_L1_L1C30_P1">
                   <figure type="lettrine"/><hi rend="capitals">Essendosi</hi> tirati i muri alla
                   sommità loro, e fatti i volti, messe le travamenta de solari, accommodate le
@@ -2066,19 +2072,19 @@
          <pb type="blankpage"/>
          <div1 xml:id="L2" type="livre" n="2">
             <figure type="ornement"/>
-            <head> IL SECONDO LIBRO DELL'ARCHITETTURA Di <persName ref="#AndreaPalladio">Andrea
-                  Palladio</persName>. </head>
+            <head>IL SECONDO LIBRO DELL'ARCHITETTURA Di <persName ref="#AndreaPalladio">Andrea
+                  Palladio</persName>.</head>
             <head>NEL QUALE SI CONTENGONO I disegni di molte case ordinate da lui dentro, e fuori
                della Città, ET I DISEGNI DELLE case antiche dei Greci, et dei Latini . </head>
             <head> IN <placeName ref="#Venise">VENETIA</placeName>, Appresso <persName>Dominico dei
                   Franceschi</persName>. <date when="1570">1570</date>. </head>
             <pb type="blankpage"/>
             <pb n="3"/>
-            <head> IL SECONDO LIBRO DELL'ARCHITETTURA DI <persName ref="#AndreaPalladio">ANDREA
-                  PALLADIO</persName>. </head>
+            <head rend="capitals">IL SECONDO LIBRO DELL'ARCHITETTURA DI <persName
+                  ref="#AndreaPalladio">ANDREA PALLADIO</persName>. </head>
             <div2 xml:id="L2C1" type="chapitre" n="1">
-               <head>DEL DECORO, O CONVENIENZA, CHE si deve osservar nelle fabriche private. Cap.
-                  Primo. </head>
+               <head><hi rend="capitals">DEL DECORO, O CONVENIENZA, CHE</hi> si deve osservar nelle
+                  fabriche private. Cap. Primo. </head>
                <p xml:id="PAL_QLA_L2_L2C1_P1">
                   <figure type="lettrine"/><hi rend="capitals">Ho</hi> esposto nel <bibl>passato
                      libro</bibl> tutte quelle cose, che mi sono parse piu degne di consideratione
@@ -2112,7 +2118,8 @@
                   che a quello, che si devrebbe osservare. </p>
             </div2>
             <div2 xml:id="L2C2" type="chapitre" n="2">
-               <head> DEL COMPARTIMENTO DELLE stanze, et d'altri luoghi. Cap. II. </head>
+               <head><hi rend="capitals">DEL COMPARTIMENTO DELLE</hi> stanze, et d'altri luoghi.
+                  Cap. II. </head>
                <p xml:id="PAL_QLA_L2_L2C2_P1">
                   <figure type="lettrine"/><hi rend="capitals">Accioche</hi> le case siano commode
                   all'uso della famiglia, senza la qual commodità sarebbono degne di grandissimo
@@ -2163,7 +2170,7 @@
                   quali serviranno per esempio delle cose dette ancho nel passato libro. </p>
             </div2>
             <div2 xml:id="L2C3" type="chapitre" n="3">
-               <head> DEI DISEGNI DELLE CASE DELLA CITTÀ. Cap. III. </head>
+               <head><hi rend="capitals">DEI DISEGNI DELLE CASE DELLA CITTÀ</hi>. Cap. III. </head>
                <p xml:id="PAL_QLA_L2_L2C3_P1">
                   <figure type="lettrine"/><hi rend="capitals">Io</hi> mi rendo sicuro, che appresso
                   coloro, che vederanno le sotto poste fabriche, e conoscono quanto sia difficil
@@ -2246,34 +2253,33 @@
                <pb n="8"/>
                <p xml:id="PAL_QLA_L2_L2C3_P6">
                   <hi rend="capitals">I DISEGNI</hi>, che seguono; sono della <objectName
-                     ref="#PalaisPortoVicence">casa del Conte <persName ref="#IseppoDaPorto">Iseppo
-                        dei Porti</persName>
-                  </objectName>famiglia nobilissima della <placeName ref="#Vicence">detta
-                     Città</placeName>. Guarda questa casa sopra due strade publiche: e però ha due
-                  entrate, le quali hanno quattro colonne per ciascuna, che tolgono suso il volto; e
-                  rendono il luogo di sopra sicuro. Le stanze prime sono in volto. L'altezza di
-                  quelle, che sono a canto le dette entrate; è secondo l'ultimo modo dell'altezza
-                  dei volti. Le stanze seconde, cioè del secondo ordine, sono in solaro: E così le
-                  prime, come le seconde di quella parte di fabrica, che è stata fatta; sono ornate
-                  di pitture, e di stucchi bellissimi di mano dei sopradetti valenti huomini; et di
-                  Messer <persName ref="#PaoloVeronese">Paolo Veronese</persName> Pittore
-                  eccellentissimo. Il cortile circondato da portici, al quale si và da dette entrate
-                  per un andito; haverà le colonne alte trentasei piedi e mezo, cioè quanto è alto
-                  il primo, e secondo ordine. Dietro a queste colonne vi sono pilastri larghi un
-                  piede, e tre quarti; e grossi un piede, e due oncie, che sostenteranno il
-                  pavimento della loggia di sopra. Questo cortile divide tutta la casa in due parti:
-                  quella davanti servirà ad uso del padrone, e delle sue donne: e quella di dietro
-                  sarà da mettervi i forestieri: onde quei di casa, et i forestieri resteranno
-                  liberi da ogni rispetto: al che gli antichi, e massimamente i Greci hebbero
-                  grandissimo riguardo. Oltra di ciò servirà anco questa partitione in caso che i
-                  discendenti del sudetto gentil'huomo uolessero havere i suoi appartamenti
-                  separati. Ho voluto poner le scale principali sotto il portico, che rispondano a
-                  mezo del cortile: accioché quelli, che vogliono salir di sopra, siano come
-                  astretti a veder le più belle parti della fabrica; et ancho accioché essendo nel
-                  mezo possano servire all'una, e all'altra parte. Le cantine, e i luoghi simili
-                  sono sotterra. Le stalle sono fuori del quadro della casa: et hanno l'entrata per
-                  sotto la scala. Dei disegni in forma grande; il primo è di parte della facciata,
-                  et il secondo di parte del cortile.</p>
+                     ref="#PalaisPortoVicence">casa</objectName> del Conte <persName
+                     ref="#IseppoDaPorto">Iseppo dei Porti</persName> famiglia nobilissima della
+                     <placeName ref="#Vicence">detta Città</placeName>. Guarda questa casa sopra due
+                  strade publiche: e però ha due entrate, le quali hanno quattro colonne per
+                  ciascuna, che tolgono suso il volto; e rendono il luogo di sopra sicuro. Le stanze
+                  prime sono in volto. L'altezza di quelle, che sono a canto le dette entrate; è
+                  secondo l'ultimo modo dell'altezza dei volti. Le stanze seconde, cioè del secondo
+                  ordine, sono in solaro: E così le prime, come le seconde di quella parte di
+                  fabrica, che è stata fatta; sono ornate di pitture, e di stucchi bellissimi di
+                  mano dei sopradetti valenti huomini; et di Messer <persName ref="#PaoloVeronese"
+                     >Paolo Veronese</persName> Pittore eccellentissimo. Il cortile circondato da
+                  portici, al quale si và da dette entrate per un andito; haverà le colonne alte
+                  trentasei piedi e mezo, cioè quanto è alto il primo, e secondo ordine. Dietro a
+                  queste colonne vi sono pilastri larghi un piede, e tre quarti; e grossi un piede,
+                  e due oncie, che sostenteranno il pavimento della loggia di sopra. Questo cortile
+                  divide tutta la casa in due parti: quella davanti servirà ad uso del padrone, e
+                  delle sue donne: e quella di dietro sarà da mettervi i forestieri: onde quei di
+                  casa, et i forestieri resteranno liberi da ogni rispetto: al che gli antichi, e
+                  massimamente i Greci hebbero grandissimo riguardo. Oltra di ciò servirà anco
+                  questa partitione in caso che i discendenti del sudetto gentil'huomo uolessero
+                  havere i suoi appartamenti separati. Ho voluto poner le scale principali sotto il
+                  portico, che rispondano a mezo del cortile: accioché quelli, che vogliono salir di
+                  sopra, siano come astretti a veder le più belle parti della fabrica; et ancho
+                  accioché essendo nel mezo possano servire all'una, e all'altra parte. Le cantine,
+                  e i luoghi simili sono sotterra. Le stalle sono fuori del quadro della casa: et
+                  hanno l'entrata per sotto la scala. Dei disegni in forma grande; il primo è di
+                  parte della facciata, et il secondo di parte del cortile.</p>
                <figure type="plan"/>
                <figure type="coupe"/>
                <pb n="9"/>
@@ -2301,9 +2307,9 @@
                <p xml:id="PAL_QLA_L2_L2C3_P8">
                   <hi rend="capitals">I DISEGNI</hi> che seguono sono di una <objectName
                      ref="#PalaisThieneVicence">fabrica</objectName> in <placeName ref="#Vicence"
-                     >Vicenza</placeName> del Conte <persName>Ottavio de <placeName ref="#Thiene"
-                        >Thieni</placeName></persName>, fu del Conte
-                     <persName>Marcantonio</persName>: il quale le diede principio. É questa casa
+                     >Vicenza</placeName> del Conte <persName>Ottavio</persName> de <placeName
+                     ref="#Thiene">Thieni</placeName>, fu del Conte
+                  <persName>Marcantonio</persName>: il quale le diede principio. É questa casa
                   situata nel mezo della Città, vicino alla piazza, e però mi è parso nella parte
                   che è verso detta Piazza disponervi alcune botteghe: perciò che deve l'Architetto
                   avertire ancho all'utile del fabricatore, potendosi fare commodamente, dove resta
@@ -2362,7 +2368,7 @@
                <p xml:id="PAL_QLA_L2_L2C3_P12"><hi rend="capitals">FRA MOLTI</hi> honorati
                   Gentil'huomini Vicentini si ritrova Monsignor <persName ref="#PaoloAlmerico">Paolo
                      Almerico</persName> huomo di Chiesa, e che fu referendario di due Sommi
-                  Pontefici <persName ref="#PieIV">Pio IIII</persName>, et <persName ref="#PieV"
+                  Pontefici <persName ref="#PieIV">Pio IV</persName>, et <persName ref="#PieV"
                      >V</persName>, et che per il suo valore meritò di esser fatto Cittadino Romano
                   con tutta casa sua. Quelto Gentil huomo dopo l'haver vagato molti anni per
                   desiderio di honore finalmente morti tutti i suoi, venne a repatriare, e per suo
@@ -2440,7 +2446,7 @@
             </div2>
             <div2 xml:id="L2C4" type="chapitre" n="4">
                <pb n="24"/>
-               <head> DELL'ATRIO TOSCANO. Cap. IIII. </head>
+               <head><hi rend="capitals">DELL'ATRIO TOSCANO</hi>. Cap. IIII. </head>
                <p xml:id="PAL_QLA_L2_L2C4_P1"><figure type="lettrine"/><hi rend="capitals">Da
                      poi</hi> che ho poste alcune di quelle fabriche, che io ho ordinate nelle
                   Città, è molto convenevole che per servare quanto ho promesso, ponga i disegni di
@@ -2481,7 +2487,7 @@
             </div2>
             <div2 xml:id="L2C5" type="chapitre" n="5">
                <pb n="27"/>
-               <head>DELL'ATRIO DI QUATTRO COLONNE. Cap. V. </head>
+               <head><hi rend="capitals">DELL'ATRIO DI QUATTRO COLONNE</hi>. Cap. V. </head>
                <p xml:id="PAL_QLA_L2_L2C5_P1"><figure type="lettrine"/><hi rend="capitals">Il
                      disegno</hi> che segue, ha l'Atrio di quattro colonne: il quale è largo delle
                   cinque parti della lunghezza le tre. Le ale sono per la quarta parte della
@@ -2511,7 +2517,7 @@
             </div2>
             <div2 xml:id="L2C6" type="chapitre" n="6">
                <pb n="29"/>
-               <head>DELL'ATRIO CORINTHIO. Cap. VI.</head>
+               <head><hi rend="capitals">DELL'ATRIO CORINTHIO</hi>. Cap. VI.</head>
                <p xml:id="PAL_QLA_L2_L2C6_P1"><figure type="lettrine"/><hi rend="capitals">La
                      seguente</hi> fabrica è del <objectName ref="#SantaMariaDellaCaritaVenise"
                      >Convento della Carità</objectName>: dove sono Canonici Regolari in <placeName
@@ -2556,7 +2562,8 @@
             </div2>
             <div2 xml:id="L2C7" type="chapitre" n="7">
                <pb n="33"/>
-               <head>DELL'ATRIO TESTUGGINATO, E DELLA CASA PRIVATA degli Antichi Romani. Cap. VII. </head>
+               <head><hi rend="capitals">DELL'ATRIO TESTUGGINATO, E DELLA CASA PRIVATA</hi> degli
+                  Antichi Romani. Cap. VII. </head>
                <p xml:id="PAL_QLA_L2_L2C7_P1"><figure type="lettrine"/><hi rend="capitals"
                      >Oltra</hi> le sopradette maniere d'Atri un'altra appresso gli Antichi fu molto
                   in uso, e da loro detta testugginata: e perché questa parte è difficilissima per
@@ -2627,7 +2634,7 @@
             </div2>
             <div2 xml:id="L2C8" type="chapitre" n="8">
                <pb n="36"/>
-               <head>DELLE SALE DI QUATTRO COLONNE. Cap. VIII.</head>
+               <head><hi rend="capitals">DELLE SALE DI QUATTRO COLONNE</hi>. Cap. VIII.</head>
                <p xml:id="PAL_QLA_L2_L2C8_P1"><figure type="lettrine"/><hi rend="capitals">Il
                      seguente</hi> disegno è delle Sale, che si dicevano Tetrastili, perciò che
                   havevano quattro colonne. Queste si facevano quadre, e vi si facevano le colonne
@@ -2640,7 +2647,7 @@
             </div2>
             <div2 xml:id="L2C9" type="chapitre" n="9">
                <pb n="38"/>
-               <head>DELLE SALE CORINTHIE. Cap. IX.</head>
+               <head><hi rend="capitals">DELLE SALE CORINTHIE</hi>. Cap. IX.</head>
                <p xml:id="PAL_QLA_L2_L2C9_P1"><figure type="lettrine"/><hi rend="capitals">Le
                      sale</hi> Corinthie si facevano in due modi, cioè o con le colonne che
                   nascevano da terra, come si vede nel disegno primo, overo con le colonne sopra i
@@ -2660,7 +2667,7 @@
             </div2>
             <div2 xml:id="L2C10" type="chapitre" n="10">
                <pb n="41"/>
-               <head>DELLE SALE EGITTIE. Cap. X.</head>
+               <head><hi rend="capitals">DELLE SALE EGITTIE</hi>. Cap. X.</head>
                <p xml:id="PAL_QLA_L2_L2C10_P1"><figure type="lettrine"/><hi rend="capitals">Il
                      disegno</hi> che segue è delle Sale Egittie: le quali erano molto simili alle
                   Basiliche, cioè luoghi, ove si rendeva ragione, delle quali si dirà, quando si
@@ -2681,7 +2688,7 @@
             </div2>
             <div2 xml:id="L2C11" type="chapitre" n="11">
                <pb n="43"/>
-               <head>DELLE CASE PRIVATE DEI GRECI. Cap. XI.</head>
+               <head><hi rend="capitals">DELLE CASE PRIVATE DEI GRECI</hi>. Cap. XI.</head>
                <p xml:id="PAL_QLA_L2_L2C11_P1"><figure type="lettrine"/><hi rend="capitals">I
                      greci</hi> tennero diverso modo di fabricare dai Latini: perciò che (come dice
                      <persName ref="#Vitruve">Vitruvio</persName>) lasciate le Loggie, e gli Atri
@@ -2742,7 +2749,8 @@
             </div2>
             <div2 xml:id="L2C12" type="chapitre" n="12">
                <pb n="45"/>
-               <head>DEL SITO DA ELEGGERSI PER LE FABRICHE di Villa. Cap. XII. </head>
+               <head><hi rend="capitals">DEL SITO DA ELEGGERSI PER LE FABRICHE</hi> di Villa. Cap.
+                  XII. </head>
                <p xml:id="PAL_QLA_L2_L2C12_P1"><figure type="lettrine"/><hi rend="capitals">Le
                      case</hi> della Città sono veramente al Gentil'huomo di molto splendore, e
                   commodità, havendo in esse ad habitare tutto quel tempo che li bisognerà per la
@@ -2824,7 +2832,8 @@
                   certa casa grande, e per lo contrario la casa una città picciola.</p>
             </div2>
             <div2 xml:id="L2C13" type="chapitre" n="13">
-               <head> DEL COMPARTIMENTO DELLE CASE di Villa. Cap. XIII.</head>
+               <head><hi rend="capitals">DEL COMPARTIMENTO DELLE CASE</hi> di Villa. Cap.
+                  XIII.</head>
                <p xml:id="PAL_QLA_L2_L2C13_P1"><figure type="lettrine"/><hi rend="capitals"
                      >Ritrovato</hi> il sito lieto, ameno, commodo, e sano si attenderà
                   all'elegante, e commoda compartition sua. Due sorti di fabriche si richiedono
@@ -2878,7 +2887,8 @@
             </div2>
             <div2 xml:id="L2C14" type="chapitre" n="14">
                <pb n="47"/>
-               <head>DEI DISEGNI DELLE CASE DI VILLA DI ALCUNI nobili Venetiani. Cap. XIIII.</head>
+               <head><hi rend="capitals">DEI DISEGNI DELLE CASE DI VILLA DI ALCUNI</hi> nobili
+                  Venetiani. Cap. XIIII.</head>
                <p xml:id="PAL_QLA_L2_L2C14_P1"><figure type="lettrine"/><hi rend="capitals">La
                         <objectName ref="#VillaPisaniBagnolo">fabrica</objectName></hi>, che segue è
                   in <placeName ref="#Bagnolo">Bagnolo</placeName> luogo due miglia lontano da
@@ -2930,15 +2940,16 @@
                <p xml:id="PAL_QLA_L2_L2C14_P3">
                   <hi rend="capitals">IL MAGNIFICO</hi> Signor <persName>Marco Zeno</persName> ha
                   fabricato secondo la inventione, che segue in <placeName ref="#Cessalto"
-                     >Cesalto</placeName> luogo propinquo alla <placeName>Motta, Castello del
-                     Trivigiano</placeName>. Sopra un basamento, il quale circonda tutta la fabrica,
-                  è il pavimento delle stanze: le quali tutte sono fatte in volto: l'altezza dei
-                  volti delle maggiori è secondo il modo secondo delle altezze dei volti. Le quadre
-                  hanno le lunette negli angoli, al diritto delle finestre: i camerini appresso la
-                  loggia, hanno i volti a fascia, e così ancho la sala: il volto della loggia è alto
-                  quanto quello della sala, e superano tutti due l'altezza delle stanze. Ha questa
-                  fabrica Giardini, Cortile, Colombara, e tutto quello, che fa bisogno all'uso di
-                     <objectName ref="#VillaZenoCessalto">Villa</objectName>. </p>
+                     >Cesalto</placeName> luogo propinquo alla <placeName ref="#MottaDiLivenza"
+                     >Motta</placeName>, Castello del Trivigiano. Sopra un basamento, il quale
+                  circonda tutta la fabrica, è il pavimento delle stanze: le quali tutte sono fatte
+                  in volto: l'altezza dei volti delle maggiori è secondo il modo secondo delle
+                  altezze dei volti. Le quadre hanno le lunette negli angoli, al diritto delle
+                  finestre: i camerini appresso la loggia, hanno i volti a fascia, e così ancho la
+                  sala: il volto della loggia è alto quanto quello della sala, e superano tutti due
+                  l'altezza delle stanze. Ha questa fabrica Giardini, Cortile, Colombara, e tutto
+                  quello, che fa bisogno all'uso di <objectName ref="#VillaZenoCessalto"
+                     >Villa</objectName>. </p>
                <figure type="plan"/>
                <figure type="élévation"/>
                <pb n="50"/>
@@ -3063,8 +3074,8 @@
                <figure type="élévation"/>
             </div2>
             <div2 xml:id="L2C15" type="chapitre" n="15">
-               <head>DEI DISEGNI DELLE CASE DI VILLA DI ALCUNI Gentil'huomini di Terra Ferma. Cap.
-                  XV. </head>
+               <head><hi rend="capitals">DEI DISEGNI DELLE CASE DI VILLA DI ALCUNI</hi>
+                  Gentil'huomini di Terra Ferma. Cap. XV. </head>
                <p xml:id="PAL_QLA_L2_L2C15_P1"><figure type="lettrine"/><hi rend="capitals">Ad
                      un</hi> luogo del Vicentino detto il <hi rend="capitals"><placeName
                         ref="#Finale">FINALE</placeName></hi>, è la seguente <objectName
@@ -3294,7 +3305,7 @@
             </div2>
             <div2 xml:id="L2C16" type="chapitre" n="16">
                <pb n="69"/>
-               <head> DELLA CASA DI VILLA DEGLI ANTICHI. Cap. XVI. </head>
+               <head><hi rend="capitals">DELLA CASA DI VILLA DEGLI ANTICHI</hi>. Cap. XVI. </head>
                <p xml:id="PAL_QLA_L2_L2C16_P1"><figure type="lettrine"/><hi rend="capitals">Ho fin
                      qui</hi> posto i disegni di molte fabriche di Villa da me ordinate: resta che
                   io ponga ancho il disegno della casa di Villa che, secondo quello che ne dice
@@ -3340,7 +3351,7 @@
             </div2>
             <div2 xml:id="L2C17" type="chapitre" n="17">
                <pb n="71"/>
-               <head>DI ALCUNE INVENTIONI SECONDO DIVERSI SITI. Cap. XVII. </head>
+               <head><hi rend="capitals">DI ALCUNE INVENTIONI SECONDO DIVERSI SITI</hi>. Cap. XVII. </head>
                <p xml:id="PAL_QLA_L2_L2C17_P1"><figure type="lettrine"/><hi rend="capitals">Mia
                      intentione</hi> era parlar solo di quelle fabriche, le quali overo fossero
                   compiute, overo cominciate e ridotte a termine che presto se ne potesse sperare il
@@ -3425,7 +3436,7 @@
                <pb n="75"/>
                <p xml:id="PAL_QLA_L2_L2C17_P4"><hi rend="capitals">LA
                         <objectName>INVENTIONE</objectName></hi> qui posta fu fatta al Conte
-                     <persName>Giacomo Angarano </persName>per un suo sito pur nella detta Città. Le
+                     <persName>Giacomo Angarano</persName> per un suo sito pur nella detta Città. Le
                   colonne della facciata sono di ordine Composito. Le stanze a canto l'entrata sono
                   lunghe un quadro, e due terzi: appresso vi è un camerino, e sopra quello un
                   mezato. Si passa poi in una corte circondata da portici: le colonne sono lunghe
@@ -3515,16 +3526,19 @@
             </div2>
          </div1>
          <div1 xml:id="L3" type="livre" n="3">
-            <head>IL TERZO LIBRO DELL'ARCHITETTURA Di <persName ref="#AndreaPalladio">Andrea
-                  Palladio</persName>. NEL QUALE SI TRATTA delle Vie, dei Ponti, delle Piazze, delle
-               Basiliche, e dei Xisti. IN VENETIA, Appresso Dominico dei Franceschi. <date
+            <figure type="frontispice"/>
+            <head><hi rend="capitals">IL TERZO LIBRO DELL'ARCHITETTURA</hi> Di <persName
+                  ref="#AndreaPalladio">Andrea Palladio</persName>. NEL QUALE SI TRATTA delle Vie,
+               dei Ponti, delle Piazze, delle Basiliche, e dei Xisti. IN <placeName ref="#Venise"
+                  >VENETIA</placeName>, Appresso <persName>Dominico dei Franceschi</persName>. <date
                   when="1570">1570</date>. </head>
             <pb type="blankpage"/>
             <div2 xml:id="L3C1" type="chapitre" n="1">
                <pb n="3"/>
-               <head>AL SERENISSIMO E MAGNANIMO PRINCIPE <persName ref="#EmmanuelPhilibertDeSavoie"
-                     >EMANUEL FILIBERTO</persName> DUCA DI SAVOIA, ETC. <persName
-                     ref="#AndreaPalladio">ANDREA PALLADIO</persName>. </head>
+               <head rend="capitals">AL SERENISSIMO E MAGNANIMO PRINCIPE <persName
+                     ref="#EmmanuelPhilibertDeSavoie">EMANUEL FILIBERTO</persName> DUCA DI SAVOIA,
+                  ETC. <hi rend="it"><persName ref="#AndreaPalladio">ANDREA
+                  PALLADIO</persName></hi>. </head>
                <p xml:id="PAL_QLA_L3_L3C1_P1"><figure type="lettrine"/><hi rend="capitals"
                      >Dovendo</hi> Io, <persName ref="#EmmanuelPhilibertDeSavoie">Serenissimo
                      Principe</persName>, mandare in luce una parte della mia Architettura, nella
@@ -3803,73 +3817,74 @@
                   (come ho detto di sopra) asciugando i luoghi paludosi, abbassando i monti,
                   pareggiando le valli et facendo i ponti dove bisognava ridusse l'andar per essa
                   spedito et piacevolissimo. È anco celebratissima la <objectName ref="#ViaAurelia"
-                     >via Aurelia</objectName>, chiamata così da <persName>Aurelio</persName>
-                  Cittadino Romano che la fece, haveva il suo principio dalla <objectName
-                     ref="#PortaSanPancrazioRome">porta Aurelia</objectName> hoggi detta di San
-                  Pangratio, e distendendosi per i luoghi maritimi di <placeName ref="#Toscane"
-                     >Toscana</placeName> conduceva fino a <placeName ref="#Pise">Pisa</placeName>.
-                  Furono di non minor nome la <objectName ref="#ViaNomentana">via
-                     Numentana</objectName>, la <objectName ref="#ViaPraenestina"
-                     >Prenestina</objectName>, e la <objectName ref="#ViaLabicana"
-                     >Libicana</objectName>; la <objectName ref="#ViaNomentana">prima</objectName>
-                  cominciava dalla <objectName ref="#PorteViminaleRome">porta Viminale</objectName>,
-                  hoggi detta di Santa Agnesa, e si distendeva sino alla Città di <placeName
-                     ref="#Nomentum">Numento</placeName>; la <objectName ref="#ViaPraenestina"
-                     >seconda</objectName> haveva principio dalla <objectName
+                     >via Aurelia</objectName>, chiamata così da <persName cert="low"
+                     xml:id="PbCaiusAureliusCotta">Aurelio</persName> Cittadino Romano che la fece,
+                  haveva il suo principio dalla <objectName ref="#PortaSanPancrazioRome">porta
+                     Aurelia</objectName> hoggi detta di San Pangratio, e distendendosi per i luoghi
+                  maritimi di <placeName ref="#Toscane">Toscana</placeName> conduceva fino a
+                     <placeName ref="#Pise">Pisa</placeName>. Furono di non minor nome la
+                     <objectName ref="#ViaNomentana">via Numentana</objectName>, la <objectName
+                     ref="#ViaPraenestina">Prenestina</objectName>, e la <objectName
+                     ref="#ViaLabicana">Libicana</objectName>; la <objectName ref="#ViaNomentana"
+                     >prima</objectName> cominciava dalla <objectName ref="#PorteViminaleRome">porta
+                     Viminale</objectName>, hoggi detta di Santa Agnesa, e si distendeva sino alla
+                  Città di <placeName ref="#Nomentum">Numento</placeName>; la <objectName
+                     ref="#ViaPraenestina">seconda</objectName> haveva principio dalla <objectName
                      ref="#PortaEsquilinaRome">porta Esquilina</objectName>, che hora si dice di San
-                  Lorenzo; e la <objectName ref="#ViaLabicana">terza</objectName> dalla
-                     <objectName>porta Nevia</objectName>, cioè da porta Maggiore, e conducevano
-                  queste due vie alla città di <placeName ref="#Preneste">Preneste</placeName>,
-                  hoggi detta Pellestrino, et alla Famosa città di <placeName ref="#Labicum"
-                     >Labicana</placeName>. Vi furono ancora molte altre vie nominate et celebrate
-                  dalli scrittori, cioè la Salara, la Collatina, la Latina et altre, le quali tutte
-                  o da coloro, che le ordinarono, o dalla porta, dalla quale havevano principio, o
-                  dal luogo dove conducevano, presero il nome. Ma tra tutte doveva esser di somma
-                  bellezza, et commodità la <objectName ref="#ViaPortuense">via
-                     Portuense</objectName>, la qual da <placeName ref="#Rome">Roma</placeName>
-                  conduceva a <placeName ref="#OstieAntique">Hostia</placeName>; perciò che (come
-                  dice l'<persName ref="#LeonBattistaAlberti">Alberti</persName> di haver osservato)
-                  era divisa in due strade, tra l'una e l'altra delle quali era un corso di pietre
-                  un piede più alto del rimanente, e serviva per divisione: per una di queste vie si
-                  andava, e per l'altra si <reg>tornava</reg>, schifando l'offesa dell'intrarsi:
-                  inventione molto comoda al grandissimo concorso di persone che a quei tempi era a
-                     <placeName ref="#Rome">Roma</placeName> da tutto il Mondo. Fecero gli antichi
-                  queste lor vie militari in due modi, cioè o lastrigandole di pietre, overo
-                  coprendole tutte di ghiara e di sabbia. Le vie della prima maniera (per quanto da
-                  alcuni vestigi si è potuto conietturare) erano divise in tre spaci: per quel di
-                  mezo, il quale era più alto degli altri due, et il quale era alquanto colmo nel
-                  mezo, acciò le acque potessero scorrere et non vi si affermassero, andavano i
-                  pedoni, et era salicato di pietre incerte, cioè di lati e di angoli diseguali: nel
-                  qual modo di salicare, come è stato detto altrove, usavano una squadra di piombo,
-                  la quale aprivano e serravano, come andavano i lati et gli angoli delle pietre,
-                  onde le commettevano benissimo insieme, et ciò facevano con prestezza: gli altri
-                  due spaci, che erano dalle bande, si facevano alquanto più bassi e si coprivano di
-                  sabbia, et di ghiara minuta, e per quelli andavano i cavalli. Era ciascuno di
-                  questi margini largho per la metà della larghezza del spacio di mezo, dal quale
-                  erano divisi con laste di pietra poste in coltello; et ogni tanto spacio ne erano
-                  poste alcune pietre in piedi più alte del rimanente della strada sopra le quali
-                  salivano, quando volevano montare a cavallo, con ciò sia che gli antichi non
-                  usassero staffe. Oltra di queste pietre poste per l'uso detto, vi erano altre
-                  pietre molto più alte nelle quali si truovava scritto di mano in mano le miglia di
-                  tutto il viaggio, e furono da <persName ref="#CaiusGracchus">Gneo Graco</persName>
-                  misurate queste vie e conficate le dette pietre. Le vie militari della seconda
-                  maniera, cioè fatte di sabbia e di ghiara, facevano gli antichi alquanto colme nel
-                  mezo, per la qual cosa, non potendovi restar l'acqua et essendo elle di materia
-                  atta ad asciugarsi presto, erano d'ogni tempo polite, cioè senza fango e senza
-                  polvere. Di questa sorte se ne vede una nel <placeName ref="#Frioul"
-                     >Friuli</placeName>, la quale è detta dagli habitatori di quei luoghi la
-                  Posthuma, e conduce in <placeName ref="#Hongrie">Ongheria</placeName>: et un'altra
-                  ve n'è su quel di <placeName ref="#Padoue">Padova</placeName>, la quale
-                  cominciando dalla detta Città, nel luogo, che si dice l'Argere, passa per mezo
-                     <placeName ref="#PojanaMaggiore">Cigogna</placeName> Villa del Conte
-                     <persName>Odoardo</persName>, e del Conte <persName>Theodoro</persName>
-                  fratelli de Thieni, e conduce all'Alpi, che dividono L'<placeName ref="#Italie"
-                     >Italia</placeName> dalla <placeName ref="#Allemagne">Germania</placeName>.
-                  Della prima maniera di vie è il disegno che segue, dal quale si può conoscer come
-                  doveva esser fatta la <objectName ref="#ViaOstiense">via Hostiense</objectName>.
-                  Della seconda maniera non mi è parso necessario il farne disegno alcuno, perché è
-                  cosa facilissima, né vi è bisogno di alcuna industria purché si facciano colme nel
-                  mezo, onde l'acqua non vi si possa affermare.</p>
+                  Lorenzo; e la <objectName ref="#ViaLabicana">terza</objectName> dalla <objectName
+                     ref="#PorteNaeviaRome">porta Nevia</objectName>, cioè da porta Maggiore, e
+                  conducevano queste due vie alla città di <placeName ref="#Preneste"
+                     >Preneste</placeName>, hoggi detta Pellestrino, et alla Famosa città di
+                     <placeName ref="#Labicum">Labicana</placeName>. Vi furono ancora molte altre
+                  vie nominate et celebrate dalli scrittori, cioè la Salara, la Collatina, la Latina
+                  et altre, le quali tutte o da coloro, che le ordinarono, o dalla porta, dalla
+                  quale havevano principio, o dal luogo dove conducevano, presero il nome. Ma tra
+                  tutte doveva esser di somma bellezza, et commodità la <objectName
+                     ref="#ViaPortuense">via Portuense</objectName>, la qual da <placeName
+                     ref="#Rome">Roma</placeName> conduceva a <placeName ref="#OstieAntique"
+                     >Hostia</placeName>; perciò che (come dice l'<persName
+                     ref="#LeonBattistaAlberti">Alberti</persName> di haver osservato) era divisa in
+                  due strade, tra l'una e l'altra delle quali era un corso di pietre un piede più
+                  alto del rimanente, e serviva per divisione: per una di queste vie si andava, e
+                  per l'altra si <reg>tornava</reg>, schifando l'offesa dell'intrarsi: inventione
+                  molto comoda al grandissimo concorso di persone che a quei tempi era a <placeName
+                     ref="#Rome">Roma</placeName> da tutto il Mondo. Fecero gli antichi queste lor
+                  vie militari in due modi, cioè o lastrigandole di pietre, overo coprendole tutte
+                  di ghiara e di sabbia. Le vie della prima maniera (per quanto da alcuni vestigi si
+                  è potuto conietturare) erano divise in tre spaci: per quel di mezo, il quale era
+                  più alto degli altri due, et il quale era alquanto colmo nel mezo, acciò le acque
+                  potessero scorrere et non vi si affermassero, andavano i pedoni, et era salicato
+                  di pietre incerte, cioè di lati e di angoli diseguali: nel qual modo di salicare,
+                  come è stato detto altrove, usavano una squadra di piombo, la quale aprivano e
+                  serravano, come andavano i lati et gli angoli delle pietre, onde le commettevano
+                  benissimo insieme, et ciò facevano con prestezza: gli altri due spaci, che erano
+                  dalle bande, si facevano alquanto più bassi e si coprivano di sabbia, et di ghiara
+                  minuta, e per quelli andavano i cavalli. Era ciascuno di questi margini largho per
+                  la metà della larghezza del spacio di mezo, dal quale erano divisi con laste di
+                  pietra poste in coltello; et ogni tanto spacio ne erano poste alcune pietre in
+                  piedi più alte del rimanente della strada sopra le quali salivano, quando volevano
+                  montare a cavallo, con ciò sia che gli antichi non usassero staffe. Oltra di
+                  queste pietre poste per l'uso detto, vi erano altre pietre molto più alte nelle
+                  quali si truovava scritto di mano in mano le miglia di tutto il viaggio, e furono
+                  da <persName ref="#CaiusGracchus">Gneo Graco</persName> misurate queste vie e
+                  conficate le dette pietre. Le vie militari della seconda maniera, cioè fatte di
+                  sabbia e di ghiara, facevano gli antichi alquanto colme nel mezo, per la qual
+                  cosa, non potendovi restar l'acqua et essendo elle di materia atta ad asciugarsi
+                  presto, erano d'ogni tempo polite, cioè senza fango e senza polvere. Di questa
+                  sorte se ne vede una nel <placeName ref="#Frioul">Friuli</placeName>, la quale è
+                  detta dagli habitatori di quei luoghi la Posthuma, e conduce in <placeName
+                     ref="#Hongrie">Ongheria</placeName>: et un'altra ve n'è su quel di <placeName
+                     ref="#Padoue">Padova</placeName>, la quale cominciando dalla detta Città, nel
+                  luogo, che si dice l'Argere, passa per mezo <placeName ref="#PojanaMaggiore"
+                     >Cigogna</placeName> Villa del Conte <persName>Odoardo</persName>, e del Conte
+                     <persName>Theodoro</persName> fratelli de Thieni, e conduce all'Alpi, che
+                  dividono L'<placeName ref="#Italie">Italia</placeName> dalla <placeName
+                     ref="#Allemagne">Germania</placeName>. Della prima maniera di vie è il disegno
+                  che segue, dal quale si può conoscer come doveva esser fatta la <objectName
+                     ref="#ViaOstiense">via Hostiense</objectName>. Della seconda maniera non mi è
+                  parso necessario il farne disegno alcuno, perché è cosa facilissima, né vi è
+                  bisogno di alcuna industria purché si facciano colme nel mezo, onde l'acqua non vi
+                  si possa affermare.</p>
                <p><list rend="numbered">
                      <item>A, È il spacio di mezo per dove andavano i pedoni. </item>
                      <item>B, Sono le pietre, che seruivano a salire a cavallo. </item>
@@ -4382,19 +4397,22 @@
                      ref="#EgliseSantoSpiritoInSassiaRome">Chiesa di Santo Spirito</objectName>. Il
                      <objectName ref="#PonteSistoRome">Ianiculense</objectName>, così chiamato per
                   esser vicino al Monte Ianiculo, il quale, perché è stato ristaurato da <persName
-                     ref="#SixteIV">Papa Sisto IIII</persName>, hora si dimanda Ponte Sisto. Et il
-                     <objectName ref="#PonteMilvioRome">Milvio</objectName> hoggi detto Ponte Molle,
-                  posto nella <objectName ref="#ViaFlaminia">via Flaminia</objectName> lontano da
-                     <placeName ref="#Rome">Roma</placeName> poco meno di due miglia, il quale non
-                  ritiene altro di antico che li fondamenti e dicono che fu edificato al tempo di
-                     <persName ref="#Sylla">Silla</persName> da <persName
-                     ref="#MarcusAemiliusScaurus">Marco Scauro Censore</persName>. Si vedono anco le
-                  ruine di un <objectName ref="#PonteAugusteNarni">ponte</objectName> edificato da
-                     <persName ref="#Auguste">Augusto Cesare</persName> di opera rustica sopra la
-                  Nera, fiume velocissimo appresso <placeName ref="#Narni">Narni</placeName>. E
-                  sopra il Metauro nell'<placeName ref="#Ombrie">Umbria</placeName> a <placeName
-                     ref="#Cagli">Calgi</placeName> se ne vede <objectName ref="#PonteMallioCagli"
-                     >un altro</objectName> di opera rustica similmente con alcuni contraforti nelle
+                     ref="#SixteIV">Papa Sisto <choice>
+                        <sic>IIII</sic>
+                        <corr>IV</corr>
+                     </choice></persName>, hora si dimanda Ponte Sisto. Et il <objectName
+                     ref="#PonteMilvioRome">Milvio</objectName> hoggi detto Ponte Molle, posto nella
+                     <objectName ref="#ViaFlaminia">via Flaminia</objectName> lontano da <placeName
+                     ref="#Rome">Roma</placeName> poco meno di due miglia, il quale non ritiene
+                  altro di antico che li fondamenti e dicono che fu edificato al tempo di <persName
+                     ref="#Sylla">Silla</persName> da <persName ref="#MarcusAemiliusScaurus">Marco
+                     Scauro Censore</persName>. Si vedono anco le ruine di un <objectName
+                     ref="#PonteAugusteNarni">ponte</objectName> edificato da <persName
+                     ref="#Auguste">Augusto Cesare</persName> di opera rustica sopra la Nera, fiume
+                  velocissimo appresso <placeName ref="#Narni">Narni</placeName>. E sopra il Metauro
+                     nell'<placeName ref="#Ombrie">Umbria</placeName> a <placeName ref="#Cagli"
+                     >Calgi</placeName> se ne vede <objectName ref="#PonteMallioCagli">un
+                     altro</objectName> di opera rustica similmente con alcuni contraforti nelle
                   ripe, che sostentano la strada e lo fanno fortissimo. Ma tra tutti i ponti
                   celebri, per cosa maravigliosa è ricordato <objectName>quello</objectName> che
                   fece far <persName ref="#Caligula">Caligola da Pozzolo</persName> a <placeName
@@ -4687,11 +4705,11 @@
                   a <persName ref="#Mercure">Mercurio</persName> et a <persName ref="#Isis"
                      >Iside</persName>, come a Dei presidenti ai negoti et alle mercantie; et in
                      <placeName ref="#Pula">Pola</placeName> Città dell'<placeName ref="#Istrie"
-                     >Istria</placeName> se ne veggono due sopra la <objectName>piazza</objectName>,
-                  l'uno simile all'altro di forma, di grandezza et di ornamenti. Io gli ho figurati
-                  nel disegno di queste piazze a canto la Basilica: le piante e gli alzati dei quali
-                  con tutti i lor membri particolari più distintamente si vederanno nel mio
-                     <bibl>Libro dei Tempi</bibl>.</p>
+                     >Istria</placeName> se ne veggono due sopra la piazza, l'uno simile all'altro
+                  di forma, di grandezza et di ornamenti. Io gli ho figurati nel disegno di queste
+                  piazze a canto la Basilica: le piante e gli alzati dei quali con tutti i lor
+                  membri particolari più distintamente si vederanno nel mio <bibl>Libro dei
+                     Tempi</bibl>.</p>
                <p><list rend="numbered">
                      <item>A, Piazza.</item>
                      <item>B, Portichi doppi.</item>
@@ -4718,7 +4736,7 @@
             </div2>
             <div2 xml:id="L3C20" type="chapitre" n="20">
                <pb n="35"/>
-               <head>DELLE PIAZZE DE'LATINI. Cap. XVIII.</head>
+               <head><hi rend="capitals">DELLE PIAZZE DEI LATINI</hi>. Cap. XVIII.</head>
                <p xml:id="PAL_QLA_L3_L3C20_P1"><figure type="lettrine"/><hi rend="capitals">I
                      romani</hi> et gli Italiani (come dice <persName ref="#Vitruve"
                      >Vitruvio</persName> al <bibl>luogo sopradetto</bibl>), partendosi dall'uso dei
@@ -4994,6 +5012,7 @@
          <pb type="blankpage"/>
          <div1 xml:id="L4" type="livre" n="4">
             <pb n="1"/>
+            <figure type="frontispice"/>
             <head>IL QUARTO LIBRO DELL'ARCHITETTURA Di <persName ref="#AndreaPalladio">Andrea
                   Palladio</persName>. </head>
             <head>NEL QUAL SI DESCRIVONO, e si figurano i Tempi Antichi, che sono in <placeName
@@ -5004,8 +5023,9 @@
             <div2 xml:id="L4C1" type="chapitre" n="1">
                <pb type="blankpage"/>
                <pb n="3"/>
-               <head><hi rend="capitals">IL QUARTO LIBRO DELL'ARCHITETTURA DI ANDREA PALLADIO</hi>.
-                  Proemio ai Lettori.</head>
+               <head><hi rend="capitals">IL QUARTO LIBRO DELL'ARCHITETTURA DI <persName
+                        ref="#AndreaPalladio">ANDREA PALLADIO</persName></hi>. Proemio ai
+                  Lettori.</head>
                <p xml:id="PAL_QLA_L4_L4C1_P1"><figure type="lettrine"/><hi rend="capitals">Se in
                   </hi>fabrica alcuna è da esser posta opera et industria, accioché ella con bella
                   misura e proportione sia compartita, ciò senza alcun dubbio si deve fare nei
@@ -5710,8 +5730,10 @@
                   statue. <hi rend="capitals">M</hi>, Gli ornamenti delle porte quadre che erano
                   nella facciata della piazza rincontro al portico del Tempio. </p>
                <pb n="24"/>
-               <figure type="élévation"/>
-               <figure type="plan"/>
+               <figure type="planche">
+                  <figure type="élévation"/>
+                  <figure type="plan"/>
+               </figure>
                <pb n="25"/>
                <figure type="coupe"/>
                <figure type="plan"/>
@@ -6109,22 +6131,23 @@
                <p xml:id="PAL_QLA_L4_L4C16_P1"><figure type="lettrine"/><hi rend="capitals"
                      >Alla</hi>
                   <objectName>piazza</objectName> detta volgarmente dei Preti, la quale si trova
-                  andando dalla Ritonda alla <objectName ref="#ColonneAntonineRome">colonna di
-                     Antonino</objectName>, si veggono le reliquie del seguente
-                     <objectName>tempio</objectName>; il quale secondo alcuni fu edificato da
-                     <persName ref="#AntoninLePieux">Antonino Imperatore</persName>, et dedicato al
-                  Dio <persName ref="#Mars">Marte</persName>. Il suo aspetto è lo alato a torno. La
-                  maniera è di spesse colonne. Gli intercolunni sono un diametro e mezo. I portici
-                  intorno sono tanto più larghi di uno intercolunnio quanto di più sporgono fuora le
-                  risalite delle anti del rimanente dei muri. Le colonne sono di ordine Corinthio.
-                  La basa è Attica, et ha un bastoncino sotto la cimbia della colonna; la cimbia o
-                  listello è sottile molto, e così riesce molto gratiosa et si fa così sottile ogni
-                  volta che è congiunta con un bastoncino sopra il toro della basa detto anch'esso
-                  bastone, perché non è pericolo che si spezzi. Il capitello è intagliato a foglie
-                  di Olivo et è benissimo inteso. L'Architrave in luogo di intavolato ha un mezo
-                  ovolo et sopra un Cavetto et il Cavetto ha molto belli intagli, e diversi da
-                  quelli del <objectName ref="#ForumDeLaPaixRome">tempio della Pace</objectName>, et
-                  del <objectName>tempio</objectName> che habbiamo detto che era nel <placeName
+                  andando dalla <objectName ref="#PantheonRome">Ritonda</objectName> alla
+                     <objectName ref="#ColonneAntonineRome">colonna di Antonino</objectName>, si
+                  veggono le reliquie del seguente <objectName>tempio</objectName>; il quale secondo
+                  alcuni fu edificato da <persName ref="#AntoninLePieux">Antonino
+                     Imperatore</persName>, et dedicato al Dio <persName ref="#Mars"
+                     >Marte</persName>. Il suo aspetto è lo alato a torno. La maniera è di spesse
+                  colonne. Gli intercolunni sono un diametro e mezo. I portici intorno sono tanto
+                  più larghi di uno intercolunnio quanto di più sporgono fuora le risalite delle
+                  anti del rimanente dei muri. Le colonne sono di ordine Corinthio. La basa è
+                  Attica, et ha un bastoncino sotto la cimbia della colonna; la cimbia o listello è
+                  sottile molto, e così riesce molto gratiosa et si fa così sottile ogni volta che è
+                  congiunta con un bastoncino sopra il toro della basa detto anch'esso bastone,
+                  perché non è pericolo che si spezzi. Il capitello è intagliato a foglie di Olivo
+                  et è benissimo inteso. L'Architrave in luogo di intavolato ha un mezo ovolo et
+                  sopra un Cavetto et il Cavetto ha molto belli intagli, e diversi da quelli del
+                     <objectName ref="#ForumDeLaPaixRome">tempio della Pace</objectName>, et del
+                     <objectName>tempio</objectName> che habbiamo detto che era nel <placeName
                      ref="#Quirinal">monte Quirinale</placeName> dedicato a <persName ref="#Jupiter"
                      >Giove</persName>. Il fregio pende in fuori una delle otto parti della sua
                   altezza et è gonfio nel mezo. La cornice ha il modiglione riquadrato e sopra
@@ -6296,8 +6319,8 @@
                <p xml:id="PAL_QLA_L4_L4C19_P1"><figure type="lettrine"/><hi rend="capitals">Tra</hi>
                   il <placeName ref="#Capitole">Campidoglio</placeName> et il <placeName
                      ref="#MontPalatin">Palatino</placeName> appresso il Foro Romano si veggono tre
-                  colonne di ordine Corinthio, le quali secondo alcuni e<objectName>rano di un
-                     fianco del </objectName>Tempio di <persName ref="#Vulcain">Vulcano</persName>,
+                  colonne di ordine Corinthio, le quali secondo alcuni erano di un fianco del
+                     <objectName>Tempio di <persName ref="#Vulcain">Vulcano</persName></objectName>,
                   e secondo alcuni altri del <objectName>Tempio di Romolo</objectName>; non manca
                   ancho chi dica che elle erano del <objectName>Tempio di <persName ref="#Jupiter"
                         >Giove</persName> Statore</objectName>, e così credo che fusse votato da
@@ -6354,24 +6377,24 @@
                   ornamenti che vi si ueggono sono lavorati delicatissimamente con bellissimi
                   intagli et è cosa manifesta che ai tempi di <persName ref="#Auguste"
                      >Augusto</persName> le opere si facevano più sode, come si vede nel Portico di
-                     <objectName>Santa Maria Ritonda </objectName>edificato da <persName
-                     ref="#MarcusVipsaniusAgrippa">Marco Agrippa</persName>, che è molto semplice,
-                  et in altri edifici ancora. Vogliono alcuni che le colonne che sono quivi, fossero
-                  del ponte, che fece fare <persName ref="#Caligula">Caligula</persName>, la quale
-                  opinione ho mostrato qui appresso come è del tutto falsa. Lo aspetto di questo
-                  Tempio era quello che si dice Dipteros, cioè alato doppio, è ben vero che nella
-                  parte verso il <placeName ref="#Capitole">Campidoglio</placeName> non vi era
-                  portico. Ma per quello, che ho osseruato in altri edifici fabricati vicino ai
-                  monti, mi do a credere che in questa parte egli fusse fatto come dimostra la
-                  Pianta; cioè che egli havesse un muro grossissimo, il quale chiudesse la Cella et
-                  i Portici, et lasciatovi alquanto di spacio un altro muro con contraforti, che
-                  entrassero nel Monte. Perciò che in tai casi facevano gli Antichi il primo muro
-                  molto grosso, accioché l'humidità non penetrasse nella parte di dentro
-                  dell'Edificio et facevano l'altro muro con contraforti, accioché fusse atto a
-                  reggere il continuo carico del monte; e lasciavano il detto spacio tra l'uno e
-                  l'altro dei detti muri; perché le acque, che dal monte scendessero ivi raunate
-                  havessero libero il corso loro et in tal modo non facessero alcun danno alla
-                  fabrica. La maniera di questo Tempio era la Picnostilos. Lo Architrave et il
+                     <objectName ref="#PantheonRome">Santa Maria Ritonda</objectName> edificato da
+                     <persName ref="#MarcusVipsaniusAgrippa">Marco Agrippa</persName>, che è molto
+                  semplice, et in altri edifici ancora. Vogliono alcuni che le colonne che sono
+                  quivi, fossero del ponte, che fece fare <persName ref="#Caligula"
+                     >Caligula</persName>, la quale opinione ho mostrato qui appresso come è del
+                  tutto falsa. Lo aspetto di questo Tempio era quello che si dice Dipteros, cioè
+                  alato doppio, è ben vero che nella parte verso il <placeName ref="#Capitole"
+                     >Campidoglio</placeName> non vi era portico. Ma per quello, che ho osseruato in
+                  altri edifici fabricati vicino ai monti, mi do a credere che in questa parte egli
+                  fusse fatto come dimostra la Pianta; cioè che egli havesse un muro grossissimo, il
+                  quale chiudesse la Cella et i Portici, et lasciatovi alquanto di spacio un altro
+                  muro con contraforti, che entrassero nel Monte. Perciò che in tai casi facevano
+                  gli Antichi il primo muro molto grosso, accioché l'humidità non penetrasse nella
+                  parte di dentro dell'Edificio et facevano l'altro muro con contraforti, accioché
+                  fusse atto a reggere il continuo carico del monte; e lasciavano il detto spacio
+                  tra l'uno e l'altro dei detti muri; perché le acque, che dal monte scendessero ivi
+                  raunate havessero libero il corso loro et in tal modo non facessero alcun danno
+                  alla fabrica. La maniera di questo Tempio era la Picnostilos. Lo Architrave et il
                   Fregio nella fronte erano ad un piano, acciò potesse capire l'intaglio
                   dell'inscrittione et ancora vi si ueggono alcune lettere. L'ovolo della cornice
                   sopra il fregio è diverso da quanti io ne habbia ancora veduti, et questa varietà,
