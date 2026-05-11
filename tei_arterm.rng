@@ -4138,12 +4138,22 @@
     <element name="persName">
       <ref name="attlist.persName"/>
       <ref name="macro.phraseSeq"/>
+      <ref name="tei_att.global.attributes"/>
     </element>
   </define>
   <define name="attlist.persName" combine="interleave">
     <optional>
       <attribute name="ref">
         <ref name="teidata.pointer"/>
+      </attribute>
+    </optional>
+    <optional>
+      <attribute name="cert">
+        <choice>
+          <value>low</value>
+          <value>medium</value>
+          <value>high</value>
+        </choice>
       </attribute>
     </optional>
   </define>
