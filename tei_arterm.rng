@@ -4257,6 +4257,20 @@
         <ref name="teidata.pointer"/>
       </attribute>
     </optional>
+    <optional>
+      <attribute name="cert">
+        <choice>
+          <value>low</value>
+          <value>medium</value>
+          <value>high</value>
+        </choice>
+      </attribute>
+    </optional>
+    <optional>
+      <attribute name="xml:id">
+        
+      </attribute>
+    </optional>
   </define>
   <!-- doc:contains a postscript, e.g. to a letter. [4.2. Elements Common to All Divisions] -->
   <define name="postscript">
@@ -4338,6 +4352,7 @@
         <value>figure</value>
         <value>traduction</value>
         <value>intertextualite</value>
+        <value>renvoie</value>
       </choice>
     </attribute>
   </define>
