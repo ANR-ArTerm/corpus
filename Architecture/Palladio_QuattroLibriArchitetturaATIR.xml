@@ -98,6 +98,7 @@
       <body>
          <pb n="5"/>
          <div1 xml:id="L1" type="livre" n="1">
+            <figure type="frontispice"/>
             <head rend="capitals">IL PRIMO LIBRO DELL'ARCHITETTURA DI <persName
                   ref="#AndreaPalladio">ANDREA PALLADIO</persName></head>
             <div2 xml:id="L1C1" type="chapitre" n="1">
@@ -276,25 +277,26 @@
                <head><hi rend="capitals">DEI LEGNAMI</hi> Cap. II.</head>
                <p xml:id="PAL_QLA_L1_L1C3_P1">
                   <figure type="lettrine"/><hi rend="capitals">I legnami</hi> (come ha <persName
-                     ref="#Vitruve">Vitruvio</persName> al cap. IX. del <bibl>II. lib.</bibl>) si
-                  deono tagliare l'Autunno, e per tutto il Verno; percioché allhora gli alberi
-                  ricuperano dalle radici quel vigore, e sodezza, che nella Primavera, e nella
-                  Estate per le frondi, e per li frutti era sparso: e si taglieranno mancando la
-                  Luna; perché quell'humore, che a corrompere i legni è attissimo, a quel tempo è
-                  consumato: onde non vengono poi da tignole, o da tarli offesi. Si deono tagliare
-                  solamente sino al mezo della midolla, e così lasciarli fin che si secchino:
-                  percioché stillando; uscirà fuori quell'humore, che sarà atto alla putrefattione.
-                  Tagliati; si riporranno in luogo, ove non vengano caldissimi Soli, nè impetuosi
-                  venti, nè pioggie: e quelli massimamente deono essere tenuti al coperto, che da se
-                  stessi nascono: et accioché non si fendano, et egualmente si secchino; si
-                  ungeranno di sterco di bue. Non si deono tirare per la rugiada, ma dopo il mezodì:
-                  nè si deono lavorare, essendo di rugiada bagnati, o molto secchi; percioché quelli
-                  facilmente si corrompono, e questi fanno bruttissimo lavoro: Nè avanti tre anni
-                  saranno ben secchi per uso dei palchi, e delle porte, e delle fenestre. Bisogna
-                  che i padroni, che vogliono fabricare; s'informino bene da i periti, della natura
-                  de i legnami, e qual legno a qual cosa è buono, e quale non. <persName
-                     ref="#Vitruve">Vitruvio</persName> al detto luogo ne dà buona instruttione, et
-                  altri dotti huomini, che ne han scritto copiosamente. </p>
+                     ref="#Vitruve">Vitruvio</persName> al cap. IX. del <bibl
+                     key="vitruveArchitectura" ref="Livre II">II. lib.</bibl>) si deono tagliare
+                  l'Autunno, e per tutto il Verno; percioché allhora gli alberi ricuperano dalle
+                  radici quel vigore, e sodezza, che nella Primavera, e nella Estate per le frondi,
+                  e per li frutti era sparso: e si taglieranno mancando la Luna; perché
+                  quell'humore, che a corrompere i legni è attissimo, a quel tempo è consumato: onde
+                  non vengono poi da tignole, o da tarli offesi. Si deono tagliare solamente sino al
+                  mezo della midolla, e così lasciarli fin che si secchino: percioché stillando;
+                  uscirà fuori quell'humore, che sarà atto alla putrefattione. Tagliati; si
+                  riporranno in luogo, ove non vengano caldissimi Soli, nè impetuosi venti, nè
+                  pioggie: e quelli massimamente deono essere tenuti al coperto, che da se stessi
+                  nascono: et accioché non si fendano, et egualmente si secchino; si ungeranno di
+                  sterco di bue. Non si deono tirare per la rugiada, ma dopo il mezodì: nè si deono
+                  lavorare, essendo di rugiada bagnati, o molto secchi; percioché quelli facilmente
+                  si corrompono, e questi fanno bruttissimo lavoro: Nè avanti tre anni saranno ben
+                  secchi per uso dei palchi, e delle porte, e delle fenestre. Bisogna che i padroni,
+                  che vogliono fabricare; s'informino bene da i periti, della natura de i legnami, e
+                  qual legno a qual cosa è buono, e quale non. <persName ref="#Vitruve"
+                     >Vitruvio</persName> al detto luogo ne dà buona instruttione, et altri dotti
+                  huomini, che ne han scritto copiosamente. </p>
             </div2>
             <div2 xml:id="L1C4" type="chapitre" n="4">
                <head><hi rend="capitals">DELLE PIETRE</hi>. Cap. III.</head>
@@ -439,7 +441,7 @@
                   lettere per le inscrittioni, che si pongono nel fregio de gli edifici, e si legge
                   che di questo metallo erano le cento porte celebri di <placeName ref="#Babylone"
                      >Babilonia</placeName> e nell'<placeName>Isole di Gade</placeName> due
-                     <objectName>colonne di Hercole</objectName> alte otto cubiti. Si tiene per
+                     colonne di Hercole alte otto cubiti. Si tiene per
                   eccellentissimo, e per lo migliore quello, che cotto, e cavato per via del fuoco
                   dalle minerali è di color rosso tendente al giallo, et è ben fiorito, cioè pieno
                   di buchi: perché questo è segno ch'egli sia purgato, e libero da ogni feccia. Il
@@ -456,25 +458,27 @@
                      <objectName ref="#BasiliqueSaintJeanLatranRome">San Giovanni
                      Laterano</objectName> quattro colonne di Bronzo: delle quali una sola ha il
                   capitello: e le fece fare <persName ref="#Auguste">Augusto</persName> del metallo,
-                  ch'era nelli speroni delle navi ch'egli conquistò in <placeName ref="#Egypte"
+                  che era nelli speroni delle navi che egli conquistò in <placeName ref="#Egypte"
                      >Egitto</placeName> contra <persName ref="#MarcAntoine">Marco
                      Antonio</persName>. Ne sono ancho restate in <placeName ref="#Rome"
-                     >Roma</placeName> fin ad hoggi quattro antiche porte, cioè quella della
-                     <objectName>Ritonda</objectName>, che fu già il <objectName ref="#PantheonRome"
-                     >Pantheone</objectName>: quella di <objectName>Santo Adriano</objectName>, che
-                  fu il<objectName ref="#TempleDeSaturneRome">Tempio di Saturno</objectName>: quella
-                  di <objectName ref="#BasiliqueSantiCosmaDamianoRome">Santi Cosmo e
-                     Damiano</objectName>, che fu il <objectName ref="#TempleDesDioscuresRome"
-                     >Tempio di Castore e Polluce</objectName>, o pure <objectName
-                     ref="#TempleRomulusRome">di Romulo e Remo</objectName>: et quella, che si vede
-                  in <objectName ref="#BasiliqueSainteAgnesHorsLesMursRome">Santa
-                     Agnese</objectName> fuori della <objectName ref="#PorteViminaleRome">porta
-                     Viminale</objectName>, hoggi detta di Santa Agneta, su la <objectName
-                     ref="#ViaNomentana">via Numentana</objectName>. Ma la più bella di tutte queste
-                  è quella <pb n="10"/> di <objectName ref="#SantuarioMariaDellaRotondaRome">Santa
-                     Maria Ritonda</objectName>: nella quale volsero quegli Antichi imitare con
-                  l'arte quella specie di metallo Corinthio, in cui prevalse più la natura gialla
-                  dell'oro: perciò che noi leggiamo che quando fu destrutto, et arso <placeName
+                     >Roma</placeName> fin ad hoggi quattro antiche porte, cioè <objectName
+                     ref="#PortePantheonRome">quella</objectName> della Ritonda, che fu già il
+                     <objectName ref="#PantheonRome">Pantheone</objectName>:
+                     <objectName>quella</objectName> di Santo Adriano, che fu il<objectName
+                     ref="#TempleDeSaturneRome">Tempio di Saturno</objectName>: <objectName
+                     ref="#PorteBasiliqueSaintiCosmaDamianoRome">quella</objectName> di <objectName
+                     ref="#BasiliqueSantiCosmaDamianoRome">Santi Cosmo e Damiano</objectName>, che
+                  fu il <objectName ref="#TempleDesDioscuresRome">Tempio di Castore e
+                     Polluce</objectName>, o pure <objectName ref="#TempleRomulusRome">di Romulo e
+                     Remo</objectName>: et <objectName>quella</objectName>, che si vede in <objectName
+                     ref="#BasiliqueSainteAgnesHorsLesMursRome">Santa Agnese</objectName> fuori
+                  della <objectName ref="#PorteViminaleRome">porta Viminale</objectName>, hoggi
+                  detta di Santa Agneta, su la <objectName ref="#ViaNomentana">via
+                     Numentana</objectName>. Ma la più bella di tutte queste è <objectName>quella</objectName> <pb n="10"/>
+                  di <objectName ref="#SantuarioMariaDellaRotondaRome">Santa Maria
+                     Ritonda</objectName>: nella quale volsero quegli Antichi imitare con l'arte
+                  quella specie di metallo Corinthio, in cui prevalse più la natura gialla dell'oro:
+                  perciò che noi leggiamo che quando fu destrutto, et arso <placeName
                      ref="#Corinthe">Corintho</placeName>, che hora si chiama Coranto, si
                   liquefecero, et unirono in una massa l'oro, l'argento, et il rame, e la fortuna
                   temprò, e fè la mistura di tre specie di rame, che fu poi detto Corinthio: in una
@@ -805,21 +809,22 @@
                   quelle sarà la grossezza di sopra: e così quelle colonne, che saranno più alte; si
                   diminuiranno secondo il detto modo per la rata parte, come c'insegna <persName
                      ref="#Vitruve">Vitruvio</persName>
-                  <bibl>al cap. II. del III. lib.</bibl> Ma come debba farsi la gonfiezza nel mezo;
-                  non habbiamo da lui altro che una semplice promessa: e perciò diversi hanno di ciò
-                  diversamente detto. Io sono solito far la sacoma di detta gonfiezza in questo
-                  modo. Partisco il fusto della colonna in tre parti eguali, e lascio la terza parte
-                  da basso diritta a piombo, accanto l'estremità della quale pongo in taglio una
-                  riga sottile alquanto lunga come la colonna, o poco più, e muovo quella parte, che
-                  avanza dal terzo in suso, e la storco fin che il capo suo giunga al punto della
-                  diminutione di sopra della colonna sotto il collarino; e secondo quella curuatura
-                  segno: e così mi viene la colonna alquanto gonfia nel mezo, e si rastrema molto
-                  garbatamente. E benché io non mi habbia potuto imaginare altro modo più breve, et
-                  espedito di questo, e che riesca meglio, mi son nondimeno maggiormente confermato
-                  in questa mia inventione, poi che tanto è piaciuta a messer <persName
-                     ref="#PietroCataneo">Pietro Cattaneo</persName>, havendogliela io detta, che
-                  l'ha posta in una sua <bibl>opera di Architettura</bibl>, con la quale ha non poco
-                  illustrato questa professione. </p>
+                  <bibl key="vitruveArchitectura" ref="Livre III">al cap. II. del III. lib.</bibl>
+                  Ma come debba farsi la gonfiezza nel mezo; non habbiamo da lui altro che una
+                  semplice promessa: e perciò diversi hanno di ciò diversamente detto. Io sono
+                  solito far la sacoma di detta gonfiezza in questo modo. Partisco il fusto della
+                  colonna in tre parti eguali, e lascio la terza parte da basso diritta a piombo,
+                  accanto l'estremità della quale pongo in taglio una riga sottile alquanto lunga
+                  come la colonna, o poco più, e muovo quella parte, che avanza dal terzo in suso, e
+                  la storco fin che il capo suo giunga al punto della diminutione di sopra della
+                  colonna sotto il collarino; e secondo quella curuatura segno: e così mi viene la
+                  colonna alquanto gonfia nel mezo, e si rastrema molto garbatamente. E benché io
+                  non mi habbia potuto imaginare altro modo più breve, et espedito di questo, e che
+                  riesca meglio, mi son nondimeno maggiormente confermato in questa mia inventione,
+                  poi che tanto è piaciuta a messer <persName ref="#PietroCataneo">Pietro
+                     Cattaneo</persName>, havendogliela io detta, che l'ha posta in una sua
+                     <bibl>opera di Architettura</bibl>, con la quale ha non poco illustrato questa
+                  professione. </p>
                <figure type="schema" place="right"/>
                <p xml:id="PAL_QLA_L1_L1C14_P2"><list rend="numbered">
                      <item> A, B, La terza parte della colonna, che si lascia diritta a piombo. </item>
@@ -850,17 +855,18 @@
                   un diametro e mezo; saranno le colonne lunghe dieci teste, come nel Composito. Nei
                   quali ordini ho havuto questo risguardo, accioché siano come un esempio di tutte
                   queste maniere d'intercolunni: le quali ci sono insegnate da <persName
-                     ref="#Vitruve">Vitruvio</persName> al <bibl>cap. sopradetto</bibl>. Deono
-                  essere nelle fronti degli edifici le colonne pari: accioché nel mezo venga
-                  un'intercolunnio, il quale si farà alquanto maggiore degli altri, accioché meglio
-                  si veggano le porte, e le entrate, che si sogliono mettere nel mezo; e questo
-                  quanto ai colonnati semplici. Ma se si faranno le Loggie coi pilastri, così si
-                  doveranno disporre, che i pilastri non siano manco grossi del terzo del vano, che
-                  sarà tra pilastro, e pilastro: e quelli, che saranno nei cantoni, andaranno grossi
-                  per li due terzi; accioché gli angoli della fabrica vengano ad essere sodi, e
-                  forti. E quando haveranno a sostentare grandissimo carico, come negli edifici
-                  molto grandi; all'hora si faranno grossi per la metà del vano, come sono quelli
-                  del <objectName ref="#TheatreBergaVicence">Theatro di <placeName ref="#Vicence"
+                     ref="#Vitruve">Vitruvio</persName> al <bibl key="vitruveArchitectura"
+                     ref="Livre III">cap. sopradetto</bibl>. Deono essere nelle fronti degli edifici
+                  le colonne pari: accioché nel mezo venga un'intercolunnio, il quale si farà
+                  alquanto maggiore degli altri, accioché meglio si veggano le porte, e le entrate,
+                  che si sogliono mettere nel mezo; e questo quanto ai colonnati semplici. Ma se si
+                  faranno le Loggie coi pilastri, così si doveranno disporre, che i pilastri non
+                  siano manco grossi del terzo del vano, che sarà tra pilastro, e pilastro: e
+                  quelli, che saranno nei cantoni, andaranno grossi per li due terzi; accioché gli
+                  angoli della fabrica vengano ad essere sodi, e forti. E quando haveranno a
+                  sostentare grandissimo carico, come negli edifici molto grandi; all'hora si
+                  faranno grossi per la metà del vano, come sono quelli del <objectName
+                     ref="#TheatreBergaVicence">Theatro di <placeName ref="#Vicence"
                         >Vicenza</placeName></objectName>, e dell'<objectName
                      ref="#AmphitheatreCapoue">Anfitheatro di <placeName ref="#Capoue"
                         >Capua</placeName></objectName>; overo per li due terzi, come quelli del
@@ -1692,11 +1698,15 @@
                   qualità del padrone, et alle cose, che per quelle deono essere condotte, e
                   portate. A me pare che torni bene divider lo spatio dal piano, o suolo alla
                   superficie della travatura in tre parti, e meza, (come dice <persName
-                     ref="#Vitruve">Vitruvio</persName> nel <bibl>IIII. lib.</bibl> al VI. cap.) e
-                  di due farne la luce in altezza, e di una in larghezza, manco la duodecima parte
-                  dell'altezza. Soleano gli antichi far le loro porte meno larghe di sopra che da
-                  basso, come si vede in un <objectName ref="#TempleVestaTivoli">Tempio a <placeName
-                        ref="#Tivoli">Tivoli</placeName></objectName>, e <persName ref="#Vitruve"
+                     ref="#Vitruve">Vitruvio</persName> nel <bibl key="vitruveArchitectura"
+                     ref="Livre IV"><choice>
+                        <sic>IIII</sic>
+                        <corr>IV</corr>
+                     </choice>. lib.</bibl> al VI. cap.) e di due farne la luce in altezza, e di una
+                  in larghezza, manco la duodecima parte dell'altezza. Soleano gli antichi far le
+                  loro porte meno larghe di sopra che da basso, come si vede in un <objectName
+                     ref="#TempleVestaTivoli">Tempio a <placeName ref="#Tivoli"
+                     >Tivoli</placeName></objectName>, e <persName ref="#Vitruve"
                      >Vitruvio</persName> ce lo insegna, forse per maggior fortezza. Si deve
                   eleggere il luogo per le porte principali, ove facilmente da tutta la casa si
                   possa andare. Le porte delle stanze non si faranno più larghe di tre piedi, et
@@ -1746,34 +1756,37 @@
                   <figure type="lettrine"/>
                   <hi rend="capitals">Come</hi> si debbano fare gli ornamenti delle porte principali
                   delle fabriche; si può facilmente conoscere da quello, che c'insegna <persName
-                     ref="#Vitruve">Vitruvio</persName> al cap. VI. del <bibl>IIII. libro</bibl>,
-                  aggiungendovi quel tanto, che in quel luogo ne dice, e mostra in disegno il
-                  Reverendissimo <persName ref="#DanieleBarbaro">Barbaro</persName>, et da quello
-                  che io ho detto, e disegnato di sopra in tutti in cinque ordini: però lasciando
-                  questi da parte; porrò solamente alcune sacome degli ornamenti delle porte, e
-                  delle finestre delle stanze, secondo che diversamente si ponno fare, e dimostrerò
-                  a segnare ciascun membro particolarmente che habbia gratia, et il suo debito
-                  sporto. Gli ornamenti, che si danno alle porte, e finestre; sono l'Architrave, il
-                  Fregio, e la Cornice. L'Architrave gira intorno la porta, e deve esser grosso
-                  quanto sono le Erte, over le Pilastrate: <pb n="56"/> le quali ho detto non
-                  doversi far meno della sesta parte della larghezza della luce, nè più della
-                  quinta: e da lui pigliano la loro grossezza il Fregio, et la Cornice. Delle due
-                  inventioni che seguono la prima, cioè quella di sopra ha queste misure. Si
-                  partisce l'Architrave in quattro parti, e per tre di quelle si fa l'altezza del
-                  Fregio, e per cinque quella della Cornice. Si torna a dividere l'Architrave in
-                  dieci parti: tre vanno alla prima fascia, quattro alla seconda, e le tre che
-                  restano si dividono in cinque: due si danno al regolo, overo l'orlo, e le tre, che
-                  restano alla Gola riversa, che altramente si dice intavolato: il suo sporto è
-                  quanto la sua altezza: l'orlo sporge in fuori manco della metà della sua
-                  grossezza. L'intavolato si segna in questo modo: si tira una linea diritta: la
-                  qual vada a finire nei termini di quello sotto l'orlo, e sopra la seconda fascia:
-                  e si divide per mezo, e si fa che ciascuna di quelle meta sia la basa di un
-                  triangolo di due lati uguali, e nell'angolo opposto alla basa si mette il piede
-                  immobile del compasso, e si tirano le linee curve, le quali fanno detto
-                  intavolato. Il Fregio è per le tre parti delle quattro dell'Architrave, e si segna
-                  di portione di cerchio minore del mezo circulo, e con la sua gonfiezza viene al
-                  diritto del cimacio dell'Architrave. Le cinque parti, che si danno alla cornice in
-                  questo modo ai suoi membri si attribuiscono: una si dà al cavetto col suo
+                     ref="#Vitruve">Vitruvio</persName> al cap. VI. del <bibl
+                     key="vitruveArchitectura" ref="Livre IV"><choice>
+                        <sic>IIII</sic>
+                        <corr>IV</corr>
+                     </choice>. libro</bibl>, aggiungendovi quel tanto, che in quel luogo ne dice, e
+                  mostra in disegno il Reverendissimo <persName ref="#DanieleBarbaro"
+                     >Barbaro</persName>, et da quello che io ho detto, e disegnato di sopra in
+                  tutti in cinque ordini: però lasciando questi da parte; porrò solamente alcune
+                  sacome degli ornamenti delle porte, e delle finestre delle stanze, secondo che
+                  diversamente si ponno fare, e dimostrerò a segnare ciascun membro particolarmente
+                  che habbia gratia, et il suo debito sporto. Gli ornamenti, che si danno alle
+                  porte, e finestre; sono l'Architrave, il Fregio, e la Cornice. L'Architrave gira
+                  intorno la porta, e deve esser grosso quanto sono le Erte, over le Pilastrate: <pb
+                     n="56"/> le quali ho detto non doversi far meno della sesta parte della
+                  larghezza della luce, nè più della quinta: e da lui pigliano la loro grossezza il
+                  Fregio, et la Cornice. Delle due inventioni che seguono la prima, cioè quella di
+                  sopra ha queste misure. Si partisce l'Architrave in quattro parti, e per tre di
+                  quelle si fa l'altezza del Fregio, e per cinque quella della Cornice. Si torna a
+                  dividere l'Architrave in dieci parti: tre vanno alla prima fascia, quattro alla
+                  seconda, e le tre che restano si dividono in cinque: due si danno al regolo, overo
+                  l'orlo, e le tre, che restano alla Gola riversa, che altramente si dice
+                  intavolato: il suo sporto è quanto la sua altezza: l'orlo sporge in fuori manco
+                  della metà della sua grossezza. L'intavolato si segna in questo modo: si tira una
+                  linea diritta: la qual vada a finire nei termini di quello sotto l'orlo, e sopra
+                  la seconda fascia: e si divide per mezo, e si fa che ciascuna di quelle meta sia
+                  la basa di un triangolo di due lati uguali, e nell'angolo opposto alla basa si
+                  mette il piede immobile del compasso, e si tirano le linee curve, le quali fanno
+                  detto intavolato. Il Fregio è per le tre parti delle quattro dell'Architrave, e si
+                  segna di portione di cerchio minore del mezo circulo, e con la sua gonfiezza viene
+                  al diritto del cimacio dell'Architrave. Le cinque parti, che si danno alla cornice
+                  in questo modo ai suoi membri si attribuiscono: una si dà al cavetto col suo
                   listello, il quale è per la quinta parte del Cavetto: ha il cavetto di sporto
                   delle tre parti le due della sua altezza: per segnarlo si forma un triangolo di
                   due lati uguali, e nell'angolo C, si fa il centro: onde il cavetto viene ad esser
@@ -1871,35 +1884,35 @@
                   stanze: Perciò ché essendo nei monti di detta Villa, alcune cave grandissime, che
                   gli habitatori di quei luoghi chiamano covali, et erano anticamente Petraie, delle
                   quali credo che intenda <persName ref="#Vitruve">Vitruvio</persName>, quando nel
-                     <bibl>secondo libro</bibl>, ove tratta delle pietre, dice, che nella Marca
-                  Trivigiana si cava una sorte di pietra, che si taglia con la sega, come il legno,
-                  Nelle quali nascono alcuni venti freschissimi; questi Gentil'huomini per certi
-                  volti sotterranei, ch'essi dimandano Ventidotti; gli conducono alle loro case, et
-                  con canne simili alle sopradette conducono poi quel vento fresco per tutte le
-                  stanze, otturandole, et aprendole a lor piacere per pigliare più, e manco fresco,
-                  secondo le stagioni. E benche per questa grandissima commodità sia questo luogo
-                  maraviglioso; nondimeno molto più degno di esser goduto, et visto lo rende il
-                  carcere dei Venti, che è una stanza sotterra fatta dall'Eccellentissimo Signor
-                     <persName>Francesco Trento</persName>, et da lui chiamata <hi rend="capitals"
-                     >EOLIA</hi>: ove molti di detti Ventidutti sboccano: nella quale per fare che
-                  sia ornata, e bella, e conforme al nome, egli non ha sparagnato nè a diligenza, nè
-                  a spesa alcuna. Ma ritornando ai camini; noi li facciamo nella grossezza dei muri,
-                  et alziamo le loro canne fin fuori del tetto: acciò che portino il fumo nell'Aria.
-                  Dove si deve avertire che le canne non si facciano nè troppo larghe, nè troppo
-                  strette: perché se si faranno larghe, vagando per quelle l'Aria; caccierà il fumo
-                  all'in giù, e non lo lascierà ascendere, et uscir fuori liberamente: e nelle
-                  troppo strette il fumo non havendo libera la uscita; si ingorgherà, e tornerà
-                  indietro: però nei camini per le stanze non si faranno le canne nè meno larghe di
-                  mezo piede, nè più di nove oncie, e lunghe due piedi e mezo: e la bocca della
-                  Piramide dove si congiugne con la canna si farà alquanto più stretta: acciòche
-                  ritornando il fumo in giù, trovi quell'impedimento, e non possa venir nella
-                  stanza. Fanno alcuni le canne torte, acciò che per quella tortuosità, e per lo
-                  fuoco che lo spigne in suso, non possa il fumo tornare indietro. I fumaruoli, cioè
-                  i buchi per dove ha da uscire il fumo; deono essere larghi, e lontani da ogni
-                  materia atta ad abbruciarsi. Le Nappe, sopra le quali si fa la Piramide del
-                  camino, deono esser lavorate delicatissimamente, et in tutto lontane dal Rustico:
-                  perciò che l'opera rustica non si conviene, se non a molto grandi Edifici per le
-                  ragioni già dette. </p>
+                     <bibl key="vitruveArchitectura" ref="Livre II">secondo libro</bibl>, ove tratta
+                  delle pietre, dice, che nella Marca Trivigiana si cava una sorte di pietra, che si
+                  taglia con la sega, come il legno, Nelle quali nascono alcuni venti freschissimi;
+                  questi Gentil'huomini per certi volti sotterranei, ch'essi dimandano Ventidotti;
+                  gli conducono alle loro case, et con canne simili alle sopradette conducono poi
+                  quel vento fresco per tutte le stanze, otturandole, et aprendole a lor piacere per
+                  pigliare più, e manco fresco, secondo le stagioni. E benche per questa grandissima
+                  commodità sia questo luogo maraviglioso; nondimeno molto più degno di esser
+                  goduto, et visto lo rende il carcere dei Venti, che è una stanza sotterra fatta
+                  dall'Eccellentissimo Signor <persName>Francesco Trento</persName>, et da lui
+                  chiamata <hi rend="capitals">EOLIA</hi>: ove molti di detti Ventidutti sboccano:
+                  nella quale per fare che sia ornata, e bella, e conforme al nome, egli non ha
+                  sparagnato nè a diligenza, nè a spesa alcuna. Ma ritornando ai camini; noi li
+                  facciamo nella grossezza dei muri, et alziamo le loro canne fin fuori del tetto:
+                  acciò che portino il fumo nell'Aria. Dove si deve avertire che le canne non si
+                  facciano nè troppo larghe, nè troppo strette: perché se si faranno larghe, vagando
+                  per quelle l'Aria; caccierà il fumo all'in giù, e non lo lascierà ascendere, et
+                  uscir fuori liberamente: e nelle troppo strette il fumo non havendo libera la
+                  uscita; si ingorgherà, e tornerà indietro: però nei camini per le stanze non si
+                  faranno le canne nè meno larghe di mezo piede, nè più di nove oncie, e lunghe due
+                  piedi e mezo: e la bocca della Piramide dove si congiugne con la canna si farà
+                  alquanto più stretta: acciòche ritornando il fumo in giù, trovi quell'impedimento,
+                  e non possa venir nella stanza. Fanno alcuni le canne torte, acciò che per quella
+                  tortuosità, e per lo fuoco che lo spigne in suso, non possa il fumo tornare
+                  indietro. I fumaruoli, cioè i buchi per dove ha da uscire il fumo; deono essere
+                  larghi, e lontani da ogni materia atta ad abbruciarsi. Le Nappe, sopra le quali si
+                  fa la Piramide del camino, deono esser lavorate delicatissimamente, et in tutto
+                  lontane dal Rustico: perciò che l'opera rustica non si conviene, se non a molto
+                  grandi Edifici per le ragioni già dette. </p>
             </div2>
             <div2 xml:id="L1C29" type="chapitre" n="29">
                <head><hi rend="capitals">DELLE SCALE, E VARIE MANIERE DI QUELLE</hi>, e del numero,
@@ -2071,7 +2084,7 @@
          </div1>
          <pb type="blankpage"/>
          <div1 xml:id="L2" type="livre" n="2">
-            <figure type="ornement"/>
+            <figure type="frontispice"/>
             <head>IL SECONDO LIBRO DELL'ARCHITETTURA Di <persName ref="#AndreaPalladio">Andrea
                   Palladio</persName>.</head>
             <head>NEL QUALE SI CONTENGONO I disegni di molte case ordinate da lui dentro, e fuori
@@ -2094,28 +2107,29 @@
                   indrizzato. E perché commoda si deverà dire quella casa, la quale sarà conveniente
                   alla qualità di chi l'haverà ad habitare, e le sue parti corrisponderanno al
                   tutto, e fra se stesse. Però doverà l'Architetto sopra il tutto avertire, che
-                  (come dice <persName ref="#Vitruve">Vitruvio</persName> nel <bibl>primo</bibl>, e
-                     <bibl>sesto libro</bibl>) ai Gentil'huomini grandi, e massimamente di Republica
-                  si richiederanno case con loggie, e sale spatiose, et ornate: acciò che in
-                     <reg>tali</reg> luoghi si possano trattenere con piacere quelli, che
-                  aspettaranno il padrone per salutarlo, o pregarlo di qualche aiuto, e favore: Et
-                  ai Gentil'huomini minori si converranno ancho fabriche minori, di minore spesa, e
-                  di manco adornamenti. Ai Causidici, et Avocati si doverà medesimamente fabricare,
-                  che nelle lor case vi siano luoghi belli da passeggiare, et adorni: accioché i
-                  clienti vi dimorino senza loro noia. Le case dei mercatanti haveranno i luoghi,
-                  ove si ripongano le mercantie, rivolti a Settentrione, et in maniera disposti, che
-                  i padroni non habbiano a temere dei ladri. Si serberà anco il Decoro quanto
-                  all'opera, se le parti risponderanno al tutto, onde negli edifici grandi; vi siano
-                  membri grandi; nei piccioli, piccioli, e nei mediocri, mediocri: che brutta cosa
-                  certo sarebbe, e disconvenevole, che in una fabrica molto grande fossero sale, e
-                  stanze picciole: e per lo contrario in una picciola fossero due, o tre stanze, che
-                  occupassero il tutto. Si devera dunque (come ho detto) per quanto si possa, haver
-                  risguardo, et a quelli, che vogliono fabricare, e non tanto a quello, che essi
-                  possano, quanto di che qualità fabrica loro stia bene: e poi che si haverà eletto;
-                  si disporranno in modo le parti, che si convengano al tutto, e fra se stesse: et
-                  vi si applicheranno quelli adornamenti, che pareranno convenirsi: Ma spesse volte
-                  fa bisogno all'Architetto accommodarsi piu alla volontà di coloro, che spendono,
-                  che a quello, che si devrebbe osservare. </p>
+                  (come dice <persName ref="#Vitruve">Vitruvio</persName> nel <bibl
+                     key="vitruveArchitectura" ref="Livre I">primo</bibl>, e <bibl
+                     key="vitruveArchitectura" ref="Livre VI">sesto libro</bibl>) ai Gentil'huomini
+                  grandi, e massimamente di Republica si richiederanno case con loggie, e sale
+                  spatiose, et ornate: acciò che in <reg>tali</reg> luoghi si possano trattenere con
+                  piacere quelli, che aspettaranno il padrone per salutarlo, o pregarlo di qualche
+                  aiuto, e favore: Et ai Gentil'huomini minori si converranno ancho fabriche minori,
+                  di minore spesa, e di manco adornamenti. Ai Causidici, et Avocati si doverà
+                  medesimamente fabricare, che nelle lor case vi siano luoghi belli da passeggiare,
+                  et adorni: accioché i clienti vi dimorino senza loro noia. Le case dei mercatanti
+                  haveranno i luoghi, ove si ripongano le mercantie, rivolti a Settentrione, et in
+                  maniera disposti, che i padroni non habbiano a temere dei ladri. Si serberà anco
+                  il Decoro quanto all'opera, se le parti risponderanno al tutto, onde negli edifici
+                  grandi; vi siano membri grandi; nei piccioli, piccioli, e nei mediocri, mediocri:
+                  che brutta cosa certo sarebbe, e disconvenevole, che in una fabrica molto grande
+                  fossero sale, e stanze picciole: e per lo contrario in una picciola fossero due, o
+                  tre stanze, che occupassero il tutto. Si devera dunque (come ho detto) per quanto
+                  si possa, haver risguardo, et a quelli, che vogliono fabricare, e non tanto a
+                  quello, che essi possano, quanto di che qualità fabrica loro stia bene: e poi che
+                  si haverà eletto; si disporranno in modo le parti, che si convengano al tutto, e
+                  fra se stesse: et vi si applicheranno quelli adornamenti, che pareranno
+                  convenirsi: Ma spesse volte fa bisogno all'Architetto accommodarsi piu alla
+                  volontà di coloro, che spendono, che a quello, che si devrebbe osservare. </p>
             </div2>
             <div2 xml:id="L2C2" type="chapitre" n="2">
                <head><hi rend="capitals">DEL COMPARTIMENTO DELLE</hi> stanze, et d'altri luoghi.
@@ -2453,22 +2467,22 @@
                   alcuni luoghi principali delle case degli Antichi: e perché di quelle l'Atrio era
                   una parte notabilissima; dirò prima degli Atri, et in consequenza dei luoghi a lui
                   aggiunti: poi verrò alle Sale. Dice <persName ref="#Vitruve">Vitruvio</persName>
-                  nel <bibl>VI. libro</bibl>, che cinque sorti di Atri erano appresso gli Antichi,
-                  cioè Toscano, di quattro colonne, Corinthio, Testugginato, et Discoperto, del
-                  quale non intendo parlare. Dell'Atrio Toscano sono i seguenti disegni. La
-                  larghezza di questo Atrio è delle tre parti della lunghezza le due. Il Tablino è
-                  largo due quinti della larghezza dell'Atrio; e medesimamente lungo. Da questo si
-                  passa nel Peristilio, cioè nel cortile con portici intorno: il quale è un terzo
-                  più lungo che largo. I portici sono larghi, quanto sono lunghe le colonne. Dai
-                  fianchi dell'Atrio vi si potrebbono far Salotti, che guardassero sopra giardini: e
-                  se così si facessero, come si vede nel disegno, le loro colonne sarebbono di
-                  ordine Ionico lunghe venti piedi, et il portico sarebbe largo quanto gli
-                  intercolunni, di sopra vi sarebbono altre colonne Corinthie, la quarta parte
-                  minori di quelle di sotto: tra le quali vi sarebbono fenestre per pigliare il
-                  lume. Sopra gli anditi non vi sarebbe coperta alcuna: ma intorno havrebbono i
-                  poggi: e secondo il sito si potrebbono fare più, e meno luoghi di quel che ho
-                  disegnato, e secondo che facesse di bisogno all'uso, e commodo di chi vi havesse
-                  ad habitare.</p>
+                  nel <bibl key="vitruveArchitectura" ref="Livre VI">VI. libro</bibl>, che cinque
+                  sorti di Atri erano appresso gli Antichi, cioè Toscano, di quattro colonne,
+                  Corinthio, Testugginato, et Discoperto, del quale non intendo parlare. Dell'Atrio
+                  Toscano sono i seguenti disegni. La larghezza di questo Atrio è delle tre parti
+                  della lunghezza le due. Il Tablino è largo due quinti della larghezza dell'Atrio;
+                  e medesimamente lungo. Da questo si passa nel Peristilio, cioè nel cortile con
+                  portici intorno: il quale è un terzo più lungo che largo. I portici sono larghi,
+                  quanto sono lunghe le colonne. Dai fianchi dell'Atrio vi si potrebbono far
+                  Salotti, che guardassero sopra giardini: e se così si facessero, come si vede nel
+                  disegno, le loro colonne sarebbono di ordine Ionico lunghe venti piedi, et il
+                  portico sarebbe largo quanto gli intercolunni, di sopra vi sarebbono altre colonne
+                  Corinthie, la quarta parte minori di quelle di sotto: tra le quali vi sarebbono
+                  fenestre per pigliare il lume. Sopra gli anditi non vi sarebbe coperta alcuna: ma
+                  intorno havrebbono i poggi: e secondo il sito si potrebbono fare più, e meno
+                  luoghi di quel che ho disegnato, e secondo che facesse di bisogno all'uso, e
+                  commodo di chi vi havesse ad habitare.</p>
                <pb n="25"/>
                <figure type="plan"/>
                <figure type="coupe"/>
@@ -3343,8 +3357,9 @@
                   fabriche, come si vede nelle reliquie dei Tempi et di altri publichi Edifici; i
                   quali, per quello che ho detto nel proemio del primo libro, è molto verisimile che
                   pigliassero la inventione et le ragioni dagli edifici privati, cioè dalle case.
-                     <persName ref="#Vitruve">Vitruvio</persName> nel suo <bibl>terzo libro</bibl>
-                  al capitolo ultimo, ci insegna come si devono fare. </p>
+                     <persName ref="#Vitruve">Vitruvio</persName> nel suo <bibl
+                     key="vitruveArchitectura" ref="Livre III">terzo libro</bibl> al capitolo
+                  ultimo, ci insegna come si devono fare. </p>
                <pb n="70"/>
                <figure type="plan"/>
                <figure type="élévation"/>
@@ -3526,35 +3541,37 @@
             </div2>
          </div1>
          <div1 xml:id="L3" type="livre" n="3">
+            <figure type="frontispice"/>
             <head><hi rend="capitals">IL TERZO LIBRO DELL'ARCHITETTURA</hi> Di <persName
                   ref="#AndreaPalladio">Andrea Palladio</persName>. NEL QUALE SI TRATTA delle Vie,
                dei Ponti, delle Piazze, delle Basiliche, e dei Xisti. IN <placeName ref="#Venise"
-                  >VENETIA</placeName>, Appresso Dominico dei Franceschi. <date when="1570"
-                  >1570</date>. </head>
+                  >VENETIA</placeName>, Appresso <persName>Dominico dei Franceschi</persName>. <date
+                  when="1570">1570</date>. </head>
             <pb type="blankpage"/>
             <div2 xml:id="L3C1" type="chapitre" n="1">
                <pb n="3"/>
                <head rend="capitals">AL SERENISSIMO E MAGNANIMO PRINCIPE <persName
                      ref="#EmmanuelPhilibertDeSavoie">EMANUEL FILIBERTO</persName> DUCA DI SAVOIA,
-                  ETC. <persName ref="#AndreaPalladio">ANDREA PALLADIO</persName>. </head>
+                  ETC. <hi rend="it"><persName ref="#AndreaPalladio">ANDREA
+                  PALLADIO</persName></hi>. </head>
                <p xml:id="PAL_QLA_L3_L3C1_P1"><figure type="lettrine"/><hi rend="capitals"
                      >Dovendo</hi> Io, <persName ref="#EmmanuelPhilibertDeSavoie">Serenissimo
                      Principe</persName>, mandare in luce una parte della mia Architettura, nella
                   quale ho posto in disegno molte di quelle superbe e maravigliose fabriche antiche,
                   i vestigi delle quali in varie parti del Mondo, ma più che in ogn'altro loco, si
                   ritrovano in <placeName ref="#Rome">Roma</placeName>, ho preso ardire di
-                  consacrarla all'Immortalità del chiaro, et Illustre nome dell'A. Vostra come di
-                  quel Principe, il qual solo a tempi nostri con la Prudenza e con il valore si
+                  consacrarla all'Immortalità del chiaro, et Illustre nome dell'Altezza Vostra come
+                  di quel Principe, il qual solo a tempi nostri con la Prudenza e con il valore si
                   assimiglia a quelli antichi Romani Heroi, le virtuosissime operationi dei quali si
                   leggono con maraviglia nelle historie et parte si veggono nelle antiche ruine. Nè
                   da ciò mi ha potuto rimovere l'haver riguardo all'humile mia fortuna et alla
-                  piccolezza del dono: poi che la somma, et incredibile humanità, per la quale l'A.
-                  Vostra degnò inalzarmi con l'honorata sua testimonianza sopra i meriti miei,
-                  all'hora che da lei fui chiamato in <placeName ref="#Piemont"
-                  >Piamonte</placeName>, mi porge ferma speranza, che ella, esercitando la grandezza
-                  e virtù del nobilissimo animo suo, né a quella, né a questo riguarderà, ma solo
-                  all'infinita affettione e divotion mia verso di lei, con la quale hora, per
-                  dimostrarle in qualche parte la gratitudine dell'animo mio, le porgo questo
+                  piccolezza del dono: poi che la somma, et incredibile humanità, per la quale
+                  l'Altezza Vostra degnò inalzarmi con l'honorata sua testimonianza sopra i meriti
+                  miei, all'hora che da lei fui chiamato in <placeName ref="#Piemont"
+                     >Piamonte</placeName>, mi porge ferma speranza, che ella, esercitando la
+                  grandezza e virtù del nobilissimo animo suo, né a quella, né a questo riguarderà,
+                  ma solo all'infinita affettione e divotion mia verso di lei, con la quale hora,
+                  per dimostrarle in qualche parte la gratitudine dell'animo mio, le porgo questo
                   piccolo dono: sperando che (mercè della cortesissima et humanissima sua natura) se
                   non le sarà in tutto caro, almeno non lo sprezzerà. Anzi qual'hora si troverà
                   manco occupata dagli importantissimi suoi affari, si degnarà per sollazzo
@@ -3564,22 +3581,22 @@
                   per render utilità alli studiosi dell'Architettura, mostrando in figura le piante,
                   gli alzati, i profili, e tutti i membri loro, aggiognendovi le misure giuste e
                   vere, sì come sono stati da me con sommo studio misurati. Dalle qual cose, essendo
-                  l'A. Vostra dotata delle più nobili arti e scientie, piglierà non poca contentezza
-                  e consolatione considerando le sottili e belle inventioni degli huomini, e la vera
-                  scienza di quest'arte, da lei molto bene intesa, e ridotta a rara e perfetta
-                  perfettione; come dimostrano gli Illustri e reali edifici fatti fare, e che tutta
-                  via si fanno in diversi luoghi dell'amplissimo e felicissimo suo stato.
-                  Reverentemente dunque la priego come suo devoto et affettionatissimo servitore a
-                  ricever con la solita serena sua fronte questa mia parte d'Architettura: acciò che
-                  io con maggior prontezza sotto il glorioso nome di così degno et alto soggetto mi
-                  disponga a dar fuori il rimanente dell'incominciata fatica, nel quale si trattarà
-                  di Theatri, d'Anfitheatri, e d'altre antiche e superbe moli. Onde il Mondo, sì
-                  come riconosce dalla magnanimità e dalla liberalità dell'A.Vostra tutto quello che
-                  dell'antica Romana militia si intende e si esercita, così riconosca anco dalla sua
-                  natural cortesia quel tanto di lume che con le fatiche mie sarà dato alla buona
-                  antica Architettura, et a lei di ciò obligato rimanga, come a sola e potissima
-                  cagione di tal'effetto. Di <placeName ref="#Venise">Venetia</placeName> del <date
-                     when="1570">M. D. LXX.</date>
+                  l'Altezza Vostra dotata delle più nobili arti e scientie, piglierà non poca
+                  contentezza e consolatione considerando le sottili e belle inventioni degli
+                  huomini, e la vera scienza di quest'arte, da lei molto bene intesa, e ridotta a
+                  rara e perfetta perfettione; come dimostrano gli Illustri e reali edifici fatti
+                  fare, e che tutta via si fanno in diversi luoghi dell'amplissimo e felicissimo suo
+                  stato. Reverentemente dunque la priego come suo devoto et affettionatissimo
+                  servitore a ricever con la solita serena sua fronte questa mia parte
+                  d'Architettura: acciò che io con maggior prontezza sotto il glorioso nome di così
+                  degno et alto soggetto mi disponga a dar fuori il rimanente dell'incominciata
+                  fatica, nel quale si trattarà di Theatri, d'Anfitheatri, e d'altre antiche e
+                  superbe moli. Onde il Mondo, sì come riconosce dalla magnanimità e dalla
+                  liberalità dell'A.Vostra tutto quello che dell'antica Romana militia si intende e
+                  si esercita, così riconosca anco dalla sua natural cortesia quel tanto di lume che
+                  con le fatiche mie sarà dato alla buona antica Architettura, et a lei di ciò
+                  obligato rimanga, come a sola e potissima cagione di tal'effetto. Di <placeName
+                     ref="#Venise">Venetia</placeName> del <date when="1570">M. D. LXX.</date>
                </p>
             </div2>
             <pb type="blankpage"/>
@@ -3751,14 +3768,15 @@
                   piazza, ma ancora ai più degni Tempi, palagi, portici, et altre publiche fabriche.
                   Ma in questo compartimento delle vie si deve con somma diligenza avertire che
                   (come ci insegna <persName ref="#Vitruve">Vitruvio</persName> al cap. VI. del
-                     <bibl>primo Libro</bibl>) non riguardino per linea retta ad alcun vento:
-                  accioché per quelle non si sentino i Venti furiosi e violenti; ma con più sanità
-                  degli habitatori vengano rotti, soavi, purgati e stanchi, né si incorra
-                  nell'inconveniente, nel quale anticamente incorsero quelli che nell'<placeName
-                     ref="#Lesbos">Isola di Lesbo</placeName> compartirono le strade di <placeName
-                     ref="#Mytilene">Metelino</placeName>, dalla qual Città hora tutta l'Isola ha
-                  preso il nome. Si devono le vie nella città salicare, e si legge che nel consolato
-                  di <persName ref="#MarcusAemiliusLepidusConsul">Marco Emilio</persName> i Censori
+                     <bibl key="vitruveArchitectura" ref="Livre I">primo Libro</bibl>) non
+                  riguardino per linea retta ad alcun vento: accioché per quelle non si sentino i
+                  Venti furiosi e violenti; ma con più sanità degli habitatori vengano rotti, soavi,
+                  purgati e stanchi, né si incorra nell'inconveniente, nel quale anticamente
+                  incorsero quelli che nell'<placeName ref="#Lesbos">Isola di Lesbo</placeName>
+                  compartirono le strade di <placeName ref="#Mytilene">Metelino</placeName>, dalla
+                  qual Città hora tutta l'Isola ha preso il nome. Si devono le vie nella città
+                  salicare, e si legge che nel consolato di <persName
+                     ref="#MarcusAemiliusLepidusConsul">Marco Emilio</persName> i Censori
                   cominciarono a salicarle in <placeName ref="#Rome">Roma</placeName>, ove se ne
                   veggono ancora alcune, le quali sono tutte eguali e sono lastricate con pietre
                   incerte, il qual modo di lastricare come si facesse si dirà più di sotto. Ma se si
@@ -3815,73 +3833,74 @@
                   (come ho detto di sopra) asciugando i luoghi paludosi, abbassando i monti,
                   pareggiando le valli et facendo i ponti dove bisognava ridusse l'andar per essa
                   spedito et piacevolissimo. È anco celebratissima la <objectName ref="#ViaAurelia"
-                     >via Aurelia</objectName>, chiamata così da <persName>Aurelio</persName>
-                  Cittadino Romano che la fece, haveva il suo principio dalla <objectName
-                     ref="#PortaSanPancrazioRome">porta Aurelia</objectName> hoggi detta di San
-                  Pangratio, e distendendosi per i luoghi maritimi di <placeName ref="#Toscane"
-                     >Toscana</placeName> conduceva fino a <placeName ref="#Pise">Pisa</placeName>.
-                  Furono di non minor nome la <objectName ref="#ViaNomentana">via
-                     Numentana</objectName>, la <objectName ref="#ViaPraenestina"
-                     >Prenestina</objectName>, e la <objectName ref="#ViaLabicana"
-                     >Libicana</objectName>; la <objectName ref="#ViaNomentana">prima</objectName>
-                  cominciava dalla <objectName ref="#PorteViminaleRome">porta Viminale</objectName>,
-                  hoggi detta di Santa Agnesa, e si distendeva sino alla Città di <placeName
-                     ref="#Nomentum">Numento</placeName>; la <objectName ref="#ViaPraenestina"
-                     >seconda</objectName> haveva principio dalla <objectName
+                     >via Aurelia</objectName>, chiamata così da <persName cert="low"
+                     xml:id="PbCaiusAureliusCotta">Aurelio</persName> Cittadino Romano che la fece,
+                  haveva il suo principio dalla <objectName ref="#PortaSanPancrazioRome">porta
+                     Aurelia</objectName> hoggi detta di San Pangratio, e distendendosi per i luoghi
+                  maritimi di <placeName ref="#Toscane">Toscana</placeName> conduceva fino a
+                     <placeName ref="#Pise">Pisa</placeName>. Furono di non minor nome la
+                     <objectName ref="#ViaNomentana">via Numentana</objectName>, la <objectName
+                     ref="#ViaPraenestina">Prenestina</objectName>, e la <objectName
+                     ref="#ViaLabicana">Libicana</objectName>; la <objectName ref="#ViaNomentana"
+                     >prima</objectName> cominciava dalla <objectName ref="#PorteViminaleRome">porta
+                     Viminale</objectName>, hoggi detta di Santa Agnesa, e si distendeva sino alla
+                  Città di <placeName ref="#Nomentum">Numento</placeName>; la <objectName
+                     ref="#ViaPraenestina">seconda</objectName> haveva principio dalla <objectName
                      ref="#PortaEsquilinaRome">porta Esquilina</objectName>, che hora si dice di San
-                  Lorenzo; e la <objectName ref="#ViaLabicana">terza</objectName> dalla
-                     <objectName>porta Nevia</objectName>, cioè da porta Maggiore, e conducevano
-                  queste due vie alla città di <placeName ref="#Preneste">Preneste</placeName>,
-                  hoggi detta Pellestrino, et alla Famosa città di <placeName ref="#Labicum"
-                     >Labicana</placeName>. Vi furono ancora molte altre vie nominate et celebrate
-                  dalli scrittori, cioè la Salara, la Collatina, la Latina et altre, le quali tutte
-                  o da coloro, che le ordinarono, o dalla porta, dalla quale havevano principio, o
-                  dal luogo dove conducevano, presero il nome. Ma tra tutte doveva esser di somma
-                  bellezza, et commodità la <objectName ref="#ViaPortuense">via
-                     Portuense</objectName>, la qual da <placeName ref="#Rome">Roma</placeName>
-                  conduceva a <placeName ref="#OstieAntique">Hostia</placeName>; perciò che (come
-                  dice l'<persName ref="#LeonBattistaAlberti">Alberti</persName> di haver osservato)
-                  era divisa in due strade, tra l'una e l'altra delle quali era un corso di pietre
-                  un piede più alto del rimanente, e serviva per divisione: per una di queste vie si
-                  andava, e per l'altra si <reg>tornava</reg>, schifando l'offesa dell'intrarsi:
-                  inventione molto comoda al grandissimo concorso di persone che a quei tempi era a
-                     <placeName ref="#Rome">Roma</placeName> da tutto il Mondo. Fecero gli antichi
-                  queste lor vie militari in due modi, cioè o lastrigandole di pietre, overo
-                  coprendole tutte di ghiara e di sabbia. Le vie della prima maniera (per quanto da
-                  alcuni vestigi si è potuto conietturare) erano divise in tre spaci: per quel di
-                  mezo, il quale era più alto degli altri due, et il quale era alquanto colmo nel
-                  mezo, acciò le acque potessero scorrere et non vi si affermassero, andavano i
-                  pedoni, et era salicato di pietre incerte, cioè di lati e di angoli diseguali: nel
-                  qual modo di salicare, come è stato detto altrove, usavano una squadra di piombo,
-                  la quale aprivano e serravano, come andavano i lati et gli angoli delle pietre,
-                  onde le commettevano benissimo insieme, et ciò facevano con prestezza: gli altri
-                  due spaci, che erano dalle bande, si facevano alquanto più bassi e si coprivano di
-                  sabbia, et di ghiara minuta, e per quelli andavano i cavalli. Era ciascuno di
-                  questi margini largho per la metà della larghezza del spacio di mezo, dal quale
-                  erano divisi con laste di pietra poste in coltello; et ogni tanto spacio ne erano
-                  poste alcune pietre in piedi più alte del rimanente della strada sopra le quali
-                  salivano, quando volevano montare a cavallo, con ciò sia che gli antichi non
-                  usassero staffe. Oltra di queste pietre poste per l'uso detto, vi erano altre
-                  pietre molto più alte nelle quali si truovava scritto di mano in mano le miglia di
-                  tutto il viaggio, e furono da <persName ref="#CaiusGracchus">Gneo Graco</persName>
-                  misurate queste vie e conficate le dette pietre. Le vie militari della seconda
-                  maniera, cioè fatte di sabbia e di ghiara, facevano gli antichi alquanto colme nel
-                  mezo, per la qual cosa, non potendovi restar l'acqua et essendo elle di materia
-                  atta ad asciugarsi presto, erano d'ogni tempo polite, cioè senza fango e senza
-                  polvere. Di questa sorte se ne vede una nel <placeName ref="#Frioul"
-                     >Friuli</placeName>, la quale è detta dagli habitatori di quei luoghi la
-                  Posthuma, e conduce in <placeName ref="#Hongrie">Ongheria</placeName>: et un'altra
-                  ve n'è su quel di <placeName ref="#Padoue">Padova</placeName>, la quale
-                  cominciando dalla detta Città, nel luogo, che si dice l'Argere, passa per mezo
-                     <placeName ref="#PojanaMaggiore">Cigogna</placeName> Villa del Conte
-                     <persName>Odoardo</persName>, e del Conte <persName>Theodoro</persName>
-                  fratelli de Thieni, e conduce all'Alpi, che dividono L'<placeName ref="#Italie"
-                     >Italia</placeName> dalla <placeName ref="#Allemagne">Germania</placeName>.
-                  Della prima maniera di vie è il disegno che segue, dal quale si può conoscer come
-                  doveva esser fatta la <objectName ref="#ViaOstiense">via Hostiense</objectName>.
-                  Della seconda maniera non mi è parso necessario il farne disegno alcuno, perché è
-                  cosa facilissima, né vi è bisogno di alcuna industria purché si facciano colme nel
-                  mezo, onde l'acqua non vi si possa affermare.</p>
+                  Lorenzo; e la <objectName ref="#ViaLabicana">terza</objectName> dalla <objectName
+                     ref="#PorteNaeviaRome">porta Nevia</objectName>, cioè da porta Maggiore, e
+                  conducevano queste due vie alla città di <placeName ref="#Preneste"
+                     >Preneste</placeName>, hoggi detta Pellestrino, et alla Famosa città di
+                     <placeName ref="#Labicum">Labicana</placeName>. Vi furono ancora molte altre
+                  vie nominate et celebrate dalli scrittori, cioè la Salara, la Collatina, la Latina
+                  et altre, le quali tutte o da coloro, che le ordinarono, o dalla porta, dalla
+                  quale havevano principio, o dal luogo dove conducevano, presero il nome. Ma tra
+                  tutte doveva esser di somma bellezza, et commodità la <objectName
+                     ref="#ViaPortuense">via Portuense</objectName>, la qual da <placeName
+                     ref="#Rome">Roma</placeName> conduceva a <placeName ref="#OstieAntique"
+                     >Hostia</placeName>; perciò che (come dice l'<persName
+                     ref="#LeonBattistaAlberti">Alberti</persName> di haver osservato) era divisa in
+                  due strade, tra l'una e l'altra delle quali era un corso di pietre un piede più
+                  alto del rimanente, e serviva per divisione: per una di queste vie si andava, e
+                  per l'altra si <reg>tornava</reg>, schifando l'offesa dell'intrarsi: inventione
+                  molto comoda al grandissimo concorso di persone che a quei tempi era a <placeName
+                     ref="#Rome">Roma</placeName> da tutto il Mondo. Fecero gli antichi queste lor
+                  vie militari in due modi, cioè o lastrigandole di pietre, overo coprendole tutte
+                  di ghiara e di sabbia. Le vie della prima maniera (per quanto da alcuni vestigi si
+                  è potuto conietturare) erano divise in tre spaci: per quel di mezo, il quale era
+                  più alto degli altri due, et il quale era alquanto colmo nel mezo, acciò le acque
+                  potessero scorrere et non vi si affermassero, andavano i pedoni, et era salicato
+                  di pietre incerte, cioè di lati e di angoli diseguali: nel qual modo di salicare,
+                  come è stato detto altrove, usavano una squadra di piombo, la quale aprivano e
+                  serravano, come andavano i lati et gli angoli delle pietre, onde le commettevano
+                  benissimo insieme, et ciò facevano con prestezza: gli altri due spaci, che erano
+                  dalle bande, si facevano alquanto più bassi e si coprivano di sabbia, et di ghiara
+                  minuta, e per quelli andavano i cavalli. Era ciascuno di questi margini largho per
+                  la metà della larghezza del spacio di mezo, dal quale erano divisi con laste di
+                  pietra poste in coltello; et ogni tanto spacio ne erano poste alcune pietre in
+                  piedi più alte del rimanente della strada sopra le quali salivano, quando volevano
+                  montare a cavallo, con ciò sia che gli antichi non usassero staffe. Oltra di
+                  queste pietre poste per l'uso detto, vi erano altre pietre molto più alte nelle
+                  quali si truovava scritto di mano in mano le miglia di tutto il viaggio, e furono
+                  da <persName ref="#CaiusGracchus">Gneo Graco</persName> misurate queste vie e
+                  conficate le dette pietre. Le vie militari della seconda maniera, cioè fatte di
+                  sabbia e di ghiara, facevano gli antichi alquanto colme nel mezo, per la qual
+                  cosa, non potendovi restar l'acqua et essendo elle di materia atta ad asciugarsi
+                  presto, erano d'ogni tempo polite, cioè senza fango e senza polvere. Di questa
+                  sorte se ne vede una nel <placeName ref="#Frioul">Friuli</placeName>, la quale è
+                  detta dagli habitatori di quei luoghi la Posthuma, e conduce in <placeName
+                     ref="#Hongrie">Ongheria</placeName>: et un'altra ve n'è su quel di <placeName
+                     ref="#Padoue">Padova</placeName>, la quale cominciando dalla detta Città, nel
+                  luogo, che si dice l'Argere, passa per mezo <placeName ref="#PojanaMaggiore"
+                     >Cigogna</placeName> Villa del Conte <persName>Odoardo</persName>, e del Conte
+                     <persName>Theodoro</persName> fratelli de Thieni, e conduce all'Alpi, che
+                  dividono L'<placeName ref="#Italie">Italia</placeName> dalla <placeName
+                     ref="#Allemagne">Germania</placeName>. Della prima maniera di vie è il disegno
+                  che segue, dal quale si può conoscer come doveva esser fatta la <objectName
+                     ref="#ViaOstiense">via Hostiense</objectName>. Della seconda maniera non mi è
+                  parso necessario il farne disegno alcuno, perché è cosa facilissima, né vi è
+                  bisogno di alcuna industria purché si facciano colme nel mezo, onde l'acqua non vi
+                  si possa affermare.</p>
                <p><list rend="numbered">
                      <item>A, È il spacio di mezo per dove andavano i pedoni. </item>
                      <item>B, Sono le pietre, che seruivano a salire a cavallo. </item>
@@ -4393,20 +4412,23 @@
                      >trionfale</objectName>, i cui pilastri si veggono rincontro alla <objectName
                      ref="#EgliseSantoSpiritoInSassiaRome">Chiesa di Santo Spirito</objectName>. Il
                      <objectName ref="#PonteSistoRome">Ianiculense</objectName>, così chiamato per
-                  esser vicino al Monte Ianiculo, il quale, perché è stato ristaurato da <persName
-                     ref="#SixteIV">Papa Sisto IIII</persName>, hora si dimanda Ponte Sisto. Et il
-                     <objectName ref="#PonteMilvioRome">Milvio</objectName> hoggi detto Ponte Molle,
-                  posto nella <objectName ref="#ViaFlaminia">via Flaminia</objectName> lontano da
-                     <placeName ref="#Rome">Roma</placeName> poco meno di due miglia, il quale non
-                  ritiene altro di antico che li fondamenti e dicono che fu edificato al tempo di
-                     <persName ref="#Sylla">Silla</persName> da <persName
-                     ref="#MarcusAemiliusScaurus">Marco Scauro Censore</persName>. Si vedono anco le
-                  ruine di un <objectName ref="#PonteAugusteNarni">ponte</objectName> edificato da
-                     <persName ref="#Auguste">Augusto Cesare</persName> di opera rustica sopra la
-                  Nera, fiume velocissimo appresso <placeName ref="#Narni">Narni</placeName>. E
-                  sopra il Metauro nell'<placeName ref="#Ombrie">Umbria</placeName> a <placeName
-                     ref="#Cagli">Calgi</placeName> se ne vede <objectName ref="#PonteMallioCagli"
-                     >un altro</objectName> di opera rustica similmente con alcuni contraforti nelle
+                  esser vicino al <placeName ref="#Janicule">Monte Ianiculo</placeName>, il quale,
+                  perché è stato ristaurato da <persName ref="#SixteIV">Papa Sisto <choice>
+                        <sic>IIII</sic>
+                        <corr>IV</corr>
+                     </choice></persName>, hora si dimanda Ponte Sisto. Et il <objectName
+                     ref="#PonteMilvioRome">Milvio</objectName> hoggi detto Ponte Molle, posto nella
+                     <objectName ref="#ViaFlaminia">via Flaminia</objectName> lontano da <placeName
+                     ref="#Rome">Roma</placeName> poco meno di due miglia, il quale non ritiene
+                  altro di antico che li fondamenti e dicono che fu edificato al tempo di <persName
+                     ref="#Sylla">Silla</persName> da <persName ref="#MarcusAemiliusScaurus">Marco
+                     Scauro Censore</persName>. Si vedono anco le ruine di un <objectName
+                     ref="#PonteAugusteNarni">ponte</objectName> edificato da <persName
+                     ref="#Auguste">Augusto Cesare</persName> di opera rustica sopra la Nera, fiume
+                  velocissimo appresso <placeName ref="#Narni">Narni</placeName>. E sopra il Metauro
+                     nell'<placeName ref="#Ombrie">Umbria</placeName> a <placeName ref="#Cagli"
+                     >Calgi</placeName> se ne vede <objectName ref="#PonteMallioCagli">un
+                     altro</objectName> di opera rustica similmente con alcuni contraforti nelle
                   ripe, che sostentano la strada e lo fanno fortissimo. Ma tra tutti i ponti
                   celebri, per cosa maravigliosa è ricordato <objectName>quello</objectName> che
                   fece far <persName ref="#Caligula">Caligola da Pozzolo</persName> a <placeName
@@ -4677,33 +4699,34 @@
                <head><hi rend="capitals">DELLE PIAZZE DEI GRECI</hi>. Cap. XVII.</head>
                <p xml:id="PAL_QLA_L3_L3C19_P1"><figure type="lettrine"/><hi rend="capitals">I
                      greci</hi> (come ha <persName ref="#Vitruve">Vitruvio</persName> nel primo
-                  capitolo del <bibl>V. Libro</bibl>) ordinavano nelle lor Città le piazze di forma
-                  quadrata e facevano lor intorno i portichi ampi e doppi et di spesse colonne, cioè
-                  distanti l'una dall'altra un diametro e mezo di colonna, o al più due diametri.
-                  Erano questi portichi larghi quanto era la lunghezza delle colonne, onde, perché
-                  erano doppi, il luogo da passeggiare veniva a esser largo quanto erano due
-                  lunghezze di colonna e così molto commodo et ampio. Sopra le prime colonne, le
-                  quali (havendo riguardo al luogo, ove esse erano) per mio giudicio dovevano esser
-                  di ordine Corinthio, vi erano altre colonne, la quarta parte minori delle prime,
-                  queste havevano sotto di sé il poggio dell'altezza che ricerca la commodità:
-                  perché anco questi portici di sopra si facevano per potervi passeggiar, e
-                  trattenersi, et ove potessero star commodamente le persone a veder i spettacoli
-                  che nella piazza o per divotione o per diletto si facessero. Doveano esser tutti
-                  questi portichi ornati di Nicchi con statue, perciò che i Greci molto di tali
-                  ornamenti si dilettarono. Vicino a queste piazze, benché <persName ref="#Vitruve"
-                     >Vitruvio</persName> quando ne insegna come elle si ordinavano non faccia
-                  mentione di questi luoghi, vi dovea esser la Basilica, la Curia, le prigioni e
-                  tutti gli altri luoghi dei quali se è detto di sopra, che si congiongono alle
-                  piazze. Oltra di ciò perché (come egli dice al capitolo VII. del <bibl>primo
-                     Libro</bibl>) usarono gli antichi di fare appresso le piazze i Tempi consacrati
-                  a <persName ref="#Mercure">Mercurio</persName> et a <persName ref="#Isis"
+                  capitolo del <bibl key="vitruveArchitectura" ref="Livre V">V. Libro</bibl>)
+                  ordinavano nelle lor Città le piazze di forma quadrata e facevano lor intorno i
+                  portichi ampi e doppi et di spesse colonne, cioè distanti l'una dall'altra un
+                  diametro e mezo di colonna, o al più due diametri. Erano questi portichi larghi
+                  quanto era la lunghezza delle colonne, onde, perché erano doppi, il luogo da
+                  passeggiare veniva a esser largo quanto erano due lunghezze di colonna e così
+                  molto commodo et ampio. Sopra le prime colonne, le quali (havendo riguardo al
+                  luogo, ove esse erano) per mio giudicio dovevano esser di ordine Corinthio, vi
+                  erano altre colonne, la quarta parte minori delle prime, queste havevano sotto di
+                  sé il poggio dell'altezza che ricerca la commodità: perché anco questi portici di
+                  sopra si facevano per potervi passeggiar, e trattenersi, et ove potessero star
+                  commodamente le persone a veder i spettacoli che nella piazza o per divotione o
+                  per diletto si facessero. Doveano esser tutti questi portichi ornati di Nicchi con
+                  statue, perciò che i Greci molto di tali ornamenti si dilettarono. Vicino a queste
+                  piazze, benché <persName ref="#Vitruve">Vitruvio</persName> quando ne insegna come
+                  elle si ordinavano non faccia mentione di questi luoghi, vi dovea esser la
+                  Basilica, la Curia, le prigioni e tutti gli altri luoghi dei quali se è detto di
+                  sopra, che si congiongono alle piazze. Oltra di ciò perché (come egli dice al
+                  capitolo VII. del <bibl key="vitruveArchitectura" ref="Livre I">primo
+                  Libro</bibl>) usarono gli antichi di fare appresso le piazze i Tempi consacrati a
+                     <persName ref="#Mercure">Mercurio</persName> et a <persName ref="#Isis"
                      >Iside</persName>, come a Dei presidenti ai negoti et alle mercantie; et in
                      <placeName ref="#Pula">Pola</placeName> Città dell'<placeName ref="#Istrie"
-                     >Istria</placeName> se ne veggono due sopra la <objectName>piazza</objectName>,
-                  l'uno simile all'altro di forma, di grandezza et di ornamenti. Io gli ho figurati
-                  nel disegno di queste piazze a canto la Basilica: le piante e gli alzati dei quali
-                  con tutti i lor membri particolari più distintamente si vederanno nel mio
-                     <bibl>Libro dei Tempi</bibl>.</p>
+                     >Istria</placeName> se ne veggono due sopra la piazza, l'uno simile all'altro
+                  di forma, di grandezza et di ornamenti. Io gli ho figurati nel disegno di queste
+                  piazze a canto la Basilica: le piante e gli alzati dei quali con tutti i lor
+                  membri particolari più distintamente si vederanno nel mio <bibl>Libro dei
+                     Tempi</bibl>.</p>
                <p><list rend="numbered">
                      <item>A, Piazza.</item>
                      <item>B, Portichi doppi.</item>
@@ -4730,28 +4753,29 @@
             </div2>
             <div2 xml:id="L3C20" type="chapitre" n="20">
                <pb n="35"/>
-               <head>DELLE PIAZZE DE'LATINI. Cap. XVIII.</head>
+               <head><hi rend="capitals">DELLE PIAZZE DEI LATINI</hi>. Cap. XVIII.</head>
                <p xml:id="PAL_QLA_L3_L3C20_P1"><figure type="lettrine"/><hi rend="capitals">I
                      romani</hi> et gli Italiani (come dice <persName ref="#Vitruve"
-                     >Vitruvio</persName> al <bibl>luogo sopradetto</bibl>), partendosi dall'uso dei
-                  Greci, facevano le lor piazze più lunghe che larghe: in modo che partita la
-                  lunghezza in tre parti, di due facevano la larghezza, perciò che dandosi in quelle
-                  i doni ai gladiatori, questa forma riusciva lor più commoda della quadrata. Et per
-                  questa causa anco facevano gli intercolunni dei portichi, che erano intorno alla
-                  piazza, di due diametri di colonna et un quarto, overo di tre diametri: acciò che
-                  la vista del popolo non fosse impedita dalla spessezza delle colonne. Erano i
-                  portichi larghi quanto erano lunghe le colonne et havevano sotto le botteghe dei
-                  banchieri. Le colonne di sopra si facevano la quarta parte meno di quelle di sotto
-                  perché le cose inferiori, rispetto al peso che portano, deono esser più ferme che
-                  le di sopra come è stato detto nel <bibl>primo Libro</bibl>. Nella parte volta
-                  alla più calda regione del Cielo situavano la Basilica, la quale io ho figurata
-                  nel disegno di queste piazze di lunghezza di due quadri: e nella parte di dentro
-                  vi sono i portichi intorno, larghi per il terzo dello spacio di mezo. Le colonne
-                  loro sono lunghe quanto essi sono larghi e potriano farsi di che ordine più
-                  piacesse. Nella parte volta a Settentrione io ho posta la Curia di lunghezza di un
-                  quadro e mezo, la sua altezza è per la metà della larghezza e lunghezza unite
-                  insieme, era questo il luogo (come ho detto di sopra) ove si raunava il Senato a
-                  consultar delle cose dello stato.</p>
+                     >Vitruvio</persName> al <bibl key="vitruveArchitectura" ref="Livre I">luogo
+                     sopradetto</bibl>), partendosi dall'uso dei Greci, facevano le lor piazze più
+                  lunghe che larghe: in modo che partita la lunghezza in tre parti, di due facevano
+                  la larghezza, perciò che dandosi in quelle i doni ai gladiatori, questa forma
+                  riusciva lor più commoda della quadrata. Et per questa causa anco facevano gli
+                  intercolunni dei portichi, che erano intorno alla piazza, di due diametri di
+                  colonna et un quarto, overo di tre diametri: acciò che la vista del popolo non
+                  fosse impedita dalla spessezza delle colonne. Erano i portichi larghi quanto erano
+                  lunghe le colonne et havevano sotto le botteghe dei banchieri. Le colonne di sopra
+                  si facevano la quarta parte meno di quelle di sotto perché le cose inferiori,
+                  rispetto al peso che portano, deono esser più ferme che le di sopra come è stato
+                  detto nel <bibl>primo Libro</bibl>. Nella parte volta alla più calda regione del
+                  Cielo situavano la Basilica, la quale io ho figurata nel disegno di queste piazze
+                  di lunghezza di due quadri: e nella parte di dentro vi sono i portichi intorno,
+                  larghi per il terzo dello spacio di mezo. Le colonne loro sono lunghe quanto essi
+                  sono larghi e potriano farsi di che ordine più piacesse. Nella parte volta a
+                  Settentrione io ho posta la Curia di lunghezza di un quadro e mezo, la sua altezza
+                  è per la metà della larghezza e lunghezza unite insieme, era questo il luogo (come
+                  ho detto di sopra) ove si raunava il Senato a consultar delle cose dello
+                  stato.</p>
                <p><list rend="numbered">
                      <item>A, Scala a lumaca vacua nel mezo che porta nei luoghi di sopra.</item>
                      <item>B, Andito per il quale si entra nei portichi della piazza.</item>
@@ -5006,6 +5030,7 @@
          <pb type="blankpage"/>
          <div1 xml:id="L4" type="livre" n="4">
             <pb n="1"/>
+            <figure type="frontispice"/>
             <head>IL QUARTO LIBRO DELL'ARCHITETTURA Di <persName ref="#AndreaPalladio">Andrea
                   Palladio</persName>. </head>
             <head>NEL QUAL SI DESCRIVONO, e si figurano i Tempi Antichi, che sono in <placeName
@@ -5016,8 +5041,9 @@
             <div2 xml:id="L4C1" type="chapitre" n="1">
                <pb type="blankpage"/>
                <pb n="3"/>
-               <head><hi rend="capitals">IL QUARTO LIBRO DELL'ARCHITETTURA DI ANDREA PALLADIO</hi>.
-                  Proemio ai Lettori.</head>
+               <head><hi rend="capitals">IL QUARTO LIBRO DELL'ARCHITETTURA DI <persName
+                        ref="#AndreaPalladio">ANDREA PALLADIO</persName></hi>. Proemio ai
+                  Lettori.</head>
                <p xml:id="PAL_QLA_L4_L4C1_P1"><figure type="lettrine"/><hi rend="capitals">Se in
                   </hi>fabrica alcuna è da esser posta opera et industria, accioché ella con bella
                   misura e proportione sia compartita, ciò senza alcun dubbio si deve fare nei
@@ -5232,15 +5258,16 @@
                      >Aspetto</hi> si intende quella prima mostra che fa il Tempio di se a chi a lui
                   si avicina. Sette sono i più regolati e meglio intesi Aspetti dei Tempi, dei quali
                   mi è paruto come necessario, il por qui quel tanto che ne dice <persName
-                     ref="#Vitruve">Vitruvio</persName> al capo primo del <bibl>primo Libro</bibl>;
-                  acciò che questa parte, la quale per la poca osservanza delle Antichità è stata da
-                  molti riputata difficile et da pochi fin'hora ben intesa, si renda facile e chiara
-                  per quello che io ne dirò, et per i disegni che seguiranno, i quali saranno
-                  essempio di quanto egli ci insegna; et ho voluto fare ancho i nomi dei quali egli
-                  si serve, accioché coloro che si porranno alla lettura di esso <persName
-                     ref="#Vitruve">Vitruvio</persName>, alla quale esorto ciascuno, riconoscano in
-                  quello i medesimi nomi e non paia loro di legger cose diverse. Per venire dunque
-                  al proposito nostro, i Tempi si fanno o con i portici o senza portici. Quelli che
+                     ref="#Vitruve">Vitruvio</persName> al capo primo del <bibl
+                     key="vitruveArchitectura" ref="Livre I">primo Libro</bibl>; acciò che questa
+                  parte, la quale per la poca osservanza delle Antichità è stata da molti riputata
+                  difficile et da pochi fin'hora ben intesa, si renda facile e chiara per quello che
+                  io ne dirò, et per i disegni che seguiranno, i quali saranno essempio di quanto
+                  egli ci insegna; et ho voluto fare ancho i nomi dei quali egli si serve, accioché
+                  coloro che si porranno alla lettura di esso <persName ref="#Vitruve"
+                     >Vitruvio</persName>, alla quale esorto ciascuno, riconoscano in quello i
+                  medesimi nomi e non paia loro di legger cose diverse. Per venire dunque al
+                  proposito nostro, i Tempi si fanno o con i portici o senza portici. Quelli che
                   senza portici si fanno, possono haver tre aspetti: l'uno si nomina in Antis, cioè
                   faccia in pilastri, perché Ante si chiamano i pilastri, che si fanno negli angoli,
                   overo cantoni delle fabriche. Degli altri due uno si dice Prostilos, cioè faccia
@@ -5660,17 +5687,17 @@
                   estreme parti di queste sponde vi erano <objectName>due statue</objectName>, cioè
                   una per testa del basamento. La Basa delle colonne è Attica, diversa in questo da
                   quella che ci insegna <persName ref="#Vitruve">Vitruvio</persName>, et che io ho
-                  posta nel <bibl>primo libro</bibl>, che in lei vi sono due tondini di più, uno
-                  sotto il cavetto et l'altro sotto la Cimbia. Le lingue del capitello sono
-                  intagliate a foglie di olivo e sono queste foglie ordinate a cinque a cinque, come
-                  sono le dita nelle mani degli huomini: et così ho osservato che sono fatti tutti i
-                  capitelli antichi di questa sorte, e riescono meglio et con più gratia di quelli,
-                  nei quali si fanno le dette foglie a quattro a quattro. Nell'Architrave sono
-                  bellissimi intagli che dividono una fascia dall'altra et questi intagli, e queste
-                  divisioni sono dai lati del tempio solamente: perché nella facciata l'Architrave,
-                  et il Fregio furno fatti tutti a un piano per potervi porre commodamente la
-                  inscrittione, della quale si veggono ancora queste poche lettere, benché tronche
-                  ancor esse, et guaste dal tempo.</p>
+                  posta nel <bibl key="vitruveArchitectura" ref="Livre I">primo libro</bibl>, che in
+                  lei vi sono due tondini di più, uno sotto il cavetto et l'altro sotto la Cimbia.
+                  Le lingue del capitello sono intagliate a foglie di olivo e sono queste foglie
+                  ordinate a cinque a cinque, come sono le dita nelle mani degli huomini: et così ho
+                  osservato che sono fatti tutti i capitelli antichi di questa sorte, e riescono
+                  meglio et con più gratia di quelli, nei quali si fanno le dette foglie a quattro a
+                  quattro. Nell'Architrave sono bellissimi intagli che dividono una fascia
+                  dall'altra et questi intagli, e queste divisioni sono dai lati del tempio
+                  solamente: perché nella facciata l'Architrave, et il Fregio furno fatti tutti a un
+                  piano per potervi porre commodamente la inscrittione, della quale si veggono
+                  ancora queste poche lettere, benché tronche ancor esse, et guaste dal tempo.</p>
                <p xml:id="PAL_QLA_L4_L4C9_P2"><hi rend="capitals"><foreign xml:lang="lat">IMPERATOR
                         NERVA CAESAR AVG. PONT. MAX. TRIB. POT. II. IMPERATOR II.
                      PROCOS.</foreign></hi></p>
@@ -5722,8 +5749,10 @@
                   statue. <hi rend="capitals">M</hi>, Gli ornamenti delle porte quadre che erano
                   nella facciata della piazza rincontro al portico del Tempio. </p>
                <pb n="24"/>
-               <figure type="élévation"/>
-               <figure type="plan"/>
+               <figure type="planche">
+                  <figure type="élévation"/>
+                  <figure type="plan"/>
+               </figure>
                <pb n="25"/>
                <figure type="coupe"/>
                <figure type="plan"/>
@@ -6121,22 +6150,23 @@
                <p xml:id="PAL_QLA_L4_L4C16_P1"><figure type="lettrine"/><hi rend="capitals"
                      >Alla</hi>
                   <objectName>piazza</objectName> detta volgarmente dei Preti, la quale si trova
-                  andando dalla Ritonda alla <objectName ref="#ColonneAntonineRome">colonna di
-                     Antonino</objectName>, si veggono le reliquie del seguente
-                     <objectName>tempio</objectName>; il quale secondo alcuni fu edificato da
-                     <persName ref="#AntoninLePieux">Antonino Imperatore</persName>, et dedicato al
-                  Dio <persName ref="#Mars">Marte</persName>. Il suo aspetto è lo alato a torno. La
-                  maniera è di spesse colonne. Gli intercolunni sono un diametro e mezo. I portici
-                  intorno sono tanto più larghi di uno intercolunnio quanto di più sporgono fuora le
-                  risalite delle anti del rimanente dei muri. Le colonne sono di ordine Corinthio.
-                  La basa è Attica, et ha un bastoncino sotto la cimbia della colonna; la cimbia o
-                  listello è sottile molto, e così riesce molto gratiosa et si fa così sottile ogni
-                  volta che è congiunta con un bastoncino sopra il toro della basa detto anch'esso
-                  bastone, perché non è pericolo che si spezzi. Il capitello è intagliato a foglie
-                  di Olivo et è benissimo inteso. L'Architrave in luogo di intavolato ha un mezo
-                  ovolo et sopra un Cavetto et il Cavetto ha molto belli intagli, e diversi da
-                  quelli del <objectName ref="#ForumDeLaPaixRome">tempio della Pace</objectName>, et
-                  del <objectName>tempio</objectName> che habbiamo detto che era nel <placeName
+                  andando dalla <objectName ref="#PantheonRome">Ritonda</objectName> alla
+                     <objectName ref="#ColonneAntonineRome">colonna di Antonino</objectName>, si
+                  veggono le reliquie del seguente <objectName>tempio</objectName>; il quale secondo
+                  alcuni fu edificato da <persName ref="#AntoninLePieux">Antonino
+                     Imperatore</persName>, et dedicato al Dio <persName ref="#Mars"
+                     >Marte</persName>. Il suo aspetto è lo alato a torno. La maniera è di spesse
+                  colonne. Gli intercolunni sono un diametro e mezo. I portici intorno sono tanto
+                  più larghi di uno intercolunnio quanto di più sporgono fuora le risalite delle
+                  anti del rimanente dei muri. Le colonne sono di ordine Corinthio. La basa è
+                  Attica, et ha un bastoncino sotto la cimbia della colonna; la cimbia o listello è
+                  sottile molto, e così riesce molto gratiosa et si fa così sottile ogni volta che è
+                  congiunta con un bastoncino sopra il toro della basa detto anch'esso bastone,
+                  perché non è pericolo che si spezzi. Il capitello è intagliato a foglie di Olivo
+                  et è benissimo inteso. L'Architrave in luogo di intavolato ha un mezo ovolo et
+                  sopra un Cavetto et il Cavetto ha molto belli intagli, e diversi da quelli del
+                     <objectName ref="#ForumDeLaPaixRome">tempio della Pace</objectName>, et del
+                     <objectName>tempio</objectName> che habbiamo detto che era nel <placeName
                      ref="#Quirinal">monte Quirinale</placeName> dedicato a <persName ref="#Jupiter"
                      >Giove</persName>. Il fregio pende in fuori una delle otto parti della sua
                   altezza et è gonfio nel mezo. La cornice ha il modiglione riquadrato e sopra
@@ -6308,8 +6338,8 @@
                <p xml:id="PAL_QLA_L4_L4C19_P1"><figure type="lettrine"/><hi rend="capitals">Tra</hi>
                   il <placeName ref="#Capitole">Campidoglio</placeName> et il <placeName
                      ref="#MontPalatin">Palatino</placeName> appresso il Foro Romano si veggono tre
-                  colonne di ordine Corinthio, le quali secondo alcuni e<objectName>rano di un
-                     fianco del </objectName>Tempio di <persName ref="#Vulcain">Vulcano</persName>,
+                  colonne di ordine Corinthio, le quali secondo alcuni erano di un fianco del
+                     <objectName>Tempio di <persName ref="#Vulcain">Vulcano</persName></objectName>,
                   e secondo alcuni altri del <objectName>Tempio di Romolo</objectName>; non manca
                   ancho chi dica che elle erano del <objectName>Tempio di <persName ref="#Jupiter"
                         >Giove</persName> Statore</objectName>, e così credo che fusse votato da
@@ -6352,21 +6382,22 @@
                <figure type="planche"/>
             </div2>
             <div2 xml:id="L4C20" type="chapitre" n="20">
-               <head><hi rend="capitals">DEL <objectName>TEMPIO DI GIOVE TONANTE</objectName></hi>.
-                  Cap. XIX. </head>
+               <head><hi rend="capitals">DEL <objectName ref="#TempleJupiterTonnantRome">TEMPIO DI
+                        GIOVE TONANTE</objectName></hi>. Cap. XIX. </head>
                <p xml:id="PAL_QLA_L4_L4C20_P1"><figure type="lettrine"/><hi rend="capitals">Si
                      veggono</hi> alle radici del <placeName ref="#Capitole">Campidoglio</placeName>
-                  alcuni vestigi del seguente <objectName>Tempio</objectName>, il quale dicono
-                  alcuni che era di <persName ref="#Jupiter">Giove</persName> Tonante, et che fu
-                  edificato da <persName ref="#Auguste">Augusto</persName> per il pericolo che egli
-                  passò quando nella guerra Cantabrica in un viaggio che egli faceva di notte, fu la
-                  Lettiga dove egli era dentro, percossa da una saetta, dalla quale fu morto un
-                  servo che vi era avanti, senza far punto di offesa alla persona di esso <persName
-                     ref="#Auguste">Augusto</persName>. Del che io dubito alquanto, perché gli
-                  ornamenti che vi si ueggono sono lavorati delicatissimamente con bellissimi
-                  intagli et è cosa manifesta che ai tempi di <persName ref="#Auguste"
-                     >Augusto</persName> le opere si facevano più sode, come si vede nel Portico di
-                     <objectName>Santa Maria Ritonda </objectName>edificato da <persName
+                  alcuni vestigi del seguente <objectName ref="#TempleJupiterTonnantRome"
+                     >Tempio</objectName>, il quale dicono alcuni che era di <persName
+                     ref="#Jupiter">Giove</persName> Tonante, et che fu edificato da <persName
+                     ref="#Auguste">Augusto</persName> per il pericolo che egli passò quando nella
+                  guerra Cantabrica in un viaggio che egli faceva di notte, fu la Lettiga dove egli
+                  era dentro, percossa da una saetta, dalla quale fu morto un servo che vi era
+                  avanti, senza far punto di offesa alla persona di esso <persName ref="#Auguste"
+                     >Augusto</persName>. Del che io dubito alquanto, perché gli ornamenti che vi si
+                  ueggono sono lavorati delicatissimamente con bellissimi intagli et è cosa
+                  manifesta che ai tempi di <persName ref="#Auguste">Augusto</persName> le opere si
+                  facevano più sode, come si vede nel Portico di <objectName ref="#PantheonRome"
+                     >Santa Maria Ritonda</objectName> edificato da <persName
                      ref="#MarcusVipsaniusAgrippa">Marco Agrippa</persName>, che è molto semplice,
                   et in altri edifici ancora. Vogliono alcuni che le colonne che sono quivi, fossero
                   del ponte, che fece fare <persName ref="#Caligula">Caligula</persName>, la quale
@@ -6668,9 +6699,12 @@
                   foglie di olivo, onde credo che egli fusse edificato ai buoni tempi. La sua porta
                   et le finestre sono più strette nella parte di sopra, che in quella di sotto, come
                   ci insegna <persName ref="#Vitruve">Vitruvio</persName> che si deono fare al
-                  Capitolo VI. del <bibl>IIII. libro</bibl> Tutto questo tempio è di pietra
-                  Tiburtina coperta con sottilissimo stucco, onde pare tutto fatto di marmo. Ho
-                  fatto di questo tempio quattro tavole.</p>
+                  Capitolo VI. del <bibl key="vitruveArchitectura" ref="Livre IV"><choice>
+                        <sic>IIII</sic>
+                        <corr>IV</corr>
+                     </choice>. libro</bibl> Tutto questo tempio è di pietra Tiburtina coperta con
+                  sottilissimo stucco, onde pare tutto fatto di marmo. Ho fatto di questo tempio
+                  quattro tavole.</p>
                <p xml:id="PAL_QLA_L4_L4C24_P2"><hi rend="capitals">NELLA</hi> Prima è disegnata la
                   Pianta.</p>
                <p xml:id="PAL_QLA_L4_L4C24_P3">Nella Seconda vi è l'Alzato.</p>
@@ -6937,36 +6971,37 @@
                   si alza da terra dieci piedi e cinque oncie, gli fa basamento intorno un
                   piedestilo, sopra la cui cimacia sono due gradi che sostentano la basa delle
                   colonne e potria essere facilmente, che di tai gradi intendesse <persName
-                     ref="#Vitruve">Vitruvio</persName>, quando al fine del III. capitolo del
-                     <bibl>III. libro</bibl> disse che facendosi il poggio intorno del tempio si
-                  debbano fare sotto le base delle colonne li scamili impari, i quali rispondino al
-                  dritto del vivo del piedestilo, che è sotto le colonne et siano a livello sotto la
-                  basa della colonna et sopra la Cimacia del piedestilo, il qual luogo ha dato da
-                  considerare a molti. La basa di questo basamento ha manco membri et è più grossa
-                  della cimacia, come è stato avertito altrove che si dè fare nei piedestili. La
-                  basa delle colonne è Attica, ma ha di più alcuni bastoncini, onde si può dire
-                  Composita et conveniente all'ordine Corinthio. I capitelli sono lavorati a foglie
-                  di Olivo et hanno l'abaco intagliato. Il fiore posto nel mezo della fronte del
-                  capitello occupa l'altezza dell'abaco et l'orlo della campana, il che ho avertito
-                  che è stato osservato in tutti i capitelli antichi di questa sorte. L'Architrave,
-                  il Fregio e la Cornice sono per la quarta parte della lunghezza delle colonne e
-                  sono tutti i loro membri intagliati con bellissima inventione. I modiglioni sono
-                  diversi da quanti io ne ho veduti, e questa loro diversità dagli ordinari è molto
-                  gratiosa; et benché i capitelli siano a foglie di olivo, essi non di meno sono
-                  intagliati a foglie di rovere. Sopra la Gola diritta invece di orlo vi è l'ovolo
-                  intagliato, il che si vede in rare cornici. Il Frontespicio è fatto a punto come
-                  ne insegna <persName ref="#Vitruve">Vitruvio</persName> al luogo sopradetto.
-                  Perché delle nove parti della lunghezza della cornice una ne è messa in altezza
-                  del frontespicio sotto la sua cornice. Le erte o pilastrate della Porta sono
-                  grosse in fronte per la sesta parte della larghezza della luce. Ha questa porta
-                  molto begli ornamenti e molto bene intagliati. Sopra la sua cornice al diritto
-                  delle pilastrate vi sono due pezzi di pietra lavorati a guisa di Architravi, i
-                  quali avanzano fuori di detta cornice et in ciascuno di loro è un buco quadro
-                  largo per ogni verso dieci oncie e meza, nei quali credo che ponessero alcune
-                  travi, le quali arrivassero fino in terra et vi fusse fatta una porta posticcia da
-                  poter levare e porre, la quale dovea esser fatta a gelosia, acciò il popolo stando
-                  di fuori potesse vedere quello che si faceva nel tempio senza dare impedimento ai
-                  Sacerdoti. Sono di questo Tempio sei tavole. </p>
+                     ref="#Vitruve">Vitruvio</persName>, quando al fine del III. capitolo del <bibl
+                     key="vitruveArchitectura" ref="Livre III">III. libro</bibl> disse che facendosi
+                  il poggio intorno del tempio si debbano fare sotto le base delle colonne li
+                  scamili impari, i quali rispondino al dritto del vivo del piedestilo, che è sotto
+                  le colonne et siano a livello sotto la basa della colonna et sopra la Cimacia del
+                  piedestilo, il qual luogo ha dato da considerare a molti. La basa di questo
+                  basamento ha manco membri et è più grossa della cimacia, come è stato avertito
+                  altrove che si dè fare nei piedestili. La basa delle colonne è Attica, ma ha di
+                  più alcuni bastoncini, onde si può dire Composita et conveniente all'ordine
+                  Corinthio. I capitelli sono lavorati a foglie di Olivo et hanno l'abaco
+                  intagliato. Il fiore posto nel mezo della fronte del capitello occupa l'altezza
+                  dell'abaco et l'orlo della campana, il che ho avertito che è stato osservato in
+                  tutti i capitelli antichi di questa sorte. L'Architrave, il Fregio e la Cornice
+                  sono per la quarta parte della lunghezza delle colonne e sono tutti i loro membri
+                  intagliati con bellissima inventione. I modiglioni sono diversi da quanti io ne ho
+                  veduti, e questa loro diversità dagli ordinari è molto gratiosa; et benché i
+                  capitelli siano a foglie di olivo, essi non di meno sono intagliati a foglie di
+                  rovere. Sopra la Gola diritta invece di orlo vi è l'ovolo intagliato, il che si
+                  vede in rare cornici. Il Frontespicio è fatto a punto come ne insegna <persName
+                     ref="#Vitruve">Vitruvio</persName> al luogo sopradetto. Perché delle nove parti
+                  della lunghezza della cornice una ne è messa in altezza del frontespicio sotto la
+                  sua cornice. Le erte o pilastrate della Porta sono grosse in fronte per la sesta
+                  parte della larghezza della luce. Ha questa porta molto begli ornamenti e molto
+                  bene intagliati. Sopra la sua cornice al diritto delle pilastrate vi sono due
+                  pezzi di pietra lavorati a guisa di Architravi, i quali avanzano fuori di detta
+                  cornice et in ciascuno di loro è un buco quadro largo per ogni verso dieci oncie e
+                  meza, nei quali credo che ponessero alcune travi, le quali arrivassero fino in
+                  terra et vi fusse fatta una porta posticcia da poter levare e porre, la quale
+                  dovea esser fatta a gelosia, acciò il popolo stando di fuori potesse vedere quello
+                  che si faceva nel tempio senza dare impedimento ai Sacerdoti. Sono di questo
+                  Tempio sei tavole. </p>
                <pb n="112"/>
                <figure type="plan" place="left"/>
                <p xml:id="PAL_QLA_L4_L4C29_P2"><hi rend="capitals">NELLA</hi> Prima che è la
