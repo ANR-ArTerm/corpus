@@ -4,31 +4,72 @@
     <Daret_VieRaphael>
 
         <certainty target="#HpMantegnaMiseTombeau" locus="value">
-            <desc>
-                Deux hypothèses d'identification possibles :
-                <objectName ref="#MantegnaMiseAuTombeauQuatreOiseaux"></objectName>, 
-                <objectName ref="#MantegnaMiseAuTombeauLargeur"></objectName>.
-            </desc>
+            <desc> Deux hypothèses d'identification possibles : <objectName
+                    ref="#MantegnaMiseAuTombeauQuatreOiseaux"/>, <objectName
+                    ref="#MantegnaMiseAuTombeauLargeur"/>. </desc>
         </certainty>
 
         <certainty target="#HpCaraglioNativité" locus="value">
-            <desc>
-                Trois hypothèses d'identification possibles :
-                <objectName ref="#CaraglioViergeJBRaphael"/>, 
-                <objectName ref="#CaraglioAdorationBergers"/>, 
-                <objectName ref="#CaraglioAnnonciation"/>.
-            </desc>
+            <desc> Trois hypothèses d'identification possibles : <objectName
+                    ref="#CaraglioViergeJBRaphael"/>, <objectName ref="#CaraglioAdorationBergers"/>,
+                    <objectName ref="#CaraglioAnnonciation"/>. </desc>
         </certainty>
 
     </Daret_VieRaphael>
 
     <Palladio_quattro_libri>
-        <certainty target="#PbCaiusAureliusCotta">
-            <desc>
-                Pourrait correspondre au <persName ref="#CaiusAureliusCottaPere">père</persName> ou <persName ref="#CaiusAureliusCottaFils">au fils</persName>.
-            </desc>
+        <certainty target="#PbCaiusAureliusCotta" locus="value">
+            <desc> Pourrait correspondre au <persName ref="#CaiusAureliusCottaPere">père</persName>
+                ou <persName ref="#CaiusAureliusCottaFils">au fils</persName>. </desc>
         </certainty>
-
+        <certainty target="#TempleDeLaPaix" locus="value">
+            <desc>Palladio nomme ce monument le <objectName ref="#ForumDeLaPaixRome">Temple de la
+                    Paix</objectName> mais d'après les illustrations et la description qu'il en fait
+                il semblerait que ce soit plutôt la <objectName
+                    ref="#BasiliqueDeMaxenxeConstantinRome">Basilique de Maxence et
+                    Constantin</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty target="StatueEquestreMarcAurele" locus="value">
+            <desc>Le modèle de la statue est <object ref="#StatueEquestreMarcAureleRome">Marc
+                    Aurèle</object> et non Antonine Le Pieux<bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty target="TempleDeSolRome" locus="value">
+            <desc>Palladio nomme ce monument <objectName ref="#TempleDeSolRome">Temple de
+                    Sol</objectName> et <objectName ref="#TempleDeLaLuneRome">Temple de la
+                    Lune</objectName> mais d'après les illustrations et la description qu'il en fait
+                il semblerait que ce soit plutôt le <objectName ref="#TempleVenusRomeRome">Temple de
+                    Vénus et de Rome</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty target="TempleDeLaLuneRome" locus="value">
+            <desc>Palladio nomme ce monument <objectName ref="#TempleDeSolRome">Temple de
+                    Sol</objectName> et <objectName ref="#TempleDeLaLuneRome">Temple de la
+                    Lune</objectName> mais d'après les illustrations et la description qu'il en fait
+                il semblerait que ce soit plutôt le <objectName ref="#TempleVenusRomeRome">Temple de
+                    Vénus et de Rome</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty target="TempleJupiterQuirinal" locus="value">
+            <desc>Palladio nomme ce monument Temple de Jupiter sûr le monte Quirinal mais d'après
+                les illustrations et la description qu'il en fait il semblerait que ce soit plutôt
+                le <objectName ref="#TempleSerapisRome">Temple de Sérapis</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty xml:id="TempleVestaRome" locus="value">
+            <desc>Palladio nomme ce monument <objectName ref="#TempleVestaRome">Temple de
+                    Vesta</objectName> mais d'après les illustrations et la description qu'il en
+                fait il semblerait que ce soit plutôt le <objectName ref="#TempleHerculeVictorRome"
+                    >Temple d'Hercule Victor</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/></desc>
+        </certainty>
+        <certainty xml:id="TempleMarsRome" locus="value">
+            <desc>Palladio nomme ce monument Temple de Mars mais d'après les illustrations et la
+                description qu'il en fait il semblerait que ce soit plutôt le <objectName
+                    ref="#TempleHadrienRome">Temple d'Hadrien</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/></desc>
+        </certainty>
     </Palladio_quattro_libri>
 
 
