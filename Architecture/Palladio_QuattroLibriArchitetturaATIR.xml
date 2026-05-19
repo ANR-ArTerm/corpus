@@ -5447,15 +5447,14 @@
           <pb n="11"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f207/full/full/0/native.jpg"/>
           <head><hi rend="capitals">DEI DISEGNI DI ALCUNI TEMPI ANTICHI CHE SONO </hi>in <placeName
-              ref="#Rome">Roma</placeName>, e prima di <objectName cert="low">quello della
-              Pace</objectName>. Cap. VI. </head>
+              ref="#Rome">Roma</placeName>, e prima di quello della Pace. Cap. VI. </head>
           <p xml:id="PAL_QLA_L4_L4C7_P1"><figure type="lettrine"/><hi rend="capitals"
               >Comincieremo</hi> adunque con buono augurio dai disegni del Tempio già dedicato alla
-              <objectName cert="low">Pace</objectName>, del quale si veggono i vestigi vicino alla
-              <objectName ref="#BasiliqueSantaFrancescaRomanaRome">Chiesa di Santa Maria
-              Nuova</objectName>, nella <objectName ref="#ViaSacraRome">via Sacra</objectName>, e
-            dicono gli scrittori che egli è nell'istesso luogo dove prima fu la <objectName
-              ref="#CurieHostiliaRome">Curia di Romolo et Hostilia</objectName>, poi la
+              <objectName cert="low" xml:id="TempleDeLaPaix">Pace</objectName>, del quale si veggono
+            i vestigi vicino alla <objectName ref="#BasiliqueSantaFrancescaRomanaRome">Chiesa di
+              Santa Maria Nuova</objectName>, nella <objectName ref="#ViaSacraRome">via
+              Sacra</objectName>, e dicono gli scrittori che egli è nell'istesso luogo dove prima fu
+            la <objectName ref="#CurieHostiliaRome">Curia di Romolo et Hostilia</objectName>, poi la
               <objectName>casa di Menio</objectName>, la <objectName ref="#BasiliquePorciaRome"
               >Basilica Portia</objectName>, e <objectName>la casa di <persName ref="#JulesCesar"
                 >Cesare</persName></objectName> et il <objectName ref="#PortiqueDeLivieRome"
@@ -5786,10 +5785,10 @@
             d'intorno vi erano colonne, et molti ornamenti, dei quali hora non se ne vede uestigio
             alcuno: et io ne vidi essendo in <placeName ref="#Rome">Roma</placeName> disfare una
             parte, che ancora era in piedi. Dai lati del Tempio vi erano due altre entrate aperte,
-            cioè senza archi. Nel mezo di questo cortile vi era la <objectName cert="low">statua di
-              Bronzo di Antonino a cavallo</objectName>, la quale hora è nella <objectName
-              ref="#MichelAngeCapitoleRome">piazza del Campidoglio</objectName>. Di questo Tempio ho
-            fatto cinque tavole. </p>
+            cioè senza archi. Nel mezo di questo cortile vi era la <objectName cert="low"
+              xml:id="StatueEquestreMarcAurele">statua di Bronzo di Antonino a cavallo</objectName>,
+            la quale hora è nella <objectName ref="#MichelAngeCapitoleRome">piazza del
+              Campidoglio</objectName>. Di questo Tempio ho fatto cinque tavole. </p>
           <p xml:id="PAL_QLA_L4_L4C10_P4"><hi rend="capitals">NELLA</hi> Prima è l'alzato per fianco
             nella parte di fuori: per gli intercolunni del portico si vede l'ordine delle colonne et
             degli ornamenti che erano intorno il cortile.</p>
@@ -5844,26 +5843,26 @@
         <div2 xml:id="L4C11" type="chapitre" n="11">
           <pb n="36"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f232/full/full/0/native.jpg"/>
-          <head><hi rend="capitals">DEI <objectName cert="low">TEMPI DEL SOLE</objectName> E
-                <objectName cert="low">DELLA LUNA</objectName></hi>. Cap. X. </head>
+          <head><hi rend="capitals">DEI TEMPI DEL SOLE E DELLA LUNA</hi>. Cap. X. </head>
           <p xml:id="PAL_QLA_L4_L4C11_P1"><figure type="lettrine"/><hi rend="capitals">Vicino</hi>
               all'<objectName ref="#ArcTitusRome">Arco di Tito</objectName> nell'orto di <objectName
               ref="#BasiliqueSantaFrancescaRomanaRome">Santa Maria Nova</objectName> si veggono due
             Tempi di una medesina forma e con gli istessi ornamenti, l'uno <reg>dei</reg> quali però
-            che è posto a Levante si crede che fusse il <objectName cert="low">Tempio del
-              Sole</objectName>: l'altro perché guarda verso Ponente della <objectName cert="low"
-              >Luna</objectName>, furno edificati questi Tempi, et dedicati da <persName
-              ref="#TitusTatius">Tito Tatio</persName> Re dei Romani e si avicinano alla forma
-            ritonda perché sono così larghi come lunghi, il che su fatto havendo rispetto al viaggio
-              <reg>dei</reg> detti pianeti, il quale è circolare intorno del Cielo. Le loggie che
-            erano avanti l'entrata di questi Tempi sono tutte ruinate, né si veggono altri ornamenti
-            che quelli, che sono nei volti, i quali hanno compartimenti di stucco lavorati molto
-            diligentemente e con bella inventione. I muri di questi Tempi sono grossissimi, et tra
-            l'un Tempio e l'altro per fianco delle capelle grandi, le quali sono rincontro
-            all'entrata, si veggono i vestigi di alcune scale, che doveano portare sul tetto. Io ho
-            fatto le loggie davanti, et gli ornamenti di dentro come mi sono imaginato che dovessino
-            essere havuta consideratione a quello che si vede hora sopra terra et a quel poco che si
-            è potuto vedere dei fondamenti. Di questi Tempi io ho fatto due Tavole. </p>
+            che è posto a Levante si crede che fusse il <objectName cert="low"
+              xml:id="TempleDeSolRome">Tempio del Sole</objectName>: l'altro perché guarda verso
+            Ponente della <objectName cert="low" xml:id="TempleDeLaLuneRome">Luna</objectName>,
+            furno edificati questi Tempi, et dedicati da <persName ref="#TitusTatius">Tito
+              Tatio</persName> Re dei Romani e si avicinano alla forma ritonda perché sono così
+            larghi come lunghi, il che su fatto havendo rispetto al viaggio <reg>dei</reg> detti
+            pianeti, il quale è circolare intorno del Cielo. Le loggie che erano avanti l'entrata di
+            questi Tempi sono tutte ruinate, né si veggono altri ornamenti che quelli, che sono nei
+            volti, i quali hanno compartimenti di stucco lavorati molto diligentemente e con bella
+            inventione. I muri di questi Tempi sono grossissimi, et tra l'un Tempio e l'altro per
+            fianco delle capelle grandi, le quali sono rincontro all'entrata, si veggono i vestigi
+            di alcune scale, che doveano portare sul tetto. Io ho fatto le loggie davanti, et gli
+            ornamenti di dentro come mi sono imaginato che dovessino essere havuta consideratione a
+            quello che si vede hora sopra terra et a quel poco che si è potuto vedere dei
+            fondamenti. Di questi Tempi io ho fatto due Tavole. </p>
           <p xml:id="PAL_QLA_L4_L4C11_P2"><hi rend="capitals">NELLA</hi> Prima vi sono le piante di
             tutti due, come sono congiunti insieme: e si vede dove sono le Scale, che io ho detto
             che portavano sopra il tetto. Appresso queste piante vi sono gli alzati di fuori, e di
@@ -5931,8 +5930,7 @@
         <div2 xml:id="L4C13" type="chapitre" n="13">
           <pb n="41"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f237/full/full/0/native.jpg"/>
-          <head><hi rend="capitals">DEL <objectName cert="low">TEMPIO DI GIOVE</objectName>.</hi>
-            Cap. XII. </head>
+          <head><hi rend="capitals">DEL TEMPIO DI GIOVE.</hi> Cap. XII. </head>
           <p xml:id="PAL_QLA_L4_L4C13_P1"><figure type="lettrine"/><hi rend="capitals"
               >Nel</hi><placeName ref="#Quirinal">Monte Quirinale</placeName>, hoggi detto Monte
             Cavallo, dietro le case dei Signori Colonna si veggono i vestigi dell'edificio che
@@ -5944,27 +5942,27 @@
               Esquilino</placeName> non molto lontano dalle <objectName ref="#ThermesDiocletienRome"
               >Terme di Dioclitiano</objectName>. Sono stati alcuni altri che hanno detto che quivi
             furono le <objectName>case dei Corneli</objectName>. Io per me credo che questo fusse un
-              <objectName>Tempio</objectName> dedicato a <persName ref="#Jupiter">Giove</persName>:
-            Percioché ritrovandomi in <placeName ref="#Rome">Roma</placeName> vidi cavare dove era
-            il corpo del Tempio et furno trovati alcuni capitelli Ionichi, i quali servivano alla
-            parte di dentro del Tempio et erano quelli degli anguli delle loggie, perché la parte di
-            mezo per mia opinione era scoperta. Lo aspetto di questo Tempio era il falso alato detto
-            da <persName ref="#Vitruve">Vitruvio</persName> Pseudodipteros. La maniera sua era di
-            spesse colonne. Le colonne dei portici di fuori erano di ordine Corinthio. L'Architrave,
-            il Fregio e la Cornice erano per la quarta parte dell'altezza delle colonne.
-            L'Architrave haveva il suo cimacio di molto bella inventione. Il fregio nei lati era
-            intagliato a fogliami, ma nella fronte, la quale è ruinata, vi dovevano esser le lettere
-            della inscrittione. La Cornice ha i modiglioni riquadrati et uno di essi viene al
-            diritto del mezo della colonna. I modiglioni, che sono nella cornice del Frontespicio
-            sono diritti a piombo, e così si deono fare. Nella parte di dentro del Tempio vi
-            dovevano essere i portici, come io ho disegnato. Intorno a questo Tempio vi era un
-            Cortile ornato con colonne e statue, et davanti vi erano i <objectName
-              ref="#FontaineDesDioscuresRome">due cavalli</objectName>, che si veggono nella via
-            publica, da quali esso monte ha preso il nome di Monte Cavallo; furno fatti l'uno da
-              <persName ref="#Praxitele">Prasitele</persName> e l'altro da <persName ref="#Phidias"
-              >Fidia</persName>. Vi erano Scale commodissime, che ascendevano al Tempio e per mia
-            opinione questo doveva essere il maggiore et più ornato Tempio che fusse in <placeName
-              ref="#Rome">Roma</placeName>. Io ne ho fatto sei tavole. </p>
+              <objectName cert="low" xml:id="TempleJupiterQuirinal">Tempio</objectName> dedicato a
+              <persName ref="#Jupiter">Giove</persName>: Percioché ritrovandomi in <placeName
+              ref="#Rome">Roma</placeName> vidi cavare dove era il corpo del Tempio et furno trovati
+            alcuni capitelli Ionichi, i quali servivano alla parte di dentro del Tempio et erano
+            quelli degli anguli delle loggie, perché la parte di mezo per mia opinione era scoperta.
+            Lo aspetto di questo Tempio era il falso alato detto da <persName ref="#Vitruve"
+              >Vitruvio</persName> Pseudodipteros. La maniera sua era di spesse colonne. Le colonne
+            dei portici di fuori erano di ordine Corinthio. L'Architrave, il Fregio e la Cornice
+            erano per la quarta parte dell'altezza delle colonne. L'Architrave haveva il suo cimacio
+            di molto bella inventione. Il fregio nei lati era intagliato a fogliami, ma nella
+            fronte, la quale è ruinata, vi dovevano esser le lettere della inscrittione. La Cornice
+            ha i modiglioni riquadrati et uno di essi viene al diritto del mezo della colonna. I
+            modiglioni, che sono nella cornice del Frontespicio sono diritti a piombo, e così si
+            deono fare. Nella parte di dentro del Tempio vi dovevano essere i portici, come io ho
+            disegnato. Intorno a questo Tempio vi era un Cortile ornato con colonne e statue, et
+            davanti vi erano i <objectName ref="#FontaineDesDioscuresRome">due cavalli</objectName>,
+            che si veggono nella via publica, da quali esso monte ha preso il nome di Monte Cavallo;
+            furno fatti l'uno da <persName ref="#Praxitele">Prasitele</persName> e l'altro da
+              <persName ref="#Phidias">Fidia</persName>. Vi erano Scale commodissime, che
+            ascendevano al Tempio e per mia opinione questo doveva essere il maggiore et più ornato
+            Tempio che fusse in <placeName ref="#Rome">Roma</placeName>. Io ne ho fatto sei tavole. </p>
           <p xml:id="PAL_QLA_L4_L4C13_P2"><hi rend="capitals">NELLA</hi> Prima vi è la pianta di
             tutto l'edificio con la parte di dietro ove erano le scale, che salendo una sopra
             l'altra portavano nei Cortili, che erano dai lati del Tempio. L'alzato di questa maniera
@@ -6091,33 +6089,34 @@
         <div2 xml:id="L4C15" type="chapitre" n="15">
           <pb n="52"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f248/full/full/0/native.jpg"/>
-          <head>DEL <objectName cert="low">TEMPIO DI VESTA</objectName>. Cap. <choice>
+          <head>DEL TEMPIO DI VESTA. Cap. <choice>
               <sic>XIIII</sic>
               <corr>XIV</corr>
             </choice>. </head>
           <p xml:id="PAL_QLA_L4_L4C15_P1"><figure type="lettrine"/><hi rend="capitals"
               >Seguitando</hi> lungo la riva del Tevere appresso il detto <objectName
               ref="#TemplePortunusRome">Tempio</objectName> si trova un altro <objectName cert="low"
-              >Tempio</objectName> ritondo, che hoggi si dimanda Santo Stefano. Dicono che egli fu
-            edificato da <persName ref="#NumaPompilius">Numa Pompilio</persName>, et dedicato alla
-            Dea <persName ref="#Vesta">Vesta</persName>, et lo volse di figura ritonda a simiglianza
-            dell'elemento della Terra, per la quale si sostiene la generatione humana et della quale
-            dicevano, che <persName ref="#Vesta">Vesta</persName> era Dea. Questo Tempio è di ordine
-            Corinthio. Gli intercolunni sono di un diametro e mezo. Le colonne sono lunghe con basa
-            e capitello undici teste (testa si intende, come ho detto altrove, il diametro della
-            colonna da piede). Le base sono senza Zoccolo, over Dado, ma il grado ove posano serve
-            per quello: il che fece l'Architetto, che l'ordinò, accioché l'entrata nel portico fusse
-            manco impedita, essendo la maniera sua di spesse colonne. La cella computandovi ancho la
-            grossezza de i muri ha tanto di diametro, quanto sono lunghe le colonne. I capitelli
-            sono intagliati a foglie di Olivo. La Cornice non vi si uede ma è stata aggiunta da me
-            nel disegno. Sotto il Soffitto del portico vi sono bellissimi lacunari. La porta, et le
-            finestre hanno molto belli ornamenti, et schietti. Sotto il portico et nella parte di
-            dentro del Tempio vi sono le cimacie che sostengono le finestre, et girano per tutto
-            intorno, facendo l'aspetto di un basamento sopra il quale sia fondato il muro e sopra il
-            quale posa la Tribuna. È questo muro nella parte di fuori, cioè sotto i portici,
-            distinto a quadri dalla detta Cornice fin al soffitto et nella parte di dentro è polito;
-            et ha una cornice al pari di quella dei portici, che sostenta la Tribuna. Di questo
-            Tempio ho fatto tre tavole.</p>
+              xml:id="TempleVestaRome">Tempio</objectName> ritondo, che hoggi si dimanda Santo
+            Stefano. Dicono che egli fu edificato da <persName ref="#NumaPompilius">Numa
+              Pompilio</persName>, et dedicato alla Dea <persName ref="#Vesta">Vesta</persName>, et
+            lo volse di figura ritonda a simiglianza dell'elemento della Terra, per la quale si
+            sostiene la generatione humana et della quale dicevano, che <persName ref="#Vesta"
+              >Vesta</persName> era Dea. Questo Tempio è di ordine Corinthio. Gli intercolunni sono
+            di un diametro e mezo. Le colonne sono lunghe con basa e capitello undici teste (testa
+            si intende, come ho detto altrove, il diametro della colonna da piede). Le base sono
+            senza Zoccolo, over Dado, ma il grado ove posano serve per quello: il che fece
+            l'Architetto, che l'ordinò, accioché l'entrata nel portico fusse manco impedita, essendo
+            la maniera sua di spesse colonne. La cella computandovi ancho la grossezza de i muri ha
+            tanto di diametro, quanto sono lunghe le colonne. I capitelli sono intagliati a foglie
+            di Olivo. La Cornice non vi si uede ma è stata aggiunta da me nel disegno. Sotto il
+            Soffitto del portico vi sono bellissimi lacunari. La porta, et le finestre hanno molto
+            belli ornamenti, et schietti. Sotto il portico et nella parte di dentro del Tempio vi
+            sono le cimacie che sostengono le finestre, et girano per tutto intorno, facendo
+            l'aspetto di un basamento sopra il quale sia fondato il muro e sopra il quale posa la
+            Tribuna. È questo muro nella parte di fuori, cioè sotto i portici, distinto a quadri
+            dalla detta Cornice fin al soffitto et nella parte di dentro è polito; et ha una cornice
+            al pari di quella dei portici, che sostenta la Tribuna. Di questo Tempio ho fatto tre
+            tavole.</p>
           <figure type="plan"/>
           <pb n="53"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f249/full/full/0/native.jpg"/>
@@ -6147,50 +6146,49 @@
         <div2 xml:id="L4C16" type="chapitre" n="16">
           <pb n="55"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f251/full/full/0/native.jpg"/>
-          <head><hi rend="capitals">DEL <objectName cert="low">TEMPIO DI MARTE</objectName></hi>.
-            Cap. XV. </head>
+          <head><hi rend="capitals">DEL TEMPIO DI MARTE</hi>. Cap. XV. </head>
           <p xml:id="PAL_QLA_L4_L4C16_P1"><figure type="lettrine"/><hi rend="capitals"
               >Alla</hi><objectName ref="#PiazzaDiPietraRome">piazza</objectName> detta volgarmente
             dei Preti, la quale si trova andando dalla <objectName ref="#PantheonRome"
               >Ritonda</objectName> alla <objectName ref="#ColonneAntonineRome">colonna di
               Antonino</objectName>, si veggono le reliquie del seguente <objectName cert="low"
-              >tempio</objectName>; il quale secondo alcuni fu edificato da <persName
-              ref="#AntoninLePieux">Antonino Imperatore</persName>, et dedicato al Dio <persName
-              ref="#Mars">Marte</persName>. Il suo aspetto è lo alato a torno. La maniera è di
-            spesse colonne. Gli intercolunni sono un diametro e mezo. I portici intorno sono tanto
-            più larghi di uno intercolunnio quanto di più sporgono fuora le risalite delle anti del
-            rimanente dei muri. Le colonne sono di ordine Corinthio. La basa è Attica, et ha un
-            bastoncino sotto la cimbia della colonna; la cimbia o listello è sottile molto, e così
-            riesce molto gratiosa et si fa così sottile ogni volta che è congiunta con un bastoncino
-            sopra il toro della basa detto anch'esso bastone, perché non è pericolo che si spezzi.
-            Il capitello è intagliato a foglie di Olivo et è benissimo inteso. L'Architrave in luogo
-            di intavolato ha un mezo ovolo et sopra un Cavetto et il Cavetto ha molto belli intagli,
-            e diversi da quelli del <objectName ref="#ForumDeLaPaixRome">tempio della
-              Pace</objectName>, et del <objectName cert="low">tempio</objectName> che habbiamo
-            detto che era nel <placeName ref="#Quirinal">monte Quirinale</placeName> dedicato a
-              <persName ref="#Jupiter">Giove</persName>. Il fregio pende in fuori una delle otto
-            parti della sua altezza et è gonfio nel mezo. La cornice ha il modiglione riquadrato e
-            sopra quello il Gocciolatoio; et non ha dentello, come dice <persName ref="#Vitruve"
-              >Vitruvio</persName>, che si dè fare ogni volta che si pongono i modiglioni, la qual
-            regola però si vede esser stata osservata in pochi edifici antichi. Sopra la Cornice nei
-            lati del Tempio, vi è una Cornicietta la qual viene con il suo vivo, al vivo dei
-            Modiglioni, et era fatta per porvi sopra le statue, acciò si vedessero tutte
-            intieramente, e non fussero i piedi e le gambe loro ascosi dalla proiettura della
-            Cornice. Nella parte di dentro del Portico vi è un'Architrave dell'altezza di quello di
-            fuori, ma in questo diverso, che egli ha tre fascie. I membri che dividono l'una fascia
-            dall'altra sono intavolati piccioli intagliati a fogliette et archetti, et la fascia
-            minore è intagliata a foglie ancor essa; oltra di ciò in luogo di intavolato, questo ha
-            un fusaiolo, sopra una gola diritta lavorata a foglie molto delicatamente. Questo
-            Architrave sostiene i volti dei portici. L'Architrave, il Fregio e la Cornice sono per
-            una delle cinque parti e meza della lunghezza delle colonne, e benché siano meno della
-            quinta parte riescono nondimeno mirabilmente et con molta gratia. I muri nella parte di
-            fuori sono di Peperino et dentro del Tempio vi sono altri muri di pietra cotta, acciò
-            fossero più atti a sostenere il volto, il quale era fatto con bellissimi quadri lavorati
-            di stucco. Erano questi muri investiti di marmo et vi erano nicchi e colonne intorno per
-            ornamento. Si vede di questo Tempio quasi tutto un fianco, nondimeno mi sono sforzato di
-            farlo vedere intiero per quello che ho potuto ritrarre dalle sue rovine et da quello che
-            ci insegna <persName ref="#Vitruve">Vitruvio</persName>. E però ne ho fatto cinque
-            Tavole. </p>
+              xml:id="TempleMarsRome">tempio</objectName>; il quale secondo alcuni fu edificato da
+              <persName ref="#AntoninLePieux">Antonino Imperatore</persName>, et dedicato al Dio
+              <persName ref="#Mars">Marte</persName>. Il suo aspetto è lo alato a torno. La maniera
+            è di spesse colonne. Gli intercolunni sono un diametro e mezo. I portici intorno sono
+            tanto più larghi di uno intercolunnio quanto di più sporgono fuora le risalite delle
+            anti del rimanente dei muri. Le colonne sono di ordine Corinthio. La basa è Attica, et
+            ha un bastoncino sotto la cimbia della colonna; la cimbia o listello è sottile molto, e
+            così riesce molto gratiosa et si fa così sottile ogni volta che è congiunta con un
+            bastoncino sopra il toro della basa detto anch'esso bastone, perché non è pericolo che
+            si spezzi. Il capitello è intagliato a foglie di Olivo et è benissimo inteso.
+            L'Architrave in luogo di intavolato ha un mezo ovolo et sopra un Cavetto et il Cavetto
+            ha molto belli intagli, e diversi da quelli del <objectName ref="#ForumDeLaPaixRome"
+              >tempio della Pace</objectName>, et del <objectName cert="low" xml:id="TempleMarsRome"
+              >tempio</objectName> che habbiamo detto che era nel <placeName ref="#Quirinal">monte
+              Quirinale</placeName> dedicato a <persName ref="#Jupiter">Giove</persName>. Il fregio
+            pende in fuori una delle otto parti della sua altezza et è gonfio nel mezo. La cornice
+            ha il modiglione riquadrato e sopra quello il Gocciolatoio; et non ha dentello, come
+            dice <persName ref="#Vitruve">Vitruvio</persName>, che si dè fare ogni volta che si
+            pongono i modiglioni, la qual regola però si vede esser stata osservata in pochi edifici
+            antichi. Sopra la Cornice nei lati del Tempio, vi è una Cornicietta la qual viene con il
+            suo vivo, al vivo dei Modiglioni, et era fatta per porvi sopra le statue, acciò si
+            vedessero tutte intieramente, e non fussero i piedi e le gambe loro ascosi dalla
+            proiettura della Cornice. Nella parte di dentro del Portico vi è un'Architrave
+            dell'altezza di quello di fuori, ma in questo diverso, che egli ha tre fascie. I membri
+            che dividono l'una fascia dall'altra sono intavolati piccioli intagliati a fogliette et
+            archetti, et la fascia minore è intagliata a foglie ancor essa; oltra di ciò in luogo di
+            intavolato, questo ha un fusaiolo, sopra una gola diritta lavorata a foglie molto
+            delicatamente. Questo Architrave sostiene i volti dei portici. L'Architrave, il Fregio e
+            la Cornice sono per una delle cinque parti e meza della lunghezza delle colonne, e
+            benché siano meno della quinta parte riescono nondimeno mirabilmente et con molta
+            gratia. I muri nella parte di fuori sono di Peperino et dentro del Tempio vi sono altri
+            muri di pietra cotta, acciò fossero più atti a sostenere il volto, il quale era fatto
+            con bellissimi quadri lavorati di stucco. Erano questi muri investiti di marmo et vi
+            erano nicchi e colonne intorno per ornamento. Si vede di questo Tempio quasi tutto un
+            fianco, nondimeno mi sono sforzato di farlo vedere intiero per quello che ho potuto
+            ritrarre dalle sue rovine et da quello che ci insegna <persName ref="#Vitruve"
+              >Vitruvio</persName>. E però ne ho fatto cinque Tavole. </p>
           <pb n="56"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f252/full/full/0/native.jpg"/>
           <figure type="plan"/>
@@ -6339,15 +6337,14 @@
         <div2 xml:id="L4C19" type="chapitre" n="19">
           <pb n="67"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f263/full/full/0/native.jpg"/>
-          <head><hi rend="capitals"><objectName cert="low">DEL TEMPIO DI GIOVE
-              STATORE</objectName></hi>. Cap. XVIII. </head>
+          <head><hi rend="capitals">DEL TEMPIO DI GIOVE STATORE</hi>. Cap. XVIII. </head>
           <p xml:id="PAL_QLA_L4_L4C19_P1"><figure type="lettrine"/><hi rend="capitals">Tra</hi> il
               <placeName ref="#Capitole">Campidoglio</placeName> et il <placeName ref="#MontPalatin"
               >Palatino</placeName> appresso il Foro Romano si veggono tre colonne di ordine
             Corinthio, le quali secondo alcuni erano di un fianco del <objectName>Tempio di
                 <persName ref="#Vulcain">Vulcano</persName></objectName>, e secondo alcuni altri del
               <objectName>Tempio di Romolo</objectName>; non manca ancho chi dica che elle erano del
-              <objectName cert="low">Tempio di <persName ref="#Jupiter">Giove</persName>
+              <objectName cert="low" xml:id="TempleJupiterStatorRome">Tempio di Giove
               Statore</objectName>, e così credo che fusse votato da <persName ref="#Romulus"
               >Romolo</persName> quando i Sabini havendo per tradimento preso il <placeName
               ref="#Capitole">Campidoglio</placeName> et la Rocca, quasi vittoriosi si erano inviati
@@ -6391,45 +6388,44 @@
         <div2 xml:id="L4C20" type="chapitre" n="20">
           <pb n="70"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f266/full/full/0/native.jpg"/>
-          <head><hi rend="capitals">DEL <objectName cert="low">TEMPIO DI GIOVE
-              TONANTE</objectName></hi>. Cap. XIX. </head>
+          <head><hi rend="capitals">DEL TEMPIO DI GIOVE TONANTE</hi>. Cap. XIX. </head>
           <p xml:id="PAL_QLA_L4_L4C20_P1"><figure type="lettrine"/><hi rend="capitals">Si
               veggono</hi> alle radici del <placeName ref="#Capitole">Campidoglio</placeName> alcuni
-            vestigi del seguente <objectName cert="low">Tempio</objectName>, il quale dicono alcuni
-            che era di <persName ref="#Jupiter">Giove</persName> Tonante, et che fu edificato da
-              <persName ref="#Auguste">Augusto</persName> per il pericolo che egli passò quando
-            nella guerra Cantabrica in un viaggio che egli faceva di notte, fu la Lettiga dove egli
-            era dentro, percossa da una saetta, dalla quale fu morto un servo che vi era avanti,
-            senza far punto di offesa alla persona di esso <persName ref="#Auguste"
-              >Augusto</persName>. Del che io dubito alquanto, perché gli ornamenti che vi si
-            ueggono sono lavorati delicatissimamente con bellissimi intagli et è cosa manifesta che
-            ai tempi di <persName ref="#Auguste">Augusto</persName> le opere si facevano più sode,
-            come si vede nel Portico di <objectName ref="#PantheonRome">Santa Maria
-              Ritonda</objectName> edificato da <persName ref="#MarcusVipsaniusAgrippa">Marco
-              Agrippa</persName>, che è molto semplice, et in altri edifici ancora. Vogliono alcuni
-            che le colonne che sono quivi, fossero del ponte, che fece fare <persName
-              ref="#Caligula">Caligula</persName>, la quale opinione ho mostrato qui appresso come è
-            del tutto falsa. Lo aspetto di questo Tempio era quello che si dice Dipteros, cioè alato
-            doppio, è ben vero che nella parte verso il <placeName ref="#Capitole"
-              >Campidoglio</placeName> non vi era portico. Ma per quello, che ho osseruato in altri
-            edifici fabricati vicino ai monti, mi do a credere che in questa parte egli fusse fatto
-            come dimostra la Pianta; cioè che egli havesse un muro grossissimo, il quale chiudesse
-            la Cella et i Portici, et lasciatovi alquanto di spacio un altro muro con contraforti,
-            che entrassero nel Monte. Percioché in tai casi facevano gli Antichi il primo muro molto
-            grosso, accioché l'humidità non penetrasse nella parte di dentro dell'Edificio et
-            facevano l'altro muro con contraforti, accioché fusse atto a reggere il continuo carico
-            del monte; e lasciavano il detto spacio tra l'uno e l'altro dei detti muri; perché le
-            acque, che dal monte scendessero ivi raunate havessero libero il corso loro et in tal
-            modo non facessero alcun danno alla fabrica. La maniera di questo Tempio era la
-            Picnostilos. Lo Architrave et il Fregio nella fronte erano ad un piano, acciò potesse
-            capire l'intaglio dell'inscrittione et ancora vi si ueggono alcune lettere. L'ovolo
-            della cornice sopra il fregio è diverso da quanti io ne habbia ancora veduti, et questa
-            varietà, essendovi in questa cornice due mani di ovoli, è fatta molto giudiciosamente. I
-            Modiglioni di questa cornice sono così disposti che al diritto delle colonne viene un
-            campo et non un modiglione, come ancho in alcune altre cornici: tutto che regolarmente
-            si debba fare, che al diritto del mezo delle colonne venga un modiglione. E perché per
-            li disegni dei passati Tempi si comprendono i diritti ancho di questo; io ne ho fatto
-            solo due tavole. </p>
+            vestigi del seguente <objectName cert="low" xml:id="TempleJupiterTonnantRome"
+              >Tempio</objectName>, il quale dicono alcuni che era di <persName ref="#Jupiter"
+              >Giove</persName> Tonante, et che fu edificato da <persName ref="#Auguste"
+              >Augusto</persName> per il pericolo che egli passò quando nella guerra Cantabrica in
+            un viaggio che egli faceva di notte, fu la Lettiga dove egli era dentro, percossa da una
+            saetta, dalla quale fu morto un servo che vi era avanti, senza far punto di offesa alla
+            persona di esso <persName ref="#Auguste">Augusto</persName>. Del che io dubito alquanto,
+            perché gli ornamenti che vi si ueggono sono lavorati delicatissimamente con bellissimi
+            intagli et è cosa manifesta che ai tempi di <persName ref="#Auguste">Augusto</persName>
+            le opere si facevano più sode, come si vede nel Portico di <objectName
+              ref="#PantheonRome">Santa Maria Ritonda</objectName> edificato da <persName
+              ref="#MarcusVipsaniusAgrippa">Marco Agrippa</persName>, che è molto semplice, et in
+            altri edifici ancora. Vogliono alcuni che le colonne che sono quivi, fossero del ponte,
+            che fece fare <persName ref="#Caligula">Caligula</persName>, la quale opinione ho
+            mostrato qui appresso come è del tutto falsa. Lo aspetto di questo Tempio era quello che
+            si dice Dipteros, cioè alato doppio, è ben vero che nella parte verso il <placeName
+              ref="#Capitole">Campidoglio</placeName> non vi era portico. Ma per quello, che ho
+            osseruato in altri edifici fabricati vicino ai monti, mi do a credere che in questa
+            parte egli fusse fatto come dimostra la Pianta; cioè che egli havesse un muro
+            grossissimo, il quale chiudesse la Cella et i Portici, et lasciatovi alquanto di spacio
+            un altro muro con contraforti, che entrassero nel Monte. Percioché in tai casi facevano
+            gli Antichi il primo muro molto grosso, accioché l'humidità non penetrasse nella parte
+            di dentro dell'Edificio et facevano l'altro muro con contraforti, accioché fusse atto a
+            reggere il continuo carico del monte; e lasciavano il detto spacio tra l'uno e l'altro
+            dei detti muri; perché le acque, che dal monte scendessero ivi raunate havessero libero
+            il corso loro et in tal modo non facessero alcun danno alla fabrica. La maniera di
+            questo Tempio era la Picnostilos. Lo Architrave et il Fregio nella fronte erano ad un
+            piano, acciò potesse capire l'intaglio dell'inscrittione et ancora vi si ueggono alcune
+            lettere. L'ovolo della cornice sopra il fregio è diverso da quanti io ne habbia ancora
+            veduti, et questa varietà, essendovi in questa cornice due mani di ovoli, è fatta molto
+            giudiciosamente. I Modiglioni di questa cornice sono così disposti che al diritto delle
+            colonne viene un campo et non un modiglione, come ancho in alcune altre cornici: tutto
+            che regolarmente si debba fare, che al diritto del mezo delle colonne venga un
+            modiglione. E perché per li disegni dei passati Tempi si comprendono i diritti ancho di
+            questo; io ne ho fatto solo due tavole. </p>
           <p xml:id="PAL_QLA_L4_L4C20_P2"><hi rend="capitals">NELLA</hi> Prima vi è la Pianta.</p>
           <p>
             <list rend="numbered">
@@ -6527,7 +6523,7 @@
             gradi per salire fino alla sommità dell'edificio per alcune Scale, che vi sono
             intorno.</p>
           <p>Quella parte di edificio che si vede dietro del Tempio, et è segnata M, è parte delle
-              <objectName cert="low">Therme di <persName ref="#MarcusVipsaniusAgrippa"
+            <objectName cert="low" xml:id="ThermesAgrippaRome">Therme di <persName ref="#MarcusVipsaniusAgrippa"
                 >Agrippa</persName></objectName>.</p>
           <p xml:id="PAL_QLA_L4_L4C21_P7">Nella Seconda vi è la metà della facciata davanti.</p>
           <p xml:id="PAL_QLA_L4_L4C21_P8">Nella Terza vi è la metà della facciata sotto il portico.
