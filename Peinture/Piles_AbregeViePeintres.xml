@@ -7824,8 +7824,8 @@
 						trouve rien de bien piquant dans ses Ouvrages ; ils sont néanmoins en <pb n="382"/> grand nombre, et la plûpart ont été gravez, et se voyent en
 						Estampes. C'est d'aprés ses <objectName ref="MaertenDeVosErmites">Desseins</objectName> que <persName ref="#Sadeler">les
 							Sadelers</persName> ont gravé <objectName ref="HansSadelerErmites">les Ermites</objectName>. Il a fait aussi les
-							<objectName>Desseins de la Vie de J. C.</objectName> que
-							<persName>Vierx</persName> a gravez pour les Evangiles de Natalis. Il
+						<objectName ref="MaertenDeVosDessinsVieChrist">Desseins de la Vie de J. C.</objectName> que
+						<persName ref="#AntonIIWierix">Vierx</persName> a <objectName ref="WierixBibliaNatalis">gravez</objectName> pour les <bibl>Evangiles de Natalis</bibl>. Il
 						étoit fort gros, et aprés avoir vêcu fort vieil, il mourut en <date when="1604">1604</date>. </p>
 				</div2>
 				<div2 n="176" type="chapitre" xml:id="C176" xml:lang="fra">
@@ -7834,14 +7834,14 @@
 					<p xml:id="PIL_AVP_L6_C176_P1">
 						<hi rend="capitals">NÉ</hi> à <placeName ref="#Bruges">Bruges</placeName> en
 							<date when="1527">1527</date>. de la célébre Famille des Stradans,
-						laquelle aprés la mort de <persName>Charles de Goude</persName> trezieme
+						laquelle aprés la mort de <persName ref="#CharlesIerDeFlandre">Charles de Goude</persName> trezieme
 						Comte de <placeName ref="#Flandres">Flandre</placeName>, qu'elle fit
-						assassiner comme Tyran dans l'Eglise de Saint Donaes de <placeName ref="#Bruges">Bruges</placeName>, fut presque tout-à-fait éteinte, ou du
+						assassiner comme Tyran dans <objectName ref="EgliseSaintDonatienBruges">l'Eglise de Saint Donaes de <placeName ref="#Bruges">Bruges</placeName></objectName>, fut presque tout-à-fait éteinte, ou du
 						moins dispersée de côté et d'autre. Le Peintre dont nous parlons alla en
 							<placeName ref="#Italie">Italie</placeName>, et s'arrêta à <placeName ref="#Florence">Florence</placeName>, où il fit quantité d'Ouvrages à
-						fraisque et à huile pour <persName>le Grand Duc</persName>. <persName ref="#GiorgioVasari">Vasari</persName> le fit travailler aux Peintures
-						qui ont été faites dans la Chambre de ce Prince. Il dessinoit fort bien les
-						Chevaux, et son Génie le portoit à peindre des Chasses. Il mourut en <date when="1604">1604</date>. âgé de soixante-quatorze ans. Tempeste a été
+						fraisque et à huile pour <persName ref="#CosmeDeMedicis">le Grand Duc</persName>. <persName ref="#GiorgioVasari">Vasari</persName> le fit travailler aux Peintures
+						qui ont été faites dans la <objectName cert="low" xml:id="JanVanDerStraetChambrePalazzoVecchio">Chambre de ce Prince</objectName>. Il dessinoit fort bien les
+						Chevaux, et son Génie le portoit à peindre des Chasses. Il mourut en <date when="1604">1604</date>. âgé de soixante-quatorze ans. <persName ref="#AntonioTempesta">Tempeste</persName> a été
 						son Disciple. </p>
 				</div2>
 				<div2 n="177" type="chapitre" xml:id="C177" xml:lang="fra">
@@ -7852,7 +7852,7 @@
 						Marchand d'<placeName ref="#Anvers">Anvers</placeName>, apprit les Principes
 						de son Art de plusieurs Maîtres, et s'en alla à <placeName ref="#Rome">Rome</placeName>, où il fut Domestique du <persName ref="#AlessandroFarneseIlGiovane">Cardinal Farnése</persName>. Ce
 						Cardinal l'ayant pris en sa protection, le donna à <persName ref="#PieV">Pie
-							V</persName>. qui l'employa à <placeName ref="#Belvedere">Belvédére</placeName>, où <persName ref="#BartholomaeusSpranger">Spranger</persName> fit un <objectName>Tableau du Jugement
+							V</persName>. qui l'employa à <placeName ref="#Belvedere">Belvédére</placeName>, où <persName ref="#BartholomaeusSpranger">Spranger</persName> fit un <objectName ref="BartholomaeusSprangerJugementDernierGalleriaSabauda">Tableau du Jugement
 							dernier</objectName> en trente huit mois, et ce Tableau est encore
 						aujourd'huy au dessus du Tombeau de ce même Pape. Pendant qu'il y
 						travailloit <persName ref="#GiorgioVasari">Vasari</persName> dit à Sa
@@ -7860,7 +7860,7 @@
 						l'envie le fit parler, ou que la maniére de Spranger luy déplût, ce qui est
 						plus vrai-semblable ; car il est etonnant que Spranger, qui a formé sa
 						maniére en <placeName ref="#Italie">Italie</placeName>, l'ait faite si
-						contraire aux belles choses qu'il avoit devant les yeux, et se soit laisse
+						contraire aux belles choses qu'il avoit devant les yeux, et se soit laissé
 						emporter au feu d'une imagination si peu réglée : ce que je dis, sans
 						vouloir diminuer l'Esprit de ses Ouvrages et le mérite qui s'y trouve
 						d'ailleurs ; car ils plûrent à bien des gens, et sur tout au Pape, qui luy
@@ -7912,12 +7912,12 @@
 						de son Vallet il fit son Maître, au service duquel il feignoit d'être
 						attaché en qualité de Peintre. Il eut par ce moyen le plaisir d'entendre ce
 						que les uns et les autres disoient de ses <pb n="386"/> Ouvrages sans le
-						connoître. Ce déguisement, l'éxercice du voyage, et l'air dit firent des
+						connoître. Ce déguisement, l'éxercice du voyage, et l'air différent des
 						païs par où il passoit, changérent tellement la situation de son esprit et
 						la disposition de son corps, qu'il se trouva delivré de tous ses maux, et
 						qu'il reprit sa premiére santé. </p>
 					<p xml:id="PIL_AVP_L6_C178_P2"> Il dessina une infinité de choses dans <placeName ref="#Rome">Rome</placeName> et dans <placeName ref="#Naples">Naples</placeName>,
-						tant d'aprés l'Antique, que d'aprés <persName ref="#Raphael">Raphaël</persName>, <persName>Polidore</persName>, et les autres bons
+						tant d'aprés l'Antique, que d'aprés <persName ref="#Raphael">Raphaël</persName>, <persName ref="#PolidoroDaCaravaggio">Polidore</persName>, et les autres bons
 						Maîtres. Il y fit peu d'Ouvrages de Peinture, et son mal l'y ayant repris,
 						il en guerit par l'usage du lait que les Medecins luy ordonnérent. Ils luy
 						conseillérent aussi de retourner à son air natal. Il revint donc à
@@ -7938,15 +7938,15 @@
 					<p xml:id="PIL_AVP_L6_C179_P1">
 						<hi rend="capitals">APPELÉ</hi> ainsi, à cause que son Pére étoit
 							d'<placeName ref="#AixLaChapelle">Aix la Chapelle</placeName>, car pour
-						luy, il étoit né à <placeName ref="#Cologne">Cologne</placeName> en <date when="1556">1556</date>. prés avoir été quelque tems sous la Discipline
+						luy, il étoit né à <placeName ref="#Cologne">Cologne</placeName> en <date when="1556">1556</date>. Aprés avoir été quelque tems sous la Discipline
 						de <persName ref="#BartholomaeusSpranger">Spranger</persName>, il alla
 						étudier sa profession dans les principales Villes d'<placeName ref="#Italie">Italie</placeName>, de là il repassa en <placeName ref="#Allemagne">Allemange</placeName>, où l'<persName ref="#RodolpheII">Empereur
-							Rodolphe</persName> le prit en affection et e renvoya à <placeName ref="#Rome">Rome</placeName>, pour y dessiner les Antiques. Il ne faut
+							Rodolphe</persName> le prit en affection et le renvoya à <placeName ref="#Rome">Rome</placeName>, pour y dessiner les Antiques. Il ne faut
 						pas s'étonner des soins où descendoit ce Prince, pour avancer les ouvriérs,
 						en qui il voyoit du Génie, car il aimoit passionément les beaux Arts, et
 						s'y connoissoit tres-bien. <persName ref="#HansVonAachen">Jean
 							Dac</persName>, à son retour fit beaucoup d'ouvrages pour l'Empereur,
-						qui sont tres dignes le loüange et qui le firent passer pour le plus habile
+						qui sont tres dignes de loüange et qui le firent passer pour le plus habile
 						de son tems. Sa prudence le mit en grande considération auprés de ce Prince
 						: mais il ne se servit de son crédit que pour obliger plusieurs personnes de
 						mérite. Il mourut à la Cour Impériale, comblé d'honneurs et de biens.
@@ -7969,7 +7969,7 @@
 						singuliére protection de ce Prince. Il a fait beaucoup d'Ouvrages pour
 							l'<persName ref="#RodolpheII">Empereur</persName>, qui ont été la
 						plûpart gravez par <persName ref="#Sadeler">les Sadelers</persName>, par
-							<persName>Lucas Kilian</persName>, et par <persName ref="#IsaacMajor">Isaac Mayer</persName> de <placeName ref="#Francfort">Francfort</placeName>, il est mort à <placeName ref="#Prague">Prague</placeName> fort regretté des honnêtes gens, parce qu'il étoit
+						<persName ref="#LucasKilian">Lucas Kilian</persName>, et par <persName ref="#IsaacMajor">Isaac Mayer</persName> de <placeName ref="#Francfort">Francfort</placeName>, il est mort à <placeName ref="#Prague">Prague</placeName> fort regretté des honnêtes gens, parce qu'il étoit
 						luy-méme fort honnête homme, il a eu un fils qui étoit aussi Peintre. </p>
 				</div2>
 				<div2 n="181" type="chapitre" xml:id="C181" xml:lang="fra">
@@ -7989,7 +7989,7 @@
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#CornelisVanHaarlem">CORNEILLE CORNEILLE</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C182_P1">
 						<hi rend="capitals">D'<placeName ref="#Haarlem">HARLEM</placeName></hi> fils
-						de <persName>Pierre Corneille</persName>, habile
+						de <persName ref="#CornelisThomasz">Pierre Corneille</persName>, habile
 						Peintre, est né en <date when="1562">1562</date>. et bien qu'il n'ait jamais
 						été en <placeName ref="#Italie">Italie</placeName>, il a neannoins fait de
 						fort belles choses et de bons Disciples, il établi avec <persName ref="#CarelVanMander">Charles Van-Mandre</persName>, une Academie de
@@ -8001,8 +8001,8 @@
 					<p xml:id="PIL_AVP_L6_C183_P1">
 						<hi rend="capitals">D'<placeName ref="#Anvers">ANVERS</placeName></hi> fils
 						de <persName ref="#LambertVanNoort">Lambert Van Ort</persName> dont il avoit
-						aussi été Disciple, peignoit en grand, et étoit en réputation le son tems,
-						les emplois continiiels qu'on luy donna, l'empécherent de sortir de son
+						aussi été Disciple, peignoit en grand, et étoit en réputation de son tems,
+						les emplois continüels qu'on luy donna, l'empécherent de sortir de son
 						Païs. Il fut le premier Maître de <persName ref="#PeterPaulRubens">Rubens</persName>, et mourut à <placeName ref="#Anvers">Anvers</placeName> âgé de quatre-vingt-quatre ans en <date when="1641">1641</date>. </p>
 				</div2>
 				<div2 n="184" type="chapitre" xml:id="C184" xml:lang="fra">
@@ -8024,27 +8024,27 @@
 						intelligence du Clair-obscur. De sorte qu'il passa en <placeName ref="#Italie">Italie</placeName>, pour un homme des plus universels et
 						des plus ingénieux de son tems. <persName ref="#OttoVanVeen">Venius</persName> demeura sept ans à <placeName ref="#Rome">Rome</placeName> pendant lesquels il fit plusieurs beaux Ouvrages de
 						son Pinceau et étant passé de là en <placeName ref="#Allemagne">Allemagne</placeName>. Il fut receu au service de l'<persName ref="#RodolpheII">Empereur</persName>, et ensuite <pb n="391"/> à celuy
-						du <persName>Duc de Baviére</persName>, et de Electeur de <placeName ref="#Cologne">Cologne</placeName> : mais tous les avanages qu'on luy
-						proposa dans ces Cours Etrangeres ne furent pas capables de l'y irrester
-						longtems, il vint offrir son service au <persName>Prince de <placeName ref="#Parme">Parme</placeName></persName>, qui gouvernoit alors les
-							<placeName ref="#PaysBas">Païs-Bas</placeName>, et fit son Portrait
+						du <persName ref="#GuillaumeVBaviere">Duc de Baviére</persName>, et de <persName ref="#ErnestDeBaviere">l'Electeur de <placeName ref="#Cologne">Cologne</placeName></persName> : mais tous les avantages qu'on luy
+						proposa dans ces Cours Etrangeres ne furent pas capables de l'y arrester
+						longtems, il vint offrir son service au <persName ref="#AlexandreFarnese">Prince de <placeName ref="#Parme">Parme</placeName></persName>, qui gouvernoit alors les
+						<placeName ref="#PaysBas">Païs-Bas</placeName>, et fit son <objectName ref="OttoVanVeenPortraitAlexandreFarnese">Portrait</objectName>
 						armé de toutes pieces d'une maniére qui confirma l'estime qu'on avoit
-						conceuë de son habilité. Aprés la mort du <persName>Prince de <placeName ref="#Parme">Parme</placeName></persName>, <persName ref="#OttoVanVeen">Vénius</persName> se retira à <placeName ref="#Anvers">Anvers</placeName>, où il fit quantité d'excellens
+						conceuë de son habilité. Aprés la mort du <persName ref="#AlexandreFarnese">Prince de <placeName ref="#Parme">Parme</placeName></persName>, <persName ref="#OttoVanVeen">Vénius</persName> se retira à <placeName ref="#Anvers">Anvers</placeName>, où il fit quantité d'excellens
 						Ouvrages de Peinture, que l'on voit encore dans les principales Eglises.
 						Quelques tems aprés l'<persName ref="#AlbertDAutriche">Archiduc
-							Albert</persName>, qui avoit succedé au <persName>Prince de <placeName ref="#Parme">Parme</placeName></persName>, le fit aller à <placeName ref="#Bruxelles">Bruxelles</placeName>. et luy donna l'intendance des
+							Albert</persName>, qui avoit succedé au <persName ref="#AlexandreFarnese">Prince de <placeName ref="#Parme">Parme</placeName></persName>, le fit aller à <placeName ref="#Bruxelles">Bruxelles</placeName>. et luy donna l'intendance des
 						Monnoyes, parmi ces occupations embarassantes, <persName ref="#OttoVanVeen">Vénius</persName> ne laissa pas de travailler du Pinceau, il fit
-							<objectName>les Portraits de l'Archiduc et de l'<persName ref="#IsabelleClaireEugenieDAutriche">Infante
+						les <objectName ref="OttoVanVeenPortraitAlbertDAutriche">Portraits de l'Archiduc</objectName> <objectName ref="OttoVanVeenPortraitIsabelleClaireEugenieDAutriche">et de l'<persName ref="#IsabelleClaireEugenieDAutriche">Infante
 							Isabelle</persName></objectName>, en grand qui furent envoyés à
-							<persName>Jacques Roy de la Grande Brétagne</persName>, et pour
+						<persName ref="#JacquesIer">Jacques Roy de la Grande Brétagne</persName>, et pour
 						signaler son érudition, aussi bien que son Pinceau, il mit en lumiére
 						plusieurs Ouvrages, qu'il a enrichis de figures de son Dessein, ceux qui
 						sont venus à ma connoissance et dans lesquels je trouve beaucoup d'Art et de
-						grace. Sont les emblémes d'<persName ref="#Horace">Horace</persName>, la vie
-						de <persName ref="#ThomasAquin">Saint Thomas d'Aquin</persName>, et les
-						emblêmes d'Amour. <persName ref="#OttoVanVeen">Vénius</persName> dédia ceux
-						de l'Amour<pb n="392"/> profane à l'<persName ref="#IsabelleClaireEugenieDAutriche">Infante Isabelle</persName> qui
-						l'obligea d'en faire de pareils sur l'Amour Divin. Le Roy <persName ref="#LouisXIII">Loüis XIII</persName>. luy fit faire de belles offres
+						grace. Sont <objectName ref="OttoVanVeenEmblemesHorace">les emblémes d'<persName ref="#Horace">Horace</persName></objectName>, <objectName ref="OttoVanVeenVieThomasAquin">la vie
+							de <persName ref="#ThomasAquin">Saint Thomas d'Aquin</persName></objectName>, et <objectName ref="OttoVanVeenEmblemesAmour">les
+								emblêmes d'Amour.</objectName> <persName ref="#OttoVanVeen">Vénius</persName> dédia ceux
+						de <objectName ref="OttoVanVeenEmblemesAmourProfane">l'Amour<pb n="392"/> profane</objectName> à l'<persName ref="#IsabelleClaireEugenieDAutriche">Infante Isabelle</persName> qui
+						l'obligea d'en faire de pareils sur <objectName ref="OttoVanVeenEmblemesAmourDivin">l'Amour Divin</objectName>. Le Roy <persName ref="#LouisXIII">Loüis XIII</persName>. luy fit faire de belles offres
 						pour l'attirer, mais il ne put jamais se resoudre à quitter son Païs, ni le
 						service de son Prince. C'a été le prémier qui depuis <persName ref="#PolidoroDaCaravaggio">Polidore de Caravage</persName>, a réduit
 						le Clair-obscur en un principe que <persName ref="#PeterPaulRubens">Rubens</persName> a perfectione et répandu par tous les <placeName ref="#PaysBas">Païs-Bas</placeName>. Il mourut à <placeName ref="#Bruxelles">Bruxelles</placeName> en <date when="1634">1634</date>
