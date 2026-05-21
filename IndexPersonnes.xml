@@ -2,6 +2,15 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+      <person xml:id="AdrienIII" source="https://www.wikidata.org/wiki/Q172398"></person>
+      <person xml:id="MithridateVI" source="https://www.wikidata.org/wiki/Q185126"/>
+      <person xml:id="ArchelaosGeneral" source="https://www.wikidata.org/wiki/Q360787"/>
+      <person xml:id="CnaeusGellius" source="https://www.wikidata.org/wiki/Q674741"/>
+      <person xml:id="QuintusClaudiusQuadrigus" source="https://www.wikidata.org/wiki/Q445928"/>
+      <person xml:id="StatiusGellius" source="https://www.wikidata.org/wiki/Q2333997"/>
+      <person xml:id="Mecene" source="https://www.wikidata.org/wiki/Q8833"/>
+      <person xml:id="ArtemiseII" source="https://www.wikidata.org/wiki/Q231851"/>
+      <person xml:id="Rhodope" source="https://www.wikidata.org/wiki/Q15504920"/>
       <person xml:id="JacobErnstThomannVonHagelstein" source="https://www.wikidata.org/wiki/Q1677472"></person>
       <person xml:id="MagdalenaVanDePasse" source="https://www.wikidata.org/wiki/Q438750"></person>
       <person xml:id="IuliusCapitolinus" source="https://www.wikidata.org/wiki/Q391514"/>
@@ -42078,7 +42087,7 @@
         <idno type="viaf">172058734</idno>
         <idno type="wikidata">Q1604113</idno>
       </person>
-      <person xml:id="Rhodope" role="couple de Thrace dans la mythologie grecque"
+      <person xml:id="HemosRhodope" role="couple de Thrace dans la mythologie grecque"
         source="https://www.wikidata.org/wiki/Q16468441">
         <persName>
           <forename>Hémos</forename>
