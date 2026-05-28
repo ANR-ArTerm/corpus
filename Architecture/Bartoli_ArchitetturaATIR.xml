@@ -5270,8 +5270,8 @@
                         prima Città fu <placeName ref="#Byblos">Biblo</placeName>; occupata dai
                         Fenici, la quale <persName ref="#Saturne">Saturno</persName> haveva
                         accerchiata di Mura intorno alle sue case. Ancore che <persName
-                            ref="#PomponiusMela">Pomponio</persName> dica di
-                            <placeName>Ioppe</placeName> edificata inanzi al Diluvio. Dice <persName
+                            ref="#PomponiusMela">Pomponio</persName> dica di <placeName ref="#Jaffa"
+                            >Ioppe</placeName> edificata inanzi al Diluvio. Dice <persName
                             ref="#Herodote">Erodoto</persName> che occupando gli Etiopi lo
                             <placeName ref="#Egypte">Egitto</placeName>, non punivano alcuno, che
                         errasse, di pena capitale; ma li facevano alzare la Terra intorno a Borghi,
@@ -5283,8 +5283,8 @@
                 </div2>
                 <div2 type="chapitre" n="2" xml:id="L4C2">
                     <head rend="it">Della Regione, del luogo, et del Sito commodo et scommodo, per
-                        le Citta, secondo il parer'delli Antichi, et secondo il parer'dello Autore.
-                        Cap. II.</head>
+                        le Citta, secondo il parere delli Antichi, et secondo il parere dello
+                        Autore. Cap. II.</head>
                     <p xml:id="BAR_A_L4_L4C2_P1"><hi rend="capitals">A Tutti</hi> i Cittadini si
                         appartengono tutte le cose Publiche, le quali sono parti della Città. Se noi
                         terremo per cosa certa, che la importanza, et la cagione di fare una Città,
@@ -5299,259 +5299,292 @@
                             <sic>e'</sic>
                             <corr>ei</corr>
                         </choice> si pensavano, mediante essi diserti, essere sicuri dalle subite
-                        scorrerie dei Nimici. Gli Historici non pensano che
-                            <persName>Sesostri</persName> Re delli Egitti, restasse per altra
-                        cagione di condurre lo Essercito in <placeName ref="#Ethiopie"
-                            >Etiopia</placeName>, che per essersi sbigottito dalla Carestia delle
-                        Vettovaglie, et dalla difficultà dei luoghi. Gli Assirii difesi da diserti,
-                        et da luoghi padulosi, non sopportarono mai alcun Re forestiero. Dicono che
-                        gli Arabi medesimamente per non havere né acqua, né frutti, non hanno mai
-                        provato né l'impeto né la ingiuria dei Nimici. <persName ref="#Pline"
-                            >Plinio</persName> scrive che la <placeName ref="#Italie"
-                            >Italia</placeName>, non è stata molestata per alcuna altra cagione
-                        dalle Armi Barbare, piu che per il diletto del Vino et de fichi. Aggiugni
-                        che la grande abbondanza di coteste cose, che solamente aspettano al
-                        diletto, nuocono come diceva Crate, et a giovani, et a Vecchi; percio che
-                        questi ne diventano crudeli, et quelli effeminati. Appresso li Americi, dice
-                        Tito Livio, è una Regione fertilissima; la quale sì come il piu delle volte
-                        suole interuenire a paesi grassi, genera huomini non gagliardi, et
-                        effeminati. Per l'opposito ne Ligii per habitare in luoghi sassosi, essendo
-                        forzati continovamente ad esercitarsi, et a vivere con extrema masseritia;
-                        vi sono gli huomini industriosissimi, et robustissimi. Il che stando in
-                        questa maniera, avuerrà forse che alcuni non biasimeranno i luoghi così
-                        aspri, et così difficili per farui le Cittadi; et alcuni forse per il
-                        contrario. Percio che e' desidereranno certamente godere di tutti i beni, et
-                        di tutti i doni della Natura; talmente che non vi si possa arrogere piu cosa
-                        alcuna: et quanto alla necessità, et quanto a piaceri, et che i beni si
-                        vsino rettamente, si può ordinare per leggi et per statuti de Padri. Ma di
-                        quelle cose, che giovano alla Vita, certo che sono molto piu gioconde quelle
+                        scorrerie dei Nimici. Gli Historici non pensano che <persName cert="low"
+                            >Sesostri</persName> Re delli Egitti, restasse per altra cagione di
+                        condurre lo Essercito in <placeName ref="#Ethiopie">Etiopia</placeName>, che
+                        per essersi sbigottito dalla Carestia delle Vettovaglie, et dalla difficultà
+                        dei luoghi. Gli Assirii difesi da diserti, et dai luoghi padulosi, non
+                        sopportarono mai alcun Re forestiero. Dicono che gli Arabi medesimamente per
+                        non havere né acqua, né frutti, non hanno mai provato né l'impeto né la
+                        ingiuria dei Nimici. <persName ref="#Pline">Plinio</persName> scrive che la
+                            <placeName ref="#Italie">Italia</placeName>, non è stata molestata per
+                        alcuna altra cagione dalle Armi Barbare, più che per il diletto del Vino et
+                        dei fichi. Aggiugni che la grande abbondanza di coteste cose, che solamente
+                        aspettano al diletto, nuocono come diceva <persName ref="#CratesDeMallos"
+                            >Crate</persName>, et a giovani, et a Vecchi; percio che questi ne
+                        diventano crudeli, et quelli effeminati. Appresso li Americi, dice <persName
+                            ref="#TiteLive">Tito Livio</persName>, è una Regione fertilissima; la
+                        quale sì come il più delle volte suole intervenire a paesi grassi, genera
+                        huomini non gagliardi, et effeminati. Per l'opposito nei Ligi per habitare
+                        in luoghi sassosi, essendo forzati continouamente ad esercitarsi, et a
+                        vivere con extrema masseritia, vi sono gli huomini industriosissimi, et
+                        robustissimi. Il che stando in questa maniera, avverrà forse che alcuni non
+                        biasimeranno i luoghi così aspri, et così difficili per farvi le Cittadi; et
+                        alcuni forse per il contrario. Percio che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice><pb n="101"/> desidereranno certamente godere di tutti i beni, et
+                        di tutti i doni della Natura; talmente che non vi si possa arrogere più cosa
+                        alcuna: et quanto alla necessità, et quanto ai piaceri, et che i beni si
+                        usino rettamente, si può ordinare per leggi et per statuti dei Padri. Ma di
+                        quelle cose, che giovano alla Vita, certo che sono molto più gioconde quelle
                         che sono in casa, che quelle che si hanno a procacciare di fuori. Et
-                        desidereranno certamente un'terreno, quale è appresso di Memfi, come scrive
-                            <persName ref="#Varron">Varrone</persName>, che gode di Cielo tanto
-                        benigno, che non pure tutti gli Alberi, ma le Viti ancora, non vi perdono le
-                        foglie in tutto l'anno o quale sotto il Monte Tauro, in que'luoghi, che
-                        guardano verso Aquilone. Dove <persName ref="#Strabon">Strabone</persName>
-                        dice, che i Grappoli delle Vue vi sono di un'braccio et mezo, et che di
-                        ciascuna Vite si ricoglie mezo barile di Vino; et di un'fico solo, libre
-                        cento quaranta di fichi. O quale è quello, che habita l'India, o l'Isola
-                        Hyperborea nel mare oceano, del quale terreno scrive Herodoto, che
-                        e'ricolgono il frutto due volte l'anno. O quale è quello di Portogallo, che
-                        da i semi che cascano fanno piu et piu ricolte. O piu presto quale è il
-                        Talge, nel monte Caspio; il quale campo ancor'che non lavorato, genera da se
-                        le biade. Sono queste cose rare, et piu tosto da esser'bramate che trovate.
-                        Et però quelli eccellentissimi Antichi, che scrissono di simili cose; o
-                        prese da altri, o pure da loro trovate, Dicono che la Città si debbe
-                        talmente collocare, cha bastandole quello, che ella ricoglie nel suo (per
-                        quanto sopporta la ragione, et la conditione delle cose humane) ella non
-                        habbia bisogno di andare fuori per alcuna cosa necessaria: et sia
-                        afforzificato in tal'modo il circuito de suoi confini, che dal nimico non vi
-                        si possa entrar'cosi facilmente; et che ella possa a sua posta mettere fuora
-                        eserciti, nelle prouincie d'altri, et contro alla voglia del nimico. Impero
-                        che egli affermano che una Città così collocata, può difender'se, et la
-                        libertà sua; et allargarsi molto d'Imperio. Ma che dirò io qui? Questa lode
-                        principalmente è attribuita alle <placeName ref="#Egypte"
-                        >Egitto</placeName>, cioè che egli sia da ogni banda oltre a modo
-                        affortificato, et quasi del tutto inaccessibile; conciosia che da un'lato
-                        habbia opposta la Marina, et dallo altro un'diserto grandissimo; dalla
-                        destra ripidissimi Monti; et dalla sinistra Paludi larghissime. Oltre a che
-                        la fertilità del terreno vi è tanta; che gli antichi dissono che lo
-                            <placeName ref="#Egypte">Egitto</placeName> era un'publico granaio del
-                        mondo. Et che gli Dii erano soliti rifuggire in quel'luogo, per recreatione
-                        et salute de gli animi loro. Non avenne niente di meno secondo che scrive
-                        Giosefo, (benche questa regione fusse tanto forte, et tanto abbondante che
-                        ella si gloriasse di potere dare da mangiare a tutto il Mondo, et ricevere
-                        et albergare, et saluare essi Dii) che ella fusse però in ogni età libera.
-                        Ben'dicono adunque con loro il vero, che favoleggiando dicono che le cose de
-                        Mortali non sono sicure, se bene in grembo a esso <persName ref="#Jupiter"
-                            >Giove</persName>. Et però ci piacerà immitare quella risposta di
-                            <persName ref="#Platon">Platone</persName>, il quale essendo dimandato
-                        in qual'luogo si potria trovare quella preclara Città, che egli s'era
-                        immaginata; Noi rispose non siamo iti dietro a questo, ma siamo iti
-                        inuestigando, in qual'modo sene potesse fare una migliore di tutte l'altre.
-                        Tu anteporrai quella a tutte l'altre, che manco si discosterà da la
-                        similitudine di questa. Così ancor'noi, quasi che adducendo esempi,
-                        descriviamo quella Città, la quale da gli huomini dottissimi sia per
-                        esser'giudicata per ogni conto, da dovere essere conmodissima:
-                        acconmodandoci nelle altre cose, al tempo, et alle necessità delle cose,
-                        Terremo quella oppenione di <persName ref="#Socrate">Socrate</persName>, di
-                        giudicare che quella cosa, che da per sè stia di maniera che ella non si
-                        possa mutare se non in peggio, sia veramente la migliore. Et per tanto, noi
-                        deliberiamo che la Citta debba essere talmente fatta, che e'non vi sia
-                        incommodita alcuna, di quelle, che noi raccontammo nel primo libro; et che
-                        non vi manchi cosa alcuna, che alla necessità della Vita si desideri. Habbia
-                        la campagna sanissima, larghissima, varia, amena, fertile, forte, ripiena,
-                        et ornata d'ogni abbondantia di frutti; et abbondantissima d'acque. Sianoui
-                        Fiumare, laghi, aperta la via di Mare, donde commodissimamente si possino
-                        condur'dentro le cose, che mancano, et mandar'fuori quelle, che avanzano.
-                        Tutte le cose finalmente porgeranno aiuto, allo stabilire, et allo
+                        desidereranno certamente un terreno, quale è appresso di <placeName
+                            ref="#Menfi">Memfi</placeName>, come scrive <persName ref="#Varron"
+                            >Varrone</persName>, che gode di Cielo tanto benigno, che non pure tutti
+                        gli Alberi, ma le Viti ancora, non vi perdono le foglie in tutto l'anno o
+                        quale sotto il <placeName ref="#MontsTaurus">Monte Tauro</placeName>, in
+                        quei luoghi, che guardano verso Aquilone. Dove <persName ref="#Strabon"
+                            >Strabone</persName> dice, che i Grappoli delle uve vi sono di un
+                        braccio et mezo, et che di ciascuna Vite si ricoglie mezo barile di Vino; et
+                        di un fico solo, libre cento quaranta di fichi. O quale è quello, che habita
+                            l'<placeName ref="#Inde">India</placeName>, o l'<placeName
+                            ref="#Hyperboreens">Isola Hyperborea</placeName> nel mare oceano, del
+                        quale terreno scrive <persName ref="#Herodote">Herodoto</persName>, che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> ricolgono il frutto due volte l'anno. O quale è quello di
+                            <placeName ref="#Portugal">Portogallo</placeName>, che dai semi che
+                        cascano fanno più et più ricolte. O più presto quale è il <placeName
+                            ref="#Tazata">Talge</placeName>, nel monte Caspio; il quale campo ancora
+                        che non lavorato, genera da sé le biade. Sono queste cose rare, et più tosto
+                        da essere bramate che trovate. Et però quelli eccellentissimi Antichi, che
+                        scrissono di simili cose; o prese da altri, o pure da loro trovate, Dicono
+                        che la Città si debbe talmente collocare, cha bastandole quello, che ella
+                        ricoglie nel suo (per quanto sopporta la ragione, et la conditione delle
+                        cose humane) ella non habbia bisogno di andare fuori per alcuna cosa
+                        necessaria: et sia afforzificato in tale modo il circuito dei suoi confini,
+                        che dal nimico non vi si possa entrare così facilmente; et che ella possa a
+                        sua posta mettere fuora eserciti, nelle provincie d'altri, et contro alla
+                        voglia del nimico. Impero che egli affermano che una Città così collocata,
+                        può difendere sé, et la libertà sua; et allargarsi molto d'Imperio. Ma che
+                        dirò io qui? Questa lode principalmente è attribuita alle <placeName
+                            ref="#Egypte">Egitto</placeName>, cioè che egli sia da ogni banda oltre
+                        a modo affortificato, et quasi del tutto inaccessibile; con ciò sia che da
+                        un lato habbia opposta la Marina, et dallo altro un diserto grandissimo;
+                        dalla destra ripidissimi Monti; et dalla sinistra Paludi larghissime. Oltre
+                        a che la fertilità del terreno vi è tanta; che gli antichi dissono che lo
+                            <placeName ref="#Egypte">Egitto</placeName> era un publico granaio del
+                        mondo. Et che gli Dii erano soliti rifuggire in quel luogo, per recreatione
+                        et salute degli animi loro. Non avenne niente di meno secondo che scrive
+                            <persName ref="#FlaviusJosephe">Giosefo</persName>, (benché questa
+                        regione fusse tanto forte, et tanto abbondante che ella si gloriasse di
+                        potere dare da mangiare a tutto il Mondo, et ricevere et albergare, et
+                        salvare essi Dii) che ella fusse però in ogni età libera. Ben dicono adunque
+                        con loro il vero, che favoleggiando dicono che le cose de Mortali non sono
+                        sicure, se bene in grembo a esso <persName ref="#Jupiter">Giove</persName>.
+                        Et però ci piacerà immitare quella risposta di <persName ref="#Platon"
+                            >Platone</persName>, il quale essendo dimandato in qual luogo si potria
+                        trovare quella preclara Città, che egli si era immaginata; Noi rispose non
+                        siamo iti dietro a questo, ma siamo iti investigando, in qual modo <choice>
+                            <sic>sene</sic>
+                            <corr>se ne</corr>
+                        </choice> potesse fare una migliore di tutte l'altre. Tu anteporrai quella a
+                        tutte le altre, che manco si discosterà dalla similitudine di questa. Così
+                        ancora noi, quasi che adducendo esempi, descriviamo quella Città, la quale
+                        dagli huomini dottissimi sia per essere giudicata per ogni conto, da dovere
+                        essere comodissima: accomodandoci<pb n="102"/> nelle altre cose, al tempo,
+                        et alle necessità delle cose, Terremo quella oppenione di <persName
+                            ref="#Socrate">Socrate</persName>, di giudicare che quella cosa, che da
+                        per sé stia di maniera che ella non si possa mutare se non in peggio, sia
+                        veramente la migliore. Et per tanto, noi deliberiamo che la Città debba
+                        essere talmente fatta, che e'non vi sia incommodità alcuna, di quelle, che
+                        noi raccontammo nel <ptr target="L1" type="renvoie">primo libro</ptr>; et
+                        che non vi manchi cosa alcuna, che alla necessità della Vita si desideri.
+                        Habbia la campagna sanissima, larghissima, varia, amena, fertile, forte,
+                        ripiena, et ornata d'ogni abbondantia di frutti; et abbondantissima d'acque.
+                        Sianovi Fiumare, laghi, aperta la via di Mare, donde commodissimamente si
+                        possino condurre dentro le cose, che mancano, et mandare fuori quelle, che
+                        avanzano. Tutte le cose finalmente porgeranno aiuto, allo stabilire, et allo
                         accrescere eccellentemente, et le cose Civili, et le Armi; con le quali essa
-                        Città possa porgere aiuto a suoi, ornamenti a se stessa, diletto a gli
+                        Città possa porgere aiuto ai suoi, ornamenti a sé stessa, diletto agli
                         Amici, et a Nimici spavento. Et crederrò che quella Città la faccia bene,
-                        che a dispetto del nimico possa coltivare una gran'parte del suo Terreno.
+                        che a dispetto del nimico possa coltivare una gran parte del suo Terreno.
                         Bisogna finalmente che la tua Città sia collocata nel mezo della Campagna,
                         in luogo, che la possa sguardare allo intorno il suo paese per tutto, et
                         discernere le cose opportune; et essere presta dove la necessità lo
-                        ricerchi; Donde il Contadino et lo Aratore possa continovamente vscire a
+                        ricerchi; Donde il Contadino et lo Aratore possa continouamente uscire a
                         lavorare, et tornare ancora in uno Instante dal Campo, carico di frutti, et
                         di ricolte. Ma importa grandissimamente, porla, o nella Pianura spazzata, o
-                        sopra il lito, o ne Monti; Conciosiaché in qual's'è l'uno di questi luoghi,
-                        vi fono alcune cose, che ti andrebbono allo animo; et alcune ancora, che non
-                        ti piacerebbono. Nel condurre <persName ref="#Bacchus">Dionisio</persName>
-                        lo essercito per la India, se gli ammalò per il caldo; onde lo ridusse a
+                        sopra il lito, o nei Monti; Con ciò sia che in qual's'è l'uno di questi
+                        luoghi, vi sono alcune cose, che ti andrebbono allo animo; et alcune ancora,
+                        che non ti piacerebbono. Nel condurre <persName ref="#Bacchus"
+                            >Dionisio</persName> lo essercito per la <placeName ref="#Inde"
+                            >India</placeName>, se gli ammalò per il caldo; onde lo ridusse ai
                         Monti; per il che, presa in uno instante di quella Aria sanissima, ritornò
                         subito sano. Quegli che primi collocarono le Città su per i Monti, pare che
-                        lo facessino, perché e'conoscessino di dovere stare in simil luoghi, molto
-                        piu che altrove sicuri; ma egli vi hanno carestia delle acque: La Pianura ti
+                        lo facessino, perché <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> conoscessino di dovere stare in simil luoghi, molto più che
+                        altrove sicuri; ma egli vi hanno carestia delle acque: La Pianura ti
                         presterrà commodità grandissima d'acque, et di Fiumare; ma ella è coperta
-                        d'Aria piu grossa; onde la State vi saranno caldi stemperati, et lo Inuerno
-                        freddi grandissimi: Et è contro a gli impeti manco gagliarda. I liti per
-                        condurre Mercantie son'molto opportuni; ma come si dice, ogni Città di Mare
+                        d'Aria più grossa; onde la State vi saranno caldi stemperati, et lo Inverno
+                        freddi grandissimi: Et è contro agli impeti manco gagliarda. I liti per
+                        condurre Mercantie sono molto opportuni; ma come si dice, ogni Città di Mare
                         è troppo vaga, et troppo si diletta di cose nuove; et eccitata et vessata
-                        troppo continovamente dalla forza et dal maneggio de faccendieri, và del
-                        continovo fluttuando; et è esposta a molti pericolosi casi et accidenti di
-                        Armate forestiere. La onde io delibero in questo modo, che ponendo tu in
+                        troppo continouamente dalla forza et dal maneggio dei faccendieri, và del
+                        continouo fluttuando; et è esposta a molti pericolosi casi et accidenti di
+                        Armate forestiere. Là onde io delibero in questo modo, che ponendo tu in
                         qual'si voglia di questi luoghi, una Città; Ti doverrai ingegnare, che ella
                         partecipi di tutte quelle commoditati; et che ella non habbia scommodità
-                        nessuna: Et vorrei ne monti fare le spianate; et ne piani rilevarmi da
-                        Terra, in quel'luogo, dove io volesse porre la mia Città. Et se ciò non
-                        potremo così conseguire a punto a voglia nostra, per la varietà de luoghi;
+                        nessuna: Et vorrei nei monti fare le spianate; et ne piani rilevarmi da
+                        Terra, in quel luogo, dove io volesse porre la mia Città. Et se ciò non
+                        potremo così conseguire a punto a voglia nostra, per la varietà dei luoghi;
                         Argomenteremo per havere le cose necessarie in questa maniera. Non si lasci
                         nelle Regioni Marittime, se elle saranno pianure, la Citta, troppo vicina al
                         Mare; et se saranno monti, non si ponga troppo discosto. Dicono che i liti
                         si mutano, et che in certi luoghi, alcune Città, et nella <placeName
-                            ref="#Italie">Italia</placeName> ancora, la Città di Baia è sommersa nel
-                        Mare. Il Faro in <placeName ref="#Egypte">Egitto</placeName>, che già era
-                        attorniato dal Mare, si truova al presente non altrimenti che il Chersonesso
-                        in Terra ferma. Il medesimo ancora scrive <persName ref="#Strabon"
-                            >Strabone</persName> di Tiro et di Clazzomene: Oltra di questo dicono
-                        che già il Tempio di Annone, era su la Marina, et che per essersi discostato
-                        il Mare, si ritruova al presente molto infra terra. Et ne avertiscono pure,
-                        che le Città si ponghino, o sopra esso lito, o lontane assai dal Mare.
-                        Percioché e'si vede che i fiati Marini, sono per la salsedine loro gravi et
-                        aspri. Et però quando e'giugneranno ne luoghi non molto lontani dal Mare, et
-                        massimo nelle Pianure, tu riscontrerrai quivi l'aria humidiccia,
-                        liquefaccendouisi la humidità che ella ha presa del mare; ne è maraviglia
-                        che l'Aria vi diventi grossa et quasi mucida; di maniera che in alcuni
-                        luoghi si fatti, si vegghino alcuna volta raggiraruisi per l'aria alcune
-                        ragne, come quelle de ragnateli; et dicono che il simile interuiene alle
-                        arie, che alle Acque: ciò è che mescolate con l'acque salate si guastano
-                        talmente, che con il loro puzzo ti nuocono. Gli Antichi et massimo <persName
-                            ref="#Platon">Platone</persName>, lodano quelle Città, che son'poste
-                        dieci miglia discosto dal Mare. Ma se tu non potrai porla tanto lontana,
-                        Pongasi in quel'sito, nel quale i detti fiati non possino arrivare, se non
-                        rotti, stracchi, et purificati; collocandola di maniera, che infra essa, et
-                        la Marina, sieno interposti Monti, che interrompino ogni nocivo influsso,
-                        che venisse dal Mare. La veduta della Marina di su Lito è molto dilettevole;
-                        et è cerchiata ancora d'Aria sanissima. <persName ref="#Aristote"
-                            >Aristotile</persName> crede che quelle Regioni sieno sanissime, dove
-                        rispirano sempre agitandouisi continoui Venti: Ma è da guardarsi, che in
-                        simil'luogo non sia il Mare erboso, con lito basso, et ricoperto appena da
-                        l'acque; ma sia profondo, con ripe scoscese, di Pietre vive, ripide, et
-                        aspre. Lo havere collocato ancora essa Città (come si dice) sopra le superbe
-                        spalle del Monte, conferisce grandissimamente, si alla dignità, et alla
-                        amenità; si ancora principalmente alla sanità, et alla salute dell'Aria. Ne
-                        luoghi dove i Monti soprastanno alla Marina, vi è sempre il Mare profondo:
-                        Oltre a che se e'visi leva alcuna grossezza di vapori, dal Mare, nel salire
-                        all'alto si consuma; et se da alcuna moltitudine di tuoi inimici, ti fusse
-                        in un'subito fatto alcun'danno; si prevede piu presto, et si ributtano con
-                        piu salute tua. Gli Antichi lodano quella Città situata nelle Colline, che
-                        sguardi a levante; lodano ancora ne Paesi caldi, quella che è battuta da
-                        Venti Grechi. Altri forse loderanno quella, che penda verso Occidente,
-                        indotti da questo, che gli haranno inteso, che i Terreni coltivati sotto
-                        quella faccia di Cielo, sono piu fertili. Et certamente sotto il Monte
-                        Tauro, quelle parti, che guardano verso Greco, dicono che sono molto piu
-                        salutifere, che l'altre; solamente per questo, che elle sono piu fertili,
-                        come dicono gli Historici. Vltimamente se si harà a collocare in alcun'luogo
-                        sopra i Monti alcuna Città si debbe principalmente avuertire; che e'non vi
-                        interuenga, quel'che il piu delle volte suole interuenire in simili luoghi,
-                        et massimo havendo allo intorno Colline piu alte di sè; ciò è che una grave
-                        et continova massa di Nebbie, non ne faccia continovamente il giorno oscuro,
-                        et fosco, et incrudelisca l'aria. Debbesi avertire oltra di questo, che il
-                        furiare et la smisurata molestia de Venti, non faccia troppo crudelmente
-                        danno a quel'Sito; et massimo de Venti Greci. Conciosia che il Greco, come
-                        dice Esiodo, rattrappa et storce ognuno, et massimo i Vecchi. Sarà quel'sito
-                        scommodo, dove la Città harà sopra a ridosso alcuna <persName
-                            ref="#CesareRipa">Ripa</persName>, che rimanderà allo ingiuso, i
-                        sollevativi vapori dal Sole; o quello, nel quale alcune profondissime Valli,
-                        suaporeranno all'intorno aria crudelissima. Altri ne avertiscono, che i
-                        fianchi delle città si debbino terminare con luoghi precipitosi. Ma che i
-                        precipitii quasi tutti non sieno di lor'natura bastanti a durare contro a i
-                        motivi, et a gli accidenti de Tempi lo dimostrano in assai luoghi molte
-                        Castella, et in <placeName ref="#Toscane">Toscana</placeName> Volterra.
-                        Rouinano certo i luoghi così fatti in processo di Tenpo, et si tirano dietro
-                        ciò che tu vi pon'sopra. Bisogna grandemente ancora avertire, che tal'Sito
-                        non habbia attaccato alcun'monte aridosso, che preoccupato da gli Inimici,
-                        ti habbia a essere di continova molestia; et che sotto la Città non vi sia
-                        tanto di pianura sicura, che il nimico vi si possa nascondere, pigliandoui
-                        con l'esercito Alloggiamenti, et farui di poi Trincee, o ordinare gli
-                        squadroni per venirti ad affrontare. Noi habbiamo letto, che <persName
-                            ref="#Dedale">Dedalo</persName> pose la Città d'Agrigenta, hoggi
-                        Gergento, sopra una difficilissima pietra, con una entrata strettissima; di
-                        maniera che ella era guardata da tre huomini soli; fortezza certo
-                        commodissima; pur'che è non ti possa esser'riserrata l'uscita alle armi, con
-                        altante persone, con quante si difende la entrata. I pratichi nelle cose da
-                        guerra, Lodano grandemente Cingoli, fatto da Labieno ne la Marca; si per
-                        molte altre cose, si ancora, perché quivi non interuiene quello che il piu
-                        delle volte suole interuenire alle Terre di Montagna, che poi che tu vi sia
-                        salito, vi sia il combattere pareggiato: Conciosia che i nimici vi sono
-                        ributtati da una altissima, et precipitosa ripa; Ne vi può lo Inimico con
-                        una sola scorreria dare a suo piacimento il guasto al paese, et predarlo; ne
-                        riturare tutte le vie insieme ad un'tempo; ne ritrarsi sicuro a gli
-                        alloggiamenti; ne mandare mai a fare cornaggio; o per legne o per acque
-                        senza pericolo. Il contrario interuiene a que'di dentro; percioché mediante
-                        i Monti che egli hanno sotto, collegati insieme da piu bande; et mediante le
-                        interpostevi Valli, hanno da poter'vscire in uno subito a molestar'gli
-                        Inimici, da poterli all'improuiso affrontare, et dar'loro la carica; secondo
-                        che se gli porge qual'si voglia presta occasione, et speranza. Ne danno
-                        minor'lode a Bisseio Castello de Marsii fortissimo mediante le tre fiumare
-                        che quivi da diverse bande concorrono; et difficilissimo ad andarui mediante
-                        gli strettissimi passi delle Valli; alzandouisi all'intorno asprissimi et
-                        inaccessibili Monti: Di maniera che gli Inimici, non hanno luogo dove
-                        poruisi ad assedio; ne possono guardare tutte le sboccature delle Valli;
-                        commodissime certamente a que'del Castello, da poterui metter'dentro
-                        soccorsi, et vettovaglie, et da nuocere a nimici; Ma sia de Monti detto a
-                        bastanza. Hora se tu collocherai una Terra nella Pianura, et come il piu
-                        delle volte si suol'fare in su la fiumara, talmente che ella forse passi per
-                        il mezo della Terra, avuertisci che detta fiumara non venga da Austro o
-                        corra verso Austro: Percio che quindi la humidità, et quinci la frigidità,
-                        multiplicate per i vapori della fiumara, arriveranno piu moleste et piu
-                        nocive. Ma se la fiumara passerà fuori del circuito delle Mura, bisognerà
-                        considerare la Regione all'intorno; et donde i Venti haranno campo piu
-                        aperto, alzar'da quella banda le mura dietro a le quali habbia a passare
-                        detta fiumara. Nell'altre cose farà aproposito quel che tengono, i
-                        Naviganti, cioè che i Venti per lor'natura sogliono seguitare molto il Sole,
-                        et le breze Orientali: Et i Medici dicono, che quelle della Mattina sono piu
-                        pure, et quelle della Sera piu humide. Et per l'opposito, le breze
-                        Occidentali al levar'del Sole sono piu spesse, et al tramontare di esso piu
-                        leggieri. La qual'cosa se così è, non saranno mai biasimate quelle Città,
-                        nelle quali la fiumara entrerrà di uerso Levante, et vscirà in uerso
-                        Ponente: Percio che quella breza, o Venticello, che si lieva col Sole, o
-                        veramente manderà via i Vapori fuori della Citta, se alcuni vene saranno
-                        cattivi; o ella nel suo arrivare, non gli accrescerà punto. Finalmente io
-                        vorrei piu tosto che i Fiumi i Laghi, et simili, si stendessino verso Borea,
-                        che verso Austro; pur che la Terra non sia posta a Bacio, sotto un'Monte;
-                        che è il peggior'sito, che esser'possa. Lascio le altre cose, che habbiamo
-                        disputate di sopra; E'si sa che Austro certo è molto grave, et di natura
-                        tardo; talmente che piene le Vele de Navili della sua gravezza, quasi come
-                        oppressi da un'grandissimo peso, si affondano. Ma Borea per il contrario,
-                        par'che faccia et il Mare, et i Navili leggieri: Pure qual'se l'uno di
-                        questi, è bene che ti stia lontano, piu tosto che riceverlo dentro tale che
-                        e'batta, o si appicchi alle facciate delle mura; et biasimano grandemente
-                        quelle fiumare, che corrono infra ripe molto scoscese, con gran'fondo,
-                        sassoso, et ombroso; percio che le acque sue sono nocive a bere; et l'aria
-                        sopra vi è mal'sana. Oltre a questo il porsi lontano da Stagni, et Paludi,
-                        d'acque morte, et fangose; è certo cosa da huomini savi, et considerati. Non
-                        replico le infermità dell'Aria, che in questo luogo si raccozzano. Hanno
-                        certo da natura simili luoghi, oltre a tutti, i fastidii della state; come
-                        sono i fetori, le pulci, et altri schifi animali, et simili; che quando tu
-                        pensi che l'aria vi sia purgatissima, et nettissima; e'non vi ti manca
-                        quel'che noi habbiamo detto, che interuiene nelle pianure; che nello Inuerno
-                        vi sono eccessivi freddi; et nella State ribollimenti stemperatissimi.
-                        Vltimamente e'bisogna haver'una estrema cura et diligenza, che o monte, o
-                        ripa, o lago, o padule, o fiume, o fonte, o qual'altra di queste cose tu ti
-                        voglia, non vi stia di maniera, che ella possa rendere forte il nimico, o
-                        difenderlo; et arecare a suoi Cittadini da alcuna delle bande, incommodità
-                        veruna. Et questo basti della Regione, et del Sito delle Città.</p>
+                            ref="#Italie">Italia</placeName> ancora, la Città di <placeName
+                            ref="#Baies">Baia</placeName> è sommersa nel Mare. Il Faro in <placeName
+                            ref="#Egypte">Egitto</placeName>,<pb n="103"/> che già era attorniato
+                        dal Mare, si truova al presente non altrimenti che il <placeName
+                            ref="#PeninsuleDeGallipoli">Chersonesso</placeName> in Terra ferma. Il
+                        medesimo ancora scrive <persName ref="#Strabon">Strabone</persName> di
+                            <placeName ref="#TyrAntique">Tiro</placeName> et di <placeName
+                            ref="#Clazomenes">Clazzomene</placeName>: Oltra di questo dicono che già
+                        il <objectName>Tempio di Annone</objectName>, era su la Marina, et che per
+                        essersi discostato il Mare, si ritruova al presente molto infra terra. Et ne
+                        avertiscono pure, che le Città si ponghino, o sopra esso lito, o lontane
+                        assai dal Mare. Percioché e'si vede che i fiati Marini, sono per la
+                        salsedine loro gravi et aspri. Et però quando <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> giugneranno nei luoghi non molto lontani dal Mare, et massimo
+                        nelle Pianure, tu riscontrerrai quivi l'aria humidiccia, liquefaccendovisi
+                        la humidità che ella ha presa del mare; ne è maraviglia che l'Aria vi
+                        diventi grossa et quasi mucida; di maniera che in alcuni luoghi si fatti, si
+                        vegghino alcuna volta raggirarvisi per l'aria alcune ragne, come quelle de
+                        ragnateli; et dicono che il simile interviene alle arie, che alle Acque:
+                        cioè che mescolate con l'acque salate si guastano talmente, che con il loro
+                        puzzo ti nuocono. Gli Antichi et massimo <persName ref="#Platon"
+                            >Platone</persName>, lodano quelle Città, che sono poste dieci miglia
+                        discosto dal Mare. Ma se tu non potrai porla tanto lontana, Pongasi in quel
+                        sito, nel quale i detti fiati non possino arrivare, se non rotti, stracchi,
+                        et purificati; collocandola di maniera, che infra essa, et la Marina, sieno
+                        interposti Monti, che interrompino ogni nocivo influsso, che venisse dal
+                        Mare. La veduta della Marina di su Lito è molto dilettevole; et è cerchiata
+                        ancora d'Aria sanissima. <persName ref="#Aristote">Aristotile</persName>
+                        crede che quelle Regioni sieno sanissime, dove rispirano sempre agitandovisi
+                        continoui Venti: Ma è da guardarsi, che in simil luogo non sia il Mare
+                        erboso, con lito basso, et ricoperto appena da l'acque; ma sia profondo, con
+                        ripe scoscese, di Pietre vive, ripide, et aspre. Lo havere collocato ancora
+                        essa Città (come si dice) sopra le superbe spalle del Monte, conferisce
+                        grandissimamente, si alla dignità, et alla amenità; si ancora principalmente
+                        alla sanità, et alla salute dell'Aria. Nei luoghi dove i Monti soprastanno
+                        alla Marina, vi è sempre il Mare profondo: Oltre a che se e'vi si leva
+                        alcuna grossezza di vapori, dal Mare, nel salire all'alto si consuma; et se
+                        da alcuna moltitudine di tuoi inimici, ti fusse in un subito fatto alcun
+                        danno; si prevede più presto, et si ributtano con più salute tua. Gli
+                        Antichi lodano quella Città situata nelle Colline, che sguardi a levante;
+                        lodano ancora nei Paesi caldi, quella che è battuta dai Venti Grechi. Altri
+                        forse loderanno quella, che penda verso Occidente, indotti da questo, che
+                        gli haranno inteso, che i Terreni coltivati sotto quella faccia di Cielo,
+                        sono più fertili. Et certamente sotto il <placeName ref="#MontsTaurus">Monte
+                            Tauro</placeName>, quelle parti, che guardano verso Greco, dicono che
+                        sono molto più salutifere, che le altre; solamente per questo, che elle sono
+                        più fertili, come dicono gli Historici. Ultimamente se si harà a collocare
+                        in alcun luogo sopra i Monti alcuna Città si debbe principalmente avvertire
+                        che e'non vi intervenga, quel che il più delle volte suole intervenire in
+                        simili luoghi, et massimo havendo allo intorno Colline piu alte di sè; ciò è
+                        che una grave et continoua massa di Nebbie, non ne faccia continouamente il
+                        giorno oscuro, et fosco, et incrudelisca l'aria. Debbesi avertire oltra di
+                        questo, che il furiare et la smisurata molestia dei Venti, non faccia troppo
+                        crudelmente danno a quel Sito; et massimo dei Venti Greci. Con ciò sia che
+                        il Greco, come dice <persName ref="#Hesiode">Esiodo</persName>, rattrappa et
+                        storce ognuno,<pb n="104"/> et massimo i Vecchi. Sarà quel sito scommodo,
+                        dove la Città harà sopra a ridosso alcuna Ripa, che rimanderà allo ingiuso,
+                        i sollevativi vapori dal Sole; o quello, nel quale alcune profondissime
+                        Valli, suaporeranno all'intorno aria crudelissima. Altri ne avertiscono, che
+                        i fianchi delle città si debbino terminare con luoghi precipitosi. Ma che i
+                        precipiti quasi tutti non sieno di loro nnatura bastanti a durare contro ai
+                        motivi, et agli accidenti deu Tempi lo dimostrano in assai luoghi molte
+                        Castella, et in <placeName ref="#Toscane">Toscana</placeName>
+                        <placeName ref="#Volterra">Volterra</placeName>. Rovinano certo i luoghi
+                        così fatti in processo di Tempo, et si tirano dietro ciò che tu vi poni
+                        sopra. Bisogna grandemente ancora avertire, che tal Sito non habbia
+                        attaccato alcun monte a ridosso, che preoccupato dagli Inimici, ti habbia a
+                        essere di continoua molestia; et che sotto la Città non vi sia tanto di
+                        pianura sicura, che il nimico vi si possa nascondere, pigliandovi con
+                        l'esercito Alloggiamenti, et farvi di poi Trincee, o ordinare gli squadroni
+                        per venirti ad affrontare. Noi habbiamo letto, che <persName ref="#Dedale"
+                            >Dedalo</persName> pose la Città d'<placeName ref="#Agrigente"
+                            >Agrigenta</placeName>, hoggi Gergento, sopra una difficilissima pietra,
+                        con una entrata strettissima, di maniera che ella era guardata da tre
+                        huomini soli, fortezza certo commodissima, pure che è non ti possa essere
+                        riserrata l'uscita alle armi, con altante persone, con quante si difende la
+                        entrata. I pratichi nelle cose da guerra, Lodano grandemente <placeName
+                            ref="#Cingoli">Cingoli</placeName>, fatto da <persName
+                            ref="#TitusLabienus">Labieno</persName> nella <placeName ref="#Marches"
+                            >Marca</placeName>; si per molte altre cose, si ancora, perché quivi non
+                        interviene quello che il più delle volte suole intervenire alle Terre di
+                        Montagna, che poi che tu vi sia salito, vi sia il combattere pareggiato: Con
+                        ciò sia che i nimici vi sono ributtati da una altissima, et precipitosa
+                        ripa; Né vi può lo Inimico con una sola scorreria dare a suo piacimento il
+                        guasto al paese, et predarlo; né riturare tutte le vie insieme ad un tempo;
+                        né ritrarsi sicuro agli alloggiamenti; né mandare mai a fare cornaggio; o
+                        per legne o per acque senza pericolo. Il contrario interviene a quei di
+                        dentro; percioché mediante i Monti che egli hanno sotto, collegati insieme
+                        da più bande; et mediante le interpostevi Valli, hanno da poter uscire in
+                        uno subito a molestare gli Inimici, da poterli all'improviso affrontare, et
+                        dare loro la carica; secondo che se gli porge qual'si voglia presta
+                        occasione, et speranza. Ne danno minor lode a <placeName>Bisseio</placeName>
+                        Castello dei <placeName ref="#Marsique">Marsi</placeName> fortissimo
+                        mediante le tre fiumare che quivi da diverse bande concorrono; et
+                        difficilissimo ad andarvi mediante gli strettissimi passi delle Valli;
+                        alzandovisi all'intorno asprissimi et inaccessibili Monti: Di maniera che
+                        gli Inimici, non hanno luogo dove porvisi ad assedio; né possono guardare
+                        tutte le sboccature delle Valli; commodissime certamente a quei del
+                        Castello, da potervi mettere dentro soccorsi, et vettovaglie, et da nuocere
+                        a nimici; Ma sia de Monti detto a bastanza. Hora se tu collocherai una Terra
+                        nella Pianura, et come il più delle volte si suol fare in su la fiumara,
+                        talmente che ella forse passi per il mezo della Terra, avvertisci che detta
+                        fiumara non venga da Austro o corra verso Austro: Perciò che quindi la
+                        humidità, et <reg>quindi</reg> la frigidità, multiplicate per i vapori della
+                        fiumara, arriveranno più moleste et più nocive. Ma se la fiumara passerà
+                        fuori del circuito delle Mura, bisognerà considerare la Regione all'intorno;
+                        et donde i Venti haranno campo più aperto, alzare da quella banda le mura
+                        dietro alle quali habbia a passare detta fiumara. Nelle altre cose farà
+                        aproposito quel che tengono,<pb n="105"/> i Naviganti, cioè che i Venti per
+                        loro natura sogliono seguitare molto il Sole, et le breze Orientali: Et i
+                        Medici dicono che quelle della Mattina sono più pure, et quelle della Sera
+                        più humide. Et per l'opposito, le breze Occidentali al levar del Sole sono
+                        più spesse, et al tramontare di esso più leggieri. La qual'cosa se così è,
+                        non saranno mai biasimate quelle Città, nelle quali la fiumara entrerrà di
+                        verso Levante, et uscirà in verso Ponente: Perciò che quella breza, o
+                        Venticello, che si lieva col Sole, o veramente manderà via i Vapori fuori
+                        della Città, se alcuni <choice>
+                            <sic>vene</sic>
+                            <corr>se ne</corr>
+                        </choice> saranno cattivi; o ella nel suo arrivare, non gli accrescerà
+                        punto. Finalmente io vorrei più tosto che i Fiumi i Laghi, et simili, si
+                        stendessino verso Borea, che verso Austro; pur che la Terra non sia posta a
+                        Bacio, sotto un Monte; che è il peggior sito, che essere possa. Lascio le
+                        altre cose, che habbiamo disputate di sopra; E'si sa che Austro certo è
+                        molto grave, et di natura tardo; talmente che piene le Vele dei Navili della
+                        sua gravezza, quasi come oppressi da un grandissimo peso, si affondano. Ma
+                        Borea per il contrario, pare che faccia et il Mare, et i Navili leggieri:
+                        Pure qual'se l'uno di questi, è bene che ti stia lontano, più tosto che
+                        riceverlo dentro tale che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> batta, o si appicchi alle facciate delle mura; et biasimano
+                        grandemente quelle fiumare, che corrono infra ripe molto scoscese, con gran
+                        fondo, sassoso, et ombroso; perciò che le acque sue sono nocive a bere; et
+                        l'aria sopra vi è malsana. Oltre a questo il porsi lontano da Stagni, et
+                        Paludi, d'acque morte, et fangose; è certo cosa da huomini savi, et
+                        considerati. Non replico le infermità dell'Aria, che in questo luogo si
+                        raccozzano. Hanno certo da natura simili luoghi, oltre a tutti, i fastidi
+                        della state; come sono i fetori, le pulci, et altri schifi animali, et
+                        simili; che quando tu pensi che l'aria vi sia purgatissima, et nettissima;
+                        e'non vi ti manca quel che noi habbiamo detto, che interviene nelle pianure;
+                        che nello Inverno vi sono eccessivi freddi; et nella State ribollimenti
+                        stemperatissimi. Ultimamente e'bisogna havere una estrema cura et diligenza,
+                        che o monte, o ripa, o lago, o padule, o fiume, o fonte, o qual'altra di
+                        queste cose tu ti voglia, non vi stia di maniera, che ella possa rendere
+                        forte il nimico, o difenderlo; et arecare ai suoi Cittadini da alcuna delle
+                        bande, incommodità veruna. Et questo basti della Regione, et del Sito delle
+                        Città.</p>
                 </div2>
                 <div2 type="chapitre" n="3" xml:id="L4C3">
                     <head> Del circuito, dello spatio, et della grandezza delle Città; delle forme,
