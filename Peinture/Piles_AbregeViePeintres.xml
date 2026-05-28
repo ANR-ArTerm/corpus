@@ -2107,7 +2107,7 @@
 							<placeName ref="#Egypte">Egypte</placeName>, <persName ref="#Euchir">Euchir</persName> dans la <placeName ref="#Grece">Gréce</placeName>, et
 						que <persName ref="#Bularque">Bularque</persName> l'apporta de
 							<placeName>Lidie</placeName> en <placeName ref="#Italie">Italie</placeName> sous le Regne de <persName ref="#Romulus">Romulus</persName>. <persName ref="#Bularque">Ce Peintre</persName> fit
-						un Tableau, où il représenta <objectName>la Bataille des
+						un Tableau, où il représenta <objectName ref="#BularqueBatailleMagnesiens">la Bataille des
 							Magnesiens</objectName>, lequel fut trouvé si beau par <persName ref="#Candaule">Candaule</persName> Roy de Lidie, que pour le payer, il
 						le couvrit d'or. D'où l'on peut inférer que la Peinture étoit en honneur des
 						ce tems-la.</p>
@@ -3681,7 +3681,7 @@
 						de faim s'il eut duré long-tems : mais <persName ref="#ClementVII">Clément
 							VII</persName>. luy succeda. Il ne fut pas plutôt élu, qu'il fit
 						travailler <persName ref="#GiulioRomano">Jules Romain</persName> à la
-						<objectName ref="#SalleConstantinVatican">Sale de Constantin</objectName>, où l'Histoire de cet
+						<objectName ref="#ChambreConstantinVatican">Sale de Constantin</objectName>, où l'Histoire de cet
 						Empereur avoit été commencée par <persName ref="#Raphael">Raphaël</persName>, qui en avoit fait tous les Desseins. Cet Ouvrage
 						étant achevé, <persName ref="#GiulioRomano">Jules</persName> s'occupa à
 						faire plusieurs Tableaux pour des Eglises et pour
@@ -3730,7 +3730,7 @@
 						vit en liberté, ou plutôt comme un torrent, qui, ayant été retenu, rompt
 						ses digues, et se fait un cours impétueux ; de même, <persName ref="#GiulioRomano">Jules Romain</persName>, aprés avoir produit
 						plusieurs Tableaux de chevalet, et peint de grans
-						Ouvrages dans <objectName ref="#SalleConstantinVatican">les Sales du <placeName ref="#Vatican">Vatican</placeName></objectName> sur
+						Ouvrages dans <objectName ref="#ChambreConstantinVatican">les Sales du <placeName ref="#Vatican">Vatican</placeName></objectName> sur
 						les Desseins de <persName ref="#Raphael">Raphaël</persName>, tant devant,
 						qu'aprés la mort de cet illustre Maître, changea aussi-tôt de maniére, et se
 						laissa emporter par le cours rapide de son Génie dans les Ouvrages qu'il
@@ -3787,7 +3787,7 @@
 						Païsage, qu'il faisoit tres bien, et qu'il enrichissoit de belles fabriques. </p>
 					<p xml:id="PIL_AVP_L3_C66_P2"> Aprés la mort de son Maître il s'associa avec <persName ref="#GiulioRomano">Jules Romain</persName> et <persName ref="#PietroBuonaccorsi">Perrin
 							del Vague</persName>, et tous trois ensemble achevérent ce que <persName ref="#Raphael">Raphaël</persName> avoit laissé d'imparfait, tant de
-						<objectName ref="#SalleConstantinVatican">l'Histoire de <persName ref="#Constantin">Constantin</persName></objectName>, que de
+						<objectName ref="#ChambreConstantinVatican">l'Histoire de <persName ref="#Constantin">Constantin</persName></objectName>, que de
 						quelques autres Ouvrages <objectName ref="#BelvedereVatican">du Palais de Belvédére</objectName>. Mais ils se separérent à
 						l'occasion d'une Copie que <persName>le Pape</persName> vouloit laire faire
 						du <objectName ref="#RaphaelTransfiguration">Tableau de la Transfiguration</objectName>, <pb n="188"/> parce que ce Tableau avoit
@@ -5531,9 +5531,9 @@
 						dit, de strapassées, il faut avoüer qu'il y en a aussi beaucoup
 						d'éxcellentes. Il a fait un nombre infini de Portraits, qu'il a finis ou
 						croquez selon l'argent dont il étoit convenu. Comme il y avoit encore une
-						place à remplir dans la même Chambre de l'<placeName>Ecole de Saint
-							Roch</placeName>, où il a fait ce beau
-						<objectName>Crucifix</objectName>, plusieurs Peintres se présentérent, et
+						place à remplir dans la même Chambre de <objectName ref="ScuolaGrandeSanRocco">l'Ecole de Saint
+							Roch</objectName>, où il a fait ce beau
+						<objectName ref="TintoretCrucifixionSanRocco">Crucifix</objectName>, plusieurs Peintres se présentérent, et
 						offrirent de faire<pb n="272"/> chacun un Dessein, afin qu'on préférât celuy
 						qui seroit trouvé le meilleur. Les Concurrens étoient <persName>Joseph
 							Salviati</persName>, <persName ref="#FedericoZuccaro">Fréderic
@@ -5550,8 +5550,8 @@
 						aujourd'huy dans le même lieu. Il est étonnant que <persName ref="#JacopoTintoretto">Tintoret</persName> ayant fait tant d'Ouvrages
 						avec une extrême vivacité, ait pû vivre quatre-vingt-deux ans, qui est
 						l'âge où il mourut d'un mal d'estomac, qu'une trop grande application luy
-						avoit causée. Il fut enterré dans l'<placeName>Eglise de la Madonna dell
-							Horto</placeName>, en l'année <date when="1594">1594</date>. </p>
+						avoit causée. Il fut enterré dans l'<objectName ref="EgliseMadonnaDellOrtoVenise">Eglise de la Madonna dell
+							Horto</objectName>, en l'année <date when="1594">1594</date>. </p>
 				</div2>
 				<div2 n="113" type="chapitre" xml:id="C113" xml:lang="fra">
 					<pb n="273"/>
@@ -5650,8 +5650,8 @@
 						Roy d'<placeName ref="#Espagne">Espagne</placeName>
 						<persName ref="#PhilippeII">Philippe II</persName>. le vouloit avoir pour
 						peindre à l'Escurial : mais <persName ref="#PaoloVeronese">Paul</persName>
-						s'en dispensa à cause qu'il étoit occupé aux Ouvrages du <placeName>Palais
-							de Saint Marc</placeName>, et <persName ref="#FedericoZuccaro">Fréderic
+						s'en dispensa à cause qu'il étoit occupé aux Ouvrages du <objectName ref="PalaisDogesVenise">Palais
+							de Saint Marc</objectName>, et <persName ref="#FedericoZuccaro">Fréderic
 							Luccre</persName> fut envoyé en sa place. </p>
 					<p xml:id="PIL_AVP_L4_C115_P6"> Il avoit une grande Idée de sa Profession, et disoit que la Peinture étoit
 						un don du Ciel, que pour en bien juger il falloit en avoir de grandes
@@ -5661,8 +5661,8 @@
 						la dévotion ; et<pb n="278"/> qu'enfin la partie qui couronnoit toutes
 						celles de la Peinture consistoit dans la probité et dans l'intégrité des
 						mœurs. Il est mort d'une fiévre en <date when="1588">1588</date>. âgé de
-						cinquante-huit ans. Sa Sépulture est <placeName>Saint Sebastien</placeName>,
-						où l'on voit son Portrait en Bronze.</p>
+						cinquante-huit ans. Sa Sépulture est <objectName ref="EgliseSanSebastianoVenise">Saint Sebastien</objectName>,
+						où l'on voit son <objectName>Portrait en Bronze</objectName>.</p>
 				</div2>
 				<div2 n="116" type="chapitre" xml:id="C116" xml:lang="fra">
 					<head>
@@ -5679,9 +5679,9 @@
 							Véronése</persName> en est un Exemple assez sensible : son talent étoit
 						merveilleux, il travailloit facilement, et son Génie luy auroit fait
 						produire toûjours de belles choses si ses soins avoient toûjours secondé
-						son Génie. Il a fait <objectName>une infinité de Tableaux</objectName> et
+						son Génie. Il a fait une infinité de Tableaux et
 						selon les lieux, et les personnes pour qui il travalloit, il méditoit plus
-						ou <pb n="279"/> moins ses Compositions. Le <placeName>Palais de <persName ref="#SaintMarc">Saint Marc</persName></placeName> à <placeName ref="#Venise">Venise</placeName>, les Autels principaux des principales
+						ou <pb n="279"/> moins ses Compositions. Le <objectName ref="PalaisDogesVenise">Palais de <persName ref="#SaintMarc">Saint Marc</persName></objectName> à <placeName ref="#Venise">Venise</placeName>, les Autels principaux des principales
 						Eglises, et quelques Maisons de Nobles conservent encore aujourd'huy ce
 						qu'il a fait de plus beau. Mais pour les différens Autels des Eglises
 						communes, et pour les Particuliers, qui, sur sa réputation, voulurent avoir
@@ -5755,9 +5755,9 @@
 					<p xml:id="PIL_AVP_L4_C116_P10"> On voit dans ses Ouvrages un grand faire par tout ; son éxécution est ferme,
 						son Pinceau leger, et sa réputation soutenuë d'assez de parties pour le
 						conserver dans le rang des Peintres du prémier Ordre. </p>
-					<p xml:id="PIL_AVP_L4_C116_P11"> Je n'omettray pas icy que le <objectName>Tableau des Nôces de
-							Cana</objectName>, qu'il a fait à <placeName>Saint Georges Major de
-								<placeName ref="#Venise">Venise</placeName></placeName>, est
+					<p xml:id="PIL_AVP_L4_C116_P11"> Je n'omettray pas icy que le <objectName ref="VeroneseCana">Tableau des Nôces de
+							Cana</objectName>, qu'il a fait à <objectName ref="BasiliqueSanGiorgioMaggioreVenise">Saint Georges Major de
+								<placeName ref="#Venise">Venise</placeName></objectName>, est
 						tres-distingué de ses autres Ouvrages, et qu'il est non seulement le
 						Triomphe de <persName ref="#PaoloVeronese">Paul Véronése</persName>, mais
 						que peu s'en faut qu'il ne soit le Triomphe de la Peinture. </p>
@@ -5808,8 +5808,8 @@
 						Peintres du monde </p>
 					<p xml:id="PIL_AVP_L4_C119_P2"> Il ne le cedoit point au <persName ref="#Titien">Titien</persName>, et il y
 						avoit entr'eux une si grande jalousie, que <persName ref="#Pordenone">Pordénon</persName> craignant quelque insulte de la part de son
-						Compétiteur étoit toûjours sur ses gardes, et lorsqu'il peignoit
-							<objectName>le Cloître de saint Estienne de <placeName ref="#Venise">Venise</placeName></objectName>, il travailloit l'Epée au côte avec
+						Compétiteur étoit toûjours sur ses gardes, et lorsqu'il <objectName ref="PordenoneFresqueSanStefano">peignoit
+							le Cloître</objectName> de <objectName ref="EgliseSantoStefanoVenise">saint Estienne de <placeName ref="#Venise">Venise</placeName></objectName>, il travailloit l'Epée au côte avec
 						une rondache auprés de luy, selon l'usage des braves de ce tems-la ; il
 						avoit une veine féconde, il dessinoit d'un bon Goût, et n'étoit gueres
 						inférieur au <persName ref="#Titien">Titien</persName> dans le Coloris, il a
@@ -5819,7 +5819,7 @@
 					<p xml:id="PIL_AVP_L4_C119_P3">
 						<pb n="286"/>Il alla à <placeName ref="#Ferrare">Ferrare</placeName> par
 						ordre du Duc <persName ref="#HerculeIIEste">Hercules II</persName>. pour y
-						achever des <objectName>Desseins de Tapisserie</objectName> qu'il avoit
+						achever des <objectName ref="PordenoneTapisserieEste">Desseins de Tapisserie</objectName> qu'il avoit
 						commencez à <placeName ref="#Venise">Venise</placeName> : mais à peine
 						fut-il arrivé qu'il tomba malade et mourut sans avoir achéve cet Ouvrage
 						qui contenoit les Travaux d'<persName ref="#Ulysse">Ulisse</persName>. Ce
@@ -5841,7 +5841,7 @@
 						s'attacher à la maniére du <persName ref="#Titien">Titien</persName> : Mais
 						cherchant à se fortifier dans le Dessein, il alla à <placeName ref="#Rome">Rome</placeName> où il travailla avec <persName ref="#TaddeoZuccaro">Tadée Zuccre</persName>. il y dessina beaucoup d'aprés l'Antique, et
 						d'aprés les bons Tableaux, et y fit quantité de Portaits. Il acheva les
-						Desseins des Bas-reliefs de la <objectName>Colonne Trajane</objectName>, que
+						<objectName ref="MuzianoDessinTrajane">Desseins des Bas-reliefs de la <objectName ref="ColonneTrajaneRome">Colonne Trajane</objectName></objectName>, que
 							<persName ref="#GiulioRomano">Jules Romain</persName> avoit commencez ;
 						il les fit graver, et <persName ref="#AlonsoChacon">Ciaconius</persName> y a
 						joint ses explications. <pb n="287"/>Le Pape <persName ref="#GregoireXIII">Grégoire XIII</persName>. fit travailler <persName ref="#GirolamoMuziano">Mutian</persName>, et ce fut en sa considération
@@ -5857,7 +5857,7 @@
 						d'arbres, de tout ce qu'il croyoit les devoir rendre agréables, et qui leur
 						aportoit de la Varieté, il imitit ordinairement des Chataigniers, et disoit
 						qu'il n'y avoit point d'Arbres plus propres à être peins ; <persName ref="#CornelisCort">Corneille Cort</persName> a gravé d'aprés luy
-							<objectName>7. grans Païsages</objectName>, qui sont fort
+						<objectName>7. grans Païsages</objectName>, qui sont fort
 							beaux.<persName ref="#GirolamoMuziano"> Le Mutian</persName> mourut en
 							<date when="1590">1590</date>. âgé de soixante-deux ans : Il laissa par
 						son Testament deux Maisons à l'Académie de saint Luc de <placeName ref="#Rome">Rome</placeName>, et ordonna que si ses héritiers mouroient
@@ -5881,7 +5881,7 @@
 						plus convenable de le placer dans l'Ecole Veniténne que dans celle de
 							<placeName ref="#Lombardie">Lombardie</placeName> où il a pris
 						naissance. Sa maniére étoit si conforme à celle de son Maître, que celui-cy
-						ayant commencé <objectName>une descente de Croix</objectName>, que la mort
+						ayant commencé <objectName ref="TitienPalmaPietaGallerieAccademiaVenise">une descente de Croix</objectName>, que la mort
 						l'empêcha d'achever; <persName ref="#JacopoPalmaIlVecchio">le
 							Palme</persName> fut choisi pour y mettre la derniére main, ce qu'il fit
 						avec respect pour la mémoire du <persName ref="#Titien">Titien</persName>,
@@ -5892,8 +5892,8 @@
 						<l>Palma reverenter perfecit,</l>
 						<l>Deoque dicavit opus.</l>
 					</lg>
-					<p xml:id="PIL_AVP_L4_C121_P2"> Entre ses Ouvrages que l'on voit à <placeName ref="#Venise">Venise</placeName>, <objectName>la Sainte Barbe</objectName> qui est
-						dans l'<placeName>Eglise de Sainte Marie Formose</placeName> est son plus
+					<p xml:id="PIL_AVP_L4_C121_P2"> Entre ses Ouvrages que l'on voit à <placeName ref="#Venise">Venise</placeName>, <objectName ref="PalmaVecchioSainteBarbeVenise">la Sainte Barbe</objectName> qui est
+						dans <objectName ref="EgliseSantaMariaFormosaVenise">l'Eglise de Sainte Marie Formose</objectName> est son plus
 						beau, il mourut en <date when="1596">1596</date>, âgé de quarante-<pb n="289"/>huit ans, ce qui fait voir qu'on ne l'appelle vieux, que parce
 						qu'il a précedé celui qu'on appelle <persName ref="#JacopoPalmaIlGiovane">le jeune Palme</persName>, qui étoit son Neveu, et Disciple de
 							<persName ref="#JacopoTintoretto">Tintoret</persName>, et qui a peint
@@ -6025,7 +6025,7 @@
 						Dessinateur et avoit une grande intelligence de la fraisque. La conformité
 						des noms a fait que l'on a confondu les Ouvrage du Neveu avec ceux de
 						l'Oncle. Cependant il a travaillé en beaucoup d'endroit. Il a peint à
-						fraisque <objectName>la façade d'une Maison</objectName> à <placeName ref="#Augsbourg">Ausbourg</placeName>, dans laquelle demeure <pb n="295"/> présentement <persName>M. Chanterel</persName>. Cet ouvrage s'est
+						fraisque <objectName ref="">la façade d'une Maison</objectName> à <placeName ref="#Augsbourg">Ausbourg</placeName>, dans laquelle demeure <pb n="295"/> présentement <persName>M. Chanterel</persName>. Cet ouvrage s'est
 						tres-bien conservé, et pour honnorer la mémoire de son Autheur, les
 						Magistrats de la Ville y ont fait mettre cette inscription. <hi rend="it" xml:lang="lat"><persName ref="#GiulioLicinio">Julius Licinius</persName>
 							Civis <placeName ref="#Venise">Venetus</placeName> &amp; <placeName ref="#Augsbourg">Augustanus</placeName> hoc AEdficium his picturis
@@ -6068,8 +6068,8 @@
 						Païs, au milieu de la pauvreté et sans autre sécours que l'étude de la
 						Nature, et l'affection qu'il avoit au travail, a produit des Ouvrages d'un
 						genre sublime, et dans les pensées, et dans l'éxécution. Ses principaux
-						Ouvrages sont à <placeName ref="#Parme">Parme</placeName> et à <placeName ref="#Modene">Modene</placeName>, et ses <objectName>Tableaux de
-							Cabinet</objectName> sont trés-rares. </p>
+						Ouvrages sont à <placeName ref="#Parme">Parme</placeName> et à <placeName ref="#Modene">Modene</placeName>, et ses tableaux de
+							Cabinet sont trés-rares. </p>
 					<p xml:id="PIL_AVP_L5_C127_P2"> La renommée de <persName ref="#Raphael">Raphaël</persName> donna envie au
 							<persName ref="#Correge">Correge</persName> de voir <placeName ref="#Rome">Rome</placeName> ; il y considéra attentivement les Tableaux
 						de ce Grand Peintre ; et le long silence qu'il avoit gardé en les voyant fut
@@ -6193,7 +6193,7 @@
 							écrivit<pb n="304"/> à <persName ref="#LodovicoCarracci">Louïs</persName>, et le pria d'éxciter <persName ref="#AgostinoCarracci">Augustin</persName> de l'y aller joindre, disant
 						qu'ils ne pourroient jamais trouver une meilleure Ecole pour devenir
 						habiles, que, ni <persName ref="#DomenicoTibaldi">Tibaldi</persName>, ni
-							<persName>Nicolini</persName>, ni <persName ref="#Raphael">Raphaël</persName> même dans la Sainte Cécile, n'avoient rien fait de
+						<persName>Nicolini</persName>, ni <persName ref="#Raphael">Raphaël</persName> même dans <objectName ref="RaphaelSainteCecile">la Sainte Cécile</objectName>, n'avoient rien fait de
 						comparable aux merveilles qu'il voyoit dans les Tableaux du <persName ref="#Correge">Corrége</persName> ; que tout y étoit grand et gracieux,
 							qu'<persName ref="#AgostinoCarracci">Augustin</persName> et luy
 						étudieroient ensemble ces belles choses avec plaisir, et qu'ils vivroient en
@@ -6239,7 +6239,7 @@
 						des Antiques, et des Desseins que l'on y voyoit. <persName ref="#CarloCesareMalvasia">Le Comte Malvasie</persName> dit, que ce qui
 						a soûtenu cette Académie, c'est les Principes de <persName ref="#LodovicoCarracci">Louïs</persName>, les Soins d'<persName ref="#AgostinoCarracci">Augustin</persName>, et le Zele d'<persName ref="#AnnibaleCarracci">Annibal</persName>. </p>
 					<p xml:id="PIL_AVP_L5_C129_P11"> La réputation des Caraches s'étant répanduë jusqu'à <placeName ref="#Rome">Rome</placeName>, le <persName ref="#EdouardFarnese">Cardinal Odoard
-							Farnése</persName>, qui vouloit faire peindre <objectName>la Galerie de
+							Farnése</persName>, qui vouloit faire peindre <objectName ref="CarracheGalerieFarnese">la Galerie de
 							son Palais</objectName>, fit venir <persName ref="#AnnibaleCarracci">Annibal</persName> à <placeName ref="#Rome">Rome</placeName> pour
 						l'exécution de son Dessein, et ce Peintre fit ce voyage d'autant plus
 						volontiers, qu'il avoit une tres grande envie de voir les Ouvrages de
@@ -6250,7 +6250,7 @@
 						sçavante, plus récherchée et plus prononcée ; mais plus séche et moins
 						natuelle dans le dessein et dans la Couleur. Il eut occasion de la mettre en
 						usage en Plusieurs Ouvrages qu'il y fit, et entre autres dans celui de la
-							<objectName>Gallerie du Palais Farnése</objectName>, où <persName ref="#AgostinoCarracci">Augustin</persName> qui l'étoit venu trouver
+						<objectName ref="CarracheGalerieFarnese">Gallerie du Palais Farnése</objectName>, où <persName ref="#AgostinoCarracci">Augustin</persName> qui l'étoit venu trouver
 						l'ayda, et pour l'ordonnance et pour l'éxécution. Mais soit qu'<persName ref="#AgostinoCarracci">Augustin</persName> voulût trop régenter dans
 						cet Ouvrage, soit qu'<persName ref="#AnnibaleCarracci">Annibal</persName> en
 						voulût avoir toute la gloire, ce dernier ne put soûffrir que son Frére
@@ -6286,7 +6286,7 @@
 						Obséques à <placeName ref="#Bologne">Bologne</placeName>, dont on peut voir
 						les circonstances dans la déscription que nous en a laissée <persName ref="#CarloCesareMalvasia">le Comte Malvasie</persName>. </p>
 					<p xml:id="PIL_AVP_L5_C129_P17"> Cependant <persName ref="#AnnibaleCarracci">Annibal</persName> continua
-							<objectName>la Galerie du Cardinal Farnése</objectName>, il y prit des
+						<objectName ref="CarracheGalerieFarnese">la Galerie du Cardinal Farnése</objectName>, il y prit des
 						soins incroyables, et quoy qu'il fut consommé dans sa profession, il n'a
 						pas fait la moindre chose dans cet Ouvrage qu'il n'ait consulté la nature,
 						ni peint la moindre <pb n="309"/> partie de ses Figures, pour laquelle il
@@ -6305,7 +6305,7 @@
 							Cavallo, e fa loge camare e sale, quadri et ancone e lavori da mille
 							scuti, e stenta, e crepa et ha poco gusto ancora di tal servitù ma
 							questo di gratia non si dica ad alcuno.</hi> Enfin aprés des soins
-						inconcevables, ayant mis cette Galerie dans le degré de perfection où nous
+						inconcevables, ayant mis cette <objectName ref="CarracheGalerieFarnese">Galerie</objectName> dans le degré de perfection où nous
 						la voyons, il espéroit que le <persName ref="#EdouardFarnese">Cardinal
 							Farnése</persName> lui donneroit une récompense proportionnée à la
 						qualité de l'Ouvrage, et à l'espace de huit années qu'il avoit travaillé
@@ -6321,13 +6321,12 @@
 						d'ailleurs un peu rüinée, il mourut à <placeName ref="#Rome">Rome</placeName> en <date when="1606">1606</date>. âgé de quarante-neuf
 						ans. </p>
 					<p xml:id="PIL_AVP_L5_C129_P20"> Pendant qu'<persName ref="#AnnibaleCarracci">Annibal</persName> travailloit
-						à <placeName ref="#Rome">Rome</placeName>, <persName ref="#LodovicoCarracci">Loüis</persName> étoit recherché de tous les côtez dans la <placeName ref="#Lombardie">Lomdardie</placeName>, principalement pour des
-							<objectName>Tableaux d'Eglise</objectName>, et l'on peut juger de sa
+						à <placeName ref="#Rome">Rome</placeName>, <persName ref="#LodovicoCarracci">Loüis</persName> étoit recherché de tous les côtez dans la <placeName ref="#Lombardie">Lomdardie</placeName>, principalement pour des Tableaux d'Eglise, et l'on peut juger de sa
 						capacité et de sa facilité par le grand nombre qu'il en a faits et par la
 						préference qu'on luy donnoit sur tous les autres Peintres. </p>
-					<p xml:id="PIL_AVP_L5_C129_P21"> Dans le tems qu'il y étoit le plus occupé, <objectName>Annibal</objectName>
+					<p xml:id="PIL_AVP_L5_C129_P21"> Dans le tems qu'il y étoit le plus occupé, <persName ref="#AnnibaleCarracci">Annibal</persName>
 						le solicita si puissamment de venir à <placeName ref="#Rome">Rome</placeName> pour l'ayder de ses Conseils dans l'Ouvrage de la
-							<objectName>Galerie Farnése</objectName>, qu'il ne put se dispenser de
+						<objectName ref="CarracheGalerieFarnese">Galerie Farnése</objectName>, qu'il ne put se dispenser de
 						faire ce voyage, et aprés avoir corrigé plusieurs choses <pb n="311"/>
 						dans cette Galerie, et avoir peint lui même une de ces Figures nuës, qui
 						soûtiennent le Médaillon de Sirinx ; il s'en détourna à <placeName ref="#Bologne">Bologne</placeName>, n'ayant été que tres peu de tems à
@@ -6410,7 +6409,7 @@
 						<persName ref="#Carrache">Les Caraches</persName> ont tous trois dessiné
 						d'un grand Goût. Celuy d'<persName ref="#AnnibaleCarracci">Annibal</persName> s'est encore augmenté dans le séjour qu'il fit à
 							<placeName ref="#Rome">Rome</placeName>, comme on le peut voir par les
-						Ouvrages qu'il a faits au <objectName>Palais Farnése</objectName>. Ce
+						Ouvrages qu'il a faits au <objectName ref="CarracheGalerieFarnese">Palais Farnése</objectName>. Ce
 						Dessein est chargé à la vérité mais cette charge est néanmoins si belle et
 						si savante, qu'elle fait plaisir à cet même qui la censurent ; car son Goût
 						de dessiner est un composé de l'Antique, de <persName ref="#MichelAnge">Michelange</persName>, et de la Nature. Mais comme l'affection qu'il
@@ -6462,7 +6461,7 @@
 						qu'il trouvoit beaucoup de Grace et de Grandeur dans ce qu'il faisoit. Il
 						chercha ensuite une maniére à laquelle il pût s'arrêter. Il alla à
 							<placeName ref="#Rome">Rome</placeName>,où il en copia de toutes sortes,
-						il étoit charmé des <objectName>Tableaux de <persName ref="#Raphael">Raphaël</persName></objectName> d'un côté, et la<pb n="317"/>
+						il étoit charmé des Tableaux de <persName ref="#Raphael">Raphaël</persName> d'un côté, et la<pb n="317"/>
 						force de ceux de <persName ref="#Caravage">Caravage</persName> luy plaisoit
 						d'un autre. Il essaya de tout, et s'arrêta enfin à une maniére qui pût
 						plaire à tout le monde. En effet, celle qu'il s'est formée est si grande, si
@@ -6495,9 +6494,9 @@
 						il ne songeoit plus comme auparavant à sa gloire mais seulement à expédier
 						ses Tableaux pour avoir de quoy subsister. Ses principaux Ouvrages sont dans
 						les Cabinet des Grans. Il travailloit également bien à huile et à fraisque.
-						Celuy de ses Tableaux qui a fait le plus de bruit dans <placeName ref="#Rome">Rome</placeName>, est celuy qu'il peignit en concurrence du
+						Celuy de ses Tableaux qui a fait le plus de bruit dans <placeName ref="#Rome">Rome</placeName>, est <objectName ref="GuidoReniMartyreSaintAndreSanGregorio">celuy qu'il peignit</objectName> <objectName ref="DominiquinSaintAndreSanGregorio">en concurrence du
 							<persName ref="#Dominiquin">Dominiquin</persName> dans
-							l'<placeName>Eglise de Saint Grégoire</placeName>. Au reste <persName ref="#GuidoReni">le Guide</persName> avoit de si bonnes mœurs, que, qui en
+							<objectName ref="EgliseSanGregorioCelioRome">l'Eglise de Saint Grégoire</objectName></objectName>. Au reste <persName ref="#GuidoReni">le Guide</persName> avoit de si bonnes mœurs, que, qui en
 						auroit retranché la passion du jeu, en auroit fait un homme accompli. Il
 						mourut à <placeName ref="#Bologne">Bologne</placeName> en <date when="1642">1642</date>. âgé de soixante-sept ans. <figure type="ornement" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/de728072-f939-4199-add7-aab825acd9c8/2093,6251,957,489/max/0/default.jpg"/>
 					</p>
@@ -6540,7 +6539,7 @@
 						aussi qu'il a traité peu de sujets qui fussent capables de luy fournir une
 						assez grande diversité d'Expressions pour être entiérement comparé en ce
 						genre à <persName ref="#Raphael">Raphaël</persName> : cette beauté
-						touchante, qui fait le mérite des <objectName>Têtes du <persName ref="#GuidoReni">Guide</persName></objectName>, consiste à mon <pb n="321"/> avis, non seulement dans la régularité des traits, mais
+						touchante, qui fait le mérite des Têtes du <persName ref="#GuidoReni">Guide</persName>, consiste à mon <pb n="321"/> avis, non seulement dans la régularité des traits, mais
 						encore dans un air précieux qu'il a donné aux bouches, lequel tient un
 						milieu délicat entre le rire et le mélancolique ; et dans un accord de ces
 						mêmes bouches, avec une certaine modestie qu'il a mise dans les yeux. </p>
@@ -6601,12 +6600,12 @@
 						véritable, que les Tableaux du <persName ref="#Dominiquin">Dominiquin</persName> sont aujourd'huy <pb n="324"/>une source où il y
 						a d'excelentes choses à puiser, et que les Ouvrages publics que ce sçavant
 						Peintre faits à <placeName ref="#Rome">Rome</placeName>, à <placeName ref="#Naples">Naples</placeName> et à <placeName ref="#Grottaferrata">Grotta Ferrata</placeName> sont des témoignages éternels de grande
-						capacité. <objectName>Le Tableau de la Communion de saint
+						capacité. <objectName ref="DominiquinCommunionSaintJeromeVatican">Le Tableau de la Communion de saint
 							Jérôme</objectName>, qu'il fit à <placeName ref="#Rome">Rome</placeName>
-						pour l'Eglise de ce Saint plût tellement au <persName ref="#NicolasPoussin">Poussin</persName>, que ce fameux Peintre contoit <objectName>la
-							Transfiguration</objectName> de <persName ref="#Raphael">Raphaël</persName>, <objectName>la descente de Croix</objectName> de
+						pour <objectName ref="EgliseSanGirolamoCaritaRome">l'Eglise de ce Saint</objectName> plût tellement au <persName ref="#NicolasPoussin">Poussin</persName>, que ce fameux Peintre contoit <objectName ref="RaphaelTransfiguration">la
+							Transfiguration</objectName> de <persName ref="#Raphael">Raphaël</persName>, <objectName ref="DanieleVolterraDescenteCroix">la descente de Croix</objectName> de
 							<persName ref="#DanieleDaVolterra">Daniel de Volterre</persName>, et
-							<objectName>le Saint Jérôme</objectName> du <persName ref="#Dominiquin">Dominiquin</persName> pour les trois plus beaux Tableaux de <placeName ref="#Rome">Rome</placeName>. Il ajoûtoit qu'il ne connossoit point
+						<objectName ref="DominiquinCommunionSaintJeromeVatican">le Saint Jérôme</objectName> du <persName ref="#Dominiquin">Dominiquin</persName> pour les trois plus beaux Tableaux de <placeName ref="#Rome">Rome</placeName>. Il ajoûtoit qu'il ne connossoit point
 						d'autre Peintre pour les Expressions que <persName ref="#Dominiquin">le
 							Dominiquin</persName>. Comme il a beaucoup travaillé à Fraisque, ses
 						Tableaux à huile sont peints avec quelque sécheresse. </p>
@@ -6643,11 +6642,11 @@
 					<p xml:id="PIL_AVP_L5_C134_P2"> Dés les commencemens ses pensées étoient judicieuses, elles s'élevérent
 						beaucoup dans la suite, et peu s'en faut qu'elles ne soient arrivées
 						jusqu'au sublime; si l'on ne veut dire qu'il y a porté quelques uns de ses
-						Ouvrages comme les Angles du <objectName>Dôme de Saint Andre</objectName> à
-							<placeName ref="#Rome">Rome</placeName>, <objectName>la communion de
-							Saint Jérôme</objectName>, <objectName>le David</objectName>,
-								<objectName>l'<persName ref="#Adam">Adam</persName> et l'<persName ref="#Eve">Eve</persName> qui sont chez le Roy</objectName>,
-							<objectName>Notre-Seigneur qui porte sa Croix</objectName>, qui est chez
+						Ouvrages comme <objectName ref="DominiquinEvangelistesSantAndreaDellaValleRome">les Angles du Dôme de <objectName ref="EgliseSantAndreaDellaValleRome">Saint Andre</objectName></objectName> à
+						<placeName ref="#Rome">Rome</placeName>, <objectName ref="DominiquinCommunionSaintJeromeVatican">la communion de
+							Saint Jérôme</objectName>, <objectName ref="DominiquinDavidVersailles">le David</objectName>,
+						<objectName ref="DominiquinAdamEveGrenoble">l'<persName ref="#Adam">Adam</persName> et l'<persName ref="#Eve">Eve</persName> qui sont chez le Roy</objectName>,
+							<objectName ref="DominiquinPortementCroixGetty">Notre-Seigneur qui porte sa Croix</objectName>, qui est chez
 						Monsieur l'<persName>Abbé de Camps</persName> et quelques autres. </p>
 					<p xml:id="PIL_AVP_L5_C134_P3"> Il a eû un assez bon choix d'attitude mais il a trés-mal entendu la
 						collocation des Figures et la disposition du tout ensemble. D'ailleurs pour
@@ -6684,22 +6683,22 @@
 						aprés la mort duquel il alla à <placeName ref="#Rome">Rome</placeName> où il
 						étudia sous <persName ref="#AnnibaleCarracci">Annibal</persName>. Celui-cy
 						le fit travailler à <placeName>Saint Jacques des Espagnols</placeName>, et
-						le trouva assez capable pour lui confier l'exécurion de ses Desseins en des
+						le trouva assez capable pour lui confier l'exécution de ses Desseins en des
 						Ouvrages où il a laissé de quoy douter s'ils sont du Maître ou du Disciple. </p>
 					<p xml:id="PIL_AVP_L5_C135_P2"> Son Genie étoit de peindre à fraisque dans des lieux spacieux, comme on le
 						peut remarquer par ses grans Ouvrages, et sur tout par la
-							<objectName>Coupole de saint André de Laval</objectName> où il a
+						<objectName ref="LanfrancoCoupoleSantAndreaDellaValleRome">Coupole de saint André de Laval</objectName> où il a
 						beaucoup mieux reussi que dans ses Tableaux de Médiocre grandeur; il
 						dessinoit du Coût d'<persName ref="#AnnibaleCarracci">Annibal
 							Carache</persName>, et tant qu'il demeura sous la conduite de cet
 						Illustre Maître, il fut toûjours correct, mais aprés la mort d'<persName ref="#AnnibaleCarracci">Annibal</persName> il se laissa aller à
 						l'impétuosité de son Génie, sans prendre autrement garde à la régularité de
-						son Art. Il a gravé à l'eau-forte <objectName>les Loges</objectName> de
+						son Art. Il a gravé à l'eau-forte <objectName ref="RaphaelLogesVatican">les Loges</objectName> de
 							<persName ref="#Raphael">Raphaël</persName>, conjointement avec
 							<persName ref="#SistoBadalocchio">Sisto Badalocchi</persName>, et l'un
-						et l'autre dédiérent cet Ouvrage à <persName ref="#AnnibaleCarracci">Annibal</persName> leur Maître. <persName ref="#GiovanniLanfranco">Lanfranc</persName> peignit <pb n="329"/>pour <persName ref="#UrbainVIII">Urbain VIII</persName>. l'Histoire de <persName ref="#SaintPierre">saint Pierre</persName>, qui a été gravée par
-							<persName>Piétro Santi</persName> et d'autres Ouvrages dans
-							l'<placeName>Eglise de saint Pierre</placeName>. Ce Pape en fut si
+						et l'autre dédiérent <objectName ref="LanfrancoSistoBadalocchioLogesVatican">cet Ouvrage</objectName> à <persName ref="#AnnibaleCarracci">Annibal</persName> leur Maître. <persName ref="#GiovanniLanfranco">Lanfranc</persName> peignit <pb n="329"/>pour <persName ref="#UrbainVIII">Urbain VIII</persName>. <objectName ref="LanfrancoHistoireSaintPierreVatican">l'Histoire de <persName ref="#SaintPierre">saint Pierre</persName></objectName>, qui a été <objectName ref="PietroSantiBartoliHistoireSaintPierre">gravée par
+							<persName ref="#PietroSantiBartoli">Piétro Santi</persName></objectName> et d'autres Ouvrages dans
+						<objectName ref="BasiliqueSaintPierreRome">l'Eglise de saint Pierre</objectName>. Ce Pape en fut si
 						content qu'il le fit Chevalier. </p>
 					<p xml:id="PIL_AVP_L5_C135_P3">
 						<persName ref="#GiovanniLanfranco">Lanfranc</persName> fut heureux dans sa
@@ -6716,13 +6715,13 @@
 					<p xml:id="PIL_AVP_L5_C136_P1">
 						<hi rend="capitals">LE</hi> Génie de <persName ref="#GiovanniLanfranco">Lanfranc</persName>, échauffé par les Etudes qu'il fit d'aprés les
 						Ouvrages du <persName ref="#Correge">Correge</persName>, et sur tout d'aprés
-						la <objectName>Coupole de <placeName ref="#Parme">Parme</placeName></objectName> le porta dans un antousiasme de vastes
+						la <objectName ref="CorregeAssomptionViergeParme">Coupole de <placeName ref="#Parme">Parme</placeName></objectName> le porta dans un antousiasme de vastes
 						pensées. Il chercha avidement les moyens de faire de semblables Productions,
 						et celles que l'on voit de luy à <placeName ref="#Rome">Rome</placeName> et
 						à <placeName ref="#Naples">Naples</placeName> persuadent facilement qu'il
 						étoit capable de grandes Entreprises. Aussi avoit-il un<pb n="330"/> talent
 						particulier pour les éxécuter. Rien ne l'étonnoit, et il a fait des Figures
-						de plus de vingt pieds de haut dans la <objectName>Coupole de Saint Andre de
+						de plus de vingt pieds de haut dans la <objectName ref="LanfrancoCoupoleSantAndreaDellaValleRome">Coupole de Saint Andre de
 							Laval</objectName>, qui font un tres-bon effet, et qui ne paroissent
 						d'en bas que d'une proportion naturelle et convenable. On voit dans ses
 						grans Ouvrages qu'il vouloit joindre la fermeté du Dessein d'<persName ref="#AnnibaleCarracci">Annibal</persName> au grand Goût et à la suavité
@@ -6743,7 +6742,7 @@
 					<pb n="331"/>
 					<p xml:id="PIL_AVP_L5_C136_P3"> Son Coloris n'est pas si recherché que celuy d'<persName ref="#AnnibaleCarracci">Annibal</persName> : les teintes de ses
 						Carnations sont triviales, et les ombres en sont un peu noires. Il a
-						ignoré, comme on Maître, l'artifice du Clair obscur. Il a quelques-fois mis
+						ignoré, comme son Maître, l'artifice du Clair obscur. Il a quelques-fois mis
 						en usage comme luy par un bon mouvement de son Esprit, et non par Principe. </p>
 					<p xml:id="PIL_AVP_L5_C136_P4"> Les Ouvrages de <persName ref="#GiovanniLanfranco">Lanfranc</persName>
 						partent d'une veine bien opposée à celle du <persName ref="#Dominiquin">Dominiquin</persName>. Ce dernier s'est fait Peintre en dépit de
@@ -6940,16 +6939,16 @@
 						mais le Goût du Dessein qui s'y trouve attaché, et le chois de sa lumiére,
 						toûjours le même dans toutes sortes de sujets, les en a dégoûtez. Ses
 						Tableaux sont dispersez dans les Cabinets de l'<placeName ref="#Europe">Europe</placeName> ; il y en à plusieurs à <placeName ref="#Rome">Rome</placeName> et à <placeName ref="#Naples">Naples</placeName> : il
-						y en a un aux Dominicains d'<placeName ref="#Anvers">Anvers</placeName>, que
+						y en a un aux <objectName ref="EgliseSaintPaulDominicainsAnvers">Dominicains d'<placeName ref="#Anvers">Anvers</placeName></objectName>, que
 							<persName ref="#PeterPaulRubens">Rubens</persName> appelloit son Maître. </p>
 					<p xml:id="PIL_AVP_L5_C141_P3"> Le mépris avec lequel il parloit des Ouvrages d'autruy, luy fit de grosses
 						affaires, et sur tout avec <persName ref="#GiuseppeCesari">Josepin</persName>, dont il se moquoit ouvertement. Un jour la dispute
 						s'échauffa tellement entr'eux deux, que <persName ref="#MichelAnge">Michelange</persName>, par un effet d'emportement, tira l'épée contre
 						son Compétiteur, et il en coûta la vie à un jeune homme nommé
-							<persName>Tomassin</persName>, qui tenant pour <persName ref="#GiuseppeCesari">Josepin</persName>, vouloit les separer. <persName ref="#MichelAnge">Michelange</persName> aprés cette action fut contraint
+						<persName ref="#RanuccioTomassoni">Tomassin</persName>, qui tenant pour <persName ref="#GiuseppeCesari">Josepin</persName>, vouloit les separer. <persName ref="#MichelAnge">Michelange</persName> aprés cette action fut contraint
 						le chercher un azyle chez le <persName ref="#VincenzoGiustiniani">Marquis
-							Justiniani</persName>, chez lequel il peignit <objectName>l'incrédulité
-							de Saint Thomas</objectName> et <objectName>un Cupidon</objectName>, qui
+							Justiniani</persName>, chez lequel il peignit <objectName ref="CaravageIncreduliteSaintThomasPotsdam">l'incrédulité
+								de Saint Thomas</objectName> et <objectName ref="CaravageCupidonGemaldegalerie">un Cupidon</objectName>, qui
 						sont deux morceaux admirables. </p>
 					<p xml:id="PIL_AVP_L5_C141_P4">
 						<persName ref="#VincenzoGiustiniani">Justiniani</persName> luy obtint sa
@@ -6959,8 +6958,8 @@
 						pareils. <persName ref="#Caravage">Le Caravage</persName> piqué de cette
 						réponse s'en alla à <placeName ref="#Malte">Malthe</placeName>, fit ses
 						Caravanes, et reçût l'Ordre de Chevalerie en qualité de Frére servant.
-						C'est-là qu'il fit Tableau de l<objectName>a Décollation de Saint
-							Jean</objectName> pour l'Eglise de <placeName ref="#Malte">Malthe</placeName>, et le <objectName>Portrait du Grand <persName ref="#AlofDeWignacourt">Maître de
+						C'est-là qu'il fit Tableau de <objectName ref="CaravageDecollationSaintJeanMalte">la Décollation de Saint
+							Jean</objectName> pour <objectName ref="CathedraleSaintJeanLaValette">l'Eglise de <placeName ref="#Malte">Malthe</placeName></objectName>, et le <objectName ref="CaravageAlofWignacourtLouvre">Portrait du Grand <persName ref="#AlofDeWignacourt">Maître de
 						Vignacourt</persName></objectName>, qui est aujourd'huy dans le Cabinet du
 						Roy. </p>
 					<p xml:id="PIL_AVP_L5_C141_P5"> Etant ainsi revêtu de l'Ordre de <placeName ref="#Malte">Malthe</placeName>,
@@ -7002,12 +7001,12 @@
 						moëleux qui fût jamais. </p>
 				</div2>
 				<div2 n="143" type="chapitre" xml:id="C143" xml:lang="fra">
-					<head><hi rend="capitals"><hi rend="it"><persName ref="#BartolomeoManfredi">BARTHOLOMEO MANFRED</persName></hi></hi></head>
+					<head><hi rend="capitals"><hi rend="it"><persName ref="#BartolomeoManfredi">BARTHOLOMEO MANFREDI</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L5_C143_P1">
 						<hi rend="capitals">DE</hi>
 						<placeName ref="#Mantoue">Mantouë</placeName>, Disciple du Caravage a imité
 						sa maniére de fort prés. Ses Tableaux sont presque tous des sujets de
-						Jouëurs de Cartes ou de Dez. Il est mort ijune. </p>
+						Jouëurs de Cartes ou de Dez. Il est mort jeune. </p>
 				</div2>
 				<div2 n="144" type="chapitre" xml:id="C144" xml:lang="fra">
 					<head><hi rend="it"><hi rend="capitals"><persName ref="#JusepeDeRibera">JOS.
@@ -7043,9 +7042,9 @@
 						se rendirent fort célébres par leurs Ouvrages. Ils peignirent plusieurs
 						sujets pour <persName ref="#PhilippeLeBon">Philippe le Bon</persName>, Duc
 						de Bourgogne. <pb n="346"/>
-						<objectName>Le Tableau qu'ils firent pour l'Eglise de Saint Jean de
-							Gand</objectName> attira l'admiration du Public, et <persName ref="#PhilippeIer">Philippe Prémier Roy d'<placeName ref="#Espagne">Espagne</placeName></persName>, n'en ayant pû obtenir l'Original,
-						en fit faire une Copie qu'il emporta en <placeName ref="#Espagne">Espagne</placeName>. Le sujet en est tiré de l'Apocalypse, où les
+						<objectName ref="HubertJanVanEyckAgneauMystiqueGand">Le Tableau qu'ils firent pour <objectName ref="CathedraleSaintBavonGand">l'Eglise de Saint Jean de
+							Gand</objectName></objectName> attira l'admiration du Public, et <persName ref="#PhilippeIer">Philippe Prémier Roy d'<placeName ref="#Espagne">Espagne</placeName></persName>, n'en ayant pû obtenir l'Original,
+						en fit faire une <objectName>Copie</objectName> qu'il emporta en <placeName ref="#Espagne">Espagne</placeName>. Le sujet en est tiré de l'<bibl>Apocalypse</bibl>, où les
 						Vieillards adorent l'Agneau. Ce Tableau est encore aujourd'huy regardé comme
 						une merveille: il est fort frais, parce que l'on a eû soin de le conserver ;
 						il est couvert, et il ne se montre qu'aux jours de Fêtes, ou à la demande de
@@ -7063,13 +7062,13 @@
 								<placeName ref="#Bruges">Bruges</placeName></persName> ayant
 						augmenté de beauté, se répardirent dans les Cabinets des Grans. </p>
 					<p xml:id="PIL_AVP_L6_C145_P3">
-						<objectName>Le Tableau</objectName> qu'il envoya à <persName ref="#AlphonseV">Alphonse Roy de <placeName ref="#Naples">Naples</placeName></persName>, fut cause que le secret <pb n="347"/>de peindre à huile entra en <placeName ref="#Italie">Italie</placeName>,
+						<objectName ref="EyckNaples">Le Tableau</objectName> qu'il envoya à <persName ref="#AlphonseV">Alphonse Roy de <placeName ref="#Naples">Naples</placeName></persName>, fut cause que le secret <pb n="347"/>de peindre à huile entra en <placeName ref="#Italie">Italie</placeName>,
 						comme on l'a fait voir dans la vie d'<persName ref="#AntonelloDeMessine">Antoine de <placeName ref="#Messine">Messine</placeName></persName>.
 							<persName ref="#VanEyck">Jean de Bruges</persName> se fit estimer, non
 						seulement par sa Peinture, mais aussi par la solidité de son Esprit. En
-						sorte que le <persName>Duc de Bourgogne</persName> lui donna une place dans
+						sorte que le <persName ref="#PhilippeLeBon">Duc de Bourgogne</persName> lui donna une place dans
 						son Conseil, il mourut à <placeName ref="#Bruges">Bruges</placeName> où il
-						fut enterré dans l'Eglise de Saint Sonat. Il avoit une Sœur nommée <persName ref="#MargaretheVanEyck">Marguerite</persName> qui renonça au mariage,
+						fut enterré dans l'<objectName ref="CathedraleSaintDonatienBruges">Eglise de Saint Donat</objectName>. Il avoit une Sœur nommée <persName ref="#MargaretheVanEyck">Marguerite</persName> qui renonça au mariage,
 						pour exercer avec plus de liberté la Peinture qu'elle aimoit passionnément.
 					</p>
 				</div2>
@@ -7082,19 +7081,19 @@
 							<placeName ref="#Nuremberg">Nuremberg</placeName>, en <date when="1471">1471</date>. Il eut pour Pére <persName ref="#AlbrechtDurerElder">Albert Dure</persName> tres-habile Orfevre, de qui nôtre <persName ref="#AlbrechtDurer">Albert</persName> apprit en même tems l'Orfévrerie
 						et la Gravure. A quinze ans il se mit sous la discipline de <persName ref="#MichaelWolgemut">Michel Wolgemut</persName> habile Peintre à
 							<placeName ref="#Nuremberg">Nuremberg</placeName>. En quoy <persName ref="#CarelVanMander">Van-Mander</persName> n'a pas été bien informé,
-						qui le fait Disciple de <persName>Martin Schon</persName>. Il est vray
+						qui le fait Disciple de <persName ref="MartinSchongauer">Martin Schon</persName>. Il est vray
 							qu'<persName ref="#AlbrechtDurer">Albert</persName> avoit envie d'en
-						faire son Maître, mais la mort de <persName>Martin Schon</persName> ne lui
+						faire son Maître, mais la mort de <persName ref="MartinSchongauer">Martin Schon</persName> ne lui
 						donna pas le tems d'éxécuter son dessein. </p>
 					<p xml:id="PIL_AVP_L6_C146_P2"> Aprés avoir passé trois ans chez son <pb n="348"/> Maître. Il en emploia
 						quatre à voyager en <placeName ref="#Flandres">Flandre</placeName>, en
 							<placeName ref="#Allemagne">Allemagne</placeName> et à <placeName ref="#Venise">Venise</placeName> et à son retour il se maria à
 						vingt-trois ans. C'est environ ce tems-là qu'il commença à mettre en lumiére
-						quelque Estampes de sa façon. Il Grava les trois Graces, et des Têtes de
-						Mort, avec d'autres Ossemens, un Enfer avec des Spéctre diaboliques dans la
-						maniere d'<persName>Israël, de <placeName ref="#Malines">Malines</placeName>
-						</persName>; au dessus de ces trois Femmes il y a un Globe sur lequel on
-						voit ces troi Lettres O.G.H. qui veulent dire en Allemand <hi rend="normal" xml:lang="all">O Gott Hüte!</hi>
+						quelque Estampes de sa façon. Il Grava <objectName ref="DurerQuatreSorcieres">les trois Graces</objectName>, et des <objectName>Têtes de
+						Mort, avec d'autres Ossemens, un Enfer avec des Spéctre diaboliques</objectName> dans la
+						maniere d'<persName ref="#IsrahelVanMeckenem">Israël, de <placeName ref="#Malines">Malines</placeName>
+						</persName>; au dessus de <objectName ref="DurerQuatreSorcieres">ces trois Femmes il y a un Globe sur lequel on
+						voit ces troi Lettres O.G.H.</objectName> qui veulent dire en Allemand <hi rend="normal" xml:lang="all">O Gott Hüte!</hi>
 						<hi rend="it">O <persName ref="#Dieu">Dieu</persName> gardez-nous des
 							enchantemens</hi> : Il avoit pour lors vingt-six ans, car c'êtoit en
 							<date when="1497">1497</date>. Ayant mis ainsi son genie en mouvement il
@@ -7104,9 +7103,9 @@
 						long-tems depuis : mais avec plus d'adresse et de déguisement. </p>
 					<p xml:id="PIL_AVP_L6_C146_P3"> Il a eu soin dans toutes ses Planches, de mettre l'année qu'elles ont été
 						Gravées, qui est une chose dont les curieux ont sujet de se loüer, car ils
-						peuvent juger par-là à quel âge il les a travaillées. Dans la grande
-						Passion de Nôtre-Seigneur qu'il a gravée, il a disposé la Céne selon
-						l'opinion d'<persName>Æcolampade</persName> : <objectName>la
+						peuvent juger par-là à quel âge il les a travaillées. Dans la <objectName> grande
+						Passion de Nôtre-Seigneur</objectName> qu'il a gravée, il a disposé la <objectName>Céne</objectName> selon
+						l'opinion d'<persName ref="#JeanOecolampade">Æcolampade</persName> : <objectName ref="DurerMelancolia">la
 							Mélancolie</objectName>
 						<pb n="349"/>est sa plus belle piéce, et les choses qui entrent dans la
 						composition de ce sujet, sont une preuve de l'habileté l'<persName ref="#AlbrechtDurer">Albert</persName>, ses Vierges sont encore d'une
@@ -7175,10 +7174,10 @@
 						la propreté jointe à l'éxactitude qu'il employoit dans son travail, sont
 						une preuve qu'il possedoit parfaitement les principes qu'il s'étoit établis,
 						lesquels ne rouloient que sur le Dessein, cependant il est étonnant, que
-						dans les éxtrémes soins qu'il avoit pris pour connoître la sustructure du
+						dans les éxtrémes soins qu'il avoit pris pour connoître la structure du
 						Corps humain, et aprés avoir trouvé une belle proportion entre toutes celles
 						qu'il a données au Public, il s'en soit si peu servi dans ces Ouvrages, car
-						à l'éxception de ses Vierges et des Vertus, qui accompagnent <objectName>le
+						à l'éxception de ses Vierges et des Vertus, qui accompagnent <objectName ref="DurerTriompheMaximilienI">le
 							Triomphe de l'<persName ref="#MaximilienI">Empereur
 								Maximilien</persName></objectName>, tout ce qu'il a fait est d'un
 						Goût de Dessein, tout-à-fait pauvre, il s'est attaché uniquement à la Nature
@@ -7202,7 +7201,7 @@
 					</p>
 				</div2>
 				<div2 n="148" type="chapitre" xml:id="C148" xml:lang="fra">
-					<head><hi rend="capitals"><hi rend="it"><persName>GEORGES
+					<head><hi rend="capitals"><hi rend="it"><persName ref="#GeorgPencz">GEORGES
 							PENS</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C148_P1">
 						<hi rend="capitals">DE</hi>
@@ -7220,12 +7219,12 @@
 					<p xml:id="PIL_AVP_L6_C149_P1">
 						<hi rend="capitals">DE</hi>
 						<placeName ref="#Munich">Munic</placeName> étoit habile homme. Il a peint
-						presque tout <objectName>le Palais de <persName ref="#MaximilienIDuc">Maximilien Duc de Baviére</persName></objectName>, au service
-						duquel il étoit. C'est luy qui a fait <objectName>les Desseins des Hérmites
+						presque tout <objectName ref="ResidenceMunich">le Palais de <persName ref="#MaximilienIDuc">Maximilien Duc de Baviére</persName></objectName>, au service
+						duquel il étoit. C'est luy qui a fait <objectName ref="PeterCandidErmitesBaviere">les Desseins des Hérmites
 							de Baviére</objectName>, que <persName ref="#Raphael">Raphaël</persName>
-						et <persName ref="#HansSadeler">Jean Sadeler</persName> ont gravez aussi
+						et <persName ref="#HansSadeler">Jean Sadeler</persName> <objectName ref="HansSadelerErmites">ont gravez aussi</objectName>
 						bien que plusieurs autres choses de son Dessein. On voit encore de luy
-						quatre Docteurs de l'Eglise, gravez par <persName ref="#AegidiusSadeler">Gilles Sadeler</persName>. </p>
+						<objectName ref="PeterCandidQuatreDocteursEglise">quatre Docteurs de l'Eglise</objectName>, <objectName>gravez par <persName ref="#AegidiusSadeler">Gilles Sadeler</persName></objectName>. </p>
 					<p xml:id="PIL_AVP_L6_C149_P2"> Dans le même tems vivoit <persName ref="#MatthiasGrunewald">Mathieu
 							Grunewalt</persName>, fort estimé dans son tems et qui peignoit dans la
 						maniére d'<persName ref="#AlbrechtDurer">Albert</persName>. </p>
@@ -7254,11 +7253,11 @@
 						quelque Tableau de consequence, il couchoit des feuilles d'Or sur son
 						Impression et peignoit dessus, ce qui a conservé ses Couleurs fraiches et
 						leur a donné en certains endroits beaucoup d'éclat, principalement dans une
-						lumiere Céleste, qu'il a peinte au Tableau du <objectName>Jugement
-							Universel</objectName> qui est à <placeName ref="#Anvers">Anvers</placeName>, dans la Chapelle des Aumônes. Il a fait quantité
+						lumiere Céleste, qu'il a peinte au Tableau du <objectName ref="BernaertVanOrleyJugementDernierAnvers">Jugement
+							Universel</objectName> qui est à <placeName ref="#Anvers">Anvers</placeName>, dans la <objectName>Chapelle des Aumônes</objectName>. Il a fait quantité
 						de Desseins de Tapisseries pour l'<persName ref="#CharlesV">Empereur Charles
-							V</persName>. et a eû le principal soin de faire éxecuter celles du
-						Pape, et des Souverains de ce tems-là, sur les Desseins de <persName ref="#Raphael">Raphaël</persName>, dont il avoit été Disciple. </p>
+							V</persName>. et a eû le principal soin de faire éxecuter <objectName ref="RaphaelTapisseriesSixtine">celles du
+						Pape, et des Souverains de ce tems-là, sur les Desseins de <persName ref="#Raphael">Raphaël</persName></objectName>, dont il avoit été Disciple. </p>
 					<figure type="ornement"/>
 				</div2>
 				<div2 n="152" type="chapitre" xml:id="C152" xml:lang="fra">
@@ -7275,7 +7274,7 @@
 						la peine à produire quelque chose de luy même, il Dessinoit et Colorioit
 						dans le Goût de <persName ref="#Raphael">Raphaël</persName>, étant de retour
 						en <placeName ref="#Flandres">Flandre</placeName>, il conduisit les
-						Tapisseries qui se faisoient sur les Desseins du même <persName ref="#Raphael">Raphaël</persName>, et mourut à <placeName ref="#Anvers">Anvers</placeName> en <date when="1592">1592</date>. âgé de
+						<objectName ref="RaphaelTapisseriesSixtine">Tapisseries qui se faisoient sur les Desseins du même <persName ref="#Raphael">Raphaël</persName></objectName>, et mourut à <placeName ref="#Anvers">Anvers</placeName> en <date when="1592">1592</date>. âgé de
 						quatre-vingt-quinze ans. </p>
 				</div2>
 				<div2 n="153" type="chapitre" xml:id="C153" xml:lang="fra">
@@ -7339,8 +7338,8 @@
 					<p xml:id="PIL_AVP_L6_C154_P2"> D'autres content cette Histoire autrement, et veulent que l'amour luy ait
 						ôté le Marteau de la main pour y mettre le Pinceau, et c'est l'opinion la
 						plus commune : c'est ainsi que son Epitaphe le dit, et l'on voit quelques
-						Epigrammes sur ce pied-là. On trouve beaucoup de ses Tableaux à <placeName ref="#Anvers">Anvers</placeName>, et entr'autres <objectName>une
-							descente de Croix</objectName> dans l'<placeName>Eglise de
+						Epigrammes sur ce pied-là. On trouve beaucoup de ses Tableaux à <placeName ref="#Anvers">Anvers</placeName>, et entr'autres <objectName ref="QuintenMetsysDescenteCroix">une
+							descente de Croix</objectName> dans l'<placeName ref="CathedraleNotreDameAnvers">Eglise de
 							Nôtre-Dame</placeName>. Il ne faisoit ordinairement que des demi-Figures
 						et des Portraits. Ainsi ses Ouvrages ayant été faciles à transporter, <pb n="360"/> se sont dispersez de tous côtez dans les Cabinets de
 							l'<placeName ref="#Europe">Europe</placeName>. Sa maniére, qui n'avoit
@@ -7360,11 +7359,11 @@
 						quoy beaucoup d'habiles Connoisseurs sont tous les jours trompez. De
 							<placeName ref="#Venise">Venise</placeName> il alla à <placeName ref="#Rome">Rome</placeName>, où aprés s'être rendu la maniére de
 							<persName ref="#Raphael">Raphaël</persName> tres-familiére, il passa à
-							<placeName ref="#Naples">Naples</placeName>, et y mourut en <date when="1546">1546</date>. C'est luy qui a dessiné <objectName>les Figures
-							anatomiques</objectName> du Livre de <persName ref="#AndreasVanWesel">Vesale</persName>, et les <objectName>Portraits des
-							Peintres</objectName> qui sont à la tête de leurs Vies, que <persName ref="#GiorgioVasari">Vasari</persName> a écrites. Cela <pb n="361"/>
+						<placeName ref="#Naples">Naples</placeName>, et y mourut en <date when="1546">1546</date>. C'est luy qui a dessiné <objectName ref="JanStevenVanCalcarFabrica">les Figures
+							anatomiques</objectName> du <bibl>Livre de <persName ref="#AndreasVanWesel">Vesale</persName></bibl>, et les <objectName>Portraits des
+							Peintres</objectName> qui sont à la tête de leurs <bibl>Vies, que <persName ref="#GiorgioVasari">Vasari</persName> a écrites</bibl>. Cela <pb n="361"/>
 						seul suffiroit pour faire son éloge. Il a fait un Tableau entr'autres d'une
-							<objectName>Nativité</objectName>, accompagnée d'Anges, où la lumiere
+						<objectName ref="JanStevenVanCalcarNativite">Nativité</objectName>, accompagnée d'Anges, où la lumiere
 						vient du petit Christ : cet Ouvrage est admirable ; <persName ref="#PeterPaulRubens">Rubens</persName>, qui en étoit possesseur, la
 						voulu garder jusqu'à la mort, et a son Inventaire <persName ref="#JoachimVonSandrart">Sandrart</persName> l'acheta, et le revendit à
 							l'<persName ref="#FerdinandI">Empereur Ferdinand</persName>, qui en
@@ -7379,31 +7378,31 @@
 						où la disposition qu'il avoit à proster des bonnes choses luy fit prendre un
 						tres-bon Goût, et luy aquit par l'éxercice une grande correction dans le
 						Dessein. Etant de retour en son païs, il se chargea de la conduite de
-						quelques Tapisseries qu'on faisoit sur les Desseins de <persName ref="#Raphael">Raphaël</persName> : et se voyant sans enfans et veuf
+						quelques <objectName ref="RaphaelTapisseriesSixtine">Tapisseries qu'on faisoit sur les Desseins de <persName ref="#Raphael">Raphaël</persName></objectName> : et se voyant sans enfans et veuf
 						aprés deux ans de mariage, il se laissa aller à la persuasion de quelques
 						Marchands de <placeName ref="#Bruxelles">Bruxelles</placeName>, qui
 						l'engagerent au voyage de <placeName ref="#Constantinople">Constantinople</placeName> : mais ne trouvant rien à faire dans ce
-						païs-là que des <objectName>Desseins de Tapis</objectName>, à cause que la
+						païs-là que des <objectName ref="PieterCoeckeVanAelstMartyreSaintPaul">Desseins de Tapis</objectName>, à cause que la
 						Religion du païs ne permet pas de représenter des Figures, il s'occupa a
-						dessiner en son particulier <pb n="362"/>des Vuës des environs de <placeName ref="#Constantinople">Constantinople</placeName>, et les façons de vivre
+						dessiner en son particulier <pb n="362"/><objectName ref="PieterCoeckeVanAelstVoyageConstantinople">des Vuës des environs de <placeName ref="#Constantinople">Constantinople</placeName></objectName>, et les façons de vivre
 						des Turcs, dont il nous a laissé les Estampes en bois, qui seules peuvent
-						faire juger de son mérite. Dans cet Ouvrage il a fait <objectName>son
+						faire juger de son mérite. Dans cet Ouvrage il a fait <objectName ref="PieterCoeckeVanAelstVoyageConstantinople">son
 							Portrait sous la Figure d'un Turc qui est debout</objectName>, et qui
 						montre au doigt un autre Turc qui tient une Pique. Aprés son voyage de
 							<placeName ref="#Constantinople">Constantinople</placeName> il alla
 						s'établir à <placeName ref="#Anvers">Anvers</placeName>, où il fit beaucoup
 						de Tableaux pour l'<persName ref="#CharlesQuint">Empereur
 							Charles-Quint</persName> ; et sur la fin de sa vie il écrivit de la
-						Sculpture, de la Geométrie, et de la Perspective, et a traduit en Flamand
-							<persName ref="#Vitruve">Vitruve</persName> et <persName ref="#SebastianoSerlio">Serlio</persName> ; car il étoit bon Architecte.
+						Sculpture, de la Geométrie, et de la Perspective, et a <bibl>traduit en Flamand
+							<persName ref="#Vitruve">Vitruve</persName></bibl> <bibl>et <persName ref="#SebastianoSerlio">Serlio</persName> </bibl>; car il étoit bon Architecte.
 						Il mourut en <date when="1550">1550</date>. </p>
 				</div2>
 				<div2 n="157" type="chapitre" xml:id="C157" xml:lang="fra">
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#HeinrichAldegrever">ALBERT ALDEGRAF</persName>.</hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C157_P1">
-						<hi rend="capitals">DE</hi> la Ville de Soust en <placeName ref="#Westphalie">Westphalie</placeName>, où il a peint dans l'Eglise de
-						ce lieu là plusieurs choses, et entr'autres une
-							<objectName>Nativité</objectName> digne d'admiration. Il a fait peu de
+						<hi rend="capitals">DE</hi> <placeName ref="#Soest">la Ville de Soust</placeName> en <placeName ref="#Westphalie">Westphalie</placeName>, où il a peint dans <objectName ref="EgliseSainteMarieDesPresSoest"> l'Eglise de
+						ce lieu là</objectName> plusieurs choses, et entr'autres une
+						<objectName ref="HeinrichAldegreverNativiteSoest">Nativité</objectName> digne d'admiration. Il a fait peu de
 						choses ailleurs, s'étant occupé beaucoup plus à graver, ainsi qu'on le peut
 						voir par le grand nombre de ses Estampes, par lesquelles on peut juger qu'il
 						étoit correct dans son Dessein, gracieux dans ses Expressions, et né pour
@@ -7415,12 +7414,12 @@
 									MABUSE</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C158_P1">
 						<hi rend="capitals">NATIF</hi> d'un Village de <placeName ref="#Hongrie">Hongrie</placeName> appellé <placeName ref="#Maubeuge">Mabuse</placeName>, étoit contemporain de <persName ref="#LucasVanLeyden">Lucas de Leyde</persName>. Aprés avoir beaucoup
-						travaillé dans sa jeunesse, et voyage en <placeName ref="#Italie">Italie</placeName> et ailleurs, il vint en <placeName ref="#Flandres">Flandre</placeName>, où il fit connoître le prémier la maniére de
+						travaillé dans sa jeunesse, et voyagé en <placeName ref="#Italie">Italie</placeName> et ailleurs, il vint en <placeName ref="#Flandres">Flandre</placeName>, où il fit connoître le prémier la maniére de
 						composer les Histoires, et d'y faire entrer du nud, ce qui ne s'y étoit
 						point pratiqué jusqu'à lors. On voit de ses Ouvrages en plusieurs lieux des
 							<placeName ref="#PaysBas">Païs-Bas</placeName>, et en <placeName ref="#Angleterre">Angleterre</placeName>. Il fut fort sage et fort
 						studieux dans sa jeunesse, mais dans la suite il s'adonna au vin. </p>
-					<p xml:id="PIL_AVP_L6_C158_P2"> Il a été assez long-tems au service du <persName>Marquis de
+					<p xml:id="PIL_AVP_L6_C158_P2"> Il a été assez long-tems au service du <persName ref="#PhilippeDeBourgogne">Marquis de
 							Verens</persName> : et ce Marquis étant averti que l'<persName ref="#CharlesQuint">Empereur Charles-Quint</persName> devoit loger chez
 						luy, il voulut, pour le recevoir, que tous ses Domestiques fussent habillez
 						de Damas blanc, et <persName ref="#JanGossaert">Mabuse</persName> comme les
@@ -7438,12 +7437,12 @@
 					<p xml:id="PIL_AVP_L6_C158_P3"> L'<persName ref="#CharlesQuint">Empereur</persName> trouva ce Cortége si
 						galant, quoy qu'il ne l'est vû qu'aux flambeaux qu'il voulut le lendemain
 						matin le voir passer encore une fois avec plus d'attention, il se mit pour
-						cela à une fenêtre et <persName>le Marquis</persName> auprés de luy et
+						cela à une fenêtre et <persName ref="PhilippeDeBourgogne">le Marquis</persName> auprés de luy et
 						quand <persName ref="#JanGossaert">Mabuse</persName> passa au milieu de ses
 						deux camarades l'<persName ref="#CharlesQuint">Empereur</persName> remarqua
 						l'étoffe du Peintre, et dit qu'il n'avoit jamais vu de si beau Damas.
-							<persName>Le Marquis</persName> le fit venir, et la fourberie que l'on
-						reconnut fit extrémement rire l'<persName ref="#CharlesQuint">Empereur</persName>, cependant, <persName>le Marquis</persName> fort en
+						<persName ref="PhilippeDeBourgogne">Le Marquis</persName> le fit venir, et la fourberie que l'on
+						reconnut fit extrémement rire l'<persName ref="#CharlesQuint">Empereur</persName>, cependant, <persName ref="PhilippeDeBourgogne">le Marquis</persName> fort en
 						colére de ce que <persName ref="#JanGossaert">Mabuse</persName> avoit donné
 						lieu au monde de croire que pour faire honneur à l'<persName ref="#CharlesQuint">Empereur</persName>, il faisoit habiller ses gens de
 						Papier, le fit mettre en Prison, où il demeura assez long-temps : il ne
@@ -7466,7 +7465,7 @@
 						quelque tems et delà à <placeName ref="#Rome">Rome</placeName>, où il
 						dessina d'aprés <persName ref="#Raphael">Raphaël</persName> et <persName ref="#MichelAnge">Michelange</persName>, et d'aprés les Sculptures
 						Antiques et les Ruines des Anciens édifices. Le Pape <persName ref="#AdrienVI">Adrien VI</persName>. qui monta pour lors sur la Chaire
-						de Saint Pierre, luy donna l'intendance des <objectName>Ouvrages du batiment
+						de Saint Pierre, luy donna l'intendance des <objectName ref="BelvedereVatican">Ouvrages du batiment
 							de Belvedére</objectName> : mais aprés la mort d'<persName ref="#AdrienVI">Adrien</persName>, qui ne tint le Pontificat qu'un an et
 						huit mois, il s'en retourna dans les <placeName ref="#PaysBas">Païs-Bas</placeName>. Il s'arrêta à <placeName ref="#Utrecht">Utrec</placeName> où<pb n="366"/> il a beaucoup travaillé. Dans ce
 						voyage il passa par la <placeName ref="#France">France</placeName>, où
@@ -7477,7 +7476,7 @@
 						bonnes qualitez, le faisoit aimer de tous ceux qui le connoissoient. Il
 						mourut en <date when="1562">1562</date>. âgé de soixante-sept ans. Deux ans
 						avant son decez, <persName ref="#AnthonisMorVanDashorst">Antoine
-							More</persName> son Disciple fit <objectName>son Portrait</objectName>.
+							More</persName> son Disciple fit <objectName ref="AnthonisMorPortraitJanVanScorel">son Portrait</objectName>.
 					</p>
 				</div2>
 				<div2 n="160" type="chapitre" xml:id="C160" xml:lang="fra">
@@ -7512,12 +7511,12 @@
 					<p xml:id="PIL_AVP_L6_C161_P1">
 						<hi rend="capitals">ETOIT</hi> Fils de <persName ref="#HansHolbeinDeElder">Jean Holbein</persName> Peintre assez habile qui quitta <placeName ref="#Augsbourg">Ausbourg</placeName> lieu de sa naissance et où il
 						avoit travaillé long-tems pour s'aller établir à <placeName ref="#Basel">Basle</placeName> c'est dans cette derniére Ville que nâquit nôtre
-							<persName ref="#HansHolbeinDeJonge">Holbein</persName> en <date when="1498">1498</date>. Il apprit se son<pb n="368"/> Pére avec une
+							<persName ref="#HansHolbeinDeJonge">Holbein</persName> en <date when="1498">1498</date>. Il apprit de son<pb n="368"/> Pére avec une
 						éxtreme avidité ce qui régardoit la Peinture : mais l'élevation de son
 						Génie le mit bientôt au dessus de son Maître et luy fit faire dans la suite
 						des Ouvrages d'une grande force et d'un grand caractére, il a fait à
-							<placeName ref="#Basel">Basle</placeName>, dans la maison de Ville
-							<objectName>un Tableau de huit compartimens</objectName>, où sont autant
+							<placeName ref="#Basel">Basle</placeName>, dans la <objectName ref="HotelDeVilleBale">maison de Ville</objectName>
+						<objectName ref="HansHolbeinDeJongePassion">un Tableau de huit compartimens</objectName>, où sont autant
 						de sujets de la Passion de Nôtre Seigneur, et dans le marché au Poisson il
 						a peint <objectName>une Danse de Païsans</objectName> et <objectName>les
 							Danses de la Mort</objectName>, ces deux Ouvrages ont été gravés en
@@ -7532,13 +7531,12 @@
 							<persName ref="#ThomasMore">Thomas Morus</persName>. <persName ref="#HansHolbeinDeJonge">Holbein</persName> s'y résolut d'autant plus
 						volontiers qu'il avoit une Femme dont la mauvaise humeur troubloit tous le
 						repos de sa vie. Il fit en <placeName ref="#Angleterre">Angleterre</placeName>, un trés grand nombre de Portraits admirables,
-						entr'autre celuy du <objectName><persName ref="#HenriVIII">Roy Henry
-								VIII</persName></objectName>. et de ses enfans,
-							<objectName>Marie</objectName>, <objectName>Edoüard</objectName> et
-							<objectName>Elizabeth</objectName>, il y a peint <objectName>des
-							Tableaux d'Histoires</objectName> en divers lieux, il y en a deux sur
-						tout qui sont d'une grande composition, l'un est le triomphe des Richesses
-						et l'autre l'Estat de la Pauvreté, <pb n="369"/>
+						entr'autre celuy du <objectName ref="HansHolbeinDeJongePortraitHenriVIII"><persName ref="#HenriVIII">Roy Henry
+								VIII</persName></objectName>. et de ses enfans, <objectName ref="HansHolbeinDeJongePortraitMarieTudor"><persName ref="#MarieTudor">Marie</persName></objectName>, <objectName ref="HansHolbeinDeJongePortraitEdouardVI"> <persName ref="#EdouardVI">Edoüard</persName> </objectName> et
+						<objectName ref="HansHolbeinDeJongePortraitElisabethI"> <persName ref="#ElisabethI">Elizabeth</persName> </objectName>, il y a peint des
+							Tableaux d'Histoires en divers lieux, il y en a deux sur
+							tout qui sont d'une grande composition, l'un est le <objectName ref="HansHolbeinDeJongeTriompheRichesses">triomphe des Richesses</objectName>
+						et l'autre <objectName ref="HansHolbeinDeJongeEtatPauvrete">l'Estat de la Pauvrete</objectName>́, <pb n="369"/>
 						<persName ref="#FedericoZuccaro">Frederic Zuccre</persName>, que le Roy
 							d'<placeName ref="#Angleterre">Angleterre</placeName> avoit fait venir
 							d'<placeName ref="#Italie">Italie</placeName>, fut éxtrémement surpris
@@ -7590,8 +7588,8 @@
 						faits sur les façades de quelques maisons qu'il a peintes à Francfort, et
 						dans sa patrie, aussi bien que par plusieurs Tableaux qu'il a faits à
 							<placeName ref="#Strasbourg">Strasbourg</placeName>, et pour
-							<persName>le Marquis de Bade</persName>. Entre un grand nombre
-						d'Estampes en Bois que l'on voit de luy, celles de la Bible, qui parurent en
+						<persName ref="#PhilippeIIBade">le Marquis de Bade</persName>. Entre un grand nombre
+						<objectName ref="TobiasStimmerNeueKunstlicheFigurenBiblischerHistorien">d'Estampes en Bois que l'on voit de luy, celles de la Bible</objectName>, qui parurent en
 							<date when="1586">1586</date> ont un mérite particulier et c'est
 						d'elles que <persName ref="#PeterPaulRubens">Rubens</persName> disoit un
 						jour à <persName ref="#JoachimVonSandrart">Sandrart</persName>, qu'il avoit
@@ -7607,8 +7605,8 @@
 					<p xml:id="PIL_AVP_L6_C163_P1">
 						<hi rend="capitals">NÉ</hi> dans un Village prés d'<placeName ref="#Haarlem">Harlem</placeName>, étoit attaché auprés de l'Empereur <pb n="372"/>
 						<persName ref="#CharlesQuint">Charles-Quint</persName> et le suivit dans
-						plusieurs voyages et entr'autres dans celuy de <placeName ref="#Tunis">Tunis</placeName>, dont il a peint l'éxpédition en plusieurs sujets qui
-						ont été éxécutez en tapisseries magnifiques que <persName ref="#PhilippeII">Philippe II</persName>. laissa en <placeName ref="#Portugal">Portugal</placeName> et qui s'y voyent encore
+						plusieurs voyages et entr'autres dans celuy de <placeName ref="#Tunis">Tunis</placeName>, dont il a <objectName ref="JanCorneliszVermeyenConqueteTunisPeinture">peint l'éxpédition</objectName> en plusieurs sujets qui
+						ont été éxécutez en <objectName ref="JanCorneliszVermeyenConqueteTunisTapisserie">tapisseries</objectName> magnifiques que <persName ref="#PhilippeII">Philippe II</persName>. laissa en <placeName ref="#Portugal">Portugal</placeName> et qui s'y voyent encore
 						aujourd'huy. Il a beaucoup travaillé à <placeName>Arras</placeName> dans
 							<objectName>le Monastére de Saint Gervais</objectName>, à <placeName ref="#Bruxelles">Bruxelles</placeName> et dans plusieurs autres Villes
 						des <placeName ref="#PaysBas">Païs-Bas</placeName>. L'<persName ref="#CharlesQuint">Empereur Charles-Quint</persName>, prénoit plaisir à
@@ -7616,7 +7614,7 @@
 						longue, qu'encore qu'il fut debout elle trainoit jusqu'à terre ; ce qui le
 						fit appeller <persName ref="#JanCorneliszVermeyen">Jean le Barbu</persName>.
 						Il mourut à <placeName ref="#Bruxelles">Bruxelles</placeName> en <date when="1559">1559</date>. âgé de cinquante-neuf ans, sa sepulture est à
-							<placeName>Saint Georges</placeName>, où il a fait luy-même son
+						<objectName ref="EgliseSaintGeryBruxelles">Saint Georges</objectName>, où il a fait luy-même son
 						Epitaphe. </p>
 				</div2>
 				<div2 n="164" type="chapitre" xml:id="C164" xml:lang="fra">
@@ -7630,10 +7628,10 @@
 						qu'on lui payoit éxtrémement cher. Outre les présens qu'on luy faisoit ; de
 						sorte qu'il devint fort riche. Il a aussi voyagé en <placeName ref="#Italie">Italie</placeName>. <pb n="373"/> Quoy que son principal
 						employ fut de faire des Portraits : il ne laissoit pas de faire
-						quelques-fois des <objectName>Tableaux d'Histoire</objectName> par
+						quelques-fois des Tableaux d'Histoire par
 						intervalle. Il y en a un dans le Cabinet de <persName ref="#LouisIIBourdonConde">M. le Prince de Condé</persName>, où est
-						representé Nôtre-Seigneur Ressuscité, entre <persName ref="#SaintPierre">Saint Pierre</persName> et <persName ref="#SaintPaul">Saint
-							Paul</persName>, le marchand qui vendit <objectName>le
+						<objectName ref="AnthonisMorVanDashorstChristPierrePaulChantilly">representé Nôtre-Seigneur Ressuscité, entre <persName ref="#SaintPierre">Saint Pierre</persName> et <persName ref="#SaintPaul">Saint
+								Paul</persName></objectName>, le marchand qui vendit <objectName ref="AnthonisMorVanDashorstChristPierrePaulChantilly">le
 							Tableau</objectName> à ce Prince, avoit beaucoup gagné cette annee-là à
 						le montrer dans la Foire de Saint Germain. C'est un morceau d'une grande
 						force et d'une grande vérité. <persName ref="#AnthonisMorVanDashorst">Antoine More</persName> mourut à <placeName ref="#Anvers">Anvers</placeName> âgé de cinquante-six ans. </p>
@@ -7656,7 +7654,7 @@
 						Il a étudié le Païsage dans les Montagnes du <placeName ref="#Frioul">Frioul</placeName>, il étoit fort studieux et fort particulier,
 						n'occupant son Esprit que de ce qui pouvoit contribuer à l'avancer dans sa
 						Profession, où il s'est rendu tres célébre, il y a beaucoup de ses Tableaux
-						dans le Cabinet de l'Empereur, et le reste de ses Ouvrages est dispersé en
+						dans le Cabinet de l'<persName ref="#CharlesQuint">Empereur</persName>, et le reste de ses Ouvrages est dispersé en
 						plusieurs autres lieux, principalement dans les <placeName ref="#PaysBas">Païs-Bas</placeName>. On voit qu'il s'est fait agréger dans l'Academie
 						des Peintres d'<placeName ref="#Anvers">Anvers</placeName> en <date when="1551">1551</date>. </p>
 				</div2>
@@ -7701,7 +7699,7 @@
 						fait l'Eloge comme d'un trés-honnête Homme, il demeuroit à <placeName ref="#Anvers">Anvers</placeName> où il vivoit d'une maniére magnifique
 						en toutes choses, il a fait un grand nombre de Portraits peu inferieurs a
 						ceux d'<persName ref="#AnthonisMorVanDashorst">Antoine More</persName>. </p>
-					<p xml:id="PIL_AVP_L6_C168_P2"> Un jour qu'il faisoit le <objectName>Portrait du <persName ref="#FerdinandAlvareDeTolede">Duc d'Albe</persName></objectName> et
+					<p xml:id="PIL_AVP_L6_C168_P2"> Un jour qu'il faisoit le <objectName ref="WillemKeyPortraitFerdinandAlvareDeTolede">Portrait du <persName ref="#FerdinandAlvareDeTolede">Duc d'Albe</persName></objectName> et
 						qu'il avoit feint, qu'il n'entendoit pas l'Espagnol, un Officier de la
 						Justice Criminelle vint demander à ce Duc ses Ordres touchant <persName ref="#LamoralComteEgmont">le Comte d'Egmont</persName> à quoy il
 						répondit qu'on l'exécutât sans perdre de tems. Cet ordre fit tant
@@ -7715,7 +7713,7 @@
 						<hi rend="capitals">NATIF</hi> de <placeName ref="#Venloo">Venlo</placeName>, et élevé à <placeName ref="#Wurtzbourg">wirtbourg</placeName>, où étoient ses Parens a été Disciple de
 							<persName ref="#LambertLombard">Lambert Lombard</persName>. Il a eu un
 							<pb n="377"/> Génie particulier pour l'Antiquité, et c'est luy qui a
-						mis au jour de si gros et de si beaux Volumes de l'Histoire des Médailles.
+						mis au jour de si gros et de si beaux <bibl>Volumes de l'Histoire des Médailles</bibl>.
 						Il a fait peu de choses de Peinture. Il a été marié deux fois et la mauvaise
 						humeur de sa seconde Femme l'a fait mourir de chagrin. </p>
 				</div2>
@@ -7728,7 +7726,7 @@
 						marques de leur capacité. <persName ref="#FransPourbusI">François</persName> aprés avoir été Disciple de son Pére le fut aussi
 						de <persName ref="#FransFlorisII">Franc Flore</persName>, qu'il surpassa,
 						quant à l'intelligence des couleurs, <persName ref="#FransPourbusI">François</persName> à été plus habile que son Pére, et c'est de luy
-						dont on voit dans l'Hôtel de Ville de <placeName ref="#Paris">Paris</placeName> de fort beaux Portraits, le Pére mourut en <date when="1583">1583</date> et le fils en <date when="1622">1622</date>.
+						dont on voit dans<objectName ref="HotelVilleParis"> l'Hôtel de Ville de <placeName ref="#Paris">Paris</placeName></objectName> de fort beaux Portraits, le Pére mourut en <date when="1583">1583</date> et le fils en <date when="1622">1622</date>.
 							<figure type="ornement" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/1e871895-29f5-4c4b-83e8-4c72b3fb7352/1338,6007,975,537/max/0/default.jpg"/>
 					</p>
 				</div2>
@@ -7739,7 +7737,7 @@
 					<p xml:id="PIL_AVP_L6_C171_P1">
 						<hi rend="capitals">D'<placeName ref="#Amsterdam">AMSTERDAM</placeName></hi>, Fils d'un assez mauvais Peintre, mais Disciple
 						cheri du <persName ref="#Titien">Titien</persName>, chez lequel il demeura
-						assez longtems et de qui il fit le Portrait qui se voit encore à <placeName ref="#Amsterdam">Amsterdam</placeName>, chez <persName>Pierre
+						assez longtems et de qui il fit le <objectName ref="DirckBarendszPortraitTitien">Portrait</objectName> qui se voit encore à <placeName ref="#Amsterdam">Amsterdam</placeName>, chez <persName>Pierre
 							Isaac</persName> Peintre. Depuis son retour il fixa sa demeure à
 							<placeName ref="#Amsterdam">Amsterdam</placeName>, où il a fait de
 						belles choses, et y mourut en <date when="1582">1582</date>. âgé de
@@ -7752,8 +7750,8 @@
 						<hi rend="capitals">DE</hi>
 						<placeName ref="#Malines">Malines</placeName>, né en <date when="1534">1534</date> a été un fort habile homme, il a presque toûjours
 						travaillé en petit, tant à huile, qu'en miniature, et à détrempe. Il a été
-						employé deux ans pour l'Electeur Palatin à <placeName ref="#Heidelberg">Heydelberg</placeName>, de là à <placeName ref="#Mons">Mons</placeName>. Et enfin à <placeName ref="#Amsterdam">Amsterdam</placeName>, où il est mort en <date when="1593">1593</date>.
-						âgé de cinquante-neuf ans. <persName ref="#HendrickGoltzius">Goltius</persName> a gravé l'Epitaphe de <persName ref="#HansBol">Bol</persName>, où il a fait entrer le Portrait de ce Peintre,
+						employé deux ans pour <persName ref="FredericIIDuPalatinat">l'Electeur Palatin</persName> à <placeName ref="#ans">Heydelberg</placeName>, de là à <placeName ref="#Mons">Mons</placeName>. Et enfin à <placeName ref="#Amsterdam">Amsterdam</placeName>, où il est mort en <date when="1593">1593</date>.
+						âgé de cinquante-neuf ans. <persName ref="#HendrickGoltzius">Goltius</persName> a gravé <objectName ref="HendrickGoltziusEpitapheHansBol">l'Epitaphe de <persName ref="#HansBol">Bol</persName>, où il a fait entrer le Portrait de ce Peintre</objectName>,
 							<persName ref="#JacobISavery">Jacques</persName> et <persName ref="#RoelandtSavery">Roland Savery</persName> ont été ses Disciples.
 							<figure type="ornement" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/7da36e87-baaa-459b-8e8a-9d8c09c6dfdb/2252,6373,733,376/max/0/default.jpg"/>
 					</p>
@@ -7775,7 +7773,7 @@
 						dans les <placeName ref="#PaysBas">Païs-Bas</placeName>, et s'arrêta à
 							<placeName ref="#Haarlem">Harlem</placeName>, où il a demeure le reste
 						de sa vie, la plupart de ses Ouvrages se voyent en Estampes, et <persName ref="#GiorgioVasari">Vasari</persName> qui les rapporte presque toutes
-						en détail, en parle avec éloge, et dit que <persName ref="#MichelAnge">Michelange</persName> en voulut colorier une qu'il trouva à son Goût.
+						en détail, en parle avec éloge, et dit que <persName ref="#MichelAnge">Michelange</persName> <objectName>en voulut colorier une qu'il trouva à son Goût</objectName>.
 						Il paroit néanmoins par ces Estampes, que <persName ref="#MaertenVanHeemskerck">Hemskerc</persName>, n'avoit aucune
 						intelligence du Clair-obscur, et<pb n="380"/> que sa maniére de dessiner
 						est seiche. Il mourut en <date when="1574">1574</date>. âgé de
@@ -7797,23 +7795,23 @@
 							Triomphe</objectName> pour l'Entrée de l'<persName ref="#RodolpheII">Empereur Rodolphe</persName> ; ensuite de quoy il retourna à <placeName ref="#Meulebeke">Meulebrac</placeName> sa Patrie. </p>
 					<p xml:id="PIL_AVP_L6_C174_P2"> Les Guerres de la Réligion qui s'augmentérent, le contraignirent de se
 						retirer dans <placeName ref="#Courtrai">Courtray</placeName>, où il a peint
-						des Tableaux d'Eglise, et sur tout <objectName>à Sainte
+						des Tableaux d'Eglise, et sur tout <objectName ref="CarelVanManderDecollationSainteCatherineCourtrai">à Sainte
 							Catherine</objectName>. </p>
 					<p xml:id="PIL_AVP_L6_C174_P3"> Comme il s'en rentournoit à sa Terre de <placeName ref="#Meulebeke">Meulebrac</placeName>, il fut volé et dépoüillé tout nud. Se voyant
 						réduit à cette éxtrémité, <pb n="381"/>il s'embarqua sur un Vaisseau qui
 						le mena à <placeName ref="#Haarlem">Harlem</placeName>, où il se rétablit
-						dans l'abonlance, et s'occupa à la Peinture et à la Poesie. Il y fit entre
-						autres choses l'Histoire de la Passion, qu'un nommé de
-							<persName>Geyen</persName> a gravé. Il établit dans la même ville
-							d'<placeName ref="#Haarlem">Harlem</placeName>, avec <persName ref="#HendrickGoltzius">Goltius</persName> et <persName>les
+						dans l'abondance, et s'occupa à la Peinture et à la Poesie. Il y fit entre
+						autres choses <objectName ref="CarelVanManderHistoirePassion">l'Histoire de la Passion</objectName>, qu'un nommé de
+						<persName ref="#JacobDeGheynII">Geyen</persName> a <objectName ref="JacobDeGheynIIPassionCarelVanMander">gravé</objectName>. Il établit dans la même ville
+						d'<placeName ref="#Haarlem">Harlem</placeName>, avec <persName ref="#HendrickGoltzius">Goltius</persName> et <persName cert="low" xml:id="LesCorneilles">les
 							Corneilles</persName> une Académie pour y dessiner d'aprés Nature, et
 						pour y éxercer les jeunes Peintres. Ses Ouvrages en Prose et en Poësie sont
 						en si grand nombre, qu'il seroit trop long de les rapporter ici. Outre un
-						Traité de Peinture, il a mis au jour la Vie des Peintres Flamans.
+						<bibl>Traité de Peinture</bibl>, il a mis au jour la Vie des Peintres Flamans.
 						L'ignorance d'un Médecin le tua en <date when="1607">1607</date>. à l'âge de
-						cinquante-huit ans. Il fut enterré à <placeName ref="#Amsterdam">Amsterdam</placeName> dans la vieille Eglise. </p>
+						cinquante-huit ans. Il fut enterré à <placeName ref="#Amsterdam">Amsterdam</placeName> dans <objectName ref="OudeKerkAmsterdam">la vieille Eglise</objectName>. </p>
 					<p xml:id="PIL_AVP_L6_C174_P4"> Il eût un Fils appellé aussi <persName ref="#KarelVanManderII">Charles</persName>, qui a hérité de son Pére l'esprit l'humeur et la
-						sience. <persName>Le Roy de Dannemarc</persName> l'attira à <placeName ref="#Copenhague">Compenhague</placeName>, où il a toûjours demeuré en
+						sience. <persName ref="#ChristianIVDanemark">Le Roy de Dannemarc</persName> l'attira à <placeName ref="#Copenhague">Compenhague</placeName>, où il a toûjours demeuré en
 						réputation d'habile homme. </p>
 				</div2>
 				<div2 n="175" type="chapitre" xml:id="C175" xml:lang="fra">
@@ -7824,10 +7822,10 @@
 						voyagé par toute l'<placeName ref="#Italie">Italie</placeName>. Il étoit
 						correct dans son Dessein, et facile dans ses Inventions : mais l'on ne
 						trouve rien de bien piquant dans ses Ouvrages ; ils sont néanmoins en <pb n="382"/> grand nombre, et la plûpart ont été gravez, et se voyent en
-						Estampes. C'est d'aprés ses Desseins que <persName ref="#Sadeler">les
-							Sadelers</persName> ont gravé les Ermites. Il a fait aussi les
-							<objectName>Desseins de la Vie de J. C.</objectName> que
-							<persName>Vierx</persName> a gravez pour les Evangiles de Natalis. Il
+						Estampes. C'est d'aprés ses <objectName ref="MaertenDeVosErmites">Desseins</objectName> que <persName ref="#Sadeler">les
+							Sadelers</persName> ont gravé <objectName ref="HansSadelerErmites">les Ermites</objectName>. Il a fait aussi les
+						<objectName ref="MaertenDeVosDessinsVieChrist">Desseins de la Vie de J. C.</objectName> que
+						<persName ref="#AntonIIWierix">Vierx</persName> a <objectName ref="WierixBibliaNatalis">gravez</objectName> pour les <bibl>Evangiles de Natalis</bibl>. Il
 						étoit fort gros, et aprés avoir vêcu fort vieil, il mourut en <date when="1604">1604</date>. </p>
 				</div2>
 				<div2 n="176" type="chapitre" xml:id="C176" xml:lang="fra">
@@ -7836,14 +7834,14 @@
 					<p xml:id="PIL_AVP_L6_C176_P1">
 						<hi rend="capitals">NÉ</hi> à <placeName ref="#Bruges">Bruges</placeName> en
 							<date when="1527">1527</date>. de la célébre Famille des Stradans,
-						laquelle aprés la mort de <persName>Charles de Goude</persName> trezieme
+						laquelle aprés la mort de <persName ref="#CharlesIerDeFlandre">Charles de Goude</persName> trezieme
 						Comte de <placeName ref="#Flandres">Flandre</placeName>, qu'elle fit
-						assassiner comme Tyran dans l'Eglise de Saint Donaes de <placeName ref="#Bruges">Bruges</placeName>, fut presque tout-à-fait éteinte, ou du
+						assassiner comme Tyran dans <objectName ref="EgliseSaintDonatienBruges">l'Eglise de Saint Donaes de <placeName ref="#Bruges">Bruges</placeName></objectName>, fut presque tout-à-fait éteinte, ou du
 						moins dispersée de côté et d'autre. Le Peintre dont nous parlons alla en
 							<placeName ref="#Italie">Italie</placeName>, et s'arrêta à <placeName ref="#Florence">Florence</placeName>, où il fit quantité d'Ouvrages à
-						fraisque et à huile pour <persName>le Grand Duc</persName>. <persName ref="#GiorgioVasari">Vasari</persName> le fit travailler aux Peintures
-						qui ont été faites dans la Chambre de ce Prince. Il dessinoit fort bien les
-						Chevaux, et son Génie le portoit à peindre des Chasses. Il mourut en <date when="1604">1604</date>. âgé de soixante-quatorze ans. Tempeste a été
+						fraisque et à huile pour <persName ref="#CosmeDeMedicis">le Grand Duc</persName>. <persName ref="#GiorgioVasari">Vasari</persName> le fit travailler aux Peintures
+						qui ont été faites dans la <objectName cert="low" xml:id="JanVanDerStraetChambrePalazzoVecchio">Chambre de ce Prince</objectName>. Il dessinoit fort bien les
+						Chevaux, et son Génie le portoit à peindre des Chasses. Il mourut en <date when="1604">1604</date>. âgé de soixante-quatorze ans. <persName ref="#AntonioTempesta">Tempeste</persName> a été
 						son Disciple. </p>
 				</div2>
 				<div2 n="177" type="chapitre" xml:id="C177" xml:lang="fra">
@@ -7854,7 +7852,7 @@
 						Marchand d'<placeName ref="#Anvers">Anvers</placeName>, apprit les Principes
 						de son Art de plusieurs Maîtres, et s'en alla à <placeName ref="#Rome">Rome</placeName>, où il fut Domestique du <persName ref="#AlessandroFarneseIlGiovane">Cardinal Farnése</persName>. Ce
 						Cardinal l'ayant pris en sa protection, le donna à <persName ref="#PieV">Pie
-							V</persName>. qui l'employa à <placeName ref="#Belvedere">Belvédére</placeName>, où <persName ref="#BartholomaeusSpranger">Spranger</persName> fit un <objectName>Tableau du Jugement
+							V</persName>. qui l'employa à <placeName ref="#Belvedere">Belvédére</placeName>, où <persName ref="#BartholomaeusSpranger">Spranger</persName> fit un <objectName ref="BartholomaeusSprangerJugementDernierGalleriaSabauda">Tableau du Jugement
 							dernier</objectName> en trente huit mois, et ce Tableau est encore
 						aujourd'huy au dessus du Tombeau de ce même Pape. Pendant qu'il y
 						travailloit <persName ref="#GiorgioVasari">Vasari</persName> dit à Sa
@@ -7862,7 +7860,7 @@
 						l'envie le fit parler, ou que la maniére de Spranger luy déplût, ce qui est
 						plus vrai-semblable ; car il est etonnant que Spranger, qui a formé sa
 						maniére en <placeName ref="#Italie">Italie</placeName>, l'ait faite si
-						contraire aux belles choses qu'il avoit devant les yeux, et se soit laisse
+						contraire aux belles choses qu'il avoit devant les yeux, et se soit laissé
 						emporter au feu d'une imagination si peu réglée : ce que je dis, sans
 						vouloir diminuer l'Esprit de ses Ouvrages et le mérite qui s'y trouve
 						d'ailleurs ; car ils plûrent à bien des gens, et sur tout au Pape, qui luy
@@ -7914,12 +7912,12 @@
 						de son Vallet il fit son Maître, au service duquel il feignoit d'être
 						attaché en qualité de Peintre. Il eut par ce moyen le plaisir d'entendre ce
 						que les uns et les autres disoient de ses <pb n="386"/> Ouvrages sans le
-						connoître. Ce déguisement, l'éxercice du voyage, et l'air dit firent des
+						connoître. Ce déguisement, l'éxercice du voyage, et l'air différent des
 						païs par où il passoit, changérent tellement la situation de son esprit et
 						la disposition de son corps, qu'il se trouva delivré de tous ses maux, et
 						qu'il reprit sa premiére santé. </p>
 					<p xml:id="PIL_AVP_L6_C178_P2"> Il dessina une infinité de choses dans <placeName ref="#Rome">Rome</placeName> et dans <placeName ref="#Naples">Naples</placeName>,
-						tant d'aprés l'Antique, que d'aprés <persName ref="#Raphael">Raphaël</persName>, <persName>Polidore</persName>, et les autres bons
+						tant d'aprés l'Antique, que d'aprés <persName ref="#Raphael">Raphaël</persName>, <persName ref="#PolidoroDaCaravaggio">Polidore</persName>, et les autres bons
 						Maîtres. Il y fit peu d'Ouvrages de Peinture, et son mal l'y ayant repris,
 						il en guerit par l'usage du lait que les Medecins luy ordonnérent. Ils luy
 						conseillérent aussi de retourner à son air natal. Il revint donc à
@@ -7940,15 +7938,15 @@
 					<p xml:id="PIL_AVP_L6_C179_P1">
 						<hi rend="capitals">APPELÉ</hi> ainsi, à cause que son Pére étoit
 							d'<placeName ref="#AixLaChapelle">Aix la Chapelle</placeName>, car pour
-						luy, il étoit né à <placeName ref="#Cologne">Cologne</placeName> en <date when="1556">1556</date>. prés avoir été quelque tems sous la Discipline
+						luy, il étoit né à <placeName ref="#Cologne">Cologne</placeName> en <date when="1556">1556</date>. Aprés avoir été quelque tems sous la Discipline
 						de <persName ref="#BartholomaeusSpranger">Spranger</persName>, il alla
 						étudier sa profession dans les principales Villes d'<placeName ref="#Italie">Italie</placeName>, de là il repassa en <placeName ref="#Allemagne">Allemange</placeName>, où l'<persName ref="#RodolpheII">Empereur
-							Rodolphe</persName> le prit en affection et e renvoya à <placeName ref="#Rome">Rome</placeName>, pour y dessiner les Antiques. Il ne faut
+							Rodolphe</persName> le prit en affection et le renvoya à <placeName ref="#Rome">Rome</placeName>, pour y dessiner les Antiques. Il ne faut
 						pas s'étonner des soins où descendoit ce Prince, pour avancer les ouvriérs,
 						en qui il voyoit du Génie, car il aimoit passionément les beaux Arts, et
 						s'y connoissoit tres-bien. <persName ref="#HansVonAachen">Jean
 							Dac</persName>, à son retour fit beaucoup d'ouvrages pour l'Empereur,
-						qui sont tres dignes le loüange et qui le firent passer pour le plus habile
+						qui sont tres dignes de loüange et qui le firent passer pour le plus habile
 						de son tems. Sa prudence le mit en grande considération auprés de ce Prince
 						: mais il ne se servit de son crédit que pour obliger plusieurs personnes de
 						mérite. Il mourut à la Cour Impériale, comblé d'honneurs et de biens.
@@ -7971,7 +7969,7 @@
 						singuliére protection de ce Prince. Il a fait beaucoup d'Ouvrages pour
 							l'<persName ref="#RodolpheII">Empereur</persName>, qui ont été la
 						plûpart gravez par <persName ref="#Sadeler">les Sadelers</persName>, par
-							<persName>Lucas Kilian</persName>, et par <persName ref="#IsaacMajor">Isaac Mayer</persName> de <placeName ref="#Francfort">Francfort</placeName>, il est mort à <placeName ref="#Prague">Prague</placeName> fort regretté des honnêtes gens, parce qu'il étoit
+						<persName ref="#LucasKilian">Lucas Kilian</persName>, et par <persName ref="#IsaacMajor">Isaac Mayer</persName> de <placeName ref="#Francfort">Francfort</placeName>, il est mort à <placeName ref="#Prague">Prague</placeName> fort regretté des honnêtes gens, parce qu'il étoit
 						luy-méme fort honnête homme, il a eu un fils qui étoit aussi Peintre. </p>
 				</div2>
 				<div2 n="181" type="chapitre" xml:id="C181" xml:lang="fra">
@@ -7991,7 +7989,7 @@
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#CornelisVanHaarlem">CORNEILLE CORNEILLE</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C182_P1">
 						<hi rend="capitals">D'<placeName ref="#Haarlem">HARLEM</placeName></hi> fils
-						de <persName>Pierre Corneille</persName>, habile
+						de <persName ref="#CornelisThomasz">Pierre Corneille</persName>, habile
 						Peintre, est né en <date when="1562">1562</date>. et bien qu'il n'ait jamais
 						été en <placeName ref="#Italie">Italie</placeName>, il a neannoins fait de
 						fort belles choses et de bons Disciples, il établi avec <persName ref="#CarelVanMander">Charles Van-Mandre</persName>, une Academie de
@@ -8003,8 +8001,8 @@
 					<p xml:id="PIL_AVP_L6_C183_P1">
 						<hi rend="capitals">D'<placeName ref="#Anvers">ANVERS</placeName></hi> fils
 						de <persName ref="#LambertVanNoort">Lambert Van Ort</persName> dont il avoit
-						aussi été Disciple, peignoit en grand, et étoit en réputation le son tems,
-						les emplois continiiels qu'on luy donna, l'empécherent de sortir de son
+						aussi été Disciple, peignoit en grand, et étoit en réputation de son tems,
+						les emplois continüels qu'on luy donna, l'empécherent de sortir de son
 						Païs. Il fut le premier Maître de <persName ref="#PeterPaulRubens">Rubens</persName>, et mourut à <placeName ref="#Anvers">Anvers</placeName> âgé de quatre-vingt-quatre ans en <date when="1641">1641</date>. </p>
 				</div2>
 				<div2 n="184" type="chapitre" xml:id="C184" xml:lang="fra">
@@ -8026,27 +8024,27 @@
 						intelligence du Clair-obscur. De sorte qu'il passa en <placeName ref="#Italie">Italie</placeName>, pour un homme des plus universels et
 						des plus ingénieux de son tems. <persName ref="#OttoVanVeen">Venius</persName> demeura sept ans à <placeName ref="#Rome">Rome</placeName> pendant lesquels il fit plusieurs beaux Ouvrages de
 						son Pinceau et étant passé de là en <placeName ref="#Allemagne">Allemagne</placeName>. Il fut receu au service de l'<persName ref="#RodolpheII">Empereur</persName>, et ensuite <pb n="391"/> à celuy
-						du <persName>Duc de Baviére</persName>, et de Electeur de <placeName ref="#Cologne">Cologne</placeName> : mais tous les avanages qu'on luy
-						proposa dans ces Cours Etrangeres ne furent pas capables de l'y irrester
-						longtems, il vint offrir son service au <persName>Prince de <placeName ref="#Parme">Parme</placeName></persName>, qui gouvernoit alors les
-							<placeName ref="#PaysBas">Païs-Bas</placeName>, et fit son Portrait
+						du <persName ref="#GuillaumeVBaviere">Duc de Baviére</persName>, et de <persName ref="#ErnestDeBaviere">l'Electeur de <placeName ref="#Cologne">Cologne</placeName></persName> : mais tous les avantages qu'on luy
+						proposa dans ces Cours Etrangeres ne furent pas capables de l'y arrester
+						longtems, il vint offrir son service au <persName ref="#AlexandreFarnese">Prince de <placeName ref="#Parme">Parme</placeName></persName>, qui gouvernoit alors les
+						<placeName ref="#PaysBas">Païs-Bas</placeName>, et fit son <objectName ref="OttoVanVeenPortraitAlexandreFarnese">Portrait</objectName>
 						armé de toutes pieces d'une maniére qui confirma l'estime qu'on avoit
-						conceuë de son habilité. Aprés la mort du <persName>Prince de <placeName ref="#Parme">Parme</placeName></persName>, <persName ref="#OttoVanVeen">Vénius</persName> se retira à <placeName ref="#Anvers">Anvers</placeName>, où il fit quantité d'excellens
+						conceuë de son habilité. Aprés la mort du <persName ref="#AlexandreFarnese">Prince de <placeName ref="#Parme">Parme</placeName></persName>, <persName ref="#OttoVanVeen">Vénius</persName> se retira à <placeName ref="#Anvers">Anvers</placeName>, où il fit quantité d'excellens
 						Ouvrages de Peinture, que l'on voit encore dans les principales Eglises.
 						Quelques tems aprés l'<persName ref="#AlbertDAutriche">Archiduc
-							Albert</persName>, qui avoit succedé au <persName>Prince de <placeName ref="#Parme">Parme</placeName></persName>, le fit aller à <placeName ref="#Bruxelles">Bruxelles</placeName>. et luy donna l'intendance des
+							Albert</persName>, qui avoit succedé au <persName ref="#AlexandreFarnese">Prince de <placeName ref="#Parme">Parme</placeName></persName>, le fit aller à <placeName ref="#Bruxelles">Bruxelles</placeName>. et luy donna l'intendance des
 						Monnoyes, parmi ces occupations embarassantes, <persName ref="#OttoVanVeen">Vénius</persName> ne laissa pas de travailler du Pinceau, il fit
-							<objectName>les Portraits de l'Archiduc et de l'<persName ref="#IsabelleClaireEugenieDAutriche">Infante
+						les <objectName ref="OttoVanVeenPortraitAlbertDAutriche">Portraits de l'Archiduc</objectName> <objectName ref="OttoVanVeenPortraitIsabelleClaireEugenieDAutriche">et de l'<persName ref="#IsabelleClaireEugenieDAutriche">Infante
 							Isabelle</persName></objectName>, en grand qui furent envoyés à
-							<persName>Jacques Roy de la Grande Brétagne</persName>, et pour
+						<persName ref="#JacquesIer">Jacques Roy de la Grande Brétagne</persName>, et pour
 						signaler son érudition, aussi bien que son Pinceau, il mit en lumiére
 						plusieurs Ouvrages, qu'il a enrichis de figures de son Dessein, ceux qui
 						sont venus à ma connoissance et dans lesquels je trouve beaucoup d'Art et de
-						grace. Sont les emblémes d'<persName ref="#Horace">Horace</persName>, la vie
-						de <persName ref="#ThomasAquin">Saint Thomas d'Aquin</persName>, et les
-						emblêmes d'Amour. <persName ref="#OttoVanVeen">Vénius</persName> dédia ceux
-						de l'Amour<pb n="392"/> profane à l'<persName ref="#IsabelleClaireEugenieDAutriche">Infante Isabelle</persName> qui
-						l'obligea d'en faire de pareils sur l'Amour Divin. Le Roy <persName ref="#LouisXIII">Loüis XIII</persName>. luy fit faire de belles offres
+						grace. Sont <objectName ref="OttoVanVeenEmblemesHorace">les emblémes d'<persName ref="#Horace">Horace</persName></objectName>, <objectName ref="OttoVanVeenVieThomasAquin">la vie
+							de <persName ref="#ThomasAquin">Saint Thomas d'Aquin</persName></objectName>, et <objectName ref="OttoVanVeenEmblemesAmour">les
+								emblêmes d'Amour.</objectName> <persName ref="#OttoVanVeen">Vénius</persName> dédia ceux
+						de <objectName ref="OttoVanVeenEmblemesAmourProfane">l'Amour<pb n="392"/> profane</objectName> à l'<persName ref="#IsabelleClaireEugenieDAutriche">Infante Isabelle</persName> qui
+						l'obligea d'en faire de pareils sur <objectName ref="OttoVanVeenEmblemesAmourDivin">l'Amour Divin</objectName>. Le Roy <persName ref="#LouisXIII">Loüis XIII</persName>. luy fit faire de belles offres
 						pour l'attirer, mais il ne put jamais se resoudre à quitter son Païs, ni le
 						service de son Prince. C'a été le prémier qui depuis <persName ref="#PolidoroDaCaravaggio">Polidore de Caravage</persName>, a réduit
 						le Clair-obscur en un principe que <persName ref="#PeterPaulRubens">Rubens</persName> a perfectione et répandu par tous les <placeName ref="#PaysBas">Païs-Bas</placeName>. Il mourut à <placeName ref="#Bruxelles">Bruxelles</placeName> en <date when="1634">1634</date>
@@ -8124,8 +8122,8 @@
 						en faisant des Réfléxions, qu'il mettoit par écrit, et qu'il accompagnoit
 						ordinairement d'un Dessein léger à la plume, portant toûjours sur luy un
 						cahier de papier à cette intention. Il eût occasion pendant cet éxercice de
-						faire des <objectName>Tableaux d'Autel</objectName> dans l'Eglise de Sainte
-						Croix, et dans l'Eglise neuve des Péres de l'Oratoire. </p>
+						faire des <objectName ref="RubensMadonnaDellaVallicella">Tableaux d'Autel dans <objectName ref="BasiliqueSainteCroixDeJerusalemRome">l'Eglise de Sainte
+								Croix</objectName></objectName>, et <objectName ref="RubensRetableSainteHeleneChiesaNuova">dans <objectName ref="ChiesaNuovaRome">l'Eglise neuve des Péres de l'Oratoire</objectName></objectName>. </p>
 					<p xml:id="PIL_AVP_L6_C187_P4"> Il y avoit sept ans qu'il continuoit en <placeName ref="#Italie">Italie</placeName> les Etudes de sa Profession, quand il apprit que sa
 						Mére étoit dangereusement malade. Cette nouvelle le contraignit de retourner
 						à <placeName ref="#Anvers">Anvers</placeName> ; et quoy qu'il eût pris la
@@ -8145,7 +8143,7 @@
 						secours dans les Figures de femmes qu'il avoit à peindre. </p>
 					<p xml:id="PIL_AVP_L6_C187_P5"> La réputation de <persName ref="#PeterPaulRubens">Rubens</persName> s'étant
 						étendue par toute l'<placeName ref="#Europe">Europe</placeName>, il n'y eut
-						pas un Peintre qui ne voulut avoir un morceau de sa mains et comme il étoit
+						pas un Peintre qui ne voulut avoir un morceau de sa main et comme il étoit
 						extrémement sollicité de toutes parts, il fit faire sur ses Desseins
 						coloriez, et par d'habiles Disciples un grand nombre de Tableaux, qu'il
 						retouchoit ensuite avec des yeux trais, avec une intelligence vive, et
@@ -8157,16 +8155,16 @@
 					<p xml:id="PIL_AVP_L6_C187_P6"> La Reine <persName ref="#MarieDeMedicis">Marie de Medicis</persName> ayant
 						souhaité que <persName ref="#PeterPaulRubens">Rubens</persName> peignit les
 						deux Galeries de son Palais de Luxembourg, il vint à <placeName ref="#Paris">Paris</placeName> pour voir les lieux, et pour en faire ses Desseins.
-						L'une de ces Galeries étoit destinée pour l'Histoire de la Vie de cette
-						Reine, et l'autre pour la Vie du <persName ref="#HenriIV">Roy Henry
-							IV</persName>. <persName ref="#PeterPaulRubens">Rubens</persName>
+						L'une de ces Galeries étoit destinée pour <objectName ref="RubensCycleMedicisLuxembourg">l'Histoire de la Vie de cette
+						Reine</objectName>, et l'autre pour la <objectName ref="RubensCycleHenriIVLuxembourg">Vie du <persName ref="#HenriIV">Roy Henry
+							IV</persName></objectName>. <persName ref="#PeterPaulRubens">Rubens</persName>
 						commenca par l'Histoire de la Reine, et l'acheva : mais la la mort du Roy,
 						qui arriva incontinent aprés, ne luy permit pas d'achever l'Histoire de ce
 						Prince, de laquelle il avoit commencé beaucoup de Tableaux. La Reine, qui
 						aimoit la Peinture, et qui dessinoit fort proprement, voulut que <persName ref="#PeterPaulRubens">Rubens</persName> fit deux Tableaux de son
 						Histoire en sa présence, pour avoir le plaisir de le voir peindre. </p>
 					<p xml:id="PIL_AVP_L6_C187_P7"> Dans le tems que <persName ref="#PeterPaulRubens">Rubens</persName> étoit à
-							<placeName ref="#Paris">Paris</placeName>, le <persName>Duc de
+						<placeName ref="#Paris">Paris</placeName>, le <persName ref="GeorgeVilliers">Duc de
 							Buquingam</persName> eut occasion de faire connoissance avec luy. Il
 						goûta son Esprit, et luy ayant trouvé beaucoup de<pb n="398"/> pénétration
 						et de solidité, il en parla l'<persName ref="#IsabelleClaireEugenieDAutriche">Infante Isabelle</persName>, qui
@@ -8187,7 +8185,7 @@
 						aimoit la Peinture, ayant oüy parler de <persName ref="#PeterPaulRubens">Rubens</persName>, écrivit à quelques Seigneurs de ses amis qui étoient
 						à la Cour de <placeName ref="#Madrid">Madrid</placeName>, pour les prier de
 						faire ensorte que <persName ref="#PeterPaulRubens">Rubens</persName> l'allât
-						voir à <placeName>Villa-Vizosa</placeName>, qui étoit le lieu de sa
+						voir à <objectName ref="VilaVicosa">Villa-Vizosa</objectName>, qui étoit le lieu de sa
 						résidence : <persName ref="#PeterPaulRubens">Rubens</persName> entreprit ce
 						voyage avec plaisir ; mais comme les amis de ce Duc luy avoient donné avis
 						que <persName ref="#PeterPaulRubens">Rubens</persName> étoit parti avec un
@@ -8213,9 +8211,9 @@
 						des personnes de considération. Il savoit six Langues, et se servoit <pb n="400"/> de la Latine pour écrire aux Savans, et pour faire ses
 						Observations sur la Peinture. </p>
 					<p xml:id="PIL_AVP_L6_C187_P11"> Jamais Peintre n'a fait, ni un si grand nombre, ni de si grans Ouvrages que
-							<persName ref="#PeterPaulRubens">Rubens</persName> : <objectName>les
-							Palais des Princes</objectName>, et les <objectName>Eglises de
-							Flandres</objectName> en rendent de bons temoignages. Il est difficile
+							<persName ref="#PeterPaulRubens">Rubens</persName> : les
+							Palais des Princes, et les Eglises de
+							Flandres en rendent de bons temoignages. Il est difficile
 						de dire ou sont ses plus beaux Tableaux: toute l'<placeName ref="#Europe">Europe</placeName> conserve des gages de sa capacité ; il semble
 						néanmoins que les Villes d'<placeName ref="#Anvers">Anvers</placeName> et
 						de <placeName ref="#Paris">Paris</placeName> soient les dépositaires de ses
@@ -8230,13 +8228,13 @@
 						été sous sa Discipline, celuy qui luy a fait le plus d'honneur, et qui s'est
 						le plus distingue, a été <persName ref="#VanDyck">Vandeik</persName>. </p>
 					<p xml:id="PIL_AVP_L6_C187_P13">
-						<persName ref="#PeterPaulRubens">Rubens</persName> s'étoit propose au
+						<persName ref="#PeterPaulRubens">Rubens</persName> s'étoit proposé au
 						commencement de suivre la maniére de peindre de <persName ref="#Caravage">Michelange de Caravage</persName>, mais la trouvant trop remplie de
 						travail, il s'en fit <pb n="401"/> une plus éxpéditive et plus conforme à
 						son Génie. </p>
 					<p xml:id="PIL_AVP_L6_C187_P14"> Un Peintre Chimiste nommé <persName ref="#FriedrichIBrentel">Brendel</persName>, l'étant venu voir, luy demanda s'il vouloit
 						s'associer avec luy pour le grand Oeuvre, qu'il avoit peu de chose à faire
-						pour y arriver, et qu'il l'assuroit par la d'une fortune considerable.
+						pour y arriver, et qu'il l'assuroit par la d'une fortune considérable.
 							<persName ref="#PeterPaulRubens">Rubens</persName> luy répondit qu'il
 						étoit venu trop tard de vingt ans, ayant trouve luy-même <objectName>la
 							Pierre Philosophale</objectName> par le moyen de ses Pinceaux et de ses
@@ -8274,9 +8272,9 @@
 						à voir : mais qu'il contribuë encore à l'effet du tout-ensemble. </p>
 					<p xml:id="PIL_AVP_L6_C188_P3"> Quoy que <persName ref="#PeterPaulRubens">Rubens</persName> ait passé sept
 						années en <placeName ref="#Italie">Italie</placeName>, qu'il ait fait un
-						Recueil considérable de Médailles, de Statuës et de Pierres gravées ;
+						<objectName>Recueil considérable de Médailles, de Statuës et de Pierres gravées</objectName> ;
 						qu'il ait examiné, connu, et loüé la beauté de l'Antique, comme on le
-						peut voir dans un Manuscrit de ce Peintre, dont l'Original est entre mes
+						peut voir dans un <bibl>Manuscrit</bibl> de ce Peintre, dont l'Original est entre mes
 						mains, sa premiére éducation, et le naturel de son païs dont il se servoit,
 						l'ont fait tomber malgré luy dans un caractére Flamand, et luy ont
 						quelques-fois fait faire un mauvais chois, qui donne atteinte à la
@@ -8285,15 +8283,15 @@
 						émmanchemens outrez, il est juste aussi que les personnes éclairées
 						reconnoissent, que, bien-loing d'avoir ignoré la partie du Dessein, il a
 						fait paroître dans le général de ses Ouvrages, qu'il y avoit beaucoup de
-						pénétration. L'on voit dans la Ville de Gand un Tableau de sa main,
-						réprésentant la chûte des Damnez, où il y a prés de deux cens Figures,
+						pénétration. L'on voit dans la Ville de <placeName ref="#Gand">Gand</placeName> un Tableau de sa main,
+						réprésentant <objectName ref="RubensChuteDamnesMunich">la chûte des Damnez</objectName>, où il y a prés de deux cens Figures,
 						dessinées d'un bon Goût, et d'une grande correction. Cela fait voir que les
 						fautes où <persName ref="#PeterPaulRubens">Rubens</persName> est tombé
 						contre le Dessein,<pb n="404"/> ne viennent que de la rapidité de les
 						Productions. </p>
 					<p xml:id="PIL_AVP_L6_C188_P4"> Nous avons à <placeName ref="#Paris">Paris</placeName> quantité de Tableaux
 						de <persName ref="#PeterPaulRubens">Rubens</persName>, et sur tout dans la
-							<placeName>Galerie du Palais de Luxembourg</placeName>. L'y renvoys les
+						<objectName ref="RubensCycleMedicisLuxembourg">Galerie du Palais de Luxembourg</objectName>. L'y renvoys les
 						Juges d'ésinteressez, et l'on y trouvera du moins dans les Divinitez et dans
 						les Figures principales dequoy se satisfaire en cette matiére. </p>
 					<p xml:id="PIL_AVP_L6_C188_P5"> Il a exprimé ses sujets avec beaucoup d'énergie et de netteté, il y a fait
@@ -8374,7 +8372,7 @@
 						intelligence du Coloris et une composition ingénieuse, le <persName ref="#HendrickGoudt">Comte Gaude</persName>, d'<placeName ref="#Utrecht">Utrec</placeName>, a gravé d'aprés luy <objectName>sept
 							Piéces</objectName> d'une grande politesse et d'une grande force, on
 						voit encore plusieurs Estampes gravées d'aprés ses Ouvrages, en partie par
-						luy même, à l'eau forte, et en partie par <persName>Madelaine du
+						luy même, à l'eau forte, et en partie par <persName ref="MagdalenaVanDePasse">Madelaine du
 							Pas</persName> et par d'autres. </p>
 					<p xml:id="PIL_AVP_L6_C189_P2"> Il avoit une si grande mémoire qu'il luy suffisoit de voir quelque chose
 						sans la dessiner pour la retenir parfaitement et la peindre à quelques jours
@@ -8386,12 +8384,12 @@
 						parts, il fut mis en prison, ou il tomba malade, et quoy qu'on l'en eut fait
 						sortir, sa maladie continua, et ne pouvant survivre à sa disgrace il mourut
 						de douleur regretté des Italiens mêmes qui l'avoient en une estime
-						particuliere. Il a eu un Disciple nommé <persName>Jacques
-							Erneste-Thoman</persName> de <placeName>Landau</placeName>, qui a <pb n="409"/>fait des Tableaux fort aprochants de ceux d'<persName ref="#AdamElsheimer">Adam</persName>, et qu'on prendroit même pour ce de
+						particuliere. Il a eu un Disciple nommé <persName ref="#JacobErnstThomannVonHagelstein">Jacques
+							Erneste-Thoman</persName> de <placeName ref="#Lindau">Landau</placeName>, qui a <pb n="409"/>fait des Tableaux fort aprochants de ceux d'<persName ref="#AdamElsheimer">Adam</persName>, et qu'on prendroit même pour ce de
 						ce Maître. </p>
 				</div2>
 				<div2 n="190" type="chapitre" xml:id="C190" xml:lang="fra">
-					<head><hi rend="capitals"><hi rend="it"><persName ref="#AbrahamBloemaert">IBRAHAM BLOMART</persName></hi></hi></head>
+					<head><hi rend="capitals"><hi rend="it"><persName ref="#AbrahamBloemaert">ABRAHAM BLOMART</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C190_P1">
 						<hi rend="capitals">NÉ</hi>a <placeName ref="#Gorinchem">Gorcum</placeName>
 						en <date when="1567">1567</date>. suivit son Pére à <placeName ref="#Utrecht">Utreck</placeName>, où il a été élévé et où il a toûjours
@@ -8412,7 +8410,7 @@
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#HendrickIVanSteenwijck">HENRI STENVIK</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C191_P1">
 						<hi rend="capitals"><placeName ref="#Steenwijk">STENVIK</placeName></hi>
-						étoit le lieu de sa naissance. Il étoit Disciple de <persName>Jean
+						étoit le lieu de sa naissance. Il étoit Disciple de <persName ref="#HansVredemanDeVries">Jean
 							Vriés</persName>, son inclination l'a porté à faire en petit des
 						Perspectives des dedans d'Eglises, et il fait en ce genre, tout ce que l'on
 						peu faire. Les Guerres de <placeName ref="#Flandres">Flandres</placeName> le
@@ -8420,8 +8418,8 @@
 						sa Profession, il y mourut en <date when="1603">1603</date>. Il a laissé un
 						fils qui a suivi le même genre de Peinture et qui a beaucoup travaillé en
 							<placeName ref="#Angleterre">Angleterre</placeName> pour le
-							<persName>Roy Charles</persName>, où il vivoit honorablement. Aprés sa
-						mort <persName>sa Veuve</persName> s'alla établir à <placeName ref="#Amsterdam">Amsterdam</placeName>, où elle gagnoit sa vie à peindre
+						<persName ref="#CharlesI">Roy Charles</persName>, où il vivoit honorablement. Aprés sa
+						mort <persName ref="#SusannaVanSteenwijk">sa Veuve</persName> s'alla établir à <placeName ref="#Amsterdam">Amsterdam</placeName>, où elle gagnoit sa vie à peindre
 						aussi des Perspectives. </p>
 					<p xml:id="PIL_AVP_L6_C191_P2">
 						<hi rend="capitals">
@@ -8443,8 +8441,8 @@
 						sans accepter défi, qu'il luy cédoit volontiers, et que le public leur
 						rendroit justice. On peut voir des Ouvrages de <persName ref="#AbrahamJanssens">Janson</persName>, dans quelques Eglises
 							d'<placeName ref="#Anvers">Anvers</placeName> : il y a entr'autres une
-						descente de Croix qu'il a faite pour la grande <placeName>Eglise de
-							Bosleduc</placeName>, que l'on prenoit pour être de <persName ref="#PeterPaulRubens">Rubens</persName>, et qui dans la vérité n'est
+						<objectName>descente de Croix</objectName> qu'il a faite pour la grande <objectName>Eglise de
+							Bosleduc</objectName>, que l'on prenoit pour être de <persName ref="#PeterPaulRubens">Rubens</persName>, et qui dans la vérité n'est
 						pas inférieure aux ouvrages de ce grand Peintre. </p>
 				</div2>
 				<div2 n="192" type="chapitre" xml:id="C192" xml:lang="fra">
@@ -8461,7 +8459,7 @@
 						fut contraint de changer la sienne pour vendre ses Tableaux, enquoy il
 						réussit fort bien, ayant l'Esprit bon et fléxible et étant d'ailleurs
 						solidement fondé dans les régles de son Art. Il est mort à <placeName ref="#Anvers">Anvers</placeName> en <date when="1651">1651</date>. et a
-						laissé un fils qui a suivi la même Profession. </p>
+						laissé un <objectName ref="#JanBaptistSeghers">fils</objectName> qui a suivi la même Profession. </p>
 				</div2>
 				<div2 n="193" type="chapitre" xml:id="C193" xml:lang="fra">
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#MichielJanszVanMiereveld">MICHEL JANSON
@@ -8493,24 +8491,24 @@
 				<div2 n="195" type="chapitre" xml:id="C195" xml:lang="fra">
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#GerritVanHonthorst">GERARD HONTORST</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C195_P1">
-						<hi rend="capitals">D'<placeName ref="#Utrecht">UTRECK</placeName></hi>, ne
+						<hi rend="capitals">D'<placeName ref="#Utrecht">UTRECK</placeName></hi>, né
 						en <date when="1592">1592</date>. passoit pour un des premiers Peintres de
 						son tems. il a été Disciple de <persName ref="#AbrahamBloemaert">Blomart</persName>, il alla ensuite à <placeName ref="#Rome">Rome</placeName>, où aprés ses études de Dessein, il s'éxerça à faire
 						des sujets de nuit avec tant d'application et de succés que personne
 						jusqu'icy ne les a mieux réprésentez. Etant de retour à <placeName ref="#Utrecht">Utreck</placeName>, il fit plusieurs Tableaux d'Hitoires.
 						Il étoit si réglé dans ses moeurs et si honnête dans ses maniéres qu'il
 						s'étoit attiré la plûpart des enfans de qualité d'<placeName ref="#Anvers">Anvers</placeName>, qui alloient apprendre à dessiner chez luy. Il<pb n="414"/> montra aussi à dessiner et à peindre aux enfans de
-							<persName>la Reine de Boheme</persName> Sœur de <persName ref="#CharlesI">Charles Roy d'<placeName ref="#Angleterre">Angleterre</placeName></persName>, c'est-à-dire à deux fils, savoir
-						le <persName>Prince Palatin</persName> et le <persName>Prince
+						<persName ref="#ElisabethStuart">la Reine de Boheme</persName> Sœur de <persName ref="#CharlesI">Charles Roy d'<placeName ref="#Angleterre">Angleterre</placeName></persName>, c'est-à-dire à deux fils, savoir
+						le <persName>Prince Palatin</persName> et le <persName ref="#RupertDuRhin">Prince
 							Robert</persName> et à quatre filles, entre lesquelles la
-							<persName>Princesse Sophie</persName>, et l'<persName>Abesse de
+						<persName ref="#SophieDeHanovre">Princesse Sophie</persName>, et l'<persName ref="#LouiseHollandineDuPalatinat">Abesse de
 							Maubuisson</persName> se distinguérent par l'habileté de leur Pinceau. </p>
 					<p xml:id="PIL_AVP_L6_C195_P2"> Le Roy d'<placeName ref="#Angleterre">Angleterre</placeName>
 						<persName ref="#CharlesI">Charles Prémier</persName> attira <persName ref="#GerritVanHonthorst">Homtorst</persName> à <placeName ref="#Londres">Londres</placeName>, où ce Peintre fit de grans Ouvrages
 						pour Sa Majesté. Etant de retour en <placeName ref="#Hollande">Hollande</placeName>, il peignit dans les Maisons de plaisance du
-							<persName>Prince d'<placeName ref="#Orange">Orange</placeName></persName> quantité de grans sujets Poëtiques, tant
-						à fraisque qu'à huile, et entr'autres dans le Palais appellé la Maison du
-						Bois, à demie lieuë de <placeName ref="#LaHaye">la Haye</placeName>. </p>
+						<persName ref="#GuillaumeIIOrangeNassau">Prince d'<placeName ref="#Orange">Orange</placeName></persName> quantité de grans sujets Poëtiques, tant
+						à fraisque qu'à huile, et entr'autres dans le <objectName ref="HuisTenBosch">Palais appellé la Maison du
+						Bois</objectName>, à demie lieuë de <placeName ref="#LaHaye">la Haye</placeName>. </p>
 				</div2>
 				<div2 n="196" type="chapitre" xml:id="C196" xml:lang="fra">
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#VanDyck">ANTOINE
@@ -8525,7 +8523,7 @@
 						plusieurs Tableaux d'Histoire qui rendirent son nom célébre de toutes parts,
 						mais comme il prévit qu'il seroit beaucoup plus employé dans les Cours des
 						Princes à faire des Portraits, et que ce genre de Peinture étoit plus propre
-						à lui établir une grosse fortune, il voulut aussi se fairec onnoître par ce
+						à lui établir une grosse fortune, il voulut aussi se faire connoître par ce
 						talant dont la Nature l'avoit particuliérenent favorisé. C'est dans cette
 						vûë qu'il fit les Portraits des plus célebres Peintres de son tems, et qu'il
 						les travailla avec beaucoup de soin. Le <persName ref="#ArmandJeanDuPlessisDeRichelieu">Cardinal de Richelieu</persName>
@@ -8539,7 +8537,7 @@
 						legers d'Ouvrages. Quelqu'un de ses amis lui en demandant la raison, il
 						répondit qu'aprés avoir travaillé long-tems pour sa réputation, il étoit
 							<pb n="416"/> raisonnable de travailler aussi pour sa cuisine. Ce fut
-						ainsi qu'il amassa beaucoup de bien et qu'ayant épousé <persName>une
+						ainsi qu'il amassa beaucoup de bien et qu'ayant épousé <persName ref="MaryRuthven">une
 							Femme</persName> de grande qualité il soûtint dans sa maison une
 						dépense magnifique. Il est mort à <placeName ref="#Londres">Londre</placeName> en <date when="1641">1641</date>. âgé de
 						quarante-deux ans. Il est assez vray-semblable que cette mort prématurée
@@ -8552,7 +8550,7 @@
 					<head>
 						<hi rend="capitals"> REFLEXIONS </hi> Sur les Ouvrages de <persName ref="#VanDyck">Vandeik</persName>. </head>
 					<p xml:id="PIL_AVP_L6_C197_P1">
-						<hi rend="capitals"> IL </hi> n'y a point de Peintre qui ait tant pronté des
+						<hi rend="capitals"> IL </hi> n'y a point de Peintre qui ait tant profité des
 						enseignemens de son Maître que <persName ref="#VanDyck">Vandeik</persName> a
 						fait de ceux de <persName ref="#PeterPaulRubens">Rubens</persName> ; mais
 						quoy que cet illustre Disciple soit venu au monde avec un beau Génie, qu'il
@@ -8563,7 +8561,7 @@
 					<p xml:id="PIL_AVP_L6_C197_P2"> Ses Compositions sont bien remplies et conduites par les mêmes maximes que
 							<pb n="417"/>celles de <persName ref="#PeterPaulRubens">Rubens</persName> ; mais ses Inventions ne sont pas si savantes, ni si
 						ingénieuses. Bien qu'il fut peu correct et peu fondé dans la partie du
-						Dessein, il a fait pourtant des choses en ce genre qui sont dignes l'estime,
+						Dessein, il a fait pourtant des choses en ce genre qui sont dignes d'estime,
 						lorsqu'il a voulu observer la Nature avec la délicatesse de son chois. </p>
 					<p xml:id="PIL_AVP_L6_C197_P3"> Il a fait les Portraits d'un genre sublime ; il les a disposez d'une maniére
 						qui leur donne une vie surprenante, et une grace infinie. Il les a toûjours
@@ -8590,7 +8588,7 @@
 						de cet artifice sur la fin de sa vie : mais je say bien qu'il s'en faut
 						beaucoup que ses derniers Portraits soient de la bonté de ceux qu'il a
 						peints dans ses commencemens. </p>
-					<p xml:id="PIL_AVP_L6_C197_P5"> Ce Peintre a eu l'Esprit forme de tres-bonne heure ; car ce qu'il a fait de
+					<p xml:id="PIL_AVP_L6_C197_P5"> Ce Peintre a eu l'Esprit formé de tres-bonne heure ; car ce qu'il a fait de
 						plus fort et de plus recherché a été peint dans sa jeunesse, et dans un
 						tems où il a voulu établir sa réputation. C'est ce qu'il a fait par les
 						Portraits des plus habiles Peintres de ses amis, et par ceux qu'il a peints
@@ -8624,8 +8622,8 @@
 						de ses Ouvrages augmentant tous les jours, les Curieux et les Magistrats
 							d'<placeName ref="#Anvers">Anvers</placeName> voulurent conserver sa
 						Mémoire par une Sépulture plus honorable. On déterra son Corps, et on
-						l'inhuma de nouveau avec un grand concours de monde dans l'<placeName>Eglise
-							des Carmes</placeName>. Le Tombeau magnifique qu'on luy éleva est encore
+						l'inhuma de nouveau avec un grand concours de monde dans l'<objectName>Eglise
+							des Carmes</objectName>. Le Tombeau magnifique qu'on luy éleva est encore
 						aujourd'huy une marque de la vénération que les Citoyens d'<placeName ref="#Anvers">Anvers</placeName> ont eû de tout tems pour le mérite.
 					</p>
 				</div2>
@@ -8634,11 +8632,11 @@
 					<p xml:id="PIL_AVP_L6_C199_P1">
 						<hi rend="capitals">D'<placeName ref="#Utrecht">UTRECK</placeName></hi>, né
 						en <date when="1586">1586</date> a été Disciple de
-							<persName>Blort</persName>. Il alla à <placeName ref="#Rome">Rome</placeName>, et dessina quelque tems d'aprés <persName ref="#Raphael">Raphaël</persName>. Il s'attacha ensuite au Païsage, se
+						<persName cert="low" xml:id="MaitreBlort">Blort</persName>. Il alla à <placeName ref="#Rome">Rome</placeName>, et dessina quelque tems d'aprés <persName ref="#Raphael">Raphaël</persName>. Il s'attacha ensuite au Païsage, se
 						proposant <persName ref="#AdamElsheimer">Adam Elseimer</persName> pour
 						Modéle. Enfin, aprés avoir étudié la Nature même il se fit une maniére
 						particuliére, qui est vraye et agréable, suivant en cela son Génie, qui le
-						porta toûjours à travailler en petit. Il retourna en on païs, où il se mit
+						porta toûjours à travailler en petit. Il retourna en son païs, où il se mit
 						fortement à travailler pour se faire connoître par ses Ouvrages. <persName ref="#CharlesI">Le Roy d'Angleterre</persName> qui en vit quelques-uns,
 						l'attira par une pension annuelle. Il retourna à <placeName ref="#Utrecht">Utreck</placeName>, <pb n="421"/> d'où ses Tableaux, faciles à
 						transporter, à cause de leur petitesse, répandirent bientôt sa renommée
@@ -8652,7 +8650,7 @@
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#RoelandtSavery">ROLAND
 									SAVERY</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C200_P1">
-						<hi rend="capitals">FLAMAND</hi>, Fils d'un Peintre médiocre, s'attacha
+						<hi rend="capitals">FLAMAND</hi>, Fils d'un <persName ref="#MaertenJaqueszSayery">Peintre médiocre</persName>, s'attacha
 						d'abord à imiter d'aprés Nature des Animaux de toutes les espéces, et il s'y
 						rendit si habile, que l'<persName ref="#RodolpheII">Empereur
 							Rodolphe</persName>, qui avoit bon Goût, le fit travailler quelque tems,
@@ -8661,11 +8659,11 @@
 						sont ordinairenent faits à la plume, accompagnez de lavis de Couleurs
 						differentes, et approchantes de la Nature qu'il dessinoit. Toutes ses Etudes
 						étoient ramasées dans un grand Livre, qu'il consultoit au besoin ; et ce
-						Livre demeura entre les mains le l'<persName ref="#RodolpheII">Empereur</persName>. <persName ref="#AegidiusSadeler">Gilles
+						<objectName>Livre</objectName> demeura entre les mains le l'<persName ref="#RodolpheII">Empereur</persName>. <persName ref="#AegidiusSadeler">Gilles
 							Sadeler</persName>, et <persName ref="#IsaacMajor">Isaac</persName> son
 						Disciple ont gravé plusieurs de ses<pb n="422"/> Païsages. Le plus beau de
-						tous est celuy où se trouve representé <persName ref="#SaintJerome">Saint
-							Jerôme</persName>, gravé par <persName ref="#IsaacMajor">Isaac</persName>. Il est mort à <placeName ref="#Utrecht">Utreck</placeName> fort vieux. </p>
+						tous est <objectName ref="RoelandtSaveryPaysageJerome">celuy où se trouve representé <persName ref="#SaintJerome">Saint
+								Jerôme</persName></objectName>, <objectName ref="RoelandtSaveryPaysageJeromeIsaacMajor">gravé par <persName ref="#IsaacMajor">Isaac</persName></objectName>. Il est mort à <placeName ref="#Utrecht">Utreck</placeName> fort vieux. </p>
 				</div2>
 				<div2 n="201" type="chapitre" xml:id="C201" xml:lang="fra">
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#JohannesTorrentius">JEAN
@@ -8700,10 +8698,10 @@
 						étudier le Païsage et l'Architecture, qu'il a faite d'un grand Goût, que
 						pour le Nud, qu'il a tres-mal dessiné. Il ne peignoit qu'en petit à gomme
 						sur du velin, et assez légérement. Ses Expressions génerales et ses
-						Compositions sont d'une beauté qui va souvent jusqu'au sublime. La Vigne
-						Madame est le Naturel dont il s'est servi pour étudier les Arbres, comme les
+						Compositions sont d'une beauté qui va souvent jusqu'au sublime. La <objectName ref="VillaMadamaRome">Vigne
+						Madame</objectName> est le Naturel dont il s'est servi pour étudier les Arbres, comme les
 						Palais de <placeName ref="#Rome">Rome</placeName> et des environs pour
-						l'Architecture. Il a gravé luy-même à l'eau-forte <objectName>les
+						l'Architecture. Il a gravé luy-même à l'eau-forte <objectName ref="JohannWilhelmBaurMetamorphosesOvide">les
 							Metamorphoses d'<persName ref="#Ovide">Ovide</persName></objectName>,
 						qui sont de son Invention, et qui font un Volume ; et il a fait graver
 						d'aprés ses Desseins plusieurs <objectName>sujets de l'Histoire
@@ -8722,7 +8720,7 @@
 							Elseimer</persName> y étoit, il fit avec luy grande amitié, et non
 						seulement il acheta de ce Peintre ce qu'il trouva de fait de ses Ouvrages,
 						et ce qu'il pût tirer de luy pendant son séjour à <placeName ref="#Rome">Rome</placeName> : mais il le paya encore d'avance sur ce qu'il devoit
-						luy faire pendant quelques années. <persName ref="#HendrickGoudt">Henri</persName> étant de retour à <placeName ref="#Utrecht">Utreck</placeName> grava d'aprés les Tableaux d'<persName ref="#AdamElsheimer">Adam</persName> les <objectName>sept
+						luy faire pendant quelques années. <persName ref="#HendrickGoudt">Henri</persName> étant de retour à <placeName ref="#Utrecht">Utreck</placeName> grava d'aprés les Tableaux d'<persName ref="#AdamElsheimer">Adam</persName> les <objectName ref="AdamElsheimerTableauxHendrickGoudt">sept
 							Piéces</objectName>, qui sont admirées des Curieux pour leur singuliére
 						beauté. Une Fille qui le vouloit épouser luy donna en <date when="1624">1624</date>. un Filtre, qui, au lieu de le rendre amoureux, luy fit
 						perdre l'esprit en sorte qu'il étoit tout hébêté quand on luy parloit
@@ -8767,11 +8765,11 @@
 						Tableaux ne sont différens de ceux du <persName ref="#Titien">Titien</persName> que par la diversité des Païs qu'ils réprésentent ;
 						car pour les Principes, ils sont les mêmes, et les Couleurs également bonnes
 						et bien entenduës. Il a peint quelque tems pour <persName ref="#PeterPaulRubens">Rubens</persName>, chez qui il apprit les
-						Principes les plus essentiels de son Art ; puis en <placeName ref="#Allemagne">Allemagne</placeName> pour l'<persName>Electeur
+						Principes les plus essentiels de son Art ; puis en <placeName ref="#Allemagne">Allemagne</placeName> pour l'<persName ref="#FredericVDuPalatinat">Electeur
 							Palatin</persName>, et enfin en <placeName ref="#France">France</placeName>, où aprés avoir travaillé longtems, et s'être bien
 						fait payer de ses Ouvrages, sa mauvaise conduite le fit mourir pauvre chez
 						un Peintre appelle <persName>Silvain</persName>, qui demeuroit au
-							<placeName>Fauxbourg Saint Jacques</placeName>. Il a eu deux Eleves, qui
+						<placeName ref="#FauxbourgSaintJacques">Fauxbourg Saint Jacques</placeName>. Il a eu deux Eleves, qui
 						se sont toûjours attachez à sa maniére ; <persName ref="#EtienneRendu">Rendu</persName>, et <persName ref="#FrancoisBelin">Bellin</persName>.
 							<figure type="ornement" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/5bf7f7dd-61d8-4d05-826d-6968853799b1/1876,5688,1268,1189/max/0/default.jpg"/>
 					</p>
@@ -8782,9 +8780,9 @@
 									LAER</persName></hi>, dit <hi rend="capitals"><persName ref="#PieterVanLaer">BAMNBOCHE</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C208_P1">
 						<hi rend="capitals">D'<placeName ref="#Haarlem">HARLEM</placeName></hi>,
-						avoit un merveilleux Génie pour la Peinture, quoy qu'il ne l'air cultivé
-						qu'a peindre en petit. Il étoit universel, et fort studieux dans toutes les
-						choses qui regardoient sa Profession. Il fit un grand sejour à <placeName ref="#Rome">Rome</placeName>, où il s'attira l'amitié et l'estime des
+						avoit un merveilleux Génie pour la Peinture, quoy qu'il ne l'ait cultivé
+						qu'à peindre en petit. Il étoit universel, et fort studieux dans toutes les
+						choses qui regardoient sa Profession. Il fit un grand séjour à <placeName ref="#Rome">Rome</placeName>, où il s'attira l'amitié et l'estime des
 						prémiers Peintres. Sa maniére est fort suave et vraye. Le nom de <persName ref="#PieterVanLaer">Bambozo</persName> luy fut donné par les Italiens,
 						a cause de sa figure éxtraordinaire ; il avoit les jambes fort longues, le
 						corps fort court, et la tête enfoncée dans les épaules : mais cette
@@ -8807,7 +8805,7 @@
 									BOTH</persName></hi> et son Frére <hi rend="capitals"><persName ref="#AndriesBoth">HENRY</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C209_P1">
 						<hi rend="capitals">D'<placeName ref="#Utrecht">UTRECK</placeName></hi>,
-						Disciples de <persName ref="#AbrahamBloemaert">Blomart</persName> l'un et
+						Disciples de <persName>Blomart</persName> l'un et
 						l'autre fort studieux et fort attachez à leur Profession. Etant à <placeName ref="#Rome">Rome</placeName>, <persName ref="#AndriesBoth">Henry</persName> s'adonna au Païsage, et suivit la maniére de <persName ref="#ClaudeLorrain">Claude le Lorrain</persName>, l'autre s'étudia à
 						faire des Figures et des Animaux et suivit la maniére de <persName ref="#PieterVanLaer">Bamboche</persName>, tous deux arriverent au but
 						qu'ils s'étoient proposez, ils s'accordérent à travailler dans un même
@@ -8838,7 +8836,7 @@
 						en <date when="1592">1592</date>. peignoit à Gomme en petit, et ses Ouvrages
 						plûrent tellement au Roy d'Angleterre <persName ref="#CharlesI">Charles
 							premier</persName>, que ce Prince l'attira à<pb n="430"/> sa Cour. Le
-							<persName>Duc de Bouquingam</persName> l'y ayant connu et luy ayant
+						<persName ref="#GeorgeVilliers">Duc de Bouquingam</persName> l'y ayant connu et luy ayant
 						trouvé de la pénétration dans l'Esprit en parla sur ce pied au Roy, qui le
 						fit Chevalier et l'envoya à <placeName ref="#Bruxelles">Bruxelles</placeName>, où il a été longtems en qualité d'Agent des
 						affaires de sa Majesté Britannique. </p>
@@ -8865,23 +8863,23 @@
 						ignorans. </p>
 				</div2>
 				<div2 n="214" type="chapitre" xml:id="C214" xml:lang="fra">
-					<head><hi rend="capitals"><hi rend="it"><persName>OLIVIER</persName></hi></hi></head>
+					<head><hi rend="capitals"><hi rend="it"><persName ref="#PeterOliver">OLIVIER</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C214_P1">
 						<hi rend="capitals">DE</hi>
 						<placeName ref="#Londres">Londres</placeName>, peinnoit à Gomme toutes
 						sortes de sujets : mais il s'est occupé d'avantage à faire des Portraits. Il
 						en a fait quantité dans les Cours des Rois d'<placeName ref="#Angleterre">Angleterre</placeName>
-						<persName>Jacques</persName> et <persName ref="#CharlesI">Charles</persName>, et personne n'a mieux fait que luy en ce genre. Il a eu
-						un Disciple nommé <persName>Couper</persName> qui passa au service de la
+						<persName ref="#JacquesIer">Jacques</persName> et <persName ref="#CharlesI">Charles</persName>, et personne n'a mieux fait que luy en ce genre. Il a eu
+						un Disciple nommé <persName ref="#AlexanderCooper">Couper</persName> qui passa au service de la
 							<persName ref="#ChristineDeSuede">Reine Christine de Suéde</persName>. </p>
-					<p xml:id="PIL_AVP_L6_C214_P2"><persName>LELI Anglois</persName> a fort bien fait les Portraits dans la
+					<p xml:id="PIL_AVP_L6_C214_P2"><persName cert="low" xml:id="PeterLelyAnglois">LELI Anglois</persName> a fort bien fait les Portraits dans la
 						maniére de <persName ref="#VanDyck">Vandeik</persName>, tant pour les têtes
 						que pour les habits et les ajustemens. </p>
 				</div2>
 				<div2 n="215" type="chapitre" xml:id="C215" xml:lang="fra">
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#CornelisVanHeem">CORNEILLE VAN HEEM</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C215_P1">
-						<hi rend="capitals">D'<placeName ref="#Anvers">ANVERS</placeName></hi> , a
+						<hi rend="capitals">D'<placeName ref="#Anvers">ANVERS</placeName></hi>, a
 						peint dans un haut degré de perfection, les Fruits, les Fleurs, et autres
 						choses inanimées. </p>
 				</div2>
@@ -8896,7 +8894,7 @@
 							<persName ref="#PeterPaulRubens">Rubens</persName>, y devint un de ses
 						meilleurs Disciples. Il inventoit facilement et ingénieusement : les
 						Estampes qu'on a gravées d'aprés luy en sont de bons témoignages, et
-						entr'autres celles qui sont dans le Livre intitulé <objectName>le Temple des
+						entr'autres celles qui sont dans le Livre intitulé <objectName ref="AbrahamJanszVanDiepenbeeckTempleDesMuses">le Temple des
 							Muses</objectName>, qui suffit seul pour faire l'éloge de ce Peintre.
 					</p>
 				</div2>
@@ -8908,9 +8906,9 @@
 						<hi rend="capitals">A PEINT</hi> ordinairement en petit, il dessinoit bien
 						et sa maniére est ferme et d'un Pinceau legér, ç'a été ni <persName ref="#Protee">Prothée</persName> pour les copies et il s'est transforme
 						en autant de Tableaux qu'il en a voulu contrefaire, en sorte qu'on y est
-						encore tous les jours trompé, c'est par ses soins que la Gallerie de
+						encore tous les jours trompé, <objectName ref="DavidTeniersGalerieDeLéopoldGuillaume">c'est par ses soins que la Gallerie de
 							l'<persName ref="#LeopoldGuillaumeDeHabsbourg">Archiduc
-							Léopol</persName> a été gravée ayant pour lors la direction des
+							Léopol</persName> a été gravée</objectName> ayant pour lors la direction des
 						Originaux. </p>
 				</div2>
 				<div2 n="218" type="chapitre" xml:id="C218" xml:lang="fra">
@@ -8920,7 +8918,7 @@
 					<p xml:id="PIL_AVP_L6_C218_P1">
 						<hi rend="capitals">LE</hi> surnom de Van Rein luy vient du lieu de sa
 						naissance qui est un Village scitué sur le bras du <placeName ref="#Rhin">Rein</placeName> qui passe à <placeName ref="#Leyde">Leyde</placeName>,
-						il étoit fls d'un Meusnier et Disciple d'un assez bon Peintre d'<placeName ref="#Amsterdam">Amsterdam</placeName> appelle <persName ref="#PieterLastman">Lesman</persName> : mais il ne devoit la
+						il étoit fls d'un Meusnier et Disciple d'un assez bon Peintre d'<placeName ref="#Amsterdam">Amsterdam</placeName> appellé <persName ref="#PieterLastman">Lesman</persName> : mais il ne devoit la
 						connoissance qu'il a aquise dans la Profession qu'à la bonté de son Esprit
 						et à ses Réflections. Il ne faut néanmoins chercher dans ses Ouvrages, ni la
 						correction du Dessein, ni le Goût de l'Antique. Il disoit luy-même que son
@@ -8942,7 +8940,7 @@
 						son Portrait plusieurs fois, et l'on peut juger par l'année qui y est
 						marquée qu'il est né avec le siécle ; Et de toutes ces dates que l'on voit
 						sur ses Estampes, il n'y en a point au de là de <date when="1628">1628</date>. ni aprés <date when="1659">1659</date>. Il y en a quatre
-						ou cinq qui font voir qu'il étoit à <placeName ref="#Venise">Venise</placeName> en <date when="1635">1635</date>. et <date when="1636">1636</date>. Il se maria en <placeName ref="#Hollande">Hollande</placeName>, et il a gravé <objectName>le Portrait de
+						ou cinq qui font voir qu'il étoit à <placeName ref="#Venise">Venise</placeName> en <date when="1635">1635</date>. et <date when="1636">1636</date>. Il se maria en <placeName ref="#Hollande">Hollande</placeName>, et il a gravé <objectName ref="Portrait">le Portrait de
 								<persName ref="#SaskiaVanUylenburgh">sa Femme</persName> avec le
 							sien</objectName>, il a retouché plusieurs de ses Estampes jusqu'à
 						quatre et cinq fois pour en changer le Clair-obscur et pour chercher un bon

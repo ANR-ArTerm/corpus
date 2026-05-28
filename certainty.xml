@@ -1,18 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<DARET>
-    <certainty target="#HpMantegnaMiseTombeau" locus="value">
-        <desc>
-            Deux hypothèses d'identification possibles :
-            <objectName ref="#MantegnaMiseAuTombeauQuatreOiseaux"></objectName>, 
-            <objectName ref="#MantegnaMiseAuTombeauLargeur"></objectName>.
-        </desc>
-    </certainty>
-    <certainty target="#HpCaraglioNativité" locus="value">
-        <desc>
-            Trois hypothèses d'identification possibles :
-            <objectName ref="#CaraglioViergeJBRaphael"/>, 
-            <objectName ref="#CaraglioAdorationBergers"/>, 
-            <objectName ref="#CaraglioAnnonciation"/>.
-        </desc>
-    </certainty>
-</DARET>
+<textes>
+    <Daret_VieRaphael>
+        <certainty target="#HpMantegnaMiseTombeau" locus="value">
+            <desc> Deux hypothèses d'identification possibles : <objectName
+                    ref="#MantegnaMiseAuTombeauQuatreOiseaux"/>, <objectName
+                    ref="#MantegnaMiseAuTombeauLargeur"/>. </desc>
+        </certainty>
+        <certainty target="#HpCaraglioNativité" locus="value">
+            <desc> Trois hypothèses d'identification possibles : <objectName
+                    ref="#CaraglioViergeJBRaphael"/>, <objectName ref="#CaraglioAdorationBergers"/>,
+                    <objectName ref="#CaraglioAnnonciation"/>. </desc>
+        </certainty>
+    </Daret_VieRaphael>
+    <Palladio_quattro_libri>
+        <certainty target="#PbCaiusAureliusCotta" locus="value">
+            <desc> Pourrait correspondre au <persName ref="#CaiusAureliusCottaPere">père</persName>
+                ou <persName ref="#CaiusAureliusCottaFils">au fils</persName>. </desc>
+        </certainty>
+        <certainty target="#TempleDeLaPaix" locus="value">
+            <desc>Palladio nomme ce monument le <objectName ref="#ForumDeLaPaixRome">Temple de la
+                    Paix</objectName> mais d'après les illustrations et la description qu'il en fait
+                il semblerait que ce soit plutôt la <objectName
+                    ref="#BasiliqueDeMaxenxeConstantinRome">Basilique de Maxence et
+                    Constantin</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty target="StatueEquestreMarcAurele" locus="value">
+            <desc>Le modèle de la statue est <object ref="#StatueEquestreMarcAureleRome">Marc
+                    Aurèle</object> et non Antonine Le Pieux<bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty target="TempleDeSolRome" locus="value">
+            <desc>Palladio nomme ce monument <objectName ref="#TempleDeSolRome">Temple de
+                    Sol</objectName> et <objectName ref="#TempleDeLaLuneRome">Temple de la
+                    Lune</objectName> mais d'après les illustrations et la description qu'il en fait
+                il semblerait que ce soit plutôt le <objectName ref="#TempleVenusRomeRome">Temple de
+                    Vénus et de Rome</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty target="TempleDeLaLuneRome" locus="value">
+            <desc>Palladio nomme ce monument <objectName ref="#TempleDeSolRome">Temple de
+                    Sol</objectName> et <objectName ref="#TempleDeLaLuneRome">Temple de la
+                    Lune</objectName> mais d'après les illustrations et la description qu'il en fait
+                il semblerait que ce soit plutôt le <objectName ref="#TempleVenusRomeRome">Temple de
+                    Vénus et de Rome</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty target="TempleJupiterQuirinal" locus="value">
+            <desc>Palladio nomme ce monument Temple de Jupiter sûr le monte Quirinal mais d'après
+                les illustrations et la description qu'il en fait il semblerait que ce soit plutôt
+                le <objectName ref="#TempleSerapisRome">Temple de Sérapis</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty target="TempleJupiterQuirinal1" locus="value">
+            <desc>Palladio nomme ce monument Temple de Jupiter sûr le monte Quirinal mais d'après
+                les illustrations et la description qu'il en fait il semblerait que ce soit plutôt
+                le <objectName ref="#TempleSerapisRome">Temple de Sérapis</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty xml:id="TempleVestaRome" locus="value">
+            <desc>Palladio nomme ce monument <objectName ref="#TempleVestaRome">Temple de
+                    Vesta</objectName> mais d'après les illustrations et la description qu'il en
+                fait il semblerait que ce soit plutôt le <objectName ref="#TempleHerculeVictorRome"
+                    >Temple d'Hercule Victor</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty xml:id="TempleMarsRome" locus="value">
+            <desc>Palladio nomme ce monument Temple de Mars mais d'après les illustrations et la
+                description qu'il en fait il semblerait que ce soit plutôt le <objectName
+                    ref="#TempleHadrienRome">Temple d'Hadrien</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty xml:id="TempleJupiterStatorRome" locus="value">
+            <desc>Palladio nomme ce monument <objectName ref="#TempleJupiterStatorRome">Temple de
+                    Jupiter Stator</objectName> mais d'après les illustrations et la description
+                qu'il en fait il semblerait que ce soit plutôt le <objectName
+                    ref="#TempleDesDioscuresRome">Temple des Dioscures</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty xml:id="TempleJupiterTonnantRome" locus="value">
+            <desc>Palladio nomme ce monument <objectName ref="#TempleJupiterTonnantRome">Temple de
+                    Jupiter Tonnant</objectName> mais d'après les illustrations et la description
+                qu'il en fait il semblerait que ce soit plutôt le <objectName
+                    ref="#TempleVespasienRome">Temple de Vespasien</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty xml:id="ThermesAgrippaRome" locus="value">
+            <desc>Palladio nomme ce monument <objectName ref="#ThermesAgrippaRome">Thermes de
+                    Agrippa</objectName> mais d'après les illustrations et la description qu'il en
+                fait il semblerait que ce soit plutôt la Basilique de Neptune<bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty xml:id="TempleDeBacchusRome" locus="value">
+            <desc>Palladio nomme ce monument Temple de Bacchus mais d'après les illustrations et la
+                description qu'il en fait il semblerait que ce soit plutôt le <objectName
+                    ref="#MausoleeSainteCostanceRome">Mausolée de Sainte Costance</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty xml:id="TempleDeLaConcordeRome" locus="value">
+            <desc>Palladio nomme ce monument <objectName ref="#TempleDeLaConcordeRome">Temple de la
+                    Concorde</objectName> mais d'après les illustrations et la description qu'il en
+                fait il semblerait que ce soit plutôt le <objectName ref="#TempleDeSaturneRome"
+                    >Temple de Saturne</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+        <certainty xml:id="TempleDeNeptuneRome" locus="value">
+            <desc>Palladio nomme ce monument Temple de Neptune mais d'après les illustrations et la
+                description qu'il en fait il semblerait que ce soit plutôt le <objectName
+                    ref="#TempleVenusGenitrixRome">Temple de Vénus Genitrix</objectName><bibl
+                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
+        </certainty>
+    </Palladio_quattro_libri>
+
+    <Alberti_Bartoli_Architettura>
+        <certainty xml:id="TempleLetoRome" locus="value">
+            <desc>Alberti nomme ce monument <objectName>Temple de Léto</objectName> mais d'après
+                la description qu'il en fait il semblerait que ce soit plutôt la <objectName
+                    ref="#BasiliqueDeMaxenxeConstantinRome">Basilique de Maxence et
+                    Constantin</objectName><bibl key="albertileonbattistaLarchitettura1989"
+                />.</desc>
+        </certainty>
+    </Alberti_Bartoli_Architettura>
+
+    <Piles_Abrege_Peintres>
+        <certainty xml:id="LesCorneilles" locus="value">
+            <desc> Pourrait correspondre aux peintres <persName ref="#CornelisIIBloemaert"> Cornelis
+                    II Bloemaert</persName> et à <persName ref="#CornelisVanHaarlem"> Cornelis Van
+                    Haarlem</persName></desc>
+        </certainty>
+        <certainty xml:id="JanVanDerStraetChambrePalazzoVecchio" locus="value">
+            <desc> On ne sait pas exactement à quelle pièce Roger de Piles fait référence ici, il
+                pourrait s'agir du <objectName ref="SalleGualdradaPalazzoVecchio">plafond de la
+                    chambre d'Éléonore de Tolède</objectName> ou des panneaux peints pour le
+                    <objectName ref="StudioloFrancoisIMedicis">studiolo de François Ier de
+                    Médicis</objectName> ou encore pour le <objectName ref="StudioloCosmeIMedicis"
+                    >studiolo de Cosme Ier de Médicis</objectName>. </desc>
+        </certainty>
+        <certainty xml:id="MaitreBlort" locus="value"> <desc> Il est probable que De Piles fasse ici référence à <persName ref="#AbrahamBloemaert">Abraham Bloemaert</persName> mais l'orthographe du nom ayant varié au cours de la rédaction, cela demeure une supposition. </desc>
+        </certainty>
+        <certainty xml:id="PeterLelyAnglois" locus="value"> <desc> Il est possible que De Piles fasse ici référence à <persName ref="#PeterLely">Peter Lely</persName>.</desc></certainty>
+        
+    </Piles_Abrege_Peintres>
+</textes>
