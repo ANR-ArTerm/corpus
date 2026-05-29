@@ -2,7 +2,14 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+<<<<<<< HEAD
       <person xml:id="SantidiTito" source="https://www.wikidata.org/wiki/Q206697"></person>
+=======
+      <person xml:id="AlessandroAllori" source="https://www.wikidata.org/wiki/Q333369"></person>
+      <person xml:id="Athenodore" source="https://www.wikidata.org/wiki/Q182235"></person>
+      <person xml:id="Agamede" source="https://www.wikidata.org/wiki/Q390363"></person>
+      <person xml:id="FranciscoCollantes" source="https://www.wikidata.org/wiki/Q3081834"/>
+>>>>>>> 903e5ddf76e2a0343a72b619adf84a5921ff4563
       <person xml:id="TitusLabienus" source="https://www.wikidata.org/wiki/Q311265"/>
       <person xml:id="CratesDeMallos" source="https://www.wikidata.org/wiki/Q503075"/>
       <person xml:id="Hippodamos" source="https://www.wikidata.org/wiki/Q298071"/>
