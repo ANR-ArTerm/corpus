@@ -34,7 +34,7 @@
                   <hi rend="capitals">PIETRO ACCOLTI</hi>
                </docAuthor>
                <hi rend="capitals">GENTILHUOMO FIORENTINO. E</hi> della <placeName ref="#Toscane"
-                  >Toscana</placeName> Academia del Disegno.</byline>
+                  >Toscana</placeName> <placeName ref="AcademiedelDisegno">Academia del Disegno</placeName>.</byline>
             <titlePart type="sub">
                <hi rend="capitals">TRATTATO IN ACCONCIO DELLA PITTURA</hi>.</titlePart>
             <figure type="medaillon"/>
@@ -44,7 +44,7 @@
                   <persName ref="PietroCecconelli">Pietro Cecconcelli</persName>
                </publisher>,</docImprint>
             <docDate when="1625">MDC.XXV.</docDate>
-            <imprimatur>Con Licenza de Superiori. Alle Stelle Medicce.</imprimatur>
+            <imprimatur>Con Licenza de' Superiori. Alle Stelle Medicce.</imprimatur>
          </titlePage>
          <pb type="blankpage"/>
          <pb/>
@@ -152,11 +152,11 @@
                <l>Potran l'antiche meraviglie illustri,</l>
                <l>E far men chiare, ne' futuri lustri</l>
                <l>
-                  <objectName>
+                  <objectName ref="ZeuxisJunon">
                      <persName ref="#Junon">Giunon</persName> di <persName ref="#Zeuxis"
                         >Zeusi</persName>
-                  </objectName>, e <objectName>
-                     <placeName>Citerea</placeName>
+                  </objectName>, e <objectName ref="ApelleCythere">
+                     <placeName ref="Cythere">Citerea</placeName>
                      <persName ref="#Apelle">d'Apelle</persName>
                   </objectName>.</l>
                <l>Men superbo <persName ref="#Parrhasios">Parrasio</persName>, a parte, a parte</l>
@@ -1970,9 +1970,9 @@
                   Piazze ravvisate, quali effettivamente essere troverassi, mediante la contracifera
                   dello specchio et sua situazione. Cosa alcuna volta stata eseguita, mentre da Noi
                   si fece assistenza alcun tempo in <placeName ref="#France">Francia</placeName>, et
-                  in <placeName ref="#Italie">Italia</placeName>, al servizio di <persName ref=""
-                     >Segretario</persName> dell'Eccellentissimo Sigignor Principe Don <persName
-                     ref="#GiovanniDeMedici">Giovanni de Medici</persName> di Gloriosa Memoria, con
+                  in <placeName ref="#Italie">Italia</placeName>, al servizio di <persName>
+                  Segretario</persName> dell'Eccellentissimo Sigignor Principe Don <persName
+                  ref="#GiovanniDeMedici">Giovanni de Medici</persName> di Gloriosa Memoria, con
                   non discaro servizio di quel Re, e del mio Principe. Sia la tavola, o quadro A. B.
                   C. D. entrovi alcuna data effigie, o ritratto, o disegno, quale, o per voglia, e
                   bizzarrìa di pittura, o per necessità, intendiamo mandarne la copia così occulta
@@ -2003,8 +2003,8 @@
                   d'altro che fu disegnato, o dipinto nel quadro A. B. C. D. In questa guisa si fece
                   già da noi <objectName ref="SustermansCosimoII">un ritratto del Gran Duca <persName ref="#CosimoII">Cosimo
                         Secondo</persName></objectName> di Gloriosa Memoria rassegnato nella
-                     <placeName>Galleria dell'Illustrissimo <persName ref="#GiovanniDeMedici"
-                        >Cardinale Medici</persName></placeName> mio Signore, et chiunque in esso
+                     <objectName ref="GaleriedesOfficesFlorence">Galleria dell'Illustrissimo <persName ref="#GiovanniDeMedici"
+                           >Cardinale Medici</persName></objectName> mio Signore, et chiunque in esso
                   rimira, comprende la forza della Prospettiva negl'inganni suoi. </p>
                <pb n="50"/>
                <p xml:id="ACC_IOP_L1_L1C35_P2"> Intanto dalla contemplazione della sudetta
@@ -5653,7 +5653,7 @@
                      ref="#Giambologna">Giambologna</persName> Scultore di questi Serenissimi nel
                   <objectName ref="LEnlevementdesSabines">ratto delle Sabine</objectName>, et <persName ref="#MichelAnge"
                      >Michel'Agnolo</persName>, ne <objectName ref="MichelAngeTombeauJulienMedicis">sepolcri di <persName ref="GiulianodeMedici">Giuliano</persName>,</objectName> 
-                  et <objectName ref="MichelAngeTombeauLaurentIIMedicis"><persName cert="low" xml:id="LorenzodeMedici">Giovanni de' Medici</persName></objectName>. E quanto al secondo capo de' moti delle sudette diverse
+                  et <objectName ref="MichelAngeTombeauLaurentIIMedicis"><persName cert="low" xml:id="LorenzoIIdeMedici">Giovanni de' Medici</persName></objectName>. E quanto al secondo capo de' moti delle sudette diverse
                   età, et qualità di persone, devesi egli avvertir molto bene che le attitudini, e
                   movimenti de' vecchi, non sieno fatti, et espressi con quella modesima vivacità, et
                   prontezza che quelli de' Giovani, né quelli delle femmine, come quelle de' maschi,
@@ -5780,8 +5780,8 @@
                   altrove da esse non vengono in parte traviati. Simulacro nobilissimo puote
                   vedersene dagl'antichi maestri nella statua di <objectName ref="MenelasetPatrocle"><persName ref="#Nisos"
                         >Niso</persName>, et <persName ref="#Euryale"
-                     >Eurialo</persName></objectName> nel <placeName>gran Cortile del Serenissimo
-                     <objectName ref="PalazzoPittiFlorence">Palazzo de' Pitti</objectName></placeName>, ove scorgesi espresso nell'uno l'abbandono delle
+                     >Eurialo</persName></objectName> nel gran Cortile del Serenissimo
+                     <objectName ref="PalazzoPittiFlorence">Palazzo de' Pitti</objectName>, ove scorgesi espresso nell'uno l'abbandono delle
                   sue membra tutte, et nell'altro lo sconcio peso di un corpo, o morto, o languente. </p>
                <p xml:id="ACC_IOP_L3_L3S3_P22"> Metta in quanto può il Pittore la sua figura in
                   campo chiaro, se ella sarà oscura; et se chiara, et vicina a gran lume, campeggi
