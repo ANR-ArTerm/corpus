@@ -2,6 +2,7 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+      <person xml:id="SantidiTito" source="https://www.wikidata.org/wiki/Q206697"></person>
       <person xml:id="BernardoBuontalenti" source="https://www.wikidata.org/wiki/Q822980"></person>
       <person xml:id="BaldassarreLonghena" source="https://www.wikidata.org/wiki/Q316297"></person>
       <person xml:id="BaccioPontelli" source="https://www.wikidata.org/wiki/Q576325"></person>
@@ -14,6 +15,10 @@
       <person xml:id="AlessandroAllori" source="https://www.wikidata.org/wiki/Q333369"></person>
       <person xml:id="Athenodore" source="https://www.wikidata.org/wiki/Q182235"></person>
       <person xml:id="Agamede" source="https://www.wikidata.org/wiki/Q390363"></person>
+      <person xml:id="PubliusCorneliusDolabella" source="https://www.wikidata.org/wiki/Q451597"/>
+      <person xml:id="CaiusTrebonius" source="https://www.wikidata.org/wiki/Q550560"/>
+      <person xml:id="AlessandroAllori" source="https://www.wikidata.org/wiki/Q333369"/>
+      <person xml:id="Agamede" source="https://www.wikidata.org/wiki/Q390363"/>
       <person xml:id="FranciscoCollantes" source="https://www.wikidata.org/wiki/Q3081834"/>
       <person xml:id="TitusLabienus" source="https://www.wikidata.org/wiki/Q311265"/>
       <person xml:id="CratesDeMallos" source="https://www.wikidata.org/wiki/Q503075"/>
@@ -20964,7 +20969,7 @@
           <p>Comment on works: religious</p>
         </trait>
       </person>
-      <person xml:id="Baroccio" role="peintre et graveur italien maniériste (1535-1612)"
+      <person xml:id="Barocci" role="peintre et graveur italien maniériste (1535-1612)"
         source="http://www.wikidata.org/entity/Q316731">
         <persName
           ref="https://www.getty.edu/vow/ULANFullDisplay?find=Baroccio&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500115210">
