@@ -281,10 +281,10 @@
                   arrecano a'precetti di Perspettiva, né meno chiare, et evidenti lascino le sue
                   dimostrazioni, così ho stimato potersi, e doversi tralasciare presentemente da Noi
                   questa inutile disputa, per non traviar con troppo largo giro dal dritto cammino
-                  propostoci, rimettendone i curiosi a quanto ne hanno lasciato scritto Eliodoro
-                  Larissa cap. 1. 2. <persName ref="#TheonDAlexandrie">Teone <reg> di </reg> Alessandria</persName>
-                  <persName ref="#Aristote">Aristotele</persName> lib. 2. <bibl>de Anima</bibl> cap.
-                  12. testo 121. et 124. l'istesso libro <bibl>de sensu ac sensili</bibl> cap. 2.
+                  propostoci, rimettendone i curiosi a quanto ne hanno lasciato scritto <persName ref="#HeliodoreDeLarisse">Eliodoro
+                  Larissa </persName>cap. 1. 2. <persName ref="#TheonDAlexandrie">Teone <reg> di </reg> Alessandria</persName>
+                  <persName ref="#Aristote">Aristotele</persName> lib. 2. <bibl key="aristoteLame">de Anima</bibl> cap.
+                  12. testo 121. et 124. l'istesso libro <bibl key="aristoteSensuSensibilibus">de sensu ac sensili</bibl> cap. 2.
                   Galeno lib. 7. precepta <persName ref="#Hippocrate">Hippocrate</persName>
                   <persName ref="#Vitellion">Vitellione</persName> propositiones 5. e 6. libro 3. E
                   finalmente quasi tutti i moderni Scrittori ancor di Perspettiva Pratica, a'quali è
@@ -305,7 +305,7 @@
                   l'impressione della luce communicata al corpi, <reg> non </reg> poter farsi se non
                   nell'opaco atto a resistere, e terminare il naturale infinito retto progresso
                   della luce secondo <persName ref="#Aristote">Aristotele</persName> in lib.
-                     <bibl>de sensu ac sensili</bibl> Cap. 3. <choice>
+                  <bibl key="aristoteSensuSensibilibus">de sensu ac sensili</bibl> Cap. 3. <choice>
                      <sic>Adumque</sic>
                      <corr>Adunque</corr>
                   </choice> il mezzano spazio fra questi estremi del Corpo luminoso, et opaco,
@@ -344,15 +344,14 @@
                   l'aspetto, et il cono de' raggi visivi, e come habbiamo detto una similissima
                   natura, e convenienzia serbano fra di loro il lume; e le spezie della immagine
                   nelle azioni loro: il che lascio espresso con gentilissimo testimonio <persName
-                     ref="#Lucrece">Lucrezio</persName> nel 4. lib. <bibl>de Naturalis Historia</bibl>
+                     ref="#Lucrece">Lucrezio</persName> nel 4. lib. <choice><sic>de Naturalis Historia</sic><corr><bibl key="LucreceDeRerumNatura">De Natura Rerum</bibl></corr></choice>
                </p>
                <p xml:id="ACC_IOP_L1_L1C3_P2">
-                  <hi rend="it"><foreign xml:lang="lat"> 
+                  <hi rend="it" xml:lang="lat"> 
                   <l>Et quasi multa brevi spatio submittere debet</l>
                   <l>Lumina Sol, ut perpetuo sint omnia plena:</l>
                   <l>Sic a rebus item simili ratione necesse est</l>
                  <l>Temporis in puncto rerum simulacra ferantur.</l>
-                  </foreign>
                   </hi>
                </p>
             </div2>
@@ -367,7 +366,7 @@
                   impressioni delle spezie visibili, le quali come si è detto con una instantissima
                   retta infinita progressione per ogni parte del circonstante diafono si diffondano
                   (secondo l'una oppinione de' gli antichi Filosofi, come sopra habbiamo accennato,
-                  di che si combatte ancora,<foreign xml:lang="lat"><hi rend="it"> Et lis sub iudice pendet</hi><foreign>) soggiungo
+                  di che si combatte ancora,<hi rend="it" xml:lang="lat"> Et lis sub iudice pendet</hi>) soggiungo
                   che nella considerazione, e speculazione di cotale attività, intendiamo ancora
                   cotali retti passaggi (che tanti essere in numero si pongano, quanti punti
                   dell'obbietto si tolgono a considerare) constituire per sì fatto modo un
@@ -384,7 +383,7 @@
                   conica figura. E finalmente se la superficie del corpo veduto, dintornerà figura
                   qual si sia irregolare, parimente irregolare, e simile si troverà sempre la
                   parallela sezione alla base che si facesse del sudetto suo piramidale progresso,
-                  come dimostrano i <bibl>Conici</bibl> d'<persName ref="#ApolloniosdePerga"
+                  come dimostrano i <bibl key="apolloniosdepergaConiques">Conici</bibl> d'<persName ref="#ApolloniosdePerga"
                      >Apollonio</persName>, e resterà manifesto a suo luogo nelle nostre
                   dimostrazioni. La considerazione delle quali sudette cose (che alla specolazione
                   della mente più che alla dimostrazione del senso sono sottoposte) notabilmente
@@ -401,8 +400,8 @@
                   cose all'occhio, si fa menzione, di rappresentare diverso sentimento intorno alla
                   potenza progressiva delle spezie che all'occhio si rassegnano. È proposizione del
                      <persName>Padre Aguilloni</persName>, Scrittore di questi tempi eminentissimo,
-                  <foreign xml:lang="lat"><hi rend="it">in suo <bibl>optices tractatu</bibl> propositiones 57. lib. 1.  Unum quodque obiectum
-                        spatio definiri, ultra quod videri non potest </hi><foreign>: e con l'infrascritta dimostrazione
+                  <hi rend="it" xml:lang="lat">in suo <bibl>optices tractatu</bibl> propositiones 57. lib. 1.  Unum quodque obiectum
+                        spatio definiri, ultra quod videri non potest </hi>: e con l'infrascritta dimostrazione
                   lo prova. Sia B. A. C. il minimo angolo, che sia constituito dalla piramide
                   visiva, la cui base sia l'eguale obietto veduto, come B. C. discostisi, e
                   s'allontani dall'occhio A. il detto obietto B. C. sino in D. certo (soggiugne
@@ -420,9 +419,9 @@
                   intendersi rimaner prolungato, e discostato dal termine A. nella sua distanza
                   ultima grandissima, adunque indeterminata, adunque infinita, ma dell'infinito non
                   sì da parte maggiore discreta, adunque non augumento progressivo in D. di che non
-                  è capace, adunque <foreign xml:lang="lat"><hi rend="it">frustra queritur an spatio definiatur, ultra quod
+                  è capace, adunque <hi rend="it" xml:lang="lat">frustra queritur an spatio definiatur, ultra quod
                      amplius non videatur, siquidem infinite distantiae non datur ultrà
-                     processus</hi>.</foreign> </p>
+                     processus</hi>. </p>
             </div2>
             <div2 xml:id="L1C6" type="chapitre" n="6">
                <head>
@@ -435,7 +434,7 @@
                   habbiamo detto al cap. 4. non è stato alcuno de' Filososi, che habbia ardito
                   revocarlo in dubbio, et impugnarlo, ancorché matematicamente ciò dimostrar non si
                   possa per il testimonio di <persName ref="#Vitellion">Vitellione</persName> lib.
-                  2. propositiones 1. e di <persName ref="#Euclide">Euclide</persName> nel <bibl>tractato
+                  2. propositiones 1. e di <persName ref="#Euclide">Euclide</persName> nel <bibl key="EuclidePerspective">tractato
                      di Perspettiva</bibl> supposizione 2. che perciò come <hi rend="it"
                      >hipotesis</hi> se ne adimanda loro la concessione libera senza contrasto. Con
                   tutto ciò, da <persName ref="#Vitellion">Vitellione</persName>, e da <persName
@@ -1502,7 +1501,7 @@
                      >Euclide</persName> l'insegna alla propositione settima del libro 4. <persName
                      ref="#AlbrechtDurer">Alberto Durero</persName> più compendiosamente, ma non
                   susiste all'aritmetica esaminazione di <persName ref="#GiovanniBattistaBenedetti"
-                     >Giovanni Batista Benedetti</persName> nelle sue <bibl>Epistole</bibl> a
+                     >Giovanni Batista Benedetti</persName> nelle sue <bibl key="giovannibattistabenedettiBenedettiDiversarum">Epistole</bibl> a
                      <persName>Conrado Neubart,</persName> al qual luogo rimetto li studiosi di
                   matematica non sendo questo nostro presente luogo capace di inutili dispute quanto
                   al Pittore, et a questa presente pratica di Perspettiva. Però l'infradescritto
@@ -1782,8 +1781,8 @@
             </div2>
             <div2 xml:id="L1C32" type="chapitre" n="32">
                <pb n="43"/>
-               <hi rend="it"><head><hi rend="capitals">DIMOSTRAZIONE NELI ISTESSI PIANI </hi>inclinati per
-                  pratica di nostra regola. Cap. XXXII.</hi></head>
+               <head rend="it"><hi rend="capitals">DIMOSTRAZIONE NELI ISTESSI PIANI </hi>inclinati per
+                  pratica di nostra regola. Cap. XXXII.</head>
                <figure type="schema"/>
                <pb n="44"/>
                <p xml:id="ACC_IOP_L1_L1C32_P1">
@@ -2247,7 +2246,7 @@
                <head>
                   <hi rend="capitals">DE' CORPI, E DEL LEVARGLI IN DISEGNO DI PROSPETTIVA.</hi>
                </head>
-               <hi rend="it"><p xml:id="ACC_IOP_L2_S1_P1">
+               <p xml:id="ACC_IOP_L2_S1_P1">
                   <figure type="lettrine"/><hi rend="capitals">HA</hi>vendo Noi dimostrato sin qui
                   diverse maniere di colcare in piano di Prospettiva, varie piante, e figure da
                   linee terminate, richiede l'ordine della materia qual trattiamo che si venga al
@@ -2292,7 +2291,7 @@
                   trovare (mediante le loro legittime respettive Piante) il proprio, e vero
                   perspettivo disegno, nella figurazione delle quali, pare che molti de' moderni
                   Autori di Prospettiva Pratica si sieno ingannati. Il che tutto potrà forse
-                  apparire nella considerazione delle seguenti nostre dimostrazioni.</hi> </p>
+                  apparire nella considerazione delle seguenti nostre dimostrazioni. </p>
                <figure type="ornement"/>
             </div2>
             <div2 xml:id="L2S2" n="2" type="section">
@@ -2475,7 +2474,7 @@
                   Corpo, non permetterò che alcuno resti falsamente persuaso dalla dottrina di
                   Monsig. <persName ref="#DanieleBarbaro">Daniel Barbaro</persName> nella
                   dimostrazione, et esamine, che egli fa della esistenza, et qualità del sudetto
-                  Corpo, nel suo <bibl>trattato di Prospettiva</bibl>, parte terza capitolo quarto.
+                  Corpo, nel suo <bibl key="barbaroPraticaPerspettivaDi1568">trattato di Prospettiva</bibl>, parte terza capitolo quarto.
                   Impercioché stimiamo essersi molto ingannato affermando che ciascun suo solido
                   angolo composto dalle quattro sue triangolari superficie, essere uguale al solido
                   angolo della figura cubica, prodotto dalle tre rettangole piane superficie che
@@ -2492,7 +2491,7 @@
                   terzo rimanente angolo del Cubo, adunque l'angolo del triangolo equilatero sarebbe
                   uguale all'angolo retto, il che è impossibile per la 17. et 32. del 1. Male
                   adunque si è proferito dal suddetto Monsignor <persName ref="#DanieleBarbaro">Daniel
-                     Barb.</persName> in detto suo <bibl>Trattato di Prospettiva</bibl>. </p>
+                     Barb.</persName> in detto suo <bibl key="barbaroPraticaPerspettivaDi1568">Trattato di Prospettiva</bibl>. </p>
             </div2>
             <div2 xml:id="L2C5" type="chapitre" n="5">
                <pb n="65"/>
@@ -2530,7 +2529,7 @@
                   impercioché questa sarà per appunto capace cinque fiate della data linea AB, et
                   del pentagono che si forma da essa linea come suo lato dato. </p>
                <p xml:id="ACC_IOP_L2_L2C5_P3"> Da <persName ref="#Ptolemee">Tollomeo</persName> nel
-                     <bibl>libro primo dell'Almagesto</bibl> al cap. 9. si dimostra una compendiosa
+                  libro primo dell'<bibl key="PtoléméeAlmageste">Almagesto</bibl> al cap. 9. si dimostra una compendiosa
                   maniera di formare il pentagono, che mi è parsa tanto più rassegnarla quanto che
                   la dimostrazione di <persName ref="#AlbrechtDurer">Alberto Duro</persName>
                   (seguitata da <persName ref="#DanieleBarbaro">Daniel Barbero</persName>, et
@@ -2767,13 +2766,13 @@
                   nella seguente figura potrà agevolmente apparire. Anziché la sua pianta, et
                   profilo è stata di così malagevole inquisizione al <persName
                      ref="#LorenzoSirigatti">Cavaliere Sirigatti</persName>, ultimo fra noi che di
-                  Prospettiva pratica habbia scritto che in farne al <bibl>Capitolo 37.</bibl> la
+                  <bibl key="sirigattiPraticaDiProspettiva1596"> Prospettiva pratica</bibl> habbia scritto che in farne al Capitolo 37. la
                   sua dimostrazione, pare che molto stranamente si ingannassi, mentre non dubitò
                   proporre per sua pianta, figura tale che di diversi diametri si trova esser
                   capace, non potendo la rettangola settione delle linee piombanti dai dintorni del
                   globo, esser d'altra figura che circolare, e conseguentemente di un sol diametro
                   capace, come si dimostra da <persName ref="#Vitellion">Vitellione</persName> alla
-                  78. propositione del <bibl>quarto libro</bibl> et è noto per la proposizione de'
+                  78. propositione del <bibl key="VitellionisPerspectiva1401">quarto libro</bibl> et è noto per la proposizione de'
                   sferici d'<persName ref="#ApolloniosdePerga">Apollonio</persName>. E di sopra
                   habbiamo detto, per pianta non pretendesi altro da noi che un rappresentativo
                   disegno dei piombi di qualsivoglia assunto punto di un corpo, il cui centro
@@ -3131,7 +3130,7 @@
                   <hi rend="it"><hi rend="capitals">METTERE IN DISEGNO DI PROSPET</hi>tiva qualunque obietto,
                   mediante l'uso di uno Instrumento. Capitolo XV.</hi> </head>
                <p xml:id="ACC_IOP_L2_L2C15_P1">
-                  <figure type="lettrine"/><hi rend="capitals">PERCHÉ/hi> nel principio di questo
+                  <figure type="lettrine"/><hi rend="capitals">PERCHÉ</hi> nel principio di questo
                   nostro secondo libro fu esibita da noi la rimostranza di uno instrumento, mediante
                   il quale manualmente potesse ciascuno agevolmente, et sicuramente metter in
                   disegno di prospettiva ciascun obietto proposto, perciò ne dimostreremo
@@ -3347,7 +3346,7 @@
                   considerazioni ne' componimenti loro, secondo la diversità de' suggetti, e favole,
                   che si pigliano a rappresentare, (che dagl'antichi, et da <persName
                      ref="#Vitruve">Vitruvio</persName>
-                  <bibl>lib. 4.</bibl> cap. 8. ne sono stati lasciati particolari precetti che a
+                  <bibl key="vitruveArchitectura">lib. 4.</bibl> cap. 8. ne sono stati lasciati particolari precetti che a
                   questo nostro trattato non appartengono) ma anche nella struttura (che nell'unico
                   disegno perspettivo si appoggia) vi si devono molte avvertenze, alle quali ci
                   astrigne, et ci obliga la falsa piana costitutione <pb n="90"/>
@@ -3360,11 +3359,11 @@
                <figure type="schema"/>
                <p xml:id="ACC_IOP_L2_L2C18_P2"> Et prima, in questi propositi, nessuno si persuada,
                   come ha creduto il Cavaliere <persName ref="#LorenzoSirigatti">Lorenzo
-                     Sirigatti</persName> al cap. 43. di sua <bibl>pratica Prospettiva</bibl>, poter
+                     Sirigatti</persName> al cap. 43. di sua <bibl key="sirigattiPraticaDiProspettiva1596">pratica Prospettiva</bibl>, poter
                   disegnarsi una Scena sì fattamente che a più numero di Spettatori, per una certa
                   data linea, et dirittura l'un dopo l'altro disposti, onninamente obbedisca, et a
                   gl'occhi di molti concordi nelle sue totali parti <pb n="92"/> la cui falsa
-                  oppenione è contraria alla 20. et 39. del <bibl>quarto</bibl> di <persName
+                  oppenione è contraria alla 20. et 39. del <bibl key="VitellionisPerspectiva1401">quarto</bibl> di <persName
                      ref="#Vitellion">Vitellione</persName>. Impercioché sendo che ogni apparenza
                   delle Scene, dependa, et venga regolata dall'altezza, et lontananza dell'occhio,
                   tanto doverà esser l'angolo PSG, di sua figura, al capitolo sudetto, quanto sia per
@@ -3471,7 +3470,7 @@
                   <hi rend="capitals">DE LUMI ET OMBRE</hi>
                </head>
                <p xml:id="ACC_IOP_L3_S1_P1">
-                  <figure type="lettrine"/><hi rend="capitals">E <hi rend="it">così</hi> principal parte, e
+                  <figure type="lettrine"/><hi rend="capitals">E </hi><hi rend="it">così</hi> principal parte, e
                   fondamento dell'Arte del disegno, e della Pittura, la intelligenza de' lumi, e
                   dell'ombre; e cotanto rilievo, et momento gli arreca il giusto sbattimento sopra i
                   diversi piani, et superficie, che non sono mancati chi molto avvedutamente habbia
@@ -3508,11 +3507,11 @@
                   senso) con raggi fra di loro paralleli, et ogn'altro lume di fiaccola, et lucerna,
                   con raggi piramidali, ciò derivando dalla vicinanza dell'uno, et dall'immensa
                   distanza dell'altro, il che ha dimostrato <persName ref="#Vitellion"
-                     >Vitellione</persName> nel <bibl>secondo libro</bibl>, et potendo conoscersi,
+                     >Vitellione</persName> nel <bibl key="VitellionisPerspectiva1401">secondo libro</bibl>, et potendo conoscersi,
                   et intendersi da ciascuno, non ne faremo più aperta dimostrazione, ma daremo più
                   tosto il cominciamento a questo nostro presente trattato d'Ombre e di Lumi, co
                   l'espressione delle seguenti definitioni, e notizie, come termini di quest'Arte,
-                  per maggior intelligenza delle cose da dirsi. </p>
+                  per maggior intelligenza delle cose da dirsi.</p>
                <p xml:id="ACC_IOP_L3_S1_P2"> Corpo luminoso 
                      <reg>adunque</reg>
                   se stesso. </p>
@@ -3526,7 +3525,7 @@
                   di se stessa per il mezzo diafano. </p>
                <p xml:id="ACC_IOP_L3_S1_P7"> Lume primo è quel splendore che investendo superficie
                   di corpo opaco, lo illustra, e quella parte di esso illustrata, <persName
-                     ref="#Vitellion">Vitellione</persName> la chiamo perimetro, di lume </p>.
+                     ref="#Vitellion">Vitellione</persName> la chiamo perimetro, di lume. </p>
                <p xml:id="ACC_IOP_L3_S1_P8"> Lume secondo è quello che nasce dal sudetto splendore,
                   et parte illustrata del corpo opaco, come per esempio il splendore del Sole
                   entrato, per una finestra, si dirà lume primo, in quel luogo ove cade, dal quale
@@ -3548,7 +3547,7 @@
             </div2>
             <div2 type="section" xml:id="L3S2" n="2">
                <pb n="97"/>
-               <figure type="ornement"/></hi>
+               <figure type="ornement"/>
                <head>
                   <hi rend="capitals">DELLA PROSPETTIVA PRATICA DI <persName ref="#PietroAccolti"
                         >PIETRO ACCOLTI</persName></hi> Parte Terza. </head>
@@ -3559,7 +3558,7 @@
                      SUPERFICIE DI ESSO CON DIRITTO PROGRESSO.</hi> Capitolo. I.</hi> </head>
                <figure type="ornement"/>
                <p xml:id="ACC_IOP_L3_L3C1_P1">
-                  <figure type="lettrine"/><hi rend="capitals">PERCHÉ/hi> habbiamo detto, il corpo
+                  <figure type="lettrine"/><hi rend="capitals">PERCHÉ</hi> habbiamo detto, il corpo
                   luminoso esser diffusivo di se stesso, habbiamo ad intendere cotal sua diffusione
                   farsi, non solo dal centro, ma da ciascuna parte della superficie di esso corpo,
                   et per il diritto, con una densa, unita, innumerabile multiplicità di raggi, come
@@ -3584,7 +3583,7 @@
                   sono cagionate; le quali però sempre sono da circonstanti contigui, et constipanti
                   raggi luminosi, che le accompagnano, portate in istante. La causa di questa
                   momentanea azione del lume cerca di dare <persName ref="#Vitellion"
-                     >Vitellione</persName> alla propositione seconda del <bibl>libro secondo</bibl>,
+                     >Vitellione</persName> alla propositione seconda del <bibl key="VitellionisPerspectiva1401">libro secondo</bibl>,
                   la quale forse non è concludente, poiché il suo argumento, non è demonstrazione
                   ma paralogismo. </p>
                <p xml:id="ACC_IOP_L3_L3C2_P2"> Noi lasciando la questione di ciò al Filosofo, come
@@ -4487,7 +4486,7 @@
                   falsa dimostrazione di <persName ref="#Vitellion">Vitellione</persName>, non
                   posso, senza la confutazione di quanto egli ne ha lasciato scritto sopra <pb
                      n="117"/> di ciò, fermare in contrario il sudetto nostro sentimento, diverso da
-                  quello di lui alla proposizione 38. del <bibl>libro secondo</bibl>, ove egli
+                  quello di lui alla proposizione 38. del <bibl key="VitellionisPerspectiva1401">libro secondo</bibl>, ove egli
                   proferì con queste precise parole, questa infrascritta dottrina. </p>
                <p xml:id="ACC_IOP_L3_L3C17_P2">
                   <hi xml:lang="lat" rend="it">Per centrum circularis foraminis, Radio luminoso
@@ -4555,7 +4554,7 @@
                   compasso centro in L, intervallo ID,) passare la circonferenza sopra ciascun
                   termine della illuminazione D, O, E, N. Male adunque ha stimato <persName
                      ref="#Vitellion">Vitellione</persName> nelle due proposizioni 38. et 40. del
-                     <bibl>2. libro</bibl> proferendo respettivamente in esse: che se per un foro
+                  <bibl key="VitellionisPerspectiva1401">2. libro</bibl> proferendo respettivamente in esse: che se per un foro
                   circolare o quadrato passeranno obliquamente i raggi del Sole, o d'altro corpo
                   luminoso, cagionerà nel sottoposto parallelo piano una figura di illuminazione
                   tale che i loro diametri saranno ineguali, et il maggiore di essi sarà sempre
@@ -4598,8 +4597,8 @@
                   asse HF che ritiene ACB, intorno all'asse CH. Imperciò che facciasi nel cono AFB,
                   la rettangola sezione al suo asse, et questa sia NO, et perché tutte le coniche
                   sezioni non parallele fra di loro, sono di diversa figura (come per i
-                     <bibl>Conici</bibl> di <persName ref="#ApolloniosdePerga">Apollonio</persName>,
-                  proposizione decimaterza, et seguenti del <bibl>libro primo</bibl>) ne seguirà che
+                  <bibl key="apolloniosdepergaConiques">Conici</bibl> di <persName ref="#ApolloniosdePerga">Apollonio</persName>,
+                  proposizione decimaterza, et seguenti del libro primo) ne seguirà che
                   le due non parallele sezzioni AB, et NO, sieno parimente di figura fra loro
                   dissimile. Et perché la conica sezzione BA, è circolare, come chiaramente ce lo
                   dimostra l'<persName ref="#ApolloniosdePerga">istesso</persName> alla proposizione
@@ -4622,7 +4621,7 @@
                   caso sarà necessario proferire che tal cono sia non circolare intorno al suo asse,
                   ma ovato, et ellypsico, che tant'oltre non pare habbia specolato <persName
                      ref="#Vitellion">Vitellione</persName> et per questo ogni dottrina, che si cava
-                  dalle coniche sezioni da esso dimostrate nel <bibl>primo libro</bibl> propositiones 100.
+                  dalle coniche sezioni da esso dimostrate nel <bibl key="VitellionisPerspectiva1401">primo libro</bibl> propositiones 100.
                   et 102. per provare quanto impugniamo in proposito de' passaggi luminosi, non viene
                   applicabile alla dimostrazione, che di essi fa nella sudetta proposizione 38. et
                   41. del 20. ove tratta di sì fatti passaggi, et delle illuminazioni che si fanno
@@ -4723,7 +4722,7 @@
                   esser il luogo, ove posto, et collocato il lume, produrrà, et descriverà nel
                   sottoposto piano una figura di illuminazione circolare, il cui diametro sarà il
                   domandato CB. La Ragione di questa nostra dimostrazione depende tutta dalla 5.
-                  propositione de <bibl>Conici</bibl> di <persName ref="#ApolloniosdePerga"
+                  propositione de <bibl key="apolloniosdepergaConiques">Conici</bibl> di <persName ref="#ApolloniosdePerga"
                      >Apollonio</persName>, la quale noi così esamineremo. </p>
                <p xml:id="ACC_IOP_L3_L3C18_P3"> Dividasi in dua parti uguali il detto diametro CB,
                   in S, col qual centro, et intervallo, si descriva la circonferenza BIC, qual
@@ -5179,7 +5178,7 @@
                   perhiferia maggiore. Impercioché se alcuna figura tufferà, o piedi, o gamba
                   nell'acqua, deverà farsi apparire la parte tuffata maggiore al quanto, et più
                   grossa della parte, che riman fuori dell'acqua, così dimostra <persName
-                     ref="#Vitellion">Vitellione</persName> alla propositione 42. dell'<bibl>ultimo
+                     ref="#Vitellion">Vitellione</persName> alla propositione 42. dell'<bibl key="VitellionisPerspectiva1401">ultimo
                      libro</bibl> al quale ci rimettiamo, bastandoci haverne soltanto accennato in
                   materia al Pittore tanto pellegrina. </p>
             </div2>
