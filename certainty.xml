@@ -114,8 +114,8 @@
 
     <Alberti_Bartoli_Architettura>
         <certainty xml:id="TempleLetoRome" locus="value">
-            <desc>Alberti nomme ce monument <objectName>Temple de Léto</objectName> mais d'après
-                la description qu'il en fait il semblerait que ce soit plutôt la <objectName
+            <desc>Alberti nomme ce monument <objectName>Temple de Léto</objectName> mais d'après la
+                description qu'il en fait il semblerait que ce soit plutôt la <objectName
                     ref="#BasiliqueDeMaxenxeConstantinRome">Basilique de Maxence et
                     Constantin</objectName><bibl key="albertileonbattistaLarchitettura1989"
                 />.</desc>
@@ -136,9 +136,28 @@
                     Médicis</objectName> ou encore pour le <objectName ref="StudioloCosmeIMedicis"
                     >studiolo de Cosme Ier de Médicis</objectName>. </desc>
         </certainty>
-        <certainty xml:id="MaitreBlort" locus="value"> <desc> Il est probable que De Piles fasse ici référence à <persName ref="#AbrahamBloemaert">Abraham Bloemaert</persName> mais l'orthographe du nom ayant varié au cours de la rédaction, cela demeure une supposition. </desc>
+        <certainty xml:id="MaitreBlort" locus="value">
+            <desc> Il est probable que De Piles fasse ici référence à <persName
+                    ref="#AbrahamBloemaert">Abraham Bloemaert</persName> mais l'orthographe du nom
+                ayant varié au cours de la rédaction, cela demeure une supposition. </desc>
         </certainty>
-        <certainty xml:id="PeterLelyAnglois" locus="value"> <desc> Il est possible que De Piles fasse ici référence à <persName ref="#PeterLely">Peter Lely</persName>.</desc></certainty>
-        
+        <certainty xml:id="PeterLelyAnglois" locus="value">
+            <desc> Il est possible que De Piles fasse ici référence à <persName ref="#PeterLely"
+                    >Peter Lely</persName>.</desc>
+        </certainty>
+        <certainty xml:id="DoublePortraitSaskiaRembrandt" locus="value">
+            <desc> L'on ne sait pas si De Piles fait ici référence à un double portrait. Il existe
+                néanmoins un <objectName ref="RembrandtAutoportraitAvecSaskiaRijksmuseum">portrait
+                    gravé des époux</objectName> que l'on signale donc.</desc>
+        </certainty>
+
     </Piles_Abrege_Peintres>
+
+    <Accolti_Inganno_Occhi_Prospettiva>
+        <certainty xml:id="LaurentIIDeMedicis" locus="value">
+            <desc>Il est possible que Accolti fasse ici référence à <persName
+                    ref="#LaurentIIDeMedicis">Lorenzo II De Medici</persName> et pas à Giovanni De
+                Medici.</desc>
+        </certainty>
+    </Accolti_Inganno_Occhi_Prospettiva>
 </textes>
