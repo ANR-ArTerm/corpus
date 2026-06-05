@@ -2,82 +2,97 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
     <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title xml:lang="fra">L'architettura tradotta in lingua fiorentina da Cosimo Bartoli, con la aggiunta de disegni</title>
-        <respStmt>
-          <name>Emma Bondoerffer</name>
-          <resp>Structuration</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anaïs Mazoué</name>
-          <resp>Balisage, Indexation</resp>
-        </respStmt>
-        <respStmt>
-          <name>Carla Tricon</name>
-          <resp>Identification des œuvres</resp>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>ArTerm</publisher>
-        <pubPlace>Paris</pubPlace>
-        <date when="2028">2028</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>ATIR<author ref="http://ark.bnf.fr/ark:/12148/cb125520809">Bartoli<idno type="ISNI">http://isni.org/isni/0000000122811371</idno>
-          </author>
-          <title xml:lang="fra">L'architettura tradotta in lingua fiorentina da Cosimo Bartoli, con la aggiunta de disegni</title>
-          <publisher>Lorenzo Torrentino</publisher>
-          <pubPlace>Florence</pubPlace>
-          <date when="1550">1550</date>
-        </bibl>
-        <msDesc>
-          <msIdentifier>
-            <country />
-            <settlement ref="#" />
-            <institution />
-            <repository />
-            <idno type="USTC">https://www.ustc.ac.uk/editions/808305</idno>
-          </msIdentifier>
-        </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
-      </projectDesc>
-      <editorialDecl>
-        <correction status="medium" method="silent">
-          <p>édition complète</p>
-        </correction>
-        <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
-        </normalization>
-        <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
-        </punctuation>
-        <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettre + preface) + body (10 livres avec chapitres)</p>
-        </segmentation>
-        <hyphenation eol="none" />
-        <stdVals>
-          <p>Norme ISO-8601 pour les dates</p>
-        </stdVals>
-      </editorialDecl>
-      <p />
-    </encodingDesc>
-    <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
-    </profileDesc>
-  </teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="fra">L'architettura tradotta in lingua fiorentina da Cosimo
+                    Bartoli, con la aggiunta de disegni</title>
+                <respStmt>
+                    <name>Emma Bondoerffer</name>
+                    <resp>Structuration</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Anaïs Mazoué</name>
+                    <resp>Balisage, Indexation</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Carla Tricon</name>
+                    <resp>Identification des œuvres</resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>ArTerm</publisher>
+                <pubPlace>Paris</pubPlace>
+                <date when="2028">2028</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm
+                        Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>ATIR<author ref="http://ark.bnf.fr/ark:/12148/cb125520809">Bartoli<idno
+                            type="ISNI">http://isni.org/isni/0000000122811371</idno>
+                    </author>
+                    <title xml:lang="fra">L'architettura tradotta in lingua fiorentina da Cosimo
+                        Bartoli, con la aggiunta de disegni</title>
+                    <publisher>Lorenzo Torrentino</publisher>
+                    <pubPlace>Florence</pubPlace>
+                    <date when="1550">1550</date>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country/>
+                        <settlement ref="#"/>
+                        <institution/>
+                        <repository/>
+                        <idno type="USTC">https://www.ustc.ac.uk/editions/808305</idno>
+                    </msIdentifier>
+                </msDesc>
+                <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes
+                    de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de
+                    traduction des théories des arts d'une langue à l'autre et des transferts
+                    linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire
+                    franco-italien du patrimoine artistique.</p>
+            </projectDesc>
+            <editorialDecl>
+                <correction status="medium" method="silent">
+                    <p>édition complète</p>
+                </correction>
+                <normalization method="silent">
+                    <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des
+                        ponctuations et accentuations ont été normalisées en suivant les règles de
+                        typographies du 20è siècle.</p>
+                </normalization>
+                <punctuation marks="some">
+                    <p>En français, les point-virgules ont souvent été transformés en virgules ou en
+                        point, le reste des ponctuations ont été conservées comme dans les imprimés
+                        de référence. En italien, les ponctuations ont pu être retravaillées pour
+                        fluidifier la lecture.</p>
+                </punctuation>
+                <segmentation>
+                    <p>Les paragraphes sont indiqués dans des balises p, enfant de balises
+                        div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettre
+                        + preface) + body (10 livres avec chapitres)</p>
+                </segmentation>
+                <hyphenation eol="none"/>
+                <stdVals>
+                    <p>Norme ISO-8601 pour les dates</p>
+                </stdVals>
+            </editorialDecl>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+            <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+        </profileDesc>
+    </teiHeader>
     <text>
         <front>
             <titlePage>
@@ -2058,7 +2073,7 @@
                         private memorie si ricerca la Modestia, et nelle publice la Magnificentia.
                         Le publiche anchora sono alcuna volta lodate per essere modeste come le
                         private. Noi lodiamo et ci maravigliamo del <objectName
-                            ref="#PortiquePompeeRome">Teatro di Pompeio</objectName>, per la egregia
+                            ref="#PorticoPompeoRome">Teatro di Pompeio</objectName>, per la egregia
                         grandezza et dignità della opera. Edifitio degno veramente di <persName
                             ref="#Pompee">Pompeo</persName>, et di <placeName ref="#Rome"
                             >Roma</placeName> Vittoriosa. Ma la pazzia dello edificare di <persName
@@ -9170,32 +9185,33 @@
                         solo; questo certo arrecherebbe all'opera maraviglia non piccola; et tanto
                         più se il sasso fosse forestiero, et condotto per cammino difficile, come
                         quello, che descrive <persName ref="#Herodote">Erodoto</persName> essere
-                        stato condotto dalla <placeName>Città Elefantina</placeName>, largo in
-                        faccia più di quindici braccia, alto undici et un quarto, condotto in
-                        termine di Venti giorni fino a Sui. E cosa appartenente ancora egregiamente
-                        al genere degli adornamenti, che qual'si voglia Pietra degna di ammiratione
-                        sia posta in luogo nobile et honorato; A <placeName>Chemmin</placeName>
-                        Isola in <placeName ref="#Egypte">Egitto</placeName>, quel
-                            <objectName>Tempietto</objectName>, che vi è non è tanto maraviglioso
-                        per essere coperto d'una pietra d'un solo pezzo quanto per essere detta
-                        pietra di cotanti cubiti, posta sopra mura di cotanta altezza; Arrecherà
-                        ancora ornamento lo essere detta pietra rara et eccellente; come verbigratia
-                        se ella fusse di quella spetie di marmi che sono puri, candidi et
-                        trasparenti; di modo che serrate tutte le porte paia che dentro vi sia
-                        rinchiusa la luce, della qual'sorte dicono che <hi rend="capitals"><persName
-                                ref="#Neron">NERONE</persName></hi> fece nel suo <objectName>Aureo
-                            Palazzo</objectName> il <objectName>tempio della Fortuna</objectName>.
-                        Tutte queste cose finalmente faranno bene, ma qualunque elle sieno, saranno
-                        cose inette, se nel comporle insieme non si userà ordine, et modo più che
-                        diligente; con ciò sia che ciascuna di loro si ha a ridurre a numero, di
-                        maniera che le pari corrispondino alle pari, le da destra, a quelle da
-                        sinistra; le da basso, a quelle da alto; non vi intraponendo cosa alcuna,
-                        che perturbi, o le cose, o gli ordini; aggiustando tutte le cose a
-                        determinati angoli, con linee simili et uguali. Puossi certamente vedere che
-                        alcuna volta, una materia ignobile per essere maneggiata con arte, arreca
-                        seco più gratia, che una nobile in altro luogo confusamente ammassata. Chi
-                        direbbe mai che quel <objectName>muro di <placeName ref="#Athenes"
-                                >Atene</placeName></objectName>, che <persName ref="#Thucydide"
+                        stato condotto dalla <placeName ref="#IleElephantine">Città
+                            Elefantina</placeName>, largo in faccia più di quindici braccia, alto
+                        undici et un quarto, condotto in termine di Venti giorni fino a Sui. E cosa
+                        appartenente ancora egregiamente al genere degli adornamenti, che qual'si
+                        voglia Pietra degna di ammiratione sia posta in luogo nobile et honorato; A
+                            <placeName>Chemmin</placeName> Isola in <placeName ref="#Egypte"
+                            >Egitto</placeName>, quel <objectName>Tempietto</objectName>, che vi è
+                        non è tanto maraviglioso per essere coperto d'una pietra d'un solo pezzo
+                        quanto per essere detta pietra di cotanti cubiti, posta sopra mura di
+                        cotanta altezza; Arrecherà ancora ornamento lo essere detta pietra rara et
+                        eccellente; come verbigratia se ella fusse di quella spetie di marmi che
+                        sono puri, candidi et trasparenti; di modo che serrate tutte le porte paia
+                        che dentro vi sia rinchiusa la luce, della qual'sorte dicono che <hi
+                            rend="capitals"><persName ref="#Neron">NERONE</persName></hi> fece nel
+                        suo <objectName ref="#DomusAureaRome">Aureo Palazzo</objectName> il
+                            <objectName>tempio della Fortuna</objectName>. Tutte queste cose
+                        finalmente faranno bene, ma qualunque elle sieno, saranno cose inette, se
+                        nel comporle insieme non si userà ordine, et modo più che diligente; con ciò
+                        sia che ciascuna di loro si ha a ridurre a numero, di maniera che le pari
+                        corrispondino alle pari, le da destra, a quelle da sinistra; le da basso, a
+                        quelle da alto; non vi intraponendo cosa alcuna, che perturbi, o le cose, o
+                        gli ordini; aggiustando tutte le cose a determinati angoli, con linee simili
+                        et uguali. Puossi certamente vedere che alcuna volta, una materia ignobile
+                        per essere maneggiata con arte, arreca seco più gratia, che una nobile in
+                        altro luogo confusamente ammassata. Chi direbbe mai che quel
+                            <objectName>muro di <placeName ref="#Athenes"
+                            >Atene</placeName></objectName>, che <persName ref="#Thucydide"
                             >Tucidide</persName> racconta che fu fatto<pb n="171"/> tanto
                         tumultuariamente che vi messono sino alle statue levate da Sepolchri, fusse
                         per tal'caso bello? Cioè per essere pieno di strage di statue? Così per il
@@ -9224,786 +9240,928 @@
                         cose.</p>
                 </div2>
                 <div2 type="chapitre" n="6" xml:id="L6C6">
-                    <head> Con che modi le Macchine, et i pesi de grandissimi sassi si muouino da
-                        luogo a luogo, o si sollievino in alto. Cap. VI. </head>
-                    <p xml:id="BAR_A_L6_L6C6_P1">Di questi habbiamo a trattare, quali e'sieno, et
-                        come fatti, ma da che noi habbiamo detto del muovere le pietre grandissime,
-                        questo luogo ne avuertisce, che noi raccontiamo prima in che modo tanto
-                        gran'macchine si muouino, et in che modo, elle si ponghino in luoghi
-                        difficilissimi. Scrive <persName ref="#Plutarque">Plutarco</persName> che
-                            <persName ref="#Archimede">Archimede</persName> in Siracusa tirava per
-                        mezzo la piazza una Nave da carico carica, con la mano, quasi come
-                        un'Cavallo per la briglia, ingegno Matematico, Ma noi andremo solamente
-                        dietro a quelle cose, che si accommodino a bisogni. Dipoi ne dichiareremo
-                        alcune altre, onde i Dotti et acuti ingegni potranno da per loro senza
-                        oscurità conoscere questa tal'cosa. Io truovo che <persName ref="#Pline"
-                            >Plinio</persName> dice che la Aguglia condotta a Tebe da Fenice, fu
-                        condotta per una fossa tirata dal <placeName ref="#Nil">Nilo</placeName>,
-                        messa detta Aguglia sopra Navilii carichi di Zavorra, accio che scaricata
-                        dipoi detta Zavorra, portasse via il sollevato peso. Truovo in Ammiano
-                        Marcellino una Aguglia essere stata condotta per il <placeName ref="#Nil"
-                            >Nilo</placeName> con una Nave di trecento remi, et posta sopra curri
-                        presso a <placeName ref="#Rome">Roma</placeName> a tre miglia, essere stata
-                        tirata in Circo Massimo per la porta che và ad Hostia; et che nel rizzarla
-                        durarono fatica, parecchi migliaia di huomini, essendo tutto il Circo
-                        ripieno di instrumenti di grandissime Travi, et di canapi grossissimi.
-                        Leggiamo in <persName ref="#Vitruve">Vitruvio</persName> che Ctesifone et
-                        Metageno suo figlivolo condussono in <placeName ref="#Ephese"
-                            >Efeso</placeName> colonne et architravi preso il modo dal Cilindro, con
-                        il quale gli Antichi insegnavano pareggiare il terreno, conciosia che egli
-                        impiombò in ciascuna delle teste delle Pietre un'perno di ferro, che vsciva
-                        fuori, et seruiva per fuso, et messe ne detti perni di quà et di là alcune
-                        ruote tanto grandi, et tanto larghe, che dette pietre stavano sollevate
-                        sopra di essi perni; Dipoi col girare delle ruote furono smosse et portate
-                        via. Dicono che Chemminio Egittio nel far'la Piramide per essere opera alta
-                        piu di sei ottavi di miglio, condusse quelle Pietre grandissime l'una sopra
-                        l'altra con haverui fatti di mano in mano monti di Terreno. Scrive Erodoto
-                        che Cleopa figlivolo di Rasinite haveva lasciato dal lato di fuori in quella
-                        Piramide, nel far'della quale affaticò molti anni Centomila huomini certi
-                        gradi, su per i quali con piccoli legni, et instrumenti accommodati,
-                        facilmente si conducevano le grandissime pietre. Trovasi scritto ancora
-                        oltra di questo che in alcuni luoghi furono sopra grandissime Colonne posti
-                        Architravi di pietra di smirata grandezza in questo modo; sotto detti
-                        Architravi, apunto nel mezo vi mettevano duoi baggioli a traverso, che si
-                        toccavano l'un l'altro, Dipoi all'una delle teste de gli Architravi
-                        appiccarono una moltitudine di ceste piene di rena, per lo aggravo, et per
-                        il peso delle quali l'altra testa ove non erano ceste si sollevasse alla
-                        Aria, et l'altro baggiolo ne restava senza peso alcuno; levate quindi poi le
-                        ceste, et messe all'altra testa gia sollevata, in gran'quantita, havendo
-                        prima però alzato il baggiolo, che era senza peso, mettendoui sopra da
-                        quel'lato che si poteva altri baggioli piu alti; et così seguendo a vicenda
-                        venne lor'fatto che quasi a poco apoco detta pietra vi salisse da sua posta.
-                        Queste cose raccolte così insieme sotto brevità lasciamo noi che si possino
-                        imparare piu adilungo da essi Autori. Finalmente secondo l'ordine dell'opera
-                        nostra, e'bisogna raccontare succintamente alcune poche cose, che fanno a
-                        nostro proposito. Ne vò perder'tempo in raccontare che il peso ha da natura
-                        lo aggravare sempre, et che ostinatamente vadia cercando de luoghi piu
-                        bassi, et che con tutto il suo potere contrasti di non si lasciare alzare,
-                        ne si muti mai di luogo se non come Vincitore, o superato da un'peso
-                        maggiore, o da alcuna possanza contraria che lo vinca. Ne starò a raccontare
-                        che i mouimenti sieno varii cioè da basso ad alto; da alto a basso; et
-                        allintorno del centro; et altre cose essere portate altre tirate; altre
-                        spinte et simili; di questi discorsi ne tratteremo altrove piu alungo.
-                        Teniamo pur'noi questo per fermo, che i pesi non si muovono mai in
-                        alcun'luogo, piu facilmente che quando vanno allo ingiù; percio che vi vanno
-                        spontanamente; ne mai piu difficilmente, che quando vanno allo insu, percio
-                        che di lor'natura acciò repugnano; et che egli è un'certo mouimento mezzano
-                        infra questi, et forse che terrà del uno et dello altro, il qual'certo non
-                        si muove di sua natura, ne anco contradice all'obbedire, sì come è quando i
-                        pesi si muovano a piano, et per vie non impedite. Tutti gli altri mouimenti,
-                        che sono piu vicini, o a questi, o a quelli, sono, o tanto piu facili, o
-                        tanto piu difficili. Ma in che modo i grandissimi pesi si possino muovere
-                        pare che la stessa natura delle cose in gran'parte l'habbia dimostro. Però
-                        che e'si può vedere che i grandissimi pesi che si pongono sopra una ritta
-                        colonna sono perturbati da piccola percossa, et quando e'cominciano a
-                        muoversi per cadere, non si possono con forza alcuna ritenere. Puossi
-                        ancor'vedere che esse colonne tonde, et le ruote, et le altre cose da girare
-                        son'facili a muoversi, et maluolentieri si fermano se cominciano a rotolare,
-                        et se si tirono di maniera che non ruotolino, non camminano così facilmente.
-                        Oltra di questo si vede manifesto che i grandissimi pesi delle Navi si
-                        muovono sopra l'acque ferme con poco spignerle se tu continoui di tirarle;
-                        Ma se tu le percoterai di qual'si voglia grandissimo colpo non si moveranno
-                        così subito, come vorresti. Et per il contrario con un'subito colpo, et con
-                        una furiosa spinta si muovono alcune cose, che giamai senza una
-                        straordinaria forza di pesi grandissimi si sariano possute muovere. Sopra il
-                        diaccio ancora i grandissimi pesi non repugnano a chi gli tira. Veggiamo
-                        ancora che quelle cose, che pendono da un'lungo canapo per alquanto di
-                        spatio son'pronte ad esser'mosse. Il considerare le ragioni di queste cose,
-                        et lo imitarle farà a proposito, noi ne tratteremo succintamente. Bisogna
-                        che il disotto del peso sia saldissimo et vguale, et quanto e'sarà piu largo
-                        tanto manco consumerà il piano ordinatoli sotto, ma quanto, e'sarà piu
-                        sottile tanto sarà piu espedito, vero è che e'farà solchi nel piano, et
-                        affonderavui, se nel disotto del peso vi saranno angoli, sene seruirà come
-                        di vgnoni ad afferrarsi nel piano, et a resistere al viaggio. Se i piani
-                        saranno lisci, gagliardi, vguali, forti, non pendendo da alcun'lato, nostr
-                        si alzando da alcun'altro, non affondando da alcun'lato, che impedisca,
-                        quel'peso certamente non harà cosa alcuna che li contrasti, o per il che
-                        recusi di obbedire eccetto questa sola cosa, cioè che esso peso di sua
-                        natura è grandissimo amico della quiete, et però tardo et lento.
-                        Considerando forse <persName ref="#Archimede">Archimede</persName> a simili
-                        cose, et esaminando piu profondamente la forza delle cose, che noi habbiamo
-                        dette, fu indotto a dire, che se e'si trovasse basa di tanta gran'macchina,
-                        che gli darebbe il cuore di tramutare il Mondo. Lo ordinare il fondo del
-                        peso, et il piano sopra a che si ha a tirare, il che noi qui cerchiamo ci
-                        verrà fatto commodamente. Distendinsi Travi tante, et tanto grosse, et tanto
-                        gagliarde, che sieno bastanti al peso, salde, vguali, lisce congiunte pari
-                        insieme; infra il fondo et il piano, vi è di bisogno d'un'certo che di mezo,
-                        che faccia il cammino piu lubrico, il che si fa con sapone, o con sevo, o
-                        con morchia, o forse con belletta. Ecci ancora un'altro modo di fare il
-                        canmino lubrico, cioè con curri messivi sotto a traverso, i quali se in
-                        questo luogo saranno assai, difficilmente si acconcieranno diritti, a linee
-                        vguali et determinate al disegnato viaggio; il che è di necessità che si
-                        faccia, accio non dieno noia, et non conduchino il peso a l'una delle bande;
-                        Ma che ad una sola spinta faccino tutti bene l'offitio loro. Et se e'saranno
-                        pochi, certo che durando sotto il peso fattica, o si consumeranno, o
-                        stiacciatisi si fermeranno, o vero con quella una sola linea con la quale
-                        toccono il fondo del peso, si ficheranno et si fermeranno quasi come
-                        un'taglio nel peso, o nel piano. Il curro è conposto di piu cerchi congiunti
-                        insieme, et i Mathematici dicono che il cerchio non può toccare una linea
-                        retta piu che in un'punto, per questo chiamo io taglio del Curro quella
-                        linea sola del curro che dal peso è aggravata; a questi curri si provederà
-                        bene se si torrà legnami sodi, serrati, et con il disegnare et dirizzare le
-                        linee secondo la squadra. </p>
+                    <head rend="it">Con che modi le Macchine, et i pesi dei grandissimi sassi si
+                        muovino da luogo a luogo, o si sollievino in alto. Cap. VI. </head>
+                    <p xml:id="BAR_A_L6_L6C6_P1"><hi rend="capitals">DI</hi> questi habbiamo a
+                        trattare, quali <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> sieno, et come fatti, ma da che noi habbiamo detto del muovere le
+                        pietre grandissime, questo luogo ne avvertisce, che noi raccontiamo prima in
+                        che modo tanto grandi macchine si muovino, et in che modo, elle si ponghino
+                        in luoghi difficilissimi. Scrive <persName ref="#Plutarque"
+                            >Plutarco</persName> che <persName ref="#Archimede">Archimede</persName>
+                        in <placeName ref="#Syracuse">Siracusa</placeName> tirava per mezzo la
+                        piazza una Nave da carico carica, con la mano, quasi come un Cavallo per la
+                        briglia, ingegno Matematico, Ma noi andremo solamente dietro a quelle cose,
+                        che si accommodino ai bisogni. Di poi ne dichiareremo alcune altre, onde i
+                        Dotti et acuti ingegni potranno da per loro senza oscurità conoscere questa
+                        tal'cosa. Io truovo che <persName ref="#Pline">Plinio</persName> dice che la
+                        Aguglia condotta a <placeName ref="#Thebes">Tebe</placeName> da
+                            <persName>Fenice</persName>, fu condotta per una fossa tirata dal
+                            <placeName ref="#Nil">Nilo</placeName>, messa detta Aguglia sopra Navili
+                        carichi di Zavorra, acciò che scaricata di poi detta Zavorra, portasse via
+                        il sollevato peso. Truovo in <persName ref="#AmmienMarcellin">Ammiano
+                            Marcellino</persName> una Aguglia essere stata condotta per il
+                            <placeName ref="#Nil">Nilo</placeName> con una Nave di trecento remi, et
+                        posta sopra curri presso a <placeName ref="#Rome">Roma</placeName> a tre
+                        miglia, essere stata tirata in <objectName ref="#CircusMaximusRome">Circo
+                            Massimo</objectName> per la porta che và ad <placeName
+                            ref="#OstieAntique">Hostia</placeName>; et che nel rizzarla durarono
+                        fatica, parecchi migliaia di huomini, essendo tutto il Circo ripieno di
+                        instrumenti di grandissime Travi, et di canapi grossissimi. Leggiamo in
+                            <persName ref="#Vitruve">Vitruvio</persName> che
+                            <persName>Ctesifone</persName> et <persName>Metageno</persName> suo
+                        figliuolo condussono in <placeName ref="#Ephese">Efeso</placeName> colonne
+                        et architravi preso il modo dal Cilindro, con il quale gli Antichi
+                        insegnavano pareggiare il terreno, con ciò sia che egli impiombò in ciascuna
+                        delle teste delle Pietre un perno di ferro, che usciva fuori, et serviva per
+                        fuso, et messe nei detti perni di qua et di là alcune ruote tanto grandi, et
+                        tanto larghe, che dette pietre stavano sollevate sopra di essi perni; Di poi
+                        col girare delle<pb n="172"/> ruote furono smosse et portate via. Dicono che
+                            <persName>Chemminio</persName> Egittio nel fare la Piramide per essere
+                        opera alta più di sei ottavi di miglio, condusse quelle Pietre grandissime
+                        l'una sopra l'altra con havervi fatti di mano in mano monti di Terreno.
+                        Scrive <persName ref="#Herodote">Erodoto</persName> che
+                            <persName>Cleopa</persName> figliuolo di <persName>Rasinite</persName>
+                        haveva lasciato dal lato di fuori in quella Piramide, nel fare della quale
+                        affaticò molti anni Centomila huomini certi gradi, su per i quali con
+                        piccoli legni, et instrumenti accommodati, facilmente si conducevano le
+                        grandissime pietre. Trovasi scritto ancora oltra di questo che in alcuni
+                        luoghi furono sopra grandissime Colonne posti Architravi di pietra di
+                        smirata grandezza in questo modo; sotto detti Architravi, apunto nel mezo vi
+                        mettevano duoi baggioli a traverso, che si toccavano l'un l'altro, Di poi
+                        all'una delle teste degli Architravi appiccarono una moltitudine di ceste
+                        piene di rena, per lo aggravo, et per il peso delle quali l'altra testa ove
+                        non erano ceste si sollevasse alla Aria, et l'altro baggiolo ne restava
+                        senza peso alcuno; levate quindi poi le ceste, et messe all'altra testa già
+                        sollevata, in grande quantità, havendo prima però alzato il baggiolo, che
+                        era senza peso, mettendovi sopra da quel'lato che si poteva altri baggioli
+                        più alti; et così seguendo a vicenda venne loro fatto che quasi a poco a
+                        poco detta pietra vi salisse da sua posta. Queste cose raccolte così insieme
+                        sotto brevità lasciamo noi che si possino imparare più adilungo da essi
+                        Autori. Finalmente secondo l'ordine dell'opera nostra, e'bisogna raccontare
+                        succintamente alcune poche cose, che fanno a nostro proposito. Né vo perdere
+                        tempo in raccontare che il peso ha da natura lo aggravare sempre, et che
+                        ostinatamente vadia cercando dei luoghi più bassi, et che con tutto il suo
+                        potere contrasti di non si lasciare alzare, né si muti mai di luogo se non
+                        come Vincitore, o superato da un peso maggiore, o da alcuna possanza
+                        contraria che lo vinca. Ne starò a raccontare che i movimenti sieno vari
+                        cioè da basso ad alto; da alto a basso; et all'intorno del centro; et altre
+                        cose essere portate altre tirate; altre spinte et simili; di questi discorsi
+                        ne tratteremo altrove più a lungo. Teniamo pure noi questo per fermo, che i
+                        pesi non si muovono mai in alcun'luogo, più facilmente che quando vanno allo
+                        ingiù; perciò che vi vanno spontanamente; né mai più difficilmente, che
+                        quando vanno allo insu, perciò che di loro natura acciò repugnano; et che
+                        egli è un certo movimento mezzano infra questi, et forse che terrà del uno
+                        et dello altro, il qual'certo non si muove di sua natura, né anco contradice
+                        all'obbedire, sì come è quando i pesi si muovano a piano, et per vie non
+                        impedite. Tutti gli altri movimenti, che sono più vicini, o a questi, o a
+                        quelli, sono, o tanto più facili, o tanto più difficili. Ma in che modo i
+                        grandissimi pesi si possino muovere pare che la stessa natura delle cose in
+                        gran'parte l'habbia dimostro. Però che e'si può vedere che i grandissimi
+                        pesi che si pongono sopra una ritta colonna sono perturbati da piccola
+                        percossa, et quando <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> cominciano a muoversi per cadere, non si possono con forza alcuna
+                        ritenere. Puossi ancora vedere che esse colonne tonde, et le ruote, et le
+                        altre cose da girare sono facili a muoversi, et malvolentieri si fermano se
+                        cominciano a rotolare, et se si tirono di maniera che non ruotolino, non
+                        camminano così facilmente. Oltra di questo si vede manifesto che i
+                        grandissimi pesi delle Navi si muovono sopra le acque ferme con poco
+                            spignerle<pb n="173"/> se tu continoui di tirarle; Ma se tu le
+                        percoterai di qual'si voglia grandissimo colpo non si moveranno così subito,
+                        come vorresti. Et per il contrario con un subito colpo, et con una furiosa
+                        spinta si muovono alcune cose, che giamai senza una straordinaria forza di
+                        pesi grandissimi si sariano possute muovere. Sopra il diaccio ancora i
+                        grandissimi pesi non repugnano a chi gli tira. Veggiamo ancora che quelle
+                        cose, che pendono da un lungo canapo per alquanto di spatio sono pronte ad
+                        essere mosse. Il considerare le ragioni di queste cose, et lo imitarle farà
+                        a proposito, noi ne tratteremo succintamente. Bisogna che il disotto del
+                        peso sia saldissimo et uguale, et quanto <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> sarà più largo tanto manco consumerà il piano ordinatoli sotto, ma
+                        quanto, <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> sarà più sottile tanto sarà più espedito, vero è che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> farà solchi nel piano, et affonderavvi, se nel disotto del peso vi
+                        saranno angoli, se ne servirà come di ugnoni ad afferrarsi nel piano, et a
+                        resistere al viaggio. Se i piani saranno lisci, gagliardi, uguali, forti,
+                        non pendendo da alcun lato, npn si alzando da alcun altro, non affondando da
+                        alcun lato, che impedisca, quel peso certamente non harà cosa alcuna che li
+                        contrasti, o per il che recusi di obbedire eccetto questa sola cosa, cioè
+                        che esso peso di sua natura è grandissimo amico della quiete, et però tardo
+                        et lento. Considerando forse <persName ref="#Archimede">Archimede</persName>
+                        a simili cose, et esaminando più profondamente la forza delle cose, che noi
+                        habbiamo dette, fu indotto a dire, che se <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> si trovasse basa di tanta grande macchina, che gli darebbe il
+                        cuore di tramutare il Mondo. Lo ordinare il fondo del peso, et il piano
+                        sopra a che si ha a tirare, il che noi qui cerchiamo ci verrà fatto
+                        commodamente. Distendinsi Travi tante, et tanto grosse, et tanto gagliarde,
+                        che sieno bastanti al peso, salde, uguali, lisce congiunte pari insieme;
+                        infra il fondo et il piano, vi è di bisogno d'un certo che di mezo, che
+                        faccia il cammino più lubrico, il che si fa con sapone, o con sevo, o con
+                        morchia, o forse con belletta. Ecci ancora un altro modo di fare il canmino
+                        lubrico, cioè con curri messivi sotto a traverso, i quali se in questo luogo
+                        saranno assai, difficilmente si acconcieranno diritti, a linee uguali et
+                        determinate al disegnato viaggio; il che è di necessità che si faccia, acciò
+                        non dieno noia, et non conduchino il peso a l'una delle bande; Ma che ad una
+                        sola spinta faccino tutti bene l'offitio loro. Et se <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> saranno pochi, certo che durando sotto il peso fattica, o si
+                        consumeranno, o stiacciatisi si fermeranno, o vero con quella una sola linea
+                        con la quale toccono il fondo del peso, si ficheranno et si fermeranno quasi
+                        come un taglio nel peso, o nel piano. Il curro è composto di più cerchi
+                        congiunti insieme, et i Mathematici dicono che il cerchio non può toccare
+                        una linea retta più che in un punto, per questo chiamo io taglio del Curro
+                        quella linea sola del curro che dal peso è aggravata; a questi curri si
+                        provederà bene se si torrà legnami sodi, serrati, et con il disegnare et
+                        dirizzare le linee secondo la squadra. </p>
                 </div2>
                 <div2 type="chapitre" n="7" xml:id="L6C7">
-                    <head> Delle Ruote, Perni, Stanghe, o Manovelle, Taglie et della grandezza,
-                        forma, et figura loro. Cap. VII. </head>
-                    <p xml:id="BAR_A_L6_L6C7_P1">Ma essendoci oltre a queste molte altre cose, buone
-                        a bisogni nostri come sono Ruote, Taglie, Viti, et Stanghe, douiamo di esse
-                        trattare piu accuratamente. Sono certamente le Ruote in gran'parte molto
-                        simili a Curri, percio che sempre da un'sol'punto a piombo premono allo
-                        ingiù; Ma ecci questa differentia che i curri sono piu espediti, et le ruote
-                        per l'infragneruisi dentro il perno, fanno lo offitio loro piu tardo. Le
-                        parti de le Ruote sono tre, il circuito maggiore di fuori di essa ruota, il
-                        Perno del mezzo, et quel'buco, dove entra il Perno. Questo Perno alcuni
-                        forse lo chiameranno il polo, ma a noi percio che egli in alcuni instrumenti
-                        sta saldo, et in alcuni altri si gira, sia lecito il chiamarlo Perno. Se la
-                        Ruota si girerà sopra uno Perno grosso, si girerà con fatica; se intorno ad
-                        un'sottile non reggerà a pesi, se il circuito di fuori di essa ruota sarà
-                        stretto, sì come dicemmo de Curri si ficcherà nel piano; se sarà largo,
-                        andrà vagellando hor da una parte, et hora dall'altra; et se per avuentura
-                        le ruote si haranno a suolgere, o da destra, o da sinistra, obbediranno
-                        malagevolmente; se il cerchio in che si gira il Perno sarà largo piu che il
-                        bisogno, rodendo egli sen'esce, se troppo stretto, non gira, infra il Perno,
-                        et il Cerchio in che ei si volge bisogna che sia un'mezzano che lo lubrichi,
-                        perché l'uno di questi serue per il piano et l'altro per il fondo del peso.
-                        I Curri et le Ruote si fanno d'olmo, et di leccio, I Perni d'Agrifoglio et
-                        di Corniolo, o piu presto di Ferro, il miglior'cerchio di tutti gli altri in
-                        cui si gira il Perno, si fa di Rame mescolatoui un'terzo di stagno; Le
-                        Girelle sono ruote piccole, le stanghe, o Manovelle sono della spetie de
-                        razi delle Ruote. Ma tutte queste cose qualunque elle sieno, o siano Ruote
-                        grandi volte da gli huomini con lo andarui dentro, o siano Argani, o Viti,
-                        ne quali instrumenti le stanghe, o Ruote piccole o qual'si voglia cosa
-                        simile, sono la importanza, la ragione del farle certo tutta nasce da
-                        principii della Bilancia. Dicono che <persName ref="#Mercure"
-                            >Mercurio</persName> per questo piu che per altro fu tenuto divino, che
-                        senza far'gesto alcuno di mani, pronuntiava con le parole sole, quelle cose,
-                        che ei diceva, di maniera, che egli era inteso larghissimamente; et se
-                        ben'io dubito di non potere fare questo, io mene sforzerò non di meno quanto
-                        piu potro; Conciosia che io mi sono deliberato di parlare di queste cose,
-                        non come Mathematico, ma come uno artier'et non dire se non quello, che a me
-                        paia di non potere lasciare in dietro; Fa per imparare questo di havere in
-                        mano un'dardo, Io vorrei che in esso tu vi considerassi tre luoghi, i quali
-                        io chiamo punti, i duoi extremi capi cioè il ferro, et la impennatura; et il
-                        terzo il laccio del mezo; et i duoi spatii che sono infra duoi estremi capi
-                        et il laccio io gli chiamo raggi. Non voglio disputare perché così sia,
-                        Percio che il fatto sarà chiaro da la experienza. Conciosia che se il laccio
-                        sarà collocato nel mezo del dardo, et il capo della impennatura
-                        corrisponderà al peso del capo del ferro, staranno certamente amendue le
-                        teste del dardo scambievolmente vguali et bilanciate: Ma se per avuentura la
-                        testa del ferro sarà piu grave, l'altra della impennatura sarà superata; non
-                        dimeno in esso dardo si troverrà un'determinato luogo piu vicino alla testa
-                        piu grave, nel quale riducendo tu il laccio i pesi subito si bilanceranno
-                        l'uno l'altro; et questo sarà quel'punto dal quale questo raggio maggiore
-                        sopravanza tanto il minore quanto questo peso minore è avanzato dal
-                        maggiore. Percioché coloro, che vanno dietro a queste cose, hanno trovato
-                        che i raggi disuguali si aggiustano con pesi disuguali, pur che i numeri
-                        delle parti, che si multiplicano insieme, da il raggio, et da il peso del
-                        lato destro, corrispondino ad altretanti contrarii numeri del lato sinistro,
-                        perché se il ferro peserà tre, et la impennatura due, il raggio, che è dal
-                        laccio al ferro, bisogna che sia due; et quello che è dal laccio alla
-                        impennatura, bisogna che sia tre. Per il che corrispondendo questo numero di
-                        cinque all'altro cinque di pari, aggiustate le ragioni et de raggi, et de
-                        pesi staranno bilanciati et pari. Et se i numeri non corrisponderanno, non
-                        staranno pari, ma l'uno capo alto et l'altro basso, Non vò lasciare questo
-                        in dietro, che se dal medesimo laccio alle teste saranno i raggi vguali,
-                        mentre che e'si gireranno le teste faranno nella aria cerchi vguali; ma se
-                        detti raggi non saranno vguali disegneranno ancora cerchi disuguali. Dicemmo
-                        che le ruote si fanno di cerchi. Et per tanto si è dimostro che se due
-                        contigue ruote, messe in un'sol perno si moveranno di un'solo et medesimo
-                        moto, talmente che mossa l'una, l'altra non si stia, et standosi l'una
-                        l'altra non si muova, cognosceremo dalla lunghezza de raggi in amendue che
-                        forza sia in qual'si è l'una di esse: la lunghezza de raggi bisogna che tu
-                        lhabbia notata dentro al punto di mezo del Perno. Se queste cose s'intendono
-                        a bastanza la regola di così fatte machine che noi cerchiamo è assai
-                        manifesta, et massime delle ruote, et delle Manovelle. Nelle taglie douiamo
-                        noi considerare un'poco piu cose, percioché et il Canapo messo nelle taglie,
-                        et esse carruocole nelle taglie seruono per il piano, per il quale si ha a
-                        fare il moto mezano, il quale noi dicemmo, che era infra il piu facile et il
-                        piu difficile, per esser'quello che non saglie et non scende, ma si tira a
-                        piano vgualmente discosto dal centro. Ma accioché tu intenda come stà la
-                        cosa, piglia una statua di mille libre se questa penderà da un'troncone
-                        d'uno albero legata con una fune sola, egli è cosa certa che questa sola
-                        fune sosterrà mille intere libre. Lega di poi una taglia alla statua, et
-                        metti in essa quella fune, per la quale pendeva la statua, et ritorna detta
-                        fune al troncone, di modo che detta statua penda sospesa da due funi, egli è
-                        certo che il peso d'essa statua è retto da due funi, et la taglia nel mezo
-                        bilanciatamente resta stretta. Andiamo piu avanti, aggiugni ancora al
-                        Troncone un'altra taglia, et metti ancora in essa detta fune. Io vò sapere
-                        da te quanta sarà la portione del peso, che quella parte della fune tirata
-                        in alto, et poi messa nella Taglia sosterrà cinquecento dirai. Non ti
-                        accorgi tu adunque che a questa seconda Taglia non si puo dare maggior'peso
-                        da essa fune, che ella si habbia, et ella ne ha cinquecento non ne parleremo
-                        piu adunque. Insino a qui'mi penso havere assai dimostro che il peso si
-                        divide con le Taglie; et che per questo i pesi maggiori uengono mossi da
-                        minori; et quanto piu si adoppieranno simili instrumenti, tanto piu si
-                        dividerà il peso, per il che avuiene che quante piu carrucole vi saranno,
-                        tanto piu commodamente si maneggera il peso, quasi spartito et diviso in piu
+                    <head rend="it">Delle Ruote, Perni, Stanghe, o Manovelle, Taglie et della
+                        grandezza, forma, et figura loro. Cap. VII. </head>
+                    <p xml:id="BAR_A_L6_L6C7_P1"><hi rend="capitals">MA</hi> essendoci oltre a
+                        queste molte altre cose, buone ai bisogni nostri come sono Ruote, Taglie,
+                        Viti, et Stanghe, doviamo di esse trattare più accuratamente.<pb n="174"/>
+                        Sono certamente le Ruote in gran parte molto simili a Curri, perciò che
+                        sempre da un solo punto a piombo premono allo ingiù; Ma ecci questa
+                        differentia che i curri sono più espediti, et le ruote per l'infragnervisi
+                        dentro il perno, fanno lo offitio loro più tardo. Le parti delle Ruote sono
+                        tre, il circuito maggiore di fuori di essa ruota, il Perno del mezzo, et
+                        quel buco, dove entra il Perno. Questo Perno alcuni forse lo chiameranno il
+                        polo, ma a noi perciò che egli in alcuni instrumenti sta saldo, et in alcuni
+                        altri si gira, sia lecito il chiamarlo Perno. Se la Ruota si girerà sopra
+                        uno Perno grosso, si girerà con fatica; se intorno ad un sottile non reggerà
+                        a pesi, se il circuito di fuori di essa ruota sarà stretto, sì come dicemmo
+                        dei Curri si ficcherà nel piano; se sarà largo, andrà vagellando hor da una
+                        parte, et hora dall'altra; et se per avventura le ruote si haranno a
+                        svolgere, o da destra, o da sinistra, obbediranno malagevolmente; se il
+                        cerchio in che si gira il Perno sarà largo più che il bisogno, rodendo egli
+                        se ne esce, se troppo stretto, non gira, infra il Perno, et il Cerchio in
+                        che ei si volge bisogna che sia un mezzano che lo lubrichi, perché l'uno di
+                        questi serve per il piano et l'altro per il fondo del peso. I Curri et le
+                        Ruote si fanno d'olmo, et di leccio, I Perni d'Agrifoglio et di Corniolo, o
+                        più presto di Ferro, il migliore cerchio di tutti gli altri in cui si gira
+                        il Perno, si fa di Rame mescolatovi un terzo di stagno; Le Girelle sono
+                        ruote piccole, le stanghe, o Manovelle sono della spetie de razi delle
+                        Ruote. Ma tutte queste cose qualunque elle sieno, o siano Ruote grandi volte
+                        dagli huomini con lo andarvi dentro, o siano Argani, o Viti, nei quali
+                        instrumenti le stanghe, o Ruote piccole o qual'si voglia cosa simile, sono
+                        la importanza, la ragione del farle certo tutta nasce dai principi della
+                        Bilancia. Dicono che <persName ref="#Mercure">Mercurio</persName> per questo
+                        più che per altro fu tenuto divino, che senza fare gesto alcuno di mani,
+                        pronuntiava con le parole sole, quelle cose, che ei diceva, di maniera, che
+                        egli era inteso larghissimamente; et se bene io dubito di non potere fare
+                        questo, io me ne sforzerò non di meno quanto più potrò; Con ciò sia che io
+                        mi sono deliberato di parlare di queste cose, non come Mathematico, ma come
+                        uno artiere et non dire se non quello, che a me paia di non potere lasciare
+                        in dietro; Fa per imparare questo di havere in mano un dardo, Io vorrei che
+                        in esso tu vi considerassi tre luoghi, i quali io chiamo punti, i duoi
+                        extremi capi cioè il ferro, et la impennatura; et il terzo il laccio del
+                        mezo; et i duoi spati che sono infra duoi estremi capi et il laccio io gli
+                        chiamo raggi. Non voglio disputare perché così sia, Perciò che il fatto sarà
+                        chiaro dalla experienza. Con ciò sia che se il laccio sarà collocato nel
+                        mezo del dardo, et il capo della impennatura corrisponderà al peso del capo
+                        del ferro, staranno certamente amendue le teste del dardo scambievolmente
+                        uguali et bilanciate: Ma se per avventura la testa del ferro sarà più grave,
+                        l'altra della impennatura sarà superata; non dimeno in esso dardo si
+                        troverrà un determinato luogo più vicino alla testa più grave, nel quale
+                        riducendo tu il laccio i pesi subito si bilanceranno l'uno l'altro; et
+                        questo sarà quel punto dal quale questo raggio maggiore sopravanza tanto il
+                        minore quanto questo peso minore è avanzato dal maggiore. Percioché coloro,
+                        che vanno dietro a queste cose, hanno trovato che i raggi disuguali si
+                        aggiustano con pesi disuguali,<pb n="175"/> pur che i numeri delle parti,
+                        che si multiplicano insieme, da il raggio, et da il peso del lato destro,
+                        corrispondino ad altretanti contrari numeri del lato sinistro, perché se il
+                        ferro peserà tre, et la impennatura due, il raggio, che è dal laccio al
+                        ferro, bisogna che sia due; et quello che è dal laccio alla impennatura,
+                        bisogna che sia tre. Per il che corrispondendo questo numero di cinque
+                        all'altro cinque di pari, aggiustate le ragioni et dei raggi, et dei pesi
+                        staranno bilanciati et pari.</p>
+                    <figure type="schema"/>
+                    <p xml:id="BAR_A_L6_L6C7_P2">Et se i numeri non corrisponderanno, non staranno
+                        pari, ma l'uno capo alto et l'altro basso,</p>
+                    <figure type="schema"/>
+                    <p xml:id="BAR_A_L6_L6C7_P3">Non vo lasciare questo in dietro, che se dal
+                        medesimo laccio alle teste saranno i raggi uguali, mentre che e'si gireranno
+                        le teste faranno nella aria cerchi uguali; ma se detti raggi non saranno
+                        uguali disegneranno ancora cerchi disuguali. Dicemmo che le ruote si fanno
+                        di cerchi. Et per tanto si è dimostro che se due contigue ruote, messe in un
+                        sol perno si moveranno di un solo et medesimo moto, talmente che mossa
+                        l'una, l'altra non si stia, et standosi l'una l'altra non si muova,
+                        cognosceremo dalla lunghezza dei raggi in amendue che forza sia in qual'si è
+                        l'una di esse: la lunghezza dei raggi bisogna che tu l'habbia notata dentro
+                        al punto di mezo del Perno. Se queste cose s'intendono a bastanza la regola
+                        di così fatte machine che noi cerchiamo è assai manifesta, et massime delle
+                        ruote, et delle Manovelle. Nelle taglie doviamo noi considerare un poco più
+                        cose, percioché et il Canapo messo nelle taglie, et esse carruocole nelle
+                        taglie servono per il piano, per il quale si ha a fare il moto mezano, il
+                        quale noi dicemmo, che era infra il più facile et il più difficile, per
+                        essere quello che non saglie et non scende, ma si tira a piano ugualmente
+                        discosto dal centro. Ma accioché tu intenda come stà la cosa, piglia una
+                        statua di mille libre se questa penderà da un troncone d'uno albero legata
+                        con una fune sola, egli è cosa certa che questa sola fune sosterrà mille
+                        intere libre.</p>
+                    <pb n="176"/>
+                    <figure type="schema"/>
+                    <p xml:id="BAR_A_L6_L6C7_P4">Lega di poi una taglia alla statua, et metti in
+                        essa quella fune, per la quale pendeva la statua, et ritorna detta fune al
+                        troncone, di modo che detta statua penda sospesa da due funi, egli è certo
+                        che il peso d'essa statua è retto da due funi, et la taglia nel mezo
+                        bilanciatamente resta stretta.</p>
+                    <pb n="177"/>
+                    <figure type="schema"/>
+                    <p xml:id="BAR_A_L6_L6C7_P5">Andiamo più avanti, aggiugni ancora al Troncone
+                        un'altra taglia, et metti ancora in essa detta fune. Io vo sapere da te
+                        quanta sarà la portione del peso, che quella parte della fune tirata in
+                        alto, et poi messa nella Taglia sosterrà cinquecento dirai. Non ti accorgi
+                        tu adunque che a questa seconda Taglia non si può dare maggiore peso da essa
+                        fune, che ella si habbia, et ella ne ha cinquecento non ne parleremo più
+                        adunque.</p>
+                    <pb n="178"/>
+                    <figure type="schema"/>
+                    <p xml:id="BAR_A_L6_L6C7_P6">Insino a qui mi penso havere assai dimostro che il
+                        peso si divide con le Taglie; et che per questo i pesi maggiori vengono
+                        mossi da minori; et quanto più si adoppieranno simili instrumenti, tanto più
+                        si dividerà il peso, per il che avviene che quante più carrucole vi saranno,
+                        tanto più commodamente si maneggerà il peso, quasi spartito et diviso in più
                         parti. </p>
                 </div2>
                 <div2 type="chapitre" n="8" xml:id="L6C8">
-                    <head> Della Vite, et de suoi Pani, in che modo i pesi si tirino, si portino, et
-                        si spinghino. Cap. VIII.</head>
-                    <p xml:id="BAR_A_L6_L6C8_P1"> Noi habbiamo trattato della Ruota, delle Taglie,
-                        et delle Manovelle, da qui innanzi voglio che tu sappia che la Vite è fatta
-                        quasi di cerchi come anelli, i quali veramente son'quelli, che pigliono
-                        sopra di loro a reggere il peso; se questi pani, o Anegli fussino interi, et
-                        non tagliati, in modo che la fine de l'uno non fusse il principio dello
-                        altro, certamente che il peso, che'reggerebbono se bene e'si movesse non
-                        anderebbe mai ne in su, ne in giu; ma andrebbe atorno vgualmente secondo lo
-                        andare del pane; è forzato adunque il peso ad andar'in su, o in giu dalla
-                        forza de le Manovelle giu per i pani delle Viti. Di nuovo se questi pani
-                        fussino piccoli, et si avuicinassino al centro quanto piu potessino certo
-                        che con piu piccola manovella, et con minori forze moveresti i pesi. Non
-                        tacerò qui di dire quel'che certo non pensai d'haver'a raccontare, cioè che
-                        se tu ti ordinerai di maniera che il fondo di qual'si voglia peso da
-                        muoversi, non sia (per quanto però potrà la mano, o l'arte del maestro) piu
-                        largo che un'punto, et che si muova talmente su per un'piano stabile et
-                        sodo, che nel Muoversi non faccia solco alcuno in detto piano; io ti
-                        prometto che tu moverai la Nave d'<persName ref="#Archimede"
-                            >Archimede</persName>; et ti riuscirà qual'tu ti voglia cosa, simile a
-                        questa; Ma di loro ne tratteremo altrove. Qual s'è l'una di perse di queste
-                        cose, che noi habbian'dette è molto gagliarda a muover'pesi, ma se elle
-                        s'accozzeranno tutte insieme, saranno gagliardissime. Nella Magna troverrai
-                        tu in molti luoghi la gioventù scherzare su per il diaccio con certi zoccoli
-                        ferrati, che di sotto sono sottilissimi, i quali poi che si muovono non
-                        altrimenti che un'leggiere pesce, sdrucciolano sopra il diaccio con tanta
-                        velocità, che non sopportano d'esser'superati dal volo di qual'si voglia
-                        veloce vccello. Ma conciosia che i pesi o e'si tirino, o e'si spinghino, o
-                        e'si portino, diremo, che e'si tirano con le funi; si spingono con le
-                        stanghe; et si portano con le ruote et con simili instrumenti; et in
-                        qual'modo ci possiamo seruire a un tratto di tutte queste cose insieme, è
-                        manifesto. Ma in tutti questi si fatti modi, bisogna che ci sia una qualche
-                        cosa, che stando ferma, et immobile, serua a'far'muovere l'altre cose. Se il
-                        peso si harà a tirare, bisogna che vi sia un'altro peso maggiore, alquale si
-                        leghino gli instrumenti, che tu harai ad adoperare, et se tu non harai
-                        tal'peso, metterai un'palo di ferro di tre cubiti gagliardo, ben'adentro nel
-                        terreno ben'pillato, o fermatolo con tronconi attraversati. Dipoi lega alla
-                        testa del palo, che esce fuori del terreno le Taglie et gli Argani. Et se il
+                    <pb n="179"/>
+                    <head rend="it">Della Vite, et dei suoi Pani, in che modo i pesi si tirino, si
+                        portino, et si spinghino. Cap. VIII.</head>
+                    <p xml:id="BAR_A_L6_L6C8_P1"><hi rend="capitals">NOi</hi> habbiamo trattato
+                        della Ruota, delle Taglie, et delle Manovelle, da qui innanzi voglio che tu
+                        sappia che la Vite è fatta quasi di cerchi come anelli, i quali veramente
+                        sono quelli, che pigliono sopra di loro a reggere il peso; se questi pani, o
+                        Anegli fussino interi, et non tagliati, in modo che la fine de l'uno non
+                        fusse il principio dello altro, certamente che il peso, che reggerebbono se
+                        bene <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> si movesse non anderebbe mai ne in su, ne in giù; ma andrebbe
+                        atorno ugualmente secondo lo andare del pane; è forzato adunque il peso ad
+                        andare in su, o in giù dalla forza delle Manovelle giù per i pani delle
+                        Viti. Di nuovo se questi pani fussino piccoli, et si avvicinassino al centro
+                        quanto più potessino certo che con più piccola manovella, et con minori
+                        forze moveresti i pesi. Non tacerò qui di dire quel'che certo non pensai
+                        d'havere a raccontare, cioè che se tu ti ordinerai di maniera che il fondo
+                        di qual'si voglia peso da muoversi, non sia (per quanto però potrà la mano,
+                        o l'arte del maestro) più largo che un punto, et che si muova talmente su
+                        per un piano stabile et sodo, che nel Muoversi non faccia solco alcuno in
+                        detto piano, io ti prometto che tu moverai la Nave d'<persName
+                            ref="#Archimede">Archimede</persName>, et ti riuscirà qual'tu ti voglia
+                        cosa, simile a questa; Ma di loro ne tratteremo altrove. Qual s'è l'una di
+                        perse di queste cose, che noi habbiano dette è molto gagliarda a muovere
+                        pesi, ma se elle s'accozzeranno tutte insieme, saranno gagliardissime. Nella
+                        Magna troverrai tu in molti luoghi la gioventù scherzare su per il diaccio
+                        con certi zoccoli ferrati, che di sotto sono sottilissimi, i quali poi che
+                        si muovono non altrimenti che un leggiere pesce, sdrucciolano sopra il
+                        diaccio con tanta velocità, che non sopportano d'essere superati dal volo di
+                        qual'si voglia veloce uccello. Ma con ciò sia che i pesi o <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> si tirino, o <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> si spinghino, o <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> si portino, diremo, che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> si tirano con le funi; si spingono con le stanghe; et si portano
+                        con le ruote et con simili instrumenti; et in qual'modo ci possiamo servire
+                        a un tratto di tutte queste cose insieme, è manifesto. Ma in tutti questi si
+                        fatti modi, bisogna che ci sia una qualche cosa, che stando ferma, et
+                        immobile, serva a far'muovere le altre cose. Se il peso si harà a tirare,
+                        bisogna che vi sia un altro peso maggiore, al quale si leghino gli
+                        instrumenti, che tu harai ad adoperare, et se tu non harai tal'peso,
+                        metterai un palo di ferro di tre cubiti gagliardo, ben'adentro nel terreno
+                        ben pillato, o fermatolo con tronconi attraversati. Di poi lega alla testa
+                        del palo, che esce fuori del terreno le Taglie et gli Argani. Et se il
                         terreno sarà renoso distendavisi travi lunghe sopra delle quali si tiri il
-                        peso, et alle teste delle travi ad un'buon'chiodo leghinsi i vostri
+                        peso, et alle teste delle travi ad un buon chiodo leghinsi i vostri
                         instrumenti. Io dirò cosa che gli inesperti non l'acconsentiranno, fino a
-                        tanto che e'non habbino inteso il caso come egli sta; cioè, che per un'piano
-                        si tirano piu commodamente duoi pesi che uno, et questo si farà in questo
+                        tanto che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> non habbino inteso il caso come egli sta; cioè, che per un piano
+                        si tirano più commodamente duoi pesi che uno, et questo si farà in questo
                         modo. Mosso il primo peso insino alla fine della travata che egli harà
                         sotto, lo fermerò con biette et comi, in maniera che non si muova di niente,
-                        et vi appiccherò, o legherò lo instrumento con ilquale harò a tirar'l'altro
-                        peso, di maniera che su per un'medesimo piano averrà che il peso mobile,
-                        dallo altro a lui vguale, ma che starà fermo, sarà vinto et tiratò. Se il
-                        peso si harà a tirare ad alto, ci seruiremo molto accommodatamente d'una
-                        trave sola, o vero d'uno albero di nave ma gagliardo. Rizzando questo albero
-                        lo fermeremo da piede a un'palo, o con qualche altra cosa stabile tu ti
-                        voglia; dalla testa da capo si leghino non meno che tre canapi, l'uno che
-                        serua da destra, et l'altro da sinistra per Venti, et l'ultimo, che venga
-                        giù per lo albero disteso. Dipoi alquanto discosto dal pie dello albero si
-                        fermino le taglie, et l'argano in terra, et messo questo canapo nelle
-                        taglie, correrà per esse, et mentre che ei correrà, tirerà seco la testa
-                        dello albero che è su alta. Ma noi dall'una parte et dall'altra con que'duoi
-                        Venti, quasi che come con dua redini lo modereremo, di maniera che egli stia
-                        quanto noi vogliamo ritto, et che e'penda da quella parte, che piu bisogna,
-                        per collocare il peso nel destinato luogo. Questi duoi Venti da gli lati, se
-                        tu non harai pesi maggiori a chi tu gli possa accommandare, fermerali in
-                        questa maniera. Cavisi nel terreno una fossa quadrata et mettasi nel fondo a
-                        giacer'un'troncone al quale si leghino uno, o piu lacci, che venghino ad
-                        avanzare sopra il terreno, sopra il troncone poi si distendino assi a
-                        traverso, dipoi si riempia la fossa di terreno, et si pilli, et mazzapicchi
-                        forte; et bagnandola diventerà piu grave. L'altre cose tutte si faccino in
-                        quel'modo, che dicemmo del piano da tirarui sopra i pesi; percio che alla
-                        testa della trave, et al peso ancora bisogna legare le loro taglie, et
-                        appresso al piè della trave bisogna fermare lo Argano, o qual'altro
-                        instrumento tu voglia, che habbian se forza di Manovelle. In tutte queste
-                        così fatte cose, per metterle in opera, bisogna avuertire nel muovere, i
-                        pesi grandissimi, che tutti questi mezi, che s'hanno ad adoperare non sieno
-                        troppo piccoli, et che non ci seruiamo di lunghezza debole nelle funi, et
-                        nelli stili, et in qualunche mezo, che noi vseremo per muovere; Percioché
-                        egli hanno del debole, conciosia che la lunghezza di sua natura è certamente
-                        congiunta con la sottiglezza. Et per il contrario le cose corte hanno del
-                        grosso, se le funi saranno sottili raddoppinsi nelle carrucole, se elle
-                        sanno troppo grosse, bisogna trovare carrucole piu grosse, accio che nelle
-                        carrucole strette le funi non si taglino; I perni delle carrucole vogliono
-                        essere di ferro, non meno grossi, che la sesta parte del mezo diametro della
-                        sua carrucola, ne anco piu che la ottava parte di tutto il diametro; le funi
-                        bagnate sono piu sicure dallo abbruciarsi, ilche per il soffregarsi et
-                        muoversi taluolta avuiene; et sono piu atte a fare girare le carrucole, et
-                        meno sgusciano et è meglio bagnarle con aceto che con aqua; et se pure con
-                        acqua, quella di mare è la migliore; se elle si bagnano con acqua dolce, et
-                        stieno al Sole caldissimo, si infracidano presto; avuolgere le funi insieme
-                        è molto piu sicuro, che annodarle; sopra tutto bisogna havere cura che l'una
-                        fune non seghi l'altra. Gli antichi vsavano uno regolo di ferro, al quale
-                        egli accomodavano le prime legature delle funi, et delle Taglie, et nel
-                        pigliare un'peso et massimo di pietra vsavano una forbicia di ferro. La
-                        forma di essa forbicia, o tanaglia era cavata dalla lettera X. che con i
-                        rampi di sotto, era volta all'indentro con i quali quasi come un'granchio
-                        strignessero mordendo il peso. I duoi rampi di sopra erano bucati et per
-                        essi buchi messavi una fune, et fattoui una legatura strigneva il tratto di
-                        essa forbicia, o Tanaglia. Io ho visto nelle gran'pietre et massimo nelle
+                        et vi appiccherò, o legherò lo instrumento con il quale harò a tirare
+                        l'altro peso, di maniera che su per un medesimo piano averrà che il peso
+                        mobile, dallo altro a lui uguale, ma<pb n="180"/> che starà fermo, sarà
+                        vinto et tirato. Se il peso si harà a tirare ad alto, ci serviremo molto
+                        accommodatamente d'una trave sola, o vero d'uno albero di nave ma gagliardo.
+                        Rizzando questo albero lo fermeremo da piede a un palo, o con qualche altra
+                        cosa stabile tu ti voglia; dalla testa da capo si leghino non meno che tre
+                        canapi, l'uno che serva da destra, et l'altro da sinistra per Venti, et
+                        l'ultimo, che venga giù per lo albero disteso. Di poi alquanto discosto dal
+                        pié dello albero si fermino le taglie, et l'argano in terra, et messo questo
+                        canapo nelle taglie, correrà per esse, et mentre che ei correrà, tirerà seco
+                        la testa dello albero che è su alta. Ma noi dall'una parte et dall'altra con
+                        quei duoi Venti, quasi che come con dua redini lo modereremo, di maniera che
+                        egli stia quanto noi vogliamo ritto, et che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> penda da quella parte, che più bisogna, per collocare il peso nel
+                        destinato luogo. Questi duoi Venti dagli lati, se tu non harai pesi maggiori
+                        a chi tu gli possa accommandare, fermerali in questa maniera. Cavisi nel
+                        terreno una fossa quadrata et mettasi nel fondo a giacere un troncone al
+                        quale si leghino uno, o più lacci, che venghino ad avanzare sopra il
+                        terreno, sopra il troncone poi si distendino assi a traverso, di poi si
+                        riempia la fossa di terreno, et si pilli, et mazzapicchi forte; et
+                        bagnandola diventerà più grave. Le altre cose tutte si faccino in quel modo,
+                        che dicemmo del piano da tirarvi sopra i pesi; perciò che alla testa della
+                        trave, et al peso ancora bisogna legare le loro taglie, et appresso al piè
+                        della trave bisogna fermare lo Argano, o qual'altro instrumento tu voglia,
+                        che habbian se forza di Manovelle.</p>
+                    <figure type="schema"/>
+                    <pb n="181"/>
+                    <p xml:id="BAR_A_L6_L6C8_P2">In tutte queste così fatte cose, per metterle in
+                        opera, bisogna avvertire nel muovere, i pesi grandissimi, che tutti questi
+                        mezi, che s'hanno ad adoperare non sieno troppo piccoli, et che non ci
+                        serviamo di lunghezza debole nelle funi, et nelli stili, et in qualunche
+                        mezo, che noi useremo per muovere; Percioché egli hanno del debole, con ciò
+                        sia che la lunghezza di sua natura è certamente congiunta con la
+                        sottiglezza. Et per il contrario le cose corte hanno del grosso, se le funi
+                        saranno sottili raddoppinsi nelle carrucole, se elle sanno troppo grosse,
+                        bisogna trovare carrucole più grosse, acciò che nelle carrucole strette le
+                        funi non si taglino. I perni delle carrucole vogliono essere di ferro, non
+                        meno grossi, che la sesta parte del mezo diametro della sua carrucola, né
+                        anco più che la ottava parte di tutto il diametro; le funi bagnate sono più
+                        sicure dallo abbruciarsi, il che per il soffregarsi et muoversi talvolta
+                        avviene; et sono più atte a fare girare le carrucole, et meno sgusciano et è
+                        meglio bagnarle con aceto che con aqua; et se pure con acqua, quella di mare
+                        è la migliore; se elle si bagnano con acqua dolce, et stieno al Sole
+                        caldissimo, si infracidano presto; avvolgere le funi insieme è molto più
+                        sicuro, che annodarle, sopra tutto bisogna havere cura che l'una fune non
+                        seghi l'altra. Gli antichi usavano uno regolo di ferro, al quale egli
+                        accomodavano le prime legature delle funi, et delle Taglie, et nel pigliare
+                        un peso et massimo di pietra usavano una forbicia di ferro. <figure
+                            type="schema" place="right"/>La forma di essa forbicia, o tanaglia era
+                        cavata dalla lettera X. che con i rampi di sotto, era volta all'indentro con
+                        i quali quasi come un granchio strignessero mordendo il peso. I duoi rampi
+                        di sopra erano bucati et per essi buchi messavi una fune, et fattovi una
+                        legatura strigneva il tratto di essa forbicia, o Tanaglia.</p>
+                    <figure type="schema" place="right"/>
+                    <p xml:id="BAR_A_L6_L6C8_P3">Io ho visto nelle grandi pietre et massimo nelle
                         colonne, ancora che elle fussino finite del tutto, lasciativi certi dadotti,
                         che escono in fuora, quasi come manichi, alli quali si legasino le legature
-                        accio non iscorressino, vsasi et massimo alle cornici di fare certe buche
-                        nelle pietre, da metterui le vlivelle, che si fanno in questo modò, faccisi
+                        acciò non iscorressino, usasi et massimo alle cornici di fare certe buche
+                        nelle pietre, da mettervi le ulivelle, che si fanno in questo modo, faccisi
                         una buca nella pietra a similitudine d'una scarsella vota, grande secondo la
                         grandezza della pietra, che sia stretta in bocca, et larga nel fondo. Io ho
-                        vedute buche di vlivelle fonste un'piede empionsi queste di conii di ferro;
-                        i duoi de quali da gli lati son'fatti a somiglianza della lettera D. questi
-                        si mettono i primi per empiere i fianchi della buca, et il conio del mezo
-                        poi si mette l'ultimo infra l'uno et l'altro. Hanno tutt'a tre questi conii
-                        i loro orecchi che avanzano fuori del pari forati, nel qual'foro si mette
-                        un'Perno di ferro, che piglia con loro insieme un'manico che avanza fuori al
-                        quale si lega la fune che corre, per le taglie che l'hà a tirare. Io lego in
-                        questo modo le Colonne, et gli stipiti delle porte et simili pietre che si
-                        hanno a posare per dovere rimanere ritte. Io ho fatto fare o di legno, o di
-                        ferro una cintura gagliarda secondo la grandezza del peso con la quale ho
-                        cinto intorno in luogo accommodato la colonna o altra pietra, et con certi
-                        conietti sottili et lunghi dandoli col martello leggiermente l'hò serrata et
-                        ferma, dipoi ho aggiunto a detta cintura una legatura di fune come una
-                        braca; et in questo modo non ho offeso ne la pietra con ferrarui dentro
-                        vlivelle, ne dato danno a canti vivi delli stipiti, o simili con cignerli di
-                        funi; Oltre a che questo modo di legare è il piu espedito, il piu atto, et
-                        il piu fidato di tutti gli altri. Racconteremo piu distesamente altrove
-                        molte cose, che acciò si aspettano. Ma hora bisogna solamente trattare, che
-                        gli strumenti sono quasi come corpi animati, et che hanno mani molto
-                        gagliarde, et che e'muovono i pesi non altrimenti, che noi huomini ci
-                        facciamo con le mani. Et per tanto que'medesimi distendimenti di membra, et
-                        di nerui, che noi vsiamo nel rilassare, spignere, raccorre et transferire,
-                        quelli stessi bisogna che noi imitiamo nelle macchine. Una cosa ti vò
-                        ricordare che e'sarà bene, che quando tu harai a movere in qual'si voglia
-                        modo, qualche smisurato peso, che tu vi ti metta sensatamente cautamente, et
-                        con maturo consiglio, rispetto a varii incerti et inrecuperabili accidenti
-                        et pericoli, che in così fatte faccende, fuor'd'ogni oppenione sogliono
-                        avuenire, ancora a piu pratichi; perché e'non tene succederà mai tanta
-                        gran'lode, ne gloria d'ingegno se ti riuscirà bene quel'che tu ti sarai
-                        messo a fare che e'non sia molto maggiore il biasimo, et l'odio della tua
-                        temeraria pazzia, quando il fatto non ti riesca. Di questi sia detto a
-                        bastanza, torniamo alli Intonichi. </p>
+                        vedute buche di ulivelle fonste<pb n="182"/> un piede empionsi queste di
+                        coni di ferro; i duoi dei quali dagli lati sono fatti a somiglianza della
+                        lettera D. questi si mettono i primi per empiere i fianchi della buca, et il
+                        conio del mezo poi si mette l'ultimo infra l'uno et l'altro. Hanno tutt'a
+                        tre questi coni i loro orecchi che avanzano fuori del pari forati, nel qual
+                        foro si mette un Perno di ferro, che piglia con loro insieme un manico che
+                        avanza fuori al quale si lega la fune che corre, per le taglie che l'ha a
+                        tirare.</p>
+                    <p xml:id="BAR_A_L6_L6C8_P4">Io lego in questo modo le Colonne, et gli stipiti
+                        delle porte et simili pietre che si hanno a posare per dovere rimanere
+                        ritte. Io ho fatto fare o di legno, o di ferro una cintura gagliarda secondo
+                        la grandezza del peso con la quale ho cinto intorno in luogo accommodato la
+                        colonna o altra pietra, et con certi conietti sottili et lunghi dandoli col
+                        martello leggiermente l'ho serrata et ferma, di poi ho aggiunto a detta
+                        cintura una legatura di fune come una braca; et in questo modo non ho offeso
+                        né la pietra con ferrarvi dentro ulivelle, né dato danno a canti vivi delli
+                        stipiti, o simili con cignerli di funi; Oltre a che questo modo di legare è
+                        il piu espedito, il piu atto, et il piu fidato di tutti gli altri.
+                        Racconteremo più distesamente altrove molte cose, che acciò si aspettano. Ma
+                        hora bisogna solamente trattare, che gli strumenti sono quasi come corpi
+                        animati, et che hanno mani molto gagliarde, et che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> muovono i pesi non altrimenti, che noi huomini ci facciamo con le
+                        mani. Et per tanto quei medesimi distendimenti di membra, et di nervi, che
+                        noi usiamo nel rilassare, spignere, raccorre et transferire, quelli stessi
+                        bisogna che noi imitiamo nelle macchine. Una cosa ti vo ricordare che e'sarà
+                        bene, che quando tu harai a movere in qual'si voglia modo, qualche smisurato
+                        peso, che tu vi ti metta sensatamente cautamente, et con maturo consiglio,
+                        rispetto a vari incerti et inrecuperabili accidenti et pericoli, che in così
+                        fatte faccende, fuori d'ogni oppenione sogliono avvenire, ancora a più
+                        pratichi; perché e'non te ne succederà mai tanta grande lode, né gloria
+                        d'ingegno se ti riuscirà bene quel che tu ti sarai messo a fare che e'non
+                        sia molto maggiore il biasimo, et l'odio della tua temeraria pazzia, quando
+                        il fatto non ti riesca. Di questi sia detto a bastanza, torniamo alli
+                        Intonichi. </p>
                 </div2>
                 <div2 type="chapitre" n="9" xml:id="L6C9">
-                    <head> Che le corteccie, che si danno di calcina alle mura, debbono esser'tre,
-                        Di che cosa si debbino fare, et a quel'che ell'habbino a seruire. Delli
-                        Intonichi, et delle lor varie sorti, et come si ha a ordinare la calcina per
-                        farli, et delle statue di basso rilievo et delle pitture con che s'addornano
-                        le mura. Cap. IX.</head>
-                    <p xml:id="BAR_A_L6_L6C9_P1"> In tutte le corteccie bisogna almanco tre sorti di
-                        intonichi, il primo si chiama rinzaffare, et l'officio suo è di attaccarsi
-                        strettissimo alle mura, et reggere bene sopra di sè poi gli altri duoi
-                        Intonichi; Lo officio dello vltimo Intonico, è il pulimento, i colori, et i
-                        lineamenti che rendono l'opera gratiosa, l'officio dello Intonico di mezo,
-                        che hoggi di si chiama arricciare, è di rimediare che ne il primo ne
-                        l'ultimo intonico non faccino difetto alcuno. I difetti son questi, se li
-                        duoi vltimi ciò è lo arricciato, et lo Intonico saranno acerbi, et per modo
-                        di dire mordaci delle mura sì come si appartiene ad essere al rinzaffato
-                        scopriranno per la crudezza loro nel rasciugarsi infinite fessure. Et se il
-                        rinzaffato sarà dolce come s'appartiene di essere allo Intonico, non si
-                        attaccherà tanto che basti alle mura; ma sene cadrà a pezzi; quante piu
-                        coperte seli daranno tanto meglio si puliranno, et contro alli accidenti de
-                        tempi saranno piu durabili. Io ho veduto appresso le cose antiche, che e'ne
-                        messono l'una su l'altra sino a nove. Le prime di queste bisogna che sieno
-                        aspre et di rena di fosse, et di matton'pesti ma non troppo, ma grossi come
-                        ghiande, o pezzi come dita, et in qualche lato come un'palmo; per lo
-                        arricciato è migliore la rena del fiume, et manco si fende, questo
-                        arricciato ancora bisogna che sia ronchioso; percioché alle cose lisce non
-                        si attaccano sopra le cose, che vi si pongono. L'ultima di tutte sarà
-                        candidissima come marmo, cioè che in cambio di rena si tolga pietra pesta
-                        candidissima, et è a bastanza che questa sia grossa un'mezo dito; percio che
-                        facendosi grossa, maluolentieri si secca. Io ho veduti alcuni che per non
-                        spendere non la fanno piu grossa che un'suolo di scarpa. Lo arricciato,
-                        secondo che è piu vicino, o a quelle, o a questo secondo si modera. Ne massi
-                        delle cave di pietra si truovano certe vene molto simili a un'trasparente
-                        Alabastro, che non sono ne marmo, ne gesso; ma d'una certa natura mezzana
-                        infra l'uno et l'altro. Le quali son'molto atte a disfarsi, queste si fatte
-                        vene peste et mescolate in cambio di rena mostrano certe scintille come di
-                        splendido marmo. In molti luoghi si veggono aguti messi per le mura accio
-                        ritenghino li Intonichi, et il tempo ne ha insegnato che e'sono migliori di
-                        bronzo che di ferro. Piaccionmi assai coloro che in cambio di chiodi hanno
-                        messo fra l'una pietra et l'altra per le mura certi pezzuoli di lastruccie,
-                        che eschino fuori, ma con un'martello di legno. Et il muro quanto sarà piu
-                        fresco, et piu ronchioso, tanto piu forte riterrà il rinzaffato,
-                        l'arricciato, et l'intonico; Per il che se nel murare et mentre che si fa
-                        l'opera tu la rinzafferai, benche leggiermente; farai che lo arricciato et
-                        lo intonico vi si attaccheranno fortissimamente, et da non si spicchare mai;
-                        doppo che hanno tirato i Venti Australi sarà bene farte ogn'una di qual'ti
-                        voglia di queste cose, ma se quando tirano tramontani, et che e'sono o
-                        gran'freddi, o gran'caldi, tu vorrai intonicare; l'intonico subito diventerà
-                        scabroso. Le vltime corteccie finalmente sono di due sorti; o le sono
-                        appiastrate et distese, o le sono di cose aggiuntevi et adattatevi.
-                        Distendesi il gesso et la calcina, ma il gesso non è buono se non in luoghi
-                        asciuttissimi; a qual'si voglia sorte di corteccie, la scorrente humidità
-                        delle mura vecchie, è inimicissima, quelle che si commettono sono pietre et
-                        vetri et simili. Le corteccie distese et appiastrate son'queste, le bianche
-                        stiette, le difigure di stucchi, et le dipinte; ma quelle che si commettono
-                        sono gli intavolati, gli sfondati, et i tassellati. Tratteremo delle prime,
-                        per le quali la calcina si ordinerà in questa maniera. Spengasi la calcina
-                        con acqua chiara in uno truogolo coperto, et con tanta acqua, che di
-                        gran'lunga gliene avanzi; dipoi con la marra si rimenerà assai, asciandola,
-                        et piallandola, come si fa a legni; et che ella sia bene spenta et macera ne
-                        darà segno se la marra non sarà offesa da alcuno sassolino, o pietruzza; non
-                        credono che ella sia matura abastanza, innanzi a tre mesi. Bisogna che sia
-                        molto morbida et molto viscosa, quella che è da lodare; percioche se il
-                        ferro n'uscirà asciutto, è segno che ella non ha havuta tanta acqua, che sia
-                        stata abastanza aspegnerli la sete; quando tu rimenerai con la rena, o con
-                        alcuna cosa pesta, rimenala dinuovo et da capo di gran'vantaggio, et
-                        rimenala tanto che quasi faccia la stiuma. Gli antichi vsuvano pesture nel
-                        mortaio quella, che e'volevano adoperare per gli intonachi, et temperavano
-                        questa mistura in maniera, che mentre la davano non si attaccasse al ferro.
-                        Sopra la gia posta corteccia, mentre che ella è così soppassa et fresca si
-                        metta l'altra; et avuertiscasi che in un'medesimo instante venghino a
-                        rasciugarsi insieme tutte queste corteccie; pulisconsi et serronsi insieme
-                        con appianatoie, con pialletti et con cose simili, mentre che le sono
-                        soppasse. L'ultima pelle di bianco stietto se ella sarà stropicciata
-                        diligentemente rilucerà come uno specchio. Et se la medesima poi che sarà
-                        quasi asciutta, tu la vgnerai con un'poco di cera et mastico liquefatti con
-                        un'poco poco d'olio, et così se le mura così unte scalderai con uno
-                        scaldaletto di carboni accesi, o con un'caldano, di modo che ella si succi
-                        quello untume vincerà di bianchezza il Marmo. Io ho fatto experienza che
-                        simili intonichi non scoppiamo mai, se nel farli subito che si veggono
-                        apparire que'fessolini, e'saranno maneggiati con certi fascetti di vergette
-                        di Maluavischio, o di ginestra saluatica. Ma se a un'bisogno tu harai a
-                        intonicare nel Sollione, o in luoghi caldissimi, pesta et taglia minutamente
-                        funi vecchie, et mescolale con lo Intriso. Oltra di questo si pulirà
-                        dilicatissimamente se tu vi gitterai sopra un'poco di sapon'bianco, disfatto
-                        con alquanto d'acqua tiepida, et essendo troppo unto diventa pallido. Le
-                        figurette di stucco espeditissimamente si caveranno da cavi; et i cavi si
-                        formeranno da rilievi gittandoui sopra gesso liquido; et quando elle saranno
-                        rasciutte, se le saranno unte con quello untume che io ho detto, faranno una
-                        pelle come un'Marmo. Queste figurette sono di due sorti, una di tutto
-                        rilievo, et l'altra di basso rilievo; in un'muro diritto stanno bene quelle
-                        di tutto rilievo, ma in un'cielo d'una volta stanno meglio i bassi rilievi;
-                        perché quelle di gran rilievo per il peso loro havendo a stare spenzoloni,
-                        si staccano et cascano facilmente; et sono pericolose di dare in testa a chi
-                        vi si truova sotto. Bene avuertiscono che dove ha da essere assai poluere
-                        non vi si metta adornamenti di cavo, o di molto rilievo; ma bassi et di poco
-                        rilievo, accio si nettino piu facilmente. Gli Intonachi dipinti altri si
-                        fanno in fresco; et altri si lavorano asciutti; a quelli, che si fanno in
-                        fresco si confà ogni colore naturale, che procede dalla Terra, dalle miniere
-                        o simili; ma i colori alterati et massimo tutti quelli, che messi a fuoco
-                        fanno mutatione, desiderano cose asciuttissime, et hanno in odio la calcina,
-                        la Luna, et i Venti Australi; hanno trovato nuovamente che tutti i colori si
-                        mescolano con olio di lino; et durano eterni, contro le offese dell'Aria, et
-                        del Cielo; purche il muro, dove si mettono sia asciuttissimo, senza punto di
-                        humidità; ancora che io truovo che i pittori antichi vsarono nel dipignere
-                        le Poppe delle Navi in cambio di colla, cera liquida. Et se io mi ricordo
-                        bene io ho visto nelle opere delli Antichi colori di Gemme appicati nelle
-                        mura con cera o forse con stucco bianco, diventati per il tempo tanto duri,
-                        che ne con fuoco, ne con acqua sene possono spiccare. Dirai che sia Vetro
-                        abbruciato, et ho veduto che alcuni con il candido fiore della calcina,
-                        hanno attacati colori alle mura; et massimo Vetrini mentre erano ancora
+                    <head rend="it">Che le corteccie, che si danno di calcina alle mura, debbono
+                        essere tre, Di che cosa si debbino fare, et a quel'che elle habbino a
+                        servire. Delli Intonichi, et delle loro varie sorti, et come si ha a
+                        ordinare la calcina per farli, et delle statue di basso rilievo et delle
+                        pitture con che s'addornano le mura. Cap. IX.</head>
+                    <p xml:id="BAR_A_L6_L6C9_P1"><hi rend="capitals">IN</hi> tutte le corteccie
+                        bisogna almanco tre sorti di intonichi, il primo si chiama rinzaffare, et
+                        l'officio suo è di attaccarsi strettissimo alle mura, et reggere bene sopra
+                        di sé poi gli altri duoi Intonichi; Lo officio dello ultimo Intonico, è il
+                        pulimento, i colori, et i lineamenti che rendono l'opera gratiosa, l'officio
+                        dello Intonico di mezo, che hoggi di si chiama arricciare, è di rimediare
+                        che né il primo né l'ultimo intonico non faccino difetto alcuno. I difetti
+                        son questi, se li duoi ultimi cioè lo arricciato, et lo Intonico saranno
+                        acerbi, et per modo di dire mordaci delle mura sì come si appartiene<pb
+                            n="183"/> ad essere al rinzaffato scopriranno per la crudezza loro nel
+                        rasciugarsi infinite fessure. Et se il rinzaffato sarà dolce come
+                        s'appartiene di essere allo Intonico, non si attaccherà tanto che basti alle
+                        mura; ma se ne cadrà a pezzi, quante più coperte seli daranno tanto meglio
+                        si puliranno, et contro alli accidenti dei tempi saranno più durabili. Io ho
+                        veduto appresso le cose antiche, che e'ne messono l'una sull'altra sino a
+                        nove. Le prime di queste bisogna che sieno aspre et di rena di fosse, et di
+                        mattoni pesti ma non troppo, ma grossi come ghiande, o pezzi come dita, et
+                        in qualche lato come un palmo; per lo arricciato è migliore la rena del
+                        fiume, et manco si fende, questo arricciato ancora bisogna che sia
+                        ronchioso; percioché alle cose lisce non si attaccano sopra le cose, che vi
+                        si pongono. L'ultima di tutte sarà candidissima come marmo, cioè che in
+                        cambio di rena si tolga pietra pesta candidissima, et è a bastanza che
+                        questa sia grossa un mezo dito; perciò che facendosi grossa, malvolentieri
+                        si secca. Io ho veduti alcuni che per non spendere non la fanno più grossa
+                        che un suolo di scarpa. Lo arricciato, secondo che è più vicino, o a quelle,
+                        o a questo secondo si modera. Nei massi delle cave di pietra si truovano
+                        certe vene molto simili a un trasparente Alabastro, che non sono né marmo,
+                        né gesso; ma d'una certa natura mezzana infra l'uno et l'altro. Le quali
+                        sono molto atte a disfarsi, queste si fatte vene peste et mescolate in
+                        cambio di rena mostrano certe scintille come di splendido marmo. In molti
+                        luoghi si veggono aguti messi per le mura acciò ritenghino li Intonichi, et
+                        il tempo ne ha insegnato che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> sono migliori di bronzo che di ferro. Piaccionmi assai coloro che
+                        in cambio di chiodi hanno messo fra l'una pietra et l'altra per le mura
+                        certi pezzuoli di lastruccie, che eschino fuori, ma con un martello di
+                        legno. Et il muro quanto sarà più fresco, et più ronchioso, tanto più forte
+                        riterrà il rinzaffato, l'arricciato, et l'intonico; Per il che se nel murare
+                        et mentre che si fa l'opera tu la rinzafferai, benche leggiermente; farai
+                        che lo arricciato et lo intonico vi si attaccheranno fortissimamente, et da
+                        non si spicchare mai; dopo che hanno tirato i Venti Australi sarà bene farte
+                        ognuna di qual'ti voglia di queste cose, ma se quando tirano tramontani, et
+                        che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> sono o gran'freddi, o gran'caldi, tu vorrai intonicare; l'intonico
+                        subito diventerà scabroso. Le ultime corteccie finalmente sono di due sorti;
+                        o le sono appiastrate et distese, o le sono di cose aggiuntevi et
+                        adattatevi. Distendesi il gesso et la calcina, ma il gesso non è buono se
+                        non in luoghi asciuttissimi; a qual'si voglia sorte di corteccie, la
+                        scorrente humidità delle mura vecchie, è inimicissima, quelle che si
+                        commettono sono pietre et vetri et simili. Le corteccie distese et
+                        appiastrate sono queste, le bianche stiette, le difigure di stucchi, et le
+                        dipinte; ma quelle che si commettono sono gli intavolati, gli sfondati, et i
+                        tassellati. Tratteremo delle prime, per le quali la calcina si ordinerà in
+                        questa maniera. Spengasi la calcina con acqua chiara in uno truogolo
+                        coperto, et con tanta acqua, che di gran lunga gliene avanzi; di poi con la
+                        marra si rimenerà assai, asciandola, et piallandola, come si fa a legni; et
+                        che ella sia bene spenta et macera ne darà segno se la marra non sarà offesa
+                        da alcuno sassolino, o pietruzza; non credono che ella sia matura abastanza,
+                        innanzi a tre mesi. Bisogna che sia molto morbida et molto viscosa, quella
+                        che è da lodare; percioche<pb n="184"/> se il ferro ne uscirà asciutto, è
+                        segno che ella non ha havuta tanta acqua, che sia stata abastanza a
+                        spegnerli la sete; quando tu rimenerai con la rena, o con alcuna cosa pesta,
+                        rimenala di nuovo et da capo di grande vantaggio, et rimenala tanto che
+                        quasi faccia la stiuma. Gli antichi usavano pestare nel mortaio quella, che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> volevano adoperare per gli intonachi, et temperavano questa
+                        mistura in maniera, che mentre la davano non si attaccasse al ferro. Sopra
+                        la già posta corteccia, mentre che ella è così soppassa et fresca si metta
+                        l'altra; et avvertiscasi che in un medesimo instante venghino a rasciugarsi
+                        insieme tutte queste corteccie; pulisconsi et serronsi insieme con
+                        appianatoie, con pialletti et con cose simili, mentre che le sono soppasse.
+                        L'ultima pelle di bianco stietto se ella sarà stropicciata diligentemente
+                        rilucerà come uno specchio. Et se la medesima poi che sarà quasi asciutta,
+                        tu la ugnerai con un poco di cera et mastico liquefatti con un poco poco
+                        d'olio, et così se le mura così unte scalderai con uno scaldaletto di
+                        carboni accesi, o con un caldano, di modo che ella si succi quello untume
+                        vincerà di bianchezza il Marmo. Io ho fatto experienza che simili intonichi
+                        non scoppiamo mai, se nel farli subito che si veggono apparire quei
+                        fessolini, <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> saranno maneggiati con certi fascetti di vergette di Malvavischio,
+                        o di ginestra salvatica. Ma se a un bisogno tu harai a intonicare nel
+                        Sollione, o in luoghi caldissimi, pesta et taglia minutamente funi vecchie,
+                        et mescolale con lo Intriso. Oltra di questo si pulirà dilicatissimamente se
+                        tu vi gitterai sopra un poco di sapone bianco, disfatto con alquanto d'acqua
+                        tiepida, et essendo troppo unto diventa pallido. Le figurette di stucco
+                        espeditissimamente si caveranno dai cavi; et i cavi si formeranno dai
+                        rilievi gittandovi sopra gesso liquido; et quando elle saranno rasciutte, se
+                        le saranno unte con quello untume che io ho detto, faranno una pelle come un
+                        Marmo. Queste figurette sono di due sorti, una di tutto rilievo, et l'altra
+                        di basso rilievo; in un muro diritto stanno bene quelle di tutto rilievo, ma
+                        in un cielo d'una volta stanno meglio i bassi rilievi; perché quelle di gran
+                        rilievo per il peso loro havendo a stare spenzoloni, si staccano et cascano
+                        facilmente; et sono pericolose di dare in testa a chi vi si truova sotto.
+                        Bene avvertiscono che dove ha da essere assai polvere non vi si metta
+                        adornamenti di cavo, o di molto rilievo; ma bassi et di poco rilievo, acciò
+                        si nettino più facilmente. Gli Intonachi dipinti altri si fanno in fresco;
+                        et altri si lavorano asciutti; a quelli, che si fanno in fresco si confà
+                        ogni colore naturale, che procede dalla Terra, dalle miniere o simili; ma i
+                        colori alterati et massimo tutti quelli, che messi a fuoco fanno mutatione,
+                        desiderano cose asciuttissime, et hanno in odio la calcina, la Luna, et i
+                        Venti Australi; hanno trovato nuovamente che tutti i colori si mescolano con
+                        olio di lino; et durano eterni, contro le offese dell'Aria, et del Cielo;
+                        purché il muro, dove si mettono sia asciuttissimo, senza punto di humidità;
+                        ancora che io truovo che i pittori antichi usarono nel dipignere le Poppe
+                        delle Navi in cambio di colla, cera liquida. Et se io mi ricordo bene io ho
+                        visto nelle opere delli Antichi colori di Gemme appicati nelle mura con cera
+                        o forse con stucco bianco, diventati per il tempo tanto duri, che né con
+                        fuoco, né con acqua se ne possono spiccare. Dirai che sia Vetro abbruciato,
+                        et ho veduto che alcuni con il candido fiore della calcina, hanno attacati
+                        colori alle mura;<pb n="185"/> et massimo Vetrini mentre erano ancora
                         fresche, ma di loro sia detto a bastanza. </p>
                 </div2>
                 <div2 type="chapitre" n="10" xml:id="L6C10">
-                    <head> Del modo del segare i Marmi, et che rena sia perciò migliore della
-                        conuenienza et differentia del Musaico di rilievo, et del Musaico piano; et
-                        dello stucco con che si hanno a mettere in opera. Cap. X.</head>
-                    <p xml:id="BAR_A_L6_L6C10_P1"> Ma nelle corteccie commesse, o attaccate
-                        d'intavolature, o pulite, o di sfondati; si vsa in tutte il medesimo modo. È
-                        cosa certo maravigliosa a raccontare la diligentia, che gli Antichi vsarono
-                        nel segare le tavole di marmo, et nel pulirle. Io veramente ho vedute tavole
-                        di marmo lunghe piu di tre braccia larghe un'braccio et mezo, ma grosse
-                        apena mezo dito, et congiunte insieme con una linea piegata a guisa d'una
-                        onda, accioché i riguardanti rimanessino piu facilmente ingannati nel non si
-                        accorgere della commettitura. Dice <persName ref="#Pline">Plinio</persName>
-                        che gli antichi lodarono assai per segare marmi, la Rena di Etiopia, et che
-                        quella d'India se li avicinava; ma piu morbida essere la egittia, et
-                        finalmente migliore de le nostre; pur'dicono che in un'certo guado del Mare
-                        Adriatico ne fu trovata una, che gli Antichi sene seruirono. Noi di su liti
-                        di Pozzuolo caviamo una sorte di Rena non però disutile per si fatti lavori;
-                        la rena cantoluta presa di qual'si voglia Torrente è utile, ma quanto ella è
-                        piu grossa, tanto fa le segature piu larghe, et rode piu forte; et quanto
-                        ella và piu leggiermente leccando, tanto piu s'avuicina al pulimento. Il
-                        pulimento comincia dalle vltime scalpellature, et finisce piu tosto leccando
-                        che rodendo; Lodano nel pulire et stroppiciare i marmi assai quella di Tebe;
-                        lodano ancora le pietre da arrotare, et lo smeriglio che è una spetie di
-                        pietra, la poluere della quale è perciò eccellentissima. La Pomice ancora
-                        per dare gli vltimi pulimenti è molto utile, la stiuma dello stagno arso et
-                        la biacca abbruciata, et piu di tutti il gesso di <placeName ref="#Tripoli"
-                            >Tripoli</placeName>, et simili, pur'che si pestino sottilissimamente in
-                        piu minuta poluere che non son'gli Atomi ma mordaci, sono utilissimi. Per
-                        fermare le tavole, se le saranno grosse ficchinsi nelle mura o perni di
-                        ferro, o spranghe di marmo, che eschino fuori del Muro, alle quali si
-                        accomandidino le nude tavole. Ma se le tavole saranno sottili, doppo lo
-                        arricciato, in cambio di calcina torrai cera, pece, ragia, mastico, et una
-                        quantità di qual'ti voglia gomma liquefatta così insieme alla mescolata; et
-                        scalda a poco a poco la tavola acciò che per la troppa forza del fuoco se
-                        per aventura lene dessi a un'tratto, non venga a scopiare. Nel fermare le
-                        tavole sarà cosa lodata se da la commettitura et ordine loro, ne nascerà una
-                        veduta gratiosa; debbonsi accommodare le macchie alle macchie i colori a
-                        colori, et le cose simili alle simili; di modo che l'una renda l'altra
-                        gratiosa. Mi piace molto lo accorgimento delli Antichi che facevano quelle
-                        cose che dovevano stare piu vicine a gli occhi, nitidissime, et oltra modo
-                        pulite; et nelle altre, che havevano a stare lontane, et suso ad alto, nostr
-                        duravano tanta fatica; anzi le mettevano non che altro in alcuni luoghi,
-                        senza pulirle, dovendo essere a gran'pena guardate da ricercatori
-                        curiosissimi. Il Musaico di rilievo et quello, che si fa piano, conuengono
-                        in questo, che in amenduni imitiamo la pittura con varii colori di pietre,
-                        di Vetri, et di nicchi, con un'certo accommodato componimento. <persName
-                            ref="#Neron">Nerone</persName> dicono che fu il primo, che facesse
-                        segare i nichi delle perle, et mescolarli nel Musaico. Ma in questo
-                        son'differenti l'un'da l'altro, che nel Musaico di rilievo mettiamo pezzi di
-                        pietre maggiori che noi possiamo; ma nel Musaico piano non si mettono pezzi
-                        quadri, maggiori che si sia una fava. Et quanto e'sono piu minuti pezzuoli,
-                        tanto piu rendono lo splendore scintillante, riverberando quelle faccie i
-                        presi lumi in varie parti. Sono ancora in questo differenti che nello
-                        attaccare quelle, è piu utile lo stucco, che si fa di gomme; Et a queste in
-                        piano è piu utile la calcina, che vi sia mescolato trevertino pesto come
-                        poluere. Sono alcuni, che al Musaico piano, vogliono che si bagni la calcina
-                        piu et piu volte con acqua bollita; accioché lasciata quella salsedine sia
-                        piu moruida et piu pastosa. Io veggo che nell'opere del Musaico di rilievo,
-                        sono state pulite alla ruota pietre durissime. Nel Musaico piano s'appicca
-                        l'oro al vetro con calcina di piombo; la quale diventa piu liquida che
-                        qual'si voglia Vetro. Tutto quello che noi habbian detto delli intonichi, o
-                        cortecce, fa quasi approposito de pavimenti, de quali habbian'promesso di
-                        trattare, saluo però che ne pavimenti non si fanno si belle pitture, ne si
-                        belli Musaici, se gia tu non vuoi che si chiami pittura, il fare uno smalto
-                        di varii colori, et con ordine distinguerlo in spatii determinati fra marmo
-                        et marmo ad imitatione di pittura. Fassi di terra rossa, di matton'cotti, di
-                        pietra et di stiuma di ferro, et tale smalto quando è asciutto bisogna che
-                        si schiumi, il che si fa in questo modo, habbi una pietra viva, o piu tosto
-                        un'Piombo di cinque pesi, che habbia la faccia spianata et con funi da l'una
-                        testa et da l'altra si tiri innanzi et in dietro tanto et tanto per il
-                        pavimento, gettandoui sopra rena grossa et acqua, che quasi radendo il
-                        pavimento lo pulisca grandemente; et non si pulirà se le linee et i canti
-                        delli intavolati non saranno vguali et conformi; se sarà unto et massimo con
-                        olio di lino, farà una pelle come un'vetro, et è molto commodo vgnerlo con
-                        morchia, et con acqua ancora, nella quale sia stata spenta calcina; gioverà
-                        assai se tu lo bagnerai piu et piu volte. In tutte queste cose, che noi
-                        habbiamo racconte, si ha da fuggire, che in un'medesimo luogo non sia troppo
-                        spesso un'medesimo colore; ne troppo spesse le medesime forme; ne messe
-                        insieme troppo a caso. Fuggasi ancora che le commettiture non sieno troppo
-                        aperte, tutte le cose adunque si faranno, et si metteranno insieme con gran
-                        diligentia; accio che tutte le parti d'un'tal'lavoro mostrino d'esser'finite
-                        vgualmente.</p>
+                    <head rend="it">Del modo del segare i Marmi, et che rena sia perciò migliore
+                        della convenienza et differentia del Musaico di rilievo, et del Musaico
+                        piano; et dello stucco con che si hanno a mettere in opera. Cap. X.</head>
+                    <p xml:id="BAR_A_L6_L6C10_P1"><hi rend="capitals">MA</hi> nelle corteccie
+                        commesse, o attaccate d'intavolature, o pulite, o di sfondati; si usa in
+                        tutte il medesimo modo. È cosa certo maravigliosa a raccontare la
+                        diligentia, che gli Antichi usarono nel segare le tavole di marmo, et nel
+                        pulirle. Io veramente ho vedute tavole di marmo lunghe piu di tre braccia
+                        larghe un braccio et mezo, ma grosse apena mezo dito, et congiunte insieme
+                        con una linea piegata a guisa d'una onda, accioché i riguardanti rimanessino
+                        più facilmente ingannati nel non si accorgere della commettitura. Dice
+                            <persName ref="#Pline">Plinio</persName> che gli antichi lodarono assai
+                        per segare marmi, la Rena di <placeName ref="#Ethiopie">Etiopia</placeName>,
+                        et che quella d'<placeName ref="#Inde">India</placeName> se li avicinava; ma
+                        più morbida essere la egittia, et finalmente migliore delle nostre; pure
+                        dicono che in un certo guado del Mare Adriatico ne fu trovata una, che gli
+                        Antichi se ne servirono. Noi di su liti di <placeName>Pozzuolo</placeName>
+                        caviamo una sorte di Rena non però disutile per si fatti lavori; la rena
+                        cantoluta presa di qual'si voglia Torrente è utile, ma quanto ella è più
+                        grossa, tanto fa le segature più larghe, et rode più forte; et quanto ella
+                        và più leggiermente leccando, tanto più s'avvicina al pulimento. Il
+                        pulimento comincia dalle ultime scalpellature, et finisce più tosto leccando
+                        che rodendo; Lodano nel pulire et stroppiciare i marmi assai quella di
+                            <placeName ref="#Thebes">Tebe</placeName>; lodano ancora le pietre da
+                        arrotare, et lo smeriglio che è una spetie di pietra, la polvere della quale
+                        è perciò eccellentissima. La Pomice ancora per dare gli ultimi pulimenti è
+                        molto utile, la stiuma dello stagno arso et la biacca abbruciata, et più di
+                        tutti il gesso di <placeName ref="#Tripoli">Tripoli</placeName>, et simili,
+                        pure che si pestino sottilissimamente in più minuta poluere che non sono gli
+                        Atomi ma mordaci, sono utilissimi. Per fermare le tavole, se le saranno
+                        grosse ficchinsi nelle mura o perni di ferro, o spranghe di marmo, che
+                        eschino fuori del Muro, alle quali si accomandidino le nude tavole. Ma se le
+                        tavole saranno sottili, dopo lo arricciato, in cambio di calcina torrai
+                        cera, pece, ragia, mastico, et una quantità di qual'ti voglia gomma
+                        liquefatta così insieme alla mescolata; et scalda a poco a poco la tavola
+                        acciò che per la troppa forza del fuoco se per aventura lene dessi a un
+                        tratto, non venga a scopiare. Nel fermare le tavole sarà cosa lodata se
+                        dalla commettitura et ordine loro, ne nascerà una veduta gratiosa; debbonsi
+                        accommodare le macchie alle macchie i colori a colori, et le cose simili
+                        alle simili, di modo che l'una renda l'altra gratiosa. Mi piace molto lo
+                        accorgimento delli Antichi che facevano quelle cose che dovevano stare più
+                        vicine agli occhi, nitidissime, et oltra modo pulite; et nelle altre, che
+                        havevano a stare lontane, et suso ad alto, non duravano tanta fatica; anzi
+                        le mettevano non che altro in alcuni luoghi, senza pulirle, dovendo essere a
+                        gran pena guardate da ricercatori curiosissimi. Il Musaico di rilievo et
+                        quello, che si fa piano, convengono in questo, che in amenduni imitiamo la
+                        pittura con vari colori<pb n="186"/> di pietre, di Vetri, et di nicchi, con
+                        un certo accommodato componimento. <persName ref="#Neron">Nerone</persName>
+                        dicono che fu il primo, che facesse segare i nichi delle perle, et
+                        mescolarli nel Musaico. Ma in questo sono differenti l'un dall'altro, che
+                        nel Musaico di rilievo mettiamo pezzi di pietre maggiori che noi possiamo;
+                        ma nel Musaico piano non si mettono pezzi quadri, maggiori che si sia una
+                        fava. Et quanto <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> sono piu minuti pezzuoli, tanto più rendono lo splendore
+                        scintillante, riverberando quelle faccie i presi lumi in varie parti. Sono
+                        ancora in questo differenti che nello attaccare quelle, è più utile lo
+                        stucco, che si fa di gomme; Et a queste in piano è più utile la calcina, che
+                        vi sia mescolato trevertino pesto come polvere. Sono alcuni, che al Musaico
+                        piano, vogliono che si bagni la calcina più et più volte con acqua bollita;
+                        accioché lasciata quella salsedine sia più morvida et più pastosa. Io veggo
+                        che nelle opere del Musaico di rilievo, sono state pulite alla ruota pietre
+                        durissime. Nel Musaico piano s'appicca l'oro al vetro con calcina di piombo;
+                        la quale diventa più liquida che qual'si voglia Vetro. Tutto quello che noi
+                        habbian detto delli intonichi, o cortecce, fa quasi approposito de
+                        pavimenti, dei quali habbiano promesso di trattare, salvo però che nei
+                        pavimenti non si fanno si belle pitture, né si belli Musaici, se già tu non
+                        vuoi che si chiami pittura, il fare uno smalto di vari colori, et con ordine
+                        distinguerlo in spati determinati fra marmo et marmo ad imitatione di
+                        pittura. Fassi di terra rossa, di mattoni cotti, di pietra et di stiuma di
+                        ferro, et tale smalto quando è asciutto bisogna che si schiumi, il che si fa
+                        in questo modo, habbi una pietra viva, o più tosto un Piombo di cinque pesi,
+                        che habbia la faccia spianata et con funi da l'una testa et dall'altra si
+                        tiri innanzi et in dietro tanto et tanto per il pavimento, gettandovi sopra
+                        rena grossa et acqua, che quasi radendo il pavimento lo pulisca grandemente;
+                        et non si pulirà se le linee et i canti delli intavolati non saranno uguali
+                        et conformi; se sarà unto et massimo con olio di lino, farà una pelle come
+                        un vetro, et è molto commodo ugnerlo con morchia, et con acqua ancora, nella
+                        quale sia stata spenta calcina; gioverà assai se tu lo bagnerai più et più
+                        volte. In tutte queste cose, che noi habbiamo racconte, si ha da fuggire,
+                        che in un medesimo luogo non sia troppo spesso un medesimo colore; né troppo
+                        spesse le medesime forme, né messe insieme troppo a caso. Fuggasi ancora che
+                        le commettiture non sieno troppo aperte, tutte le cose adunque si faranno,
+                        et si metteranno insieme con gran diligentia; acciò che tutte le parti d'un
+                        tale lavoro mostrino d'essere finite ugualmente.</p>
                 </div2>
                 <div2 type="chapitre" n="11" xml:id="L6C11">
-                    <head> Delle coperte de tetti, et delle volte et de Lastrichi scoperti, che
-                        cuoprono gl'edifitij. Cap. XI. </head>
-                    <p xml:id="BAR_A_L6_L6C11_P1">Le coperture ancora hanno le loro ricchezze et
-                        bellezze delle impalcature, delle Volte, et de pavimenti scoperti. Sono
-                        ancora hoggi nel Portico di <persName ref="#MarcusVipsaniusAgrippa"
-                            >Agrippa</persName> Impalcature con travi di Bronzo, lunghe quaranta
-                        piedi, opera certo nella quale non saprai di che piu sia da maravigliarsi, o
-                        della spesa, o dello ingegno del Maestro. Nel tempio di <persName
-                            ref="#Diane">Diana</persName> Efesia, come altrove dicemmo, durò
-                        grandissimo tempo un'palco di Cedro. Racconta <persName ref="#Pline"
-                            >Plinio</persName> che Salauce Re di Colchi, poi che egli hebbe vinto
-                        Sesostre Re di <placeName ref="#Egypte">Egitto</placeName>, hebbe travi
-                        d'Oro et d'Argento. Veggonsi ancora alcuni Tempii coperti di tavole di
-                        Marmo, come quelle, che dicono che erano grandissime nel Tenpio di
-                        Hierosolima, et splendidissime et di candore maraviglioso; talmente che chi
-                        di lontano risguardava quel Tetto, gli pareva vedere una Montagna di neve.
-                        Catulo fu il primo che in <placeName ref="#Rome">Roma</placeName> messe
-                        d'Oro i Tegoli di Bronzo di <placeName ref="#Capitole"
-                            >Campidoglio</placeName>. Trovo oltra di questo che la Ritonda in
+                    <head rend="it">Delle coperte dei tetti, et delle volte et dei Lastrichi
+                        scoperti, che cuoprono gli edifiti. Cap. XI. </head>
+                    <p xml:id="BAR_A_L6_L6C11_P1"><hi rend="capitals">Le</hi> coperture ancora hanno
+                        le loro ricchezze et bellezze delle impalcature, delle Volte, et dei
+                        pavimenti scoperti. Sono ancora hoggi nel <objectName
+                            ref="#PortiqueVipsaniaRome">Portico di <persName
+                                ref="#MarcusVipsaniusAgrippa">Agrippa</persName></objectName>
+                        Impalcature con travi di Bronzo, lunghe quaranta piedi, opera certo nella
+                        quale non saprai di che più sia da maravigliarsi, o della spesa, o dello
+                        ingegno del Maestro. Nel <objectName ref="#TempleArtemisEphese">tempio di
+                                <persName ref="#Diane">Diana</persName></objectName>
+                        <placeName ref="#Ephese">Efesia</placeName>, come altrove dicemmo, durò
+                        grandissimo tempo un palco di Cedro. Racconta <persName ref="#Pline"
+                            >Plinio</persName> che <persName>Salauce</persName> Re di Colchi, poi
+                        che egli hebbe vinto <persName ref="#SesostrisIer">Sesostre</persName> Re di
+                            <placeName ref="#Egypte">Egitto</placeName>, hebbe<pb n="187"/> travi
+                        d'Oro et d'Argento. Veggonsi ancora alcuni Tempi coperti di tavole di Marmo,
+                        come quelle, che dicono che erano grandissime nel <objectName
+                            ref="#TempleDeJerusalem">Tempio di Hierosolima</objectName>, et
+                        splendidissime et di candore maraviglioso; talmente che chi di lontano
+                        risguardava quel Tetto, gli pareva vedere una Montagna di neve. <persName
+                            ref="#Catule">Catulo</persName> fu il primo che in <placeName
+                            ref="#Rome">Roma</placeName> messe d'Oro i Tegoli di Bronzo di
+                            <placeName ref="#Capitole">Campidoglio</placeName>. Trovo oltra di
+                        questo che la <objectName ref="#PantheonRome">Ritonda</objectName> in
                             <placeName ref="#Rome">Roma</placeName> era coperta di Piastre di Rame
-                        dorate. Et Papa Honorio, quello (dico) al tempo del quale Maumetto ordinò
-                        allo <placeName ref="#Egypte">Egitto</placeName> et alla Libia nuova
-                        Relligione, et nuoui sacrifitii, coperse la chiesa di San'Pietro tutta di
-                        Tavole di Rame. La <placeName ref="#Allemagne">Germania</placeName>
-                        risplende per i Tegoli inuetriati. In molti luoghi vsiamo il Piombo, opera
-                        certo atta a durare assai, et sopratutto ha del gratioso, et non è di grande
-                        spesa, ma e'si arreca dietro queste incommodità, che se egli si mette in
-                        calcina per non potere respirare da lato di sotto, ribollendo quelle pietre
-                        sopra le quali egli è posto, per il feruore del Sole, si strugge. Faccia
-                        questo a nostro proposito del che possiamo fare esperienza. Se si mette
-                        un'vaso di piombo a fuoco pieno d'acqua non si strugge; ma mettivi una
-                        pietruzza dentro, subito per esser'tocco si liquefà et si fora. Oltre a che
-                        non essendo egli confitto o sprangato per tutto, è facilmente consumato da
-                        venti. Oltre a questo ancora si consuma et si guasta presto dalla salsedine
-                        delle calcine; ma si accommoderà meglio in su legname, se già tu non hai
-                        paura del fuoco; ma in questo luogo sono scommodissimi i chiodi, et massimo
-                        di ferro, conciosia che ribollono et s'infiammano piu che le pietre, et si
-                        consumano all'intorno di ruggine: et per questo sopra le volte debbono
-                        essere le spranghe et i perni di piombo, accioché col saldatoio di ferro
-                        rovente si fermino nelle piastre di Piombo; bisogna che vi si faccia sotto
-                        un'piano di cenere di salci, lavata, mescolata con terra bianca; i Perni di
-                        Rame manco si infiammano, et manco offendono con la ruggine. Il Piombo
-                        imbrattandosi di sterco, si guasta; et però bisogna avertire che non vi
-                        sieno luoghi dove gli vccelli possino commodamente posaruisi, o se pure vi
-                        si hanno da ragunare vccellami, mettasi materia piu serrata dove si ha a
-                        ragunare lo sterco. Dice Eusebio che in cima del Tempio di Salamone, erano
-                        state messe certe catene, dalle quali spenzolavano quattrocento campanette
-                        di bronzo, per il suono delle quali gli vccelli si fuggivano. Ne Tetti
-                        ancora si adornano i frontispicii, et le gronde et le cantonate,
-                        mettendouisi Palle, Fiori, Statue, Carrette, et simil'cose, delle quali
-                        membro per membro tratteremo a luogo loro. Al presente non ci sovuiene
-                        d'altro, che si aspetti a trattare de gli ornamenti in genere, se non che
-                        secondo l'opere si mettino in luoghi acconmodati quelle cose, che piu se gli
-                        confanno. </p>
+                        dorate. Et <persName ref="#HonoreI">Papa Honorio</persName>, quello (dico)
+                        al tempo del quale <persName ref="#Mahomet">Maumetto</persName> ordinò allo
+                            <placeName ref="#Egypte">Egitto</placeName> et alla <placeName
+                            ref="#Libye">Libia</placeName> nuova Religione, et nuovi sacrifiti,
+                        coperse la <objectName ref="#AntiqueBasiliqueVaticane">chiesa di San
+                            Pietro</objectName> tutta di Tavole di Rame. La <placeName
+                            ref="#Allemagne">Germania</placeName> risplende per i Tegoli invetriati.
+                        In molti luoghi usiamo il Piombo, opera certo atta a durare assai, et
+                        sopratutto ha del gratioso, et non è di grande spesa, ma e'si arreca dietro
+                        queste incommodità, che se egli si mette in calcina per non potere respirare
+                        da lato di sotto, ribollendo quelle pietre sopra le quali egli è posto, per
+                        il fervore del Sole, si strugge. Faccia questo a nostro proposito del che
+                        possiamo fare esperienza. Se si mette un vaso di piombo a fuoco pieno
+                        d'acqua non si strugge; ma mettivi una pietruzza dentro, subito per essere
+                        tocco si liquefà et si fora. Oltre a che non essendo egli confitto o
+                        sprangato per tutto, è facilmente consumato dai venti. Oltre a questo ancora
+                        si consuma et si guasta presto dalla salsedine delle calcine; ma si
+                        accommoderà meglio in su legname, se già tu non hai paura del fuoco; ma in
+                        questo luogo sono scommodissimi i chiodi, et massimo di ferro, con ciò sia
+                        che ribollono et s'infiammano più che le pietre, et si consumano all'intorno
+                        di ruggine: et per questo sopra le volte debbono essere le spranghe et i
+                        perni di piombo, accioché col saldatoio di ferro rovente si fermino nelle
+                        piastre di Piombo; bisogna che vi si faccia sotto un piano di cenere di
+                        salci, lavata, mescolata con terra bianca; i Perni di Rame manco si
+                        infiammano, et manco offendono con la ruggine. Il Piombo imbrattandosi di
+                        sterco, si guasta; et però bisogna avertire che non vi sieno luoghi dove gli
+                        uccelli possino commodamente posarvisi, o se pure vi si hanno da ragunare
+                        uccellami, mettasi materia piu serrata dove si ha a ragunare lo sterco. Dice
+                        Eusebio che in cima del <objectName ref="#TempleSalomonJerusalem">Tempio di
+                            Salamone</objectName>, erano state messe certe catene, dalle quali
+                        spenzolavano quattrocento campanette di bronzo, per il suono delle quali gli
+                        uccelli si fuggivano. Nei Tetti ancora si adornano i frontispici, et le
+                        gronde et le cantonate, mettendovisi Palle, Fiori, Statue, Carrette, et
+                        simili cose, delle quali membro per membro tratteremo a luogo loro. Al
+                        presente non ci sovviene d'altro, che si aspetti a trattare degli ornamenti
+                        in genere, se non che secondo le opere si mettino in luoghi accomodati
+                        quelle cose, che più se gli confanno. </p>
                 </div2>
                 <div2 type="chapitre" n="12" xml:id="L6C12">
-                    <head> Che gli adornamenti de vani dilettano assai, ma che hanno molte et varie
-                        incommodità, et difficultà; et che i vani finti sono di due sorti, et quel
-                        che si confaccia a l'una et a l'altra. Cap. XII.</head>
-                    <p xml:id="BAR_A_L6_L6C12_P1"> Gli adornamenti de Vani arrecano all'opera et
-                        dilettatione et grandezza non piccola, ma hanno molte gravi, et grandissime
-                        difficultati; alle quali non si provuede senza grandissima diligentia del
-                        Maestro, et grossa spesa: Percioche egli vi è di bisogno di Pietre grandi
-                        intere, vguali, eccellenti, rare le quali cose non si truovano così
-                        facilmente tutte, ne facilmente si maneggiano, dirizzano, lavorano, o
-                        mettono insieme, secondo il tuo parere a punto. <persName ref="#Ciceron"
-                            >Cicerone</persName> vsava dire che gli Architettori dicevano che e'non
-                        si poteva piantare una Colonna, che stesse a piombo, il che ne vani è oltra
-                        modo necessario si quanto alla stabilità, si ancora quanto alla gratia,
-                        Sonci ancora delle altre in commodità, ma a tutte per quanto si distenderà
-                        l'ingegno nostro provuederemo. Il vano naturalmente è aperto, ma alcuna
-                        volta si fa dietro ad un'vano un'muro, come s'appicca la pelle ad una veste,
-                        et si finge un'vano, non aperto, ma chiuso; il quale non male percio
-                        chiameremo un'vano finto, questa sorte di ornamento fu sì come la
-                        maggior'parte di tutti gli altri ornamenti per far'l'opera piu gagliarda, et
-                        per spender'manco, primieramente trovata da legnaivoli, et seguitando queste
-                        pedate gli scarpellini arrecarono alle fabbriche gratia non piccola. Qual
-                        siè l'un'di questi sarà piu bello se sarà d'ossa intere d'una sola pietra,
-                        et vicino a questo sarà quando tutte le parti saranno insieme in maniera
-                        congiunte, che le commettiture non si vegghino. Gli antichi vsavano di
-                        rizzare et fermare le colonne, et altre pietre, che seruono per ossami ne
-                        vani finti, et ferrmale nelle loro base, avanti che e'facessino le mura,
-                        saviamente certo, perché piu espeditamente si potevano valere delli
-                        instrumenti, et meglio le potevano collocare a piombo. La Colonna si
-                        pianterà su la sua basa a piombo in questa maniera, noterannosi, et nel
-                        dabasso et nel da capo della colonna i centri de collarini; nel centro della
-                        basa si impionberà un'perno di ferro, et farassi tanto buco nel centro del
-                        da pie della colonna che riceva il perno che esce fuora del centro della
-                        basa. Sopra il capo della colonna si noterà un'punto, al quale accostando il
-                        filo del tuo piombo farai che egli caschi apunto sul mezo del perno della
-                        sua basa a dirittura; ordinate queste cose non ti sarà difficile, fare
-                        pendere secondo il bisogno la testa della colonna talmente, che ella posi a
-                        piombo nel mezo sopra la basa. Io ho imparato dalle opere delli Antichi che
-                        i Marmi piu teneri si possono spianare con quelli stessi ferri con i quali
-                        si spiana il legname. Vsarono ancora gli antichi di murare le pietre roze,
-                        che havessino solamente lavorate le teste, et i lati mediante i quali si
-                        potessino murare l'una co l'altra, et fatta che era l'opera poi lavoravano
-                        et pulivano quel che vi era rimasto di rozo ciò è le facce, et credo che
-                        e'lo facessino per esporre al pericolo delli instrumenti, da adoperaruisi
-                        manco spesa che e'potevano. Percioché molto maggior'danno harebbon'ricevuto
-                        se per disgratia si fusse rotta alcuna pietra lavorata et finita del tutto;
-                        che e'non harebbono ricevuto delle incominciate a lavorarsi: oltre a che
-                        egli havevano grandissima avuertenza al tempo, percioché altra stagione
+                    <head rend="it">Che gli adornamenti dei vani dilettano assai, ma che hanno molte
+                        et varie incommodità, et difficultà; et che i vani finti sono di due sorti,
+                        et quel che si confaccia all'una et all'altra. Cap. XII.</head>
+                    <p xml:id="BAR_A_L6_L6C12_P1"><hi rend="capitals">GLi</hi> adornamenti dei Vani
+                        arrecano all'opera et dilettatione et grandezza non piccola, ma hanno molte
+                        gravi, et grandissime difficultati; alle quali non si provvede senza
+                        grandissima diligentia del Maestro, et grossa spesa: Percioche<pb n="188"/>
+                        egli vi è di bisogno di Pietre grandi intere, uguali, eccellenti, rare le
+                        quali cose non si truovano così facilmente tutte, né facilmente si
+                        maneggiano, dirizzano, lavorano, o mettono insieme, secondo il tuo parere a
+                        punto. <persName ref="#Ciceron">Cicerone</persName> usava dire che gli
+                        Architettori dicevano che e'non si poteva piantare una Colonna, che stesse a
+                        piombo, il che nei vani è oltra modo necessario si quanto alla stabilità, si
+                        ancora quanto alla gratia, Sonci ancora delle altre in commodità, ma a tutte
+                        per quanto si distenderà l'ingegno nostro provvederemo. Il vano naturalmente
+                        è aperto, ma alcuna volta si fa dietro ad un vano un muro, come s'appicca la
+                        pelle ad una veste, et si finge un vano, non aperto, ma chiuso; il quale non
+                        male perciò chiameremo un vano finto, questa sorte di ornamento fu sì come
+                        la maggior parte di tutti gli altri ornamenti per fare l'opera più
+                        gagliarda, et per spendere manco, primieramente trovata dai legnaiuoli, et
+                        seguitando queste pedate gli scarpellini arrecarono alle fabbriche gratia
+                        non piccola. Qual si è l'un'di questi sarà piu bello se sarà d'ossa intere
+                        d'una sola pietra, et vicino a questo sarà quando tutte le parti saranno
+                        insieme in maniera congiunte, che le commettiture non si vegghino. Gli
+                        antichi usavano di rizzare et fermare le colonne, et altre pietre, che
+                        servono per ossami ne vani finti, et ferrmale nelle loro base, avanti che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> facessino le mura, saviamente certo, perché più espeditamente si
+                        potevano valere delli instrumenti, et meglio le potevano collocare a piombo.
+                        La Colonna si pianterà sulla sua basa a piombo in questa maniera,
+                        noterannosi, et nel dabasso et nel da capo della colonna i centri dei
+                        collarini; nel centro della basa si impionberà un perno di ferro, et farassi
+                        tanto buco nel centro del da piè della colonna che riceva il perno che esce
+                        fuora del centro della basa. Sopra il capo della colonna si noterà un punto,
+                        al quale accostando il filo del tuo piombo farai che egli caschi apunto sul
+                        mezo del perno della sua basa a dirittura; ordinate queste cose non ti sarà
+                        difficile, fare pendere secondo il bisogno la testa della colonna talmente,
+                        che ella posi a piombo nel mezo sopra la basa. Io ho imparato dalle opere
+                        delli Antichi che i Marmi più teneri si possono spianare con quelli stessi
+                        ferri con i quali si spiana il legname. Usarono ancora gli antichi di murare
+                        le pietre roze, che havessino solamente lavorate le teste, et i lati
+                        mediante i quali si potessino murare l'una con l'altra, et fatta che era
+                        l'opera poi lavoravano et pulivano quel che vi era rimasto di rozo cioè le
+                        facce, et credo che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> lo facessino per esporre al pericolo delli instrumenti, da
+                        adoperarvisi manco spesa che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> potevano. Percioché molto maggiore danno harebbono ricevuto se per
+                        disgratia si fusse rotta alcuna pietra lavorata et finita del tutto; che <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> non harebbono ricevuto delle incominciate a lavorarsi: oltre a che
+                        egli havevano grandissima avvertenza al tempo, percioché altra stagione
                         ricerca il murare, altra il vestire le muraglie, et altra il ripulire. Duoi
                         sono i modi de vani finti, l'uno è quello dove le colonne, o i pilastri si
                         accostano talmente al muro, che il muro ne nasconde una determinata parte,
                         et un'altra parte ne lascia fuori; l'altro è quello dove tutte le colonne
-                        escono fuori del muro, parendo quasi che si vogli imitare un'portico, quel
+                        escono fuori del muro, parendo quasi che si vogli imitare un portico, quel
                         primo si dirà basso rilievo, et quest'altro si chiamerà tutto rilievo, al
                         mezo rilievo s'aspettano le colonne tonde, o i pilastri, le colonne tonde
-                        non vogliono vscire ne piu ne men'fuori che mezze. Pianta del vano finto di
-                        basso rilievo con meze colonne. I pilastri non piu che la quarta parte della
-                        sua larghezza ne meno che la sesta. Nel modo di tutto il rilievo le colonne
-                        non vogliono vscir fuori del muro piu che la larghezza della base, et il
-                        quarto piu. Ne meno mai in alcun'luogo che tutta la colonna et la basa esca
-                        fuori del muro. Ma quelle che vsciranno fuor del muro per la larghezza della
-                        basa et il quarto più, è di necessità che habbino nel muro il loro pilastro
-                        quadro di basso rilievo che gli corrisponda, nel modo di tutto rilievo non
-                        si distenderà l'architrave per il lungo del muro ma partendosi in isquadra
-                        dal pilastro, andrà risaltando a trovare la testa della colonna; et il
-                        fregio et la cornice, che adornano l'architrave faranno ancora il simile. Ma
-                        nel modo di mezo rilievo ti sarà lecito far'come tu vuoi, o veramente tirare
-                        l'architrave et le cornici a diritto per la lunghezza del muro, o veramente
-                        con un'poco di risalto sopra i pilistri, andrai con li aggetti imitando il
-                        modo di tutto il rilievo. Habbiamo trattato delli ornamenti che si aspettano
-                        a quelle parti delli edifitii, ne quali ornamenti tutti gli edifitii
-                        conuengono insieme; ma di quelli ne quali non conuengono diremo nel libro,
-                        che segue: percioché questo è grande a bastanza. ma havendo questo libro
-                        preso sopra di sè a discorrere quelle cose, che si appartengono alli
-                        ornamenti di queste parti, non si lasci perciò in dietro niente, che sia per
-                        giovare a tal cosa.</p>
+                        non vogliono uscire né più né meno fuori che mezze. </p>
+                    <pb n="189"/>
+                    <figure type="schema"/>
+                    <figure type="plan"/>
+                    <p xml:id="BAR_A_L6_L6C12_P2">Pianta del vano finto di basso rilievo con meze
+                        colonne.</p>
+                    <pb n="190"/>
+                    <p xml:id="BAR_A_L6_L6C12_P3">I pilastri non piu che la quarta parte della sua
+                        larghezza ne meno che la sesta.</p>
+                    <figure type="schema"/>
+                    <figure type="plan"/>
+                    <pb n="191"/>
+                    <p xml:id="BAR_A_L6_L6C12_P4">Nel modo di tutto il rilievo le colonne non
+                        vogliono vscir fuori del muro piu che la larghezza della base, et il quarto
+                        più.</p>
+                    <figure type="schema"/>
+                    <figure type="plan"/>
+                    <pb n="192"/>
+                    <p xml:id="BAR_A_L6_L6C12_P5">Né meno mai in alcun'luogo che tutta la colonna et
+                        la basa esca fuori del muro.</p>
+                    <figure type="schema"/>
+                    <figure type="plan"/>
+                    <pb n="193"/>
+                    <p xml:id="BAR_A_L6_L6C12_P5">Ma quelle che usciranno fuor del muro per la
+                        larghezza della basa et il quarto più, è di necessità che habbino nel muro
+                        il loro pilastro quadro di basso rilievo che gli corrisponda, nel modo di
+                        tutto rilievo non si distenderà l'architrave per il lungo del muro ma
+                        partendosi in isquadra dal pilastro, andrà risaltando a trovare la testa
+                        della colonna; et il fregio et la cornice, che adornano l'architrave faranno
+                        ancora il simile.</p>
+                    <figure type="schema"/>
+                    <pb n="194"/>
+                    <p xml:id="BAR_A_L6_L6C12_P6">Ma nel modo di mezo rilievo ti sarà lecito fare
+                        come tu vuoi, o veramente tirare l'architrave et le cornici a diritto per la
+                        lunghezza del muro, o veramente con un poco di risalto sopra i pilistri,
+                        andrai con li aggetti imitando il modo di tutto il rilievo.</p>
+                    <figure type="schema"/>
+                    <pb n="195"/>
+                    <figure type="schema"/>
+                    <p xml:id="BAR_A_L6_L6C12_P7">Habbiamo trattato delli ornamenti che si aspettano
+                        a quelle parti delli edifiti, nei quali ornamenti tutti gli edifiti
+                        convengono insieme; ma di quelli nei quali non convengono diremo nel <ptr
+                            target="L7" type="renvoie">libro che segue</ptr>: percioché questo è
+                        grande a bastanza. Ma havendo <ptr target="L6" type="renvoie">questo
+                            libro</ptr> preso sopra di sè a discorrere quelle cose, che si
+                        appartengono alli ornamenti di queste parti, non si lasci perciò in dietro
+                        niente, che sia per giovare a tal cosa.</p>
                 </div2>
                 <div2 type="chapitre" n="13" xml:id="L6C13">
-                    <head> Delle Colonne et loro ornamenti, che cosa siano i piani, che il centro
-                        del fuso, la centina gli Aggetti, i ritiramenti, il Ventre, il mazzocchio,
-                        et il collarino. Cap. XIII. </head>
-                    <p xml:id="BAR_A_L6_L6C13_P1">In tutta l'Architettura il principale adornamento
-                        certo consiste nelle colonne; percioché le molte poste insieme adornano le
-                        loggie, le mura et qual si voglia sorte di Vani; et una sola ancora ha del
-                        buono, percioché ella adorna un'riscontro di strade, un'Teatro, una piazza,
-                        serba i Trofei, serue per memoria delle gran'cose, ha gratia, recasi dietro
-                        dignità, et è cosa difficile a dire quanto spendessino gli Antichi in
-                        quelle, per essere ornamento eccellentissimo. Percioché non bastando ad
-                        alcuni che le fussino di Marmo Pario, Numidico, et Alabastrino et simili,
-                        vollono che alcuni Scultori eccellentissimi vi facessino dentro statue et
-                        imagini, sì come dicono che nel Tempio di <persName ref="#Diane"
-                            >Diana</persName> Efesia vene erano piu di cento venti. Altri vsarono i
-                        Capitelli et le base di'Bronzo indorate, sì come in <placeName ref="#Rome"
-                            >Roma</placeName> nel portico doppio si vede, il quale e'feciono nel
-                        consolato di quello Ottavio che trionfò di <persName ref="#Persee"
+                    <pb n="196"/>
+                    <head rend="it">Delle Colonne et loro ornamenti, che cosa siano i piani, che il
+                        centro del fuso, la centina gli Aggetti, i ritiramenti, il Ventre, il
+                        mazzocchio, et il collarino. Cap. XIII. </head>
+                    <p xml:id="BAR_A_L6_L6C13_P1"><hi rend="capitals">IN</hi> tutta l'Architettura
+                        il principale adornamento certo consiste nelle colonne; percioché le molte
+                        poste insieme adornano le loggie, le mura et qual si voglia sorte di Vani;
+                        et una sola ancora ha del buono, percioché ella adorna un riscontro di
+                        strade, un Teatro, una piazza, serba i Trofei, serve per memoria delle
+                        grandi cose, ha gratia, recasi dietro dignità, et è cosa difficile a dire
+                        quanto spendessino gli Antichi in quelle, per essere ornamento
+                        eccellentissimo. Percioché non bastando ad alcuni che le fussino di Marmo
+                        Pario, Numidico, et Alabastrino et simili, vollono che alcuni Scultori
+                        eccellentissimi vi facessino dentro statue et imagini, sì come dicono che
+                        nel <objectName ref="#TempleArtemisEphese">Tempio di <persName ref="#Diane"
+                                >Diana</persName></objectName>
+                        <placeName ref="#Ephese">Efesia</placeName> ve ne erano più di cento venti.
+                        Altri usarono i Capitelli et le base di Bronzo indorate, sì come in
+                            <placeName ref="#Rome">Roma</placeName> nel portico doppio si vede, il
+                        quale <choice>
+                            <sic>e'</sic>
+                            <corr>ei</corr>
+                        </choice> feciono nel consolato di quello <persName ref="#CnaeusOctavius"
+                            >Ottavio</persName> che trionfò di <persName ref="#PerseeDeMacedonie"
                             >Perseo</persName>. Altri feciono le Colonne tutte intere di bronzo, et
                         altri le vestirono di Argento, ma lasciamo stare queste cose. Egli è di
-                        necessità che le colonne sieno lisce, et ben tonde. Io truovo che un'certo
-                        Theodoro et Tholo Architettori in Lemno havevano fatto certi Tornii nelle
-                        loro botteghe, et havevanui di maniera contrapesate dentro le colonne, che
-                        elle si tondavano girate intorno da un'fanciulletto solo, Greca historia.
-                        Questo faccia al proposito nostro. Nelle colonne noi consideriamo due linee
-                        lunghe giu per il fuso, l'una si può chiamare il centro del fuso, et l'altra
-                        la centina; ma le linee corte che noi consideriamo nelle colonne sono i vari
-                        diametri di que'cerchi, che in varii luoghi cingono essa colonna; et di così
-                        fatti cerchi notissime sono le due superficie, l'una dalla testa, et l'altra
-                        dal pie della colonna. Ma il centro del fuso è quella linea, che per entro
-                        al mezo della colonna sia tirata dal centro del cerchio della superficie
-                        piana di sopra, al centro del cerchio della superficie piana di sotto, la
-                        qual'linea ancora si chiama il piombo del mezo della colonna, in questa
-                        medesima linea si appuntano i centri di tutti i cerchi; ma la centina è una
-                        linea tirata dallo aggetto del collarino di sopra per lo lungo sino allo
-                        aggetto del collarino di sotto. Et è quella nella quale terminano tutti i
-                        diametri, che sono nella grossezza della colonna, et non è sola ne và a
-                        dirittura come quella del centro del fuso, ma è fatta et composta di molte
-                        linee parte diritte et parte torte come noi ti diremo. I diametri de cerchi,
-                        che si hanno a considerare in piu luoghi giu per la colonna, sono cinque gli
-                        Aggetti i Ritiramenti et il Ventre; gli Aggetti son duoi l'uno in cima,
-                        l'altro in pie della colonna, chiamati aggetti, perché si gettano piu in
-                        fuori che il resto de la colonna; i Ritiramenti ancora son duoi, che sono a
-                        canto a gli Aggetti da capo, et da piede, et chiamonsi così perché si
-                        ritirono da gli aggetti al sodo de la colonna; il diametro del Ventre si
-                        nota dal mezo ingiù della colonna; chiamasi Ventre perché e'pare che in
-                        quel'luogo la colonna gonfi alquanto. Gli aggetti infra loro sono
-                        differenti, percioché quello che è dabasso è fatto del collarino et
-                        d'un'poco di piegatura, mediante la quale si ritira dal collarino al sodo
-                        della colonna, ma lo Aggetto, che è in cima della colonna, ha oltre al
-                        collarino et alla piegatura, ancora il mazocchio. Nel vltimo la linea della
-                        Centina si ordinerà in questo modo. Nel pavimento, o in qual'che faccia
-                        piana dun'muro, il qual'luogo io chiamo il disegno si tira una linea
-                        diritta, lunga quanto ha da essere lunga la Colonna, che dalla cava habbiamo
-                        a fare venire, questa linea si chiama il centro del fuso; Divideremo adunque
-                        questo centro in alcune determinate parti, secondo che ricerca la ragione et
-                        la qualità della muraglia, et delle colonne che s'haranno a fare; della
-                        quale ragioneremo a luogo suo; et secondo le dette parti si tirerà con
-                        ragione il diametro della pianta da piede, con una linea piccola in squadra
-                        a traverso del centro del fuso in detto muro. Questo diametro divideremo in
-                        ventiquatro parti, una delle quali diamo alla altezza del collarino, la
-                        quale altezza notiamo nel muro con una lineetta piccola, dinuovo pigliamo
-                        tre delle ventiquattro parti et secondo questa altezza ponghiamo nel centro
-                        del fuso, un'punto che habbia a seruire per il ritiramento, et da questo
-                        punto tiriamo una linea equidistante alla linea del Diametro della pianta,
-                        laquale sarà il diametro, che sarà la settima parte piu corta, che la linea
-                        del diametro della pianta. Segnate queste due linee, ciò è il diametro del
-                        ritiramento et il collarino, tiriamo dalla punta della fine del collarino
-                        alla punta del diametro del ritiramento una linea piegata, verso il fuso
-                        della colonna, piu dolce et piu grata che è possibile; il cominciamento di
-                        questa linea piegata sarà il quarto d'un'cerchio piccolo, il mezo diametro
-                        del quale cerchio sarà l'altezza del collarino. Doppo questo divido tutta la
-                        lunghezza del fuso in sette parti vguali, et segno con alcuni punti esse
-                        divisioni. Nel quarto punto cominciandomi ad annoverare da piede fermerò io
-                        il centro del Ventre, atraverso del quale si tirerà il suo diametro, la
-                        lunghezza del quale sia vguale al diametro del ritiramento dabasso. Il
-                        ritiramento poi et l'aggetto da capo si ordinerà in questo modo. Percioché
-                        secondo la grandezza della colonna, della qual'tratteremo al suo luogo, il
-                        diametro del collarino di sopra si caverà del diametro della pianta dabasso,
-                        et si disegnerà in cima alla colonna nel tuo disegno, ilquale diametro poi
-                        che l'harai disegnato divideralo in dodici parti una delle quali parti
-                        seruirà per l'aggetto del collarino et del mazzocchio, et di poi di questo
-                        ne darai duoi terzi al mazzocchio et un'terzo al collarino, ma da questo
-                        aggetto ritirerati per ritiramento all'ingiù per il fuso una parte et mezzo
-                        delle dodici et il diametro di esso ritiramento sarà minore del diametro
-                        maggiore dell'aggetto, la nona parte di esso. Dipoi tirerai la linea piegata
-                        come ti insegnai tirare l'altra di sotto. Vltimamente poi disegnati nel tuo
-                        disegno gli aggetti i ritiramenti, et le piegature et il diametro del
-                        Ventre, tirisi una linea retta dalla testa del ritiramento di sopra, et così
-                        dal ritiramento di sotto al diametro del Ventre, et in questo modo con
-                        questo disegno sarà finita la linea che noi chiamiamo Centina della colonna,
-                        secondo laquale linea faremo un'regolo, con il quale gli scarpellini possino
-                        finire et dare forma a la colonna. La superficie dapiè della colonna, se la
-                        colonna sarà tonda bene ad angoli vguali dal piombo del mezo, si aggiusterà
-                        benissimo, con tirare un'festone che sia appuntato nel centro del cerchio
-                        della superficie della colonna da capo. Queste cose non ho io trovato che
-                        sieno scritte dalli Antichi, ma le ho notate con diligentia, et con studio
-                        dalle opere de buoni Maestri. Le cose, che seguiteranno si apparterranno per
-                        la maggior'parte a modi di così fatti disegni, et saranno cose molto degne
-                        et utilissime per dilicatezza de Pittori. </p>
+                        necessità che le colonne sieno lisce, et ben tonde. Io truovo che un certo
+                            <persName>Theodoro</persName> et <persName>Tholo</persName> Architettori
+                        in <placeName ref="#Lemnos">Lemno</placeName> havevano fatto certi Torni
+                        nelle loro botteghe, et havevanvi di maniera contrapesate dentro le colonne,
+                        che elle si tondavano girate intorno da un fanciulletto solo, Greca
+                        historia. Questo faccia al proposito nostro. Nelle colonne noi consideriamo
+                        due linee lunghe giù per il fuso, l'una si può chiamare il centro del fuso,
+                        et l'altra la centina; ma le linee corte che noi consideriamo nelle colonne
+                        sono i vari diametri di quei cerchi, che in vari luoghi cingono essa
+                        colonna; et di così fatti cerchi notissime sono le due superficie, l'una
+                        dalla testa, et l'altra dal piè della colonna. Ma il centro del fuso è
+                        quella linea, che per entro al mezo della colonna sia tirata dal centro del
+                        cerchio della superficie piana di sopra, al centro del cerchio della
+                        superficie piana di sotto, la qual linea ancora si chiama il piombo del mezo
+                        della colonna, in questa medesima linea si appuntano i centri di tutti i
+                        cerchi; ma la centina è una linea tirata dallo aggetto del collarino di
+                        sopra per lo lungo sino allo aggetto del collarino di sotto. Et è quella
+                        nella quale terminano tutti i diametri, che sono nella grossezza della
+                        colonna, et non è sola ne va a dirittura come quella del centro del fuso, ma
+                        è fatta et composta di molte linee parte diritte et parte torte come noi ti
+                        diremo. I diametri dei cerchi, che si hanno a considerare in più luoghi giù
+                        per la colonna, sono cinque gli Aggetti i Ritiramenti et il Ventre; gli
+                        Aggetti son duoi l'uno in cima, l'altro in pié della colonna, chiamati
+                        aggetti, perché si gettano più in fuori che il resto della colonna; i
+                        Ritiramenti ancora son duoi, che sono a canto agli Aggetti da capo, et da
+                        piede, et chiamonsi così perché si ritirono dagli aggetti al sodo della
+                        colonna; il diametro del Ventre si nota dal mezo ingiù della colonna;
+                        chiamasi Ventre perché e'pare che in quel luogo la colonna gonfi alquanto.
+                        Gli aggetti infra loro sono differenti, percioché quello che è dabasso è
+                        fatto del collarino et d'un poco di piegatura, mediante la quale si ritira
+                        dal collarino al sodo della colonna, ma lo Aggetto, che è in cima della
+                        colonna, ha oltre al collarino et alla piegatura, ancora il mazocchio.
+                        Nell'ultimo la linea della Centina si ordinerà<pb n="197"/> in questo modo.
+                        Nel pavimento, o in qualche faccia piana d'un muro, il qual luogo io chiamo
+                        il disegno si tira una linea diritta, lunga quanto ha da essere lunga la
+                        Colonna, che dalla cava habbiamo a fare venire, questa linea si chiama il
+                        centro del fuso; Divideremo adunque questo centro in alcune determinate
+                        parti, secondo che ricerca la ragione et la qualità della muraglia, et delle
+                        colonne che s'haranno a fare; della quale ragioneremo a luogo suo; et
+                        secondo le dette parti si tirerà con ragione il diametro della pianta da
+                        piede, con una linea piccola in squadra a traverso del centro del fuso in
+                        detto muro. Questo diametro divideremo in ventiquatro parti, una delle quali
+                        diamo alla altezza del collarino, la quale altezza notiamo nel muro con una
+                        lineetta piccola, di nuovo pigliamo tre delle ventiquattro parti et secondo
+                        questa altezza ponghiamo nel centro del fuso, un punto che habbia a servire
+                        per il ritiramento, et da questo punto tiriamo una linea equidistante alla
+                        linea del Diametro della pianta, la quale sarà il diametro, che sarà la
+                        settima parte più corta, che la linea del diametro della pianta. Segnate
+                        queste due linee, cioè il diametro del ritiramento et il collarino, tiriamo
+                        dalla punta della fine del collarino alla punta del diametro del ritiramento
+                        una linea piegata, verso il fuso della colonna, più dolce et più grata che è
+                        possibile; il cominciamento di questa linea piegata sarà il quarto d'un
+                        cerchio piccolo, il mezo diametro del quale cerchio sarà l'altezza del
+                        collarino. Dopo questo divido tutta la lunghezza del fuso in sette parti
+                        uguali, et segno con alcuni punti esse divisioni. Nel quarto punto
+                        cominciandomi ad annoverare da piede fermerò io il centro del Ventre,
+                        atraverso del quale si tirerà il suo diametro, la lunghezza del quale sia
+                        uguale al diametro del ritiramento dabasso. Il ritiramento poi et l'aggetto
+                        da capo si ordinerà in questo modo. Percioché secondo la grandezza della
+                        colonna, della quale tratteremo al suo luogo, il diametro del collarino di
+                        sopra si caverà del diametro della pianta dabasso, et si disegnerà in cima
+                        alla colonna nel tuo disegno, il quale diametro poi che l'harai disegnato
+                        divideralo in dodici parti una delle quali parti servirà per l'aggetto del
+                        collarino et del mazzocchio, et di poi di questo ne darai duoi terzi al
+                        mazzocchio et un terzo al collarino, ma da questo aggetto ritirerati per
+                        ritiramento all'ingiù per il fuso una parte et mezzo delle dodici et il
+                        diametro di esso ritiramento sarà minore del diametro maggiore dell'aggetto,
+                        la nona parte di esso. Di poi tirerai la linea piegata come ti insegnai
+                        tirare l'altra di sotto. Ultimamente poi disegnati nel tuo disegno gli
+                        aggetti i ritiramenti, et le piegature et il diametro del Ventre, tirisi una
+                        linea retta dalla testa del ritiramento di sopra, et così dal ritiramento di
+                        sotto al diametro del Ventre, et in questo modo con questo disegno sarà
+                        finita la linea che noi chiamiamo Centina della colonna, secondo la quale
+                        linea faremo un regolo, con il quale gli scarpellini possino finire et dare
+                        forma a la colonna. La superficie da piè della colonna, se la colonna sarà
+                        tonda bene ad angoli uguali dal piombo del mezo, si aggiusterà benissimo,
+                        con tirare un festone che sia appuntato nel centro del cerchio della
+                        superficie della colonna da capo. Queste cose non ho io trovato che sieno
+                        scritte dalli Antichi, ma le ho notate con diligentia, et con studio dalle
+                        opere dei buoni Maestri. Le cose, che seguiteranno si apparterranno per la
+                        maggior parte a modi di così fatti disegni, et saranno cose molto degne et
+                        utilissime per dilicatezza dei Pittori. </p>
+                    <pb n="198"/>
+                    <figure type="schema"/>
                 </div2>
             </div1>
             <div1 type="livre" n="7" xml:id="L7">
