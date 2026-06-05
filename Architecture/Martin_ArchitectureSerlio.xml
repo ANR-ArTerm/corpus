@@ -4,10 +4,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">Le premier livre d’architecture de Sebastiano Serlio; Le second livre de perspective (1537- 1540 Antichità)</title>
+        <title xml:lang="fra">Le premier livre d'architecture -Le second livre de perspective de Sébastian Serlio</title>
         <respStmt>
           <name>Emma Bondoerffer</name>
-          <resp>Transcription, Correction, Structuration, Balisage, Indexation</resp>
+          <resp>Transcription</resp>
         </respStmt>
         <respStmt>
           <name>Irene Calcagno</name>
@@ -26,10 +26,10 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>École nationale supérieure des beaux-arts de Paris<author ref="https://data.bnf.fr/fr/ark:/12148/cb12462195n">Martin<idno type="ISNI">https://isni.org/page/search-database/</idno>
+        <bibl>ETALAB<author ref="ark:/12148/cb313544573">Martin<idno type="ISNI" />
           </author>
-          <title xml:lang="fra">Le premier livre d’architecture de Sebastiano Serlio; Le second livre de perspective (1537- 1540 Antichità)</title>
-          <publisher>Jean Barbé</publisher>
+          <title xml:lang="fra">Le premier livre d'architecture -Le second livre de perspective de Sébastian Serlio</title>
+          <publisher>Jehan Barbé</publisher>
           <pubPlace>Paris</pubPlace>
           <date when="1545">1545</date>
         </bibl>
@@ -37,9 +37,9 @@
           <msIdentifier>
             <country>France</country>
             <settlement ref="#Paris">Paris</settlement>
-            <institution>Bibliothèque nationale de France</institution>
+            <institution>Biblioteca nazionale centrale di Roma, INHA, fonds Jacques Doucet</institution>
             <repository />
-            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb313544573</idno>
+            <idno type="USTC">https://www.ustc.ac.uk/editions/856046</idno>
           </msIdentifier>
         </msDesc>
         <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
@@ -60,7 +60,7 @@
           <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
         </punctuation>
         <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + eloge + errata) + body (2 livres) + back (avis)</p>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
         </segmentation>
         <hyphenation eol="none" />
         <stdVals>
