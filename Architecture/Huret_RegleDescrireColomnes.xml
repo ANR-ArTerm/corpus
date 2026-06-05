@@ -4,10 +4,14 @@
 	<teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">La regle precise, pour descrire le profil eslevé du fust des colomnes, suivant une hauteur, grosseur, et retrécissement donné à discretion, demonstrée geometriquement. [...]</title>
+        <title xml:lang="fra">La règle précise pour descrire le profil eslevé du fust des colonnes</title>
         <respStmt>
           <name>Emma Bondoerffer</name>
-          <resp>Transcription, Correction, Structuration, Balisage, Indexation</resp>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Octave Philibert</name>
+          <resp>Correction, Structuration, Balisage, Indexation</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -22,9 +26,10 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb12191860s">Huret<idno type="ISNI">http://isni.org/isni/0000000109120963</idno>
+        <bibl>
+          <author ref="https://bibliotheque-numerique.inha.fr/idurl/1/12652">Huret<idno type="ISNI" />
           </author>
-          <title xml:lang="fra">La regle precise, pour descrire le profil eslevé du fust des colomnes, suivant une hauteur, grosseur, et retrécissement donné à discretion, demonstrée geometriquement. [...]</title>
+          <title xml:lang="fra">La règle précise pour descrire le profil eslevé du fust des colonnes</title>
           <publisher>Edme Martin</publisher>
           <pubPlace>Paris</pubPlace>
           <date when="1665">1665</date>
@@ -35,7 +40,7 @@
             <settlement ref="#Paris">Paris</settlement>
             <institution>Bibliothèque nationale de France</institution>
             <repository />
-            <idno type="USTC">http://catalogue.bnf.fr/ark:/12148/cb39316816c</idno>
+            <idno type="USTC">https://www.ustc.ac.uk/editions/6114248</idno>
           </msIdentifier>
         </msDesc>
         <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
@@ -56,7 +61,7 @@
           <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
         </punctuation>
         <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface) + body (2 chapitres [43 et 10 section] + 1 conclusion)</p>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
         </segmentation>
         <hyphenation eol="none" />
         <stdVals>
