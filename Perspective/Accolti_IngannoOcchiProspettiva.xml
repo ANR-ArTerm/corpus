@@ -4,18 +4,10 @@
    <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">Lo inganno de gl'occhi : prospettiva pratica</title>
+        <title xml:lang="fra">Lo inganno degli occhi: prospettiva pratica</title>
         <respStmt>
           <name>Emma Bondoerffer</name>
-          <resp>Transcription, Structuration</resp>
-        </respStmt>
-        <respStmt>
-          <name>Octave Philibert</name>
-          <resp>Correction, Structuration, Balisage, Indexation</resp>
-        </respStmt>
-        <respStmt>
-          <name>Carla Tricon</name>
-          <resp>Indexation</resp>
+          <resp>Transcription, Structuration, Balisage, Indexation</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -30,19 +22,18 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>
-          <author ref="http://ark.bnf.fr/ark:/12148/cb30002033t">Accolti<idno type="ISNI">https://isni.org/isni/0000000115787350</idno>
+        <bibl>Public domain<author ref="ark:/12148/cb16708799z">Accolti<idno type="ISNI">ISNI 0000 0003 9924 5763</idno>
           </author>
-          <title xml:lang="fra">Lo inganno de gl'occhi : prospettiva pratica</title>
-          <publisher>P. Cecconcelli</publisher>
-          <pubPlace>Florence</pubPlace>
+          <title xml:lang="fra">Lo inganno degli occhi: prospettiva pratica</title>
+          <publisher>Pietro Cecconcelli</publisher>
+          <pubPlace>Firenze</pubPlace>
           <date when="1625">1625</date>
         </bibl>
         <msDesc>
           <msIdentifier>
-            <country />
-            <settlement ref="#" />
-            <institution>Getty Institute</institution>
+            <country>USA</country>
+            <settlement ref="#Los Angeles">Los Angeles</settlement>
+            <institution>Getty Research Institute</institution>
             <repository />
             <idno type="USTC">https://www.ustc.ac.uk/editions/4008330</idno>
           </msIdentifier>
@@ -65,7 +56,7 @@
           <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
         </punctuation>
         <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage, dedicate, eloge x2, avis), body (3div1 [38 div2 ; 20 div2 ; 31 div2]</p>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
         </segmentation>
         <hyphenation eol="none" />
         <stdVals>
