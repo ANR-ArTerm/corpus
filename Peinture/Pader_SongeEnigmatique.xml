@@ -4,52 +4,82 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">Songe énigmatique sur la peinture universelle : document xml</title>
+        <title xml:lang="fra">Songe énigmatique sur la peinture universelle</title>
         <respStmt>
-          <resp>Texte encodé sous la surveillance de </resp>
-          <name>Anna Sconza</name>
-        </respStmt>
-        <respStmt>
-          <resp>Texte saisi et annoté par </resp>
-          <name>Youssouf Diawara</name>
-        </respStmt>
-        <respStmt>
-          <resp>Correction de la transciption et Structuration</resp>
           <name>Emma Bondoerffer</name>
+          <resp>Structuration</resp>
         </respStmt>
         <respStmt>
-          <resp>Correction de la transciption et indexation</resp>
           <name>Anaïs Mazoué</name>
+          <resp>Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Youssouf Diawara</name>
+          <resp>Transcription, Correction</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Indexation</resp>
         </respStmt>
       </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
       <publicationStmt>
-        <p>
-          <idno type="ISBN">FR 12148</idno>
-        </p>
-        <p>Texte originel provient du manuscrit attribué à Pader, Hilaire conservé à la Bibliothèque Nationale.</p>
-        <p>Édition électronique réalisée pour le projet "Paris-Rome : des langages pour les images : la terminologie artistique (XIVe-XVII e siècles, France-Italie)" </p>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>
-          <textLang mainLang="fra">français</textLang>
-          <author ref="#HilairePader">Pader, Hilaire</author>
+        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb12629498q">Pader<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/CMD?ACT=SRCH&amp;IKT=8006&amp;TRM=ISN%3A0000000122591313&amp;TERMS_OF_USE_AGREED=Y&amp;terms_of_use_agree=send</idno>
+          </author>
+          <title xml:lang="fra">Songe énigmatique sur la peinture universelle</title>
+          <publisher>Arnaud Colomiez</publisher>
+          <pubPlace>Toulouse</pubPlace>
           <date when="1658">1658</date>
-          <editor ref="#">par A. Colomiez (Tolose)</editor>
-          <title xml:lang="fra">Songe énigmatique sur la peinture universelle , fait par H. P. P. P., Tolosain</title>
-          <publisher> Imprimerie de <name>ARNAVD COL0MIEZ</name>, Imprimeur ordinaire du Roy et de runiuerfité. M. DC.LVIII</publisher>
-          <pubPlace>Tolose</pubPlace>
-          <date when="1800">Ouvrages avant 1800</date>
         </bibl>
         <msDesc>
           <msIdentifier>
-            <settlement ref="">Numérotation des feuillets en chiffres arabes, en haut dans le coin externe de la page de droite.Ecriture à pleine ligne, donc 1 colonne par page, avec des ajouts de l'éditeur en bas de page. Nombre de lignes par pages variable.</settlement>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb310486347</idno>
           </msIdentifier>
         </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface) + body (livre L1)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
     </profileDesc>
   </teiHeader>
   <text>

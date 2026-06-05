@@ -2,26 +2,82 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title xml:lang="ita">Title</title>
-            <respStmt>
-               <resp>Transcription et Structuration</resp>
-               <name>Emma Bondoerffer</name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
-      </profileDesc>
-   </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Idea della perfezione della pittura di m.r Rolando Freart tradotta dal francese da Anton Maria Salvini e pubblicata per la prima volta dal canonico Domenico Moreni con una dissertazione apologetica in fine di Michelangelo Buonarroti scritta dal sig. Onofrio Boni</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription, Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Octave Philibert</name>
+          <resp>Correction, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres, Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rome, Bibliotheca Hertziana, Max Planck Institut<author ref="https://data.bnf.fr/ark:/12148/cb11903494v; https://data.bnf.fr/fr/ark:/12148/cb12103637b">Fréart/Salvini<idno type="ISNI">https://isni.org/isni/0000000121260854; https://isni.org/isni/0000000121394238</idno>
+          </author>
+          <title xml:lang="fra">Idea della perfezione della pittura di m.r Rolando Freart tradotta dal francese da Anton Maria Salvini e pubblicata per la prima volta dal canonico Domenico Moreni con una dissertazione apologetica in fine di Michelangelo Buonarroti scritta dal sig. Onofrio Boni</title>
+          <publisher>Appresso Carli e compo. in Borgo SS. Apostoli</publisher>
+          <pubPlace>Florence</pubPlace>
+          <date when="1809">1809</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>Italie</country>
+            <settlement ref="#Rome">Rome</settlement>
+            <institution>Rome, Bibliotheca Hertziana, Max Planck Institut</institution>
+            <repository />
+            <idno type="USTC">https://opac.sbn.it/risultati-ricerca-avanzata/-/opac-adv/index/1/ITICCURMRE002018?fieldvalue%5B1%5D=salvini%2C+idea+della+perfezione+della+pittura&amp;fieldaccess%5B1%5D=Keywords%3A1016&amp;fieldstruct%5B1%5D=ricerca.parole_tutte%3A4%3D6&amp;struct%3A1001=ricerca.parole_almeno_una%3A%40or%40</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + gap + dedicace + preface + avertissement) + body (2 chap : C1 = 5SC + C2 = 5SC [Stampa 4 pas identifiée])</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
    <text>
       <front>
          <titlePage>

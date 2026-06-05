@@ -2,25 +2,78 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title xml:lang="fra"> Bosse_SentimentsDistinctionManieresPeinture </title>
-         </titleStmt>
-         <publicationStmt>
-            <publisher> tranScriptorium </publisher>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <title xml:lang="fra"> Bosse_SentimentsDistinctionManieresPeinture </title>
-               <idno type="Transkribus"> 6321847 </idno>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
-      </profileDesc>
-   </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Sentimens sur la distinction des diverses manieres de peinture, dessein &amp; graveure, &amp; des originaux d'avec leurs copies. Ensemble du choix des sujets, &amp; des chemins pour arriver facilement &amp; promptement à bien pourtraire.</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb118930604">Bosse<idno type="ISNI">http://isni.org/isni/0000000121355423</idno>
+          </author>
+          <title xml:lang="fra">Sentimens sur la distinction des diverses manieres de peinture, dessein &amp; graveure, &amp; des originaux d'avec leurs copies. Ensemble du choix des sujets, &amp; des chemins pour arriver facilement &amp; promptement à bien pourtraire.</title>
+          <publisher>Pierre Des Hayes</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1649">1649</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">http://catalogue.bnf.fr/ark:/12148/cb30134732p</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : body avec div des heading Transkribus</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
    <text>
       <front>
          <pb/>
