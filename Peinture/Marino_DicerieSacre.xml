@@ -85,7 +85,7 @@
    <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
   </profileDesc>
  </teiHeader>
-  <text>
+ <text>
   <front>
    <div type="preface">
     <pb n="np"/>
@@ -493,7 +493,7 @@
      ne' fanciulli, <persName ref="#Euphranor">Eufranore</persName> negli eroi, <persName
       ref="#Eutychides">Eutichide</persName> ne' carri, Soso ne' pavimenti, <persName ref="#Nicias"
       >Nicia</persName> nelle donne e ne' cani, <persName>Claudio</persName>,
-      <persName>Serapione</persName> e <persName>Eudoro</persName> nelle scene,
+      <persName ref="#Serapion">Serapione</persName> e <persName>Eudoro</persName> nelle scene,
       <persName>Turpilio</persName> nelle figure picciole. E fra coloro che ne' tempi più a noi
      vicini fiorirono, mirabil riuscita hanno fatto il <persName ref="#Parmigianino"
       >Parmigianino</persName> nella gratia, il <persName ref="#Correge">Correggio</persName> nella
@@ -880,15 +880,15 @@
       >Cesare</persName> con le forze e con l'armi vincono il mondo. Se Tu sei sapiente, <persName
       ref="#Platon">Platone</persName> et <persName ref="#Aristote">Aristotele</persName> con lo
      studio e con la fatica acquistano l'abito delle scienze. Se Tu sei per tutto,
-      <persName>Cadmo</persName> ritrova le lettere onde può l'uomo esser in più luoghi, se non col
+      <persName ref="#Cadmos">Cadmo</persName> ritrova le lettere onde può l'uomo esser in più luoghi, se non col
      corpo almeno con la scrittura. Se Tu sei eterno, <persName>Giovanni di Magontia</persName>
      inventa le stampe con cui l'umana memoria può eternarsi. Se Tu col soffio infondi la vita in
      una massa di fango, <persName ref="#Promethee">Prometeo</persName> dà forma e movimento alle
      imagini fatte di terra. Se Tu inspiri lo spirito e 'l fiato nell'embrione, <persName
       ref="#GiulioCamillo">Giulio Camillo</persName> per forza di lambicchi fabrica un fanciullo
-     anelante. Se Tu distingui la favella et articoli le parole agli uomini, <persName>Alberto
+     anelante. Se Tu distingui la favella et articoli le parole agli uomini, <persName ref="#AlbertLeGrand">Alberto
       Magno</persName> con diversi ordigni forma una testa di bronzo che parla. Se Tu col tuo
-     spirito sei portato sublime su per l'acque, <persName>Tifi</persName> ardisce di rompere con un
+     spirito sei portato sublime su per l'acque, Tifi ardisce di rompere con un
      fragil legno i flutti del mare. Se Tu camini sopra le penne de' venti, <persName ref="#Dedale"
       >Dedalo</persName> s'intesse piume di cera <pb n="23"/> e varca a volo la region delle nubi.
      Se Tu con l'efficacia della tua parola edifichi i cerchi de' cieli, <persName ref="#Archimede"
@@ -900,7 +900,7 @@
      l'ali. Se Tu agl'istessi uccelli sciogli il canto, Leone, imperadore de' Greci, possiede
      uccelletti d'oro che cantano. Se Tu a' serpenti doni il fischio, <persName ref="#Boece"
       >Boetio</persName> ottiene serpi di rame sibilanti. Se Tu fulmini e tuoni,
-      <persName>Bertoldo</persName> Tedesco mette in uso lo scoppio della bombarda. Se Tu fai
+      <persName>Bertoldo Tedesco</persName> mette in uso lo scoppio della bombarda. Se Tu fai
      oscurare e piovere il cielo, <persName>Ruggiero Bachom</persName> per virtù di pura magia
      naturale produce in aria nuvoli e piogge. Per conchiudere, se Tu crei di nulla, l'uomo dipigne,
      poiché di poco men che nulla la pittura dà l'essere alle sue forme. Non ha però dubbio alcuno,
@@ -955,7 +955,7 @@
      Anassagora ch'ella è intelletto movente, comune etiandio a' bruti;
       <persName>Anassimene</persName> e <persName ref="#Diogene">Diogene</persName> ch'ella è aere
      puro; <persName>Ippone</persName> ch'ella è della qualità dell'acqua;
-      <persName>Senofane</persName> ch'ella è d'acqua e di terra; Parmenide ch'ella è di terra e di
+      <persName>Senofane</persName> ch'ella è d'acqua e di terra; <persName ref="#Parmenide">Parmenide</persName> ch'ella è di terra e di
      fuoco; <persName ref="#Epicure">Epicuro</persName> ch'ella è di fuoco e di spirito; <persName
       ref="#Empedocle">Empedocle</persName> ch'ella è fabricata di più elementi;
       <persName>Avendachi</persName> ch'ella è composta d'elementi, d'amore e di vittoria;
@@ -2125,68 +2125,70 @@
      della pantarbe, in mezo alle fiamme posto, arde e non si consuma. Ma qual lino si può dir
      veramente vivo più di questo, il quale in sé la vita istessa contiene? Vivo, anzi vivificante
      in guisa che dalla sua vivacità il fuoco istesso mortificato, perdendo ogni sua possanza, gli
-     cede. Parve nel secolo antico miracolo grande, ch'una <objectName>tavola in cui Demone Ateniese
-      dipinto aveva Perseo, Ercole e Meleagro</objectName>, tre volte fulminata e mai cancellata non
-     fusse, ma quanto maggior miracolo che questa tela, in cui si vede il celeste Campione ritratto,
-     assai di que' tre valorosi guerrieri più forte, percossa tre volte quasi da tre fulmini, dal
-     ferro, dal fuoco e dall'acqua, <pb n="66bis"/> non solo intiera et intatta si serbi, ma si
-     polisca et affini? Pose <persName ref="#Neron">Nerone</persName> il crudele la propria imagine,
-     formata di smisurata grandezza, negli orti Lamiani, ma quindi a poco, tocca da un fulmine, la
-     vide con gran parte degli orti cader combusta. Posto il ritratto di questo Re pietoso tra le
-     faville ardenti d'una accesa pira, non pur non incenerisce, ma a guisa del rogo di <persName
-      ref="#Moise">Mosè</persName> rimane illesa et inconsumabile dentro l'arsura. Erasi lungamente
-     affaticato un pittor goffo (favoleggia la greca poesia) in lavorando due tavole, nell'una delle
-     quali aveva <objectName>l'inondamento di Deucalione</objectName> dipinto, nell'altra
-      <objectName>l'incendio di Fetonte</objectName>. Da costui richiesto l'oracolo qual prezzo o
-     pagamento fusse a quella sua fatica premio e guiderdone conforme, rispose scherzando: «Poiché
-     l'una contiene materia di fuoco e l'altra d'acqua, l'una è degna dell'acqua, l'altra merita il
-     fuoco». Ecco, ecco <persName>Satanasso</persName>, pittore (come fu detto) di poco valore, che
-     due volte con ogni sua industria rappresenta in terra l'imagine del peccato, l'una in tempo di
-      <persName ref="#Noe">Noè</persName>, l'altra in tempo d'<persName ref="#Abraham"
-      >Abraamo</persName>: <quote xml:lang="lat">omnis quippe caro corruperat viam suam</quote>.
-     Erano queste sicome due tavole dipinte per mano diabolica, delle quali <pb n="67"/> sperava
-     egli un gran guadagno e pretendeva una ricca mercede. Et ecco che dal giusto giudicio di
-      <persName ref="#Dieu">Dio</persName> sono amendue appunto nel medesimo modo condannate, l'una
-     all'acqua, l'altra al fuoco: ecco il diluvio universale, et ecco l'incendio gomorreo, onde
-     l'una absorta, l'altra abbruciata rimangono. Pittore sciocco, che ha cercato sempre audacemente
-     di dipignere a concorrenza con <persName ref="#Dieu">Dio</persName>, alle cui pitture si vede
-     che né il furore del fuoco, che tutte le cose distrugge, né la piena dell'acque, a cui nulla
-     contrasta, può nuocere o danneggiare giamai: virtù stupenda di questa mistura di colori, con
-     lega indissolubile et incorrottibile temperati divinamente insieme! Deh, perché del tuo
-     universal diluvio, o mondo, e perché nel tempo del tuo celeste incendio, o Pentapoli, non era
-     in voi così prodigiosa pittura? Che se contro le sue miracolose tempre si dimostrano impotenti
-     l'acque et innocenti le fiamme, giovami di credere che né la corrotta terra sarebbe stata da
-     quello sommersa, né le nefande città da questo incenerite. E se l'universo tutto potrebbe sotto
-     sì fida difesa assicurarsi, or quanto più sicura può e dee tenersi la Città di <placeName
-      ref="#Turin">Torino</placeName>, custodita <pb n="67bis"/> da una guardia tanto potente? Se
-     l'arco colorato dell'iride, messo fra i nuvoli del cielo, fu argomento della pace di <persName
-      ref="#Dieu">Dio</persName> con gli uomini, perché questo velo sì ben dipinto, posto fra le
-     montagne della terra, non dee darci inditio dell'amistà di <persName ref="#Dieu">Dio</persName>
-     co' cittadini di <placeName ref="#Turin">Torino</placeName>? Se gli usci segnati del sangue
-     dell'Agnello erano essenti dal furor dell'angiolo esterminatore, perché le porte di <placeName
-      ref="#Turin">Torino</placeName>, che chiudono in sé la spoglia insanguinata di quella vittima
-     salutare, non saranno franche di qualsivoglia flagello? Se la fascia rossa pendente dalla
-     finestra di Raab fu contrasegno dello scampo della sua casa nell'eccidio di Gerico, perché
-     questa benda intinta nel sangue di <persName ref="#Jesus">Cristo</persName> non affiderà
-      <placeName ref="#Turin">Torino</placeName> dall'ira del Cielo sdegnato? Se la porpora
-     dottorale, opposta da Ulpiano Giurisconsulto contro l'impeto de' soldati armati che l'Imperador
-     Severo perseguitavano, ripresse la loro audacia e gli fece per reverenza dalla loro temerità
-     desistere, perché questo purpureo manto, tinto di quel santo colore, di cui pur dianzi
-     ragionai, non potrà difendere con la sua auttorità <placeName ref="#Turin">Torino</placeName>
-     dall'armi di tutti coloro che vorranno infestarla? Se il simulacro di <persName ref="#Pallas"
-      >Pallade</persName> riposto nel <pb n="68"/> tempio d'Ilio era schermo alle rocche di
-      <placeName ref="#Troie">Troia</placeName> contro le spade de' Greci, perché questo ritratto
-     del vero <persName ref="#Dieu">Iddio</persName> spiegato nella piazza di <placeName
-      ref="#Turin">Torino</placeName> non gli sarà riparo contro le schiere de' Barbari? Se
-     l'imagine della Madre, traslata da <persName>Aladino</persName> nella profana meschita, era
-     custodia fatale alle mura di Gerusalemme, perché l'imagine del Figliuolo, trasportata nella
-      <objectName ref="#DuomoTurin">Chiesa sacra di <persName>Carlo</persName></objectName>, non
-     guarderà <placeName ref="#Turin">Torino</placeName> da tutti gli infortunii e da tutte
-     l'insidie nemiche? Se lo scudo in cui era scolpito <persName ref="#Jupiter">Giove</persName>,
-     creduto celeste da <persName ref="#NumaPompilius">Numa Pompilio</persName>, avea virtù di
-     francheggiar <placeName ref="#Rome">Roma</placeName> da qualsivoglia sciagura, perché questo
-     arnese, fabricato dal Fabricator del Cielo e dipinto del suo verace ritratto, non avrà possanza
-     di schermir <placeName ref="#Turin">Torino</placeName> da qualunque avversità? Se <persName
+     cede. Parve nel secolo antico miracolo grande, ch'una tavola in cui <persName>Demone
+      Ateniese</persName> dipinto aveva <persName ref="#Persee">Perseo</persName>, <persName
+      ref="#Hercule">Ercole</persName> e <persName ref="#Meleagre">Meleagro</persName>, tre volte
+     fulminata e mai cancellata non fusse, ma quanto maggior miracolo che questa tela, in cui si
+     vede il celeste Campione ritratto, assai di que' tre valorosi guerrieri più forte, percossa tre
+     volte quasi da tre fulmini, dal ferro, dal fuoco e dall'acqua, <pb n="66bis"/> non solo intiera
+     et intatta si serbi, ma si polisca et affini? Pose <persName ref="#Neron">Nerone</persName> il
+     crudele la propria imagine, formata di smisurata grandezza, negli orti Lamiani, ma quindi a
+     poco, tocca da un fulmine, la vide con gran parte degli orti cader combusta. Posto il ritratto
+     di questo Re pietoso tra le faville ardenti d'una accesa pira, non pur non incenerisce, ma a
+     guisa del rogo di <persName ref="#Moise">Mosè</persName> rimane illesa et inconsumabile dentro
+     l'arsura. Erasi lungamente affaticato un pittor goffo (favoleggia la greca poesia) in lavorando
+     due tavole, nell'una delle quali aveva <objectName>l'inondamento di Deucalione</objectName>
+     dipinto, nell'altra <objectName>l'incendio di Fetonte</objectName>. Da costui richiesto
+     l'oracolo qual prezzo o pagamento fusse a quella sua fatica premio e guiderdone conforme,
+     rispose scherzando: «Poiché l'una contiene materia di fuoco e l'altra d'acqua, l'una è degna
+     dell'acqua, l'altra merita il fuoco». Ecco, ecco <persName>Satanasso</persName>, pittore (come
+     fu detto) di poco valore, che due volte con ogni sua industria rappresenta in terra l'imagine
+     del peccato, l'una in tempo di <persName ref="#Noe">Noè</persName>, l'altra in tempo
+      d'<persName ref="#Abraham">Abraamo</persName>: <quote xml:lang="lat">omnis quippe caro
+      corruperat viam suam</quote>. Erano queste sicome due tavole dipinte per mano diabolica, delle
+     quali <pb n="67"/> sperava egli un gran guadagno e pretendeva una ricca mercede. Et ecco che
+     dal giusto giudicio di <persName ref="#Dieu">Dio</persName> sono amendue appunto nel medesimo
+     modo condannate, l'una all'acqua, l'altra al fuoco: ecco il diluvio universale, et ecco
+     l'incendio gomorreo, onde l'una absorta, l'altra abbruciata rimangono. Pittore sciocco, che ha
+     cercato sempre audacemente di dipignere a concorrenza con <persName ref="#Dieu">Dio</persName>,
+     alle cui pitture si vede che né il furore del fuoco, che tutte le cose distrugge, né la piena
+     dell'acque, a cui nulla contrasta, può nuocere o danneggiare giamai: virtù stupenda di questa
+     mistura di colori, con lega indissolubile et incorrottibile temperati divinamente insieme! Deh,
+     perché del tuo universal diluvio, o mondo, e perché nel tempo del tuo celeste incendio, o
+     Pentapoli, non era in voi così prodigiosa pittura? Che se contro le sue miracolose tempre si
+     dimostrano impotenti l'acque et innocenti le fiamme, giovami di credere che né la corrotta
+     terra sarebbe stata da quello sommersa, né le nefande città da questo incenerite. E se
+     l'universo tutto potrebbe sotto sì fida difesa assicurarsi, or quanto più sicura può e dee
+     tenersi la Città di <placeName ref="#Turin">Torino</placeName>, custodita <pb n="67bis"/> da
+     una guardia tanto potente? Se l'arco colorato dell'iride, messo fra i nuvoli del cielo, fu
+     argomento della pace di <persName ref="#Dieu">Dio</persName> con gli uomini, perché questo velo
+     sì ben dipinto, posto fra le montagne della terra, non dee darci inditio dell'amistà di
+      <persName ref="#Dieu">Dio</persName> co' cittadini di <placeName ref="#Turin"
+      >Torino</placeName>? Se gli usci segnati del sangue dell'Agnello erano essenti dal furor
+     dell'angiolo esterminatore, perché le porte di <placeName ref="#Turin">Torino</placeName>, che
+     chiudono in sé la spoglia insanguinata di quella vittima salutare, non saranno franche di
+     qualsivoglia flagello? Se la fascia rossa pendente dalla finestra di Raab fu contrasegno dello
+     scampo della sua casa nell'eccidio di Gerico, perché questa benda intinta nel sangue di
+      <persName ref="#Jesus">Cristo</persName> non affiderà <placeName ref="#Turin"
+      >Torino</placeName> dall'ira del Cielo sdegnato? Se la porpora dottorale, opposta da Ulpiano
+     Giurisconsulto contro l'impeto de' soldati armati che l'Imperador Severo perseguitavano,
+     ripresse la loro audacia e gli fece per reverenza dalla loro temerità desistere, perché questo
+     purpureo manto, tinto di quel santo colore, di cui pur dianzi ragionai, non potrà difendere con
+     la sua auttorità <placeName ref="#Turin">Torino</placeName> dall'armi di tutti coloro che
+     vorranno infestarla? Se il simulacro di <persName ref="#Pallas">Pallade</persName> riposto nel
+      <pb n="68"/> tempio d'Ilio era schermo alle rocche di <placeName ref="#Troie"
+      >Troia</placeName> contro le spade de' Greci, perché questo ritratto del vero <persName
+      ref="#Dieu">Iddio</persName> spiegato nella piazza di <placeName ref="#Turin"
+      >Torino</placeName> non gli sarà riparo contro le schiere de' Barbari? Se l'imagine della
+     Madre, traslata da <persName>Aladino</persName> nella profana meschita, era custodia fatale
+     alle mura di Gerusalemme, perché l'imagine del Figliuolo, trasportata nella <objectName
+      ref="#DuomoTurin">Chiesa sacra di <persName>Carlo</persName></objectName>, non guarderà
+      <placeName ref="#Turin">Torino</placeName> da tutti gli infortunii e da tutte l'insidie
+     nemiche? Se lo scudo in cui era scolpito <persName ref="#Jupiter">Giove</persName>, creduto
+     celeste da <persName ref="#NumaPompilius">Numa Pompilio</persName>, avea virtù di francheggiar
+      <placeName ref="#Rome">Roma</placeName> da qualsivoglia sciagura, perché questo arnese,
+     fabricato dal Fabricator del Cielo e dipinto del suo verace ritratto, non avrà possanza di
+     schermir <placeName ref="#Turin">Torino</placeName> da qualunque avversità? Se <persName
       ref="#DemetriosAlopece">Demetrio</persName> non volse <persName>Rodo</persName> mandare a
      fuoco, potendo distruggerla e conquistarla, per non ardere il <persName ref="#Bacchus"
       >Bacco</persName> di <persName ref="#Protogene">Protogene</persName>, né gli rincrebbe,
@@ -2448,35 +2450,35 @@
      cortinaggio e la ricca tapezzaria del letto del nostro Re, a questo amorosamente ci chiama,
      invitandoci non solo in esso a coricarci, ma a contemplare ancora la sua pittura: intextui
      funibus lectulum meum, strani tapetibus pictis ex Aegypto. So che <persName>Alchida
-      Rodico</persName> s'innamorò libidinosamente della <objectName>statua di Venere</objectName>,
-     opera di <persName ref="#Praxitele">Prassitele</persName>; ho letto che <persName
-      ref="#Pygmalion">Pigmalione</persName> della sua s'invaghì sì follemente, che con esso lei
-     ragionava, l'abbracciava e con affettuosi gemiti sospirava; sovvienmi che
+      Rodico</persName> s'innamorò libidinosamente della <objectName ref="#PraxiteleAphroditeCnide"
+      >statua di Venere</objectName>, opera di <persName ref="#Praxitele">Prassitele</persName>; ho
+     letto che <persName ref="#Pygmalion">Pigmalione</persName> della sua s'invaghì sì follemente,
+     che con esso lei ragionava, l'abbracciava e con affettuosi gemiti sospirava; sovvienmi che
       <persName>Giunio</persName>, avendo veduto un simulacro delle Muse ignude, si accese per esso
-     di strano ardore; mi ricordo che <persName>Pontio</persName> si compiacque in guisa
-      d'<persName>Atalanta</persName> e d'<persName ref="#Helene">Elena</persName> fatte già per
-     mano di <persName>Cleofanto</persName>, che se ne struggeva di disiderio. Trovo scritto
-     finalmente amante essersi ritrovato tanto focoso, che morì baciando della sua cara amata il
-     ritratto. Ma perché quell'affetto e quell'amore, che vanamente altri spese in imagini morte et
-     insensate, non impieghiamo noi in questa imagine viva e vitale, di essa santamente
-     innamorandoci, stringendola con le braccia del cuore, riscaldandola co' <pb n="78"/> baci
-     dell'anima e lavandola col bagno delle lagrime nostre? Qui a voi mi rivolgo (Serenissimo Sire)
-     e dico che s'a ciascun altro conviene la divotione e la riverenza verso la pittura mirabile
-     rappresentataci da questo sacro asciugatoio, in voi sopra tutti esser dee verso quella, quanto
-     è maggiore l'obligatione, maggiore la veneratione. Soverchio parmi il ricordarvi quanto
-     segnalato privilegio sia della vostra Serenissima Casa l'esser degnata a possedere così notabil
-     reliquia, adorata dagli uomini, invidiata dagli angioli, segno e pegno singolare dello
+     di strano ardore; mi ricordo che <persName>Pontio</persName> si compiacque in guisa d'<persName
+      ref="#Atalante">Atalanta</persName> e d'<persName ref="#Helene">Elena</persName> fatte già per
+     mano di <persName ref="#Cleophante">Cleofanto</persName>, che se ne struggeva di disiderio.
+     Trovo scritto finalmente amante essersi ritrovato tanto focoso, che morì baciando della sua
+     cara amata il ritratto. Ma perché quell'affetto e quell'amore, che vanamente altri spese in
+     imagini morte et insensate, non impieghiamo noi in questa imagine viva e vitale, di essa
+     santamente innamorandoci, stringendola con le braccia del cuore, riscaldandola co' <pb n="78"/>
+     baci dell'anima e lavandola col bagno delle lagrime nostre? Qui a voi mi rivolgo (Serenissimo
+     Sire) e dico che s'a ciascun altro conviene la divotione e la riverenza verso la pittura
+     mirabile rappresentataci da questo sacro asciugatoio, in voi sopra tutti esser dee verso
+     quella, quanto è maggiore l'obligatione, maggiore la veneratione. Soverchio parmi il ricordarvi
+     quanto segnalato privilegio sia della vostra Serenissima Casa l'esser degnata a possedere così
+     notabil reliquia, adorata dagli uomini, invidiata dagli angioli, segno e pegno singolare dello
      smisurato amore di <persName ref="#Dieu">Dio</persName>. Piacemi solo l'incomparabil valore di
      essa recarvi a mente, maggiore di qualsivoglia ricchezza, e tale che la mano larghissima dello
      stesso donatore par che non abbia voluto esservene senza qualche conditione liberale. Pitture
-     ebbe l'antica <placeName ref="#Grece">Grecia</placeName> tanto pregiate, che del re
-      <persName>Attalo</persName> e del re <persName ref="#Candaule">Candaule</persName> si legge
-     l'uno aver compra una tavola d'<persName ref="#Aristide">Aristide</persName> cento talenti,
-     l'altro con altrettanto oro averne pagata una di <persName ref="#Bularque">Bularco
+     ebbe l'antica <placeName ref="#Grece">Grecia</placeName> tanto pregiate, che del re <persName
+      ref="#AttaleII">Attalo</persName> e del re <persName ref="#Candaule">Candaule</persName> si
+     legge l'uno aver compra una tavola d'<persName ref="#Aristide">Aristide</persName> cento
+     talenti, l'altro con altrettanto oro averne pagata una di <persName ref="#Bularque">Bularco
       Taccio</persName>. <objectName>la Medea</objectName> di <persName ref="#Timomaque"
       >Timomaco</persName>, apprezzata da <persName ref="#JulesCesar">Cesare</persName> dittatore
      ottanta talenti, e gli <objectName>Argonauti di Ciclia</objectName>, pagati da
-      <persName>Ortensio</persName> oratore poco men che <pb n="78bis"/> due volte tanto. Ma che
+      <persName>Ortensio oratore</persName> poco men che <pb n="78bis"/> due volte tanto. Ma che
      hanno da far quelle, prezzolate e venali d'artefici mercenari, con questa del Pittor divino, il
      cui pregio tutti i tesori eccede? In quo sunt omnes thesauri scientiae et sapientiae Dei. O
      dove metallo tanto fino si ritrovava nelle vene della terra, che pareggiasse pur una stilla di
@@ -2501,32 +2503,32 @@
      il proprio stame vitale, e filando venne a comporre una tela, quella tela in cui volse poi
      lasciar dipinta l'imagine di se stesso. Sindonem fecit et vendidit. La vendita di questa sì ben
      figurata tela fu fatta ad un mercatante, che tale è il sentimento della voce ‘cananeo'; e chi
-     fu questo mercatante, se non il <persName>Serenissimo di Savoia</persName>, il quale da lui
-     comprolla volontieri, dandogli in vece di pagamento due gioie, le più pretiose che fussero nel
-     dovitioso gemmaio della sua real famiglia? Umberto et Amedeo, spiriti serenissimi, voi fuste le
-     gioie con cui questa nobil merce fu compra, tal <pb n="79bis"/> che quel ch'era proprio della
-     terra fu trasportato nel Cielo, e quel ch'era degno del Cielo fu conceduto alla terra. Ben si
-     verifica in questo trafico la profetia d'<persName ref="#Isaie">Isaia</persName>: cuius
-     negotiatores Principes, et erunt negotiatio eius et merces eius santificatae Domino.
-     Avventurosissimo cambio: due anime beate per una Sindone santa; santissima usura: per una
-     Sindone santa due anime beate; gentilissima mercatantia: dove <persName ref="#Jesus"
-      >Cristo</persName> a guisa di quel gioielliere evangelico, qui una inventa pretiosa margarita,
-     vadit et vendit cuncta quae habet et emit eam, ritrovatene non una sola, ma due, di tutto ciò
-     ch'egli aveva di meglio fece con vantaggioso guadagno possessori gli eredi del vostro glorioso
-     legnaggio, che perciò la medesima Scrittura soggiugne: et cingulum tradidit Chananeo. Cinto
-      d'<placeName ref="#Italie">Italia</placeName> son queste Alpi insuperabili! cinto di
-      <placeName ref="#Turin">Torino</placeName> son queste mura inespugnabili! ma cinto più sicuro
-     e più forte di tutto il vostro Stato (Serenissimo Sire) è questa santissima Sindone, bastione
-     che da tutti i nemici vi guarda e da ogni insidia vi difende. Spianinsi i forti, abbattansi le
-     rocche, sbadisi il vallo d'Augusta, rovini il Monviso, precipiti il Monsanese, atterrisi tutto
-      <pb n="80"/> quell'antemurale di rupi e di balze che, per lunghissima linea incatenate, a
-     questo delitioso paese fanno corona, purché solo il vostro celeste propugnacolo rimanga in
-     piedi. Ch'alla fine non è altezza che non si superi, asprezza che non si domi, fortezza che non
-     s'espugni. Anche le pendici sassose e impenetrabili dell'Ato furono dall'armi Persiane
-     sviscerate et aperte; anche le porte inospiti degli Arimaspi e le foci gelate del Caucaso
-     forate e rotte dalle Macedoniche; anche su per l'alpestri e straripevoli cime de' Pirenei
-     volarono le Romane; anche per entro l'angusta bocca dell'Oceano e fra i due rigidi promontori
-     d'Abila e Calpe trappassarono le Spagnuole; anche per l'eminenza delle stesse Alpi
+     fu questo mercatante, se non il Serenissimo di Savoia, il quale da lui comprolla volontieri,
+     dandogli in vece di pagamento due gioie, le più pretiose che fussero nel dovitioso gemmaio
+     della sua real famiglia? Umberto et Amedeo, spiriti serenissimi, voi fuste le gioie con cui
+     questa nobil merce fu compra, tal <pb n="79bis"/> che quel ch'era proprio della terra fu
+     trasportato nel Cielo, e quel ch'era degno del Cielo fu conceduto alla terra. Ben si verifica
+     in questo trafico la profetia d'<persName ref="#Isaie">Isaia</persName>: <quote xml:lang="lat"
+      >cuius negotiatores Principes, et erunt negotiatio eius et merces eius santificatae
+      Domino.</quote> Avventurosissimo cambio: due anime beate per una Sindone santa; santissima
+     usura: per una Sindone santa due anime beate; gentilissima mercatantia: dove <persName
+      ref="#Jesus">Cristo</persName> a guisa di quel gioielliere evangelico, qui una inventa
+     pretiosa margarita, vadit et vendit cuncta quae habet et emit eam, ritrovatene non una sola, ma
+     due, di tutto ciò ch'egli aveva di meglio fece con vantaggioso guadagno possessori gli eredi
+     del vostro glorioso legnaggio, che perciò la medesima Scrittura soggiugne: et cingulum tradidit
+     Chananeo. Cinto d'<placeName ref="#Italie">Italia</placeName> son queste Alpi insuperabili!
+     cinto di <placeName ref="#Turin">Torino</placeName> son queste mura inespugnabili! ma cinto più
+     sicuro e più forte di tutto il vostro Stato (Serenissimo Sire) è questa santissima Sindone,
+     bastione che da tutti i nemici vi guarda e da ogni insidia vi difende. Spianinsi i forti,
+     abbattansi le rocche, sbadisi il vallo d'Augusta, rovini il Monviso, precipiti il Monsanese,
+     atterrisi tutto <pb n="80"/> quell'antemurale di rupi e di balze che, per lunghissima linea
+     incatenate, a questo delitioso paese fanno corona, purché solo il vostro celeste propugnacolo
+     rimanga in piedi. Ch'alla fine non è altezza che non si superi, asprezza che non si domi,
+     fortezza che non s'espugni. Anche le pendici sassose e impenetrabili dell'Ato furono dall'armi
+     Persiane sviscerate et aperte; anche le porte inospiti degli Arimaspi e le foci gelate del
+     Caucaso forate e rotte dalle Macedoniche; anche su per l'alpestri e straripevoli cime de'
+     Pirenei volarono le Romane; anche per entro l'angusta bocca dell'Oceano e fra i due rigidi
+     promontori d'Abila e Calpe trappassarono le Spagnuole; anche per l'eminenza delle stesse Alpi
      inaccessibili e per lo discosceso giogo dell'italico Appennino discesero le Cartaginesi; né
      fece insomma giamai la natura luogo alcuno per sito tanto sicuro, né l'arte lo tenne giamai per
      munitione così ben difeso, dove l'umana audacia e la forza il varco non s'aprisse. Ma ceda,
@@ -2540,52 +2542,56 @@
      questo non solo scompigliate le falangi degli uomini, ma spaventati gli esserciti de' diavoli.
      Questo, questo è il cinto dato al Cananeo, profetato etiandio prima che da <persName
       ref="#Salomon">Salomone</persName>, da <persName ref="#Isaie">Isaia</persName> quando disse:
-     <quote xml:lang="lat">Induam illum tunica tua, et cingolo tuo confortabo eum</quote>, quasi che la tunica ch'è la <objectName ref="#SuaireTurin">Sindone</objectName> sia
-     con la cintura una cosa medesima, fortificatrice di questo stato. O casa di Savoia più d'ogni
-     altra diletta al Cielo, casa chiara et illustre per l'invitto valore, ma più per l'incorrotta
-     religione e per la pietosa custodia di questa <objectName ref="#SuaireTurin">Sindone</objectName>.
-      <persName ref="#Jacob">Giacob</persName> rimase erede della vesta insanguinata del suo figliuolo creduto
-     morto, <persName>Carlo</persName> rimane erede della spoglia del figliuol di Dio crocifisso;
+      <quote xml:lang="lat">Induam illum tunica tua, et cingolo tuo confortabo eum</quote>, quasi
+     che la tunica ch'è la <objectName ref="#SuaireTurin">Sindone</objectName> sia con la cintura
+     una cosa medesima, fortificatrice di questo stato. O casa di Savoia più d'ogni altra diletta al
+     Cielo, casa chiara et illustre per l'invitto valore, ma più per l'incorrotta religione e per la
+     pietosa custodia di questa <objectName ref="#SuaireTurin">Sindone</objectName>. <persName
+      ref="#Jacob">Giacob</persName> rimase erede della vesta insanguinata del suo figliuolo creduto
+     morto, <persName ref="#CharlesEmmanuelIer">Carlo</persName> rimane erede della spoglia del figliuol di Dio crocifisso;
       <persName>Eliseo</persName> ottenne dal suo maestro <pb n="81"/> in su l'estrema dipartita il
-     mantello che gli copriva le spalle, <persName>Carlo</persName> ottiene dal suo Signore il panno
-     che gli fasciò le carni; <persName ref="#SainteVeronique">Veronica</persName> ebbe uno <objectName>schizzo del volto
-      di <persName ref="#Jesus">Cristo</persName></objectName> abbozzato col sudore in un
-     moccicchino, <persName>Carlo</persName> ha una figura perfetta di tutto il corpo in un
-     lenzuolo; <persName>Pietro</persName> si vide spiegar dal Cielo una cortina piena d'animali
-     velenosi, <persName>Carlo</persName> si vede spiegare in terra un gonfalone, dove è il vero
-     ritratto dell'innocente Agnello. O favore sopra ogni favore! o favorito sopra ogni altro
-     favorito! <persName ref="#Moise">Mosè</persName> fu degno di parlare a <persName ref="#Dieu">Dio</persName>
-     da faccia a faccia, <persName>Stefano</persName> di mirar <persName ref="#Jesus">Gesù</persName> stante alla
-     destra del Padre, <persName>Paolo</persName> di spiare i divini secreti, rapito al terzo Cielo,
-      <persName ref="#SaintJeanBaptiste">Giov. Battista</persName> d'alzar la mano sopra la testa di <persName ref="#Jesus"
-      >Cristo</persName> nel lavacro del Giordano. <persName ref="#LazareDeBethanie"
-      >Lazaro</persName> d'esser da lui lagrimato dopo la morte. <persName ref="#SaintJean">Giovanni</persName>
-     Evangelista d'appoggiargli il capo in grembo nella cena estrema, <persName ref="#SaintPierre">Pietro</persName> di commettergli i piedi
-     tra le mani nell'ultimo bagno, <persName ref="#MarieMadeleine">Madalena</persName> d'ungergli,
-     rasciugargli e baciargli le piante nel pasto di <persName>Simone</persName>,
-      <persName ref="#SaintThomas">Tomaso</persName> di ficcargli il dito nel fianco aperto,
-      <persName ref="#Joseph">Giuseppe</persName> di <pb n="81bis"/> toccarlo e strignerlo con paterne tenerezze,
-     l'altro  <persName ref="#JosephDArimathie"></persName> di trattare il suo corpo morto involgendolo nel drappo di cui parliamo. Più.
-     La <persName ref="#Marie">Vergine</persName> istessa, e vivo e morto, di legarlo tra le fascie,
-     di lusingarlo co' baci, di raccorlo nel seno, di recarlosi in braccio. Favori tutti (non si può
-     negare) grandissimi. Ma a <persName>Carlo</persName>, privilegiato con dismisura et eccesso di
-     partialità, vengono quasi in un fascio con la santissima <objectName ref="#SuaireTurin">Sindone</objectName> conceduti
-     tutti questi favori insieme. Onde siccome ella è un sommario di tutte le maraviglie di
-      <persName ref="#Dieu">Dio</persName>, così è anche un epilogo di tutti i favori di <persName
-      ref="#Dieu">Dio</persName>. Volse l'infinita bontà del Salvatore a diverse città et a diversi
-     prencipi diversi stromenti distribuire della sua dolcissima passione. A <placeName ref="#Milan"
-      >Milano</placeName> lasciò un chiodo, a <placeName ref="#Naples">Napoli</placeName> diede una
-     spina, a <placeName ref="#Paris">Parigi</placeName> tutta la corona, a <placeName ref="#Rome"
-      >Roma</placeName> donò la lancia, a <placeName ref="#Mantoue">Mantova</placeName> un poco del
-     sangue, a <placeName ref="#Jerusalem">Gerusalemme</placeName> parte della croce, ma tutto
-     quello che compartito era distintamente a molti, è stato prodigamente diffuso insieme ad uno. A
-     voi (Serenissimo Sire) si è compiaciuto di donar cosa la qual tutto il contenuto di que' tanti
-     misteri raccoglie in un ristretto compendio, poiché chiunque mira questo sacratissimo contesto,
-     espressamente vi vede e le cicatrici <pb n="82"/> de' chiodi, e le punture delle spine, e la
-     fessura della lancia, e la scaturigine del sangue e la rigidezza della croce. Per la qual cosa
-     vi potete divotamente vantare d'aver quasi impoverito il tesoro del Cielo, et in certo modo
-     spogliato <persName ref="#Dieu">Iddio</persName> di tutta la sua maggior ricchezza. Leggesi di
-      <persName ref="#ScipionAfricain">Scipione Africano</persName>, che militando in <placeName
+     mantello che gli copriva le spalle, <persName ref="#CharlesEmmanuelIer">Carlo</persName> ottiene dal suo Signore il panno
+     che gli fasciò le carni; <persName ref="#SainteVeronique">Veronica</persName> ebbe uno
+      <objectName>schizzo del volto di <persName ref="#Jesus">Cristo</persName></objectName>
+     abbozzato col sudore in un moccicchino, <persName ref="#CharlesEmmanuelIer">Carlo</persName> ha una figura perfetta di
+     tutto il corpo in un lenzuolo; <persName ref="#SaintPierre">Pietro</persName> si vide spiegar dal Cielo una
+     cortina piena d'animali velenosi, <persName ref="#CharlesEmmanuelIer">Carlo</persName> si vede spiegare in terra un
+     gonfalone, dove è il vero ritratto dell'innocente Agnello. O favore sopra ogni favore! o
+     favorito sopra ogni altro favorito! <persName ref="#Moise">Mosè</persName> fu degno di parlare
+     a <persName ref="#Dieu">Dio</persName> da faccia a faccia, <persName ref="#SaintEtienne">Stefano</persName> di
+     mirar <persName ref="#Jesus">Gesù</persName> stante alla destra del Padre,
+      <persName ref="#SaintPaul">Paolo</persName> di spiare i divini secreti, rapito al terzo Cielo, <persName
+      ref="#SaintJeanBaptiste">Giov. Battista</persName> d'alzar la mano sopra la testa di <persName
+      ref="#Jesus">Cristo</persName> nel lavacro del Giordano. <persName ref="#LazareDeBethanie"
+      >Lazaro</persName> d'esser da lui lagrimato dopo la morte. <persName ref="#SaintJean"
+      >Giovanni</persName> Evangelista d'appoggiargli il capo in grembo nella cena estrema,
+      <persName ref="#SaintPierre">Pietro</persName> di commettergli i piedi tra le mani nell'ultimo
+     bagno, <persName ref="#MarieMadeleine">Madalena</persName> d'ungergli, rasciugargli e baciargli
+     le piante nel pasto di Simone, <persName ref="#SaintThomas"
+      >Tomaso</persName> di ficcargli il dito nel fianco aperto, <persName ref="#Joseph"
+      >Giuseppe</persName> di <pb n="81bis"/> toccarlo e strignerlo con paterne tenerezze, l'altro
+      <persName ref="#JosephDArimathie"/> di trattare il suo corpo morto involgendolo nel drappo di
+     cui parliamo. Più. La <persName ref="#Marie">Vergine</persName> istessa, e vivo e morto, di
+     legarlo tra le fascie, di lusingarlo co' baci, di raccorlo nel seno, di recarlosi in braccio.
+     Favori tutti (non si può negare) grandissimi. Ma a <persName ref="#CharlesEmmanuelIer">Carlo</persName>, privilegiato con
+     dismisura et eccesso di partialità, vengono quasi in un fascio con la santissima <objectName
+      ref="#SuaireTurin">Sindone</objectName> conceduti tutti questi favori insieme. Onde siccome
+     ella è un sommario di tutte le maraviglie di <persName ref="#Dieu">Dio</persName>, così è anche
+     un epilogo di tutti i favori di <persName ref="#Dieu">Dio</persName>. Volse l'infinita bontà
+     del Salvatore a diverse città et a diversi prencipi diversi stromenti distribuire della sua
+     dolcissima passione. A <placeName ref="#Milan">Milano</placeName> lasciò un chiodo, a
+      <placeName ref="#Naples">Napoli</placeName> diede una spina, a <placeName ref="#Paris"
+      >Parigi</placeName> tutta la corona, a <placeName ref="#Rome">Roma</placeName> donò la lancia,
+     a <placeName ref="#Mantoue">Mantova</placeName> un poco del sangue, a <placeName
+      ref="#Jerusalem">Gerusalemme</placeName> parte della croce, ma tutto quello che compartito era
+     distintamente a molti, è stato prodigamente diffuso insieme ad uno. A voi (Serenissimo Sire) si
+     è compiaciuto di donar cosa la qual tutto il contenuto di que' tanti misteri raccoglie in un
+     ristretto compendio, poiché chiunque mira questo sacratissimo contesto, espressamente vi vede e
+     le cicatrici <pb n="82"/> de' chiodi, e le punture delle spine, e la fessura della lancia, e la
+     scaturigine del sangue e la rigidezza della croce. Per la qual cosa vi potete divotamente
+     vantare d'aver quasi impoverito il tesoro del Cielo, et in certo modo spogliato <persName
+      ref="#Dieu">Iddio</persName> di tutta la sua maggior ricchezza. Leggesi di <persName
+      ref="#ScipionAfricain">Scipione Africano</persName>, che militando in <placeName
       ref="#Espagne">Ispagna</placeName>, dopo l'avere sconfitto Indibile, duce di Cartaginesi, gli
      fu condotto avante un garzone prigioniero d'aspetto signorile e di legnaggio reale, che, per
      essergli nella battaglia caduto sotto il destriero, era stato preso da' Romani, et egli, mosso
@@ -2648,104 +2654,112 @@
      che, ritornato a <placeName ref="#Rome">Roma</placeName>, volse addobbato di esso comparire nel
      publico trionfo, gloriandosi più d'avere intorno un così fatto ornamento, che di quante altre
      pompe facevano superbo l'apparato di quella festiva solennità. Pregiatevi molto più Voi, o
-     <persName ref="#CharlesEmmanuelIer">Carlo</persName>, fatto possessore di quel ricchissimo manto che vestì la carne del Monarca dell'universo.
-     Né fasto o splendore alcuno delle vostre prospere fortune vi faccia tanto andare altiero,
-     quanto la vesta di colui che non d'un re indiano o d'un persiano, ma del diavolo e della morte
-     fu vincitore. <pb n="84bis"/> Simili favori appunto leggiamo
-     ch'<persName>Alessandro</persName>, figliuolo del <persName>re Antioco </persName>, facesse a
-      <persName>Gionata</persName>, pontefice de' Giudei, il quale aveva rotto in campo
-      <persName>Apollonio</persName>, capitano di Demetrio: <quote xml:lang="lat">Misit ei epistulam, purpuram et coronam auream</quote>. Et ecco gli onori e le
+      <persName ref="#CharlesEmmanuelIer">Carlo</persName>, fatto possessore di quel ricchissimo
+     manto che vestì la carne del Monarca dell'universo. Né fasto o splendore alcuno delle vostre
+     prospere fortune vi faccia tanto andare altiero, quanto la vesta di colui che non d'un re
+     indiano o d'un persiano, ma del diavolo e della morte fu vincitore. <pb n="84bis"/> Simili
+     favori appunto leggiamo ch'<persName>Alessandro</persName>, figliuolo del <persName>re Antioco
+     </persName>, facesse a <persName ref="#Jonathan">Gionata</persName>, pontefice de' Giudei, il
+     quale aveva rotto in campo <persName>Apollonio</persName>, capitano di Demetrio: <quote
+      xml:lang="lat">Misit ei epistulam, purpuram et coronam auream</quote>. Et ecco gli onori e le
      prerogative da voi ricevute per la mano del gran donatore d'ogni bene. La corona reale: eccovi
      un regno grande, antico, unito, forte, armato, ricco e benevolo. L'epistola: eccovi i caratteri
      intagliati intorno alla vostra medaglia, lettera divina, ambasciata angelica: Ave gratia plena.
-     La porpora: non vel diss'io che la <objectName ref="#SuaireTurin">Sindone</objectName> di <persName ref="#Jesus">Cristo</persName> è il suo
-     manto purpureo? Udite ciò ch'egli dice in uno de' suoi dolci lamenti colà nel libro de'
-     Cantici: <quote xml:lang="lat">Tulerunt mihi pallium meum custodes murorum</quote>. Pur come voglia dire:
-      <persName>Giuseppe</persName> lasciò il mantello alla <persName>moglie di Putifar</persName>,
-      <persName ref="#SaintJean">Giovanni</persName> abbandonò il lenzuolo in mano de' satelliti,
-      <persName ref="#SaintMartin">Martino</persName> partì col mendico la propria vesta, a me è stata tolta la più
-     cara spoglia che m'avess'io e la mi hanno tolta i custodi di queste mura d'<placeName
-      ref="#Italie">Italia</placeName>, che posseggono il serraglio dell'Alpi e volgono le chiavi
-     delle porte Piamontesi. Che fra <persName ref="#David">David</persName> e
-      <persName ref="#">Gionata</persName>
+     La porpora: non vel diss'io che la <objectName ref="#SuaireTurin">Sindone</objectName> di
+      <persName ref="#Jesus">Cristo</persName> è il suo manto purpureo? Udite ciò ch'egli dice in
+     uno de' suoi dolci lamenti colà nel libro de' Cantici: <quote xml:lang="lat">Tulerunt mihi
+      pallium meum custodes murorum</quote>. Pur come voglia dire: <persName>Giuseppe</persName>
+     lasciò il mantello alla <persName>moglie di Putifar</persName>, <persName ref="#SaintJean"
+      >Giovanni</persName> abbandonò il lenzuolo in mano de' satelliti, <persName ref="#SaintMartin"
+      >Martino</persName> partì col mendico la propria vesta, a me è stata tolta la più cara spoglia
+     che m'avess'io e la mi hanno tolta i custodi di queste mura d'<placeName ref="#Italie"
+      >Italia</placeName>, che posseggono il serraglio dell'Alpi e volgono le chiavi delle porte
+     Piamontesi. Che fra <persName ref="#David">David</persName> e <persName ref="#Jonathan"
+      >Gionata</persName>
      <pb n="85"/> passasse intrinsico et isviscerato amore chiara fede ne rende la Scrittura:
      diligebat eum quasi animam suam. Ma qual per vostra fe' fu l'origine principale di sì cordiale
-     amore? Una sola cagione se n'assegna: nam expoliavit se <persName>Jonatas</persName> tunica qua
-     erat indutus et dedit eam <persName ref="#David">David</persName> et omnia vestimenta sua dedit
-     ei, usque ad gladium et arcum et usque ad balteum. Né maggiore o più vigoroso argomento so
-     trovar io a provare che voi (Serenissimo Sire) siate singolarmente da <persName ref="#Dieu"
-      >Dio</persName> amato, se non il vedere ch'egli si è spogliato di quel panno istesso che lo
-     coverse, e ve n'ha fatto libero dono. Et (ciò che più è da notare) insieme col panno vi ha
-     anche donato l'arco, la spada e lo scudo, poiché il medesimo panno vi scusa scudo e vi serve di
-     spada e d'arco, per la potentissima difesa che seco porta. Laonde non fia chi si maravigli s'io
-     torno a dire ch'<persName ref="#Dieu">Iddio</persName> si è per voi spropriato del meglio
-     ch'egli s'avesse, et ha in voi a piena mano versata tutta la dovitia de' beni suoi. Favoreggia
-     questo mio pensiero l'auttorità di quell'altre parole dette dal buon vecchio <persName
-      ref="#Isaac">Isaac</persName> al suo figliuolo <persName>Esaù</persName>, quando accortosi che
+     amore? Una sola cagione se n'assegna: <quote xml:lang="lat">nam expoliavit se <persName
+       ref="#Jonathan">Jonatas</persName> tunica qua erat indutus et dedit eam <persName
+       ref="#David">David</persName> et omnia vestimenta sua dedit ei, usque ad gladium et arcum et
+      usque ad balteum</quote>. Né maggiore o più vigoroso argomento so trovar io a provare che voi
+     (Serenissimo Sire) siate singolarmente da <persName ref="#Dieu">Dio</persName> amato, se non il
+     vedere ch'egli si è spogliato di quel panno istesso che lo coverse, e ve n'ha fatto libero
+     dono. Et (ciò che più è da notare) insieme col panno vi ha anche donato l'arco, la spada e lo
+     scudo, poiché il medesimo panno vi scusa scudo e vi serve di spada e d'arco, per la
+     potentissima difesa che seco porta. Laonde non fia chi si maravigli s'io torno a dire
+      ch'<persName ref="#Dieu">Iddio</persName> si è per voi spropriato del meglio ch'egli s'avesse,
+     et ha in voi a piena mano versata tutta la dovitia de' beni suoi. Favoreggia questo mio
+     pensiero l'auttorità di quell'altre parole dette dal buon vecchio <persName ref="#Isaac"
+      >Isaac</persName> al suo figliuolo <persName ref="#Esau">Esaù</persName>, quando accortosi che
      l'altro fratello gli avea scaltramente usurpata la primogenitura, <pb n="85bis"/> non sapendo
-     qual altra beneditione concedergli, disse: Frumento et vino stabilivi eum, et tibi post haec,
-     fili mi, ultra quid faciam? Parla il gran Padre <persName ref="#Dieu">Iddio</persName> agli
-     altri signori d'Europa, e dice loro: «Deh, che poss'io più darvi? Se il mio carissimo
-     primogenito fra tutti i prencipi vi ha ogni pretensione preoccupata, togliendomi di mano la
-     miglior preda del mio celeste erario, qual reliquia mi avanza più pretiosa da compartire a voi
-     altri? Frumento et vino stabilivi eum: ho stabilito il fondamento delle sue grandezze in guisa
-     che non può dar più crollo; frumento et vino, favori temporali e favori spirituali, doni
-     terreni e doni celesti, gratie naturali e gratie divine. Fertilità di paese, fecondità di
-     successione, abbondanza di ricchezze, ubbidienza di sudditi, virtù nelle operationi, fortuna
-     ne' pericoli, prodezza in guerra, senno in pace: eccovi il formento. Fascia di Cristo, imagine
-     di Cristo, piaghe di Cristo, sangue di Cristo, <persName ref="#Jesus">Cristo</persName>
-     istesso: eccovi il vino. Qual cosa di maggiore o d'ugual rilievo da dispensar mi resta? tibi
-     post haec, fili mi, ultra quid faciam?». Questo medesimo pensiero accennato prima da <persName
+     qual altra beneditione concedergli, disse: <quote xml:lang="lat">Frumento et vino stabilivi
+      eum, et tibi post haec, fili mi, ultra quid faciam?</quote> Parla il gran Padre <persName
+      ref="#Dieu">Iddio</persName> agli altri signori d'<placeName ref="#Europe">Europa</placeName>,
+     e dice loro: <quote xml:lang="ita">«Deh, che poss'io più darvi? Se il mio carissimo primogenito
+      fra tutti i prencipi vi ha ogni pretensione preoccupata, togliendomi di mano la miglior preda
+      del mio celeste erario, qual reliquia mi avanza più pretiosa da compartire a voi altri?
+      Frumento et vino stabilivi eum: ho stabilito il fondamento delle sue grandezze in guisa che
+      non può dar più crollo; frumento et vino, favori temporali e favori spirituali, doni terreni e
+      doni celesti, gratie naturali e gratie divine. Fertilità di paese, fecondità di successione,
+      abbondanza di ricchezze, ubbidienza di sudditi, virtù nelle operationi, fortuna ne' pericoli,
+      prodezza in guerra, senno in pace: eccovi il formento. Fascia di Cristo, imagine di Cristo,
+      piaghe di Cristo, sangue di Cristo, <persName ref="#Jesus">Cristo</persName> istesso: eccovi
+      il vino. Qual cosa di maggiore o d'ugual rilievo da dispensar mi resta? tibi post haec, fili
+      mi, ultra quid faciam?».</quote> Questo medesimo pensiero accennato prima da <persName
       ref="#Isaac">Isaac</persName>
-     <pb n="86"/> per <persName>Giacob</persName>, parve che fusse poi dallo stesso Giacob
-     espressamente confermato a Giuseppe, quando avendo, moribondo, acconcio il testamento e
-     disposto di tutte le sue facoltà con gli altri figliuoli, a lui rivoltosi, gli lasciò
-     anticipatamente un legato particolare: Tolle partem tuam, quam tuli de manu Amorrhaei in gladio
-     et arcu meo. A tutti gli altri prencipi (come detto abbiamo) ha lasciata <persName ref="#Dieu"
-      >Iddio</persName> qualche cosa della sua eredità. «Ma tu sei l'amato (dice egli), tu sei il
-     caro, tu il privilegiato singolarmente, tu sarai l'erede come d'una parte avantaggiata oltre i
-     tuoi fratelli. A te voglio che tocchi de' beni paterni quella parte quam tuli de manu Amorrhaei
-     in gladio et arcu meo, quella tela vergata del mio sangue, quella, si può dir propriamente,
-     parte mia e non d'altrui, perché torcular calcavi solus: io son quegli che dagli artigli
-     dell'inferno la riscosse in virtù della mia croce e della mia morte. Tibi post haec fili mi
-     ultra quid faciam?» Conchiudo (Serenissimo Sire) con la conseguenza di Paolo apostolo: Quomodo
-     non etiam cum illo omnia nobis non donabit? Come fie possibile che chi con tanto smoderamento
-     di larghezza il proprio Figlio vi ha conceduto, cosa <pb n="86bis"/> alcuna per grande et
-     importante che sia abbia a negarvi? E che chi ha in sua balia il tesoro de' tesori, non sia per
-     esser sempre secondato dal Cielo in ciascun altro affare? Chi dirà che mentre i polli ricovrano
-     sotto l'ali dell'aquila non siano da qualsivoglia insulto sicuri? E qual'è l'aquila, se non
-     quella di cui disse Ezechiello: Aquila grandis magnarum alarum? Quali sono i suoi polli, se non
+     <pb n="86"/> per <persName ref="#Jacob">Giacob</persName>, parve che fusse poi dallo stesso
+      <persName ref="#Jacob">Giacob</persName> espressamente confermato a Giuseppe, quando avendo,
+     moribondo, acconcio il testamento e disposto di tutte le sue facoltà con gli altri figliuoli, a
+     lui rivoltosi, gli lasciò anticipatamente un legato particolare: <quote>Tolle partem tuam, quam
+      tuli de manu Amorrhaei in gladio et arcu meo.</quote> A tutti gli altri prencipi (come detto
+     abbiamo) ha lasciata <persName ref="#Dieu">Iddio</persName> qualche cosa della sua eredità. «Ma
+     tu sei l'amato (dice egli), tu sei il caro, tu il privilegiato singolarmente, tu sarai l'erede
+     come d'una parte avantaggiata oltre i tuoi fratelli. A te voglio che tocchi de' beni paterni
+     quella parte quam tuli de manu Amorrhaei in gladio et arcu meo, quella tela vergata del mio
+     sangue, quella, si può dir propriamente, parte mia e non d'altrui, perché torcular calcavi
+     solus: io son quegli che dagli artigli dell'inferno la riscosse in virtù della mia croce e
+     della mia morte. Tibi post haec fili mi ultra quid faciam?» Conchiudo (Serenissimo Sire) con la
+     conseguenza di <persName ref="#SaintPaul">Paolo apostolo</persName>: <quote xml:lang="lat"
+      >Quomodo non etiam cum illo omnia nobis non donabit?</quote> Come fie possibile che chi con
+     tanto smoderamento di larghezza il proprio Figlio vi ha conceduto, cosa <pb n="86bis"/> alcuna
+     per grande et importante che sia abbia a negarvi? E che chi ha in sua balia il tesoro de'
+     tesori, non sia per esser sempre secondato dal Cielo in ciascun altro affare? Chi dirà che
+     mentre i polli ricovrano sotto l'ali dell'aquila non siano da qualsivoglia insulto sicuri? E
+     qual'è l'aquila, se non quella di cui disse <persName ref="#Ezechiel">Ezechiello</persName>:
+      <quote xml:lang="lat">Aquila grandis magnarum alarum?</quote> Quali sono i suoi polli, se non
      la stirpe di Savoia? Aquila sì per la natural magnanimità, di cui è proprio simbolo questo
      uccello, che perciò dagli antichi fu attribuito a <persName ref="#Jupiter">Giove</persName>, sì
      perché l'insegna vecchia dell'armi di Savoia era l'aquila imperiale, donata dall'imperadore
-     Ottone a Beroldo in ricompensa de' travagli sofferti nel soccorrere il re d'<placeName
-      ref="#Arles">Arles</placeName>. Or questi polli, non altrimenti che suoi carissimi figli, sono
-     da quell'Aquila celeste invitati a volar seco in alto et a volgersi al vero Sole: sicut aquila
-     provocans ad volandum pullos suos et super eos volitans expandit alas suas. Ma quali sono
-     quest'ali se non la Sua protetione adombrata nell'ampiezza della Sindone, con cui par che vada
-     loro del continovo covando? Contentomi d'esser riputato bugiardo, se nelle <pb n="87"/>
-     Scritture istesse non si fa letteralmente a questo proposito esplicita mentione del nome
-     vostro, Serenissimo Sire: et erit extensio alarum eius implens latitudinem terrae tuae, o
-      <persName>Emanuel</persName>. Di voi, o <persName>Carlo Emanuello</persName>, di voi et a voi
-     ragiona <persName ref="#Isaie">Isaia</persName>, perciò che parlando egli a possessor di terre,
-     non possono (eccettuato <persName ref="#Jesus">Cristo</persName>, a cui principalmente
-     convengono) ad altro <persName>Emanuello</persName> che non sia prencipe essere indrizzate le
-     sue parole. E di che potete dubitare, o voi o la vostra terra, mentre sotto l'ombra di
-     quell'ali vi dimorate? Dite pure a quell'aquila confidentemente: Sub umbra alarum tuarum
-     protege me, e vi sentirete da lei rispondere benignamente: Sub umbra mea requiescite. Gloriarvi
-     adunque a gran ragione dovete del possesso di questa tela informata del divino ritratto, et a
-     gran ragione di essa cotanto vi pregiate. Introducano pure gli altri prencipi superbi (sicome
-     già il <persName>re Ezechia</persName> fece) gli Ambasciatori stranieri a vedere i loro secreti
-     ripostigli e i ricchi gazofilacii degli ori e degli aromati, ma <persName>Carlo</persName> alla
-     curiosità degli ospiti peregrini faccia solo della sua sacra guardarobba, di sì pretioso arnese
-      <pb n="87bis"/> corredata, ambitiosa mostra. Credeva l'antichità che le sculture di <persName
-      ref="#Dedale">Dedalo</persName>, se non erano ben legate, prendessero la fuga e si
-     dipartissero. Voi geloso della perdita di questa miracolosa pittura, accioché sdegnosa per
-     tanti peccati del popolo non l'abbandoni, dicendo con <persName>Osea</persName>: Liberabo linum
-     meum et lanam meam quae operiebant ignominiam eius, e con <persName ref="#Jeremie"
-      >Geremia</persName>: Curavimus Babylonem et non est sanata: derelinquamus eam, l'avete con
-     saldissime funi di vero amore stretta et incatenata, onde potete ben dir con la Sposa: Tenui
-     eam nec dimittam. La collocaste nel mezo del maggior tempio, ma più nel centro del vostro
+      <persName ref="#Othon">Ottone</persName> a <persName>Beroldo</persName> in ricompensa de'
+     travagli sofferti nel soccorrere il re d'<placeName ref="#Arles">Arles</placeName>. Or questi
+     polli, non altrimenti che suoi carissimi figli, sono da quell'Aquila celeste invitati a volar
+     seco in alto et a volgersi al vero Sole: <quote xml:lang="lat">sicut aquila provocans ad
+      volandum pullos suos et super eos volitans expandit alas suas</quote>. Ma quali sono quest'ali
+     se non la Sua protetione adombrata nell'ampiezza della <objectName ref="#SuaireTurin"
+      >Sindone</objectName>, con cui par che vada loro del continovo covando? Contentomi d'esser
+     riputato bugiardo, se nelle <pb n="87"/> Scritture istesse non si fa letteralmente a questo
+     proposito esplicita mentione del nome vostro, Serenissimo Sire: et erit extensio alarum eius
+     implens latitudinem terrae tuae, o Emanuel. Di voi, o <persName ref="#CharlesEmmanuelIer">Carlo
+      Emanuello</persName>, di voi et a voi ragiona <persName ref="#Isaie">Isaia</persName>, perciò
+     che parlando egli a possessor di terre, non possono (eccettuato <persName ref="#Jesus"
+      >Cristo</persName>, a cui principalmente convengono) ad altro Emanuello che non sia prencipe
+     essere indrizzate le sue parole. E di che potete dubitare, o voi o la vostra terra, mentre
+     sotto l'ombra di quell'ali vi dimorate? Dite pure a quell'aquila confidentemente: Sub umbra
+     alarum tuarum protege me, e vi sentirete da lei rispondere benignamente: Sub umbra mea
+     requiescite. Gloriarvi adunque a gran ragione dovete del possesso di questa tela informata del
+     divino ritratto, et a gran ragione di essa cotanto vi pregiate. Introducano pure gli altri
+     prencipi superbi (sicome già il <persName ref="#Ezechias">re Ezechia</persName> fece) gli
+     Ambasciatori stranieri a vedere i loro secreti ripostigli e i ricchi gazofilacii degli ori e
+     degli aromati, ma <persName>Carlo</persName> alla curiosità degli ospiti peregrini faccia solo
+     della sua sacra guardarobba, di sì pretioso arnese <pb n="87bis"/> corredata, ambitiosa mostra.
+     Credeva l'antichità che le sculture di <persName ref="#Dedale">Dedalo</persName>, se non erano
+     ben legate, prendessero la fuga e si dipartissero. Voi geloso della perdita di questa
+     miracolosa pittura, accioché sdegnosa per tanti peccati del popolo non l'abbandoni, dicendo con
+      <persName>Osea</persName>: Liberabo linum meum et lanam meam quae operiebant ignominiam eius,
+     e con <persName ref="#Jeremie">Geremia</persName>: <quote xml:lang="lat">Curavimus Babylonem et
+      non est sanata: derelinquamus eam</quote>, l'avete con saldissime funi di vero amore stretta
+     et incatenata, onde potete ben dir con la Sposa: <quote xml:lang="lat">Tenui eam nec
+      dimittam</quote>. La collocaste nel mezo del maggior tempio, ma più nel centro del vostro
      divoto animo; la riponeste nella cima dell'alto santuario, ma più nella sommità della vostra
      nobil mente; la chiudeste dentro un'arca di finissimo oro, ma più dentro il reliquiere del
      vostro regio petto; le fabricaste una custodia di limpido gelo alpino, ma più del chiaro
