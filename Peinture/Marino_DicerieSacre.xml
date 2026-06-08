@@ -2,148 +2,90 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title xml:lang="fra">Dicerie sacre Diceria 1</title>
-        <respStmt>
-          <name>Anaïs Mazoué</name>
-          <resp>Transcription, Structuration, Balisage, Indexation</resp>
-        </respStmt>
-        <respStmt>
-          <name>Irene Calcagno</name>
-          <resp>Correction, Balisage, Indexation</resp>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>ArTerm</publisher>
-        <pubPlace>Paris</pubPlace>
-        <date when="2028">2028</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb12158025x">Marino<idno type="ISNI">https://isni.org/isni/0000000121297454</idno>
-          </author>
-          <title xml:lang="fra">Dicerie sacre Diceria 1</title>
-          <publisher>Luigi Pizzamiglio</publisher>
-          <pubPlace>Torino</pubPlace>
-          <date when="1614">1614</date>
-        </bibl>
-        <msDesc>
-          <msIdentifier>
-            <country>France</country>
-            <settlement ref="#Paris">Paris</settlement>
-            <institution>Bibliothèque nationale de France</institution>
-            <repository />
-            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb30885628n</idno>
-          </msIdentifier>
-        </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
-      </projectDesc>
-      <editorialDecl>
-        <correction status="medium" method="silent">
-          <p>édition complète</p>
-        </correction>
-        <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
-        </normalization>
-        <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
-        </punctuation>
-        <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettres + dedicaces + poeme) + body (3 livres)</p>
-        </segmentation>
-        <hyphenation eol="none" />
-        <stdVals>
-          <p>Norme ISO-8601 pour les dates</p>
-        </stdVals>
-      </editorialDecl>
-      <p />
-    </encodingDesc>
-    <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
-    </profileDesc>
-  </teiHeader>
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title xml:lang="fra">L’architecture et art de bien bastir du Seigneur Leon Baptiste Alberti</title>
-        <respStmt>
-          <name>Emma Bondoerffer</name>
-          <resp>Transcription, Correction, Structuration, Balisage, Indexation</resp>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>ArTerm</publisher>
-        <pubPlace>Paris</pubPlace>
-        <date when="2028">2028</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb12462195n">Martin<idno type="ISNI">https://isni.org/isni/0000000076903637</idno>
-          </author>
-          <title xml:lang="fra">L’architecture et art de bien bastir du Seigneur Leon Baptiste Alberti</title>
-          <publisher>Jacques Kerver</publisher>
-          <pubPlace>Paris</pubPlace>
-          <date when="1553">1553</date>
-        </bibl>
-        <msDesc>
-          <msIdentifier>
-            <country>France</country>
-            <settlement ref="#Paris">Paris</settlement>
-            <institution>Bibliothèque nationale de France</institution>
-            <repository />
-            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb30007826z</idno>
-          </msIdentifier>
-        </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
-      </projectDesc>
-      <editorialDecl>
-        <correction status="medium" method="silent">
-          <p>édition complète</p>
-        </correction>
-        <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
-        </normalization>
-        <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
-        </punctuation>
-        <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettres + privilege + gap + avis + preface) + body (10 livres L avec des chapitres C)</p>
-        </segmentation>
-        <hyphenation eol="none" />
-        <stdVals>
-          <p>Norme ISO-8601 pour les dates</p>
-        </stdVals>
-      </editorialDecl>
-      <p />
-    </encodingDesc>
-    <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
-    </profileDesc>
-  </teiHeader>
- <text>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="fra">Dicerie sacre Diceria 1</title>
+    <respStmt>
+     <name>Anaïs Mazoué</name>
+     <resp>Transcription, Structuration, Balisage, Indexation</resp>
+    </respStmt>
+    <respStmt>
+     <name>Irene Calcagno</name>
+     <resp>Correction, Balisage, Indexation</resp>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>ArTerm</publisher>
+    <pubPlace>Paris</pubPlace>
+    <date when="2028">2028</date>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by
+      ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>Bibliothèque nationale de France<author
+      ref="https://data.bnf.fr/fr/ark:/12148/cb12158025x">Marino<idno type="ISNI"
+       >https://isni.org/isni/0000000121297454</idno>
+     </author>
+     <title xml:lang="fra">Dicerie sacre Diceria 1</title>
+     <publisher>Luigi Pizzamiglio</publisher>
+     <pubPlace>Torino</pubPlace>
+     <date when="1614">1614</date>
+    </bibl>
+    <msDesc>
+     <msIdentifier>
+      <country>France</country>
+      <settlement ref="#Paris">Paris</settlement>
+      <institution>Bibliothèque nationale de France</institution>
+      <repository/>
+      <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb30885628n</idno>
+     </msIdentifier>
+    </msDesc>
+    <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la
+     littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des
+     théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique
+     et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+   </projectDesc>
+   <editorialDecl>
+    <correction status="medium" method="silent">
+     <p>édition complète</p>
+    </correction>
+    <normalization method="silent">
+     <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et
+      accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+    </normalization>
+    <punctuation marks="some">
+     <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le
+      reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien,
+      les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+    </punctuation>
+    <segmentation>
+     <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4.
+      Structure de ce fichier : front (titlePage + lettres + dedicaces + poeme) + body (3
+      livres)</p>
+    </segmentation>
+    <hyphenation eol="none"/>
+    <stdVals>
+     <p>Norme ISO-8601 pour les dates</p>
+    </stdVals>
+   </editorialDecl>
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+   <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+  </profileDesc>
+ </teiHeader>
+  <text>
   <front>
    <div type="preface">
     <pb n="np"/>
@@ -175,7 +117,7 @@
       multitudinem ranarum </hi> . Strana cosa certo che l'acqua della divina parola, la qual
      dovrebbe esser fertile di pesci di buone operationi, produca talvolta rane garrule e
      gracchianti di detrationi vane. E così appunto par che sia avenuto nella publicatione di questi
-     spirituali ragionamenti del Cavalier <persName ref="#GiambattistaMarino">Marino</persName>, che
+     spirituali ragionamenti del <persName ref="#GiambattistaMarino">Cavalier Marino</persName>, che
      sperando egli dopo molte scritture profane di partorir qualche <pb n="np"/> frutto degno di
      que' sacri studi, a' quali fin da' primi anni fu sempre inclinato, invece d'essempio e
      d'edificatione, si accorge d'aver prestata a' sindicatori occasione di mormorare. Perciò che
@@ -1181,32 +1123,32 @@
      fu che condusse di <placeName ref="#Judee">Giudea</placeName> in <placeName ref="#Babylone"
       >Babilonia</placeName>
      <persName>Abacucco</persName> col pane a <persName>Daniello</persName>;somiglialo nella purità,
-     perciò che un angiolo fu che preservò <persName ref="#Judith">Giuditte</persName> dagli osceni abbracciamenti
-      d'<persName>Oloferne</persName>; somiglialo nella protetione, perciò che un angiolo fu che
-     comparve a <persName>Giosuè</persName> con la spada ignuda a difesa dell'essercito
-     suo;somiglialo nelle rivelationi, perciò che un angiolo fu ch'annunziò alla <persName
-      ref="#Marie">Vergine</persName> l'Incarnatione del Verbo, a <persName>Giuseppe</persName> la
-     congiura d'Erode, et alle donne la Resurretione di <persName ref="#Jesus"
-     >Cristo</persName>;somiglialo nelle consolationi, perciò che un angiolo fu che confortò il
-     Salvatore nell'orto a bere il calice della medicina preparata dal Padre;somiglialo nell'unità,
-     perciò che ciascuno angiolo (secondo <pb n="31"/> l'Angelico) costituisce per se stesso una
-     specie particolare e distinta. Somiglialo nella Trinità, perciò che in tre ternarii divise sono
-     le legioni degli angioli, dove l'amor dello Spirito Santo vien significato ne' Serafini, la
-     sapienza del Figlio ne' Cherubini, la maestà del Padre ne' Troni. Le Dominationi corrispondono
-     al dominio del Padre, le Potestà alla potestà del Figlio, le Virtù alla bontà dello Spirito
-     Santo. Lo Spirito Santo ha analogia co' Prencipati, che guardano le provincie e i regni, il
-     Padre con gli Arcangioli, che hanno in cura i Prencipi et i Regi, il Figlio con gli angioli,
-     che stanno alla difesa di ciascun uomo e vanno qua e là messaggeri. Et oltracciò in ciascun
-     angiolo risplende l'imagine della Trinità, poiché in ciascuno tre cose distinte necessariamente
-     si ritrovano, che sono l'essenza, la potestà e l'operatione, e nondimeno tutte e tre queste
-     cose sono in un solo. Né solo tutti gli attributi e le qualità di <persName ref="#Dieu"
-      >Dio</persName> son communicate agli angioli, ma lo stesso Figliuol di <persName ref="#Dieu"
-      >Dio</persName>, per accennar sì fatta somiglianza, nome d'angiolo ha voluto appropriarsi.
-     Chiamasi angiolo del testamento, angiolo del gran consiglio; figurato in quell'angiolo <pb
-      n="31bis"/> che fu posto in difesa del paradiso terrestre con la spada di fuoco in mano,
-     poiché nello stesso modo <persName ref="#Jesus">Cristo</persName>, armato di carità ardente,
-     assiste alla guardia della sua Chiesa;figurato in quell'angiolo ch'accompagnò il popolo
-     d'Israelle quando era perseguitato dagli Egittii, poiché nello stesso modo <persName
+     perciò che un angiolo fu che preservò <persName ref="#Judith">Giuditte</persName> dagli osceni
+     abbracciamenti d'<persName>Oloferne</persName>; somiglialo nella protetione, perciò che un
+     angiolo fu che comparve a <persName>Giosuè</persName> con la spada ignuda a difesa
+     dell'essercito suo;somiglialo nelle rivelationi, perciò che un angiolo fu ch'annunziò alla
+      <persName ref="#Marie">Vergine</persName> l'Incarnatione del Verbo, a
+      <persName>Giuseppe</persName> la congiura d'Erode, et alle donne la Resurretione di <persName
+      ref="#Jesus">Cristo</persName>;somiglialo nelle consolationi, perciò che un angiolo fu che
+     confortò il Salvatore nell'orto a bere il calice della medicina preparata dal Padre;somiglialo
+     nell'unità, perciò che ciascuno angiolo (secondo <pb n="31"/> l'Angelico) costituisce per se
+     stesso una specie particolare e distinta. Somiglialo nella Trinità, perciò che in tre ternarii
+     divise sono le legioni degli angioli, dove l'amor dello Spirito Santo vien significato ne'
+     Serafini, la sapienza del Figlio ne' Cherubini, la maestà del Padre ne' Troni. Le Dominationi
+     corrispondono al dominio del Padre, le Potestà alla potestà del Figlio, le Virtù alla bontà
+     dello Spirito Santo. Lo Spirito Santo ha analogia co' Prencipati, che guardano le provincie e i
+     regni, il Padre con gli Arcangioli, che hanno in cura i Prencipi et i Regi, il Figlio con gli
+     angioli, che stanno alla difesa di ciascun uomo e vanno qua e là messaggeri. Et oltracciò in
+     ciascun angiolo risplende l'imagine della Trinità, poiché in ciascuno tre cose distinte
+     necessariamente si ritrovano, che sono l'essenza, la potestà e l'operatione, e nondimeno tutte
+     e tre queste cose sono in un solo. Né solo tutti gli attributi e le qualità di <persName
+      ref="#Dieu">Dio</persName> son communicate agli angioli, ma lo stesso Figliuol di <persName
+      ref="#Dieu">Dio</persName>, per accennar sì fatta somiglianza, nome d'angiolo ha voluto
+     appropriarsi. Chiamasi angiolo del testamento, angiolo del gran consiglio; figurato in
+     quell'angiolo <pb n="31bis"/> che fu posto in difesa del paradiso terrestre con la spada di
+     fuoco in mano, poiché nello stesso modo <persName ref="#Jesus">Cristo</persName>, armato di
+     carità ardente, assiste alla guardia della sua Chiesa;figurato in quell'angiolo ch'accompagnò
+     il popolo d'Israelle quando era perseguitato dagli Egittii, poiché nello stesso modo <persName
       ref="#Jesus">Cristo</persName>, precorrendoci con la dottrina e con l'essempio, si è per noi
      opposto all'essercito infernale;figurato in quell'angiolo che, vinto volontariamente da
       <persName>Giacob</persName> nella lutta, benedisse il suo vincitore, poiché nello stesso modo
@@ -2598,36 +2540,36 @@
      questo non solo scompigliate le falangi degli uomini, ma spaventati gli esserciti de' diavoli.
      Questo, questo è il cinto dato al Cananeo, profetato etiandio prima che da <persName
       ref="#Salomon">Salomone</persName>, da <persName ref="#Isaie">Isaia</persName> quando disse:
-     Induam illum tunica tua, et cingolo tuo confortabo eum, quasi che la tunica ch'è la Sindone sia
+     <quote xml:lang="lat">Induam illum tunica tua, et cingolo tuo confortabo eum</quote>, quasi che la tunica ch'è la <objectName ref="#SuaireTurin">Sindone</objectName> sia
      con la cintura una cosa medesima, fortificatrice di questo stato. O casa di Savoia più d'ogni
      altra diletta al Cielo, casa chiara et illustre per l'invitto valore, ma più per l'incorrotta
-     religione e per la pietosa custodia di questa <objectName>Sindone</objectName>.
-      <persName>Giacob</persName> rimase erede della vesta insanguinata del suo figliuolo creduto
+     religione e per la pietosa custodia di questa <objectName ref="#SuaireTurin">Sindone</objectName>.
+      <persName ref="#Jacob">Giacob</persName> rimase erede della vesta insanguinata del suo figliuolo creduto
      morto, <persName>Carlo</persName> rimane erede della spoglia del figliuol di Dio crocifisso;
       <persName>Eliseo</persName> ottenne dal suo maestro <pb n="81"/> in su l'estrema dipartita il
      mantello che gli copriva le spalle, <persName>Carlo</persName> ottiene dal suo Signore il panno
-     che gli fasciò le carni; <persName>Veronica</persName> ebbe uno <objectName>schizzo del volto
+     che gli fasciò le carni; <persName ref="#SainteVeronique">Veronica</persName> ebbe uno <objectName>schizzo del volto
       di <persName ref="#Jesus">Cristo</persName></objectName> abbozzato col sudore in un
      moccicchino, <persName>Carlo</persName> ha una figura perfetta di tutto il corpo in un
      lenzuolo; <persName>Pietro</persName> si vide spiegar dal Cielo una cortina piena d'animali
      velenosi, <persName>Carlo</persName> si vede spiegare in terra un gonfalone, dove è il vero
      ritratto dell'innocente Agnello. O favore sopra ogni favore! o favorito sopra ogni altro
-     favorito! <persName>Mosè</persName> fu degno di parlare a <persName ref="#Dieu">Dio</persName>
-     da faccia a faccia, <persName>Stefano</persName> di mirar <persName>Gesù</persName> stante alla
+     favorito! <persName ref="#Moise">Mosè</persName> fu degno di parlare a <persName ref="#Dieu">Dio</persName>
+     da faccia a faccia, <persName>Stefano</persName> di mirar <persName ref="#Jesus">Gesù</persName> stante alla
      destra del Padre, <persName>Paolo</persName> di spiare i divini secreti, rapito al terzo Cielo,
-      <persName>Giov. Battista</persName> d'alzar la mano sopra la testa di <persName ref="#Jesus"
+      <persName ref="#SaintJeanBaptiste">Giov. Battista</persName> d'alzar la mano sopra la testa di <persName ref="#Jesus"
       >Cristo</persName> nel lavacro del Giordano. <persName ref="#LazareDeBethanie"
-      >Lazaro</persName> d'esser da lui lagrimato dopo la morte. <persName>Giovanni</persName>
-     Evangelista d'appoggiargli il capo in grembo nella cena estrema, Pietro di commettergli i piedi
+      >Lazaro</persName> d'esser da lui lagrimato dopo la morte. <persName ref="#SaintJean">Giovanni</persName>
+     Evangelista d'appoggiargli il capo in grembo nella cena estrema, <persName ref="#SaintPierre">Pietro</persName> di commettergli i piedi
      tra le mani nell'ultimo bagno, <persName ref="#MarieMadeleine">Madalena</persName> d'ungergli,
      rasciugargli e baciargli le piante nel pasto di <persName>Simone</persName>,
-      <persName>Tomaso</persName> di ficcargli il dito nel fianco aperto,
-      <persName>Giuseppe</persName> di <pb n="81bis"/> toccarlo e strignerlo con paterne tenerezze,
-     l'altro Giuseppe di trattare il suo corpo morto involgendolo nel drappo di cui parliamo. Più.
+      <persName ref="#SaintThomas">Tomaso</persName> di ficcargli il dito nel fianco aperto,
+      <persName ref="#Joseph">Giuseppe</persName> di <pb n="81bis"/> toccarlo e strignerlo con paterne tenerezze,
+     l'altro  <persName ref="#JosephDArimathie"></persName> di trattare il suo corpo morto involgendolo nel drappo di cui parliamo. Più.
      La <persName ref="#Marie">Vergine</persName> istessa, e vivo e morto, di legarlo tra le fascie,
      di lusingarlo co' baci, di raccorlo nel seno, di recarlosi in braccio. Favori tutti (non si può
      negare) grandissimi. Ma a <persName>Carlo</persName>, privilegiato con dismisura et eccesso di
-     partialità, vengono quasi in un fascio con la santissima <persName>Sindone</persName> conceduti
+     partialità, vengono quasi in un fascio con la santissima <objectName ref="#SuaireTurin">Sindone</objectName> conceduti
      tutti questi favori insieme. Onde siccome ella è un sommario di tutte le maraviglie di
       <persName ref="#Dieu">Dio</persName>, così è anche un epilogo di tutti i favori di <persName
       ref="#Dieu">Dio</persName>. Volse l'infinita bontà del Salvatore a diverse città et a diversi
@@ -2679,7 +2621,7 @@
      rispetto cotal dono, sicome debito tributo, convenire, che in tante pericolose imprese vi siete
      fatto conoscere non men coraggioso cavaliere combattendo, che provido prencipe comandando?
      Volse oltracciò farvi donativo dell'annello, antica insegna di nobiltà: et ecco
-      l'<objectName>annello di Mauritio santo</objectName>, il quale ottenuto da'Bernesi insieme con
+      l'<objectName>annello di Maurizio santo</objectName>, il quale ottenuto da'Bernesi insieme con
      la spada e con l'altre reliquie di quel Martire, con arte non meno di cristiana pietà che di
      guerriero valore <pb n="83bis"/> appo voi si conserva. Gemma di pregio assai maggiore che
      quelle del re d'Epiro e del tiranno di Samo, perciò che se nell'una, non finto con intaglio, ma
@@ -2706,27 +2648,26 @@
      che, ritornato a <placeName ref="#Rome">Roma</placeName>, volse addobbato di esso comparire nel
      publico trionfo, gloriandosi più d'avere intorno un così fatto ornamento, che di quante altre
      pompe facevano superbo l'apparato di quella festiva solennità. Pregiatevi molto più Voi, o
-     Carlo, fatto possessore di quel ricchissimo manto che vestì la carne del Monarca dell'universo.
+     <persName ref="#CharlesEmmanuelIer">Carlo</persName>, fatto possessore di quel ricchissimo manto che vestì la carne del Monarca dell'universo.
      Né fasto o splendore alcuno delle vostre prospere fortune vi faccia tanto andare altiero,
      quanto la vesta di colui che non d'un re indiano o d'un persiano, ma del diavolo e della morte
      fu vincitore. <pb n="84bis"/> Simili favori appunto leggiamo
      ch'<persName>Alessandro</persName>, figliuolo del <persName>re Antioco </persName>, facesse a
       <persName>Gionata</persName>, pontefice de' Giudei, il quale aveva rotto in campo
-      <persName>Apollonio</persName>, capitano di <persName ref="#DemetriosAlopece"
-      >Demetrio</persName>: Misit ei epistulam, purpuram et coronam auream. Et ecco gli onori e le
+      <persName>Apollonio</persName>, capitano di Demetrio: <quote xml:lang="lat">Misit ei epistulam, purpuram et coronam auream</quote>. Et ecco gli onori e le
      prerogative da voi ricevute per la mano del gran donatore d'ogni bene. La corona reale: eccovi
      un regno grande, antico, unito, forte, armato, ricco e benevolo. L'epistola: eccovi i caratteri
      intagliati intorno alla vostra medaglia, lettera divina, ambasciata angelica: Ave gratia plena.
-     La porpora: non vel diss'io che la Sindone di <persName ref="#Jesus">Cristo</persName> è il suo
+     La porpora: non vel diss'io che la <objectName ref="#SuaireTurin">Sindone</objectName> di <persName ref="#Jesus">Cristo</persName> è il suo
      manto purpureo? Udite ciò ch'egli dice in uno de' suoi dolci lamenti colà nel libro de'
-     Cantici: Tulerunt mihi pallium meum custodes murorum. Pur come voglia dire:
+     Cantici: <quote xml:lang="lat">Tulerunt mihi pallium meum custodes murorum</quote>. Pur come voglia dire:
       <persName>Giuseppe</persName> lasciò il mantello alla <persName>moglie di Putifar</persName>,
-      <persName>Giovanni</persName> abbandonò il lenzuolo in mano de' satelliti,
-      <persName>Martino</persName> partì col mendico la propria vesta, a me è stata tolta la più
+      <persName ref="#SaintJean">Giovanni</persName> abbandonò il lenzuolo in mano de' satelliti,
+      <persName ref="#SaintMartin">Martino</persName> partì col mendico la propria vesta, a me è stata tolta la più
      cara spoglia che m'avess'io e la mi hanno tolta i custodi di queste mura d'<placeName
       ref="#Italie">Italia</placeName>, che posseggono il serraglio dell'Alpi e volgono le chiavi
      delle porte Piamontesi. Che fra <persName ref="#David">David</persName> e
-      <persName>Gionata</persName>
+      <persName ref="#">Gionata</persName>
      <pb n="85"/> passasse intrinsico et isviscerato amore chiara fede ne rende la Scrittura:
      diligebat eum quasi animam suam. Ma qual per vostra fe' fu l'origine principale di sì cordiale
      amore? Una sola cagione se n'assegna: nam expoliavit se <persName>Jonatas</persName> tunica qua
