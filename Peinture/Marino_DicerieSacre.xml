@@ -2,147 +2,89 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title xml:lang="fra">Dicerie sacre Diceria 1</title>
-        <respStmt>
-          <name>Anaïs Mazoué</name>
-          <resp>Transcription, Structuration, Balisage, Indexation</resp>
-        </respStmt>
-        <respStmt>
-          <name>Irene Calcagno</name>
-          <resp>Correction, Balisage, Indexation</resp>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>ArTerm</publisher>
-        <pubPlace>Paris</pubPlace>
-        <date when="2028">2028</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb12158025x">Marino<idno type="ISNI">https://isni.org/isni/0000000121297454</idno>
-          </author>
-          <title xml:lang="fra">Dicerie sacre Diceria 1</title>
-          <publisher>Luigi Pizzamiglio</publisher>
-          <pubPlace>Torino</pubPlace>
-          <date when="1614">1614</date>
-        </bibl>
-        <msDesc>
-          <msIdentifier>
-            <country>France</country>
-            <settlement ref="#Paris">Paris</settlement>
-            <institution>Bibliothèque nationale de France</institution>
-            <repository />
-            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb30885628n</idno>
-          </msIdentifier>
-        </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
-      </projectDesc>
-      <editorialDecl>
-        <correction status="medium" method="silent">
-          <p>édition complète</p>
-        </correction>
-        <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
-        </normalization>
-        <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
-        </punctuation>
-        <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettres + dedicaces + poeme) + body (3 livres)</p>
-        </segmentation>
-        <hyphenation eol="none" />
-        <stdVals>
-          <p>Norme ISO-8601 pour les dates</p>
-        </stdVals>
-      </editorialDecl>
-      <p />
-    </encodingDesc>
-    <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
-    </profileDesc>
-  </teiHeader>
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title xml:lang="fra">L’architecture et art de bien bastir du Seigneur Leon Baptiste Alberti</title>
-        <respStmt>
-          <name>Emma Bondoerffer</name>
-          <resp>Transcription, Correction, Structuration, Balisage, Indexation</resp>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>ArTerm</publisher>
-        <pubPlace>Paris</pubPlace>
-        <date when="2028">2028</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb12462195n">Martin<idno type="ISNI">https://isni.org/isni/0000000076903637</idno>
-          </author>
-          <title xml:lang="fra">L’architecture et art de bien bastir du Seigneur Leon Baptiste Alberti</title>
-          <publisher>Jacques Kerver</publisher>
-          <pubPlace>Paris</pubPlace>
-          <date when="1553">1553</date>
-        </bibl>
-        <msDesc>
-          <msIdentifier>
-            <country>France</country>
-            <settlement ref="#Paris">Paris</settlement>
-            <institution>Bibliothèque nationale de France</institution>
-            <repository />
-            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb30007826z</idno>
-          </msIdentifier>
-        </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
-      </projectDesc>
-      <editorialDecl>
-        <correction status="medium" method="silent">
-          <p>édition complète</p>
-        </correction>
-        <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
-        </normalization>
-        <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
-        </punctuation>
-        <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettres + privilege + gap + avis + preface) + body (10 livres L avec des chapitres C)</p>
-        </segmentation>
-        <hyphenation eol="none" />
-        <stdVals>
-          <p>Norme ISO-8601 pour les dates</p>
-        </stdVals>
-      </editorialDecl>
-      <p />
-    </encodingDesc>
-    <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
-    </profileDesc>
-  </teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="fra">Dicerie sacre Diceria 1</title>
+    <respStmt>
+     <name>Anaïs Mazoué</name>
+     <resp>Transcription, Structuration, Balisage, Indexation</resp>
+    </respStmt>
+    <respStmt>
+     <name>Irene Calcagno</name>
+     <resp>Correction, Balisage, Indexation</resp>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>ArTerm</publisher>
+    <pubPlace>Paris</pubPlace>
+    <date when="2028">2028</date>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by
+      ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>Bibliothèque nationale de France<author
+      ref="https://data.bnf.fr/fr/ark:/12148/cb12158025x">Marino<idno type="ISNI"
+       >https://isni.org/isni/0000000121297454</idno>
+     </author>
+     <title xml:lang="fra">Dicerie sacre Diceria 1</title>
+     <publisher>Luigi Pizzamiglio</publisher>
+     <pubPlace>Torino</pubPlace>
+     <date when="1614">1614</date>
+    </bibl>
+    <msDesc>
+     <msIdentifier>
+      <country>France</country>
+      <settlement ref="#Paris">Paris</settlement>
+      <institution>Bibliothèque nationale de France</institution>
+      <repository/>
+      <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb30885628n</idno>
+     </msIdentifier>
+    </msDesc>
+    <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la
+     littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des
+     théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique
+     et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+   </projectDesc>
+   <editorialDecl>
+    <correction status="medium" method="silent">
+     <p>édition complète</p>
+    </correction>
+    <normalization method="silent">
+     <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et
+      accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+    </normalization>
+    <punctuation marks="some">
+     <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le
+      reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien,
+      les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+    </punctuation>
+    <segmentation>
+     <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4.
+      Structure de ce fichier : front (titlePage + lettres + dedicaces + poeme) + body (3
+      livres)</p>
+    </segmentation>
+    <hyphenation eol="none"/>
+    <stdVals>
+     <p>Norme ISO-8601 pour les dates</p>
+    </stdVals>
+   </editorialDecl>
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+   <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+  </profileDesc>
+ </teiHeader>
  <text>
   <front>
    <div type="preface">
@@ -175,7 +117,7 @@
       multitudinem ranarum </hi> . Strana cosa certo che l'acqua della divina parola, la qual
      dovrebbe esser fertile di pesci di buone operationi, produca talvolta rane garrule e
      gracchianti di detrationi vane. E così appunto par che sia avenuto nella publicatione di questi
-     spirituali ragionamenti del Cavalier <persName ref="#GiambattistaMarino">Marino</persName>, che
+     spirituali ragionamenti del <persName ref="#GiambattistaMarino">Cavalier Marino</persName>, che
      sperando egli dopo molte scritture profane di partorir qualche <pb n="np"/> frutto degno di
      que' sacri studi, a' quali fin da' primi anni fu sempre inclinato, invece d'essempio e
      d'edificatione, si accorge d'aver prestata a' sindicatori occasione di mormorare. Perciò che
@@ -271,15 +213,24 @@
    </div>
    <div type="dedicace">
     <pb n="np"/>
-    <head> DEL SIG MARCHESE DON ANDREA DI CEVA. </head>
+    <head> DEL SIG MARCHESE <persName>DON ANDREA DI CEVA</persName>. </head>
     <p xml:id="MAR_DS_dedicace_P2">
      <figure type="lettrine"/>
-     <hi rend="capitals"> FORMO </hi> 'l gran Padre in Ciel, fabre divino, Col mirabil pennel del
-     suo sottile Intelletta fecondo, a sè simile Sempiterno ritratto, e peregrino. Lascio'l gran
-     Figlio in terra al Duca Alpine. Soura Natura Artefice gentile Pee man d'Amor can sanguinoso
-     stile La sua stampa mortale inblancolino. Hor qualche cela il Ciel, latela asconde, Da dotta
-     penna eppresso in carte appare: O Pittura immortal, linte faconde. Mai fius azurri, e le
-     pregiate, e care Panpore sue già non poteano altronde MARINO uscir, che del tuo fertil MARE. </p>
+     <lg><l><hi rend="capitals"> FORMO </hi> 'l gran Padre in Ciel, fabre divino, </l>
+     <l>Col mirabil pennel del suo sottile</l>
+     <l>Intelletta fecondo, a sè simile </l>
+     <l>Sempiterno ritratto, e peregrino. </l>
+     <l>Lascio'l gran Figlio in terra al Duca Alpine.</l>
+     <l>Soura Natura Artefice gentile</l>
+     <l>Pee man d'Amor can sanguinoso stile</l>
+     <l>La sua stampa mortale in blanco lino.</l>
+     <l>Hor qualche cela il Ciel, latela asconde,</l>
+     <l>Da dotta penna eppresso in carte appare: </l>
+     <l>O Pittura immortal, linte faconde. </l>
+     <l>Mai fius azurri, e le pregiate, e care </l>
+     <l>Panpore sue già non poteano altronde</l>
+     <l> MARINO uscir, che del tuo fertil MARE. </l></lg>
+    </p>
     <figure type="ornement"/>
    </div>
    <div type="poeme">
@@ -550,8 +501,8 @@
       >Pireico</persName> nelle bestie, Ardea ne' paesi, <persName ref="#Pausias">Pausia</persName>
      ne' fanciulli, <persName ref="#Euphranor">Eufranore</persName> negli eroi, <persName
       ref="#Eutychides">Eutichide</persName> ne' carri, Soso ne' pavimenti, <persName ref="#Nicias"
-      >Nicia</persName> nelle donne e ne' cani, <persName>Claudio</persName>,
-      <persName>Serapione</persName> e <persName>Eudoro</persName> nelle scene,
+      >Nicia</persName> nelle donne e ne' cani, <persName>Claudio</persName>, <persName
+      ref="#Serapion">Serapione</persName> e <persName>Eudoro</persName> nelle scene,
       <persName>Turpilio</persName> nelle figure picciole. E fra coloro che ne' tempi più a noi
      vicini fiorirono, mirabil riuscita hanno fatto il <persName ref="#Parmigianino"
       >Parmigianino</persName> nella gratia, il <persName ref="#Correge">Correggio</persName> nella
@@ -561,91 +512,91 @@
      <pb n="9bis"/> nella dolcezza, <persName ref="#Giorgione">Giorgione</persName>
      nell'ombreggiare, il <persName ref="#FrancescoSalviati">Salviati</persName> nel panneggiare,
       <persName ref="#PaoloVeronese">Paolo Veronese</persName> nella vaghezza, <persName
-      ref="#JacopoTintoretto">il Tintoretto</persName> nella prestezza, <persName>Alberto
-      Duro</persName> nella diligenza, <persName ref="#LucaCambiaso">il Cangiaso</persName> nella
-     pratica, <persName ref="#Polydore">Polidoro</persName> nelle battaglie, il <persName
-      ref="#MichelAnge">Buonaroti</persName> negli scorci, <persName ref="#Raphael"
-      >Rafaello</persName> in molte delle sudette cose. Ma dove si ritrovò giamai pittore che fusse
-     o esser potesse solo in tutte queste eccellenze eminente, se non solo <persName ref="#Dieu"
-      >Iddio</persName>, di cui si dice: nunquid nosti semitas nubium magnas et perfectas scientias
-     Dei? La terza parte, cioè la diligenza, ne' pittori mortali è fallace, perciò che per molto
-     diligenti e sofferenti ch'essi sieno, non possono tanti riguardi avere che in qualche cosa non
-     manchino o che l'opera appieno corrisponda alla volontà, sì che in essa si ammiri perfettamente
-     la maestria del disegno posseduto con sicurezza e maneggiato con prattica, la freschezza del
-     colorito esprimente negli atti esteriori gli affetti interni dell'animo, il possibile e 'l
-     verisimile delle attitudini misurate con proportione e compartite con giudicio, l'osservanza
-     del decoro nelle ationi e negli abiti conformi al tempo et al luogo et appropriate alla materia
-     et conformi alle persone, <pb n="10"/> la forza degli sbattimenti non discompagnata dalla
-     naturalità, il componimento delle membra non discommesse da' propri luoghi, il
-     particolareggiamento de' muscoli anatomizati senza pregiudicio della morbidezza, la dilicatura
-     delle linee ben tondeggiate ne' contorni e tirate con soavità, o la novità delle inventioni, la
-     vivacità dello spirito, la chiarezza de' lumi, la spiccatura dell'ombre, l'accennamento degli
-     scorci, lo sfuggimento de' lontani, i siti delle prospettive, i movimenti degl'ignudi, la
-     sveltezza del serpeggiare, le pieghe delle vestimenta, i volazzi de' veli; la gratia nella
-     bellezza, la prontezza nella gioventù, la gravità nella vecchiezza, la mansuetudine nella
-     modestia, la baldanza nella sfacciatagine, la furia nella bravura, l'auttorità nella maestà, la
-     pietà nelle divotioni, l'allegria nelle feste, la mestitia ne' dolori, lo spavento nelle
-     stragi, l'attentione nelle maraviglie, e in somma quella maniera maravigliosa, in cui la
-     gentilezza de' tratti non ceda alla bizarria de' concetti, la fierezza si accoppi del pari con
-     la dolcezza e l'artificio si congiunga ugualmente con la leggiadria. Ma qual pittore fu giamai
-     tanto raro che queste <pb n="10bis"/> cose tutte e con amore adempisse e con felicità
-     praticasse, se non solo <persName ref="#Dieu">Iddio</persName>, di cui si dice: Dei perfecta
-     sunt opera? et ecco ch'a lui solo possono ragionevolmente convenire quelle parole da me poco
-     dianzi ricordate, vigilia sua perficit opus, poiché l'opere sue sole hanno intiera e suprema
-     perfetione. Ha voluto, adunque ha saputo, et è stato sempre solito <persName ref="#Dieu"
-      >Iddio</persName> di dipingere, e (sì come nella sua sacra Cosmopea canta il gran cronista
-      <persName ref="#Moise">Mosè</persName>) ha nella creatione dell'universo varie e diverse
-     maraviglie dipinte. Incominciò in prima a far paesi, quando distese l'aria, sospese il fuoco,
-     ragunò l'acque, fondò la terra, spianò le campagne, incurvò le montagne, incavò le valli,
-     condensò le selve, raccolse i fonti, disciolse i fiumi, dilatò i laghi et in somma dipinse
-     quanto in sé contiene questa gran machina universale. E quali delitie di luoghi dilettevoli
-     offerse giamai quadro fiamingo a l'altrui vista con vaghezza d'inganno, ch'assai meglio con
-     verità reale non l'esponga agli occhi nostri questo immenso e piacevole teatro del mondo? O chi
-     è che non comprenda esser il tutto misurato e lineato da quel pennello incomparabile? <hi
-      rend="capitals" xml:lang="lat"> Ubi <pb n="11"/> eras quando ponebam fundamenta terrae? indica
-      mihi si habes intellectum, quis posuit mensuras eius si nosti? vel quis tetendit super eam
-      lineam? </hi> Dilettossi talora di far grottesche, formando tanta varietà d'animali, parte
-     terreni, parte acquatili, parte volanti, compartendo il guizzo a' pesci, il volo agli uccelli,
-     lo striscio a' serpenti, il corso alle fiere, e dando al cervo le corna, al cavallo le zampe,
-     al cinghiale le zanne, all'orso le branche, al leone gli artigli, all'istrice le spine, al
-     camelo lo scrigno, all'elefante la proboscide: illic praeclara opera et mirabilia, varia
-     bestiarum genera et omnium pecorum et creatura beluarum. Compiacquesi alle volte di far
-     festoni. Rivolgetevi (vi priego) a riguardare per la verdura tanta copia di fiori e di foglie e
-     di fronde e di frutta e di spiche e d'erbe e di piante e di radici e di boscaglie, e ditemi poi
-     se si possono più bei fregi e fogliami dipignere e più ricche spalliere e cortinaggi tessere,
-     di quelli e quelle ond'egli adornò questa spatiosa casa dell'uomo! Ditemi se si ritrovano
-     drappi in <placeName ref="#Lydie">Lidia</placeName>, arazzi in <placeName ref="#Babylone"
-      >Babilonia</placeName> o tapeti in <placeName ref="#Alexandrie">Alessandria</placeName>, ch'ai
-     naturali ornamenti che per la terra sparsi si veggono <pb n="11bis"/> non cedano di gran lunga!
-     Chi è che vegga il cinabro della rosa, il minio del garofano, l'incarnato del papavero, il
-     candido del gelsomino, il giallo del girasole, il cilestro della viola, l'azurro del lin
-     fiorito, e che non ammiri la sapienza e lo stile di quel gran coloritore? qual labro è che non
-     si stringa? qual ciglio che non s'inarchi? qual fronte che non s'increspi nel rimirare la
-     variabile spoglia di cui si veste il camaleonte? il pomposo monile che porta al collo la
-     colomba? o la fiorita ghirlanda che s'intesse della coda il pavone? qual uomo è tanto stolido,
-     ch'alzando gli occhi alla vaga dipintura che, per l'oppositione del sole, negli umidi nuvoli
-     forma l'arco baleno, di ceruleo, di purpureo e di verdiccio, stupido non dica: vide arcum et
-     benedic eum qui fecit illum. Valde speciosus est in splendore suo? Fece oltracciò delle
-     fantasie e de' capricci con produrre tanti mostri bizarri, tanti e sì strani e stravaganti
-     portenti, non sol ferini, ma etiandio umani, non sol terrestri, ma etiandio celesti, non sol
-     quanti alla giornata quaggiù ne' suoi aborti ne partorisce l'inferior natura, ma quanti dal
-     principio del mondo lassù n'affisse il Rettore <pb n="12"/> della natura: quaggiù Sirene e
-     Tritoni e Satiri e Semicapri et Idre e Sfingi e Ciclopi e Centauri e Minotauri; lassù Tauri e
-     Montoni e Leoni e Scorpioni e Cancri e Capricorni e Cani e Lupi e Corvi e Cigni e Lepri e
-     Pegasi et Aquile e Balene e Dolfini et Orse e Serpenti: tanto quelli che non eccedendo il
-     numero di dodici figurano la zona obliqua, quanto quelli che fiammeggiando nel fermamento
-     (imagini appunto dagli astronomi nominati) compiono il numero di quarantotto: Qui facit
-     Arcturum et Oryona et Hyadas et interiora Austri. Diedesi di più a far disegni di chiaro
-     oscuro. Ecco il giorno e la notte, i lumi distinti col profilo dell'ombre, l'ombre rischiarate
-     dalla dolcezza de' lumi; et ecco l'alba, termine della luce e delle tenebre e confine delle
-     stelle e del sole: vedere quando spunta il sole dall'oriente, come il pennello della luce,
-     intinto ne' colori dell'aurora, incominci pian piano a miniare il cielo; come, divinamente il
-     nero col chiaro mescolando e tratteggiando l'aria di fosco e di luminoso, faccia prima in campo
-     d'azurro oltramarino, quasi <pb n="12bis"/> un abbozzo del giorno, indi appoco appoco,
-     temprando la grana fina con l'oro macinato e colorando i nuvoletti di vermiglio e di rancio,
-     venga a terminarlo distintamente. E chi non ammira o non loda una pittura così bella di quella
-     sapientissima mano? Tu fabricatus es auroram et solem. Ego Dominus et non alter, formans lucem
-     et creans tenebras. Provossi ancora, siccome alluminatore eccellentissimo, a far delle
+      ref="#JacopoTintoretto">il Tintoretto</persName> nella prestezza, <persName
+      ref="#AlbrechtDurer">Alberto Duro</persName> nella diligenza, <persName ref="#LucaCambiaso">il
+      Cangiaso</persName> nella pratica, <persName ref="#Polydore">Polidoro</persName> nelle
+     battaglie, il <persName ref="#MichelAnge">Buonaroti</persName> negli scorci, <persName
+      ref="#Raphael">Rafaello</persName> in molte delle sudette cose. Ma dove si ritrovò giamai
+     pittore che fusse o esser potesse solo in tutte queste eccellenze eminente, se non solo
+      <persName ref="#Dieu">Iddio</persName>, di cui si dice: nunquid nosti semitas nubium magnas et
+     perfectas scientias Dei? La terza parte, cioè la diligenza, ne' pittori mortali è fallace,
+     perciò che per molto diligenti e sofferenti ch'essi sieno, non possono tanti riguardi avere che
+     in qualche cosa non manchino o che l'opera appieno corrisponda alla volontà, sì che in essa si
+     ammiri perfettamente la maestria del disegno posseduto con sicurezza e maneggiato con prattica,
+     la freschezza del colorito esprimente negli atti esteriori gli affetti interni dell'animo, il
+     possibile e 'l verisimile delle attitudini misurate con proportione e compartite con giudicio,
+     l'osservanza del decoro nelle ationi e negli abiti conformi al tempo et al luogo et appropriate
+     alla materia et conformi alle persone, <pb n="10"/> la forza degli sbattimenti non
+     discompagnata dalla naturalità, il componimento delle membra non discommesse da' propri luoghi,
+     il particolareggiamento de' muscoli anatomizati senza pregiudicio della morbidezza, la
+     dilicatura delle linee ben tondeggiate ne' contorni e tirate con soavità, o la novità delle
+     inventioni, la vivacità dello spirito, la chiarezza de' lumi, la spiccatura dell'ombre,
+     l'accennamento degli scorci, lo sfuggimento de' lontani, i siti delle prospettive, i movimenti
+     degl'ignudi, la sveltezza del serpeggiare, le pieghe delle vestimenta, i volazzi de' veli; la
+     gratia nella bellezza, la prontezza nella gioventù, la gravità nella vecchiezza, la
+     mansuetudine nella modestia, la baldanza nella sfacciatagine, la furia nella bravura,
+     l'auttorità nella maestà, la pietà nelle divotioni, l'allegria nelle feste, la mestitia ne'
+     dolori, lo spavento nelle stragi, l'attentione nelle maraviglie, e in somma quella maniera
+     maravigliosa, in cui la gentilezza de' tratti non ceda alla bizarria de' concetti, la fierezza
+     si accoppi del pari con la dolcezza e l'artificio si congiunga ugualmente con la leggiadria. Ma
+     qual pittore fu giamai tanto raro che queste <pb n="10bis"/> cose tutte e con amore adempisse e
+     con felicità praticasse, se non solo <persName ref="#Dieu">Iddio</persName>, di cui si dice:
+     Dei perfecta sunt opera? et ecco ch'a lui solo possono ragionevolmente convenire quelle parole
+     da me poco dianzi ricordate, vigilia sua perficit opus, poiché l'opere sue sole hanno intiera e
+     suprema perfetione. Ha voluto, adunque ha saputo, et è stato sempre solito <persName
+      ref="#Dieu">Iddio</persName> di dipingere, e (sì come nella sua sacra Cosmopea canta il gran
+     cronista <persName ref="#Moise">Mosè</persName>) ha nella creatione dell'universo varie e
+     diverse maraviglie dipinte. Incominciò in prima a far paesi, quando distese l'aria, sospese il
+     fuoco, ragunò l'acque, fondò la terra, spianò le campagne, incurvò le montagne, incavò le
+     valli, condensò le selve, raccolse i fonti, disciolse i fiumi, dilatò i laghi et in somma
+     dipinse quanto in sé contiene questa gran machina universale. E quali delitie di luoghi
+     dilettevoli offerse giamai quadro fiamingo a l'altrui vista con vaghezza d'inganno, ch'assai
+     meglio con verità reale non l'esponga agli occhi nostri questo immenso e piacevole teatro del
+     mondo? O chi è che non comprenda esser il tutto misurato e lineato da quel pennello
+     incomparabile? <quote rend="capitals" xml:lang="lat">Ubi <pb n="11"/> eras quando ponebam
+      fundamenta terrae? indica mihi si habes intellectum, quis posuit mensuras eius si nosti? vel
+      quis tetendit super eam lineam? </quote> Dilettossi talora di far grottesche, formando tanta
+     varietà d'animali, parte terreni, parte acquatili, parte volanti, compartendo il guizzo a'
+     pesci, il volo agli uccelli, lo striscio a' serpenti, il corso alle fiere, e dando al cervo le
+     corna, al cavallo le zampe, al cinghiale le zanne, all'orso le branche, al leone gli artigli,
+     all'istrice le spine, al camelo lo scrigno, all'elefante la proboscide: illic praeclara opera
+     et mirabilia, varia bestiarum genera et omnium pecorum et creatura beluarum. Compiacquesi alle
+     volte di far festoni. Rivolgetevi (vi priego) a riguardare per la verdura tanta copia di fiori
+     e di foglie e di fronde e di frutta e di spiche e d'erbe e di piante e di radici e di
+     boscaglie, e ditemi poi se si possono più bei fregi e fogliami dipignere e più ricche spalliere
+     e cortinaggi tessere, di quelli e quelle ond'egli adornò questa spatiosa casa dell'uomo! Ditemi
+     se si ritrovano drappi in <placeName ref="#Lydie">Lidia</placeName>, arazzi in <placeName
+      ref="#Babylone">Babilonia</placeName> o tapeti in <placeName ref="#Alexandrie"
+      >Alessandria</placeName>, ch'ai naturali ornamenti che per la terra sparsi si veggono <pb
+      n="11bis"/> non cedano di gran lunga! Chi è che vegga il cinabro della rosa, il minio del
+     garofano, l'incarnato del papavero, il candido del gelsomino, il giallo del girasole, il
+     cilestro della viola, l'azurro del lin fiorito, e che non ammiri la sapienza e lo stile di quel
+     gran coloritore? qual labro è che non si stringa? qual ciglio che non s'inarchi? qual fronte
+     che non s'increspi nel rimirare la variabile spoglia di cui si veste il camaleonte? il pomposo
+     monile che porta al collo la colomba? o la fiorita ghirlanda che s'intesse della coda il
+     pavone? qual uomo è tanto stolido, ch'alzando gli occhi alla vaga dipintura che, per
+     l'oppositione del sole, negli umidi nuvoli forma l'arco baleno, di ceruleo, di purpureo e di
+     verdiccio, stupido non dica: vide arcum et benedic eum qui fecit illum. Valde speciosus est in
+     splendore suo? Fece oltracciò delle fantasie e de' capricci con produrre tanti mostri bizarri,
+     tanti e sì strani e stravaganti portenti, non sol ferini, ma etiandio umani, non sol terrestri,
+     ma etiandio celesti, non sol quanti alla giornata quaggiù ne' suoi aborti ne partorisce
+     l'inferior natura, ma quanti dal principio del mondo lassù n'affisse il Rettore <pb n="12"/>
+     della natura: quaggiù Sirene e Tritoni e Satiri e Semicapri et Idre e Sfingi e Ciclopi e
+     Centauri e Minotauri; lassù Tauri e Montoni e Leoni e Scorpioni e Cancri e Capricorni e Cani e
+     Lupi e Corvi e Cigni e Lepri e Pegasi et Aquile e Balene e Dolfini et Orse e Serpenti: tanto
+     quelli che non eccedendo il numero di dodici figurano la zona obliqua, quanto quelli che
+     fiammeggiando nel fermamento (imagini appunto dagli astronomi nominati) compiono il numero di
+     quarantotto: Qui facit Arcturum et Oryona et Hyadas et interiora Austri. Diedesi di più a far
+     disegni di chiaro oscuro. Ecco il giorno e la notte, i lumi distinti col profilo dell'ombre,
+     l'ombre rischiarate dalla dolcezza de' lumi; et ecco l'alba, termine della luce e delle tenebre
+     e confine delle stelle e del sole: vedere quando spunta il sole dall'oriente, come il pennello
+     della luce, intinto ne' colori dell'aurora, incominci pian piano a miniare il cielo; come,
+     divinamente il nero col chiaro mescolando e tratteggiando l'aria di fosco e di luminoso, faccia
+     prima in campo d'azurro oltramarino, quasi <pb n="12bis"/> un abbozzo del giorno, indi appoco
+     appoco, temprando la grana fina con l'oro macinato e colorando i nuvoletti di vermiglio e di
+     rancio, venga a terminarlo distintamente. E chi non ammira o non loda una pittura così bella di
+     quella sapientissima mano? Tu fabricatus es auroram et solem. Ego Dominus et non alter, formans
+     lucem et creans tenebras. Provossi ancora, siccome alluminatore eccellentissimo, a far delle
      miniature delicate e gentili: mirate l'api, guardate le zanzare, investigate i ragni, osservate
      i bigatti, contemplate le lucciole, considerate le formiche, minutissimi fra tutti i corpi
      viventi: volete dilicatura maggiore? e come potevano con più esquisito artificio o con più
@@ -924,30 +875,31 @@
      creato, ritraendolo dalla propria imagine? E l'Eritrea, o qual si fusse, di questa imagine in
      noi divinamente riposta e di cui l'anima è cotanto nobilitata, non cantò con parole sifatte,
      imago mea est homo, rectam rationem habens? Questa medesima propositione afferma <persName
-      ref="#Ambroise">Ambrogio</persName>, questo istesso conferma <persName>Gregorio</persName>. Ma
-     chi più chiaramente dello Spirito Santo adombrò la nostra divina origine, e conseguentemente la
-     similitudine, per bocca di <persName ref="#David">David</persName> dicendo: <quote
-      xml:lang="lat">Ego dixi dii estis et filii Excelsi omnes?</quote> E dopo di lui per <persName
-      ref="#SaintJean">Giovanni</persName>: <quote xml:lang="lat">Dedit eis potestatem filios Dei
-      fieri? </quote>E dopo di lui per <persName ref="#SaintPaul">Paolo</persName>: <quote
-      xml:lang="lat">Qui adhaeret Deo unus spiritus efficitur cum Eo? </quote>Serba talmente in se
-     stesso, o <persName ref="#Dieu">Iddio</persName>, l'impressione del <pb n="22bis"/> divin
-     suggello questo Tuo simulacro animato e spirante, che in tutte l'ationi sue mostra non solo
-     d'esserTi simile, ma pretende, quasi Tuo competitore, d'emularTi e di concorrer Teco. Se Tu sei
-     potente, <persName ref="#AlexandreLeGrand">Alessandro</persName> e <persName ref="#JulesCesar"
-      >Cesare</persName> con le forze e con l'armi vincono il mondo. Se Tu sei sapiente, <persName
-      ref="#Platon">Platone</persName> et <persName ref="#Aristote">Aristotele</persName> con lo
-     studio e con la fatica acquistano l'abito delle scienze. Se Tu sei per tutto,
-      <persName>Cadmo</persName> ritrova le lettere onde può l'uomo esser in più luoghi, se non col
-     corpo almeno con la scrittura. Se Tu sei eterno, <persName>Giovanni di Magontia</persName>
-     inventa le stampe con cui l'umana memoria può eternarsi. Se Tu col soffio infondi la vita in
-     una massa di fango, <persName ref="#Promethee">Prometeo</persName> dà forma e movimento alle
-     imagini fatte di terra. Se Tu inspiri lo spirito e 'l fiato nell'embrione, <persName
-      ref="#GiulioCamillo">Giulio Camillo</persName> per forza di lambicchi fabrica un fanciullo
-     anelante. Se Tu distingui la favella et articoli le parole agli uomini, <persName>Alberto
+      ref="#Ambroise">Ambrogio</persName>, questo istesso conferma <persName ref="#GregoireLeGrand"
+      >Gregorio</persName>. Ma chi più chiaramente dello Spirito Santo adombrò la nostra divina
+     origine, e conseguentemente la similitudine, per bocca di <persName ref="#David"
+      >David</persName> dicendo: <quote xml:lang="lat">Ego dixi dii estis et filii Excelsi
+      omnes?</quote> E dopo di lui per <persName ref="#SaintJean">Giovanni</persName>: <quote
+      xml:lang="lat">Dedit eis potestatem filios Dei fieri? </quote>E dopo di lui per <persName
+      ref="#SaintPaul">Paolo</persName>: <quote xml:lang="lat">Qui adhaeret Deo unus spiritus
+      efficitur cum Eo? </quote>Serba talmente in se stesso, o <persName ref="#Dieu"
+      >Iddio</persName>, l'impressione del <pb n="22bis"/> divin suggello questo Tuo simulacro
+     animato e spirante, che in tutte l'ationi sue mostra non solo d'esserTi simile, ma pretende,
+     quasi Tuo competitore, d'emularTi e di concorrer Teco. Se Tu sei potente, <persName
+      ref="#AlexandreLeGrand">Alessandro</persName> e <persName ref="#JulesCesar">Cesare</persName>
+     con le forze e con l'armi vincono il mondo. Se Tu sei sapiente, <persName ref="#Platon"
+      >Platone</persName> et <persName ref="#Aristote">Aristotele</persName> con lo studio e con la
+     fatica acquistano l'abito delle scienze. Se Tu sei per tutto, <persName ref="#Cadmos"
+      >Cadmo</persName> ritrova le lettere onde può l'uomo esser in più luoghi, se non col corpo
+     almeno con la scrittura. Se Tu sei eterno, <persName>Giovanni di Magontia</persName> inventa le
+     stampe con cui l'umana memoria può eternarsi. Se Tu col soffio infondi la vita in una massa di
+     fango, <persName ref="#Promethee">Prometeo</persName> dà forma e movimento alle imagini fatte
+     di terra. Se Tu inspiri lo spirito e 'l fiato nell'embrione, <persName ref="#GiulioCamillo"
+      >Giulio Camillo</persName> per forza di lambicchi fabrica un fanciullo anelante. Se Tu
+     distingui la favella et articoli le parole agli uomini, <persName ref="#AlbertLeGrand">Alberto
       Magno</persName> con diversi ordigni forma una testa di bronzo che parla. Se Tu col tuo
-     spirito sei portato sublime su per l'acque, <persName>Tifi</persName> ardisce di rompere con un
-     fragil legno i flutti del mare. Se Tu camini sopra le penne de' venti, <persName ref="#Dedale"
+     spirito sei portato sublime su per l'acque, Tifi ardisce di rompere con un fragil legno i
+     flutti del mare. Se Tu camini sopra le penne de' venti, <persName ref="#Dedale"
       >Dedalo</persName> s'intesse piume di cera <pb n="23"/> e varca a volo la region delle nubi.
      Se Tu con l'efficacia della tua parola edifichi i cerchi de' cieli, <persName ref="#Archimede"
       >Archimede</persName> con l'industria della sua mano machina una sfera, che con regolati giri
@@ -957,44 +909,44 @@
       <persName>Archita</persName> finge di legno una colomba, che spinta da contrapesi dispiega
      l'ali. Se Tu agl'istessi uccelli sciogli il canto, Leone, imperadore de' Greci, possiede
      uccelletti d'oro che cantano. Se Tu a' serpenti doni il fischio, <persName ref="#Boece"
-      >Boetio</persName> ottiene serpi di rame sibilanti. Se Tu fulmini e tuoni,
-      <persName>Bertoldo</persName> Tedesco mette in uso lo scoppio della bombarda. Se Tu fai
-     oscurare e piovere il cielo, <persName>Ruggiero Bachom</persName> per virtù di pura magia
-     naturale produce in aria nuvoli e piogge. Per conchiudere, se Tu crei di nulla, l'uomo dipigne,
-     poiché di poco men che nulla la pittura dà l'essere alle sue forme. Non ha però dubbio alcuno,
-     che se in tutto il composto dell'uomo è stampato il marchio di <persName ref="#Dieu"
-      >Dio</persName>, l'anima è quella che precisamente lo rappresenta. E sicome il sole (secondo
-     che dicemmo) fra gli <pb n="23bis"/> oggetti visibili, così l'anima fra i suggetti invisibili
-     in gran parte lo rassomiglia, la quale (per quanto testimonia il padre della romana eloquenza)
-     a niuna cosa altra si può con legittima ragione paragonare, eccetto a <persName ref="#Dieu"
-      >Dio</persName>. Sì ch'egli è vero, o anima, che tu sei di tutte le altre imagini create
-     similissima al suo Fattore. Se <persName ref="#Dieu">Iddio</persName> è bello, tu sei dotata
-     d'ogni bellezza. Se <persName ref="#Dieu">Iddio</persName> è spirito, tu sei sostanza
-     spirituale. Se <persName ref="#Dieu">Iddio</persName> è immortale, tu godi l'immortalità. Se
-      <persName ref="#Dieu">Iddio</persName> è infinito, tu sei interminabile da qualsivoglia
-     misura. Se <persName ref="#Dieu">Iddio</persName> è providente, tu hai per moderatrice la
-     prudenza. Se <persName ref="#Dieu">Iddio</persName> non è mai otioso, tu sei sempre in
-     continovo moto. Se <persName ref="#Dieu">Iddio</persName> fa il tutto con ragione, tu operi
-     ogni cosa con discorso. Se <persName ref="#Dieu">Iddio</persName> secondo la sua volontà si
-     muove in istante, tu col pensiero voli più leggera che saetta. Se <persName ref="#Dieu"
-      >Iddio</persName> con la sola mente il mondo tutto e ciò che vi ha dentro comprende, tu il
-     medesimo mondo e le cose tutte con la sola imaginatione abbracci. Se <persName ref="#Dieu"
-      >Iddio</persName> col cenno solo governa la mole dell'universo, tu col cenno solo la machina
-     del tuo corpo governi. Se <persName ref="#Dieu">Iddio</persName> è in tutti i luoghi o per
-     essenza o per presenza o per potenza, tu sei tutta nel tutto et in ciascuna <pb n="24"/> parte
-     del tutto. Se <persName ref="#Dieu">Iddio</persName> non si può sforzare, tu sei libera in
-     tutte le tue operationi. Se <persName ref="#Dieu">Iddio</persName> è gran Re a tutte le cose
-     sovrastante, tu sei picciola reina sua tributaria. Se <persName ref="#Dieu">Iddio</persName> è
-     gloria del Cielo, tu sei onor della terra. Che più? Se <persName ref="#Dieu">Iddio</persName> è
-     uno e trino, tu in te comprendi parimente il ternario e l'unità: l'unità perciò che non come il
-     corpo sei di più parti costituita, ma sei semplice natura; il ternario, perciò che contieni tre
-     potenze: memoria, intelletto e volontà, Padre, Figliuolo e Spirito. Overo, passando dagli atti
-     primi agli atti secondi, diciamo che se <persName ref="#Dieu">Iddio</persName> fu ab eterno, et
-     ab eterno ebbe seco la sapienza sua, et egli eternamente la genera, et ella eternamente è da
-     lui generata, et egli generandola sempre, sempre con amore la rimira (onde si forma quel divino
-     Gerione, che Trinità s'appella, e si stringe quel groppo di tre cordoni di cui dice il Savio:
-     Funiculus triplex difficile rumpitur;il Padre, ch'è da se stesso, il Figliuolo ch'è dal Padre,
-     lo Spirito, ch'è dall'uno e dall'altro, tutti e tre sustantialmente uno, ma personalmente
+      >Boetio</persName> ottiene serpi di rame sibilanti. Se Tu fulmini e tuoni, <persName>Bertoldo
+      Tedesco</persName> mette in uso lo scoppio della bombarda. Se Tu fai oscurare e piovere il
+     cielo, <persName>Ruggiero Bachom</persName> per virtù di pura magia naturale produce in aria
+     nuvoli e piogge. Per conchiudere, se Tu crei di nulla, l'uomo dipigne, poiché di poco men che
+     nulla la pittura dà l'essere alle sue forme. Non ha però dubbio alcuno, che se in tutto il
+     composto dell'uomo è stampato il marchio di <persName ref="#Dieu">Dio</persName>, l'anima è
+     quella che precisamente lo rappresenta. E sicome il sole (secondo che dicemmo) fra gli <pb
+      n="23bis"/> oggetti visibili, così l'anima fra i suggetti invisibili in gran parte lo
+     rassomiglia, la quale (per quanto testimonia il padre della romana eloquenza) a niuna cosa
+     altra si può con legittima ragione paragonare, eccetto a <persName ref="#Dieu">Dio</persName>.
+     Sì ch'egli è vero, o anima, che tu sei di tutte le altre imagini create similissima al suo
+     Fattore. Se <persName ref="#Dieu">Iddio</persName> è bello, tu sei dotata d'ogni bellezza. Se
+      <persName ref="#Dieu">Iddio</persName> è spirito, tu sei sostanza spirituale. Se <persName
+      ref="#Dieu">Iddio</persName> è immortale, tu godi l'immortalità. Se <persName ref="#Dieu"
+      >Iddio</persName> è infinito, tu sei interminabile da qualsivoglia misura. Se <persName
+      ref="#Dieu">Iddio</persName> è providente, tu hai per moderatrice la prudenza. Se <persName
+      ref="#Dieu">Iddio</persName> non è mai otioso, tu sei sempre in continovo moto. Se <persName
+      ref="#Dieu">Iddio</persName> fa il tutto con ragione, tu operi ogni cosa con discorso. Se
+      <persName ref="#Dieu">Iddio</persName> secondo la sua volontà si muove in istante, tu col
+     pensiero voli più leggera che saetta. Se <persName ref="#Dieu">Iddio</persName> con la sola
+     mente il mondo tutto e ciò che vi ha dentro comprende, tu il medesimo mondo e le cose tutte con
+     la sola imaginatione abbracci. Se <persName ref="#Dieu">Iddio</persName> col cenno solo governa
+     la mole dell'universo, tu col cenno solo la machina del tuo corpo governi. Se <persName
+      ref="#Dieu">Iddio</persName> è in tutti i luoghi o per essenza o per presenza o per potenza,
+     tu sei tutta nel tutto et in ciascuna <pb n="24"/> parte del tutto. Se <persName ref="#Dieu"
+      >Iddio</persName> non si può sforzare, tu sei libera in tutte le tue operationi. Se <persName
+      ref="#Dieu">Iddio</persName> è gran Re a tutte le cose sovrastante, tu sei picciola reina sua
+     tributaria. Se <persName ref="#Dieu">Iddio</persName> è gloria del Cielo, tu sei onor della
+     terra. Che più? Se <persName ref="#Dieu">Iddio</persName> è uno e trino, tu in te comprendi
+     parimente il ternario e l'unità: l'unità perciò che non come il corpo sei di più parti
+     costituita, ma sei semplice natura; il ternario, perciò che contieni tre potenze: memoria,
+     intelletto e volontà, Padre, Figliuolo e Spirito. Overo, passando dagli atti primi agli atti
+     secondi, diciamo che se <persName ref="#Dieu">Iddio</persName> fu ab eterno, et ab eterno ebbe
+     seco la sapienza sua, et egli eternamente la genera, et ella eternamente è da lui generata, et
+     egli generandola sempre, sempre con amore la rimira (onde si forma quel divino Gerione, che
+     Trinità s'appella, e si stringe quel groppo di tre cordoni di cui dice il Savio: Funiculus
+     triplex difficile rumpitur;il Padre, ch'è da se stesso, il Figliuolo ch'è dal Padre, lo
+     Spirito, ch'è dall'uno e dall'altro, tutti e tre sustantialmente uno, ma personalmente
      distinti). Il simile (quantunque non l'istesso) avviene in te, in cui è mente, notitia et <pb
       n="24bis"/> amore. La mente conoscendo se stessa, produce una conoscenza a se stessa
      somigliante, e questa è l'intelletto, et ella mentre lo vagheggia, l'ama, si compiace in
@@ -1013,34 +965,36 @@
      Anassagora ch'ella è intelletto movente, comune etiandio a' bruti;
       <persName>Anassimene</persName> e <persName ref="#Diogene">Diogene</persName> ch'ella è aere
      puro; <persName>Ippone</persName> ch'ella è della qualità dell'acqua;
-      <persName>Senofane</persName> ch'ella è d'acqua e di terra; Parmenide ch'ella è di terra e di
-     fuoco; <persName ref="#Epicure">Epicuro</persName> ch'ella è di fuoco e di spirito; <persName
-      ref="#Empedocle">Empedocle</persName> ch'ella è fabricata di più elementi;
-      <persName>Avendachi</persName> ch'ella è composta d'elementi, d'amore e di vittoria;
-      <persName>Alcmeone</persName> ch'ella è della natura del cielo; Talete
-      <persName>Milesio</persName> ch'ella è virtù motiva de' corpi; <persName>Grate
-      Tebano</persName> che non vi è anima, ma i corpi così si muovono per natura;
-      <persName>Eraclito Efesio</persName> ch'ella è scintilla dell'essenza delle stelle;
-      <persName>Eraclito Pontico</persName> ch'ella è luce; <persName>Possidonio</persName> ch'ella
-     è idea; <persName>Ipparco</persName> ch'ella è vigor di fuoco; <persName>Circia</persName>
-     ch'ella è sangue del cuore; <persName>Asclepiade</persName> ch'ella è carne essercitata
-     armonicamente da' sensi; <persName>Critolao</persName> ch'ella è generata di quinta essenza;
-      <persName>Ippocrate</persName> ch'ella è spirito sottile diffuso per tutto il corpo; Galeno
-     ch'ella è complessione del corpo; gli Egittii ch'ella è una certa forza che si sparge per tutti
-     i corpi; i Caldei ch'ella è una virtù senza forma determinata ma che tutte le riceve; <persName
-      ref="#Pythagore">Pittagora</persName>, seguito da <persName ref="#Platon">Platone</persName>,
-      <pb n="25bis"/> ch'ella è una progenie divina piena di forme, ma abbeverata dell'acque di
-     Lete; <persName>Anassandro</persName> ch'ella è numero; <persName>Aristosseno</persName>
-     ch'ella è numero movente se stesso; <persName ref="#Aristote">Aristotele</persName> ch'ella è
-     forma sustantiale o atto primo del corpo fisico organico; <persName>Severo</persName> ch'ella
-     ha l'essere geometrico di punto e di distanza; <persName>Proclo</persName> ch'ella è unica
-     insieme e molteplice; <persName ref="#Plutarque">Plutarco</persName> et
-      <persName>Attico</persName> ch'ella ha due parti, partibile l'irragionevole, impartibile la
-     divina; <persName ref="#Plotin">Plotino</persName> ch'ella è un mezo tra l'intelletto e 'l
-     senso; <persName>Asmeo</persName> e <persName>Teodoro</persName> che vi ha due intelletti,
-     l'uno contenente l'idea degli universali, l'altro de' particolari; Averroè che tutte l'anime
-     sono un'anima sola; altri affermi ch'ella è un misto di tutte le cose, perché tutte le cose
-     conosce. Io, lasciati tutti questi sogni in disparte, dirò solo ch'ella è un'imagine
+      <persName>Senofane</persName> ch'ella è d'acqua e di terra; <persName ref="#Parmenide"
+      >Parmenide</persName> ch'ella è di terra e di fuoco; <persName ref="#Epicure"
+      >Epicuro</persName> ch'ella è di fuoco e di spirito; <persName ref="#Empedocle"
+      >Empedocle</persName> ch'ella è fabricata di più elementi; <persName>Avendachi</persName>
+     ch'ella è composta d'elementi, d'amore e di vittoria; <persName>Alcmeone</persName> ch'ella è
+     della natura del cielo; <persName ref="#Thales">Talete Milesio</persName> ch'ella è virtù
+     motiva de' corpi; <persName>Grate Tebano</persName> che non vi è anima, ma i corpi così si
+     muovono per natura; <persName ref="#Heraclite">Eraclito Efesio</persName> ch'ella è scintilla
+     dell'essenza delle stelle; <persName ref="#HeraclidePontique">Eraclito Pontico</persName>
+     ch'ella è luce; <persName>Possidonio</persName> ch'ella è idea; <persName>Ipparco</persName>
+     ch'ella è vigor di fuoco; <persName>Circia</persName> ch'ella è sangue del cuore;
+      <persName>Asclepiade</persName> ch'ella è carne essercitata armonicamente da' sensi;
+      <persName>Critolao</persName> ch'ella è generata di quinta essenza; <persName
+      ref="#Hippocrate">Ippocrate</persName> ch'ella è spirito sottile diffuso per tutto il corpo;
+      <persName ref="#Galien">Galeno</persName> ch'ella è complessione del corpo; gli Egittii
+     ch'ella è una certa forza che si sparge per tutti i corpi; i Caldei ch'ella è una virtù senza
+     forma determinata ma che tutte le riceve; <persName ref="#Pythagore">Pittagora</persName>,
+     seguito da <persName ref="#Platon">Platone</persName>, <pb n="25bis"/> ch'ella è una progenie
+     divina piena di forme, ma abbeverata dell'acque di Lete; <persName>Anassandro</persName>
+     ch'ella è numero; <persName>Aristosseno</persName> ch'ella è numero movente se stesso;
+      <persName ref="#Aristote">Aristotele</persName> ch'ella è forma sustantiale o atto primo del
+     corpo fisico organico; <persName>Severo</persName> ch'ella ha l'essere geometrico di punto e di
+     distanza; <persName ref="#Proclus">Proclo</persName> ch'ella è unica insieme e molteplice;
+      <persName ref="#Plutarque">Plutarco</persName> et <persName>Attico</persName> ch'ella ha due
+     parti, partibile l'irragionevole, impartibile la divina; <persName ref="#Plotin"
+      >Plotino</persName> ch'ella è un mezo tra l'intelletto e 'l senso; <persName>Asmeo</persName>
+     e <persName>Teodoro</persName> che vi ha due intelletti, l'uno contenente l'idea degli
+     universali, l'altro de' particolari; <persName ref="#Averroes">Averroè</persName> che tutte
+     l'anime sono un'anima sola; altri affermi ch'ella è un misto di tutte le cose, perché tutte le
+     cose conosce. Io, lasciati tutti questi sogni in disparte, dirò solo ch'ella è un'imagine
      somigliantissima del suo Creatore. Ad imagine di <persName ref="#Dieu">Dio</persName> è fatta
      adunque l'anima ragionevole, la qual da tutte le cose può ben essere occupata, ma non ripiena,
      perciò che quel che cape <persName ref="#Dieu">Iddio</persName>, cosa non può riempire che sia
@@ -1135,19 +1089,19 @@
      possano per noi et il suo dominio e la sua faccia insieme insieme riconoscere. E se tanto
      questa gemma è nella stima di <persName ref="#Dieu">Dio</persName>, or quanto più stimar la
      deono gli uomini? Furono in grandissimo prezzo appo gli antichi quelle due famose pietre,
-     l'agata di <persName>Pirro</persName> e lo smeraldo di <persName>Policrate</persName>, per
-     esser lavorate di sottilissimo intaglio. Ma quanto più ha da essere apprezzato da noi questo
-     gioiello, improntato di sì bella e sì nobile impressione? Proibivasi ne' simboli pittagorici il
-     portare impressa l'imagine di <persName ref="#Dieu">Dio</persName> nell'annello, accioché per
-     la soverchia frequenza non si venisse ad avvilire. Ma quanto più si vuole aver riguardo a
-     quella che dentro l'anima nostra portiamo, perché nel fango del peccato e nelle sozzure del
-     senso non s'imbratti, onde perda la divina somiglianza, tirando alla somiglianza de' bruti?
-     Comparatus est iumentis insipientibus et similis factus est illis. Questa è la trasformatione
-     de' compagni d'<persName ref="#Ulysse">Ulisse</persName> in <pb n="29bis"/> fiere. Questa è la
-     metamorfosi degl'Iddii in bestie: iumentum factus sum apud te, misticamente intesa per coloro,
-     che, dati totalmente in preda della sensualità, sottomettono all'appetito la ragione: nolite
-     fieri sicut equus et mulus, quibus non est intellectus. Questa (per mio aviso) è la
-     palingenesia e la metempsicosi pittagorica e platonica, cioé a dire il trappassamento
+      <objectName>l'agata di Pirro</objectName> e lo <objectName>smeraldo di Policrate</objectName>,
+     per esser lavorate di sottilissimo intaglio. Ma quanto più ha da essere apprezzato da noi
+     questo gioiello, improntato di sì bella e sì nobile impressione? Proibivasi ne' simboli
+     pittagorici il portare impressa l'imagine di <persName ref="#Dieu">Dio</persName> nell'annello,
+     accioché per la soverchia frequenza non si venisse ad avvilire. Ma quanto più si vuole aver
+     riguardo a quella che dentro l'anima nostra portiamo, perché nel fango del peccato e nelle
+     sozzure del senso non s'imbratti, onde perda la divina somiglianza, tirando alla somiglianza
+     de' bruti? Comparatus est iumentis insipientibus et similis factus est illis. Questa è la
+     trasformatione de' compagni d'<persName ref="#Ulysse">Ulisse</persName> in <pb n="29bis"/>
+     fiere. Questa è la metamorfosi degl'Iddii in bestie: iumentum factus sum apud te, misticamente
+     intesa per coloro, che, dati totalmente in preda della sensualità, sottomettono all'appetito la
+     ragione: nolite fieri sicut equus et mulus, quibus non est intellectus. Questa (per mio aviso)
+     è la palingenesia e la metempsicosi pittagorica e platonica, cioé a dire il trappassamento
      dell'anime nostre alla natura bestiale. Non parlo della esteriore, la qual si sa esser falsa,
      favolosa et impossibile, perciò che l'anima da quel centro a cui è una volta affissa dispiccar
      non si può giamai, né dell'anima umana altro corpo che l'umano è capace, ma della interiore. E
@@ -1181,38 +1135,38 @@
      fu che condusse di <placeName ref="#Judee">Giudea</placeName> in <placeName ref="#Babylone"
       >Babilonia</placeName>
      <persName>Abacucco</persName> col pane a <persName>Daniello</persName>;somiglialo nella purità,
-     perciò che un angiolo fu che preservò <persName ref="#Judith">Giuditte</persName> dagli osceni abbracciamenti
-      d'<persName>Oloferne</persName>; somiglialo nella protetione, perciò che un angiolo fu che
-     comparve a <persName>Giosuè</persName> con la spada ignuda a difesa dell'essercito
-     suo;somiglialo nelle rivelationi, perciò che un angiolo fu ch'annunziò alla <persName
-      ref="#Marie">Vergine</persName> l'Incarnatione del Verbo, a <persName>Giuseppe</persName> la
-     congiura d'Erode, et alle donne la Resurretione di <persName ref="#Jesus"
-     >Cristo</persName>;somiglialo nelle consolationi, perciò che un angiolo fu che confortò il
-     Salvatore nell'orto a bere il calice della medicina preparata dal Padre;somiglialo nell'unità,
-     perciò che ciascuno angiolo (secondo <pb n="31"/> l'Angelico) costituisce per se stesso una
-     specie particolare e distinta. Somiglialo nella Trinità, perciò che in tre ternarii divise sono
-     le legioni degli angioli, dove l'amor dello Spirito Santo vien significato ne' Serafini, la
-     sapienza del Figlio ne' Cherubini, la maestà del Padre ne' Troni. Le Dominationi corrispondono
-     al dominio del Padre, le Potestà alla potestà del Figlio, le Virtù alla bontà dello Spirito
-     Santo. Lo Spirito Santo ha analogia co' Prencipati, che guardano le provincie e i regni, il
-     Padre con gli Arcangioli, che hanno in cura i Prencipi et i Regi, il Figlio con gli angioli,
-     che stanno alla difesa di ciascun uomo e vanno qua e là messaggeri. Et oltracciò in ciascun
-     angiolo risplende l'imagine della Trinità, poiché in ciascuno tre cose distinte necessariamente
-     si ritrovano, che sono l'essenza, la potestà e l'operatione, e nondimeno tutte e tre queste
-     cose sono in un solo. Né solo tutti gli attributi e le qualità di <persName ref="#Dieu"
-      >Dio</persName> son communicate agli angioli, ma lo stesso Figliuol di <persName ref="#Dieu"
-      >Dio</persName>, per accennar sì fatta somiglianza, nome d'angiolo ha voluto appropriarsi.
-     Chiamasi angiolo del testamento, angiolo del gran consiglio; figurato in quell'angiolo <pb
-      n="31bis"/> che fu posto in difesa del paradiso terrestre con la spada di fuoco in mano,
-     poiché nello stesso modo <persName ref="#Jesus">Cristo</persName>, armato di carità ardente,
-     assiste alla guardia della sua Chiesa;figurato in quell'angiolo ch'accompagnò il popolo
-     d'Israelle quando era perseguitato dagli Egittii, poiché nello stesso modo <persName
+     perciò che un angiolo fu che preservò <persName ref="#Judith">Giuditte</persName> dagli osceni
+     abbracciamenti d'<persName>Oloferne</persName>; somiglialo nella protetione, perciò che un
+     angiolo fu che comparve a <persName>Giosuè</persName> con la spada ignuda a difesa
+     dell'essercito suo;somiglialo nelle rivelationi, perciò che un angiolo fu ch'annunziò alla
+      <persName ref="#Marie">Vergine</persName> l'Incarnatione del Verbo, a
+      <persName>Giuseppe</persName> la congiura d'Erode, et alle donne la Resurretione di <persName
+      ref="#Jesus">Cristo</persName>;somiglialo nelle consolationi, perciò che un angiolo fu che
+     confortò il Salvatore nell'orto a bere il calice della medicina preparata dal Padre;somiglialo
+     nell'unità, perciò che ciascuno angiolo (secondo <pb n="31"/> l'Angelico) costituisce per se
+     stesso una specie particolare e distinta. Somiglialo nella Trinità, perciò che in tre ternarii
+     divise sono le legioni degli angioli, dove l'amor dello Spirito Santo vien significato ne'
+     Serafini, la sapienza del Figlio ne' Cherubini, la maestà del Padre ne' Troni. Le Dominationi
+     corrispondono al dominio del Padre, le Potestà alla potestà del Figlio, le Virtù alla bontà
+     dello Spirito Santo. Lo Spirito Santo ha analogia co' Prencipati, che guardano le provincie e i
+     regni, il Padre con gli Arcangioli, che hanno in cura i Prencipi et i Regi, il Figlio con gli
+     angioli, che stanno alla difesa di ciascun uomo e vanno qua e là messaggeri. Et oltracciò in
+     ciascun angiolo risplende l'imagine della Trinità, poiché in ciascuno tre cose distinte
+     necessariamente si ritrovano, che sono l'essenza, la potestà e l'operatione, e nondimeno tutte
+     e tre queste cose sono in un solo. Né solo tutti gli attributi e le qualità di <persName
+      ref="#Dieu">Dio</persName> son communicate agli angioli, ma lo stesso Figliuol di <persName
+      ref="#Dieu">Dio</persName>, per accennar sì fatta somiglianza, nome d'angiolo ha voluto
+     appropriarsi. Chiamasi angiolo del testamento, angiolo del gran consiglio; figurato in
+     quell'angiolo <pb n="31bis"/> che fu posto in difesa del paradiso terrestre con la spada di
+     fuoco in mano, poiché nello stesso modo <persName ref="#Jesus">Cristo</persName>, armato di
+     carità ardente, assiste alla guardia della sua Chiesa;figurato in quell'angiolo ch'accompagnò
+     il popolo d'Israelle quando era perseguitato dagli Egittii, poiché nello stesso modo <persName
       ref="#Jesus">Cristo</persName>, precorrendoci con la dottrina e con l'essempio, si è per noi
      opposto all'essercito infernale;figurato in quell'angiolo che, vinto volontariamente da
-      <persName>Giacob</persName> nella lutta, benedisse il suo vincitore, poiché nello stesso modo
-      <persName ref="#Jesus">Cristo</persName>, quantunque nella divinità fusse forte, volse esser
-     debole nella carne per dar la beneditione all'uomo; figurato in quell'angiolo che nella
-     sterilità del deserto discoverse all'ancella di Sara il fonte, poiché nello stesso modo
+      <persName ref="#Jacob">Giacob</persName> nella lutta, benedisse il suo vincitore, poiché nello
+     stesso modo <persName ref="#Jesus">Cristo</persName>, quantunque nella divinità fusse forte,
+     volse esser debole nella carne per dar la beneditione all'uomo; figurato in quell'angiolo che
+     nella sterilità del deserto discoverse all'ancella di Sara il fonte, poiché nello stesso modo
       <persName ref="#Jesus">Cristo</persName> aperse all'aridità della nostra sete l'acqua viva
      della gratia eterna; figurato in quell'angiolo che discese a Daniello et a' compagni nella
      fornace, poiché nello stesso modo <persName ref="#Jesus">Cristo</persName> discese in inferno a
@@ -1234,49 +1188,49 @@
      dee però parerci strano, poiché ‘dei' nominati si trovano etiandio da' sacri profeti, onde quel
      che nel salmo, secondo l'interpretation nostra, <pb n="32bis"/> è tradotto in conspectu
      angelorum psallam tibi, nella editione ebraica suona in conspectu Elohin, che vuol dire Deorum.
-     E quel ch'altrove è scritto <persName>Paulo</persName> minus ab Angelis, se con l'Ebreo
-     leggeremo, dirà ab Elohin, ch'è quanto dire a Diis. Ritratto adunque di <persName ref="#Dieu"
-      >Dio</persName> dignissimo e nobilissimo è l'angiolo: nobile e degno sì per rispetto del
-     tempo, poiché prima dell'altre cose tutte fu creato (parlo quanto alla natura), onde è coetaneo
-     del tempo istesso, e nacque ad un parto con la materia prima e col Cielo Empireo. E fra questi
-     l'angiolo fu il più nobile, che perciò nel principio della genitura del mondo sotto nome di
-     Cielo s'intende la fattura spirituale, e la corporea sotto nome di terra: sì per rispetto del
-     luogo, poiché fu creato dentro quel Cielo ch'è stanza gloriosa di <persName ref="#Dieu"
-      >Dio</persName> e felicissima patria de' beati e che per cagione del suo infocato splendore,
-     fiammeggiante e non ardente, sortisce il nome dal fuoco. Sì per rispetto della bellezza, poiché
-     se il fermamento, sicome è pieno di tante stelle, ricco fosse d'altrettanti soli, sol che un
-     solo angiolo della infima schiera vi comparisse, sarebbe subito di tanti soli quel che suole il
-     sole di <pb n="33"/> tante stelle. Sì per rispetto dell'ufficio, poiché son nuntii, corrieri,
-     messaggieri et agenti di <persName ref="#Dieu">Dio</persName>, anzi paggi, valletti, camerieri
-     e sergenti destinati al divino ministerio: nonne omnes sunt administratorii spiritus in
-     ministerium missi? Sì per rispetto della varietà, poiché (come fu detto) furono tutti di
-     differente specie creati, dissimili nella dignità e disuguali nel dono della gratia. E che
-     sarebbe vedere un giardino, dove non tutti i fiori fussero rose o gigli o viole, ma quante sono
-     viole e gigli e rose, tanti fiori fussero di varia qualità? Or che sia vedere di tanti angioli,
-     e ciascuno di forma diversa, fioriti quegli amenissimi prati del Paradiso? Sì per rispetto
-     dell'ordine, poiché sono in tre gerarchie distinti, ogni gerarchia in tre cori, et ogni coro in
-     più legioni. Gl'inferiori sono da' superiori illuminati di grado in grado, e questi da
-      <persName ref="#Dieu">Dio</persName>. I primi hanno cognitione più chiara delle divine cose
-     che i secondi non hanno: più i secondi che i terzi. Sì per rispetto finalmente della
-     moltitudine, poiché assai più angioli ha nel Paradiso che creature nel mondo, s'egli è pur vero
-     (come non può negarsi verissimo) che, sì come i corpi incorrottibili <pb n="33bis"/> eccedono
-     senza comparatione i corrottibili in quantità, così le sostanze spirituali le corporali
-     avanzano in numero: numquid est numerus militum eius? Poiché gravemente errò il maestro de'
-     savi, seguito scioccamente da altri filosofi, il qual, seguitando il senso, restrinse in così
-     breve numero quelle menti gloriose, con assegnar tanti motori al Cielo, senza più, quanti sono
-     i moti de' globbi suoi: stimando che queste bastassero, e che oltre queste soverchie fussero
-     l'altre, come quelle che, senza propria operatione, pigre e neghittose in otio vivere non
-     potessero. Oltre che le costrinse a volgere faticosamente a forza quelle correnti ruote; e non
-     s'avvide che più alto e più degno fine si conveniva a que' purissimi intelletti, che l'essere a
-     muovere i corpi solamente occupati: basso ufficio nel vero a lato a quello degli spiriti più
-     sublimi, che, dintorno al trono del sommo Monarca assistono, a mirarlo et a fruirlo
-     principalmente deputati. E certo s'<persName ref="#Dieu">Iddio</persName> negl'imperfetti non
-     abbonda, maggior dobbiamo dire che sia il numero delle cose più perfette. Quinci avviene che le
-     fiere nelle selve son poche e gli armenti ne' campi son copiosi; e se <pb n="34"/> questi sono
-     avanzati dalla multitudine degli uomini, quella degli uomini esser dee di gran lunga minore che
-     quella degli abitanti del Cielo; e se le corti de' temporali e terreni signori sono da numeroso
-     stuolo di cortigiani così frequentate, nam gloria regis est in multitudine populi, ignominia
-     autem in paucitate, perché, la reggia del Re de' Regi, per la vana opinione d'un filosofo ha da
+     E quel ch'altrove è scritto Paulo minus ab Angelis, se con l'Ebreo leggeremo, dirà ab Elohin,
+     ch'è quanto dire a Diis. Ritratto adunque di <persName ref="#Dieu">Dio</persName> dignissimo e
+     nobilissimo è l'angiolo: nobile e degno sì per rispetto del tempo, poiché prima dell'altre cose
+     tutte fu creato (parlo quanto alla natura), onde è coetaneo del tempo istesso, e nacque ad un
+     parto con la materia prima e col Cielo Empireo. E fra questi l'angiolo fu il più nobile, che
+     perciò nel principio della genitura del mondo sotto nome di Cielo s'intende la fattura
+     spirituale, e la corporea sotto nome di terra: sì per rispetto del luogo, poiché fu creato
+     dentro quel Cielo ch'è stanza gloriosa di <persName ref="#Dieu">Dio</persName> e felicissima
+     patria de' beati e che per cagione del suo infocato splendore, fiammeggiante e non ardente,
+     sortisce il nome dal fuoco. Sì per rispetto della bellezza, poiché se il fermamento, sicome è
+     pieno di tante stelle, ricco fosse d'altrettanti soli, sol che un solo angiolo della infima
+     schiera vi comparisse, sarebbe subito di tanti soli quel che suole il sole di <pb n="33"/>
+     tante stelle. Sì per rispetto dell'ufficio, poiché son nuntii, corrieri, messaggieri et agenti
+     di <persName ref="#Dieu">Dio</persName>, anzi paggi, valletti, camerieri e sergenti destinati
+     al divino ministerio: nonne omnes sunt administratorii spiritus in ministerium missi? Sì per
+     rispetto della varietà, poiché (come fu detto) furono tutti di differente specie creati,
+     dissimili nella dignità e disuguali nel dono della gratia. E che sarebbe vedere un giardino,
+     dove non tutti i fiori fussero rose o gigli o viole, ma quante sono viole e gigli e rose, tanti
+     fiori fussero di varia qualità? Or che sia vedere di tanti angioli, e ciascuno di forma
+     diversa, fioriti quegli amenissimi prati del Paradiso? Sì per rispetto dell'ordine, poiché sono
+     in tre gerarchie distinti, ogni gerarchia in tre cori, et ogni coro in più legioni.
+     Gl'inferiori sono da' superiori illuminati di grado in grado, e questi da <persName ref="#Dieu"
+      >Dio</persName>. I primi hanno cognitione più chiara delle divine cose che i secondi non
+     hanno: più i secondi che i terzi. Sì per rispetto finalmente della moltitudine, poiché assai
+     più angioli ha nel Paradiso che creature nel mondo, s'egli è pur vero (come non può negarsi
+     verissimo) che, sì come i corpi incorrottibili <pb n="33bis"/> eccedono senza comparatione i
+     corrottibili in quantità, così le sostanze spirituali le corporali avanzano in numero: numquid
+     est numerus militum eius? Poiché gravemente errò il maestro de' savi, seguito scioccamente da
+     altri filosofi, il qual, seguitando il senso, restrinse in così breve numero quelle menti
+     gloriose, con assegnar tanti motori al Cielo, senza più, quanti sono i moti de' globbi suoi:
+     stimando che queste bastassero, e che oltre queste soverchie fussero l'altre, come quelle che,
+     senza propria operatione, pigre e neghittose in otio vivere non potessero. Oltre che le
+     costrinse a volgere faticosamente a forza quelle correnti ruote; e non s'avvide che più alto e
+     più degno fine si conveniva a que' purissimi intelletti, che l'essere a muovere i corpi
+     solamente occupati: basso ufficio nel vero a lato a quello degli spiriti più sublimi, che,
+     dintorno al trono del sommo Monarca assistono, a mirarlo et a fruirlo principalmente deputati.
+     E certo s'<persName ref="#Dieu">Iddio</persName> negl'imperfetti non abbonda, maggior dobbiamo
+     dire che sia il numero delle cose più perfette. Quinci avviene che le fiere nelle selve son
+     poche e gli armenti ne' campi son copiosi; e se <pb n="34"/> questi sono avanzati dalla
+     multitudine degli uomini, quella degli uomini esser dee di gran lunga minore che quella degli
+     abitanti del Cielo; e se le corti de' temporali e terreni signori sono da numeroso stuolo di
+     cortigiani così frequentate, nam gloria regis est in multitudine populi, ignominia autem in
+     paucitate, perché, la reggia del Re de' Regi, per la vana opinione d'un filosofo ha da
      rimanersene vota e solinga? Ma che vo io ad una ad una tutte raccontando le qualità di questo
      bel ritratto, se senza uscir della pittura, la pittura istessa con misteriosa imagine in gran
      parte le dichiara et ombreggia? Dipigne gli angioli giovanetti, a dinotare la sempiternità
@@ -1314,33 +1268,34 @@
      confermati nella gratia, comprensori della gloria, ritratti espressi e specifici <pb n="35bis"
      /> della bellezza di <persName ref="#Dieu">Dio</persName>. Così stato non fusse tra voi spirito
      tanto ingrato e fellone che preso avesse ardire di sommovere con seditioso ammutinamento le
-     vostre schiere e con empia congiura rivolger l'armi ribellanti contro <persName
-      ref="#GiovanniFrancescoPenni">il Fattore</persName>. Dove si trovò giamai pittore tanto
-     presuntuoso ch'osasse di por la mano in una tavola di maestro celebre? Anche alle macchie et
-     alle sgrossature degli uomini grandi si suol portare reverenza e rispetto, anzi l'opere loro
-     non finite maggiormente si ammirano, perciò che in esse ogni minuto pensiero degli artefici si
-     vede addentro. Quinci l'Iride d'<persName ref="#Aristide">Aristide</persName>, l'<persName
-      ref="#Helene">Elena</persName> di Nicomaco e la Medea di <persName ref="#Timomaque"
-      >Timomaco</persName> furono in maggiore stima e veneratione imperfette, che s'elle fussero
-     terminate. Quinci la <persName ref="#Venus">Venere</persName> dipinta da <persName
-      ref="#Apelle">Apelle</persName> in <placeName>Coo</placeName>, quantunque nella parte
-     inferiore alquanto rotta fusse, non ebbe giamai chi la riconciasse. Chi fu questo pittore tanto
-     arrogante quanto ignorante, che prese a voler correggere le imagini perfettissime di quel gran
-     Fabro de' fabri? Questi fu <persName ref="#Lucifer">Lucifero</persName> scelerato. E quando
-     diede egli principio alla sua temerità? Subito appena uscita l'opera della bottega del maestro,
-     nel primo atto, nel <pb n="36"/> primo instante dopo la sua creatione. E perché si mise egli in
-     questa superba e sciocca impresa? Per ambitione di vanagloria. Pensava, nelle proprie forze,
-     confidando di potere ammendare i ritratti formati da quella mano, non pure inemendabile, ma
-     inimitabile. E quali ritratti furono questi? Il ritratto dell'angiolo et il ritratto dell'uomo.
-     E come gli ritoccò? Parevagli che non troppo bene si rassomigliassero, onde prima al ritratto
-     angelico volse dare aria più simile di quella che ricevuta avea da <persName ref="#Dieu"
-      >Dio</persName>: ero similis Altissimo. Poi messosi ancora intorno al ritratto umano, credette
-     di rifarlo più somigliante: eritis sicut Dii. E che cosa gliene avvenne? Gliene avvenne che per
-     essere inesperto del mestiere, per non possedere la pratica del disegno e per non saper ben
-     maneggiare quel divino pennello, invece d'accomodare queste due imagini, amendue le guastò.
-     Guastò l'imagine dell'angiolo (dico in se stesso e ne' suoi seguaci), perché le tolse la
-     vivezza del vero lume, ch'era il dono della gratia, contaminandola con le macchie del peccato,
-     onde <persName ref="#Isaie">Isaia</persName> in veggendola così malconcia, caduta dal suo primo
+     vostre schiere e con empia congiura rivolger l'armi ribellanti contro il Fattore. Dove si trovò
+     giamai pittore tanto presuntuoso ch'osasse di por la mano in una tavola di maestro celebre?
+     Anche alle macchie et alle sgrossature degli uomini grandi si suol portare reverenza e
+     rispetto, anzi l'opere loro non finite maggiormente si ammirano, perciò che in esse ogni minuto
+     pensiero degli artefici si vede addentro. Quinci l'<objectName>Iride d'<persName
+       ref="#Aristide">Aristide</persName></objectName>, <objectName>l'<persName ref="#Helene"
+       >Elena</persName> di Nicomaco</objectName> e la <objectName><persName ref="#Medee"
+       >Medea</persName> di <persName ref="#Timomaque">Timomaco</persName></objectName> furono in
+     maggiore stima e veneratione imperfette, che s'elle fussero terminate. Quinci la <persName
+      ref="#Venus">Venere</persName> dipinta da <persName ref="#Apelle">Apelle</persName> in
+      <placeName ref="#Cos">Coo</placeName>, quantunque nella parte inferiore alquanto rotta fusse,
+     non ebbe giamai chi la riconciasse. Chi fu questo pittore tanto arrogante quanto ignorante, che
+     prese a voler correggere le imagini perfettissime di quel gran Fabro de' fabri? Questi fu
+      <persName ref="#Lucifer">Lucifero</persName> scelerato. E quando diede egli principio alla sua
+     temerità? Subito appena uscita l'opera della bottega del maestro, nel primo atto, nel <pb
+      n="36"/> primo instante dopo la sua creatione. E perché si mise egli in questa superba e
+     sciocca impresa? Per ambitione di vanagloria. Pensava, nelle proprie forze, confidando di
+     potere ammendare i ritratti formati da quella mano, non pure inemendabile, ma inimitabile. E
+     quali ritratti furono questi? Il ritratto dell'angiolo et il ritratto dell'uomo. E come gli
+     ritoccò? Parevagli che non troppo bene si rassomigliassero, onde prima al ritratto angelico
+     volse dare aria più simile di quella che ricevuta avea da <persName ref="#Dieu">Dio</persName>:
+     ero similis Altissimo. Poi messosi ancora intorno al ritratto umano, credette di rifarlo più
+     somigliante: eritis sicut Dii. E che cosa gliene avvenne? Gliene avvenne che per essere
+     inesperto del mestiere, per non possedere la pratica del disegno e per non saper ben maneggiare
+     quel divino pennello, invece d'accomodare queste due imagini, amendue le guastò. Guastò
+     l'imagine dell'angiolo (dico in se stesso e ne' suoi seguaci), perché le tolse la vivezza del
+     vero lume, ch'era il dono della gratia, contaminandola con le macchie del peccato, onde
+      <persName ref="#Isaie">Isaia</persName> in veggendola così malconcia, caduta dal suo primo
      pregio, impoverita d'ogni splendore <pb n="36bis"/> e tinta del fumo e della fuligine
      dell'infernal fucina, proruppe in questa dolorosa apostrofe: Quomodo recidisti de caelo
       <persName ref="#Lucifer">Lucifer</persName>, qui mane oriebaris? Guastò l'imagine dell'uomo,
@@ -1356,83 +1311,84 @@
      tanto mutata da quel di prima venne a capitare in mano dello stesso <persName ref="#Jesus"
       >Cristo</persName>, non solo non seppe egli discernervi l'antica somiglianza, ma la vide
      ridotta a termine ch'era impossibile a leggerne il soprascritto et a <pb n="37"/> raccoglierne
-     s'ella era anima umana: Cuius est imago haec et superscriptio? Ma ritorniamo (se vi piace,
-     Serenissimo Sire) alla nostra pittura. Ritratti di <persName ref="#Dieu">Dio</persName>, tutti
-     senza dubbio bellissimi, son questi ch'io ho fin qui descritti. Ma chi non sa che né tanto
-     belli né tanto perfetti sono, che di gran lunga paragonar si possano all'altro ch'io di sopra
-     accennai? Ritratto di <persName ref="#Dieu">Dio</persName> senza paragone alcuno più raro e più
-     singolare è adunque il Verbo. Così lo predica il Dottor delle genti: Qui cum sit splendor
-     gloriae et figura substantiae eius. Gli altri tutti son rivoli di questo fonte, rami di questo
-     tronco, membra di questo capo, raggi di questo sole, ombre di questa idea, essempi di questo
-     essemplare, copie di questo originale. Quelli furono fatti nel tempo, questo prima del tempo;
-     quelli. sono creati, questo è increato; quelli naturali, questo sopranaturale; quelli visibili,
-     questo invisibile. E s'io per sodisfare a quella curiosa dimanda, cioè prima che creasse il
-     mondo che cosa faceva <persName ref="#Dieu">Iddio</persName>, dicessi ch'<persName ref="#Dieu"
-      >Iddio</persName> prima che 'l mondo creasse altra cosa non faceva che dipignere questa
-     imagine, non direi gran fatto menzogna né crederei per aventura d'errare. E così è invero,
-     perciò <pb n="37bis"/> che, per tutta la lunghissima serie degl'infiniti secoli, in tutto lo
-     spatio della profonda eternità, quando ancora non vivevano animali perché non vi erano
-     elementi, non riluceva sole perché non vi era cielo, non correvano ore perché non vi era tempo,
-     prima ch'<persName ref="#Dieu">Iddio</persName> discacciasse da quell'antico seminario di cose
-     l'infelice Nulla, prima che infondesse in quella imperfetta e disordinata discordia il suo
-     spirito vivace, mentre ch'egli, fatto di se medesimo abitatore et albergo, era nel tutto et era
-     il tutto, solo in se stesso dimorante, senza altra communicanza che di quelle tre ipostasi
-     sublimi, di que' tre supposti indivisibili, di quelle tre persone consustantiali del supremo
-     consiglio, egli, per entro la grossa bozza di quella infor me mescolanza d'abbissi e di quella
-     indistinta e confusa massa che caos s'appellava, vagheggiando se stesso dentro lo specchio
-     limpidissimo della propria essenza, e con atto non mai interrotto intendendosi, non solo
-     essentialmente, ma anche notionalmente sommo bene, venne eternamente col pennello
-     dell'intelletto suo produttivo e fecondo a ritrarre se medesimo, anzi (per usar questo termine)
-     a medesimarsi <pb n="38"/> et a formare (si può dire) un altro sé. E questi fu il Verbo eterno.
-     Candor lucis eternae: ecco il pennello. Speculum sine macula: ecco lo specchio. Et imago
-     bonitatis illius: ecco il ritratto. Ritratto da tutte le parti perfettissimo, fontana di
-     divinità, radice di gloria, propagine unica, prole unigenita, simplicità e sostanza del Padre,
-     uguale, coeterno e coessentiale col Padre, parto ineffabile, concetto mirabile, parola
-     indicibile, fiato incomprensibile, principio eterno, sapienza infinita, raggio di luce, lume di
-     lume, <persName ref="#Dieu">Iddio</persName> di <persName ref="#Dieu">Dio</persName>, occhio,
-     faccia e mano di <persName ref="#Dieu">Dio</persName>, progenie chiamato da <persName
-      ref="#Virgile">Virgilio</persName>, <persName ref="#Pallas">Pallade</persName> da <persName
-      ref="#Orphee">Orfeo</persName>, figlio di <persName ref="#Dieu">Dio</persName> da <persName
-      ref="#Platon">Platone</persName>, Verbo da Giovanni, imagine da Paolo: Qui est imago Dei
-     invisibilis. Et altrove: Gloria Christi qui est imago Dei. Ritratto tanto conforme e
-     somigliante, che richiesto una volta <persName ref="#Jesus">Cristo</persName> da
-      <persName>Filippo</persName> che gli lasciasse veder la paterna imagine, gli rispose:
-     Philippe, qui videt me videt et Patrem meum. Quasi dicesse: «Tra me e 'l padre non ha
-     differenza alcuna, siamo amendue una cosa istessa, le mie fattezze son le sue, io sono il suo
-     ritratto spiccato: vedi me e vedrai lui». E così è in effetto, perciò che <pb n="38bis"/>
-     qualis pater talis filius, anzi geminatum se videt pater in filio et filius in patre. Amano i
-     pittori la solitudine e 'l silentio, che perciò la maggior parte, quando lavorano, di serrarsi
-     in luoghi secreti hanno per usanza, dove altri non usi, né sia chi loro il lavoro interrompa. E
-     così, né meno, fece <persName ref="#Dieu">Iddio</persName>, il qual mentre stava questo
-     ritratto formando, lo tenne appiattato per tutto il corso eterno degli antichi secoli nello
-     studio chiuso, nella camera ritirata e solitaria della sua impenetrabile divinità, in maniera
-     ch'altri non n'era partecipe ch'egli solo, e perciò era chiamato Verbo nascosto: Porro ad me
-     dictum est verbum absconditum. Quinci nacque la fabrica di quell'altare, edificato in
-      <placeName ref="#Grece">Grecia</placeName> contro la pestilenza, con la inscritione che
-     diceva: Ignoto Deo. Piacquegli poi, quando giudicò che così convenisse, di communicarlo agli
-     angioli: pure, tuttoché allo sguardo angelico ne facesse parte, in ogni modo dentro la sala
-     empirea lo riteneva occulto, né lecito era, se non solo ai celesti abitatori vederlo.
-     Finalmente nella pienezza de' tempi deliberossi di pubblicarlo alla vista di tutti nella gran
-     piazza del mondo: post haec in terris visus est et cum hominibus conversatus <pb n="39"/> est.
-     Fu tocco di lume questo ritratto quando disse l'angiolo: Spiritus sanctus superveniet in te;
-     gli fu aggiunta l'ombra quando soggiunse: Virtus Altissimi obumbrabit tibi; e per fine gli fu
-     dato il colore incarnato, anzi la sostanza della carne quando Verbum caro factum est. Ma non
-     altrimenti fece di quel che sogliano appunto i terreni dipintori, i quali dopo l'aver
-     diligentemente terminata una figura, perché strappazzata e guasta non sia, sogliono farle di
-     roza tela una coverta, et in quella, per pascere l'altrui vista, di fuori dipignere anche
-     qualch'altra cosa, non però tanto bella che pareggi quel che dentro nella tavola si racchiude.
-     Così si vede ne' teatri, le cui cortine per lo più con qualche dipintura diversa dalla scena
-     trattengono gli occhi de' curiosi spettatori. Et ecco <persName ref="#Dieu">Iddio</persName>
-     che con somigliante artificio coprì questa sua divina imagine di grosso e ruvido panno, il
-     quale ingannando nel di fuori i riguardanti, altro dimostrava da quel che dentro si nascondeva.
-     Il velo con cui la coverse fu una umanità passibile e mortale, spoglia vile et abietta:
-     semetipsum exinanivit formam servi accipiens in similitudinem hominum factus et habitu inventus
-     ut <pb n="39bis"/> homo. E chi avrebbe giamai pensato che sotto quella dipintura esteriore così
-     misera e miserabile, un'altra se ne celasse tanto pretiosa e gloriosa? Dall'apparenza di questa
-     benda, così rozamente dipinta, venne ad esser deluso il mondo et uccellato l'inferno: si enim
-     cognovissent numquam Dominum gloriae crucifixissent. Raccontasi di quel Greco, celebre e famoso
-     pittore, che per fare una sua profana e favolosa figura bellissima, per singolar privilegio al
-     suo valore conceduto delle più belle giovani d'Agrigento scelse le parti più notabili e le più
+     s'ella era anima umana: <quote xml:lang="lat">Cuius est imago haec et superscriptio?</quote> Ma
+     ritorniamo (se vi piace, Serenissimo Sire) alla nostra pittura. Ritratti di <persName
+      ref="#Dieu">Dio</persName>, tutti senza dubbio bellissimi, son questi ch'io ho fin qui
+     descritti. Ma chi non sa che né tanto belli né tanto perfetti sono, che di gran lunga paragonar
+     si possano all'altro ch'io di sopra accennai? Ritratto di <persName ref="#Dieu">Dio</persName>
+     senza paragone alcuno più raro e più singolare è adunque il Verbo. Così lo predica il Dottor
+     delle genti: Qui cum sit splendor gloriae et figura substantiae eius. Gli altri tutti son
+     rivoli di questo fonte, rami di questo tronco, membra di questo capo, raggi di questo sole,
+     ombre di questa idea, essempi di questo essemplare, copie di questo originale. Quelli furono
+     fatti nel tempo, questo prima del tempo; quelli. sono creati, questo è increato; quelli
+     naturali, questo sopranaturale; quelli visibili, questo invisibile. E s'io per sodisfare a
+     quella curiosa dimanda, cioè prima che creasse il mondo che cosa faceva <persName ref="#Dieu"
+      >Iddio</persName>, dicessi ch'<persName ref="#Dieu">Iddio</persName> prima che 'l mondo
+     creasse altra cosa non faceva che dipignere questa imagine, non direi gran fatto menzogna né
+     crederei per aventura d'errare. E così è invero, perciò <pb n="37bis"/> che, per tutta la
+     lunghissima serie degl'infiniti secoli, in tutto lo spatio della profonda eternità, quando
+     ancora non vivevano animali perché non vi erano elementi, non riluceva sole perché non vi era
+     cielo, non correvano ore perché non vi era tempo, prima ch'<persName ref="#Dieu"
+      >Iddio</persName> discacciasse da quell'antico seminario di cose l'infelice Nulla, prima che
+     infondesse in quella imperfetta e disordinata discordia il suo spirito vivace, mentre ch'egli,
+     fatto di se medesimo abitatore et albergo, era nel tutto et era il tutto, solo in se stesso
+     dimorante, senza altra communicanza che di quelle tre ipostasi sublimi, di que' tre supposti
+     indivisibili, di quelle tre persone consustantiali del supremo consiglio, egli, per entro la
+     grossa bozza di quella infor me mescolanza d'abbissi e di quella indistinta e confusa massa che
+     caos s'appellava, vagheggiando se stesso dentro lo specchio limpidissimo della propria essenza,
+     e con atto non mai interrotto intendendosi, non solo essentialmente, ma anche notionalmente
+     sommo bene, venne eternamente col pennello dell'intelletto suo produttivo e fecondo a ritrarre
+     se medesimo, anzi (per usar questo termine) a medesimarsi <pb n="38"/> et a formare (si può
+     dire) un altro sé. E questi fu il Verbo eterno. Candor lucis eternae: ecco il pennello.
+     Speculum sine macula: ecco lo specchio. Et imago bonitatis illius: ecco il ritratto. Ritratto
+     da tutte le parti perfettissimo, fontana di divinità, radice di gloria, propagine unica, prole
+     unigenita, simplicità e sostanza del Padre, uguale, coeterno e coessentiale col Padre, parto
+     ineffabile, concetto mirabile, parola indicibile, fiato incomprensibile, principio eterno,
+     sapienza infinita, raggio di luce, lume di lume, <persName ref="#Dieu">Iddio</persName> di
+      <persName ref="#Dieu">Dio</persName>, occhio, faccia e mano di <persName ref="#Dieu"
+      >Dio</persName>, progenie chiamato da <persName ref="#Virgile">Virgilio</persName>, <persName
+      ref="#Pallas">Pallade</persName> da <persName ref="#Orphee">Orfeo</persName>, figlio di
+      <persName ref="#Dieu">Dio</persName> da <persName ref="#Platon">Platone</persName>, Verbo da
+     Giovanni, imagine da Paolo: Qui est imago Dei invisibilis. Et altrove: Gloria Christi qui est
+     imago Dei. Ritratto tanto conforme e somigliante, che richiesto una volta <persName
+      ref="#Jesus">Cristo</persName> da <persName>Filippo</persName> che gli lasciasse veder la
+     paterna imagine, gli rispose: Philippe, qui videt me videt et Patrem meum. Quasi dicesse: «Tra
+     me e 'l padre non ha differenza alcuna, siamo amendue una cosa istessa, le mie fattezze son le
+     sue, io sono il suo ritratto spiccato: vedi me e vedrai lui». E così è in effetto, perciò che
+      <pb n="38bis"/> qualis pater talis filius, anzi geminatum se videt pater in filio et filius in
+     patre. Amano i pittori la solitudine e 'l silentio, che perciò la maggior parte, quando
+     lavorano, di serrarsi in luoghi secreti hanno per usanza, dove altri non usi, né sia chi loro
+     il lavoro interrompa. E così, né meno, fece <persName ref="#Dieu">Iddio</persName>, il qual
+     mentre stava questo ritratto formando, lo tenne appiattato per tutto il corso eterno degli
+     antichi secoli nello studio chiuso, nella camera ritirata e solitaria della sua impenetrabile
+     divinità, in maniera ch'altri non n'era partecipe ch'egli solo, e perciò era chiamato Verbo
+     nascosto: Porro ad me dictum est verbum absconditum. Quinci nacque la fabrica di quell'altare,
+     edificato in <placeName ref="#Grece">Grecia</placeName> contro la pestilenza, con la
+     inscritione che diceva: Ignoto Deo. Piacquegli poi, quando giudicò che così convenisse, di
+     communicarlo agli angioli: pure, tuttoché allo sguardo angelico ne facesse parte, in ogni modo
+     dentro la sala empirea lo riteneva occulto, né lecito era, se non solo ai celesti abitatori
+     vederlo. Finalmente nella pienezza de' tempi deliberossi di pubblicarlo alla vista di tutti
+     nella gran piazza del mondo: post haec in terris visus est et cum hominibus conversatus <pb
+      n="39"/> est. Fu tocco di lume questo ritratto quando disse l'angiolo: Spiritus sanctus
+     superveniet in te; gli fu aggiunta l'ombra quando soggiunse: Virtus Altissimi obumbrabit tibi;
+     e per fine gli fu dato il colore incarnato, anzi la sostanza della carne quando Verbum caro
+     factum est. Ma non altrimenti fece di quel che sogliano appunto i terreni dipintori, i quali
+     dopo l'aver diligentemente terminata una figura, perché strappazzata e guasta non sia, sogliono
+     farle di roza tela una coverta, et in quella, per pascere l'altrui vista, di fuori dipignere
+     anche qualch'altra cosa, non però tanto bella che pareggi quel che dentro nella tavola si
+     racchiude. Così si vede ne' teatri, le cui cortine per lo più con qualche dipintura diversa
+     dalla scena trattengono gli occhi de' curiosi spettatori. Et ecco <persName ref="#Dieu"
+      >Iddio</persName> che con somigliante artificio coprì questa sua divina imagine di grosso e
+     ruvido panno, il quale ingannando nel di fuori i riguardanti, altro dimostrava da quel che
+     dentro si nascondeva. Il velo con cui la coverse fu una umanità passibile e mortale, spoglia
+     vile et abietta: semetipsum exinanivit formam servi accipiens in similitudinem hominum factus
+     et habitu inventus ut <pb n="39bis"/> homo. E chi avrebbe giamai pensato che sotto quella
+     dipintura esteriore così misera e miserabile, un'altra se ne celasse tanto pretiosa e gloriosa?
+     Dall'apparenza di questa benda, così rozamente dipinta, venne ad esser deluso il mondo et
+     uccellato l'inferno: si enim cognovissent numquam Dominum gloriae crucifixissent. Raccontasi di
+     quel Greco, celebre e famoso pittore, che per fare una sua profana e favolosa figura
+     bellissima, per singolar privilegio al suo valore conceduto delle più belle giovani
+      d'<placeName ref="#Agrigente">Agrigento</placeName> scelse le parti più notabili e le più
      belle. Ma con che modo più peregrino et a' nostri ingegni nascosto il grande padre <persName
       ref="#Dieu">Iddio</persName>, per dotare in colmo questa sua sacra e vera imagine di tutte le
      perfeztioni o create o increate o creabili, sfiorando a guisa di pecchia i prati vasti et
@@ -1456,62 +1412,63 @@
      son cose rispetto alla sua onnipotenza limitate e terminate, non se ne pregia molto, né molta
      lode <pb n="40bis"/> ne pretende. Aggiungasi a questo che tutte fatte furono solo col cenno
      della sua imperiosa parola, talché il volere, il potere, il dire e l'operare furono in lui un
-     atto solo et una cosa medesima: portans omnia verbo virtutis suae;dixit et facta sunt, mandavit
-     et creata sunt. E perciò quando si parla di esse creature, sempre con imperfetto tempo se ne
-     ragiona: quando praeparabat caelos, quando certa lege et gyro vallabat abyssos, quando aethera
-     firmabat sursum et librabat fontes aquarum, quando circumdabat mari terminum suum et legem
-     ponebat aquis ne transirent fines suos, quando appendebat fundamenta terrae: faciebat,
-     faciebat. Elementi e cieli, stelle e sole, corpi et anime, uomini et angioli, cose belle (chi
-     ne dubita?), imagini tutte stupende, ma imagini e cose le quali non prescrivono il divino
-     potere, non ristringono il divino sapere, onde <persName ref="#Dieu">Iddio</persName> (questo è
-     certo) ancora molto più belle saprebbe e potrebbe farle. Là dove d'altra parte quando del gran
-     ritratto di se stesso si tratta, par che <persName ref="#Dieu">Iddio</persName> (se così si può
-     dire) se ne dimostri quasi santamente ambitioso e, nuovo <persName ref="#Protogene"
-      >Protogene</persName>, avendo dipinto questo Amore innamorato, se ne compiace in <pb n="41"/>
-     guisa che vi pone il suo nome sotto e non dice faciebat, ma perfettamente factum est:
-     transeamus usque Bethleem et videamus hoc Verbum quod factum est, dicono i pastori; et Verbum
-     caro factum est, dice <persName>Giovanni</persName>. Chi ha mai veduto et osservato pittore
-     tanto capriccioso quanto valente, che tra sollazzevole brigata dipignendo, non però lascia
-     d'adoperar la mano, ma motteggiando e cianciando par che con le ciancie si pigli la pittura a
-     gabbo, e tirando tuttavia con incredibile agevolezza or una or altra linea, conduce il suo
-     lavorio a fine, onde appoco appoco si veggono da' suoi scherzi riuscir maraviglie? Cum eo eram
-     cuncta componens et delectabar per singulos dies, ludens cum eo omni tempore. Scherzo della
-     mano di <persName ref="#Dieu">Dio</persName> fu questo cielo fiorito di tante stelle, questa
-     terra stellata di tanti fiori, quest'aria molle e sparsa a guisa d'un sottil velo, quest'acque
-     affrenate col morso di debole e minuta arena, queste tante specie d'animali, e feroci e
-     domestici e selvaggi e mansueti: giuoco delle dita di <persName ref="#Dieu">Dio</persName>
-     furono insomma tutte le cose create: opera digitorum tuorum sunt caeli. E mentre ne giva
-     componendo il modello, come se opera così maravigliosa fusse una burla, <pb n="41bis"/> altro
-     non faceva che scherzare e giuocare: ludens in orbe terrarum. Allo 'ncontro poi nel ritratto
-     del Verbo eterno applicò questo eterno effigiatore tutto il suo ingegno, tutto il suo studio; e
-     sicome in esso, più che in qualsivoglia altra sua pittura si dilettò, così sopra ogni creatura
-     l'amò, per la qual cosa, quando colà nel monte Tabor gli piacque d'alzare alquanto il velo che
-     lo copriva e mostrarne una parte agli occhi de' suoi più cari e diletti (che non ad altro
-     mistero alludendo mi fo io a credere che 'l testo si serva appunto di questa parola
-     transfiguratus, se non per dinotare ch'allora si faceva una mostra di questa figura disvelata
-     per modo di passaggio), poscia ch'egli ebbe con gl'improvisi lampi di questo divino ritratto
-     rapita et abbagliata la vista di Pietro et innebriatogli l'animo di maraviglia e di dolcezza,
-     subito in quel punto si sentì la voce dello stesso <persName ref="#Dieu">Iddio</persName>, il
-     qual di sua propria bocca gridò: Hic est Filius meus dilectus, in quo mihi bene complacui, come
-     s'egli dir volesse: «Questa è la viva e vera imagine di me stesso, pittura del tutto fornita e
-     perfetta. Nell'altre non mi sono io compiaciuto, perciò che la mia infinita potenza avrebbe
-     potuto <pb n="42"/> infiniti mondi creare: mi compiacqui e soddisfeci bene infinitamente nel
-     ritratto che vedete, perciò che in esso trasfusi e diffusi tutto me stesso, tutta l'essenza e
-     la sostanza mia in modo che non posso un altro figlio generare; ma non già che ciò pregiudichi
-     punto alla mia onnipotenza, o che importi in me imperfetione alcuna, anzi il non poter ciò fare
-     è somma perfetione, perché il termine fatto è tanto perfetto, ch'adegua e pareggia tutta la
-     potenza. Qui con eccesso straordinario feci l'ultima prova di quanto so, l'estremo sforzo di
-     quanto posso: et ecco ch'io ve lo svelo e ve lo rivelo. Questa è la mia sembianza, questa
-     adorate: ipsum audite». L'altre creature sono ritratti sì, ritratti però non del viso, ma delle
-     spalle di <persName ref="#Dieu">Dio</persName>: e questo per mio aviso voleva egli inferire a
-     Mosè, quando da lui fu così caldamente e con sì affettuosa preghiera scongiurato: Si inveni
-     gratiam in conspectu tuo, ostende mihi faciem tuam. «Signore, se valgon tanto le suppliche d'un
-     servo humile e fedele, discuoprimi pur un tratto cotesto ritratto, contentati ch'io gli dia una
-     occhiata sola, lasciami per gratia mirare il tuo Verbo incarnato». A cui rispose <persName
-      ref="#Dieu">Iddio</persName>: <pb n="42bis"/> Posteriora mea videbis, faciem autem meam videre
-     non poteris. Parole dette a' Padri della vecchia legge, overo a' filosofi della Gentilità:
-     poiché tutta la speranza de' Patriarchi e tutta la filosofia de' Gentili arrivar non seppe mai
-     a vedere altra parte di <persName ref="#Dieu">Dio</persName> che le spalle, cioè per la traccia
+     atto solo et una cosa medesima: <quote xml:lang="lat">portans omnia verbo virtutis suae;dixit
+      et facta sunt, mandavit et creata sunt.</quote> E perciò quando si parla di esse creature,
+     sempre con imperfetto tempo se ne ragiona: <quote xml:lang="lat">quando praeparabat caelos,
+      quando certa lege et gyro vallabat abyssos, quando aethera firmabat sursum et librabat fontes
+      aquarum, quando circumdabat mari terminum suum et legem ponebat aquis ne transirent fines
+      suos, quando appendebat fundamenta terrae: faciebat, faciebat.</quote> Elementi e cieli,
+     stelle e sole, corpi et anime, uomini et angioli, cose belle (chi ne dubita?), imagini tutte
+     stupende, ma imagini e cose le quali non prescrivono il divino potere, non ristringono il
+     divino sapere, onde <persName ref="#Dieu">Iddio</persName> (questo è certo) ancora molto più
+     belle saprebbe e potrebbe farle. Là dove d'altra parte quando del gran ritratto di se stesso si
+     tratta, par che <persName ref="#Dieu">Iddio</persName> (se così si può dire) se ne dimostri
+     quasi santamente ambitioso e, nuovo <persName ref="#Protogene">Protogene</persName>, avendo
+     dipinto questo Amore innamorato, se ne compiace in <pb n="41"/> guisa che vi pone il suo nome
+     sotto e non dice faciebat, ma perfettamente factum est: transeamus usque Bethleem et videamus
+     hoc Verbum quod factum est, dicono i pastori; et Verbum caro factum est, dice <persName
+      ref="#SaintJean">Giovanni</persName>. Chi ha mai veduto et osservato pittore tanto capriccioso
+     quanto valente, che tra sollazzevole brigata dipignendo, non però lascia d'adoperar la mano, ma
+     motteggiando e cianciando par che con le ciancie si pigli la pittura a gabbo, e tirando
+     tuttavia con incredibile agevolezza or una or altra linea, conduce il suo lavorio a fine, onde
+     appoco appoco si veggono da' suoi scherzi riuscir maraviglie? Cum eo eram cuncta componens et
+     delectabar per singulos dies, ludens cum eo omni tempore. Scherzo della mano di <persName
+      ref="#Dieu">Dio</persName> fu questo cielo fiorito di tante stelle, questa terra stellata di
+     tanti fiori, quest'aria molle e sparsa a guisa d'un sottil velo, quest'acque affrenate col
+     morso di debole e minuta arena, queste tante specie d'animali, e feroci e domestici e selvaggi
+     e mansueti: giuoco delle dita di <persName ref="#Dieu">Dio</persName> furono insomma tutte le
+     cose create: opera digitorum tuorum sunt caeli. E mentre ne giva componendo il modello, come se
+     opera così maravigliosa fusse una burla, <pb n="41bis"/> altro non faceva che scherzare e
+     giuocare: ludens in orbe terrarum. Allo 'ncontro poi nel ritratto del Verbo eterno applicò
+     questo eterno effigiatore tutto il suo ingegno, tutto il suo studio; e sicome in esso, più che
+     in qualsivoglia altra sua pittura si dilettò, così sopra ogni creatura l'amò, per la qual cosa,
+     quando colà nel monte Tabor gli piacque d'alzare alquanto il velo che lo copriva e mostrarne
+     una parte agli occhi de' suoi più cari e diletti (che non ad altro mistero alludendo mi fo io a
+     credere che 'l testo si serva appunto di questa parola transfiguratus, se non per dinotare
+     ch'allora si faceva una mostra di questa figura disvelata per modo di passaggio), poscia
+     ch'egli ebbe con gl'improvisi lampi di questo divino ritratto rapita et abbagliata la vista di
+     Pietro et innebriatogli l'animo di maraviglia e di dolcezza, subito in quel punto si sentì la
+     voce dello stesso <persName ref="#Dieu">Iddio</persName>, il qual di sua propria bocca gridò:
+     Hic est Filius meus dilectus, in quo mihi bene complacui, come s'egli dir volesse: «Questa è la
+     viva e vera imagine di me stesso, pittura del tutto fornita e perfetta. Nell'altre non mi sono
+     io compiaciuto, perciò che la mia infinita potenza avrebbe potuto <pb n="42"/> infiniti mondi
+     creare: mi compiacqui e soddisfeci bene infinitamente nel ritratto che vedete, perciò che in
+     esso trasfusi e diffusi tutto me stesso, tutta l'essenza e la sostanza mia in modo che non
+     posso un altro figlio generare; ma non già che ciò pregiudichi punto alla mia onnipotenza, o
+     che importi in me imperfetione alcuna, anzi il non poter ciò fare è somma perfetione, perché il
+     termine fatto è tanto perfetto, ch'adegua e pareggia tutta la potenza. Qui con eccesso
+     straordinario feci l'ultima prova di quanto so, l'estremo sforzo di quanto posso: et ecco ch'io
+     ve lo svelo e ve lo rivelo. Questa è la mia sembianza, questa adorate: ipsum audite». L'altre
+     creature sono ritratti sì, ritratti però non del viso, ma delle spalle di <persName ref="#Dieu"
+      >Dio</persName>: e questo per mio aviso voleva egli inferire a Mosè, quando da lui fu così
+     caldamente e con sì affettuosa preghiera scongiurato: Si inveni gratiam in conspectu tuo,
+     ostende mihi faciem tuam. «Signore, se valgon tanto le suppliche d'un servo humile e fedele,
+     discuoprimi pur un tratto cotesto ritratto, contentati ch'io gli dia una occhiata sola,
+     lasciami per gratia mirare il tuo Verbo incarnato». A cui rispose <persName ref="#Dieu"
+      >Iddio</persName>: <pb n="42bis"/> Posteriora mea videbis, faciem autem meam videre non
+     poteris. Parole dette a' Padri della vecchia legge, overo a' filosofi della Gentilità: poiché
+     tutta la speranza de' Patriarchi e tutta la filosofia de' Gentili arrivar non seppe mai a
+     vedere altra parte di <persName ref="#Dieu">Dio</persName> che le spalle, cioè per la traccia
      delle creature procedere alla cognitione del Creatore: invisibilia ipsius a creatura mundi per
      ea quae facta sunt intellecta conspiciuntur. Quasi pur dir volesse <persName ref="#Dieu"
       >Iddio</persName>: «O Patriarchi, o Filosofi, se pensate di vagheggiar la mia effigie qual
@@ -1534,34 +1491,34 @@
      corporea, come può la bassezza del vostro intendimento sollevarsi sopra la natura ad attignere
      un intelligibile così alto? No, no, ancora non è stata data l'ultima mano al mio ritratto: n'è
      fatta ben la bozza in Cielo. Altri otterrà l'effetto di cotesta tua dimanda. Verrà tempo
-     ch'alla tua posterità, o <persName>Mosè</persName>, sarà conceduta ventura di vederlo; per ora
-     bastiti <pb n="43bis"/> contemplar le terga». E perciò, Serenissimo Sire, il passaggio che fa
-     il nostro intelletto a conoscere <persName ref="#GiovanniFrancescoPenni">il Fattore</persName>
-     dalla fattura si chiama da' dotti cognitio a posteriori. Son le parti deretane di <persName
-      ref="#Dieu">Dio</persName> le creature, onde imperfetto lume di conoscimento è quello che di
-     loro si trae. Che sicome dagli omeri d'una persona rivolta in là, non si può la specie
-     dell'individuo discernere distintamente, se rivolgendosi in qua non ci viene a palesare il
-     volto: ex visu cognoscitur vir et ab occursu faciei cognoscitur sensatus, così dalla notitia
-     delle creature non si può quella piena informatione avere della qualità di <persName
-      ref="#Dieu">Dio</persName>, che dal vedere il Figliuolo si ha, il quale è la sua faccia
-     propria et essentiale. Egli è ben il vero che non pur Mosè, ma tutti gli antichi padri poterono
-     in tutto il corso della legge naturale e della scritta, infino alla evangelica, rimirare in
-     ombra, oscuramente abbozzata, questa tanto bramata imagine. Taccio le Scritture, perciò che
-     opera fora non poco malagevole il volere ad una ad una in minuto racconto raccogliere tutte le
-     profetie, nelle quali l'effigie del Messia disegnata si vede. Passo alle istorie: e che altro
-     significavano i sacrifici e le vittime? o che altro erano <pb n="44"/> i riti e le cerimonie,
-     che tante abbozzature dove si veniva il vero adombrando? Tralascio per brevità l'altre ationi
-     della vita di <persName ref="#Jesus">Cristo</persName>, le quali tutte si veggono nell'Antico
-     Testamento d'avantaggio delineate: parlando solo (per quel che tocca al suggetto nostro)
-     dell'ultimo atto dove a terminare et a consumare si vennero tutte le sue passate operationi,
-     non si vede in mille e mille essempi dal sacro libro contenuti, espressa la passione e la morte
-     del vero Figliuol di <persName ref="#Dieu">Dio</persName>? Tutti furono schizzi e spolveri di
-     questo bel ritratto, e perciò son chiamati figure del figurato: haec autem in figura facta
-     sunt: omnia in figura contingebant illis. Ora rifacendomi da capo, dico che quantunque il
-     sopraccennato ritratto così involto fusse et appannato dalla fascia dell'umana carne era però
-     così dilicata e sottile la covertura, che chiunque dapresso gli si faceva poteva ben veder di
-     fuori trasparere i raggi della interna bellezza. Laonde <persName ref="#Jesus"
-      >Cristo</persName>, nella maniera istessa tenuta dal buono <persName ref="#Apelle"
+     ch'alla tua posterità, o <persName ref="#Moise">Mosè</persName>, sarà conceduta ventura di
+     vederlo; per ora bastiti <pb n="43bis"/> contemplar le terga». E perciò, Serenissimo Sire, il
+     passaggio che fa il nostro intelletto a conoscere <persName ref="#GiovanniFrancescoPenni">il
+      Fattore</persName> dalla fattura si chiama da' dotti cognitio a posteriori. Son le parti
+     deretane di <persName ref="#Dieu">Dio</persName> le creature, onde imperfetto lume di
+     conoscimento è quello che di loro si trae. Che sicome dagli omeri d'una persona rivolta in là,
+     non si può la specie dell'individuo discernere distintamente, se rivolgendosi in qua non ci
+     viene a palesare il volto: ex visu cognoscitur vir et ab occursu faciei cognoscitur sensatus,
+     così dalla notitia delle creature non si può quella piena informatione avere della qualità di
+      <persName ref="#Dieu">Dio</persName>, che dal vedere il Figliuolo si ha, il quale è la sua
+     faccia propria et essentiale. Egli è ben il vero che non pur Mosè, ma tutti gli antichi padri
+     poterono in tutto il corso della legge naturale e della scritta, infino alla evangelica,
+     rimirare in ombra, oscuramente abbozzata, questa tanto bramata imagine. Taccio le Scritture,
+     perciò che opera fora non poco malagevole il volere ad una ad una in minuto racconto
+     raccogliere tutte le profetie, nelle quali l'effigie del Messia disegnata si vede. Passo alle
+     istorie: e che altro significavano i sacrifici e le vittime? o che altro erano <pb n="44"/> i
+     riti e le cerimonie, che tante abbozzature dove si veniva il vero adombrando? Tralascio per
+     brevità l'altre ationi della vita di <persName ref="#Jesus">Cristo</persName>, le quali tutte
+     si veggono nell'Antico Testamento d'avantaggio delineate: parlando solo (per quel che tocca al
+     suggetto nostro) dell'ultimo atto dove a terminare et a consumare si vennero tutte le sue
+     passate operationi, non si vede in mille e mille essempi dal sacro libro contenuti, espressa la
+     passione e la morte del vero Figliuol di <persName ref="#Dieu">Dio</persName>? Tutti furono
+     schizzi e spolveri di questo bel ritratto, e perciò son chiamati figure del figurato: haec
+     autem in figura facta sunt: omnia in figura contingebant illis. Ora rifacendomi da capo, dico
+     che quantunque il sopraccennato ritratto così involto fusse et appannato dalla fascia
+     dell'umana carne era però così dilicata e sottile la covertura, che chiunque dapresso gli si
+     faceva poteva ben veder di fuori trasparere i raggi della interna bellezza. Laonde <persName
+      ref="#Jesus">Cristo</persName>, nella maniera istessa tenuta dal buono <persName ref="#Apelle"
       >Apelle</persName>, soleva in publico esporlo all'altrui parere, chiedendo se pur alcuno
      qualche difetto vi conoscesse: Quis vestrum arguet me de peccato? Pur le dipinture d'<persName
       ref="#Apelle">Apelle</persName> furono <pb n="44bis"/> (come di sopra dicemmo) conosciute
@@ -1699,37 +1656,38 @@
      scritto in un libro indorato per tanti caratteri d'oro che vi scintillano; la <objectName
       ref="#SuaireTurin">Sindone</objectName> è poema, ma poema scritto in un libro miniato per
      tante lettere vermiglie che vi rosseggiano. Quello è un volume improntato di sette suggelli
-     come quello di <persName>Giovanni</persName>, che sono i pianeti del cielo, questo è un volume
-     dolce al gusto più che 'l miele come quello d'<persName>Ezechiello</persName>, ch'è il
-     soavissimo frutto della passione. In quello può leggere ancora chi non sa leggere, in questo
-     non sa studiare chi non ha la dottrina della fede. Là si lodano la potenza e la sapienza d'un
-     sommo Facitore, Caeli enarrant <pb n="49bis"/> gloriam Dei, qui si cantano l'armi e gli amori
-     d'un pietoso Redentore: et scripta erant in eo lamentationes et carmina. E se il famoso poema
-      d'<persName ref="Homere">Omero</persName> fu riposto dal cortese Duce di <placeName
-      ref="#Macedoine">Macedonia</placeName> nella ricca cassetta di <persName>Dario</persName>,
-     questo è conservato dal magnanimo <persName ref="#CharlesEmmanuelIer">Duca di Savoia</persName>
-     parimente in una cassa, ma molto di quella più pretiosa, essendo fabricata più di religione che
-     d'oro, et essendo le sue gemme diamanti di stabil fede, smeraldi di fiorita speranza e rubini
-     d'ardente carità. Poesia adunque è la pittura di cui favello, e poesia non già tacita ma
-     loquace, che con cinque bocche sanguinose ragiona al cuore de' suoi fedeli. Non fia però chi
-     pensi perché metafora di pittura si dia a questa santissima imagine, ch'ella non sia d'ogni
-     pittura, per infinite conditioni, incomparabilmente più maravigliosa e più nobile: la pittura
-     artificiale è imitatione della natura, ma questa pittura sopranaturale è inimitabile dalla
-     natura. La pittura terrena è oggetto appena d'un sentimento solo del corpo, ma questa pittura
-     celeste appaga tutte le potenze dell'anima. La pittura ordinaria altro in sé non ha
-     ch'apparenza et illusione, poich'ella è arte <pb n="50"/> di rappresentare con colore le cose
-     visibili in superficie piana: ma questa pittura straordinaria serba in sé verità reale, anzi è
-     tutta essere e tutta sostanza, poiché contiene colui ch'è il tutto, nel tutto e per tutto. La
-     pittura degli uomini altro non fa se non solo destare con lo stromento dell'occhio alla memoria
-     la ricordanza di <persName ref="#Dieu">Dio</persName>, e perciò si riverisce e non s'adora se
-     non di dulia, ma questa pittura di <persName ref="#Dieu">Dio</persName> dimostra e rappresenta
-     all'occhio esterno et all'interno lo stesso <persName ref="#Dieu">Iddio</persName>, e per lo
-     contatto che ha col divino sangue merita l'adoratione latria. Alcune pitture vi ha le quali si
-     vogliono mirar dal suo verso, secondo il ribattimento del lume. Ma questa è una pittura fatta
-     con tutte le prospettive; da qualunque parte tu la miri, o in tribulatione, o in prosperità, o
-     in peccato, o in gratia, sempre ti sembrerà l'istessa. Alcune pitture vi sono le quali da un
-     lato rappresentano una cosa, dall'altro un'altra, secondo l'artificio dello scambiamento, ma
-     questa è una pittura uguale da tutti i canti; dovunque tu la rivolga, o dalla patienza, o dalla
+     come quello di <persName ref="#SaintJean">Giovanni</persName>, che sono i pianeti del cielo,
+     questo è un volume dolce al gusto più che 'l miele come quello d'<persName ref="#Ezechiel"
+      >Ezechiello</persName>, ch'è il soavissimo frutto della passione. In quello può leggere ancora
+     chi non sa leggere, in questo non sa studiare chi non ha la dottrina della fede. Là si lodano
+     la potenza e la sapienza d'un sommo Facitore, Caeli enarrant <pb n="49bis"/> gloriam Dei, qui
+     si cantano l'armi e gli amori d'un pietoso Redentore: et scripta erant in eo lamentationes et
+     carmina. E se il famoso poema d'<persName ref="Homere">Omero</persName> fu riposto dal cortese
+     Duce di <placeName ref="#Macedoine">Macedonia</placeName> nella ricca cassetta di <persName
+      ref="#DariusI">Dario</persName>, questo è conservato dal magnanimo <persName
+      ref="#CharlesEmmanuelIer">Duca di Savoia</persName> parimente in una cassa, ma molto di quella
+     più pretiosa, essendo fabricata più di religione che d'oro, et essendo le sue gemme diamanti di
+     stabil fede, smeraldi di fiorita speranza e rubini d'ardente carità. Poesia adunque è la
+     pittura di cui favello, e poesia non già tacita ma loquace, che con cinque bocche sanguinose
+     ragiona al cuore de' suoi fedeli. Non fia però chi pensi perché metafora di pittura si dia a
+     questa santissima imagine, ch'ella non sia d'ogni pittura, per infinite conditioni,
+     incomparabilmente più maravigliosa e più nobile: la pittura artificiale è imitatione della
+     natura, ma questa pittura sopranaturale è inimitabile dalla natura. La pittura terrena è
+     oggetto appena d'un sentimento solo del corpo, ma questa pittura celeste appaga tutte le
+     potenze dell'anima. La pittura ordinaria altro in sé non ha ch'apparenza et illusione,
+     poich'ella è arte <pb n="50"/> di rappresentare con colore le cose visibili in superficie
+     piana: ma questa pittura straordinaria serba in sé verità reale, anzi è tutta essere e tutta
+     sostanza, poiché contiene colui ch'è il tutto, nel tutto e per tutto. La pittura degli uomini
+     altro non fa se non solo destare con lo stromento dell'occhio alla memoria la ricordanza di
+      <persName ref="#Dieu">Dio</persName>, e perciò si riverisce e non s'adora se non di dulia, ma
+     questa pittura di <persName ref="#Dieu">Dio</persName> dimostra e rappresenta all'occhio
+     esterno et all'interno lo stesso <persName ref="#Dieu">Iddio</persName>, e per lo contatto che
+     ha col divino sangue merita l'adoratione latria. Alcune pitture vi ha le quali si vogliono
+     mirar dal suo verso, secondo il ribattimento del lume. Ma questa è una pittura fatta con tutte
+     le prospettive; da qualunque parte tu la miri, o in tribulatione, o in prosperità, o in
+     peccato, o in gratia, sempre ti sembrerà l'istessa. Alcune pitture vi sono le quali da un lato
+     rappresentano una cosa, dall'altro un'altra, secondo l'artificio dello scambiamento, ma questa
+     è una pittura uguale da tutti i canti; dovunque tu la rivolga, o dalla patienza, o dalla
      ubbidienza, o dalla humiltà, o dalla carità, sempre ti mostrerà l'istesso. Quinci è che, se
      tutte l'altre pitture <pb n="50bis"/> (come le leggi vogliono) cedono alla tavola, a questa,
      per essere di mano illustre e celebre, la tavola sdegnar non si deve di cedere, poiché, mercé
@@ -1797,8 +1755,8 @@
      il qual doveva egli poi tingere in rosso, dico questa tela santa, la qual, colorita di sangue,
      doveva esser campo della sua mirabil pittura. E così viene egli a conformare il disegno pratico
      co' l'intellettuale, essercitando col senso ciò che determinato aveva con l'affetto. Ebbe
-      <persName>Mosè</persName> da <persName ref="#Dieu">Dio</persName> il modello dell'arca ch'egli
-     doveva fabricare. Ricevette <persName ref="#Salomon">Salomone</persName>
+      <persName ref="#Moise">Mosè</persName> da <persName ref="#Dieu">Dio</persName> il modello
+     dell'arca ch'egli doveva fabricare. Ricevette <persName ref="#Salomon">Salomone</persName>
      <pb n="53"/> da <persName ref="#David">David</persName> il cartone del tempio ch'egli doveva
      edificare. Tolse <persName>Uria da Acaz</persName> l'essempio dell'altare ch'egli doveva
      stabilire. Prese <persName ref="#Jesus">Cristo</persName> per mano dell'amore lo schizzo della
@@ -1831,12 +1789,12 @@
      ch'eccedeva i termini della natura? O vos omnes qui transitis per viam attendite et videte si
      est dolor sicut dolor meus. Ma chi dicesse che questo disegno fu fatto per mano di <persName
       ref="#MichelAnge">Michelagnolo</persName>, non direbbe egli cosa inverisimile e strana? E pure
-     è vero che l'<persName>Agnolo Michele</persName> non altro persuase a' suoi seguaci, quando
-     pugnò con <persName ref="#Lucifer">Lucifero</persName> in cielo, che la fattura di questo
-     disegno, né con altre armi mise in rotta l'essercito dell'avversario, che co' colori di questa
-     imagine: et ipsi vicerunt eum propter sanguinem agni. E chi di più soggiugnesse che in questo
-     disegno ebbe anche parte <persName ref="#Raphael">Rafaello</persName>, non darebbe altrui da
-     maravigliare, come di cosa incredibile et impossibile? E pure è verissimo, che
+     è vero che l'<persName ref="#SaintMichel">Agnolo Michele</persName> non altro persuase a' suoi
+     seguaci, quando pugnò con <persName ref="#Lucifer">Lucifero</persName> in cielo, che la fattura
+     di questo disegno, né con altre armi mise in rotta l'essercito dell'avversario, che co' colori
+     di questa imagine: et ipsi vicerunt eum propter sanguinem agni. E chi di più soggiugnesse che
+     in questo disegno ebbe anche parte <persName ref="#Raphael">Rafaello</persName>, non darebbe
+     altrui da maravigliare, come di cosa incredibile et impossibile? E pure è verissimo, che
       <persName>Rafaello</persName> aiutando <persName ref="#Tobie">Tobia</persName> a cavare il
      pesce dal fiume, il cuore e 'l fiele dal pesce possente a restituir la luce et a discacciare
      gli spiriti, facendogli riscuotere le paterne entrate, con ben dotata moglie sposandolo, in
@@ -2183,68 +2141,70 @@
      della pantarbe, in mezo alle fiamme posto, arde e non si consuma. Ma qual lino si può dir
      veramente vivo più di questo, il quale in sé la vita istessa contiene? Vivo, anzi vivificante
      in guisa che dalla sua vivacità il fuoco istesso mortificato, perdendo ogni sua possanza, gli
-     cede. Parve nel secolo antico miracolo grande, ch'una <objectName>tavola in cui Demone Ateniese
-      dipinto aveva Perseo, Ercole e Meleagro</objectName>, tre volte fulminata e mai cancellata non
-     fusse, ma quanto maggior miracolo che questa tela, in cui si vede il celeste Campione ritratto,
-     assai di que' tre valorosi guerrieri più forte, percossa tre volte quasi da tre fulmini, dal
-     ferro, dal fuoco e dall'acqua, <pb n="66bis"/> non solo intiera et intatta si serbi, ma si
-     polisca et affini? Pose <persName ref="#Neron">Nerone</persName> il crudele la propria imagine,
-     formata di smisurata grandezza, negli orti Lamiani, ma quindi a poco, tocca da un fulmine, la
-     vide con gran parte degli orti cader combusta. Posto il ritratto di questo Re pietoso tra le
-     faville ardenti d'una accesa pira, non pur non incenerisce, ma a guisa del rogo di <persName
-      ref="#Moise">Mosè</persName> rimane illesa et inconsumabile dentro l'arsura. Erasi lungamente
-     affaticato un pittor goffo (favoleggia la greca poesia) in lavorando due tavole, nell'una delle
-     quali aveva <objectName>l'inondamento di Deucalione</objectName> dipinto, nell'altra
-      <objectName>l'incendio di Fetonte</objectName>. Da costui richiesto l'oracolo qual prezzo o
-     pagamento fusse a quella sua fatica premio e guiderdone conforme, rispose scherzando: «Poiché
-     l'una contiene materia di fuoco e l'altra d'acqua, l'una è degna dell'acqua, l'altra merita il
-     fuoco». Ecco, ecco <persName>Satanasso</persName>, pittore (come fu detto) di poco valore, che
-     due volte con ogni sua industria rappresenta in terra l'imagine del peccato, l'una in tempo di
-      <persName ref="#Noe">Noè</persName>, l'altra in tempo d'<persName ref="#Abraham"
-      >Abraamo</persName>: <quote xml:lang="lat">omnis quippe caro corruperat viam suam</quote>.
-     Erano queste sicome due tavole dipinte per mano diabolica, delle quali <pb n="67"/> sperava
-     egli un gran guadagno e pretendeva una ricca mercede. Et ecco che dal giusto giudicio di
-      <persName ref="#Dieu">Dio</persName> sono amendue appunto nel medesimo modo condannate, l'una
-     all'acqua, l'altra al fuoco: ecco il diluvio universale, et ecco l'incendio gomorreo, onde
-     l'una absorta, l'altra abbruciata rimangono. Pittore sciocco, che ha cercato sempre audacemente
-     di dipignere a concorrenza con <persName ref="#Dieu">Dio</persName>, alle cui pitture si vede
-     che né il furore del fuoco, che tutte le cose distrugge, né la piena dell'acque, a cui nulla
-     contrasta, può nuocere o danneggiare giamai: virtù stupenda di questa mistura di colori, con
-     lega indissolubile et incorrottibile temperati divinamente insieme! Deh, perché del tuo
-     universal diluvio, o mondo, e perché nel tempo del tuo celeste incendio, o Pentapoli, non era
-     in voi così prodigiosa pittura? Che se contro le sue miracolose tempre si dimostrano impotenti
-     l'acque et innocenti le fiamme, giovami di credere che né la corrotta terra sarebbe stata da
-     quello sommersa, né le nefande città da questo incenerite. E se l'universo tutto potrebbe sotto
-     sì fida difesa assicurarsi, or quanto più sicura può e dee tenersi la Città di <placeName
-      ref="#Turin">Torino</placeName>, custodita <pb n="67bis"/> da una guardia tanto potente? Se
-     l'arco colorato dell'iride, messo fra i nuvoli del cielo, fu argomento della pace di <persName
-      ref="#Dieu">Dio</persName> con gli uomini, perché questo velo sì ben dipinto, posto fra le
-     montagne della terra, non dee darci inditio dell'amistà di <persName ref="#Dieu">Dio</persName>
-     co' cittadini di <placeName ref="#Turin">Torino</placeName>? Se gli usci segnati del sangue
-     dell'Agnello erano essenti dal furor dell'angiolo esterminatore, perché le porte di <placeName
-      ref="#Turin">Torino</placeName>, che chiudono in sé la spoglia insanguinata di quella vittima
-     salutare, non saranno franche di qualsivoglia flagello? Se la fascia rossa pendente dalla
-     finestra di Raab fu contrasegno dello scampo della sua casa nell'eccidio di Gerico, perché
-     questa benda intinta nel sangue di <persName ref="#Jesus">Cristo</persName> non affiderà
-      <placeName ref="#Turin">Torino</placeName> dall'ira del Cielo sdegnato? Se la porpora
-     dottorale, opposta da Ulpiano Giurisconsulto contro l'impeto de' soldati armati che l'Imperador
-     Severo perseguitavano, ripresse la loro audacia e gli fece per reverenza dalla loro temerità
-     desistere, perché questo purpureo manto, tinto di quel santo colore, di cui pur dianzi
-     ragionai, non potrà difendere con la sua auttorità <placeName ref="#Turin">Torino</placeName>
-     dall'armi di tutti coloro che vorranno infestarla? Se il simulacro di <persName ref="#Pallas"
-      >Pallade</persName> riposto nel <pb n="68"/> tempio d'Ilio era schermo alle rocche di
-      <placeName ref="#Troie">Troia</placeName> contro le spade de' Greci, perché questo ritratto
-     del vero <persName ref="#Dieu">Iddio</persName> spiegato nella piazza di <placeName
-      ref="#Turin">Torino</placeName> non gli sarà riparo contro le schiere de' Barbari? Se
-     l'imagine della Madre, traslata da <persName>Aladino</persName> nella profana meschita, era
-     custodia fatale alle mura di Gerusalemme, perché l'imagine del Figliuolo, trasportata nella
-      <objectName ref="#DuomoTurin">Chiesa sacra di <persName>Carlo</persName></objectName>, non
-     guarderà <placeName ref="#Turin">Torino</placeName> da tutti gli infortunii e da tutte
-     l'insidie nemiche? Se lo scudo in cui era scolpito <persName ref="#Jupiter">Giove</persName>,
-     creduto celeste da <persName ref="#NumaPompilius">Numa Pompilio</persName>, avea virtù di
-     francheggiar <placeName ref="#Rome">Roma</placeName> da qualsivoglia sciagura, perché questo
-     arnese, fabricato dal Fabricator del Cielo e dipinto del suo verace ritratto, non avrà possanza
-     di schermir <placeName ref="#Turin">Torino</placeName> da qualunque avversità? Se <persName
+     cede. Parve nel secolo antico miracolo grande, ch'una tavola in cui <persName>Demone
+      Ateniese</persName> dipinto aveva <persName ref="#Persee">Perseo</persName>, <persName
+      ref="#Hercule">Ercole</persName> e <persName ref="#Meleagre">Meleagro</persName>, tre volte
+     fulminata e mai cancellata non fusse, ma quanto maggior miracolo che questa tela, in cui si
+     vede il celeste Campione ritratto, assai di que' tre valorosi guerrieri più forte, percossa tre
+     volte quasi da tre fulmini, dal ferro, dal fuoco e dall'acqua, <pb n="66bis"/> non solo intiera
+     et intatta si serbi, ma si polisca et affini? Pose <persName ref="#Neron">Nerone</persName> il
+     crudele la propria imagine, formata di smisurata grandezza, negli orti Lamiani, ma quindi a
+     poco, tocca da un fulmine, la vide con gran parte degli orti cader combusta. Posto il ritratto
+     di questo Re pietoso tra le faville ardenti d'una accesa pira, non pur non incenerisce, ma a
+     guisa del rogo di <persName ref="#Moise">Mosè</persName> rimane illesa et inconsumabile dentro
+     l'arsura. Erasi lungamente affaticato un pittor goffo (favoleggia la greca poesia) in lavorando
+     due tavole, nell'una delle quali aveva <objectName>l'inondamento di Deucalione</objectName>
+     dipinto, nell'altra <objectName>l'incendio di Fetonte</objectName>. Da costui richiesto
+     l'oracolo qual prezzo o pagamento fusse a quella sua fatica premio e guiderdone conforme,
+     rispose scherzando: «Poiché l'una contiene materia di fuoco e l'altra d'acqua, l'una è degna
+     dell'acqua, l'altra merita il fuoco». Ecco, ecco <persName>Satanasso</persName>, pittore (come
+     fu detto) di poco valore, che due volte con ogni sua industria rappresenta in terra l'imagine
+     del peccato, l'una in tempo di <persName ref="#Noe">Noè</persName>, l'altra in tempo
+      d'<persName ref="#Abraham">Abraamo</persName>: <quote xml:lang="lat">omnis quippe caro
+      corruperat viam suam</quote>. Erano queste sicome due tavole dipinte per mano diabolica, delle
+     quali <pb n="67"/> sperava egli un gran guadagno e pretendeva una ricca mercede. Et ecco che
+     dal giusto giudicio di <persName ref="#Dieu">Dio</persName> sono amendue appunto nel medesimo
+     modo condannate, l'una all'acqua, l'altra al fuoco: ecco il diluvio universale, et ecco
+     l'incendio gomorreo, onde l'una absorta, l'altra abbruciata rimangono. Pittore sciocco, che ha
+     cercato sempre audacemente di dipignere a concorrenza con <persName ref="#Dieu">Dio</persName>,
+     alle cui pitture si vede che né il furore del fuoco, che tutte le cose distrugge, né la piena
+     dell'acque, a cui nulla contrasta, può nuocere o danneggiare giamai: virtù stupenda di questa
+     mistura di colori, con lega indissolubile et incorrottibile temperati divinamente insieme! Deh,
+     perché del tuo universal diluvio, o mondo, e perché nel tempo del tuo celeste incendio, o
+     Pentapoli, non era in voi così prodigiosa pittura? Che se contro le sue miracolose tempre si
+     dimostrano impotenti l'acque et innocenti le fiamme, giovami di credere che né la corrotta
+     terra sarebbe stata da quello sommersa, né le nefande città da questo incenerite. E se
+     l'universo tutto potrebbe sotto sì fida difesa assicurarsi, or quanto più sicura può e dee
+     tenersi la Città di <placeName ref="#Turin">Torino</placeName>, custodita <pb n="67bis"/> da
+     una guardia tanto potente? Se l'arco colorato dell'iride, messo fra i nuvoli del cielo, fu
+     argomento della pace di <persName ref="#Dieu">Dio</persName> con gli uomini, perché questo velo
+     sì ben dipinto, posto fra le montagne della terra, non dee darci inditio dell'amistà di
+      <persName ref="#Dieu">Dio</persName> co' cittadini di <placeName ref="#Turin"
+      >Torino</placeName>? Se gli usci segnati del sangue dell'Agnello erano essenti dal furor
+     dell'angiolo esterminatore, perché le porte di <placeName ref="#Turin">Torino</placeName>, che
+     chiudono in sé la spoglia insanguinata di quella vittima salutare, non saranno franche di
+     qualsivoglia flagello? Se la fascia rossa pendente dalla finestra di Raab fu contrasegno dello
+     scampo della sua casa nell'eccidio di Gerico, perché questa benda intinta nel sangue di
+      <persName ref="#Jesus">Cristo</persName> non affiderà <placeName ref="#Turin"
+      >Torino</placeName> dall'ira del Cielo sdegnato? Se la porpora dottorale, opposta da Ulpiano
+     Giurisconsulto contro l'impeto de' soldati armati che l'Imperador Severo perseguitavano,
+     ripresse la loro audacia e gli fece per reverenza dalla loro temerità desistere, perché questo
+     purpureo manto, tinto di quel santo colore, di cui pur dianzi ragionai, non potrà difendere con
+     la sua auttorità <placeName ref="#Turin">Torino</placeName> dall'armi di tutti coloro che
+     vorranno infestarla? Se il simulacro di <persName ref="#Pallas">Pallade</persName> riposto nel
+      <pb n="68"/> tempio d'Ilio era schermo alle rocche di <placeName ref="#Troie"
+      >Troia</placeName> contro le spade de' Greci, perché questo ritratto del vero <persName
+      ref="#Dieu">Iddio</persName> spiegato nella piazza di <placeName ref="#Turin"
+      >Torino</placeName> non gli sarà riparo contro le schiere de' Barbari? Se l'imagine della
+     Madre, traslata da <persName>Aladino</persName> nella profana meschita, era custodia fatale
+     alle mura di Gerusalemme, perché l'imagine del Figliuolo, trasportata nella <objectName
+      ref="#DuomoTurin">Chiesa sacra di <persName>Carlo</persName></objectName>, non guarderà
+      <placeName ref="#Turin">Torino</placeName> da tutti gli infortunii e da tutte l'insidie
+     nemiche? Se lo scudo in cui era scolpito <persName ref="#Jupiter">Giove</persName>, creduto
+     celeste da <persName ref="#NumaPompilius">Numa Pompilio</persName>, avea virtù di francheggiar
+      <placeName ref="#Rome">Roma</placeName> da qualsivoglia sciagura, perché questo arnese,
+     fabricato dal Fabricator del Cielo e dipinto del suo verace ritratto, non avrà possanza di
+     schermir <placeName ref="#Turin">Torino</placeName> da qualunque avversità? Se <persName
       ref="#DemetriosAlopece">Demetrio</persName> non volse <persName>Rodo</persName> mandare a
      fuoco, potendo distruggerla e conquistarla, per non ardere il <persName ref="#Bacchus"
       >Bacco</persName> di <persName ref="#Protogene">Protogene</persName>, né gli rincrebbe,
@@ -2506,35 +2466,35 @@
      cortinaggio e la ricca tapezzaria del letto del nostro Re, a questo amorosamente ci chiama,
      invitandoci non solo in esso a coricarci, ma a contemplare ancora la sua pittura: intextui
      funibus lectulum meum, strani tapetibus pictis ex Aegypto. So che <persName>Alchida
-      Rodico</persName> s'innamorò libidinosamente della <objectName>statua di Venere</objectName>,
-     opera di <persName ref="#Praxitele">Prassitele</persName>; ho letto che <persName
-      ref="#Pygmalion">Pigmalione</persName> della sua s'invaghì sì follemente, che con esso lei
-     ragionava, l'abbracciava e con affettuosi gemiti sospirava; sovvienmi che
+      Rodico</persName> s'innamorò libidinosamente della <objectName ref="#PraxiteleAphroditeCnide"
+      >statua di Venere</objectName>, opera di <persName ref="#Praxitele">Prassitele</persName>; ho
+     letto che <persName ref="#Pygmalion">Pigmalione</persName> della sua s'invaghì sì follemente,
+     che con esso lei ragionava, l'abbracciava e con affettuosi gemiti sospirava; sovvienmi che
       <persName>Giunio</persName>, avendo veduto un simulacro delle Muse ignude, si accese per esso
-     di strano ardore; mi ricordo che <persName>Pontio</persName> si compiacque in guisa
-      d'<persName>Atalanta</persName> e d'<persName ref="#Helene">Elena</persName> fatte già per
-     mano di <persName>Cleofanto</persName>, che se ne struggeva di disiderio. Trovo scritto
-     finalmente amante essersi ritrovato tanto focoso, che morì baciando della sua cara amata il
-     ritratto. Ma perché quell'affetto e quell'amore, che vanamente altri spese in imagini morte et
-     insensate, non impieghiamo noi in questa imagine viva e vitale, di essa santamente
-     innamorandoci, stringendola con le braccia del cuore, riscaldandola co' <pb n="78"/> baci
-     dell'anima e lavandola col bagno delle lagrime nostre? Qui a voi mi rivolgo (Serenissimo Sire)
-     e dico che s'a ciascun altro conviene la divotione e la riverenza verso la pittura mirabile
-     rappresentataci da questo sacro asciugatoio, in voi sopra tutti esser dee verso quella, quanto
-     è maggiore l'obligatione, maggiore la veneratione. Soverchio parmi il ricordarvi quanto
-     segnalato privilegio sia della vostra Serenissima Casa l'esser degnata a possedere così notabil
-     reliquia, adorata dagli uomini, invidiata dagli angioli, segno e pegno singolare dello
+     di strano ardore; mi ricordo che <persName>Pontio</persName> si compiacque in guisa d'<persName
+      ref="#Atalante">Atalanta</persName> e d'<persName ref="#Helene">Elena</persName> fatte già per
+     mano di <persName ref="#Cleophante">Cleofanto</persName>, che se ne struggeva di disiderio.
+     Trovo scritto finalmente amante essersi ritrovato tanto focoso, che morì baciando della sua
+     cara amata il ritratto. Ma perché quell'affetto e quell'amore, che vanamente altri spese in
+     imagini morte et insensate, non impieghiamo noi in questa imagine viva e vitale, di essa
+     santamente innamorandoci, stringendola con le braccia del cuore, riscaldandola co' <pb n="78"/>
+     baci dell'anima e lavandola col bagno delle lagrime nostre? Qui a voi mi rivolgo (Serenissimo
+     Sire) e dico che s'a ciascun altro conviene la divotione e la riverenza verso la pittura
+     mirabile rappresentataci da questo sacro asciugatoio, in voi sopra tutti esser dee verso
+     quella, quanto è maggiore l'obligatione, maggiore la veneratione. Soverchio parmi il ricordarvi
+     quanto segnalato privilegio sia della vostra Serenissima Casa l'esser degnata a possedere così
+     notabil reliquia, adorata dagli uomini, invidiata dagli angioli, segno e pegno singolare dello
      smisurato amore di <persName ref="#Dieu">Dio</persName>. Piacemi solo l'incomparabil valore di
      essa recarvi a mente, maggiore di qualsivoglia ricchezza, e tale che la mano larghissima dello
      stesso donatore par che non abbia voluto esservene senza qualche conditione liberale. Pitture
-     ebbe l'antica <placeName ref="#Grece">Grecia</placeName> tanto pregiate, che del re
-      <persName>Attalo</persName> e del re <persName ref="#Candaule">Candaule</persName> si legge
-     l'uno aver compra una tavola d'<persName ref="#Aristide">Aristide</persName> cento talenti,
-     l'altro con altrettanto oro averne pagata una di <persName ref="#Bularque">Bularco
+     ebbe l'antica <placeName ref="#Grece">Grecia</placeName> tanto pregiate, che del re <persName
+      ref="#AttaleII">Attalo</persName> e del re <persName ref="#Candaule">Candaule</persName> si
+     legge l'uno aver compra una tavola d'<persName ref="#Aristide">Aristide</persName> cento
+     talenti, l'altro con altrettanto oro averne pagata una di <persName ref="#Bularque">Bularco
       Taccio</persName>. <objectName>la Medea</objectName> di <persName ref="#Timomaque"
       >Timomaco</persName>, apprezzata da <persName ref="#JulesCesar">Cesare</persName> dittatore
      ottanta talenti, e gli <objectName>Argonauti di Ciclia</objectName>, pagati da
-      <persName>Ortensio</persName> oratore poco men che <pb n="78bis"/> due volte tanto. Ma che
+      <persName>Ortensio oratore</persName> poco men che <pb n="78bis"/> due volte tanto. Ma che
      hanno da far quelle, prezzolate e venali d'artefici mercenari, con questa del Pittor divino, il
      cui pregio tutti i tesori eccede? In quo sunt omnes thesauri scientiae et sapientiae Dei. O
      dove metallo tanto fino si ritrovava nelle vene della terra, che pareggiasse pur una stilla di
@@ -2559,32 +2519,32 @@
      il proprio stame vitale, e filando venne a comporre una tela, quella tela in cui volse poi
      lasciar dipinta l'imagine di se stesso. Sindonem fecit et vendidit. La vendita di questa sì ben
      figurata tela fu fatta ad un mercatante, che tale è il sentimento della voce ‘cananeo'; e chi
-     fu questo mercatante, se non il <persName>Serenissimo di Savoia</persName>, il quale da lui
-     comprolla volontieri, dandogli in vece di pagamento due gioie, le più pretiose che fussero nel
-     dovitioso gemmaio della sua real famiglia? Umberto et Amedeo, spiriti serenissimi, voi fuste le
-     gioie con cui questa nobil merce fu compra, tal <pb n="79bis"/> che quel ch'era proprio della
-     terra fu trasportato nel Cielo, e quel ch'era degno del Cielo fu conceduto alla terra. Ben si
-     verifica in questo trafico la profetia d'<persName ref="#Isaie">Isaia</persName>: cuius
-     negotiatores Principes, et erunt negotiatio eius et merces eius santificatae Domino.
-     Avventurosissimo cambio: due anime beate per una Sindone santa; santissima usura: per una
-     Sindone santa due anime beate; gentilissima mercatantia: dove <persName ref="#Jesus"
-      >Cristo</persName> a guisa di quel gioielliere evangelico, qui una inventa pretiosa margarita,
-     vadit et vendit cuncta quae habet et emit eam, ritrovatene non una sola, ma due, di tutto ciò
-     ch'egli aveva di meglio fece con vantaggioso guadagno possessori gli eredi del vostro glorioso
-     legnaggio, che perciò la medesima Scrittura soggiugne: et cingulum tradidit Chananeo. Cinto
-      d'<placeName ref="#Italie">Italia</placeName> son queste Alpi insuperabili! cinto di
-      <placeName ref="#Turin">Torino</placeName> son queste mura inespugnabili! ma cinto più sicuro
-     e più forte di tutto il vostro Stato (Serenissimo Sire) è questa santissima Sindone, bastione
-     che da tutti i nemici vi guarda e da ogni insidia vi difende. Spianinsi i forti, abbattansi le
-     rocche, sbadisi il vallo d'Augusta, rovini il Monviso, precipiti il Monsanese, atterrisi tutto
-      <pb n="80"/> quell'antemurale di rupi e di balze che, per lunghissima linea incatenate, a
-     questo delitioso paese fanno corona, purché solo il vostro celeste propugnacolo rimanga in
-     piedi. Ch'alla fine non è altezza che non si superi, asprezza che non si domi, fortezza che non
-     s'espugni. Anche le pendici sassose e impenetrabili dell'Ato furono dall'armi Persiane
-     sviscerate et aperte; anche le porte inospiti degli Arimaspi e le foci gelate del Caucaso
-     forate e rotte dalle Macedoniche; anche su per l'alpestri e straripevoli cime de' Pirenei
-     volarono le Romane; anche per entro l'angusta bocca dell'Oceano e fra i due rigidi promontori
-     d'Abila e Calpe trappassarono le Spagnuole; anche per l'eminenza delle stesse Alpi
+     fu questo mercatante, se non il Serenissimo di Savoia, il quale da lui comprolla volontieri,
+     dandogli in vece di pagamento due gioie, le più pretiose che fussero nel dovitioso gemmaio
+     della sua real famiglia? Umberto et Amedeo, spiriti serenissimi, voi fuste le gioie con cui
+     questa nobil merce fu compra, tal <pb n="79bis"/> che quel ch'era proprio della terra fu
+     trasportato nel Cielo, e quel ch'era degno del Cielo fu conceduto alla terra. Ben si verifica
+     in questo trafico la profetia d'<persName ref="#Isaie">Isaia</persName>: <quote xml:lang="lat"
+      >cuius negotiatores Principes, et erunt negotiatio eius et merces eius santificatae
+      Domino.</quote> Avventurosissimo cambio: due anime beate per una Sindone santa; santissima
+     usura: per una Sindone santa due anime beate; gentilissima mercatantia: dove <persName
+      ref="#Jesus">Cristo</persName> a guisa di quel gioielliere evangelico, qui una inventa
+     pretiosa margarita, vadit et vendit cuncta quae habet et emit eam, ritrovatene non una sola, ma
+     due, di tutto ciò ch'egli aveva di meglio fece con vantaggioso guadagno possessori gli eredi
+     del vostro glorioso legnaggio, che perciò la medesima Scrittura soggiugne: et cingulum tradidit
+     Chananeo. Cinto d'<placeName ref="#Italie">Italia</placeName> son queste Alpi insuperabili!
+     cinto di <placeName ref="#Turin">Torino</placeName> son queste mura inespugnabili! ma cinto più
+     sicuro e più forte di tutto il vostro Stato (Serenissimo Sire) è questa santissima Sindone,
+     bastione che da tutti i nemici vi guarda e da ogni insidia vi difende. Spianinsi i forti,
+     abbattansi le rocche, sbadisi il vallo d'Augusta, rovini il Monviso, precipiti il Monsanese,
+     atterrisi tutto <pb n="80"/> quell'antemurale di rupi e di balze che, per lunghissima linea
+     incatenate, a questo delitioso paese fanno corona, purché solo il vostro celeste propugnacolo
+     rimanga in piedi. Ch'alla fine non è altezza che non si superi, asprezza che non si domi,
+     fortezza che non s'espugni. Anche le pendici sassose e impenetrabili dell'Ato furono dall'armi
+     Persiane sviscerate et aperte; anche le porte inospiti degli Arimaspi e le foci gelate del
+     Caucaso forate e rotte dalle Macedoniche; anche su per l'alpestri e straripevoli cime de'
+     Pirenei volarono le Romane; anche per entro l'angusta bocca dell'Oceano e fra i due rigidi
+     promontori d'Abila e Calpe trappassarono le Spagnuole; anche per l'eminenza delle stesse Alpi
      inaccessibili e per lo discosceso giogo dell'italico Appennino discesero le Cartaginesi; né
      fece insomma giamai la natura luogo alcuno per sito tanto sicuro, né l'arte lo tenne giamai per
      munitione così ben difeso, dove l'umana audacia e la forza il varco non s'aprisse. Ma ceda,
@@ -2598,52 +2558,58 @@
      questo non solo scompigliate le falangi degli uomini, ma spaventati gli esserciti de' diavoli.
      Questo, questo è il cinto dato al Cananeo, profetato etiandio prima che da <persName
       ref="#Salomon">Salomone</persName>, da <persName ref="#Isaie">Isaia</persName> quando disse:
-     Induam illum tunica tua, et cingolo tuo confortabo eum, quasi che la tunica ch'è la Sindone sia
-     con la cintura una cosa medesima, fortificatrice di questo stato. O casa di Savoia più d'ogni
-     altra diletta al Cielo, casa chiara et illustre per l'invitto valore, ma più per l'incorrotta
-     religione e per la pietosa custodia di questa <objectName>Sindone</objectName>.
-      <persName>Giacob</persName> rimase erede della vesta insanguinata del suo figliuolo creduto
-     morto, <persName>Carlo</persName> rimane erede della spoglia del figliuol di Dio crocifisso;
-      <persName>Eliseo</persName> ottenne dal suo maestro <pb n="81"/> in su l'estrema dipartita il
-     mantello che gli copriva le spalle, <persName>Carlo</persName> ottiene dal suo Signore il panno
-     che gli fasciò le carni; <persName>Veronica</persName> ebbe uno <objectName>schizzo del volto
-      di <persName ref="#Jesus">Cristo</persName></objectName> abbozzato col sudore in un
-     moccicchino, <persName>Carlo</persName> ha una figura perfetta di tutto il corpo in un
-     lenzuolo; <persName>Pietro</persName> si vide spiegar dal Cielo una cortina piena d'animali
-     velenosi, <persName>Carlo</persName> si vede spiegare in terra un gonfalone, dove è il vero
-     ritratto dell'innocente Agnello. O favore sopra ogni favore! o favorito sopra ogni altro
-     favorito! <persName>Mosè</persName> fu degno di parlare a <persName ref="#Dieu">Dio</persName>
-     da faccia a faccia, <persName>Stefano</persName> di mirar <persName>Gesù</persName> stante alla
-     destra del Padre, <persName>Paolo</persName> di spiare i divini secreti, rapito al terzo Cielo,
-      <persName>Giov. Battista</persName> d'alzar la mano sopra la testa di <persName ref="#Jesus"
-      >Cristo</persName> nel lavacro del Giordano. <persName ref="#LazareDeBethanie"
-      >Lazaro</persName> d'esser da lui lagrimato dopo la morte. <persName>Giovanni</persName>
-     Evangelista d'appoggiargli il capo in grembo nella cena estrema, Pietro di commettergli i piedi
-     tra le mani nell'ultimo bagno, <persName ref="#MarieMadeleine">Madalena</persName> d'ungergli,
-     rasciugargli e baciargli le piante nel pasto di <persName>Simone</persName>,
-      <persName>Tomaso</persName> di ficcargli il dito nel fianco aperto,
-      <persName>Giuseppe</persName> di <pb n="81bis"/> toccarlo e strignerlo con paterne tenerezze,
-     l'altro Giuseppe di trattare il suo corpo morto involgendolo nel drappo di cui parliamo. Più.
-     La <persName ref="#Marie">Vergine</persName> istessa, e vivo e morto, di legarlo tra le fascie,
-     di lusingarlo co' baci, di raccorlo nel seno, di recarlosi in braccio. Favori tutti (non si può
-     negare) grandissimi. Ma a <persName>Carlo</persName>, privilegiato con dismisura et eccesso di
-     partialità, vengono quasi in un fascio con la santissima <persName>Sindone</persName> conceduti
-     tutti questi favori insieme. Onde siccome ella è un sommario di tutte le maraviglie di
-      <persName ref="#Dieu">Dio</persName>, così è anche un epilogo di tutti i favori di <persName
-      ref="#Dieu">Dio</persName>. Volse l'infinita bontà del Salvatore a diverse città et a diversi
-     prencipi diversi stromenti distribuire della sua dolcissima passione. A <placeName ref="#Milan"
-      >Milano</placeName> lasciò un chiodo, a <placeName ref="#Naples">Napoli</placeName> diede una
-     spina, a <placeName ref="#Paris">Parigi</placeName> tutta la corona, a <placeName ref="#Rome"
-      >Roma</placeName> donò la lancia, a <placeName ref="#Mantoue">Mantova</placeName> un poco del
-     sangue, a <placeName ref="#Jerusalem">Gerusalemme</placeName> parte della croce, ma tutto
-     quello che compartito era distintamente a molti, è stato prodigamente diffuso insieme ad uno. A
-     voi (Serenissimo Sire) si è compiaciuto di donar cosa la qual tutto il contenuto di que' tanti
-     misteri raccoglie in un ristretto compendio, poiché chiunque mira questo sacratissimo contesto,
-     espressamente vi vede e le cicatrici <pb n="82"/> de' chiodi, e le punture delle spine, e la
-     fessura della lancia, e la scaturigine del sangue e la rigidezza della croce. Per la qual cosa
-     vi potete divotamente vantare d'aver quasi impoverito il tesoro del Cielo, et in certo modo
-     spogliato <persName ref="#Dieu">Iddio</persName> di tutta la sua maggior ricchezza. Leggesi di
-      <persName ref="#ScipionAfricain">Scipione Africano</persName>, che militando in <placeName
+      <quote xml:lang="lat">Induam illum tunica tua, et cingolo tuo confortabo eum</quote>, quasi
+     che la tunica ch'è la <objectName ref="#SuaireTurin">Sindone</objectName> sia con la cintura
+     una cosa medesima, fortificatrice di questo stato. O casa di Savoia più d'ogni altra diletta al
+     Cielo, casa chiara et illustre per l'invitto valore, ma più per l'incorrotta religione e per la
+     pietosa custodia di questa <objectName ref="#SuaireTurin">Sindone</objectName>. <persName
+      ref="#Jacob">Giacob</persName> rimase erede della vesta insanguinata del suo figliuolo creduto
+     morto, <persName ref="#CharlesEmmanuelIer">Carlo</persName> rimane erede della spoglia del
+     figliuol di Dio crocifisso; <persName>Eliseo</persName> ottenne dal suo maestro <pb n="81"/> in
+     su l'estrema dipartita il mantello che gli copriva le spalle, <persName
+      ref="#CharlesEmmanuelIer">Carlo</persName> ottiene dal suo Signore il panno che gli fasciò le
+     carni; <persName ref="#SainteVeronique">Veronica</persName> ebbe uno <objectName>schizzo del
+      volto di <persName ref="#Jesus">Cristo</persName></objectName> abbozzato col sudore in un
+     moccicchino, <persName ref="#CharlesEmmanuelIer">Carlo</persName> ha una figura perfetta di
+     tutto il corpo in un lenzuolo; <persName ref="#SaintPierre">Pietro</persName> si vide spiegar
+     dal Cielo una cortina piena d'animali velenosi, <persName ref="#CharlesEmmanuelIer"
+      >Carlo</persName> si vede spiegare in terra un gonfalone, dove è il vero ritratto
+     dell'innocente Agnello. O favore sopra ogni favore! o favorito sopra ogni altro favorito!
+      <persName ref="#Moise">Mosè</persName> fu degno di parlare a <persName ref="#Dieu"
+      >Dio</persName> da faccia a faccia, <persName ref="#SaintEtienne">Stefano</persName> di mirar
+      <persName ref="#Jesus">Gesù</persName> stante alla destra del Padre, <persName
+      ref="#SaintPaul">Paolo</persName> di spiare i divini secreti, rapito al terzo Cielo, <persName
+      ref="#SaintJeanBaptiste">Giov. Battista</persName> d'alzar la mano sopra la testa di <persName
+      ref="#Jesus">Cristo</persName> nel lavacro del Giordano. <persName ref="#LazareDeBethanie"
+      >Lazaro</persName> d'esser da lui lagrimato dopo la morte. <persName ref="#SaintJean"
+      >Giovanni</persName> Evangelista d'appoggiargli il capo in grembo nella cena estrema,
+      <persName ref="#SaintPierre">Pietro</persName> di commettergli i piedi tra le mani nell'ultimo
+     bagno, <persName ref="#MarieMadeleine">Madalena</persName> d'ungergli, rasciugargli e baciargli
+     le piante nel pasto di Simone, <persName ref="#SaintThomas">Tomaso</persName> di ficcargli il
+     dito nel fianco aperto, <persName ref="#Joseph">Giuseppe</persName> di <pb n="81bis"/> toccarlo
+     e strignerlo con paterne tenerezze, l'altro <persName ref="#JosephDArimathie"/> di trattare il
+     suo corpo morto involgendolo nel drappo di cui parliamo. Più. La <persName ref="#Marie"
+      >Vergine</persName> istessa, e vivo e morto, di legarlo tra le fascie, di lusingarlo co' baci,
+     di raccorlo nel seno, di recarlosi in braccio. Favori tutti (non si può negare) grandissimi. Ma
+     a <persName ref="#CharlesEmmanuelIer">Carlo</persName>, privilegiato con dismisura et eccesso
+     di partialità, vengono quasi in un fascio con la santissima <objectName ref="#SuaireTurin"
+      >Sindone</objectName> conceduti tutti questi favori insieme. Onde siccome ella è un sommario
+     di tutte le maraviglie di <persName ref="#Dieu">Dio</persName>, così è anche un epilogo di
+     tutti i favori di <persName ref="#Dieu">Dio</persName>. Volse l'infinita bontà del Salvatore a
+     diverse città et a diversi prencipi diversi stromenti distribuire della sua dolcissima
+     passione. A <placeName ref="#Milan">Milano</placeName> lasciò un chiodo, a <placeName
+      ref="#Naples">Napoli</placeName> diede una spina, a <placeName ref="#Paris">Parigi</placeName>
+     tutta la corona, a <placeName ref="#Rome">Roma</placeName> donò la lancia, a <placeName
+      ref="#Mantoue">Mantova</placeName> un poco del sangue, a <placeName ref="#Jerusalem"
+      >Gerusalemme</placeName> parte della croce, ma tutto quello che compartito era distintamente a
+     molti, è stato prodigamente diffuso insieme ad uno. A voi (Serenissimo Sire) si è compiaciuto
+     di donar cosa la qual tutto il contenuto di que' tanti misteri raccoglie in un ristretto
+     compendio, poiché chiunque mira questo sacratissimo contesto, espressamente vi vede e le
+     cicatrici <pb n="82"/> de' chiodi, e le punture delle spine, e la fessura della lancia, e la
+     scaturigine del sangue e la rigidezza della croce. Per la qual cosa vi potete divotamente
+     vantare d'aver quasi impoverito il tesoro del Cielo, et in certo modo spogliato <persName
+      ref="#Dieu">Iddio</persName> di tutta la sua maggior ricchezza. Leggesi di <persName
+      ref="#ScipionAfricain">Scipione Africano</persName>, che militando in <placeName
       ref="#Espagne">Ispagna</placeName>, dopo l'avere sconfitto Indibile, duce di Cartaginesi, gli
      fu condotto avante un garzone prigioniero d'aspetto signorile e di legnaggio reale, che, per
      essergli nella battaglia caduto sotto il destriero, era stato preso da' Romani, et egli, mosso
@@ -2679,7 +2645,7 @@
      rispetto cotal dono, sicome debito tributo, convenire, che in tante pericolose imprese vi siete
      fatto conoscere non men coraggioso cavaliere combattendo, che provido prencipe comandando?
      Volse oltracciò farvi donativo dell'annello, antica insegna di nobiltà: et ecco
-      l'<objectName>annello di Mauritio santo</objectName>, il quale ottenuto da'Bernesi insieme con
+      l'<objectName>annello di Maurizio santo</objectName>, il quale ottenuto da'Bernesi insieme con
      la spada e con l'altre reliquie di quel Martire, con arte non meno di cristiana pietà che di
      guerriero valore <pb n="83bis"/> appo voi si conserva. Gemma di pregio assai maggiore che
      quelle del re d'Epiro e del tiranno di Samo, perciò che se nell'una, non finto con intaglio, ma
@@ -2706,105 +2672,112 @@
      che, ritornato a <placeName ref="#Rome">Roma</placeName>, volse addobbato di esso comparire nel
      publico trionfo, gloriandosi più d'avere intorno un così fatto ornamento, che di quante altre
      pompe facevano superbo l'apparato di quella festiva solennità. Pregiatevi molto più Voi, o
-     Carlo, fatto possessore di quel ricchissimo manto che vestì la carne del Monarca dell'universo.
-     Né fasto o splendore alcuno delle vostre prospere fortune vi faccia tanto andare altiero,
-     quanto la vesta di colui che non d'un re indiano o d'un persiano, ma del diavolo e della morte
-     fu vincitore. <pb n="84bis"/> Simili favori appunto leggiamo
-     ch'<persName>Alessandro</persName>, figliuolo del <persName>re Antioco </persName>, facesse a
-      <persName>Gionata</persName>, pontefice de' Giudei, il quale aveva rotto in campo
-      <persName>Apollonio</persName>, capitano di <persName ref="#DemetriosAlopece"
-      >Demetrio</persName>: Misit ei epistulam, purpuram et coronam auream. Et ecco gli onori e le
+      <persName ref="#CharlesEmmanuelIer">Carlo</persName>, fatto possessore di quel ricchissimo
+     manto che vestì la carne del Monarca dell'universo. Né fasto o splendore alcuno delle vostre
+     prospere fortune vi faccia tanto andare altiero, quanto la vesta di colui che non d'un re
+     indiano o d'un persiano, ma del diavolo e della morte fu vincitore. <pb n="84bis"/> Simili
+     favori appunto leggiamo ch'<persName>Alessandro</persName>, figliuolo del <persName>re Antioco
+     </persName>, facesse a <persName ref="#Jonathan">Gionata</persName>, pontefice de' Giudei, il
+     quale aveva rotto in campo <persName>Apollonio</persName>, capitano di Demetrio: <quote
+      xml:lang="lat">Misit ei epistulam, purpuram et coronam auream</quote>. Et ecco gli onori e le
      prerogative da voi ricevute per la mano del gran donatore d'ogni bene. La corona reale: eccovi
      un regno grande, antico, unito, forte, armato, ricco e benevolo. L'epistola: eccovi i caratteri
      intagliati intorno alla vostra medaglia, lettera divina, ambasciata angelica: Ave gratia plena.
-     La porpora: non vel diss'io che la Sindone di <persName ref="#Jesus">Cristo</persName> è il suo
-     manto purpureo? Udite ciò ch'egli dice in uno de' suoi dolci lamenti colà nel libro de'
-     Cantici: Tulerunt mihi pallium meum custodes murorum. Pur come voglia dire:
-      <persName>Giuseppe</persName> lasciò il mantello alla <persName>moglie di Putifar</persName>,
-      <persName>Giovanni</persName> abbandonò il lenzuolo in mano de' satelliti,
-      <persName>Martino</persName> partì col mendico la propria vesta, a me è stata tolta la più
-     cara spoglia che m'avess'io e la mi hanno tolta i custodi di queste mura d'<placeName
-      ref="#Italie">Italia</placeName>, che posseggono il serraglio dell'Alpi e volgono le chiavi
-     delle porte Piamontesi. Che fra <persName ref="#David">David</persName> e
-      <persName>Gionata</persName>
+     La porpora: non vel diss'io che la <objectName ref="#SuaireTurin">Sindone</objectName> di
+      <persName ref="#Jesus">Cristo</persName> è il suo manto purpureo? Udite ciò ch'egli dice in
+     uno de' suoi dolci lamenti colà nel libro de' Cantici: <quote xml:lang="lat">Tulerunt mihi
+      pallium meum custodes murorum</quote>. Pur come voglia dire: <persName>Giuseppe</persName>
+     lasciò il mantello alla <persName>moglie di Putifar</persName>, <persName ref="#SaintJean"
+      >Giovanni</persName> abbandonò il lenzuolo in mano de' satelliti, <persName ref="#SaintMartin"
+      >Martino</persName> partì col mendico la propria vesta, a me è stata tolta la più cara spoglia
+     che m'avess'io e la mi hanno tolta i custodi di queste mura d'<placeName ref="#Italie"
+      >Italia</placeName>, che posseggono il serraglio dell'Alpi e volgono le chiavi delle porte
+     Piamontesi. Che fra <persName ref="#David">David</persName> e <persName ref="#Jonathan"
+      >Gionata</persName>
      <pb n="85"/> passasse intrinsico et isviscerato amore chiara fede ne rende la Scrittura:
      diligebat eum quasi animam suam. Ma qual per vostra fe' fu l'origine principale di sì cordiale
-     amore? Una sola cagione se n'assegna: nam expoliavit se <persName>Jonatas</persName> tunica qua
-     erat indutus et dedit eam <persName ref="#David">David</persName> et omnia vestimenta sua dedit
-     ei, usque ad gladium et arcum et usque ad balteum. Né maggiore o più vigoroso argomento so
-     trovar io a provare che voi (Serenissimo Sire) siate singolarmente da <persName ref="#Dieu"
-      >Dio</persName> amato, se non il vedere ch'egli si è spogliato di quel panno istesso che lo
-     coverse, e ve n'ha fatto libero dono. Et (ciò che più è da notare) insieme col panno vi ha
-     anche donato l'arco, la spada e lo scudo, poiché il medesimo panno vi scusa scudo e vi serve di
-     spada e d'arco, per la potentissima difesa che seco porta. Laonde non fia chi si maravigli s'io
-     torno a dire ch'<persName ref="#Dieu">Iddio</persName> si è per voi spropriato del meglio
-     ch'egli s'avesse, et ha in voi a piena mano versata tutta la dovitia de' beni suoi. Favoreggia
-     questo mio pensiero l'auttorità di quell'altre parole dette dal buon vecchio <persName
-      ref="#Isaac">Isaac</persName> al suo figliuolo <persName>Esaù</persName>, quando accortosi che
+     amore? Una sola cagione se n'assegna: <quote xml:lang="lat">nam expoliavit se <persName
+       ref="#Jonathan">Jonatas</persName> tunica qua erat indutus et dedit eam <persName
+       ref="#David">David</persName> et omnia vestimenta sua dedit ei, usque ad gladium et arcum et
+      usque ad balteum</quote>. Né maggiore o più vigoroso argomento so trovar io a provare che voi
+     (Serenissimo Sire) siate singolarmente da <persName ref="#Dieu">Dio</persName> amato, se non il
+     vedere ch'egli si è spogliato di quel panno istesso che lo coverse, e ve n'ha fatto libero
+     dono. Et (ciò che più è da notare) insieme col panno vi ha anche donato l'arco, la spada e lo
+     scudo, poiché il medesimo panno vi scusa scudo e vi serve di spada e d'arco, per la
+     potentissima difesa che seco porta. Laonde non fia chi si maravigli s'io torno a dire
+      ch'<persName ref="#Dieu">Iddio</persName> si è per voi spropriato del meglio ch'egli s'avesse,
+     et ha in voi a piena mano versata tutta la dovitia de' beni suoi. Favoreggia questo mio
+     pensiero l'auttorità di quell'altre parole dette dal buon vecchio <persName ref="#Isaac"
+      >Isaac</persName> al suo figliuolo <persName ref="#Esau">Esaù</persName>, quando accortosi che
      l'altro fratello gli avea scaltramente usurpata la primogenitura, <pb n="85bis"/> non sapendo
-     qual altra beneditione concedergli, disse: Frumento et vino stabilivi eum, et tibi post haec,
-     fili mi, ultra quid faciam? Parla il gran Padre <persName ref="#Dieu">Iddio</persName> agli
-     altri signori d'Europa, e dice loro: «Deh, che poss'io più darvi? Se il mio carissimo
-     primogenito fra tutti i prencipi vi ha ogni pretensione preoccupata, togliendomi di mano la
-     miglior preda del mio celeste erario, qual reliquia mi avanza più pretiosa da compartire a voi
-     altri? Frumento et vino stabilivi eum: ho stabilito il fondamento delle sue grandezze in guisa
-     che non può dar più crollo; frumento et vino, favori temporali e favori spirituali, doni
-     terreni e doni celesti, gratie naturali e gratie divine. Fertilità di paese, fecondità di
-     successione, abbondanza di ricchezze, ubbidienza di sudditi, virtù nelle operationi, fortuna
-     ne' pericoli, prodezza in guerra, senno in pace: eccovi il formento. Fascia di Cristo, imagine
-     di Cristo, piaghe di Cristo, sangue di Cristo, <persName ref="#Jesus">Cristo</persName>
-     istesso: eccovi il vino. Qual cosa di maggiore o d'ugual rilievo da dispensar mi resta? tibi
-     post haec, fili mi, ultra quid faciam?». Questo medesimo pensiero accennato prima da <persName
+     qual altra beneditione concedergli, disse: <quote xml:lang="lat">Frumento et vino stabilivi
+      eum, et tibi post haec, fili mi, ultra quid faciam?</quote> Parla il gran Padre <persName
+      ref="#Dieu">Iddio</persName> agli altri signori d'<placeName ref="#Europe">Europa</placeName>,
+     e dice loro: <quote xml:lang="ita">«Deh, che poss'io più darvi? Se il mio carissimo primogenito
+      fra tutti i prencipi vi ha ogni pretensione preoccupata, togliendomi di mano la miglior preda
+      del mio celeste erario, qual reliquia mi avanza più pretiosa da compartire a voi altri?
+      Frumento et vino stabilivi eum: ho stabilito il fondamento delle sue grandezze in guisa che
+      non può dar più crollo; frumento et vino, favori temporali e favori spirituali, doni terreni e
+      doni celesti, gratie naturali e gratie divine. Fertilità di paese, fecondità di successione,
+      abbondanza di ricchezze, ubbidienza di sudditi, virtù nelle operationi, fortuna ne' pericoli,
+      prodezza in guerra, senno in pace: eccovi il formento. Fascia di Cristo, imagine di Cristo,
+      piaghe di Cristo, sangue di Cristo, <persName ref="#Jesus">Cristo</persName> istesso: eccovi
+      il vino. Qual cosa di maggiore o d'ugual rilievo da dispensar mi resta? tibi post haec, fili
+      mi, ultra quid faciam?».</quote> Questo medesimo pensiero accennato prima da <persName
       ref="#Isaac">Isaac</persName>
-     <pb n="86"/> per <persName>Giacob</persName>, parve che fusse poi dallo stesso Giacob
-     espressamente confermato a Giuseppe, quando avendo, moribondo, acconcio il testamento e
-     disposto di tutte le sue facoltà con gli altri figliuoli, a lui rivoltosi, gli lasciò
-     anticipatamente un legato particolare: Tolle partem tuam, quam tuli de manu Amorrhaei in gladio
-     et arcu meo. A tutti gli altri prencipi (come detto abbiamo) ha lasciata <persName ref="#Dieu"
-      >Iddio</persName> qualche cosa della sua eredità. «Ma tu sei l'amato (dice egli), tu sei il
-     caro, tu il privilegiato singolarmente, tu sarai l'erede come d'una parte avantaggiata oltre i
-     tuoi fratelli. A te voglio che tocchi de' beni paterni quella parte quam tuli de manu Amorrhaei
-     in gladio et arcu meo, quella tela vergata del mio sangue, quella, si può dir propriamente,
-     parte mia e non d'altrui, perché torcular calcavi solus: io son quegli che dagli artigli
-     dell'inferno la riscosse in virtù della mia croce e della mia morte. Tibi post haec fili mi
-     ultra quid faciam?» Conchiudo (Serenissimo Sire) con la conseguenza di Paolo apostolo: Quomodo
-     non etiam cum illo omnia nobis non donabit? Come fie possibile che chi con tanto smoderamento
-     di larghezza il proprio Figlio vi ha conceduto, cosa <pb n="86bis"/> alcuna per grande et
-     importante che sia abbia a negarvi? E che chi ha in sua balia il tesoro de' tesori, non sia per
-     esser sempre secondato dal Cielo in ciascun altro affare? Chi dirà che mentre i polli ricovrano
-     sotto l'ali dell'aquila non siano da qualsivoglia insulto sicuri? E qual'è l'aquila, se non
-     quella di cui disse Ezechiello: Aquila grandis magnarum alarum? Quali sono i suoi polli, se non
+     <pb n="86"/> per <persName ref="#Jacob">Giacob</persName>, parve che fusse poi dallo stesso
+      <persName ref="#Jacob">Giacob</persName> espressamente confermato a Giuseppe, quando avendo,
+     moribondo, acconcio il testamento e disposto di tutte le sue facoltà con gli altri figliuoli, a
+     lui rivoltosi, gli lasciò anticipatamente un legato particolare: <quote>Tolle partem tuam, quam
+      tuli de manu Amorrhaei in gladio et arcu meo.</quote> A tutti gli altri prencipi (come detto
+     abbiamo) ha lasciata <persName ref="#Dieu">Iddio</persName> qualche cosa della sua eredità. «Ma
+     tu sei l'amato (dice egli), tu sei il caro, tu il privilegiato singolarmente, tu sarai l'erede
+     come d'una parte avantaggiata oltre i tuoi fratelli. A te voglio che tocchi de' beni paterni
+     quella parte quam tuli de manu Amorrhaei in gladio et arcu meo, quella tela vergata del mio
+     sangue, quella, si può dir propriamente, parte mia e non d'altrui, perché torcular calcavi
+     solus: io son quegli che dagli artigli dell'inferno la riscosse in virtù della mia croce e
+     della mia morte. Tibi post haec fili mi ultra quid faciam?» Conchiudo (Serenissimo Sire) con la
+     conseguenza di <persName ref="#SaintPaul">Paolo apostolo</persName>: <quote xml:lang="lat"
+      >Quomodo non etiam cum illo omnia nobis non donabit?</quote> Come fie possibile che chi con
+     tanto smoderamento di larghezza il proprio Figlio vi ha conceduto, cosa <pb n="86bis"/> alcuna
+     per grande et importante che sia abbia a negarvi? E che chi ha in sua balia il tesoro de'
+     tesori, non sia per esser sempre secondato dal Cielo in ciascun altro affare? Chi dirà che
+     mentre i polli ricovrano sotto l'ali dell'aquila non siano da qualsivoglia insulto sicuri? E
+     qual'è l'aquila, se non quella di cui disse <persName ref="#Ezechiel">Ezechiello</persName>:
+      <quote xml:lang="lat">Aquila grandis magnarum alarum?</quote> Quali sono i suoi polli, se non
      la stirpe di Savoia? Aquila sì per la natural magnanimità, di cui è proprio simbolo questo
      uccello, che perciò dagli antichi fu attribuito a <persName ref="#Jupiter">Giove</persName>, sì
      perché l'insegna vecchia dell'armi di Savoia era l'aquila imperiale, donata dall'imperadore
-     Ottone a Beroldo in ricompensa de' travagli sofferti nel soccorrere il re d'<placeName
-      ref="#Arles">Arles</placeName>. Or questi polli, non altrimenti che suoi carissimi figli, sono
-     da quell'Aquila celeste invitati a volar seco in alto et a volgersi al vero Sole: sicut aquila
-     provocans ad volandum pullos suos et super eos volitans expandit alas suas. Ma quali sono
-     quest'ali se non la Sua protetione adombrata nell'ampiezza della Sindone, con cui par che vada
-     loro del continovo covando? Contentomi d'esser riputato bugiardo, se nelle <pb n="87"/>
-     Scritture istesse non si fa letteralmente a questo proposito esplicita mentione del nome
-     vostro, Serenissimo Sire: et erit extensio alarum eius implens latitudinem terrae tuae, o
-      <persName>Emanuel</persName>. Di voi, o <persName>Carlo Emanuello</persName>, di voi et a voi
-     ragiona <persName ref="#Isaie">Isaia</persName>, perciò che parlando egli a possessor di terre,
-     non possono (eccettuato <persName ref="#Jesus">Cristo</persName>, a cui principalmente
-     convengono) ad altro <persName>Emanuello</persName> che non sia prencipe essere indrizzate le
-     sue parole. E di che potete dubitare, o voi o la vostra terra, mentre sotto l'ombra di
-     quell'ali vi dimorate? Dite pure a quell'aquila confidentemente: Sub umbra alarum tuarum
-     protege me, e vi sentirete da lei rispondere benignamente: Sub umbra mea requiescite. Gloriarvi
-     adunque a gran ragione dovete del possesso di questa tela informata del divino ritratto, et a
-     gran ragione di essa cotanto vi pregiate. Introducano pure gli altri prencipi superbi (sicome
-     già il <persName>re Ezechia</persName> fece) gli Ambasciatori stranieri a vedere i loro secreti
-     ripostigli e i ricchi gazofilacii degli ori e degli aromati, ma <persName>Carlo</persName> alla
-     curiosità degli ospiti peregrini faccia solo della sua sacra guardarobba, di sì pretioso arnese
-      <pb n="87bis"/> corredata, ambitiosa mostra. Credeva l'antichità che le sculture di <persName
-      ref="#Dedale">Dedalo</persName>, se non erano ben legate, prendessero la fuga e si
-     dipartissero. Voi geloso della perdita di questa miracolosa pittura, accioché sdegnosa per
-     tanti peccati del popolo non l'abbandoni, dicendo con <persName>Osea</persName>: Liberabo linum
-     meum et lanam meam quae operiebant ignominiam eius, e con <persName ref="#Jeremie"
-      >Geremia</persName>: Curavimus Babylonem et non est sanata: derelinquamus eam, l'avete con
-     saldissime funi di vero amore stretta et incatenata, onde potete ben dir con la Sposa: Tenui
-     eam nec dimittam. La collocaste nel mezo del maggior tempio, ma più nel centro del vostro
+      <persName ref="#Othon">Ottone</persName> a <persName>Beroldo</persName> in ricompensa de'
+     travagli sofferti nel soccorrere il re d'<placeName ref="#Arles">Arles</placeName>. Or questi
+     polli, non altrimenti che suoi carissimi figli, sono da quell'Aquila celeste invitati a volar
+     seco in alto et a volgersi al vero Sole: <quote xml:lang="lat">sicut aquila provocans ad
+      volandum pullos suos et super eos volitans expandit alas suas</quote>. Ma quali sono quest'ali
+     se non la Sua protetione adombrata nell'ampiezza della <objectName ref="#SuaireTurin"
+      >Sindone</objectName>, con cui par che vada loro del continovo covando? Contentomi d'esser
+     riputato bugiardo, se nelle <pb n="87"/> Scritture istesse non si fa letteralmente a questo
+     proposito esplicita mentione del nome vostro, Serenissimo Sire: et erit extensio alarum eius
+     implens latitudinem terrae tuae, o Emanuel. Di voi, o <persName ref="#CharlesEmmanuelIer">Carlo
+      Emanuello</persName>, di voi et a voi ragiona <persName ref="#Isaie">Isaia</persName>, perciò
+     che parlando egli a possessor di terre, non possono (eccettuato <persName ref="#Jesus"
+      >Cristo</persName>, a cui principalmente convengono) ad altro Emanuello che non sia prencipe
+     essere indrizzate le sue parole. E di che potete dubitare, o voi o la vostra terra, mentre
+     sotto l'ombra di quell'ali vi dimorate? Dite pure a quell'aquila confidentemente: Sub umbra
+     alarum tuarum protege me, e vi sentirete da lei rispondere benignamente: Sub umbra mea
+     requiescite. Gloriarvi adunque a gran ragione dovete del possesso di questa tela informata del
+     divino ritratto, et a gran ragione di essa cotanto vi pregiate. Introducano pure gli altri
+     prencipi superbi (sicome già il <persName ref="#Ezechias">re Ezechia</persName> fece) gli
+     Ambasciatori stranieri a vedere i loro secreti ripostigli e i ricchi gazofilacii degli ori e
+     degli aromati, ma <persName>Carlo</persName> alla curiosità degli ospiti peregrini faccia solo
+     della sua sacra guardarobba, di sì pretioso arnese <pb n="87bis"/> corredata, ambitiosa mostra.
+     Credeva l'antichità che le sculture di <persName ref="#Dedale">Dedalo</persName>, se non erano
+     ben legate, prendessero la fuga e si dipartissero. Voi geloso della perdita di questa
+     miracolosa pittura, accioché sdegnosa per tanti peccati del popolo non l'abbandoni, dicendo con
+      <persName>Osea</persName>: Liberabo linum meum et lanam meam quae operiebant ignominiam eius,
+     e con <persName ref="#Jeremie">Geremia</persName>: <quote xml:lang="lat">Curavimus Babylonem et
+      non est sanata: derelinquamus eam</quote>, l'avete con saldissime funi di vero amore stretta
+     et incatenata, onde potete ben dir con la Sposa: <quote xml:lang="lat">Tenui eam nec
+      dimittam</quote>. La collocaste nel mezo del maggior tempio, ma più nel centro del vostro
      divoto animo; la riponeste nella cima dell'alto santuario, ma più nella sommità della vostra
      nobil mente; la chiudeste dentro un'arca di finissimo oro, ma più dentro il reliquiere del
      vostro regio petto; le fabricaste una custodia di limpido gelo alpino, ma più del chiaro
