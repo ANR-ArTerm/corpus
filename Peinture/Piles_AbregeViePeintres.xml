@@ -2,82 +2,27 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title xml:lang="fra">Abregé de la vie des peintres, Avec des reflexions sur leurs Ouvrages, Et un Traité du Peintre parfait, de la connoissance des Desseins, et de l’utilité des Estampes.</title>
-        <respStmt>
-          <name>Emma Bondoerffer</name>
-          <resp>Correction, Structuration, Balisage, Indexation</resp>
-        </respStmt>
-        <respStmt>
-          <name>Teklia</name>
-          <resp>Transcription, Structuration</resp>
-        </respStmt>
-        <respStmt>
-          <name>Carla Tricon</name>
-          <resp>Identification des œuvres</resp>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>ArTerm</publisher>
-        <pubPlace>Paris</pubPlace>
-        <date when="2028">2028</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb11998742h">Piles (de)<idno type="ISNI">https://isni.org/isni/0000000083425581</idno>
-          </author>
-          <title xml:lang="fra">Abregé de la vie des peintres, Avec des reflexions sur leurs Ouvrages, Et un Traité du Peintre parfait, de la connoissance des Desseins, et de l’utilité des Estampes.</title>
-          <publisher>François Muguet</publisher>
-          <pubPlace>Paris</pubPlace>
-          <date when="1699">1699</date>
-        </bibl>
-        <msDesc>
-          <msIdentifier>
-            <country>France</country>
-            <settlement ref="#Paris">Paris</settlement>
-            <institution>Bibliothèque nationale de France</institution>
-            <repository />
-            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb31112316k</idno>
-          </msIdentifier>
-        </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
-      </projectDesc>
-      <editorialDecl>
-        <correction status="medium" method="silent">
-          <p>édition complète</p>
-        </correction>
-        <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
-        </normalization>
-        <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
-        </punctuation>
-        <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface) + body (7 livres [L1 = idée du peintre, à partir de C30 = abregé vie des peintres] 255 chapitres au total)</p>
-        </segmentation>
-        <hyphenation eol="none" />
-        <stdVals>
-          <p>Norme ISO-8601 pour les dates</p>
-        </stdVals>
-      </editorialDecl>
-      <p />
-    </encodingDesc>
-    <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
-    </profileDesc>
-  </teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="fra">Piles_AbregeViePeintres.pdf</title>
+				<respStmt>
+					<resp>Correction de la structuration, vérification de la transcription, balisage
+						et indexation.</resp>
+					<name>Emma Bondoerffer</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>TEKLIA</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+			<xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+		</profileDesc>
+	</teiHeader>
 	<text>
 		<front>
 			<pb facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6568782t/f13/full/full/0/native.jpg"/>
@@ -9053,9 +8998,9 @@
 						pointe comme dans sa Peinture, chaque coup de Pinceau donnent aux parties du
 						visage un caractére de vie et de vérité, qui fait admirer celuy de son
 						Génie. </p>
-					<p xml:id="PIL_AVP_L6_C219_P5"> Il avoit une supréme intellinence du Clair-obscur, et ses Couleurs locales
+					<p xml:id="PIL_AVP_L6_C219_P5"> Il avoit une suprême intelligence du Clair-obscur, et ses Couleurs locales
 						se prestent un mutuel secours l'une à l'autre et se font valloir par la
-						Comparaison. Ses Carnations ne sont pas moins Vrayes, moins fraîches, ni
+						Comparaison. Ses Carnations ne sont pas moins vrayes, moins fraîches, ni
 						moins recherchées dans les sujets qu'il a répresentez que celles du
 							<persName ref="#Titien">Titien</persName>. Ces deux Peintres étaient
 						convaincus qu'il y avoit des Couleurs qui se détruisoient l'une l'autre par
@@ -9181,8 +9126,8 @@
 					<p xml:id="PIL_AVP_L6_C223_P2"> On a dit que <persName ref="#PeterPaulRubens">Rubens</persName>, d'où il
 						avoit puisé ses meilleurs Principes, et pour qui il travailloit, craignant
 						qu'il ne le surpassât dans l'intelligence du Coloris, l'occupa long-tems à
-						faire en détrempe de grans <objectName>Patrons de Tapisseries</objectName> pour le <persName ref="#PhilippeIV">Roy
-							d'Espagne</persName>, d'aprés les <objectName>Esquisses coloriées</objectName> que <persName ref="#PeterPaulRubens">Rubens</persName> en avoit faits ; et qu'il
+						faire en détrempe de grans <objectName ref="#JacobJordaensMetamorphosesOvideTorreDeLaParadaMadrid">Patrons de Tapisseries</objectName> pour le <persName ref="#PhilippeIV">Roy
+							d'Espagne</persName>, d'aprés les <objectName ref="#RubensEsquissesMetamorphosesOvideTorreDeLaParadaMadrid">Esquisses coloriées</objectName> que <persName ref="#PeterPaulRubens">Rubens</persName> en avoit faits ; et qu'il
 						affoiblit ainsi, par une habitude contraire, cette maniére forte avec
 						laquelle <persName ref="#JacobJordaens">Jordans</persName> réprésentoit si
 						sensiblement la vérité. Il y ait quantité d'Ouvrages pour la Ville
@@ -9205,13 +9150,13 @@
 						devenu un tres-bon Peintre. Il a peint dans son païs et dans les lieux
 						d'alentour plusieurs grans Ouvrages pour les Eglises et pour les Palais, et
 						a laissé en mourant une grande estime de luy, avec une merveilleuse
-						reputation de son merite, sans que de I part il ait jamais cherché autre
+						réputation de son mérite, sans que de sa part il ait jamais cherché autre
 						chose que le plaisir qu'il trouvoit dans l'éxercice de la Peinture. </p>
 				</div2>
 				<div2 n="225" type="chapitre" xml:id="C225" xml:lang="fra">
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#JoachimVonSandrart">JOACHIM SANDRART</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L6_C225_P1">
-						<hi rend="capitals">NÉ</hi> à <placeName ref="#Francfort">Francfort</placeName> le <date when="1606-05-12">12. de May
+						<hi rend="capitals">NÉ</hi> à <placeName ref="#Francfort">Francfort</placeName> le <date when="1606-05-12">12e. de May
 						1606</date>. Fils de <persName ref="#LorenzSandrart">Laurent
 							Sandrart</persName>, aprés avoir fait ses Etudes de Grammaire, s'adonna
 						à la Graveure, et à l'âge de quinze ans il alla à pied jusqu'à <placeName ref="#Prague">Prague</placeName> s'offrir pour Disciple à <persName ref="#AegidiusSadeler">Gilles Sadeler</persName>, <pb n="445"/>qui le
@@ -9219,18 +9164,18 @@
 						suivit cet avis, et passa à <placeName ref="#Utrecht">Utreck</placeName>, où
 						il se mit sous la Discipline de <persName ref="#GerritVanHonthorst">Gérard
 							Honorst</persName>, qui le mena avec luy en <placeName ref="#Angleterre">Angleterre</placeName>, d'où il sortit en <date when="1627">1627</date>. que le <persName ref="#GeorgeVilliers">Duc le Bouquingam</persName> fut tué. Parmi
-						les belles choses qu'il vit en <placeName ref="#Angleterre">Angleterre</placeName>, il est fait mention dans sa <objectName>Vie des
+						les belles choses qu'il vit en <placeName ref="#Angleterre">Angleterre</placeName>, il est fait mention dans sa <objectName ref="#TitienVieDouzeCesar">Vie des
 							douze Empereurs</objectName> du <persName ref="#Titien">Titien</persName> plus grans que Nature, qui ont été gravez par
 							<persName ref="#AegidiusSadeler">G. Sadeler</persName>. Il y est dit
-						aussi qu'aprés la mort du <persName>Duc de Bouquingam</persName>,
-							l'<persName>Empereur Ferdinand III</persName>. fit acheter les Tableaux
+						aussi qu'aprés la mort du <persName ref="#GeorgeVilliers">Duc de Bouquingam</persName>,
+						l'<persName ref="#FerdinandIII">Empereur Ferdinand III</persName>. fit acheter les Tableaux
 						du Cabinet de ce Duc, dont il orna son Palais de <placeName ref="#Prague">Prague</placeName>, et qui y sont encore en partie. </p>
 					<p xml:id="PIL_AVP_L6_C225_P2"> Il fut à <placeName ref="#Venise">Venise</placeName>, où il copia les plus
 						beaux Tableaux du <persName ref="#Titien">Titien</persName>, et de <persName ref="#PaoloVeronese">Paul Veronése</persName>. De la il passa à
-							<placeName ref="#Rome">Rome</placeName> avec <persName>le
+						<placeName ref="#Rome">Rome</placeName> avec <persName ref="#MichelLeblond">le
 							Blond</persName> graveur, son cousin germain, où aprés quelque tems de
 						sejour, il se rendit des plus considérables dans la Peinture, en sorte que
-						le <persName>Roy d'Espagne</persName> ayant souaité douze Tableaux des
+						le <persName ref="#PhilippeIV">Roy d'Espagne</persName> ayant souhaité douze Tableaux des
 						douzes plus habiles Peintres qui se trouvassent pour lors dans <placeName ref="#Rome">Rome</placeName>, on luy en envoya du <persName ref="#GuidoReni">Guide</persName>, du <persName ref="#Guerchin">Guerchin</persName>, de
 							<persName ref="#GiuseppeCesari">Josepin</persName>, de <persName ref="#MassimoStanzione">Massimi</persName>, le <persName ref="#OrazioGentileschi">Gentileschi</persName>, de <persName ref="#PierreDeCortone">Piétre de Cortone</persName>, du <persName ref="#Valentin">Valentin</persName>, d'<persName ref="#AndreaSacchi">André Sacchi</persName>, de <persName ref="#GiovanniLanfranco">Lanfranc</persName>, du <persName ref="#Dominiquin">Dominiquin</persName>, du <persName ref="#NicolasPoussin">Poussin</persName>, et de <persName ref="#JoachimVonSandrart">Sandrart</persName>. Le <persName ref="#VincenzoGiustiniani">Marquis
 							Justiniani</persName> l'ayant connu, <pb n="446"/>souhaita de l'avoir
@@ -10216,7 +10161,7 @@
 						quelque estime dans le monde. </p>
 				</div2>
 				<div2 n="244" type="chapitre" xml:id="C244" xml:lang="fra">
-					<head><hi rend="capitals"><hi rend="it"><persName ref="#NicolasMignard">NICOLAS
+					<head><hi rend="capitals"><hi rend="it"><persName ref="#NicholasMignard">NICOLAS
 									MIGNARD</persName></hi></hi></head>
 					<p xml:id="PIL_AVP_L7_C244_P1">
 						<hi rend="capitals">DE</hi>
@@ -10225,7 +10170,7 @@
 						Peinture pour se tirer aussi-bien que luy du nombre des Peintres ordinaires.
 						Leur Pére, qui s'appelloit Pierre, et qui avoit servi le Roy dans ses Armées
 						l'espace de vingt ans, laissa la liberté à ses deux Fils de suivre
-						l'inclination qu'ils avoient pour la Peinture. <persName ref="#NicolasMignard">Nicolas</persName> en apprit les commencemens
+						l'inclination qu'ils avoient pour la Peinture. <persName ref="#NicholasMignard">Nicolas</persName> en apprit les commencemens
 						chez le meilleur Peintre qui se trouvoit pour lors à <placeName ref="#Troyes">Troyes</placeName> : et pour se fortifier dans sa
 						Profession, il alla étudier à <pb n="496"/>
 						<placeName ref="#Fontainebleau">Fontainebleau</placeName> d'aprés les
@@ -10233,13 +10178,13 @@
 						source des beautez qu'il étudioit étoit en <placeName ref="#Italie">Italie</placeName>, il en voulut faire le voyage. L'occasion de
 						certains Ouvrages l'arrêta quelque tems à <placeName ref="#Lyon">Lyon</placeName> : mais beaucoup plus à <placeName ref="#Avignon">Avignon</placeName>, où il devint amoureux d'une Fille, qu'il épousa à
 						son retour d'<placeName ref="#Italie">Italie</placeName>, (ce qui le fit
-						appeller <persName ref="#NicolasMignard">Mignard d'<placeName ref="#Avignon">Avignon</placeName></persName>.) Aprés avoir passé
+						appeller <persName ref="#NicholasMignard">Mignard d'<placeName ref="#Avignon">Avignon</placeName></persName>.) Aprés avoir passé
 						deux ans à <placeName ref="#Rome">Rome</placeName>, et quelques années à
 							<placeName ref="#Avignon">Avignon</placeName> chez son Beau-Pére, il fut
 						appellé à la Cour par <persName ref="#LouisXIV">le Roy</persName> ; car Sa
 						Majesté l'avoit connu à son passage en <placeName ref="#Avignon">Avignon</placeName> lors de son Mariage avec l'<persName ref="#MarieThereseDAutriche">Infante d'<placeName ref="#Espagne">Espagne</placeName></persName> en <date when="1659">1659</date>. </p>
 					<p xml:id="PIL_AVP_L7_C244_P2">
-						<persName ref="#NicolasMignard">Mignard</persName> étant arrivé à
+						<persName ref="#NicholasMignard">Mignard</persName> étant arrivé à
 							<placeName ref="#Paris">Paris</placeName>, y fut employé pour la Cour et
 						pour des particuliers en divers Ouvrages, où il donna des preuves de sa
 						capacité. Il fit quantité de Portraits : mais son talent étoit plutôt pour
