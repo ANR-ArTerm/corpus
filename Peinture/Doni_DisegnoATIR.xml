@@ -2,24 +2,83 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title xml:lang="ita"> Disegno, Antonio Francesco Doni </title>
-         </titleStmt>
-         <publicationStmt>
-            <p> Publication Information </p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <publisher> ATIR </publisher>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
-      </profileDesc>
-   </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Disegno del Doni, partito in piu ragionamenti, ne quali si tratta della scoltura et pittura; de colori, de getti, de modegli, con molte cose appartenenti a quest'arti, et si termina la nobiltà dell'una et dell'altra professione. Con historie, essempi, et sentenze, et nel fine alcune lettere che trattano della medesima materia</title>
+        <respStmt>
+          <name>Anaïs Mazoué</name>
+          <resp>Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Julia Castiglione</name>
+          <resp>Correction, Structuration, Balisage</resp>
+        </respStmt>
+        <respStmt>
+          <name>ATIR</name>
+          <resp>Transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author ref="ark:/12148/cb303480041">Doni<idno type="ISNI">https://isni.org/isni/000000011872331X</idno>
+          </author>
+          <title xml:lang="fra">Disegno del Doni, partito in piu ragionamenti, ne quali si tratta della scoltura et pittura; de colori, de getti, de modegli, con molte cose appartenenti a quest'arti, et si termina la nobiltà dell'una et dell'altra professione. Con historie, essempi, et sentenze, et nel fine alcune lettere che trattano della medesima materia</title>
+          <publisher>G. Giolito di Ferrarii</publisher>
+          <pubPlace>Venise</pubPlace>
+          <date when="1549">1549</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>USA</country>
+            <settlement ref="#Los Angeles">Los Angeles</settlement>
+            <institution>Getty Institute</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/827607</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
    <text>
 
       <front>

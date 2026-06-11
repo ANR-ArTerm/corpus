@@ -2,25 +2,78 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
  <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="fra"> Desargues_ManierePerspectiveDistance </title>
-   </titleStmt>
-   <publicationStmt>
-    <publisher> tranScriptorium </publisher>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl>
-     <title xml:lang="fra"> Desargues_ManierePerspectiveDistance </title>
-     <idno type="Transkribus"> 9566057 </idno>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-   <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
-  </profileDesc>
- </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Exemple de l'une des manieres universelles du S. G. D. L. touchant la pratique de la perspective sans emploier aucun tiers point, de distance ny d'autre nature, qui soit hors du champ de l'ouvrage</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Octave Philibert</name>
+          <resp>Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Source Cnum - Conservatoire numérique des Arts et Métiers - http://cnum.cnam.fr<author ref="https://catalogue.bnf.fr/ark:/12148/cb361261386">Desargues<idno type="ISNI" />
+          </author>
+          <title xml:lang="fra">Exemple de l'une des manieres universelles du S. G. D. L. touchant la pratique de la perspective sans emploier aucun tiers point, de distance ny d'autre nature, qui soit hors du champ de l'ouvrage</title>
+          <publisher>Jacques Dugast</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1636">1636</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/6033482</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (2 head+gravure) + body (2div)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
  <text>
   <front>
    <head> Exemple de L'une des manieres universelles du S. G D L Touchant la pratique de la

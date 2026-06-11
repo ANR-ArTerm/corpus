@@ -2,23 +2,82 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title xml:lang="ita">Lomazzo Idea</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>tranScriptorium</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<bibl><publisher>TRP document creator:
-					julia.castiglione1@gmail.com</publisher></bibl>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-			<xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
-		</profileDesc>
-	</teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Idea del tempio della pittura</title>
+        <respStmt>
+          <name>Corto Rolaz</name>
+          <resp>Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Julia Castiglione</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Biblioteca nazionale centrale di Roma<author ref="https://data.bnf.fr/ark:/12148/cb12358011k">Lomazzo<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=1/TTL=1/CMD?ACT=SRCH&amp;IKT=8006&amp;SRT=LST_nd&amp;TRM=Lomazzo</idno>
+          </author>
+          <title xml:lang="fra">Idea del tempio della pittura</title>
+          <publisher>Paolo Gottardo Ponto</publisher>
+          <pubPlace>Milano</pubPlace>
+          <date when="1590">1590</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/838469</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + dedicace + poemes) + body (L1 [38 chapitres])</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
 	<text>
 		<front>
 			<titlePage>
@@ -838,8 +897,8 @@
 							Borgo</persName>, che ha trattato della divina proportione, <persName
 							ref="#DenysCalvaert">il Fiammingo</persName>, ch'ha disegnato l'anatomia
 						di <persName ref="#AndreasVanWesel">Andrea Vesalio</persName> et il
-							<persName ref="#Baroccio">Barozzi</persName>, appellato il <persName
-							ref="#Baroccio">Campagnuolo</persName>, che ha scritto dell'architettura
+							<persName ref="#Barocci">Barozzi</persName>, appellato il <persName
+							ref="#Barocci">Campagnuolo</persName>, che ha scritto dell'architettura
 						oltre molti altri Italiani che per brevità si tralasciano. Fra i Tedeschi
 						v'à <persName ref="#AlbrechtDurer">Alberto Durero</persName>, il qual
 						scrisse della geometria, della architettura, della prospettiva e della
@@ -5098,7 +5157,7 @@
 							ref="#JacopoTintoretto">il Tintoretto</persName>, i <persName
 							ref="#Palma">Palmi</persName>, il <persName ref="#Pordenone"
 							>Pordenone</persName>, i <persName ref="#Bassano">Bassani</persName> e
-							<persName ref="#Baroccio">Federico Barocci</persName> et il <persName
+							<persName ref="#Barocci">Federico Barocci</persName> et il <persName
 							ref="#SimonePeterzano">Petenzano</persName>, che hanno dato alle lor
 						pitture la forza e la prontezza de i moti e la leggiadria de i colori, sì
 						come fece <persName ref="#Aristide">Aristide</persName>, pittore
@@ -5229,7 +5288,7 @@
 						segnalatissimo e degno di perpetua memoria è il museo della Cesarea <pb
 							n="154"/> Maestà di <persName ref="#MaximilienII">Massimigliano
 							II</persName> imperatore. Per cui maggiormente aggrandire e nobilitare
-						v'ha condotto il gran pittore <persName ref="#GiuseppeArchimboldo">Giuseppe
+						v'ha condotto il gran pittore <persName ref="#GiuseppeArcimboldo">Giuseppe
 							Arcimboldi</persName>, che con la grandezza del suo ingegno lo
 						illustrasse nell'una e l'altra pittura con la sua prospettiva, disegno e
 						rilievo, e massime con le inventioni e capricci, ne' quali egli è unico al
@@ -5293,12 +5352,12 @@
 						e grandezze di quel torneo io non istò a riferire, perché sarebbero materia
 						d'un giusto volume. E tutte furono inventioni e capricci di questo raro
 						pittore, ancora che un certo <persName ref="#GiovanniBattistaFonteo"
-							>Fonteo</persName>, introdotto dall'<persName ref="#GiuseppeArchimboldo"
+							>Fonteo</persName>, introdotto dall'<persName ref="#GiuseppeArcimboldo"
 							>Arcimboldo</persName>, che gli diede il carico di fare i cartelli, non
 						si vergognò in una sua compositione di farsene egli inventore. Di che ne e
 						rimase meravigliato l'imperatore quando l'intese, poi che egli sapea
 						benissimo che l'inventione era stata dell' <persName
-							ref="#GiuseppeArchimboldo">Arcimboldo</persName> il qual con lui spesso
+							ref="#GiuseppeArcimboldo">Arcimboldo</persName> il qual con lui spesso
 						ne avea discorso. Finalmente in ogni cosa egli fu d''acutissimo ingegno,
 						onde ritrovò artifici di passar fiumi espeditamente, ove non fossero ponti
 						né si avessero navi e fu inventor di cifre che non si potevano intendere
@@ -5352,9 +5411,9 @@
 							<l>Perché de i Fiori è Flora,</l>
 							<l>La Vera Dea composta sol di Fiori.</l>
 						</lg> E questi insieme co'l quadro mandò l'<persName
-							ref="#GiuseppeArchimboldo">Arcimboldi</persName> a quella Cesarea
+							ref="#GiuseppeArcimboldo">Arcimboldi</persName> a quella Cesarea
 						Maestà, che con l'honorata rimuneratione ha dimostrato quanto le sia
-						pregiata e cara. Ha l'istesso <persName ref="#GiuseppeArchimboldo"
+						pregiata e cara. Ha l'istesso <persName ref="#GiuseppeArcimboldo"
 							>Arcimboldi</persName> poco meno che perfetto un altro quadro, nel quale
 						sarà dipinto <objectName>Vertunno sopra gli orti</objectName>, tutto fatto
 						di frutti, per mandarlo all'istessa Maestà, che con lettere mostra di starla
@@ -5458,7 +5517,7 @@
 								ref="#Venise">Venetia</placeName> co'l Duce</objectName>, al quale è
 						presentato l'annello di <persName ref="#SaintMarc">San Marco</persName>; e
 						quest'opera è la migliore che egli mai facesse. Ma sopra tutti ha nobilitato
-						le chiese con le sue opere <persName ref="#Baroccio">Federico
+						le chiese con le sue opere <persName ref="#Barocci">Federico
 							Barozzi</persName>, diligente et accurato in tutti gli studi della
 						pittura e che <pb n="160"/> ha dato sempre tanto rilievo e forza alle
 						pitture che niuno potrà mai con parole dir tanto ch'egli co'l vero di gran
@@ -5597,7 +5656,7 @@
 						sottopone. Di questa schiera sono <persName ref="#JanSoens">Giovan
 							Fiammingo</persName>, rarissimo in far figure picciole e paesi, che
 						serve hora ad <persName ref="#AlexandreFarnese">Alessandro</persName> duca
-						di <placeName ref="#Parme">Parma</placeName>, <persName ref="#Stradanus"
+						di <placeName ref="#Parme">Parma</placeName>, <persName ref="#JanVanDerStraet"
 							>Giovanni Stradanus</persName>, pittor che servì già a <persName
 							ref="#DonJuanDAutriche">Don Giovan d'Austria</persName> e <persName
 							ref="#DirckBarendsz">Teodoro Bernart d'Amsterdam</persName>, pittore. De

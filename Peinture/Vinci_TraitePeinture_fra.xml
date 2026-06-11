@@ -4,37 +4,74 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra"> Traitté de la peinture de Léonard De Vinci : document xml </title>
+        <title xml:lang="fra">https://data.bnf.fr/fr/ark:/12148/cb11912491s</title>
         <respStmt>
-          <resp> Texte édité par </resp>
-          <name> Anna Sconza </name>
+          <name>Julia Castiglione</name>
+          <resp>Transcription, Structuration [Flora Belin, Maxine Schoehuys-Kreiss]</resp>
         </respStmt>
         <respStmt>
-          <resp> Texte saisi et annoté par </resp>
-          <name> Flora Belin </name>
-          <name> Maxine Schoehuys-Kreiss </name>
+          <name>Irene Calcagno</name>
+          <resp>Correction</resp>
         </respStmt>
       </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
       <publicationStmt>
-        <p> Édition électronique réalisée à la Sorbonne Nouvelle </p>
-        <p> Édition électronique réalisée pour le projet “Lexique de la Peinture, en <placeName ref="#France">France</placeName>, <placeName ref="#Espagne">Espagne</placeName> et Italie (XIV-XVIIIe)” </p>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>
-          <textLang mainLang="fra"> français </textLang>
-          <title xml:lang="fra"> Traitté de la peinture de Leonard De Vinci </title>
-          <title xml:lang="fra"> Donné au public et traduit de l'italien en françois par Roland Fréart Sieur de Chambray </title>
-          <publisher> Imprimerie de <name> JACQUES LANGLOIS </name> , Imprimeur ordinaire du Roy </publisher>
-          <pubPlace> Reyne de Paix </pubPlace>
-          <address>
-            <addrLine> Mont Saincte Geneviefve, vis-à-vis la Fonteine, à la Reyne de Paix. </addrLine>
-          </address>
+        <bibl>https://gallica.bnf.fr/ark:/12148/btv1b86207616.r=Traitt%C3%A9%20de%20la%20peinture%20de%20L%C3%A9onard%20de%20Vinci%20donn%C3%A9%20au%20public%20et%20traduit%20d%27Italien%20en%20fran%C3%A7ois%20par%20R.F.%20S.%20D.C.?rk=21459;2<author ref="https://isni.oclc.org/cbs/DB=1.2/SET=12/TTL=1/SHW?FRST=3">10/0302024<idno type="ISNI">Léonard</idno>
+          </author>
+          <title xml:lang="fra">https://data.bnf.fr/fr/ark:/12148/cb11912491s</title>
+          <publisher>Paris</publisher>
+          <pubPlace>Traitté de la peinture de Léonard de Vinci donné au public et traduit d'Italien en françois par R.F. S. D.C.</pubPlace>
+          <date when="Jacques Langlois">Jacques Langlois</date>
         </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>Bibliothèque nationale de France</country>
+            <settlement ref="#France">France</settlement>
+            <institution>https://catalogue.bnf.fr/ark:/12148/cb31588107n</institution>
+            <repository />
+            <idno type="USTC">1651</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
     </profileDesc>
   </teiHeader>
   <text>
