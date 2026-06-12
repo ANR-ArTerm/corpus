@@ -2,82 +2,96 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title xml:lang="fra">Ragionamenti Accademici sopra alcuni luoghi difficili di Dante</title>
-        <respStmt>
-          <name>Anaïs Mazoué</name>
-          <resp>Transcription, Structuration</resp>
-        </respStmt>
-        <respStmt>
-          <name>Julia Castiglione</name>
-          <resp>Correction, Balisage, Indexation</resp>
-        </respStmt>
-        <respStmt>
-          <name>Carla Tricon</name>
-          <resp>Identification des œuvres</resp>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>ArTerm</publisher>
-        <pubPlace>Paris</pubPlace>
-        <date when="2028">2028</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>Public domain<author ref="ark:/12148/cb125520809">Bartoli<idno type="ISNI">ISNI 0000 0001 2281 1371</idno>
-          </author>
-          <title xml:lang="fra">Ragionamenti Accademici sopra alcuni luoghi difficili di Dante</title>
-          <publisher>Francesco de' Franceschi Senese</publisher>
-          <pubPlace>Venezia</pubPlace>
-          <date when="1567">1567</date>
-        </bibl>
-        <msDesc>
-          <msIdentifier>
-            <country>Canada</country>
-            <settlement ref="#Toronto">Toronto</settlement>
-            <institution>Library of the University of Toronto</institution>
-            <repository />
-            <idno type="USTC">https://www.ustc.ac.uk/editions/812413</idno>
-          </msIdentifier>
-        </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
-      </projectDesc>
-      <editorialDecl>
-        <correction status="medium" method="silent">
-          <p>édition complète</p>
-        </correction>
-        <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
-        </normalization>
-        <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
-        </punctuation>
-        <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
-        </segmentation>
-        <hyphenation eol="none" />
-        <stdVals>
-          <p>Norme ISO-8601 pour les dates</p>
-        </stdVals>
-      </editorialDecl>
-      <p />
-    </encodingDesc>
-    <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
-    </profileDesc>
-  </teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="fra">Ragionamenti Accademici sopra alcuni luoghi difficili di
+               Dante</title>
+            <respStmt>
+               <name>Anaïs Mazoué</name>
+               <resp>Transcription, Structuration</resp>
+            </respStmt>
+            <respStmt>
+               <name>Julia Castiglione</name>
+               <resp>Correction, Balisage, Indexation</resp>
+            </respStmt>
+            <respStmt>
+               <name>Carla Tricon</name>
+               <resp>Identification des œuvres</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>ArTerm</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2028">2028</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora ©
+                  2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Public domain<author ref="ark:/12148/cb125520809">Bartoli<idno type="ISNI">ISNI
+                     0000 0001 2281 1371</idno>
+               </author>
+               <title xml:lang="fra">Ragionamenti Accademici sopra alcuni luoghi difficili di
+                  Dante</title>
+               <publisher>Francesco de' Franceschi Senese</publisher>
+               <pubPlace>Venezia</pubPlace>
+               <date when="1567">1567</date>
+            </bibl>
+            <msDesc>
+               <msIdentifier>
+                  <country>Canada</country>
+                  <settlement ref="#Toronto">Toronto</settlement>
+                  <institution>Library of the University of Toronto</institution>
+                  <repository/>
+                  <idno type="USTC">https://www.ustc.ac.uk/editions/812413</idno>
+               </msIdentifier>
+            </msDesc>
+            <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de
+               la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de
+               traduction des théories des arts d'une langue à l'autre et des transferts
+               linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire
+               franco-italien du patrimoine artistique.</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction status="medium" method="silent">
+               <p>édition complète</p>
+            </correction>
+            <normalization method="silent">
+               <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des
+                  ponctuations et accentuations ont été normalisées en suivant les règles de
+                  typographies du 20è siècle.</p>
+            </normalization>
+            <punctuation marks="some">
+               <p>En français, les point-virgules ont souvent été transformés en virgules ou en
+                  point, le reste des ponctuations ont été conservées comme dans les imprimés de
+                  référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier
+                  la lecture.</p>
+            </punctuation>
+            <segmentation>
+               <p>Les paragraphes sont indiqués dans des balises p, enfant de balises
+                  div/div1/div2/div3/div4. Structure de ce fichier : </p>
+            </segmentation>
+            <hyphenation eol="none"/>
+            <stdVals>
+               <p>Norme ISO-8601 pour les dates</p>
+            </stdVals>
+         </editorialDecl>
+         <p/>
+      </encodingDesc>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
    <text>
       <front>
          <titlePage>
@@ -126,7 +140,7 @@
                tante et tante vittorie, quanto ben sa tutto il mondo, si esercitava il giorno in
                mezo alle armi combattendo, et consumava di poi la notte, parte dormendo, parte
                attendendo alle cure et governi publici, et parte dando opera a gli studij et alle
-                  <persName ref="#Muse">Muse</persName>. Se adunque V. Altezza è tale che quando
+                  <persName ref="#Muses">Muse</persName>. Se adunque V. Altezza è tale che quando
                bene ella si trovasse nel mezo del romore delle trombe, et de tanburi, et del
                strepito delle armi, applicherebbe l'animo alli studij, non debbo io sperare in
                questi tempi ne quali ella si ritruova libera dalli infiniti travagli, che ella ha
@@ -1842,17 +1856,17 @@
             <l><persName ref="#VincenzoMartelli"> M. V. </persName> Et questa altra
                   <objectName>Statua</objectName> che cosa è? </l>
             <l><persName ref="#CosimoBartoli"> M. C. </persName> Ella haveva a servire per una
-                  <objectName ref="#FontaineVenusRicasoli">Venere</objectName>, et quegli putti che voi le
-               vedete a lato che hanno vari animali marini, et varie sorte di cocchiglie da buttare
-               acqua, havevano a servire per gli Amori: i quali come vi dirò poi insieme con esso
-               lei havevano a versare acqua in uno altro Pilo rincontro al <objectName
+                  <objectName ref="#FontaineVenusRicasoli">Venere</objectName>, et quegli putti che
+               voi le vedete a lato che hanno vari animali marini, et varie sorte di cocchiglie da
+               buttare acqua, havevano a servire per gli Amori: i quali come vi dirò poi insieme con
+               esso lei havevano a versare acqua in uno altro Pilo rincontro al <objectName
                   ref="FontaineNeptuneRicasoli">Nettumno</objectName>.</l>
             <l><persName ref="#AngeloDellaStufa"> M. A. </persName>Che
                   <objectName>testa</objectName> è quella che io vegho cola così grande? </l>
             <l><persName ref="#CosimoBartoli"> M. C. </persName> Ella è antica et credo che ella sia
                la Immagine di <persName ref="#Portia">Portia</persName>, alla quale havevo disegnato
                di far fare un Petto, et di metterla sopra la Porta principale che esce in su la
-               loggia del <objectName ref="#JardinBartoli">Giardino</objectName>.</l>
+               loggia del <objectName ref="#JardinRicasoliFlorence">Giardino</objectName>.</l>
             <l><persName ref="#VincenzoMartelli"> M. V. </persName>Andiamo hora mai a vedere questo
                resto.</l>
             <l><persName ref="#AngeloDellaStufa"> M. A. </persName>Andiamo che e'si fa tardi. </l>
@@ -2052,10 +2066,10 @@
                Semplici più rare, et ch'amano l'humido, et l'ombra; Et quà dove voi vedete questo
                Portone, che divide lo orto dalla Vigna, voleva che le dette acque, che di qua et di
                la venendo giù per i muricciuoli dalle <objectName ref="#FontaineNeptuneRicasoli"
-                  >fontane del Nettunno </objectName>et della <objectName ref="#FontaineVenusRicasoli"
-                  >Venere</objectName>, cadessino oltre al detto portone in una Gora larga due
-               braccia, laquale io haveva ordinata che dividendosi in due, mettessi in mezo questo
-               viale al manco insino al mezo di esso.</l>
+                  >fontane del Nettunno </objectName>et della <objectName
+                  ref="#FontaineVenusRicasoli">Venere</objectName>, cadessino oltre al detto portone
+               in una Gora larga due braccia, laquale io haveva ordinata che dividendosi in due,
+               mettessi in mezo questo viale al manco insino al mezo di esso.</l>
             <l><persName ref="#AngeloDellaStufa"> M. A. </persName>Che Gora? donde si cavava l'acqua
                viva. </l>
             <l><persName ref="#CosimoBartoli"> M. C. </persName> Dirovvelo voi sapete che Messer
@@ -2120,9 +2134,10 @@
                hanno maggior bisogno di copia di acqua che in quale altra si voglia stagione dello
                anno: Et quegli altri duoi termini che voi vedeste che erano alquanto più giovani,
                l'uno haveva a servire per lo Autunno, et l'altro per la Primavera, et andavano alla
-                  <objectName ref="#FontaineVenusRicasoli">Fontana della Venere</objectName>, rincontro a
-                  <objectName ref="#FontaineNeptuneRicasoli">quella del Nettunno</objectName>, et a
-               lato alla altra camera che metteva in mezo la loggia</l>
+                  <objectName ref="#FontaineVenusRicasoli">Fontana della Venere</objectName>,
+               rincontro a <objectName ref="#FontaineNeptuneRicasoli">quella del
+                  Nettunno</objectName>, et a lato alla altra camera che metteva in mezo la
+               loggia</l>
             <l><persName ref="#AngeloDellaStufa"> M. A. </persName>Adunque chi era in quella loggia
                godeva amandue le fontane </l>
             <l><persName ref="#CosimoBartoli"> M. C. </persName> Godevale, et tutto il giardino
@@ -2606,9 +2621,8 @@
                essendovi Mitrie da Papi, corone da Re, capelli, da Cardinali, da Vescovi, scettri,
                mazzocchi Ducali, insegne, armi, libri, et molte altre cose simili, che si può dire,
                che dimostrino oltre a questo le dignità, et gl'honori, et le qualità, ch'hanno hauto
-               così gli huomini come le donne prudenti, virtuosi, et fortunati nati in su lo
-                  <placeName ref="#Arno">Arno</placeName> in <placeName ref="#Florence"
-                  >Firenze</placeName>. </l>
+               così gli huomini come le donne prudenti, virtuosi, et fortunati nati in su lo Arno in
+                  <placeName ref="#Florence">Firenze</placeName>. </l>
             <l><persName ref="#LodovicoDeMasi">Ca.</persName> Hor questo si mi pare Monsignore mio
                che in non molto quadro sia un composto, et una invenzione, che habbia et del
                honorevole, et del utile.</l>
