@@ -2,9 +2,12 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
-      <person xml:id="ClaudeDeBullion" source="https://www.wikidata.org/wiki/Q2978328"></person>
-      <person xml:id="QuentinVarin" source="https://www.wikidata.org/wiki/Q658511"></person>
-      <person xml:id="PhilippeDeChabot" source="https://www.wikidata.org/wiki/Q131959"></person>
+      <person xml:id="Eleazar" source="#https://www.wikidata.org/wiki/Q18246400"/>
+      <person xml:id="Hersilie" source="https://www.wikidata.org/wiki/Q1402198"/>
+      <person xml:id="MarcusClaudiusTacite" source="https://www.wikidata.org/wiki/Q177988"/>
+      <person xml:id="ClaudeDeBullion" source="https://www.wikidata.org/wiki/Q2978328"/>
+      <person xml:id="QuentinVarin" source="https://www.wikidata.org/wiki/Q658511"/>
+      <person xml:id="PhilippeDeChabot" source="https://www.wikidata.org/wiki/Q131959"/>
       <person xml:id="Abondance" source="https://www.wikidata.org/wiki/Q336003"/>
       <person xml:id="Fama" source="https://www.wikidata.org/wiki/Q1120723"/>
       <person xml:id="AristarqueSamos" source="https://www.wikidata.org/wiki/Q140188"/>
@@ -19106,24 +19109,6 @@
           <objectName>La Reine Christine en Minerve</objectName>
           <objectName>Kristina som Minerva</objectName>
         </floruit>
-      </person>
-      <person xml:id="Eleazar" role="personnage de l'Ancien Testament"
-        source="https://www.wikidata.org/wiki/Q159443">
-        <persName>
-          <forename>Éléazar</forename>
-          <surname>Eleazar</surname>
-          <addName>Eleazar</addName>
-        </persName>
-        <birth when="1192">
-          <placeName>N/A</placeName>
-        </birth>
-        <death when="1100">
-          <placeName>Terre d'Israël</placeName>
-        </death>
-        <trait>
-          <p>N/A</p>
-        </trait>
-        <idno type="wikidata">Q159443</idno>
       </person>
       <person xml:id="Eleusis" role="roi d'Éleusis dans la mythologie grecque"
         source="https://www.wikidata.org/wiki/Q27924383">
