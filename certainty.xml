@@ -13,10 +13,6 @@
         </certainty>
     </Daret_VieRaphael>
     <Palladio_quattro_libri>
-        <certainty target="#PbCaiusAureliusCotta" locus="value">
-            <desc> Pourrait correspondre au <persName ref="#CaiusAureliusCottaPere">père</persName>
-                ou <persName ref="#CaiusAureliusCottaFils">au fils</persName>. </desc>
-        </certainty>
         <certainty target="#TempleDeLaPaix" locus="value">
             <desc>Palladio nomme ce monument le <objectName ref="#ForumDeLaPaixRome">Temple de la
                     Paix</objectName> mais d'après les illustrations et la description qu'il en fait
@@ -157,12 +153,4 @@
         </certainty>
 
     </Piles_Abrege_Peintres>
-
-    <Accolti_Inganno_Occhi_Prospettiva>
-        <certainty xml:id="LaurentIIDeMedicis" locus="value">
-            <desc>Il est possible que Accolti fasse ici référence à <persName
-                    ref="#LaurentIIDeMedicis">Lorenzo II De Medici</persName> et pas à Giovanni De
-                Medici.</desc>
-        </certainty>
-    </Accolti_Inganno_Occhi_Prospettiva>
 </textes>

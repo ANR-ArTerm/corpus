@@ -2,6 +2,7 @@
 <TEI>
   <settingDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPlace>
+      <place xml:id="Ecbatane" source="https://www.wikidata.org/wiki/Q696193"/>
       <place xml:id="MontsCerauniens" source="https://www.wikidata.org/wiki/Q1054699"/>
       <place xml:id="Cnossos" source="https://www.wikidata.org/wiki/Q173527"/>
       <place xml:id="Gythio" source="https://www.wikidata.org/wiki/Q992256"/>
@@ -1703,7 +1704,7 @@
         </location>
         <idno type="wikidata">Q201272</idno>
       </place>
-      <place xml:id="Peloponnese " source="https://www.wikidata.org/wiki/Q78967">
+      <place xml:id="Peloponnese" source="https://www.wikidata.org/wiki/Q78967">
         <placeName xml:lang="fra">Péloponnèse</placeName>
         <placeName xml:lang="ita">Peloponneso</placeName>
         <location>

@@ -4,7 +4,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">I quattro libri dell’architettura di Andrea Palladio. Ne’quali, dopo un breve trattato de’cinque ordini, e di quelli avertimenti, che sono piu necessarii nel fabricare, si tratta delle case private, delle vie, dei ponti, delle piazze, dei xisti et de’ tempii. Con privilegi.</title>
+        <title xml:lang="fra">I quattro libri dell’architettura di Andrea Palladio. Ne’quali, dopo
+          un breve trattato de’cinque ordini, e di quelli avertimenti, che sono piu necessarii nel
+          fabricare, si tratta delle case private, delle vie, dei ponti, delle piazze, dei xisti et
+          de’ tempii. Con privilegi.</title>
         <respStmt>
           <name>Emma Bondoerffer</name>
           <resp>Transcription, Structuration</resp>
@@ -30,13 +33,19 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028
+            by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Source gallica.bnf.fr / Bibliothèque national de France<author ref="ark:/12148/cb119184708">Palladio<idno type="ISNI">https://isni.org/isni/0000000121222209</idno>
+        <bibl>Source gallica.bnf.fr / Bibliothèque national de France<author
+            ref="ark:/12148/cb119184708">Palladio<idno type="ISNI"
+              >https://isni.org/isni/0000000121222209</idno>
           </author>
-          <title xml:lang="fra">I quattro libri dell’architettura di Andrea Palladio. Ne’quali, dopo un breve trattato de’cinque ordini, e di quelli avertimenti, che sono piu necessarii nel fabricare, si tratta delle case private, delle vie, dei ponti, delle piazze, dei xisti et de’ tempii. Con privilegi.</title>
+          <title xml:lang="fra">I quattro libri dell’architettura di Andrea Palladio. Ne’quali, dopo
+            un breve trattato de’cinque ordini, e di quelli avertimenti, che sono piu necessarii nel
+            fabricare, si tratta delle case private, delle vie, dei ponti, delle piazze, dei xisti
+            et de’ tempii. Con privilegi.</title>
           <publisher>Dominico de’Franceschi</publisher>
           <pubPlace>Venise</pubPlace>
           <date when="1570">1570</date>
@@ -46,40 +55,49 @@
             <country>France</country>
             <settlement ref="#Paris">Paris</settlement>
             <institution>Bibliothèque nationale de France</institution>
-            <repository />
+            <repository/>
             <idno type="USTC">http://catalogue.bnf.fr/ark:/12148/cb119409036</idno>
           </msIdentifier>
         </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la
+          littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des
+          théories des arts d'une langue à l'autre et des transferts linguistiques du lexique
+          esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine
+          artistique.</p>
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
           <p>édition complète</p>
         </correction>
         <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations
+            et accentuations ont été normalisées en suivant les règles de typographies du 20è
+            siècle.</p>
         </normalization>
         <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le
+            reste des ponctuations ont été conservées comme dans les imprimés de référence. En
+            italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
         </punctuation>
         <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises
+            div/div1/div2/div3/div4. Structure de ce fichier : </p>
         </segmentation>
-        <hyphenation eol="none" />
+        <hyphenation eol="none"/>
         <stdVals>
           <p>Norme ISO-8601 pour les dates</p>
         </stdVals>
       </editorialDecl>
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
     </profileDesc>
   </teiHeader>
   <text>
@@ -1580,13 +1598,13 @@
             et le cose nuove a tutti debbano piacere, non si deve però far ciò contra i precetti
             dell'arte, e contra quello, che la ragione ci dimostra: onde si vede che ancho
             gli'Antichi variarono: né però si partirono mai da alcune regole universali, et
-            necessarie dell'Arte, come si vederà nei miei libri dell'Antichità. Circa
-            le proggetture ancora delle cornici, et altri ornamenti; è non picciolo abuso il farli
-            che porgano molto in fuori: Percioché quando eccedono quello, che ragionevolmente loro
-            si conviene, oltra che se sono in luogo chiuso; lo fanno stretto, e sgarbato; mettono
-            spavento a quelli, che vi stanno sotto: perché sempre minacciano di cascare. Né meno si
-            deve fuggire il fare le cornici, che alle colonne nostr habbiano proportione, essendo
-            che se sopra colonne picciole si porranno cornici grandi, o sopra colonne grandi cornici
+            necessarie dell'Arte, come si vederà nei miei libri dell'Antichità. Circa le proggetture
+            ancora delle cornici, et altri ornamenti; è non picciolo abuso il farli che porgano
+            molto in fuori: Percioché quando eccedono quello, che ragionevolmente loro si conviene,
+            oltra che se sono in luogo chiuso; lo fanno stretto, e sgarbato; mettono spavento a
+            quelli, che vi stanno sotto: perché sempre minacciano di cascare. Né meno si deve
+            fuggire il fare le cornici, che alle colonne nostr habbiano proportione, essendo che se
+            sopra colonne picciole si porranno cornici grandi, o sopra colonne grandi cornici
             picciole; chi dubita che da tale edificio non debba causarsi bruttissimo aspetto? Oltre
             a ciò il fingere le colonne spezzate con il far loro intorno alcuni anelli, et
             ghirlande, che paiano tenirle unite, et salde; si deve quanto si può schifare: perché
@@ -2077,8 +2095,7 @@
               <placeName ref="#Rome">Città</placeName>, e sagliono su <placeName ref="#Quirinal"
               >Monte Cavallo</placeName>. Erano queste Scale doppie: onde molti hanno preso poi
             l'esempio, et conducevano ad un <objectName>Tempio posto in cima del Monte</objectName>,
-            come dimostro nel mio libro dei Tempi: et di questa sorte di Scale è
-            l'ultimo disegno. </p>
+            come dimostro nel mio libro dei Tempi: et di questa sorte di Scale è l'ultimo disegno. </p>
           <pb n="65"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f69/full/full/0/native.jpg"/>
           <figure type="planche"/>
@@ -3863,69 +3880,68 @@
             Imperadore, il quale (come ho detto di sopra) asciugando i luoghi paludosi, abbassando i
             monti, pareggiando le valli et facendo i ponti dove bisognava ridusse l'andar per essa
             spedito et piacevolissimo. È anco celebratissima la <objectName ref="#ViaAurelia">via
-              Aurelia</objectName>, chiamata così da <persName cert="low"
-              xml:id="PbCaiusAureliusCotta">Aurelio</persName> Cittadino Romano che la fece, haveva
-            il suo principio dalla <objectName ref="#PortaSanPancrazioRome">porta
-              Aurelia</objectName> hoggi detta di San Pangratio, e distendendosi per i luoghi
-            maritimi di <placeName ref="#Toscane">Toscana</placeName> conduceva fino a <placeName
-              ref="#Pise">Pisa</placeName>. Furono di non minor nome la <objectName
-              ref="#ViaNomentana">via Numentana</objectName>, la <objectName ref="#ViaPraenestina"
-              >Prenestina</objectName>, e la <objectName ref="#ViaLabicana">Libicana</objectName>;
-            la <objectName ref="#ViaNomentana">prima</objectName> cominciava dalla <objectName
-              ref="#PorteViminaleRome">porta Viminale</objectName>, hoggi detta di Santa Agnesa, e
-            si distendeva sino alla Città di <placeName ref="#Nomentum">Numento</placeName>; la
-              <objectName ref="#ViaPraenestina">seconda</objectName> haveva principio dalla
-              <objectName ref="#PortaEsquilinaRome">porta Esquilina</objectName>, che hora si dice
-            di San Lorenzo; e la <objectName ref="#ViaLabicana">terza</objectName> dalla <objectName
-              ref="#PorteNaeviaRome">porta Nevia</objectName>, cioè da porta Maggiore, e conducevano
-            queste due vie alla città di <placeName ref="#Preneste">Preneste</placeName>, hoggi
-            detta Pellestrino, et alla Famosa città di <placeName ref="#Labicum"
-              >Labicana</placeName>. Vi furono ancora molte altre vie nominate et celebrate dalli
-            scrittori, cioè la Salara, la Collatina, la Latina et altre, le quali tutte o da coloro,
-            che le ordinarono, o dalla porta, dalla quale havevano principio, o dal luogo dove
-            conducevano, presero il nome. Ma tra tutte doveva esser di somma bellezza, et commodità
-            la <objectName ref="#ViaPortuense">via Portuense</objectName>, la qual da <placeName
-              ref="#Rome">Roma</placeName> conduceva a <placeName ref="#OstieAntique"
-              >Hostia</placeName>; Percioché (come dice l'<persName ref="#LeonBattistaAlberti"
-              >Alberti</persName> di haver osservato) era divisa in due strade, tra l'una e l'altra
-            delle quali era un corso di pietre un piede più alto del rimanente, e serviva per
-            divisione: per una di queste vie si andava, e per l'altra si <reg>tornava</reg>,
-            schifando l'offesa dell'intrarsi: inventione molto comoda al grandissimo concorso di
-            persone che a quei tempi era a <placeName ref="#Rome">Roma</placeName> da tutto il
-            Mondo. Fecero gli antichi queste lor vie militari in due modi, cioè o lastrigandole di
-            pietre, overo coprendole tutte di ghiara e di sabbia. Le vie della prima maniera (per
-            quanto da alcuni vestigi si è potuto conietturare) erano divise in tre spaci: per quel
-            di mezo, il quale era più alto degli altri due, et il quale era alquanto colmo nel mezo,
-            acciò le acque potessero scorrere et non vi si affermassero, andavano i pedoni, et era
-            salicato di pietre incerte, cioè di lati e di angoli diseguali: nel qual modo di
-            salicare, come è stato detto altrove, usavano una squadra di piombo, la quale aprivano e
-            serravano, come andavano i lati et gli angoli delle pietre, onde le commettevano
-            benissimo insieme, et ciò facevano con prestezza: gli altri due spaci, che erano dalle
-            bande, si facevano alquanto più bassi e si coprivano di sabbia, et di ghiara minuta, e
-            per quelli andavano i cavalli. Era ciascuno di questi margini largho per la metà della
-            larghezza del spacio di mezo, dal quale erano divisi con laste di pietra poste in
-            coltello; et ogni tanto spacio ne erano poste alcune pietre in piedi più alte del
-            rimanente della strada sopra le quali salivano, quando volevano montare a cavallo, con
-            ciò sia che gli antichi non usassero staffe. Oltra di queste pietre poste per l'uso
-            detto, vi erano altre pietre molto più alte nelle quali si truovava scritto di mano in
-            mano le miglia di tutto il viaggio, e furono da <persName ref="#CaiusGracchus">Gneo
-              Graco</persName> misurate queste vie e conficate le dette pietre. Le vie militari
-            della seconda maniera, cioè fatte di sabbia e di ghiara, facevano gli antichi alquanto
-            colme nel mezo, per la qual cosa, non potendovi restar l'acqua et essendo elle di
-            materia atta ad asciugarsi presto, erano d'ogni tempo polite, cioè senza fango e senza
-            polvere. Di questa sorte se ne vede una nel <placeName ref="#Frioul">Friuli</placeName>,
-            la quale è detta dagli habitatori di quei luoghi la Posthuma, e conduce in <placeName
-              ref="#Hongrie">Ongheria</placeName>: et un'altra ve n'è su quel di <placeName
-              ref="#Padoue">Padova</placeName>, la quale cominciando dalla detta Città, nel luogo,
-            che si dice l'Argere, passa per mezo <placeName ref="#PojanaMaggiore"
-              >Cigogna</placeName> Villa del Conte <persName>Odoardo</persName>, e del Conte
-              <persName>Theodoro</persName> fratelli de Thieni, e conduce all'Alpi, che dividono
-              L'<placeName ref="#Italie">Italia</placeName> dalla <placeName ref="#Allemagne"
-              >Germania</placeName>. Della prima maniera di vie è il disegno che segue, dal quale si
-            può conoscer come doveva esser fatta la <objectName ref="#ViaOstiense">via
-              Hostiense</objectName>. Della seconda maniera non mi è parso necessario il farne
-            disegno alcuno, perché è cosa facilissima, né vi è bisogno di alcuna industria purché si
-            facciano colme nel mezo, onde l'acqua non vi si possa affermare.</p>
+              Aurelia</objectName>, chiamata così da <persName ref="#CaiusAureliusCottaPere"
+              >Aurelio</persName> Cittadino Romano che la fece, haveva il suo principio dalla
+              <objectName ref="#PortaSanPancrazioRome">porta Aurelia</objectName> hoggi detta di San
+            Pangratio, e distendendosi per i luoghi maritimi di <placeName ref="#Toscane"
+              >Toscana</placeName> conduceva fino a <placeName ref="#Pise">Pisa</placeName>. Furono
+            di non minor nome la <objectName ref="#ViaNomentana">via Numentana</objectName>, la
+              <objectName ref="#ViaPraenestina">Prenestina</objectName>, e la <objectName
+              ref="#ViaLabicana">Libicana</objectName>; la <objectName ref="#ViaNomentana"
+              >prima</objectName> cominciava dalla <objectName ref="#PorteViminaleRome">porta
+              Viminale</objectName>, hoggi detta di Santa Agnesa, e si distendeva sino alla Città di
+              <placeName ref="#Nomentum">Numento</placeName>; la <objectName ref="#ViaPraenestina"
+              >seconda</objectName> haveva principio dalla <objectName ref="#PortaEsquilinaRome"
+              >porta Esquilina</objectName>, che hora si dice di San Lorenzo; e la <objectName
+              ref="#ViaLabicana">terza</objectName> dalla <objectName ref="#PorteNaeviaRome">porta
+              Nevia</objectName>, cioè da porta Maggiore, e conducevano queste due vie alla città di
+              <placeName ref="#Preneste">Preneste</placeName>, hoggi detta Pellestrino, et alla
+            Famosa città di <placeName ref="#Labicum">Labicana</placeName>. Vi furono ancora molte
+            altre vie nominate et celebrate dalli scrittori, cioè la Salara, la Collatina, la Latina
+            et altre, le quali tutte o da coloro, che le ordinarono, o dalla porta, dalla quale
+            havevano principio, o dal luogo dove conducevano, presero il nome. Ma tra tutte doveva
+            esser di somma bellezza, et commodità la <objectName ref="#ViaPortuense">via
+              Portuense</objectName>, la qual da <placeName ref="#Rome">Roma</placeName> conduceva a
+              <placeName ref="#OstieAntique">Hostia</placeName>; Percioché (come dice l'<persName
+              ref="#LeonBattistaAlberti">Alberti</persName> di haver osservato) era divisa in due
+            strade, tra l'una e l'altra delle quali era un corso di pietre un piede più alto del
+            rimanente, e serviva per divisione: per una di queste vie si andava, e per l'altra si
+              <reg>tornava</reg>, schifando l'offesa dell'intrarsi: inventione molto comoda al
+            grandissimo concorso di persone che a quei tempi era a <placeName ref="#Rome"
+              >Roma</placeName> da tutto il Mondo. Fecero gli antichi queste lor vie militari in due
+            modi, cioè o lastrigandole di pietre, overo coprendole tutte di ghiara e di sabbia. Le
+            vie della prima maniera (per quanto da alcuni vestigi si è potuto conietturare) erano
+            divise in tre spaci: per quel di mezo, il quale era più alto degli altri due, et il
+            quale era alquanto colmo nel mezo, acciò le acque potessero scorrere et non vi si
+            affermassero, andavano i pedoni, et era salicato di pietre incerte, cioè di lati e di
+            angoli diseguali: nel qual modo di salicare, come è stato detto altrove, usavano una
+            squadra di piombo, la quale aprivano e serravano, come andavano i lati et gli angoli
+            delle pietre, onde le commettevano benissimo insieme, et ciò facevano con prestezza: gli
+            altri due spaci, che erano dalle bande, si facevano alquanto più bassi e si coprivano di
+            sabbia, et di ghiara minuta, e per quelli andavano i cavalli. Era ciascuno di questi
+            margini largho per la metà della larghezza del spacio di mezo, dal quale erano divisi
+            con laste di pietra poste in coltello; et ogni tanto spacio ne erano poste alcune pietre
+            in piedi più alte del rimanente della strada sopra le quali salivano, quando volevano
+            montare a cavallo, con ciò sia che gli antichi non usassero staffe. Oltra di queste
+            pietre poste per l'uso detto, vi erano altre pietre molto più alte nelle quali si
+            truovava scritto di mano in mano le miglia di tutto il viaggio, e furono da <persName
+              ref="#CaiusGracchus">Gneo Graco</persName> misurate queste vie e conficate le dette
+            pietre. Le vie militari della seconda maniera, cioè fatte di sabbia e di ghiara,
+            facevano gli antichi alquanto colme nel mezo, per la qual cosa, non potendovi restar
+            l'acqua et essendo elle di materia atta ad asciugarsi presto, erano d'ogni tempo polite,
+            cioè senza fango e senza polvere. Di questa sorte se ne vede una nel <placeName
+              ref="#Frioul">Friuli</placeName>, la quale è detta dagli habitatori di quei luoghi la
+            Posthuma, e conduce in <placeName ref="#Hongrie">Ongheria</placeName>: et un'altra ve
+            n'è su quel di <placeName ref="#Padoue">Padova</placeName>, la quale cominciando dalla
+            detta Città, nel luogo, che si dice l'Argere, passa per mezo <placeName
+              ref="#PojanaMaggiore">Cigogna</placeName> Villa del Conte
+            <persName>Odoardo</persName>, e del Conte <persName>Theodoro</persName> fratelli de
+            Thieni, e conduce all'Alpi, che dividono L'<placeName ref="#Italie">Italia</placeName>
+            dalla <placeName ref="#Allemagne">Germania</placeName>. Della prima maniera di vie è il
+            disegno che segue, dal quale si può conoscer come doveva esser fatta la <objectName
+              ref="#ViaOstiense">via Hostiense</objectName>. Della seconda maniera non mi è parso
+            necessario il farne disegno alcuno, perché è cosa facilissima, né vi è bisogno di alcuna
+            industria purché si facciano colme nel mezo, onde l'acqua non vi si possa affermare.</p>
           <p>
             <list rend="numbered">
               <item>A, È il spacio di mezo per dove andavano i pedoni. </item>
@@ -4694,21 +4710,21 @@
             salirà per gradi, i quali si faranno alti per la quinta parte della lunghezza delle
             colonne. Grandissimo ornamento danno alle piazze gli archi che si fanno in capo delle
             strade, cioè nell'entrare in piazza, i quali, come si debbono fare et perché anticamente
-            si facessero e d'onde si chiamassero trionfali, si dirà diffusamente nel mio Libro
-              degli archi e si porranno i disegni di molti: onde si darà grandissimo lume a
-            quelli, che volessero ai nostri tempi e per l'avenire drizzar gli archi a Principi, a Re
-            et a Imperatori. Ma ritornando alle piazze principali, devono esser a quelle congionti
-            il palazzo del Principe, over della Signoria, secondo che sarà o Principato o Republica:
-            la Zecca e l'erario publico, dove si ripone il Thesoro et il danaro publico, e le
-            prigioni. Queste anticamente si facevano di tre sorti, l'una per quelli che erano sviati
-            et immodesti, che si tenivano, acciò che fussero ammaestrati, la quale hora si dà ai
-            pazzi; l'altra era dei debitori et questa anco si usa tra noi; la terza è dove stanno i
-            perfidi et rei huomini o già condennati o per esser condennati. Le quai tre sorti
-            bastano, con ciò sia che i falli degli huomini nascano o da immodestia over da
-            contumacia overo da perversità. Devono esser la Zecca e le prigioni collocate in luoghi
-            sicurissimi et prontissimi, circondate da alte mura e guardate dalle forze e dalle
-            insidie dei seditiosi Cittadini. Devono farsi le pregioni sane e commode: perché sono
-            state ritrovate per custodia e non per supplicio e peva dei scelerati o d'altre sorti
+            si facessero e d'onde si chiamassero trionfali, si dirà diffusamente nel mio Libro degli
+            archi e si porranno i disegni di molti: onde si darà grandissimo lume a quelli, che
+            volessero ai nostri tempi e per l'avenire drizzar gli archi a Principi, a Re et a
+            Imperatori. Ma ritornando alle piazze principali, devono esser a quelle congionti il
+            palazzo del Principe, over della Signoria, secondo che sarà o Principato o Republica: la
+            Zecca e l'erario publico, dove si ripone il Thesoro et il danaro publico, e le prigioni.
+            Queste anticamente si facevano di tre sorti, l'una per quelli che erano sviati et
+            immodesti, che si tenivano, acciò che fussero ammaestrati, la quale hora si dà ai pazzi;
+            l'altra era dei debitori et questa anco si usa tra noi; la terza è dove stanno i perfidi
+            et rei huomini o già condennati o per esser condennati. Le quai tre sorti bastano, con
+            ciò sia che i falli degli huomini nascano o da immodestia over da contumacia overo da
+            perversità. Devono esser la Zecca e le prigioni collocate in luoghi sicurissimi et
+            prontissimi, circondate da alte mura e guardate dalle forze e dalle insidie dei
+            seditiosi Cittadini. Devono farsi le pregioni sane e commode: perché sono state
+            ritrovate per custodia e non per supplicio e peva dei scelerati o d'altre sorti
             d'huomini. Però si faranno le lor mura nel mezo di pietre vive grandissime incatenate
             insieme con arpesi e con chiodi di ferro o di metallo, e s'intonicheranno poi dall'una e
             dall'altra parte di pietra cotta: perché così facendo l'humidità della pietra viva non
@@ -5333,23 +5349,23 @@
             ornamenti come a <placeName ref="#Nimes">Nimes</placeName> in <placeName ref="#Provence"
               >Provenza</placeName>: et di questa sorte si può dire che sia in <placeName
               ref="#Rome">Roma</placeName> il Tempio di ordine Ionico che hora è la <objectName
-              ref="#EgliseSantaMariaEgiziacaRome">Chiesa di Santa Maria Egittiaca</objectName>. Il che
-            fecero quelli Architetti per fare più larga la Cella e per iscemare la spesa, rimanendo
-            non di meno il medesimo aspetto dell'Alato a torno a chi vedeva il Tempio per fianco.
-            Overo si pongono ai Tempi otto colonne per fronte e quindeci dai lati con le angulari:
-            questi vengono ad havere i portici intorno doppi e però l'aspetto loro è detto Dipteros,
-            cioè Alato doppio. Overo si fanno bene i Tempi che habbiano, come il sopradetto, otto
-            colonne per fronte e quindici nei lati ma i portici intorno non si fanno doppi perché si
-            toglie via un'ordine di colonne, onde essi portici vengono ad essere larghi quanto sono
-            due intercolunni et una grossezza di Colonna et si chiama il loro aspetto
-            Pseudodipteros, cioè Falso alato doppio. Questo Aspetto fu inventione di <persName
-              ref="#Hermogene">Hermogine</persName> antichissimo Architetto, il quale in questo modo
-            fece i portici intorno al Tempio larghi e commodi, aleggeri la fatica et la spesa e non
-            levò cosa alcuna dall'aspetto. Overo finalmente si fanno, che nell'una et l'altra
-            facciata vi siano diece colonne et i portici intorno doppi, come in quelli che hanno
-            l'aspetto Dipteros. Questi Tempi nella parte di dentro havevano altri portici con due
-            ordini di colonne uno sopra l'altro et erano queste colonne minori di quelle di fuori,
-            il coperto veniva dalle colonne di fuori a quelle di dentro et tutto lo spatio
+              ref="#EgliseSantaMariaEgiziacaRome">Chiesa di Santa Maria Egittiaca</objectName>. Il
+            che fecero quelli Architetti per fare più larga la Cella e per iscemare la spesa,
+            rimanendo non di meno il medesimo aspetto dell'Alato a torno a chi vedeva il Tempio per
+            fianco. Overo si pongono ai Tempi otto colonne per fronte e quindeci dai lati con le
+            angulari: questi vengono ad havere i portici intorno doppi e però l'aspetto loro è detto
+            Dipteros, cioè Alato doppio. Overo si fanno bene i Tempi che habbiano, come il
+            sopradetto, otto colonne per fronte e quindici nei lati ma i portici intorno non si
+            fanno doppi perché si toglie via un'ordine di colonne, onde essi portici vengono ad
+            essere larghi quanto sono due intercolunni et una grossezza di Colonna et si chiama il
+            loro aspetto Pseudodipteros, cioè Falso alato doppio. Questo Aspetto fu inventione di
+              <persName ref="#Hermogene">Hermogine</persName> antichissimo Architetto, il quale in
+            questo modo fece i portici intorno al Tempio larghi e commodi, aleggeri la fatica et la
+            spesa e non levò cosa alcuna dall'aspetto. Overo finalmente si fanno, che nell'una et
+            l'altra facciata vi siano diece colonne et i portici intorno doppi, come in quelli che
+            hanno l'aspetto Dipteros. Questi Tempi nella parte di dentro havevano altri portici con
+            due ordini di colonne uno sopra l'altro et erano queste colonne minori di quelle di
+            fuori, il coperto veniva dalle colonne di fuori a quelle di dentro et tutto lo spatio
             circondato dalle colonne di dentro era scoperto: onde l'aspetto di questi Tempi si
             dimandava Hipethros, cioè discoperto. Si dedicavano questi Tempi a <persName
               ref="#Jupiter">Giove</persName> come a Patrone del Cielo e dell'Aere: et nel mezo del
@@ -6932,8 +6948,8 @@
             quegli ornamenti, che fossero possibili e che stessero bene; ma nelle fabriche grandi
             come Anfitheatri e simili, polirono solamente alcune particelle, lasciando il rimanente
             rozo per schifare la spesa, et il tempo che vi sarebbe andato a volerle polire tutte;
-            come si vederà nel libro degli Anfitheatri che spero dover mandar tosto
-            fuori. Ho fatto di questo Tempietto quattro tavole.</p>
+            come si vederà nel libro degli Anfitheatri che spero dover mandar tosto fuori. Ho fatto
+            di questo Tempietto quattro tavole.</p>
           <p xml:id="PAL_QLA_L4_L4C26_P2"><hi rend="capitals">NELLA</hi> Prima vi è la Pianta dove è
             il suolo del Tempio, segnata A.</p>
           <p>
