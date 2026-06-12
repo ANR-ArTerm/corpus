@@ -10431,11 +10431,11 @@
                             >Giunone</persName> suoi progenitori, et che pose Sacerdoti alla cura di
                         quelli. Ma come fatti in quella età appresso a qual'si voglia di costoro
                         fussino i Tempi, non si sa così bene. Io crederò facilmente che fussino
-                        simili a <objectName>quello</objectName>, che era nella <objectName
-                            ref="#AcropoleAthenes">Fortezza di <placeName ref="#Athenes"
-                                >Athene</placeName></objectName>, o a
-                            <objectName>quello</objectName>, che a <placeName ref="#Rome"
-                            >Roma</placeName> era nel <placeName ref="#Capitole"
+                        simili a <objectName ref="ParthenonAthenes">quello</objectName>, che era
+                        nella <objectName ref="#AcropoleAthenes">Fortezza di <placeName
+                                ref="#Athenes">Athene</placeName></objectName>, o a <objectName
+                            ref="#TempleJupiterCapitolinRome">quello</objectName>, che a <placeName
+                            ref="#Rome">Roma</placeName> era nel <placeName ref="#Capitole"
                             >Campidoglio</placeName>. Con ciò sia che essendo ancora la città
                         florida, <choice>
                             <sic>e'</sic>
@@ -11589,17 +11589,17 @@
                         ingegno, <persName ref="#Catule">Catullo</persName>, <persName
                             ref="#Salluste">Salustio</persName>, et <persName ref="#Varron"
                             >Varrone</persName>. Il <objectName ref="#TempleArtemisEphese">Tempio
-                            Efesio</objectName> fu abbruciato dalle Amazone regnando <persName
-                            ref="#Silvius">Sylvio Postumio</persName>; et di nuovo fu abbruciato nel
-                        tempo che <persName ref="#Socrate">Socrate</persName> in <placeName
-                            ref="#Athenes">Athene</placeName> bevve il veleno. Et <placeName
-                            ref="#Argos">appresso delli Argivi</placeName> capitò male per il fuoco
-                        il <objectName ref="#HeraionArgos">Tempio</objectName>, in quello anno che
-                            <persName ref="#Platon">Platone</persName> nacque in <placeName
-                            ref="#Athenes">Athene</placeName>, regnando in <placeName ref="#Rome"
-                            >Roma</placeName>
-                        <persName>Tarquino</persName>; che dirò io dei sacri <objectName
-                            ref="#TempleDeJerusalem">portici</objectName> di <placeName
+                            Efesio</objectName> fu abbruciato dalle <persName ref="#Amazones"
+                            >Amazone</persName> regnando <persName>Sylvio Postumio</persName>; et di
+                        nuovo fu abbruciato nel tempo che <persName ref="#Socrate"
+                            >Socrate</persName> in <placeName ref="#Athenes">Athene</placeName>
+                        bevve il veleno. Et <placeName ref="#Argos">appresso delli
+                            Argivi</placeName> capitò male per il fuoco il <objectName
+                            ref="#HeraionArgos">Tempio</objectName>, in quello anno che <persName
+                            ref="#Platon">Platone</persName> nacque in <placeName ref="#Athenes"
+                            >Athene</placeName>, regnando in <placeName ref="#Rome">Roma</placeName>
+                        <persName ref="#TarquinSuperbe">Tarquino</persName>; che dirò io dei sacri
+                            <objectName ref="#TempleDeJerusalem">portici</objectName> di <placeName
                             ref="#Jerusalem">Hierosolima</placeName>? Che del <objectName>Tempio di
                             Minerva</objectName> a <placeName ref="#Milet">Milesio</placeName>? Che
                         del <objectName ref="#SerapeumAlexandrie">Tempio di Serapio</objectName> in
@@ -11662,10 +11662,10 @@
                         sopra statue. Quei Zoccoli, che si hanno a porre alle fini delle grondaie
                         sieno altri quanto il fregio et la cornice, ma quello, che ha a stare sopra
                         la punta del mezo, sia l'ottava parte più alto che quelli delli illati.
-                        Dicono che <persName>Buccide</persName> fu il primo che usasse di porre le
-                        statue sorpa i Frontispici per adornamento, et che egli le fece di terra
-                        cotta rossa, et di poi si usò di mettervele di marmo con tutte le tegole et
-                        le altre cose di marmo. </p>
+                        Dicono che <persName ref="#Boutades">Buccide</persName> fu il primo che
+                        usasse di porre le statue sorpa i Frontispici per adornamento, et che egli
+                        le fece di terra cotta rossa, et di poi si usò di mettervele di marmo con
+                        tutte le tegole et le altre cose di marmo. </p>
                 </div2>
                 <div2 type="chapitre" n="12" xml:id="L7C12">
                     <head rend="it">Dei vani dei tempi delle finestre, porti, usci, et dei membri et
@@ -12151,8 +12151,8 @@
                         vestiti di ellera. Vicino a <placeName ref="#Lysimacheia"
                             >Lisimachia</placeName> era un grandissimo altare postovi dagli
                         Argonauti, nel passare che di quivi feciono. <persName ref="#Pausanias"
-                            >Pausania</persName> a <placeName>Hippari</placeName> sul Mare maggiore
-                        collocò un Vaso di Bronzo grosso sei dita che teneva libbre 225. <persName
+                            >Pausania</persName> a Hippari sul Mare maggiore collocò un Vaso di
+                        Bronzo grosso sei dita che teneva libbre 225. <persName
                             ref="#AlexandreLeGrand">Alessandro</persName> oltre al Mare Occeano
                         vicino al fiume Alceste rizzò dodici Altari di grandissime pietre
                         riquadrate, et vicino al fiume della Tana cinse tutto lo spatio delli
@@ -13001,7 +13001,7 @@
                         </choice> lo havevano consecrato. I nostri usano di scrivere sopra le
                         cappelle il nome dei Santi, et lo Anno nel quale sono state loro dedicate,
                         il che sommamente mi piace. Et non sia questo fuori di nostro proposito, che
-                        essendo <persName>Crate</persName> Filosofo arrivato a
+                        essendo <persName ref="#CratesDeThebes">Crate</persName> Filosofo arrivato a
                             <placeName>Spiga</placeName>, o ver <placeName>Zelia</placeName>, et
                         havendo trovato quasi per tutto sopra le porte dei privati questi Versi.</p>
                     <p><hi rend="it"><l><persName ref="#Heraclee">Hercole</persName> il forte Nato
@@ -13234,15 +13234,16 @@
                         sacre, <reg>che ei</reg>portavano, non fussino (con l'esser tocche da
                         secolari) contaminate. <persName ref="#Platon">Platone</persName> ancora
                         celebra grandemente quella strada, che piena d'Arcipressi andava da
-                            <placeName>Gnosio</placeName>, insino al <placeName>Antro</placeName>,
-                        et al <objectName>Tempio di Giove</objectName>. Io truovo, che <placeName
-                            ref="#Rome">appresso dei Romani</placeName> furono due strade simili,
-                        molto eccellentissime, et molto maravigliose, <objectName ref="#ViaOstiense"
-                            >una</objectName> dalla <objectName ref="#PortaSanPaoloRome"
-                            >Porta</objectName> insino alla <objectName
-                            ref="#BasiliqueSaintPaulHorsLesMurs">Chiesa di San Paulo</objectName> di
-                        circa quindici stadi cioè un miglio et sette ottavi, et l'altra da
-                            <objectName>Ponte</objectName> sino alla <objectName
+                            <placeName ref="#Cnossos">Gnosio</placeName>, insino al
+                            <placeName>Antro</placeName>, et al <objectName>Tempio di
+                            Giove</objectName>. Io truovo, che <placeName ref="#Rome">appresso dei
+                            Romani</placeName> furono due strade simili, molto eccellentissime, et
+                        molto maravigliose, <objectName ref="#ViaOstiense">una</objectName> dalla
+                            <objectName ref="#PortaSanPaoloRome">Porta</objectName> insino alla
+                            <objectName ref="#BasiliqueSaintPaulHorsLesMurs">Chiesa di San
+                            Paulo</objectName> di circa quindici stadi cioè un miglio et sette
+                        ottavi, et l'altra da <objectName ref="#PonteSantAngeloRome"
+                            >Ponte</objectName> sino alla <objectName
                             ref="#AntiqueBasiliqueVaticane">Chiesa di San Pietro</objectName>, di
                         dumila cinquecento piedi, coperte di loggie con colonne di Marmo, et con
                         tetto di piombo. Questa sorte di addornamenti sono molto convenienti a
@@ -14057,7 +14058,7 @@
                     <p xml:id="BAR_A_L8_L8C9_P1"><hi rend="capitals"><persName ref="#Platon"
                                 >PLatone</persName></hi> voleva che il luogo dove s'haveva a
                         ragunare il consiglio fusse un Tempio. I Romani havevano un luogo
-                        determinato, che lo chiamavano Comitio. A <placeName ref="#Ceryneia"
+                        determinato, che lo chiamavano Comitio. A <placeName ref="#MontsCerauniens"
                             >Ceraunia</placeName> era un bosco folto sacrato a <persName
                             ref="#Jupiter">Giove</persName>, dove gli Achei si ragunavano a
                         discorrere le cose dello stato loro; molte altre Città facevano i loro
@@ -14148,8 +14149,8 @@
                             Severo</persName> aggiunse alle sue <objectName ref="#ThermesNeronRome"
                             >Terme</objectName>, o bagni un bosco, et alle <objectName
                             ref="#ThermesCaracallaRome">Antoniane</objectName> arrose molte egregie
-                        stanze da notare, Gli Agrigentini per la vittoria che hebbe
-                            <persName>Zelone</persName> contro ai Carcedoni murarono un luogo da
+                        stanze da notare, Gli Agrigentini per la vittoria che hebbe <persName
+                            ref="#Gelon">Zelone</persName> contro ai Carcedoni murarono un luogo da
                         notare lungo sette ottavi di miglio, affondo venti cubiti, del qual luogo ne
                         cavarono di poi certo datio. Io mi ricordo havere letto che a <placeName
                             ref="#Tivoli">Tiboli</placeName> vi era una Libreria Publica molto
@@ -14165,20 +14166,20 @@
                         trovo io che erano LXII. milia volumi. Nel paese di <placeName
                             ref="#LaodiceeDuLycos">Laodicea</placeName> insieme col
                             <objectName>Tempio di Nemesi</objectName> era celebrata grandemente una
-                        grandissima schuola di Medici, ordinata da <persName>Zeuside</persName>.
-                        Scrive <persName ref="#Appien">Appiano</persName> che vicino a <placeName
-                            ref="#Carthage">Cartagine</placeName> era una stalla di trecento
-                        elefanti, et una di quattrocento cavalli, et uno Arzanale per le navi, che
-                        vi stavano dentro dugento venti navi et altri luoghi da armi, et da grani,
-                        dove uno esercito, poteva riporre, et serbare le cose da vivere. Nella città
-                        del Sole che si chiama <placeName ref="#Thebes">Thebe</placeName>, si dice
-                        che erano cento stalle publiche tanto grandi che in qual's'è l'una stavano
-                        dugento cavalli. Nell'<placeName>Isola Zelia</placeName> nel Mare di
-                        Propontide erano duoi porti, et nel mezo Arzanali per le navi, sotto i tetti
-                        dei quali caprivano dugento Navili. Appresso al <placeName ref="#LePiree"
-                            >Pyreo</placeName> era un luogo da armi celebratissimo fatto da
-                            <persName ref="#Philon">Filone</persName> che vi era un luogo
-                        honoratissimo et capace per quattrocento navili. <persName
+                        grandissima schuola di Medici, ordinata da <persName ref="#Zeuxis"
+                            >Zeuside</persName>. Scrive <persName ref="#Appien">Appiano</persName>
+                        che vicino a <placeName ref="#Carthage">Cartagine</placeName> era una stalla
+                        di trecento elefanti, et una di quattrocento cavalli, et uno Arzanale per le
+                        navi, che vi stavano dentro dugento venti navi et altri luoghi da armi, et
+                        da grani, dove uno esercito, poteva riporre, et serbare le cose da vivere.
+                        Nella città del Sole che si chiama <placeName ref="#Thebes"
+                            >Thebe</placeName>, si dice che erano cento stalle publiche tanto grandi
+                        che in qual's'è l'una stavano dugento cavalli. Nell'<placeName>Isola
+                            Zelia</placeName> nel Mare di Propontide erano duoi porti, et nel mezo
+                        Arzanali per le navi, sotto i tetti dei quali caprivano dugento Navili.
+                        Appresso al <placeName ref="#LePiree">Pyreo</placeName> era un luogo da armi
+                        celebratissimo fatto da <persName ref="#Philon">Filone</persName> che vi era
+                        un luogo honoratissimo et capace per quattrocento navili. <persName
                             ref="#DenysAncien">Dyonisio</persName> al <objectName
                             ref="#PortSyracuse">Porto di Syracusa</objectName> fece Arzanali
                         scompartiti con cento sessanta edifiti, sotto ciascuno dei quali potevano

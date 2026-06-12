@@ -2,12 +2,13 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+      <person xml:id="Gelon" source="https://www.wikidata.org/wiki/Q468608"/>
+      <person xml:id="CratesDeThebes" source="https://www.wikidata.org/wiki/Q317947"></person>
+      <person xml:id="Amazones" source="https://www.wikidata.org/wiki/Q134154"></person>
+      <person xml:id="QuintusLutatiusCatulus" source="https://www.wikidata.org/wiki/Q463027"/>
       <person xml:id="Eleazar" source="#https://www.wikidata.org/wiki/Q18246400"/>
       <person xml:id="Hersilie" source="https://www.wikidata.org/wiki/Q1402198"/>
       <person xml:id="MarcusClaudiusTacite" source="https://www.wikidata.org/wiki/Q177988"/>
-      <person xml:id="GeorgesLallemant" source="https://www.wikidata.org/wiki/Q1508985"></person>
-      <person xml:id="FransVanDenDriessche" source="https://rkd.nl/artists/429472"></person>
-      <person xml:id="JacquesBelly" source="https://www.wikidata.org/wiki/Q52149204"></person>
       <person xml:id="ClaudeDeBullion" source="https://www.wikidata.org/wiki/Q2978328"/>
       <person xml:id="QuentinVarin" source="https://www.wikidata.org/wiki/Q658511"/>
       <person xml:id="PhilippeDeChabot" source="https://www.wikidata.org/wiki/Q131959"/>
@@ -132,7 +133,8 @@
       <person xml:id="Mecene" source="https://www.wikidata.org/wiki/Q8833"/>
       <person xml:id="ArtemiseII" source="https://www.wikidata.org/wiki/Q231851"/>
       <person xml:id="Rhodope" source="https://www.wikidata.org/wiki/Q15504920"/>
-      <person xml:id="JacobErnstThomannVonHagelstein" source="https://www.wikidata.org/wiki/Q1677472"/>
+      <person xml:id="JacobErnstThomannVonHagelstein"
+        source="https://www.wikidata.org/wiki/Q1677472"/>
       <person xml:id="MagdalenaVanDePasse" source="https://www.wikidata.org/wiki/Q438750"/>
       <person xml:id="IuliusCapitolinus" source="https://www.wikidata.org/wiki/Q391514"/>
       <person xml:id="Frontin" source="https://www.wikidata.org/wiki/Q297377"/>
