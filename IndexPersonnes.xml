@@ -2,6 +2,10 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+      <person xml:id="NicolasLeBrun" source="https://www.wikidata.org/wiki/Q134087226"></person>
+      <person xml:id="CatherineDeSainteSuzanne" source="https://www.wikidata.org/wiki/Q88623697"></person>
+      <person xml:id="PhilippeDeBethune" source="https://www.wikidata.org/wiki/Q3380920"></person>
+      <person xml:id="ClaudeLeRagoisDeBretonvilliers" source="https://www.wikidata.org/wiki/Q19791978"></person>
       <person xml:id="AgathocleDeSyracuse" source="https://www.wikidata.org/wiki/Q312326"/>
       <person xml:id="LucrecePoete" source="https://www.wikidata.org/wiki/Q47154"/>
       <person xml:id="Demosthene" source="https://www.wikidata.org/wiki/Q117253"/>
@@ -9748,6 +9752,7 @@
           <addName>le Buonarote</addName>
           <addName>Michelangelo</addName>
           <addName>Michelagnolo</addName>
+          <addName>Michel Agnolo</addName>
           <addName>Michel Lange</addName>
           <addName>Michel-Ange</addName>
           <addName>Buonarrotto</addName>
@@ -35613,6 +35618,7 @@
           <addName>Nabuchodonosor II</addName>
           <addName>Nabuchodonosor</addName>
           <addName>Nabucodonosor</addName>
+          <addName>Nabucco di Nasorre</addName>
         </persName>
         <birth when="0642">
           <placeName>Uruk</placeName>
