@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI>
   <listObject xmlns="http://www.tei-c.org/ns/1.0">
-    <object xml:id="AgnoloGaddiArno">
-      <p>AgnoloGaddi, Ponte Vecchio traversant l'Arno</p>
+    <object xml:id="AcropoleAlatri">
+      <p>Inconnu, Acropole d'Alatri</p>
     </object>
-    <object xml:id="AgnoloGaddiTour">
+    <object xml:id="AcropoleAthenes">
+      <p>Inconnu, Acropole d'Athènes</p>
+    </object>
+    <object xml:id="AgnoloGaddiArno">
+      <p>TaddeoGaddi, Ponte Vecchio traversant l'Arno</p>
+    </object>
+    <object xml:id="AgnoloGaddiGiottoCampanile">
       <p>Giotto, Campanile de Santa Maria del Fiore</p>
     </object>
     <object xml:id="AgostinoVenezianoEcoleAthenes">
       <p>AgostinoVeneziano, Groupe de figures issues de l'Ecole d'Athènes de Raphaël</p>
     </object>
+    <object xml:id="AlexandreLeGrandApelle">
+      <p>Apelle, Alexandre Le Grand</p>
+    </object>
+    <object xml:id="AlexandreLeGrandBlesse">
+      <p>Lysippe, Alexandre Le Grand Blessé</p>
+    </object>
+    <object xml:id="AllegorieArno">
+      <p>CosimoBartoli, Allégorie de l'Arno</p>
+    </object>
+    <object xml:id="AllegorieCycleVieBartoli">
+      <p>CosimoBartoli, Allégorie du cycle de la vie</p>
+    </object>
     <object xml:id="AlmoCollegioBorromeo">
-      <p>PellegrinoTibaldi, AlmoCollegioBorromeo</p>
+      <p>PellegrinoTibaldi, Almo Collegio Borromeo</p>
     </object>
     <object xml:id="AmphitheatreCapoue">
       <p>Inconnu, Amphitéathre de Capoue</p>
@@ -19,8 +37,11 @@
     <object xml:id="AmphitheatrePula">
       <p>Inconnu, Amphithéatre de Pula</p>
     </object>
+    <object xml:id="AncienTempleAthenaPoliasAthenes">
+      <p>Inconnu, Ancien temple d'Athéna Polias à Athènes</p>
+    </object>
     <object xml:id="AndreaAndreaniTriompheGrave">
-      <p>AndreaAndreani, Les Triomphes de Jules César</p>
+      <p>AndreaMantegna, Les Triomphes de Jules César</p>
     </object>
     <object xml:id="AndreaDelCastagnoExecutionConjures">
       <p>AndreaDelCastagno, L'Exécution des conjurés ou Gli Impiccati</p>
@@ -38,13 +59,19 @@
       <p>Inconnu, Tableau représentant Hélène</p>
     </object>
     <object xml:id="AnonymeRaphaelDieuCreantAnimaux">
-      <p>anonyme, Dieu créant les animaux</p>
+      <p>None, Dieu créant les animaux</p>
+    </object>
+    <object xml:id="AntiqueBasiliqueVaticane">
+      <p>Inconnu, Antique Basilique de Saint Pierre au Vatican</p>
     </object>
     <object xml:id="ApelleCalomnie">
       <p>Apelle, Calomnie</p>
     </object>
     <object xml:id="ApelleCampaspe">
       <p>Apelle, Portrait de Campaspe</p>
+    </object>
+    <object xml:id="ApelleCythere">
+      <p>Apelle, Aphrodite Anadyomene</p>
     </object>
     <object xml:id="ArcAugusteSuse">
       <p>Inconnu, Arc d'Auguste Suse</p>
@@ -55,11 +82,14 @@
     <object xml:id="ArcMalventuratoRome">
       <p>Inconnu, Arco Malventurato</p>
     </object>
+    <object xml:id="ArcSeptimeSevereRome">
+      <p>Inconnu, Arc de Septime Sévère</p>
+    </object>
     <object xml:id="ArcSergiusPula">
       <p>Inconnu, Arc des Sergius</p>
     </object>
     <object xml:id="ArcTitusRome">
-      <p>Inconnu, Arc de Titus Rome</p>
+      <p>Inconnu, Arc de Titus</p>
     </object>
     <object xml:id="ArcTrajanAncone">
       <p>Inconnu, Arc de Trajan d'Ancône</p>
@@ -79,35 +109,80 @@
     <object xml:id="AthenaGiustiniani">
       <p>Inconnu, Athena Giustiniani</p>
     </object>
+    <object xml:id="BacchanaleAvecUnSileneMantegna">
+      <p>AndreaMantegna, Bacchanale avec un Silène</p>
+    </object>
+    <object xml:id="BacchanalesMantegna">
+      <p>AndreaMantegna, Bacchanales</p>
+    </object>
+    <object xml:id="BaptistereDuLatranRome">
+      <p>Inconnu, Baptistère du Latran Rome</p>
+    </object>
+    <object xml:id="BasiliqueAemiliaRome">
+      <p>Inconnu, Basilique Civile Aemilia à Rome</p>
+    </object>
+    <object xml:id="BasiliqueDeFano">
+      <p>Vitruve, Basilique de Fano</p>
+    </object>
+    <object xml:id="BasiliqueDeMaxenxeConstantinRome">
+      <p>Inconnu, Basilique de Maxence et Constantin à Rome</p>
+    </object>
+    <object xml:id="BasiliquePalladienneVicence">
+      <p>AndreaPalladio, Basilique Palladienne à Vicence</p>
+    </object>
+    <object xml:id="BasiliquePorciaRome">
+      <p>Inconnu, Basilique Civile Porcia à Rome</p>
+    </object>
     <object xml:id="BasiliqueSaintAugustinRome">
       <p>Inconnu, Basilique Saint Augustin</p>
     </object>
     <object xml:id="BasiliqueSaintJeanLatranRome">
       <p>Inconnu, Basilique Saint Jean De Latran</p>
     </object>
+    <object xml:id="BasiliqueSaintMarcVenise">
+      <p>Inconnu, Basilique Saint-Marc à Venise</p>
+    </object>
+    <object xml:id="BasiliqueSaintPaulHorsLesMurs">
+      <p>Inconnu, Basilique Saint-Paul-Hors-Les-Murs</p>
+    </object>
     <object xml:id="BasiliqueSaintPierreRome">
-      <p>Inconnu, Basilique Saint-Pierre de Rome</p>
+      <p>MichelAnge, Basilique Saint-Pierre de Rome</p>
+    </object>
+    <object xml:id="BasiliqueSaintSebastienHorsLesMursRome">
+      <p>FlaminioPonzio, Basilique Saint-Sébastien-hors-les-Murs à Rome</p>
     </object>
     <object xml:id="BasiliqueSainteAgnesHorsLesMursRome">
       <p>Inconnu, Basilique Sainte Agnès hors les Murs de Rome</p>
     </object>
     <object xml:id="BasiliqueSaintsApotresRome">
-      <p>Inconnu, Basilique des Saints-Apôtres</p>
+      <p>BaccioPontelli, Basilique des Saints-Apôtres</p>
+    </object>
+    <object xml:id="BasiliqueSanGiorgioMaggioreVenise">
+      <p>AndreaPalladio, Basilique San Giorgio Maggiore</p>
+    </object>
+    <object xml:id="BasiliqueSanLorenzoFlorence">
+      <p>Brunelleschi, Basilique San Lorenzo à Florence</p>
     </object>
     <object xml:id="BasiliqueSanMiniatoFlorence">
       <p>Inconnu, Basilique San Miniato al Monte</p>
     </object>
+    <object xml:id="BasiliqueSantaCroceFlorence">
+      <p>ArnolfoDiCambio, Basilique Santa Croce</p>
+    </object>
     <object xml:id="BasiliqueSantaFrancescaRomanaRome">
-      <p>Inconnu, Basilique Santa Francesca Romana</p>
+      <p>Carlo Lambardi, Basilique Santa Francesca Romana</p>
     </object>
     <object xml:id="BasiliqueSantaMariaDelPopolo">
-      <p>Aaron, Basilique Santa Maria del Popolo</p>
+      <p>BaccioPontelli, Basilique Santa Maria del Popolo</p>
     </object>
     <object xml:id="BasiliqueSantaMariaDellaSaluteVenise">
       <p>BaldassarreLonghena, Basilique Santa Maria della Salute</p>
     </object>
     <object xml:id="BasiliqueSantiCosmaDamianoRome">
-      <p>Inconnu, Basilique Santi Cosma e Damiano</p>
+      <p>TorrianiOrazio, Basilique Santi Cosma e Damiano</p>
+    </object>
+    <object xml:id="BasiliqueSantissimaAnnunziataFlorence">
+      <p>AntonioPucci, Basilique Santissima Annunziata Florence</p>
     </object>
     <object xml:id="BeatrizetAnnonciation">
       <p>NicolasBeatrizet, Annonciation</p>
@@ -155,7 +230,7 @@
       <p>BernardSalomon, Biblia sacra, ad optima quaeque veteris, ut vocant, tralationis exemplaria summa diligentia, parique, fide castigata cum indicibus copiosissimis</p>
     </object>
     <object xml:id="BibliothequeAmbrosienneMilan">
-      <p>Inconnu, Bibliothèque Ambrosienne</p>
+      <p>FabioMangone, Bibliothèque Ambrosienne</p>
     </object>
     <object xml:id="BibliothequeMediceaLaurenzianaFlorence">
       <p>MichelAnge, Bibliothèque Medicea Laurenziana Florence</p>
@@ -169,11 +244,20 @@
     <object xml:id="BotticelliDivineComedie">
       <p>SandroBotticelli, Commentaire et illustration de la Divine Comédie de Dante</p>
     </object>
+    <object xml:id="BouclierAchille">
+      <p>Inconnu, Bouclier d'Achille</p>
+    </object>
     <object xml:id="BrittoAdorationBergers">
       <p>GiovanniBritto, Adoration des bergers</p>
     </object>
+    <object xml:id="BularqueBatailleMagnesiens">
+      <p>Bularque, Bataille des Magnésiens</p>
+    </object>
+    <object xml:id="CalomnieApelle">
+      <p>Apelle, Calomnie</p>
+    </object>
     <object xml:id="CampanileSaintMarcVenise">
-      <p>Inconnu, Campanile de saint Marc</p>
+      <p>JacopoSansovino, Campanile de saint Marc</p>
     </object>
     <object xml:id="CaraglioAlexandreRoxane">
       <p>GiovanniJacopoCaraglio, Alexandre et Roxane</p>
@@ -196,6 +280,18 @@
     <object xml:id="CaraglioSaturnePhilyra">
       <p>GiovanniJacopoCaraglio, Saturne et Phylira</p>
     </object>
+    <object xml:id="CaravageAlofWignacourtLouvre">
+      <p>Caravage, Portrait d'Alof de Wignacourt</p>
+    </object>
+    <object xml:id="CaravageCupidonGemaldegalerie">
+      <p>Caravage, Cupidon ou l'Amour vainqueur</p>
+    </object>
+    <object xml:id="CaravageDecollationSaintJeanMalte">
+      <p>Caravage, La Décollation de saint Jean-Baptiste</p>
+    </object>
+    <object xml:id="CaravageIncreduliteSaintThomasPotsdam">
+      <p>Caravage, L'Incrédulité de saint Thomas</p>
+    </object>
     <object xml:id="CarracheCrisBologne">
       <p>SimonGuillainII, Cris de Bologne</p>
     </object>
@@ -205,11 +301,26 @@
     <object xml:id="CasaBuonarroti">
       <p>MichelAnge, Casa Buonarroti, maison de MichelAnge</p>
     </object>
+    <object xml:id="CastelSantAngeloRome">
+      <p>None, Château Saint-Ange Rome</p>
+    </object>
+    <object xml:id="CastelvecchioVerone">
+      <p>Inconnu, Castelvecchio à Verone</p>
+    </object>
+    <object xml:id="CathedraleNotreDameParis">
+      <p>JehanDeChelles, Notre-Dame de Paris</p>
+    </object>
     <object xml:id="CathedralePise">
-      <p>Inconnu, Cathédrale Notre-Dame-de-l'Assomption de Pise</p>
+      <p>Buschetto, Cathédrale Notre-Dame-de-l'Assomption de Pise</p>
+    </object>
+    <object xml:id="CathedraleSaintBavonGand">
+      <p>AdrienDeCroÿ, Cathédrale Saint-Bavon</p>
+    </object>
+    <object xml:id="CathedraleSaintJeanLaValette">
+      <p>GirolamoCassar, Co-cathédrale Saint-Jean de La Valette</p>
     </object>
     <object xml:id="CathedraleSantaMariaDelFioreFlorence">
-      <p>Inconnu, Cathédrale Santa Maria del Fiore</p>
+      <p>ArnolfoDiCambio, Cathédrale Santa Maria del Fiore</p>
     </object>
     <object xml:id="CavalliniCrucifixSaintPaul">
       <p>PietroCavallini, Crucifix de bois</p>
@@ -217,11 +328,20 @@
     <object xml:id="CesariBataillesCapitole">
       <p>GiuseppeCesari, Les batailles du Capitole</p>
     </object>
+    <object xml:id="ChapelleDelMonteSanPietroInMontorioRome">
+      <p>GiovanAntonioDosio, Chapelle Del Monte</p>
+    </object>
+    <object xml:id="ChapellePaulineMichelAnge">
+      <p>MichelAnge, Chapelle Pauline</p>
+    </object>
     <object xml:id="ChapelleSixtine">
       <p>MichelAnge, Chapelle Sixtine</p>
     </object>
     <object xml:id="ChateauChambord">
-      <p>Inconnu, Chateau de Chambord</p>
+      <p>PierreNepveu, Chateau de Chambord</p>
+    </object>
+    <object xml:id="CircusMaximusRome">
+      <p>Inconnu, Circus Maximus à Rome</p>
     </object>
     <object xml:id="CockVisitationPiombo">
       <p>HieronymusCock, La Visitation</p>
@@ -230,7 +350,7 @@
       <p>HieronymusCock, Visitation</p>
     </object>
     <object xml:id="ColonneAntonineRome">
-      <p>Inconnu, Colonne Antonine</p>
+      <p>Inconnu, Colonne d'Antonin le Pieux</p>
     </object>
     <object xml:id="ColonneMarcAureleRome">
       <p>Inconnu, Colonne de Marc-Aurèle</p>
@@ -244,6 +364,12 @@
     <object xml:id="ColosseumRome">
       <p>Inconnu, Colisée</p>
     </object>
+    <object xml:id="CombatDeDieuxMarinsMantegna">
+      <p>AndreaMantegna, Combat de Dieux Marins</p>
+    </object>
+    <object xml:id="ComplexeSantApolloniaFlorence">
+      <p>Inconnu, Complexe Sant'Apollonia à Florence</p>
+    </object>
     <object xml:id="CopieLeonardCeneParis">
       <p>Inconnu, Copie de la Cène de Léonard de Vinci</p>
     </object>
@@ -252,6 +378,9 @@
     </object>
     <object xml:id="CornelisCortTransfiguration">
       <p>CornelisCort, La transfiguration</p>
+    </object>
+    <object xml:id="CorregeAssomptionViergeParme">
+      <p>Correge, L'Assomption de la Vierge</p>
     </object>
     <object xml:id="CorregeCoupoleAssomption">
       <p>Correge, Assomption (Coupole)</p>
@@ -274,6 +403,21 @@
     <object xml:id="CortMartyreSaintLaurentTitien">
       <p>CornelisCort, Martyre de saint Laurent</p>
     </object>
+    <object xml:id="CrucifixdeSantoSpirito">
+      <p>MichelAnge, Crucifix de Santo Spirito</p>
+    </object>
+    <object xml:id="CuriaJuliaRome">
+      <p>Inconnu, Curia Julia à Rome</p>
+    </object>
+    <object xml:id="CurieHostiliaRome">
+      <p>Inconnu, Curia Hostilia à Rome</p>
+    </object>
+    <object xml:id="DaCarpiDescenteCroix">
+      <p>UgoDaCarpi, Descente de croix</p>
+    </object>
+    <object xml:id="DaCarpiDiogene">
+      <p>UgoDaCarpi, Diogène</p>
+    </object>
     <object xml:id="DaCarpiEneeAnchise">
       <p>UgoDaCarpi, Enée et Anchise</p>
     </object>
@@ -288,6 +432,9 @@
     </object>
     <object xml:id="DaCarpiVeroniquePaulPierre">
       <p>UgoDaCarpi, Sainte Véronique entre les saints Pierre et Paul</p>
+    </object>
+    <object xml:id="DaTrentoMartyrePierrePaul">
+      <p>AntonioDaTrento, Martyre de saint Pierre et de saint Paul</p>
     </object>
     <object xml:id="DanieleDaVolterraEquestreHenriII">
       <p>DanieleDaVolterra, Statue équestre Henri II</p>
@@ -325,6 +472,27 @@
     <object xml:id="DenteMassacreInnocents">
       <p>MarcoDente, Massacre des Innocents</p>
     </object>
+    <object xml:id="DianeTimarete">
+      <p>Timarete, Diane</p>
+    </object>
+    <object xml:id="DominiquinAdamEveGrenoble">
+      <p>Dominiquin, Dieu réprimandant Adam et Eve</p>
+    </object>
+    <object xml:id="DominiquinCommunionSaintJeromeVatican">
+      <p>Dominiquin, La Communion de Saint Jérôme</p>
+    </object>
+    <object xml:id="DominiquinDavidVersailles">
+      <p>Dominiquin, Le roi David à la harpe</p>
+    </object>
+    <object xml:id="DominiquinEvangelistesSantAndreaDellaValleRome">
+      <p>Dominiquin, Pendentifs du dôme de Sant'Andrea représentant les quatre Évangélistes</p>
+    </object>
+    <object xml:id="DominiquinPortementCroixGetty">
+      <p>Dominiquin, Le Portement de la Croix po</p>
+    </object>
+    <object xml:id="DominiquinSaintAndreSanGregorio">
+      <p>Dominiquin, La Flagellation de saint André</p>
+    </object>
     <object xml:id="DomusAureaRome">
       <p>Inconnu, Domus Aurea</p>
     </object>
@@ -332,16 +500,19 @@
       <p>Donatello, Saint Georges</p>
     </object>
     <object xml:id="DuomoTurin">
-      <p>Inconnu, Cathédrale Saint-Jean6Baptiste de Turin</p>
+      <p>AmedeoDiFrancescoDaSettignano, Cathédrale Saint-Jean-Baptiste de Turin</p>
     </object>
     <object xml:id="DurerDecollationSaintJeanBaptiste">
       <p>AlbrechtDurer, La Décollation de saint Jean-Baptiste</p>
     </object>
     <object xml:id="DurerGrandePassionBois">
-      <p>AlbrechtDurer, Grande p</p>
+      <p>AlbrechtDurer, Grande Passion</p>
     </object>
-    <object xml:id="DurerMelencolia">
+    <object xml:id="DurerMelancolia">
       <p>AlbrechtDurer, Melencolia I</p>
+    </object>
+    <object xml:id="DurerNativite">
+      <p>AlbrechtDurer, Nativité</p>
     </object>
     <object xml:id="DurerPassionCuivre">
       <p>AlbrechtDurer, Passion sur cuivre</p>
@@ -355,20 +526,71 @@
     <object xml:id="DurerSaintJeromeBurin">
       <p>AlbrechtDurer, Saint Jérôme dans sa cellule</p>
     </object>
+    <object xml:id="DurerViedelaVierge">
+      <p>None, Vie de la Vierge</p>
+    </object>
+    <object xml:id="DurerViergeSinge">
+      <p>AlbrechtDurer, Vierge avec un singe</p>
+    </object>
+    <object xml:id="EgliseMadonnaDellOrtoVenise">
+      <p>Inconnu, Église de la Madonna dell'Orto</p>
+    </object>
     <object xml:id="EgliseSaintEtienneLeRondRome">
       <p>Inconnu, Église Saint-Étienne-le-Rond</p>
+    </object>
+    <object xml:id="EgliseSaintPaulDominicainsAnvers">
+      <p>DominikusDeWaghemakere, Église Saint-Paul d'Anvers</p>
     </object>
     <object xml:id="EgliseSaintSeverinParis">
       <p>Inconnu, Église Saint-Séverin</p>
     </object>
+    <object xml:id="EgliseSanDionisioFlorence">
+      <p>Inconnu, Église  de San Dionisio</p>
+    </object>
+    <object xml:id="EgliseSanGirolamoCaritaRome">
+      <p>Inconnu, Église San Girolamo della Carità</p>
+    </object>
+    <object xml:id="EgliseSanGregorioCelioRome">
+      <p>GiovanniBattistaSoria, Église San Gregorio al Celio ou Saint Grégoire</p>
+    </object>
     <object xml:id="EgliseSanLioVenise">
       <p>Inconnu, Église San Lio</p>
+    </object>
+    <object xml:id="EgliseSanPietroinMontorio">
+      <p>BaccioPontelli, Église San Pietro in Montorio Rome</p>
+    </object>
+    <object xml:id="EgliseSanPoloNaples">
+      <p>FrancescoGrimaldi, Eglise de Saint Polo à Naples</p>
     </object>
     <object xml:id="EgliseSanSalvadorVenise">
       <p>BaldassarreLonghena, Eglise San Salvador</p>
     </object>
+    <object xml:id="EgliseSanSebastianoVenise">
+      <p>AntonioAbbondi, Église San Sebastiano de Venise</p>
+    </object>
+    <object xml:id="EgliseSantAndreaCelioRome">
+      <p>FlaminioPonzio, Oratoire Sant'Andrea al Celio</p>
+    </object>
+    <object xml:id="EgliseSantAndreaDellaValleRome">
+      <p>FrancescoGrimaldi, Église Sant'Andrea della Valle</p>
+    </object>
     <object xml:id="EgliseSantaMariaDellaPieveArezzo">
       <p>GiorgioVasari, Église Santa Maria della Pieve</p>
+    </object>
+    <object xml:id="EgliseSantaMariaEgiziacaRome">
+      <p>Inconnu, Eglise de Santa Maria Egiziaca à Rome</p>
+    </object>
+    <object xml:id="EgliseSantaMariaFormosaVenise">
+      <p>MauroCodussi, Église Santa Maria Formosa</p>
+    </object>
+    <object xml:id="EgliseSantaMariaPressoSanSatiroMilan">
+      <p>Bramante, Église Santa Maria presso San Satiro</p>
+    </object>
+    <object xml:id="EgliseSantoSpiritoInSassiaRome">
+      <p>AntonioDaSangalloIlGiovane, Eglise Santo Spirito in Sassia a Roma</p>
+    </object>
+    <object xml:id="EgliseSantoStefanoVenise">
+      <p>Inconnu, Église Santo Stefano</p>
     </object>
     <object xml:id="EneaVicoAnnonciationTitien">
       <p>EneaVico, Annonciation</p>
@@ -394,6 +616,12 @@
     <object xml:id="EneaVicoLedaMichelange">
       <p>EneaVico, Léda et le cygne</p>
     </object>
+    <object xml:id="EtemenankiBabylone">
+      <p>Inconnu, Etemenanki de Babylone</p>
+    </object>
+    <object xml:id="FacadesTempleSanteRome">
+      <p>QuintusFabiusPictor, Facades du Temple de la Santé Rome</p>
+    </object>
     <object xml:id="FedericoZuccaroCalomnie">
       <p>FedericoZuccaro, La Calomnie</p>
     </object>
@@ -415,8 +643,26 @@
     <object xml:id="FondacoTedeschiVenise">
       <p>Giorgione, Façade terrestre et du Fondaco dei Tedeschi</p>
     </object>
+    <object xml:id="FontaineDesDioscuresRome">
+      <p>Inconnu, Fontaine des Dioscures à Rome</p>
+    </object>
     <object xml:id="FontaineNeptuneFlorence">
       <p>BartolomeoAmmannati, Fontaine de Neptune</p>
+    </object>
+    <object xml:id="FontaineNeptuneRicasoli">
+      <p>FrancescoCamilliani, Fontaine Neptune</p>
+    </object>
+    <object xml:id="FontaineVenusRicasoli">
+      <p>Inconnu, Fontaine Venus</p>
+    </object>
+    <object xml:id="ForumAugusteRome">
+      <p>Inconnu, Forum d'Auguste Rome</p>
+    </object>
+    <object xml:id="ForumBoariumRome">
+      <p>Inconnu, Forum Boarium à Rome</p>
+    </object>
+    <object xml:id="ForumDeLaPaixRome">
+      <p>Inconnu, Forul de la paix Rome</p>
     </object>
     <object xml:id="FraAngelicoChapelleNicoline">
       <p>Inconnu, Fresques de la chapelle Nicoline</p>
@@ -436,6 +682,24 @@
     <object xml:id="FrancoPierreJeanGuersisonParalytique">
       <p>BattistaFranco, Pierre et Jean guérissant un paralytique à la porte du Temple</p>
     </object>
+    <object xml:id="GBScultoriCavalier">
+      <p>GiovanniBattistaScultori, Cavalier en armure antique</p>
+    </object>
+    <object xml:id="GBScultoriGuerrierEtendard">
+      <p>GiovanniBattistaScultori, Un guerrier portant un étendard</p>
+    </object>
+    <object xml:id="GBScultoriMarsVenus">
+      <p>GiovanniBattistaScultori, Mars et Vénus</p>
+    </object>
+    <object xml:id="GBScultoriTetesSoldats">
+      <p>GiovanniBattistaScultori, Têtes de soldats</p>
+    </object>
+    <object xml:id="GBScultoriTroyes">
+      <p>GiovanniBattistaScultori, Les Troyens repoussant les Grecs</p>
+    </object>
+    <object xml:id="GBScultoriViergeCroissant">
+      <p>GiovanniBattistaScultori, Vierge à l'enfant debout sur un croissant de lune</p>
+    </object>
     <object xml:id="GaetanoZumboAdorationBergers">
       <p>GaetanoZumbo, Adoration des bergers</p>
     </object>
@@ -445,11 +709,14 @@
     <object xml:id="GalerieFrancoisIer">
       <p>RossoFiorentino, Galerie François Ier</p>
     </object>
-    <object xml:id="GalerieJustinienne">
-      <p>Inconnu, La Galerie Justinienne</p>
-    </object>
     <object xml:id="GalerieUlysseFontainebleau">
       <p>JacquesAndrouetDuCerceau, Galerie d'Ulysse</p>
+    </object>
+    <object xml:id="GaleriedesOfficesFlorence">
+      <p>GiorgioVasari, Galerie des Offices</p>
+    </object>
+    <object xml:id="GalleriaGiustiniana">
+      <p>Inconnu, La Galerie Justinienne ou galleria Giustiniana</p>
     </object>
     <object xml:id="GhisiDisputeSacrement">
       <p>GiorgioGhisi, Dispute du Saint Sacrement</p>
@@ -475,6 +742,9 @@
     <object xml:id="GiottoNacelleSaintPierreRome">
       <p>Giotto, La Nacelle ou la Barque de Saint Pierre agitée par la tempête</p>
     </object>
+    <object xml:id="GiulioRomanoPolypheme">
+      <p>GiulioRomano, Polyphème</p>
+    </object>
     <object xml:id="GonnelliUrbainVIII">
       <p>GiovanniGonnelli, Buste d'Urbain VIII</p>
     </object>
@@ -487,8 +757,17 @@
     <object xml:id="GuidoReniCrucifixion">
       <p>GuidoReni, Crucifixion</p>
     </object>
+    <object xml:id="GuidoReniMartyreSaintAndreSanGregorio">
+      <p>GuidoReni, Le Martyre de saint André</p>
+    </object>
     <object xml:id="GuillainFrontispiceCarrache">
       <p>SimonGuillainII, Frontispice et portrait d'Annibale Carrache</p>
+    </object>
+    <object xml:id="HagiaSophiaIstanbul">
+      <p>Inconnu, Sainte-Sophie (Constantinople)</p>
+    </object>
+    <object xml:id="HeraionArgos">
+      <p>EupolémosDArgos, Héraion d'Argos</p>
     </object>
     <object xml:id="HerculeFarnese">
       <p>Inconnu, Hercule Farnèse</p>
@@ -496,14 +775,41 @@
     <object xml:id="HerculesCapitolini">
       <p>Inconnu, Hercules Boarium</p>
     </object>
+    <object xml:id="HopitalInnocentiFlorence">
+      <p>Brunelleschi, Hopital degli Innocenti Florence</p>
+    </object>
+    <object xml:id="HubertJanVanEyckAgneauMystiqueGand">
+      <p>HubertVanEyck, Retable de l'agneau mystique</p>
+    </object>
+    <object xml:id="JardinRicasoliFlorence">
+      <p>CosimoBartoli, Jardin Ricasoli Florence</p>
+    </object>
     <object xml:id="JardinsBabylone">
       <p>Inconnu, Jardins suspendus de Babylone</p>
+    </object>
+    <object xml:id="JoachimVonSandrartGalleriaGiustiniana">
+      <p>JoachimVonSandrart, La  galerie Jugalleria Giustiniana</p>
+    </object>
+    <object xml:id="LEnlevementdesSabines">
+      <p>Giambologna, L'Enlèvement des Sabines</p>
+    </object>
+    <object xml:id="LaBatailleDuPontMilviusVatican">
+      <p>Raphael, La Bataille du Pont Milvius</p>
     </object>
     <object xml:id="LabyrintheEgypte">
       <p>Inconnu, Le Labyrinthe d'Egypte</p>
     </object>
+    <object xml:id="LanfrancoCoupoleSantAndreaDellaValleRome">
+      <p>GiovanniLanfranco, Coupole de Sant'Andrea della Valle Gloire du Paradis</p>
+    </object>
+    <object xml:id="LanfrancoSistoBadalocchioLogesVatican">
+      <p>GiovanniLanfranco, Gravure des loges du Vatican</p>
+    </object>
     <object xml:id="LaocoonAntique">
-      <p>Agésandros, Le groupe du Laocoon</p>
+      <p>Agesandros, Le groupe du Laocoon</p>
+    </object>
+    <object xml:id="LaprocessionDeMegabizoApelle">
+      <p>Apelle, La procession de Megabizo</p>
     </object>
     <object xml:id="LeonardAdamEve">
       <p>LeonardoDaVinci, Adam et Eve</p>
@@ -512,7 +818,7 @@
       <p>LeonardoDaVinci, Adoration des Mages</p>
     </object>
     <object xml:id="LeonardAnghiari">
-      <p>LeonardoDaVinci, Bataille d'Anghiari, Salle des Cinq-Cents au Palazzo Vecchio, Florence</p>
+      <p>LeonardoDaVinci, Bataille d'Anghiari</p>
     </object>
     <object xml:id="LeonardAssomptionMilan">
       <p>LeonardoDaVinci, Assomption avec saint Dominique et saint Pierre de Vérone, Ludovic le More et Béatrice d'Este</p>
@@ -532,9 +838,6 @@
     <object xml:id="LeonardIsabelleEste">
       <p>LeonardoDaVinci, Portrait d'Isabelle d'Este</p>
     </object>
-    <object xml:id="LeonardJoconde">
-      <p>LeonardoDaVinci, La Joconde</p>
-    </object>
     <object xml:id="LeonardLeda">
       <p>LeonardoDaVinci, Léda et le cygne</p>
     </object>
@@ -542,7 +845,7 @@
       <p>LeonardoDaVinci, Lion mécanique</p>
     </object>
     <object xml:id="LeonardMadoneOeillet">
-      <p>LeonardoDaVinci, Madonne à l'oeillet</p>
+      <p>LeonardoDaVinci, La Madone à l'œillet</p>
     </object>
     <object xml:id="LeonardManuscritMotoMisuraAcqua">
       <p>LeonardoDaVinci, Del moto e misura dell'acqua</p>
@@ -563,7 +866,7 @@
       <p>Inconnu, Libreria Piccolomini</p>
     </object>
     <object xml:id="LoSpagnaRaphaelJardinOlivier">
-      <p>LoSpagna, Copie du Jardin des oliviers Raphael</p>
+      <p>GiovanniDiPietro, Copie du Jardin des oliviers Raphael</p>
     </object>
     <object xml:id="LoggiaOdeoCornaroPadoue">
       <p>Inconnu, Loggia et Odeo Cornaro</p>
@@ -575,7 +878,7 @@
       <p>Inconnu, Louvre</p>
     </object>
     <object xml:id="LouvreParis">
-      <p>Inconnu, Palais du Louvre</p>
+      <p>PierreLescot, Palais du Louvre</p>
     </object>
     <object xml:id="LucaCambiasoFacadeNordPalaisMonaco">
       <p>LucaCambiaso, Fresques de la façade Nord du Palais Princier de Monaco</p>
@@ -588,6 +891,12 @@
     </object>
     <object xml:id="LucasDeLeydeCrucifixion">
       <p>LucasVanLeyden, Crucifixion</p>
+    </object>
+    <object xml:id="LysippeZeusTarente">
+      <p>Lysippe, Statue colossale de Zeus</p>
+    </object>
+    <object xml:id="MaisonCarreeNimes">
+      <p>Inconnu, Maison Carrée à Nîmes</p>
     </object>
     <object xml:id="MantegnaBacchanales">
       <p>AndreaMantegna, Bacchanales</p>
@@ -622,8 +931,29 @@
     <object xml:id="MartinoRotaJugementDernier">
       <p>MartinoRota, Jugement dernier</p>
     </object>
+    <object xml:id="MausoleeAugusteRome">
+      <p>Inconnu, Mausolée d'Auguste à Rome</p>
+    </object>
+    <object xml:id="MausoleeCyrusLeGrandPasargades">
+      <p>Inconnu, Mausolée de Cyrus le Grand à Pasargades</p>
+    </object>
+    <object xml:id="MausoleeHalicarnasse">
+      <p>Inconnu, Mausolée d'Halicarnasse</p>
+    </object>
+    <object xml:id="MausoleeMaxenceRome">
+      <p>Inconnu, Mausolée de Maxence à Rome</p>
+    </object>
+    <object xml:id="MausoleeSainteCostanceRome">
+      <p>Inconnu, Mausolée de Sainte Costance</p>
+    </object>
+    <object xml:id="MausoleeTheodoricRavenne">
+      <p>Inconnu, Mausolée de Théodoric à Ravenne</p>
+    </object>
     <object xml:id="MelziFlora">
       <p>FrancescoMelzi, Flora</p>
+    </object>
+    <object xml:id="MenelasetPatrocle">
+      <p>Inconnu, Ménélas et Patrocle ou Ajax et Achille</p>
     </object>
     <object xml:id="MetaRomuliRome">
       <p>Inconnu, Meta Romuli</p>
@@ -655,20 +985,53 @@
     <object xml:id="MichelAngeTombeauLaurentIIMedicis">
       <p>MichelAnge, Tombeau de Laurent II de Médicis</p>
     </object>
-    <object xml:id="MonastereSanLorenzoEscurial">
-      <p>Inconnu, Monastère royal de San Lorenzo de El Escorial</p>
+    <object xml:id="MinervePhidias">
+      <p>Phidias, Minerve</p>
     </object>
-    <object xml:id="MonastereSantAgata">
-      <p>None, Monastère de Sant'Agata</p>
+    <object xml:id="MonaLisa">
+      <p>LeonardoDaVinci, La Joconde</p>
+    </object>
+    <object xml:id="MonastereSanChiaritoFlorence">
+      <p>Inconnu, Monastère San Chiarito Florence</p>
+    </object>
+    <object xml:id="MonastereSanLorenzoEscurial">
+      <p>JuanBautistaDeToledo, Monastère royal de San Lorenzo de El Escorial</p>
+    </object>
+    <object xml:id="MonastereSanLucaFlorence">
+      <p>Inconnu, Monastère de San Luca Florence</p>
     </object>
     <object xml:id="MonastereSantAgataFlorence">
-      <p>AlessandroAllori, Monastère de Sant'Agata</p>
+      <p>AlessandroAllori, Monastère de Sant'Agata FLorence</p>
+    </object>
+    <object xml:id="MonastereSantaCaterinaFlorence">
+      <p>Inconnu, Monastère Santa Caterina Florence</p>
+    </object>
+    <object xml:id="MontSacreDeVarallo">
+      <p>Inconnu, Mont Sacré de Varallo</p>
+    </object>
+    <object xml:id="MoschinoAdametEve">
+      <p>FrancescoMosca, Adam et Ève</p>
+    </object>
+    <object xml:id="MurailleServienne">
+      <p>Inconnu, Muraille Servienne à Rome</p>
+    </object>
+    <object xml:id="MuraillesConstantinople">
+      <p>Inconnu, Murailles de Constantinople</p>
     </object>
     <object xml:id="MuraillesNaples">
       <p>Inconnu, Murailles De Naples</p>
     </object>
+    <object xml:id="MursdeFlorence">
+      <p>ArnolfoDiCambio, Murs de Florence</p>
+    </object>
+    <object xml:id="MuzianoDessinTrajane">
+      <p>Inconnu, Dessins figurant la colonne Trajane</p>
+    </object>
     <object xml:id="NilVatian">
       <p>Inconnu, Statue du dieu Nil</p>
+    </object>
+    <object xml:id="NympheeAlexandreRome">
+      <p>Inconnu, Nymphée d'Alexandre à Rome</p>
     </object>
     <object xml:id="ObelisquesRome">
       <p>Inconnu, Obélisques de Rome</p>
@@ -695,19 +1058,34 @@
       <p>CarloMaderno, Palais Barberini</p>
     </object>
     <object xml:id="PalaisCapriniRome">
-      <p>Inconnu, Palais Caprini</p>
+      <p>Bramante, Palais Caprini</p>
     </object>
     <object xml:id="PalaisChiericatiVicence">
       <p>AndreaPalladio, Palais Chiericati à Venice</p>
     </object>
+    <object xml:id="PalaisCiteParis">
+      <p>Inconnu, Palais de la Cité</p>
+    </object>
     <object xml:id="PalaisDallaTorreVerone">
       <p>AndreaPalladio, Palais Dalla Torre à Verone</p>
+    </object>
+    <object xml:id="PalaisDeLaLogeBrescia">
+      <p>Bramante, Palais de la Loge Brescia</p>
+    </object>
+    <object xml:id="PalaisDogesVenise">
+      <p>AntonioRizzo, Palais des Doges</p>
+    </object>
+    <object xml:id="PalaisDuTeMantoue">
+      <p>GiulioRomano, Palais du Té</p>
     </object>
     <object xml:id="PalaisFarneseRome">
       <p>AntonioDaSangalloIlGiovane, Palais Farnese</p>
     </object>
     <object xml:id="PalaisLuxembourg">
-      <p>Marin de la Vallée, Palais du Luxembourg</p>
+      <p>None, Palais du Luxembourg</p>
+    </object>
+    <object xml:id="PalaisMediciFlorence">
+      <p>Michelozzo, Palais Medici Florence</p>
     </object>
     <object xml:id="PalaisMonaco">
       <p>Inconnu, Palais princier de Monaco</p>
@@ -718,38 +1096,59 @@
     <object xml:id="PalaisPortoVicence">
       <p>AndreaPalladio, Palais Porto à Vicence</p>
     </object>
+    <object xml:id="PalaisProsperoVisconti">
+      <p>GiuseppeMeda, Palais de Prospero Visconti</p>
+    </object>
+    <object xml:id="PalaisRicasoliCarraia">
+      <p>None, Palais Ricasoli à Ponte alla Carraia</p>
+    </object>
+    <object xml:id="PalaisRicasoliFlorence">
+      <p>CosimoBartoli, Palais Ricasoli Florence</p>
+    </object>
     <object xml:id="PalaisThieneVicence">
       <p>AndreaPalladio, Palais Thiene à Vicence</p>
     </object>
     <object xml:id="PalaisTuileriesParis">
-      <p>Inconnu, Palais des Tuileries</p>
+      <p>LouisLeVau, Palais des Tuileries</p>
     </object>
     <object xml:id="PalaisValmaranaVicence">
       <p>AndreaPalladio, Palais Valmarana à Vicence</p>
     </object>
-    <object xml:id="PalaisDuTeMantoue">
-      <p>GiulioRomano, Palais du Té</p>
-    </object>
     <object xml:id="PalazzoBranconioAquilaRome">
-      <p>Inconnu, Palazzo Branconio dell'Aquila</p>
+      <p>RaffaelloSanzio, Palazzo Branconio dell'Aquila</p>
+    </object>
+    <object xml:id="PalazzoDellaRagionePadoue">
+      <p>GiovanniDegliEremitani, Palazzo della Ragione à Padoue</p>
     </object>
     <object xml:id="PalazzoPandolfiniFlorence">
-      <p>Inconnu, Palazzo Pandolfini</p>
+      <p>RaffaelloSanzio, Palazzo Pandolfini</p>
+    </object>
+    <object xml:id="PalazzoPittiFlorence">
+      <p>LucaFancelli, Palais Pitti</p>
     </object>
     <object xml:id="PalazzoVecchioFlorence">
       <p>Inconnu, Palazzo Vecchio</p>
     </object>
+    <object xml:id="PalmaVecchioSainteBarbeVenise">
+      <p>JacopoPalmaIlVecchio, Polyptyque de Sainte Barbe</p>
+    </object>
     <object xml:id="PantheonRome">
       <p>Inconnu, Panthéon</p>
     </object>
+    <object xml:id="ParmesanEauforteNativite">
+      <p>Parmigianino, Nativité</p>
+    </object>
     <object xml:id="ParmesanPierreJeanMalades">
       <p>Parmigianino, Saint Pierre et saint Jean guérissent les malades à la porte du temple</p>
+    </object>
+    <object xml:id="ParthenonAthenes">
+      <p>Callicrates, Parthénon à Athènes</p>
     </object>
     <object xml:id="PavementDuomoSienne">
       <p>DomenicoBeccafumi, Pavement intérieur du Duomo de Sienne</p>
     </object>
     <object xml:id="PerugiaSanSevero">
-      <p>Inconnu, Chapelle Saint Severe</p>
+      <p>GiovanFrancescoDiSangro, Chapelle Saint Severe</p>
     </object>
     <object xml:id="PeruginRaphaelTrinita">
       <p>Perugin, La Trinité et six saints</p>
@@ -757,8 +1156,20 @@
     <object xml:id="PhareAlexandrie">
       <p>Inconnu, Phare d'Alexandrie</p>
     </object>
+    <object xml:id="PhidiasAthenaParthenos">
+      <p>Phidias, Athéna Parthénos</p>
+    </object>
+    <object xml:id="PhidiasZeusOlympie">
+      <p>Phidias, Statue de Zeus à Olympie</p>
+    </object>
+    <object xml:id="PiazzaDiPietraRome">
+      <p>Inconnu, Piazza di Pietra à Rome</p>
+    </object>
     <object xml:id="PietroBuonaccorsiTapisserieDiane">
       <p>PietroBuonaccorsi, Tapisserie des sept planètes</p>
+    </object>
+    <object xml:id="PietroSantiBartoliHistoireSaintPierre">
+      <p>PietroSantiBartoli, Recueil représentant l'histoire de saint Pierre</p>
     </object>
     <object xml:id="PinturicchioAppartementsBorgia">
       <p>Pinturicchio, Peintures des apparetements Borgia</p>
@@ -775,23 +1186,149 @@
     <object xml:id="PolidoroDaCaravaggioFacadesRome">
       <p>PolidoroDaCaravaggio, Façades peintes dans la ville de Rome</p>
     </object>
+    <object xml:id="Polyphemedormant">
+      <p>Timanthe, Polyphème dormant</p>
+    </object>
+    <object xml:id="PonteAemiliusRome">
+      <p>Inconnu, Pont Aemilius Rome</p>
+    </object>
+    <object xml:id="PonteAltinatePadoue">
+      <p>Inconnu, Pont Altinate à Padoue</p>
+    </object>
+    <object xml:id="PonteAugusteNarni">
+      <p>Inconnu, Pont d'Auguste à Narni</p>
+    </object>
+    <object xml:id="PonteCestiusRome">
+      <p>Inconnu, Pont Cestius Rome</p>
+    </object>
+    <object xml:id="PonteCorvoPadoue">
+      <p>Inconnu, Pont Corvo à Padoue</p>
+    </object>
+    <object xml:id="PonteDegliAngeliVicence">
+      <p>Inconnu, Pont degli Angeli Vicence</p>
+    </object>
+    <object xml:id="PonteDiCesareSulReno">
+      <p>Inconnu, Pont sur le Rhin</p>
+    </object>
+    <object xml:id="PonteFabriciusRome">
+      <p>Inconnu, Pont Fabricius Rome</p>
+    </object>
+    <object xml:id="PonteMallioCagli">
+      <p>Inconnu, Ponte Mallio à Cagli</p>
+    </object>
+    <object xml:id="PonteMilvioRome">
+      <p>Inconnu, Pont Milvius Rome</p>
+    </object>
+    <object xml:id="PonteMolinoPadoue">
+      <p>Inconnu, Pont Molino à Padoue</p>
+    </object>
+    <object xml:id="PonteNeronianoRome">
+      <p>Inconnu, Pont Neroniano Rome</p>
+    </object>
+    <object xml:id="PonteRialtoPalladioVenise">
+      <p>AndreaPalladio, Pont de Rialto à Venise, Projet du Palladio</p>
+    </object>
+    <object xml:id="PonteSanLorenzoPadoue">
+      <p>Inconnu, Pont San Lorenzo à Padoue</p>
+    </object>
+    <object xml:id="PonteSanPaoloVicence">
+      <p>Inconnu, Pont Saint Paul Vicence</p>
+    </object>
+    <object xml:id="PonteSantAngeloRome">
+      <p>Inconnu, Ponte Sant'Angelo Rome</p>
+    </object>
+    <object xml:id="PonteSistoRome">
+      <p>Inconnu, Pont Sisto Rome</p>
+    </object>
+    <object xml:id="PonteSubliciusRome">
+      <p>Inconnu, Pont Sublicius Rome</p>
+    </object>
+    <object xml:id="PonteSulCismonBassanoDelGrappa">
+      <p>Inconnu, Pont sur Cismon à Bassano del Grappa</p>
+    </object>
+    <object xml:id="PonteTibereRimini">
+      <p>Inconnu, Ponte de Tibère Rimini</p>
+    </object>
+    <object xml:id="PonteTraianoDanube">
+      <p>ApollodoreDeDamas, Pont de Trajan sur le Danube</p>
+    </object>
+    <object xml:id="PonteVecchioBassanoDelGrappa">
+      <p>AndreaPalladio, Pont Vecchio Bassano del Grappa</p>
+    </object>
     <object xml:id="PontormoSanLorenzo">
       <p>Pontormo, Chœur de la basilique San Lorenzo</p>
+    </object>
+    <object xml:id="PordenoneFresqueSanStefano">
+      <p>Pordenone, Les Fresques du cloître San Stefano</p>
+    </object>
+    <object xml:id="PordenoneTapisserieEste">
+      <p>Inconnu, Tapisserie faite pour Hercules II Este</p>
+    </object>
+    <object xml:id="PortSyracuse">
+      <p>Inconnu, Porte de Syracuse</p>
+    </object>
+    <object xml:id="PortaCapenaRome">
+      <p>Inconnu, Porte Capène Rome</p>
+    </object>
+    <object xml:id="PortaDelPopoloRome">
+      <p>Inconnu, Porte Del Popolo de Rome</p>
+    </object>
+    <object xml:id="PortaEsquilinaRome">
+      <p>Inconnu, Porte Esquiline Rome</p>
     </object>
     <object xml:id="PortaLeoniVerone">
       <p>Inconnu, Porta Leoni Verona</p>
     </object>
+    <object xml:id="PortaSanPancrazioRome">
+      <p>Inconnu, Porte San Pancrazio Rome</p>
+    </object>
+    <object xml:id="PortaSanPaoloRome">
+      <p>Inconnu, Porte San Paolo Rome</p>
+    </object>
+    <object xml:id="PortaSanSebastianoRome">
+      <p>Inconnu, Porta San Sebastiano à Rome</p>
+    </object>
+    <object xml:id="PorteBasiliqueSaintiCosmaDamianoRome">
+      <p>Inconnu, Porte de la Basilique de Santi Cosma et Damiano</p>
+    </object>
+    <object xml:id="PorteNaeviaRome">
+      <p>Inconnu, Porte Naevia à Rome</p>
+    </object>
+    <object xml:id="PortePantheonRome">
+      <p>Inconnu, Porte de Pantheon à Rome</p>
+    </object>
+    <object xml:id="PorteSanGalloFlorence">
+      <p>Inconnu, Porte San Gallo Florence</p>
+    </object>
+    <object xml:id="PorteSantApollonia">
+      <p>MichelAnge, Porte du Monastère de Sant'Apollonia Florence</p>
+    </object>
     <object xml:id="PorteViminaleRome">
       <p>Inconnu, Porte Viminale</p>
     </object>
-    <object xml:id="PorticoPompeoRome">
+    <object xml:id="PortiqueAtheniensDelphes">
+      <p>Inconnu, Portique ou stoa des Athéniens</p>
+    </object>
+    <object xml:id="PortiqueDeLivieRome">
+      <p>Inconnu, Portique de Livie à Rome</p>
+    </object>
+    <object xml:id="PortiquePompeeRome">
       <p>Inconnu, Portico di Pompeo</p>
     </object>
-    <object xml:id="PortiquePompee">
-      <p>Inconnu, Portique de Pompée</p>
+    <object xml:id="PortiqueVipsaniaRome">
+      <p>Inconnu, Portique de Vipsania à Rome</p>
     </object>
     <object xml:id="PortraitGiovanniGentileBelliniLouvre">
       <p>GiovanniBellini, Portrait de Giovanni et Gentile Bellini</p>
+    </object>
+    <object xml:id="PoussinBapteme">
+      <p>NicolasPoussin, Le Baptême</p>
+    </object>
+    <object xml:id="PoussinDerniereSouper">
+      <p>NicolasPoussin, Dernière Souper</p>
+    </object>
+    <object xml:id="PoussinExtremeOnction">
+      <p>NicolasPoussin, L'Extrême-Onction</p>
     </object>
     <object xml:id="PoussinMoise">
       <p>Inconnu, Moïse</p>
@@ -808,11 +1345,23 @@
     <object xml:id="PoussinMoisePointel">
       <p>NicolasPoussin, Moise sauvé des eaux</p>
     </object>
+    <object xml:id="PoussinSeptSacrements">
+      <p>NicolasPoussin, Les Sept Sacrements</p>
+    </object>
+    <object xml:id="PraxiteleAphroditeCnide">
+      <p>Praxitele, Aphrodite de Cnide</p>
+    </object>
     <object xml:id="ProcuratieVenise">
-      <p>Inconnu, Procuratie</p>
+      <p>JacopoSansovino, Procuratie</p>
     </object>
     <object xml:id="ProtogeneJalisus">
       <p>Protogene, Tableau représentant Ialyssós ou Jalisus, héros de la ville éponyme</p>
+    </object>
+    <object xml:id="PyramideCaiusCestius">
+      <p>Inconnu, Pyramide de Caius Cestius</p>
+    </object>
+    <object xml:id="PythagoreionSamos">
+      <p>Inconnu, Pythagoreion de Samos</p>
     </object>
     <object xml:id="RaimondiAllegoriePaix">
       <p>MarcantonioRaimondi, Allégorie de la Paix</p>
@@ -895,6 +1444,9 @@
     <object xml:id="RaimondiPredicationSaintPaul">
       <p>MarcantonioRaimondi, Predication de saint Paul</p>
     </object>
+    <object xml:id="RaimondiRavennaMadonnaPesce">
+      <p>MarcantonioRaimondi, La Vierge au poisson</p>
+    </object>
     <object xml:id="RaimondiReineSaba">
       <p>MarcantonioRaimondi, La reine de Saba</p>
     </object>
@@ -906,6 +1458,9 @@
     </object>
     <object xml:id="RaimondiSaintJerome">
       <p>MarcantonioRaimondi, Saint Jérôme</p>
+    </object>
+    <object xml:id="RaimondiSainteCecile">
+      <p>MarcantonioRaimondi, Sainte Cécile, entourée de saint Paul, saint Jean, saint Augustin et sainte Marie-Madeleine</p>
     </object>
     <object xml:id="RaimondiTroisGraces">
       <p>MarcantonioRaimondi, Les trois graces</p>
@@ -954,6 +1509,9 @@
     </object>
     <object xml:id="RaphaelCeneVatican">
       <p>Raphael, La Cène</p>
+    </object>
+    <object xml:id="RaphaelChambreConstantinVatican">
+      <p>Raphael, Chambre de Constantin</p>
     </object>
     <object xml:id="RaphaelChambreHeliodore">
       <p>Raphael, Chambre d'Heliodore</p>
@@ -1117,6 +1675,9 @@
     <object xml:id="RaphaelParnasse">
       <p>Raphael, Parnasse</p>
     </object>
+    <object xml:id="RaphaelParnasseVatican">
+      <p>Raphael, Parnasse</p>
+    </object>
     <object xml:id="RaphaelPietaPalaColonna">
       <p>Raphael, Lamentation sur le corps du Christ (Prédelle du retable Colonna)</p>
     </object>
@@ -1240,6 +1801,9 @@
     <object xml:id="SaintLucEtMartineRome">
       <p>PierreDeCortone, Eglise de Saint-Luc-et-Martine</p>
     </object>
+    <object xml:id="SaintSebastienFoppa">
+      <p>VincenzoFoppa, Saint Sébastien</p>
+    </object>
     <object xml:id="SaintThomasPavie">
       <p>Inconnu, Eglise de Saint-Thomas de Pavie</p>
     </object>
@@ -1247,43 +1811,34 @@
       <p>Bramante, Église Sainte-Marie-de-la-Paix</p>
     </object>
     <object xml:id="SalaClementinaVatican">
-      <p>Inconnu, Salle Clémentine (Vatican)</p>
+      <p>DomenicoFontana, Salle Clémentine (Vatican)</p>
     </object>
     <object xml:id="Salle500Florence">
-      <p>Inconnu, Salle des Cinq-Cents, Palazzo Vecchio</p>
+      <p>SimoneDelPollaiolo, Salle des Cinq-Cents, Palazzo Vecchio</p>
     </object>
-    <object xml:id="ChambreConstantinVatican">
-      <p>Raphael, Salle de Constantin</p>
+    <object xml:id="SalleGualdradaPalazzoVecchio">
+      <p>GiorgioVasari, Salle de Gualdrada</p>
     </object>
     <object xml:id="SallePalfreniersVatican">
       <p>Inconnu, Salle des Palefreniers</p>
     </object>
     <object xml:id="SanDomenicoMaggioreNaples">
-      <p>Inconnu, Église San Domenico Maggiore</p>
+      <p>PierreDeChaul, Église San Domenico Maggiore</p>
     </object>
     <object xml:id="SanFrancescoGrandeMilan">
-      <p>Inconnu, Eglise Saint-François-Majeur à Milan</p>
-    </object>
-    <object xml:id="SanLorenzoFlorence">
-      <p>Inconnu, Duomo San Lorenzo</p>
-    </object>
-    <object xml:id="SanPietroMontorioRome">
-      <p>Inconnu, Eglise San Pietro in Montorio</p>
-    </object>
-    <object xml:id="SantApolloniaFlorence">
-      <p>Inconnu, Monastère de Sant'Apollonia</p>
+      <p>AntonioNuvolone, Eglise Saint-François-Majeur à Milan</p>
     </object>
     <object xml:id="SantaMariaDegliAngeliMartiriRome">
       <p>LuigiVanvitelli, Basilique Santa Maria Degli Angeli Martiri</p>
     </object>
     <object xml:id="SantaMariaDellAnimaRome">
-      <p>Inconnu, Église Santa Maria dell'Anima</p>
+      <p>AndreaSansovino, Église Santa Maria dell'Anima</p>
     </object>
     <object xml:id="SantaMariaDellaCaritaVenise">
-      <p>Inconnu, Santa Maria della Carita Venise</p>
+      <p>BartolomeoBono, Santa Maria della Carita Venise</p>
     </object>
     <object xml:id="SantaMariaGrazieMilan">
-      <p>Inconnu, Église Santa Maria delle Grazie (Milan)</p>
+      <p>GuiniforteSolari, Église Santa Maria delle Grazie (Milan)</p>
     </object>
     <object xml:id="SantaMariaMaggioreRome">
       <p>FerdinandoFuga, Basilique Santa Maria Maggiore</p>
@@ -1291,8 +1846,17 @@
     <object xml:id="SantaMariaVallicelliRome">
       <p>MatteoBartolini, Église nouvelle, Santa Maria in Vallice</p>
     </object>
+    <object xml:id="SantidiTitoResurrection">
+      <p>SantidiTito, Résurrection</p>
+    </object>
     <object xml:id="SantuarioMariaDellaRotondaRome">
       <p>Inconnu, Santuario di Santa Maria della Rotonda</p>
+    </object>
+    <object xml:id="SculptureVenusRicasoli">
+      <p>SantiGucci, Sculpture Venus</p>
+    </object>
+    <object xml:id="ScuolaGrandeSanRoccoVenise">
+      <p>PietroBon, Scuola Grande de San Rocco à Venise</p>
     </object>
     <object xml:id="SebastianoDelPiomboLazare">
       <p>SebastianoDelPiombo, La Résurrection de Lazare</p>
@@ -1303,44 +1867,161 @@
     <object xml:id="SepulcreSaintDominique">
       <p>NicolaPisano, Sépulcre de saint Dominique</p>
     </object>
+    <object xml:id="SerapeumAlexandrie">
+      <p>Inconnu, Sérapéum d'Alexandrie</p>
+    </object>
     <object xml:id="SignorelliChapelleSanBrizio">
       <p>LucaSignorelli, Chapelle San Brizio, jugement dernier</p>
     </object>
     <object xml:id="SimoneMartiniLaureSade">
-      <p>SimoneMemmi, Portrait de La belle Laure</p>
+      <p>SimoneMartini, Portrait de La belle Laure</p>
     </object>
     <object xml:id="SphinxGizeh">
       <p>Inconnu, Sphinx de Gizeh</p>
     </object>
     <object xml:id="StanzeVatican">
-      <p>Inconnu, Chambres de Raphaël au Vatican</p>
+      <p>Raphael, Chambres de Raphaël au Vatican</p>
+    </object>
+    <object xml:id="StatueEquestreMarcAureleRome">
+      <p>Inconnu, Statue Equestre de Marc Aurèle à Rome</p>
+    </object>
+    <object xml:id="StatueNabuchodonosor">
+      <p>Inconnu, Statue du songe de Nabuchodonosor</p>
+    </object>
+    <object xml:id="StudioloCosmeIMedicis">
+      <p>GiorgioVasari, Studiolo de Cosme Ier de Médicis</p>
+    </object>
+    <object xml:id="StudioloFrancoisIMedicis">
+      <p>VincenzoBorghini, Studiolo de François Ier de Médicis</p>
     </object>
     <object xml:id="SuaireTurin">
       <p>Inconnu, Suaire de Turin</p>
     </object>
+    <object xml:id="SustermansCosimoII">
+      <p>JustusSustermans, Portrait de Cosimo II</p>
+    </object>
     <object xml:id="TafiDiRicoChristFlorence">
       <p>AndreaTafiDiRico, Le Christ Pantocrator au plafond du baptistère Saint-Jean-Baptiste de Florence</p>
     </object>
+    <object xml:id="TempiettoSanPietroMontorioRome">
+      <p>Bramante, Tempietto de San Pietro in Montorio à Rome</p>
+    </object>
+    <object xml:id="TempleAntoninFaustineRome">
+      <p>Inconnu, Temple d'Antonin et Faustine à Rome</p>
+    </object>
+    <object xml:id="TempleApollonDelphes">
+      <p>Inconnu, Temple Apollon Delphes</p>
+    </object>
+    <object xml:id="TempleApollonPalatinRome">
+      <p>Inconnu, Temple d'Apollon Palatin à Rome</p>
+    </object>
+    <object xml:id="TempleApollonThermo">
+      <p>Inconnu, Temple d'Apollon à Thermo</p>
+    </object>
     <object xml:id="TempleArtemisEphese">
-      <p>Inconnu, Temple d'Artémis à</p>
+      <p>TheodoreDeSamos, Temple d'Artémis à Ephèse</p>
+    </object>
+    <object xml:id="TempleAthenaNikeAthenes">
+      <p>Callicrates, Temple d'Athéna Nikè à Athènes</p>
+    </object>
+    <object xml:id="TempleAugustePula">
+      <p>Inconnu, Temple d'Auguste à Pula</p>
     </object>
     <object xml:id="TempleAugusteRome">
       <p>Inconnu, Temple d'Auguste</p>
     </object>
+    <object xml:id="TempleCampelloSulClitunno">
+      <p>Inconnu, Temple de Campello sul Clitunno</p>
+    </object>
+    <object xml:id="TempleDeDianeNimes">
+      <p>Inconnu, Temple De Diane à Nimes</p>
+    </object>
+    <object xml:id="TempleDeJerusalem">
+      <p>Inconnu, Temple de Jérusalem</p>
+    </object>
+    <object xml:id="TempleDeLaConcordeRome">
+      <p>Inconnu, Temple de la Concorde à Rome</p>
+    </object>
+    <object xml:id="TempleDeLaLuneRome">
+      <p>Inconnu, Temple de la Lune à Rome</p>
+    </object>
     <object xml:id="TempleDeSaturneRome">
       <p>Inconnu, Temple de Saturne</p>
+    </object>
+    <object xml:id="TempleDeSolRome">
+      <p>Inconnu, Temple de Sol à Rome</p>
+    </object>
+    <object xml:id="TempleDesDioscuresNaples">
+      <p>Inconnu, Temple des Dioscures à Naples</p>
     </object>
     <object xml:id="TempleDesDioscuresRome">
       <p>Inconnu, Temple des Dioscures</p>
     </object>
+    <object xml:id="TempleHadrienRome">
+      <p>Inconnu, Temple d'Hadrien à Rome</p>
+    </object>
+    <object xml:id="TempleHerculeVictorRome">
+      <p>Inconnu, Temple d'Hercule Victore à Rome</p>
+    </object>
+    <object xml:id="TempleJanusRome">
+      <p>Inconnu, Temple de Janus à Rome</p>
+    </object>
+    <object xml:id="TempleJupiterCapitolinRome">
+      <p>Inconnu, Temple de Jupiter Capitolin à Rome</p>
+    </object>
+    <object xml:id="TempleJupiterStatorRome">
+      <p>Inconnu, Temple de Jupiter Statore à Rome</p>
+    </object>
+    <object xml:id="TempleJupiterTonnantRome">
+      <p>Inconnu, Temple de Jupiter Tonnant à Rome</p>
+    </object>
+    <object xml:id="TempleMarsVengeur">
+      <p>Inconnu, Temple de Mars Vengeur à Rome</p>
+    </object>
+    <object xml:id="TempleMinerveAssise">
+      <p>Inconnu, Temple de Minerve à Assise</p>
+    </object>
+    <object xml:id="TempleMinerveMedicaRome">
+      <p>Inconnu, Temple de Minerve Medica à Rome</p>
+    </object>
+    <object xml:id="TempleMinerveRome">
+      <p>Inconnu, Temple de Minerve à Rome</p>
+    </object>
+    <object xml:id="TempleNabuPalmyre">
+      <p>Inconnu, Temple de  Nabû à Palmyre</p>
+    </object>
     <object xml:id="TemplePietasRome">
       <p>Inconnu, Temple de Pietas Rome</p>
+    </object>
+    <object xml:id="TemplePortunusRome">
+      <p>Inconnu, Temple de Portunus à Rome</p>
     </object>
     <object xml:id="TempleRomulusRome">
       <p>Inconnu, Temple de Romulus</p>
     </object>
     <object xml:id="TempleSalomonJerusalem">
       <p>Inconnu, Temple de Salomon à Jérusalem</p>
+    </object>
+    <object xml:id="TempleSante">
+      <p>None, Temple de la Santé</p>
+    </object>
+    <object xml:id="TempleSerapisRome">
+      <p>Inconnu, Temple de Sérapis à Rome</p>
+    </object>
+    <object xml:id="TempleVenusErycinaErice">
+      <p>Inconnu, Temple de Vénus Erycina à Erice</p>
+    </object>
+    <object xml:id="TempleVenusGenitrixRome">
+      <p>Inconnu, Temple de Vénus Genitrix à Rome</p>
+    </object>
+    <object xml:id="TempleVenusRomeRome">
+      <p>Inconnu, Temple de Vénus et de Rome</p>
+    </object>
+    <object xml:id="TempleVespasienRome">
+      <p>Inconnu, Temple de Vespasien à Rome</p>
+    </object>
+    <object xml:id="TempleVestaRome">
+      <p>Inconnu, Temple de Vesta à Rome</p>
     </object>
     <object xml:id="TempleVestaTivoli">
       <p>Inconnu, Temple de Vesta</p>
@@ -1351,8 +2032,14 @@
     <object xml:id="TheatreBergaVicence">
       <p>Inconnu, Theatre Berga</p>
     </object>
+    <object xml:id="TheatreDePompeeRome">
+      <p>Inconnu, Théâtre de Pompée à Rome</p>
+    </object>
     <object xml:id="TheatreMarcellusRome">
       <p>Inconnu, Théatre de Marcellus</p>
+    </object>
+    <object xml:id="TheatrePula">
+      <p>Inconnu, Theatre de Pula</p>
     </object>
     <object xml:id="TheatreRomainGubbio">
       <p>Inconnu, Theatre Romain de Gubbio</p>
@@ -1360,8 +2047,20 @@
     <object xml:id="TheatreRomainVerone">
       <p>Inconnu, Théatre Romain de Vérone</p>
     </object>
+    <object xml:id="ThermesAgrippaRome">
+      <p>Inconnu, Thermes d'Agrippa à Rome</p>
+    </object>
+    <object xml:id="ThermesCaracallaRome">
+      <p>Inconnu, Thermes de Caracalla à Rome</p>
+    </object>
     <object xml:id="ThermesDiocletienRome">
       <p>Inconnu, Thermes de Dioclétien</p>
+    </object>
+    <object xml:id="ThermesNeronRome">
+      <p>Inconnu, Thermes de Néron à Rome</p>
+    </object>
+    <object xml:id="ThermesStufeNeroneBaies">
+      <p>Inconnu, Thermes Stufe de Nerone à Baies</p>
     </object>
     <object xml:id="ThermesTitusRome">
       <p>Inconnu, Thermes De Titus</p>
@@ -1411,6 +2110,9 @@
     <object xml:id="TitienMartyreSaintLaurentVenise">
       <p>Titien, Le Martyre de saint Laurent</p>
     </object>
+    <object xml:id="TitienPalmaPietaGallerieAccademiaVenise">
+      <p>Titien, Pietà ou une descente de croix</p>
+    </object>
     <object xml:id="TitienPapePaulIIIPetitsfilsNaples">
       <p>Titien, Portrait du pape Paul III avec ses petits-fils</p>
     </object>
@@ -1441,20 +2143,47 @@
     <object xml:id="TitienTriompheFoi">
       <p>Titien, Le Triomphe de la Foi</p>
     </object>
+    <object xml:id="TombeArchimedeSyracuse">
+      <p>Inconnu, Tombe d'Archimede à Syracuse</p>
+    </object>
+    <object xml:id="TombeauDeDavidJerusalem">
+      <p>Inconnu, Tombeau du roi David à Jérusalem</p>
+    </object>
+    <object xml:id="TombeauDelMonte">
+      <p>BartolomeoAmmannati, Tombeau Del Monte</p>
+    </object>
+    <object xml:id="TombeauMarioNari">
+      <p>BartolomeoAmmannati, Tombeau Mario Nani</p>
+    </object>
     <object xml:id="TorreDelleMilizieRome">
       <p>Inconnu, Tour des Milices</p>
     </object>
     <object xml:id="TourBabel">
       <p>Inconnu, Tour de Babel</p>
     </object>
-    <object xml:id="TriniteMontsRome">
-      <p>Inconnu, Eglise et couvent de la Trinité-des-Monts de Rome</p>
+    <object xml:id="ToursDesContiRome">
+      <p>Inconnu, Tours des Conti à Rome</p>
     </object>
-    <object xml:id="TuileriesParis">
-      <p>Inconnu, Palais des Tuileries</p>
+    <object xml:id="TriniteMontsRome">
+      <p>GiovanniGiacomoDellaPorta, Eglise et couvent de la Trinité-des-Monts de Rome</p>
+    </object>
+    <object xml:id="TriompheDuBonheurBartoli">
+      <p>CosimoBartoli, Triomphe du Bonheur</p>
+    </object>
+    <object xml:id="TroneSalomon">
+      <p>Inconnu, Trône de Salomon</p>
     </object>
     <object xml:id="VasariSepultureMichelAnge">
       <p>GiorgioVasari, Tombeau de Michel Ange à Florence</p>
+    </object>
+    <object xml:id="VenezianoAnanias">
+      <p>AgostinoVeneziano, La mort d'Ananias</p>
+    </object>
+    <object xml:id="VenezianoCharlesQuint">
+      <p>AgostinoVeneziano, Portrait de Charles Quint en armure</p>
+    </object>
+    <object xml:id="VenezianoCharlesQuintVieux">
+      <p>AgostinoVeneziano, Portrait de Charles Quint</p>
     </object>
     <object xml:id="VenezianoChristTroisAnges">
       <p>AgostinoVeneziano, Christ mort soutenu par trois anges</p>
@@ -1486,6 +2215,9 @@
     <object xml:id="VenezianoTemperence">
       <p>AgostinoVeneziano, La Tempérence</p>
     </object>
+    <object xml:id="VenusApelle">
+      <p>Apelle, Venus Anadyomène</p>
+    </object>
     <object xml:id="VeroneseCana">
       <p>PaoloVeronese, Les Noces de Cana</p>
     </object>
@@ -1493,13 +2225,46 @@
       <p>AlessandroLeopardi, Statue équestre du Colleone ; Bartolomeo Colleoni de Bergame</p>
     </object>
     <object xml:id="VerrocchioLeonardoBapteme">
-      <p>Verrocchio, Baptême du Christ</p>
+      <p>AndreaVerrocchio, Baptême du Christ</p>
     </object>
     <object xml:id="VesaleDeHumaniCorporisFabrica">
       <p>AndreasVanWesel, De humani corporis fabrica</p>
     </object>
     <object xml:id="VestibuleBibliothequeMediceaLaurenziana">
-      <p>MichelAnge, Vestibule de la Bibliothèque Medicea Laurenziana Florence</p>
+      <p>MichelAnge, Vestibule de la Bibliothèque Medicea Laurenziana Firenze</p>
+    </object>
+    <object xml:id="ViaAppia">
+      <p>Inconnu, Voie Appienne de Rome à Brindisi</p>
+    </object>
+    <object xml:id="ViaAurelia">
+      <p>Inconnu, Voie Aurelia</p>
+    </object>
+    <object xml:id="ViaFlaminia">
+      <p>Inconnu, Voie Flaminia entre</p>
+    </object>
+    <object xml:id="ViaLabicana">
+      <p>Inconnu, Voie Labicana</p>
+    </object>
+    <object xml:id="ViaNomentana">
+      <p>Inconnu, Voie Nomentana de Rome à Nomentum</p>
+    </object>
+    <object xml:id="ViaOstiense">
+      <p>Inconnu, Voie Ostiense de Rome à</p>
+    </object>
+    <object xml:id="ViaPortuense">
+      <p>Inconnu, Voie Portuensis de Rome à</p>
+    </object>
+    <object xml:id="ViaPraenestina">
+      <p>Inconnu, Via Praenestina de Rome à Palestrina</p>
+    </object>
+    <object xml:id="ViaSacraRome">
+      <p>Inconnu, Voie Sacrée à Rome</p>
+    </object>
+    <object xml:id="VicoCentauresLapithes">
+      <p>EneaVico, Bataille des Centaures et des Lapithes</p>
+    </object>
+    <object xml:id="VicoFillesPierus">
+      <p>EneaVico, Les neufs filles de Piérus</p>
     </object>
     <object xml:id="VicoVulcainFleches">
       <p>EneaVico, Vulcain et les Cyclopes forgent les flèches pour les Amours</p>
@@ -1537,8 +2302,11 @@
     <object xml:id="VillaGodiLugo">
       <p>AndreaPalladio, Villa Godi à Lugo de Vicence</p>
     </object>
-    <object xml:id="VillaMadamaRome">
-      <p>Raphael, Villa Madame aussi appelée Vigne Madame</p>
+    <object xml:id="VillaHadrienTivoli">
+      <p>Inconnu, Villa d'Hadrien à Tivoli</p>
+    </object>
+    <object xml:id="VillaMadama">
+      <p>Raphael, Villa Madama</p>
     </object>
     <object xml:id="VillaMocenigoMarocco">
       <p>AndreaPalladio, Villa Mocenigo à Marocco</p>
@@ -1552,11 +2320,17 @@
     <object xml:id="VillaPojana">
       <p>AndreaPalladio, Villa à Pojana Maggiore</p>
     </object>
+    <object xml:id="VillaRagonaMontegaldella">
+      <p>AndreaPalladio, Villa Ragona a Montegaldella</p>
+    </object>
     <object xml:id="VillaRepetaCampigliaDeiBerici">
       <p>AndreaPalladio, Villa Repeta à Campiglia dei Berici</p>
     </object>
     <object xml:id="VillaSaracenoAgugliaro">
       <p>AndreaPalladio, Villa Saraceno à Agugliaro</p>
+    </object>
+    <object xml:id="VillaSaregoLaMigaVeronella">
+      <p>AndreaPalladio, Villa Sarego La Miga a Veronella</p>
     </object>
     <object xml:id="VillaSeregoPedemonte">
       <p>AndreaPalladio, Villa Serego à Pedemonte</p>
@@ -1588,11 +2362,17 @@
     <object xml:id="ZeuxisHeleneNue">
       <p>Zeuxis, Hélène nue</p>
     </object>
+    <object xml:id="ZeuxisJunon">
+      <p>Zeuxis, Junon</p>
+    </object>
     <object xml:id="ZeuxisVielleFemme">
       <p>Zeuxis, Portrait d'une vieille</p>
     </object>
     <object xml:id="ZuccariCardinaleBorromeo">
       <p>FedericoZuccaro, Imposizione del cappello cardinalizio a Carlo Borromeo</p>
+    </object>
+    <object xml:id="test4">
+      <p>Inconnu, test</p>
     </object>
   </listObject>
 </TEI>
