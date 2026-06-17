@@ -2,6 +2,45 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+      <person xml:id="NicolasLeBrun" source="https://www.wikidata.org/wiki/Q134087226"/>
+      <person xml:id="CatherineDeSainteSuzanne" source="https://www.wikidata.org/wiki/Q88623697"/>
+      <person xml:id="PhilippeDeBethune" source="https://www.wikidata.org/wiki/Q3380920"/>
+      <person xml:id="ClaudeLeRagoisDeBretonvilliers" source="https://www.wikidata.org/wiki/Q19791978"/>
+      <person xml:id="AgathocleDeSyracuse" source="https://www.wikidata.org/wiki/Q312326"/>
+      <person xml:id="LucrecePoete" source="https://www.wikidata.org/wiki/Q47154"/>
+      <person xml:id="Demosthene" source="https://www.wikidata.org/wiki/Q117253"/>
+      <person xml:id="JacquesBordier" source="https://www.wikidata.org/wiki/Q3158324"/>
+      <person xml:id="PhilippeDeLaHire" source="https://www.wikidata.org/wiki/Q371890"/>
+      <person xml:id="GilDeAlbornozYEspinosa" source="https://www.wikidata.org/wiki/Q2517442"/>
+      <person xml:id="FransVanDenDriessche" source="https://rkd.nl/artists/429472"/>
+      <person xml:id="JacquesBelly" source="https://www.wikidata.org/wiki/Q52149204"/>
+      <person xml:id="Gelon" source="https://www.wikidata.org/wiki/Q468608"/>
+      <person xml:id="CratesDeThebes" source="https://www.wikidata.org/wiki/Q317947"/>
+      <person xml:id="Amazones" source="https://www.wikidata.org/wiki/Q134154"/>
+      <person xml:id="QuintusLutatiusCatulus" source="https://www.wikidata.org/wiki/Q463027"/>
+      <person xml:id="Eleazar" source="#https://www.wikidata.org/wiki/Q18246400"/>
+      <person xml:id="Hersilie" source="https://www.wikidata.org/wiki/Q1402198"/>
+      <person xml:id="MarcusClaudiusTacite" source="https://www.wikidata.org/wiki/Q177988"/>
+      <person xml:id="ClaudeDeBullion" source="https://www.wikidata.org/wiki/Q2978328"/>
+      <person xml:id="QuentinVarin" source="https://www.wikidata.org/wiki/Q658511"/>
+      <person xml:id="PhilippeDeChabot" source="https://www.wikidata.org/wiki/Q131959"/>
+      <person xml:id="Abondance" source="https://www.wikidata.org/wiki/Q336003"/>
+      <person xml:id="Fama" source="https://www.wikidata.org/wiki/Q1120723"/>
+      <person xml:id="AristarqueSamos" source="https://www.wikidata.org/wiki/Q140188"/>
+      <person xml:id="Posidonios" source="https://www.wikidata.org/wiki/Q185770"/>
+      <person xml:id="DenysAncien" source="https://www.wikidata.org/wiki/Q332750"/>
+      <person xml:id="Pisistrate" source="https://www.wikidata.org/wiki/Q242172"/>
+      <person xml:id="Thespios" source="https://www.wikidata.org/wiki/Q952188"/>
+      <person xml:id="Iphicles" source="https://www.wikidata.org/wiki/Q738862"/>
+      <person xml:id="FrancoisClouet" source="https://www.wikidata.org/wiki/Q336747"/>
+      <person xml:id="AntonioFantuzzi" source="https://www.wikidata.org/wiki/Q4481148"/>
+      <person xml:id="CharlesCarmoy" source="https://www.wikidata.org/wiki/Q137916571"/>
+      <person xml:id="LouisIILerambert" source="https://www.wikidata.org/wiki/Q1871827"/>
+      <person xml:id="FranciscoMelo" source="https://www.wikidata.org/wiki/Q252902"/>
+      <person xml:id="MargarethaNetscher" source="https://www.wikidata.org/wiki/Q95746957"/>
+      <person xml:id="JoanHuydecoperII" source="https://www.wikidata.org/wiki/Q1690749"/>
+      <person xml:id="MichelLeblond" source="https://www.wikidata.org/wiki/Q18759323"/>
+      <person xml:id="FerdinandIII" source="https://www.wikidata.org/wiki/Q150575"/>
       <person xml:id="QuintusAureliusSymmaque" source="https://www.wikidata.org/wiki/Q355720"/>
       <person xml:id="PittacosDeMytilene" source="https://www.wikidata.org/wiki/Q311835"/>
       <person xml:id="DecimusLaberius" source="https://www.wikidata.org/wiki/Q1181859"/>
@@ -180,6 +219,7 @@
       <person xml:id="Callisto" source="https://www.wikidata.org/wiki/Q203673"/>
       <person xml:id="Suzanne" source="https://www.wikidata.org/wiki/Q756861"/>
       <person xml:id="Muses" source="https://www.wikidata.org/wiki/Q66016"/>
+        <addName>nove Muse</addName>
       <person xml:id="TheodosedeTripoli" source="https://www.wikidata.org/wiki/Q1266186"/>
       <person xml:id="LorenzoSirigatti" source="https://www.wikidata.org/wiki/Q110225880"/>
       <person xml:id="MatthausMerianI" source="https://www.wikidata.org/wiki/Q57968"/>
@@ -221,6 +261,7 @@
       <person xml:id="AlGhazali" source="https://www.wikidata.org/wiki/Q9546"/>
       <person xml:id="ZenonChypre" source="https://www.wikidata.org/wiki/Q8069165"/>
       <person xml:id="GabrieleGiolitoDeFerrari" source="https://www.wikidata.org/wiki/Q1490296"/>
+        <addName>Gabriel Giolito di Ferrari</addName>
       <person xml:id="LodovicoDomenichi" source="https://www.wikidata.org/wiki/Q3257803"/>
       <person xml:id="Gerione" source="https://www.wikidata.org/wiki/Q25409361"/>
       <person xml:id="NiccoloDeMedici" source="https://www.wikidata.org/wiki/Q18289508"/>
@@ -9337,6 +9378,8 @@
           <addName>Ser Bruneleschi</addName>
           <addName>Serbruneleschi</addName>
           <addName>Bruneleschi</addName>
+          <addName>Filippo di ser Brunellesco</addName>
+          <addName>Pippo</addName>
         </persName>
         <birth when="1377">
           <placeName>Firenze</placeName>
@@ -9713,6 +9756,7 @@
           <addName>le Buonarote</addName>
           <addName>Michelangelo</addName>
           <addName>Michelagnolo</addName>
+          <addName>Michel Agnolo</addName>
           <addName>Michel Lange</addName>
           <addName>Michel-Ange</addName>
           <addName>Buonarrotto</addName>
@@ -15514,6 +15558,7 @@
           <surname>Cérès</surname>
           <addName>Cérès</addName>
           <addName>Ceres</addName>
+          <addName>Cerere</addName>
         </persName>
         <birth>
           <placeName>N/A</placeName>
@@ -19086,24 +19131,6 @@
           <objectName>La Reine Christine en Minerve</objectName>
           <objectName>Kristina som Minerva</objectName>
         </floruit>
-      </person>
-      <person xml:id="Eleazar" role="personnage de l'Ancien Testament"
-        source="https://www.wikidata.org/wiki/Q159443">
-        <persName>
-          <forename>Éléazar</forename>
-          <surname>Eleazar</surname>
-          <addName>Eleazar</addName>
-        </persName>
-        <birth when="1192">
-          <placeName>N/A</placeName>
-        </birth>
-        <death when="1100">
-          <placeName>Terre d'Israël</placeName>
-        </death>
-        <trait>
-          <p>N/A</p>
-        </trait>
-        <idno type="wikidata">Q159443</idno>
       </person>
       <person xml:id="Eleusis" role="roi d'Éleusis dans la mythologie grecque"
         source="https://www.wikidata.org/wiki/Q27924383">
@@ -23665,9 +23692,8 @@
         <idno type="wikidata">Q21479080</idno>
       </person>
       <person xml:id="GiovanniGiocondo" role="architecte italien"
-        source="http://www.wikidata.org/entity/Q336806">
-        <persName
-          ref="https://www.getty.edu/vow/ULANFullDisplay?find=fontana+domenico&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500022415">
+        source="https://www.wikidata.org/wiki/Q5585">
+        <persName>
           <forename>Giovanni</forename>
           <surname>Giocondo</surname>
           <addName>Frà Jean Joconde</addName>
@@ -29056,6 +29082,7 @@
           <addName>Antonine</addName>
           <addName>Antonin</addName>
           <addName>Pius</addName>
+          <addName>Antonio Pio</addName>
         </persName>
         <birth when="0086-09-19">
           <placeName>Lanuvium</placeName>
@@ -30532,6 +30559,7 @@
           <addName>Le Diable, Satan</addName>
           <addName>Lucifero</addName>
           <addName>Lucifer</addName>
+          <addName>Diavolo</addName>
         </persName>
         <birth>
           <placeName>N/A</placeName>
@@ -35596,6 +35624,7 @@
           <addName>Nabuchodonosor II</addName>
           <addName>Nabuchodonosor</addName>
           <addName>Nabucodonosor</addName>
+          <addName>Nabucco di Nasorre</addName>
         </persName>
         <birth when="0642">
           <placeName>Uruk</placeName>
@@ -39565,6 +39594,7 @@
           <forename>Pluton</forename>
           <surname>Pluton</surname>
           <addName>Pluton</addName>
+          <addName>Plutone</addName>
         </persName>
         <birth>
           <placeName>N/A</placeName>
@@ -40885,6 +40915,7 @@
           <forename>Proserpine</forename>
           <surname>Proserpine</surname>
           <addName>Proserpine</addName>
+          <addName>Proserpina</addName>
         </persName>
         <birth>
           <placeName>N/A</placeName>
@@ -45295,6 +45326,7 @@
           <addName>Scipion l’Africain</addName>
           <addName>Scipione</addName>
           <addName>Scipion</addName>
+          <addName>Scipione Africano</addName>
         </persName>
         <birth when="0235">
           <placeName>Rome antique</placeName>
