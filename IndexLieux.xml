@@ -2,9 +2,11 @@
 <TEI>
   <settingDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPlace>
-      <place xml:id="PlaceMaubert" source="https://www.wikidata.org/wiki/Q3030249"></place>
-      <place xml:id="CollegeDeLaon" source="https://www.wikidata.org/wiki/Q2983763"></place>
-      <place xml:id="IleNotreDame" source="https://www.wikidata.org/wiki/Q1845956"></place>
+      <place xml:id="Epire" source="https://www.wikidata.org/wiki/Q565751"/>
+      <place xml:id="Atlantide" source="https://www.wikidata.org/wiki/Q25373"/>
+      <place xml:id="PlaceMaubert" source="https://www.wikidata.org/wiki/Q3030249"/>
+      <place xml:id="CollegeDeLaon" source="https://www.wikidata.org/wiki/Q2983763"/>
+      <place xml:id="IleSaintLouis" source="https://www.wikidata.org/wiki/Q211034"/>
       <place xml:id="Pergame" source="https://www.wikidata.org/wiki/Q18986"/>
       <place xml:id="Ecbatane" source="https://www.wikidata.org/wiki/Q696193"/>
       <place xml:id="MontsCerauniens" source="https://www.wikidata.org/wiki/Q1054699"/>
@@ -188,8 +190,9 @@
       <place xml:id="Acre" source="https://www.wikidata.org/wiki/Q126084"/>
       <place xml:id="Arcadie" source="https://www.wikidata.org/wiki/Q12898802"/>
       <place xml:id="Sardaigne" source="https://www.wikidata.org/wiki/Q19740031"/>
-      <place xml:id="Parnasse" source="https://www.wikidata.org/wiki/Q105261"/>
-        <addName>Monte Parnaso</addName>
+      <place xml:id="Parnasse" source="https://www.wikidata.org/wiki/Q105261">
+        <placeName xml:lang="ita">Parnasso</placeName>
+      </place>
       <place xml:id="Cracovie" source="https://www.wikidata.org/wiki/Q31487"/>
       <place xml:id="MontFalterona" source="https://www.wikidata.org/wiki/Q749841"/>
       <place xml:id="Salerno" source="https://www.wikidata.org/wiki/Q1083"/>
