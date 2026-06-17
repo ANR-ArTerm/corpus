@@ -79,6 +79,9 @@
     <object xml:id="ArcCostantinRome">
       <p>Inconnu, Arc de Costantin</p>
     </object>
+    <object xml:id="ArcDeTriompheDeMaximilienDurer">
+      <p>AlbrechtDurer, L'Arc de triomphe de l'empereur Maximilien Ie</p>
+    </object>
     <object xml:id="ArcMalventuratoRome">
       <p>Inconnu, Arco Malventurato</p>
     </object>
@@ -143,7 +146,7 @@
       <p>Inconnu, Basilique Saint-Marc à Venise</p>
     </object>
     <object xml:id="BasiliqueSaintPaulHorsLesMurs">
-      <p>Inconnu, Basilique Saint-Paul-Hors-Les-Murs</p>
+      <p>LuigiPoletti, Basilique Saint-Paul-Hors-Les-Murs</p>
     </object>
     <object xml:id="BasiliqueSaintPierreRome">
       <p>MichelAnge, Basilique Saint-Pierre de Rome</p>
@@ -583,6 +586,9 @@
     <object xml:id="EgliseSantaMariaFormosaVenise">
       <p>MauroCodussi, Église Santa Maria Formosa</p>
     </object>
+    <object xml:id="EgliseSantaMariaInBrera">
+      <p>GiovanniDiBalduccio, Église Santa Maria in Brera</p>
+    </object>
     <object xml:id="EgliseSantaMariaPressoSanSatiroMilan">
       <p>Bramante, Église Santa Maria presso San Satiro</p>
     </object>
@@ -706,14 +712,14 @@
     <object xml:id="GaetanoZumboDescenteCroix">
       <p>GaetanoZumbo, Descente de croix</p>
     </object>
+    <object xml:id="GalerieDesOfficesFlorence">
+      <p>GiorgioVasari, Galerie des Offices</p>
+    </object>
     <object xml:id="GalerieFrancoisIer">
       <p>RossoFiorentino, Galerie François Ier</p>
     </object>
     <object xml:id="GalerieUlysseFontainebleau">
       <p>JacquesAndrouetDuCerceau, Galerie d'Ulysse</p>
-    </object>
-    <object xml:id="GaleriedesOfficesFlorence">
-      <p>GiorgioVasari, Galerie des Offices</p>
     </object>
     <object xml:id="GalleriaGiustiniana">
       <p>Inconnu, La Galerie Justinienne ou galleria Giustiniana</p>
@@ -1007,7 +1013,7 @@
       <p>Inconnu, Monastère Santa Caterina Florence</p>
     </object>
     <object xml:id="MontSacreDeVarallo">
-      <p>Inconnu, Mont Sacré de Varallo</p>
+      <p>BernardinoCaim, Mont Sacré de Varallo</p>
     </object>
     <object xml:id="MoschinoAdametEve">
       <p>FrancescoMosca, Adam et Ève</p>
@@ -1147,6 +1153,9 @@
     <object xml:id="PavementDuomoSienne">
       <p>DomenicoBeccafumi, Pavement intérieur du Duomo de Sienne</p>
     </object>
+    <object xml:id="PeintureDautelValdugiaFerrari">
+      <p>Gaudenzio, La Vierge à l'Enfant, saint François et saint Georges</p>
+    </object>
     <object xml:id="PerugiaSanSevero">
       <p>GiovanFrancescoDiSangro, Chapelle Saint Severe</p>
     </object>
@@ -1164,6 +1173,9 @@
     </object>
     <object xml:id="PiazzaDiPietraRome">
       <p>Inconnu, Piazza di Pietra à Rome</p>
+    </object>
+    <object xml:id="PietaDuVaticanMichelAnge">
+      <p>MichelAnge, Pietà</p>
     </object>
     <object xml:id="PietroBuonaccorsiTapisserieDiane">
       <p>PietroBuonaccorsi, Tapisserie des sept planètes</p>
@@ -1350,6 +1362,12 @@
     </object>
     <object xml:id="PraxiteleAphroditeCnide">
       <p>Praxitele, Aphrodite de Cnide</p>
+    </object>
+    <object xml:id="PriereAuJardinCorrege">
+      <p>Correge, L'Agonie dans le jardin</p>
+    </object>
+    <object xml:id="ProcessionTriomphaleMaximilienDurer">
+      <p>AlbrechtDurer, Procession Triomphale de l'empereur Maximilien Ie</p>
     </object>
     <object xml:id="ProcuratieVenise">
       <p>JacopoSansovino, Procuratie</p>
@@ -1864,6 +1882,9 @@
     <object xml:id="SebastianoDelPiomboVisitation">
       <p>SebastianoDelPiombo, La Visitation</p>
     </object>
+    <object xml:id="SeptGouverneursDuMondeLomazzo">
+      <p>GiovanniPaoloLomazzo, Les sept gouverneurs du monde</p>
+    </object>
     <object xml:id="SepulcreSaintDominique">
       <p>NicolaPisano, Sépulcre de saint Dominique</p>
     </object>
@@ -1899,6 +1920,9 @@
     </object>
     <object xml:id="SustermansCosimoII">
       <p>JustusSustermans, Portrait de Cosimo II</p>
+    </object>
+    <object xml:id="TabernacleEscorialNizzola">
+      <p>GiacomoNizzola, Tabernacle de l'Escorial</p>
     </object>
     <object xml:id="TafiDiRicoChristFlorence">
       <p>AndreaTafiDiRico, Le Christ Pantocrator au plafond du baptistère Saint-Jean-Baptiste de Florence</p>
