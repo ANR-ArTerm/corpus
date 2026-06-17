@@ -148,7 +148,6 @@
       <person xml:id="JacobErnstThomannVonHagelstein"
         source="https://www.wikidata.org/wiki/Q1677472"/>
       <person xml:id="MagdalenaVanDePasse" source="https://www.wikidata.org/wiki/Q438750"/>
-      <person xml:id="IuliusCapitolinus" source="https://www.wikidata.org/wiki/Q391514"/>
       <person xml:id="Frontin" source="https://www.wikidata.org/wiki/Q297377"/>
       <person xml:id="Phlegias" source="https://www.wikidata.org/wiki/Q831583"/>
       <person xml:id="Iolaos" source="https://www.wikidata.org/wiki/Q504076"/>
@@ -177,7 +176,7 @@
       <person xml:id="FaustineAncienne" source="https://www.wikidata.org/wiki/Q234734"/>
       <person xml:id="RanuccioTomassoni" source="https://www.wikidata.org/wiki/Q21607806"/>
       <person xml:id="PietroSantiBartoli" source="https://www.wikidata.org/wiki/Q1106798"/>
-      <person xml:id="CaiusCassiusLonginus" source="https://www.wikidata.org/wiki/Q172248"/>
+      <person xml:id="CaiusCassiusLonginus" source="https://www.wikidata.org/wiki/Q207370"/>
       <person xml:id="MarcusJuniusBrutus" source="https://www.wikidata.org/wiki/Q172248"/>
       <person xml:id="Livie" source="https://www.wikidata.org/wiki/Q469701"/>
       <person xml:id="Hygie" source="https://www.wikidata.org/wiki/Q202257"/>
@@ -254,7 +253,6 @@
       <person xml:id="GianMarcoCavalli" source="https://www.wikidata.org/wiki/Q19569688"/>
       <person xml:id="GiovanniAntonioDaBrescia" source="https://www.wikidata.org/wiki/Q1525753"/>
       <person xml:id="PieterAertsen" source="https://www.wikidata.org/wiki/Q326548"/>
-      <person xml:id="Galien" source="https://www.wikidata.org/wiki/Q8778"/>
       <person xml:id="JuanHurtadoDeMendoza" source="https://www.wikidata.org/wiki/Q559262"/>
       <person xml:id="SainteApolline" source="https://www.wikidata.org/wiki/Q232427"/>
       <person xml:id="SainteAgathe" source="https://www.wikidata.org/wiki/Q200895"/>
@@ -3022,25 +3020,6 @@
         <idno type="ulan">500072194</idno>
         <idno type="viaf">96187201</idno>
         <idno type="wikidata">Q581959</idno>
-      </person>
-      <person xml:id="Anthistene" source="https://www.wikidata.org/wiki/Q179149"
-        role="philosophe antique">
-        <persName>
-          <forename>Antisthène</forename>
-          <surname>Antisthène</surname>
-        </persName>
-        <birth when="0445">
-          <placeName>Le Pirée</placeName>
-        </birth>
-        <death when="0365-01-01">
-          <placeName>Athènes</placeName>
-        </death>
-        <nationality>Athènes</nationality>
-        <idno type="bnf">13197870p</idno>
-        <idno type="viaf">79142539</idno>
-        <idno type="isni">000000011030089X</idno>
-        <idno type="vat">495/26571</idno>
-        <idno type="wikidata">Q179149</idno>
       </person>
       <person xml:id="Antisthene" role="philosophe antique"
         source="https://www.wikidata.org/wiki/Q179149">
@@ -23376,8 +23355,7 @@
         <idno type="isni">0000000117426997</idno>
         <idno type="wikidata">Q1660326</idno>
       </person>
-      <person xml:id="MonaLisa" role="membre de la famille Gherardini de Florence (1479-1542)"
-        source="https://www.wikidata.org/wiki/Q153032">
+      <person xml:id="MonaLisa" role="membre de la famille Gherardini de Florence (1479-1542)" source="https://www.wikidata.org/wiki/Q153032">
         <persName>
           <forename>Mona Lisa</forename>
           <surname>Gherardini</surname>
@@ -23392,7 +23370,6 @@
           <placeName>Florence</placeName>
         </death>
         <trait>
-          <p>N/A</p>
           <p>ou Lisa Gherardini</p>
         </trait>
         <nationality>Florence</nationality>
@@ -25379,32 +25356,6 @@
         <idno type="isni">0000000121430518</idno>
         <idno type="vat">495/90931</idno>
         <idno type="wikidata">Q150726</idno>
-      </person>
-      <person xml:id="AlbertDAutriche" role="cardinal de l'Église catholique romaine"
-        source="https://www.wikidata.org/wiki/Q311452">
-        <persName>
-          <forename>Albert</forename>
-          <surname>Habsbourg</surname>
-          <addName>Archiduc d'autriche</addName>
-          <addName>Archiduc Albert</addName>
-        </persName>
-        <birth when="1559-11-15">
-          <placeName>Wiener Neustadt</placeName>
-        </birth>
-        <death when="1621-07-13">
-          <placeName>Bruxelles</placeName>
-        </death>
-        <trait>
-          <p>militaire, dirigeant ou dirigeante</p>
-          <p>Gouverneur des Paysbas espagnols puis archiduc souverin des Pays Bas. Fils de
-            Maximilien II</p>
-        </trait>
-        <nationality>archiduché d'Autriche</nationality>
-        <idno type="bnf">13511700t</idno>
-        <idno type="viaf">268175280</idno>
-        <idno type="isni">0000000061278656</idno>
-        <idno type="vat">495/87369</idno>
-        <idno type="wikidata">Q311452</idno>
       </person>
       <person xml:id="LeopoldGuillaumeDeHabsbourg"
         role="archiduc d'Autriche, gouverneur des Pays-Bas espagnols"
@@ -33998,32 +33949,6 @@
         <idno type="viaf">49494144</idno>
         <idno type="isni">0000000066625581</idno>
         <idno type="wikidata">Q3385503</idno>
-      </person>
-      <person xml:id="Ambroise" source="https://www.wikidata.org/wiki/Q43689"
-        role="évêque de Milan, docteur et père de l'Église catholique">
-        <persName>
-          <forename>Ambroise</forename>
-          <surname>Milan</surname>
-        </persName>
-        <birth when="0339">
-          <placeName>Trèves</placeName>
-        </birth>
-        <death when="0397-04-04">
-          <placeName>Milan</placeName>
-        </death>
-        <nationality>Rome antique</nationality>
-        <idno type="ulan">500285185</idno>
-        <idno type="bnf">11888642v</idno>
-        <idno type="viaf">100227669</idno>
-        <idno type="isni">0000000121452186</idno>
-        <idno type="vat">495/53193</idno>
-        <idno type="wikidata">Q43689</idno>
-        <floruit>
-          <objectName>Hymnes</objectName>
-          <objectName>Hexameron</objectName>
-          <objectName>De virginibus</objectName>
-          <objectName>Versus de naturis rerum</objectName>
-        </floruit>
       </person>
       <person xml:id="SaintSatyr" role="saint chrétien"
         source="https://www.wikidata.org/wiki/Q2245450">
