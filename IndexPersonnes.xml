@@ -5,8 +5,7 @@
       <person xml:id="NicolasLeBrun" source="https://www.wikidata.org/wiki/Q134087226"/>
       <person xml:id="CatherineDeSainteSuzanne" source="https://www.wikidata.org/wiki/Q88623697"/>
       <person xml:id="PhilippeDeBethune" source="https://www.wikidata.org/wiki/Q3380920"/>
-      <person xml:id="ClaudeLeRagoisDeBretonvilliers"
-        source="https://www.wikidata.org/wiki/Q19791978"/>
+      <person xml:id="ClaudeLeRagoisDeBretonvilliers" source="https://www.wikidata.org/wiki/Q19791978"/>
       <person xml:id="AgathocleDeSyracuse" source="https://www.wikidata.org/wiki/Q312326"/>
       <person xml:id="LucrecePoete" source="https://www.wikidata.org/wiki/Q47154"/>
       <person xml:id="Demosthene" source="https://www.wikidata.org/wiki/Q117253"/>
@@ -23693,9 +23692,8 @@
         <idno type="wikidata">Q21479080</idno>
       </person>
       <person xml:id="GiovanniGiocondo" role="architecte italien"
-        source="http://www.wikidata.org/entity/Q336806">
-        <persName
-          ref="https://www.getty.edu/vow/ULANFullDisplay?find=fontana+domenico&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500022415">
+        source="https://www.wikidata.org/wiki/Q5585">
+        <persName>
           <forename>Giovanni</forename>
           <surname>Giocondo</surname>
           <addName>Frà Jean Joconde</addName>
@@ -27831,7 +27829,7 @@
           <placeName>N/A</placeName>
         </death>
         <trait>
-          <p>N/A</p>
+          <p>Nommé Zeus dans la mythologie grecque et Jupiter dans la mythologie romaine. Nous avons conservé Jupiter comme xml:id car plus utilisé que Zeus dans le corpus.</p>
         </trait>
         <idno type="bnf">119505426</idno>
         <idno type="viaf">3266770</idno>
@@ -53091,28 +53089,6 @@
         <idno type="isni">0000000078206827</idno>
         <idno type="vat">495/93486</idno>
         <idno type="wikidata">Q183452</idno>
-      </person>
-      <person xml:id="Zeus"
-        role="roi des dieux dans la religion grecque antique et la mythologie grecque"
-        source="https://www.wikidata.org/wiki/Q34201">
-        <persName>
-          <forename>Zeus</forename>
-          <surname>Zeus</surname>
-          <addName>Zeus</addName>
-          <addName>Zeuse</addName>
-        </persName>
-        <birth>
-          <placeName>N/A</placeName>
-        </birth>
-        <death>
-          <placeName>N/A</placeName>
-        </death>
-        <trait>
-          <p>N/A</p>
-        </trait>
-        <idno type="bnf">119505426</idno>
-        <idno type="viaf">3266770</idno>
-        <idno type="wikidata">Q34201</idno>
       </person>
       <person xml:id="Zeuxis" role="peintre grec de l'Antiquité"
         source="https://www.wikidata.org/wiki/Q197044">
