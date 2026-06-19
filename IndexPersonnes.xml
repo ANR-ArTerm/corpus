@@ -2,10 +2,19 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+      <person xml:id="MarcusClaudiusMarcellusAuguste" source="https://www.wikidata.org/wiki/Q315492"/>
+      <person xml:id="Iphicrate" source="https://www.wikidata.org/wiki/Q354424"/>
+      <person xml:id="Properce" source="https://www.wikidata.org/wiki/Q8827"/>
+      <person xml:id="Eutrope" source="https://www.wikidata.org/wiki/Q314694"/>
+      <person xml:id="EpigeneDeByzance" source="https://www.wikidata.org/wiki/Q287423"/>
+      <person xml:id="ManiusCuriusDentatus" source="https://www.wikidata.org/wiki/Q382948"/>
+      <person xml:id="AristobuleCassandreia" source="https://www.wikidata.org/wiki/Q544987"/>
+      <person xml:id="JeanCousinLeJeune" source="https://www.wikidata.org/wiki/Q1144792"/>
       <person xml:id="NicolasLeBrun" source="https://www.wikidata.org/wiki/Q134087226"/>
       <person xml:id="CatherineDeSainteSuzanne" source="https://www.wikidata.org/wiki/Q88623697"/>
       <person xml:id="PhilippeDeBethune" source="https://www.wikidata.org/wiki/Q3380920"/>
-      <person xml:id="ClaudeLeRagoisDeBretonvilliers" source="https://www.wikidata.org/wiki/Q19791978"/>
+      <person xml:id="ClaudeLeRagoisDeBretonvilliers"
+        source="https://www.wikidata.org/wiki/Q19791978"/>
       <person xml:id="AgathocleDeSyracuse" source="https://www.wikidata.org/wiki/Q312326"/>
       <person xml:id="LucrecePoete" source="https://www.wikidata.org/wiki/Q47154"/>
       <person xml:id="Demosthene" source="https://www.wikidata.org/wiki/Q117253"/>
@@ -217,12 +226,7 @@
       <person xml:id="Acteon" source="https://www.wikidata.org/wiki/Q208531"/>
       <person xml:id="Callisto" source="https://www.wikidata.org/wiki/Q203673"/>
       <person xml:id="Suzanne" source="https://www.wikidata.org/wiki/Q756861"/>
-      <person xml:id="Muses" source="https://www.wikidata.org/wiki/Q66016">
-        <persName>
-          <name>Muses</name>
-          <addName>nove Muse</addName>
-        </persName>
-      </person>
+      <person xml:id="Muses" source="https://www.wikidata.org/wiki/Q66016"/>
       <person xml:id="TheodosedeTripoli" source="https://www.wikidata.org/wiki/Q1266186"/>
       <person xml:id="LorenzoSirigatti" source="https://www.wikidata.org/wiki/Q110225880"/>
       <person xml:id="MatthausMerianI" source="https://www.wikidata.org/wiki/Q57968"/>
@@ -240,6 +244,8 @@
       <person xml:id="PieterCorneliszVanRijck" source="https://www.wikidata.org/wiki/Q7192766"/>
       <person xml:id="CorneilleDeLyon" source="https://www.wikidata.org/wiki/Q720941"/>
       <person xml:id="CorneliusVanDerGeest" source="https://www.wikidata.org/wiki/Q5171269"/>
+      <person xml:id="GiovanniAngeloMontorsoli" source="https://www.wikidata.org/wiki/Q27040"/>
+      <person xml:id="RaffaelloDaMontelupo" source="https://www.wikidata.org/wiki/Q1370859"/>
       <person xml:id="AndreaSalvadori" source="https://www.wikidata.org/wiki/Q4755263"/>
       <person xml:id="AlessandroAdimari" source="https://www.wikidata.org/wiki/Q3609797"/>
       <person xml:id="CarloMedici" source="https://www.wikidata.org/wiki/Q59867"/>
@@ -262,12 +268,9 @@
       <person xml:id="Manethon" source="https://www.wikidata.org/wiki/Q174380"/>
       <person xml:id="AlGhazali" source="https://www.wikidata.org/wiki/Q9546"/>
       <person xml:id="ZenonChypre" source="https://www.wikidata.org/wiki/Q8069165"/>
-      <person xml:id="GabrieleGiolitoDeFerrari" source="https://www.wikidata.org/wiki/Q1490296">
-        <persName>
-          <name>Gabriele Giolito de' Ferrari</name>
-          <addName type="variant">Gabriel Giolito di Ferrari</addName>
-        </persName>
-      </person>
+      <person xml:id="GabrieleGiolitoDeFerrari" source="https://www.wikidata.org/wiki/Q1490296"/>
+      <person xml:id="ScipioneEmiliano" source="https://www.wikidata.org/wiki/Q2307"/>
+      <person xml:id="AlbertoLollio" source="https://www.wikidata.org/wiki/Q44814629"/>
       <person xml:id="LodovicoDomenichi" source="https://www.wikidata.org/wiki/Q3257803"/>
       <person xml:id="Gerione" source="https://www.wikidata.org/wiki/Q25409361"/>
       <person xml:id="NiccoloDeMedici" source="https://www.wikidata.org/wiki/Q18289508"/>
@@ -19241,6 +19244,7 @@
           <surname>Emile</surname>
           <addName>Lucius Aemilius Paullus</addName>
           <addName>Paul Emile</addName>
+          <addName>Paolo Emilio</addName>
         </persName>
         <birth>
           <placeName>Rome antique</placeName>
@@ -23370,7 +23374,6 @@
           <placeName>Florence</placeName>
         </death>
         <trait>
-          <p>N/A</p>
           <p>ou Lisa Gherardini</p>
         </trait>
         <nationality>Florence</nationality>
@@ -27790,7 +27793,8 @@
           <placeName>N/A</placeName>
         </death>
         <trait>
-          <p>Nommé Zeus dans la mythologie grecque et Jupiter dans la mythologie romaine. Nous avons conservé Jupiter comme xml:id car plus utilisé que Zeus dans le corpus.</p>
+          <p>Nommé Zeus dans la mythologie grecque et Jupiter dans la mythologie romaine. Nous avons
+            conservé Jupiter comme xml:id car plus utilisé que Zeus dans le corpus.</p>
         </trait>
         <idno type="bnf">119505426</idno>
         <idno type="viaf">3266770</idno>
@@ -38428,6 +38432,7 @@
           <forename/>
           <surname>Phidias</surname>
           <addName>Phidias</addName>
+          <addName>Phidia</addName>
           <addName>Phidie</addName>
           <addName>Fidias</addName>
           <addName>Fidia</addName>

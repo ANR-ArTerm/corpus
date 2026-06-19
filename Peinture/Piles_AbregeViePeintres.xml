@@ -9869,8 +9869,8 @@
 							>Vénius</persName> se retira à <placeName ref="#Anvers"
 							>Anvers</placeName>, où il fit quantité d'excellens Ouvrages de
 						Peinture, que l'on voit encore dans les principales Eglises. Quelques tems
-						aprés l'<persName ref="#AlbertVII">Archiduc Albert</persName>, qui
-						avoit succedé au <persName ref="#AlexandreFarnese">Prince de <placeName
+						aprés l'<persName ref="#AlbertVII">Archiduc Albert</persName>, qui avoit
+						succedé au <persName ref="#AlexandreFarnese">Prince de <placeName
 								ref="#Parme">Parme</placeName></persName>, le fit aller à <placeName
 							ref="#Bruxelles">Bruxelles</placeName>. et luy donna l'intendance des
 						Monnoyes, parmi ces occupations embarassantes, <persName ref="#OttoVanVeen"
@@ -11640,7 +11640,7 @@
 							Paralytique</objectName>. On voit dans la <placeName ref="#Sens">Ville
 							de Sens</placeName> quelques Tableaux de sa façon, et plusieurs
 						Portraits : mais de tous ses Ouvrages, le plus estimé est le Tableau du
-							<objectName ref="#JeanCousinJugementDernierLouvre">Jugement
+							<objectName cert="low" xml:id="JeanCousinJugementDernier">Jugement
 							universel</objectName>, qui est dans la <objectName
 							ref="#CouventMinimesVincennes">Sacristie des Minimes</objectName> du
 							<placeName ref="#BoisDeVincennes">Bois de Vincennes</placeName>, et qui
@@ -11664,7 +11664,7 @@
 							Chabor</persName></objectName>, qui est aux <objectName
 							ref="#EgliseCelestinsParis">Célestins</objectName> de <placeName
 							ref="#Paris">Paris</placeName>, dans la <pb n="460"/>
-						<objectName ref="#ChapelleOrleans">Chapelle d'<placeName ref="#Orleans"
+						<objectName ref="#ChapelleDesOrleans">Chapelle d'<placeName ref="#Orleans"
 								>Orleans</placeName></objectName>. On ne sait pas-précisement
 						combien <persName ref="#JeanCousin">Jean Cousin</persName> a vêcu, mais on
 						sait seulement qu'il vivoit en <date when="1589">1589</date>. et qu'il est
@@ -11755,10 +11755,10 @@
 						<hi rend="capitals">NATIF</hi> d'<placeName ref="#Amiens"
 						>Amiens</placeName>, peignoit à <placeName ref="#Paris">Paris</placeName>
 						avec assez de succés, et c'est de sa main que nous avons le <objectName
-							ref="QuentinVarinPresentationViergeTempleBeauvais">Tableau du grand
+							ref="QuentinVarinPresentationDuTempleCarmes">Tableau du grand
 							Autel</objectName> de <objectName ref="#EgliseSaintJosephDesCarmesParis"
-							>l'Eglise des Carmes Déchaussez</objectName> prés le Palais de
-						Luxembourg. Il est d'autant plus raisonnable d'en faire mention, qu'il a
+								>l'Eglise des Carmes Déchaussez</objectName> prés le <objectName ref="PalaisLuxembourg">Palais de
+						Luxembourg</objectName>. Il est d'autant plus raisonnable d'en faire mention, qu'il a
 						aidé le <persName ref="#NicolasPoussin">Poussin</persName> à l'acheminer
 						dans la Carriére de la Peinture. <figure type="ornement"
 							source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/2f493455-c400-4999-a903-7b52ef35b2e9/2309,6074,645,390/max/0/default.jpg"
@@ -11799,7 +11799,8 @@
 							ref="#JacquesBlanchardGalerieBullionParis">les douze mois de
 							l'année</objectName>, étoit à <persName ref="#ClaudeDeBullion">M. de
 							Bullion</persName> Sur-Intendant des Finances. Mais de tous ses
-						Ouvrages, celuy qui a le plus soûtenu sa réputation, c'est <objectName ref="#JacquesBlanchardDescenteSaintEspritMayNotreDameParis">le
+						Ouvrages, celuy qui a le plus soûtenu sa réputation, c'est <objectName
+							ref="#JacquesBlanchardDescenteSaintEspritMayNotreDameParis">le
 							Tableau</objectName> qu'il fit à Nôtre-Dame pour le prémier jour de May.
 						Il réprésente la Descente du Saint Esprit et cette Eglise le conserve
 						chérement, comme le plus beau de tous les Tableaux que l'on y voit. </p>
@@ -11813,9 +11814,10 @@
 						François il n'y en a point eû qui ait si bien colorié que <persName
 							ref="#JacquesBlanchard">Blanchart</persName>. On ne voit pas qu'il ait
 						beaucoup fait de grandes Compositions : mais ce qu'on voit de luy dans les
-						Galeries dont j'ay parlé, et son Tableau qui est dans l'<objectName ref="#CathedraleNotreDameParis">Eglise de
-						Nôtre-Dame</objectName>, font assez voir qu'il ne manquoit pas de Génie, et que s'il n'a
-						pas fait de grandes Compositions, <pb n="465"/>c'est qu'on l'occupoit à des
+						Galeries dont j'ay parlé, et son Tableau qui est dans l'<objectName
+							ref="#CathedraleNotreDameParis">Eglise de Nôtre-Dame</objectName>, font
+						assez voir qu'il ne manquoit pas de Génie, et que s'il n'a pas fait de
+						grandes Compositions, <pb n="465"/>c'est qu'on l'occupoit à des
 							<objectName>Tableaux de Viérges</objectName>, qui luy ôtoient l'occasion
 						de traiter des sujets d'une plus grande étenduë. </p>
 				</div2>
@@ -11830,31 +11832,33 @@
 						pour suivre à l'âge de vingt ans <persName ref="#AchilleDeHarlayDeSancy">M.
 							de Sancy</persName>, qui alloit Ambassadeur à <placeName
 							ref="#Constantinople">Constantinople</placeName>, et qui le choisit pour
-						être son Peintre. Il y peignit le <objectName ref="#SimonVouetPortraitAhmetI">Portrait du Grand Seigneur</objectName> : et quoy qu'il
-						luy fut impssible de le peindre autrement que de mémoire, et pour l'avoir
-						vû seulement à l'Audiance que ce Prince donna à l'Ambasadeur, il le fit
-						néanmoins tres ressemblant : et aprés avoir peint quelques autres Portraits
-						à <placeName ref="#Constantinople">Constantinople</placeName>, il en partit
-						pour se rendre en <placeName ref="#Italie">Italie</placeName>. Il y resta
-						quatorze ans, il y fut Prince de l'Académie de Saint Luc à <placeName
-							ref="#Rome">Rome</placeName>, et le Roy <persName ref="#LouisXIII">Loüis
-							XIII</persName> qui, en considération de sa capacité luy avoit donné
-						une pension durant son séjour en <placeName ref="#Italie"
-						>Italie</placeName>, l'en fit revenir en <date when="1627">1627</date>. pour
-						travailler dans les Maisons Royales, et surtout au
-						<objectName ref="#PalaisLuxembourg">Luxembourg</objectName>. </p>
+						être son Peintre. Il y peignit le <objectName
+							ref="#SimonVouetPortraitAhmetI">Portrait du Grand Seigneur</objectName>
+						: et quoy qu'il luy fut impssible de le peindre autrement que de mémoire,
+						et pour l'avoir vû seulement à l'Audiance que ce Prince donna à
+						l'Ambasadeur, il le fit néanmoins tres ressemblant : et aprés avoir peint
+						quelques autres Portraits à <placeName ref="#Constantinople"
+							>Constantinople</placeName>, il en partit pour se rendre en <placeName
+							ref="#Italie">Italie</placeName>. Il y resta quatorze ans, il y fut
+						Prince de l'Académie de Saint Luc à <placeName ref="#Rome">Rome</placeName>,
+						et le Roy <persName ref="#LouisXIII">Loüis XIII</persName> qui, en
+						considération de sa capacité luy avoit donné une pension durant son séjour
+						en <placeName ref="#Italie">Italie</placeName>, l'en fit revenir en <date
+							when="1627">1627</date>. pour travailler dans les Maisons Royales, et
+						surtout au <objectName ref="#PalaisLuxembourg">Luxembourg</objectName>. </p>
 					<pb n="466"/>
 					<p xml:id="PIL_AVP_L7_C234_P2"> La facilité que ce Peintre avoit de faire des
 						Portraits au crayon et au pastel fut admirée du Roy, qui prénoit plaisir à
 						le voir travailler, et qui voulût qu'il luy montrât à dessiner ; en quoy Sa
 						Majesté fit en peu de tems de grans progrés, de maniére que le Roy fit des
-						<objectName>Portraits fort ressemblans de plusieurs personnes de sa Cour</objectName>. </p>
+							<objectName>Portraits fort ressemblans de plusieurs personnes de sa
+							Cour</objectName>. </p>
 					<p xml:id="PIL_AVP_L7_C234_P3"> La réputation de <persName ref="#SimonVouet"
 							>Vouet</persName> s'augmenta de jour à autre, et luy attira quantité de
 						grans Ouvrages. Je n'en feray point icy le détail, les Palais et les Maisons
 						considérables de <placeName ref="#Paris">Paris</placeName> en sont remplies,
-						et d'ailleurs il a fait un grand nombre de <objectName>Tableaux pour les Eglises</objectName>, et
-						pour divers Particuliers. </p>
+						et d'ailleurs il a fait un grand nombre de <objectName>Tableaux pour les
+							Eglises</objectName>, et pour divers Particuliers. </p>
 					<p xml:id="PIL_AVP_L7_C234_P4"> Il avoit suivi à <placeName ref="#Rome"
 							>Rome</placeName> la maniére du <persName ref="#Caravage"
 							>Caravage</persName> et du <persName ref="#Valentin">Valentin</persName>
@@ -11884,24 +11888,25 @@
 							<persName ref="#EustacheLeSueur">le Sueur</persName>, <persName
 							ref="#MichelCorneille">Corneille</persName>, <persName
 							ref="#MichelDorigny">Dorigny</persName>, <persName
-								ref="#FrancoisTortebat">Tortebat</persName>, <persName ref="#JacquesBelly">Belli</persName>,
-							<persName ref="#CharlesAlphonseDuFresnoy">du Fresnoy</persName>, et
-						plusieurs autres qu'il employoit pour faire des Ornemens et des Desseins de
+							ref="#FrancoisTortebat">Tortebat</persName>, <persName
+							ref="#JacquesBelly">Belli</persName>, <persName
+							ref="#CharlesAlphonseDuFresnoy">du Fresnoy</persName>, et plusieurs
+						autres qu'il employoit pour faire des Ornemens et des Desseins de
 						Tapisseries : comme <persName ref="#JustusVanEgmont">Juste
-							d'Egmont</persName>, <persName ref="#FransVanDenDriessche">Vandrisse</persName>, <persName>Scalberge
-							Fatel</persName>, <persName ref="#FrancoisBelin">Belin</persName>,
-							<persName ref="#PierreBoucle">Van-Boucle</persName>, <persName
-							ref="#JacquesBellange">Bellange</persName>, <persName
-							ref="#JeanICotelle">Cotelle</persName>, etc sans compter un grand nombre
-						de jeunes gens qui alloient dessiner chez luy. <persName
-							ref="#MichelDorigny">Dorigny</persName>, qui étoit son Gendre,
-						aussi-bien que son Eléve, a gravé à l'eau forte la plus grande partie des
-						Ouvrages de son Beau-pére. <persName ref="#SimonVouet">Vouët</persName>
-						épuisé d'esprits par la prodigieuse quantité de ses Productions, <pb
-							n="468"/>plutôt que chargé d'années, mourut en <date when="1641"
-							>1641</date>. âgé de cinquante-neut ans. Il a eû un Frére nommé
-							<persName ref="#AubinVouet">Aubin Vouët</persName>, qui pergnoit dans sa
-						maniére, et qui étoit passablement habile. </p>
+							d'Egmont</persName>, <persName ref="#FransVanDenDriessche"
+							>Vandrisse</persName>, <persName>Scalberge Fatel</persName>, <persName
+							ref="#FrancoisBelin">Belin</persName>, <persName ref="#PierreBoucle"
+							>Van-Boucle</persName>, <persName ref="#JacquesBellange"
+							>Bellange</persName>, <persName ref="#JeanICotelle">Cotelle</persName>,
+						etc sans compter un grand nombre de jeunes gens qui alloient dessiner chez
+						luy. <persName ref="#MichelDorigny">Dorigny</persName>, qui étoit son
+						Gendre, aussi-bien que son Eléve, a gravé à l'eau forte la plus grande
+						partie des Ouvrages de son Beau-pére. <persName ref="#SimonVouet"
+							>Vouët</persName> épuisé d'esprits par la prodigieuse quantité de ses
+						Productions, <pb n="468"/>plutôt que chargé d'années, mourut en <date
+							when="1641">1641</date>. âgé de cinquante-neut ans. Il a eû un Frére
+						nommé <persName ref="#AubinVouet">Aubin Vouët</persName>, qui pergnoit dans
+						sa maniére, et qui étoit passablement habile. </p>
 					<p xml:id="PIL_AVP_L7_C234_P5"> Les Ouvrages de <persName ref="#SimonVouet"
 							>Vouët</persName> étoient agréables par comparaison à ceux, qui jusqu'à
 						luy avoient été faits en <placeName ref="#France">France</placeName>, mais
@@ -11910,8 +11915,9 @@
 						l'on ne voit dans ses Figures aucunes expressions des passions de l'ame, et
 						il se contentoit de donner à ses têtes un certain agrément général qui ne
 						vouloit rien dire. Le plus grand mérite de ses Ouvrages vient de ses
-						<objectName>Plafonds</objectName>, qui ont donné à ses Disciples l'Idée d'en faire de plus beaux, que
-						tout ce que les François avoient faits jusques-là. </p>
+							<objectName>Plafonds</objectName>, qui ont donné à ses Disciples l'Idée
+						d'en faire de plus beaux, que tout ce que les François avoient faits
+						jusques-là. </p>
 					<p xml:id="PIL_AVP_L7_C234_P6"> Vouët a eû cet avantage par dessus les autres
 						Peintres, qu'il n'y en a jamais eû dont la maniére ait été si adhérente dans
 						le cœur et dans la main de ses Eléves. Mais l'on peut dire, que si d'un
@@ -11919,8 +11925,8 @@
 							ref="#France">France</placeName> lorsqu'il y arriva, d'un autre côté
 						elle étoit si peu naturelle, si sauvage, et d'ailleurs si facile, et reçûe
 						avec tant d'avidité, qu'elle a infecté l'idée de tous ses<pb n="469"/>
-						Disciples, jusqu'à leur faire prendre une habitude dont ils ont eû toutes les
-						peines du monde à se défaire ; et comme j'ay déja dit, cette maniere
+						Disciples, jusqu'à leur faire prendre une habitude dont ils ont eû toutes
+						les peines du monde à se défaire ; et comme j'ay déja dit, cette maniere
 						éxpéditive n'étoit pas tant celle de <persName ref="#SimonVouet"
 							>Vouët</persName> que celle de son intérêt. </p>
 				</div2>
@@ -11931,21 +11937,23 @@
 						<hi rend="capitals">NAQUIT</hi> à <placeName ref="#Andelys"
 							>Andely</placeName>, petit Ville de <placeName ref="#Normandie"
 							>Normandie</placeName>, en <date when="1594">1594</date>. Sa Famille
-						étoit néanmois originaire de <placeName ref="#Soissons">Soisons</placeName>, où il y a des Officiers de son nom
-						dans le Présidial. Son Pére <persName>Jean Poussin</persName> étoit
-						d'éxtraction Noble, mais né avec peu de bien, en sorte que son Fils,
-						déterminé par l'état où se trouvoit la Famille et par la violente
-						inclination qu'il avoit pour la Peinture, sortit de la Maison de son Pére à
-						l'âge de dix huit ans pour venir à <placeName ref="#Paris">Paris</placeName>
-						s'instruire des prémiers Elémens de cet Art. </p>
+						étoit néanmois originaire de <placeName ref="#Soissons">Soisons</placeName>,
+						où il y a des Officiers de son nom dans le Présidial. Son Pére
+							<persName>Jean Poussin</persName> étoit d'éxtraction Noble, mais né avec
+						peu de bien, en sorte que son Fils, déterminé par l'état où se trouvoit la
+						Famille et par la violente inclination qu'il avoit pour la Peinture, sortit
+						de la Maison de son Pére à l'âge de dix huit ans pour venir à <placeName
+							ref="#Paris">Paris</placeName> s'instruire des prémiers Elémens de cet
+						Art. </p>
 					<p xml:id="PIL_AVP_L7_C235_P2"> Un Seigneur de <placeName ref="#Poitou"
 							>Poitou</placeName> qui l'avoit pris en affection le mit chez <persName
 							ref="#FerdinandElle">Ferdinand</persName>, Peintre de Portraits, que le
 							<persName ref="#NicolasPoussin">Poussin</persName> quitta au bout de
-						trois mois pour entrer chez un nommé <persName ref="#GeorgesLallemant">Lallemant</persName>, où il n'y fut qu'un mois :
-						parce que ne croyant pas s'avancer assez sous la Discipline de tels Maîtres,
-						il les abandonna, dans la vûë de tirer<pb n="470"/> plus de profit de
-						l'Etude qu'il se proposa de faire sur les Tableaux des grans Maîtres </p>
+						trois mois pour entrer chez un nommé <persName ref="#GeorgesLallemant"
+							>Lallemant</persName>, où il n'y fut qu'un mois : parce que ne croyant
+						pas s'avancer assez sous la Discipline de tels Maîtres, il les abandonna,
+						dans la vûë de tirer<pb n="470"/> plus de profit de l'Etude qu'il se proposa
+						de faire sur les Tableaux des grans Maîtres </p>
 					<p xml:id="PIL_AVP_L7_C235_P3"> Il travailla quelque tems à détrempe, et il s'y
 						éxerçoit avec une grande facilité, lorsque le <persName
 							ref="#GiambattistaMarino">Cavalier Marin</persName>, qui se trouva pour
@@ -11959,9 +11967,10 @@
 						au <persName ref="#GiambattistaMarino">Cavalier</persName> qu'il le suivroit
 						bien-tôt. En effet, aprés avoir peint à <placeName ref="#Paris"
 							>Paris</placeName> quelques Tableaux, et entr'autres celuy qui est a
-						Nôtre-Dame, et qui réprésente <objectName ref="#NicolasPoussinMortDeLaViergeBelgique">la Mort de la Vierge</objectName>,
-						il partit pour l'<placeName ref="#Italie">Italie</placeName>, âgé pour lors
-						de trente ans. </p>
+						Nôtre-Dame, et qui réprésente <objectName
+							ref="#NicolasPoussinMortDeLaViergeBelgique">la Mort de la
+							Vierge</objectName>, il partit pour l'<placeName ref="#Italie"
+							>Italie</placeName>, âgéé pour lors de trente ans. </p>
 					<p xml:id="PIL_AVP_L7_C235_P4"> Il trouva à <placeName ref="#Rome"
 							>Rome</placeName> le <persName ref="#GiambattistaMarino">Cavalier
 							Marin</persName>, qui luy fit mille caresses, et, qui, dans la vûë de
@@ -12017,18 +12026,19 @@
 						voir de beau dans ces restes de Sculpture Antique, <pb n="473"/>que l'on ne
 						peut assez admirer l'éxactitude avec laquelle il en a enrichi ses Tableaux.
 						Il auroit pû, comme <persName ref="#MichelAnge">Michelange</persName>,
-						surprendre le jugement du Public. Celuy-cy fit la <objectName ref="#MichelAngeCupidonDormant">Statue d'un
-							Cupidon</objectName>, et aprés en avoir cassé le bras, qu'il retint, il
-						enterra le reste de la Figure dans un endroit où il savoit qu'on devoit
-						foüiller ; et cet Ouvrage y ayant été trouvé, tout le monde le prit pour
-						Antique mais <persName ref="#MichelAnge">Michelange</persName> ayant présenté à son tronc le bras qu'il avoit
-						réservé, convainquit de prévention tous ceux qu'il avoit trompez. On peut
-						croire avec autant de raison, que si <persName ref="#NicolasPoussin">le
-							Poussin</persName> avoit peint à fraisque sur un morceau de muraille, et
-						qu'il en eût retenu quelque partie, il auroit facilement laissé croire que
-						sa Peinture étoit l'Ouvrage de quelque fameux Peintre de l'Antiquité, tant
-						elle a de conformité avec celles que l'on a ainsi découvertes, et qui sont
-						véritablement Antiques. </p>
+						surprendre le jugement du Public. Celuy-cy fit la <objectName
+							ref="#MichelAngeCupidonDormant">Statue d'un Cupidon</objectName>, et
+						aprés en avoir cassé le bras, qu'il retint, il enterra le reste de la Figure
+						dans un endroit où il savoit qu'on devoit foüiller ; et cet Ouvrage y ayant
+						été trouvé, tout le monde le prit pour Antique mais <persName
+							ref="#MichelAnge">Michelange</persName> ayant présenté à son tronc le
+						bras qu'il avoit réservé, convainquit de prévention tous ceux qu'il avoit
+						trompez. On peut croire avec autant de raison, que si <persName
+							ref="#NicolasPoussin">le Poussin</persName> avoit peint à fraisque sur
+						un morceau de muraille, et qu'il en eût retenu quelque partie, il auroit
+						facilement laissé croire que sa Peinture étoit l'Ouvrage de quelque fameux
+						Peintre de l'Antiquité, tant elle a de conformité avec celles que l'on a
+						ainsi découvertes, et qui sont véritablement Antiques. </p>
 					<p xml:id="PIL_AVP_L7_C235_P8"> Il nourrissoit cet amour des Sculptures
 						Antiques, en les allant éxaminer souvent dans les Vignes qui sont au tour de
 							<placeName ref="#Rome">Rome</placeName>, où il se retiroit seul pour y
@@ -12061,13 +12071,17 @@
 						écrivirent à <placeName ref="#Rome">Rome</placeName> pour l'obliger de venir
 						en <placeName ref="#France">France</placeName> : il s'y résolut avec
 						beaucoup de peine. On luy assigna <pb n="475"/>une pension, et on luy donna
-						aux <placeName ref="#PalaisTuileriesParis">Thuilleries</placeName> un logement tout meublé. Le <persName
-							ref="#NicolasPoussin">Poussin</persName> fit pour la <objectName>Chapelle</objectName> du <objectName ref="#ChateauSaintGermainEnLaye"> Chateau
-								de Saint Germain</objectName> le <objectName ref="#NicolasPoussinInstitutionEucharistieLouvre">Tableau de la Céne</objectName>, et celuy
-						qui est à <placeName ref="#Paris">Paris</placeName> dans le <objectName ref="#NoviciatJesuitesParis">Novitiat des
-							Jesuites</objectName>. Il commenca dans la <objectName ref="#NicolasPoussinGalerieTravauxHerculeLouvre">Galerie du Louvre les Travaux
-								d'<persName ref="#Hercule">Hercule</persName></objectName>, dans le
-						tems que la brigue de l'Ecole de <persName ref="#SimonVouet"
+						aux <placeName ref="#PalaisTuileriesParis">Thuilleries</placeName> un
+						logement tout meublé. Le <persName ref="#NicolasPoussin">Poussin</persName>
+						fit pour la <objectName>Chapelle</objectName> du <objectName
+							ref="#ChateauSaintGermainEnLaye"> Chateau de Saint Germain</objectName>
+						le <objectName ref="#NicolasPoussinInstitutionEucharistieLouvre">Tableau de
+							la Céne</objectName>, et <objectName ref="#NicolasPoussinMiracleSaintFrancoisXavierLouvre">celuy qui est à <placeName ref="#Paris"
+									>Paris</placeName> dans le <objectName ref="#NoviciatJesuitesParis"
+							>Novitiat des Jesuites</objectName></objectName>. Il commenca dans la <objectName
+							ref="#NicolasPoussinGalerieTravauxHerculeLouvre">Galerie du Louvre les
+							Travaux d'<persName ref="#Hercule">Hercule</persName></objectName>, dans
+						le tems que la brigue de l'Ecole de <persName ref="#SimonVouet"
 							>Vouët</persName> le chagrinoit par les médisances et les mauvais
 						discours qu'elle faisoit des Ouvrages dont on vient de parler : cela joint à
 						la vie tumultueuse de <placeName ref="#Paris">Paris</placeName>, dont il ne
@@ -12087,7 +12101,8 @@
 							>Italie</placeName>, et qu'ils ont pû avoir pour de l'argent, n'ayant
 						pas moins d'estime pour ces éxcellent Ouvrages que pour ceux de <persName
 							ref="#Raphael">Raphaël</persName>. <persName ref="#AndreFelibien"
-								>Félibien</persName>, qui a écrit la <bibl key="felibienEntretiensViesOuvrages1685">Vie de ce Peintre</bibl> fort
+							>Félibien</persName>, qui a écrit la <bibl
+							key="felibienEntretiensViesOuvrages1685">Vie de ce Peintre</bibl> fort
 							soigneusement<pb n="476"/> et fort amplement, rapporte tous ces
 						Tableaux, et fait la description de ceux qui sont les plus estimez. </p>
 					<p xml:id="PIL_AVP_L7_C235_P14">
@@ -12243,20 +12258,22 @@
 						Se sentant animé par la promtitude avec laquelle il manioit les Couleurs, il
 						se resolut de retourner en <placeName ref="#France">France</placeName> ; et
 						étant arrivé à <placeName ref="#Lyon">Lion</placeName>, il s'y arrêta pour
-						peindre le <objectName ref="#FrancoisPerrierVieSaintBrunoCloitreChartreuxLyon">Cloitre des Chartreux</objectName>. Enfin étant
-						arrivé a <placeName ref="#Paris">Paris</placeName>, et ayant travaillé
-						quelque tems pour <persName ref="#SimonVouet">Vouët</persName> qui étoit
-						alors Maître de tous les grans Ouvrages, il fit un second voyage en
-							<placeName ref="#Italie">Italie</placeName> où aprés avoir demeuré dix
-						ans, il revint à <placeName ref="#Paris">Paris</placeName> en <date
-							when="1645">1645</date>. Ce fut en ce tems là qu'il peignit
-						la<objectName ref="#FrancoisPerrierGalerieDoreeHotelLaVrilliereParis"> Gallerie de l'Hôtel de la Vrilliere</objectName> et qu'il
-						fit pour divers particuliers plusieurs Tableaux de Chevalet. <pb n="483"/>Il
-						mourut Professeur de l'Academie. Il a gravé plusieurs choses à l'eau-forte
-						qui sont pleines d'Esprit, et entr'autres les plus beaux bas-reliefs de
-							<placeName ref="#Rome">Rome</placeName>, cent des plus célébres
-						Antiques, et plusieurs choses d'aprés <persName ref="#Raphael"
-							>Raphaël</persName>. </p>
+						peindre le <objectName
+							ref="#FrancoisPerrierVieSaintBrunoCloitreChartreuxLyon">Cloitre des
+							Chartreux</objectName>. Enfin étant arrivé a <placeName ref="#Paris"
+							>Paris</placeName>, et ayant travaillé quelque tems pour <persName
+							ref="#SimonVouet">Vouët</persName> qui étoit alors Maître de tous les
+						grans Ouvrages, il fit un second voyage en <placeName ref="#Italie"
+							>Italie</placeName> où aprés avoir demeuré dix ans, il revint à
+							<placeName ref="#Paris">Paris</placeName> en <date when="1645"
+							>1645</date>. Ce fut en ce tems là qu'il peignit la<objectName
+							ref="#FrancoisPerrierGalerieDoreeHotelLaVrilliereParis"> Gallerie de
+							l'Hôtel de la Vrilliere</objectName> et qu'il fit pour divers
+						particuliers plusieurs Tableaux de Chevalet. <pb n="483"/>Il mourut
+						Professeur de l'Academie. Il a gravé plusieurs choses à l'eau-forte qui sont
+						pleines d'Esprit, et entr'autres les plus beaux bas-reliefs de <placeName
+							ref="#Rome">Rome</placeName>, cent des plus célébres Antiques, et
+						plusieurs choses d'aprés <persName ref="#Raphael">Raphaël</persName>. </p>
 					<p xml:id="PIL_AVP_L7_C237_P3"> Il grava aussi de Clair-obseur quelques Antiques
 						d'une maniére dont on luy attribuë l'invention ; mais qui avoit été mise en
 						usage par <persName ref="#Parmigianino">le Parmesan</persName>, ainsi que je
@@ -12281,8 +12298,8 @@
 						passage par <placeName ref="#Florence">Florence</placeName> luy donna
 						occasion <pb n="484"/>de se faire connoître du Grand Duc <persName
 							ref="#CosimoII">Cosme de Medicis</persName>, qui voulant faire un
-						superbe <objectName>appareil pour les Nôces de son fils</objectName> l'arrêta et luy donna ce moyen
-						d'éxercer son Génie. </p>
+						superbe <objectName>appareil pour les Nôces de son fils</objectName>
+						l'arrêta et luy donna ce moyen d'éxercer son Génie. </p>
 					<p xml:id="PIL_AVP_L7_C238_P2"> Ce Prince ayant d'abord reconnu l'habileté de
 							<persName ref="#JacquesStella">Stella</persName>, il le logea et luy
 						donna une pension pareille à celle de <persName ref="#JacquesCallot"
@@ -12301,9 +12318,9 @@
 						fait demander avec instance. </p>
 					<p xml:id="PIL_AVP_L7_C238_P3"> Il passa par <placeName ref="#Milan"
 							>Milan</placeName>, où il refusa la direction de l'Academie de Peinture
-						que le <persName ref="#GilDeAlbornozYEspinosa">Cardinal Albornos</persName> luy offrit. Etant arrivé à
-							<placeName ref="#Paris">Paris</placeName> il ne songea plus qu'à se
-						préparer au voyage d'Espagne : mais le <persName
+						que le <persName ref="#GilDeAlbornozYEspinosa">Cardinal Albornos</persName>
+						luy offrit. Etant arrivé à <placeName ref="#Paris">Paris</placeName> il ne
+						songea plus qu'à se préparer au voyage d'Espagne : mais le <persName
 							ref="#ArmandJeanDuPlessisDeRichelieu">Cardinal de Richelieu</persName>
 						qui en eut avis l'arrêta par l'esperance qu'il luy donna d'un parti plus
 						glorieux et plus utile. Il le presenta<pb n="485"/> au <persName
@@ -12372,9 +12389,10 @@
 							ref="#GirardDesargues">Desargues</persName>. Il en usoit dans ses
 						Figures comme dans ses lointins, car à la reserve de celles qui étoient sur
 						les prémieres lignes toutes les autres se perdoient dans un broüillard à
-						mesure qu'elles s'éloignoient. <persName ref="#PhilippeDeLaHire">Son fils</persName> a quitté la Peinture pour suivre la
-						rapidité de son Génie qui le portoit aux Mathematiques, dans lesquelles il
-						s'est rendu un des plus habiles de nos jours. <figure type="ornement"
+						mesure qu'elles s'éloignoient. <persName ref="#PhilippeDeLaHire">Son
+							fils</persName> a quitté la Peinture pour suivre la rapidité de son
+						Génie qui le portoit aux Mathematiques, dans lesquelles il s'est rendu un
+						des plus habiles de nos jours. <figure type="ornement"
 							source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/4dbffeb5-09d6-4e5e-9a16-443ee4e693dd/1307,5961,925,531/max/0/default.jpg"
 						/>
 					</p>
@@ -12474,11 +12492,11 @@
 						particuliers, sans compter toutes les Copies qu'il a faites d'aprés le
 							<persName ref="#Titien">Titien</persName>. </p>
 					<p xml:id="PIL_AVP_L7_C242_P9"> De tous ses Ouvrages celuy qu'il aimoit le plus,
-						étoit son <bibl key="dufresnoyLArtPeinturePoeme1810">Poëme sur la Peinture</bibl>. Quelque envie qu'il eût de le faire
-						imprimer comme il savoit bien qu'il étoit inutile de luy faire voir le jour,
-						sans une Version Françoise, et que la longue absence de son païs luy avoit,
-						pour ainsi dire, fait oublier sa Langue, il différa toûjours de le rendre
-						public. </p>
+						étoit son <bibl key="dufresnoyLArtPeinturePoeme1810">Poëme sur la
+							Peinture</bibl>. Quelque envie qu'il eût de le faire imprimer comme il
+						savoit bien qu'il étoit inutile de luy faire voir le jour, sans une Version
+						Françoise, et que la longue absence de son païs luy avoit, pour ainsi dire,
+						fait oublier sa Langue, il différa toûjours de le rendre public. </p>
 					<p xml:id="PIL_AVP_L7_C242_P10"> Enfin je le mis en nôtre langue à sa priére, et
 						selon son intention.*<ref target="#N5"/> Il alloit, disoit-il, travailler au
 						Commentaire, pour éclaircir davantage ses pensées, quand il fut surpris
@@ -12536,16 +12554,19 @@
 						que <persName ref="#CharlesAlphonseDuFresnoy">du Fresnoy</persName>, à en
 						juger entr'autres par les deux Tableaux qu'il fit à <placeName ref="#Venise"
 							>Venise</placeName> pour le Noble <persName>Marc Paruta</persName>, dont
-						l'un réprésente <objectName ref="#CharlesAlphonseDuFresnoyViergeAgen">une Vierge à demi corps</objectName>, et l'autre
-						<objectName ref="#CharlesAlphonseDuFresnoyVenusCouchee">une Vénus <pb n="495"/>couchée</objectName>. Ce qu'il a
-						peint en <placeName ref="#France">France</placeName> tient encore de ce
-						Goût-là, principalement ce qu'il a fait <objectName ref="#ChateauDuRaincy">au Rinci</objectName> pour
-						<persName ref="#JacquesBordier">M. Bordier</persName> Intendant des Finances : cette <objectName>Peinture</objectName>
-						passant pour le plus beau de ses Ouvrages au jugement des Connoisseurs. Mais
-						si le peu de Tableaux qu'il a faits ne sont pas suffisans pour répandre son
-						nom en divers endroits de l'<placeName ref="#Europe">Europe</placeName>,
-						celuy de son Poëme sur la Peinture le fera vivre autant que cet Art sera en
-						quelque estime dans le monde. </p>
+						l'un réprésente <objectName ref="#CharlesAlphonseDuFresnoyViergeAgen">une
+							Vierge à demi corps</objectName>, et l'autre <objectName
+							ref="#CharlesAlphonseDuFresnoyVenusCouchee">une Vénus <pb n="495"
+							/>couchée</objectName>. Ce qu'il a peint en <placeName ref="#France"
+							>France</placeName> tient encore de ce Goût-là, principalement ce qu'il
+						a fait <objectName ref="#ChateauDuRaincy">au Rinci</objectName> pour
+							<persName ref="#JacquesBordier">M. Bordier</persName> Intendant des
+						Finances : cette <objectName>Peinture</objectName> passant pour le plus beau
+						de ses Ouvrages au jugement des Connoisseurs. Mais si le peu de Tableaux
+						qu'il a faits ne sont pas suffisans pour répandre son nom en divers endroits
+						de l'<placeName ref="#Europe">Europe</placeName>, celuy de son Poëme sur la
+						Peinture le fera vivre autant que cet Art sera en quelque estime dans le
+						monde. </p>
 				</div2>
 				<div2 n="244" type="chapitre" xml:id="C244" xml:lang="fra">
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#NicholasMignard">NICOLAS
@@ -12594,7 +12615,8 @@
 						en <date when="1668">1668</date>. au grand regret de tous ceux qui l'avoient
 						connu ; car il n'étoit pas moins honnête homme, <pb n="497"/>que bon
 						Peintre. Il étoit pour lors Recteur de l'Académie, laquelle assista à ses
-						Funérailles dans <objectName ref="#CouventDesFeuillantsParis">L'Eglise des Feüillans</objectName>, où il fut enterré.</p>
+						Funérailles dans <objectName ref="#CouventDesFeuillantsParis">L'Eglise des
+							Feüillans</objectName>, où il fut enterré.</p>
 				</div2>
 				<div2 n="245" type="chapitre" xml:id="C245" xml:lang="fra">
 					<head><hi rend="it"><hi rend="capitals"><persName ref="#ClaudeVignon">CLAUDE
@@ -12632,11 +12654,12 @@
 					<p xml:id="PIL_AVP_L7_C246_P2">Les Guerres Civiles de <placeName ref="#France"
 							>France</placeName>, qui y suspendirent les travaux des beaux Arts, luy
 						firent faire le voyage de <placeName ref="#Suede">Suéde</placeName>, où la
-						réputation de la <objectName ref="#ChristineDeSuede">Reine Christine</objectName> l'avoit attiré. Mais Sa Majésté ne luy
-						ayant donné pour tout employ que son Portrait à peindre, il n'y dit pas
-						grand séjour ; et son Génie de feu ne pouvant s'accommoder de l'inaction, le
-						fit revenir bien-tôt en <placeName ref="#France">France</placeName> chercher
-						des occasions de s'éxercer. S'il n'a pas rempli tout ce que l'on<pb n="499"
+						réputation de la <objectName ref="#ChristineDeSuede">Reine
+							Christine</objectName> l'avoit attiré. Mais Sa Majésté ne luy ayant
+						donné pour tout employ que son Portrait à peindre, il n'y dit pas grand
+						séjour ; et son Génie de feu ne pouvant s'accommoder de l'inaction, le fit
+						revenir bien-tôt en <placeName ref="#France">France</placeName> chercher des
+						occasions de s'éxercer. S'il n'a pas rempli tout ce que l'on<pb n="499"
 						/>attendoit de luy, il a du moins soûtenu sa réputation par des Compositions
 						éxtraordinaires, et par des Expressions vives. Mais comme son Génie n'étoit
 						pas conduit par un jugement bien solide, il s'évaporoit souvent en des
@@ -12656,17 +12679,24 @@
 						son Pinceau. Il se servoit souvent de l'impression de la toile quans il
 						avoit du poil à faire, non pas en laissant l'impression<pb n="500"/>
 						découverte, mais en la découvrant avec de son pinceau. Il a fait quantité
-						d'Ouvrages, dont les plus considérables sont, la <objectName ref="#SebastienBourdonGrandeGalerieHotelDeBretonvilliers">Galerie de <persName ref="#ClaudeLeRagoisDeBretonvilliers">M. de
-								Brétonvilliers</persName></objectName> dans l'<placeName ref="#IleSaintLouis">Isle Nôtre-Dame</placeName>,
-						et les sept <objectName ref="#SebastienBourdonSeptOeuvresMisericorde">Oeuvres de Miséricorde</objectName>, qu'il a gravées
-						luy même à l'eau-forte. Celuy de tous ses Tableaux qu'on estime davantage,
-						est le <objectName ref="#SebastienBourdonCrucifiementSaintPierreMayNotreDameParis">martyre de Saint-Pierre</objectName>, qu'il fit pour le May de <objectName ref="#CathedraleNotreDameParis">l'Eglise de
-						Nôtre-Dame</objectName>, et que l'on y conserve comme un des plus beaux de tous ceux
-						qu'elle contient.</p>
+						d'Ouvrages, dont les plus considérables sont, la <objectName
+							ref="#SebastienBourdonGrandeGalerieHotelDeBretonvilliers">Galerie de
+								<persName ref="#ClaudeLeRagoisDeBretonvilliers">M. de
+								Brétonvilliers</persName></objectName> dans l'<placeName
+							ref="#IleNotreDame">Isle Nôtre-Dame</placeName>, et les sept <objectName
+							ref="#SebastienBourdonSeptOeuvresMisericorde">Oeuvres de
+							Miséricorde</objectName>, qu'il a gravées luy même à l'eau-forte. Celuy
+						de tous ses Tableaux qu'on estime davantage, est le <objectName
+							ref="#SebastienBourdonCrucifiementSaintPierreMayNotreDameParis">martyre
+							de Saint-Pierre</objectName>, qu'il fit pour le May de <objectName
+							ref="#CathedraleNotreDameParis">l'Eglise de Nôtre-Dame</objectName>, et
+						que l'on y conserve comme un des plus beaux de tous ceux qu'elle
+						contient.</p>
 					<p xml:id="PIL_AVP_L7_C246_P4">Il étoit Calviniste de Réligion, mais d'ailleurs
 						de tres bonnes moeurs, et fort estimé dans l'Académie, dont il étoit
 						Recteur. Il travailloit pour le <persName ref="#LouisXIV">Roy</persName>
-						dans l'Appartement bas des <objectName ref="#PalaisTuileriesParis">Tuilleries</objectName>, lorsque la mort le surprit en <date
+						dans l'Appartement bas des <objectName ref="#PalaisTuileriesParis"
+							>Tuilleries</objectName>, lorsque la mort le surprit en <date
 							when="1662">1662</date>. âgé d'environ soixante ans.</p>
 
 
@@ -12679,30 +12709,33 @@
 						tourna dés son bas-âge du côté de la dévotion. Il voulut même se faire
 						Capucin : mais ses parens l'en ayant empêché, il cherchoit une Profession
 						qui fût propre à tenir son coeur élevé à <persName ref="#Dieu"
-							>Dieu</persName>, lorsqu'il vit par hazard un Tableau de <objectName>la Nativité</objectName> de
-						N.S. qui le toucha tellement, que dans la vûë<pb n="501"/> d'en pouvoir
-						faire de semblables, il prît la résolution de se faire Peintre. Ainsi ce
-						n'est point par une violente inclination qu'il embrassa la Peinture, mais
-						par une vocation qui paroissoit avoir quelque chose d'éxtraordinaire ; car
-						son Génie étoit assez froid, quoy qu'il eût d'ailleurs l'Esprit assez solide
-						pour faire son chemin dans la route ordinaire de la Peinture.</p>
+							>Dieu</persName>, lorsqu'il vit par hazard un Tableau de <objectName>la
+							Nativité</objectName> de N.S. qui le toucha tellement, que dans la
+							vûë<pb n="501"/> d'en pouvoir faire de semblables, il prît la résolution
+						de se faire Peintre. Ainsi ce n'est point par une violente inclination qu'il
+						embrassa la Peinture, mais par une vocation qui paroissoit avoir quelque
+						chose d'éxtraordinaire ; car son Génie étoit assez froid, quoy qu'il eût
+						d'ailleurs l'Esprit assez solide pour faire son chemin dans la route
+						ordinaire de la Peinture.</p>
 					<p xml:id="PIL_AVP_L7_C247_P2">Il n'eûr point d'autre Maïtre que les bons
-						Tableaux qu'il copia. Il fit d'abord quelques Portraits ; et <persName ref="PhilippeDeBethune">M. de
-							Béthune</persName> son Protecteur, qui s'en alloit Ambassadeur à
-							<placeName ref="#Rome">Rome</placeName>, le mena avec luy, et luy
-						procura une pension du Roy. Il demeura en <placeName ref="#Italie"
-							>Italie</placeName> jusqu'en <date when="1638">1638</date>. et à son
-						retour, passant par Bologne, il lia amitié avec le <persName
-							ref="#GuidoReni">Guide</persName>, qui luy fit son <objectName>Portrait</objectName>.</p>
+						Tableaux qu'il copia. Il fit d'abord quelques Portraits ; et <persName
+							ref="PhilippeDeBethune">M. de Béthune</persName> son Protecteur, qui
+						s'en alloit Ambassadeur à <placeName ref="#Rome">Rome</placeName>, le mena
+						avec luy, et luy procura une pension du Roy. Il demeura en <placeName
+							ref="#Italie">Italie</placeName> jusqu'en <date when="1638">1638</date>.
+						et à son retour, passant par Bologne, il lia amitié avec le <persName
+							ref="#GuidoReni">Guide</persName>, qui luy fit son
+							<objectName>Portrait</objectName>.</p>
 					<p xml:id="PIL_AVP_L7_C247_P3">A son arrivée en <placeName ref="#France"
 							>France</placeName> il fut assez heureux pour être le prémier Peintre
-						qui eût l'honneur de faire le <objectName>Portrait du Dauphin</objectName> que la
-						<persName ref="#AnneDAutriche">Reine</persName> venoit de mettre au monde. Ce prémier Ouvrage luy
-						réüssit si bien, qu'il avoit lieu d'espérer que la Cour, qui en étoit
-						contente, et qui luy promettoit de la protection, le porteroit dans la
-						suite, et luy procureroit de grans Ouvrages : mais quelque disgrace qu'il
-						n'avoit point méritée étant venuë à la traverse, luy dit quitter la Cour
-						pour mener une vie retirée et plus convenable à son dessein.</p>
+						qui eût l'honneur de faire le <objectName>Portrait du Dauphin</objectName>
+						que la <persName ref="#AnneDAutriche">Reine</persName> venoit de mettre au
+						monde. Ce prémier Ouvrage luy réüssit si bien, qu'il avoit lieu d'espérer
+						que la Cour, qui en étoit contente, et qui luy promettoit de la protection,
+						le porteroit dans la suite, et luy procureroit de grans Ouvrages : mais
+						quelque disgrace qu'il n'avoit point méritée étant venuë à la traverse, luy
+						dit quitter la Cour pour mener une vie retirée et plus convenable à son
+						dessein.</p>
 					<pb n="502"/>
 					<p xml:id="PIL_AVP_L7_C247_P4">C'est là qu'il songea tout de bon à ne s'occuper
 						de sa Peinture que pour son salut, et qu'il résolut de ne plus faire de
@@ -12742,53 +12775,60 @@
 						arrêter autant qu'il jugeroit à propos selon l'occasion, étant arrivé à
 						Paris il se mit chez <persName ref="#GeorgesLallemand">l'Alleman</persName>
 						fort mauvais Peintre ; mais fort employé pour lors. Il le quitta pour se
-						retirer en son particulier, et se logea au <placeName ref="#CollegeDeLaon">Collége de
-							Laon</placeName>, où le <persName ref="#NicolasPoussin"
+						retirer en son particulier, et se logea au <placeName ref="#CollegeDeLaon"
+							>Collége de Laon</placeName>, où le <persName ref="#NicolasPoussin"
 							>Poussin</persName> aprés son prémier retour d'<placeName ref="#Italie"
 							>Italie</placeName> demeuroit aussi : cette rencontre lia une espece
 						d'amitié entr'eux, et fit qu'un Peintre nommé <persName
 							ref="#NicolasDuchesne">du Chesne</persName>, qui bien qu'ignorant, avoit
-						entrepris les Ouvrages de Peinture du <objectName ref="#PalaisLuxembourg">Palais de Luxembourg</objectName>, les employa tous
-						deux dans ce Palais, <persName ref="#NicolasPoussin">Poussin</persName> à
-						queslques petits Ouvrages dans les Lambris, et <persName
-							ref="#PhilippeDeChampaigne">Champagne</persName>, à faire quelques
-						<objectName>Tableaux dans <pb n="504"/> l'Apartement de la Reine</objectName>, Sa Majesté les trouva
-						si dort à son gré que <persName ref="#NicolasDuchesne">du Chesne</persName>
-						en témoigna une forte jalousie d'où <persName ref="#PhilippeDeChampaigne"
-							>Champagne</persName> qui aimoit la paix prit occasion de s'en retourner
-						à <placeName ref="#Bruxelles">Bruxelles</placeName>, pour voir son frére, et
-						de là faire le voyage d'<placeName ref="#Italie">Italie</placeName> pas
-							l'<placeName ref="#Allemagne">Allemagne</placeName>. Mais à peine
-						étoit-il arrivé à <placeName ref="#Bruxelles">Bruxelles</placeName> que
-							l'<persName ref="#ClaudeMaugis">Abbé de Saint Ambroise</persName>, qui
-						étoit Sur-Intendant des Bâtimens luy fit savoir la mort de <persName
+						entrepris les Ouvrages de Peinture du <objectName ref="#PalaisLuxembourg"
+							>Palais de Luxembourg</objectName>, les employa tous deux dans ce
+						Palais, <persName ref="#NicolasPoussin">Poussin</persName> à queslques
+						petits Ouvrages dans les Lambris, et <persName ref="#PhilippeDeChampaigne"
+							>Champagne</persName>, à faire quelques <objectName>Tableaux dans <pb
+								n="504"/> l'Apartement de la Reine</objectName>, Sa Majesté les
+						trouva si dort à son gré que <persName ref="#NicolasDuchesne">du
+							Chesne</persName> en témoigna une forte jalousie d'où <persName
+							ref="#PhilippeDeChampaigne">Champagne</persName> qui aimoit la paix prit
+						occasion de s'en retourner à <placeName ref="#Bruxelles"
+							>Bruxelles</placeName>, pour voir son frére, et de là faire le voyage
+							d'<placeName ref="#Italie">Italie</placeName> pas l'<placeName
+							ref="#Allemagne">Allemagne</placeName>. Mais à peine étoit-il arrivé à
+							<placeName ref="#Bruxelles">Bruxelles</placeName> que l'<persName
+							ref="#ClaudeMaugis">Abbé de Saint Ambroise</persName>, qui étoit
+						Sur-Intendant des Bâtimens luy fit savoir la mort de <persName
 							ref="#NicolasDuchesne">du Chesne</persName> et le fit retourner en
 							<placeName ref="#France">France</placeName>. Il y prit aussi-tôt
 						Possession de la Direction des Peintures de <persName ref="#MarieDeMedicis"
-							>la Reine</persName>, qui luy donna un logement dans <objectName ref="#PalaisLuxembourg">le
-							Luxembourg</objectName> et douze cent livres de pension. Ce fut en ce
-						tems là que sa Majesté le fit travailler <objectName ref="#CouventCarmelitesFaubourgSaintJacquesParis">aux Carmelites</objectName> et qu'il épousa
-							<persName ref="#CharlotteDuchesne">la fille de <persName
-								ref="#NicolasDuchesne">du Chesne</persName></persName>. Comme il
-						aimoit son Art et qu'il étoit fort laborieux, il a fait à <placeName
-							ref="#Paris">Paris</placeName>, et dans le Royaume une infinité
-						d'Ouvrages. On en voit entr'autres lieu aux deux <objectName ref="#PhilippeDeChampaigneAppartementCarmel">Couvens des
-							Carmelites</objectName>, du <placeName ref="#FaubourgSaintJacques">Faubourg Saint
-								Jacques</placeName>, et <objectName ref="#CouventCarmelitesRueChapon">de la rue Chapon </objectName>; au
+							>la Reine</persName>, qui luy donna un logement dans <objectName
+							ref="#PalaisLuxembourg">le Luxembourg</objectName> et douze cent livres
+						de pension. Ce fut en ce tems là que sa Majesté le fit travailler
+							<objectName ref="#CouventCarmelitesFaubourgSaintJacquesParis">aux
+							Carmelites</objectName> et qu'il épousa <persName
+							ref="#CharlotteDuchesne">la fille de <persName ref="#NicolasDuchesne">du
+								Chesne</persName></persName>. Comme il aimoit son Art et qu'il étoit
+						fort laborieux, il a fait à <placeName ref="#Paris">Paris</placeName>, et
+						dans le Royaume une infinité d'Ouvrages. On en voit entr'autres lieu aux
+						deux <objectName ref="#PhilippeDeChampaigneAppartementCarmel">Couvens des
+							Carmelites</objectName>, du <placeName ref="#FaubourgSaintJacques"
+							>Faubourg Saint Jacques</placeName>, et <objectName
+							ref="#CouventCarmelitesRueChapon">de la rue Chapon </objectName>; au
 							<objectName>Calvaire du Faubourg Saint Germain</objectName> ;
-						<objectName ref="#PalaisRoyalParis">au Palais Royal</objectName> ; dans le <objectName ref="#ChapitreNotreDameParis">Chapitre de
-							Nôtre Dame</objectName> de <placeName ref="#Paris">Paris</placeName> et
-						dans plusieurs Eglises : sans compter une infinité de Portraits qu'il
-						faisoit fort ressemblans et qu'il finissoit beaucoup. <persName>Monsieur Poncet</persName> Conseiller en la Cour des
-						Aydes qui étoit de ses amis le pria un jour de Dimanche de faire celuy de sa
-						fille, <pb n="505"/> qui devoit faire Profession le lundi aux <objectName ref="#CouventCarmelitesRueChapon">Carmelites de
-							la ruë Chapon</objectName>, n'y ayant plus que ce jour-là où
-						les gens du monde pussent la voir, mais <persName
-							ref="#PhilippeDeChampaigne">Champagne</persName> faisant scrupule de
-						peindre un Dimanche ne voulut jamais, quoy qu'on luy put dire et offrir se
-						laisser vaincre aux priéres de son ami, car outre qu'il étoit bon Chrétien
-						il étoit fort desintéressé, comme on en jugera par ce que je vais rapporter
-						icy. </p>
+							<objectName ref="#PalaisRoyalParis">au Palais Royal</objectName> ; dans
+						le <objectName ref="#ChapitreNotreDameParis">Chapitre de Nôtre
+							Dame</objectName> de <placeName ref="#Paris">Paris</placeName> et dans
+						plusieurs Eglises : sans compter une infinité de Portraits qu'il faisoit
+						fort ressemblans et qu'il finissoit beaucoup. <persName>Monsieur
+							Poncet</persName> Conseiller en la Cour des Aydes qui étoit de ses amis
+						le pria un jour de Dimanche de faire celuy de sa fille, <pb n="505"/> qui
+						devoit faire Profession le lundi aux <objectName
+							ref="#CouventCarmelitesRueChapon">Carmelites de la ruë
+							Chapon</objectName>, n'y ayant plus que ce jour-là où les gens du monde
+						pussent la voir, mais <persName ref="#PhilippeDeChampaigne"
+							>Champagne</persName> faisant scrupule de peindre un Dimanche ne voulut
+						jamais, quoy qu'on luy put dire et offrir se laisser vaincre aux priéres de
+						son ami, car outre qu'il étoit bon Chrétien il étoit fort desintéressé,
+						comme on en jugera par ce que je vais rapporter icy. </p>
 					<p xml:id="PIL_AVP_L7_C248_P4"> Le <persName
 							ref="#ArmandJeanDuPlessisDeRichelieu">Cardinal de Richelieu</persName>
 						n'ayant jamais pû faire quitter à <persName ref="#PhilippeDeChampaigne"
@@ -12808,8 +12848,10 @@
 						l'estime qu'il avoit pour ce Peintre. Quoy que <pb n="506"/>
 						<persName ref="#PhilippeDeChampaigne">Champagne</persName> refusat de se
 						donner au Cardinal, il ne refusoit pas pour cela de travailler pour luy. Il
-						luy fit entr'autres choses <objectName cert="low" xml:id="PhilippeDeChampaignePortraitsRichelieu"> son Portrait</objectName> à diverses
-						fois qui est un des meilleurs qu'il ait peint en toute sa Vie. </p>
+						luy fit entr'autres choses <objectName cert="low"
+							xml:id="PhilippeDeChampaignePortraitsRichelieu"> son
+							Portrait</objectName> à diverses fois qui est un des meilleurs qu'il ait
+						peint en toute sa Vie. </p>
 					<p xml:id="PIL_AVP_L7_C248_P5"> Il étoit depuis lontems dans une grande
 						réputation, lorsque <persName ref="#CharlesLeBrun">le Brun</persName>
 						arriva d'<placeName ref="#Italie">Italie</placeName>. Celuy-ci par sa
@@ -12818,9 +12860,11 @@
 						sans que <persName ref="#PhilippeDeChampaigne">Champagne</persName> en ait
 						temoigné la moindre jalousie. </p>
 					<p xml:id="PIL_AVP_L7_C248_P6"> Il eut de son mariage un fils et deux filles, de
-						ces trois enfans il ne luy reste qu'<persName ref="#CatherineDeSainteSuzanne">une fille</persName> qu'il aimoit tendrement, et
-						comme elle se fit Religieuse à <objectName ref="#AbbayeDePortRoyalParis">Port-Royal</objectName> où elle
-						étoit pensionnaire, cela donna à <persName ref="#PhilippeDeChampaigne"
+						ces trois enfans il ne luy reste qu'<persName
+							ref="#CatherineDeSainteSuzanne">une fille</persName> qu'il aimoit
+						tendrement, et comme elle se fit Religieuse à <objectName
+							ref="#AbbayeDePortRoyalParis">Port-Royal</objectName> où elle étoit
+						pensionnaire, cela donna à <persName ref="#PhilippeDeChampaigne"
 							>Champagne</persName> de l'attachement pour ce Convent et pour les
 						personnes qui y avoient quelque relation qu'on appelloit en ce tems-la du
 						nom de Janseniste. Il mourut en <date when="1674">1674</date>. âgé de
@@ -12910,9 +12954,12 @@
 						également bien les Figures, le Païsage, l'Architecture et les Ornemens. On
 						voit dans <placeName ref="#Paris">Paris</placeName> quantité de ses Ouvrages
 						tant publics que particulers, plusieurs Galeries et Apartemens, et
-						entr'autres <objectName ref="#NicolasLoirAntichambreAppartementsDuRoiTuileries">pour le Roy dans le <objectName ref="#PalaisTuileriesParis">Palais des Tuileries</objectName></objectName>. Il mourut en <date
-							when="1679">1679</date> âgé de cinquante-cinq ans étant pour lors
-						Professeur en l'Academie.</p>
+						entr'autres <objectName
+							ref="#NicolasLoirAntichambreAppartementsDuRoiTuileries">pour le Roy dans
+							le <objectName ref="#PalaisTuileriesParis">Palais des
+								Tuileries</objectName></objectName>. Il mourut en <date when="1679"
+							>1679</date> âgé de cinquante-cinq ans étant pour lors Professeur en
+						l'Academie.</p>
 				</div2>
 				<div2 n="252" type="chapitre" xml:id="C252" xml:lang="fra">
 					<head><hi rend="capitals"><hi rend="it"><persName ref="#CharlesLeBrun">CHARLES
@@ -12923,77 +12970,85 @@
 						dispositions pour former un grand Peintre. Il se servit de son talent dés
 						qu'il pût se servir de sa raison : il le cultiva par des Etudes
 						continuelles, et il le fit valoir par la fortune, qui seconda son mérite, et
-						qui ne l'abandonna jamais. <pb n="511"/> Il étoit Fils d'un <persName ref="#NicolasLeBrun">Sculpteur
-							médiocre</persName> qui demeuroit dans la <placeName ref="#PlaceMaubert">Place Maubert</placeName>. Ce
-						Sculpteur fut employé à quelque Ouvrage dans le Jardin de <objectName ref="#HotelSeguier">l'Hôtel
-							Séguier</objectName>. Il avoit accoutumé d'y mener son Fils, et de luy
-						faire copier quelques Dessins auprés le luy.<persName ref="#PierreSeguier">
-							M. le Chancelier</persName> s'y étant un jour allé promener, vit ce
-						jeune homme qui dessinoit avec tant de facilité et d'application pour son
-						âge, qu'il ne douta point que ce ne fût l'effet d'un Génis au dessus du
-						commun. La physionomie de cet Enfant luy plût. Touché de ces bonnes
-						dispositions, il l'obligea de luy porter de tems en tems de ses Desseins, et
-						voulût bien dans la suite prendre soin de son avancement, et l'aider de
-						quelque secours d'argent pour luy donner du courage. </p>
+						qui ne l'abandonna jamais. <pb n="511"/> Il étoit Fils d'un <persName
+							ref="#NicolasLeBrun">Sculpteur médiocre</persName> qui demeuroit dans la
+							<placeName ref="#PlaceMaubert">Place Maubert</placeName>. Ce Sculpteur
+						fut employé à quelque Ouvrage dans le Jardin de <objectName
+							ref="#HotelSeguier">l'Hôtel Séguier</objectName>. Il avoit accoutumé d'y
+						mener son Fils, et de luy faire copier quelques Dessins auprés le
+							luy.<persName ref="#PierreSeguier"> M. le Chancelier</persName> s'y
+						étant un jour allé promener, vit ce jeune homme qui dessinoit avec tant de
+						facilité et d'application pour son âge, qu'il ne douta point que ce ne fût
+						l'effet d'un Génis au dessus du commun. La physionomie de cet Enfant luy
+						plût. Touché de ces bonnes dispositions, il l'obligea de luy porter de tems
+						en tems de ses Desseins, et voulût bien dans la suite prendre soin de son
+						avancement, et l'aider de quelque secours d'argent pour luy donner du
+						courage. </p>
 					<p xml:id="PIL_AVP_L7_C252_P2"> Ce jeune homme, animé par des récompenses, fit
 						des progrés surprenans, en sorte que <persName ref="#PierreSeguier">M. le
 							Chancelier</persName> le recommanda à <persName ref="#SimonVouet"
-								>Vouët</persName>, qui peignoit alors la <objectName ref="#SimonVouetBibliothequeSeguier">bibliothéque de
-							l'Hôtel Seguier</objectName> et qui étoit regardé de tous nos Peintres
-						comme le <persName ref="#SimonVouet"><persName ref="#Raphael"
-								>Raphaël</persName> de la <placeName ref="#France"
-								>France</placeName></persName>. </p>
+							>Vouët</persName>, qui peignoit alors la <objectName
+							ref="#SimonVouetBibliothequeSeguier">bibliothéque de l'Hôtel
+							Seguier</objectName> et qui étoit regardé de tous nos Peintres comme le
+							<persName ref="#SimonVouet"><persName ref="#Raphael">Raphaël</persName>
+							de la <placeName ref="#France">France</placeName></persName>. </p>
 					<p xml:id="PIL_AVP_L7_C252_P3">
 						<persName ref="#CharlesLeBrun">Le Brun</persName> fit à l'âge de quinze ans
 						deux Ouvrages qui surprirent les Peintres de ce tems-là : le prémier étoit
 							<objectName>le Portrait de son Ayeul</objectName>, et l'autre
-						réprésentoit <objectName ref="#CharlesLeBrunHerculeTuantChevauxDeDiomèdeNottingham">Hercules assommant les chevaux de
-							Dioméde</objectName>. Aprés quelque tems, <persName ref="#PierreSeguier"
-							>M. le Chancelier<pb n="512"/> Séguier</persName> connût par les
-						progrés qu'avoit fait <persName ref="#CharlesLeBrun">le Brun</persName>, et
-						par l'avidité que ce jeune Peintre avoit d'apprendre, qu'il étoit tems de
-						le faire voyager en <placeName ref="#Italie">Italie</placeName>. Il l'y
-						envoya en <date when="1639">1639</date>. Il l'y entretint par une grosse
-						pension l'espace de trois ans, pendant lesquels <persName
-							ref="#CharlesLeBrun">le Brun</persName> cultiva son Génie par toutes les
-						connoissances qui l'ont conduit au degré de perfection où il s'est élevé.
-						Les jeunes Peintres qui reviennent de <placeName ref="#Rome"
-							>Rome</placeName> passent ordinairement à <placeName ref="#Venise"
-							>Venise</placeName> pour prendre au moins quelque teinture du bon
-						Coloris : mais <persName ref="#CharlesLeBrun">le Brun</persName> n'eût pas
-						cette curiosite. </p>
+						réprésentoit <objectName
+							ref="#CharlesLeBrunHerculeTuantChevauxDeDiomèdeNottingham">Hercules
+							assommant les chevaux de Dioméde</objectName>. Aprés quelque tems,
+							<persName ref="#PierreSeguier">M. le Chancelier<pb n="512"/>
+							Séguier</persName> connût par les progrés qu'avoit fait <persName
+							ref="#CharlesLeBrun">le Brun</persName>, et par l'avidité que ce jeune
+						Peintre avoit d'apprendre, qu'il étoit tems de le faire voyager en
+							<placeName ref="#Italie">Italie</placeName>. Il l'y envoya en <date
+							when="1639">1639</date>. Il l'y entretint par une grosse pension
+						l'espace de trois ans, pendant lesquels <persName ref="#CharlesLeBrun">le
+							Brun</persName> cultiva son Génie par toutes les connoissances qui l'ont
+						conduit au degré de perfection où il s'est élevé. Les jeunes Peintres qui
+						reviennent de <placeName ref="#Rome">Rome</placeName> passent ordinairement
+						à <placeName ref="#Venise">Venise</placeName> pour prendre au moins quelque
+						teinture du bon Coloris : mais <persName ref="#CharlesLeBrun">le
+							Brun</persName> n'eût pas cette curiosite. </p>
 					<p xml:id="PIL_AVP_L7_C252_P4"> Le prémier Tableau qu'il fit à son retour
-						d'<placeName ref="#Italie">Italie</placeName>, fut <objectName ref="#CharlesLeBrunLeSerpentDAirainBristol">le
-							Serpent d'airain</objectName>, qui est dans le <objectName ref="#CouventMoinesDePicpusParis">Convent des
-							Religieux de Picpus</objectName>, et ensuite quelques autres pour
-							<persName ref="#PierreSeguier">M. le Chancelier</persName> son
-						Protecteur. </p>
+							d'<placeName ref="#Italie">Italie</placeName>, fut <objectName
+							ref="#CharlesLeBrunLeSerpentDAirainBristol">le Serpent
+							d'airain</objectName>, qui est dans le <objectName
+							ref="#CouventMoinesDePicpusParis">Convent des Religieux de
+							Picpus</objectName>, et ensuite quelques autres pour <persName
+							ref="#PierreSeguier">M. le Chancelier</persName> son Protecteur. </p>
 					<p xml:id="PIL_AVP_L7_C252_P5"> Il sentoit fort bien ce qu'il valoit, par
 						comparaison aux Peintres de son tems, et l'envie qu'il avoit de se faire
 						connoître luy faisoit solliciter vigoureusement les Ouvrages qui devoient
-						être exposez au public. Ce fut dans cette vûe qu'il fit à <objectName ref="#CathedraleNotreDameParis">Nôtre-Dame</objectName> deux
-						années de suite le Tableau du May. Il peignit la premiére année
-						<objectName cert="low" xml:id="CharlesLeBrunMaySaintPierre">le martyre de <persName ref="#SaintPierre">Saint
-								Pierre</persName></objectName>, et la seconde <objectName ref="#CharlesLeBrunMartyreSaintEtienneMayNotreDameParis">le martyre
-							de <persName ref="#SaintEtienne">Saint Etienne</persName></objectName>.
-							<persName ref="#EustacheLeSueur">Le Sueur</persName>, dont nous avons
-						parlé, étoit le seul Concurrent qui luy pût disputer : mais, soit <pb
-							n="513"/> qu'on trouvât <persName ref="#CharlesLeBrun">le
-							Brun</persName> plus habile ou plus à la mode, soit que le nombre de ses
-						amis fut plus grand, il emportoit toûjours sur son Compétiteur les grandes
-						occasions de se signaler. </p>
+						être exposez au public. Ce fut dans cette vûe qu'il fit à <objectName
+							ref="#CathedraleNotreDameParis">Nôtre-Dame</objectName> deux années de
+						suite le Tableau du May. Il peignit la premiére année <objectName cert="low"
+							xml:id="CharlesLeBrunMaySaintPierre">le martyre de <persName
+								ref="#SaintPierre">Saint Pierre</persName></objectName>, et la
+						seconde <objectName ref="#CharlesLeBrunMartyreSaintEtienneMayNotreDameParis"
+							>le martyre de <persName ref="#SaintEtienne">Saint
+							Etienne</persName></objectName>. <persName ref="#EustacheLeSueur">Le
+							Sueur</persName>, dont nous avons parlé, étoit le seul Concurrent qui
+						luy pût disputer : mais, soit <pb n="513"/> qu'on trouvât <persName
+							ref="#CharlesLeBrun">le Brun</persName> plus habile ou plus à la mode,
+						soit que le nombre de ses amis fut plus grand, il emportoit toûjours sur son
+						Compétiteur les grandes occasions de se signaler. </p>
 					<p xml:id="PIL_AVP_L7_C252_P6"> La Galerie de <persName
-							ref="#NicolasLambertDeThorigny">M. Lambert</persName> dans
-							l'<placeName>Isle Nôtre-Dame</placeName>, et le Séminaire de Saint
-						Sulpice établirent si solidement sa réputation, que <persName
-							ref="#NicolasFouquet">M. Foucquet</persName>, pour lors Sur Intendant
-						des Finances, le voulût avoir pour les Ouvrages de Peinture qui se voient
-						embellir sa belle Maison de <placeName>Vaux-le-Vicomte</placeName>.
-							<persName ref="#CharlesLeBrun">Le Brun</persName> y a laissé des
-						témoignages de la profondeur de son Génie et de son savoir, sur tout dans
-						l'Appartement que l'on appelle la Chambre des Muses. On y voit un
-							<objectName>Plat-fond</objectName> qui paroît un des meilleurs Tableaux
-						qu'il ait faits. </p>
+							ref="#NicolasLambertDeThorigny">M. Lambert</persName> dans l'<placeName
+							ref="#IleNotreDame">Isle Nôtre-Dame</placeName>, et le <objectName
+							ref="#AncienSeminaireSaintSulpice">Séminaire de Saint
+							Sulpice</objectName> établirent si solidement sa réputation, que
+							<persName ref="#NicolasFouquet">M. Foucquet</persName>, pour lors Sur
+						Intendant des Finances, le voulût avoir pour les Ouvrages de Peinture qui se
+						voient embellir sa belle Maison de <objectName ref="#ChateauVauxLeVicomte"
+							>Vaux-le-Vicomte</objectName>. <persName ref="#CharlesLeBrun">Le
+							Brun</persName> y a laissé des témoignages de la profondeur de son Génie
+						et de son savoir, sur tout dans l'Appartement que l'on appelle la Chambre
+						des Muses. On y voit un <objectName
+							ref="#CharlesLeBrunChambreMusesVauxVicomte">Plat-fond</objectName> qui
+						paroît un des meilleurs Tableaux qu'il ait faits. </p>
 					<p xml:id="PIL_AVP_L7_C252_P7">
 						<persName ref="#NicolasFouquet">M. Foucquet</persName>, pour attacher
 							<persName ref="#CharlesLeBrun">le Brun</persName> entiérement à son
@@ -13011,7 +13066,7 @@
 						Ce fut sur ses projets que ce Ministre proposa à Sa Maiesté d'affermir les
 						fondemens de l'Académie de Peinture, et de la rendre la plus célébre qui ait
 						jamais été en ce genre-là. Les revenus en furent augmentez. On y établit de
-						nouveaux Statuts, et elle fut compos"e d'un Protecteur, d'un
+						nouveaux Statuts, et elle fut composée d'un Protecteur, d'un
 						Vice-Protecteur, d'un Directeur, d'un Chancelier, de quatre Recteurs, de
 						quatorze Professeurs, dont il y en auroit un pour l'Anatomie, et un autre
 						pour les Mathématiques ; de plusieurs Ajoints aux Recteurs et aux
@@ -13030,26 +13085,33 @@
 						et <persName ref="#JeanBaptisteColbert">M. Colbert</persName> étant chargé
 						de <pb n="515"/> faire éxécuter ses ordres, s'en raportoit entierement à
 							<persName ref="#CharlesLeBrun">le Brun</persName>. Ce Peintre prenoit
-						non seulement le soiin des choses en général, mis il n'en épargnoit aucuns
+						non seulement le soin des choses en général, mais il n'en épargnoit aucuns
 						pour ses Tableaux en particuler. Il s'instruisoit à fond du sujet qu'il
 						avoit à traiter ou par la lecture des bons Auteurs, ou par les Savans qu'il
 						consultoit. </p>
-					<p xml:id="PIL_AVP_L7_C252_P11"> Il a fait à <placeName ref="#Sceaux"
-							>Sceaux</placeName>, et dans plusieurs Maisons de <placeName
-							ref="#Paris">Paris</placeName> des Ouvrages que la renomée a rendu
-						recommandable. Mais les plus considerables sont chez le Roy en plusieurs
-						grans <objectName>Tableaux de l'Histoire d'Alexandre</objectName>, au
-						Plat-fond de la grande Galerie de <placeName ref="#Versailles"
-							>Versailles</placeName>, et au grand Escalier du même lieu. </p>
+					<p xml:id="PIL_AVP_L7_C252_P11"> Il a fait à <objectName
+							ref="#CharlesLeBrunCoupolePavillonAuroreSceaux"><placeName ref="#Sceaux"
+								>Sceaux</placeName></objectName>, et dans plusieurs Maisons de
+							<placeName ref="#Paris">Paris</placeName> des Ouvrages que la renomée a
+						rendu recommandables. Mais les plus considerables sont chez le Roy en
+						plusieurs grans <objectName ref="#CharlesLeBrunCycleHistoireAlexandre"
+							>Tableaux de l'Histoire d'Alexandre</objectName>, au <objectName
+							ref="CharlesLeBrunGalerieDesGlacesVersailles">Plat-fond de la grande
+							Galerie de <placeName ref="#Versailles"
+							>Versailles</placeName></objectName>, et au grand <objectName
+							ref="#CharlesLeBrunEscalierDesAmbassadeursVersailles"
+							>Escalier</objectName> du même lieu. </p>
 					<p xml:id="PIL_AVP_L7_C252_P12"> Quand le Roy choisit <persName
 							ref="#CharlesLeBrun">le Brun</persName> pour son Premier Peintre, il luy
 						donna en même tems la direction générale des Manufactures des Gobelins et il
 						l'éxerça avec tant d'application, qu'aucun Ouvrage ne s'y faisoit qui ne fût
 						de son Dessein. Il mourut en <date when="1690">1690</date>. dans son
 						Logement des Gobelins. Sa Sépulture est dans une Chapelle qu'il avoit aquise
-						à <placeName>Saint Nicolas du Chardonnet</placeName>, où <persName
-							ref="#SuzanneButay">sa Veuve</persName> luy a fait ériger un magnifique
-						Mausolée. <figure type="ornement"
+						à <placeName ref="#EgliseSaintNicolasDuChardonnet">Saint Nicolas du
+							Chardonnet</placeName>, où <persName ref="#SuzanneButay">sa
+							Veuve</persName> luy a fait ériger un magnifique <objectName
+							ref="#SepultureCharlesLeBrun">Mausolée</objectName>. <figure
+							type="ornement"
 							source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/3a7fe851-710b-419d-8170-cb262b5bfa11/1328,6262,765,362/max/0/default.jpg"
 						/>
 					</p>
@@ -13090,29 +13152,31 @@
 						inventez, ainsi ces sortes de Tableaux, deviennent par là de Enigmes, que le
 						spectateur ne veut pas se donner la peine d'éclaircir. </p>
 					<p xml:id="PIL_AVP_L7_C253_P4"> Il a toûjours estimé l'Ecole Romaine pour le
-						Dessein, mais il a eu une pente à suivre celle de <placeName ref="#Bologne"
-							>Bologne</placeName> et particuliérement le Goût d'<persName
-							ref="#AnnibaleCarracci">Annibal Carache</persName> dans lequel il avoit
-						aquis une facilité merveilleuse. Et si dans cette partie il n'étoit pas
-						tout-à-fait si spirituel que ce Peintre, il étoit moins chargé, plus égal,
-						plus gracieux<pb n="518"/> et toûjours correct. Ses Attitudes sont d'un beau
-						chois, naturelles, expressives, contrastées judicieusement : ses Draperies
-						bien jettées flattant et marquant le nud avec discretion : sans y mêler
-						néanmoins l'agréable <reg>variété</reg> des étoffes particuliéres. Ses
-						éxpressions sont belles dans tout ce qu'il a voulu representer, et le
-						traitté curieux qu'il a composé des Passions de l'ame, avec des Figures
-						démonstratives, fait voir la grande attention qu'il y avoit faite. Il semble
-						pourtant qu'en cela même, il a trop généralement suivi l'idée qu'il s'en
-						étoit faite, en sorte qu'elle a dégéneré en habitude et en ce qu'on appelle
-						Maniére. Cette habitude est belle à la verité : mais faute d'éxaminer la
-						Nature et de voir qu'elle peut exprimer une même Passion de différentes
-						façons et qu'il y en a de particuliéres qui sont vives et piquantes, il a
-						privé ses Ouvrages d'un pris qui non seulement leur auroit donné entrée dans
-						les Cabinets des Curieux : mais qui leur y auroit procuré une place
-						considérable. </p>
-					<p xml:id="PIL_AVP_L7_C253_P5"> Ce que je dis de cette générale éxpression des
-						Passions de l'ame peut avoir lieu pour le Dessein tant des Figures que des
-						Airs de tête que <persName ref="#CharlesLeBrun">le Brun</persName> a
+						Dessein, mais il a eu une <reg>pente</reg> à suivre celle de <placeName
+							ref="#Bologne">Bologne</placeName> et particuliérement le Goût
+							d'<persName ref="#AnnibaleCarracci">Annibal Carache</persName> dans
+						lequel il avoit aquis une facilité merveilleuse. Et si dans cette partie il
+						n'étoit pas tout-à-fait si spirituel que ce Peintre, il étoit moins chargé,
+						plus égal, plus gracieux<pb n="518"/> et toûjours correct. Ses Attitudes
+						sont d'un beau chois, naturelles, expressives, contrastées judicieusement :
+						ses Draperies bien jettées flattant et marquant le nud avec discretion :
+						sans y mêler néanmoins l'agréable <reg>variété</reg> des étoffes
+						particuliéres. Ses éxpressions sont belles dans tout ce qu'il a voulu
+						representer, et le traitté curieux qu'il a composé des <objectName
+							ref="#CharlesLeBrunExpressionsDesPassionDeLAme">Passions de
+							l'ame</objectName>, avec des Figures démonstratives, fait voir la grande
+						attention qu'il y avoit faite. Il semble pourtant qu'en cela même, il a trop
+						généralement suivi l'idée qu'il s'en étoit faite, en sorte qu'elle a
+						dégéneré en habitude et en ce qu'on appelle Maniére. Cette habitude est
+						belle à la verité : mais faute d'éxaminer la Nature et de voir qu'elle peut
+						exprimer une même Passion de différentes façons et qu'il y en a de
+						particuliéres qui sont vives et piquantes, il a privé ses Ouvrages d'un pris
+						qui non seulement leur auroit donné entrée dans les Cabinets des Curieux :
+						mais qui leur y auroit procuré une place considérable. </p>
+					<p xml:id="PIL_AVP_L7_C253_P5"> Ce que je dis de cette générale <objectName
+							ref="#CharlesLeBrunExpressionsDesPassionDeLAme">éxpression des Passions
+							de l'ame</objectName> peut avoir lieu pour le Dessein tant des Figures
+						que des Airs de tête que <persName ref="#CharlesLeBrun">le Brun</persName> a
 						réprésentées, car ils sont presque toûjours les mêmes quoyque d'un tres beau
 						chois : Ce qui vient sans doute, <pb n="519"/>ou d'avoir reduit la Nature à
 						l'habitude qu'il avoit contractée, ou de n'y avoir pas assez considéré les
@@ -13149,7 +13213,8 @@
 						Clair-obscur et quoy qu'il n'y ait pas fait une attention bien formelle dans
 						ses premiers tems, il en a connu la nécessité absolue dans un âge plus
 						avancé et l'a pratiquée avec succés. Les grans Tableaux qu'il a peints de
-						l'Histoire d'Aléxandre en sont des preuves bien sensibles. </p>
+							<objectName ref="#CharlesLeBrunCycleHistoireAlexandre">l'Histoire
+							d'Aléxandre</objectName> en sont des preuves bien sensibles. </p>
 					<p xml:id="PIL_AVP_L7_C253_P10"> Ces derniéres Productions qui sont les
 						meilleures qu'il ait faites en sa vie sont plus que suffisantes pour faire
 						voir l'étenduë de sa capacité et de son Génie, et les Estampes qui en ont
@@ -13162,15 +13227,16 @@
 						maniére trop ideale, trop peu variée et trop peu naturelle, il avoit
 						d'ailleurs assez de parties pour tenir un rang considérable parmi les
 						habiles Peintre : et quoy que la brigue aye pû dire, ou faire pour obscurcir
-						ses talens, sa Mémoire en est d'éja vangée, et la Postérité continüera, sans
-						doute, de rendre la justice qui est duë à son mérite. </p>
+						ses talens, sa Mémoire en est <reg>d'éja</reg> vangée, et la Postérité
+						continüera, sans doute, de rendre la justice qui est duë à son mérite. </p>
 					<p xml:id="PIL_AVP_L7_C253_P12"> Ce seroit icy le lieu de parler de <persName
 							ref="#PierreMignard">Pierre Mignard</persName>, natif de <placeName
 							ref="#Troyes">Troyes</placeName>, et Prémier Peintre du Roy : mais comme
 						on doit bientôt écrire l'histoire de sa vie et faire la description de ses
 						Tableaux ; les Lecteurs dispenseront de les prévenir par de foibles Eloges.
 						Les Peintures publiques de cet homme célébre pourront en attendant les
-						entretenir sur son mérite, et le seul <objectName>Salon de Saint
+						entretenir sur son mérite, et le seul <objectName cert="low"
+							xml:id="PierreMignardLesSalonsSaintCloud">Salon de Saint
 							Cloud</objectName> qui est un les plus considérables Ouvrages qui ait
 						jamais été fait en ce genre là est tres-capable de satisfaire leur
 						impatience et leur curiosité. <figure type="ornement"
@@ -13217,7 +13283,7 @@
 						tantôt d'une autre pour ce qui regarde les Couleurs, ainsi qu'il paroît par
 						la rosée du matin, ou par le serain du soir. Il avoit la Mémoire si
 						heureuse, qu'il peignoit avec beaucoup de fidélité, étant retourné chez luy,
-						cequ'il n'avoit fait que voir avec attention à la campagne. Il étoit si
+						ce qu'il n'avoit fait que voir avec attention à la campagne. Il étoit si
 						absorbé dans son travail qu'il ne visitoit <reg>presque</reg> personne. Son
 						divertissement étoit l'étude de la Profesion, et à force de cultiver son
 						Talent, il a fait des Tableaux qui luy ont acquis par le monde une
@@ -13225,8 +13291,8 @@
 						/> On peut conjecturer par là ce que peut la constance dans le travail
 						contre la pésanteur de l'esprit. Il avoit de la peine à opérer, et son
 						Ouvrage ne répondant pas à son intention, il étoit quelque-fois huit jours à
-						faire et redefaire la mêmé chose. Sa touche n'a point de maniére, et il
-						broüilloit souvent par des glacis les Arbres qu'il avoit touchez. </p>
+						faire et <reg>redefaire</reg> la mêmé chose. Sa touche n'a point de maniére,
+						et il broüilloit souvent par des glacis les Arbres qu'il avoit touchez. </p>
 					<p xml:id="PIL_AVP_L7_C254_P4"> Quelque soin qu'il ait pris de dessiner à
 						l'Académie, il n'a jamais pû faire de Figures de bon Goût pour accompagner
 						ses Païsages. Il est mort à <placeName ref="#Rome">Rome</placeName> en <date
@@ -13251,7 +13317,7 @@
 						devoit se trouver dans un Ouvrage accompli, comme dans sa fin ; et dans un
 						Peintre parfait, comme dans sa source. Mais il y a dans les hommes un Goût
 						général, qui est susceptible de pureté et de corruption, et qui devient
-						particulier par l'usage qu'il fait des chose particuliéres. Je tâcheray
+						particulier par l'usage qu'il fait des choses particuliéres. Je tâcheray
 						d'éxpliquer icy la maniére dont il se détermine, et dont il se forme. </p>
 					<p xml:id="PIL_AVP_L7_C255_P2"> On peut, ce me semble, raisonner du Goût de
 						l'esprit, comme du Goût du corps. Il y a quatre choses à considérer dans le
@@ -13359,7 +13425,8 @@
 						Couleurs. <persName ref="#AnnibaleCarracci">Annibal</persName> dans le
 						séjour qu'il fit à <placeName ref="#Rome">Rome</placeName> prit tellement le
 						Goût Romain, que je ne compte pour Lombards que les Ouvrages qui ont precédé
-						celuy de la <placeName>Gallerie Farnesse</placeName>. </p>
+						celuy de la <objectName ref="#CarracheGalerieFarnese">Gallerie
+							Farnesse</objectName>. </p>
 					<p xml:id="PIL_AVP_L7_C255_P17"> Je ne mets pas n'on plus au nombre des Peintres
 						Lombards ceux qui étans nez en <placeName ref="#Lombardie"
 							>Lombardie</placeName> ont suivi ou l'Ecole Romaine, ou l'Ecole
@@ -13382,7 +13449,7 @@
 						et les Amateurs Italiens qui ont traité ces matiéres m'ont remis dans le bon
 						chemin. </p>
 					<p xml:id="PIL_AVP_L7_C255_P18">
-						<hi rend="capitals"> LE GOUST ALLEMAND, ,</hi> est celuy qu'on appelle
+						<hi rend="capitals"> LE GOUST ALLEMAND,</hi> est celuy qu'on appelle
 						ordinairement Goût Gottique. C'est une idée de la Nature comme elle se voit
 						ordinairement avec ses déffauts, et non comme elle pourroit être dant sa
 						pureté. Les Allemans l'ont imitee sans chois et ont seulement eu leurs
