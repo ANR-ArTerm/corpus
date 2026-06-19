@@ -26,7 +26,7 @@
                     Aurèle</object> et non Antonine Le Pieux<bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty target="TempleDeSolRome" locus="value">
+        <certainty target="TempleDeSol" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleDeSolRome">Temple de
                     Sol</objectName> et <objectName ref="#TempleDeLaLuneRome">Temple de la
                     Lune</objectName> mais d'après les illustrations et la description qu'il en fait
@@ -34,7 +34,7 @@
                     Vénus et de Rome</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty target="TempleDeLaLuneRome" locus="value">
+        <certainty target="TempleDeLaLune" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleDeSolRome">Temple de
                     Sol</objectName> et <objectName ref="#TempleDeLaLuneRome">Temple de la
                     Lune</objectName> mais d'après les illustrations et la description qu'il en fait
@@ -48,13 +48,7 @@
                 le <objectName ref="#TempleSerapisRome">Temple de Sérapis</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty target="TempleJupiterQuirinal1" locus="value">
-            <desc>Palladio nomme ce monument Temple de Jupiter sûr le monte Quirinal mais d'après
-                les illustrations et la description qu'il en fait il semblerait que ce soit plutôt
-                le <objectName ref="#TempleSerapisRome">Temple de Sérapis</objectName><bibl
-                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
-        </certainty>
-        <certainty xml:id="TempleVestaRome" locus="value">
+        <certainty xml:id="TempleVesta" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleVestaRome">Temple de
                     Vesta</objectName> mais d'après les illustrations et la description qu'il en
                 fait il semblerait que ce soit plutôt le <objectName ref="#TempleHerculeVictorRome"
@@ -67,21 +61,21 @@
                     ref="#TempleHadrienRome">Temple d'Hadrien</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty xml:id="TempleJupiterStatorRome" locus="value">
+        <certainty xml:id="TempleJupiterStator" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleJupiterStatorRome">Temple de
                     Jupiter Stator</objectName> mais d'après les illustrations et la description
                 qu'il en fait il semblerait que ce soit plutôt le <objectName
                     ref="#TempleDesDioscuresRome">Temple des Dioscures</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty xml:id="TempleJupiterTonnantRome" locus="value">
+        <certainty xml:id="TempleJupiterTonnant" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleJupiterTonnantRome">Temple de
                     Jupiter Tonnant</objectName> mais d'après les illustrations et la description
                 qu'il en fait il semblerait que ce soit plutôt le <objectName
                     ref="#TempleVespasienRome">Temple de Vespasien</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty xml:id="ThermesAgrippaRome" locus="value">
+        <certainty xml:id="ThermesAgrippa" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#ThermesAgrippaRome">Thermes de
                     Agrippa</objectName> mais d'après les illustrations et la description qu'il en
                 fait il semblerait que ce soit plutôt la Basilique de Neptune<bibl
@@ -93,7 +87,7 @@
                     ref="#MausoleeSainteCostanceRome">Mausolée de Sainte Costance</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty xml:id="TempleDeLaConcordeRome" locus="value">
+        <certainty xml:id="TempleDeLaConcorde" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleDeLaConcordeRome">Temple de la
                     Concorde</objectName> mais d'après les illustrations et la description qu'il en
                 fait il semblerait que ce soit plutôt le <objectName ref="#TempleDeSaturneRome"
@@ -153,10 +147,12 @@
                     gravé des époux</objectName> que l'on signale donc.</desc>
         </certainty>
         <certainty xml:id="JeanCousinJugementDernier" locus="value">
-            <desc> L'auteur fait ici référence à <ojectName ref="#JeanCousinLeJeuneJugementDernierLouvre">l'oeuvre ayant été exposée au couvent des Minimes</ojectName> à
-                Vincennes. Cette oeuvre, actuellement exposée au musée du Louvre, est attribuée à
-                son fils, Jean Cousin dit le Jeune. Néanmoins, l'on connait du père un <objectName ref="#JeanCousinJugementDernierReims">Jugement
-                dernier conservé au musée des Beaux-Arts de Reims</objectName>.</desc>
+            <desc> L'auteur fait ici référence à <ojectName
+                    ref="#JeanCousinLeJeuneJugementDernierLouvre">l'oeuvre ayant été exposée au
+                    couvent des Minimes</ojectName> à Vincennes. Cette oeuvre, actuellement exposée
+                au musée du Louvre, est attribuée à son fils, Jean Cousin dit le Jeune. Néanmoins,
+                l'on connait du père un <objectName ref="#JeanCousinJugementDernierReims">Jugement
+                    dernier conservé au musée des Beaux-Arts de Reims</objectName>.</desc>
         </certainty>
         <certainty xml:id="PhilippeDeChampaignePortraitsRichelieu" locus="value">
             <desc> Roger de Piles le précise lui-même dans son texte, Philippe de Champaigne a peint
