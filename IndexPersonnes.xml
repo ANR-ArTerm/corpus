@@ -2,15 +2,19 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+      <person xml:id="MarcusClaudiusMarcellusAuguste" source="https://www.wikidata.org/wiki/Q315492"/>
+      <person xml:id="Iphicrate" source="https://www.wikidata.org/wiki/Q354424"/>
+      <person xml:id="Properce" source="https://www.wikidata.org/wiki/Q8827"/>
       <person xml:id="Eutrope" source="https://www.wikidata.org/wiki/Q314694"/>
       <person xml:id="EpigeneDeByzance" source="https://www.wikidata.org/wiki/Q287423"/>
-      <person xml:id="ManiusCuriusDentatus" source="https://www.wikidata.org/wiki/Q382948"></person>
+      <person xml:id="ManiusCuriusDentatus" source="https://www.wikidata.org/wiki/Q382948"/>
       <person xml:id="AristobuleCassandreia" source="https://www.wikidata.org/wiki/Q544987"/>
-      <person xml:id="JeanCousinLeJeune" source="https://www.wikidata.org/wiki/Q1144792"></person>
+      <person xml:id="JeanCousinLeJeune" source="https://www.wikidata.org/wiki/Q1144792"/>
       <person xml:id="NicolasLeBrun" source="https://www.wikidata.org/wiki/Q134087226"/>
       <person xml:id="CatherineDeSainteSuzanne" source="https://www.wikidata.org/wiki/Q88623697"/>
       <person xml:id="PhilippeDeBethune" source="https://www.wikidata.org/wiki/Q3380920"/>
-      <person xml:id="ClaudeLeRagoisDeBretonvilliers" source="https://www.wikidata.org/wiki/Q19791978"/>
+      <person xml:id="ClaudeLeRagoisDeBretonvilliers"
+        source="https://www.wikidata.org/wiki/Q19791978"/>
       <person xml:id="AgathocleDeSyracuse" source="https://www.wikidata.org/wiki/Q312326"/>
       <person xml:id="LucrecePoete" source="https://www.wikidata.org/wiki/Q47154"/>
       <person xml:id="Demosthene" source="https://www.wikidata.org/wiki/Q117253"/>
@@ -23354,7 +23358,8 @@
         <idno type="isni">0000000117426997</idno>
         <idno type="wikidata">Q1660326</idno>
       </person>
-      <person xml:id="MonaLisa" role="membre de la famille Gherardini de Florence (1479-1542)" source="https://www.wikidata.org/wiki/Q153032">
+      <person xml:id="MonaLisa" role="membre de la famille Gherardini de Florence (1479-1542)"
+        source="https://www.wikidata.org/wiki/Q153032">
         <persName>
           <forename>Mona Lisa</forename>
           <surname>Gherardini</surname>
@@ -27788,7 +27793,8 @@
           <placeName>N/A</placeName>
         </death>
         <trait>
-          <p>Nommé Zeus dans la mythologie grecque et Jupiter dans la mythologie romaine. Nous avons conservé Jupiter comme xml:id car plus utilisé que Zeus dans le corpus.</p>
+          <p>Nommé Zeus dans la mythologie grecque et Jupiter dans la mythologie romaine. Nous avons
+            conservé Jupiter comme xml:id car plus utilisé que Zeus dans le corpus.</p>
         </trait>
         <idno type="bnf">119505426</idno>
         <idno type="viaf">3266770</idno>
