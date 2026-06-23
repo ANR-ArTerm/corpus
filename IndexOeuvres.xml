@@ -151,7 +151,10 @@
     <object xml:id="BasiliqueSaintJeanLatranRome">
       <p>Inconnu, Basilique Saint Jean De Latran</p>
     </object>
-    <object xml:id="BasiliqueSaintMarcVenise">
+    <object xml:id="BasiliqueSaintMarcFlorence">
+      <p>Inconnu, Basilique Saint-Marc à Florence</p>
+    </object>
+    <object xml:id="BasiliqueSaintMarc">
       <p>Inconnu, Basilique Saint-Marc à Venise</p>
     </object>
     <object xml:id="BasiliqueSaintPaulHorsLesMurs">
@@ -574,6 +577,9 @@
     <object xml:id="EgliseOrsanMicheleFlorence">
       <p>Inconnu, église et bâtiment municipal à Florence, Italie</p>
     </object>
+    <object xml:id="EgliseSaintBartolomeoMonteOlivetoFlorence">
+      <p>Inconnu, Église San Bartolomeo à Monte Oliveto, Florence, Italie </p>
+    </object>
     <object xml:id="EgliseSaintEtienneLeRondRome">
       <p>Inconnu, Église Saint-Étienne-le-Rond</p>
     </object>
@@ -630,6 +636,9 @@
     </object>
     <object xml:id="EgliseSantoSpiritoInSassiaRome">
       <p>AntonioDaSangalloIlGiovane, Eglise Santo Spirito in Sassia a Roma</p>
+    </object>
+    <object xml:id="EgliseSantoSpiritoFlorence">
+      <p>Inconnu, église de Santo-Spirito à Florence</p>
     </object>
     <object xml:id="EgliseSantoStefanoVenise">
       <p>Inconnu, Église Santo Stefano</p>
@@ -822,6 +831,9 @@
     </object>
     <object xml:id="HopitalInnocentiFlorence">
       <p>Brunelleschi, Hopital degli Innocenti Florence</p>
+    </object>
+    <object xml:id="HopitalSantaMariaNuovaFlorence">
+      <p>Inconnu, Hopital Santa Maria Nuova à Florence</p>
     </object>
     <object xml:id="HubertJanVanEyckAgneauMystiqueGand">
       <p>HubertVanEyck, Retable de l'agneau mystique</p>
@@ -1173,6 +1185,9 @@
     </object>
     <object xml:id="PalazzoPittiFlorence">
       <p>LucaFancelli, Palais Pitti</p>
+    </object>
+    <object xml:id="PalazzoStrozziFlorence">
+      <p>LucaFancelli, Palais Strozzi</p>
     </object>
     <object xml:id="PalazzoVecchioFlorence">
       <p>Inconnu, Palazzo Vecchio</p>
