@@ -121,8 +121,11 @@
     <object xml:id="BacchanalesMantegna">
       <p>AndreaMantegna, Bacchanales</p>
     </object>
+    <object xml:id="BadiaFiesolana">
+      <p>Inconnu, abbaye catholique à Fiesole, Italie</p>
+    </object>
     <object xml:id="BandinelliHerculeEtCacus">
-      <p>Bandinelli,sculpture de Baccio Bandinelli </p>
+      <p>Bandinelli,sculpture de Baccio Bandinelli</p>
     </object>
     <object xml:id="BaptistereDuLatranRome">
       <p>Inconnu, Baptistère du Latran Rome</p>
@@ -150,6 +153,9 @@
     </object>
     <object xml:id="BasiliqueSaintJeanLatranRome">
       <p>Inconnu, Basilique Saint Jean De Latran</p>
+    </object>
+    <object xml:id="BasiliqueSaintMarcFlorence">
+      <p>Inconnu, Basilique Saint-Marc à Florence</p>
     </object>
     <object xml:id="BasiliqueSaintMarcVenise">
       <p>Inconnu, Basilique Saint-Marc à Venise</p>
@@ -352,6 +358,9 @@
     <object xml:id="ChapelleSixtine">
       <p>MichelAnge, Chapelle Sixtine</p>
     </object>
+    <object xml:id="ChartreuseGalluzzoFlorence">
+      <p>Inconnu, ancien monastère Chartreux, à Florence, Italie</p>
+    </object>
     <object xml:id="ChateauChambord">
       <p>PierreNepveu, Chateau de Chambord</p>
     </object>
@@ -423,6 +432,9 @@
     </object>
     <object xml:id="CortMartyreSaintLaurentTitien">
       <p>CornelisCort, Martyre de saint Laurent</p>
+    </object>
+    <object xml:id="CouventSanFrancescoMacciFlorence">
+      <p>Inconnu, couvent florentin</p>
     </object>
     <object xml:id="CrucifixdeSantoSpirito">
       <p>MichelAnge, Crucifix de Santo Spirito</p>
@@ -568,11 +580,17 @@
     <object xml:id="DurerViergeSinge">
       <p>AlbrechtDurer, Vierge avec un singe</p>
     </object>
+    <object xml:id="EgliseCarmineFlorence">
+      <p>Inconnu, Église Santa Maria del Carmine à Florence</p>
+    </object>
     <object xml:id="EgliseMadonnaDellOrtoVenise">
       <p>Inconnu, Église de la Madonna dell'Orto</p>
     </object>
     <object xml:id="EgliseOrsanMicheleFlorence">
       <p>Inconnu, église et bâtiment municipal à Florence, Italie</p>
+    </object>
+    <object xml:id="EgliseSaintBartolomeoMonteOlivetoFlorence">
+      <p>Inconnu, Église San Bartolomeo à Monte Oliveto, Florence, Italie </p>
     </object>
     <object xml:id="EgliseSaintEtienneLeRondRome">
       <p>Inconnu, Église Saint-Étienne-le-Rond</p>
@@ -613,6 +631,9 @@
     <object xml:id="EgliseSantAndreaDellaValleRome">
       <p>FrancescoGrimaldi, Église Sant'Andrea della Valle</p>
     </object>
+    <object xml:id="EgliseSantaFelicitaFlorence">
+      <p>Inconnu, Église Santa Felicita à Florence</p>
+    </object>
     <object xml:id="EgliseSantaMariaDellaPieveArezzo">
       <p>GiorgioVasari, Église Santa Maria della Pieve</p>
     </object>
@@ -630,6 +651,9 @@
     </object>
     <object xml:id="EgliseSantoSpiritoInSassiaRome">
       <p>AntonioDaSangalloIlGiovane, Eglise Santo Spirito in Sassia a Roma</p>
+    </object>
+    <object xml:id="EgliseSantoSpiritoFlorence">
+      <p>Inconnu, église de Santo-Spirito à Florence</p>
     </object>
     <object xml:id="EgliseSantoStefanoVenise">
       <p>Inconnu, Église Santo Stefano</p>
@@ -822,6 +846,9 @@
     </object>
     <object xml:id="HopitalInnocentiFlorence">
       <p>Brunelleschi, Hopital degli Innocenti Florence</p>
+    </object>
+    <object xml:id="HopitalSantaMariaNuovaFlorence">
+      <p>Inconnu, Hopital Santa Maria Nuova à Florence</p>
     </object>
     <object xml:id="HubertJanVanEyckAgneauMystiqueGand">
       <p>HubertVanEyck, Retable de l'agneau mystique</p>
@@ -1162,6 +1189,9 @@
     <object xml:id="PalaisValmaranaVicence">
       <p>AndreaPalladio, Palais Valmarana à Vicence</p>
     </object>
+    <object xml:id="PalazzoBartoliniSalimbeniFlorence">
+      <p>Inconnu, Palazzo Bartolini-Salimbeni à Florence</p>
+    </object>
     <object xml:id="PalazzoBranconioAquilaRome">
       <p>RaffaelloSanzio, Palazzo Branconio dell'Aquila</p>
     </object>
@@ -1171,8 +1201,14 @@
     <object xml:id="PalazzoPandolfiniFlorence">
       <p>RaffaelloSanzio, Palazzo Pandolfini</p>
     </object>
+    <object xml:id="PalazzoPazziFlorence">
+      <p>Inconnu, Palais Pazzi</p>
+    </object>
     <object xml:id="PalazzoPittiFlorence">
       <p>LucaFancelli, Palais Pitti</p>
+    </object>
+    <object xml:id="PalazzoStrozziFlorence">
+      <p>LucaFancelli, Palais Strozzi</p>
     </object>
     <object xml:id="PalazzoVecchioFlorence">
       <p>Inconnu, Palazzo Vecchio</p>
@@ -2385,6 +2421,15 @@
     </object>
     <object xml:id="VillaMadama">
       <p>Raphael, Villa Madama</p>
+    </object>
+    <object xml:id="VillaCastelloFlorence">
+      <p>Inconnu, Villa Médicéenne de Castello, Toscane</p>
+    </object>
+    <object xml:id="VillaMediceaCareggi">
+      <p>Inconnu, Villa Médicéenne de Careggi, Toscane</p>
+    </object>
+    <object xml:id="VillaMediceaPoggioCaiano">
+      <p>Inconnu, Villa Médicéenne de Poggio a Caiano, Toscane</p>
     </object>
     <object xml:id="VillaMocenigoMarocco">
       <p>AndreaPalladio, Villa Mocenigo à Marocco</p>
