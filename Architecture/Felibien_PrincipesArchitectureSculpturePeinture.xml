@@ -2591,9 +2591,11 @@
                            </item>
                            <item>G <hi rend="it">Langue de Bœuf.</hi>
                            </item>
-                           <item>H <hi rend="it">Marteau bretelé pour la pierre tendre.</hi>
+                           <item>H <hi rend="it">Marteau <ref target="#breter">bretelé</ref> pour la
+                                 pierre tendre.</hi>
                            </item>
-                           <item>I <hi rend="it">Marteau bretelé pour la pierre dure.</hi>
+                           <item>I <hi rend="it">Marteau <ref target="#breter">bretelé</ref> pour la
+                                 pierre dure.</hi>
                            </item>
                            <item>L <hi rend="it">Gurlet ou Testu à Limosin.</hi>
                            </item>
@@ -2612,8 +2614,8 @@
                            </item>
                            <item>S <hi rend="it">Gouge. Il y en a de diverses longueurs.</hi>
                            </item>
-                           <item>T <hi rend="it">Riflard bretelé. Il y en a de diverses
-                                 largeurs.</hi>
+                           <item>T <hi rend="it">Riflard <ref target="#breter">bretelé</ref>. Il y
+                                 en a de diverses largeurs.</hi>
                            </item>
                            <item>V <hi rend="it">Crochet.</hi>
                            </item>
@@ -2647,8 +2649,8 @@
                            </item>
                            <item>F <hi rend="it">Un <ref target="#bouriquet">bouriquet</ref>.</hi>
                            </item>
-                           <item>G <hi rend="it">Brayer du <ref target="#bouriquet"
-                                 >bouriquet</ref>.</hi>
+                           <item>G <hi rend="it"><ref target="#brayers">Brayer</ref> du <ref
+                                    target="#bouriquet">bouriquet</ref>.</hi>
                            </item>
                         </list>
                         <pb n="81"/>
@@ -2665,7 +2667,8 @@
                         <list rend="numbered">
                            <item>A <hi rend="it">Une Civiere.</hi>
                            </item>
-                           <item>B <hi rend="it">Un Brancart à monter des Pierres.</hi>
+                           <item>B <hi rend="it">Un <ref target="#brancart">brancart</ref> à monter
+                                 des Pierres.</hi>
                            </item>
                            <item>C <hi rend="it">Une Scie dentelée pour la Pierre tendre.</hi>
                            </item>
@@ -3195,12 +3198,12 @@
                            quelquefois des Redoutes à leurs <ref target="#angle">Angles</ref>
                            saillans, pour soustenir l'effort des sorties. </p>
                         <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S2_L1C13S2SS2_P13">
-                           <hi rend="it">Boyaux</hi> sont des tranchées qui vont en serpentant et
-                           sans <ref target="#angle">Angles</ref>, comme les font les Turcs. Ces
-                           Lignes courbées sont les unes devant les autres, et toutes paralelles à
-                           la face que presente la place qu'on attaque, comme on a vu au siege de
-                              <placeName ref="#Candie">Candie</placeName> où ce terme s'est mis en
-                           voguc. </p>
+                           <hi rend="it"><ref target="#boyaux">Boyaux</ref></hi> sont des tranchées
+                           qui vont en serpentant et sans <ref target="#angle">Angles</ref>, comme
+                           les font les Turcs. Ces Lignes courbées sont les unes devant les autres,
+                           et toutes paralelles à la face que presente la place qu'on attaque, comme
+                           on a vu au siege de <placeName ref="#Candie">Candie</placeName> où ce
+                           terme s'est mis en voguc. </p>
                         <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S2_L1C13S2SS2_P14">
                            <hi rend="it">Lignes de Circonvallation</hi> sont des Retranchemens qu'on
                            fait au tour d'une place, quand on veut l'attaquer, afin qu'il n'y entre
@@ -4040,10 +4043,10 @@
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P84">
                         <hi rend="capitals"> LES CHEVRES </hi> qui sont propres pour lever de
                         grosses pieces à plomb, avec Poulies et Escharpes. Elles sont premierement
-                        composées de deux Pieces de bois qui servent de <hi rend="it">bras</hi> pour
-                        appuyer contre les murailles. Et lorsqu'il n'y a point de mur contre lequel
-                        on les puisse dresser, on y adjouste une troisiesme piece qu'on-nomme <hi
-                           rend="it">
+                        composées de deux Pieces de bois qui servent de <hi rend="it"><ref
+                              target="#bras2">bras</ref></hi> pour appuyer contre les murailles. Et
+                        lorsqu'il n'y a point de mur contre lequel on les puisse dresser, on y
+                        adjouste une troisiesme piece qu'on-nomme <hi rend="it">
                            <ref target="#bicoq">Bicoq</ref>
                         </hi> ou <hi rend="it">pied-de-Chevre </hi>qui sert pour les soustenir. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P85"> Les deux premieres pieces
@@ -4172,14 +4175,15 @@
                         traversant celle de dessus, pose sur celle d'enbas : il y a au bout d'en
                         haut deux Leviers, ou Bras que l'on fait tourner horizontalement. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P97">
-                        <hi rend="capitals"> LES VERINS </hi> grands et petits sont des brins de
-                        bois longs de 2 ou 3 pieds ou plus, façonnez en Vis par un des bouts, et à
-                        l'autre bout il y a un <hi rend="it">Goujon</hi> ou cheville qui est percé
-                        au colẽt de la <hi rend="it">Vis</hi>, pour y mettre des Leviers. Les Vis
-                        de ces brins de bois se mettent <pb n="130"/> chacune dans un <hi rend="it"
-                           >Escrou</hi> percé à 5 ou 6 pieds l'un de l'autre, pour pousser ou
-                        eslever. Cette Machine sert pour l'ordinaire à élever quelque logis avec un
-                           <hi rend="it">Pointal</hi> par le milieu, c'est-à-dire une piece de bois
+                        <hi rend="capitals"> LES VERINS </hi> grands et petits sont des <ref
+                           target="#brins">brins</ref> de bois longs de 2 ou 3 pieds ou plus,
+                        façonnez en Vis par un des bouts, et à l'autre bout il y a un <hi rend="it"
+                           >Goujon</hi> ou cheville qui est percé au colẽt de la <hi rend="it"
+                           >Vis</hi>, pour y mettre des Leviers. Les Vis de ces <ref target="#brins"
+                           >brins</ref> de bois se mettent <pb n="130"/> chacune dans un <hi
+                           rend="it">Escrou</hi> percé à 5 ou 6 pieds l'un de l'autre, pour pousser
+                        ou eslever. Cette Machine sert pour l'ordinaire à élever quelque logis avec
+                        un <hi rend="it">Pointal</hi> par le milieu, c'est-à-dire une piece de bois
                         de bout. Elle leve un grand poids, pourveu que les pieces soient fortes, et
                         les <hi rend="it">Filets</hi> des Vis prés à prés. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P98">
@@ -4384,7 +4388,8 @@
                                     <item>
                                        <hi rend="capitals">A CHEVRE.</hi>
                                        <list rend="numbered">
-                                          <item>1 <hi rend="it">Bras de la Chevre</hi>.</item>
+                                          <item>1 <hi rend="it"><ref target="#bras2">Bras</ref> de
+                                                la Chevre</hi>.</item>
                                           <item>2 <hi rend="it">
                                                 <ref target="#bicoq">Bicoq</ref>
                                              </hi>.</item>
@@ -4412,7 +4417,8 @@
                                           <item>5 <hi rend="it">Jambette</hi>.</item>
                                           <item>6 <hi rend="it">Moifes</hi>.</item>
                                           <item>7 <hi rend="it">Treuil ou Tour</hi>.</item>
-                                          <item>8 <hi rend="it">Bras du Treuil</hi>.</item>
+                                          <item>8 <hi rend="it"><ref target="#bras2">Bras</ref> du
+                                                Treuil</hi>.</item>
                                           <item>9 <hi rend="it">Rancher ou Eschelier</hi>.</item>
                                           <item>10 <hi rend="it">Ranches ou Chevilles.</hi>
                                           </item>
@@ -5536,7 +5542,8 @@
                               rend="it">Rabots ronds</hi>, et des <hi rend="it">Rabots cintrez</hi>,
                            selon le cintre de l'ouvrage. </p>
                         <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S2_L1C18S2SS2_P14"> Un <hi
-                              rend="it">Bouvement</hi> qui sert à pousser une Doucine. </p>
+                              rend="it"><ref target="#bouvement">bouvement</ref></hi> qui sert à
+                           pousser une Doucine. </p>
                         <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S2_L1C18S2SS2_P15"> Un <hi
                               rend="it"><ref target="#bouvet">bouvet</ref></hi>. Il y en a de
                            diverses façons, sçavoir à Rainures et à Languettes, pour pousser des
@@ -6876,22 +6883,24 @@
                            >Broche</hi> ; De l'autre costé l'on fait l'entrée de la Clef, et dessus
                         l'on y adjouste la <hi rend="it">Barre</hi>, pour tenir la <hi rend="it"
                            >Gachette</hi> ou <hi rend="it">Péne</hi>, et le <hi rend="it"
-                           >Ressort</hi>. Cela fait, on <hi rend="it">Brase</hi> de la maniere qui
-                        suit. </p>
+                           >Ressort</hi>. Cela fait, on <hi rend="it"><ref target="#braser"
+                              >brase</ref></hi> de la maniere qui suit. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S1_P128">
                         <hi rend="capitals"> Il </hi> faut premierement joindre le plus justement
-                        qu'on peut, les pieces que l'on desire de <hi rend="it">braser</hi>, et
-                        faire qu'elles s'ajustent si bien l'une contre l'autre, qu'elles ne remuent
-                        en aucune maniere ; ce qui s'observe tant pour les Cadenats que pour toutes
-                        les autres pieces que l'on veut <hi rend="it">braser</hi>. Car si elles
+                        qu'on peut, les pieces que l'on desire de <hi rend="it"><ref
+                              target="#braser">braser</ref></hi>, et faire qu'elles s'ajustent si
+                        bien l'une contre l'autre, qu'elles ne remuent en aucune maniere ; ce qui
+                        s'observe tant pour les Cadenats que pour toutes les autres pieces que l'on
+                        veut <hi rend="it"><ref target="#braser">braser</ref></hi>. Car si elles
                         n'estoient fermes l'une contre l'autre, elles s'osteroient de leur place et
-                        ne <hi rend="it">braseroient</hi> pas aux endroits où elles ne joindroient
-                        point. Si ce sont quelques pieces delicates, on peut les lier ensemble avec
-                        un petit fil de fer. Aprés éstre ajustées l'on prend du laton, ou <hi
-                           rend="it">mitraille</hi>, la plus jaune et la plus mince est la meilleure
-                        on la coupe par petits morceaux que l'on met dedans et au tour des pieces
-                        qu'on veut <hi rend="it">braser</hi>, et qu'on couvre avec du papier ou du
-                        linge attaché avec un fil. </p>
+                        ne <hi rend="it"><ref target="#braser">braseroient</ref></hi> pas aux
+                        endroits où elles ne joindroient point. Si ce sont quelques pieces
+                        delicates, on peut les lier ensemble avec un petit fil de fer. Aprés éstre
+                        ajustées l'on prend du laton, ou <hi rend="it">mitraille</hi>, la plus jaune
+                        et la plus mince est la meilleure on la coupe par petits morceaux que l'on
+                        met dedans et au tour des pieces qu'on veut <hi rend="it"><ref
+                              target="#braser">braser</ref></hi>, et qu'on couvre avec du papier ou
+                        du linge attaché avec un fil. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S1_P129"> Ensuite il faut prendre
                         de la terre franche, car autrement toute la matiere se fonderoit ou
                         couleroit au feu, lorsque le laton seroit fondu. Si la terre est trop
@@ -7099,8 +7108,9 @@
                            >Brunissoirs</hi> demy-ronds pour estamer. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P14"> Les <hi rend="it">Brequins
                            ou Villebrequins</hi> en pierre pour percer la pierre tendre. </p>
-                     <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P15"> Les <hi rend="it"
-                           >Brequins</hi> simples à percer le bois. </p>
+                     <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P15"> Les <hi rend="it"><ref
+                              target="#brequins">brequins</ref>
+                        </hi> simples à percer le bois. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P16"> Les <hi rend="it">
                            <ref target="#bec-asne">Bec-d'anes</ref>
                         </hi> croches pour ferrer les Fiches dans le bois. </p>
@@ -7186,8 +7196,9 @@
                            >Etampes</hi> ou <hi rend="it">Estampes</hi> pour river les <ref
                            target="#boutons2">boutons</ref>. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P50"> La <hi rend="it"
-                           >Fourchette</hi> de fer pour tourner les Brequins, Tarrieres, Canons,
-                        etc. que l'on tourne en rond, ou demy-rond à chaud. </p>
+                           >Fourchette</hi> de fer pour tourner les <ref target="#brequins"
+                           >brequins</ref> , Tarrieres, Canons, etc. que l'on tourne en rond, ou
+                        demy-rond à chaud. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P51"> Les <hi rend="it"
                            >Fers</hi> pour ployer les coques des Serrures de coffre, et pour limer
                         les fers qui servent a faire les pieds des Rouets. </p>
@@ -9158,11 +9169,12 @@
                         bouts ; et par l'autre sont plats et en <hi rend="it">onglets</hi>. De ces
                         Esbauchoirs, il y en a qui sont unis par le bout qui est, en onglet, et
                         ceux-là servent à unir la besongne. Les autres ont des <hi rend="it"
-                           >Oches</hi> ou dents, et servent à <hi rend="it">breter</hi> la terre,
-                        c'est-à-dire à l'oster d'une maniere qu'elle ne reste pas <hi rend="it"
-                           >lice</hi>, mais comme <hi rend="it">égratignée</hi>, ce que les
-                        Ouvriers font d'abord, et mesme laissent souvent quelques endroits de leurs
-                        ouvrages travaillez de la sorte, pour y faire paroistre plus d'Art. </p>
+                           >Oches</hi> ou dents, et servent à <hi rend="it"><ref target="#breter"
+                              >breter</ref>
+                        </hi> la terre, c'est-à-dire à l'oster d'une maniere qu'elle ne reste pas
+                           <hi rend="it">lice</hi>, mais comme <hi rend="it">égratignée</hi>, ce
+                        que les Ouvriers font d'abord, et mesme laissent souvent quelques endroits
+                        de leurs ouvrages travaillez de la sorte, pour y faire paroistre plus d'Art. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C2_L2C2S1_P2"> On modele et l'on fait aussi
                         des Figures de Cire. Pour cet effet l'on met sur une livre de Cire, demy
                         livré d'<hi rend="it">Arcanson</hi> ou <hi rend="it">Colaphane</hi> ;
@@ -9185,7 +9197,8 @@
                         <list rend="numbered">
                            <item>A <hi rend="it">Selle a Modeler, on Chevalet.</hi>
                            </item>
-                           <item> B <hi rend="it">Esbanchoir bretelé.</hi>
+                           <item> B <hi rend="it">Esbanchoir <ref target="#breter"
+                                 >bretelé</ref>.</hi>
                            </item>
                            <item> C <hi rend="it">Autre Esbauchoir.</hi>
                            </item>
@@ -10914,14 +10927,14 @@
                      <p xml:id="FEL_PASP_principes_L2_L2C9_L2C9S1_P12"> Au dessus des Jumelles, il y
                         a une <ref target="#barre">Barre</ref> de bois d'environ dix-huit lignes où
                         deux pouces d'epaisseur, et quatre pouces de large, qui va tout du long, et
-                        qui est soutenue par ce qu'on nomme <hi rend="it">les Bras des Poupées</hi>
-                        qui s'approchent, et s'éloignent comme on veut. Cette <pb n="375"/> Barre
-                        qui est posée <hi rend="it">de champ</hi>, et qui est un peu moins élevée
-                        que les pointes des Poupées sert d'appuy pour les outils lors qu'on
-                        travaille, et que l'on coupe le bois. Elle est aussi percée en quelques
-                        endroits, pour y pouvoir mettre des <hi rend="it">Suports</hi> et des <hi
-                           rend="it">Clavettes</hi>, qui soutiennent les pieces qu'on tourne, qui
-                        ont trop de portée. </p>
+                        qui est soutenue par ce qu'on nomme <hi rend="it">les <ref target="#bras4"
+                              >bras</ref> des Poupées</hi> qui s'approchent, et s'éloignent comme
+                        on veut. Cette <pb n="375"/> Barre qui est posée <hi rend="it">de
+                        champ</hi>, et qui est un peu moins élevée que les pointes des Poupées sert
+                        d'appuy pour les outils lors qu'on travaille, et que l'on coupe le bois.
+                        Elle est aussi percée en quelques endroits, pour y pouvoir mettre des <hi
+                           rend="it">Suports</hi> et des <hi rend="it">Clavettes</hi>, qui
+                        soutiennent les pieces qu'on tourne, qui ont trop de portée. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C9_L2C9S1_P13"> Au dessus du Tour et contre
                         le plancher est une longue <hi rend="it">Perche</hi> disposée en <hi
                            rend="it">Archet</hi> ou autrement, au bout de laquelle il y a une corde
@@ -11087,7 +11100,8 @@
                                  <item>H <hi rend="it">
                                        <ref target="#barre">Barre</ref>, ou piece de bois servant
                                        d'appuy</hi>.</item>
-                                 <item>I <hi rend="it">Bras des Poupées</hi>.</item>
+                                 <item>I <hi rend="it"><ref target="#bras4">Bras</ref> des
+                                       Poupées</hi>.</item>
                                  <item>L <hi rend="it">Supports, ou clavettes</hi>.</item>
                                  <item>M <hi rend="it">Longue Perche ou Archet</hi>.</item>
                                  <item>N <hi rend="it">Marche</hi>.</item>
@@ -12790,17 +12804,17 @@
                      petites <hi rend="it">Moulettes</hi> blanches qui sont admirables à former et
                      revestir des Figures de relief. Les <hi rend="it">Lombis</hi> sont de grosses
                      coquilles vermeilles. Les <hi rend="it">Vignots</hi> ont l'esclat de la Nacre.
-                     Les <hi rend="it">Bretons</hi> sont des coquilles blanches et inégales. Les <hi
-                        rend="it">Golfiches</hi> ont aussi un éclat de Nacre, quand elles sont
-                     entierement découvertes. Les <hi rend="it">Petoncles</hi> sont de petites
-                     coquilles grisatres, et plates. Il y a encore d'autres grosses coquilles de
-                     Nacre de perle des <placeName ref="#Indes">Indes</placeName> qu'on appelle <hi
-                        rend="it">Burgos</hi> ; des <hi rend="it">Casques</hi>, des <hi rend="it"
-                        >Tonnes</hi>, et enfin une infinité d'autres sortes que la mer fournit, et
-                     dont les Rocailleurs, c'est-à-dire, ceux qui travaillent à ces sortes de
-                     Grottes, font diverses Figures, comme l'on peut voir à <placeName
-                        ref="#Versailles">Versailles</placeName> dans la <objectName>Grotte de
-                        Thetis</objectName>.</p>
+                     Les <hi rend="it"><ref target="#bretons">bretons</ref></hi> sont des coquilles
+                     blanches et inégales. Les <hi rend="it">Golfiches</hi> ont aussi un éclat de
+                     Nacre, quand elles sont entierement découvertes. Les <hi rend="it"
+                        >Petoncles</hi> sont de petites coquilles grisatres, et plates. Il y a
+                     encore d'autres grosses coquilles de Nacre de perle des <placeName ref="#Indes"
+                        >Indes</placeName> qu'on appelle <hi rend="it">Burgos</hi> ; des <hi
+                        rend="it">Casques</hi>, des <hi rend="it">Tonnes</hi>, et enfin une infinité
+                     d'autres sortes que la mer fournit, et dont les Rocailleurs, c'est-à-dire, ceux
+                     qui travaillent à ces sortes de Grottes, font diverses Figures, comme l'on peut
+                     voir à <placeName ref="#Versailles">Versailles</placeName> dans la
+                        <objectName>Grotte de Thetis</objectName>.</p>
                   <pb n="444"/>
                </div3>
                <div3 n="14" type="chapitre" xml:id="L3C14" xml:lang="fra">
@@ -14855,87 +14869,85 @@
                      page</hi> 174. 182. Pl. XXXI.</p>
                <pb n="502"/>
                <p xml:id="bouvement">
-                  <hi rend="capitals">BOUVEMENT</hi>. <hi rend="it">V. p.</hi> 174. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P178">
+                  <hi rend="capitals">BOUVEMENT</hi>. <hi rend="it">V. p.</hi> 174.</p>
+               <p xml:id="boyaux">
                   <hi rend="capitals">BOYAUX</hi>. <hi rend="it">V. p.</hi> 99.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P179">
+               <p xml:id="brancart1">
                   <hi rend="capitals">BRANCART</hi>. <hi rend="it">V. p.</hi> 82. Pl. XII.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P180">
+               <p xml:id="brancart2">
                   <hi rend="capitals">BRANCART</hi>. <hi rend="it">V</hi>. <hi rend="capitals"
                      >CHEVALET</hi>.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P181">
+               <p xml:id="branches">
                   <hi rend="capitals">BRANCHES</hi>. On dit souvent les branches des voutes pour
                   dire les arcs. <hi rend="it">V.</hi>
                   <hi rend="capitals">OGIVES</hi>. <hi rend="it">V.</hi>
                   <hi rend="capitals">VOUTES</hi>. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P182">
+               <p xml:id="brandy">
                   <hi rend="capitals">BRANDY</hi>. On dit un chevron <hi rend="it">brandy sur la
                      panne</hi>, c'est-à-dire chevillé sur la panne. <hi rend="it">V. p.</hi>
                   119.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P183">
+               <p xml:id="bras1">
                   <hi rend="capitals">BRAS</hi>. <hi rend="it">Voyez</hi>
                   <hi rend="capitals">POINÇONS</hi>.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P184">
-                  <hi rend="capitals">BRAS</hi> de chevres. <hi rend="it">Voyez page</hi> 125.138.
+               <p xml:id="bras2">
+                  <hi rend="capitals">BRAS</hi> de chevres. <hi rend="it">Voyez page</hi> 125. 138.
                   Pl. XX. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P185">
+               <p xml:id="bras3">
                   <hi rend="capitals">BRAS</hi> de civiere, de bar, ou autres engins à porter des
                   materiaux. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P186">
+               <p xml:id="bras4">
                   <hi rend="capitals">BRAS</hi> des poupées d'un tour. <hi rend="it">V. p.</hi> 374.
                   380. Pl.LX. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P187">
+               <p xml:id="braser">
                   <hi rend="capitals">BRASER</hi>, c'est joindre deux pieces de fer l'une contre
                   l'autre, et les faire-tenir avec de la soudure. <hi rend="it">Voyez page</hi> 218. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P188">
+               <p xml:id="brayers">
                   <hi rend="capitals">BRAYERS</hi>. On appelle ainsi parmy les maçons les cordages
                   qui élevent le <hi rend="it"><ref target="#bouriquet">bouriquet</ref>. V.</hi>
                   <hi rend="capitals"><ref target="#bouriquet">BOURIQUET</ref></hi>. <hi rend="it"
                      >Voyez aussi page</hi> 80. Pl. XI.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P189">
+               <p xml:id="breche">
                   <hi rend="capitals">BRECHE</hi>. L'on nomme ainsi une espece de marbre qui se tire
                   des <placeName ref="#Pyrenees">Pyrennées</placeName>.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P190">
+               <p xml:id="brequins">
                   <hi rend="capitals">BREQUINS</hi> pour percer le bois ou la pierre tendre. <hi
                      rend="it">Voyez</hi>
                   <hi rend="capitals">VILLEBREQUINS</hi>.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P191">
+               <p xml:id="bretelles">
                   <hi rend="capitals">BRETELLES</hi>, especes de hottes. On appelle aussi bretelles
                   les sangles des hottes que l'on passe dans les bras, comme aussi celles qui
                   servent pour porter les <hi rend="it">civieres</hi>, et traisner les <hi rend="it"
                      >broüettes</hi>.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P192">
+               <p xml:id="breter">
                   <hi rend="capitals">BRETER</hi> ou <hi rend="it">breteler</hi>, c'est parmy les
                   sculpteurs une maniere de travailler, soit de cire, soit de terre. Ils ont un
                   esbauchoir de bois qui a des dents par un bout, et qui en ostant la terre ou la
                   cire ne fait que <pb n="503"/> dégrossir et laisser les traits sur l'ouvrage qu'on
                   nomme <hi rend="it">brettures</hi>.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P193"> Les maçons ont des truelles qu'ils
-                  nomment <hi rend="it">bretées</hi> ou bretelées, parce qu'elles ont des dents.
-                  Elles leur servent pour dresser les enduits de plastre.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P194"> Les tailleurs de pierres ont aussi
-                  des marteaux qui sont <hi rend="it">bretez</hi>, et qui leur servent à dresser les
-                  paremens des pierres.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P195">
+               <p> Les maçons ont des truelles qu'ils nomment <hi rend="it">bretées</hi> ou
+                  bretelées, parce qu'elles ont des dents. Elles leur servent pour dresser les
+                  enduits de plastre.</p>
+               <p> Les tailleurs de pierres ont aussi des marteaux qui sont <hi rend="it"
+                     >bretez</hi>, et qui leur servent à dresser les paremens des pierres.</p>
+               <p xml:id="bretons">
                   <hi rend="capitals">BRETONS</hi>, especes de coquilles. <hi rend="it">V. p.</hi>
                   443.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P196">
+               <p xml:id="brins">
                   <hi rend="capitals">BRINS</hi> de fougere. Dans la charpenterie il y a une maniere
                   de disposer des pieces de bois, qu'on nomme à <hi rend="it">brins de
                   fougere</hi>.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P197">
+               <p xml:id="brique">
                   <hi rend="capitals">BRIQUE</hi>. Les briques dont Vitruve parle au 3.c. du 2. l.
                   estoient anciennement de differentes grandeurs. Les Grecs en faisoient
-                  principalement de trois sortes, l'une qu'ils appellent <foreign xml:lang="gre"
-                  />Bôveyν, c'est-à-dire de deux palmes, l'autre <foreign xml:lang="gre"/>, de
-                  quatre palmes, et la troisième <foreign xml:lang="gre"/> de cinq palmes. Ils en
-                  faisoient encore d'autres, qui n'avoient de grandeur que la moitié de chacune de
-                  ces trois sortes, et les joignoient ensemble pour rendre leurs ouvrages plus
-                  solides et plus agreables à la veuë par la diversité des grandeurs et des figures
-                  de ces differentes briques. Les anciens se servoient de briques cuites au
-                  fourneau, et d'autres non cuittes, mais sechées à l'air pendant plusieurs années.
-                  Il faut voir les notes de M. Per. sur Vitruve au 3.c. du 2.l. <hi rend="it"
-                     >V.p.</hi> 167.</p>
+                  principalement de trois sortes, l'une qu'ils appellent <foreign xml:lang="gre"/>,
+                  c'est-à-dire de deux palmes, l'autre <foreign xml:lang="gre"/>, de quatre palmes,
+                  et la troisième <foreign xml:lang="gre"/> de cinq palmes. Ils en faisoient encore
+                  d'autres, qui n'avoient de grandeur que la moitié de chacune de ces trois sortes,
+                  et les joignoient ensemble pour rendre leurs ouvrages plus solides et plus
+                  agreables à la veuë par la diversité des grandeurs et des figures de ces
+                  differentes briques. Les anciens se servoient de briques cuites au fourneau, et
+                  d'autres non cuittes, mais sechées à l'air pendant plusieurs années. Il faut voir
+                  les notes de M. Per. sur Vitruve au 3.c. du 2.l. <hi rend="it">V.p.</hi> 167.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P198">
                   <hi rend="capitals">BRIQUE</hi> de chantignole ou d'echantillon. <hi rend="it">V.
                      p.</hi> 167.</p>
@@ -15066,176 +15078,183 @@
                      <persName ref="#GirardDesargues">Desargues</persName>.</p>
             </div2>
             <div2 n="3" type="section" xml:id="lettreC" xml:lang="fra">
-               <p xml:id="FEL_PASP_dictionnaire_lettreC_P1">
+               <p xml:id="cabane">
                   <hi rend="capitals">CABANE</hi>, c'est une petite maison couverte de chaume.
                      <persName ref="#Vitruve">Vitruve</persName> l.2.c.1. appelle <hi rend="it"
                      >stillicidia</hi> les toits des cabanes des premiers hommes.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreC_P2">
+               <p xml:id="cabinet">
                   <hi rend="capitals">CABINET</hi>. Le mot de <hi rend="it">cabinet</hi> a plusieurs
                   significations, car il se prend quelquefois pour une armoire à serrer des papiers,
                   ou d'autres sortes de hardes , d'autres fois il signifie une petite piece d'un
                   appartement qui peut servir à plusieurs usages.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreC_P3"> Ainsi l'on appelle <hi rend="capitals"
-                     >CABINETS</hi> les lieux que l'on orne de tableaux, et que <persName
-                     ref="#Vitruve">Vitruve</persName> l.6.c.5. appelle <hi rend="it"
-                     >pinacotheca</hi>.</p>
+               <p> Ainsi l'on appelle <hi rend="capitals">CABINETS</hi> les lieux que l'on orne de
+                  tableaux, et que <persName ref="#Vitruve">Vitruve</persName> l.6.c.5. appelle <hi
+                     rend="it">pinacotheca</hi>.</p>
                <pb n="508"/>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P4">
                   <hi rend="capitals">CABINET</hi> de conversation. C'est ce que <persName
                      ref="#Vitruve">Vitruve</persName> appelle <hi rend="it">exedra</hi>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P4">
-                  <hi rend="capitals"> Cabinet </hi>, ou' lieu retire, dans un jardin. </p>
+                  <hi rend="capitals">CABINET</hi>, ou lieu retiré, dans un jardin.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P5">
-                  <hi rend="capitals"> Cabinet </hi> d'estude. </p>
+                  <hi rend="capitals">CABINET</hi> d'estude.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P6">
-                  <hi rend="capitals"> Cabinet </hi> où l'on serre des papiers. </p>
+                  <hi rend="capitals">CABINET</hi> où l'on serre des papiers.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P7">
-                  <hi rend="capitals"> Cables </hi>, ou Chables, ce sont de grosses cordes servant à
-                  monter les fardeaux. <hi rend="it">V. p.</hi>142.Pl.XXII. </p>
+                  <hi rend="capitals">CABLES</hi>, ou chables, ce sont de grosses cordes servant à
+                  monter les fardeaux. <hi rend="it">V. p.</hi> 142. Pl.XXII.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P8">
-                  <hi rend="capitals"> Cache-entre'e </hi> d'une serrure, c'est une petite piece de
-                  fer qui couvre l'entrée. </p>
+                  <hi rend="capitals">CACHE-ENTRÉE</hi> d'une serrure, c'est une petite piece de fer
+                  qui couvre l'entrée.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P9">
-                  <hi rend="capitals"> Cachot </hi>, prison obscure où l'on tient les criminels. </p>
+                  <hi rend="capitals">CACHOT</hi>, prison obscure où l'on tient les criminels.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P10">
-                  <hi rend="capitals"> Cadenas </hi>, ou Cadenat. Il y en a de differentes sortes.
-                     <hi rend="it">V. p.</hi>217.234.Pl. XXXIV. </p>
+                  <hi rend="capitals">CADENAS</hi>, ou cadenat. Il y en a de differentes sortes. <hi
+                     rend="it">V. p.</hi> 217. 234. Pl. XXXIV.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P11">
-                  <hi rend="capitals"> Cadole </hi>, ou loquet d'une porte. <hi rend="it">V.
-                  p.</hi>215. </p>
+                  <hi rend="capitals">CADOLE</hi>, ou loquet d'une porte. <hi rend="it">V. p.</hi>
+                  215.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P12">
-                  <hi rend="capitals"> Cadre </hi> d'un Tableau. V. QuADRE. </p>
+                  <hi rend="capitals">CADRE</hi> d'un tableau. <hi rend="it">V.</hi>
+                  <hi rend="capitals">QUADRE</hi>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P13">
-                  <hi rend="capitals"> Cage </hi>, l'on dit la Cage d'un Escalier, c'est-à-dire les
-                  murs ou pans de bois qui l'enferment. On dit aussi la Cage ou l'enceinte d'un
-                  bastiment. </p>
+                  <hi rend="capitals">CAGE</hi>, l'on dit la cage d'un escalier, c'est-à-dire les
+                  murs ou pans de bois qui l'enferment. On dit aussi la cage ou l'enceinte d'un
+                  bastiment.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P14">
-                  <hi rend="capitals"> Caillou. <hi rend="it">V. p.</hi> 44. </hi>
-               </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreC_P15"> CAILLoUx de rivieres propres pour la
-                  peinture sur le verre.V.p. 249. </p>
+                  <hi rend="capitals">CAILLOU</hi>. <hi rend="it">V. p.</hi> 44.</p>
+               <p xml:id="FEL_PASP_dictionnaire_lettreC_P15">
+                  <hi rend="capitals">CAILLOUX</hi> de rivieres propres pour la peinture sur le
+                  verre. <hi rend="it">V. p.</hi> 249.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P16">
-                  <hi rend="capitals"> Calamine </hi>, c'est une pierre ou terre bitumineuse, qui
-                  donne la teinture jaune au cuivre rouge.V. p.332. </p>
+                  <hi rend="capitals">CALAMINE</hi>, c'est une pierre ou terre bitumineuse, qui
+                  donne la teinture jaune au cuivre rouge. <hi rend="it">V. p.</hi> 332.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P17">
-                  <hi rend="capitals"> Calciner </hi>, c'est reduire des pierres ou autre chose en
-                  chaux, par le feu. </p>
+                  <hi rend="capitals">CALCINER</hi>, c'est reduire des pierres ou autre chose en
+                  chaux, par le feu.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P18">
-                  <hi rend="capitals"> Cale </hi>, c'est un morceau de bois ou d'autre chose fort
+                  <hi rend="capitals">CALE</hi>, c'est un morceau de bois ou d'autre chose fort
                   mince que l'on met entre deux pierres ou pieces de bois pour les presser et
-                  remplir le vuide. On dit Cale au lieu d'Escaille. </p>
+                  remplir le vuide. On dit <hi rend="it">cale</hi> au lieu d'escaille.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P19">
-                  <hi rend="capitals"> Caler </hi>, c'est mettre une Cale. <pb n="509"/> CA 509 </p>
+                  <hi rend="capitals">CALER</hi>, c'est mettre une <hi rend="it">cale</hi>. <pb
+                     n="509"/> CA 509 </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P20">
-                  <hi rend="capitals"> Oalibre </hi>, c'est l'estendue d'une chose en grandeur et en
-                  grosseur. Ainsi l'on dira qu'une colonne de marbre sera de mesme Calibre qu'une
-                  autre colonne de pierre, lorsqu'elles seront toutes-deux d'un diametre et d'une
-                  hauteur égale. </p>
+                  <hi rend="capitals">CALIBRE</hi>, c'est l'estenduë d'une chose en grandeur et en
+                  grosseur. Ainsi l'on dira qu'une colonne de marbre sera de mesme calibre qu'une
+                  autre colonne de pierre, lorsqu'elles seront toutes deux d'un diametre et d'une
+                  hauteur égale.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P21">
-                  <hi rend="capitals"> Calibre </hi> dont se servent les Charpentiers. C'est un bout
+                  <hi rend="capitals">CALIBRE</hi> dont se servent les charpentiers. C'est un bout
                   d'ais entaillé en triangle dans le milieu pour prendre des mesures. <hi rend="it"
-                     >V. p.</hi>124.134.Pl. XVIII </p>
+                     >V. p.</hi> 124. 134. Pl. XVIII.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P22">
-                  <hi rend="capitals"> Calibre </hi> des Menuisiers ; il est-semblable à celuy des
-                  Charpentiers. <hi rend="it">V. p.</hi>175.184. </p>
+                  <hi rend="capitals">CALIBRE</hi> des menuisiers , il est semblable à celuy des
+                  charpentiers. <hi rend="it">V. p.</hi> 175. 184.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P23">
-                  <hi rend="capitals"> Calibre </hi>, c'est aussi un petit instrument de forlqui
-                  sert aux Serruriers pour voir si les forets vont droit lorsqu'ils forent les tiges
-                  des clefs, et pour les arrondir. <hi rend="it">V. p.</hi>226. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreC_P24"> Ils en ont encore pour prendre la
-                  grosseur des Verrouils des Targettes. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreC_P25"> CAtQUER, c'st contre-tirer un dessein
-                  sur une muraille, ou autrement, pour en avoir les mesmes traits: cela se fait en
-                  frottant le dessous du dessein avec du noir ou d'autre couleur ; et ensuite avec
-                  une pointe qu'on passe dessus, on fait que la couleur marque sur la muraille ou
-                  autre chose qui est sous le dessein. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreC_P26"> Quand au lieu de passer ainsi une
-                  pointe, on pique le dessein, et qu'aprés on le frotte avec du charbon en poudre,
-                  cela s'appelle poncer, et l'on nomme poncis les desseins qui-sont piquez de la
-                  sorte, et qui servent plusieurs fois à faire de pareils ouvrages. </p>
+                  <hi rend="capitals">CALIBRE</hi>, c'est aussi un petit instrument de fer qui sert
+                  aux serruriers pour voir si les forets vont droit lorsqu'ils forent les tiges des
+                  clefs, et pour les arrondir. <hi rend="it">V. p.</hi> 226.</p>
+               <p> Ils en ont encore pour prendre la grosseur des verroüils des targettes.</p>
+               <p xml:id="FEL_PASP_dictionnaire_lettreC_P25">
+                  <hi rend="capitals">CALQUER</hi>, c'est contre-tirer un dessein sur une muraille,
+                  ou autrement, pour en avoir les mesmes traits : cela se fait en frottant le
+                  dessous du dessein avec du noir ou d'autre couleur , et ensuite avec une pointe
+                  qu'on passe dessus, on fait que la couleur marque sur la muraille ou autre chose
+                  qui est sous le dessein.</p>
+               <p> Quand au lieu de passer ainsi une pointe, on pique le dessein, et qu'aprés on le
+                  frotte avec du charbon en poudre, cela s'appelle <hi rend="it">poncer</hi>, et
+                  l'on nomme <hi rend="it">poncis</hi> les desseins qui sont piquez de la sorte, et
+                  qui servent plusieurs fois à faire de pareils ouvrages.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P27">
-                  <hi rend="capitals"> Ccamayeu </hi>, Lat. C'ameus, les Jouaillers et les
-                  Lapidaires nomment Camayeus les Onyces, Sardoines, et autres pierres taillées de
-                  relief, ou en creux: Boot. Sssu iij <pb n="510"/> de lap. I.2.c.85. C'est ce qui a
-                  donné lieu aux Peintres d'appeller Camayeus les Tableaux qui imitent ces sortes de
-                  pierres. Les Anciens nommoient ces peintures Monochromata. </p>
+                  <hi rend="capitals">CAMAYEU</hi>, latin <foreign xml:lang="lat">cameus</foreign>,
+                  les joüaillers et les lapidaires nomment camayeus les onyces, sardoines, et autres
+                  pierres taillées de relief, ou en creux. Boot <pb n="510"/>
+                  <hi rend="it">de lap</hi>. l.2.c.85. C'est ce qui a donné lieu aux peintres
+                  d'appeller <hi rend="it">camayeus</hi> les tableaux qui imitent ces sortes de
+                  pierres. Les anciens nommoient ces peintures <hi rend="it">monochromata</hi>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P28">
-                  <hi rend="capitals"> Cambre </hi> ', courbé, vouté. V.CREux. </p>
+                  <hi rend="capitals">CAMBRÉ</hi>, courbé, vouté. <hi rend="it">V.</hi>
+                  <hi rend="capitals">CREUX</hi>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P29">
-                  <hi rend="capitals"> Campane </hi>, c'est le corps du chapiteau Corinthien et du
-                  chapitéau Composite, que les Ouvriers appellent aussi Tambour ou Vase, et au
-                  dessus duquel est l'<ref target="#abaque">Abaque</ref> ou Tailloir. Il a esté
-                  nommé Campane, à cause qu'il a quelque ressemblance à une cloche renversée. Il
-                  ressemble aussi à une corbeille ou panier, à l'entout duquel les feuilles
-                  prennent leur naissance. Il faut que le vif ou face de la Campane soit toujours à
-                  plomb, et de niveau avec le fond des cannelures de la Colonne. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreC_P30"> C'aueavivs, espece de marbre. <hi
-                     rend="it">V. p.</hi>57. </p>
+                  <hi rend="capitals">CAMPANE</hi>, c'est le corps du chapiteau corinthien et du
+                  chapiteau composite, que les ouvriers appellent aussi <hi rend="it">tambour</hi>
+                  ou vase, et au dessus duquel est l'<ref target="#abaque">abaque</ref> ou tailloir.
+                  Il a esté nommé campane, à cause qu'il a quelque ressemblance à une cloche
+                  renversée. Il ressemble aussi à une corbeille ou panier, à l'entour duquel les
+                  feüilles prennent leur naissance. Il faut que le vif ou face de la campane soit
+                  toujours à plomb, et de niveau avec le fond des cannelures de la colonne.</p>
+               <p xml:id="FEL_PASP_dictionnaire_lettreC_P30">
+                  <hi rend="capitals">CAMPANINI</hi>, espece de marbre. <hi rend="it">V. p.</hi>
+                  57.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P31">
-                  <hi rend="capitals"> Canal </hi>, tuyau ou descente qui sert pour conduire les
-                  eaux d'un toit jusqu'en bas. Vitruve Fistula. </p>
+                  <hi rend="capitals">CANAL</hi>, tuyau ou <hi rend="it">descente</hi> qui sert pour
+                  conduire les eaux d'un toït jusqu'en bas. <persName ref="#Vitruve"
+                     >Vitruve</persName>
+                  <hi rend="it">fistula</hi>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P32">
-                  <hi rend="capitals"> Canal </hi> d'aqueduc. </p>
+                  <hi rend="capitals">CANAL</hi> d'aqueduc.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P33">
-                  <hi rend="capitals"> Canal </hi> ; dans le Chapiteau lonique, c'est la partie qui
-                  est sous le Tailloir, et qui posant sur l'Echine ou Ove, se contourne de chaque
-                  costé pour faire les Volutes. <hi rend="it">V. p.</hi>20.Pl. III. </p>
+                  <hi rend="capitals">CANAL</hi> , dans le chapiteau ionique, c'est la partie qui
+                  est sous le tailloir, et qui posant sur l'echine ou ove, se contourne de chaque
+                  costé pour faire les volutes. <hi rend="it">V. p.</hi> 20. Pl. III.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P34">
-                  <hi rend="capitals"> Canal </hi> de riviere ou de fontaine. </p>
+                  <hi rend="capitals">CANAL</hi> de riviere ou de fontaine.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P35">
-                  <hi rend="capitals"> Candelabre </hi> grand chandelier de sale fait a l'Antique. </p>
+                  <hi rend="capitals">CANDELABRE</hi> grand chandelier de sale fait a l'antique.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P36">
-                  <hi rend="capitals"> Cannele </hi> ', qui a des Cannelures. </p>
+                  <hi rend="capitals">CANNELÉ</hi> , qui a des cannelures. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P37">
-                  <hi rend="capitals"> Cannbler </hi> des Colonnes. Colonnes cannelées: </p>
+                  <hi rend="capitals">CANNELER</hi> des colonnes. Colonnes cannelées.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P38">
-                  <hi rend="capitals"> Cannelures </hi>, ce sont des demy canaux qui sont creusez le
-                  long des colonnes au nombre de vingtquatre, et quelquefois davantage
-                  Nitr.l.4.c.2ne <pb n="511"/> 511 met que vingt cannelures aux colonnes Doriques:
-                  mais à present cela ne s'observe point, et l'on en met vingt-quatre
-                  indifferemment àtous les Ordres, et quelquefois vingt-huit et trente-deux à
-                  l'Ordre Corinthien. VitruveI.3.c. 3 nomme les. Cannelures ou cavitez, striges ; et
-                  l'espace plein ou listel qui est entre chaque cannelure, ouoanal, Stria. </p>
+                  <hi rend="capitals">CANNELURES</hi>, ce sont des demy canaux qui sont creusez le
+                  long des colonnes au nombre de vingt-quatre, et quelquefois davantage <persName
+                     ref="#Vitruve">Vitruve</persName> l.4.c.2 ne <pb n="511"/> met que vingt
+                  cannelures aux colonnes doriques. Mais à present cela ne s'observe point, et l'on
+                  en met vingt-quatre indifferemment à tous les ordres, et quelquefois vingt-huit
+                  et trente-deux à l'ordre corinthien. <persName ref="#Vitruve">Vitruve</persName>
+                  l.3.c.3 nomme les cannelures ou cavitez, <hi rend="it">striges</hi> , et l'espace
+                  plein ou listel qui est entre chaque cannelure, ou canal, <hi rend="it"
+                  >stria</hi>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P39">
-                  <hi rend="capitals"> Canons. V. gargouilles. </hi>
-               </p>
+                  <hi rend="capitals">CANONS</hi>. <hi rend="it">V.</hi>
+                  <hi rend="capitals">GARGOUILLES</hi>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P40">
-                  <hi rend="capitals"> Canon </hi> d'une serrure dans lequel entre le bout de la
-                  tige de laclef. <hi rend="it">V. p.</hi>215.134. Pl. XXXIV. </p>
+                  <hi rend="capitals">CANON</hi> d'une serrure dans lequel entre le bout de la tige
+                  de la clef. <hi rend="it">V. p.</hi> 215. 234. Pl. XXXIV.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P41">
-                  <hi rend="capitals"> Canonnieres. L </hi> 'on appelle ainsi les quvertures que
-                  l'on laisse dans de gros murs pour évacuer les eaux. </p>
+                  <hi rend="capitals">CANONNIERES</hi>. L'on appelle ainsi les ouvertures que l'on
+                  laisse dans de gros murs pour évacuer les eaux.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P42">
-                  <hi rend="capitals"> Cantibay. V. dosses. </hi>
-               </p>
+                  <hi rend="capitals">CANTIBAY</hi>. <hi rend="it">V.</hi>
+                  <hi rend="capitals">DOSSES</hi>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P43">
-                  <hi rend="capitals"> Caponnieres </hi> ; ce sont des logemens couverts et creusez
-                  dans le fond d'un fossé sec, pour loger des soldats. </p>
+                  <hi rend="capitals">CAPONNIERES</hi> , ce sont des logemens couverts et creusez
+                  dans le fond d'un fossé sec, pour loger des soldats.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P44">
-                  <hi rend="capitals">
-                     <placeName ref="#Carie">Carie</placeName>
-                  </hi> ', l'on dit du bois carié quand il est piqué des vers. </p>
+                  <hi rend="capitals">CARIÉ</hi>, l'on dit du bois carié quand il est piqué des
+                  vers.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P45">
-                  <hi rend="capitals"> Carillon. L </hi> 'on nomme fer de Garillon un petit fer qui
-                  n'a que huit à neuf lignes en quarré. <hi rend="it">V. p.</hi>191. </p>
+                  <hi rend="capitals">CARILLON</hi>. L'on nomme <hi rend="it">fer de carillon</hi>
+                  un petit fer qui n'a que huit à neuf lignes en quarré. <hi rend="it">V. p.</hi>
+                  191.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P46">
-                  <hi rend="capitals"> Carme </hi>, <ref target="#acier">acier</ref> de Carme. <hi
-                     rend="it">V. p.</hi>195. </p>
+                  <hi rend="capitals">CARME</hi>, <ref target="#acier">acier</ref> de carme. <hi
+                     rend="it">V. p.</hi> 195.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P47">
-                  <hi rend="capitals"> Carmin </hi>, couleur dont on se sert à peindre en
-                  Miniature.V.p. 418. </p>
+                  <hi rend="capitals">CARMIN</hi>, couleur dont on se sert à peindre en miniature.
+                     <hi rend="it">V. p.</hi> 418.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P48">
-                  <hi rend="capitals"> Carnation </hi>, c'est un mot general dont on se sert en
+                  <hi rend="capitals">CARNATION</hi>, c'est un mot general dont on se sert en
                   Peinture pour exprimer la couleur de la chair, et toutes les parties d'un corps
-                  qui sont nues et déCouvertes. </p>
+                  qui sont nuës et découvertes.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P49">
-                  <hi rend="capitals"> Carneaux. <hi rend="it">V. p.</hi>93. </hi>
-               </p>
+                  <hi rend="capitals">CARNEAUX</hi>.<hi rend="it">V. p.</hi> 93.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P50">
-                  <hi rend="capitals"> Carre </hi> ' dont on fait les medailles, c'est un morceau
-                  d'acier fait en forme de Dé, dans lequel est <pb n="512"/> 512 gravé en creux ce
-                  qui doit estre en relief dans la medaille. <hi rend="it">V.
-                  p.</hi>344.354.Pl.LIV.2 </p>
+                  <hi rend="capitals">CARRÉ</hi> dont on fait les medailles, c'est un morceau
+                  d'acier fait en forme de dé, dans lequel est <pb n="512"/> gravé en creux ce qui
+                  doit estre en relief dans la medaille. <hi rend="it">V. p.</hi> 344. 354.
+                  Pl.LIV.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P51">
                   <hi rend="capitals"> Carreau </hi>. Il y a des lieux où l'on nomme les ais, des
                   Garreaux. </p>
@@ -15804,9 +15823,10 @@
                      <placeName ref="#Allemagne">Allemagne</placeName>. <hi rend="it">V. p.</hi>244.
                   CIVIERE <pb n="529"/> CI CL 529 </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P207">
-                  <hi rend="capitals"> Civiere </hi> à bras servant à porter des pierres, et auttes
-                  materiaux. C'est aussi ce qu'on appelle un Bar qui est seulement fait de pieces de
-                  bois plus fortes que celles des Civieres. <hi rend="it">V. p.</hi> 82. Pl.XII. </p>
+                  <hi rend="capitals"> Civiere </hi> à <ref target="#bras3">bras</ref> servant à
+                  porter des pierres, et auttes materiaux. C'est aussi ce qu'on appelle un Bar qui
+                  est seulement fait de pieces de bois plus fortes que celles des Civieres. <hi
+                     rend="it">V. p.</hi> 82. Pl.XII. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P208">
                   <hi rend="capitals"> Clair-obscur </hi>. On appelle un Dessein de clairobscur, un
                   Dessein qui est lavé d'une seule couleur, ou bien dont les ombres sont d'une
@@ -16137,9 +16157,9 @@
                   huilé qu'on applique contre le Tabléau ; puis avec du crayon l'on marque sur le
                   papier ou sur la toile, les mesmes traits du Tableau que l'on voit au travers de
                   la toile ou du papier. On se sert aussi de verre, de <pb n="539"/> CO 539 talc, de
-                  vessies de pourceau, de boyaux de bœuf, de colle de poisson mise en feuilles, et
-                  d'autres matieres claires et minces pour contretirer des Ouvrages de moyenne
-                  grandeur. </p>
+                  vessies de pourceau, de <ref target="#boyaux">boyaux</ref> de bœuf, de colle de
+                  poisson mise en feuilles, et d'autres matieres claires et minces pour contretirer
+                  des Ouvrages de moyenne grandeur. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P301">
                   <hi rend="capitals"> Contretire </hi> ', qui est pris sur le mesme trait de
                   l'original. </p>
@@ -17272,9 +17292,9 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P91"> EsRAUcuoir, outil de bois, ou d'yvoire
                   dont les Sculpteurs se serven pout travailler, soit de terre, soit de cire. Ils en
                   ont de deux sortes, l'un tout uny par les deux bouts, et l'autre qui a des dents
-                  par un bout, qui leur sert à breter, c'est-à-dire à faire que l'ouvrage ne soit
-                  pas lisse et poly ; ce qui sert quelquefois à le faire paroistre travaillé avec
-                  plus d'art. <hi rend="it">V. p.</hi>304. Pl. XLVII. </p>
+                  par un bout, qui leur sert à <ref target="#breter">breter</ref> , c'est-à-dire à
+                  faire que l'ouvrage ne soit pas lisse et poly ; ce qui sert quelquefois à le faire
+                  paroistre travaillé avec plus d'art. <hi rend="it">V. p.</hi>304. Pl. XLVII. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P92">
                   <hi rend="capitals"> Esbauchoir </hi> de fer servant aux Ouvriers qui travaillent
                   de Stuc. <hi rend="it">V. p.</hi>342.Pl. LIl. </p>
@@ -18135,7 +18155,8 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P114">
                   <hi rend="capitals"> Formerets </hi>, ou Fermerets, ce sont les Arcs qui qui
                   forment les costez des voutes faites en croix d'Ogives, ou autrement. Ils prennent
-                  d'une des branches de l'Ogive, et se vont joindre à l'autre. </p>
+                  d'une des <ref target="#branches">branches</ref> de l'Ogive, et se vont joindre à
+                  l'autre. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P115">
                   <hi rend="capitals"> Fort </hi> ; du bois sur son fort. V. METTRE du bois sur son
                   fort. </p>
@@ -18171,8 +18192,8 @@
                   p.</hi>126.138.Pl.XX. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P127">
                   <hi rend="capitals"> Fourchette </hi> de fer dont se servent les Serruriers pour
-                  tourner les brequins, tarieres, canons, etc. Pour tourner en rond ou demy-rond à
-                  chaud. V.p: 227. </p>
+                  tourner les <ref target="#brequins">brequins</ref> , tarieres, canons, etc. Pour
+                  tourner en rond ou demy-rond à chaud. V.p: 227. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P128"> FouRURES qui rendent l'Acier
                   defectueux. <hi rend="it">V. p.</hi>195. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P129"> FoURNEAU a estamer. <hi rend="it">V.
@@ -19207,12 +19228,13 @@
                   <hi rend="capitals"> Lavoir </hi>, cuve, ou bassin, où l'on se baigne. Il estoit
                   appellé par les Grecs Loutron. Vitruve </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P39">
-                  <hi rend="capitals"> Lave </hi>. Les Tailleurs de pierre ont des marteaux bretez,
-                  qu'ils nomment Layes ; Ils appellent aussi des Layes, les rayes ou bretures qui
-                  paroissent sur les pierres taillées avec ces sortes d'outils. </p>
+                  <hi rend="capitals"> Lave </hi>. Les Tailleurs de pierre ont des marteaux <ref
+                     target="#breter">bretez</ref>, qu'ils nomment Layes ; Ils appellent aussi des
+                  Layes, les rayes ou bretures qui paroissent sur les pierres taillées avec ces
+                  sortes d'outils. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P40">
                   <hi rend="capitals"> Layer </hi>, c'est travailler la pierre avec une Laye. V.
-                  BRETER. </p>
+                     <ref target="#breter">BRETER</ref>. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P41">
                   <hi rend="capitals"> Lescher </hi>. On dit un Tableau lesché, dont les couleurs
                   sont couchées avec plus de soin et de peine, que d'art et de science. </p>
@@ -19493,8 +19515,8 @@
                   vitre.V.p.264.Pl.XXXIX. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P119">
                   <hi rend="capitals"> Lozanges </hi>. On dispose quelquefois le bois qui fait la
-                  charpente des maisons en Lozanges. Et quelquefois d'une maniere qu'on appelle
-                  brins de fougere. </p>
+                  charpente des maisons en Lozanges. Et quelquefois d'une maniere qu'on appelle <ref
+                     target="#brins">brins</ref> de fougere. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P120">
                   <hi rend="capitals"> Lucarnes </hi>. Ce sont des ouvertures qu'on met'au dessus de
                   l'entablement des maisons, pour donner jour aux chambres en galetas ou aux
@@ -19790,7 +19812,8 @@
                      ref="#Pline">Pline</persName> l.7.c.56 attribue l'invention du marteau à Cynira
                   fille d'Agriope. Il y a de differentes sortes de marteaux, sçavoir: </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P60">
-                  <hi rend="capitals"> Marteaux </hi> bretez ou bretélez, pour tailler la
+                  <hi rend="capitals"> Marteaux </hi>
+                  <ref target="#breter">bretez</ref> ou bretélez, pour tailler la
                   pierre.V.p.78.Pl.X. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P61">
                   <hi rend="capitals"> Marteaux </hi> à panne droite, dont les. Serruriers frapent
@@ -20409,8 +20432,9 @@
                   vient de reus, sorte de vaisseau, ou bien de rais ; les Grecs appellant ainsi un
                   Temple. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreN_P6">
-                  <hi rend="capitals"> Neres </hi> des voutes, ou des branches d'Ogives, ce sont les
-                  mouleures des branches d'Ogives où Arcs. V.VouTEs d'Ogives. </p>
+                  <hi rend="capitals"> Neres </hi> des voutes, ou des <ref target="#branches"
+                     >branches</ref> d'Ogives, ce sont les mouleures des <ref target="#branches"
+                     >branches</ref> d'Ogives où Arcs. V.VouTEs d'Ogives. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreN_P7"> NicHE. C'est une cavité ou enfoncement
                   que l'on pratique dans l'espaisseur des murailles pour placer des Statues ou autre
                   chose. </p>
@@ -20577,28 +20601,28 @@
                   Il faut voir VitruveI.6.C.5. Palladiol. 2.C.7. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreO_P18">
                   <hi rend="capitals"> Ogives </hi>, ou Augives, on appelle croisee d'Ogives, les
-                  arcs ou branches d'une voute qui traversent diagonalement d'un angle à un autre,
-                  et qui forment une croix entre les autres arcs qui font les costez du quarré, dont
-                  les arcs font les diagonales, ce qui se voit assez dans nos Eglises. Le milieu où
-                  les Ogives se coupent ou se croisent, s'appelle la clef, qui est quelquefois
-                  taillée en forme de rose, ou de cul de lampe. Il y a des clefs suspendues qui
-                  soutiennent quatre courbes qui s'assemblent aux ogives. Les membres ou moulures
-                  des ogives s'appellent nerfs, les Arcs qui separent chaque croisée d'ogives se
-                  nomment souvent Arcs doubleaux, parce qu'ils sont d'ordinaire le double des
-                  autres, et ceux qui sont aux costez, comme le long des murailles, et à leur
-                  opposite Arcs formerets ou fermerets, lesquels sont en hemicycle ou en
-                  tiers-point, selon la montée et l'exhaussement de la voute. </p>
+                  arcs ou <ref target="#branches">branches</ref> d'une voute qui traversent
+                  diagonalement d'un angle à un autre, et qui forment une croix entre les autres
+                  arcs qui font les costez du quarré, dont les arcs font les diagonales, ce qui se
+                  voit assez dans nos Eglises. Le milieu où les Ogives se coupent ou se croisent,
+                  s'appelle la clef, qui est quelquefois taillée en forme de rose, ou de cul de
+                  lampe. Il y a des clefs suspendues qui soutiennent quatre courbes qui s'assemblent
+                  aux ogives. Les membres ou moulures des ogives s'appellent nerfs, les Arcs qui
+                  separent chaque croisée d'ogives se nomment souvent Arcs doubleaux, parce qu'ils
+                  sont d'ordinaire le double des autres, et ceux qui sont aux costez, comme le long
+                  des murailles, et à leur opposite Arcs formerets ou fermerets, lesquels sont en
+                  hemicycle ou en tiers-point, selon la montée et l'exhaussement de la voute. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreO_P19"> Le plain de la voute qui est contenu
                   entre les Arcs doubleaux, arcs formerets, et ogives, se nomme Pendentif.
                   Ordinairement on fait les Pendentifs de brique, de mouellon, ou de pierte tendre,
                   mais il Qqdd <pb n="674"/> faut, que les couches des lits de la maconnerie soient
                   toujours faits à niveau et par lignes droites, qui proviennent du cintre dont est
                   tiré la montée, sans que la circonference fasse aucun Jaret ; et qu'elles soient
-                  conduites suivant le tour du compas, aprés lequel auront esté tirées les branches
-                  des voutes. Il faut aussi que les joints soient les plus petits qu'il est
-                  possible, afin de n'estre pas obligé de mettre des escailles de bois pour les
-                  remplir, ny mettre beaucoup de mortier, mais seulement les abreuver de Laitance,
-                  qui est de la chaux fort grasse.V. VOUTES. </p>
+                  conduites suivant le tour du compas, aprés lequel auront esté tirées les <ref
+                     target="#branches">branches</ref> des voutes. Il faut aussi que les joints
+                  soient les plus petits qu'il est possible, afin de n'estre pas obligé de mettre
+                  des escailles de bois pour les remplir, ny mettre beaucoup de mortier, mais
+                  seulement les abreuver de Laitance, qui est de la chaux fort grasse.V. VOUTES. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreO_P20">
                   <hi rend="capitals"> Oiseau. C </hi> 'est un petit ais posé sur deux morceaux de
                   bois qui débordent, et qui font comme deux bras. Les Goujats les mettent sur leurs
@@ -22253,8 +22277,8 @@
                   <hi rend="capitals"> Retondre </hi>, c'est un terme des Tailleurs de pierre, qui
                   signifie en general occuper quelque chose de l'épaisseur d'un mur. Ils appellent
                   aussi retondre, lorsqu'ils repassent dans les moulures avec Yyyy ij <pb n="724"/>
-                  RE 724 un fer à retondre pour les finir; ces fers sont ou bretez, ou sans
-                  bretures. </p>
+                  RE 724 un fer à retondre pour les finir; ces fers sont ou <ref target="#breter"
+                     >bretez</ref> , ou sans bretures. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P105">
                   <hi rend="capitals"> Retoucher </hi>, on dit retoucher un Tableau qui a este
                   gasté, ou bien encore on dit qu'un Tableau n'est que retouche d'un tel maistre
@@ -22562,16 +22586,17 @@
                   uneéquiaite ployante, qui s'ouvre et qui se ferme de mesme qu'un compas, pour
                   former et pour tracer des angles, et aussi pour prendre des mesures sur le trait
                   et sur l'ouvrage. Elle sert pour couper une pierre par le bout ou' autrement,
-                  avant que de la mettrg en œuvre quand il doit y avoir du biais. Les deux branches
-                  de la Sauterelle doivent estre d'une égale largeur par tout, cequi n'est pas au
-                  buveau. <hi rend="it">V. p.</hi> 76.114.134. Pl. XVIll. </p>
+                  avant que de la mettrg en œuvre quand il doit y avoir du biais. Les deux <ref
+                     target="#branches">branches</ref> de la Sauterelle doivent estre d'une égale
+                  largeur par tout, cequi n'est pas au buveau. <hi rend="it">V. p.</hi> 76.114.134.
+                  Pl. XVIll. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P26">
                   <hi rend="capitals"> Sauveterre </hi>. Les Marbriers nomment ainsi une espece de
                   marbre qui se tire sur le terroir et proche du village de Sauve-terre, a trois
                   lieues deS.Beat, le fond en est noir avec des taches et veined blanches meslé
                   aussi de veines jaunes ; c'est le mesme que les Ouvriers de <placeName
-                     ref="#Paris">Paris</placeName> appellent Breche. <hi rend="it">V. p.</hi> 61.
-                     <pb n="733"/> SC 733 </p>
+                     ref="#Paris">Paris</placeName> appellent <ref target="#breche">breche</ref> .
+                     <hi rend="it">V. p.</hi> 61. <pb n="733"/> SC 733 </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P27">
                   <hi rend="capitals"> Sscape. V. escape. </hi>
                </p>
@@ -23108,8 +23133,8 @@
                      page</hi> 221.234. Pl. XXXIV. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P27"> Tas de charge. Ce sont les premieres
                   piertes qu'on voit sur les angles ou dans le plain d'un mur, et qui montrent le
-                  commencement et la naissance d'une voute, ou des branches des Ogives, Tiercerons,
-                  Formerets, et Arcs doubleaux. </p>
+                  commencement et la naissance d'une voute, ou des <ref target="#branches"
+                     >branches</ref> des Ogives, Tiercerons, Formerets, et Arcs doubleaux. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P28"> On dit, tailler, ou finir un ouvrage
                   de pierre sur le tas, lorsqu'elle est preste à poser. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P29"> TASSEAUx ; Ce sont comme de petites
@@ -24020,34 +24045,35 @@
                   Les Nerfs ont divers noms selon les lieux où ils sont placez, la figure qu'ils
                   composent, et qu'il plaist à l'Architecte et aux Ouvriers de les nommet. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P77"> Les PENDENTIES sont les quartiers des
-                  Voutes compris entre les nerfs ou branches d'Ogiyves ; on les fait quelquefois
-                  avec des voussoirs faits avetc coupe, d'quutrefois <pb n="777"/> VO 777
-                  d'autrefois avec des briques, du mouellon ou de petits pendants de pierre de
-                  taille coupez à l'équiaire. </p>
+                  Voutes compris entre les nerfs ou <ref target="#branches">branches</ref> d'Ogiyves
+                  ; on les fait quelquefois avec des voussoirs faits avetc coupe, d'quutrefois <pb
+                     n="777"/> VO 777 d'autrefois avec des briques, du mouellon ou de petits
+                  pendants de pierre de taille coupez à l'équiaire. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P78"> Comme on appelle Ogives ou Diagonales,
                   les deux lignes ou arcs qui forment, comme j'ay dit, une croix de saint André ; on
                   nomme aussi Tiercerons des lignes qui prennent de l'extremité́ des deux lignes
                   diagonales, et qui viennent se joindre dans le pendentif entré la cles du milieu
                   et le Formeret, ou Arc doubleau. On appelle Liernes les autres lignes Vou nerfs
                   qui forment une autre croix, dont la clef est le centré ; et qui traversant de
-                  vart et d'autre terminent leurs branches aux quatre branches des TierCerons. </p>
+                  vart et d'autre terminent leurs <ref target="#branches">branches</ref> aux quatre
+                     <ref target="#branches">branches</ref> des TierCerons. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P79"> Les ARcs doubleaux, ou Formercts sont
                   ceux qui prenant aux extremitez des diagon8les, forment les quatre costez, et font
                   comme quatre lunettes. La pratique ordinaire dans ces sortes de voutes, veut que,
-                  tant les arcs doubleaux, branches, et nerfs d'ogives, que les pendentifs, soient
-                  dans leur douelles, conduits et façonnez au trait du compas ; les figures
-                  eliptiques, ou en ance de panier, surmonté́es ou surbaissées, n'estant pas
-                  communement en usage pour cela. Il faut aussi pour une plus grande beauté de
-                  l'ouvrage, que tous les lits en-joints des pendants, et de tous les ares, nerfs,
-                  et bran: ches d'ogives, et autres ornemens, soient conduits en sorte qu'ils
-                  puissent estre bornoyez àà la regle, et ne fassent aucun jaret en leur cintre ; et
-                  que ces sortes de voutes, aussi bien que les autres ayant beaucoup de poussee,
-                  ayent de bons arcs-boutans pour contrebouter et maintenir. l'ouvrage en estat.
-                  Fffff <pb n="778"/> La plus grande difficulté qui se trouve en la conduite de ces
-                  Voutes, consiste au developement des Nerfs, lorsqu'ils naissent, ou d'un mesme
-                  point, ou d'un si petit espace qu'ils sont comme les uns dans les autres. Car
-                  lorsqu'on vient à les ellever, les uns prennentleur contour d'un costé, et les
-                  autres d'un autre. </p>
+                  tant les arcs doubleaux, <ref target="#branches">branches</ref>, et nerfs
+                  d'ogives, que les pendentifs, soient dans leur douelles, conduits et façonnez au
+                  trait du compas ; les figures eliptiques, ou en ance de panier, surmonté́es ou
+                  surbaissées, n'estant pas communement en usage pour cela. Il faut aussi pour une
+                  plus grande beauté de l'ouvrage, que tous les lits en-joints des pendants, et de
+                  tous les ares, nerfs, et bran: ches d'ogives, et autres ornemens, soient conduits
+                  en sorte qu'ils puissent estre bornoyez àà la regle, et ne fassent aucun jaret en
+                  leur cintre ; et que ces sortes de voutes, aussi bien que les autres ayant
+                  beaucoup de poussee, ayent de bons arcs-boutans pour contrebouter et maintenir.
+                  l'ouvrage en estat. Fffff <pb n="778"/> La plus grande difficulté qui se trouve en
+                  la conduite de ces Voutes, consiste au developement des Nerfs, lorsqu'ils
+                  naissent, ou d'un mesme point, ou d'un si petit espace qu'ils sont comme les uns
+                  dans les autres. Car lorsqu'on vient à les ellever, les uns prennentleur contour
+                  d'un costé, et les autres d'un autre. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P80"> Il est encore à propos que les Liernes
                   et les Ogives se fassent de mesme grosseur et de mesme moule, affin que se
                   rencontrant dans la clef qui leur est commune, ils fassent un plus bel effet. </p>
@@ -24074,11 +24100,12 @@
                   quelques traits particuliers. Ces grandes Voutes sont les Voutes d'arestes. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P86">
                   <persName ref="#AndreaPalladio">Palladio</persName> l.1.c.1A-reconnoist six
-                  differentes sortes de Voutes. 1.A croisettes ou branches d'ogives. 2.A bandes. 3.A
-                  la remenée (on appelle ainsi les Voutes qui sont de portion de cercle, lesquelles
-                  n'arrivent pas tout à fait à un demycercle.)4.De rondes, ou en cul de'four.5.A
-                  Lunettes. 6.ACoquilles. Ces deux dernieres sont d'une invention moderne ; mais les
-                  quatre autres estoient en usage chez les Anciens. </p>
+                  differentes sortes de Voutes. 1.A croisettes ou <ref target="#branches"
+                     >branches</ref> d'ogives. 2.A bandes. 3.A la remenée (on appelle ainsi les
+                  Voutes qui sont de portion de cercle, lesquelles n'arrivent pas tout à fait à un
+                  demycercle.)4.De rondes, ou en cul de'four.5.A Lunettes. 6.ACoquilles. Ces deux
+                  dernieres sont d'une invention moderne ; mais les quatre autres estoient en usage
+                  chez les Anciens. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P87"> VOyE de pierre, ce qu'elle contient.
                      <hi rend="it">V. p.</hi> 67. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P88"> Autrefois on vendoit la pierre au
