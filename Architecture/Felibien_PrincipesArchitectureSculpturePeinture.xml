@@ -859,8 +859,8 @@
                               <item> D <hi rend="it">Plinthe ou Zoche de la Base <ref
                                        target="#attique">Attique</ref>.</hi>
                               </item>
-                              <item>E <hi rend="it">Thore inferieur, Baton ou <ref target="#Bosel"
-                                       >Bosel</ref>.</hi>
+                              <item>E <hi rend="it">Thore inferieur, baton ou <ref target="#bosel"
+                                       >bosel</ref>.</hi>
                               </item>
                               <item>F <hi rend="it">Scorie ou Nacelle avec les deux Listeaux.</hi>
                               </item>
@@ -2645,9 +2645,10 @@
                            </item>
                            <item>E <hi rend="it">Un <ref target="#bar">Bar</ref> et ses SS.</hi>
                            </item>
-                           <item>F <hi rend="it">Un <ref target="#bouriquet">Bouriquet</ref>.</hi>
+                           <item>F <hi rend="it">Un <ref target="#bouriquet">bouriquet</ref>.</hi>
                            </item>
-                           <item>G <hi rend="it">Brayer du Bouriquet.</hi>
+                           <item>G <hi rend="it">Brayer du <ref target="#bouriquet"
+                                 >bouriquet</ref>.</hi>
                            </item>
                         </list>
                         <pb n="81"/>
@@ -3546,7 +3547,7 @@
                            <item>T <hi rend="it">Bastion a Orillon avec des Flancs bas.</hi>
                            </item>
                            <item>V <hi rend="it">
-                                 <ref target="#boulevart">Boulevart</ref> ou Bastion.</hi>
+                                 <ref target="#boulevart">Boulevart</ref> ou bastion.</hi>
                            </item>
                            <item>X <hi rend="it">Ouvrages à Redents.</hi>
                            </item>
@@ -3755,7 +3756,7 @@
                            rend="it">Jambes de Forces</hi>, c'est-à-dire Jambes de l'Entrait, avec
                         les liens au dessous qui joignent et attachent l'Entrait avec la Jambe par
                         tenons et mortaises. Elles s'assemblent par en haut dans le <ref
-                           target="#Bossage">bossage</ref> du Poinçon. </p>
+                           target="#bossage">bossage</ref> du Poinçon. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P10"> Le <hi rend="it"
                            >Poinçon</hi> s'assemble et se pose sur le milieu de l'Entrait avec les
                            <hi rend="it">Jambettes</hi> sous les <ref target="#arbalestiers"
@@ -4064,12 +4065,12 @@
                            rend="it">Bras</hi> ou <hi rend="it">Liens en Contrefiche</hi>. Les Bras
                         sont posez par embas aux deux extremitez de la Sole, et par en haut dans un
                            <hi rend="it">
-                           <ref target="#Bossage">bossage</ref>
+                           <ref target="#bossage">bossage</ref>
                         </hi> qui est un peu plus bas que la Sellette. L'Eschelier ou Rancher est
                         assemblé par en bas dans une Mortaise au bout de la Fourchette ; et par en
-                        haut dans le mesme <ref target="#Bossage">bossage</ref>, ou sont arrestez
+                        haut dans le mesme <ref target="#bossage">bossage</ref>, ou sont arrestez
                         les Bras. Il a un Tenon qui passe tout au travers d'une Mortaise, et au delà
-                        du <ref target="#Bossage">bossage</ref> du Poincon, où il est arresté avec
+                        du <ref target="#bossage">bossage</ref> du Poincon, où il est arresté avec
                         une Cheville. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P87"> Les Bras et le Rancher
                         sont encore liez et arrestez au Poinçon avec des <hi rend="it">Moïses</hi>
@@ -4662,18 +4663,18 @@
                         estre de siage. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C15_L1C15S1_P13"> Lorsque l'on couvre avec
                         de l'Ardoise, on fait les <hi rend="it">Enfaistemens</hi> de plomb, dont
-                        quelques-uns sont avec <hi rend="it">Bourseaux</hi>, <hi rend="it"
-                           >Bavettes</hi> et <hi rend="it">Membrons</hi> ; Et au bas du toit, l'on y
-                        met des <hi rend="it">Chaineaux de Goutiere</hi>, ou <hi rend="it">à
-                           godets</hi>, pour jetter les caux ; ou bien des <hi rend="it"
-                           >Chaineaux</hi> avec des <hi rend="it">Cuvettes quarrées</hi> ou à <hi
-                           rend="it">entonnoir</hi>, et des <hi rend="it">Descentes</hi> le tout de
-                        plomb. Les Chaincaux sont aussi à <hi rend="it">simple Bord</hi>, ou à <hi
-                           rend="it">Bavette</hi>, c'est-à-dire qu'il y a un rebord de plomb qui
-                        cache les <hi rend="it">crochets</hi> de fer, et qui descent jusques sur la
-                        platteforme ou entablement ; Les Enfaistemens et les Chaineaux sont
-                        soustenus et arrestez par des crochets de fer ; l'on met autant de Ctochets
-                        qu'il y a de chevrons. </p>
+                        quelques-uns sont avec <hi rend="it"><ref target="#bourseau1"
+                              >bourseaux</ref></hi>, <hi rend="it">Bavettes</hi> et <hi rend="it"
+                           >Membrons</hi> ; Et au bas du toit, l'on y met des <hi rend="it"
+                           >Chaineaux de Goutiere</hi>, ou <hi rend="it">à godets</hi>, pour jetter
+                        les caux ; ou bien des <hi rend="it">Chaineaux</hi> avec des <hi rend="it"
+                           >Cuvettes quarrées</hi> ou à <hi rend="it">entonnoir</hi>, et des <hi
+                           rend="it">Descentes</hi> le tout de plomb. Les Chaincaux sont aussi à <hi
+                           rend="it">simple Bord</hi>, ou à <hi rend="it">Bavette</hi>, c'est-à-dire
+                        qu'il y a un rebord de plomb qui cache les <hi rend="it">crochets</hi> de
+                        fer, et qui descent jusques sur la platteforme ou entablement ; Les
+                        Enfaistemens et les Chaineaux sont soustenus et arrestez par des crochets de
+                        fer ; l'on met autant de Ctochets qu'il y a de chevrons. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C15_L1C15S1_P14"> Pour les Cuvettes il y a
                         des pieces de fer qu'on <pb n="148"/> nomme <hi rend="it">Fers de
                            cuvettes</hi>, qui les supportent et accollent. L'on en met une ou deux
@@ -4799,7 +4800,8 @@
                                        </item>
                                        <item>2 <hi rend="it">Poinçon garni d'un vase.</hi>
                                        </item>
-                                       <item>3 <hi rend="it">Bourseau.</hi>
+                                       <item>3 <hi rend="it"><ref target="#Bourseau1"
+                                             >Bourseau</ref>.</hi>
                                        </item>
                                        <item>4 <hi rend="it">Membron.</hi>
                                        </item>
@@ -5022,34 +5024,37 @@
                         crochets, pour l'ouvrir, et fermer. Son calibre est de la grosseur qu'on
                         veut les Tuyaux ; et quant à sa longueur, elle est ordinairement de deux
                         pieds et demy. L'on a un <hi rend="it">
-                           <ref target="#boulon">Boulon</ref>
+                           <ref target="#boulon2">boulon</ref>
                         </hi>, pour servir de noyau au <pb n="159"/> Moule, c'est une piece de fer
                         ou de cuivre ronde, un peu plus longue que le moule, et de la grosseur que
                         doit estre le diametre du dedans du Tuyau. </p>
-                     <p xml:id="FEL_PASP_principes_L1_L1C16_L1C16S1_P13"> L'on passe le Boulon dans
-                        deux <hi rend="it">Rondelles</hi> de cuivre qui sont aux deux extremitetz du
-                        Moule, et qui servent à les fermer: A ces Rondelles est joint un petit Tuyau
-                        aussi de cuivre de deux pouces de long, ou environ, que l'on nomme <hi
-                           rend="it">Portée</hi>, lequel a l'épaisseur que l'on veut donner aux
-                        Tuyaux de plomb. Ces deux Portées servent à tenir le Boulon également
-                        distant dans le creux du moule. Il y en a une qui est taillée en plume,
-                        parce qu'elle sert plusieurs fois, et que l'autre ne sert que la premiere
-                        fois qu'on jette le plomb. </p>
-                     <p xml:id="FEL_PASP_principes_L1_L1C16_L1C16S1_P14"> Lorsque le Boulon est dans
-                        le Moule avec les Rondelles aux deux extremitez, et que le Plomb est fondu
-                        dans la Chaudiere, on le prend avec la Cuiller à puiser, et on le verse dans
-                        le Moule par un endroit qui est à un des bouts, et fait en entonnoir, qu'on
-                        nomme le <hi rend="it">Jet</hi>. Quand le Tuyau est plain, il, y a au bout
-                        de l'Establie, sur laquelle le Moule est attaché, un <hi rend="it"
-                           >Moulinet</hi> avec une sangle autour, au bout de laquelle est un crochet
-                        que l'on passe dans le bout du Boulon, pour le faire sortir du Moule en
-                        tournant le Moulinet, à force de bras. Lorsqu'il est dehors on ouvre le
+                     <p xml:id="FEL_PASP_principes_L1_L1C16_L1C16S1_P13"> L'on passe le <ref
+                           target="#boulon2">boulon</ref> dans deux <hi rend="it">Rondelles</hi> de
+                        cuivre qui sont aux deux extremitetz du Moule, et qui servent à les fermer:
+                        A ces Rondelles est joint un petit Tuyau aussi de cuivre de deux pouces de
+                        long, ou environ, que l'on nomme <hi rend="it">Portée</hi>, lequel a
+                        l'épaisseur que l'on veut donner aux Tuyaux de plomb. Ces deux Portées
+                        servent à tenir le <ref target="#boulon2">boulon</ref> également distant
+                        dans le creux du moule. Il y en a une qui est taillée en plume, parce
+                        qu'elle sert plusieurs fois, et que l'autre ne sert que la premiere fois
+                        qu'on jette le plomb. </p>
+                     <p xml:id="FEL_PASP_principes_L1_L1C16_L1C16S1_P14"> Lorsque le <ref
+                           target="#boulon2">boulon</ref> est dans le Moule avec les Rondelles aux
+                        deux extremitez, et que le Plomb est fondu dans la Chaudiere, on le prend
+                        avec la Cuiller à puiser, et on le verse dans le Moule par un endroit qui
+                        est à un des bouts, et fait en entonnoir, qu'on nomme le <hi rend="it"
+                           >Jet</hi>. Quand le Tuyau est plain, il, y a au bout de l'Establie, sur
+                        laquelle le Moule est attaché, un <hi rend="it">Moulinet</hi> avec une
+                        sangle autour, au bout de laquelle est un crochet que l'on passe dans le
+                        bout du <ref target="#boulon2">boulon</ref>, pour le faire sortir du Moule
+                        en tournant le Moulinet, à force de bras. Lorsqu'il est dehors on ouvre le
                         Moule, l'on en oste le Tuyau, dont l'on met l'extremité au bout d'en bas du
-                        Moule dans lequel remettant le Boulon, le bout du Tuyau luy sert de Rondelle
-                        et de Portée en cet endroit, en sorte qu'on ne met plus que celle qui est
-                        taillée en plume à l'autre bout ; puis refermant le moule, <pb n="160"/> on
-                        reverse du plomb, et l'on recommence comme la premiere fois ; et ainsi
-                        successivement l'on fait des Tuyaux de telle longueur qu'on veut </p>
+                        Moule dans lequel remettant le <ref target="#boulon2">boulon</ref>, le bout
+                        du Tuyau luy sert de Rondelle et de Portée en cet endroit, en sorte qu'on ne
+                        met plus que celle qui est taillée en plume à l'autre bout ; puis refermant
+                        le moule, <pb n="160"/> on reverse du plomb, et l'on recommence comme la
+                        premiere fois ; et ainsi successivement l'on fait des Tuyaux de telle
+                        longueur qu'on veut </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C16_L1C16S1_P15"> Pour ceux qui se font de
                         Tables de plomb soudées, on a des <hi rend="it">Tondins</hi> de bois, qui
                         sont de gros Rouleaux de la longueur et grosseur qu'on desire, sur lesquels
@@ -5107,15 +5112,16 @@
                         cy-dessus. Il y a encore plusieurs Outils necessaires à leur travail qui
                         sont un <hi rend="it">Niveau</hi>, un <hi rend="it">Compas</hi>, un <hi
                            rend="it">Marteau</hi>, des <hi rend="it">Maillets</hi> plats, par le
-                        costé, des <hi rend="it">Bourseaux</hi> ronds pour batre, des <hi rend="it"
-                           >Serpes</hi>, des <hi rend="it">Serpettes</hi>, des <hi rend="it"
-                           >Couteaux</hi>, des <hi rend="it">Planes</hi>, des <hi rend="it"
-                           >Gouges</hi>, des <hi rend="it">Rapes</hi>, un <hi rend="it">Débordoir
-                           rond</hi>, un <hi rend="it">Gratoir</hi>, des <hi rend="it">Fers ronds à
-                           souder</hi>, d'autres petits <hi rend="it">Fers en triangle à
-                           souder</hi>. Les <hi rend="it">Manches</hi> de ces fers sont de deux
-                        morceaux de bois creux et entaillez en forme de canaux, suivant la grosseur
-                        du manche du Fer ; les Plombiers les nomment <hi rend="it">Atelles</hi>.</p>
+                        costé, des <hi rend="it"><ref target="#bourseau2">bourseaux</ref></hi> ronds
+                        pour batre, des <hi rend="it">Serpes</hi>, des <hi rend="it">Serpettes</hi>,
+                        des <hi rend="it">Couteaux</hi>, des <hi rend="it">Planes</hi>, des <hi
+                           rend="it">Gouges</hi>, des <hi rend="it">Rapes</hi>, un <hi rend="it"
+                           >Débordoir rond</hi>, un <hi rend="it">Gratoir</hi>, des <hi rend="it"
+                           >Fers ronds à souder</hi>, d'autres petits <hi rend="it">Fers en
+                           triangle à souder</hi>. Les <hi rend="it">Manches</hi> de ces fers sont
+                        de deux morceaux de bois creux et entaillez en forme de canaux, suivant la
+                        grosseur du manche du Fer ; les Plombiers les nomment <hi rend="it"
+                           >Atelles</hi>.</p>
                   </div4>
                   <div4 xml:id="L1C16S3">
                      <div5 xml:id="L1C16S3SS1">
@@ -5168,11 +5174,11 @@
                            </item>
                            <item>C <hi rend="it">Moule des Tuyaux.</hi>
                            </item>
-                           <item>D <hi rend="it">Boulon de fer avec les Rondelles et Portées pour
-                                 mettre dans le Moule.</hi>
+                           <item>D <hi rend="it"><ref target="#boulon2">Boulon</ref> de fer avec les
+                                 rondelles et Portées pour mettre dans le moule.</hi>
                            </item>
-                           <item>E <hi rend="it">Le mesme Moule fermé avec le <ref target="#boulon"
-                                    >Boulon</ref> dedans, et un tuyau qui en sort.</hi>
+                           <item>E <hi rend="it">Le mesme moule fermé avec le <ref target="#boulon2"
+                                    >boulon</ref> dedans, et un tuyau qui en sort.</hi>
                            </item>
                            <item>F <hi rend="it">Jet du Moule.</hi>
                            </item>
@@ -5186,7 +5192,8 @@
                            </item>
                            <item>M <hi rend="it">Maillets plats par le costé.</hi>
                            </item>
-                           <item>N <hi rend="it">Bourseaux ronds pour batre.</hi>
+                           <item>N <hi rend="it"><ref target="#Bourseau2">Bourseaux</ref> ronds pour
+                                 batre.</hi>
                            </item>
                            <item>O <hi rend="it">Serpes.</hi>
                            </item>
@@ -6457,8 +6464,8 @@
                         soit à faire des <hi rend="it">Ancres, et Tirans ; des Crampons et des
                            Harpons</hi>, pour entretenir les murailles; soit à lier ou attacher des
                         Poutres ou des Tirans de bois, comme sont les <hi rend="it">
-                           <ref target="#boulons-de-fer">Boulons</ref> et les Estriers</hi> ; soit à
-                        faire des barres ou grilles pour les fenestres, soit pour <hi rend="it"
+                           <ref target="#boulons">boulons</ref> et les Estriers</hi> ; soit à faire
+                        des barres ou grilles pour les fenestres, soit pour <hi rend="it"
                            >Ballustres</hi> d'Escaliers ou de Balcons, il y a encore plusieurs
                         autres Ouvrages de Serrurerie necessaires dans les Maisons, dont les
                         principaux regardent la fermeture des portes et des fenestres. </p>
@@ -6499,16 +6506,17 @@
                         sortir, quand il sera sellé en plastre ou en plomb. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S1_P87"> L'on met à ces Portes de
                         grandes barres de bois ou de fer qu'on appelle <hi rend="it">Fleaux</hi>,
-                        qui se tournent sur un <hi rend="it">Boulon</hi> de fer par le milieu, et
-                        qui servent pour les tenir fermées avec une Serrure quarrée, et un <hi
-                           rend="it">Verouil</hi> ; ou bien avec un <hi rend="it">Moraillon</hi> par
-                        le bas. Quelques-uns y mettent des barres de fer par derriere que l'on nomme
-                           <hi rend="it">Pied-de-biches</hi> ou <hi rend="it">Arcboutans</hi>, qui
-                        ne ferment qu'une moitié de la Porte. Mais pour estre mieux, l'on fait que
-                        ces barres sont doubles par le bout, pour fermer en mesme temps les deux
-                        costez de la Porte. L'on y met aussi un <hi rend="it">Moraillon</hi> qui
-                        entre dans une petite Serrure quarrée, à <pb n="208"/>
-                        <ref target="#Bosse">bosse</ref>, ou autrement. D'autres se contentent de
+                        qui se tournent sur un <hi rend="it"><ref target="#boulon1"
+                           >boulon</ref></hi> de fer par le milieu, et qui servent pour les tenir
+                        fermées avec une Serrure quarrée, et un <hi rend="it">Verouil</hi> ; ou bien
+                        avec un <hi rend="it">Moraillon</hi> par le bas. Quelques-uns y mettent des
+                        barres de fer par derriere que l'on nomme <hi rend="it">Pied-de-biches</hi>
+                        ou <hi rend="it">Arcboutans</hi>, qui ne ferment qu'une moitié de la Porte.
+                        Mais pour estre mieux, l'on fait que ces barres sont doubles par le bout,
+                        pour fermer en mesme temps les deux costez de la Porte. L'on y met aussi un
+                           <hi rend="it">Moraillon</hi> qui entre dans une petite Serrure quarrée, à
+                           <pb n="208"/>
+                        <ref target="#bosse">bosse</ref>, ou autrement. D'autres se contentent de
                         mettre des <hi rend="it">Verouils</hi> en haut et en bas avec de petits
                         ressorts par dessous les Verrouils pour les empescher de tomber. A ceux d'en
                         haut l'on laisse des queues assez longues, pour y pouvoit atteindre, et où
@@ -6570,13 +6578,13 @@
                            >chamfrain</hi>, pour repousser la Porte. D'autres font faire un ressort
                         double qui bande contre la feuillure de la Porte, lorsqu'elle s'ouvre.
                         D'autres un ressort à <hi rend="it">
-                           <ref target="#boudin">boudin</ref>
+                           <ref target="#boudin2">boudin</ref>
                         </hi> dans un petit tambour, où il y a une queue avec une petite poulie au
                         bout qui repousse la Porte. La meilleure façon est de faire un des Gonds <hi
                            rend="it">à vis</hi> avec trois ou quatre filets et son Escroue, de la
                         mesme sorte qu'à une Presse d'Imprimerie. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S1_P94"> L'on garnit aussi les
-                        Portes de <hi rend="it">Heurtoirs, de <ref target="#boucles">Boucles</ref>,
+                        Portes de <hi rend="it">Heurtoirs, de <ref target="#boucles">boucles</ref>,
                            de Boutons</hi>, pour les tirer et fermer; avec des <hi rend="it"
                            >Platines et Escussons</hi>, de mesme qu'aux entrées des Serrures ou
                         Loquets. </p>
@@ -6648,7 +6656,7 @@
                         que cette Trempe endurcit le Fer, et le rend revesche au recuit. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S1_P103"> Si c'est pour une <hi
                            rend="it">Serrure treffiere</hi>, c'est-à-dire n'ouvrant que d'un
-                        costé, ou à <hi rend="it"><ref target="#Bosse">bosse</ref></hi>,ausquelles
+                        costé, ou à <hi rend="it"><ref target="#bosse">bosse</ref></hi>,ausquelles
                         il faille mettre a<ref target="#L1C20P212Na"/> C'est une peti mettre? <hi
                            rend="it">Hayve</hi> ou <hi rend="it">dents</hi> aux entrées, on les fait
                         sur l'enclume avec le cizeau, aprés avoir mis de hauteur et soudé le <hi
@@ -6665,13 +6673,13 @@
                            <hi rend="it">Rateaux</hi>, l'un à droit, et l'autre à gauche ; la <hi
                            rend="it">Couverture</hi> que l'on nomme quelquefois un <hi rend="it"
                            >Fond sec</hi> ou <hi rend="it">Foncet</hi> ; une <hi rend="it"
-                           >Broche</hi>, le <hi rend="it">Fer à rouet</hi>, l<hi rend="it">a
-                           Bouterolle et les Rouëts ; le Palastre</hi> ou piece de fer qui couvre
-                        toutes les garnitures, et où sont montées toutes les pieces: les <hi
-                           rend="it">Crampons</hi> pour l'attacher, le <hi rend="it">Cachentrée, la
-                           Barre</hi> pour le tenir, <hi rend="it">le Moraillon</hi> et <hi
-                           rend="it">le Couplet</hi>, qui s'ajuste au bout avec Charniere ; l'<hi
-                           rend="it">
+                           >Broche</hi>, le <hi rend="it">Fer à rouet</hi>, <hi rend="it">la <ref
+                              target="#bouterolle">bouterolle</ref> et les Rouëts ; le
+                           Palastre</hi> ou piece de fer qui couvre toutes les garnitures, et où
+                        sont montées toutes les pieces: les <hi rend="it">Crampons</hi> pour
+                        l'attacher, le <hi rend="it">Cachentrée, la Barre</hi> pour le tenir, <hi
+                           rend="it">le Moraillon</hi> et <hi rend="it">le Couplet</hi>, qui
+                        s'ajuste au bout avec Charniere ; l'<hi rend="it">
                            <ref target="#auberon">Auberon</ref>
                         </hi> qui est le petit morceau de Fer rive au <hi rend="it">Moraillon</hi>
                         <pb n="213"/>qui entre dans l'<hi rend="it">
@@ -6803,15 +6811,15 @@
                         qu'on desire. <note> a Ce sont des hauteurs ou pieces enlevées sur le Péne,
                            qui avancent, et que la Clef prend pour le faire marcher. </note>
                      </p>
-                     <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S1_P121"> Que lquefois l'on met un
-                           <hi rend="it">Ressort à boudin</hi> dans le <hi rend="it">Foliot</hi>
-                        qui lert pour repousser le demy tour du <hi rend="it">Péne</hi>, parce que
-                        ce ressort est plus souple et plus delicat que les autres qui se font avec
-                        la <hi rend="it">Jumelle</hi>. Il y a aussi d'autres sortes de Ressorts
-                        qu'on appelle, <hi rend="it">Ressorts de chien</hi>, et afin qu'ils soient
-                        moins sujets à se casser, on les fait d'<ref target="#acier">acier</ref>
-                        batu mince et trempé, mais ces sortes de <hi rend="it">Ressorts</hi> ne sont
-                        pas si bons que les autres. </p>
+                     <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S1_P121"> Quelquefois l'on met un
+                           <hi rend="it">Ressort à <ref target="#boudin2">boudin</ref></hi> dans le
+                           <hi rend="it">Foliot</hi> qui lert pour repousser le demy tour du <hi
+                           rend="it">Péne</hi>, parce que ce ressort est plus souple et plus delicat
+                        que les autres qui se font avec la <hi rend="it">Jumelle</hi>. Il y a aussi
+                        d'autres sortes de Ressorts qu'on appelle, <hi rend="it">Ressorts de
+                           chien</hi>, et afin qu'ils soient moins sujets à se casser, on les fait
+                           d'<ref target="#acier">acier</ref> batu mince et trempé, mais ces sortes
+                        de <hi rend="it">Ressorts</hi> ne sont pas si bons que les autres. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S1_P122"> L'on fait encore de ces
                         sortes de Serrures à plusieurs <hi rend="it">Pénes</hi>, et aussi des
                         Serrures appellées <hi rend="it">passe partout</hi>, parce qu'ordinairement
@@ -8033,13 +8041,13 @@
                         differents par les differentes figures des Pieces, dont ils sont composés,
                         qui donnent le nom aux ouvrages. Car les unes s'appellent des <hi rend="it"
                            >Pieces quarrées</hi> ; les autres <hi rend="it">des Lozanges</hi>. Il y
-                        en a qu'on appelle de <hi rend="it">la double <ref target="#Borne"
-                              >Borne</ref> , de la <ref target="#Borne">Borne</ref> en pieces
-                           couchées , de la <ref target="#Borne">Borne</ref> en pieces quarrées ,
-                              <ref target="#Bornes">Bornes</ref> debout , <ref target="#Bornes"
-                              >Bornes</ref> couchées en tranchoir pointu , <ref target="#Bornes"
-                              >Bornes</ref> doubles et simples , <ref target="#Bornes">Bornes</ref>
-                           couchées doubles , <ref target="#Bornes">Bornes</ref> longues en
+                        en a qu'on appelle de <hi rend="it">la double <ref target="#borne"
+                              >borne</ref> , de la <ref target="#borne">Borne</ref> en pieces
+                           couchées , de la <ref target="#borne">Borne</ref> en pieces quarrées ,
+                              <ref target="#bornes">Bornes</ref> debout , <ref target="#bornes"
+                              >Bornes</ref> couchées en tranchoir pointu , <ref target="#bornes"
+                              >Bornes</ref> doubles et simples , <ref target="#bornes">Bornes</ref>
+                           couchées doubles , <ref target="#bornes">Bornes</ref> longues en
                            tranchoir pointu. Tranchoirs en lozanges , Tranchoir pointu à tringlette
                            double , Tringlettes en tranchoirs , Chesnons , Moulinets en tranchoirs ,
                            Moulinets doubles , Moulinets à tranchoirs évidez , Croix de Lorraine ,
@@ -8229,13 +8237,13 @@
                         <list rend="numbered">
                            <item>A <hi rend="it">Pieces quarrées</hi>.</item>
                            <item>B <hi rend="it">Lozanges</hi>.</item>
-                           <item> C <hi rend="it">Double <ref target="#Borne"
+                           <item> C <hi rend="it">Double <ref target="#borne"
                               >Borne</ref></hi>.</item>
-                           <item>D <hi rend="it"><ref target="#Borne">Borne</ref> en pieces
+                           <item>D <hi rend="it"><ref target="#borne">Borne</ref> en pieces
                                  couchées</hi>.</item>
-                           <item> E <hi rend="it"><ref target="#Borne">Borne</ref> en pieces
+                           <item> E <hi rend="it"><ref target="#borne">Borne</ref> en pieces
                                  quarrées</hi>.</item>
-                           <item>F <hi rend="it"><ref target="#Borne">Borne</ref>
+                           <item>F <hi rend="it"><ref target="#borne">Borne</ref>
                               debout</hi>.</item>
                         </list>
                         <pb n="265"/>
@@ -8250,13 +8258,13 @@
                            <hi rend="capitals"> EXPLICATION DE LA PLANCHE XL. </hi>
                         </head>
                         <list rend="numbered">
-                           <item>A <hi rend="it"><ref target="#Borne">Borne</ref> couchee en
+                           <item>A <hi rend="it"><ref target="#borne">Borne</ref> couchee en
                                  Tranchoir pointu</hi>.</item>
-                           <item>B <hi rend="it"><ref target="#Borne">Borne</ref> double et
+                           <item>B <hi rend="it"><ref target="#borne">Borne</ref> double et
                                  simple</hi>.</item>
-                           <item>C <hi rend="it"><ref target="#Borne">Borne</ref> couchée
+                           <item>C <hi rend="it"><ref target="#borne">Borne</ref> couchée
                                  double</hi>.</item>
-                           <item>D <hi rend="it"><ref target="#Borne">Borne</ref> longue en
+                           <item>D <hi rend="it"><ref target="#borne">Borne</ref> longue en
                                  Tranchoix pointu</hi>.</item>
                            <item>E <hi rend="it">Tranchoirs en lozanges</hi>.</item>
                            <item>F <hi rend="it">Tranchoirs pointus à Tringlettes
@@ -8599,7 +8607,7 @@
                         nettcment, on le mouille un peu avec une brosse. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C22_L1C22S1_P13"> L'on se peut exempter si
                         l'on veut, de tout ce travail, lorsque l'ouvrage est delicatement taillé ;
-                        Car afin de ne boucher pas la Sculpture, on ne donne que deux ou trois
+                        Car afin de ne boucher pas la sculpture, on ne donne que deux ou trois
                         couches de blanc bien clair. Mais il est vray que comme le blanc fait
                         davantage subsister l'Or, ce travail n'est jamais si beau, ne se maintient
                         pas tant, et la Sculpture en paroist <pb n="285"/> bien plus rude et bien
@@ -8752,8 +8760,7 @@
                         une petite coquille avec un peu de <hi rend="it">Gomme arabique</hi>. C'est
                         le plus expedient, pour faire quelque chose de bien propre, pourveu que
                         l'endroit gasté ne soit pas grand. L'on appelle cela <hi rend="it">
-                           <ref target="#boucher-or-moulu">boucher d'Or moulu</ref>
-                        </hi>. </p>
+                           <ref target="#boucher">boucher</ref> d'or moulu </hi>. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C22_L1C22S1_P23"> L'on peut encore sur une
                         bordure unie, et qui n'a point de Sculpture donner vingt couches de blanc,
                         si l'on veut ; et le mettre de telle espaisseur, qu'on y puisse desseigner
@@ -8977,7 +8984,7 @@
                      triomphe, et leurs autres Edifices. </p>
                   <p xml:id="FEL_PASP_principes_L2_L2C1_P2"> Il y de trois sortes de bas-reliefs.
                      Dans les uns les Figures qui sont sur le devant, paroissent presque de relief.
-                     Dans les autres, elles ne sont qu'en <pb n="299"/> demy <ref target="#Bosse"
+                     Dans les autres, elles ne sont qu'en <pb n="299"/> demy <ref target="#bosse"
                         >bosse</ref>, et d'un relief beaucoup moindre. Et enfin dans la derniere
                      espece, elles sont encore beaucoup moins eslevées, et ont peu de relief, à la
                      maniere des Vases, des Camaïus, des medailles et des pieces de monnoye. </p>
@@ -9324,26 +9331,26 @@
                         le marbre, et l'on s'en aide dans les endroits où l'on ne peut se servir des
                         deux mains pour travailler avec le ciseau et la masse. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C4_L2C4S1_P10"> La <hi rend="it">
-                           <ref target="#boucharde">Boucharde</ref>
+                           <ref target="#boucharde">boucharde</ref>
                         </hi> est un morceau de fer, de bon <ref target="#acier">acier</ref>
                         <pb n="310"/> par le bas, et fait en plusieurs pointes de diamant, fortes et
                         pointues de court. On s'en sert pour faire un trou d'égale grosseur, qui ne
                         se pourroit faite avec des outils trenchans. On frape sur la <hi rend="it"
-                           >Boucharde</hi> avec la masse, et ses pointes <hi rend="it"
-                           >meurtrissant</hi> le marbre, le mettent en poudre. L'on jette de temps
-                        en temps de l'eau dans le trou à mesure qu'on le creuse, pour en faire
-                        sortir la poudre de marbre, et pour empescher aussi que le fer ne
-                        s'échauffe, ce qui détremperoit l'outil. Car on ne mouille le grais sur
-                        lequel on affute les outils, que pour empescher qu'ils ne s'échauffent, et
-                        qu'en les frottant à sec ils ne perdent leur trempe. C'est pourquoy l'on
-                        mouille aussi les <hi rend="it">Trepans</hi>, qui s'échauffent en trepanant.
-                        Les Sculpteurs s'en servent pour fouiller et percer dans les endroits de
-                        leurs Figures où ils ne peuvent s'aider du ciseau sans se mettre au hazard
-                        de gaster, ou d'éclatter quelque chose. </p>
+                              ><ref target="#boucharde">boucharde</ref></hi> avec la masse, et ses
+                        pointes <hi rend="it">meurtrissant</hi> le marbre, le mettent en poudre.
+                        L'on jette de temps en temps de l'eau dans le trou à mesure qu'on le
+                        creuse, pour en faire sortir la poudre de marbre, et pour empescher aussi
+                        que le fer ne s'échauffe, ce qui détremperoit l'outil. Car on ne mouille
+                        le grais sur lequel on affute les outils, que pour empescher qu'ils ne
+                        s'échauffent, et qu'en les frottant à sec ils ne perdent leur trempe. C'est
+                        pourquoy l'on mouille aussi les <hi rend="it">Trepans</hi>, qui s'échauffent
+                        en trepanant. Les Sculpteurs s'en servent pour fouiller et percer dans les
+                        endroits de leurs Figures où ils ne peuvent s'aider du ciseau sans se mettre
+                        au hazard de gaster, ou d'éclatter quelque chose. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C4_L2C4S1_P11"> Lorsqu'ils travaillent avec
-                        la <hi rend="it">Boucharde</hi> ils la passent dans un morceau de cuir
-                        percé, qui couvre le trou, et empesche qu'en frapant, l'eau ne rejalisse au
-                        visage de celuy qui travaille. </p>
+                        la <hi rend="it"><ref target="#boucharde">boucharde</ref></hi> ils la
+                        passent dans un morceau de cuir percé, qui couvre le trou, et empesche qu'en
+                        frapant, l'eau ne rejalisse au visage de celuy qui travaille. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C4_L2C4S1_P12"> Les autres outils
                         necessaires aux Sculpteurs en marbre, sont la <hi rend="it">Rondelle</hi>
                         qui est une espece de ciseau arrondi. La <hi rend="it">Hongnette</hi> qui
@@ -9418,7 +9425,8 @@
                            <item>N <hi rend="it">
                                  <ref target="#boucharde">Boucharde</ref>
                               </hi>.</item>
-                           <item>O <hi rend="it">Plan des dents de la Boucharde</hi>.</item>
+                           <item>O <hi rend="it">Plan des dents de la <ref target="#boucharde"
+                                    >boucharde</ref></hi>.</item>
                            <item>P <hi rend="it">Rape</hi>.</item>
                            <item>Q <hi rend="it">Outil crochu</hi>.</item>
                            <item>R <hi rend="it">Trepan</hi>. <list rend="numbered">
@@ -10650,20 +10658,22 @@
                         grands ou petits qu'ils soient, sont faits, ou de fer, ou de cuivre, comme
                         je viens de dire. Les uns ont la forme d'une petite pitouette ; on les
                         appelle des <hi rend="it">Sies</hi>, les autres qu'on momme <hi rend="it"
-                           >Bouts</hi>, <hi rend="it">Bouterolles</hi>, ont une petite teste ronde,
-                        comme un bouton. Ceux qui s'appellent des <pb n="363"/>
+                              ><ref target="#bouts">bouts</ref></hi>, <hi rend="it"
+                        >bouterolles</hi>, ont une petite teste ronde, comme un bouton. Ceux qui
+                        s'appellent des <pb n="363"/>
                         <hi rend="it">Charnieres</hi> sont faits en maniere d'une virolle, et
                         servent à enlever les pieces ; Il y en a de plats, et d'autres differentes
                         sortes que l'Ouvrier fait forger de diverses grandeurs, suivant la qualité
                         des Ouvrages. On applique l'outil contre la pierre qu'on travaille, soit
                         pour ébaucher, soit pour finir, non pas directement opposée au bout de
-                        l'outil, mais à costé, en sorte que la sie ou bouterolle l'use, en tournant
-                        contre, et comme la coupant. Et, soit qu'on fasse des Figures, des Lettres,
-                        des Chiffres ou autre chose : on s'en sert toujours de la mesme maniere, les
-                        arrosant avec de la poudre de Diamant et de l'huile d'Olive ; Et quelquefois
-                        quand on veut percer quelque chose, on rapporte sur le tour de petites <hi
-                           rend="it">Pointes</hi> de fer, au bout desquelles il y a un Diamant <hi
-                           rend="it">Serti</hi>, c'est à dire enchassé. </p>
+                        l'outil, mais à costé, en sorte que la sie ou <ref target="#bouterolle"
+                           >bouterolle</ref> l'use, en tournant contre, et comme la coupant. Et,
+                        soit qu'on fasse des Figures, des Lettres, des Chiffres ou autre chose : on
+                        s'en sert toujours de la mesme maniere, les arrosant avec de la poudre de
+                        Diamant et de l'huile d'Olive ; Et quelquefois quand on veut percer quelque
+                        chose, on rapporte sur le tour de petites <hi rend="it">Pointes</hi> de fer,
+                        au bout desquelles il y a un Diamant <hi rend="it">Serti</hi>, c'est à dire
+                        enchassé. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C8_L2C8S1_P14"> Lors que les Pierres sont
                         gravées, ou de relief, ou en creux, on les polit sur des Roues de brosses
                         faites de poil de cochon, et avec du tripoli, à cause de la delicatesse du
@@ -10788,7 +10798,7 @@
                            <hi rend="capitals"> EXPLICATION DE LA PLANCHE LIX. </hi>
                         </head>
                         <list rend="numbered">
-                           <item>A <hi rend="it">Bouts</hi>.</item>
+                           <item>A <hi rend="it"><ref target="#bouts">Bouts</ref></hi>.</item>
                            <item>B <hi rend="it">Bouteroles</hi>.</item>
                            <item>C <hi rend="it">Charnieres</hi>.</item>
                            <item>D <hi rend="it">Sies</hi>.</item>
@@ -10839,7 +10849,7 @@
                         rendit celebre dans ces sortes d'Ouvrages. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C9_L2C9S1_P5"> C'estoit avec cette Machine
                         qu'ils tournoient toutes <pb n="373"/> sortes de Vases, dont quelques-uns
-                        estoient enrichis de Figures, et d'Ornemens en demi-<ref target="#Bosse"
+                        estoient enrichis de Figures, et d'Ornemens en demi-<ref target="#bosse"
                            >bosse</ref>. Les Auteurs Grecs, et Latins en parlent souvent, et
                            <persName ref="#Ciceron">Ciceron</persName> appelle ceux qui les
                         formoient au Tour <hi rend="it" xml:lang="lat">Vascularii</hi>. C'estoit un
@@ -13143,10 +13153,9 @@
                   l'extremité et le bout de toutes sortes de pieces de charpenterie mises en œuvre,
                      <hi rend="it">Voyez pag.</hi>122, 132. Planche XVII. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreA_P5">
-                  <hi rend="capitals"> ABOUEMENT.</hi>
-                  <hi rend="it">V</hi>. <hi rend="capitals">
+                  <hi rend="capitals">ABOUEMENT</hi>. <hi rend="it">V</hi>. <hi rend="capitals">
                      <ref target="#bouement">BOUEMENT</ref>
-                  </hi>. </p>
+                  </hi>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreA_P6">
                   <hi rend="capitals"> ABREUVOIRS </hi>. Les Massons nomment ainsi certaines
                   ouvertures qu'ils laissent entre les joints des grosses pierres de taille, pour y
@@ -13394,7 +13403,7 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreA_P52">
                   <hi rend="capitals"> AMARRE </hi>, ce sont deux morceaux de bois qui s'appliquent
                   quarrément contre quelque autre piece de bois plus grande, et qui estant taillez
-                  en <ref target="#Bossage">bossage</ref> par dessus, c'est-à-dire moins relevez et
+                  en <ref target="#bossage">bossage</ref> par dessus, c'est-à-dire moins relevez et
                   moins hauts dans les extremstez, ont une ouverture dans le milieu, pour y faire
                   passer le bout d'un trueil ou moulinet. <persName ref="#JeanMartin">Jean
                      Martin</persName> appelle aussi ces Amarres, <hi rend="it">Hoches</hi>, <hi
@@ -13755,9 +13764,10 @@
                      >poutre</hi>, comme qui diroit, la principale poutre. C'est ce que nous
                   appellons <hi rend="it">poitrail</hi>, et les Grecs <foreign xml:lang="gre"/>,
                   Epistile, parce que ce membre est posé immediatement sur les colonnes ; Les Maçons
-                  prononcent Arquitrave. Vitruve l.6.c.4 appelle <hi rend="it" xml:lang="lat">trabes
-                     liminares alarum</hi> les architraves soûtenus par des colonnes, comme ceux qui
-                  sont aux costez des Vestibules ; et qui en font les ailes. </p>
+                  prononcent Arquitrave. <persName ref="#Vitruve">Vitruve</persName> l.6.c.4 appelle
+                     <hi rend="it" xml:lang="lat">trabes liminares alarum</hi> les architraves
+                  soûtenus par des colonnes, comme ceux qui sont aux costez des Vestibules ; et qui
+                  en font les ailes. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreA_P131">
                   <hi rend="capitals"> ARCOT </hi>, c'est l'excrement du cuivre jaune, et ce qu'on
                   appelle <hi rend="it">potin</hi>, quand il est allié avec le plomb. <hi rend="it"
@@ -13884,7 +13894,8 @@
                   <hi rend="capitals"> ASSEMBLAGE </hi>, pieces de bois d'assemblage. Les Menuisiers
                   ont trois principales manieres d'assembler leur bois : <list rend="numbered">
                      <item>1. le <hi rend="it">quarré</hi>,</item>
-                     <item>2. l'assemblage à <hi rend="it">bouement</hi>,</item>
+                     <item>2. l'assemblage à <hi rend="it"><ref target="#bouement"
+                           >bouement</ref></hi>,</item>
                      <item>3. celuy à <hi rend="it">onglet</hi>.</item>
                   </list> Il y a aussi celuy à <hi rend="it">queue</hi>, mais la queue est jointe
                   avec quelqu'une des trois autres. <hi rend="it">V.pag.</hi> 170, 176, Pl. XXVIIl. </p>
@@ -14146,7 +14157,7 @@
                   ce que nous nommons Estuves. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P8">
                   <hi rend="capitals"> BAJOUES </hi> ou Coussinets d'un Tire-plomb ; ce sont des
-                  eminences ou <ref target="#Bossages">bossages</ref> qui tiennent aux Jumelles de
+                  eminences ou <ref target="#bossages">bossages</ref> qui tiennent aux Jumelles de
                   cette Machine nommée<hi rend="it"> Tire-plomb</hi>, dont les Vitriers se servent à
                   fendre le plomb qu'ils employent pour les Vitres. <hi rend="it">V. p.</hi> 274,
                   Pl.XLIV. </p>
@@ -14423,9 +14434,10 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P75">
                   <hi rend="capitals"> BAVETTE </hi>, l'on appelle ainsi une bande de plomb qui
                   couvre les bords et les devans des Chesneaux, et que l'on met aussi sur les
-                  grandes couvertures d'ardoise au dessous des Bourseaux. <hi rend="capitals">
+                  grandes couvertures d'ardoise au dessous des <ref target="#bourseau1"
+                     >bourseaux</ref>. <hi rend="capitals">
                      <hi rend="it">V.</hi>
-                     <ref target="#bourseau">BOURSEAU</ref>.</hi>
+                     <ref target="#bourseau1">BOURSEAU</ref>.</hi>
                </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P76">
                   <hi rend="capitals">BAVOCHÉ</hi>, c'est-à-dire en terme de Peinture, un contour
@@ -14451,11 +14463,12 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P83">
                   <hi rend="capitals"> BEFROY </hi> signifie aussi Eschauguette, Dongeon. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P84">
-                  <hi rend="capitals"> BELIER </hi>, <hi rend="it">Aries</hi>. Vitruvel.10.c.19.
-                  C'estoit une grande poutre ferrée par le bout, et suspendue par deux chaisnes,
-                  dont on se servoit anciennement pour battre les murailles des villes. Il y en
-                  avoit de trois sortes, les uns suspendus à des cordes, les autres coulant sur des
-                  rouleaux, et les autres soustenus sur les bras de ceux qui les faisoient agir. </p>
+                  <hi rend="capitals"> BELIER </hi>, <hi rend="it">Aries</hi>. <persName
+                     ref="#Vitruve">Vitruve</persName> l.10.c.19. C'estoit une grande poutre ferrée
+                  par le bout, et suspendue par deux chaisnes, dont on se servoit anciennement pour
+                  battre les murailles des villes. Il y en avoit de trois sortes, les uns suspendus
+                  à des cordes, les autres coulant sur des rouleaux, et les autres soustenus sur les
+                  bras de ceux qui les faisoient agir. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P85">
                   <hi rend="capitals"> BENARDE </hi>, espece de Serrure.<hi rend="it">V.</hi>
                   <ref target="#serrure">SERRURE</ref>. </p>
@@ -14698,127 +14711,126 @@
                   </hi>. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P144">
                   <hi rend="capitals"> BORNAYER </hi>, c'est connoistre à l'œil si une chose est
-                  droite ; un Tailleur de pierre bornoye un parement de pierre, pour voir s'il est
+                  droite , un tailleur de pierre bornoye un parement de pierre, pour voir s'il est
                   droit et bien dégauchy. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P145">
-                  <hi rend="capitals"> BORNE </hi>, limite. Borne de pierre que l'on met aux coins
-                  des ruës et des portes.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P146">
-                  <hi rend="capitals"> BORNES </hi>. Les vitriers appellent ainsi certaines pieces
-                  de verres qui entrent dans des panneaux de vitres. Il y en a de diverses sortes.
-                     <hi rend="it">Voyez page</hi> 264. Pl. XXXIX. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P147">
-                  <hi rend="capitals"> BOSEL. <hi rend="it">V.</hi> TORE, SPIRE. </hi>
+               <p xml:id="borne">
+                  <hi rend="capitals">BORNE</hi>, limite. Borne de pierre que l'on met aux coins des
+                  ruës et des portes.</p>
+               <p xml:id="bornes">
+                  <hi rend="capitals">BORNES</hi>. Les vitriers appellent ainsi certaines pieces de
+                  verres qui entrent dans des panneaux de vitres. Il y en a de diverses sortes. <hi
+                     rend="it">Voyez page</hi> 264. Pl. XXXIX. </p>
+               <p xml:id="bosel">
+                  <hi rend="capitals">BOSEL. <hi rend="it">V.</hi> TORE, SPIRE. </hi>
                </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P148">
+               <p xml:id="bosse">
                   <hi rend="capitals">BOSSE</hi>. En terme de sculpture, on dit, un ouvrage relevé
-                  en bosse, en demy-bosse, de demy-relief , un ouvrage de ronde bosse, ou de relief. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P149">
+                  en bosse, en demy-bosse, de demy-relief , un ouvrage de ronde bosse, ou de
+                  relief.</p>
+               <p xml:id="bossage">
                   <hi rend="capitals">BOSSAGE</hi>. Lorsqu'en bastissant on laisse des pierres non
-                  taillées pour y faire quelque ouvrage, on nomme cela <hi rend="it">des <ref
-                        target="#Bossages">bossages</ref></hi>.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P150"> Il y a aussi une maniere de joindre
-                  en <ref target="#Bossage">bossage</ref> les pierres dans les grands bastimens
-                  comme on voit dans le <objectName>Palais de Luxembourg</objectName>. Vitruve
-                  l.4.c.4. parle de cette maniere de bastir. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P152">
+                  taillées pour y faire quelque ouvrage, on nomme cela <hi rend="it">des
+                     bossages</hi>.</p>
+               <p>Il y a aussi une maniere de joindre en <ref target="#bossage">bossage</ref> les
+                  pierres dans les grands bastimens comme on voit dans le <objectName>Palais de
+                     Luxembourg</objectName>. <persName ref="#Vitruve">Vitruve</persName> l.4.c.4.
+                  parle de cette maniere de bastir.</p>
+               <p xml:id="bossages">
                   <hi rend="capitals">BOSSAGES</hi> sur les pieces de bois, comme il y en a aux
-                  engins. <hi rend="it">V. p.</hi> 126. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P153">
-                  <hi rend="capitals"> BOUCHARDE </hi>, est un outil de fer, de bon acier <pb
-                     n="499"/>par le bas, et fait en plusieurs pointes de diamant, fortes et
-                  pointues de court : les sculpteurs en marbre s'en servent pour faire un trou
-                  d'égale largeur, ce qu'ils ne pourroient faire avec des outils tranchans. On
-                  frappe sur la boucharde avec la masse, et ses pointes meurtrissant le marbre, le
-                  mettent en poudre, qui sort par le moyen de l'eau qu'on verse de temps en temps
-                  dans le trou de crainte que le fer ne s'échauffe, et que l'outil ne perde sa
-                  trempe , car c'est par la mesme raison qu'on moüille les grais sur lesquels on
-                  affute les outils qui se détremperoient si on les frottoit à sec. Cela se fait
-                  aussi pour empescher que la pierre ne s'engraisse, et que le fer n'entre et ne se
-                  mette dans les pores du grais. On mouille aussi les trepans qui s'échauffent en
-                  trepanant. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P154"> Lorsqu'on travaille avec la
-                  boucharde, on prend un morceau de cuir percé, au travers duquel on la fait passer.
-                  Ce morceau de cuir monte et descend aisément, et empesche qu'en frappant sur la
-                  boucharde l'eau ne rejallisse au visage de celuy qui travaille. <hi rend="it"
-                     >V.p.</hi> 309, 312, Pl. XLVIII. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P155">
-                  <hi rend="capitals">BOUCHER</hi> d'or moulu. <hi rend="it">V. p.</hi>290. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P156">
+                  engins. <hi rend="it">V. p.</hi> 126.</p>
+               <p xml:id="boucharde">
+                  <hi rend="capitals">BOUCHARDE</hi>, est un outil de fer, de bon acier <pb n="499"
+                  />par le bas, et fait en plusieurs pointes de diamant, fortes et pointues de court
+                  : les sculpteurs en marbre s'en servent pour faire un trou d'égale largeur, ce
+                  qu'ils ne pourroient faire avec des outils tranchans. On frappe sur la boucharde
+                  avec la masse, et ses pointes meurtrissant le marbre, le mettent en poudre, qui
+                  sort par le moyen de l'eau qu'on verse de temps en temps dans le trou de crainte
+                  que le fer ne s'échauffe, et que l'outil ne perde sa trempe , car c'est par la
+                  mesme raison qu'on moüille les grais sur lesquels on affute les outils qui se
+                  détremperoient si on les frottoit à sec. Cela se fait aussi pour empescher que la
+                  pierre ne s'engraisse, et que le fer n'entre et ne se mette dans les pores du
+                  grais. On mouille aussi les trepans qui s'échauffent en trepanant.</p>
+               <p>Lorsqu'on travaille avec la <ref target="#boucharde">boucharde</ref>, on prend un
+                  morceau de cuir percé, au travers duquel on la fait passer. Ce morceau de cuir
+                  monte et descend aisément, et empesche qu'en frappant sur la boucharde l'eau ne
+                  rejallisse au visage de celuy qui travaille. <hi rend="it">V.p.</hi> 309. 312. Pl.
+                  XLVIII.</p>
+               <p xml:id="boucher">
+                  <hi rend="capitals">BOUCHER</hi> d'or moulu. <hi rend="it">V. p.</hi>290.</p>
+               <p xml:id="boucles">
                   <hi rend="capitals">BOUCLES</hi> ou anneaux servant pour les portes. <hi rend="it"
                      >V. p.</hi>
-                  <reg>210. 234</reg>. Pl. XXXIV. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P157">
+                  <reg>210, 234</reg>. Pl. XXXIV.</p>
+               <p xml:id="boudin1">
                   <hi rend="capitals">BOUDIN</hi>, il y a des ouvriers qui nomment ainsi le tore de
-                  la base d'une colonne. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P158">
-                  <hi rend="capitals"> BOUDIN </hi>, ressort à boudin. <hi rend="it">V. p.</hi>216. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P157">
-                  <hi rend="capitals"> BOULEVART.</hi>
-                  <hi rend="it">V. p.</hi> 110. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P159">
-                  <hi rend="capitals"> BOULIN </hi>. Les maçons appellent ainsi les pieces de bois
+                  la base d'une colonne.</p>
+               <p xml:id="boudin2">
+                  <hi rend="capitals">BOUDIN</hi>, ressort à boudin.<hi rend="it">V. p.</hi>216.</p>
+               <p xml:id="boulevart">
+                  <hi rend="capitals">BOULEVART</hi>. <hi rend="it">V. p.</hi> 110.</p>
+               <p xml:id="boulin">
+                  <hi rend="capitals">BOULIN</hi>. Les maçons appellent ainsi les pieces de bois
                   qu'ils mettent dans des trous de murailles pour eschaffauder. Ils appellent aussi
-                  trous de <hi rend="it">Boulins</hi>
+                  trous de <hi rend="it">boulins</hi>
                   <pb n="500"/> les trous où l'on met ces mesmes pieces de bois. C'est ce que
-                  Vitruvel. 4.c.2. appelle <hi rend="it">opas, colombaria</hi>, à cause de la
-                  ressemblance qu'ont ces trous avec les boulins d'un coulombier ou voliere, dans
-                  lesquels les pigeons font leur nid. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P160">
+                     <persName ref="#Vitruve">Vitruve</persName> l. 4.c.2. appelle <hi rend="it"
+                     >opas, colombaria</hi>, à cause de la ressemblance qu'ont ces trous avec les
+                  boulins d'un coulombier ou voliere, dans lesquels les pigeons font leur nid. </p>
+               <p xml:id="boulons">
                   <hi rend="capitals">BOULONS</hi> de fer, ce sont de grosses chevilles qui ont une
                   teste ronde à un bout, et à l'autre une ouverture dans laquelle l'on passe un
                   morceau de fer qu'on appelle <hi rend="it">clavette</hi>. On se sert de boulons
                   pour soustenir une poutre ou un tirant, et les attacher au poinçon, et encore à
-                  d'autres usages. <hi rend="it">V. p.</hi>206. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P161">
+                  d'autres usages. <hi rend="it">V. p.</hi> 206. </p>
+               <p xml:id="boulon1">
                   <hi rend="capitals">BOULON</hi> servant à tenir les barres ou fleaux des grandes
                   portes. <hi rend="it">V.</hi>
                   <hi rend="capitals">
                      <ref target="#fleau">FLEAU</ref>
                   </hi>. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P162">
+               <p xml:id="boulon2">
                   <hi rend="capitals">BOULON</hi> qui sert de noyau pour faire les tuyaux de plomb
-                  sans soudure. <hi rend="it">V. p.</hi>158. 164. Pl.XXVI. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P163">
+                  sans soudure. <hi rend="it">V. p.</hi> 158. 164. Pl.XXVI. </p>
+               <p xml:id="bouement">
                   <hi rend="capitals">BOUEMENT</hi> est une maniere d'assemblage dont se servent les
-                  menuisiers. Ils disent <hi rend="it">aboüement</hi>,au lieu de boüement, comme les
-                  charpentiers disent <hi rend="it">abouts</hi> au lieu de bouts. <hi rend="it"
-                     >Voyez page</hi> 171. 176. Pl. XXVIIl. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P164">
+                  menuisiers. Ils disent <hi rend="it">aboüement</hi>, au lieu de boüement, comme
+                  les charpentiers disent <hi rend="it">abouts</hi> au lieu de bouts. <hi rend="it"
+                     >Voyez page</hi> 171. 176. Pl. XXVIIl.</p>
+               <p xml:id="bouriquet">
                   <hi rend="capitals">BOURIQUET</hi>, espece de civiere servant aux maçons à élever
-                  des mouëllons et autres materiaux dans des baquets. <hi rend="it">V. p.</hi>80.
-                  Pl.XI. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P165">
-                  <hi rend="capitals"> BOURSEAU </hi> ou boursault, c'est un gros membre rond fait
-                  de plomb, et qui regne dans les grands bastimens au haut des toits couverts
+                  des mouëllons et autres materiaux dans des baquets. <hi rend="it">V. p.</hi> 80.
+                  Pl.XI.</p>
+               <p xml:id="bourseau1">
+                  <hi rend="capitals">BOURSEAU</hi> ou boursault, c'est un gros membre rond fait de
+                  plomb, et qui regne dans les grands bastimens au haut des toits couverts
                   d'ardoise. Il y a une bande de plomb au dessous du <hi rend="it">bourseau</hi>,
                   que l'on nomme <hi rend="it">Bavette</hi>. Le petit membre rond qui est encore
                   sous la bavette s'appelle <hi rend="it">membron</hi>. La piece de plomb qui est au
                   droit des arrestieres, et sous les epics ou amortissemens, se nomme <hi rend="it"
                      >lanusure</hi> ou <hi rend="it">basque</hi>, <pb n="501"/> parce qu'elle est
-                  coupée en forme de basque. <hi rend="it">Voyez page</hi> 147.150. Pl. XXIII. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P166">
+                  coupée en forme de basque. <hi rend="it">Voyez page</hi> 147. 150. Pl. XXIII.</p>
+               <p xml:id="bourseau2">
                   <hi rend="capitals">BOURSEAU</hi> rond dont les plombiers se servent pour battre.
-                     <hi rend="it">V. p.</hi>164. Pl. XXVI.</p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P167">
+                     <hi rend="it">V. p.</hi> 164. Pl. XXVI.</p>
+               <p xml:id="bousin">
                   <hi rend="capitals">BOUSIN</hi>, c'est le dessus des pierres qui sortent de la
-                  cartiere ; il tient du souchet, et ne vaut rien qu'à abattre: on l'oste en
-                  équarissant les pierres. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P168">
+                  cartiere , il tient du souchet, et ne vaut rien qu'à abattre : on l'oste en
+                  équarissant les pierres.</p>
+               <p xml:id="boutans">
                   <hi rend="capitals">BOUTANS</hi>, ce sont des pieces de bois qui poussent et
-                  arboutent, ou bien des pilliers de pierre qui arboutent contre une muraille. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P169">
+                  arboutent, ou bien des pilliers de pierre qui arboutent contre une muraille.</p>
+               <p xml:id="bouterolle">
                   <hi rend="capitals">BOUTEROLLE</hi>, c'est dans une clef une maniere d'ouverture
                   et de fente dans laquelle passent les roüets et gardes des serrures. <hi rend="it"
-                     >V. p.</hi>212. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreB_P170">
+                     >V. p.</hi> 212. </p>
+               <p xml:id="bouts">
                   <hi rend="capitals">BOUTS, BOUTEROLLES</hi>, outils servant à ceux qui gravent sur
-                  les pierres dures. <hi rend="it">V. p.</hi>362.370.Pl. LIX.</p>
+                  les pierres dures. <hi rend="it">V. p.</hi> 362. 370. Pl. LIX.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P171">
                   <hi rend="capitals">BOUTÉE</hi>, une muraille, ou un edifice qui a besoin de
-                  grande boutée, c'est-à-dire de grande force et d'ares-boutans pour le pousser,
+                  grande boutée, c'est-à-dire de grande force et d'arcs-boutans pour le pousser,
                   afin de tenir l'œuvre serrée, comme l'on voit aux grandes eglises qui ont des
-                  Arcs-boutans et des pilliers boutans.</p>
+                  Arcs-boutans et des pilliers <ref target="#boutans">boutans</ref>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P172">
                   <hi rend="capitals">BOUTIQUE</hi>, c'est un lieu qui sert aux ouvriers pour
                   travailler, et aux marchands pour vendre</p>
@@ -14871,9 +14883,9 @@
                   l'autre, et les faire-tenir avec de la soudure. <hi rend="it">Voyez page</hi> 218. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P188">
                   <hi rend="capitals">BRAYERS</hi>. On appelle ainsi parmy les maçons les cordages
-                  qui élevent le <hi rend="it">bouriquet. V.</hi>
-                  <hi rend="capitals">BOURIQUET</hi>. <hi rend="it">Voyez aussi page</hi> 80. Pl.
-                  XI.</p>
+                  qui élevent le <hi rend="it"><ref target="#bouriquet">bouriquet</ref>. V.</hi>
+                  <hi rend="capitals"><ref target="#bouriquet">BOURIQUET</ref></hi>. <hi rend="it"
+                     >Voyez aussi page</hi> 80. Pl. XI.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P189">
                   <hi rend="capitals">BRECHE</hi>. L'on nomme ainsi une espece de marbre qui se tire
                   des <placeName ref="#Pyrenees">Pyrennées</placeName>.</p>
@@ -15263,13 +15275,14 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P65">
                   <hi rend="capitals"> Caryatides </hi>. Ce sont des Figures de femmei vvestues de
                   longues robes, et dont l'on se sert dans quelques bastimens, au lieu de colonnes.
-                  Il faut lire Vitruve l.1.c.1. pour voir la raison que les Anciens ont eue de s'en
-                  servir, et de quelle maniere ils en usoient. Athenée dit que d'une main elles
-                  soustenoient le fardeau dont elles estoient chargées, et qu'elles laissoient aller
-                  l'autre main en has. Celles qui portoient des panniers ou corbeilles se nommoient
-                  Caniferæ, Cistifera. Il y a apparence que les Anciens en ont representé de
-                  plusieurs façons, et que l'on a donné à toutes le nom de Caryatides, à cause des
-                  premieres qui furent faites. Voyez pag.33 36.Pl.VIl. </p>
+                  Il faut lire <persName ref="#Vitruve">Vitruve</persName> l.1.c.1. pour voir la
+                  raison que les Anciens ont eue de s'en servir, et de quelle maniere ils en
+                  usoient. Athenée dit que d'une main elles soustenoient le fardeau dont elles
+                  estoient chargées, et qu'elles laissoient aller l'autre main en has. Celles qui
+                  portoient des panniers ou corbeilles se nommoient Caniferæ, Cistifera. Il y a
+                  apparence que les Anciens en ont representé de plusieurs façons, et que l'on a
+                  donné à toutes le nom de Caryatides, à cause des premieres qui furent faites.
+                  Voyez pag.33 36.Pl.VIl. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P66">
                   <hi rend="capitals"> Cascade </hi>, ou Cascate. L'on nomme ainsi lesendroits où il
                   y aune cheute d'eau, soit que le lieu et la chute d'eau soit naturelle, soit
@@ -15387,7 +15400,7 @@
                   piedroits. Ce qu'on nonme Chaisne dans les murailles n'est pas toujours fait avec
                   des pierres de taille; car qudquefois elles ne sont que de <pb n="517"/> CH 517
                   mouellon ou de caillou maçonné à chaux et à sable lorsque les murs sont de moindre
-                  matiere. Orthostatæ. Vitruvel.2..8. </p>
+                  matiere. Orthostatæ. <persName ref="#Vitruve">Vitruve</persName> l.2..8. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P99">
                   <hi rend="capitals"> Chaisnette </hi>, petite chaisne faire de plusieurs an neaux
                   de fer, ou autre metail. </p>
@@ -15406,7 +15419,8 @@
                   <hi rend="capitals"> Chambre </hi>, de cambrer, et courber, à cause des voutes:
                   mais l'on appelle indifferemment chambres, celles qui sont voutées, et celles qui
                   ont un plancher ou lambris plat. Les Grres appelloient leurs chambres à coucher
-                  Thalamus ; et les antichambres, Antithalamus. Vitruvel.6.c.10. </p>
+                  Thalamus ; et les antichambres, Antithalamus. <persName ref="#Vitruve"
+                     >Vitruve</persName> l.6.c.10. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P104">
                   <hi rend="capitals"> Chamfrain </hi> ; chamfrainer un morceau de bois c'est le
                   couper en sorte que s'il est quarré comme le bord d'une planche, on abbate une des
@@ -15698,10 +15712,11 @@
                   cæmentum ne s'entend pas de nostre ciment à faire du mortier, qui est de la tuile
                   cassée, mais de leur maniere de maçonner, et de la qualité de la pierre qu'ils
                   employoient, comme lorsqu'on remplit des voutes ou des murs avec du mouellon ou
-                  blocage. L'on peut voir Vitruvel.1.c.5.M. Per. sur le 4. cdu 2.I. de <persName
-                     ref="#Vitruve">Vitruve</persName>, explique signinum pour nostre ciment ; parce
-                  qu'en effet <persName ref="#Pline">Pline</persName> liv.35.c.12. dit que le
-                  signinum estoit fait avec des tuiles cassées et de la Chaux. </p>
+                  blocage. L'on peut voir <persName ref="#Vitruve">Vitruve</persName> l.1.c.5.M.
+                  Per. sur le 4. cdu 2.I. de <persName ref="#Vitruve">Vitruve</persName>, explique
+                  signinum pour nostre ciment ; parce qu'en effet <persName ref="#Pline"
+                     >Pline</persName> liv.35.c.12. dit que le signinum estoit fait avec des tuiles
+                  cassées et de la Chaux. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P182">
                   <hi rend="capitals"> Cinabre </hi>. Il y en a de differentes especes: il faut <pb
                      n="527"/> 527 voir le P. Ber. Cxsius l.2.c.4. de mineralib. La couleur que les
@@ -15772,7 +15787,8 @@
                   y en a qu'on nomme de Cisclure. <hi rend="it">V. p.</hi>333. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P204">
                   <hi rend="capitals"> Cisterne </hi>, c'est un reservoir d'eau. On peut voir la
-                  maniere de faire les cisternes dans Vitruvel.8.c.7. </p>
+                  maniere de faire les cisternes dans <persName ref="#Vitruve">Vitruve</persName>
+                  l.8.c.7. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P205">
                   <hi rend="capitals"> Citadelle. <hi rend="it">V. p.</hi>89. </hi>
                </p>
@@ -15935,9 +15951,9 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P247">
                   <hi rend="capitals"> Colombier </hi>, c'est le lieu destiné pour des pigeons. La
                   difference qu'il y a entre un Golombier et une Voliere, est que dans le premier
-                  les boulins sont dés le rez de chaussée ; ce qui n'est pas ainsi dans les
-                  Volieres, si ce n'est celles qu'on appelle Voliere à pied, qui est la mesme chose
-                  que Colombier. Le droit de Colombier est un droit Seigneurial. </p>
+                  les <ref target="#boulin">boulins</ref> sont dés le rez de chaussée ; ce qui n'est
+                  pas ainsi dans les Volieres, si ce n'est celles qu'on appelle Voliere à pied, qui
+                  est la mesme chose que Colombier. Le droit de Colombier est un droit Seigneurial. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P248">
                   <hi rend="capitals"> Colonne </hi> vient de Columen, qui signifie le Poinçon, ou
                   piece de bois qui se pose à plomb, et qui dans un bastiment en soustient le
@@ -16065,7 +16081,8 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P286">
                   <hi rend="capitals"> Contre-coeur </hi> d'une cheminée. V.CHEMINEE. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P287">
-                  <hi rend="capitals"> Contre-boutans. V. boutans. </hi>
+                  <hi rend="capitals"> Contre-boutans. V. <ref target="#boutans">boutans</ref>.
+                  </hi>
                </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P288"> COnTRE-FICHES. Ce sont deux pieces de
                   bois qui en arboutent ou lient d'autres, comme il y en a d'ordinaire dans la
@@ -16396,7 +16413,7 @@
                   <hi rend="capitals"> Coyaux </hi>. Ce sont des pieces de bois, ou petits bouts de
                   chevrons, qui soustiennent et conduisent la couverture d'une maison jusqu'au bord
                   de l'entablement pour luy donner la pente necessaire à la cheute des eaux.
-                  Vitruvel.6.c.3. les nomme deliquiæ. </p>
+                     <persName ref="#Vitruve">Vitruve</persName> l.6.c.3. les nomme deliquiæ. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P386">
                   <hi rend="capitals"> Coyers </hi>, ce sont des pieces de bois servant à la
                   couverture d'un bastiment. Elles posent aux coins rentrans de l'edifice d'un
@@ -16424,7 +16441,8 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P393">
                   <hi rend="capitals"> Craye </hi>, matiere à faire des crayons, et dont l'on se
                   sert dans la composition de plusieurs couleurs à peindre. Ies Anciens en avoient
-                  qu'ils nommoient Eretrienne, d'autre Selinusienne, ou Annulaire. Vitruve l.7.C.14. </p>
+                  qu'ils nommoient Eretrienne, d'autre Selinusienne, ou Annulaire. <persName
+                     ref="#Vitruve">Vitruve</persName> l.7.C.14. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P394">
                   <hi rend="capitals"> Crayons </hi> pour desseigner, qui sont ou de craye blanche
                   pour rehausser, ou de pierre noire pour ombrer, ou de sanguinc. On dit le premier
@@ -16553,9 +16571,10 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P436"> CuVETTE de plomb qui recoit l'eau des
                   chesneaux qui sonbau tour des couvertures, et d'où elle tombe ensuite dans des
                   tuyaux ou canaux de plomb. Ces Cuvettes peuvent estre? prises aussi-bien que le
-                  Chesnequ pour ce que Vitruvel.6.c.3 appelle Compluvium, qui selon Festus signisie
-                  un lieu qui recoit <pb n="552"/> les eaux de la pluye. Il y a des Cuvettes
-                  quarrées et d'autres à entonnoir. <hi rend="it">V. p.</hi>147.150. Pl. XXIIl. </p>
+                  Chesnequ pour ce que <persName ref="#Vitruve">Vitruve</persName> l.6.c.3 appelle
+                  Compluvium, qui selon Festus signisie un lieu qui recoit <pb n="552"/> les eaux de
+                  la pluye. Il y a des Cuvettes quarrées et d'autres à entonnoir. <hi rend="it">V.
+                     p.</hi>147.150. Pl. XXIIl. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P437">
                   <hi rend="capitals"> Cvlindre </hi>, c'est une figure ronde et longue comme une
                   Colonne. </p>
@@ -16610,8 +16629,8 @@
                   <hi rend="capitals"> De </hi>, c'est un corps également quarré dans les six faces
                   qui' le composent. On appelle Dé le milieu des A aa4 <pb n="554"/> piedestaux,
                   c'est-à-dire la partie qui est entre leur base et leur corniche, à cause qu'elle
-                  est souvent de forme cubique, comme un Dé. C'est ce que Vitruve l.3.c.3. nomme
-                  Truncus. </p>
+                  est souvent de forme cubique, comme un Dé. C'est ce que <persName ref="#Vitruve"
+                     >Vitruve</persName> l.3.c.3. nomme Truncus. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreD_P5"> Du DE', pieces de vitres. <hi rend="it"
                      >V. p.</hi>270.Pl. XLII. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreD_P6">
@@ -16848,8 +16867,8 @@
                   quoy que ces Figures puissent estre mal proportionnées, et qu'il y ait beaucoup
                   d'autres deffauts dans le reste de la composition. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreD_P65"> Dis posITION d'un bastiment. L'idée de
-                  la disposition de l'Architecture selon Vitruve l.1.C.2.consiste mdans lé plan,
-                  dans l'élevation, et dans le profil. </p>
+                  la disposition de l'Architecture selon <persName ref="#Vitruve">Vitruve</persName>
+                  l.1.C.2.consiste mdans lé plan, dans l'élevation, et dans le profil. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreD_P66">
                   <hi rend="capitals"> Distribution </hi>, en termes d'Architecture, est une
                   division, et commode dispensation des lieux qui composent un bastiment ; et aussi
@@ -17065,12 +17084,13 @@
                   <persName ref="#VincenzoScamozzi">Scamozzi</persName> donne aux murs de quatre
                   pieds d'épaislseur, cinq pieds au plus, à la largeur des fondemens, ou quatre
                   pieds deux tiers au moins. De Lorme en donne davantage ; car si le mur est de deux
-                  pieds, il fait l'Empatement de trois pieds ; ce que Vitruvel.3.c.3.ordonne aussi
-                  pour les murs qui sont au dessous des colonnes, qu'il dit devoir estre plus larges
-                  de la moitié. <persName ref="#AndreaPalladio">Palladio</persName> donne encore
-                  plus de largeur aux fondemens, car il veut qu'ils ayent le double du mur. Et
-                     <persName ref="#VincenzoScamozzi">Scamozzi</persName> dans les grosses tours,
-                  leur donne trois fois la largeur du mur. </p>
+                  pieds, il fait l'Empatement de trois pieds ; ce que <persName ref="#Vitruve"
+                     >Vitruve</persName> l.3.c.3.ordonne aussi pour les murs qui sont au dessous des
+                  colonnes, qu'il dit devoir estre plus larges de la moitié. <persName
+                     ref="#AndreaPalladio">Palladio</persName> donne encore plus de largeur aux
+                  fondemens, car il veut qu'ils ayent le double du mur. Et <persName
+                     ref="#VincenzoScamozzi">Scamozzi</persName> dans les grosses tours, leur donne
+                  trois fois la largeur du mur. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P41">
                   <hi rend="capitals"> Emplecton </hi>, espece de Maçonnerie. Voyez MACONNERIE. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P42">
@@ -17315,11 +17335,11 @@
                   la longueur, et en l'autre la largeur des pierres lors qu'on les taille. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P111"> Les Macons appellent aussi Eschasses
                   les pieces de bois debout dont ils se servent pour faire portet d'auttes pieces de
-                  bois, qu'ils nomment boulins, et qu'ils mettent dans les murs pour servir à
-                  s'échaffauder. Quand ce sont de grandes perches ou autres pieces de bois,
-                  ausquelles sont attachez plusieurs boulins les uns au dessus des autres, ils
-                  appellent cela des Baliveaux; et les cordages avee quoy ils les attachent
-                  s'appellent Chablots. <pb n="576"/>
+                  bois, qu'ils nomment <ref target="#boulin">boulins</ref>, et qu'ils mettent dans
+                  les murs pour servir à s'échaffauder. Quand ce sont de grandes perches ou autres
+                  pieces de bois, ausquelles sont attachez plusieurs <ref target="#boulin"
+                     >boulins</ref> les uns au dessus des autres, ils appellent cela des Baliveaux;
+                  et les cordages avee quoy ils les attachent s'appellent Chablots. <pb n="576"/>
                </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P112"> EscupuiER, ou Rancher d'un Engin. <hi
                      rend="it">V. p.</hi>126. 138.Pl.XX. </p>
@@ -17374,8 +17394,8 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P130"> EscuME de fer. <hi rend="it">V.
                      p.</hi>442. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P131"> EsCusSONS et Platines pour orner les
-                  heurtoirs, les boucles, les boutons, et les entrées des serrures. <hi rend="it">V.
-                     p.</hi>210.234. Pl.XXXIV. </p>
+                  heurtoirs, les <ref target="#boucles">boucles</ref>, les boutons, et les entrées
+                  des serrures. <hi rend="it">V. p.</hi>210.234. Pl.XXXIV. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P132">
                   <hi rend="capitals"> Esfumer </hi>, ou Effumer, en terme de Peinture qui signifie
                   peindre une chose legerement. </p>
@@ -17540,7 +17560,8 @@
                   les roues. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P179">
                   <hi rend="capitals"> Estable </hi>, stabulum ; c'est un nom commun dans la
-                  campagne, pour tout ce qui sert à loger les Animaux. On peut voit Vitruvel.6.c.9. </p>
+                  campagne, pour tout ce qui sert à loger les Animaux. On peut voit <persName
+                     ref="#Vitruve">Vitruve</persName> l.6.c.9. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P180">
                   <hi rend="capitals"> Establie </hi>, c'est une espece de table qui sert
                   actuellement à plusieurs Ouvriers, à poser leurs outils ; ordonner et travailler
@@ -17642,12 +17663,13 @@
                   que l'on fait avec le Sergens. Voyez p.173.180.Pl. XXX. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P209">
                   <hi rend="capitals"> Estrier. C </hi> 'est une batre de fer ployée quarrément en
-                  deux endroits, pour servir comme les Boulons, à soustenir une poutre, et à
-                  l'attacher à un Poinçon. La difference qu'il y a entre l'Estrier et le Boulon,
-                  est que l'Estrier est d'un fer plat qui embrasse et accole la poutre ; Et le
-                  Boulon est comme une cheville ronde qui passe au travers de la poutre, et qui la
-                  soustient par le moyen d'une grosse teste qui est au bout. <hi rend="it">Voyez
-                     page</hi> 206. </p>
+                  deux endroits, pour servir comme les <ref target="#boulons">boulons</ref>, à
+                  soustenir une poutre, et à l'attacher à un Poinçon. La difference qu'il y a
+                  entre l'Estrier et le <ref target="#boulons">boulon</ref>, est que l'Estrier est
+                  d'un fer plat qui embrasse et accole la poutre ; Et le <ref target="#boulons"
+                     >boulon</ref> est comme une cheville ronde qui passe au travers de la poutre,
+                  et qui la soustient par le moyen d'une grosse teste qui est au bout. <hi rend="it"
+                     >Voyez page</hi> 206. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P210"> ESTRESILLONs, ce sont des morceaux de
                   bois que l'on met pour contrebouter les ais ou dosses qui serEccc <pb n="586"/>
                   vent à soustenir les terres,lorsque l'on fait des. fondemens ou des voutes. L'on
@@ -18010,8 +18032,8 @@
                      p.</hi>345.356.Pl.LV. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P88">
                   <hi rend="capitals"> Fleaux </hi>. On nomme ainsi les Barres de fer qui tournent
-                  sur un Boulon, et qui servent à fermer les grandes Portes. <hi rend="it">V.
-                     p.</hi>207.232. Pl. XXXIIl. </p>
+                  sur un <ref target="#boulon1">boulon</ref>, et qui servent à fermer les grandes
+                  Portes. <hi rend="it">V. p.</hi>207.232. Pl. XXXIIl. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P89"> FLEAUx des Vitriers ; ce sont certains
                   crochets sur lesquels ils portent les panneaux de verre quand ils vont en ville.
                      <hi rend="it">V. p.</hi>272. Pl.XLIII. </p>
@@ -18167,8 +18189,9 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P137">
                   <hi rend="capitals"> Fraisque </hi>, ou Fresque. On appelle peindre à Fraisque <pb
                      n="601"/> FR. 6O1 que lorsqu'on peint sur un enduit de mortier tout frais, avec
-                  des couleurs détrempées seulement avec de l'eau. VitruveL.7.c.3appelle udo
-                  tectorio, ce que les Italiens disent à Fresco.V.p.397. </p>
+                  des couleurs détrempées seulement avec de l'eau. <persName ref="#Vitruve"
+                     >Vitruve</persName> l.7.c.3appelle udo tectorio, ce que les Italiens disent à
+                  Fresco.V.p.397. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P138">
                   <hi rend="capitals"> Franc-liais </hi>, espece de pierre.V. p.95. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P139">
@@ -18820,7 +18843,8 @@
                   dessus de la porte. C'est une table large que l'on met aux portes Doriques, au
                   dessus du chambranle, en forme de frise. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreH_P46"> HrPOcAVSTVM ; fourneau souterrain
-                  servant à chauffer l'eau des bains. Vitruvel.5.C.10. </p>
+                  servant à chauffer l'eau des bains. <persName ref="#Vitruve">Vitruve</persName>
+                  l.5.C.10. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreH_P47"> HrPOTRACHELIVM Dans VitruveI.3.c.2.
                   c'est le haut de la colonnc, et l'endroit le plus menu qui touche au chapiteau. On
                   l'appelle diminution, retressissement, retraite, ceinture v TaγNoo, sub collum.
@@ -18872,7 +18896,7 @@
                   <hi rend="capitals"> Iarets </hi>. Lorsqu'une Voute n'est pas égale dans sa
                   rondeur, soit dans les Arcs, soit dans le Pendentif, on dit qu'il y a des Jarets ;
                   De mesme dans d'autres Ouvrages, quand il y a de l'inégalité ou quelque <ref
-                     target="#Bosse">bosse</ref>, on dit cela fait le Jaret. V. VOUTE. </p>
+                     target="#bosse">bosse</ref>, on dit cela fait le Jaret. V. VOUTE. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettresIJ_P12">
                   <hi rend="capitals"> Iaspe </hi>, espece de marbre. Il y en a de diverses sortes,
                   qui empruntent leurs noms des lieux où ils se trouvent, et de la ressemblance
@@ -18920,12 +18944,13 @@
                   <hi rend="capitals"> Image </hi>. On dit l'Image d'un Saint ; mais d'ordinaire on
                   ne dit pas l'lmage du Roy, ny l'lmage d'un tel, on dit son Portrait ; Et lorsque
                   c'est de la Sculpture, on dit sa Figure, sa Statue. Cependant les Anciens se
-                  servoient indifferemment du mot Imago. Car quand Vitruve l.6.c.4. fait mention des
-                  Portraits de cire dont ils ornoient les Vestibules de leurs maisons, il employe le
-                  nom d'Images, et non pas de Statues ; parceque c'estoit les Portraits au mturel de
-                  leurs Ancestres, qu'ils estaloient ordinpirement dans ces lieux-là, non pas
-                  d'autres Statues indifferentes. Mais parmy nous le nom d'Image semble <pb n="624"
-                  /> estre consacré aux choses saintes. </p>
+                  servoient indifferemment du mot Imago. Car quand <persName ref="#Vitruve"
+                     >Vitruve</persName> l.6.c.4. fait mention des Portraits de cire dont ils
+                  ornoient les Vestibules de leurs maisons, il employe le nom d'Images, et non pas
+                  de Statues ; parceque c'estoit les Portraits au mturel de leurs Ancestres, qu'ils
+                  estaloient ordinpirement dans ces lieux-là, non pas d'autres Statues
+                  indifferentes. Mais parmy nous le nom d'Image semble <pb n="624"/> estre consacré
+                  aux choses saintes. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettresIJ_P25"> Le mot d'IMAGE signifie aussi parmy
                   le peuple toutes sortes d'Estampes. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettresIJ_P26">
@@ -19114,7 +19139,8 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P21">
                   <hi rend="capitals"> Lanterne </hi>, ou pignon. V. PIGNON. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P22">
-                  <hi rend="capitals"> Lanusure </hi>. <hi rend="it">Voyez</hi> BOURSEAU. </p>
+                  <hi rend="capitals"> Lanusure </hi>. <hi rend="it">Voyez</hi>
+                  <ref target="#Bourseau1">BOURSEAU</ref>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P23">
                   <hi rend="capitals"> La pis </hi> lazuli. Voyez OUTREMER. AZUR. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P24"> LAQuE, couleur pour peindie. <hi
@@ -19505,11 +19531,11 @@
                   <hi rend="capitals"> Machine. C </hi> 'est l'assemblage de plusieurs pieces
                   jointes ensemble, et tellement disposées, qu'elles peuvent servir à augmenter ou à
                   diminuer les forces mouvantes, selon les differents usages ausquels on les
-                  applique dans la guerre, dans l'Architecture et dans les autres Arts.
-                  Vitruvel.10.c.1. met cette difference entre Machine et Organe ou Instrument,
-                  qu'Instrument est simple et d'une seule piece, tel qu'est un marteau, un levier,
-                  un coin, un roulcau ; et que Machine est composée de plusieurs pieceg) comme un
-                  Pressoir, un Moulin, etc. </p>
+                  applique dans la guerre, dans l'Architecture et dans les autres Arts. <persName
+                     ref="#Vitruve">Vitruve</persName> l.10.c.1. met cette difference entre Machine
+                  et Organe ou Instrument, qu'Instrument est simple et d'une seule piece, tel qu'est
+                  un marteau, un levier, un coin, un roulcau ; et que Machine est composée de
+                  plusieurs pieceg) comme un Pressoir, un Moulin, etc. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P4"> Les MACHINES dont les Anéiens se
                   servoient dans la guerre pour assieger les places, estoient led Scorpions, les
                   Catapultes, les Ballistes, les Beliers, les Tortues) et les <placeName
@@ -19903,9 +19929,10 @@
                   Fronton, les '<ref target="#acroteres">Acroteres</ref> et les autres ornemens
                   qu'on met pout servir d'amorrissemens, doivent estre penchez en devant parle haut,
                   de la douziéme partie de leur hauteur, pout faire un plus bel effet à la veue.
-                  Vitruvel.3.c.3. </p>
+                     <persName ref="#Vitruve">Vitruve</persName> l.3.c.3. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P106">
-                  <hi rend="capitals"> Membron </hi>. <hi rend="it">Voyez</hi> BOURSEAU. </p>
+                  <hi rend="capitals"> Membron </hi>. <hi rend="it">Voyez</hi>
+                  <ref target="#Bourseau1">BOURSEAU</ref>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P107">
                   <hi rend="capitals"> Membrures </hi>. Ce sont de grosses pieces de bois refendues.
                   Lat. Asseres. </p>
@@ -20022,8 +20049,9 @@
                   rouge.V.p.442. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P131">
                   <hi rend="capitals"> Meurtrir </hi> lé marbre, c'est lorsqu'on le frappe à plomb
-                  ave le bout de quelque outil, comme quand on travaille avec la boucharde. V.
-                  BOUCHARDE. </p>
+                  ave le bout de quelque outil, comme quand on travaille avec la <ref
+                     target="#boucharde">boucharde</ref>. V. <hi rend="capitals"><ref
+                        target="#boucharde">BOUCHARDE</ref></hi>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P132">
                   <hi rend="capitals"> Mezanines </hi>, ce mot n'est guere en usage parmy nous ;
                   quelques-uns s'en servent à l'exemple des Italiens, qui nomment ainsi les
@@ -20653,9 +20681,10 @@
                   non pas composée. Les Latins l'appellentauripigmentum, à cause qu'elle est jaune
                   comme l'or. L'on s'en sert en peinture, mais rarement ; car tenant de l'arsenic et
                   estant la mesme matiere selon quelque-uns, il est dangereux de s'en servir.
-                  Vitruve l.7.C.7. la nomme arsenicon ; L'arsenic des Anciens estoit un mineral d'un
-                  jaune doré, au lieu que le nostre est artificiel, estant fait d'orpin ou arsenic
-                  naturel cuit avec du sel, et reduit en cristal. <hi rend="it">Voyez page</hi> 4I1. </p>
+                     <persName ref="#Vitruve">Vitruve</persName> l.7.C.7. la nomme arsenicon ;
+                  L'arsenic des Anciens estoit un mineral d'un jaune doré, au lieu que le nostre est
+                  artificiel, estant fait d'orpin ou arsenic naturel cuit avec du sel, et reduit en
+                  cristal. <hi rend="it">Voyez page</hi> 4I1. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreO_P41">
                   <hi rend="capitals"> Orthographie </hi>. Ce mot signifie une description droite.
                   Car Orthos en grec veut dire droit. C'est dans cette maniere de desseigner les
@@ -21080,7 +21109,7 @@
                   principales parties, sçavoir de la Corniche, du Dé, et de la Baze.V. STVLOBATE. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P99"> PIEDoUcHE de marbre ou d'autré
                   matiere. L'on appelle ainsi un pied qui sert comme de petit pied'estal à porter un
-                  Buste ou quelque petite figure de ronde <ref target="#Bosse">bosse</ref>: </p>
+                  Buste ou quelque petite figure de ronde <ref target="#bosse">bosse</ref>: </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P100">
                   <hi rend="capitals"> Piedroits </hi>. Orthostatæ, prostas, parastas. Vitruve </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P101">
@@ -21274,8 +21303,8 @@
                   est percée en anneau. Fibula. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P152"> PIsTON. On appelle ainsi la partie
                   des pompes qui entrent dans le tuyau, ou corps de pompe ; et qui estant levée ou
-                  poussée aspire, ou pousse l'eau ou l'air. Vitruve l.10.C.13. les nomme funduli
-                  ambulatiles ; Emboli. </p>
+                  poussée aspire, ou pousse l'eau ou l'air. <persName ref="#Vitruve"
+                     >Vitruve</persName> l.10.C.13. les nomme funduli ambulatiles ; Emboli. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P153"> Pivor. C'est un morceau de fer, ou
                   d'autre metal dont le bout est arrondy en pointe pour tourner facilement dans une
                   crapaudine, ou dans une virole. <hi rend="it">V. p.</hi> 207.231. Pl. XXXIII. </p>
@@ -21302,11 +21331,11 @@
                   <hi rend="capitals"> Plafond </hi>, ou Sofit. Lat. lacunar. La difference des
                   sofits et plafonds, d'avec les voutes est que ceux-là sont plats, et celles-cy
                   sont cintrées. Les enfoncemens ou cavitez qui se rencontrent dans les plafonds
-                  sont appellez par Vitruvel.6.c.4.Arca. Il nomme aussi quelquefois Planitie les
-                  plafonds des planchers, où de la saillie des corniches. Car on dit le plafond ou
-                  sofit d'une corniche. Il'y a certains espaces au plafond de la corniche Dorique,
-                  entre les modillons, et les gouttes qui sont au dessus des triglyphes, que Vitruve
-                  nomme chemins, l.4.C.3. </p>
+                  sont appellez par <persName ref="#Vitruve">Vitruve</persName> l.6.c.4.Arca. Il
+                  nomme aussi quelquefois Planitie les plafonds des planchers, où de la saillie des
+                  corniches. Car on dit le plafond ou sofit d'une corniche. Il'y a certains espaces
+                  au plafond de la corniche Dorique, entre les modillons, et les gouttes qui sont au
+                  dessus des triglyphes, que Vitruve nomme chemins, l.4.C.3. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P163">
                   <hi rend="capitals"> Plaines </hi>, ou Planes pour dresser le bois. C'est un outil
                   de fer qui a deux manches. On dit planir le bois, lors qu'on le dresse avec ces
@@ -21440,9 +21469,9 @@
                   piece de bois qui est toute droite sous le faiste d'un bastiment, et qui sert pour
                   l'assemblage des fermes faistes ou sousfaistes. Ou bien encore quand elle aide a
                   suspendre un tirant ou une poutre qui a trop grande portée ; En ce cas on attache
-                  au poinçon une soupente de fer, un boulon, ou un esfrier. Dans la fabrique des
-                  ponts de bois on se sert aussi de Poinçons qu'on nomme quelquefois poleaux
-                  montans, ou supports: <hi rend="it">V. p.</hi>118. </p>
+                  au poinçon une soupente de fer, un <ref target="#boulons">boulon</ref>, ou un
+                  esfrier. Dans la fabrique des ponts de bois on se sert aussi de Poinçons qu'on
+                  nomme quelquefois poleaux montans, ou supports: <hi rend="it">V. p.</hi>118. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P199"> POINcON d'un engin. <hi rend="it">V.
                      p.</hi>126. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P200"> PoINcON pour les monnoyes ou
@@ -21535,7 +21564,7 @@
                   des poinçons ou montans qui servent aussi de gardefous, et qui <pb n="704"/> sont
                   assemblez aux grosses poutres avec des clefs ou harpons de fer, ou bien qui se
                   tiennent par le moyen des liens et contrefiches qui arboutent. Les poinçons
-                  doivent estre garnis de <ref target="#Bossage">bossage</ref> en haut et en bys, et
+                  doivent estre garnis de <ref target="#bossage">bossage</ref> en haut et en bys, et
                   au bout des contrefiches et liens, qui sont des pieces de bois qu'on appelle aussi
                   bras et contrevents, qui servent à arbalester toute la charpente ; en sorte qu'en
                   se contreboutant tout l'assemblage se maintient avec force et fermeté. On peut
@@ -21708,10 +21737,10 @@
                   <hi rend="capitals"> Pousse'e </hi>. On appelle la poussée d'une voute, l'effort
                   qu'elle peut faire par sa pesanteur contre les murs qui la soutiennent. Faire le
                   trait des poussées des voutes ; C'est chercher et marquer les espaisseurs que
-                  doivent avoir les murs et les pilliers boutans, qui sont des corps saillans,
-                  lesquels portent et appuyent les voutes ausquelles on donne plus de poussée,
-                  c'est-à-dire qu'on fortifie par des murs plus espais, selon qu'elles sont
-                  davantage surbaissées dans leur cherche ou cintre. </p>
+                  doivent avoir les murs et les pilliers <ref target="#boutans">boutans</ref>, qui
+                  sont des corps saillans, lesquels portent et appuyent les voutes ausquelles on
+                  donne plus de poussée, c'est-à-dire qu'on fortifie par des murs plus espais, selon
+                  qu'elles sont davantage surbaissées dans leur cherche ou cintre. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P280"> POUsSOLANE. Voyez SABLE. <hi
                      rend="it">V. p.</hi> 398. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P281">
@@ -22190,14 +22219,14 @@
                   <hi rend="capitals"> Ressort </hi> double, ou à pied. <hi rend="it">Id.</hi>
                </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P98">
-                  <hi rend="capitals"> Ressort </hi> à boudin espece de ressort pour les Serrures.
-                     <hi rend="it">V. p.</hi>216. </p>
+                  <hi rend="capitals"> Ressort </hi> à <ref target="#boudin2">boudin</ref> espece de
+                  ressort pour les Serrures. <hi rend="it">V. p.</hi>216. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P99">
                   <hi rend="capitals"> Ressort </hi> de chien. <hi rend="it">Id.</hi>
                </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P100">
-                  <hi rend="capitals"> Ressort </hi> à boudin qui sert à faire que les por. tes se
-                  puissent fermer toutes seules. Voyez pag.110. </p>
+                  <hi rend="capitals"> Ressort </hi> à <ref target="#boudin2">boudin</ref> qui sert
+                  à faire que les por. tes se puissent fermer toutes seules. Voyez pag.110. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P101">
                   <hi rend="capitals"> Restaurer </hi> une Figure de bronze ou de marbre, c'est la
                   reparer dans ce qu'il y a de gasté. </p>
@@ -22624,7 +22653,7 @@
                   <hi rend="capitals"> Serrures </hi>. Il y en a de de differentes sortes. Voyez
                   p.210.234.Pl. XXXIV. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P48">
-                  <hi rend="capitals"> Serrure </hi> à <ref target="#Bosse">bosse</ref>. Voyez
+                  <hi rend="capitals"> Serrure </hi> à <ref target="#bosse">bosse</ref>. Voyez
                   p.212. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P49">
                   <hi rend="capitals"> Serrure </hi> Benarde, c'est quand elle ouvre des deux
@@ -22861,7 +22890,7 @@
                   circulaire, qui à mesure qu'elle toutne, s'esloigne toujours de son centre, comme
                   aux volutes et aux vis, où ces lignes tournent comme au tour d'un Cylindre. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P119">
-                  <hi rend="capitals"> Spire </hi>. Aftragale, <ref target="#Bosel">Bosel</ref>,
+                  <hi rend="capitals"> Spire </hi>. Aftragale, <ref target="#bosel">bosel</ref>,
                   Tore, sont souvent employez indifferemment par plusieurs Ouvriers et Architectes,
                   neantmoins il doit y avoir quelque difference. Car proprement Spire signifie la
                   Base entiere de la Colonne, à laquelle on a donné ce nom, à cause de la
@@ -22875,12 +22904,12 @@
                   <hi rend="capitals"> Stade </hi> ; Parmi les anciens Architectes le mot de Stade
                   signifie aussi un Edifice en maniere de Theatre fort long et courbé à chaque bout,
                   composé de plusieurs degrez, où se plaçoient ceux qui estoient Spectateurs de la
-                  course des Athletes. Vitruvel.5.c.11. </p>
+                  course des Athletes. <persName ref="#Vitruve">Vitruve</persName> l.5.c.11. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P122">
                   <hi rend="capitals"> Stampe </hi>. <hi rend="it">Voyez</hi> ESTAMPE. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P123">
                   <hi rend="capitals"> Statue </hi> de marbre ou de bronze etc ; c'est-à-dire une
-                  Figure de ronde <ref target="#Bosse">bosse</ref>.</p>
+                  Figure de ronde <ref target="#bosse">bosse</ref>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P124">
                   <hi rend="capitals"> Stente </hi> '. Les Peintres disent un Tableau stenté, <pb
                      n="743"/> 745 qui est fait avec peine et difficulté, du mot Italien Stentato. </p>
@@ -22913,10 +22942,11 @@
                   chap.3. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P131"> STUc. Le Stuc est fait avec du marbre
                   blanc bien broyé et sassé, et de la chaux. Ital. Stucco, qui vient de l'Allement
-                  Stucz qui signifie! fragment ou mor <pb n="744"/> ceau ; Vitruve l.7. ch. 6
-                  enseighe à fairele Stuc. Albarium opus est un ouvrage fait de Stuc selon l'opinion
-                  de quelques-uns, et que <persName ref="#Pline">Pline</persName> appelle aussi
-                  marmoratum. <hi rend="it">V. p.</hi> 340. </p>
+                  Stucz qui signifie! fragment ou mor <pb n="744"/> ceau ; <persName ref="#Vitruve"
+                     >Vitruve</persName> l.7. ch. 6 enseighe à fairele Stuc. Albarium opus est un
+                  ouvrage fait de Stuc selon l'opinion de quelques-uns, et que <persName
+                     ref="#Pline">Pline</persName> appelle aussi marmoratum. <hi rend="it">V.
+                     p.</hi> 340. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P132"> STUCATEUROuvrier qui travaille en
                   Stuc. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P133">
@@ -23180,7 +23210,7 @@
                      >Vitruve</persName> appelle aussi securicule à cause qu'ils ressemblent à de
                   petites coignées. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P60">
-                  <hi rend="capitals"> Terme </hi>, <ref target="#Borne">borne</ref>, limite. </p>
+                  <hi rend="capitals"> Terme </hi>, <ref target="#borne">borne</ref>, limite. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P61">
                   <hi rend="capitals"> Terni </hi> ; on dit un Tableau terni, dont les couleurs sont
                   passées </p>
@@ -23343,7 +23373,7 @@
                   appellez Tores, à cause de la ressemblance qu'ils ont avec le bord d'un lit ou
                   matelats, ou d'un bourlet, à la difference des petits anneaux qui dans la base
                   lonique sont nommez Astragales. Les ltaliens appellent le Tore, Baston ; nos
-                  Ouvriers, rond, ou <ref target="#Bosel">bosel</ref>. Les bases des colonnes
+                  Ouvriers, rond, ou <ref target="#bosel">bosel</ref>. Les bases des colonnes
                   Toscanes et Doriques, et mesme selon <persName ref="#Vitruve">Vitruve</persName>
                   des Ioniques n'ont qu'un Tore. Les bases Attiques ou Atticurges en ont deux, l'un
                   superieur, et l'autre inferieur ; celuy-cy a plus de grosseur que celuy de dessus.
@@ -23708,7 +23738,7 @@
                      >Voyez page</hi> 263. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P16">
                   <hi rend="capitals"> Verins </hi>, ce sont deux pieces de bois, qui ont un <ref
-                     target="#Bossage">bossage</ref> dans le milieu, et deux escrous à la piece de
+                     target="#bossage">bossage</ref> dans le milieu, et deux escrous à la piece de
                   dessus, dans laquelle il y a deux vis qui entrent. Gette machine sert pour
                   l'ordinaire à charger de grosses pieces dans des charettes, ou à relever quelque
                   logis avec un pointal, (c'est-à-dire une piece de bois que l'on met debout entre
@@ -24073,11 +24103,12 @@
                   d'antimoine ; c'est pourquoy il y en a qui le prennent pour de l'Estain de glace.
                      <hi rend="it">Voyez page</hi> 332. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreZ_P3">
-                  <hi rend="capitals"> Zocle </hi>. Vitruve l.3.c.3. le nomme quadra, parce que
-                  c'est un membre quarré sur lequel on pose quelque corps ; et qui luy sert comme de
-                  Plinthe, de Base ou de Piedestal. Le mot de Zocle est Italien, il vient du mot
-                  latin soccus qui signifie une fandale. Aussi dans l'Architecture cette partie sert
-                  à eslever le pied des Bastimens, comme sur des patins ou sandales. </p>
+                  <hi rend="capitals"> Zocle </hi>. <persName ref="#Vitruve">Vitruve</persName>
+                  l.3.c.3. le nomme quadra, parce que c'est un membre quarré sur lequel on pose
+                  quelque corps ; et qui luy sert comme de Plinthe, de Base ou de Piedestal. Le mot
+                  de Zocle est Italien, il vient du mot latin soccus qui signifie une fandale. Aussi
+                  dans l'Architecture cette partie sert à eslever le pied des Bastimens, comme sur
+                  des patins ou sandales. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreZ_P4">
                   <hi rend="capitals"> Yophore </hi> Voyez FRISE. FIN. </p>
             </div2>
