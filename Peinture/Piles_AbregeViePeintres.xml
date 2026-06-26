@@ -4073,7 +4073,7 @@
 						</objectName>luy inspira tout d'un coup. <ref target="#N4"/>Ce fut <persName
 							ref="#Bramante">Bramante</persName> son Ami qui <note xml:id="N4"> *
 								<persName ref="#GiovanniPietroBellori">Piétre Bellori</persName>
-							dans son Livre intitulé: <hi rend="it"><bibl key="">Descritioni delle
+							dans son Livre intitulé: <hi rend="it"><bibl key="belloriDescrizioneImmaginiDipinte1751">Descritioni delle
 									imagini <unclear>dipinte</unclear> d'a <persName ref="#Raphael"
 										>Raphaelle</persName> nelle Camere del Vaticano</bibl></hi>,
 							combat cette Histoire de toute sa force, et prétend que <persName
@@ -4083,7 +4083,7 @@
 								ref="#MichelAnge">Michelange</persName> et <persName ref="#Raphael"
 								>Raphaël</persName>, et, qui, bien loin d'avoir été contredit par
 							aucun Ecrivian de ces tems-là, se trouve soutenu en cela par trois
-							Auteurs qui ont écrit en particulier <bibl key="">la Vie de <persName
+							Auteurs qui ont écrit en particulier <bibl>la Vie de <persName
 									ref="#MichelAnge">Michelange</persName></bibl>. Mais ce qui est
 							une grande présomption, que <persName ref="#Raphael">Raphaël</persName>
 							ait voulu profiter des Ouvrages de <persName ref="#MichelAnge"
@@ -8795,7 +8795,7 @@
 						lumiere Céleste, qu'il a peinte au Tableau du <objectName
 							ref="#BernaertVanOrleyJugementDernierAnvers">Jugement
 							Universel</objectName> qui est à <placeName ref="#Anvers"
-							>Anvers</placeName>, dans la <objectName>Chapelle des
+							>Anvers</placeName>, dans la <objectName ref="CathedraleNotreDameAnvers">Chapelle des
 							Aumônes</objectName>. Il a fait quantité de Desseins de Tapisseries
 						pour l'<persName ref="#CharlesV">Empereur Charles V</persName>. et a eû le
 						principal soin de faire éxecuter <objectName
@@ -8895,9 +8895,8 @@
 						Pinceau, et c'est l'opinion la plus commune : c'est ainsi que son Epitaphe
 						le dit, et l'on voit quelques Epigrammes sur ce pied-là. On trouve beaucoup
 						de ses Tableaux à <placeName ref="#Anvers">Anvers</placeName>, et
-						entr'autres <objectName ref="#QuintenMetsysDescenteCroix">une descente de
-							Croix</objectName> dans l'<placeName ref="CathedraleNotreDameAnvers"
-							>Eglise de Nôtre-Dame</placeName>. Il ne faisoit ordinairement que des
+						entr'autres <objectName ref="#QuintenMetsysDeplorationOttawa">une descente de
+							Croix</objectName> dans <objectName ref="CathedraleNotreDameAnvers"> 'Eglise de Nôtre-Dame</objectName>. Il ne faisoit ordinairement que des
 						demi-Figures et des Portraits. Ainsi ses Ouvrages ayant été faciles à
 						transporter, <pb n="360"/> se sont dispersez de tous côtez dans les Cabinets
 						de l'<placeName ref="#Europe">Europe</placeName>. Sa maniére, qui n'avoit
@@ -8924,7 +8923,7 @@
 							<placeName ref="#Naples">Naples</placeName>, et y mourut en <date
 							when="1546">1546</date>. C'est luy qui a dessiné <objectName
 							ref="#JanStevenVanCalcarFabrica">les Figures anatomiques</objectName> du
-							<bibl>Livre de <persName ref="#AndreasVanWesel"
+							<bibl key="vesaleAndreaeVesaliiHumani1543">Livre de <persName ref="#AndreasVanWesel"
 						>Vesale</persName></bibl>, et les <objectName>Portraits des
 							Peintres</objectName> qui sont à la tête de leurs <bibl>Vies, que
 								<persName ref="#GiorgioVasari">Vasari</persName> a écrites</bibl>.
@@ -8956,16 +8955,16 @@
 						Marchands de <placeName ref="#Bruxelles">Bruxelles</placeName>, qui
 						l'engagerent au voyage de <placeName ref="#Constantinople"
 							>Constantinople</placeName> : mais ne trouvant rien à faire dans ce
-						païs-là que des <objectName ref="#PieterCoeckeVanAelstMartyreSaintPaul"
+						païs-là que des <objectName cert="low" xml:id="PieterCoeckeVanAelstTenture"
 							>Desseins de Tapis</objectName>, à cause que la Religion du païs ne
 						permet pas de représenter des Figures, il s'occupa a dessiner en son
 						particulier <pb n="362"/><objectName
-							ref="#PieterCoeckeVanAelstVoyageConstantinople">des Vuës des environs de
+							ref="#PieterCoeckeVanAelstVuesConstantinople">des Vuës des environs de
 								<placeName ref="#Constantinople"
-							>Constantinople</placeName></objectName>, et les façons de vivre des
-						Turcs, dont il nous a laissé les Estampes en bois, qui seules peuvent faire
+							>Constantinople</placeName></objectName>, et <objectName ref="#PieterCoeckeVanAelstMoeursFachonsDeFaireDeTurcz">façons de vivre des
+						Turcs, dont il nous a laissé les Estampes en bois</objectName> , qui seules peuvent faire
 						juger de son mérite. Dans cet Ouvrage il a fait <objectName
-							ref="#PieterCoeckeVanAelstVoyageConstantinople">son Portrait sous la
+							ref="#PieterCoeckeVanAelstAutoportraitEnTurc">son Portrait sous la
 							Figure d'un Turc qui est debout</objectName>, et qui montre au doigt un
 						autre Turc qui tient une Pique. Aprés son voyage de <placeName
 							ref="#Constantinople">Constantinople</placeName> il alla s'établir à
