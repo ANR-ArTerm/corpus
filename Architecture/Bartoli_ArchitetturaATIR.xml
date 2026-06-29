@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="fra">L'architettura tradotta in lingua fiorentina da Cosimo
+                <title xml:lang="ita">L'architettura tradotta in lingua fiorentina da Cosimo
                     Bartoli, con la aggiunta de disegni</title>
                 <respStmt>
                     <name>Emma Bondoerffer</name>
@@ -15,8 +15,8 @@
                     <resp>Balisage, Indexation</resp>
                 </respStmt>
                 <respStmt>
-                    <name>Carla Tricon</name>
-                    <resp>Identification des œuvres</resp>
+                    <name>Nicolò Zanolli</name>
+                    <resp>Correction, Balisage, Indexation, Identification des œuvres</resp>
                 </respStmt>
             </titleStmt>
             <editionStmt>
@@ -28,14 +28,14 @@
                 <date when="2028">2028</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm
-                        Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+                        Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <bibl>ATIR<author ref="http://ark.bnf.fr/ark:/12148/cb125520809">Bartoli<idno
                             type="ISNI">http://isni.org/isni/0000000122811371</idno>
                     </author>
-                    <title xml:lang="fra">L'architettura tradotta in lingua fiorentina da Cosimo
+                    <title xml:lang="ita">L'architettura tradotta in lingua fiorentina da Cosimo
                         Bartoli, con la aggiunta de disegni</title>
                     <publisher>Lorenzo Torrentino</publisher>
                     <pubPlace>Florence</pubPlace>
@@ -309,12 +309,12 @@
                         <corr>ove egli</corr>
                     </choice> habiti? Gli huomini da bene approvano et insieme si rallegrano, che tu
                     con lo haver fatto un muro o un portico bellissimo, et postovi ornamenti di
-                    Porte di Colonne, et di coperture, habbi fatto il fatto tuo, et il loro; per
+                    porte di colonne, et di coperture, habbi fatto il fatto tuo, et il loro; per
                     questo certo più che per altro, che <choice>
                         <sic>e'</sic>
                         <corr>ei</corr>
                     </choice> cognoscono che tu hai accresciuto con questo frutto delle tue riccheze
-                    a te al Casato, a descendenti et alla città tua molto di honore et di dignità.
+                    a te al casato, a descendenti et alla città tua molto di honore et di dignità.
                     Il <objectName>Sepolcro di <persName ref="#Jupiter"
                         >Giove</persName></objectName> diede principio a nobilitare la Isola di
                         <placeName ref="#Crete">Creta</placeName>, né <placeName ref="Delos"
@@ -708,7 +708,8 @@
                         mancasse cosa alcuna, che fusse di bisogno ad usarse. Per questo, più che
                         per altro, fece bene <persName ref="#AlexandreLeGrand">Alessandro</persName>
                         a non voler por la città sul monte Ato: se bene per la inventione, et
-                        disegno di <persName cert="low">Policrate</persName> Architettore doveva
+                        disegno di <choice><sic><persName>Policrate</persName></sic>
+                        <corr ref="#Dinocrate">Dinocrate</corr></choice> Architettore doveva
                         essere maravigliosa: percioché gli habitanti non harebbono havuta
                         abbondantia delle cose. Ad <persName ref="#Aristote">Aristotile</persName>
                         poteva forse piacere quella Regione, massimo nello edificare le cittadi,
@@ -857,7 +858,7 @@
                             <sic>e'</sic>
                             <corr>ei</corr>
                         </choice> porto loro aiuto si muoiano, medicano questa malattia con la
-                        medicina di <persName>Teofrasto</persName>, che diceva che quegli che erano
+                        medicina di <persName ref="#Theophraste">Teofrasto</persName>, che diceva che quegli che erano
                         morsi dalle Vipere, si guarivano con il sonare dei Pifferi. I Musici adunque
                         con vari suoni mitigano tale malattia, et quando poi pervengono a quel modo
                         di sonare che <choice>
@@ -1260,7 +1261,8 @@
                         del monte, una scarpa di spessi mezi cerchi, mettendo il dorso delle linee
                         torte, entro <pb n="24"/>nel monte. La quale muraglia oltra che ella è bella
                         a vedere, è ancora gagliardissima et ha rispetto alla spesa. Perché ella fa
-                        certo un muro non sodo tutto, ma tanto gagliardo, come se e'fosse sodo per
+                        certo un muro non sodo tutto, ma tanto gagliardo, come se 
+                        <choice><sic>e'</sic><corr>ei</corr> fosse sodo per
                         tutto con tanta larghezza quanta sono ivi le saette delle linee torte.
                         Piacemi ancora la oppenione di <persName ref="#Vitruve">Vitruvio</persName>,
                         la quale io veggho esser stata osservata dagli antichi architettori in
@@ -1354,13 +1356,10 @@
                         ei non si possa porre altrove, più comodamente. Né si deve porre, la parte
                         che dello edifitio ha da esser la più honorata, in luogo abbandonato; né
                         quella che deve essere la più publica, in luogo ascoso; né quella che deve
-                        essere privata, in luogo troppo scoperto. Aggiugni ancora, che <choice>
-                            <sic>e'</sic>
-                            <corr>ei</corr>
-                        </choice> si debbe havere rispetto, alle stagioni dei tempi; perché e'si
-                        debbe attribuire altre cose, nei luoghi caldi; et altre nei freddi:
-                        Percioché altre, altri siti, et altre grandezze ricercano. Se i luoghi per
-                        la State, saranno spatiosi, et larghi; et quegli dello Inverno raccolti; non
+                        essere privata, in luogo troppo scoperto. Aggiugni ancora, che e'si debbe havere 
+                        rispetto alle stagioni dei tempi, perché e'si debbe attribuire altre cose, nei luoghi 
+                        caldi et altre nei freddi. Percioché altre, altri siti, et altre grandezze ricercano. 
+                        Se i luoghi per la State, saranno spatiosi, et larghi; et quegli dello Inverno raccolti, non
                         saranno biasimati: Perché nei caldi si ricercano le ombre, et i venti; et
                         nei freddi i Soli. Et in questo bisogna avertire, che non intervengha, agli
                         abitanti di havere ad uscire di un luogo freddo et andarsene in l'altro
@@ -2036,7 +2035,7 @@
                             >Adriano</persName>, opere certo per ogni conto eterne. Niente di manco
                         noi veggiamo, è gia gran tempo, che per haver serrate le bocche dalla rena,
                         et ripieni i seni, sono interamente mancati, per lo assiduo combattimento
-                        del Mare, che senza riposo percontendoli, più l'un giorno che l'altro gli
+                        del mare, che senza riposo percontendoli, più l'un giorno che l'altro gli
                         vince. Che pensi tu adunque, che e'ti habbia a intervenire in questi luoghi,
                         dove tu ti sarai deliberato di contrastare, o di rimuovere del tutto gli
                         impeti delle acque, o il grandissimo incarco delle ripe che rovinano? Il che
@@ -2057,9 +2056,9 @@
                         et memoria dei suoi tempi, che si facesse fare un
                             <objectName>sepolcro</objectName> di spesa incredibile: Et se bene ella
                         con il suo meretricio guadagno si haveva procacciate ricchezze regali, ella
-                        però non fu degna di Sepolcro Regale. Ma per l'opposito, Io non biasimo già
+                        però non fu degna di sepolcro regale. Ma per l'opposito, Io non biasimo già
                             <persName ref="#ArtemiseII">Artemisia</persName> Regina di <placeName
-                            ref="#Carie">Caria</placeName>, per haver fatto al suo Carissimo et
+                            ref="#Carie">Caria</placeName>, per haver fatto al suo carissimo et
                         dignissimo <persName ref="#Mausole">consorte</persName> il suntuosissimo
                             <objectName ref="#MausoleeHalicarnasse">sepolcro</objectName>. Ancora
                         che io in queste cose, lodo certo la modestia. <persName ref="#Horace"
@@ -2229,18 +2228,18 @@
                         truovo alcuni, che sopra di ciò sono di vari pareri. Alcuni dicono che gli
                         huomini da principio habitarono nelle spelonche, et che essi, et i bestiami
                         loro, furono difesi da una medesima copertura, et per ciò credono quel che
-                        dice <persName ref="#Pline">Plinio</persName>, che <persName cert="low"
-                            >Gellio Tassio</persName> fosse il primo, che ad imitatione della
+                        dice <persName ref="#Pline">Plinio</persName>, che <persName ref="#CnaeusGellius">Gellio 
+                        Tassio</persName> fosse il primo, che ad imitatione della
                         natura, si facesse uno edifitio di loto. <persName ref="#DiodoreDeSicile"
-                            >Diodoro</persName> dice che <persName ref="#Vesta">Vesta</persName>
+                        >Diodoro</persName> dice che <persName ref="#Vesta">Vesta</persName>
                         figliuola di <persName ref="#Saturne">Saturno</persName>, fu la prima, che
                         trovò le case da habitare. <persName ref="#EusebeDeCesaree"
-                            >Eusebio</persName> Pamphilo eccellente investigatore delle cose
+                        >Eusebio</persName> Pamphilo eccellente investigatore delle cose
                         antiche, da testimonii de passati, dice che i Nipoti di <persName
-                            ref="#Protogene">Protogene</persName>, furono i primi che pensarono di
+                        ref="#Protogene">Protogene</persName>, furono i primi che pensarono di
                         fare le case agli huomini, le quali si tessessero di foglie di canne, et di
                         Giunchi. Ma torniamo noi al nostro proposito. Gli Antichi adunque, et prima
-                            <persName ref="#Theophraste">Teofrasto</persName>, dice che gli arbori
+                        <persName ref="#Theophraste">Teofrasto</persName>, dice che gli arbori
                         si debbono tagliare, et massimo lo Abeto, la Picea, et il Pino, subito che
                         eglino han' cominciato a mandar fuori, et spuntare certe vermene; accioché
                         per la sopr'abbondanza dello humore, tu possi levarne piu facilmente la
@@ -2367,7 +2366,7 @@
                         di spina d'<placeName ref="#Egypte">Egitto</placeName> impiastrate d'olio.
                         Et <persName ref="#Theophraste">Teofrasto</persName> dice che i legnami, che
                         sono impiastrati di pania non ardono. Né lascerò questo indietro, che
-                        appresso di <persName ref="#CnaeusGellius" cert="low">Gellio</persName>
+                        appresso di <persName ref="#CnaeusGellius">Gellio</persName>
                         nelli Annali di <persName ref="#QuintusClaudiusQuadrigus">Quinto
                             Claudio</persName> si truova che per havere <persName
                             ref="#ArchelaosGeneral">Archelao</persName> Prefetto di <persName
@@ -2640,7 +2639,7 @@
                         torcono nel midollo, ne son diritti, o uguali a metterli in opera. Oltra di
                         questo quelli, che sono aridi per loro natura, et tardi al crescere, son più
                         forti che quelli, che non sono aridi, et che crescono presto, et <persName
-                            ref="#Varron">Varrone</persName> si pensava che altri alberi havessino
+                        ref="#Varron">Varrone</persName> si pensava che altri alberi havessino
                         natura di maschio, et altri di femmina. Et che i legni bianchi, fussero
                         manco serrati, et più trattabili, che gli altri, dove sia qual si voglia
                         altro colore; et sono certo tutti i legnami gravi più serrati et più duri
@@ -2651,12 +2650,12 @@
                         di più gagliarda et robusta natura. Quelle parti, che sono più vicine alle
                         midolle sono veramente più dure che le altre, et più serrate; quelle che
                         sono più vicine alla scorza, sono di più gagliardo nervo. Percioché <choice>
-                            <sic>e'</sic>
-                            <corr>ei</corr>
+                        <sic>e'</sic>
+                        <corr>ei</corr>
                         </choice> si tiene che negli Alberi sì come negli animali, la scorza sia la
                         cotenna; quello, che è sotto la scorza, sia la carne; et quel che, è intorno
                         alle midolle, si tiene per le ossa; et <persName ref="#Aristote"
-                            >Aristotile</persName> pensava che i nodi nelle piante fussero in cambio
+                        >Aristotile</persName> pensava che i nodi nelle piante fussero in cambio
                         di nervi. Di tutte le parti del legno, tengono per la più trista, l'humor
                         che lo nutrisce, si per altre cagioni, si per essere molto sottoposto a
                         Tarli. Aggiugni a queste cose che quella parte degli Alberi, che era
@@ -2670,27 +2669,27 @@
                         piegate; tutte le parti dabasso, niente di manco si pensa che sieno più
                         costanti, et più commode che l'altre. Ma io truovo scritte dalli ottimi
                         scrittori, alcune cose molto maravigliose: Percioché <choice>
-                            <sic>e'</sic>
-                            <corr>ei</corr>
+                        <sic>e'</sic>
+                        <corr>ei</corr>
                         </choice> dicono che la Vite supera la eternità dei secoli. Ai Tempi di
-                            <persName ref="#JulesCesar">Cesare</persName> in <placeName
-                            ref="#Populonia">Popolonia</placeName> (vicina a <placeName
-                            ref="#Piombino">Piombino</placeName>) si vedeva una <objectName>statua
-                            di Giove</objectName>, fatta di Vite, essersi mantenuta per infinità
+                        <persName ref="#JulesCesar">Cesare</persName> in <placeName
+                        ref="#Populonia">Popolonia</placeName> (vicina a <placeName
+                        ref="#Piombino">Piombino</placeName>) si vedeva una <objectName>statua
+                        di Giove</objectName>, fatta di Vite, essersi mantenuta per infinità
                         d'anni, incorrotta; et tutti dicono che <choice>
-                            <sic>e'</sic>
-                            <corr>ei</corr>
+                        <sic>e'</sic>
+                        <corr>ei</corr>
                         </choice> non è legno alcuno più eterno. In <placeName ref="#Ariana"
-                            >Arriana</placeName>, Regione della <placeName ref="#Inde"
-                            >India</placeName> son Viti tanto grosse, secondo che racconta <persName
-                            ref="#Strabon">Strabone</persName>, che duoi huomini, abbraccieriano a
+                        >Arriana</placeName>, Regione della <placeName ref="#Inde"
+                        >India</placeName> son Viti tanto grosse, secondo che racconta <persName
+                        ref="#Strabon">Strabone</persName>, che duoi huomini, abbraccieriano a
                         gran pena il pedale. In <placeName ref="#Utique">Utica</placeName> dicono
-                        essere durata una coperta di Cedro anni: mille dugento settantaotto. In
-                            <placeName ref="#Espagne">Ispagna</placeName> nel <objectName>Tempio di
-                            Diana</objectName>, dicono esservi durate Travi di Ginepro, da Dugento
+                        essere durata una coperta di cedro anni: mille dugento settantaotto. In
+                        <placeName ref="#Espagne">Ispagna</placeName> nel <objectName>Tempio di
+                        Diana</objectName>, dicono esservi durate travi di ginepro, da dugento
                         anni innanzi lo eccidio di <placeName ref="#Troie">Troia</placeName> per
                         insino a tempi di <persName ref="#HannibalBarca">Annibale</persName>. Ma il
-                        Cedro ha certo natura maravigliosa, se come dicono <choice>
+                        cedro ha certo natura maravigliosa, se come dicono <choice>
                             <sic>e'</sic>
                             <corr>ei</corr>
                         </choice> non tiene i chiodi. Nei Monti presso al <placeName
@@ -3190,7 +3189,7 @@
                         artefici, ma alli studiosi ancora di cose degne, per il che ci giova di
                         mescolarci alcuna volta cose, che dilettano, pur che le non sieno fuor di
                         proposito, né discosto dalla intentione nostra. A, <persName ref="#MartinV"
-                            >P P. Martino</persName> fu portata una certa serpe, trovata in
+                            >Pontifex Pontificum Martino</persName> fu portata una certa serpe, trovata in
                             <placeName ref="#Lazio">Latio</placeName> dalli scarpellini nelle cave,
                         che si viveva in un certo gran sasso voto dentro, et chiuso intorno intorno
                         senza spiraglio alcuno, sonsi similmente trovate alcune ranochie, et
@@ -3814,7 +3813,7 @@
                     <p xml:id="BAR_A_L3_L3C5_P1"><hi rend="capitals">NEl</hi> fare i Ricinti da
                         basso cioè nel finire i fondamenti in sin suso al piano del Terreno, non
                         truovo cosa alcuno che gli antichi ci insegnino, salvo che una, cioè che
-                        quelle pietre, che saranno state come dicenmo alla Aria duoi anni, et che
+                        quelle pietre, che saranno state come dicemmo alla Aria duoi anni, et che
                         haranno scoperto mancamento, si debbono cacciare nei fondamenti. Perciò che
                         sì come in l'arte del soldo gli infingardi et i deboli che non possono
                         sopportare il Sole, et la polvere, ne sono (non senza vorgogna) rimandati a
@@ -4945,11 +4944,11 @@
                         che quei di <placeName ref="#Pyrgi">Pirgo</placeName> coprivano gli edifiti
                         con Canne; et quei di <placeName ref="#Marseille">Marsilia</placeName> con
                         terra battuta et rimenata con paglie. I Telofagi appresso de
-                            <placeName>Garamanti</placeName> (come dice <persName ref="#Pline"
-                            >Plinio</persName>) cuoprono le superficie dei Tetti di corteccie.
+                        <choice><sic><placeName>Garamanti</placeName></sic><corr ref="#Carmania">Carmania</corr></choice> 
+                        (come dice <persName ref="#Pline">Plinio</persName>) cuoprono le superficie dei Tetti di corteccie.
                         Grandissima parte della Magna usa assicelle. In <placeName ref="#Flandres"
-                            >Fiandra</placeName> et nella <placeName ref="#Picardie"
-                            >Piccardia</placeName>, segano in esse la Pietra bianca, più facilmente
+                        >Fiandra</placeName> et nella <placeName ref="#Picardie"
+                        >Piccardia</placeName>, segano in esse la Pietra bianca, più facilmente
                         che il legno; la quale adoperano<pb n="93"/> in cambio d'embrici, I Genovesi
                         et i Toscani adoperano nel coprire le case, lastre spiccate da scagliose
                         Pietre. Altri hanno esperimentati gli smalti dei quali parleremo di poi.
@@ -5224,7 +5223,7 @@
                         In <placeName ref="#France">Francia</placeName> era la Plebe quasi come
                         stiava, gli altri dice <persName ref="#JulesCesar">Cesare</persName> che
                         erano, o Soldati, o dediti alla Relligione, o agli studi di sapienza, i
-                        quali si chiamavono Druidi. Appresso a <placeName>Pantei</placeName>, i
+                        quali si chiamavono Druidi. Appresso a <placeName ref="#Panchaea">Pantei</placeName>, i
                         primi erano, i Sacerdoti, i secondi gli Agricultori, et i Terzi erano i
                         Soldati, con i quali erano i Pastori, et i guardiani de Bestiami. Gli
                         Inghilesi si dividevano in quattro ordini, i primi erano quelli dei quali si
@@ -5371,7 +5370,7 @@
                             <sic>e'</sic>
                             <corr>ei</corr>
                         </choice> si pensavano, mediante essi diserti, essere sicuri dalle subite
-                        scorrerie dei Nimici. Gli Historici non pensano che <persName cert="low"
+                        scorrerie dei Nimici. Gli Historici non pensano che <persName ref="#SesostrisIer"
                             >Sesostri</persName> Re delli Egitti, restasse per altra cagione di
                         condurre lo Essercito in <placeName ref="#Ethiopie">Etiopia</placeName>, che
                         per essersi sbigottito dalla Carestia delle Vettovaglie, et dalla difficultà
@@ -5504,28 +5503,28 @@
                         Terra, in quel luogo, dove io volesse porre la mia Città. Et se ciò non
                         potremo così conseguire a punto a voglia nostra, per la varietà dei luoghi;
                         Argomenteremo per havere le cose necessarie in questa maniera. Non si lasci
-                        nelle Regioni Marittime, se elle saranno pianure, la Citta, troppo vicina al
+                        nelle Regioni Marittime, se elle saranno pianure, la Città, troppo vicina al
                         Mare; et se saranno monti, non si ponga troppo discosto. Dicono che i liti
                         si mutano, et che in certi luoghi, alcune Città, et nella <placeName
                             ref="#Italie">Italia</placeName> ancora, la Città di <placeName
-                            ref="#Baies">Baia</placeName> è sommersa nel Mare. Il Faro in <placeName
+                            ref="#Baies">Baia</placeName> è sommersa nel Mare. Il <objectName ref="#PhareAlexandrie">Faro</objectName> in <placeName
                             ref="#Egypte">Egitto</placeName>,<pb n="103"/> che già era attorniato
                         dal Mare, si truova al presente non altrimenti che il <placeName
                             ref="#PeninsuleDeGallipoli">Chersonesso</placeName> in Terra ferma. Il
                         medesimo ancora scrive <persName ref="#Strabon">Strabone</persName> di
                             <placeName ref="#TyrAntique">Tiro</placeName> et di <placeName
                             ref="#Clazomenes">Clazzomene</placeName>: Oltra di questo dicono che già
-                        il <objectName>Tempio di Annone</objectName>, era su la Marina, et che per
+                        il <objectName>Tempio di Annone</objectName>, era sulla Marina, et che per
                         essersi discostato il Mare, si ritruova al presente molto infra terra. Et ne
                         avertiscono pure, che le Città si ponghino, o sopra esso lito, o lontane
-                        assai dal Mare. Percioché e'si vede che i fiati Marini, sono per la
+                        assai dal mare. Percioché e'si vede che i fiati Marini, sono per la
                         salsedine loro gravi et aspri. Et però quando <choice>
                             <sic>e'</sic>
                             <corr>ei</corr>
                         </choice> giugneranno nei luoghi non molto lontani dal Mare, et massimo
                         nelle Pianure, tu riscontrerrai quivi l'aria humidiccia, liquefaccendovisi
                         la humidità che ella ha presa del mare; ne è maraviglia che l'Aria vi
-                        diventi grossa et quasi mucida; di maniera che in alcuni luoghi si fatti, si
+                        diventi grossa et quasi mucida, di maniera che in alcuni luoghi si fatti, si
                         vegghino alcuna volta raggirarvisi per l'aria alcune ragne, come quelle de
                         ragnateli; et dicono che il simile interviene alle arie, che alle Acque:
                         cioè che mescolate con l'acque salate si guastano talmente, che con il loro
@@ -6170,14 +6169,14 @@
                         servirà per segno, che quivi sia il maggiore impeto delle acque. Nel situare
                         adunque le Pile fuggireno questo luogo, et pigliereno quell'altro dove le
                         cose gittate si condurranno più rare, et più tardi. Il <persName
-                            ref="#Menes">Re Mina</persName>, quando <choice>
-                            <sic>e'</sic>
-                            <corr>ei</corr>
+                        ref="#Menes">Re Mina</persName>, quando <choice>
+                        <sic>e'</sic>
+                        <corr>ei</corr>
                         </choice> deliberò di fare il <objectName>Ponte a <placeName ref="#Memphis"
-                                >Memphi</placeName></objectName>, cavò il <placeName ref="#Nil"
-                            >Nilo</placeName> del letto suo, et lo mandò in altri luoghi fra certi
+                        >Memphi</placeName></objectName>, cavò il Nilo</placeName> del letto suo, 
+                        et lo mandò in altri luoghi fra certi
                         Monti, et finita la sua muraglia, lo ricondusse poi nel propio letto.
-                            <persName cert="low" ref="#NitocrisDeBabylone">Nicore</persName> Regina
+                        <persName  ref="#NitocrisDeBabylone">Nicore</persName> Regina
                         degli Assiri havendo messo in punto tutte quelle cose, che gli facevano
                         mestieri a fare un <objectName>Ponte</objectName>, fece cavare un
                         grandissimo Lago, et volsevi il fiume; et mentre che il Lago si empieva,
@@ -6938,31 +6937,31 @@
                         guardie, et dove egli hanno a stare a combattere. Dei Tetti di detta
                         Fortezza, et come si debbino afforzificare, et delle altre cose necessarie
                         alla Fortezza, o di uno Re, o d'uno Principe nuovo. Cap. V. </head>
-                    <p xml:id="BAR_A_L5_L5C5_P1"><hi rend="capitals">I</hi> luoghi dove i Soldati
+                    <p xml:id="BAR_A_L5_L5C5_P1"><hi rend="capitals">I</hi> luoghi dove i soldati
                         hanno a stare a fare le guardie, et a difendere la muraglia, si debbono
                         distribuire di maniera, che alcuni habbino a guardare le parti da basso
-                        della fortezza, et alcuni quelle da alto; et altri sieno destinati a varie
+                        della fortezza, et alcuni quelle da alto, et altri sieno destinati a varie
                         cure, et offici. La entrata finalmente et la uscita, et ogni appartamento
                         debbe essere così ordinato et afforzificato, che non possa essere offeso, né
-                        dalla perfidia degli amici, né dalli inganni o fraude degli Inimici. Ai
-                        Tetti della fortezza, accioché non sieno rovinati dai Pesi delle Macchine,
+                        dalla perfidia degli amici, né dalli inganni o fraude degli inimici. Ai
+                        tetti della fortezza, accioché non sieno rovinati dai pesi delle macchine,
                         si debbe dar fine con uno angolo acuto, o con un gagliardo lavoro, et si
                         fermeranno con spessime travi, di poi mettavisi la coperta, et in quella le
                         doccie senza calcina, o terra alcuna, per le quali se ne vadia l'acqua
                         raccoltavi. Di poi si cuoprino di pezzami di terra cotta, o più tosto di
-                        Pomici alzandovele un braccio et mezo et così non haranno paura né dei Pesi,
-                        che gli cadranno sopra, né dei fuochi. In somma una Fortezza si debbe fare
-                        non altrimenti, che se tu havessi a fare una piccola Città: Affortifichisi
-                        adunque con uguale lavoro et arte che una Città, et vi si accommoderanno
-                        l'altre cose che faccino a bisogno. Non vi manchi l'acqua. Sienvi luoghi a
-                        bastanza da potervi tenere et mantenere i Soldati, le Armi, i Grani, le
+                        pomici alzandovele un braccio et mezo et così non haranno paura né dei pesi,
+                        che gli cadranno sopra, né dei fuochi. In somma una fortezza si debbe fare
+                        non altrimenti, che se tu havessi a fare una piccola vittà: Affortifichisi
+                        adunque con uguale lavoro et arte che una città, et vi si accommoderanno
+                        le altre cose che faccino a bisogno. Non vi manchi l'acqua. Sienvi luoghi a
+                        bastanza da potervi tenere et mantenere i soldati, le armi, i grani, le
                         carni salate, et lo aceto, et inanzi ad ogni altra cosa le legne. Et in
-                        detta Fortezza quello Torrione che noi chiamammo principale, sarà quasi come
+                        detta fortezza quello torrione che noi chiamammo principale, sarà quasi come
                         una fortezza minore, nel quale non deve mancare cosa alcuna di quelle che si
-                        desiderano in una fortezza. Debbe havere la Citerna, et i ripostigli di
+                        desiderano in una fortezza. Debbe havere la citerna, et i ripostigli di
                         tutte le cose, mediante le quali egli si possa abbondantemente nutrire, et
                         difendere. Debbe ancora havere uscite onde e'si possa assaltare ancora i
-                        suoi medesimi a loro mal'grado, et d'onde si possa mettere dentro soccorsi.
+                        suoi medesimi a loro mal grado, et d'onde si possa mettere dentro soccorsi.
                         Non vo lasciare indietro questo, che alcuna volta le Fortezze si sono difese
                         mediante le fosse coperte da acqua: et che alcuna volta le Città si sono
                         prese per le fogne. L'una et l'altra di queste cose giovano a mandare fuori
@@ -7031,14 +7030,14 @@
                         dello accompagnare il Padrone, non si pestino l'un l'altro, nel fare
                         confusione. Ma quali sieno gli edifiti dove i Magistrati habbino a
                         esercitare i loro offici, si sanno. I Senatori nella Audienza del Palazzo, i
-                            Giudici<pb n="132"/> a Tribunali, et al Palazzo. Il Capitano delli
+                        Giudici<pb n="132"/> a Tribunali, et al Palazzo. Il Capitano delli
                         eserciti in Campo, o vero su l'armata. Ma che direno noi del Pontifice? A
                         costui s'aspetta non solamente il Tempio, ma i Chiostri ancora, che servono
                         come per alloggiamenti dei Soldati; Con ciò sia che il Pontefice, et quelli
                         che sono sotto posti al Pontefice, a ministrare le cose sacre, si esercitano
                         in una acerba et faticosa militia, quale è quella che noi raccontammo in
-                        quel Libro, che si chiama il Pontefice; cioè della virtù contro ai viti. Dei
-                        Tempi ne sono alcuni grandi, come <objectName>quello</objectName>, nel
+                        quel Libro, che si chiama il <bibl>Pontefice</bibl>; cioè della virtù contro ai viti. Dei
+                        Tempi ne sono alcuni grandi, come quello, nel
                         quale, il sommo Pontefice suole celebrare solennemente alcune determinate
                         cerimonie et sacrifici solenni. Altri ne sono in cura di Sacerdoti minori,
                         come per le regioni delle Città sono le chiesicciuole, et alla campagna, i
@@ -7237,7 +7236,7 @@
                         sieno atti a guarire. Vorrei che gli edifiti di costoro fussino distinti.
                         Gli antichi dedicavano ad <persName ref="#Asclepios">Esculapio</persName>,
                         ad <persName ref="#Apollon">Apolline</persName>, et alla
-                            <persName>Salute</persName> loro Dii simili edifiti, con le Arti, et
+                            <persName ref="#Hygie">Salute</persName> loro Dii simili edifiti, con le Arti, et
                         santità dei quali pensavano che gli infermi recuperassero et mantenessero la
                         loro sanità: edificandoli in luogo del tutto sanissimo, dove spirassino
                         Venti saluberrimi, et fussino copie d'acque purgatissime. Accioché gli
@@ -9253,36 +9252,36 @@
                         che si accommodino ai bisogni. Di poi ne dichiareremo alcune altre, onde i
                         Dotti et acuti ingegni potranno da per loro senza oscurità conoscere questa
                         tal'cosa. Io truovo che <persName ref="#Pline">Plinio</persName> dice che la
-                        Aguglia condotta a <placeName ref="#Thebes">Tebe</placeName> da
-                            <persName>Fenice</persName>, fu condotta per una fossa tirata dal
-                            <placeName ref="#Nil">Nilo</placeName>, messa detta Aguglia sopra Navili
-                        carichi di Zavorra, acciò che scaricata di poi detta Zavorra, portasse via
+                        aguglia condotta a <placeName ref="#Thebes">Tebe</placeName> da
+                        <persName>Fenice</persName>, fu condotta per una fossa tirata dal
+                        Nilo, messa detta aguglia sopra navili
+                        carichi di zavorra, acciò che scaricata di poi detta Zavorra, portasse via
                         il sollevato peso. Truovo in <persName ref="#AmmienMarcellin">Ammiano
-                            Marcellino</persName> una Aguglia essere stata condotta per il
-                            <placeName ref="#Nil">Nilo</placeName> con una Nave di trecento remi, et
+                        Marcellino</persName> una Aguglia essere stata condotta per il
+                        Nilo con una Nave di trecento remi, et
                         posta sopra curri presso a <placeName ref="#Rome">Roma</placeName> a tre
                         miglia, essere stata tirata in <objectName ref="#CircusMaximusRome">Circo
-                            Massimo</objectName> per la porta che và ad <placeName
-                            ref="#OstieAntique">Hostia</placeName>; et che nel rizzarla durarono
+                        Massimo</objectName> per la porta che và ad <placeName
+                        ref="#OstieAntique">Hostia</placeName>; et che nel rizzarla durarono
                         fatica, parecchi migliaia di huomini, essendo tutto il Circo ripieno di
                         instrumenti di grandissime Travi, et di canapi grossissimi. Leggiamo in
-                            <persName ref="#Vitruve">Vitruvio</persName> che <persName
-                            ref="#Chersiphron">Ctesifone</persName> et <persName ref="#Metagenes"
-                            >Metageno</persName> suo figliuolo condussono in <placeName
-                            ref="#Ephese">Efeso</placeName> colonne et architravi preso il modo dal
-                        Cilindro, con il quale gli Antichi insegnavano pareggiare il terreno, con
+                        <persName ref="#Vitruve">Vitruvio</persName> che <persName
+                        ref="#Chersiphron">Ctesifone</persName> et <persName ref="#Metagenes"
+                        >Metageno</persName> suo figliuolo condussono in <placeName
+                        ref="#Ephese">Efeso</placeName> colonne et architravi preso il modo dal
+                        cilindro, con il quale gli antichi insegnavano pareggiare il terreno, con
                         ciò sia che egli impiombò in ciascuna delle teste delle Pietre un perno di
                         ferro, che usciva fuori, et serviva per fuso, et messe nei detti perni di
                         qua et di là alcune ruote tanto grandi, et tanto larghe, che dette pietre
                         stavano sollevate sopra di essi perni; Di poi col girare delle<pb n="172"/>
                         ruote furono smosse et portate via. Dicono che
-                            <persName>Chemminio</persName> Egittio nel fare la
-                            <objectName>Piramide</objectName> per essere opera alta più di sei
+                        <persName ref="#Khephren">Chemminio</persName> Egittio nel fare la
+                        <objectName ref="#PyramideKhephrenGizeh">Piramide</objectName> per essere opera alta più di sei
                         ottavi di miglio, condusse quelle Pietre grandissime l'una sopra l'altra con
                         havervi fatti di mano in mano monti di Terreno. Scrive <persName
-                            ref="#Herodote">Erodoto</persName> che <persName>Cleopa</persName>
+                        ref="#Herodote">Erodoto</persName> che <persName ref="#Kheops">Cleopa</persName>
                         figliuolo di <persName>Rasinite</persName> haveva lasciato dal lato di fuori
-                        in quella Piramide, nel fare della quale affaticò molti anni Centomila
+                        in quella <objectName ref="#PyramideKheopsGizeh">Piramide</objectName>, nel fare della quale affaticò molti anni Centomila
                         huomini certi gradi, su per i quali con piccoli legni, et instrumenti
                         accommodati, facilmente si conducevano le grandissime pietre. Trovasi
                         scritto ancora oltra di questo che in alcuni luoghi furono sopra grandissime
@@ -11459,20 +11458,20 @@
                         luogo la metà della altezza della cupola. Il muro nel Tempio sarà molto
                         commodo se sarà di mattoni, ma si vestirà di vari ornamenti.<pb n="238"/>
                         Dello adornare le mura dei tempi sacri, altri altrimenti hanno giudicato, a
-                            <placeName>Spiga</placeName> in <placeName ref="#Asie">Asia</placeName>,
+                        <placeName>Spiga</placeName> in <placeName ref="#Asie">Asia</placeName>,
                         furono alcuni che addornarono le mura del <objectName>Tempio</objectName>
                         con pietre pulitissime, et nelle commettiture fra l'una et l'altra messono
                         oro massiccio. In <placeName ref="#Elide">Elide</placeName> al
-                            <objectName>tempio di Minerva</objectName> dicono che il <persName
-                            ref="#Panainos">fratello di Fidia</persName> fece uno intonico con
+                        <objectName>tempio di Minerva</objectName> dicono che il <persName
+                        ref="#Panainos">fratello di Fidia</persName> fece uno intonico con
                         calcina spenta con zafferano et latte. I Re di egitto cinsono atorno il
                         Sepolero Simandio per sotterrarvi le concubine di <persName ref="#Jupiter"
-                            >Giove</persName>, d'un cerchio d'oro alto un cubito cioè tre quarti di
+                        >Giove</persName>, d'un cerchio d'oro alto un cubito cioè tre quarti di
                         braccio, et di circuito di cubiti trecento sessantacinque, accioché in
                         qual's'è l'uno dei cubiti fussi inscritto un giorno dell'anno. Queste cose
                         feciono costoro, et altri feciono al contrario. <persName ref="#Ciceron"
-                            >Cicerone</persName> seguendo l'openione di <persName ref="#Platon"
-                            >Platone</persName>, giudicò che ei fusse bene avvertire con legge i
+                        >Cicerone</persName> seguendo l'openione di <persName ref="#Platon"
+                        >Platone</persName>, giudicò che ei fusse bene avvertire con legge i
                         suoi, che lasciata da parte ogni sorte, et ogni dilicatezza di addornamenti
                         ne tempii, si ingegnassino di haverlo innanzi tratto candidissimo. Niente di
                         manco disse facciasi bellissimo. A me certo si persuaderia facilmente che a
@@ -11523,31 +11522,31 @@
                         usarono di porre nei Tempi et nei portici per addornarli cose rare et
                         eccellenti, come nel <objectName>Tempio di Ercole</objectName> furono quelle
                         corna delle formiche arrecatevi insino dalla <placeName ref="#Inde"
-                            >India</placeName>, o come quelle corone di Canella, che <persName
-                            ref="#Vespasien">Vespasiano</persName> condusse nel <placeName
-                            ref="#Capitole">Campidoglio</placeName>, o come quella <objectName>Tazza
-                            d'oro</objectName> che <persName ref="#Auguste"
-                            ><reg>Augusto</reg></persName> pose nel <objectName
-                            ref="#TempleApollonPalatinRome">Tempio principale</objectName> del
-                            <placeName ref="#MontPalatin">Monte Palatino</placeName> dentrovi una
-                        gran barba di Cinnamomo, o cannella. A <placeName ref="#Thermo"
-                            >Termo</placeName> in <placeName ref="#Etolie">Etholia</placeName>
+                        >India</placeName>, o come quelle corone di canella, che <persName
+                        ref="#Vespasien">Vespasiano</persName> condusse nel <placeName
+                        ref="#Capitole">Campidoglio</placeName>, o come quella <objectName>Tazza
+                        d'oro</objectName> che <persName ref="#Auguste"
+                        ><reg>Augusto</reg></persName> pose nel <objectName
+                        ref="#TempleApollonPalatinRome">Tempio principale</objectName> del
+                        <placeName ref="#MontPalatin">Monte Palatino</placeName> dentrovi una
+                        gran barba di cinnamomo, o cannella. A <placeName ref="#Thermo"
+                        >Termo</placeName> in <placeName ref="#Etolie">Etholia</placeName>
                         debellata da <persName ref="#PhilippeVMacedoine">Filippo</persName>, dicono,
                         che erano nei Portici del <objectName ref="#TempleApollonThermo"
-                            >Tempio</objectName> meglio che quindici mila pezzi d'arme, et per
+                        >Tempio</objectName> meglio che quindici mila pezzi d'arme, et per
                         adornare il Tempio meglio che dumila statue, le quali secondo che racconta
-                            <persName ref="#Polybe">Polibio</persName> furono tutte disfatte da
-                            <persName ref="#PhilippeVMacedoine">Filippo</persName>, eccetto che
+                        <persName ref="#Polybe">Polibio</persName> furono tutte disfatte da
+                        <persName ref="#PhilippeVMacedoine">Filippo</persName>, eccetto che
                         quelle, nelle quali era, o scritto il nome di alcuno Dio, o che rendevano
                         simiglianza alli Dii, et non è forse da considerare manco la grande
                         quantità, che la varietà di si fatte cose. In <placeName ref="#Sicile"
-                            >Sicilia</placeName> dice <persName ref="#Solinus">Solino</persName>
-                        furono alcuni, che facevano le statue di Sale, et una dice <persName
-                            ref="#Pline">Plinio</persName> ne fu fatta di Vetro. Et certamente che
+                        >Sicilia</placeName> dice <persName ref="#Solinus">Solino</persName>
+                        furono alcuni, che facevano le statue di sale, et una dice <persName
+                        ref="#Pline">Plinio</persName> ne fu fatta di Vetro. Et certamente che
                         simili cose saranno rarissime, et oltra modo degne fuori della oppenione
-                        della Natura, et degli Ingegni degli huomini. Ma parleremo altrove delle
+                        della Natura, et degli ingegni degli huomini. Ma parleremo altrove delle
                         statue. Mettesi delle colonne nelle mura, et si applicano ai Vani. Ma non
-                        con il medesimo ordine che nei portici. Et ho considerato questo nei Tempi
+                        con il medesimo ordine che nei portici. Et ho considerato questo nei tempi
                         grandissimi che non havendo forse colonne, che servissino a bastanza a tanta
                         grandezza di fabbrica, <choice>
                             <sic>e'</sic>
@@ -12176,8 +12175,8 @@
                             <objectName>Tempio di Pallade Solerte</objectName> attaccarono sospesi
                         quei ferri dei piedi con i quali furono legati i Lacedemoni. Gli Euiani non
                         solamente salvarono nel Tempio quella pietra, con la quale il <persName>Re
-                            Fimio</persName> percosse et ammazzò il <persName>Re dei
-                            Machiensi</persName>, ma la adorarono ancora come uno Dio. Gli Egineti
+                            Fimio</persName> percosse et ammazzò il Re dei
+                            Machiensi, ma la adorarono ancora come uno Dio. Gli Egineti
                         dedicarono al tempio i becchi delle Navi, predate alli Inimici. <persName
                             ref="#Auguste">Augusto</persName> seguendo le pedate di costoro, poi che
                         hebbe superato lo <placeName ref="#Egypte">Egitto</placeName>, fece quattro
@@ -12251,7 +12250,7 @@
                         simili, et mutarsi secondo che più piaceva loro in varie forme d'Animali.
                         Infra i Greci fu il primo <persName ref="#Cadmos">Cadmo</persName> figliolo
                         di <persName ref="#Agenor">Agenore</persName> che consecrasse nel
-                            <objectName>Tempio</objectName> le statue de gli Dii. Troviamo in
+                            <objectName>Tempio</objectName> le statue degli Dii. Troviamo in
                             <persName ref="#Aristote">Aristotile</persName> che le prime statue che
                         furono collocate sulla piazza di <placeName ref="#Athenes"
                             >Athene</placeName>, furono in honore di <persName ref="#Tyrannoctones"
@@ -12285,7 +12284,7 @@
                         Mancando a <persName ref="#Semiramis">Semiramis</persName> una pietra di
                         quella grandezza che ella desiderava, et havendo in animo di fare qualche
                         cosa molto maggiore che non si potesse fare di bronzo vicino al monte di
-                            <placeName>Media</placeName>, che si chiama Bagistano, fece sculpire la
+                        Media, che si chiama Bagistano, fece sculpire la
                         sua propia immagine in una pietra di diciasette stadii cioè miglia due et un
                         ottavo alla quale sacrificassino con alcuni doni, cento huomini. Io non
                         penso che sia da lasciare indietro quel che dice <persName
@@ -12368,8 +12367,8 @@
                         si mantenne salda lungo tempo, et come quella<pb n="264"/> di <persName
                             ref="#Diane">Diana</persName> Efesia, che alcuni dicono che era di
                         Ebano, et <persName>Mutiano</persName> dice che ella era di Vite,
-                            <persName>Peras</persName> che fece il <placeName>Tempio di
-                            Argolica</placeName>, et vi consecrò la figliuola per Badessa vi fece un
+                            <persName>Peras</persName> che fece il <objectName>Tempio di
+                            Argolica</placeName>, et vi consecrò la figliuola per badessa vi fece un
                             <persName ref="#Jupiter">Giove</persName> d'un troncone d'un pero.
                         Furono alcuni che prohibirono che gli Dii si sculpissino in pietre, perciò
                         che elle sono dure et crudeli. Rifiutavano ancor l'oro, et l'argento perché
@@ -12388,7 +12387,7 @@
                         delli Dii, Tu dirai certamente che quella materia in che si ha a intagliare
                         la immagine di Dio, bisogna che sia oltramodo degna; accostasi alla dignità
                         quella cosa, che è più che le altre rara, niente dimeno io non sono tale,
-                        che io le voglia fare di sale, sì come dice Solino che erano soliti di fare
+                        che io le voglia fare di sale, sì come dice <persName>Solino</persName> che erano soliti di fare
                         i Siciliani; né come dice <persName ref="#Pline">Plinio</persName> anco di
                         Vetro, né di oro massiccio, ne di argento ancora; non perché io la intenda
                         come coloro che ciò recusavano, per essere nato di terra sterile, et di
@@ -13037,7 +13036,7 @@
                             <l>Nessun'col pianto la mia morte honori,</l>
                             <l>O mi faccia l'essequie, per ciò ch'io</l>
                             <l>Pur vivo ancor', tra l'honorate lingue.</l></hi></p>
-                    <p>Ai sepolcri di coloro che morirono a <placeName>Termopile</placeName>, i
+                    <p>Ai sepolcri di coloro che morirono a <placeName ref="#Thermopyles">Termopile</placeName>, i
                         Lacedemoni vi scrissono queste parole. O viandante fa intendere ai
                         Lacedemoni che mentre facciamo quel che è ne commessono, stiamo qui ad
                         giacere: né ci dispiacerà se alcuna volta egli harà del piacevole
@@ -13076,11 +13075,11 @@
                         come coperto da pruni, et non conosciuto dai suoi Cittadini, presa
                         coniettura da uno Cylindro, et da una Sfera piccola, che ei vedde intagliata
                         in una certa colonna molto alta. Al <objectName>sepolcro di <persName
-                                ref="#Simandio">Simandio</persName></objectName> Re degli Egizzi vi
+                                ref="#Simandio">Simandio</persName></objectName> Re degli Egizi vi
                         era scolpita in un marmo di venti cubiti la <persName>Madre</persName> con
                         tre corone Regali sopra la testa, per denotare che ella era stata figliuola
                         moglie et madre di Re. Al <objectName>sepolcro di
-                                <persName>Sardanapalo</persName></objectName>, Re delli Assiri
+                                <persName ref="#Assurbanipal">Sardanapalo</persName></objectName>, Re delli Assiri
                         posono una statua, che in segno di allegrezza, si batteva le mani insieme,
                         et vi havevano posto un Epitaffio, che diceva, Io feci <placeName
                             ref="#Tarse">Tarso</placeName>, et <placeName>Archileo</placeName> in un
@@ -13974,51 +13973,52 @@
                     <p>Infra le opere publiche sono anchora i luoghi da passeggiare, nei quali la
                         gioventù si eserciti a giucare alla palla, a saltare, et a maneggiare le
                         armi; et dove, i padri si esercitono passeggiandovi essendo infermi; o
-                        facendosi portare, ripiglino le forze. Diceva <persName>Celso</persName>
-                        fisico, che lo esercitio è molto migliore allo scoperto che all'ombra, ma
-                        accioché ei potessino esercitarsi più commodamente all'ombra, vi facevano
-                        atorno portici, coi quali accerchiavano a torno la piazza, et la piazza da
-                        alcuni era lastricata di marmo, alcuni la facevano verde, la empievano di
-                        mortella, di ginepri, di cedri, et di cipressi; in così fatto lavoro
-                        facevano le loggi dai tre lati scempie, et talmente grandi, che erano i duoi
-                        non i maggiori che le logge del mercato. Ma nel quarto lato che guardava
-                        verso mezo giorno si facevano le logge spatiosissime, et doppie. In la
-                        facciata dinanzi usavano colonne Doriche, alte secondo la larghezza delle
-                        loggie, le colonne dinanzi con le quali si divideva il primo portico dal
-                        secondo, volevano che si facessino più alte, che quelle altre prime il
-                        quinto, per reggere i comignoli, et per dare il pendio al Tetto. Né è
-                        maraviglia se per questo vollono che le fussino Ioniche. Con ciò sia che le
-                        Ioniche di loro natura sono più lunghe, che le Doriche. Ma io non vegho già
-                        perché causa in queste logge non fusse loro lecito fare il cielo del tetto
-                        uguale, et piano dall'una banda come dall'altra, con ciò sia che certamente
-                        egli harebbe havuto del gratioso, ma in amenduoi questi colonnati la
-                        grossezza delle colonne era di questa maniera. Nelle Doriche la grossezza da
-                        piede era due delle quindici parti di tutta la sua altezza col capitello, et
-                        con la basa, ma nelle Ioniche, et nelle Corinthie si dava alla grossezza da
-                        basso della Colonna una parte et mezo delle otto parti, che era l'intero del
-                        fuso della colonna, Le altre cose si facevano come in quelle dei Tempi, et
-                        accomodavano al lato al muro del Portico gradi da sedere honoratissimi,
-                        acciò servissino agli huomini gravi, et ai filosofi a disputare delle cose
-                        eccellentissime, ma questi gradi da sedere alcuni servirono per la estate,
-                        et alcuni per lo inverno. Con ciò sia che da quella parte dove poteva
-                            <placeName>Borea</placeName>, o <placeName>Aquilone</placeName> vi
-                        facevano i gradi per la estate et da quella banda donde venivano i Soli
-                        lieti, et dove non potesse il vento, gli facevano per lo inverno, et per
-                        questo i gradi per lo inverno erano rinchiusi da alie di muro intere, et
-                        quelli per la estate levate le alie delle mura dagli lati che reggevano le
-                        tetta erano diverso borea aperti con alcune finestre, o più tosto colonnati
-                        che guardavano liberamente verso il mare, o verso i monti, o verso il lago,
-                        o verso quale altra dilicatezza tu ti voglia di luoghi, et ricevevano dentro
-                        maggiori lumi che si potesse. Ma nella loggia da destra, et in quella da
-                        sinistra dei luoghi da passeggiare si accomodavano medesimamente altri gradi
-                        da sedere difesi dai venti di fuori, i quali ricevevano dallo scoperto del
-                        cortile, il Sole da mattina, et quello dopo mezo giorno, et i disegni di
-                        così fatti gradi erano di variate sorti, perciò che alcuni se ne facevano a
-                        mezo cerchio, alcuni con linee diritte, amenduoi corrispondenti al cortile,
-                        et alle loggie con proportione determinata, la larghezza di tutta questa
-                        opera era per la metà della sua lunghezza, la quale larghezza si divideva in
-                        otto parti, sei delle quale se ne assegnavano al cortile scoperto, et una
-                        per uno a ciascuno dei Portici. Ma dove <choice>
+                        facendosi portare, ripiglino le forze. Diceva <persName
+                            ref="#AulusCorneliusCelsus">Celso</persName> fisico, che lo esercitio è
+                        molto migliore allo scoperto che all'ombra, ma accioché ei potessino
+                        esercitarsi più commodamente all'ombra, vi facevano atorno portici, coi
+                        quali accerchiavano a torno la piazza, et la piazza da alcuni era lastricata
+                        di marmo, alcuni la facevano verde, la empievano di mortella, di ginepri, di
+                        cedri, et di cipressi; in così fatto lavoro facevano le loggi dai tre lati
+                        scempie, et talmente grandi, che erano i duoi non i maggiori che le logge
+                        del mercato. Ma nel quarto lato che guardava verso mezo giorno si facevano
+                        le logge spatiosissime, et doppie. In la facciata dinanzi usavano colonne
+                        Doriche, alte secondo la larghezza delle loggie, le colonne dinanzi con le
+                        quali si divideva il primo portico dal secondo, volevano che si facessino
+                        più alte, che quelle altre prime il quinto, per reggere i comignoli, et per
+                        dare il pendio al Tetto. Né è maraviglia se per questo vollono che le
+                        fussino Ioniche. Con ciò sia che le Ioniche di loro natura sono più lunghe,
+                        che le Doriche. Ma io non vegho già perché causa in queste logge non fusse
+                        loro lecito fare il cielo del tetto uguale, et piano dall'una banda come
+                        dall'altra, con ciò sia che certamente egli harebbe havuto del gratioso, ma
+                        in amenduoi questi colonnati la grossezza delle colonne era di questa
+                        maniera. Nelle Doriche la grossezza da piede era due delle quindici parti di
+                        tutta la sua altezza col capitello, et con la basa, ma nelle Ioniche, et
+                        nelle Corinthie si dava alla grossezza da basso della Colonna una parte et
+                        mezo delle otto parti, che era l'intero del fuso della colonna, Le altre
+                        cose si facevano come in quelle dei Tempi, et accomodavano al lato al muro
+                        del Portico gradi da sedere honoratissimi, acciò servissino agli huomini
+                        gravi, et ai filosofi a disputare delle cose eccellentissime, ma questi
+                        gradi da sedere alcuni servirono per la estate, et alcuni per lo inverno.
+                        Con ciò sia che da quella parte dove poteva <placeName>Borea</placeName>, o
+                            <placeName>Aquilone</placeName> vi facevano i gradi per la estate et da
+                        quella banda donde venivano i Soli lieti, et dove non potesse il vento, gli
+                        facevano per lo inverno, et per questo i gradi per lo inverno erano
+                        rinchiusi da alie di muro intere, et quelli per la estate levate le alie
+                        delle mura dagli lati che reggevano le tetta erano diverso borea aperti con
+                        alcune finestre, o più tosto colonnati che guardavano liberamente verso il
+                        mare, o verso i monti, o verso il lago, o verso quale altra dilicatezza tu
+                        ti voglia di luoghi, et ricevevano dentro maggiori lumi che si potesse. Ma
+                        nella loggia da destra, et in quella da sinistra dei luoghi da passeggiare
+                        si accomodavano medesimamente altri gradi da sedere difesi dai venti di
+                        fuori, i quali ricevevano dallo scoperto del cortile, il Sole da mattina, et
+                        quello dopo mezo giorno, et i disegni di così fatti gradi erano di variate
+                        sorti, perciò che alcuni se ne facevano a mezo cerchio, alcuni con linee
+                        diritte, amenduoi corrispondenti al cortile, et alle loggie con proportione
+                        determinata, la larghezza di tutta questa opera era per la metà della sua
+                        lunghezza, la quale larghezza si divideva in otto parti, sei delle quale se
+                        ne assegnavano al cortile scoperto, et una per uno a ciascuno dei Portici.
+                        Ma dove <choice>
                             <sic>e'</sic>
                             <corr>ei</corr>
                         </choice> facevano i gradi da sedere in mezo cerchio, il loro diametro
@@ -14788,7 +14788,7 @@
                         mare, et per terra. O vorrei che più tosto ci fussino quelle cose che hanno
                         finto i Poeti per indirizare gli huomini ai buoni costumi, come quelle di
                             <persName ref="#Dedale">Dedalo</persName> che a
-                            <placeName>Cuma</placeName> nelle<pb n="334"/> porte, finse <persName
+                            <placeName ref="#Cumes">Cuma</placeName> nelle<pb n="334"/> porte, finse <persName
                             ref="#Icare">Icaro</persName> che volava, et essendo, et la Pittura et
                         la Poesia varia, cioè altra quello che esprime le grandi cose fatte dagli
                         huomini grandi, degne di memoria: et altra quella che esprime i costumi dei
@@ -16088,7 +16088,7 @@
                             ref="#Egypte">Egitto</placeName> verso la <placeName
                             ref="#ArabieSaoudite">Arabia</placeName> fece un
                             <objectName>muro</objectName> da <placeName ref="#Peluse"
-                            >Pelusio</placeName> sino alla citta del Sole, la quale ei chiamano
+                            >Pelusio</placeName> sino alla città del Sole, la quale ei chiamano
                             <placeName ref="#ThebesEgypte">Thebe</placeName>, per luoghi diserti di
                         stadi medesimamente 1500. I Neritoni appresso a <placeName ref="#Leucade"
                             >Leucade</placeName> con ciò sia che ella fusse già terra ferma tagliato
@@ -16239,29 +16239,29 @@
                         grandissima per tutti i bisogni. Dalla acqua adunque comincieremo
                         servendocene noi come e'dicono et sani et infermi, I Massageti aperto in
                         molti luoghi il fiume Arago feciono la Regione Aquidosa. A <placeName
-                            ref="#Babylone">Babbillonia</placeName> perché ella era edificata in
-                        luogo arido furono condotti et il Tigre et lo Eufrate. <persName
-                            ref="#Semiramis">Semiramis</persName> introdusse nella Città <placeName
-                            ref="#Ecbatane">Ecbatana</placeName> uno Aquidotto, forato un alto monte
-                        per stadi 25 con una fossa larga quindici piedi. Il Re Arabo dal fiume Coro
-                        di <placeName ref="#ArabieSaoudite">Arabia</placeName> sino a quei luoghi
-                        deserti et aridi, dove egli aspettava <persName ref="#CambyseII"
-                            >Cambise</persName> (se noi crediamo ogni cosa, ad <persName
-                            ref="#Herodote">Erodoto</persName>) condusse l'acqua, havendo fatto il
-                        condotto di pelle di Tori. Appresso ai Sami infra le opererare era per
-                        maravigliosa tenuta, una fossa lunga settanta stadi tirata per un monte alto
-                        cento cinquanta cubiti. Maravigliavansi ancora di uno condotto fatto da
-                            <persName ref="#Megaro">Megaro</persName>, che era alto venti piedi,
-                        mediante il quale si conduceva il fonte nella Città. Ma a mio giuditio la
-                        Città di <placeName ref="#Rome">Roma</placeName> superò di gran lunga tutti
-                        costoro, et di grandezza di muraglie,<pb n="364"/> et di artifitio del
-                        condurle, et della gran copia delle acque condotte dentro. Né sempre saranno
-                        apparecchiati, o fonti, o fiumi, dei quali tu possa cavare le acque.
-                            <persName ref="#AlexandreLeGrand">Alessandro</persName> per potere
-                        havere dell'acqua per la Armata lungo il Mare, et il lito Persico, fece
-                        cavare dei pozzi. Dice <persName ref="#Appien">Appiano</persName> che
-                            <persName ref="#HannibalBarca">Hannibale</persName> quando era stretto
-                        da <persName ref="#ScipionAfricain">Scipione</persName> alla Città di
+                            ref="#Babylone">Babilonia</placeName> perché ella era edificata in luogo
+                        arido furono condotti et il Tigre et lo Eufrate. <persName ref="#Semiramis"
+                            >Semiramis</persName> introdusse nella Città <placeName ref="#Ecbatane"
+                            >Ecbatana</placeName> uno Aquidotto, forato un alto monte per stadi 25
+                        con una fossa larga quindici piedi. Il Re Arabo dal fiume Coro di <placeName
+                            ref="#ArabieSaoudite">Arabia</placeName> sino a quei luoghi deserti et
+                        aridi, dove egli aspettava <persName ref="#CambyseII">Cambise</persName> (se
+                        noi crediamo ogni cosa, ad <persName ref="#Herodote">Erodoto</persName>)
+                        condusse l'acqua, havendo fatto il condotto di pelle di Tori. Appresso ai
+                        Sami infra le opererare era per maravigliosa tenuta, una fossa lunga
+                        settanta stadi tirata per un monte alto cento cinquanta cubiti.
+                        Maravigliavansi ancora di uno condotto fatto da <persName ref="#Megaro"
+                            >Megaro</persName>, che era alto venti piedi, mediante il quale si
+                        conduceva il fonte nella Città. Ma a mio giuditio la Città di <placeName
+                            ref="#Rome">Roma</placeName> superò di gran lunga tutti costoro, et di
+                        grandezza di muraglie,<pb n="364"/> et di artifitio del condurle, et della
+                        gran copia delle acque condotte dentro. Né sempre saranno apparecchiati, o
+                        fonti, o fiumi, dei quali tu possa cavare le acque. <persName
+                            ref="#AlexandreLeGrand">Alessandro</persName> per potere havere
+                        dell'acqua per la Armata lungo il Mare, et il lito Persico, fece cavare dei
+                        pozzi. Dice <persName ref="#Appien">Appiano</persName> che <persName
+                            ref="#HannibalBarca">Hannibale</persName> quando era stretto da
+                            <persName ref="#ScipionAfricain">Scipione</persName> alla Città di
                             <placeName ref="#CaputCilla">Cilla</placeName> nel mezo della campagna
                         per non vi essere acqua provedde alla necessità dei soldati, con farvi fare
                         dei pozzi. Aggiugnici ancora che ogni acqua che tu truovi non è buona né
@@ -16283,20 +16283,20 @@
                         di giorno è freddo et di notte è caldo. Appresso dei Segestani lo Helbeso
                         nel mezo del corso subito si riscalda. Il fonte Sacro di <placeName
                             ref="#Epire">Epiro</placeName>, spegne le cose, che vi si mettono
-                        accese, et accende quelle, che vi si mettono spente. In
-                            <placeName>Eleusina</placeName> il fonte che vi è, salta et si rallegra
-                        al suono delle Tybie. Gli animali forestieri quando beono del fiume Indo si
-                        mutano di colori. Nel lito del Mare Eritreo ancora vi è un fonte, del quale
-                        se le pecore ne beono, subito si muta loro la lana in colore oscuro. A fonti
-                            <placeName>Laodicensi</placeName> tutti i bestiami di quattro piedi, che
-                        vi nascono vicini, sono di colore gialliccio. Nella campagna Gadarena vi è
-                        una acqua, la quale se il bestiame ne bee, perde subito et la lana, et le
-                        unghie. Presso al Mare Hyrcano vi è un lago, nel quale tutti coloro, che vi
-                        si lavano diventano Rognosi, et si guariscono solamente con olio. A
-                            <placeName ref="#Suse">Susa</placeName>, è una Acqua, che fa cascare i
-                        denti. Presso allo stagno Zelonio è una fonte della quale chi bee diventa
-                        sterile; et ve n'é un'altra che chi ne bee torna feconda. Et in
-                            <placeName>Scio</placeName> n'è una, che fa diventare pazzo chi ne bee,
+                        accese, et accende quelle, che vi si mettono spente. In <placeName
+                            ref="#EleusisGrece">Eleusina</placeName> il fonte che vi è, salta et si
+                        rallegra al suono delle Tybie. Gli animali forestieri quando beono del fiume
+                        Indo si mutano di colori. Nel lito del Mare Eritreo ancora vi è un fonte,
+                        del quale se le pecore ne beono, subito si muta loro la lana in colore
+                        oscuro. A fonti Laodicensi tutti i bestiami di quattro piedi, che vi nascono
+                        vicini, sono di colore gialliccio. Nella campagna Gadarena vi è una acqua,
+                        la quale se il bestiame ne bee, perde subito et la lana, et le unghie.
+                        Presso al Mare Hyrcano vi è un lago, nel quale tutti coloro, che vi si
+                        lavano diventano Rognosi, et si guariscono solamente con olio. A <placeName
+                            ref="#Suse">Susa</placeName>, è una Acqua, che fa cascare i denti.
+                        Presso allo stagno Zelonio è una fonte della quale chi bee diventa sterile;
+                        et ve n'é un'altra che chi ne bee torna feconda. Et in
+                            <placeName ref="#Chios">Scio</placeName> n'è una, che fa diventare pazzo chi ne bee,
                         et altrove una, che non solamente beuta, ma a fatica gustata fa morire
                         altrui ridendo, et si truova una acqua ancora, che se tu ti lavassi con essa
                         ti faria morire. Et in <placeName ref="#Arcadie">Arcadia</placeName>
@@ -16646,16 +16646,17 @@
                         acque del Tevere, beute dalla maggior parte sempre quasi torbidiccie. Né sia
                         fuori di proposito che i Medici antichi nel curare le febbre Romanesche, ne
                         comandano che noi usiamo lo Aceto squillitico et gli Incisivi. Torno a
-                        proposito. Andiamo investigando una Acqua, che sia ottima.
-                            <persName>Celso</persName> Fisico disse questo delle Acque, che la
-                        piovana era leggerissima, nel secondo luogo poi era quella delle Fontane,
-                        nel terzo quella dei Fiumi, nel quarto, quella de pozzi, nel quinto et
-                        ultimo luogo quella che si liquefaceva, o della Neve, o del Diaccio. Più
-                        grave di nessuna di queste era quella del lago, et la pessima sopra tutte
-                        l'altre quella delle paludi. La città di <placeName>Mazzara</placeName>
-                        sotto il Monte <placeName ref="#Argos">Argo</placeName> abonda di buone
-                        acque, ma perché la state elle non hanno dove scorrere diventano mal sane,
-                        et pestifere. Tutti questi, che sanno sono di questo parere, che <choice>
+                        proposito. Andiamo investigando una Acqua, che sia ottima. <persName
+                            ref="#AulusCorneliusCelsus">Celso</persName> Fisico disse questo delle
+                        Acque, che la piovana era leggerissima, nel secondo luogo poi era quella
+                        delle Fontane, nel terzo quella dei Fiumi, nel quarto, quella dei pozzi, nel
+                        quinto et ultimo luogo quella che si liquefaceva, o della Neve, o del
+                        Diaccio. Più grave di nessuna di queste era quella del lago, et la pessima
+                        sopra tutte l'altre quella delle paludi. La città di
+                            <placeName>Mazzara</placeName> sotto il Monte <placeName ref="#Argos"
+                            >Argo</placeName> abonda di buone acque, ma perché la state elle non
+                        hanno dove scorrere diventano mal sane, et pestifere. Tutti questi, che
+                        sanno sono di questo parere, che <choice>
                             <sic>e'</sic>
                             <corr>ei</corr>
                         </choice> dicono che l'acqua, di sua natura è un corpo non mescolato et
@@ -16899,12 +16900,12 @@
                         per il grande circuito di quella, a fatica si conosce la sua asprezza, et
                         che egli interviene come nel vuovo il quale se bene è ronchioso nondimeno
                         nella grandezza del suo gran circuito non si considerano, et non si stimano
-                        quei piccioli rilievi, che vi sono. Et è cosa certa, secondo
-                            <persName>Eratostene</persName> che il gran circuito della terra, è
-                        dugento cinquanta dua milia stadi, et che e'non si truova monte nessuno
-                        tanto alto, né acqua nessuna tanto profonda che il loro piombo passi 15000
-                        cubiti non il Monte Caucaso certamente, in la cima del quale batte il Sole
-                        sino alle tre hore di notte. Egli è in <placeName ref="#Arcadie"
+                        quei piccioli rilievi, che vi sono. Et è cosa certa, secondo <persName
+                            ref="#Eratosthene">Eratostene</persName> che il gran circuito della
+                        terra, è dugento cinquanta dua milia stadi, et che e'non si truova monte
+                        nessuno tanto alto, né acqua nessuna tanto profonda che il loro piombo passi
+                        15000 cubiti non il Monte Caucaso certamente, in la cima del quale batte il
+                        Sole sino alle tre hore di notte. Egli è in <placeName ref="#Arcadie"
                             >Arcadia</placeName> un grandissimo monte chiamato Cylleno, et chi ha
                         misurato il suo piombo dice che <choice>
                             <sic>e'</sic>
@@ -17453,21 +17454,22 @@
                         dalla parte di sotto sieno scavati et afondi di letto; si ancora atorno a
                         quei luoghi, del fiume, dove egli stretto dalle ripe sbocca in luoghi più
                         larghi; quanto l'acqua cadendo et aggirandovisi consumi et divori ciò che di
-                        ripa se li oppone. Io ardisco di dire che il <objectName>ponte di
-                            Adriano</objectName> in <placeName ref="#Rome">Roma</placeName> è il più
-                        gagliardo edifitio che mai sia stato fatto dagli huomini, non di meno le
-                        piene l'hanno ridotto a tale, che io dubito che ei non possa resistere molto
-                        tempo. Le piene ogni anno caricano le pile di molestie, dei pedali et dei
-                        rami degli alberi che elle lievano via della campagna, et in gran parte
-                        hanno riturati, i vani degli archi. Per la quale cosa adviene che le acque
-                        gonfiano, et per questo cascano da alto ritrosi <reg>d'acque</reg>
-                        precipitosamente, et molesti che quivi si raggirano, adunque scavano sotto
-                        le poppe delle pile, et fanno danno a una tanta machina. Insino a qui basti
-                        dei fianchi dei fiumi. Tratteremo hora del fondo del fiume. Scrive <persName
-                            ref="#Herodote">Erodoto</persName> che <persName>Nicotrice</persName>
-                        presso a <placeName>Mesopotamia</placeName> ritardò il corso dello Eufrate
-                        che andava troppo veloce con farlo andare piegato et torto, et certamente
-                        che <choice>
+                        ripa se li oppone. Io ardisco di dire che il <objectName
+                            ref="#PonteSantAngeloRome">ponte di Adriano</objectName> in <placeName
+                            ref="#Rome">Roma</placeName> è il più gagliardo edifitio che mai sia
+                        stato fatto dagli huomini, non di meno le piene l'hanno ridotto a tale, che
+                        io dubito che ei non possa resistere molto tempo. Le piene ogni anno
+                        caricano le pile di molestie, dei pedali et dei rami degli alberi che elle
+                        lievano via della campagna, et in gran parte hanno riturati, i vani degli
+                        archi. Per la quale cosa adviene che le acque gonfiano, et per questo
+                        cascano da alto ritrosi <reg>d'acque</reg> precipitosamente, et molesti che
+                        quivi si raggirano, adunque scavano sotto le poppe delle pile, et fanno
+                        danno a una tanta machina. Insino a qui basti dei fianchi dei fiumi.
+                        Tratteremo hora del fondo del fiume. Scrive <persName ref="#Herodote"
+                            >Erodoto</persName> che <persName>Nicotrice</persName> presso a
+                            <placeName ref="#Mesopotamie">Mesopotamia</placeName> ritardò il corso
+                        dello Eufrate che andava troppo veloce con farlo andare piegato et torto, et
+                        certamente che <choice>
                             <sic>e'</sic>
                             <corr>ei</corr>
                         </choice> ne seguita di ciò questo che l'acqua si mantiene più, dove ella
@@ -17671,10 +17673,10 @@
                         de Colchi, et molti altri et massimo il Nilo. Gli Antichi chiamarono lo
                             <placeName ref="#Egypte">Egitto</placeName> casa del Nilo, et affermano
                         che già era ricoperto sino alle Palude Pelusie dal Mare. Et dicono che alla
-                            <placeName>Cilicia</placeName> fu aggiunto una grande parte dal fiume.
-                            <persName ref="#Aristote">Aristotile</persName> dice che il moto delle
-                        cose è continuo, et che in processo di tempo averrà che il Mare si scambierà
-                        di luogo con i monti, di qui disse colui.</p>
+                            <placeName ref="#Cilicie">Cilicia</placeName> fu aggiunto una grande
+                        parte dal fiume. <persName ref="#Aristote">Aristotile</persName> dice che il
+                        moto delle cose è continuo, et che in processo di tempo averrà che il Mare
+                        si scambierà di luogo con i monti, di qui disse colui.</p>
                     <p><hi rend="it"><l>“Ciò che è sotterra in processo di tempo.</l>
                             <l>Si scoprirrà palese, et verrà fuori,</l>
                             <l>Et le cose scoperte andrano sotterra.”</l></hi></p>
@@ -18021,7 +18023,7 @@
                             >Aristotile</persName> che tu caccerai fuori di casa tutti gli animali,
                         che vanno col corpo per terra serpeggiando, con lo odore della ruta: Et
                         rinchiuderai in una pentola se tu vi metterai della carne, la moltitudine
-                        delli vespi, et con zolfo, et con rigano salvatico messo ne ibuchi delle
+                        delli vespi, et con zolfo, et con rigano salvatico messo nei buchi delle
                         formiche le esterminerai. <persName>Sabino Tyro</persName> scrisse a
                             <persName ref="#Mecene">Mecenate</persName> che elle si levavano via se
                         con loto di mare, o con cenere se li rituravano i buchi. <persName
@@ -18054,10 +18056,10 @@
                             <sic>e'</sic>
                             <corr>ei</corr>
                         </choice> si ammazzino le cimici lo descrive <persName>Saserno</persName>
-                        con queste parole. Metti sotto l'acqua un Melone di quelli che i latini
+                        con queste parole. <quote>Metti sotto l'acqua un Melone di quelli che i latini
                         chiamarono Cucumer anguinus, et gettala dove tu vuoi che elle non vi si
                         accosteranno mai, o veramente <reg>ungi</reg> il letto con fiele di Bufolo
-                        mescolato con aceto. Altri vogliono che si turino i buchi con la feccia del
+                        mescolato con aceto.</quote> Altri vogliono che si turino i buchi con la feccia del
                         vino. La barba del cerro dice <persName ref="#Pline">Plinio</persName> è
                         molto nimica alli Scorpioni, et contro a simili nocive bestiuole, et massimo
                         contro ai serpenti il Frassino, ha una possanza miracolosa. I serpenti non
@@ -18117,9 +18119,9 @@
                         dallo strepito patisca, a questa incommodità impariamo dalla epistola del
                         più giovine <persName ref="#PlineLeJeune">Plinio</persName>, in che modo noi
                         ci habbiamo a rimediare benissimo, con queste parole: <quote>A queste stanze
-                            è congiunta la camera della notte et del sonno, ne si sente in quella le
-                            voci de serui, non il mormorio del Mare, non il moto del tenporale, non
-                            il lume de Baleni, ne esso giorno ancora, se non apri le finestre, tanto
+                            è congiunta la camera della notte et del sonno, né si sente in quella le
+                            voci de servi, non il mormorio del Mare, non il moto del tenporale, non
+                            il lume de Baleni, né esso giorno ancora, se non apri le finestre, tanto
                             è riposta et secreta. Et la ragione è che uno androne posto infra il
                             muro della camera et quello dell'orto, gli separa l'uno da l'altro, et
                             in questo modo svanisce mediante questo spatio, ogni suono et ogni
@@ -18128,13 +18130,13 @@
                         si piegano da loro diritti. Varie sono le cause di questi difetti, vari
                         ancora i Rimedi delle cause, alcune ne sono manifeste et alcune più occulte,
                         et non è così manifesto qual'cosa si giovi se non dopo il ricevuto
-                        mancamento. Et alcune oltra queste non sono molto oscure, ma forse non
+                        mancamento. Et alcune oltra queste non sono molto oscure. Ma forse non
                         vagliono tanto a danno delli edifiti, quanto si sono persuasi gli huomini
                         per la loro negligentia, le cause manifeste nelle mura saranno queste, come
                         per modo di dire se il muro fusse più sottile, se <choice>
                             <sic>e'</sic>
                             <corr>ei</corr>
-                        </choice> non fusse ben conlegato insieme, se fusse pieno di vani nocivi, o
+                        </choice> non fusse ben collegato insieme, se fusse pieno di vani nocivi, o
                         finalmente se non havesse ossami bastanti et gagliardi contro le ingiurie
                         dei temporali.<pb n="400"/> Ma quelle cose, che di nascoso o fuori di
                         speranza accaggiono son queste, il movimento della terra, le saette, la
@@ -18150,13 +18152,13 @@
                         difendessino. <persName ref="#MarcusVipsaniusAgrippa">Agrippa</persName> per
                         tale conto ne lasciò pagati dugento cinquanta. Ma <persName
                             ref="#JulesCesar">Cesare</persName> 460 et lasciarono alli edifiti
-                        quindici piedi vicini che stessino liberi intorno alli Aquidotti, accioché i
-                        fianchi et le volte delli Aquidotti non fussino intrapresi da alcuna radice
-                        di Alberi che gli rovinassero, questo medesimo pare che facessino ancora i
-                        privati, in quelli edifiti, che <choice>
+                        quindici piedi vicini che stessino liberi intorno alli aquidotti, accioché i
+                        fianchi et le volte delli aquidotti non fussino intrapresi da alcuna radice
+                        di alberi che gli rovinassero. Questo medesimo pare che facessino ancora i
+                        privati, in quelli edifiti che <choice>
                             <sic>e'</sic>
                             <corr>ei</corr>
-                        </choice> volevano che fussino etterni. Percioché nelle muraglie dei loro
+                        </choice> volevano che fussino eterni. Percioché nelle muraglie dei loro
                         sepolcri, scrivevano quante braccia di terreno lasciassino consegrate alla
                         religione, altri quindici et altri venti, ma per non raccontare queste cose <choice>
                             <sic>e'</sic>

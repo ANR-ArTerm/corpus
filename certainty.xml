@@ -107,7 +107,7 @@
             <desc>Alberti nomme ce monument <objectName>Temple de Léto</objectName> mais d'après la
                 description qu'il en fait il semblerait que ce soit plutôt la <objectName
                     ref="#BasiliqueDeMaxenxeConstantinRome">Basilique de Maxence et
-                    Constantin</objectName><bibl key="albertileonbattistaLarchitettura1989"
+                    Constantin</objectName><bibl key="AlbertiArchitettura1989"
                 />.</desc>
         </certainty>
         <certainty xml:id="TempleAthena" locus="value">
@@ -146,6 +146,7 @@
                 néanmoins un <objectName ref="RembrandtAutoportraitAvecSaskiaRijksmuseum">portrait
                     gravé des époux</objectName> que l'on signale donc.</desc>
         </certainty>
+        <certainty xml:id="PieterCoeckeVanAelstTenture" locus="value"> <desc> La tenture de l'histoire de Saint Paul figure des soldats vétus "à la turc" et sa réalisation coïncide avec son retour de Constantinople, aussi, il est possible que l'artiste ait conçu une partie des compositions de la <objectName ref="#PieterCoeckeVanAelstTentureSaintPaul">tenture </objectName> au cours de son voyage. </desc> </certainty>
         <certainty xml:id="JeanCousinJugementDernier" locus="value">
             <desc> L'auteur fait ici référence à <ojectName
                     ref="#JeanCousinLeJeuneJugementDernierLouvre">l'oeuvre ayant été exposée au
@@ -153,6 +154,10 @@
                 au musée du Louvre, est attribuée à son fils, Jean Cousin dit le Jeune. Néanmoins,
                 l'on connait du père un <objectName ref="#JeanCousinJugementDernierReims">Jugement
                     dernier conservé au musée des Beaux-Arts de Reims</objectName>.</desc>
+        </certainty>
+        <certainty xml:id="PhilippeDeChampaigneCouventCarmelitesParis" locus="value"> 
+            <desc> Il est possible que les peintures de <objectName ref="#PhilippeDeChampaignePresentationTempleDijon">la Présentation au Temple </objectName> conservée au musée des Beaux-arts de Dijon, 
+                <objectName ref="#PhilippeDeChampaigneResurrectionLazareGrenoble"> la Résurrection de Lazare</objectName>  de Grenoble et <objectName ref="#PhilippeDeChampaigneAssomptionLouvre"> l'Assomption </objectName> du Louvre viennent de l'église du couvent des Carmelites. </desc> 
         </certainty>
         <certainty xml:id="PhilippeDeChampaignePortraitsRichelieu" locus="value">
             <desc> Roger de Piles le précise lui-même dans son texte, Philippe de Champaigne a peint
@@ -174,6 +179,9 @@
                     portrait</objectName> conservé à Londres, enfin, <objectName
                     ref="#PhilippeDeChampaignePortraitProfilRichelieuStrasbourg">le portrait de
                     profil</objectName> du musée des Beaux-Arts de Strasbourg.</desc>
+        </certainty>
+        <certainty xml:id="CharlesLeBrunPortraitAieul" locus="value"> <desc> Il est probable que Roger De Piles fasse ici référence au <objectName ref="#CharlesLeBrunPortraitNicolasLeBrunResidenzgalerie">portrait de Nicolas Le Brun </objectName> peint par son fils. </desc>
+
         </certainty>
         <certainty xml:id="CharlesLeBrunMaySaintPierre" locus="value">
             <desc> Roger De Piles se trompe sur l'identification du saint martyrisé. Le premier May

@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="fra">Ragionamenti Accademici sopra alcuni luoghi difficili di
+            <title xml:lang="ita">Ragionamenti Accademici sopra alcuni luoghi difficili di
                Dante</title>
             <respStmt>
                <name>Anaïs Mazoué</name>
@@ -18,6 +18,14 @@
                <name>Carla Tricon</name>
                <resp>Identification des œuvres</resp>
             </respStmt>
+            <respStmt>
+               <name>Elisa Bonaiuti</name>
+               <resp>Correction, Identification des œuvres</resp>
+            </respStmt>
+            <respStmt>
+               <name>Nicolò Zanolli</name>
+               <resp>Correction, Identification des œuvres</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
@@ -27,7 +35,7 @@
             <pubPlace>Paris</pubPlace>
             <date when="2028">2028</date>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora ©
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora ©
                   2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
             </availability>
          </publicationStmt>
@@ -35,7 +43,7 @@
             <bibl>Public domain<author ref="ark:/12148/cb125520809">Bartoli<idno type="ISNI">ISNI
                      0000 0001 2281 1371</idno>
                </author>
-               <title xml:lang="fra">Ragionamenti Accademici sopra alcuni luoghi difficili di
+               <title xml:lang="ita">Ragionamenti Accademici sopra alcuni luoghi difficili di
                   Dante</title>
                <publisher>Francesco de' Franceschi Senese</publisher>
                <pubPlace>Venezia</pubPlace>
@@ -4116,7 +4124,7 @@
                   ref="TempleSante">Tempio della Salute</objectName>, scrivervi dentro il nome suo?
                solamente perché rimanesse di lui quella Gloria. Et <persName ref="#Phidias"
                   >Fidia</persName> Scultore celebratissimo havendo fatta quella bellissima
-                  <objectName ref="#MinervePhidias">statua di Minerva </objectName>non sculpi la sua
+                  <objectName ref="#PhidiasAthenaParthenos">statua di Minerva </objectName>non sculpi la sua
                stessa effigie nello scudo di quella. </l>
             <l><persName ref="#PietroDarica">P.</persName> Et <persName ref="#AlbrechtDurer">Alberto
                   Durero</persName> tanto celebrato pittore ne tempi nostri, quante poche historie
