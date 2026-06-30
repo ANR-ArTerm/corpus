@@ -4,38 +4,86 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">titre du document</title>
+        <title xml:lang="ita">Trattato della pittura novamente dato in luce, con la vita dell'istesso autore, scritta da Rafaelle du Fresne, si sono giunti i tre libri della pittura, et il trattato della statua di Leon Battista Alberti, con la vita del medesimo</title>
         <respStmt>
-          <resp>Texte édité par </resp>
-          <name>Anna Sconza</name>
+          <name>Octave Philibert</name>
+          <resp>Balisage, Indexation</resp>
         </respStmt>
         <respStmt>
-          <resp>Texte saisi et annoté par </resp>
           <name>Youssouf Diawara</name>
+          <resp>Transcription, Structuration [Flora Belin, Maxine Schoehuys-Kreiss]</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anna Sconza</name>
+          <resp>Correction</resp>
+        </respStmt>
+        <respStmt>
+          <name>Irene Calcagno</name>
+          <resp>Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Pierre Husson</name>
+          <resp>Correction, Identification des œuvres</resp>
         </respStmt>
       </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
       <publicationStmt>
-        <p>Édition électronique réalisée à la Sorbonne-Nouvelle</p>
-        <p>Édition électronique réalisée pour le projet "Paris-Rome : des langages pour les images : la terminologie artistique (XIVe-XVII e siècles, France-Italie)" </p>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>
-          <textLang mainLang="ita">français</textLang>
-          <author ref="#LeonardoDaVinci"> Léonard De Vinci </author>
-          <editor ref="#RolandFreartDeChambray"> Roland Fréart Sieur de Chambray </editor>
-          <title xml:lang="ita"> Traitté de la peinture de Leonard De Vinci </title>
-          <title xml:lang="ita"> Donné au public et traduit de l'italien en françois par Roland Fréart Sieur de Chambray </title>
-          <publisher> Imprimerie de <name>JACQUES LANGLOIS</name>, Imprimeur ordinaire du Roy </publisher>
-          <pubPlace> Reyne de Paix </pubPlace>
-          <address>
-            <addrLine> mont Saincte Geneviefve, vis-à-vis la Fonteine, à la Reyne de Paix. </addrLine>
-          </address>
+        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/ark:/12148/cb11912491s">Da Vinci<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=12/TTL=1/SHW?FRST=3</idno>
+          </author>
+          <title xml:lang="ita">Trattato della pittura novamente dato in luce, con la vita dell'istesso autore, scritta da Rafaelle du Fresne, si sono giunti i tre libri della pittura, et il trattato della statua di Leon Battista Alberti, con la vita del medesimo</title>
+          <publisher>Jacques Langlois</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1651">1651</date>
         </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb39316381f</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettres + biographie + avis) + body (365 chapitres dans un livre L1) + back (lettre, biographie, postface)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
     </profileDesc>
   </teiHeader>
   <text>
@@ -460,7 +508,7 @@
         <p xml:id="VIN_TPITA_biographie_P2"> Uscito dalla scuola <persName ref="#LeonardoDaVinci"> Lionardo </persName>, et essendo già in età da poter governare se stesso, fece in <placeName ref="#Florence"> Fiorenza </placeName> quelle opere che dal <persName ref="#GiorgioVasari"> Vasari </persName> vengono accennate, cioè per il <persName ref="#AlphonseV"> re di Portogallo </persName> il <objectName ref="">cartone di <hi rend="it"><persName ref="#Adam">Adamo</persName> e d'<persName ref="#Eve">Eva</persName>
             </hi></objectName> quando peccarono nel paradiso terrestre, nel quale, oltre le due figure, vi dipinse di chiaro oscuro con incredibile patienza e diligenza gli alberi e le herbette de' prati. Fece ancora ad istanza di <persName ref="#PieroDaVinci">Piero suo padre </persName>, per un suo contadino da <placeName ref="#Vinci"> Vinci</placeName>, sopra una rotella di fico, una tal compositione di diversi e strani animalucci, come serpi, lacertole, ramarri, grilli e locuste, che di tutti insieme sene formava uno, tanto spaventevole et horribile, ch'a guisa della <hi rend="it"><objectName ref="#LeonardMeduse">testa di Medusa</objectName></hi> rendeva immobile da stupore chiunque lo riguardava. Ma giudicando il padre che questa non era opera da mettere in mani di villano, vendutala a certi mercadanti fu poi comprata per 300. ducati dal <persName ref="#LudovicoSforza"> duca di <placeName ref="#Milan">Milano</placeName>
           </persName>. Fece in un quadro una <hi rend="it"><objectName ref="#LeonardMadoneOeillet">Madonna</objectName></hi> rarissima, e fra le altre cose vi contrafece una caraffa piena d'acque con alcuni fiori dentro, sopra la quale con admirabile artificio haveva imitato la rugiada dell'acqua : il qual quadro hebbe poi <persName ref="#ClementVII">Papa Clemente settimo </persName>. Fa ancora mentione il <persName ref="#GiorgioVasari"> Vasari </persName> d'un disegno fatto sopra un foglio per <persName ref="#AntonioSegni"> Antonio Segni </persName> suo amicissimo, nel quale con rare inventione, e con la sua ordinaria accuratezza figurò un <hi rend="it"><objectName ref="#LeonardDessinNeptune"><persName ref="#Neptune">Nettuno</persName></objectName></hi> in mezzo al mare turbato, col suo carro tirato da cavalli marini, accompagnato di orche, tritoni, et altre cose fantastiche che gli parsero a proposito per un tal soggetto. </p>
-        <p xml:id="VIN_TPITA_biographie_P3"> In questo luogo osservaremo che benché <persName ref="#LeonardoDaVinci"> il Vinci </persName> sapesse a tal segno in che cosa consistesse quella divina proportione ch'è madre della bellezza, che le sue figure piene di gratie inspiravano amore a' risguardanti, pigliò nondimeno tanto gusto nel dipingere cose bizzarre et alterate, che s'egli s'imbatteva in qualche villano che con viso strano et alquanto fuor del ordinario dasse un poco nel ridicolo invaghito dalla bizzarria dell'obbietto l'haverebbe seguitato un giorno intiero, fin'a tanto ch' havendone una perfetta idea, ritornato a casa lo disegnava come se l'havesse havuto presente. Et osserva <persName ref="#GiovanniPaoloLomazzo"> Paolo Lomazzo </persName> nel <bibl key="lomazzoTrattatoDellartePittura1584" ref="p. 359-360">sesto della pittura cap. 32. </bibl> che nel suo tempo <persName ref="#AurelioLuini">Aurelio Lovino</persName> ne haveva cinquanta in un libro disegnati di sua mano. In questo genere è dipinto quel quadro che si vede qui a <placeName ref="#Paris">Parigi</placeName> fra molti altri che si conservano in una stanza del <objectName ref="#TuileriesParis">palazzo reale delle Tuillerie</objectName> sotto la guardia del <persName ref="#JeanLemaire"> signore Le Maire pittore </persName>, come ogn'un sa, di non ordinario valore, nel quale sono dipinti due cavalieri in atto di togliere per forza a due altri una bandiera : il qual groppo faceva parte d'una opera maggiore, cioè del <objectName ref="#LeonardAnghiari"> cartone </objectName> ch'egli fece per <placeName> la sala del palazzo di <placeName ref="#Florence">Fiorenza</placeName>
+        <p xml:id="VIN_TPITA_biographie_P3"> In questo luogo osservaremo che benché <persName ref="#LeonardoDaVinci"> il Vinci </persName> sapesse a tal segno in che cosa consistesse quella divina proportione ch'è madre della bellezza, che le sue figure piene di gratie inspiravano amore a' risguardanti, pigliò nondimeno tanto gusto nel dipingere cose bizzarre et alterate, che s'egli s'imbatteva in qualche villano che con viso strano et alquanto fuor del ordinario dasse un poco nel ridicolo invaghito dalla bizzarria dell'obbietto l'haverebbe seguitato un giorno intiero, fin'a tanto ch' havendone una perfetta idea, ritornato a casa lo disegnava come se l'havesse havuto presente. Et osserva <persName ref="#GiovanniPaoloLomazzo"> Paolo Lomazzo </persName> nel <bibl key="lomazzoTrattatoDellartePittura1584" ref="p. 359-360">sesto della pittura cap. 32. </bibl> che nel suo tempo <persName ref="#AurelioLuini">Aurelio Lovino</persName> ne haveva cinquanta in un libro disegnati di sua mano. In questo genere è dipinto quel quadro che si vede qui a <placeName ref="#Paris">Parigi</placeName> fra molti altri che si conservano in una stanza del <objectName ref="#PalaisTuileriesParis">palazzo reale delle Tuillerie</objectName> sotto la guardia del <persName ref="#JeanLemaire"> signore Le Maire pittore </persName>, come ogn'un sa, di non ordinario valore, nel quale sono dipinti due cavalieri in atto di togliere per forza a due altri una bandiera : il qual groppo faceva parte d'una opera maggiore, cioè del <objectName ref="#LeonardAnghiari"> cartone </objectName> ch'egli fece per <placeName> la sala del palazzo di <placeName ref="#Florence">Fiorenza</placeName>
           </placeName> , che di sotto si dirà, ma per la sua bellezza fu da lui dipinto in picciolo volume con gusto et amore incredibile. Qui oltre la furia <pb facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f17/full/full/0/native.jpg"/> de' cavalli, e la bizzarria de' vestimenti, si vedono le teste de' combattenti grinzute, infocate et infuriate, con aria tanto straordinaria e stravagante, e per dir così caricata, e da mascarone, ch'in un medesimo tempo destano e paura e riso nell'animo de' risguardanti. </p>
         <p xml:id="VIN_TPITA_biographie_P4"> Tornando alle prime opere di <persName ref="#LeonardoDaVinci"> Lionardo da Vinci </persName>, dice <persName ref="#GiorgioVasari"> Giorgio Vasari </persName> ch'egli cominciò in un quadro a oglio una <objectName ref="#LeonardMeduse">testa di Medusa</objectName> di stravagante inventione, la quale rimase imperfetta. Diede ancora principio a una tavola dell' <objectName ref="#LeonardAdorationMages"> adoratione de' magi </objectName>, nella quale erano alcune bellissime teste; ma non fu mai finita, come soleva per lo più intervenire a tutte le cose sue. Perché havendo egli un'infinità di belle cognitioni, et essendo di natura vivace, e di fertilissimo ingegno, non si tosto haveva cominciato una opera, che gli veniva in pensiero di metterne in esecutione un'altra. Et oltre la professione della pittura, che per quella tanto diligente maniera da lui abbracciata, poteva occuparlo tutto, attendeva alla scultura, e modellava divinamente bene. Era intelligentissimo della geometria, e nella mecanica non cessava mai di pensare a nuovi ordegni, e fu inventore di diverse machine. Era buonissimo architetto, e sapeva al pari di nissun altro la scienza de' specchi, e la prospettiva. Studiò ancora le proprietà delle herbe, e penetrando con l'ingegno fino nel cielo s'applicò alli studii dell'astronomia, e fece molte osservationi circa il moto delle stelle. Nella musica riuscìi admirabile, e fu tanto leggiadro nel cantare, e nel sonare, che superò tutti i musici del suo tempo : et accioché non gli mancasse virtù alcuna, quell'istesso furore inspirandogli da <persName ref="#Apollon"> Apolline </persName> che lo fece pittore e musico, lo fece ancora poëta. Ma essendosi perse tutte le sue compositioni, è solo pervenuto fin' a noi questo sonetto morale : </p>
         <lg>
@@ -491,7 +539,7 @@
         <p xml:id="VIN_TPITA_biographie_P11"> Dopo la caduta del <persName ref="#FrancescoSforza">Moro</persName>, che fu l'anno <date when="1500"> 1500 </date> condotto prigione in <placeName ref="#France">Francia</placeName> e morì nella torre di <placeName ref="#Loches">Loces </placeName> , per le guerre che succedettero, s'intepidì assai in <placeName><placeName ref="#Milan">Milano</placeName></placeName> lo studio delle belle arti, e si dissipò poco a poco l'accademia già cominciata, nella quale erano riusciti eccellenti nella pittura <persName ref="#FrancescoMelzi"> Francesco Melzi </persName>, <persName ref="#CesareDaSesto"> Cesare Sesto </persName>, <persName ref="#BernardinoLuini"> Bernardo Lovino </persName>, <persName ref="#AndreaSalaino"> Andrea Salaino </persName>, <persName ref="#MarcoDOggiono"> Marco Uggioni </persName>, <persName ref="#GiovanniAntonioBoltraffio"> Antonio Boltraffio </persName>, <persName ref="#GiovanniPaoloLomazzo"> Paolo Lomazzo </persName>, et altri Milanesi, tutti imitatori del <persName ref="#LeonardoDaVinci">Vinci</persName>, a tal segno che spesso le opere loro vennero e vengono hoggidi credute, stimate, e vendute per fattura di <persName ref="#LeonardoDaVinci">Lionardo</persName>, e principalmente quelle del <persName ref="#CesareDaSesto">Sesto</persName> e del <persName ref="#BernardinoLuini">Lovino</persName>, che più si accostarono alla maniera del maestro. Ma sopra tutti si sarebbe inalzato il <persName ref="#GiovanniPaoloLomazzo">Lomazzo</persName> se non rimaneva privo de gli occhi ne' più verdi anni dell'età sua, come gli era stato predetto da <persName ref="#GerolamoCardano"> Girolamo Cardano </persName> : e non potendo con la mano si diede a trattar la pittura con l'ingegno, e cieco ne compose quei libri che da i più occhiuti sono stimati eccellenti; ne' quali egli propone continuamente il <persName ref="#LeonardoDaVinci">Vinci</persName> per idea del vero e perfetto pittore. </p>
         <p xml:id="VIN_TPITA_biographie_P12"> Nel tempo che <persName ref="#LouisXII">Lodovico XII</persName> re di <placeName ref="#France">Francia</placeName> venne a <placeName ref="#Milan">Milano</placeName>, che fu un anno avanti la presa del Moro essendo pregato il Vinci da' principali della città d'inventare qualche machina capricciosa e magnifica con la quale si potesse regalare e dilettare quel gran prencipe, fece <objectName ref="#LeonardLionMecanique"> un lione </objectName> di tale artificio, che dopo haver caminato buon pezzo in una sala, si fermò inanzi al re, e poi aprendosi il petto, fu visto essere tutto pieno di gigli. Per error di chi scrisse sotto <persName ref="#GiovanniPaoloLomazzo"> Lomazzo </persName> libro 2 capitolo I si legge che tal cosa fu fatta per <persName ref="#FrancoisIer">Francesco I</persName>, il che non può essere vero, perché egli entrò l'anno <date when="1515"> 1515 </date> in <placeName ref="#Milan">Milano</placeName>, nel qual tempo <persName ref="#LeonardoDaVinci"> Lionardo </persName> era in <placeName ref="#Rome">Roma</placeName>, come di sotto si vedrà. </p>
         <p xml:id="VIN_TPITA_biographie_P13"> Le torbolenze di <placeName ref="#Lombardie">Lombardia</placeName>, e gl'infortunii de gli <persName> Sforzi </persName> , padroni di <persName ref="#LeonardoDaVinci"> Lionardo </persName>, l'obbligarono ad abbandonar <placeName ref="#Milan">Milano</placeName>, e tornare a <placeName ref="#Florence"> Fiorenza </placeName> sua patria. La prima cosa ch'egli vi fece fu quel famoso cartone della <objectName ref="#LeonardCartonBurlington"> Vergine col Christo e Santa Anna, con san Giovanni </objectName>, ch'haveva a servire per l'altar maggiore dell' <placeName> Annuntiata </placeName>, il quale fu visitato in frotta da tutto il popolo di <placeName ref="#Florence"> Fiorenza </placeName>, dove il re desiderava ch'egli lo colorisse. </p>
-        <p xml:id="VIN_TPITA_biographie_P14"> Fece poi per <persName ref="#FrancescoDelGiocondo"> Francesco del Giocondo </persName> il ritratto tanto nominato di <persName ref="#MonaLisa"> Lisa sua moglie </persName>, volgarmente chiamato <objectName ref="#LeonardJoconde"> La Gioconda </objectName>, il qual si vede a <placeName ref="#Fontainebleau"> Fontanableo </placeName> in compagnia di molti altri quadri pretiosi del re Christianissimo, e fu già comprato quattro milla scudi da <persName ref="#FrancoisIer">Francesco I</persName> lo lasciò imperfetto, havendo il gusto tanto delicato, e l'ingegno sì acuto e sottile, che per arrivar alla verità della natura, <pb facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f21/full/full/0/native.jpg"/> cercava sempre eccellenza sopra eccellenza, e perfettione sopra perfettione, e non appagandosi del fatto ben che bello, andava con ansietà dietro a quel più che si poteva fare. Mentre egli dipinse soleva havere attorno della <persName ref="#MonaLisa">signora Lisa</persName> gente che cantasse, sonasse e ridesse, per tenerla allegra, et non cascar nell'ordinario inconveniente de' ritratti, che per lo più danno nel malinconico. E veramente in questo si vede un ghigno tanto piacevole, che, come dice il <persName ref="#GiorgioVasari"> Vasari </persName> , è cosa più divina che humana a vedere. E ancora bello <objectName ref="#LeonardIsabelleEste">un altro ritratto</objectName> del medesimo Lionardo ch'è a <placeName ref="#Fontainebleau"> Fontanableo </placeName> , e si dice essere d'una <objectName ref="#LeonardIsabelleEste"> marchese di <placeName ref="#Mantoue">Mantova</placeName>
+        <p xml:id="VIN_TPITA_biographie_P14"> Fece poi per <persName ref="#FrancescoDelGiocondo"> Francesco del Giocondo </persName> il ritratto tanto nominato di <persName ref="#MonaLisa"> Lisa sua moglie </persName>, volgarmente chiamato <objectName ref="#LeonardMonaLisa"> La Gioconda </objectName>, il qual si vede a <placeName ref="#Fontainebleau"> Fontanableo </placeName> in compagnia di molti altri quadri pretiosi del re Christianissimo, e fu già comprato quattro milla scudi da <persName ref="#FrancoisIer">Francesco I</persName> lo lasciò imperfetto, havendo il gusto tanto delicato, e l'ingegno sì acuto e sottile, che per arrivar alla verità della natura, <pb facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k134521m/f21/full/full/0/native.jpg"/> cercava sempre eccellenza sopra eccellenza, e perfettione sopra perfettione, e non appagandosi del fatto ben che bello, andava con ansietà dietro a quel più che si poteva fare. Mentre egli dipinse soleva havere attorno della <persName ref="#MonaLisa">signora Lisa</persName> gente che cantasse, sonasse e ridesse, per tenerla allegra, et non cascar nell'ordinario inconveniente de' ritratti, che per lo più danno nel malinconico. E veramente in questo si vede un ghigno tanto piacevole, che, come dice il <persName ref="#GiorgioVasari"> Vasari </persName> , è cosa più divina che humana a vedere. E ancora bello <objectName ref="#LeonardIsabelleEste">un altro ritratto</objectName> del medesimo Lionardo ch'è a <placeName ref="#Fontainebleau"> Fontanableo </placeName> , e si dice essere d'una <objectName ref="#LeonardIsabelleEste"> marchese di <placeName ref="#Mantoue">Mantova</placeName>
           </objectName>. Bellissimo fu quello della <objectName ref="#LeonardGinevraBenci"><persName ref="#GinevraBenci">Ginevra di Amerigo Benci</persName></objectName>, fanciulla di famosa bellezza in quei tempi. Ne si deve tralasciar la <objectName ref="#MelziFlora"> Flora </objectName> dipinta con mirabile vaghezza, e con aria veramente divina : la quale si conserva in <placeName ref="#Paris">Parigi</placeName>, et è in mano di persona privata. </p>
         <p xml:id="VIN_TPITA_biographie_P15"> Havendosi circa l'anno <date when="1503"> 1503 </date> a ornare nel <objectName ref="#PalazzoVecchioFlorence">palazzo di <placeName ref="#Florence"> Fiorenza </placeName></objectName>
           <objectName ref="#Salle500Florence">la sala del consiglio</objectName>, fu per decreto publico eletto <persName ref="#LeonardoDaVinci"> Lionardo </persName> per dipingerla. Fece egli per tal effetto un <objectName ref="#LeonardAnghiari"> cartone </objectName> pien d'arte e di belle considerationi, nel quale era espressa una historia del <persName> Piccinino </persName>: e già n'haveva colorito la più gran parte a oglio, quando accortosi che l'imprimatura troppo grossa distaccavasi ogni cosa dal muro, et che le sue fatiche erano vane, abbandonò l'opera. </p>

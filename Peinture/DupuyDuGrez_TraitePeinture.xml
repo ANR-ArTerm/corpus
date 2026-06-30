@@ -2,54 +2,78 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title xml:lang="fra">Traité sur la Peinture pour en apprendre la théorie, et se perfectionner dans la Pratique.</title>
-            <respStmt>
-               <resp>Texte saisi et annoté par</resp>
-               <name>Veronika Fedotova</name>
-            </respStmt>
-            <respStmt>
-               <resp>Structuration et ajout de l'index</resp>
-               <name>Emma Bondoerffer</name>
-            </respStmt>
-            <respStmt>
-               <resp>Annotation</resp>
-               <name>Hippolyte Fare</name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <p>Pour la premiere fois le texte a été publié en 1699.</p>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct type="print">
-               <monogr>
-                  <title xml:lang="fra"> Traité sur la peinture pour en apprendre la théorie et se perfectionner dans la pratique , par Me. Bernard Dupuy Du Grez, Avocat en Parlement. </title>
-                  <author ref="#BernardDupuyDeGrez">Bernard Dupuy Du Grez</author>
-                  <imprint>
-                     <pubPlace><placeName ref="#Toulouse">Toulouse</placeName>, Chez la Veuve de J. Pech et A. Pech, Imprimeurs du College de la Compagnie de JESUS, à l'Enseigne du Nom de JESUS.</pubPlace>
-                     <publisher>Veuve de J. Pech et A. Pech, Imprimeurs du College de la Compagnie de JESUS</publisher>
-                     <date when="1699">1699</date>
-                  </imprint>
-               </monogr>
-            </biblStruct>
-            <!--<bibl type="digital_copy">
-               <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k111861m/f192#"> </ref>
-               <editor ref="#AntoinePech #JeanPech">Veuve de J. Pech et A. Pech</editor>
-               <textLang mainLang="fra">français</textLang>
-               <msIdentifier>
-                  <bloc> La numérotation au sein du corpus textuel est réalisée en chiffres arabes
-                     et romanes, en haut de la page. L'écriture est présentée par une colonne par
-                     page, avec les dessins et les ornements. </bloc>
-               </msIdentifier>
-            </bibl>-->
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
-      </profileDesc>
-   </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Traité sur la peinture pour apprendre la teorie et se perfectionner dans la pratique</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Correction, Structuration, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Hippolyte Faré</name>
+          <resp>Transcription, Correction, Balisage</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb13011007f">Dupuy du Grez<idno type="ISNI">https://isni.org/isni/0000000122704314</idno>
+          </author>
+          <title xml:lang="fra">Traité sur la peinture pour apprendre la teorie et se perfectionner dans la pratique</title>
+          <publisher>Veuve de J. Pech &amp; A. Pech</publisher>
+          <pubPlace>Toulouse</pubPlace>
+          <date when="1699">1699</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb30383816v</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface + avertissement + privilege + errata) + body (4 livres avec C1 dissertation et C2 supplément à la dissertation) + back (table des matieres)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
    <text>
       <front>
          <titlePage>
@@ -253,10 +277,10 @@
                <p xml:id="DUP_TP_L1_L1C2_P9">Enfin comme la Rétorique se divise en Invention, Disposition, Elocution et Prononciation : parce que l'Orateur doit inventer les argumens, les placer dans de lieux convenables, les orner de figures, et aprés donner l'ame à cette Composition par la Prononciation ; ainsi le Peintre cherche premierement sa matiere ; c'est ce qu'on apelle l'Invention ; il doit disposer cette matiere par ses parties et par ses groupes ; e'est la Disposition et l'ordonnance. Il donne à tout la grace et la couleur : voilà justement l'Elocution. Il ajoûte l'expression à toutes ses figures, et donne à tout un beau relief : voilà la Prononciation. D'où vient que les Peintres se servent d'un terme qui leur est commun avec les Rétoriciens, quand ils disent qu'un ouvrage est bien prononcé.</p>
                <pb n="49"/>
                <p xml:id="DUP_TP_L1_L1C2_P10">Si lors-qu'on nous propose l'idée d'un parfait Orateur, on nous dit qu'il doit avoir une connoissance universelle ; on peut dire la méme chose, pour donner un'idée d'un Peintre accompli : Mais encore la Géometrie lui est plus nécessaire qu'à l'Orateur, puis qu'elle lui sert de fondement en toutes ses compositions, et qu'il ne peut sans son secours comprendre la juste proportion de tous les objets visibles de la nature. On recueille de tout cela que l'Art de Peinture est du méme ordre, et de la méme élévation que la Rétorique : qu'il n'est pas raisonnable de dire qu'elle n'est un Art liberal que par comparaison avec les Arts vulgaires, comme l'a prétendu <persName ref="#IsaacVossius">Vossius</persName>. Que s'il y a de mauvais Peintres, de méchans Poëtes, et de miserables Orateurs : leur Art n'en est pas moins illustre et liberal par le défaut de ceux qui en font indignement profession. Du reste si <persName ref="#Pline">Pline</persName> avoue que la Peinture êtoit connue dépuis fort long-tems, lorsque les Sicioniens défendirent d'y faire élever les esclaves, ordonnant que le Dessein ne seroit montré qu'à de personnes de condition libre, et que cét Art seroit mis au rang des Liberaux du premier ordre ; ce n'est pas que ce decret <unclear>des Bourgeois</unclear> de <placeName ref="#Sicyone">Sicionne</placeName> fut necessaire à la Peinture pour trouver place parmi les Arts liberaux, puis qu'elle tient ce rang par son propre merite, comme la Poëtique et la Rétorique.</p>
-               <p xml:id="DUP_TP_L1_L1C2_P11">On peut encore dire en faveur de la Peinture, <pb n="50"/> que les Egyptiens ont eu la vanité de soûtenir qu'elle avoit été connue en <placeName ref="#Egypte">Egypte</placeName> six mille ans plutôt que dans la <placeName ref="#Grece">Grece</placeName> ; Mais ce que les Grecs en ont écrit au raport du méme Auteur est plus probable : Les uns soutenoient qu'elle avoit commencé à <placeName ref="#Sicyone">Sicionne</placeName>, les autres à <placeName ref="#Corinthe">Corinte</placeName> ; quelques-uns en atribuoeint l'invention à un Egyptien qui avoit nom <persName ref="#Philocles">Philocles</persName> ; et enfin d'autres soutenoient que c'êtoit un Bourgeois de <placeName ref="#Corinthe">Corinte</placeName>, apellé <persName ref="#Cleanthe">Cleante</persName>, qui en fit la premiere tentative, par le moyen du contour de l'ombre d'un homme, qu'il traça sur une muraille ; nous avons pourtant reconnu depuis par la découverte de <placeName ref="#Amerique">l'Amerique</placeName>, que cette Invention n'a pas été particuliere aux Egyptiens ou aux Grecs, puisque les Ameriquains savoient faire des idoles et des figures de toute sorte d'animaux, lorsque <persName ref="#ChristopheColomb">Cristofle Colomb</persName> y fit sa premiere navigation.</p>
+               <p xml:id="DUP_TP_L1_L1C2_P11">On peut encore dire en faveur de la Peinture, <pb n="50"/> que les Egyptiens ont eu la vanité de soûtenir qu'elle avoit été connue en <placeName ref="#Egypte">Egypte</placeName> six mille ans plutôt que dans la <placeName ref="#Grece">Grece</placeName> ; Mais ce que les Grecs en ont écrit au raport du méme Auteur est plus probable : Les uns soutenoient qu'elle avoit commencé à <placeName ref="#Sicyone">Sicionne</placeName>, les autres à <placeName ref="#Corinthe">Corinte</placeName> ; quelques-uns en atribuoeint l'invention à un Egyptien qui avoit nom <persName ref="#Philocles">Philocles</persName> ; et enfin d'autres soutenoient que c'êtoit un Bourgeois de <placeName ref="#Corinthe">Corinte</placeName>, apellé <persName ref="#CleantheDeCorinthe">Cleante</persName>, qui en fit la premiere tentative, par le moyen du contour de l'ombre d'un homme, qu'il traça sur une muraille ; nous avons pourtant reconnu depuis par la découverte de <placeName ref="#Amerique">l'Amerique</placeName>, que cette Invention n'a pas été particuliere aux Egyptiens ou aux Grecs, puisque les Ameriquains savoient faire des idoles et des figures de toute sorte d'animaux, lorsque <persName ref="#ChristopheColomb">Cristofle Colomb</persName> y fit sa premiere navigation.</p>
                <p xml:id="DUP_TP_L1_L1C2_P12">Mais pour revenir à ce que <persName ref="#Pline">Pline</persName> en a écrit, il dit qu'<persName ref="#ArdicesDeCorinthe">Ardices de Corinte</persName> et <persName ref="#Telephane">Telephanes de Sicionne</persName> furent les premiers qui exercerent cét Art. Il est vrai qu'on ne sauroit déterminer en quel siécle ils ont vêcu. On sait seulement qu'il y eut ensuite des Peintres de clair obscur, dont le premier s'apeloit <persName ref="#Hygiemon">Higiaenon</persName> ; un autre <del type="overstrike"/>
                   <persName ref="#Dinias">Dinias</persName>, et un autre se nommoit <persName ref="#Charmidas">Charmas</persName>. C'est aussi une ancienne tradition qu'<persName ref="#Eumarus">Eumarus</persName> parut aprés ceux-ci, et qu'il savoit bien representer toute sorte de figures. Il eut pour Eleves <persName ref="#CimonDeCleones">Cimon et Cleonée</persName>, et on <pb n="51"/> dit que ce dernier seut donner de diferens regards à ses figures.</p>
-               <p xml:id="DUP_TP_L1_L1C2_P13">Enfin la Peinture ayant aquis beaucoup de perfection, dans la suite de plusieurs siécles, un Peintre apellé <persName ref="#Bularque">Bularque</persName> fît un tableau, oú il representa le combat de <persName ref="#Candaule">Candaules</persName> Roi de <placeName>Lidie</placeName> contre les Magnesiens. Ce Roi le trouva si beau qu'il l'acheta au poids de l'or. On peut au reste conjecturer que ce Peintre florissoit parmi les Grecs, dans le tems que <persName ref="#Romulus">Romulus</persName> jetoit les fondemens de la Ville de <placeName ref="#Rome">Rome</placeName>. Aprés <persName ref="#Bularque">Bularque</persName> on parle de deux Peintres de <placeName ref="#Corinthe">Corinte</placeName> savoir <persName ref="#Cleanthe">Cleante</persName>, diferant de cét autre plus ancien et de <persName ref="#Cleophante">Cleophante</persName>. Les ouvrages du premier se voyoient encore du tems de <persName ref="#Strabon">Strabon</persName> : Et pour ce qui est de <persName ref="#Cleophante">Cleophante</persName>, on dit que <persName ref="#DemarateDeCorinthe">Demaratus</persName>, pere de <persName ref="#TarquinAncien">Tarquin le vieux</persName>, l'emmena avec lui en <placeName ref="#Italie">Italie</placeName>. Le siécle pourtant de ces Peintres est incertain, quoi qu'il soit constant qu'ils ont vécu avant le règne du <persName ref="#XerxesI">Roi Xerces</persName>, et longtems avant la guerre des Perses contre les Grecs.</p>
+               <p xml:id="DUP_TP_L1_L1C2_P13">Enfin la Peinture ayant aquis beaucoup de perfection, dans la suite de plusieurs siécles, un Peintre apellé <persName ref="#Bularque">Bularque</persName> fît un tableau, oú il representa le combat de <persName ref="#Candaule">Candaules</persName> Roi de <placeName>Lidie</placeName> contre les Magnesiens. Ce Roi le trouva si beau qu'il l'acheta au poids de l'or. On peut au reste conjecturer que ce Peintre florissoit parmi les Grecs, dans le tems que <persName ref="#Romulus">Romulus</persName> jetoit les fondemens de la Ville de <placeName ref="#Rome">Rome</placeName>. Aprés <persName ref="#Bularque">Bularque</persName> on parle de deux Peintres de <placeName ref="#Corinthe">Corinte</placeName> savoir <persName ref="#CleantheDeCorinthe">Cleante</persName>, diferant de cét autre plus ancien et de <persName ref="#Cleophante">Cleophante</persName>. Les ouvrages du premier se voyoient encore du tems de <persName ref="#Strabon">Strabon</persName> : Et pour ce qui est de <persName ref="#Cleophante">Cleophante</persName>, on dit que <persName ref="#DemarateDeCorinthe">Demaratus</persName>, pere de <persName ref="#TarquinAncien">Tarquin le vieux</persName>, l'emmena avec lui en <placeName ref="#Italie">Italie</placeName>. Le siécle pourtant de ces Peintres est incertain, quoi qu'il soit constant qu'ils ont vécu avant le règne du <persName ref="#XerxesI">Roi Xerces</persName>, et longtems avant la guerre des Perses contre les Grecs.</p>
                <p xml:id="DUP_TP_L1_L1C2_P14">Dépuis cette Guerre Persique, à compter dix ans de <persName ref="#XerxesI">Xerces</persName>, quarante-un an du règne <persName ref="#Artaxerxes">d'Artaxerces</persName>, et dix-neuf ans de <persName ref="#DariusII">Darius Notus</persName>, qui régna ensuite, jusques au tems que la Ville <placeName ref="#Athenes">d'Athènes</placeName> tomba soûs la puissance des Lacedemoniens dont l'Armée êtoit commandée par <persName ref="#Lysandre">Lisander</persName> : On vit paroître plusieurs Peintres dans cét intervale. Premierement <persName ref="#Panainos">Panæus</persName> frere de <persName ref="#Phidias">Phidias</persName>, qui avoit été lui-même Peintre avant qu'il fut Statuaire ; et à même-tems <pb n="52"/>
                   <persName ref="#Timagoras">Timagoras</persName>, qui fut vaincu par <persName ref="#Panainos">Panæus</persName> aux jeux Pitiques à <placeName ref="#Delphes">Delphes</placeName> ; on prétend que ce fut le premier combat sur la Peinture, dont on ait ouï parler ; Au reste les contemporains de <persName ref="#Phidias">Phidias</persName> étaient <persName ref="#Alcamene">Alcamene</persName> et <persName ref="#Polyclete">Policlete</persName> fameux Statuaires. On parle ensuite de <persName ref="#Polygnote">Polignote</persName> de <placeName ref="#Thasos">Thase</placeName> qui donna plus d'expression à ses figures, que tous les Peintres qui l'avoient precedé ; et ses ouvrages se conserverent long-tems principalement à <placeName ref="#Delphes">Delphes</placeName>.</p>
                <p xml:id="DUP_TP_L1_L1C2_P15">Pendant les règnes suivans des Rois de Perse, savoir d'<persName ref="#ArtaxerxesII">Artaxerce Mnémon</persName> qui avoit succedé à <persName ref="#DariusII">Darius Nothus</persName> et d'un <persName ref="#ArtaxerxesIII">autre Artaxerce apellé Ochus</persName>, qui durerent aussi environ soixante-dix ans, les Athéniens qui s'étoient délivrez des trente tirans que <persName ref="#Lysandre">Lisander</persName> leur avoir imposez s'adonnerent entierement aux beaux Arts : de sorte qu'<persName ref="#Apollodore">Apollodore</persName>, qui êtoit d'<placeName ref="#Athenes">Athènes</placeName>, porta la Peinture à une plus grande perfection que tous ceux qui avoient parû auparavant, tant par l'expression et le Dessein, que par l'entente des couleurs. Aprés lui on parla de <persName ref="#Zeuxis">Xeuxis d'Heraclée</persName>, qui se rendit admirable en toutes choses, mais particulierement à donner la couleur naturelle à ses tableaux. <persName ref="#Aristote">Aristote</persName> dit pourtant de <persName ref="#Zeuxis">Xeuxis</persName> qu'il étoit inférieur à <persName ref="#Polygnote">Polignote de <placeName ref="#Thasos">Thase</placeName></persName> dans les expressions. Du reste un des plus beaux ouvrages de <persName ref="#Zeuxis">Xeuxis</persName> êtoit sa <persName ref="#Penelope">Penelope</persName> car on y découvroit non seulement toutes les beautés de cette Dame ; mais encore les meurs et les qualités qu'<persName ref="#Homere">Homére</persName> lui atribue.</p>
