@@ -818,9 +818,9 @@
                         <bibl key="AlbertiArchitettura1989" ref="Livre V">quinto libro</bibl>: tal
                      che si vede per questo pericolo essere stato usato da buoni antichi, et
                      moderni, tali spazi, con minori intervali di tre grossezze: come nel
-                        <objectName>Vestibulo del Tempio di Marcello</objectName>; gli intercolunni
+                     Vestibulo del <objectName ref="#TheatreMarcellusRome">Tempio di Marcello</objectName>; gli intercolunni
                      del quale sono di due grossezze di colonna, et quel di mezo non passa tre; et
-                     li tre tempietti, che erano a canto, ove ora è la <objectName>Chiesa di san
+                     li tre tempietti, che erano a canto, ove ora è la <objectName ref="#BasiliqueSanNicolaInCarcereRome">Chiesa di san
                         Nicolò</objectName>, avevano gli intercolunni di una grossezza, et mezza: né
                      altrimenti erano distanti quelle del <objectName>Tempio di
                      Vulcano</objectName>: et quelle del <objectName>Tempio, ch'edificò <persName
@@ -917,7 +917,7 @@
                         >Duomo</objectName>. Le mende manifeste del quale, accioché meglio fossero
                      intese, divisi in due capi: et nel primo d'essi, io dissi ch'io farei conoscere
                      le differenze delle proporzioni et corrispondenze, che erano tra il <objectName
-                        ref="#DomeDeMilan">maggior</objectName> e il <objectName>minor
+                        ref="#DomeDeMilan">maggior</objectName> e il <objectName ref="#ScuroloSanCarloMilan">minor
                         Tempio</objectName>, il quale tuttavia s'andava sotto terra lavorando, et
                      gli antichi Templi circolari, fatti con ragioni di proporzione. Per l'altro
                      capo io dimostrerei, quanti inconvenienti causerebbero nel <objectName>Choro
@@ -936,7 +936,7 @@
                         target="#F8L1" type="renvoie">questa mia pianta</ptr>, (et mostrai quella
                      che è posta tra i disegni al nuovo luogo) nella quale si vede la corrispondenza
                      et similitudine delle colonne et delli spazi del <objectName ref="#DomeDeMilan"
-                        >maggior Tempio</objectName>, a quelle del <objectName>minore</objectName>,
+                        >maggior Tempio</objectName>, a quelle del <objectName ref="#ScuroloSanCarloMilan">minore</objectName>,
                      l'una all'incontro dell'altra, et l'uno spazio simile, et proporzionato
                      all'altro, et gli intercolunni di mezo d'esso <objectName
                         ref="#ScuroloSanCarloMilan">Tempietto</objectName>, sono uguali alli spazi
@@ -1047,7 +1047,7 @@
                         >Tempio</objectName>, et per i raggi tirati in essa, potete veder voi
                      ancora, (et mostrai la pianta al <ptr target="#F13L1" type="renvoie"
                            ><reg>XII</reg> luogo</ptr>). Ma per conchiuderla (al parer mio) detto
-                        <objectName>Coro</objectName>, et <objectName>Altare</objectName>, poi che
+                     <objectName>Coro</objectName>, et <objectName ref="#AutelDomeDeMilan">Altare</objectName>, poi che
                      si hanno a movere starebber molto meglio, et avere bon il sito, et luogo loro
                      proprio, sotto alla tribuna. Che così fu l'intenzione dei primi Architetti:
                      lasciando libero esso <objectName ref="#DomeDeMilan">Tempio</objectName> in
@@ -1541,7 +1541,7 @@
                      altrimenti dico doverebbe esser diviso il detto <objectName
                         ref="#ScuroloSanCarloMilan">Tempietto</objectName>. Percioché oltre la bella
                      corrispondenza delle colonne et delli spazi del <objectName ref="#DomeDeMilan"
-                        >maggior</objectName> al <objectName>minor Tempio</objectName>, l'una
+                        >maggior</objectName> al <objectName ref="#ScuroloSanCarloMilan">minor Tempio</objectName>, l'una
                      all'incontro dell'altra et l'uno intercolunnio simile all'altro; ne seguirebbe
                      ancora ordine et divisione bellissima nel detto <objectName
                         ref="#ScuroloSanCarloMilan">Tempietto</objectName>, essendo li spazi della
@@ -1559,7 +1559,7 @@
                      s'avessero a tirar al centro, vorrei che avessero corrispondimento in
                      circonferenza. Quanto al volto, lo terrei più basso cacciando i capitelli
                      sotterra per un braccio et il volto di mezo in maggior altezza, poiché
-                        l'<objectName>altare</objectName> di sopra ce ne dà la commodità. Né il
+                     l'<objectName ref="#AutelDomeDeMilan">altare</objectName> di sopra ce ne dà la commodità. Né il
                      piano disopra nel <objectName>Choro</objectName> mi par convenevole, che sia
                      interrotto con gradi, né manco stia a pendio, a guisa dei piani delle scene, i
                      quali si fanno per far apparere quello che non è, agli occhi dei riguardanti.
@@ -1581,14 +1581,14 @@
                      <objectName>Choro</objectName>, che il detto <persName ref="#PellegrinoTibaldi"
                         >architetto</persName> ha deliberato di fare, si leva gran parte di veduta
                      all'intrar delle porte laterali d'esso <objectName ref="#DomeDeMilan"
-                        >Tempio</objectName>, sì che non si vederà pur l'<objectName>Altar
+                        >Tempio</objectName>, sì che non si vederà pur l'<objectName ref="#AutelDomeDeMilan">Altar
                         maggiore</objectName>, nell'entrare come prima: cosa a mio giudicio
                      disdicevole a così gran tempio. Perciò mando a vostra signoria una <ptr
                         target="#F13L1" type="renvoie">piantina</ptr> del detto <objectName
                         ref="#DomeDeMilan">Tempio</objectName>, nel modo che egli ha da essere, poi
                      che serà finito, con l'annotationi della quale, ella vedrà le storpiature,
                      ch'io dico, si del vedere, come dell'intercolunnio impedito oltre il dovere.
-                     Per lo che avendosi a mover l'<objectName>Altare</objectName>, et il
+                     Per lo che avendosi a mover l'<objectName ref="#AutelDomeDeMilan">Altare</objectName>, et il
                         <objectName>Coro</objectName>, io vorrei trasportare ogni cosa sotto alla
                      tribuna, come ricerca la dispositione d'esso <objectName ref="#DomeDeMilan"
                         >Tempio</objectName>, et lasciare al tutto libera l'altra parte, trahendomi
@@ -1730,7 +1730,7 @@
                   pittura <pb n="46"/> si può meglio tolerare che in scultura: et la ragione è che
                   altri si può coprire con dire, fingere cotal pittura esser un quadro dipinto
                   attaccato al muro, come fece l'intendente <persName ref="#BaldassarrePeruzzi"
-                     >Baldassarre Peruzzi</persName> senese nel <objectName>Tempio della
+                     >Baldassarre Peruzzi</persName> senese nel <objectName ref="#EgliseSainteMariePaixRome">Tempio della
                      Pace</objectName> in <placeName ref="#Rome">Roma</placeName>: il quale finse un
                   telaio di legname esser attaccato a gangheri di ferro alla muraglia. Talché chi
                   non sa che sia dipinto nel muro, lo giudica un quadro fatto in tela. Per tanto non
@@ -1751,8 +1751,8 @@
                   debite distributioni, come comporta la buona et ben'intesa Architettura, o
                   voglinsi far quadre o tonde o a faccie come più viene a proposito, rapportandomi
                   sempre al parer dei più periti. </p>
-               <p xml:id="BAS_DA_L1_M7_P4">Circa il <objectName>Tempio Sotterraneo</objectName> et
-                     <objectName>Choro</objectName> et <objectName>Altare maggiore</objectName>, per
+               <p xml:id="BAS_DA_L1_M7_P4">Circa il <objectName ref="#ScuroloSanCarloMilan">Tempio Sotterraneo</objectName> et
+                  <objectName>Choro</objectName> et <objectName ref="#AutelDomeDeMilan">Altare maggiore</objectName>, per
                   esser cose, che mi bisognerebbe esser in sul luogo, non posso darne il mio intero
                   parere, et perché vostra signoria per quanto comprendo per li suoi disegni, et
                   scritti, mi par ne sia capacissima et conosco che va di buona mossa, mi riporterei
@@ -1892,15 +1892,15 @@
                   vostre regole di perspettiva non siano ottimie et meglio intese de quelle delli
                   due primi architetti, i quali hanno diversamente operato nel sudetto marmo. Ma ben
                   vi dico, che quando io ho operato in figure quasi di tutto tondo, ho cercato
-                  d'imitare li buoni antichi del rimanente. Come si può vedere nell'<objectName>Arco
+                  d'imitare li buoni antichi del rimanente. Come si può vedere nell'<objectName ref="#ArcSeptimeSevereRome">Arco
                      di Lucio Settimio</objectName> appresso al <placeName ref="#Capitole">
                      Campidoglio</placeName> et nell'<objectName>Arco di Vespasiano</objectName> et
-                     <objectName>Tito</objectName>, non tacerò del bell'<objectName>Arco di
-                     Traiano</objectName> appresso al <objectName>Coliseo</objectName>, ove sono
+                  <objectName ref="#ArcTitusRome">Tito</objectName>, non tacerò del bell'<objectName>Arco di
+                     Traiano</objectName> appresso al <objectName ref="#ColosseumRome">Coliseo</objectName>, ove sono
                   alcune figure quasi di tutto tondo, et buona parte spiccate dalla parete
                   dell'istesso marmo. Vi è poi nel <objectName>giardino del <persName>Signor
                         Corsatalio</persName>
-                  </objectName> posto nell'alta sommità di <placeName>Monte Cavallo</placeName>, la
+                  </objectName> posto nell'alta sommità di <placeName ref="#Quirinal">Monte Cavallo</placeName>, la
                      <objectName>statua di Meleagro</objectName> col porco di <placeName
                      ref="#Calidonia">Calidonia</placeName>, et molte altre figure con dardi, archi
                   et lancie. Le quali tutte historie et favole hanno le lor figure che posano sopra
@@ -2010,7 +2010,7 @@
                   pensare, et credere, che ne siano nate queste loro contese, et differenze.
                   Percioché per quanta diligenza, et arte si possa usare, non crederò che si possano
                   mai questi inconvenienti nascondere, avendoli seco portato la sudetta
-                     <objectName>pianta</objectName>. Ma perché per ora, io non gliene so più altro
+                     pianta. Ma perché per ora, io non gliene so più altro
                   dire, la prego ad avermi per iscusato, sin a tanto che saranno finiti i detti
                   stucchi, che li prometto per sodisfare a questa sua volontà di dargli non solo di
                   questo, ma anco dell'opera che di presente si fa per il
@@ -2143,13 +2143,13 @@
             <pb n="65"/>
             <figure xml:id="F6L1" type="dessin" n="5">
                <p>Quinta figura.</p>
-               <p>Pianta del <objectName>batisterio</objectName> in otto facce.</p>
+               <p>Pianta del <objectName ref="#BaptistereDomeDeMilan">batisterio</objectName> in otto facce.</p>
             </figure>
             <pb n="66" type="blankpage"/>
             <pb n="67" type="blankpage"/>
             <pb n="68"/>
             <figure xml:id="F7L1" type="dessin" n="6">
-               <p>Sesto dissegno del <objectName>Batisterio</objectName> simile a quello mostro
+               <p>Sesto dissegno del <objectName ref="#BaptistereDomeDeMilan">Batisterio</objectName> simile a quello mostro
                   capitolo messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName> con gli
                   mantenamenti da lui novellamente ritovati et dopo messi in opera.</p>
                <p>
@@ -2320,14 +2320,14 @@
                      <item>E.G. Longhezza del choro pendio de messer <persName
                            ref="#PellegrinoTibaldi">Pelegrino</persName>. </item>
                      <item>A.H. raggi drento delli quali si vedeva
-                        l'<objectName>Altare</objectName>.</item>
+                        l'<objectName ref="#AutelDomeDeMilan">Altare</objectName>.</item>
                   </list>
                </p>
                <p>
                   <list rend="numbered">
                      <item>A.I. linee che terminano il spatio nel quale oggidi si vede
-                           l'<objectName>Altare</objectName>.</item>
-                     <item>K. <objectName>Altare</objectName> sotto alla tribuna al loco suo.</item>
+                        l'<objectName ref="#AutelDomeDeMilan">Altare</objectName>.</item>
+                     <item>K. <objectName ref="#AutelDomeDeMilan">Altare</objectName> sotto alla tribuna al loco suo.</item>
                      <item>C. Circonferenza del <objectName>choro</objectName> sotto alla tribuna. </item>
                      <item>G.E. Choro che si levarebbe via.</item>
                   </list>
