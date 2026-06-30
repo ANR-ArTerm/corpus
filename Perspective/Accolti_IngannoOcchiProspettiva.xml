@@ -4,11 +4,19 @@
    <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">Lo inganno degli occhi: prospettiva pratica</title>
+        <title xml:lang="ita">Lo inganno degli occhi: prospettiva pratica</title>
         <respStmt>
           <name>Emma Bondoerffer</name>
           <resp>Transcription, Structuration, Balisage, Indexation</resp>
         </respStmt>
+         <respStmt>
+            <name>Elisa Bonaiuti</name>
+            <resp>Correction, Identification des œuvres</resp>
+         </respStmt>
+         <respStmt>
+            <name>Nicolò Zanolli</name>
+            <resp>Correction</resp>
+         </respStmt>
       </titleStmt>
       <editionStmt>
         <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
@@ -18,13 +26,13 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>Public domain<author ref="ark:/12148/cb16708799z">Accolti<idno type="ISNI">ISNI 0000 0003 9924 5763</idno>
           </author>
-          <title xml:lang="fra">Lo inganno degli occhi: prospettiva pratica</title>
+          <title xml:lang="ita">Lo inganno degli occhi: prospettiva pratica</title>
           <publisher>Pietro Cecconcelli</publisher>
           <pubPlace>Firenze</pubPlace>
           <date when="1625">1625</date>
@@ -397,7 +405,7 @@
                   l'aspetto, et il cono de' raggi visivi, e come habbiamo detto una similissima
                   natura, e convenienzia serbano fra di loro il lume; e le spezie della immagine
                   nelle azioni loro: il che lascio espresso con gentilissimo testimonio <persName
-                     ref="#Lucrece">Lucrezio</persName> nel 4. lib. <choice>
+                     ref="#LucrecePoete">Lucrezio</persName> nel 4. lib. <choice>
                      <sic>de Naturalis Historia</sic>
                      <corr><bibl key="LucreceDeRerumNatura">De Natura Rerum</bibl></corr>
                   </choice>
@@ -4451,7 +4459,7 @@
                   ne Probl. sect. 15. quest. 5. ove dubitando lasciò scritto. <hi xml:lang="lat"
                      rend="it">An quod aspectuum procidentia turbine agitur, turbinis autem basis in
                      orbem se colligit.</hi>
-                  <persName>Giovanni l'Arcivescovo Cantuariense</persName> in suo <bibl><hi
+                  <persName ref="JohnPeckham">Giovanni l'Arcivescovo Cantuariense</persName> in suo <bibl><hi
                         rend="it" xml:lang="lat">Perspectivae comunis tractatu</hi></bibl>, assegna
                   per causa di tale effetto, quella natural qualità che è propria all'acqua, cioè di
                   unirsi sfericamente, se venga aspersa in gocciole, et in piccole parti separata.
@@ -5807,8 +5815,8 @@
                      <persName ref="#MichelAnge">Michel'Agnolo</persName>, ne <objectName
                      ref="MichelAngeTombeauJulienMedicis">sepolcri di <persName
                         ref="GiulianodeMedici">Giuliano</persName>,</objectName> et <objectName
-                     ref="MichelAngeTombeauLaurentIIMedicis"><persName cert="low"
-                        xml:id="LorenzoIIdeMedici">Giovanni de' Medici</persName></objectName>. E
+                     ref="MichelAngeTombeauLaurentIIMedicis"><persName
+                        ref="LaurentIIDeMedicis">Giovanni de' Medici</persName></objectName>. E
                   quanto al secondo capo de' moti delle sudette diverse età, et qualità di persone,
                   devesi egli avvertir molto bene che le attitudini, e movimenti de' vecchi, non
                   sieno fatti, et espressi con quella modesima vivacità, et prontezza che quelli de'

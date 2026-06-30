@@ -4,7 +4,7 @@
    <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">Idea della perfezione della pittura di m.r Rolando Freart tradotta dal francese da Anton Maria Salvini e pubblicata per la prima volta dal canonico Domenico Moreni con una dissertazione apologetica in fine di Michelangelo Buonarroti scritta dal sig. Onofrio Boni</title>
+        <title xml:lang="ita">Idea della perfezione della pittura di m.r Rolando Freart tradotta dal francese da Anton Maria Salvini e pubblicata per la prima volta dal canonico Domenico Moreni con una dissertazione apologetica in fine di Michelangelo Buonarroti scritta dal sig. Onofrio Boni</title>
         <respStmt>
           <name>Emma Bondoerffer</name>
           <resp>Transcription, Structuration</resp>
@@ -17,6 +17,14 @@
           <name>Carla Tricon</name>
           <resp>Identification des œuvres, Indexation</resp>
         </respStmt>
+         <respStmt>
+            <name>Elisa Bonaiuti</name>
+            <resp>Correction, Identification des œuvres</resp>
+         </respStmt>
+         <respStmt>
+            <name>Nicolò Zanolli</name>
+            <resp>Correction</resp>
+         </respStmt>
       </titleStmt>
       <editionStmt>
         <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
@@ -26,13 +34,13 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>Rome, Bibliotheca Hertziana, Max Planck Institut<author ref="https://data.bnf.fr/ark:/12148/cb11903494v; https://data.bnf.fr/fr/ark:/12148/cb12103637b">Fréart/Salvini<idno type="ISNI">https://isni.org/isni/0000000121260854; https://isni.org/isni/0000000121394238</idno>
           </author>
-          <title xml:lang="fra">Idea della perfezione della pittura di m.r Rolando Freart tradotta dal francese da Anton Maria Salvini e pubblicata per la prima volta dal canonico Domenico Moreni con una dissertazione apologetica in fine di Michelangelo Buonarroti scritta dal sig. Onofrio Boni</title>
+          <title xml:lang="ita">Idea della perfezione della pittura di m.r Rolando Freart tradotta dal francese da Anton Maria Salvini e pubblicata per la prima volta dal canonico Domenico Moreni con una dissertazione apologetica in fine di Michelangelo Buonarroti scritta dal sig. Onofrio Boni</title>
           <publisher>Appresso Carli e compo. in Borgo SS. Apostoli</publisher>
           <pubPlace>Florence</pubPlace>
           <date when="1809">1809</date>
@@ -782,7 +790,7 @@
                         del <placeName ref="#Vatican">Vaticano</placeName></objectName>, al
                         <placeName ref="#Capitole">Campidoglio</placeName>, e in diversi altri
                      luoghi di <placeName ref="#Rome">Roma</placeName>, come la <objectName
-                        ref="#ChambreConstantinVatican">battaglia di Costantino contra
+                        ref="#RaphaelChambreConstantinVatican">battaglia di Costantino contra
                         Massenzio</objectName>, la <objectName ref="#RaphaelEcoleAthenes">Scola
                         d'Atene</objectName>, l'<objectName ref="#RaphaelDisputeSacrement">Assemblea
                         de' Padri, e de' Dottori della Chiesa circa 'l Santo
@@ -1482,7 +1490,7 @@
                         forse stato altro che in questo genere che que' gran Pittori dell'antichità,
                            <persName ref="#Apelle">Apelle</persName>, <persName ref="#Timanthe"
                            >Timante</persName>, <persName ref="#Protogene">Protogene</persName>,
-                           <persName ref="#Zeus">Zeus</persName>, e lor simiglianti, hanno
+                           <persName ref="#Jupiter">Zeus</persName>, e lor simiglianti, hanno
                         sorpassato i nostri moderni, stanteché né per opera di colorito, né della
                         regolarità della prospettiva, né delle proporzioni de' corpi, né delle
                         diverse maniere di dipignere, né di tutto'l resto del meccanico dell'Arte,
@@ -1907,7 +1915,7 @@
                            est.</quote> Lib. XXXV. Cap. X. Parole eccellenti, e gloriosissime a quel
                         Pittore, le quali io avea di già rapportate avanti in nostra lingua, in
                         proposito del suo incomparabile lavoro del <objectName
-                           ref="#SacrificeIphigenie">sacrificio d'<persName ref="#Iphigenie"
+                           ref="#TimantheSacrificeIphigenie">sacrificio d'<persName ref="#Iphigenie"
                               >Ifigenia</persName></objectName>; ma le ripeto ancora quì a disegno
                         di farle convenire altresì a <persName ref="#Raphael">Raffaello</persName>.
                         Nientedimeno, come io preveggo, che quelli tra' nostri virtuosi che non <pb

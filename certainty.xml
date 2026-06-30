@@ -13,10 +13,6 @@
         </certainty>
     </Daret_VieRaphael>
     <Palladio_quattro_libri>
-        <certainty target="#PbCaiusAureliusCotta" locus="value">
-            <desc> Pourrait correspondre au <persName ref="#CaiusAureliusCottaPere">père</persName>
-                ou <persName ref="#CaiusAureliusCottaFils">au fils</persName>. </desc>
-        </certainty>
         <certainty target="#TempleDeLaPaix" locus="value">
             <desc>Palladio nomme ce monument le <objectName ref="#ForumDeLaPaixRome">Temple de la
                     Paix</objectName> mais d'après les illustrations et la description qu'il en fait
@@ -30,7 +26,7 @@
                     Aurèle</object> et non Antonine Le Pieux<bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty target="TempleDeSolRome" locus="value">
+        <certainty target="TempleDeSol" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleDeSolRome">Temple de
                     Sol</objectName> et <objectName ref="#TempleDeLaLuneRome">Temple de la
                     Lune</objectName> mais d'après les illustrations et la description qu'il en fait
@@ -38,7 +34,7 @@
                     Vénus et de Rome</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty target="TempleDeLaLuneRome" locus="value">
+        <certainty target="TempleDeLaLune" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleDeSolRome">Temple de
                     Sol</objectName> et <objectName ref="#TempleDeLaLuneRome">Temple de la
                     Lune</objectName> mais d'après les illustrations et la description qu'il en fait
@@ -52,13 +48,7 @@
                 le <objectName ref="#TempleSerapisRome">Temple de Sérapis</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty target="TempleJupiterQuirinal1" locus="value">
-            <desc>Palladio nomme ce monument Temple de Jupiter sûr le monte Quirinal mais d'après
-                les illustrations et la description qu'il en fait il semblerait que ce soit plutôt
-                le <objectName ref="#TempleSerapisRome">Temple de Sérapis</objectName><bibl
-                    key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
-        </certainty>
-        <certainty xml:id="TempleVestaRome" locus="value">
+        <certainty xml:id="TempleVesta" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleVestaRome">Temple de
                     Vesta</objectName> mais d'après les illustrations et la description qu'il en
                 fait il semblerait que ce soit plutôt le <objectName ref="#TempleHerculeVictorRome"
@@ -71,21 +61,21 @@
                     ref="#TempleHadrienRome">Temple d'Hadrien</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty xml:id="TempleJupiterStatorRome" locus="value">
+        <certainty xml:id="TempleJupiterStator" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleJupiterStatorRome">Temple de
                     Jupiter Stator</objectName> mais d'après les illustrations et la description
                 qu'il en fait il semblerait que ce soit plutôt le <objectName
                     ref="#TempleDesDioscuresRome">Temple des Dioscures</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty xml:id="TempleJupiterTonnantRome" locus="value">
+        <certainty xml:id="TempleJupiterTonnant" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleJupiterTonnantRome">Temple de
                     Jupiter Tonnant</objectName> mais d'après les illustrations et la description
                 qu'il en fait il semblerait que ce soit plutôt le <objectName
                     ref="#TempleVespasienRome">Temple de Vespasien</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty xml:id="ThermesAgrippaRome" locus="value">
+        <certainty xml:id="ThermesAgrippa" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#ThermesAgrippaRome">Thermes de
                     Agrippa</objectName> mais d'après les illustrations et la description qu'il en
                 fait il semblerait que ce soit plutôt la Basilique de Neptune<bibl
@@ -97,7 +87,7 @@
                     ref="#MausoleeSainteCostanceRome">Mausolée de Sainte Costance</objectName><bibl
                     key="palladioandreaQuattroLibriDellarchitettura1980"/>.</desc>
         </certainty>
-        <certainty xml:id="TempleDeLaConcordeRome" locus="value">
+        <certainty xml:id="TempleDeLaConcorde" locus="value">
             <desc>Palladio nomme ce monument <objectName ref="#TempleDeLaConcordeRome">Temple de la
                     Concorde</objectName> mais d'après les illustrations et la description qu'il en
                 fait il semblerait que ce soit plutôt le <objectName ref="#TempleDeSaturneRome"
@@ -117,13 +107,14 @@
             <desc>Alberti nomme ce monument <objectName>Temple de Léto</objectName> mais d'après la
                 description qu'il en fait il semblerait que ce soit plutôt la <objectName
                     ref="#BasiliqueDeMaxenxeConstantinRome">Basilique de Maxence et
-                    Constantin</objectName><bibl key="albertileonbattistaLarchitettura1989"
+                    Constantin</objectName><bibl key="AlbertiArchitettura1989"
                 />.</desc>
         </certainty>
         <certainty xml:id="TempleAthena" locus="value">
             <desc>Deux hypothèses d'identification possibles : <object
                     ref="#TempleAthenaNikeAthenes">Temple d'Athéna Nikè</object>, <objectName
-                    ref="#AncienTempleAthenaPoliasAthenes">Ancien Temple d'Athéna</objectName></desc>
+                    ref="#AncienTempleAthenaPoliasAthenes">Ancien Temple
+                d'Athéna</objectName></desc>
         </certainty>
     </Alberti_Bartoli_Architettura>
 
@@ -155,14 +146,71 @@
                 néanmoins un <objectName ref="RembrandtAutoportraitAvecSaskiaRijksmuseum">portrait
                     gravé des époux</objectName> que l'on signale donc.</desc>
         </certainty>
+        <certainty xml:id="PieterCoeckeVanAelstTenture" locus="value"> <desc> La tenture de l'histoire de Saint Paul figure des soldats vétus "à la turc" et sa réalisation coïncide avec son retour de Constantinople, aussi, il est possible que l'artiste ait conçu une partie des compositions de la <objectName ref="#PieterCoeckeVanAelstTentureSaintPaul">tenture </objectName> au cours de son voyage. </desc> </certainty>
+        <certainty xml:id="JeanCousinJugementDernier" locus="value">
+            <desc> L'auteur fait ici référence à <ojectName
+                    ref="#JeanCousinLeJeuneJugementDernierLouvre">l'oeuvre ayant été exposée au
+                    couvent des Minimes</ojectName> à Vincennes. Cette oeuvre, actuellement exposée
+                au musée du Louvre, est attribuée à son fils, Jean Cousin dit le Jeune. Néanmoins,
+                l'on connait du père un <objectName ref="#JeanCousinJugementDernierReims">Jugement
+                    dernier conservé au musée des Beaux-Arts de Reims</objectName>.</desc>
+        </certainty>
+        <certainty xml:id="PhilippeDeChampaigneCouventCarmelitesParis" locus="value"> 
+            <desc> Il est possible que les peintures de <objectName ref="#PhilippeDeChampaignePresentationTempleDijon">la Présentation au Temple </objectName> conservée au musée des Beaux-arts de Dijon, 
+                <objectName ref="#PhilippeDeChampaigneResurrectionLazareGrenoble"> la Résurrection de Lazare</objectName>  de Grenoble et <objectName ref="#PhilippeDeChampaigneAssomptionLouvre"> l'Assomption </objectName> du Louvre viennent de l'église du couvent des Carmelites. </desc> 
+        </certainty>
+        <certainty xml:id="PhilippeDeChampaignePortraitsRichelieu" locus="value">
+            <desc> Roger de Piles le précise lui-même dans son texte, Philippe de Champaigne a peint
+                plusieurs portrait du cardinal de Richelieu, aussi fait-il références aux ouvrages
+                de peinture suivants ; le <objectName
+                    ref="#PhilippeDeChampaignePortraitRichelieuLouvre">portrait en pied</objectName>
+                du musée du Louvre, <objectName
+                    ref="#PhilippeDeChampaignePortraitRichelieuNationalGalleryLondres">celui de la
+                    National Gallery de Londres</objectName>, <objectName
+                    ref="#PhilippeDeChampaignePortraitRichelieuSorbonne">celui de la
+                    Sorbonne</objectName>, <objectName
+                    ref="#PhilippeDeChampaignePortraitRichelieuVarsovie">celui de
+                    Varsovie</objectName>, <objectName
+                    ref="#PhilippeDeChampaignePortraitRichelieuCollectionsRoyalesLondres">celui
+                    conservé dans les collections royales anglaises</objectName>, <objectName
+                    ref="#PhilippeDeChampaignePortraitRichelieuMuseeCondeChantilly">celui du musée
+                    Condé</objectName>, <objectName
+                    ref="#PhilippeDeChampaigneTriplePortraitRichelieu">le triple
+                    portrait</objectName> conservé à Londres, enfin, <objectName
+                    ref="#PhilippeDeChampaignePortraitProfilRichelieuStrasbourg">le portrait de
+                    profil</objectName> du musée des Beaux-Arts de Strasbourg.</desc>
+        </certainty>
+        <certainty xml:id="CharlesLeBrunPortraitAieul" locus="value"> <desc> Il est probable que Roger De Piles fasse ici référence au <objectName ref="#CharlesLeBrunPortraitNicolasLeBrunResidenzgalerie">portrait de Nicolas Le Brun </objectName> peint par son fils. </desc>
+
+        </certainty>
+        <certainty xml:id="CharlesLeBrunMaySaintPierre" locus="value">
+            <desc> Roger De Piles se trompe sur l'identification du saint martyrisé. Le premier May
+                de Charles Le Brun représente saint André. Il s'agit en effet du <objectName
+                    ref="#CharlesLeBrunMartyreSaintAndreMayNotreDameParis">martyre de
+                    Saint-André</objectName> conservé dans la cathédrale Notre-Dame de Paris. Il l'a
+                peut-être confondu avec le <objectName
+                    ref="#SebastienBourdonCrucifiementSaintPierreMayNotreDameParis">May de Sébastien
+                    Bourdon</objectName> représentant lui un martyre de saint Pierre.</desc>
+        </certainty>
+        <certainty xml:id="PierreMignardLesSalonsSaintCloud" locus="value">
+            <desc> Roger De Piles mentionne ici un salon peint au château de Saint-Cloud sans
+                davantage de précisions. Or, le peintre a travaillé à la décoration de nombreux
+                espaces notamment le <objectName ref="#PierreMignardSalonMarsSaintCloud">salon de
+                    Mars</objectName>, le <objectName ref="#PierreMignardCabinetDianeSaintCloud">
+                    cabinet de Diane</objectName> ou la <objectName
+                    ref="#PierreMignardGalerieApollonSaintCloud">galerie d'Apollon</objectName>. Il
+                est néamoins plus probable que l'auteur fasse référence au salon de Mars.</desc>
+        </certainty>
+
+
+
+
+
+
+
+
+
+
 
     </Piles_Abrege_Peintres>
-
-    <Accolti_Inganno_Occhi_Prospettiva>
-        <certainty xml:id="LaurentIIDeMedicis" locus="value">
-            <desc>Il est possible que Accolti fasse ici référence à <persName
-                    ref="#LaurentIIDeMedicis">Lorenzo II De Medici</persName> et pas à Giovanni De
-                Medici.</desc>
-        </certainty>
-    </Accolti_Inganno_Occhi_Prospettiva>
 </textes>
