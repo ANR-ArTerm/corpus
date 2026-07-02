@@ -212,14 +212,14 @@
             <p xml:id="FEL_PASP_preface_P6"> C'est par la mesme raison que l'on a gravé à la fin
                de chaque chapitre, qui traite d'un Art particulier, beaucoup de choses qui se
                comprennent encore plus facilement par des Figures, que par des paroles, comme sont
-               plusieurs parties qui entrent dans la composition des Bastimens, et la pluspart des
-               Outils et des Machines, dont l'on se sert ordinairement dans l'Architecture et dans
-               les autres Arts, compris dans ce Traité. Il y a mesme plusieurs Outils, que l'on a
-               representez diverses fois, quand ils ont rapport à differens Arts. On observera
-               cependant que l'on n'a pas voulu apporter la derniere exactitude, pour en marquer les
-               grandeurs proportionnellement les uns aux autres, parce que les Figures ne sont mises
-               là, que pour en faire connoistre la forme, et non pas pour enseigner à en faire de
-               semblables. </p>
+               plusieurs parties qui entrent dans la <ref target="#composition">composition</ref>
+               des Bastimens, et la pluspart des Outils et des Machines, dont l'on se sert
+               ordinairement dans l'Architecture et dans les autres Arts, compris dans ce Traité.
+               Il y a mesme plusieurs Outils, que l'on a representez diverses fois, quand ils ont
+               rapport à differens Arts. On observera cependant que l'on n'a pas voulu apporter la
+               derniere exactitude, pour en marquer les grandeurs proportionnellement les uns aux
+               autres, parce que les Figures ne sont mises là, que pour en faire connoistre la
+               forme, et non pas pour enseigner à en faire de semblables. </p>
             <p xml:id="FEL_PASP_preface_P7"> Comme le premier Traité qui parle des Principes des
                Arts, comprend aussi l'explication de plusieurs matieres et de plusieurs noms, j'ay
                cru pouvoir souvent me dispenser de les repeter dans le Dictionnaire, mais seulement
@@ -505,23 +505,24 @@
                      differens Ordres. </p>
                   <p xml:id="FEL_PASP_principes_L1_L1C1_P9"> Les Ordres que les anciens ont establis
                      en divers temps et par differentes rencontres sont le Toscan, le Donque,
-                     l'ionique, le corinthien et le Composite. Ce qui forme chacun de ces differens
-                     Ordres, est la <ref target="#colonne">colonne</ref> avec sa base et son <ref
-                        target="#chapiteau">chapiteau</ref>, et l'entablement ; c'est à dire
-                     l'Architrave, la Frise et la Corniche. Desorte que ce sont seulement ces
-                     parties qui constituent dans les bastimens ce qu'on nomme un Ordre ; Et tous
-                     les Ordres ne sont differens les uns des autres que dans la proportion de ces
-                     parties, et dans la figure des <ref target="#chapiteau">chapiteaux</ref> des
-                        <ref target="#colonne">colonnes</ref>. </p>
+                     l'ionique, le corinthien et le <ref target="#composite">composite</ref>. Ce qui
+                     forme chacun de ces differens Ordres, est la <ref target="#colonne"
+                        >colonne</ref> avec sa base et son <ref target="#chapiteau">chapiteau</ref>,
+                     et l'entablement ; c'est à dire l'Architrave, la Frise et la Corniche. Desorte
+                     que ce sont seulement ces parties qui constituent dans les bastimens ce qu'on
+                     nomme un Ordre ; Et tous les Ordres ne sont differens les uns des autres que
+                     dans la proportion de ces parties, et dans la figure des <ref
+                        target="#chapiteau">chapiteaux</ref> des <ref target="#colonne"
+                        >colonnes</ref>. </p>
                   <p xml:id="FEL_PASP_principes_L1_L1C1_P10"> Lorsqu'on se sert de plusieurs Ordres
                      dans un edifice, ils doivent estre disposez de telle maniere que le plus
                      delicat soit toujours posé sur le plus fort et le plus solide. Ainsi sur le
                      dorique l'on met l'ionique ; sur l'ionique le corinthien, et sur le corinthien
-                     le Composite: On peut aussi mettre le corinthien ou le Composite sur le dorique
-                     ; car l'importance est, de mettre toujours le moins pesant dessus. Dans les
-                     beaux bastimens neanmoins, on voit que les anciens architectes ont observé de
-                     mettre l'ionique entre le dorique et le corinthien, et le corinthien sur
-                     l'ionique. </p>
+                     le <ref target="#composite">composite</ref>: On peut aussi mettre le corinthien
+                     ou le <ref target="#composite">composite</ref> sur le dorique ; car
+                     l'importance est, de mettre toujours le moins pesant dessus. Dans les beaux
+                     bastimens neanmoins, on voit que les anciens architectes ont observé de mettre
+                     l'ionique entre le dorique et le corinthien, et le corinthien sur l'ionique. </p>
                   <p xml:id="FEL_PASP_principes_L1_L1C1_P11"> Chaque Ordre a ses mesures
                      particulieres. <persName ref="#Vitruve">Vitruve</persName> est le plus ancien
                      de tous les architectes dont nous<pb n="6"/> avons les écrits. Il vivoit du
@@ -550,20 +551,21 @@
                      cependant nous remarquons que bien souvent ils n'ont pas bien pris les mesures,
                      et en ont écrit tres-differemment. <pb n="7"/> C'est ce que M. de <persName
                         ref="#RolandFreartDeChambray">Chambray</persName> a remarqué en parlant de
-                     l'Ordre Composite que <persName ref="#PhilibertDelorme">Phil. de
-                        l'Orme</persName> et <persName ref="#SebastianoSerlio">Serlio</persName>
-                     disent estre au <placeName><ref target="#colisée">Colisée</ref></placeName>, et
-                     dont ils ont rapporté les desseins: Cependant <persName ref="#VincenzoScamozzi"
-                        >Scamozzi</persName> et tous ceux qui ont examiné les restes de ce grand
-                     ouvrage, ont reconnu que ce sont deux Ordres Corinthiens l'un sur l'autre.
-                        <persName ref="#AndreaPalladio">Palladio</persName>, qui tient le premier
-                     rang entre les Modernes, s'est si fort trompé dans ce qu'il nous a donné du
-                     temple de <persName ref="#Diane">Diane</persName> qui est en <placeName
-                        ref="#Languedoc">Languedoc</placeName>, et non pas en <placeName
-                        ref="#Provence">Provence</placeName> comme il dit, que s'il n'estoit pas
-                     plus fidelle dans les autres choses que nous avons de luy, il n'y auroit pas
-                     lieu d'ajouster beaucoup de foy à ce qu'il rapporte des ouvrages antiques. Ce
-                     qui m'oblige à dire cela sont les mesures justes de ce Temple que M. <persName
+                     l'Ordre <ref target="#composite">composite</ref> que <persName
+                        ref="#PhilibertDelorme">Phil. de l'Orme</persName> et <persName
+                        ref="#SebastianoSerlio">Serlio</persName> disent estre au <placeName><ref
+                           target="#colisée">Colisée</ref></placeName>, et dont ils ont rapporté les
+                     desseins: Cependant <persName ref="#VincenzoScamozzi">Scamozzi</persName> et
+                     tous ceux qui ont examiné les restes de ce grand ouvrage, ont reconnu que ce
+                     sont deux Ordres Corinthiens l'un sur l'autre. <persName ref="#AndreaPalladio"
+                        >Palladio</persName>, qui tient le premier rang entre les Modernes, s'est si
+                     fort trompé dans ce qu'il nous a donné du temple de <persName ref="#Diane"
+                        >Diane</persName> qui est en <placeName ref="#Languedoc"
+                        >Languedoc</placeName>, et non pas en <placeName ref="#Provence"
+                        >Provence</placeName> comme il dit, que s'il n'estoit pas plus fidelle dans
+                     les autres choses que nous avons de luy, il n'y auroit pas lieu d'ajouster
+                     beaucoup de foy à ce qu'il rapporte des ouvrages antiques. Ce qui m'oblige à
+                     dire cela sont les mesures justes de ce Temple que M. <persName
                         ref="#PierreIIMignard">Mignard</persName> Architecte du Roy a soigneusement
                      prises depuis peu par l'ordre exprés de Monsieur <persName
                         ref="#JeanBaptisteColbert">Colbert</persName> Sur-Intendant des Bastimens,
@@ -635,17 +637,18 @@
                      <p xml:id="FEL_PASP_principes_L1_L1C3_L1C3S1_P2"> M. de <persName
                            ref="#RolandFreartDeChambray">Chambray</persName> dans son excellent
                         livre du Parallele de l'Architecture ancienne avec la moderne,<pb n="10"/>
-                        separe des autres Ordres le Toscan et le Composite, qu'il dit estre
-                        originaires d'<placeName ref="#Italie">Italie</placeName>. Il estime que la
-                              <objectName><ref target="#colonne">colonne</ref> Toscane</objectName>
-                        sans aucune Architrave, est la seule piece qui merite d'estre mise en œuvre
-                        et qui peut rendre cet Ordre recommandable. C'est pour cela qu'il fait la
-                        description de la <objectName><ref target="#colonne">colonne</ref>
-                           Trajane</objectName>, dont il remarque l'excellence, et qu'il dit avoir
-                        servi de regle à la <objectName><ref target="#colonne">colonne</ref>
-                           Antonine</objectName>, et à une autre qui fut élevée dans Constantinople,
-                        à l'honneur de l'Empereur <persName ref="#Theodose">Theodose</persName>,
-                        apres sa victoire contre les Scythes. Cependant il y a apparence que la
+                        separe des autres Ordres le Toscan et le <ref target="#composite"
+                           >composite</ref>, qu'il dit estre originaires d'<placeName ref="#Italie"
+                           >Italie</placeName>. Il estime que la <objectName><ref target="#colonne"
+                              >colonne</ref> Toscane</objectName> sans aucune Architrave, est la
+                        seule piece qui merite d'estre mise en œuvre et qui peut rendre cet Ordre
+                        recommandable. C'est pour cela qu'il fait la description de la
+                              <objectName><ref target="#colonne">colonne</ref> Trajane</objectName>,
+                        dont il remarque l'excellence, et qu'il dit avoir servi de regle à la
+                              <objectName><ref target="#colonne">colonne</ref>
+                        Antonine</objectName>, et à une autre qui fut élevée dans Constantinople, à
+                        l'honneur de l'Empereur <persName ref="#Theodose">Theodose</persName>, apres
+                        sa victoire contre les Scythes. Cependant il y a apparence que la
                               <objectName><ref target="#colonne">colonne</ref> Trajane</objectName>
                         n'a pas esté la premiere que l'on ait dressée à l'honneur des grands hommes
                         ; Il n'y a pas long-temps que l'on voyoit dans un endroit de <placeName
@@ -1158,15 +1161,15 @@
                   <pb n="26"/>
                   <head>
                      <hi rend="capitals"> CHAPITRE. VII. </hi>
-                     <hi rend="it">De l'Ordre Composite.</hi>
+                     <hi rend="it">De l'Ordre <ref target="#composite">composite</ref>.</hi>
                   </head>
                   <div4 type="texte" xml:id="L1C7S1">
-                     <p xml:id="FEL_PASP_principes_L1_L1C7_L1C7S1_P1"> L'Ordre Composite a esté
-                        adjousté aux autres par les Romains, qui l'ont placé au dessus du
-                        corinthien, pour faire voir, à ce que disent quelques Auteurs, qu'ils
-                        estoient les Maistres de tous les autres peuples ; et qu'il ne fut inventé
-                        qu'apres qu'<persName ref="#Auguste">Auguste</persName> eut donné la paix à
-                        tout l'Univers. </p>
+                     <p xml:id="FEL_PASP_principes_L1_L1C7_L1C7S1_P1"> L'Ordre <ref
+                           target="#composite">composite</ref> a esté adjousté aux autres par les
+                        Romains, qui l'ont placé au dessus du corinthien, pour faire voir, à ce que
+                        disent quelques Auteurs, qu'ils estoient les Maistres de tous les autres
+                        peuples ; et qu'il ne fut inventé qu'apres qu'<persName ref="#Auguste"
+                           >Auguste</persName> eut donné la paix à tout l'Univers. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C7_L1C7S1_P2"> Il participe de l'ionique et
                         du corinthien, mais il est encore plus orné que le corinthien, auquel on le
                         fait semblable dans toutes les mesures et les membres, hormis que le <ref
@@ -1180,20 +1183,21 @@
                         <note> Liv. . ch. 1 </note>
                      </noteGrp>
                      <p xml:id="FEL_PASP_principes_L1_L1C7_L1C7S1_P3"> Les <ref target="#colonne"
-                           >colonnes</ref> Composites ont d'ordinaire dix diametres de haut, comme
-                        le corinthien. <persName ref="#PhilibertDelorme">Philibert de
+                           >colonnes</ref>
+                        <ref target="#composite">composites</ref> ont d'ordinaire dix diametres de
+                        haut, comme le corinthien. <persName ref="#PhilibertDelorme">Philibert de
                            Lorme</persName> qui a creu que celles qui font le dernier Ordre du <ref
-                           target="#colisée">colisée</ref> estoient Composites, écrit qu'elles sont
-                        aussi grosses auprés du <ref target="#chapiteau">chapiteau</ref> qu'en bas,
-                        ce qui n'est pas neanmoins observé dans les anciens Edifices où
-                        l'Entablement est aussi de la quatriesme partie de la <ref target="#colonne"
-                           >colonne</ref>. Mais <persName ref="#AndreaPalladio">Palladio</persName>
-                        ne luy donne qu'une cinquiéme partie de mesme qu'à <pb n="27"/>l'Ordre
-                        corinthien ; il donne aussi aux <ref target="#colonne">colonnes</ref> une
-                        Base <ref target="#attique">Attique</ref> ou bien composée de l'<ref
-                           target="#attique">Attique</ref> et de l'ionique comme aux Corinthiennes :
-                        Pour le Piedestail il doit avoir de haut la troisiesme partie de la <ref
-                           target="#colonne">colonne</ref>. </p>
+                           target="#colisée">colisée</ref> estoient <ref target="#composite"
+                           >composites</ref>, écrit qu'elles sont aussi grosses auprés du <ref
+                           target="#chapiteau">chapiteau</ref> qu'en bas, ce qui n'est pas neanmoins
+                        observé dans les anciens Edifices où l'Entablement est aussi de la
+                        quatriesme partie de la <ref target="#colonne">colonne</ref>. Mais <persName
+                           ref="#AndreaPalladio">Palladio</persName> ne luy donne qu'une cinquiéme
+                        partie de mesme qu'à <pb n="27"/>l'Ordre corinthien ; il donne aussi aux
+                           <ref target="#colonne">colonnes</ref> une Base <ref target="#attique"
+                           >Attique</ref> ou bien composée de l'<ref target="#attique">Attique</ref>
+                        et de l'ionique comme aux Corinthiennes : Pour le Piedestail il doit avoir
+                        de haut la troisiesme partie de la <ref target="#colonne">colonne</ref>. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C7_L1C7S1_P4">
                         <hi rend="capitals"> Or </hi> toutes ces mesures ne sont pas tellement
                         arrestées, qu'elles ne changent selon la grandeur des bastimens. <persName
@@ -1206,11 +1210,11 @@
                            ref="#Provence">Provence</placeName>, il y a un Tombeau que M. <persName
                            ref="#PierreIIMignard">Mignard</persName> l'Architecte a desseigné depuis
                         peu avec un soin tout particulier, dont les <ref target="#colonne"
-                           >colonnes</ref> n'ont aucune mesure arrestée. Il y en a dix d'Ordre
-                        Composite assez élevées, qui portent un petit Dome ; et parce qu'elles sont
-                        toutes isolées, et que le jour passe au travers, elles sont si grosses
-                        qu'elles n'ont de hauteur qu'environ sept modules, et cependant font un
-                        effet admirable. </p>
+                           >colonnes</ref> n'ont aucune mesure arrestée. Il y en a dix d'Ordre <ref
+                           target="#composite">composite</ref> assez élevées, qui portent un petit
+                        Dome ; et parce qu'elles sont toutes isolées, et que le jour passe au
+                        travers, elles sont si grosses qu'elles n'ont de hauteur qu'environ sept
+                        modules, et cependant font un effet admirable. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C7_L1C7S1_P5"> Il faut aussi avoir égard à
                         la quantité des <ref target="#colonne">colonnes</ref>, et mettre de la
                         difference entre celles qui ne sont qu'au nombre de quatre, celles qui sont
@@ -1249,7 +1253,7 @@
                               <item>C <hi rend="it">Fust.</hi>
                               </item>
                               <item>D. <hi rend="it"><ref target="#chapiteau">Chapiteau</ref>
-                                    Composite.</hi>
+                                    <ref target="#composite">composite</ref>.</hi>
                               </item>
                               <item>E <hi rend="it">Entablement.</hi>
                               </item>
@@ -1395,14 +1399,14 @@
                         pour y representer les Perses. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C9_L1C9S1_P3"> C'est sur ces deux exemples
                         qu'on a depuis employé diverses sortes de Figures dans l'Architecture, pour
-                        porter des Corniches et pour soustenir des Consoles et des Mutules. On voit
-                        dans les Edifices Gottiques de ces sortes de Figures avec autant d'excez que
-                        peu d'ordre et de raison. Il y a mesme apparence que les Grecs ont fait
-                        aussi de ces sortes de Figures en differentes manieres ; puisqu'on voit
-                        encore de vieux vestiges auprés d'<placeName ref="#Athenes"
-                           >Athenes</placeName> où il y à des Figures de femmes qui portent des
-                        panniers sur leur teste et qui tiennent lieu de <ref target="#caryatides"
-                           >caryatides</ref>. </p>
+                        porter des Corniches et pour soustenir des <ref target="#consoles"
+                           >consoles</ref> et des Mutules. On voit dans les Edifices Gottiques de
+                        ces sortes de Figures avec autant d'excez que peu d'ordre et de raison. Il y
+                        a mesme apparence que les Grecs ont fait aussi de ces sortes de Figures en
+                        differentes manieres ; puisqu'on voit encore de vieux vestiges auprés
+                           d'<placeName ref="#Athenes">Athenes</placeName> où il y à des Figures de
+                        femmes qui portent des panniers sur leur teste et qui tiennent lieu de <ref
+                           target="#caryatides">caryatides</ref>. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C9_L1C9S1_P4"> Ils mettoient encore des
                         Figures humaines sous les Mutules ou Corbeaux, et les appeloient. <hi
                            rend="it">Atlas</hi> selon <persName ref="#Vitruve">Vitruve</persName> ;
@@ -1418,9 +1422,9 @@
                         n'a point écrit <hi rend="it">Telamonas</hi>, mais <foreign xml:lang="gre"
                         />, ce mot grec signifiant des miserables et des gens qui endurent le
                         travail, ce qui convient parfaitement à ces sortes de Figures qui portent
-                        des Corniches ou des Consoles, et que nous voyons si ordinairement aux
-                        pilliers de nos anciennes Eglises, sous les Images de quelques Saints ou de
-                        quelques grands personnages.</p>
+                        des Corniches ou des <ref target="#consoles">consoles</ref>, et que nous
+                        voyons si ordinairement aux pilliers de nos anciennes Eglises, sous les
+                        Images de quelques Saints ou de quelques grands personnages.</p>
                   </div4>
                   <div4 type="planches" xml:id="L1C9S2">
                      <head rend="capitals">EXPLICATION DE LA PLANCHE VII. </head>
@@ -2084,11 +2088,12 @@
                            >Antiques</ref> du Louvre. Il s'en trouve en d'autres lieux qu'a
                            <placeName ref="#Carrara">Carrare</placeName>. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C12_L1C12S1_P31"> Ceûx que les ouvriers
-                        nomment <hi rend="it">Saligni</hi>, ressemblent à des congellations, car ils
-                        sont un peu transparans et ont un certain brillant, de mesme que celuy qui
-                        paroist dans le sel. Il est assez mal-aisé d'en faire des Figures,
-                        parcequ'ils ont le grain fort gros et rude ; et dans les temps humides, il
-                        en degoute de l'eau, comme une espece de sueur. </p>
+                        nomment <hi rend="it">Saligni</hi>, ressemblent à des <ref
+                           target="#congellations">congellations</ref>, car ils sont un peu
+                        transparans et ont un certain brillant, de mesme que celuy qui paroist dans
+                        le sel. Il est assez mal-aisé d'en faire des Figures, parcequ'ils ont le
+                        grain fort gros et rude ; et dans les temps humides, il en degoute de l'eau,
+                        comme une espece de sueur. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C12_L1C12S1_P32"> Quant à ceux qu'ils
                         appelent <hi rend="it"><ref target="#campanini">campanini</ref></hi>, c'est
                         à cause qu'ils resonnent en les travaillant, et qu'ils ont un son sort
@@ -2516,9 +2521,10 @@
                      <p xml:id="FEL_PASP_principes_L1_L1C12_L1C12S1_P79">
                         <hi rend="capitals"> LES OUTILS</hi> necessaires pour les Macons ; Tail.-
                         Des ourits. leurs de pierres, et Apareilleurs, sont l'Auget, la Truelle, une
-                        Regle, un Compas, une Sauterelle, un <ref target="#buveau">buveau</ref>, des
-                        Niveaux de differentes sortes, des <ref target="#ciseau1">cizeaux</ref>, des
-                        Masses, des Maillets, des Scies, des Matteaux taillans, et autres. </p>
+                        Regle, un <ref target="#compas2">compas</ref>, une Sauterelle, un <ref
+                           target="#buveau">buveau</ref>, des Niveaux de differentes sortes, des
+                           <ref target="#ciseau1">cizeaux</ref>, des Masses, des Maillets, des
+                        Scies, des Matteaux taillans, et autres. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C12_L1C12S1_P80"> Pour les sculpteurs en
                         pierre, ils se servent des mesmes Outils que les sculpteurs en Marbre, et
                            <pb n="72"/> que ceux qui travaillent en bois, dont je parleray
@@ -2690,9 +2696,11 @@
                            <item>P <hi rend="it"> Efpece de Rabot qu'on nomme en Lorraine une
                                  Houe.</hi>
                            </item>
-                           <item>Q <hi rend="it">Compas a fauffe Equaire.</hi>
+                           <item>Q <hi rend="it"><ref target="#compas6">Compas</ref> a fauffe
+                                 Equaire.</hi>
                            </item>
-                           <item>R <hi rend="it">Autre petit Compas.</hi>
+                           <item>R <hi rend="it">Autre petit <ref target="#compas2"
+                                 >compas</ref>.</hi>
                            </item>
                            <item>S <hi rend="it"><ref target="#ciseau1">Ciseau</ref> à louver. Il a
                                  d'ordinaire 18 pouces de long.</hi>
@@ -2948,7 +2956,8 @@
                         quelquefois de demy-Bastions, selon le terrain ; de Cavalliers,
                         Faussebrayes, Fossez, Contrescarpes, <ref target="#chemin-couvert">chemin
                            couvert</ref>, Demy-Lunes, Ravelins, ouvrages-à-Corne, ouvrages à
-                        Couronnes, Esplanades, Redents, Conserves ou Contregardes et Tenailles. </p>
+                        Couronnes, Esplanades, Redents, <ref target="#conserves2">conserves</ref> ou
+                           <ref target="#contregarde">contregardes</ref> et Tenailles. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S1_P9"> Il y a d'autres parties
                         accessoires, et mobiles que j'ajousterai dans les definitions suivantes ; de
                         mesme que les subdivisions des parties, dont je viens de parler. </p>
@@ -3255,14 +3264,16 @@
                            selon la hauteur et pesanteur des corps qu'on veut enlcver et renverser
                            pour aller à l'aslaut. </p>
                         <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S2_L1C13S2SS1_P50">
-                           <hi rend="it">Contremine</hi>, est proprement une Gallerie interieure
-                           voutée de trois pieds de largeur, et six de hauteur, qu'on pratique dans
-                           l'épaisseur de la muraille tout au tour d'une place. </p>
+                           <hi rend="it"><ref target="#contremines">Contremine</ref></hi>, est
+                           proprement une Gallerie interieure voutée de trois pieds de largeur, et
+                           six de hauteur, qu'on pratique dans l'épaisseur de la muraille tout au
+                           tour d'une place. </p>
                         <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S2_L1C13S2SS1_P51"> On appele
-                           aussi <hi rend="it">Contremines</hi>, ou <hi rend="it">Casemattes</hi>
-                           les Puies qu'on fait dans le Rampart du Bastion jusques a ce qu'on
-                           entende travailler le Mineur, et qu'on évente la Mine ; on y jette en
-                           mesme temps quantité d'eau pour la rendre encore plus inutile. </p>
+                           aussi <hi rend="it"><ref target="#contremines">contremines</ref></hi>, ou
+                              <hi rend="it">Casemattes</hi> les Puies qu'on fait dans le Rampart du
+                           Bastion jusques a ce qu'on entende travailler le Mineur, et qu'on évente
+                           la Mine ; on y jette en mesme temps quantité d'eau pour la rendre encore
+                           plus inutile. </p>
                         <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S2_L1C13S2SS1_P52">
                            <hi rend="it">Fougade</hi> ou <hi rend="it">
                               <unclear>Fourneau</unclear>
@@ -3333,7 +3344,8 @@
                               >Angle</ref> rentrant entre les mesmes aisles sans Flancs ;
                            quelquefois elles en ont comme les autres. </p>
                         <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S2_L1C13S2SS2_P9">
-                           <hi rend="it">Contregardes</hi> ou <hi rend="it">Conserves</hi> sont des
+                           <hi rend="it"><ref target="#contregarde">contregardes</ref></hi> ou <hi
+                              rend="it"><ref target="#conserves2">conserves</ref></hi> sont des
                            pieces triangulaires paralelles aux Bastions, qu'elles couvrent au delà
                            de la Contrescarpe. Elles ont leur Rampart, leur Parapet, leur Fossé et
                            leur <ref target="#chemin-couvert">chemin couvert</ref> ; et ne sont
@@ -4039,12 +4051,12 @@
                            >Liernes</hi> servent pour les planches en Galtas, et s'assemblent sous
                         les Faistes d'un poinçon à l'autre. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P30"> Les <hi rend="it"
-                           >Contrevents</hi> se mettent aux <hi rend="it">grands combles</hi> en
-                        Croix de S. André, ou en Contrefiche, pour entretenir et <hi rend="it"
-                           >contreventer</hi> du haut d'une Ferme au bas de l'autre, et pour
-                        empescher le <hi rend="it">Hiement</hi> des Fermes et <ref target="#chevron"
-                           >chevrons</ref>, c'est-à-dire que les grands vents ne les fassent aller
-                        de part ou d'autre. </p>
+                           >Contrevents</hi> se mettent aux <hi rend="it">grands <ref
+                              target="#comble">combles</ref></hi> en Croix de S. André, ou en
+                        Contrefiche, pour entretenir et <hi rend="it">contreventer</hi> du haut
+                        d'une Ferme au bas de l'autre, et pour empescher le <hi rend="it"
+                           >Hiement</hi> des Fermes et <ref target="#chevron">chevrons</ref>,
+                        c'est-à-dire que les grands vents ne les fassent aller de part ou d'autre. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P31">
                         <hi rend="it">Contrefiche</hi>, est une piece de bois qui appuye contre unee
                         autre, comme pour l'estayer. </p>
@@ -4125,8 +4137,8 @@
                            <ref target="#bois-refait">refait</ref>
                         </hi> et <hi rend="it">mis à l'équaire</hi>. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P51">
-                        <hi rend="it">Contrejauger</hi> les assemblages de Charpenterie, c'est les
-                        mesurer. </p>
+                        <hi rend="it"><ref target="#contrejauger">contrejauger</ref></hi> les
+                        assemblages de Charpenterie, c'est les mesurer. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P52"> Les charpentiers se
                         servent d'ordinaire de quatre sortes de Marques pour marquer les Pieces de
                         bois qui doivent estre employées à la construction d'un logis, et pour
@@ -4134,22 +4146,23 @@
                            >Marc franc</hi> qui sont de petites marques ou traits qu'ils tracent
                         avec la <hi rend="it">roinette</hi> ou <hi rend="it">traceret</hi>, et font
                         autant de ces traits qu'il y a de pieces. La seconde, ils la nomment <hi
-                           rend="it">Contre-marq</hi>. La troisiesme, ils la font en forme de <hi
-                           rend="it">Crochet</hi>. Et la quatriesme, ils l'appelent <hi rend="it"
-                           >Patte-d'oye</hi>. Lorsque le nombre des pieces est trop grand, et que
-                        les quatre Marques ne suffisent pas pour les distinguer, ils font des ronds
-                        et se servent de chiffres. Ils ont aussi des contres ou fausses marques dont
-                        l'on dit que quelques-uns<pb n="124"/> se servent à tromper le public. </p>
+                           rend="it"><ref target="#contremarq">contre-marq</ref></hi>. La
+                        troisiesme, ils la font en forme de <hi rend="it">Crochet</hi>. Et la
+                        quatriesme, ils l'appelent <hi rend="it">Patte-d'oye</hi>. Lorsque le nombre
+                        des pieces est trop grand, et que les quatre Marques ne suffisent pas pour
+                        les distinguer, ils font des ronds et se servent de chiffres. Ils ont aussi
+                        des contres ou fausses marques dont l'on dit que quelques-uns<pb n="124"/>
+                        se servent à tromper le public. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P53">
                         <hi rend="capitals">LES OUTILS</hi> necessaires pour la Charpenterie sont: </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P54"> La grande <hi rend="it"
                            >Regle</hi> ; la petite <hi rend="it">Regle platte</hi>, un <hi rend="it"
                            >Pied</hi>, une <hi rend="it">Toise</hi>, et une <hi rend="it">Toise</hi>
                         platte. </p>
-                     <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P55"> Les <hi rend="it"
-                           >Compas</hi> grands et petits avec le <hi rend="it">Couteau</hi> à <hi
-                           rend="it"><ref target="#chapiteau">chapiteau</ref></hi>, pour éguiser la
-                        pierre noire. </p>
+                     <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P55"> Les <hi rend="it"><ref
+                              target="#compas7">compas</ref></hi> grands et petits avec le <hi
+                           rend="it">Couteau</hi> à <hi rend="it"><ref target="#chapiteau"
+                              >chapiteau</ref></hi>, pour éguiser la pierre noire. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P56"> Le <hi rend="it"
                            >Niveau</hi>
                         <ref target="#a-plomb">à plomb</ref> plain. </p>
@@ -4508,8 +4521,10 @@
                         <list rend="numbered">
                            <item>1 <hi rend="it">Grande Regle</hi>.</item>
                            <item>2 <hi rend="it">Petite Regle platte</hi>.</item>
-                           <item>3 <hi rend="it">Crand Compas</hi>.</item>
-                           <item>4 <hi rend="it">Petit Compas</hi>.</item>
+                           <item>3 <hi rend="it">Crand <ref target="#compas4"
+                              >compas</ref></hi>.</item>
+                           <item>4 <hi rend="it">Petit <ref target="#compas4"
+                              >compas</ref></hi>.</item>
                            <item>5 <hi rend="it">Couteau</hi>.</item>
                            <item>6 <hi rend="it">Niveau</hi>.</item>
                            <item>7 <hi rend="it">Niveau <ref target="#a-plomb">à plomb</ref>
@@ -4941,8 +4956,9 @@
                            >OUTILS</hi> particuliers, une <hi rend="it">
                            <ref target="#assette">Assette</ref>
                         </hi>, c'est-à-dire <hi rend="it">Hachette</hi> pour dressen les Lattes. </p>
-                     <p xml:id="FEL_PASP_principes_L1_L1C15_L1C15S2_P2"> Un <hi rend="it"
-                           >Contrelattoir</hi> pour soustenir les Lattes en clouant dessus. </p>
+                     <p xml:id="FEL_PASP_principes_L1_L1C15_L1C15S2_P2"> Un <hi rend="it"><ref
+                              target="#contrelatoir">contrelattoir</ref></hi> pour soustenir les
+                        Lattes en clouant dessus. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C15_L1C15S2_P3"> Une <hi rend="it"
                            >Enclume</hi> pour couper l'Ardoise. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C15_L1C15S2_P4"> Un <hi rend="it"
@@ -4983,7 +4999,7 @@
                               <hi rend="capitals">I. FIGURE.</hi>
                               <list rend="numbered">
                                  <item>
-                                    <hi rend="capitals">A COMBLE</hi>
+                                    <hi rend="capitals">A <ref target="#comble">COMBLE</ref></hi>
                                     <hi rend="it">en Pignon ou Couverture garnie de Lates pour la
                                        tuile ordinaire.</hi>
                                     <list rend="numbered">
@@ -5010,14 +5026,15 @@
                               </list>
                            </item>
                            <item>
-                              <hi rend="capitals">II. FIGURE. <lb/>B COMBLE</hi>
+                              <hi rend="capitals">II. FIGURE. <lb/>B <ref target="#comble"
+                                    >COMBLE</ref></hi>
                               <hi rend="it">en Groupe couvert de Tuiles Flamandes.</hi>
                            </item>
                            <item>
                               <hi rend="capitals">III. FIGURE.</hi>
                               <list rend="numbered">
                                  <item>
-                                    <hi rend="capitals"> C COMBLE</hi>
+                                    <hi rend="capitals"> C <ref target="#comble">COMBLE</ref></hi>
                                     <hi rend="it">ou toit couvert d'ardoise en pavillon.</hi>
                                     <list rend="numbered">
                                        <item>1 <hi rend="it">Enfaistement.</hi>
@@ -5063,7 +5080,8 @@
                               </list>
                            </item>
                            <item>
-                              <hi rend="capitals">IV. FIGURE. <lb/> D COMBLE</hi>
+                              <hi rend="capitals">IV. FIGURE. <lb/> D <ref target="#comble"
+                                    >COMBLE</ref></hi>
                               <hi rend="it">Coupé ou Mansarde.</hi>
                               <list rend="numbered">
                                  <item> 1 <hi rend="it"><ref target="#brisis">Brisis</ref>.</hi>
@@ -5089,7 +5107,8 @@
                            <item>A <hi rend="it">
                                  <ref target="#assette">Assette</ref> ou Hachette.</hi>
                            </item>
-                           <item>B <hi rend="it">Un Contrelattoir.</hi>
+                           <item>B <hi rend="it">Un <ref target="#contrelatoir"
+                                 >contrelattoir</ref>.</hi>
                            </item>
                            <item>C <hi rend="it">Enclume à couper l'ardoise.</hi>
                            </item>
@@ -5131,18 +5150,18 @@
                         ordinaires et les petits Bastimens, l'on peut se passer entierement de
                         Plomb, ou n'en employer que fort peu, il n'en est pas de mesme dans les
                         grands Edifices. L'on en a besoin non seulement pour les Enfaistemens des
-                        Combles, pour les <ref target="#chesneau">chaineaux</ref> et les Descentes,
-                        mais aussi pour mettre quelquefois par Tables, entre les joints des grandes
-                        pierres, au lieu de mortier, comme l'on a fait au
-                           <placeName>Louvre</placeName>. Aussi ce metail est-il d'un tres grand
-                        usage, et a cela d'avantageux qu'il s'employe avec facilité. La plus grande
-                        partie de celuy que nous avons ici, vient d'<placeName ref="#Angleterre"
-                           >Angleterre</placeName> par gros lingots qu'on appelle <hi rend="it"
-                           >Saumons</hi>, qui pesent d'ordinaire quatre cens livres ou environ. Il
-                        vient aussi d'<placeName ref="#Allemagne">Allemagne</placeName> du petit
-                        Plomb, qui est par lingots ou <hi rend="it">Saumons quarrez</hi>, pesant
-                        environ six-vingt livres, mais quelques-uns l'estiment plus sec, ou aigre,
-                        et moins doux que celuy d'<placeName ref="#Angleterre"
+                           <ref target="#comble">combles</ref>, pour les <ref target="#chesneau"
+                           >chaineaux</ref> et les Descentes, mais aussi pour mettre quelquefois par
+                        Tables, entre les joints des grandes pierres, au lieu de mortier, comme l'on
+                        a fait au <placeName>Louvre</placeName>. Aussi ce metail est-il d'un tres
+                        grand usage, et a cela d'avantageux qu'il s'employe avec facilité. La plus
+                        grande partie de celuy que nous avons ici, vient d'<placeName
+                           ref="#Angleterre">Angleterre</placeName> par gros lingots qu'on appelle
+                           <hi rend="it">Saumons</hi>, qui pesent d'ordinaire quatre cens livres ou
+                        environ. Il vient aussi d'<placeName ref="#Allemagne">Allemagne</placeName>
+                        du petit Plomb, qui est par lingots ou <hi rend="it">Saumons quarrez</hi>,
+                        pesant environ six-vingt livres, mais quelques-uns l'estiment plus sec, ou
+                        aigre, et moins doux que celuy d'<placeName ref="#Angleterre"
                            >Angleterre</placeName>. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C16_L1C16S1_P2"> Comme le Plomb se fond
                         facilement, il est aisé d'en faire telles Figures qu'on veut, en le jettant
@@ -5341,18 +5360,18 @@
                         <hi rend="capitals"> OUTRE </hi> les Fosses, Poëles, Moules, Cuillers, et
                         autres choses necessaires aux plombiers, dont il est <pb n="162"/> parlé
                         cy-dessus. Il y a encore plusieurs Outils necessaires à leur travail qui
-                        sont un <hi rend="it">Niveau</hi>, un <hi rend="it">Compas</hi>, un <hi
-                           rend="it">Marteau</hi>, des <hi rend="it">Maillets</hi> plats, par le
-                        costé, des <hi rend="it"><ref target="#bourseau2">bourseaux</ref></hi> ronds
-                        pour batre, des <hi rend="it">Serpes</hi>, des <hi rend="it">Serpettes</hi>,
-                        des <hi rend="it">Couteaux</hi>, des <hi rend="it">Planes</hi>, des <hi
-                           rend="it">Gouges</hi>, des <hi rend="it">Rapes</hi>, un <hi rend="it"
-                           >Débordoir rond</hi>, un <hi rend="it">Gratoir</hi>, des <hi rend="it"
-                           >Fers ronds à souder</hi>, d'autres petits <hi rend="it">Fers en
-                           triangle à souder</hi>. Les <hi rend="it">Manches</hi> de ces fers sont
-                        de deux morceaux de bois creux et entaillez en forme de canaux, suivant la
-                        grosseur du manche du Fer ; les plombiers les nomment <hi rend="it"
-                           >Atelles</hi>.</p>
+                        sont un <hi rend="it">Niveau</hi>, un <hi rend="it"><ref target="#compas8"
+                              >compas</ref></hi>, un <hi rend="it">Marteau</hi>, des <hi rend="it"
+                           >Maillets</hi> plats, par le costé, des <hi rend="it"><ref
+                              target="#bourseau2">bourseaux</ref></hi> ronds pour batre, des <hi
+                           rend="it">Serpes</hi>, des <hi rend="it">Serpettes</hi>, des <hi
+                           rend="it">Couteaux</hi>, des <hi rend="it">Planes</hi>, des <hi rend="it"
+                           >Gouges</hi>, des <hi rend="it">Rapes</hi>, un <hi rend="it">Débordoir
+                           rond</hi>, un <hi rend="it">Gratoir</hi>, des <hi rend="it">Fers ronds à
+                           souder</hi>, d'autres petits <hi rend="it">Fers en triangle à
+                           souder</hi>. Les <hi rend="it">Manches</hi> de ces fers sont de deux
+                        morceaux de bois creux et entaillez en forme de canaux, suivant la grosseur
+                        du manche du Fer ; les plombiers les nomment <hi rend="it">Atelles</hi>.</p>
                   </div4>
                   <div4 xml:id="L1C16S3">
                      <div5 xml:id="L1C16S3SS1">
@@ -5417,7 +5436,7 @@
                            </item>
                            <item>H <hi rend="it">Niveau.</hi>
                            </item>
-                           <item>I <hi rend="it">Compas.</hi>
+                           <item>I <hi rend="it"><ref target="#compas8">Compas</ref>.</hi>
                            </item>
                            <item>L <hi rend="it">Marteau.</hi>
                            </item>
@@ -5585,8 +5604,8 @@
                      <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S1_P1"> DAns le travail de
                         menuiserie, l'on commance par <hi rend="it">debiter le Bois</hi>, ce qui se
                         fait en deux manieres. La premiere quand on mesure les Pieces avec la regle
-                        et le compas, et qu'on marque les grandeurs necessaires avec la pierre noire
-                        ou la pierre blanche. </p>
+                        et le <ref target="#compas1">compas</ref>, et qu'on marque les grandeurs
+                        necessaires avec la pierre noire ou la pierre blanche. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S1_P2"> La seconde, c'est
                         lorsqu'aprés avoir refendu les Pieces avec une Scie à refendre, on les
                         coupe de longueur avec la Scie <hi rend="it">à debiter</hi>. </p>
@@ -5671,8 +5690,9 @@
                         affleurent et sont d'égale épaisseur. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S1_P17"> Les <hi rend="it"
                            >Lambris</hi> se font ordinairement à <hi rend="it">Pilastres</hi>, à
-                        grands <hi rend="it">Panneaux</hi>, ou a <hi rend="it">Compartiment</hi>,
-                        c'est-à-dire de plusieurs Panneaux de diverses grandeurs et figures. </p>
+                        grands <hi rend="it">Panneaux</hi>, ou a <hi rend="it"><ref
+                              target="#compartiment1">compartiment</ref></hi>, c'est-à-dire de
+                        plusieurs Panneaux de diverses grandeurs et figures. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S1_P18"> Quand les menuisiers ne
                         font que raboter les <ref target="#ais">Ais</ref> de leur longueurs, soit de
                         sapin, soit de chesne, ou d'autre bois, comme pour faire des <ref
@@ -5846,7 +5866,7 @@
                         <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S2_L1C18S2SS4_P10"> Le <hi
                               rend="it"><ref target="#calibre3">calibre</ref></hi>. </p>
                         <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S2_L1C18S2SS4_P11"> Le <hi
-                              rend="it">Compas</hi>. </p>
+                              rend="it"><ref target="#compas9">compas</ref></hi>.</p>
                         <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S2_L1C18S2SS4_P12"> Le <hi
                               rend="it">Marteau</hi> et les <hi rend="it">Tenailles</hi>. </p>
                         <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S2_L1C18S2SS4_P13"> Les <hi
@@ -6099,7 +6119,7 @@
                            </item>
                            <item>Q <hi rend="it">Triangle anglé.</hi>
                            </item>
-                           <item>R <hi rend="it">Compas.</hi>
+                           <item>R <hi rend="it"><ref target="#compas9">compas</ref>.</hi>
                            </item>
                            <item>S <hi rend="it">Marteau.</hi>
                            </item>
@@ -6135,9 +6155,9 @@
                      la mesme façon que les autres, ils travaillent encore d'une maniere
                      particuliere. Car leurs bois qui sont de plusieurs natures, et sciez par
                      feuilles, ne sont que plaquez sur des fonds faits de moindres bois, et collez
-                     par compartiment avec de bonne <ref target="#cole">colle</ref> d'<placeName
-                        ref="#Angleterre">Angleterre</placeName>, comme je diray en parlant des
-                     ouvrages de raport. </p>
+                     par <ref target="#compartiment1">compartiment</ref> avec de bonne <ref
+                        target="#cole">colle</ref> d'<placeName ref="#Angleterre"
+                        >Angleterre</placeName>, comme je diray en parlant des ouvrages de raport. </p>
                   <p xml:id="FEL_PASP_principes_L1_L1C19_P2"> Quand leurs feuilles de bois sont
                      plaquées, jointes et collées, ils laissent leur besogne sur l'Establie, et la
                      tiennent en presse avec des <hi rend="it">Goberges</hi>, jusques à ce que la
@@ -7005,8 +7025,9 @@
                         pour cet effet il faut multiplier les ressorts, elles sont composées de <hi
                            rend="it">Penés</hi> qu'on appelle à <hi rend="it">Pignon</hi> avec des
                            <hi rend="it">Cramailleres</hi> à plusieurs crans soustenus de <hi
-                           rend="it">Consoles</hi>, et retenus avec des <hi rend="it">Coulisses</hi>
-                        qui servent à conduire les <hi rend="it">Pénes</hi>. </p>
+                           rend="it"><ref target="#consoles">consoles</ref></hi>, et retenus avec
+                        des <hi rend="it">Coulisses</hi> qui servent à conduire les <hi rend="it"
+                           >Pénes</hi>. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S1_P110"> La pluspart de ces sortes
                         de Serrures sont plus propres pour des Coffres que pour des Portes et
                         Cabinets, où l'on n'en met qu'à <hi rend="it">ressort</hi>, ou à <hi
@@ -7482,8 +7503,8 @@
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P42"> Les <hi rend="it"><ref
                               target="#cherche-fiche">cherche-fiches</ref> ou Chasse-pointes</hi>
                         qui sont comme des poincons pointus pour trouver le trou des fiches. </p>
-                     <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P43"> Les <hi rend="it"
-                           >Compas</hi> pour prendre des mesures. </p>
+                     <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P43"> Les <hi rend="it"><ref
+                              target="#compas2">compas</ref></hi> pour prendre des mesures. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P44"> Les <hi rend="it"
                            >Enclumes</hi> qui servent à battre le fer à chaud et à froid. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P45"> Une <hi rend="it"
@@ -7566,7 +7587,7 @@
                      <pb n="229"/>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P74"> Les <hi rend="it"
                            >Limes</hi> faites en dos de carpe, pour fendre divers ouvrages, et
-                        particulierement des Compas </p>
+                        particulierement des <ref target="#compas2">compas</ref>.</p>
                      <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P75"> Les <hi rend="it"
                            >Limes</hi> qui ne sont point taillées sur les costez, pour fendre et
                         pour dresser les rateaux des <ref target="#clef1">clefs</ref>.</p>
@@ -7917,7 +7938,7 @@
                            <item>F <hi rend="it">Tenailles à vis ou Estau à main</hi>.</item>
                            <item>G <hi rend="it">Tenailles ordinaires</hi>.</item>
                            <item>H <hi rend="it">Marteau d' Establie</hi>.</item>
-                           <item>I <hi rend="it">Compas</hi>.</item>
+                           <item>I <hi rend="it"><ref target="#compas10">Compas</ref></hi>.</item>
                            <item>K <hi rend="it"><ref target="#chevalet1">Chevalet</ref> avec sa
                                  boete et Foret</hi>.</item>
                            <item>L <hi rend="it">Palette à forer</hi>.</item>
@@ -8011,17 +8032,18 @@
                         prendre quelques morceaux pour mettre aux fenestres ; les arrangeant par
                         compartimens, comme de la Mosaique, ce qui fut l'origine de la Peinture
                         qu'on a faite ensuite sur les Vitres. Car voyant que cela faisoit un assez
-                        bel effet, l'on ne se contenta pas de cet assemblage de diverses pieces
-                        coloriées, mais on voulut representer toutes sortes de Figures et des
-                        histoires entieres ; ce que l'on fist d'abord sur le Verre blanc, se servant
-                        de couleurs detrempées avec la <ref target="#cole">colle</ref>, comme pour
-                        peindre à détrempe. Et parce que l'on connut bientost qu'elles ne pouvoient
-                        pas resister longtemps à l'injure de l'air, l'on chercha d'autres couleurs,
-                        qui aprés avoir esté couchées sur le Verre, blanc et mesme sur celuy qui
-                        avoit esté déja colorié dans les Verreries pussent se parfondre, et
-                        s'incorporer avec le mesme Verre, en le mettant au feu ; en quoy on reussit
-                        si heureusement, qu'on en voit des marques par la beauté de nos anciennes
-                        Vitres. </p>
+                        bel effet, l'on ne se contenta pas de cet assemblage de diverses pieces <ref
+                           target="#colorié">coloriées</ref>, mais on voulut representer toutes
+                        sortes de Figures et des histoires entieres ; ce que l'on fist d'abord sur
+                        le Verre blanc, se servant de couleurs detrempées avec la <ref
+                           target="#cole">colle</ref>, comme pour peindre à détrempe. Et parce que
+                        l'on connut bientost qu'elles ne pouvoient pas resister longtemps à l'injure
+                        de l'air, l'on chercha d'autres couleurs, qui aprés avoir esté couchées sur
+                        le Verre, blanc et mesme sur celuy qui avoit esté déja <ref
+                           target="#colorié">colorié</ref> dans les Verreries pussent se parfondre,
+                        et s'incorporer avec le mesme Verre, en le mettant au feu ; en quoy on
+                        reussit si heureusement, qu'on en voit des marques par la beauté de nos
+                        anciennes Vitres. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C21_L1C21S1_P3"> Quand les ouvriers
                         vouloient faire des Vitres, dont les couleurs fussent tres belles, ils se
                         servoient de ce Verre qui avoit esté colorié dans les Verreries, pour faire
@@ -8081,10 +8103,11 @@
                         <hi rend="capitals"> AVANT </hi> que de peindre sur le Verre, l'on desseigne
                         et mesme l'on colorie tout son sujet sur du papier ; Ensuite l'on choisit
                         les morceaux de Verre propres pour y peindre les Figures par parties, en
-                        sorte que les pieces puissent se joindre dans les contours des parties du
-                        corps, et dans les plis des draperies, afin que le plomb qui les doit
-                        assembler, ne gaste rien des <ref target="#carnation">carnations</ref> et
-                        des plus beaux endroits des vestemens. </p>
+                        sorte que les pieces puissent se joindre dans les <ref target="#contours"
+                           >contours</ref> des parties du corps, et dans les plis des draperies,
+                        afin que le plomb qui les doit assembler, ne gaste rien des <ref
+                           target="#carnation">carnations</ref> et des plus beaux endroits des
+                        vestemens. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C21_L1C21S1_P9"> Quand toutes les pieces
                         sont taillées suivant le dessein et selon la grandeur de l'ouvrage, on les
                         marque par chiffres ou par lettres, pour les reconnoistre : puis l'on
@@ -8204,17 +8227,18 @@
                         tenir le tout le moins mol que l'on pourra, mais que cela soit de la mesme
                         sorte que les couleurs pour peindre, n'estant ny si mol qu'il coule, ny si
                         dur qu'on ne le puisse detremper avec le doigt : il vaut pourtant mieux
-                        qu'il soit un peu dur que trop mol. Ayant levé cette composition de dessus
-                        la platine, il faut la mettre dans un Verre pointu en bas, car cela importe
-                        beaucoup, et y verser un peu d'eau claire ; puis détremper cette matiere
-                        avec le bout du doigt le plus que l'on peut, y adjoustant encore un peu
-                        d'eau, et faire en sorte qu'elle soit de la mesme consistance, ou un peu
-                        plus claire qu'un jaune d'œuf dilayé. Cela ainsi détrempé, on le doit
-                        couvrir d'un papier, pour le garantir de la poudre et le laisser reposer
-                        trois jours et trois nuits sans le remuer ; aprés, on verse doucement le
-                        plus pur de la couleur qui surnage dessus, dans un autre vaisseau de verre,
-                        prenant garde de ne rien troubler. Cette couleur estant ostée, on la laisse
-                        encore reposer deux jours, aprés lesquels on verse comme la premiere fois. </p>
+                        qu'il soit un peu dur que trop mol. Ayant levé cette <ref
+                           target="#composition">composition</ref> de dessus la platine, il faut la
+                        mettre dans un Verre pointu en bas, car cela importe beaucoup, et y verser
+                        un peu d'eau claire ; puis détremper cette matiere avec le bout du doigt le
+                        plus que l'on peut, y adjoustant encore un peu d'eau, et faire en sorte
+                        qu'elle soit de la mesme consistance, ou un peu plus claire qu'un jaune
+                        d'œuf dilayé. Cela ainsi détrempé, on le doit couvrir d'un papier, pour le
+                        garantir de la poudre et le laisser reposer trois jours et trois nuits sans
+                        le remuer ; aprés, on verse doucement le plus pur de la couleur qui surnage
+                        dessus, dans un autre vaisseau de verre, prenant garde de ne rien troubler.
+                        Cette couleur estant ostée, on la laisse encore reposer deux jours, aprés
+                        lesquels on verse comme la premiere fois. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C21_L1C21S1_P20"> Cela fait, on met cette
                         derniere couleur sur une piece de verre ; un peu creuse et posée sur du
                         sable dans une terrine ordinaite mise sur le feu, pour la faire secher
@@ -8484,7 +8508,8 @@
                      <p xml:id="FEL_PASP_principes_L1_L1C21_L1C21S2_P4"> Une <hi rend="it">grande
                            Regle</hi> et une autre <hi rend="it">petite Regle à main</hi>. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C21_L1C21S2_P5">
-                        <hi rend="it">Deux Compas</hi> l'un grand et l'autre petit. </p>
+                        <hi rend="it">Deux <ref target="#compas4">compas</ref></hi> l'un grand et
+                        l'autre petit. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C21_L1C21S2_P6"> Un <hi rend="it">Moule à
                            Liens</hi> qui sont de petits morceaux de plomb qu'on appelle aussi <hi
                            rend="it">
@@ -8684,9 +8709,10 @@
                            <item>A <hi rend="it">Fourneau pour recuire les Pieces
                               peintes</hi>.</item>
                            <item>B <hi rend="it">Fleau pour porter l'ouvrage en ville</hi>.</item>
-                           <item>C <hi rend="it">Table de bois tracée en compartiment</hi>.</item>
+                           <item>C <hi rend="it">Table de bois tracée en <ref
+                                    target="#compartiment1">compartiment</ref></hi>.</item>
                            <item>D <hi rend="it">Regle à main</hi>.</item>
-                           <item>E <hi rend="it">Compas</hi>.</item>
+                           <item>E <hi rend="it"><ref target="#compas11">compas</ref></hi>.</item>
                            <item>F <hi rend="it">Moule à liens</hi>.</item>
                            <item>G <hi rend="it">Moule appelle Lingotiere</hi>.</item>
                         </list>
@@ -8829,15 +8855,16 @@
                         temps, ce que ne pouvoient pas faire les Anciens. Car ils ne se servoient <note>
                            <persName ref="#Pline">Pline</persName> l.33. c.3 </note> que de blancs
                         d'œufs pour faire tenir l'Or sur le marbre, et sur les autres corps qui ne
-                        pouvoient pas souffrir le feu. Et pour le bois ils faisoient une Composition
-                        qui s'employoit avec de la <ref target="#cole">colle</ref>. Or il est
-                        certain que le blanc d'œuf et la <ref target="#cole">colle</ref> ne
-                        resistent point à l'eau ; ainsi ils ne pouvoient utilement dorer que les
-                        choses qui estoient à couvert, <pb n="280"/> comme leurs voutes et leurs
-                        lambris, qui estoient dorez de cette maniere. Les Grecs nommoient la
-                        composition, dont ils se servoient pour dorer sur le bois <hi xml:lang="gre"
-                           rend="it">Leucophæum ou Leucophorum</hi>, qui vraysemblablement signifie
-                           <hi rend="it">roussatre ou rouge brun</hi> et non point gris, comme le
+                        pouvoient pas souffrir le feu. Et pour le bois ils faisoient une <ref
+                           target="#composition">composition</ref> qui s'employoit avec de la <ref
+                           target="#cole">colle</ref>. Or il est certain que le blanc d'œuf et la
+                           <ref target="#cole">colle</ref> ne resistent point à l'eau ; ainsi ils ne
+                        pouvoient utilement dorer que les choses qui estoient à couvert, <pb n="280"
+                        /> comme leurs voutes et leurs lambris, qui estoient dorez de cette maniere.
+                        Les Grecs nommoient la <ref target="#composition">composition</ref>, dont
+                        ils se servoient pour dorer sur le bois <hi xml:lang="gre" rend="it"
+                           >Leucophæum ou Leucophorum</hi>, qui vraysemblablement signifie <hi
+                           rend="it">roussatre ou rouge brun</hi> et non point gris, comme le
                         veulent <persName ref="#HermolaoBarbaro">Hermolaus</persName> et <persName
                            ref="#GuillaumePhilandrier">Philander</persName>. Elle estoit faite de
                         terre glutineuse qui servoit comme il y a bien appafence, à faire tenir
@@ -8848,19 +8875,20 @@
                         </hi>. Il est bien malaisé de sçavoir au vray quelles estoient ces terres,
                         quoyque <persName ref="#Pline">Pline</persName> les nomme. Car tous ceux qui
                         ont escrit du <hi xml:lang="lat" rend="it">Senopis pontica, du Sil, et du
-                           Melina</hi> qu'il fait entrer dans cette composition, ne conviennent ny
-                        de leur couleur, ny de leur veritable nature. Ce que l'on en peut
-                        conjecturer est que le <hi xml:lang="lat" rend="it">Sinopis</hi> estoit une
-                        terre pareille à la terre <hi xml:lang="lat" rend="it">Lemnia</hi> ou Bol
-                           d'<placeName ref="#Armenie">Armenie</placeName>. Le <hi rend="it"
-                           >Sil</hi> estoit une espece d'ocre, et pour le <hi rend="it">Melina</hi>
-                        qui estoit une matieee qui tiroit son nom de l'<placeName ref="#Milos">Isle
-                           de Melos</placeName>, il est mal-aisé de scavoir si elle estoit ou grasse
-                        ou seche, ny quelle estoit sa couleur. <persName ref="#Pline"
-                           >Pline</persName>, <persName ref="#IsidoreDeSeville">Isidore</persName>
-                        et <persName ref="#GeorgiusAgricola">Agricola</persName> veulent qu'elle fut
-                        blanche, et <persName ref="#Dioscoride">Dioscoride</persName> au contraire
-                        dit que <hi xml:lang="lat" rend="it">imitatur colore cineream Eritream</hi>,
+                           Melina</hi> qu'il fait entrer dans cette <ref target="#composition"
+                           >composition</ref>, ne conviennent ny de leur couleur, ny de leur
+                        veritable nature. Ce que l'on en peut conjecturer est que le <hi
+                           xml:lang="lat" rend="it">Sinopis</hi> estoit une terre pareille à la
+                        terre <hi xml:lang="lat" rend="it">Lemnia</hi> ou Bol d'<placeName
+                           ref="#Armenie">Armenie</placeName>. Le <hi rend="it">Sil</hi> estoit une
+                        espece d'ocre, et pour le <hi rend="it">Melina</hi> qui estoit une matieee
+                        qui tiroit son nom de l'<placeName ref="#Milos">Isle de Melos</placeName>,
+                        il est mal-aisé de scavoir si elle estoit ou grasse ou seche, ny quelle
+                        estoit sa couleur. <persName ref="#Pline">Pline</persName>, <persName
+                           ref="#IsidoreDeSeville">Isidore</persName> et <persName
+                           ref="#GeorgiusAgricola">Agricola</persName> veulent qu'elle fut blanche,
+                        et <persName ref="#Dioscoride">Dioscoride</persName> au contraire dit que
+                           <hi xml:lang="lat" rend="it">imitatur colore cineream Eritream</hi>,
                         c'est-à-dire qu'elle avoit une couleur rougeastre. Ce qu'il y a de plus
                         asseuré, est que toutes ces couleurs devoient estre d'une nature seche et et
                         glutineuse, afin de s'attacher uniment au bois, et d'attirer à elles les
@@ -8964,16 +8992,17 @@
                         qui est plat ; Et comil est impossible qu'ayant donné neuf ou dix couches de
                         blanc, on n'ait bouché et remply la sculpture, ceux qui veulent que leur
                         ouvrage soit propre, prennent un <hi rend="it">Fer à retirer</hi>, qui est
-                        un fer croche, pour contourner tous les ornemens et les deboucher ; Ou bien
-                        on prend un <hi rend="it">Fermoir</hi> ou des <hi rend="it">Gouges</hi>, ou
-                        un <hi rend="it">Cizeau</hi>, et l'on donne aux ornemens de Sculpture la
-                        mesme forme que le Sculpteur a observé, quand il les a taillés, contournant
-                        les petits costez des <reg>feuilles</reg> selon le naturel ; et l'on
-                        bretelle tous les ornemens, ce qui rend l'ouvrage encore plus propre et plus
-                        delicat que le Sculpteur ne l'a fait. On se sert aussi d'un petit <hi
-                           rend="it">Fermoir à nez rond</hi> ou d'un petit <hi rend="it">fer
-                           quarré</hi> ; Et pour couper le blanc avec plus de facilité et plus
-                        nettcment, on le mouille un peu avec une <ref target="#brosse">brosse</ref>. </p>
+                        un fer croche, pour <ref target="#contourner">contourner</ref> tous les
+                        ornemens et les deboucher ; Ou bien on prend un <hi rend="it">Fermoir</hi>
+                        ou des <hi rend="it">Gouges</hi>, ou un <hi rend="it">Cizeau</hi>, et l'on
+                        donne aux ornemens de Sculpture la mesme forme que le Sculpteur a observé,
+                        quand il les a taillés, contournant les petits costez des
+                           <reg>feuilles</reg> selon le naturel ; et l'on bretelle tous les
+                        ornemens, ce qui rend l'ouvrage encore plus propre et plus delicat que le
+                        Sculpteur ne l'a fait. On se sert aussi d'un petit <hi rend="it">Fermoir à
+                           nez rond</hi> ou d'un petit <hi rend="it">fer quarré</hi> ; Et pour
+                        couper le blanc avec plus de facilité et plus nettcment, on le mouille un
+                        peu avec une <ref target="#brosse">brosse</ref>. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C22_L1C22S1_P13"> L'on se peut exempter si
                         l'on veut, de tout ce travail, lorsque l'ouvrage est delicatement taillé ;
                         Car afin de ne boucher pas la sculpture, on ne donne que deux ou trois
@@ -9114,11 +9143,12 @@
                         l'on <hi rend="it">matte</hi>, et l'on repasse avec un pinceau bien doux et
                         de la <ref target="#cole">colle</ref> à détrempe, ce qui n'a pas esté
                         bruni ou bien l'on met un peu de vermillon pour donner plus de <hi rend="it"
-                           >feu</hi> à l'Or, ce qui en effet luy donne un coloris tres beau et
-                        avantageux ; le conserve et empesche qu'en le maniant on ne l'emporte ; ou
-                        pour parler dans les termes <pb n="290"/> de l'Art, qu'on ne l'<hi rend="it"
-                           >escorche</hi>. Ce travail s'appelle <hi rend="it">matter, repasser, et
-                           donner un coloris</hi> à l'Or, pour le conserver. </p>
+                           >feu</hi> à l'Or, ce qui en effet luy donne un <ref target="#coloris"
+                           >coloris</ref> tres beau et avantageux ; le conserve et empesche qu'en le
+                        maniant on ne l'emporte ; ou pour parler dans les termes <pb n="290"/> de
+                        l'Art, qu'on ne l'<hi rend="it">escorche</hi>. Ce travail s'appelle <hi
+                           rend="it">matter, repasser, et donner un <ref target="#coloris"
+                              >coloris</ref></hi> à l'Or, pour le conserver. </p>
                      <p xml:id="FEL_PASP_principes_L1_L1C22_L1C22S1_P21"> Cela estant fait, l'on
                         couche du <hi rend="it">Vermeil</hi> dans tous les creux des ornemens de
                         Sculpture pour donner encore plus de <hi rend="it">Feu</hi> à l'Or, et pour
@@ -9491,12 +9521,13 @@
                      d'entreprendre. Parmi celles que <persName ref="#Lucullus">Luculle</persName>
                      fit apporter à <placeName ref="#Rome">Rome</placeName>, il y avoit
                         <objectName>un <persName ref="#Apollon">Apollon</persName> de trente coudées
-                        de haut</objectName>. <objectName>Le Colosse</objectName> que ceux de
-                        <placeName ref="#Rhodes">Rhodes</placeName> firent faire à l'honneur du
-                     Soleil par <persName ref="#CharesDeLindos">Caretés de Lyndos</persName>
-                     disciple de <persName ref="#Lysippe">Lysippe</persName> le surpassoit de
-                     beaucoup ; il avoit soixante et dix coudées. La <objectName>Statue de
-                           <persName ref="#Neron">Neron</persName>
+                        de haut</objectName>. <objectName>Le <ref target="#colosse"
+                        >colosse</ref></objectName> que ceux de <placeName ref="#Rhodes"
+                        >Rhodes</placeName> firent faire à l'honneur du Soleil par <persName
+                        ref="#CharesDeLindos">Caretés de Lyndos</persName> disciple de <persName
+                        ref="#Lysippe">Lysippe</persName> le surpassoit de beaucoup ; il avoit
+                     soixante et dix coudées. La <objectName>Statue de <persName ref="#Neron"
+                           >Neron</persName>
                      </objectName> que <persName ref="#Zenodore">Zenodore</persName> fit aprés
                      avoir fait en <placeName ref="#France">France</placeName>
                      <objectName>celle de <persName ref="#Mercure">Mercure</persName>
@@ -9551,11 +9582,11 @@
                         fondre le tout ensemble avec de l'<hi rend="it">huile d'olive</hi> ; on en
                         met plus ou moins selon qu'on veut rendre la matiere ou plus dure ou plus
                         molle. On mesle un peu de <hi rend="it">brun rouge</hi> ou de <hi rend="it"
-                           >vermeillon</hi> dans cette Composition, pour luy donner une couleur plus
-                        douce ; Et lorsqu'on s'en veut servir, on la manie avec les doigts, et avec
-                        des Esbauchoirs, comme on fait la terre. La pratique est la principale
-                        maistresse dans cette sorte de travail, qui d'abord n'est pas si facile
-                        qu'avec de la terre.</p>
+                           >vermeillon</hi> dans cette <ref target="#composition">composition</ref>,
+                        pour luy donner une couleur plus douce ; Et lorsqu'on s'en veut servir, on
+                        la manie avec les doigts, et avec des Esbauchoirs, comme on fait la terre.
+                        La pratique est la principale maistresse dans cette sorte de travail, qui
+                        d'abord n'est pas si facile qu'avec de la terre.</p>
                   </div4>
                   <div4 type="planches" xml:id="L2C2S2">
                      <div5 xml:id="L2C2S2SS1">
@@ -9750,8 +9781,9 @@
                         necessaires aux sculpteurs en marbre, sont la <hi rend="it">Rondelle</hi>
                         qui est une espece de <ref target="#ciseau1">ciseau</ref> arrondi. La <hi
                            rend="it">Hongnette</hi> qui est un <ref target="#ciseau1">ciseau</ref>
-                        pointu et quarré. Ils ont outre cela differens <hi rend="it">Compas</hi>,
-                        qui servent à prendre toutes les mesures. </p>
+                        pointu et quarré. Ils ont outre cela differens <hi rend="it"><ref
+                              target="#compas3">compas</ref></hi>, qui servent à prendre toutes les
+                        mesures. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C4_L2C4S1_P13"> Or les sculpteurs qui
                         entreprennent quelque ouvrage considerable, soit Statues, soit Bas-reliefs,
                         font toujours comme j'ay déja dit, un Modele de terre de la mesme grandeur
@@ -9770,8 +9802,8 @@
                         du haut duquel pend une mesme ligne que celle qui est au Modele. Cependant
                         il y a d'excellens sculpteurs qui n'approuvent pas cette maniere, disant que
                         pour peu de mouvement que reçoive le Modele, leurs mesures peuvent changer,
-                        et ainsi ils aiment mieux se servir du Compas pour mesurer toutes les
-                        parties. </p>
+                        et ainsi ils aiment mieux se servir du <ref target="#compas2">compas</ref>
+                        pour mesurer toutes les parties. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C4_L2C4S1_P14">
                         <hi rend="capitals">QUANT</hi> aux Figures qui se font de Pierres dures
                         comme est celle de <placeName ref="#SaintLeuDEsserent">saint Leu
@@ -9862,9 +9894,12 @@
                            <item>H <hi rend="it">Niveau</hi>.</item>
                            <item>I <hi rend="it">Poinçon</hi>.</item>
                            <item>K <hi rend="it">Grattoir</hi>.</item>
-                           <item>L <hi rend="it">Grand Compas brisé</hi>.</item>
-                           <item>M <hi rend="it">Compas droit</hi>.</item>
-                           <item>N <hi rend="it">Compas courbe</hi>.</item>
+                           <item>L <hi rend="it">Grand <ref target="#compas2">compas</ref>
+                                 brisé</hi>.</item>
+                           <item>M <hi rend="it"><ref target="#compas2">compas</ref>
+                              droit</hi>.</item>
+                           <item>N <hi rend="it"><ref target="#compas3">Compas</ref>
+                              courbé</hi>.</item>
                         </list>
                         <pb n="315"/>
                         <figure type="schema"
@@ -9964,8 +9999,8 @@
                         rendre plus maniable et facile à reparer. De cette sorte de cire fondue soit
                         simple, soit composée, l'on en couche doucement avec un pinceau dans toutes
                         les pieces du Moule, jusqu'à ce qu'il y en ait environ l'espaisseur d'un
-                        sol. Aprés quoy l'on prend de la mesme composition dont l'on a fait des <hi
-                           rend="it">Gasteaux</hi>
+                        sol. Aprés quoy l'on prend de la mesme <ref target="#composition"
+                           >composition</ref> dont l'on a fait des <hi rend="it">Gasteaux</hi>
                         <note>c'est-à-dure des morceaux de cire aplatie</note> d'une égale épaisseur
                         selon qu'on desire que la <ref target="#bronze">bronze</ref> vienne, qui est
                         pour l'ordinaire de trois lignes. Lesquels Gasteaux l'on met dans les Creux,
@@ -10089,28 +10124,30 @@
                         Godets.</p>
                      <pb n="324"/>
                      <p xml:id="FEL_PASP_principes_L2_L2C5_L2C5S1_P21"> La Figure de cire ainsi bien
-                        reparée et garnie de Jets et d'Events, l'on prend d'une Composition faite
-                        avec de la <hi rend="it">Potée</hi>, et du <hi rend="it"><ref
-                              target="#ciment">ciment</ref></hi> de creusets bien pillez et broyez,
-                        laquelle Composition on détrempe dans une terrine en consistence d'une
+                        reparée et garnie de Jets et d'Events, l'on prend d'une <ref
+                           target="#composition">composition</ref> faite avec de la <hi rend="it"
+                           >Potée</hi>, et du <hi rend="it"><ref target="#ciment">ciment</ref></hi>
+                        de creusets bien pillez et broyez, laquelle <ref target="#composition"
+                           >composition</ref> on détrempe dans une terrine en consistence d'une
                         couleur à peindre assez claire, puis avec un pinceau l'on en couvre
                         exactement toute la Figure, comme aussi tous les tuyaux des Jets et des
                         Events. Cela se fait par plusieurs fois, remplissant avec grand soin les
-                        petites fentes qui se font à mesure que cette Composition se seiche. Quand
-                        toute la cire en est bien couverte, l'on met par dessus, avec un pinceau,
-                        une autre sorte de Composition plus espaisse et qui a plus de corps. Elle se
-                        fait des mesmes matieres que celle dont je viens de parler, mais on y mesle
-                        un peu de <hi rend="it">Terre franche</hi> et de la <hi rend="it">Fiente de
-                           cheval</hi> preparée. Apres en avoir mis six ou sept couches, l'on en
-                        remet encore, avec le pinceau, une plus espaisse, qui n'est composée que de
-                        terre franche et de fiente de chcval ; Celle-là estant seiche on en met une
-                        autre, et ainsi on reitere de mesme jusques à sept ou huit fois. Enfin l'on
-                        en met avec la main de plus espaisse, toujours composée de fiente de cheval
-                        et de terre franche dont l'on fait deux couches ; mais il faut qu'elles
-                        soient toutes bien seiches avant que d'en mettre une autre ; et prendre
-                        garde de ne laisser aucunes parties, soit du nud, soit des draperies, qui ne
-                        soient également couvertes de toutes les differentes couches dont j'ay
-                        parlé. </p>
+                        petites fentes qui se font à mesure que cette <ref target="#composition"
+                           >composition</ref> se seiche. Quand toute la cire en est bien couverte,
+                        l'on met par dessus, avec un pinceau, une autre sorte de <ref
+                           target="#composition">composition</ref> plus espaisse et qui a plus de
+                        corps. Elle se fait des mesmes matieres que celle dont je viens de parler,
+                        mais on y mesle un peu de <hi rend="it">Terre franche</hi> et de la <hi
+                           rend="it">Fiente de cheval</hi> preparée. Apres en avoir mis six ou sept
+                        couches, l'on en remet encore, avec le pinceau, une plus espaisse, qui n'est
+                        composée que de terre franche et de fiente de chcval ; Celle-là estant
+                        seiche on en met une autre, et ainsi on reitere de mesme jusques à sept ou
+                        huit fois. Enfin l'on en met avec la main de plus espaisse, toujours
+                        composée de fiente de cheval et de terre franche dont l'on fait deux couches
+                        ; mais il faut qu'elles soient toutes bien seiches avant que d'en mettre une
+                        autre ; et prendre garde de ne laisser aucunes parties, soit du nud, soit
+                        des draperies, qui ne soient également couvertes de toutes les differentes
+                        couches dont j'ay parlé. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C5_L2C5S1_P22"> Aprés cela on a plusieurs
                         Barres de fer plates de la <pb n="325"/> hauteur de la Figure, qui
                         s'attachent par en bas à des Crochets qui doivent estre aux costez de la
@@ -10251,12 +10288,12 @@
                         ouvrages. L'on prend une portion du meilleur <hi rend="it">Or</hi>, et sept
                         autres portions de <hi rend="it">Mercure</hi>, que les Fondeurs nomment <hi
                            rend="it">Argent</hi> en cette sorte de travail ; Estant bien incorporez
-                        ensemble on fait chauffer la Figure, et ensuite on la couvre de cette
-                        composition qui la blanchit. En la rechauffant sur le feu le Mercure
-                        s'exhale, et elle demeure dorée. Quant à l'autre maniere qui se pratique
-                        pour les grands ouvrages, et ceux où l'on ne veut pas faire une grande
-                        dépense, on gratte la Figure<pb n="331"/> avec de petites limes et autres
-                        Outils pour l'<hi rend="it">
+                        ensemble on fait chauffer la Figure, et ensuite on la couvre de cette <ref
+                           target="#composition">composition</ref> qui la blanchit. En la
+                        rechauffant sur le feu le Mercure s'exhale, et elle demeure dorée. Quant à
+                        l'autre maniere qui se pratique pour les grands ouvrages, et ceux où l'on ne
+                        veut pas faire une grande dépense, on gratte la Figure<pb n="331"/> avec de
+                        petites limes et autres Outils pour l'<hi rend="it">
                            <ref target="#aviver">aviver</ref>
                         </hi>, c'est-à-dire, la rendre fraîche et nette, puis on la chauffe, et l'on
                         couche une feuille d'or dessus ce qui se reitere jusques à quatre fois. </p>
@@ -10265,11 +10302,11 @@
                         d'abord le Moule de cire. Aprés y en avoir mis l'épaisseur necessaire, l'on
                         détrempe du plastre ou de la terre qu'on jette sur la cire pour la soustenir
                         toute d'une piece au sortir du Moule, et la reparer plus aisément. Ensuite
-                        on la couvre comme celle des Statues, de diverses couches de Composition et
-                        de terre. Mais l'on met les tuyaux pour les Jets et pour les Events au
-                        derriere du Bas-relief et aux bords, et l'on n'en applique point sur les
-                        Figures. Du reste l'on se conduit de la mesme sorte qu'il est marqué
-                        cy-dessus. </p>
+                        on la couvre comme celle des Statues, de diverses couches de <ref
+                           target="#composition">composition</ref> et de terre. Mais l'on met les
+                        tuyaux pour les Jets et pour les Events au derriere du Bas-relief et aux
+                        bords, et l'on n'en applique point sur les Figures. Du reste l'on se conduit
+                        de la mesme sorte qu'il est marqué cy-dessus. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C5_L2C5S1_P33"> QUANT aux metaux dont l'on
                         se sert, cela dépend de la volonté. On prend seulement garde que pour une
                         livre de cire qui entre dans une Figure, il faut dix livres de metail, sans
@@ -10307,16 +10344,18 @@
                         que quelques Auteurs parlent de l'<hi rend="it" xml:lang="lat"
                            >Orichalcum</hi> comme d'un metail simple et naturel ; neanmoins tous
                         ceux qui en ont écrit en parlent, si differemment, qu'ils laissent toujours
-                        à penser que c'estoit une composition de Cuivre avec un autre metail, ou
-                        quelque terre que <persName ref="#FestusGrammaticus">Festus</persName>
-                        noinme <hi rend="it">Cadmea terra</hi>. Et <hi rend="it">
+                        à penser que c'estoit une <ref target="#composition">composition</ref> de
+                        Cuivre avec un autre metail, ou quelque terre que <persName
+                           ref="#FestusGrammaticus">Festus</persName> noinme <hi rend="it">Cadmea
+                           terra</hi>. Et <hi rend="it">
                            <persName ref="#EtienneDeByzance">Stephanus de Urbibus</persName> in
                            Andira</hi>, dit qu'il y a une terre dans ce pays-là, laquelle meslée
                         avec le Cuivre fait l'<hi rend="it" xml:lang="lat">Orichalcum</hi>. </p>
-                     <p xml:id="FEL_PASP_principes_L2_L2C5_L2C5S1_P37"> Il y avoit une autre
-                        composition de metail que les Anciens nommoient <hi rend="it" xml:lang="lat"
-                           >Electrum</hi>, et qui estoit le <pb n="333"/> plus fin de tous. Elle
-                        estoit faite des deux tiers d'Argent, et d'un tiers de Cuivre. </p>
+                     <p xml:id="FEL_PASP_principes_L2_L2C5_L2C5S1_P37"> Il y avoit une autre <ref
+                           target="#composition">composition</ref> de metail que les Anciens
+                        nommoient <hi rend="it" xml:lang="lat">Electrum</hi>, et qui estoit le <pb
+                           n="333"/> plus fin de tous. Elle estoit faite des deux tiers d'Argent, et
+                        d'un tiers de Cuivre. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C5_L2C5S1_P38"> Les Statues de Cuivre
                         corinthien estoient fort estimées, parce qu'on tenoit que parmy ce Cuivre il
                         y avoit beaucoup d'or et d'argent meslé ; mais ce Cuivre n'a pû estre en
@@ -10326,8 +10365,9 @@
                         differens metaux, fondirent et se meslerent ensemble. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C5_L2C5S1_P39"> Pour le metail des Cloches
                         on met vingt livres d'Estain sur un cent de Cuivre ; et aux pieces
-                        d'Artillerie dix livres d'Estain seulement: mais cette composition n'est pas
-                        propre pour des Figures, parce qu'elle est trop dure et trop cassante. </p>
+                        d'Artillerie dix livres d'Estain seulement: mais cette <ref
+                           target="#composition">composition</ref> n'est pas propre pour des
+                        Figures, parce qu'elle est trop dure et trop cassante. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C5_L2C5S1_P40"> Si l'on veut faire de
                         petites Figures de <ref target="#bronze">bronze</ref>, on fait fondre de la
                         Cire, que l'on jette dans un Moule de plastre ; on la tourne dedans pour luy
@@ -10491,10 +10531,11 @@
                         Moule qui est fait avec du Plastre ou bien avec du <hi rend="it"
                         >Mastiq</hi>, composé de <hi rend="it">Cire</hi>, de <hi rend="it"
                            >Poix-raisine</hi>, et de <hi rend="it">Brique pillée</hi> ; <pb n="341"
-                        /> cette composition est plus durable que le Plastre. L'on poudre auparavant
-                        le Moule avec de la poudre de marbre ; et estant posé sur le Stuc, on frappe
-                        également dessus avec un marteau. Le Stuc demeure empreint de la Figure du
-                        Moule ; et ensuite on nettoye l'ouvrage afin qu'il soit plus égal. </p>
+                        /> cette <ref target="#composition">composition</ref> est plus durable que
+                        le Plastre. L'on poudre auparavant le Moule avec de la poudre de marbre ; et
+                        estant posé sur le Stuc, on frappe également dessus avec un marteau. Le Stuc
+                        demeure empreint de la Figure du Moule ; et ensuite on nettoye l'ouvrage
+                        afin qu'il soit plus égal. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C6_L2C6S1_P9"> C'est encore dans des Moules
                         de Plastre que l'on jette des Figures de Cire pour faire des portraits,
                         ausquels on donne ensuite telles couleurs qu'on veut. L'invention n'en est
@@ -11627,7 +11668,7 @@
                         aprés l'autre sous la Presse pour Imprimer une mesme Estampe. <pb n="383"/>
                         Elles estoient gravées de telle façon, que l'une servoit pour les jours, et
                         les grandes lumieres ; l'autre pour les demi teintes, et la troisiéme pour
-                        les contours, et les ombres fortes. </p>
+                        les <ref target="#contours">contours</ref>, et les ombres fortes. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C10_L2C10S1_P4"> Cet Art de Graver sur le
                         Cuivre, et sur le Bois, s'est tellement perfectionné, et est devenu si
                         commun, que la quantité des ouvrages qu'on a faits est presque innombrable.
@@ -11710,14 +11751,15 @@
                         avec une pointe d'éguille, la sanguine qui est derriere le dessein,
                         marquant aisément sur le Vernix, fait que l'on suit bien mieux dans cette
                         sorte de travail, les mesmes traits du dessein, et qu'on est beaucoup plus
-                           <pb n="386"/> correct dans les contours, et les expressions de toutes les
-                        Figures. Ce qui est cause que les peintres qui font graver cux-mesmes leurs
-                        ouvrages, travaillent souvent a former les premiers traits des Figures pour
-                        conserver la force, et la beauté du dessein. Aussi dans les pieces faites à
-                        l'Eau forte, on y voit plus d'art que dans les autres qui sont gravées au
-                           <ref target="#burin">burin</ref>, ou quelquefois on se sert aussi de
-                        l'Eau-forte pour former legerement les contours des Figures, afin de les
-                        avoir plus correctes. </p>
+                           <pb n="386"/> correct dans les <ref target="#contours">contours</ref>, et
+                        les expressions de toutes les Figures. Ce qui est cause que les peintres qui
+                        font graver cux-mesmes leurs ouvrages, travaillent souvent a former les
+                        premiers traits des Figures pour conserver la force, et la beauté du
+                        dessein. Aussi dans les pieces faites à l'Eau forte, on y voit plus d'art
+                        que dans les autres qui sont gravées au <ref target="#burin">burin</ref>,
+                        ou quelquefois on se sert aussi de l'Eau-forte pour former legerement les
+                           <ref target="#contours">contours</ref> des Figures, afin de les avoir
+                        plus correctes. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C10_L2C10S1_P12"> Ce qu'il y a d'avantageux
                         dans la graveure à l'Eauforte, est que non seulement la maniere en est
                         beaucoup plus expeditive, qu'au <ref target="#burin">burin</ref> ; mais le
@@ -11775,11 +11817,11 @@
                         d'Espousettes, afin d'oster de dessus la planche, les ordures, ou le vernix
                         qui s'enleve à mesure qu'on grave. </p>
                      <p xml:id="FEL_PASP_principes_L2_L2C10_L2C10S1_P18"> Si l'on veut s'instruire
-                        davantage, de tout ce qui tegarde la graveure sur le Cuivre, et de la
-                        composition des Vernix pour l'eau-forte, il faut lire ce qu'en a écrit
-                           <persName ref="#AbrahamBosse">Abraham Bosse</persName> qui joignant à la
-                        Theorie une excellente pratique n'a rien oublié de tout ce qu'on peut
-                        sçavoir de cet Art. </p>
+                        davantage, de tout ce qui tegarde la graveure sur le Cuivre, et de la <ref
+                           target="#composition">composition</ref> des Vernix pour l'eau-forte, il
+                        faut lire ce qu'en a écrit <persName ref="#AbrahamBosse">Abraham
+                           Bosse</persName> qui joignant à la Theorie une excellente pratique n'a
+                        rien oublié de tout ce qu'on peut sçavoir de cet Art. </p>
                   </div4>
                   <div4 xml:id="L2C10S2">
                      <div5 xml:id="L2C10S2SS1">
@@ -11904,19 +11946,20 @@
                      objets de la Nature, en sorte qu'il n'y a point de corps que l'on ne
                      reconnoisse. L'Image quelle en fait, soit de plusieurs corps ensemble, ou d'un
                      seul en particulier, s'appelle <hi rend="it">tableau</hi>, dans lequel il y a
-                     trois choses à considerer ; sçavoir la <hi rend="it">Composition</hi>, le <pb
-                        n="393"/>
-                     <hi rend="it">Dessein</hi>, et le <hi rend="it">Coloris</hi>, qui toutes trois
-                     dépendent du raisonnement, et de l'execution, ce qu'on nomme la <hi
-                        rend="capitals">THEORIE</hi>, et la <hi rend="capitals">PRATIQUE</hi> ; le
-                     raisonnement est comme le Pere de la Peinture, et l'execution comme la Mere. </p>
-                  <p xml:id="FEL_PASP_principes_L3_L3C2_P2"> La <hi rend="capitals">COMPOSITION</hi>
-                     que quelques-uns nomment aussi Invention, comprend la distribution des Figures
-                     dans le tableau ; le choix des attitudes ; les accommodemens des Draperies ; la
-                     convenance des ornemens ; la situation des lieux ; les bastimens ; les paisages
-                     ; les diverses expressions des mouvemens du corps, et des passions de l'ame ;
-                     et enfin tout ce que l'imagination se peut former, et qu'on ne peut pas imiter
-                     sur le naturel. </p>
+                     trois choses à considerer ; sçavoir la <hi rend="it"><ref target="#composition"
+                           >composition</ref></hi>, le <pb n="393"/>
+                     <hi rend="it">Dessein</hi>, et le <hi rend="it"><ref target="#coloris"
+                           >coloris</ref></hi>, qui toutes trois dépendent du raisonnement, et de
+                     l'execution, ce qu'on nomme la <hi rend="capitals">THEORIE</hi>, et la <hi
+                        rend="capitals">PRATIQUE</hi> ; le raisonnement est comme le Pere de la
+                     Peinture, et l'execution comme la Mere. </p>
+                  <p xml:id="FEL_PASP_principes_L3_L3C2_P2"> La <hi rend="capitals"><ref
+                           target="#composition">COMPOSITION</ref></hi> que quelques-uns nomment
+                     aussi Invention, comprend la distribution des Figures dans le tableau ; le
+                     choix des attitudes ; les accommodemens des Draperies ; la convenance des
+                     ornemens ; la situation des lieux ; les bastimens ; les paisages ; les diverses
+                     expressions des mouvemens du corps, et des passions de l'ame ; et enfin tout ce
+                     que l'imagination se peut former, et qu'on ne peut pas imiter sur le naturel. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C2_P3"> Le <hi rend="capitals">DESSEIN</hi> a
                      pour objet la figure des corps que l'on represente, et que l'on fait voir tels
                      qu'ils paroissent simplement avec des lignes. Cette Partie regarde les
@@ -11928,25 +11971,27 @@
                      leur propre poids, ou par un autre qui leur soit accidentel, pour paroistre
                      fermes dans toutes les actions qu'on veut representer pout bien imiter les
                      divers mouvemens que la nature peut faire. </p>
-                  <p xml:id="FEL_PASP_principes_L3_L3C2_P4"> Le <hi rend="capitals">COLORIS</hi> a
-                     pour objet la couleur, la lumiere et l'ombre ; car c'est en mettant les
-                     couleurs qu'on<pb n="394"/> observe l'<ref target="#amitie">amitié</ref> ou
-                     l'antipatie qui est entre elles ; leur union et leur douceur. Qu'on regarde
-                     comment il faut donner de la force, du relief, de la fiereté, et de la grace
-                     aux tableaux. Qu'on fait des remarques sur les lumieres plus ou moins
-                     evidentes, et en degrez de diminution sur les corps accompagnez de lumieres et
-                     d'ombres, selon les accidens du lumineux, du diaphane, de la nature du corps
-                     illuminé, de l'aspect de celuy qui regarde, et des reflez en differens degrez. </p>
+                  <p xml:id="FEL_PASP_principes_L3_L3C2_P4"> Le <hi rend="capitals"><ref
+                           target="#coloris">COLORIS</ref></hi> a pour objet la couleur, la lumiere
+                     et l'ombre ; car c'est en mettant les couleurs qu'on<pb n="394"/> observe
+                        l'<ref target="#amitie">amitié</ref> ou l'antipatie qui est entre elles ;
+                     leur union et leur douceur. Qu'on regarde comment il faut donner de la force,
+                     du relief, de la fiereté, et de la grace aux tableaux. Qu'on fait des remarques
+                     sur les lumieres plus ou moins evidentes, et en degrez de diminution sur les
+                     corps accompagnez de lumieres et d'ombres, selon les accidens du lumineux, du
+                     diaphane, de la nature du corps illuminé, de l'aspect de celuy qui regarde, et
+                     des reflez en differens degrez. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C2_P5"> L'habitude que l'on fait en ces trois
                      principales parties s'appelle <hi rend="capitals">MANIERE</hi> qui est bonne ou
                      mauvaise, selon qu'elle aura esté plus ou moins pratiquée sur le vray, avec
                      connoissance, et estude ; Et le bon ou mauvais choix qu'on en fait, se nomme
-                     bon ou mauvais <hi rend="it">Goust</hi>. Ainsi dans la composition d'une
-                     histoire quand les Figures sont bien disposées avec de beaux groupes, et une
-                     belle election d'attitudes, selon la necessité du sujet ; que les situations,
-                     et le plan des lieux sont conformes à la Nature, et qu'il n'y a rien d'oublié
-                     de toutes les choses necessaires à l'expression, on dit que <hi rend="it">cela
-                        est bien Inventé</hi>. </p>
+                     bon ou mauvais <hi rend="it">Goust</hi>. Ainsi dans la <ref
+                        target="#composition">composition</ref> d'une histoire quand les Figures
+                     sont bien disposées avec de beaux groupes, et une belle election d'attitudes,
+                     selon la necessité du sujet ; que les situations, et le plan des lieux sont
+                     conformes à la Nature, et qu'il n'y a rien d'oublié de toutes les choses
+                     necessaires à l'expression, on dit que <hi rend="it">cela est bien
+                     Inventé</hi>. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C2_P6"> Si ensuitte toutes les parties sont
                      desseignées grandes, bien arrestées, et prononcées avec force et netteté, sans
                      qu'il y paroisse rien de trop menu, ou de taitonné et d'incertain, on dit <hi
@@ -11969,7 +12014,7 @@
                      y paroisse si artistement lié ensemble qu'on n'y connoisse aucune piece
                      separée, mais qu'il y ait une telle union que tout le tableau semble avoir esté
                      peint d'une suitte, et d'une mesme pallette de couleurs, on dit alors que <hi
-                        rend="it">cela est bien colorié</hi>. </p>
+                        rend="it">cela est bien <ref target="#colorié">colorié</ref></hi>. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C2_P9"> Outre cela il y a certaines elcgances
                      qui brillent par endroits dans ces trois parties de la Peinture, comme les
                      figures éclattent dans les parties de la Rhetorique ; ce qui releve, et fait
@@ -11994,19 +12039,19 @@
                      manieres, les Artisans luy ont donné divers noms, selon quelle est plus ou
                      moins achevée. Ils nomment <hi rend="it">Esquisses</hi>, les Desseins qui sont
                      les premieres productions de l'Esprit encore informes, et non arrestées, sinon
-                     grossierement avec la plume ou le crayon ; Et ceux dont les contours des
-                     Figures sont achevez, ils les appellent <hi rend="it">Desseins</hi> ou traits
-                        <hi rend="it">
+                     grossierement avec la plume ou le crayon ; Et ceux dont les <ref
+                        target="#contours">contours</ref> des Figures sont achevez, ils les
+                     appellent <hi rend="it">Desseins</hi> ou traits <hi rend="it">
                         <ref target="#arreste">Arrestez</ref>
                      </hi>. </p>
-                  <p xml:id="FEL_PASP_principes_L3_L3C3_P2"> Cet Art de bien contourner les Figures,
-                     est le fondement de la peinture ; car quand les Figures sont bien Desseignées,
-                     il n'est plus question que de donner les jours, et les ombres, et sçavoir
-                     appliquer les couleurs selon la nature des corps, ce qui veritablement est
-                     encore un grand secret de l'Art ; Mais le dessein sert beaucoup à en découvrir
-                     les mysteres, et sans luy quelque connoissance que l'on ait de l'effet des
-                     lumieres, et des ombres, et de la nature des couleurs, il est impossible de
-                     rien faire de parfait. </p>
+                  <p xml:id="FEL_PASP_principes_L3_L3C3_P2"> Cet Art de bien <ref
+                        target="#contourner">contourner</ref> les Figures, est le fondement de la
+                     peinture ; car quand les Figures sont bien Desseignées, il n'est plus question
+                     que de donner les jours, et les ombres, et sçavoir appliquer les couleurs selon
+                     la nature des corps, ce qui veritablement est encore un grand secret de l'Art ;
+                     Mais le dessein sert beaucoup à en découvrir les mysteres, et sans luy quelque
+                     connoissance que l'on ait de l'effet des lumieres, et des ombres, et de la
+                     nature des couleurs, il est impossible de rien faire de parfait. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C3_P3"> Lors qu'on veut exprimer quelque sujet,
                      si l'on ne se sert que du crayon ou de la plume, quoy que l'on acheve l'ouvrage
                      dans toutes les parties, et qu'on y observe les Jours, et les Ombres, on
@@ -12207,14 +12252,15 @@
                      quand c'est contre des murailles qu'elles soient bien seiches ; Il faut mesme
                      leur donner deux couches de <ref target="#cole">colle</ref> toute chaude avant
                      que d'y appliquer les couleurs qu'on détrempe si l'on veut seulement avec de la
-                        <ref target="#cole">colle</ref> ; car la composition qu'on fait avec des
-                     œufs, et du lait de figuier n'est que pour retoucher plus commodement, et
-                     n'estre pas obligé d'avoir du feu qui est necessaire pour tenir la <ref
-                        target="#cole">colle</ref> chaude. Cependant il est certain que les couleurs
-                     à <ref target="#cole">colle</ref> tiennent mieux, et c'est ainsi qu'on a
-                     toujours peint sur le papier les Desseins ou <ref target="#cartons"
-                        >cartons</ref> qu'on a faits pour des tapisseries. Cette <ref target="#cole"
-                        >colle</ref> se faît comme j'ay dit de rogneures de gans ou de parchemin. </p>
+                        <ref target="#cole">colle</ref> ; car la <ref target="#composition"
+                        >composition</ref> qu'on fait avec des œufs, et du lait de figuier n'est que
+                     pour retoucher plus commodement, et n'estre pas obligé d'avoir du feu qui est
+                     necessaire pour tenir la <ref target="#cole">colle</ref> chaude. Cependant il
+                     est certain que les couleurs à <ref target="#cole">colle</ref> tiennent mieux,
+                     et c'est ainsi qu'on a toujours peint sur le papier les Desseins ou <ref
+                        target="#cartons">cartons</ref> qu'on a faits pour des tapisseries. Cette
+                        <ref target="#cole">colle</ref> se faît comme j'ay dit de rogneures de gans
+                     ou de parchemin. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C5_P3"> Quand on veut peindre sur de la Toille,
                      on en choisit qui soit vieille, demy usée, et bien unie. On l'imprime de <hi
                         rend="it">
@@ -12263,9 +12309,9 @@
                         fraisque ni à détrempe. Il leur donne aussi plus de force, parce que le
                         noir devient beaucoup plus noir, quand il est employé avec de l'huile
                         qu'avec de l'eau ; et toutes les couleurs se meslant mieux ensemble, font un
-                        coloris plus doux, plus delicat, et plus agreable ; et donnent une union et
-                        une tendresse à tout l'ouvrage, qui ne se peut faire dans les autres
-                        manieres. </p>
+                           <ref target="#coloris">coloris</ref> plus doux, plus delicat, et plus
+                        agreable ; et donnent une union et une tendresse à tout l'ouvrage, qui ne se
+                        peut faire dans les autres manieres. </p>
                      <p xml:id="FEL_PASP_principes_L3_L3C6_L3C6S1_P2"> L'on peint à huile contre les
                         murailles, sur le bois, sur la toile, sur les pierres, et sur toutes sortes
                         de metaux. Il faut en premier lieu preparer les choses sur lesquelles on
@@ -12290,12 +12336,13 @@
                         poudre de marbre, ou du <ref target="#ciment">ciment</ref> fait de tuiles
                         bien battues, lequel ils frottent avec la truelle pour le rendre bien uni,
                         et l'imbibent d'huile de lin, avec une grosse <ref target="#brosse"
-                           >brosse</ref>. Ensuite ils prepatent une <hi rend="it">Composition</hi>
-                        de poix grecque, de mastic, et de gros vernix qu'on fait bouillir ensemble
-                        dans un pot de terre, puis avec une <ref target="#brosse">brosse</ref>, en
-                        couvrent la muraille qu'ils frottent avec une truelle chaude, pour estendre
-                        et unir mieux cette matiere. Cela fait on imprime tout le mur des couleurs
-                        que j'ay dites cy-dessus, avant que de rien desseigner. </p>
+                           >brosse</ref>. Ensuite ils prepatent une <hi rend="it"><ref
+                              target="#composition">composition</ref></hi> de poix grecque, de
+                        mastic, et de gros vernix qu'on fait bouillir ensemble dans un pot de terre,
+                        puis avec une <ref target="#brosse">brosse</ref>, en couvrent la muraille
+                        qu'ils frottent avec une truelle chaude, pour estendre et unir mieux cette
+                        matiere. Cela fait on imprime tout le mur des couleurs que j'ay dites
+                        cy-dessus, avant que de rien desseigner. </p>
                      <p xml:id="FEL_PASP_principes_L3_L3C6_L3C6S1_P5"> D'autres en usent encore
                         d'une autre maniere, ils font leur <hi rend="it">Enduit</hi> avec du mortier
                         de chaux, du <ref target="#ciment">ciment</ref> de brique, et du sable ; et
@@ -12382,7 +12429,7 @@
                         couleurs soient bonnes. L'espargne que font ceux qui employent de meschantes
                         couleurs, et de mauvaise huile, et qui mesme se servent de mine pour faire
                         plustost seicher l'imprimeure, est beaucoup dommageable aux tableaux, et en
-                        efface bientost la beauté du coloris. </p>
+                        efface bientost la beauté du <ref target="#coloris">coloris</ref>. </p>
                      <p xml:id="FEL_PASP_principes_L3_L3C6_L3C6S1_P8"> Quand on veut peindre sur les
                         pierres, soit Marbre ou autres ; ou bien sur les metaux, il n'est pas
                         necessaire d'y mettre de la <ref target="#cole">colle</ref> comme sur la
@@ -12590,8 +12637,8 @@
                      blanc qui sert de fond une teinte d'eau un peu obscure, pour détacher davantage
                      les Figures, et faire qu'elles paroissent comme celles qu'on lave sur du
                      papier. Mais si l'on ne represente que quelques Grotesques ou Feuillages, on se
-                     contente d'ombrer seulement un peu le fond avec cette eau, auprés des contours
-                     qui doivent porter ombre. </p>
+                     contente d'ombrer seulement un peu le fond avec cette eau, auprés des <ref
+                        target="#contours">contours</ref> qui doivent porter ombre. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C7_P4"> Parce qu'il n'y a rien qui convienne
                      mieux ensemble que la Sculpture et la Peinture, non seulement on orne les lieux
                      de tableaux, de Statues, et de Bas-reliefs, mais encore on mesle quelquefois la
@@ -12751,13 +12798,14 @@
                      parleray point icy, parce que cela concerne la maniere de faire les Emaux, et
                      l'art de la Verrerie qui embrasse plusieurs choses, qui ne regardent point ce
                      present Traité, où il n'est question que de peindre et preparer les Couleurs en
-                     Email, et non pas de la composition des matieres. </p>
+                     Email, et non pas de la <ref target="#composition">composition</ref> des
+                     matieres. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C10_P10"> Quant au travail qui se fait avec les
                      Emaux épais et opaques, c'est à ces derniers temps et aux François qu'on a
                      l'obligation de ces beaux ouvrages qu'on voit aujourd'huy sur l'or, où l'on
-                     fait des Portraits aussi-bien peints qu'à huile, et mesme des compositions
-                     d'Histoires, qui ont cet avantage d'avoir un Vernix et un éclat qui ne s'efface
-                     jamais. </p>
+                     fait des Portraits aussi-bien peints qu'à huile, et mesme des <ref
+                        target="#composition">composition</ref>s d'Histoires, qui ont cet avantage
+                     d'avoir un Vernix et un éclat qui ne s'efface jamais. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C10_P11"> Avant l'an <date when="1630"
                         >1630</date> ces sortes d'ouvrages estoient encore inconnus, car ce ne fut
                      que deux ans aprés que <persName ref="#JeanToutin">Jean Toutin</persName>
@@ -12902,8 +12950,8 @@
                      petit feu, où le soufre s'embrase et s'exhale ; il reste une poudre un peu
                      rouge que l'on broye si l''on veut avec de la rocaille pour s'en servir. Il y a
                      encore d'autres manieres de le vitrifier selon l'intelligence de l'Ouvrier, car
-                     chacun a sa maniere et son <pb n="429"/> secret pour la composition de ces
-                     sortes de couleurs. </p>
+                     chacun a sa maniere et son <pb n="429"/> secret pour la <ref
+                        target="#composition">composition</ref> de ces sortes de couleurs. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C10_P25"> La Couperose blanche calcinée, fait
                      une couleur à peu prés comme la terre d'ombre. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C10_P26"> Dans les couleurs qui ne sont pas
@@ -13131,19 +13179,20 @@
                         sortes d'ouvrages on assemble les differens marbres les uns auprés des
                         autres, selon le dessein que l'on a, et quand ils sont joints et bien
                         cimentez ; le mesme peintre qui a disposé le Sujet, prend du noir, et avec
-                        un pinceau marque les contours des figures, et observe par des traits et des
-                        hacheures, les jours et les ombres de la mesme maniere, que s'il desseignoit
-                        sur du papier ou sur de la carte. Ensuite le Sculpteur grave avec un cizeau
-                        tous les traits que le peintre a tracez, aprés quoy l'on remplit tout ce que
-                        le cizeau a gravé, d'un autre marbre, ou d'un mastic composé de poix noire,
-                        et d'autre poix qu'on fait bouillir avec du noir de terre. Quand ce mastic
-                        est refroidy, et qu'il a pris corps, on passe un morceau de grais, ou une
-                        brique par dessus, et le frottant avec de l'eau et du grais, ou du <ref
-                           target="#ciment">ciment</ref> pilé, on oste ce qu'il y a de superflu, et
-                        l'on le rend égal au pb n="438"/&gt; marbre. C'est de cette maniere que l'on
-                        pave plusieurs endroits en <placeName ref="#Italie">Italie</placeName>, et
-                        qu'avec deux ou trois sortes de marbres, on a trouvé l'art d'embellir de
-                        differentes figures, les pavez des Eglises et des Palais. </p>
+                        un pinceau marque les <ref target="#contours">contours</ref> des figures, et
+                        observe par des traits et des hacheures, les jours et les ombres de la mesme
+                        maniere, que s'il desseignoit sur du papier ou sur de la carte. Ensuite le
+                        Sculpteur grave avec un cizeau tous les traits que le peintre a tracez,
+                        aprés quoy l'on remplit tout ce que le cizeau a gravé, d'un autre marbre, ou
+                        d'un mastic composé de poix noire, et d'autre poix qu'on fait bouillir avec
+                        du noir de terre. Quand ce mastic est refroidy, et qu'il a pris corps, on
+                        passe un morceau de grais, ou une brique par dessus, et le frottant avec de
+                        l'eau et du grais, ou du <ref target="#ciment">ciment</ref> pilé, on oste ce
+                        qu'il y a de superflu, et l'on le rend égal au pb n="438"/&gt; marbre. C'est
+                        de cette maniere que l'on pave plusieurs endroits en <placeName
+                           ref="#Italie">Italie</placeName>, et qu'avec deux ou trois sortes de
+                        marbres, on a trouvé l'art d'embellir de differentes figures, les pavez des
+                        Eglises et des Palais. </p>
                      <p xml:id="FEL_PASP_principes_L3_L3C12_L3C12S1_P2"> Mais les ouvriers, dans cet
                         art, on encore passé plus avant, car comme vers l'année <date when="1563"
                            >1563</date> le Duc <persName ref="#CosmeDeMedicis">Cosme de
@@ -13185,17 +13234,18 @@
                         dans un <hi rend="it">Estau</hi> de bois, et avec un <hi rend="it">
                            <ref target="#archet">Archet</ref>
                         </hi> ; qui est une petite Sie faite seulement d'un fil de laiton, de l'eau
-                        et de l'Emeril qu'on y jette, on les coupe peu à peu suivant les contours
-                        du dessein que l'on applique dessus, comme l'on fait pour le bois de
-                        Marqueterie dont il sera parlé cy-aprés. </p>
+                        et de l'Emeril qu'on y jette, on les coupe peu à peu suivant les <ref
+                           target="#contours">contours</ref> du dessein que l'on applique dessus,
+                        comme l'on fait pour le bois de Marqueterie dont il sera parlé cy-aprés. </p>
                      <p xml:id="FEL_PASP_principes_L3_L3C12_L3C12S1_P5"> On se sert dans ce Travail
                         des mesmes <hi rend="it">Roues</hi>, <hi rend="it">Tourets</hi>, <hi
                            rend="it">Platines d'estain</hi>, et autres Outils dont il est parlé dans
                         la Graveure des pierres, selon l'occasion et le besoin qu'on en a, tant pour
                         donner quelque figure aux pierres, que pour les percer et pour les polir On
-                        a des compas pour prendre les mesures, des <hi rend="it">Pincettes</hi> de
-                        fer pour dégrossir les bords des pierres; des <hi rend="it">Limes</hi> de
-                        cuivre à main et sans dens, et d'autres Limes de toutes sortes.</p>
+                        a des <ref target="#compas2">compas</ref> pour prendre les mesures, des <hi
+                           rend="it">Pincettes</hi> de fer pour dégrossir les bords des pierres; des
+                           <hi rend="it">Limes</hi> de cuivre à main et sans dens, et d'autres
+                        Limes de toutes sortes.</p>
                   </div4>
                   <div4 type="planche" xml:id="L3C12S2">
                      <pb n="440"/>
@@ -13206,13 +13256,13 @@
                         <item>A <hi rend="it">Pierre en bloc pour sier</hi>.</item>
                         <item>B<hi rend="it"><ref target="#chevilles4">Chevilles</ref> de fer</hi>. </item>
                         <item>C <hi rend="it">Vaisseau pour mettre de l'Emeril</hi>.</item>
-                        <item>D <hi rend="it">Estau de bois pour sier les feuilles et les
-                              contourner</hi>.</item>
+                        <item>D <hi rend="it">Estau de bois pour sier les feuilles et les <ref
+                                 target="#contourner">contourner</ref></hi>.</item>
                         <item>E <hi rend="it">Sie de fer</hi>.</item>
                         <item>F <hi rend="it">
                               <ref target="#archet">Archer</ref>
                            </hi>.</item>
-                        <item>G <hi rend="it">Compas</hi>.</item>
+                        <item>G <hi rend="it"><ref target="#compas1">compas</ref></hi>.</item>
                         <item>H <hi rend="it">Pincette</hi>.</item>
                         <item>I <hi rend="it">Lime de cuivre à main</hi>.</item>
                      </list>
@@ -13245,8 +13295,8 @@
                      cuisant au feu pour les faire devenir rouges, soit en les rendant verdâtres
                      avec du vert de gris, des eaux fortes, ou du vinaigre bien fort. </p>
                   <p xml:id="FEL_PASP_principes_L3_L3C13_P3"> On employe aussi les <hi rend="it"
-                        >Congellations</hi>, les <hi rend="it">Marcassites</hi>, les <hi rend="it"
-                        >Cristaux</hi>, les <hi rend="it">
+                           ><ref target="#congellations">congellations</ref></hi>, les <hi rend="it"
+                        >Marcassites</hi>, les <hi rend="it">Cristaux</hi>, les <hi rend="it">
                         <ref target="#amethiste">Ametistes</ref>
                      </hi>, les <hi rend="it">Petrifications</hi>, les branches de <hi rend="it"
                         >Corail</hi> rouge, blanc, et noir ; Les <hi rend="it">Croissances</hi> des
@@ -13410,8 +13460,8 @@
                         la Corde est attaché à un morceau de bois qui s'appuye et fait ressort
                         contre cette machoire, lorsque l'on met le pied sur une marche qui est sous
                         la selle où est attaché l'autre bout de la corde. Cet Estau sert à tenir
-                        les feuilles de bois pour les pouvoir sier et contourner avec les petites
-                        sies de Marqueterie. </p>
+                        les feuilles de bois pour les pouvoir sier et <ref target="#contourner"
+                           >contourner</ref> avec les petites sies de Marqueterie. </p>
                      <p xml:id="FEL_PASP_principes_L3_L3C14_L3C14S1_P9"> Lorsque les pieces sont
                         assemblées et collées sur le bois qui leur sert de fond, on les tient
                         quelque temps en presse, ou sur l'Establie, par le moyen d'une <hi rend="it"
@@ -14410,10 +14460,11 @@
                   <hi rend="capitals"> ASSETTE </hi> ou Hachette de Couvreur. <hi rend="it">V.
                      page</hi> 149, 152, Pl. XXIV. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreA_P162">
-                  <hi rend="capitals"> Assiette </hi> est une composition qui se couche sur le bois
-                  pour le dorer. <persName ref="#Pline">Pline</persName> l.35, c.6 appelle <hi
-                     rend="it" xml:lang="lat">Leucophorum</hi> celle dont les anciens se servoient.
-                     <hi rend="it">V. p.</hi>280, 286. </p>
+                  <hi rend="capitals"> Assiette </hi> est une <ref target="#composition"
+                     >composition</ref> qui se couche sur le bois pour le dorer. <persName
+                     ref="#Pline">Pline</persName> l.35, c.6 appelle <hi rend="it" xml:lang="lat"
+                     >Leucophorum</hi> celle dont les anciens se servoient. <hi rend="it">V.
+                  p.</hi>280, 286. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreA_P163">
                   <hi rend="capitals"> Assise </hi> signifie les rangs des pierres dont les murs
                   sont <reg>composés</reg>, la premicre assise d'une muraille, est ce qu'on appelle
@@ -15101,9 +15152,9 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreB_P114">
                   <hi rend="capitals"> BLEU </hi> artificiel dont on se sert en Peinture. Il est
                   fait de sable, de sel, de nitre, et de limaille de cuivre. <persName
-                     ref="#Vitruve">Vitruve</persName> enseigne cette composition l.3.6.11. mais la
-                  belle couleur bleue qui est naturelle est faite de <hi rend="it">Lapis
-                  luzuli</hi>. <hi rend="it">V.</hi>
+                     ref="#Vitruve">Vitruve</persName> enseigne cette <ref target="#composition"
+                     >composition</ref> l.3.6.11. mais la belle couleur bleue qui est naturelle est
+                  faite de <hi rend="it">Lapis luzuli</hi>. <hi rend="it">V.</hi>
                   <hi rend="capitals">
                      <ref target="#outremer">OUTREMER</ref>
                   </hi>. </p>
@@ -15473,10 +15524,10 @@
                      target="#charnieres1">charniere</ref> ne paroist pas comme aux autres couplets,
                   où elle forme des deux costez un demy cylindre.</p>
                <p xml:id="brisis">
-                  <hi rend="capitals">BRISIS</hi>. Dans les combles coupez la partie superieure et
-                  qui va jusqu'au faiste, se nomme <hi rend="it">brisis</hi>. On appelle aussi le
-                     <hi rend="it">brisis</hi> l'endroit où le toit est coupé et comme brisé. <hi
-                     rend="it">V. p.</hi> 150. Pl. XXIII.</p>
+                  <hi rend="capitals">BRISIS</hi>. Dans les <ref target="#comble">combles</ref>
+                  coupez la partie superieure et qui va jusqu'au faiste, se nomme <hi rend="it"
+                     >brisis</hi>. On appelle aussi le <hi rend="it">brisis</hi> l'endroit où le
+                  toit est coupé et comme brisé. <hi rend="it">V. p.</hi> 150. Pl. XXIII.</p>
                <p xml:id="brocatelle">
                   <hi rend="capitals">BROCATELLE</hi>, espece de marbre. <hi rend="it">V. p.</hi>
                   59.</p>
@@ -15702,13 +15753,14 @@
                <p xml:id="campane">
                   <hi rend="capitals">CAMPANE</hi>, c'est le corps du <ref target="#chapiteau"
                      >chapiteau</ref> corinthien et du <ref target="#chapiteau">chapiteau</ref>
-                  composite, que les ouvriers appellent aussi <hi rend="it">tambour</hi> ou vase, et
-                  au dessus duquel est l'<ref target="#abaque">abaque</ref> ou tailloir. Il a esté
-                  nommé campane, à cause qu'il a quelque ressemblance à une cloche renversée. Il
-                  ressemble aussi à une corbeille ou panier, à l'entour duquel les feüilles
-                  prennent leur naissance. Il faut que le vif ou face de la campane soit toujours à
-                  plomb, et de niveau avec le fond des <ref target="#cannelures">cannelures</ref> de
-                  la <ref target="#colonne">colonne</ref>.</p>
+                  <ref target="#composite">composite</ref>, que les ouvriers appellent aussi <hi
+                     rend="it">tambour</hi> ou vase, et au dessus duquel est l'<ref target="#abaque"
+                     >abaque</ref> ou tailloir. Il a esté nommé campane, à cause qu'il a quelque
+                  ressemblance à une cloche renversée. Il ressemble aussi à une corbeille ou panier,
+                  à l'entour duquel les feüilles prennent leur naissance. Il faut que le vif ou
+                  face de la campane soit toujours à plomb, et de niveau avec le fond des <ref
+                     target="#cannelures">cannelures</ref> de la <ref target="#colonne"
+                     >colonne</ref>.</p>
                <p xml:id="campanini">
                   <hi rend="capitals">CAMPANINI</hi>, espece de marbre. <hi rend="it">V. p.</hi>
                   57.</p>
@@ -15858,9 +15910,9 @@
                   jardins, pour faire tomber l'eau de haut en bas par diverses cheutes, et
                   degrez.</p>
                <p xml:id="casemate">
-                  <hi rend="capitals">CASEMATE</hi>. On appelle casemate, ou contremine, les puits
-                  et les rameaux qu'on fait dans le rampart d'un bastion. <hi rend="it">V. p.</hi>
-                  91 et 96.</p>
+                  <hi rend="capitals">CASEMATE</hi>. On appelle casemate, ou <ref
+                     target="#contremines">contremine</ref>, les puits et les rameaux qu'on fait
+                  dans le rampart d'un bastion. <hi rend="it">V. p.</hi> 91 et 96.</p>
                <p xml:id="casilleux">
                   <hi rend="capitals">CASILLEUX</hi>. Les vitriers appellent le verre casilleux
                   lorsqu'il se casse en plusieurs morceaux, en y <pb n="514"/> appliquant le diamant
@@ -16205,16 +16257,17 @@
                      key="vitruveArchitectura">5 c. du 2 l.</bibl> de <persName ref="#Vitruve"
                      >Vitruve</persName>.</p>
                <p xml:id="cheminée1">
-                  <hi rend="capitals">CHEMINÉE</hi>. On dit l'atre ou foyer d'une cheminée, son
-                  contre-cœur, son manteau, sa hotte, ses piedroits, sa montée, son tuyau. Il faut
-                  prendre garde en faisant les cheminées, que l'ouverture des tuyaux ne soit trop
-                  grande, de crainte que l'air et le vent y trouvent trop d'espace, et qu'y pouvant
-                  estre agitez, ils ne chassent la fumée en bas, et n'empeschent qu'elle ne monte et
-                  ne sorte aisément. Il ne faut pas aussi les faire trop petits, car la fumée
-                  n'ayant pas un passage libre, elle s'engorgeroit et rentreroit dans la <ref
-                     target="#chambre">chambre</ref>. C'est pourquoy l'ouverture des tuyaux
-                  ordinaires ne doit point avoir plus de deux à trois pieds en un sens, et six à
-                  neuf pouces en l'autre. <pb n="523"/> Il faut avoir égard aux lieux.</p>
+                  <hi rend="capitals">CHEMINÉE</hi>. On dit l'atre ou foyer d'une cheminée, son <ref
+                     target="#contre-cœur">contre-cœur</ref>, son manteau, sa hotte, ses piedroits,
+                  sa montée, son tuyau. Il faut prendre garde en faisant les cheminées, que
+                  l'ouverture des tuyaux ne soit trop grande, de crainte que l'air et le vent y
+                  trouvent trop d'espace, et qu'y pouvant estre agitez, ils ne chassent la fumée en
+                  bas, et n'empeschent qu'elle ne monte et ne sorte aisément. Il ne faut pas aussi
+                  les faire trop petits, car la fumée n'ayant pas un passage libre, elle
+                  s'engorgeroit et rentreroit dans la <ref target="#chambre">chambre</ref>. C'est
+                  pourquoy l'ouverture des tuyaux ordinaires ne doit point avoir plus de deux à
+                  trois pieds en un sens, et six à neuf pouces en l'autre. <pb n="523"/> Il faut
+                  avoir égard aux lieux.</p>
                <p>L'embouchure de la pyramide, ou haut de la hotte, qui se joint au tuyau, doit
                   estre un peu plus étroit, afin que si la fumée vient à estre repoussée en bas
                   ellle rencontre cet empeschement qui luy oste le moyen de rentrer dans la <ref
@@ -16251,13 +16304,13 @@
                   <hi rend="capitals">CHENIL</hi>, lieu et maison où l'on tient les chiens.</p>
                <p xml:id="cherches1">
                   <hi rend="capitals">CHERCHES</hi>. C'est tout arc qui ne se peut décrire d'un seul
-                  trait de compas, mais par des points recherchez. L'on nomme cherches, les panneaux
-                  ou especes de moules, qui servent à former <pb n="524"/> le <ref target="#cintre"
-                     >cintre</ref> des voutes, et donner la figure aux voussoirs, du costé des
-                  panneaux de doüelle. Car les cherches sont comme des parties de <ref
-                     target="#cintre">cintre</ref> tirées de la concavité ou convexité des voutes,
-                  lesquelles se font comme les autres panneaux sur quelque matiere mince et déliée,
-                  et de figures differentes, selon la nature des cintres.</p>
+                  trait de <ref target="#compas1">compas</ref>, mais par des points recherchez. L'on
+                  nomme cherches, les panneaux ou especes de moules, qui servent à former <pb
+                     n="524"/> le <ref target="#cintre">cintre</ref> des voutes, et donner la figure
+                  aux voussoirs, du costé des panneaux de doüelle. Car les cherches sont comme des
+                  parties de <ref target="#cintre">cintre</ref> tirées de la concavité ou convexité
+                  des voutes, lesquelles se font comme les autres panneaux sur quelque matiere mince
+                  et déliée, et de figures differentes, selon la nature des cintres.</p>
                <p xml:id="cherches2">
                   <hi rend="capitals">CHERCHES</hi> ralongées, surbaissées, ou surhaussées. C'est ce
                   que les geometres nomment <hi rend="it">demy cilindres</hi>, <hi rend="it">demy
@@ -16648,11 +16701,11 @@
                      >Rome</placeName>, et qui fut dedié par son fils <persName ref="#Titus"
                      >Tite</persName>. Ce mot selon <persName ref="#GuillaumePhilandrier"
                      >Philander</persName> vient de <hi rend="it">coliseum, quasi colossæum</hi>, à
-                  cause du <objectName>colosse</objectName> de <persName ref="#Neron"
-                     >Neron</persName> qui estoit proche de là. Bien que ce nom ne soit pas general
-                  ny commun à d'autres amphitheatres, mais particulier à ce fameux amphitheatre
-                  dont on voit encore les restes, j'ay pensé neanmoins devoir faire cette
-                  remarque.</p>
+                  cause du <objectName><ref target="#colosse">colosse</ref></objectName> de
+                     <persName ref="#Neron">Neron</persName> qui estoit proche de là. Bien que ce
+                  nom ne soit pas general ny commun à d'autres amphitheatres, mais particulier à ce
+                  fameux amphitheatre dont on voit encore les restes, j'ay pensé neanmoins devoir
+                  faire cette remarque.</p>
                <p xml:id="colombier">
                   <hi rend="capitals">COLOMBIER</hi>, c'est le lieu destiné pour des pigeons. La
                   difference qu'il y a entre un colombier et une voliere, est que dans le premier
@@ -16711,37 +16764,38 @@
                   <hi rend="capitals">COMPAS</hi> de proportion , il est composé de deux regles de
                   cuivre où sont gravées plusieurs divisions pour lever des plans, et servir à
                   d'autres usages. Il s'ouvre et se ferme comme les autres compas.</p>
-               <p>Il y a differentes sortes de compas. Le <hi rend="capitals">COMPAS</hi> droit est
-                  le plus ordinaire et de plus grand usage.</p>
-               <p xml:id="compas2"> Le <hi rend="capitals">COMPAS</hi> courbé, sert aux sculpteurs
+               <p xml:id="compas2">Il y a differentes sortes de compas. Le <hi rend="capitals"
+                     >COMPAS</hi> droit est le plus ordinaire et de plus grand usage.</p>
+               <p xml:id="compas3"> Le <hi rend="capitals">COMPAS</hi> courbé, sert aux sculpteurs
                   pour mesurer les grosseurs des corps ronds, parce qu'il en embrasse les parties,
                   ce que ne peuvent pas faire ceux à jambes droites. Les graveurs s'en servent aussi
                   pour trouver le veritable endroit d'une planche, qu'ils veulent repousser, et
                   graver. <hi rend="it">Voyez page</hi> 310, 314. Pl. XLIX.</p>
-               <p xml:id="compas3"> Il y a encore des <hi rend="capitals">COMPAS</hi> de fer et de
+               <p xml:id="compas4"> Il y a encore des <hi rend="capitals">COMPAS</hi> de fer et de
                   cuivre de toutes sortes de grandeurs, dont une des jambes se demonte pour y
                   appliquer des porte-crayons, des plumes à écrire, des coupes-pieces, etc.</p>
-               <p xml:id="compas4"> Il y a aussi des <hi rend="capitals">COMPAS</hi> à trois jambes
-                  pour prendre des angles. </p>
-               <p xml:id="compas5"> Des <hi rend="capitals">COMPAS</hi> à fausse equaire. <hi
+               <p xml:id="compas5"> Il y a aussi des <hi rend="capitals">COMPAS</hi> à trois jambes
+                  pour prendre des angles.</p>
+               <p xml:id="compas6"> Des <hi rend="capitals">COMPAS</hi> à fausse equaire. <hi
                      rend="it">V. p.</hi> 76.</p>
-               <p xml:id="compas6">
+               <p xml:id="compas7">
                   <hi rend="capitals">COMPAS</hi> des charpentiers. <hi rend="it">V. p.</hi>
                   124.</p>
-               <p xml:id="compas7">
+               <p xml:id="compas8">
                   <hi rend="capitals">COMPAS</hi> des plombiers. <hi rend="it">V. p.</hi> 162, 164.
                   Pl. XXVI.</p>
-               <p xml:id="compas8">
+               <p xml:id="compas9">
                   <hi rend="capitals">COMPAS</hi> des menuisiers. <hi rend="it">Voyez page</hi> 175,
                   184. Pl. XXXII.</p>
-               <p xml:id="compas9">
+               <p xml:id="compas10">
                   <hi rend="capitals">COMPAS</hi> des serruriers. <hi rend="it">V. p.</hi> 240. Pl.
                   XXXVII.</p>
-               <p xml:id="compas10">
+               <p xml:id="compas11">
                   <hi rend="capitals">COMPAS</hi> des vitriers. <hi rend="it">V. p.</hi> 272. Pl.
                   XLIII.</p>
                <p xml:id="compasser">
-                  <hi rend="capitals">COMPASSER</hi>, mesurer avec un compas.</p>
+                  <hi rend="capitals">COMPASSER</hi>, mesurer avec un <ref target="#compas2"
+                     >compas</ref>.</p>
                <pb n="536"/>
                <p xml:id="composite">
                   <hi rend="capitals">COMPOSITE</hi>. Ordre composite. On dit l'ordre composite, ou
@@ -16774,7 +16828,7 @@
                      <hi rend="it">Protyrides</hi>, de <hi rend="it">thyra</hi>, qui veut dire une
                   porte. Celles que l'on fait d'un bout de planche taillé en triangle, pour porter
                   des tablettes s'appellent <hi rend="it">ancones</hi>, à cause qu'elles ressemblent
-                  à une equaire. </p>
+                  à une equaire.</p>
                <p xml:id="contours">
                   <hi rend="capitals">CONTOURS</hi>, ce sont les extremitez d'une figure, et les
                   lignes qui décrivent et environnent quelque corps, et par le moyen desquelles on
@@ -16782,9 +16836,10 @@
                <p xml:id="contourner">
                   <hi rend="capitals">CONTOURNER</hi> quelque chose d'un costé et d'autre <pb
                      n="537"/>, c'est marquer une figure avec des traits et des lignes.</p>
-               <p>On dit que les contours sont <hi rend="it">beaux et bien prononcez</hi>, lorsque
-                  dans les ouvrages de peinture ou de sculpture, les membres des figures sont
-                  desseignez avec science et art, pour representer un beau naturel.</p>
+               <p>On dit que les <ref target="#contours">contours</ref> sont <hi rend="it">beaux et
+                     bien prononcez</hi>, lorsque dans les ouvrages de peinture ou de sculpture, les
+                  membres des figures sont desseignez avec science et art, pour representer un beau
+                  naturel.</p>
                <p xml:id="contracture">
                   <hi rend="capitals">CONTRACTURE</hi>, ou retressiment de la <ref target="#colonne"
                      >colonne</ref>, c'est la partie d'enhaut par où elle est davantage diminuée. On
@@ -16799,7 +16854,7 @@
                   mouvemens des membres du corps, et dans toutes les attitudes en general. C'est
                   pourquoy ils disent, <hi rend="it">contraster</hi>, pour varier les actions et
                   dispositions des figures.</p>
-               <p xml:id="contre-coeur">
+               <p xml:id="contre-cœur">
                   <hi rend="capitals">CONTRE-COEUR</hi> d'une <ref target="#cheminée1"
                      >cheminée</ref>. <hi rend="it">V.</hi>
                   <hi rend="capitals"><ref target="#cheminée1">CHEMINÉE</ref></hi>.</p>
@@ -16816,12 +16871,12 @@
                      >V.</hi>
                   <hi rend="capitals">ESPERONS</hi>. <hi rend="it">V. p.</hi> 93.</p>
                <p xml:id="contregarde">
-                  <hi rend="capitals">CONTREGARDE</hi>, ou conserves. Ce sont de longues lisieres de
-                  terre que l'on pratique sur le bord de la contrescarpe du grand fossé d'une place,
-                  ou des pieces triangulaires paralleles aux bastions qu'elles <pb n="538"/>
-                  couvrent entre le fossé et la contrescarpe. Elles ne sont differentes des
-                  demy-lunes, qu'en ce qu'elles ne sont pas si larges, et qu'elles sont plus
-                  longues. <hi rend="it">V. p.</hi> 98.</p>
+                  <hi rend="capitals">CONTREGARDE</hi>, ou <ref target="#conserves2"
+                  >conserves</ref>. Ce sont de longues lisieres de terre que l'on pratique sur le
+                  bord de la contrescarpe du grand fossé d'une place, ou des pieces triangulaires
+                  paralleles aux bastions qu'elles <pb n="538"/> couvrent entre le fossé et la
+                  contrescarpe. Elles ne sont differentes des demy-lunes, qu'en ce qu'elles ne sont
+                  pas si larges, et qu'elles sont plus longues. <hi rend="it">V. p.</hi> 98.</p>
                <p xml:id="contrejauger">
                   <hi rend="capitals">CONTREJAUGER</hi> les assemblages de charpenterie,
                   c'est-à-dire transferer la largeur d'une mortaise sur l'endroit d'une piece de
@@ -17143,9 +17198,10 @@
                   <hi rend="capitals"> Couverture </hi>, toit de maison. Dans les premiers siecles
                   selon <persName ref="#Vitruve">Vitruve</persName>, les couvertures des maisons
                   estoient toutes plates, mais comme on vit qu'elles ne garentissoient pas de l'eau
-                  et des neiges, on les esleva en faistes, c'est-à-dire qu'on fit des combles plus
-                  ou moins exaussez, selon les divers climats, et seloRr la maticre dont on les
-                  couvroit. <hi rend="it">V. p.</hi>144. V. COMBLE. </p>
+                  et des neiges, on les esleva en faistes, c'est-à-dire qu'on fit des <ref
+                     target="#comble">combles</ref> plus ou moins exaussez, selon les divers
+                  climats, et seloRr la maticre dont on les couvroit. <hi rend="it">V. p.</hi>144.
+                  V. <ref target="#comble">COMBLE</ref>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P384">
                   <hi rend="capitals"> Couverture </hi> d'une serrure que l'on nomme quelquefois
                   fond-sec, ou foncet. Voyez p.21L.234.Pl. XXXIV. </p>
@@ -17182,9 +17238,9 @@
                </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P393">
                   <hi rend="capitals"> Craye </hi>, matiere à faire des crayons, et dont l'on se
-                  sert dans la composition de plusieurs couleurs à peindre. Ies Anciens en avoient
-                  qu'ils nommoient Eretrienne, d'autre Selinusienne, ou Annulaire. <persName
-                     ref="#Vitruve">Vitruve</persName> l.7.C.14. </p>
+                  sert dans la <ref target="#composition">composition</ref> de plusieurs couleurs à
+                  peindre. Ies Anciens en avoient qu'ils nommoient Eretrienne, d'autre Selinusienne,
+                  ou Annulaire. <persName ref="#Vitruve">Vitruve</persName> l.7.C.14. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreC_P394">
                   <hi rend="capitals"> Crayons </hi> pour desseigner, qui sont ou de craye blanche
                   pour rehausser, ou de pierre noire pour ombrer, ou de sanguinc. On dit le premier
@@ -17625,7 +17681,8 @@
                   dit qu'un tableau est bien disposé, lorsque le sujet est bien representé ; que
                   toutes les Figures sont en leur veritable place, et font ce qu'elles doivent ;
                   quoy que ces Figures puissent estre mal proportionnées, et qu'il y ait beaucoup
-                  d'autres deffauts dans le reste de la composition. </p>
+                  d'autres deffauts dans le reste de la <ref target="#composition"
+                  >composition</ref>. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreD_P65"> Dis posITION d'un bastiment. L'idée de
                   la disposition de l'Architecture selon <persName ref="#Vitruve">Vitruve</persName>
                   l.1.C.2.consiste mdans lé plan, dans l'élevation, et dans le profil. </p>
@@ -17739,12 +17796,12 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P8"> EcuinE, d'edes, qui signifie l'escorce
                   d'une chastaigne, a donné le nom au membre d'Architecture qui est au haut du <ref
                      target="#chapiteau">chapiteau</ref> de la <ref target="#colonne">colonne</ref>
-                  ionique, et que les Modernes ont mis depuis dans les corniches loniques,
-                  Corinthiennes et Composites, <pb n="565"/> EF ED E6 EL <date when="5565"
-                     >5565</date> à cause de la ressemblance que ce membre taillé: de Sculpture, a
-                  avec des chastaignes ouvertes et arrangé́es les unes auprés des autres. On Adonné
-                  encore ce nom à ce mesme membre, quoy qu'il ne soit pas taillé, et alors on
-                  l'appelle aussi quart de rond, </p>
+                  ionique, et que les Modernes ont mis depuis dans les corniches ioniques,
+                  corinthiennes et <ref target="#composite">composites</ref>, <pb n="565"/> EF ED E6
+                  EL <date when="5565">5565</date> à cause de la ressemblance que ce membre taillé:
+                  de Sculpture, a avec des chastaignes ouvertes et arrangé́es les unes auprés des
+                  autres. On Adonné encore ce nom à ce mesme membre, quoy qu'il ne soit pas taillé,
+                  et alors on l'appelle aussi quart de rond, </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P9"> Les Modernes appellent aussi cetre
                   Echine chastaignes, oves ou œufs, soit à cause que ces pretendues chastaignes ont
                   une figure ovalẽ ; ou mesme parce qu'elles ressemblent quelquefois à des œufs. </p>
@@ -18084,7 +18141,8 @@
                </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P100">
                   <hi rend="capitals"> Esghampir </hi> ou rechampir, c'estzen-terme de Peinture,
-                  contourner une Figure en separant les contours d'avec le fond. </p>
+                     <ref target="#contourner">contourner</ref> une Figure en separant les <ref
+                     target="#contours">contours</ref> d'avec le fond. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P101">
                   <hi rend="capitals"> Eschantignoues </hi>. <hi rend="it">Voyez</hi> CRANTIGNOLES. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P102">
@@ -18476,8 +18534,9 @@
                   une terre solide ; esventer le tuf, ou la glaise ; esventer une mine. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P214">
                   <hi rend="capitals"> Eurythmie. C </hi> 'est une apparence majestueuse, et ce je
-                  ne sçay quoy d'aisé et de commode, qui vatoist dans la composition de tous les
-                  membres d'un corps, et qui resulte de leur belle proportion. </p>
+                  ne sçay quoy d'aisé et de commode, qui vatoist dans la <ref target="#composition"
+                     >composition</ref> de tous les membres d'un corps, et qui resulte de leur belle
+                  proportion. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreE_P215"> Eus TYLE veut dire un bastiment où
                   les <ref target="#colonne">colonnes</ref> sont bien placées, et dont la proportion
                   est telle, que les Entrecolonnemens sont de deux diametres et un quart. </p>
@@ -18644,7 +18703,7 @@
                   <hi rend="capitals"> Fers </hi> d'Amortissemens. Ce sont des morceaux de fer qui
                   se mettent sur les Poinçons qui tiennent lieu d'Epies de bois aux bouts des
                   faistes et couverturés en pavillon. Ils servent pour les vases de plomb que l'on
-                  fait passer dedans pour ornẽt les combles. </p>
+                  fait passer dedans pour ornẽt les <ref target="#comble">combles</ref>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P35">
                   <hi rend="capitals"> Fer </hi> à retondre servant aux Tailleurs dé pierre.
                   V.RETONDRE. </p>
@@ -18769,8 +18828,9 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P70">
                   <hi rend="capitals"> Fllet </hi>, Listel, c'est un petit membre quatré qui paroist
                   dans les moulures et dans les ornemens de l'Architecture. Leon Bap. Albert appelle
-                  Nectrum, le Filet du Congé ou Escape des <ref target="#colonne">colonnes</ref>.
-                  Voyez APOPHYGE. <hi rend="it">V. p.</hi>176. Pl. XXVIII. <pb n="595"/> FL FI X </p>
+                  Nectrum, le Filet du <ref target="#congé">congé</ref> ou Escape des <ref
+                     target="#colonne">colonnes</ref>. Voyez APOPHYGE. <hi rend="it">V. p.</hi>176.
+                  Pl. XXVIII. <pb n="595"/> FL FI X </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreF_P71">
                   <hi rend="capitals"> Filet </hi> d'une vis ; C'est une espece de Coin qui tourne
                   en ligne spsrale et en tranchant de couteau, comme au tour d'un rouleau ou
@@ -19636,10 +19696,11 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreH_P30"> HIsTOIRE parmy les peintres. Il y en a
                   qui s'occupent à representer diverses choses. Comme des Paisages, des Animaux, des
                   Bastimens, et des Figurcs humaines. La plus noble de toutes ces especes est <pb
-                     n="619"/> celle qui represente quelque Histoire par une composition de
-                  plusieurs Figures. Et ces sortes de Peintures s'appellent Histoire. C'est ce que
-                     <persName ref="#Vitruve">Vitruve</persName> nomme Megalographia, c'est-à-dire,
-                  une Pcinture d'importance. </p>
+                     n="619"/> celle qui represente quelque Histoire par une <ref
+                     target="#composition">composition</ref> de plusieurs Figures. Et ces sortes de
+                  Peintures s'appellent Histoire. C'est ce que <persName ref="#Vitruve"
+                     >Vitruve</persName> nomme Megalographia, c'est-à-dire, une Pcinture
+                  d'importance. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreH_P31"> HocuE. Voyez OcHE. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreH_P32">
                   <hi rend="capitals"> Hongnette </hi> ; espece de <ref target="#ciseau1"
@@ -19753,9 +19814,9 @@
                   <hi rend="capitals"> Jatte </hi>. <hi rend="it">Voyez</hi> SEBILE. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettresIJ_P14">
                   <hi rend="capitals"> Iauge ; C </hi> 'est une petite regle de bois dont se servent
-                  les charpentiers pour tracer leurs ouvrages et couper sur le trait. On dit
-                  contrejauger les assemblages de Charpenterie. <hi rend="it">V. p.</hi>124.134. Pl.
-                  XVIIl. </p>
+                  les charpentiers pour tracer leurs ouvrages et couper sur le trait. On dit <ref
+                     target="#contrejauger">contrejauger</ref> les assemblages de Charpenterie. <hi
+                     rend="it">V. p.</hi>124.134. Pl. XVIIl. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettresIJ_P15">
                   <hi rend="capitals"> Iauger </hi> une pierre, regarder si elle est d'espaisseur
                   égale. </p>
@@ -19816,7 +19877,8 @@
                   de deux S. qui se joignent en haut et s'éloignent en bas ; ou bien de ce qu'on
                   nomme en architecture deux Talons adossez. On appelle ainsi les couvertuires des
                   carosses, quoy qu'elles n'ayent pas tout-a-fait cette figure. A Chenonceaux Maison
-                  Royale, la pluspart des combles sont couverts en lmperiale. </p>
+                  Royale, la pluspart des <ref target="#comble">combles</ref> sont couverts en
+                  lmperiale. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettresIJ_P28">
                   <hi rend="capitals"> Impostes </hi>, Incumbæ. <persName ref="#Vitruve"
                      >Vitruve</persName>I.6.C.II.V.IAMBAGES. </p>
@@ -19905,8 +19967,8 @@
                   LX </p>
                <p xml:id="FEL_PASP_dictionnaire_lettresIJ_P53">
                   <hi rend="capitals"> Iuste </hi> ; Un dessein juste et conforme à l'original,
-                  desseigner juste; des contours justes, marquez avec justesse, force et netteté.
-               </p>
+                  desseigner juste; des <ref target="#contours">contours</ref> justes, marquez avec
+                  justesse, force et netteté. </p>
             </div2>
             <div2 n="9" type="section" xml:id="lettreL" xml:lang="fra">
                <head> L </head>
@@ -20209,7 +20271,7 @@
                   <hi rend="capitals"> Limes </hi> fendues d'un costé seulement, pour le <pb n="636"
                   /> mesme usage. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P82"> Linps faites en dos de carpe, pour
-                  fendre des compas et autres ouvrages. </p>
+                  fendre des <ref target="#compas2">compas</ref> et autres ouvrages. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P83"> LiMEs qui ne sont point taillées sur
                   les costez, pour fendre et dresser les rateaux des <ref target="#clef1"
                      >clefs</ref>. </p>
@@ -20287,10 +20349,10 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P105"> LoMBIs, espece de coquilles. <hi
                      rend="it">V. p.</hi>443. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P106">
-                  <hi rend="capitals"> Long.- pan </hi>, c'est dans un comble de charpenterie, le
-                  costé qui est le plus long. Ainsi l'ondit les sablieres ou <ref target="#chevron"
-                     >chevrons</ref> du long pan ; et les sablieres et <ref target="#chevron"
-                     >chevrons</ref> de croupe. </p>
+                  <hi rend="capitals"> Long.- pan </hi>, c'est dans un <ref target="#comble"
+                     >comble</ref> de charpenterie, le costé qui est le plus long. Ainsi l'ondit les
+                  sablieres ou <ref target="#chevron">chevrons</ref> du long pan ; et les sablieres
+                  et <ref target="#chevron">chevrons</ref> de croupe. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreL_P107">
                   <hi rend="capitals"> Lointain </hi>, ou éloignement d'un tableau ; c'est ce qui
                   pâroist le plus loin de la veue. Comme quand on dit, on voit dans le lointain de
@@ -20553,7 +20615,8 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P35">
                   <hi rend="capitals"> Maniere </hi>. On appelle ainsi l'habitude que les peintres
                   ont prise dans la pratique de toutes les parties de la Peinture, soit dans la
-                  Disposition, soit dans le Dessein, soit dans le Coloris. </p>
+                  Disposition, soit dans le Dessein, soit dans le <ref target="#coloris"
+                     >coloris</ref>. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P36"> L'on se fait d'ordinairc une habitude
                   quia rapport aux Maistres sous lesquels on a esté instruit, et qu'on a voulu
                   imiter. Ainsi on connoist la maniere de Michel-Ange, et de <persName
@@ -20805,8 +20868,8 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P103">
                   <hi rend="capitals"> Mmembre </hi>. On dit en terme de peinture parlant d'une
                   Figute, que tous les membres en sont beaux et bien proportionnez ; Toutes les
-                  parties bien articulées ; les contours corrects, et bien prononcez. <pb n="653"/>
-                  ME 653 </p>
+                  parties bien articulées ; les <ref target="#contours">contours</ref> corrects, et
+                  bien prononcez. <pb n="653"/> ME 653 </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P104"> Dans l'Architecture on appelle
                   Membres toutes les parties qui composent les principales pieces, comme sont les
                   Doucines, les Astragales, les Cymaises, etc. On nomme aussi Membres d'une maison
@@ -20839,17 +20902,18 @@
                   de les rendre blonds. <persName ref="#GuillaumePhilandrier">Philander</persName>
                   dit que les Menianes estoient anciennement ce que nous appellons Galleries et
                   Balcons, qui ont une saillie hors de l'Edifice, et qui sont soutenus par des
-                  Corbeaux ou Consoles. Selon Nonius et plusieurs autres AuNnnn iij <pb n="654"/>
-                  teurs Latins le mot de Meniane vient de Menius Censeur, qui le premier sit poser
-                  sur des <ref target="#colonne">colonnes</ref> des pieces de bois, qui faisant
-                  saillie hors de son logis, luy donnoient moyen de voir ce qui se passoit dans la
-                  place publique. Et Asconius expliquant l'origine de ce mot, rapporte que ce Menius
-                  ayant vendu sa maison à Caton et à Flaccus Consuls, pour y bastir une Basilique,
-                  il en reserva une <ref target="#colonne">colonne</ref> avec droit d'y eslever
-                  seulement un petit toit de planches, où luy et ses descendans pussent avoir la
-                  liberté de voir les combats des Gladiateurs. Que cette <ref target="#colonne"
-                     >colonne</ref> fut appellée Meniane: ce qui a donné lieu ensuite de nommer de
-                  la sorte toutes les avances et saillies que l'on fit à l'imitation de celse-la </p>
+                  Corbeaux ou <ref target="#consoles">consoles</ref>. Selon Nonius et plusieurs
+                  autres AuNnnn iij <pb n="654"/> teurs Latins le mot de Meniane vient de Menius
+                  Censeur, qui le premier sit poser sur des <ref target="#colonne">colonnes</ref>
+                  des pieces de bois, qui faisant saillie hors de son logis, luy donnoient moyen de
+                  voir ce qui se passoit dans la place publique. Et Asconius expliquant l'origine de
+                  ce mot, rapporte que ce Menius ayant vendu sa maison à Caton et à Flaccus
+                  Consuls, pour y bastir une Basilique, il en reserva une <ref target="#colonne"
+                     >colonne</ref> avec droit d'y eslever seulement un petit toit de planches, où
+                  luy et ses descendans pussent avoir la liberté de voir les combats des
+                  Gladiateurs. Que cette <ref target="#colonne">colonne</ref> fut appellée Meniane:
+                  ce qui a donné lieu ensuite de nommer de la sorte toutes les avances et saillies
+                  que l'on fit à l'imitation de celse-la </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P111">
                   <hi rend="capitals"> menuiserie </hi>. <hi rend="it">Voyez</hi> pag.170. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P112">
@@ -20994,13 +21058,13 @@
                   dessein ou esquisse d'un tableau ; on dit le dessein, quoy que les peintres disent
                   qu'ils ayent eu pour modelle tels ou tels ouvrages. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P144">
-                  <hi rend="capitals"> Modillons </hi>. Ce sont de petites consoles posdes sous le
-                  plat,fond, des corniches, et qui servent à pn soustenir la salllie. Ce mot
-                  signisie en Italien un pgtit module, une petite mesure. On voit dans la Rorniche
-                  Corinthienne et dans la corniche Composée, de ces modillons qui soustiennent la
-                  partie du larmier. Dans la corniche des tympans ou frontons les modillons doivent
-                  estre à plomb comme ils estoient aûfrõnton de <persName ref="#Neron"
-                     >Neron</persName>. V. MuTuBES </p>
+                  <hi rend="capitals"> Modillons </hi>. Ce sont de petites <ref target="#consoles"
+                     >consoles</ref> posdes sous le plat,fond, des corniches, et qui servent à pn
+                  soustenir la salllie. Ce mot signisie en Italien un pgtit module, une petite
+                  mesure. On voit dans la Rorniche Corinthienne et dans la corniche Composée, de
+                  ces modillons qui soustiennent la partie du larmier. Dans la corniche des tympans
+                  ou frontons les modillons doivent estre à plomb comme ils estoient aûfrõnton de
+                     <persName ref="#Neron">Neron</persName>. V. MuTuBES </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P145"> MoplLE. C'est une grandeur que l'on
                   établit pour regler toutes les mesures de la distribution des Edifices. Les'
                   architectes prennent cette mesure sur le diametre du' bas de la <ref
@@ -21276,11 +21340,11 @@
                   <persName ref="#GuillaumePhilandrier">Philander</persName> observe que les
                   architectes posterieurs à <persName ref="#Vitruve">Vitruve</persName>, non
                   seulement se sont servis de mutules sous la corniche de l'ordre dorique, mais
-                  qu'ilr en ont mis aussi dans l'ordre Composite, qui tiennent quelque chose du
-                  mutule dorique, et du modillon corinthien, comme s'ils estoient composez de l'un
-                  et de l'autre On peut ajouster à la remarque de Philander, que <persName
-                     ref="#Vitruve">Vitruve</persName> n'a point distingué les modillons servant à
-                  l'ordre corinthien, d'avec les mutules Doriques. </p>
+                  qu'ilr en ont mis aussi dans l'ordre <ref target="#composite">composite</ref>, qui
+                  tiennent quelque chose du mutule dorique, et du modillon corinthien, comme s'ils
+                  estoient composez de l'un et de l'autre On peut ajouster à la remarque de
+                  Philander, que <persName ref="#Vitruve">Vitruve</persName> n'a point distingué les
+                  modillons servant à l'ordre corinthien, d'avec les mutules Doriques. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreM_P209"> Le mot de mutule vient du verbe
                   mutilare, à cause que lés mutules representent le bout des <ref target="#chevron"
                      >chevrons</ref> ou jambes de force mutilez et coupez. </p>
@@ -21295,7 +21359,7 @@
                </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreN_P3">
                   <hi rend="capitals"> Naissance </hi>. On nomme assez souvent la Naissance, ce
-                  qu'on appelle autrement Congé ou Escape. </p>
+                  qu'on appelle autrement <ref target="#congé">congé</ref> ou Escape. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreN_P4">
                   <hi rend="capitals"> Nancelle </hi>, ou Nasselle. De Lorme et quelques autres
                   appellent ainsi la concavité qui est entre les deux tores de la base de la <ref
@@ -21366,9 +21430,9 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreN_P23">
                   <hi rend="capitals"> Nolets </hi>, où Noulets, et <ref target="#chevalet5"
                      >chevalets</ref> ; ce sont les deux Noues d'une lucarne, ou les enfoncemens de
-                  deux combles qui se rencontrent. On appelle des Pppp iij <pb n="670"/> toits à
-                  quatre noues renfoncées, lorsqu'ils sont faits à quatré pignons. <hi rend="it"
-                     >V. p.</hi>148. </p>
+                  deux <ref target="#comble">combles</ref> qui se rencontrent. On appelle des Pppp
+                  iij <pb n="670"/> toits à quatre noues renfoncées, lorsqu'ils sont faits à
+                  quatré pignons. <hi rend="it">V. p.</hi>148. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreN_P24"> NooUET ; c'est une petite bande de
                   plomb que l'on met ordinairement dans les angles enfoncez des couvertures
                   d'ardoise, le long des jouées des lucarnes et pignons ; Pour empescher que les
@@ -21499,11 +21563,12 @@
                   toujours faits à niveau et par lignes droites, qui proviennent du <ref
                      target="#cintre">cintre</ref> dont est tiré la montée, sans que la
                   circonference fasse aucun Jaret ; et qu'elles soient conduites suivant le tour du
-                  compas, aprés lequel auront esté tirées les <ref target="#branches">branches</ref>
-                  des voutes. Il faut aussi que les joints soient les plus petits qu'il est
-                  possible, afin de n'estre pas obligé de mettre des escailles de bois pour les
-                  remplir, ny mettre beaucoup de mortier, mais seulement les abreuver de Laitance,
-                  qui est de la <ref target="#chaux">chaux</ref> fort grasse.V. VOUTES. </p>
+                     <ref target="#compas2">compas</ref>, aprés lequel auront esté tirées les <ref
+                     target="#branches">branches</ref> des voutes. Il faut aussi que les joints
+                  soient les plus petits qu'il est possible, afin de n'estre pas obligé de mettre
+                  des escailles de bois pour les remplir, ny mettre beaucoup de mortier, mais
+                  seulement les abreuver de Laitance, qui est de la <ref target="#chaux">chaux</ref>
+                  fort grasse.V. VOUTES. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreO_P20">
                   <hi rend="capitals"> Oiseau. C </hi> 'est un petit ais posé sur deux morceaux de
                   bois qui débordent, et qui font comme deux bras. Les Goujats les mettent sur leurs
@@ -21649,8 +21714,8 @@
                   pourtantont un secret pour connoistre cela. Il y a apparence que les Anciens ne
                   s'er servoient pas, puisque <persName ref="#Vitruve">Vitruve</persName>, qui parle
                   de la couleur bleue dans le 1I.C. de son 7. Iivre n'en dit rien, et qu'il enseigne
-                  la composition du bleu artificiel dont l'on se servoit en ce temps-là. <hi
-                     rend="it">V. p.</hi> 400. </p>
+                  la <ref target="#composition">composition</ref> du bleu artificiel dont l'on se
+                  servoit en ce temps-là. <hi rend="it">V. p.</hi> 400. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreO_P54">
                   <hi rend="capitals"> Ouverture </hi> ou Jour d'une porte, ou d'une fenestre ;
                   c'est le vuide qui est entre les pieds droits, ou ce qui forme le <ref
@@ -21774,9 +21839,9 @@
                   teste fait face. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P28">
                   <hi rend="capitals"> Parquet </hi> ; c'est un assemblage de pieces bois qui font
-                  un compartiment en quarre ou d'une autre maniere, pour servir-au lieu de pavẽ
-                  dans les <ref target="#chambre">chambres</ref>, sales et cabinets. <hi rend="it"
-                     >V. p.</hi>118.172. </p>
+                  un <ref target="#compartiment1">compartiment</ref> en quarre ou d'une autre
+                  maniere, pour servir-au lieu de pavẽ dans les <ref target="#chambre"
+                     >chambres</ref>, sales et cabinets. <hi rend="it">V. p.</hi>118.172. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P29">
                   <hi rend="capitals"> Parquetage </hi> ; c'est un ouvrage fait avec du Parquet. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P30">
@@ -21835,7 +21900,7 @@
                   <hi rend="capitals"> Patte-D'oye </hi>, les charpentiers nomment ainsi certains
                   traits dont ils marquont les pieces de bois. <hi rend="it">Voyez page</hi>123. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P43"> Il y a aussr des enrayeures pour les
-                  combles qu'on appelle en patte-d'oye. </p>
+                     <ref target="#comble">combles</ref> qu'on appelle en patte-d'oye. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P44">
                   <hi rend="capitals"> Patron </hi>. <hi rend="it">Voyez</hi> MOULE. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P45"> PATRONNERen terme de peifture ; c'est
@@ -21924,8 +21989,9 @@
                   froid. Il y en a de petites à travailler sur l'Estau. <hi rend="it">V.
                   p.</hi>230.236. Pl. XXXV. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P72">
-                  <hi rend="capitals"> Perdu </hi>. On dit d'une figure peinte que les contours en
-                  sont perdus ou noyez, lorsqu'ils sont confondus avec le fondes </p>
+                  <hi rend="capitals"> Perdu </hi>. On dit d'une figure peinte que les <ref
+                     target="#contours">contours</ref> en sont perdus ou noyez, lorsqu'ils sont
+                  confondus avec le fondes </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P73"> Pnnenp servant aux Fondeurs. <hi
                      rend="it">V. p.</hi>334. Pl.L. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P74">
@@ -22292,9 +22358,10 @@
                   sortes d'outils. Les Tourneurs s'en servent beaucoup. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P164">
                   <hi rend="capitals"> Plan </hi> d'un bastiment ; C'est la situation reduitte dans
-                  un dessein fait et proportionné avec la reglo et le compas, selon la grandeur de
-                  la place où l'on veut bastir, avec toutes les mesures des lieux et des appartemens
-                  qu'on doit faire. Les Grecs nomment cela iyvoygavla, id est vestigii descriptio. </p>
+                  un dessein fait et proportionné avec la reglo et le <ref target="#compas2"
+                     >compas</ref>, selon la grandeur de la place où l'on veut bastir, avec toutes
+                  les mesures des lieux et des appartemens qu'on doit faire. Les Grecs nomment cela
+                  iyvoygavla, id est vestigii descriptio. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P165">
                   <hi rend="capitals"> Plan incline'. <hi rend="it">V. p.</hi>75. </hi>
                </p>
@@ -22736,13 +22803,13 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P289"> PROriL ; C'est le contour de quelque
                   figure. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P290"> On dit profiler pour dire desseigner
-                  seulement les contours de quelque chose que ce soit. </p>
+                  seulement les <ref target="#contours">contours</ref> de quelque chose que ce soit. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P291"> On dit, le profil d'un visage ou
                   d'une teste lorsqu'on n'en voit que la moitie et un des costez. Quoyque le mot de
-                  profil soit general pour exprimer tous les contours d'un corps, neanmoins en
-                  peinture l'on ne s'en sert pas d'ordinaire, on dit desseigner ou contourner ; et
-                  lorsqu'on parle d'un profil, on entend ordinairement un visage qui ne se voit
-                  qu'à moitié. </p>
+                  profil soit general pour exprimer tous les <ref target="#contours">contours</ref>
+                  d'un corps, neanmoins en peinture l'on ne s'en sert pas d'ordinaire, on dit
+                  desseigner ou <ref target="#contourner">contourner</ref> ; et lorsqu'on parle d'un
+                  profil, on entend ordinairement un visage qui ne se voit qu'à moitié. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreP_P292"> PRorIL d'un bastiment c'est
                   l'élevation geometrique et orthographique, qui fait voir les dedans du bastiment.
                   Quelques-uns croyent que le profil est ce que <persName ref="#Vitruve"
@@ -22917,8 +22984,8 @@
                   pieces en leur raison. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P19">
                   <hi rend="capitals"> Rameaux </hi>, en terme de fortification, sont des lignes ou
-                  chemins sous terre, qui vont d'un puis aun autre, et qu'on nomme aussi
-                  Contremines. </p>
+                  chemins sous terre, qui vont d'un puis aun autre, et qu'on nomme aussi <ref
+                     target="#contremines">contremines</ref>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P20">
                   <hi rend="capitals"> Ramender </hi> terme des doreurs. <hi rend="it">V.
                   p.</hi>288. </p>
@@ -22974,8 +23041,8 @@
                      p.</hi>110. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P36">
                   <hi rend="capitals"> Rayeure </hi> ou Enrayeure ; C'est un assemblage de pieces de
-                  bois dans un comble de charpenterie, au droit des croupes ou des noues. <hi
-                     rend="it">V. p.</hi>131. Pl. XVII. </p>
+                  bois dans un <ref target="#comble">comble</ref> de charpenterie, au droit des
+                  croupes ou des noues. <hi rend="it">V. p.</hi>131. Pl. XVII. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P37">
                   <hi rend="capitals"> Recaler </hi>, c'est oster du bois avec une varlope ou autre
                   outil à fust. V. RABOT. </p>
@@ -23384,8 +23451,8 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P154">
                   <hi rend="capitals"> Roule </hi> ', bois roulé. <hi rend="it">V. p.</hi>116.et122. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P155"> ROULEAUx ; on appélle ainsi les
-                  volutes des consoles, nommées ancones par <persName ref="#Vitruve"
-                     >Vitruve</persName>. </p>
+                  volutes des <ref target="#consoles">consoles</ref>, nommées ancones par <persName
+                     ref="#Vitruve">Vitruve</persName>. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreR_P156">
                   <hi rend="capitals"> Rouleau </hi> dont se servent les charpentiers et autres
                   ouvriers pour mener de grosses pieces de bois. <hi rend="it">V.
@@ -23531,12 +23598,12 @@
                   <hi rend="capitals"> Sauterblle </hi> ; c'est un instrument fait ordinairement de
                   bois et presque semblable au <ref target="#buveau">buveau</ref>, car elle est
                   toute droite et comme uneéquiaite ployante, qui s'ouvre et qui se ferme de mesme
-                  qu'un compas, pour former et pour tracer des angles, et aussi pour prendre des
-                  mesures sur le trait et sur l'ouvrage. Elle sert pour couper une pierre par le
-                  bout ou' autrement, avant que de la mettrg en œuvre quand il doit y avoir du
-                  biais. Les deux <ref target="#branches">branches</ref> de la Sauterelle doivent
-                  estre d'une égale largeur par tout, cequi n'est pas au <ref target="#buveau"
-                     >buveau</ref>. <hi rend="it">V. p.</hi> 76.114.134. Pl. XVIll. </p>
+                  qu'un <ref target="#compas5">compas</ref>, pour former et pour tracer des angles,
+                  et aussi pour prendre des mesures sur le trait et sur l'ouvrage. Elle sert pour
+                  couper une pierre par le bout ou' autrement, avant que de la mettrg en œuvre quand
+                  il doit y avoir du biais. Les deux <ref target="#branches">branches</ref> de la
+                  Sauterelle doivent estre d'une égale largeur par tout, cequi n'est pas au <ref
+                     target="#buveau">buveau</ref>. <hi rend="it">V. p.</hi> 76.114.134. Pl. XVIll. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreS_P26">
                   <hi rend="capitals"> Sauveterre </hi>. Les Marbriers nomment ainsi une espece de
                   marbre qui se tire sur le terroir et proche du village de Sauve-terre, a trois
@@ -24002,14 +24069,16 @@
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P1">
                   <hi rend="capitals"> Table </hi> de Verre. <hi rend="it">Voyez page</hi> 261. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P2">
-                  <hi rend="capitals"> Table </hi> d'attente, ou compartiment quatré ; c'est ce qui
-                  se pose d'ordinaire sur des portes ou dans des frises pour mettre des
-                  Inscriptions, Armes, Devises, etc. <persName ref="#Vitruve">Vitruve</persName>
-                  appelle Abacus une Table d'atBobbb <pb n="746"/> tente. livre 7. chap. </p>
+                  <hi rend="capitals"> Table </hi> d'attente, ou <ref target="#compartiment1"
+                     >compartiment</ref> quatré ; c'est ce qui se pose d'ordinaire sur des portes ou
+                  dans des frises pour mettre des Inscriptions, Armes, Devises, etc. <persName
+                     ref="#Vitruve">Vitruve</persName> appelle Abacus une Table d'atBobbb <pb
+                     n="746"/> tente. livre 7. chap. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P3">
-                  <hi rend="capitals"> Table </hi> de bois tracée en compartiment, dont se servent
-                  les vitriers, pour tailler leurs pieces de. verre, et les mettre en plomb, pour
-                  composer leurs Panneaux de vitres.V.<date when="3272">3272</date>. Pl.XLIII. </p>
+                  <hi rend="capitals"> Table </hi> de bois tracée en <ref target="#compartiment1"
+                     >compartiment</ref>, dont se servent les vitriers, pour tailler leurs pieces
+                  de. verre, et les mettre en plomb, pour composer leurs Panneaux de vitres.V.<date
+                     when="3272">3272</date>. Pl.XLIII. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P4">
                   <hi rend="capitals"> tableau </hi>. <hi rend="it">Voyez</hi> PBINTURE. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P5"> TAnLEAUx des portes. VoyeZ page 172. </p>
@@ -24249,10 +24318,10 @@
                   <hi rend="capitals"> Theatre </hi> de Dedτoν. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P73"> Petit THEATRE Odeum. Le devant de la
                   scenẽ du theatre Proscenium. Le derriere du theatre Parascenium, Postscenium.
-                  Pour voir tout ce qui dependoit de la composition et fabrique des Theatres
-                  anciens, tant des Grecs que des Latins, il faut lire <persName ref="#Vitruve"
-                     >Vitruve</persName> livre5. ch. 6 avec les notes de Monsieur <persName
-                     ref="#ClaudePerrault">Perrault</persName>.</p>
+                  Pour voir tout ce qui dependoit de la <ref target="#composition">composition</ref>
+                  et fabrique des Theatres anciens, tant des Grecs que des Latins, il faut lire
+                     <persName ref="#Vitruve">Vitruve</persName> livre5. ch. 6 avec les notes de
+                  Monsieur <persName ref="#ClaudePerrault">Perrault</persName>.</p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P74">
                   <hi rend="capitals"> Thforie </hi> Ropsa, Contemplation, Consideration. L'on dit
                   qu'une personne n'a que la Theoric d'un art, lorsqu'il n'en a pas la pratique, et
@@ -24342,8 +24411,9 @@
                      >Vitruve</persName> liv. 6. ch. 3. appelle ftilicidia les avances des toits,
                   qui servent à égouter l'eau. Il faut lire les Notes de Monsieur <persName
                      ref="#ClaudePerrault">Perrault</persName> sur le1. ch. du z.l. de cet Auteur. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreT_P98"> ToiTs-couPEz ou Combles que l'on nomme
-                  à la Mansarde. <hi rend="it">V. p.</hi> 146.150. Pl. XXIIl. </p>
+               <p xml:id="FEL_PASP_dictionnaire_lettreT_P98"> ToiTs-couPEz ou <ref target="#comble"
+                     >combles</ref> que l'on nomme à la Mansarde. <hi rend="it">V. p.</hi> 146.150.
+                  Pl. XXIIl. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P99">
                   <hi rend="capitals"> Tombereau </hi> ; c'est une espece de charette à deux roues
                   dont le fond et les costez sont de planches de bois. On s'en sert particulierement
@@ -24360,11 +24430,12 @@
                   chariot. <hi rend="it">Voyez page</hi> 67. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P104"> I'oRcuE-PiNCEAU ; c'est un petit
                   linge qui sert aaux peintres à essuyer leurs pinceaux et leur palette. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreT_P105"> Toncuis ; c'est une composition de
-                  terre grasse meslée et pestrie avec du foin ou paille, dont l'on se sert en
-                  plusieurs endroits pour faire des <ref target="#cloison1">cloisonnages</ref> et
-                  des planchers: On tortille cette matiere au tour de certains bastons en forme de
-                  torches, à cause de quoy on les appelle torchis. </p>
+               <p xml:id="FEL_PASP_dictionnaire_lettreT_P105"> Toncuis ; c'est une <ref
+                     target="#composition">composition</ref> de terre grasse meslée et pestrie avec
+                  du foin ou paille, dont l'on se sert en plusieurs endroits pour faire des <ref
+                     target="#cloison1">cloisonnages</ref> et des planchers: On tortille cette
+                  matiere au tour de certains bastons en forme de torches, à cause de quoy on les
+                  appelle torchis. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreT_P106">
                   <hi rend="capitals"> Torchieres </hi>, ce sont de grands <ref
                      target="#chandeliers">chandeliers</ref> qui servent à mettre de gros flambeaux
@@ -24720,9 +24791,9 @@
                   plusieurs façons: car il y a la grande Varlope, la demy Varlope. etc. <hi
                      rend="it">V. p.</hi>174.182. Pl. XXXI. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P6"> VASEss ou Pots. L'on orne souvent le
-                  comble et le haut des pavillons, de Vases et de Pots de plomb ou d'autre matiere,
-                  pour servir d'amortissement. On en met aussi sur les Corniches, et sur les
-                  Frontons. </p>
+                     <ref target="#comble">comble</ref> et le haut des pavillons, de Vases et de
+                  Pots de plomb ou d'autre matiere, pour servir d'amortissement. On en met aussi sur
+                  les Corniches, et sur les Frontons. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P7">
                   <hi rend="capitals"> Veine </hi> ; on dit les veines d'une pierre, ou d'uné piece
                   de marbre. </p>
@@ -24829,9 +24900,9 @@
                   du6.l. de<persName ref="#Vitruve">Vitruve</persName> Les Grecs appelloient
                   Prothyra les Vestibules qui estoient dans les portes des maisons. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P30"> VEuE de Faistiere ; c'est lorsque dans
-                  les combles et les couvertures on laisse entre deux <ref target="#chevron"
-                     >chevrons</ref>, une petite ouverture pour donner jour, laquelle est couVerte
-                  seulement d'une Faistiere renversée. </p>
+                  les <ref target="#comble">combles</ref> et les couvertures on laisse entre deux
+                     <ref target="#chevron">chevrons</ref>, une petite ouverture pour donner jour,
+                  laquelle est couVerte seulement d'une Faistiere renversée. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P31"> VEuE d'Irondelle, ou Veue d'Oiseau.
                   L'on dit, faire le plan et l'élevation de quelque bastiment à veuë d'Irondelle,
                   lorsque le point de veue est si haut que l'élevation des corps-de-logis de devant
@@ -24938,25 +25009,27 @@
                   spiralles. Les Volutes ; sont differentes dans ces trois Ordres car ce que
                      <persName ref="#Vitruve">Vitruve</persName> nomme volutes dans l'ordre
                   corinthien, sont au nombre de seize dans:chaque <ref target="#chapiteau"
-                     >chapiteau</ref>, au lieu qu'il n'y en a que huit dans le Composite, et quatre
-                  dans l'ionique. Mais la volute est principalement considerable dans le <ref
-                     target="#chapiteau">chapiteau</ref> de la <ref target="#colonne">colonne</ref>
-                  lonique ; Eile repfesente une <pb n="773"/> VO 773 espece d'oreiller ou coussin,
-                  posé entre- l'<ref target="#abaque">Abaque</ref> et l'Echine, comme si l'on avoit
-                  peur que l'échine fust rompue ou gastée par la pesanteur de l'<ref
-                     target="#abaque">Abaque</ref> et de l'entablement qui est au dessus. C'est
-                  pourquoy elle est appellée Pulvinus par <persName ref="#Vitruve"
-                     >Vitruve</persName> ch. 3. Iiv. 3. qui dit dans son-livre 4. ch. 1,qu'elles
-                  representent la coeffure des femmes, et les boucles des cheveux, qui pendent des
-                  deux costez de leur visage. Leon Baptiste Albert les appelle coquilles à cause de
-                  la ressemblance qu'elles ont à la coquille d'un dimacon ; ce qui fait que quelques
-                  ouvriers les nomment limaces. Elles sont toutes sans cette partie qu'on appelle
-                  balustre, excepté l'lonique antique, qui n'a des- volutes qu'à deux faces. </p>
+                     >chapiteau</ref>, au lieu qu'il n'y en a que huit dans le <ref
+                     target="#composite">composite</ref>, et quatre dans l'ionique. Mais la volute
+                  est principalement considerable dans le <ref target="#chapiteau">chapiteau</ref>
+                  de la <ref target="#colonne">colonne</ref> lonique ; Eile repfesente une <pb
+                     n="773"/> VO 773 espece d'oreiller ou coussin, posé entre- l'<ref
+                     target="#abaque">Abaque</ref> et l'Echine, comme si l'on avoit peur que
+                  l'échine fust rompue ou gastée par la pesanteur de l'<ref target="#abaque"
+                     >Abaque</ref> et de l'entablement qui est au dessus. C'est pourquoy elle est
+                  appellée Pulvinus par <persName ref="#Vitruve">Vitruve</persName> ch. 3. Iiv. 3.
+                  qui dit dans son-livre 4. ch. 1,qu'elles representent la coeffure des femmes, et
+                  les boucles des cheveux, qui pendent des deux costez de leur visage. Leon Baptiste
+                  Albert les appelle coquilles à cause de la ressemblance qu'elles ont à la coquille
+                  d'un dimacon ; ce qui fait que quelques ouvriers les nomment limaces. Elles sont
+                  toutes sans cette partie qu'on appelle balustre, excepté l'lonique antique, qui
+                  n'a des- volutes qu'à deux faces. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P61"> Les petites volutes qui sont au miheu
                   de chaque face du <ref target="#chapiteau">chapiteau</ref> corinthien, se nomment
                   dans <persName ref="#Vitruve">Vitruve</persName> heliées. </p>
-               <p xml:id="FEL_PASP_dictionnaire_lettreV_P62"> Il y a encore des volutes aux
-                  Consoles, aux Modillons et à d'autres sortes d'ornemens. </p>
+               <p xml:id="FEL_PASP_dictionnaire_lettreV_P62"> Il y a encore des volutes aux <ref
+                     target="#consoles">consoles</ref>, aux Modillons et à d'autres sortes
+                  d'ornemens. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P63"> VousSOIRS ou Vousseaux ; ce sont les
                   pierres d'assemblage, qui forment le <ref target="#cintre">cintre</ref> d'une
                   arcade ou d'une voute. Chaque Voussoir a six costez, lorsqu'il est taillé. Le
@@ -25058,18 +25131,19 @@
                   comme quatre lunettes. La pratique ordinaire dans ces sortes de voutes, veut que,
                   tant les arcs doubleaux, <ref target="#branches">branches</ref>, et nerfs
                   d'ogives, que les pendentifs, soient dans leur douelles, conduits et façonnez au
-                  trait du compas ; les figures eliptiques, ou en ance de panier, surmonté́es ou
-                  surbaissées, n'estant pas communement en usage pour cela. Il faut aussi pour une
-                  plus grande beauté de l'ouvrage, que tous les lits en-joints des pendants, et de
-                  tous les ares, nerfs, et bran: ches d'ogives, et autres ornemens, soient conduits
-                  en sorte qu'ils puissent estre bornoyez àà la regle, et ne fassent aucun jaret en
-                  leur <ref target="#cintre">cintre</ref> ; et que ces sortes de voutes, aussi bien
-                  que les autres ayant beaucoup de poussee, ayent de bons arcs-boutans pour
-                  contrebouter et maintenir. l'ouvrage en estat. Fffff <pb n="778"/> La plus grande
-                  difficulté qui se trouve en la conduite de ces Voutes, consiste au developement
-                  des Nerfs, lorsqu'ils naissent, ou d'un mesme point, ou d'un si petit espace
-                  qu'ils sont comme les uns dans les autres. Car lorsqu'on vient à les ellever, les
-                  uns prennentleur contour d'un costé, et les autres d'un autre. </p>
+                  trait du <ref target="#compas2">compas</ref> ; les figures eliptiques, ou en ance
+                  de panier, surmonté́es ou surbaissées, n'estant pas communement en usage pour
+                  cela. Il faut aussi pour une plus grande beauté de l'ouvrage, que tous les lits
+                  en-joints des pendants, et de tous les ares, nerfs, et bran: ches d'ogives, et
+                  autres ornemens, soient conduits en sorte qu'ils puissent estre bornoyez àà la
+                  regle, et ne fassent aucun jaret en leur <ref target="#cintre">cintre</ref> ; et
+                  que ces sortes de voutes, aussi bien que les autres ayant beaucoup de poussee,
+                  ayent de bons arcs-boutans pour contrebouter et maintenir. l'ouvrage en estat.
+                  Fffff <pb n="778"/> La plus grande difficulté qui se trouve en la conduite de ces
+                  Voutes, consiste au developement des Nerfs, lorsqu'ils naissent, ou d'un mesme
+                  point, ou d'un si petit espace qu'ils sont comme les uns dans les autres. Car
+                  lorsqu'on vient à les ellever, les uns prennentleur contour d'un costé, et les
+                  autres d'un autre. </p>
                <p xml:id="FEL_PASP_dictionnaire_lettreV_P80"> Il est encore à propos que les Liernes
                   et les Ogives se fassent de mesme grosseur et de mesme moule, affin que se
                   rencontrant dans la <ref target="#clef1">clef</ref> qui leur est commune, ils
