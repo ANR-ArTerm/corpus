@@ -17,10 +17,6 @@
           <name>Carla Tricon</name>
           <resp>Indexation</resp>
         </respStmt>
-		<respStmt>
-		<name>Elisa Bonaiuti</name>
-		<resp>Correction, Identification des œuvres</resp>
-		</respStmt>
       </titleStmt>
       <editionStmt>
         <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
@@ -4562,7 +4558,7 @@
 							ref="#Raphael">Rafaello</persName> è in <placeName ref="#Rome"
 								>Roma</placeName>, in <objectName ref="#BasiliqueSaintAugustinRome">Santo Agostino</objectName>, un
 						<objectName ref="#PropheteIsaieRaphael"><objectName>Profeta</objectName> con due fanciulli dalle parti</objectName>, nella
-						<objectName ref="#EgliseSainteMariePaixRome">Pace</objectName> le <objectName ref="#RaphaelSibyllesProphetesChigi">Sibille</objectName>, in
+						<objectName ref="#SainteMariePaixRome">Pace</objectName> le <objectName ref="#RaphaelSibyllesProphetesChigi">Sibille</objectName>, in
 						<objectName ref="#EgliseSanPietroinMontorio">santo Pietro Montorio</objectName> la
 						<objectName ref="#RaphaelTransfiguration">Transfiguratione di <persName ref="#Jesus"
 								>Christo</persName></objectName>, il <objectName ref="#RaphaelJulesII">ritratto di papa
@@ -5536,7 +5532,7 @@
 						non minor eccellenza. Lascio di dire delle rare opere del novello <persName
 							ref="#FrancescoBassano">Bassano</persName>, parte fatte in <placeName
 							ref="#Venise">Venetia</placeName> e parte per il mondo, tra le quali è
-						la <objectName ref="#RatSabineBassano">rapina delle Sabine fatta da Romani</objectName>, ch'egli già
+						la <objectName ref="#RatSabinesBassano">rapina delle Sabine fatta da Romani</objectName>, ch'egli già
 						dipinse per <persName ref="#CharlesEmmanuelIer">Carlo Emanuello Duca di
 							Savoia</persName>, con tanta argutia nella espressione dei loro
 						affetti, che la natura istessa non li può agguagliare. Lascio anco quelle di
@@ -5547,7 +5543,7 @@
 						nelle faccie clementi, <persName ref="#BernardinoLanino">Bernardino
 							Lanino</persName>. Con le quali egli ha immortalata in <placeName
 							ref="#Novare">Novara</placeName> la <objectName ref="#ChapelleSaintJosephNovara">capella di San
-							Gioseffo</objectName>, ove sono <objectName ref="#SibylleLanino">diece <persName
+							Gioseffo</objectName>, ove sono <objectName ref="#SibyllesLanino">diece <persName
 								ref="#Sibylle">Sibille</persName> maggiori del
 						naturale, assisse sopra i cornicioni</objectName>. Nelle quali si vede, oltra la
 						vaghezza, la bellissima maniera dei panni e gli atti loro conformi, con gli
@@ -5579,7 +5575,7 @@
 						e cavalieri principali di quella città, di cui è membro nobilissimo ancora
 						il <persName ref="#CarloLuigiDAragonaTagliava">Duca di <placeName
 								ref="#Terranova">Terranova</placeName></persName>, governatore di
-						questo Stato. In questa tavola è dipinta <objectName>l'Assuntione della
+						questo Stato. In questa tavola è dipinta <objectName ref="#ViergeSurTroneProcaccini">l'Assuntione della
 							Beata <persName ref="#Marie">Virgine</persName></objectName> tutta
 						circondata di angeli con suoni e canti e <persName ref="#Jesus"
 							>Christo</persName> suo figliuolo che gli discende incontro con la
@@ -5601,7 +5597,7 @@
 							ref="#Correge">Corregio</persName>, e della sua vaghezza e leggiadria,
 						come si vede in <placeName ref="#Bologne">Bologna</placeName>, in
 							<objectName ref="#BasiliqueSanGiacomoMaggioreBologne">San Giacomo</objectName>, nella tavola
-							maravigliosa della <objectName>Concetione della Madonna</objectName> et in
+							maravigliosa della <objectName ref="#ViergeSurTroneProcaccini">Concetione della Madonna</objectName> et in
 							<placeName ref="#Parme">Parma</placeName>, nelle <objectName ref="#VoletsOrgueParmeProcaccini">ante dell'organo del
 							<objectName ref="#CathedraleParme">Duomo</objectName></objectName>, ove è una <persName
 								ref="#SainteCecile">Santa Cecilia</persName> che suona
@@ -5683,7 +5679,7 @@
 						v'è <persName ref="#AurelioLuini">Aurelio Lovini</persName>, non inferiore
 						del padre in alcune parti, sì come ben l'ha dimostrato in molte sue pitture,
 						tra le quali è degna d'essere con lode nominata quella ch'egli ha dipinto
-						sopra la <objectName ref="#facadeMisericordiaLuini">facciata della <objectName ref="#EgliseDellaMisericordiaMilan">Misericordia</objectName></objectName>, lungo il
+						sopra la <objectName ref="#facadeMisericordiaLuini">facciata della <objectName ref="#PioLuogoDellaMisericordiaMilan">Misericordia</objectName></objectName>, lungo il
 						<placeName>Corso di <objectName ref="#PortComasinaMilan">Porta Comasina</objectName></placeName>, appresso a
 								<objectName ref="#EgliseSanTomasoMilan">San Tomaso in
 							Terra Amara</objectName>, ove ha dipinto, in poco spacio, gran quantità
@@ -5799,7 +5795,7 @@
 							ref="#Milan">Milano</placeName>, ma più nobile per il suo rarissimo
 						ingegno e per l'eccellenza dell'arte di ricamar sopra la tela et il rete;
 						nella quale non è per haver mai alcun pari, né ha avuto a tempi avanti, che
-						si favoleggino i poeti della sua <objectName><persName ref="#Arachne"
+						si favoleggino i poeti della sua <objectName ref="#ArachneCantoni"><persName ref="#Arachne"
 								>Aragne</persName></objectName>. Percioché tra l'altre eccellenze,
 						cuce con tale arte che il punto appare così dall'una come dall'altra parte.
 						Onde anco per eccellenza egli si dimanda il punto dell'ago della gran
@@ -5808,12 +5804,12 @@
 						straniere, quanto italiane, e principalmente alla Serenissima Infante
 							<persName ref="#CatherineMichelleDAutriche">Donna Caterina
 							d'Austria</persName>, dalla quale ha commissione ancora di fare una
-							<objectName ref="#AnnonciationViergeCantoni">Annunciata in un frontale d'altare alla
+							<objectName>Annunciata in un frontale d'altare alla
 						Serenissima Madama <persName ref="#DorotheeDeLorraine">Dorotea di
 							Bransvich</persName>, et alla Serenissima <persName
 							ref="#ChristineDeLorraine">gran Duchessa di Toscana</persName>, sua
 						nepote</objectName>. Et hora è occupata questa singolar donna in fornire un fruttiero,
-						dove rappresenta la <objectName ref="#CoronationPhilippeIICantoni">coronatione della Catolica Maestà del Re <persName
+						dove rappresenta la <objectName>coronatione della Catolica Maestà del Re <persName
 							ref="#PhilippeII">Filippo secondo di Spagna</persName></objectName>, con la rinuntia
 						degli Stati fattagli dalla Cesarea Maestà dell'imperatore <persName
 							ref="#CharlesQuint">Carlo quinto</persName> suo padre, ove si vedono gli
@@ -5823,7 +5819,7 @@
 						Prudenza, la Pace, la Felicità, la Fama, con alcune imprese che conformano
 						con dette virtù. E sono tutti questi principi ritratti al naturale e si
 						veggono da tutte due le parti egualmente. Attende ancora nell'istesso tempo
-						a rappresentar <objectName ref="#MinerveEtArachneCantoni">il <pb n="167"/> contrasto tra <persName ref="#Pallas"
+						a rappresentar <objectName ref="#ArachneCantoni">il <pb n="167"/> contrasto tra <persName ref="#Pallas"
 							>Pallade</persName> et <persName ref="#Arachne">Aragne</persName></objectName> e
 						l'eccellenze et i vituperi dei dei. Ma troppo lungo sarebbe il raccontar ad
 						una ad una l'opere sue e degnamente lodarle. Sì che ne lascio la cura al
