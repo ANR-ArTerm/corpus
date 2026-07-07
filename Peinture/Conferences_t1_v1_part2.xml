@@ -1,28 +1,57 @@
-#fin du texte de Flora
-#retirer le TEI header, ne garder qu'à partir de <pb n="">
-
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-   schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-	</teiHeader>
-
+        <fileDesc>
+            <titleStmt>
+                <title>Conférences de l’Académie Royale de Peinture et de Sculpture Tome I, Vol. 2 :
+                    document xml</title>
+                <respStmt>
+                    <resp>Texte encodé sous la surveillance de </resp>
+                    <name>Anna Sconza</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Texte saisi et annoté par </resp>
+                    <name>Flora Belin</name>
+                    <name> Maxine Schoehuys-Kreiss</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Texte récupéré de l’Édition des Conférences de l’Académie Royale de Peinture et
+                    de Sculpture Tome I, Vol. 1 (1648–1681)</p>
+                <p>???</p>
+                <p>Édition électronique réalisée à la Sorbonne Nouvelle</p>
+                <p>Édition électronique réalisée pour le projet “Lexique de la Peinture, en France,
+                    Espagne et Italie (XIV-XVIIIe)”</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <textLang mainLang="fr">français</textLang>
+                    <author> Charles Le Brun???? </author>
+                    <date type="original"> </date>
+                    <editor> </editor>
+                    <title xml:lang="fr" type="main"> Conférences de l’Académie Royale de Peinture
+                        et de Sculpture Tome I, Vol. 1 (1648–1681) </title>
+                    <publisher> École Nationale Supérieure des Beaux-Arts </publisher>
+                    <pubPlace> Paris </pubPlace>
+                    <date> 2006 </date>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <bloc> Numérotation des feuillets en chiffres arabes, en bas dans le coin
+                            externe de la page. Ecriture à pleine ligne, donc 1 colonne par page,
+                            avec des ajouts de l'éditeur en bas de page. Nombre de lignes par pages
+                            variable. </bloc>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
 	<text>
         <body>
 
-<pb n="231">
-
-<figure type="planche"><head><hi rend="bold">François Perrier,</hi></head>
-<hi rend="it">Gladiateur Borghèse,</hi>
-planche des <hi rend="it">Segmenta nobilium
-signorum et statuarum</hi>, 1638,
-Paris, ENSBA.
-</figure>
 
 <pb n="232">
-C'est cette action si notable dans ce commencement de la vie de Pyrrhus1 que le Poussin
+<p>C'est cette action si notable dans ce commencement de la vie de Pyrrhus1 que le Poussin
 a représentée dans ce tableau. Ce jeune enfant est entre les bras d'un des principaux de
 sa suite, auquel il semble qu'un de ceux qui l'avaient enlevé l'ait remis, pendant qu'il
 demande l'assistance des Mégariens qui paraissent de l'autre côté de l'eau, et que ses
@@ -40,22 +69,15 @@ remarquer combien le peintre a doctement observé l'équilibre et la pondératio
 le corps dans une position ferme, et qui contribue au mouvement et à la force de l'action
 qu'ils font. Aussi toutes ces belles parties, la noble disposition des figures, la situation
 du lieu, les bâtiments, la lumière du soleil couchant et la belle union de tout ce tableau,
-l'ont toujours beaucoup fait estimer.
+l'ont toujours beaucoup fait estimer.</p>
 
-</div>
 
 <div xml:lang="fr" xml:id="C12" type="conference">
 
 <pb n="233">
-<h1><head><hi rend="bold">7 avril 1668
-Charles Le Brun : L'expression générale</hi></head></h1>
+<head><hi rend="bold">7 avril 1668
+Charles Le Brun : L'expression générale</hi></head>
 
-<métadonnée><hi rend="capitals">BIBLIOGRAPHIE</hi> B. Teyssèdre 1965, p. 628-630 ; S. Ross,« Painting the Passions. Charles Le Brun's
-<hi rend="it">Conférence sur l'expression</hi> », <hi rend="it">Journal of the History of Ideas.</hi> XLV, 1, 1984, p. 25-47 ; J. Montagu,
-«The theory of the musical modes in the Académie royale de Peinture et de Sculpture», <hi rend="it">Journal of
-the Warburg and Courtaulcl Institutes</hi>, vol. 55., 1992, p. 233-248 ; J. Montagu 1994 ; Ch. Michel,
-« L'expression du sujet littéraire et religieux dans les tableaux de chevalet au temps d'Eustache
-Le Sueur », in <hi rend="it">Littérature etpeinture au temps d'Eustache Le Sueur</hi>, Grenoble, 2003, p. 127-134.
 
 <p>Le procès-verbal de la séance du 7 avril 1668 indique une intervention de
 Le Brun : « la Compagnie a prié M. Le Brun de continuer ce qu'il a proposé dans
@@ -83,12 +105,9 @@ exactitude on doit observer selon les sujets que l'on traite, pour les mettre en
 à l'imitation de ce grand peintre.</p>
 
 
-<pb n="234">
-<figure type="peinture"><head><hi rend="bold">Dominiquin,</hi></head>
-<hi rend="it">Le martyre de saint André,</hi>
-Rome, Sant'Andrea della Valle.</figure>
 
-<p><pb n="235">
+
+<p><pb n="235"/>
 Quels sont ces quatre tableaux ? Dans sa préface des <hi rend="it">Conférences de l'Académie
 Royale de peinture et de sculpture pour l'année 1667</hi>, Félibien en mentionne
 cinq : <hi rend="it">Pyrrhus sauvé</hi> (pour la fureur), <hi rend="it">Élièzer et Rébecca</hi> (mode ionique, élégant et
@@ -114,9 +133,9 @@ textes se recoupent en partie, notamment en ce qui concerne les exemples ; les
 peintres mentionnés pour avoir manqué à la convenance dans l'expression de leurs
 sujets sont les mêmes : Dominiquin, Brueghel et Bassano. On trouvera en annexe
 les discours de Testelin. Nous donnons ici les passages de la préface de Félibien qui
-renvoient à la question de l'expression générale :</métadonnée>
+renvoient à la question de l'expression générale :</p>
 
-Ce n'est pas encore assez pour la perfection d'un ouvrage ; il faut qu'il y ait des marques 
+<p>Ce n'est pas encore assez pour la perfection d'un ouvrage ; il faut qu'il y ait des marques 
 particulières qui fassent connaître les principales figures et les plus singulières
 actions ; comme dans ce tableau de la Manne, on discerne Moïse entre tous les autres,
 tant par le lieu où il est placé, par sa mine, par ses vêtements, et par un air qui donne
@@ -128,7 +147,7 @@ Dominiquin de ce qu'en représentant le martyre de saint André, il y a un des b
 qui, s'étant laissé tomber en tirant une corde, donne sujet de rire aux autres qui se
 moquent de lui par des gestes trop grossiers, parce que cette expression étant indigne
 
-<pb n="236">
+<pb n="236"/>
 d'un sujet si sérieux, au lieu d'attirer les yeux et la compassion des regardants sur
 le saint qu'on martyrise, on est distrait par ces actions ridicules. Il faut donc que les
 expressions des figures particulières, qui ne sont que pour accompagner la principale,
@@ -162,7 +181,7 @@ susceptible d'autant de passions différentes.
 Il est vrai aussi, que si la musique est capable de faire des merveilles, comme l'on dit
 
 
-<pb n="237">
+<pb n="237"/>
 que par son moyen Pythagore donnait la santé aux malades, que le médecin Asclépiade
 guérissait les frénétiques, qu'un joueur de flûte mit Alexandre en colère, qu'un autre
 apaisait les furieux, et tout cela par la vertu de certaines mélodies et par la force
@@ -232,15 +251,15 @@ maîtres ont observé pour parvenir à cette haute science qui les a rendus si c
 s'est aussi rendu illustre par les belles connaissances qu'il a acquises et par les fameux
 travaux qu'il nous a laissés.</p>
 </div>
-
-<pb n="239">
+<
+<pb n="239"/>
 
 <div xml:lang="fr" xml:id="C13" type="conference">
 
 <h1><head><hi rend="capitals">5 mai 1668
 Sébastien Bourdon : <hi rend="it">Le Martyre de saint Étienne</hi> du Carrache</hi></head></h1>
 
-<métadonnée><hi rend="capitals">MANUSCRIT</hi> Perdu.
+<hi rend="capitals">MANUSCRIT</hi> Perdu.
 <hi rend="capitals">PROCÈS-VERBAUX</hi> Pas de mention.
 <hi rend="capitals">DATATION</hi> B. Teyssèdre (1965, p. 542-543) propose de dater cette conférence du 2 juin 1668, en se
 fiant aux procès-verbaux du 5 décembre 1682 qui indiquent qu'elle avait eu lieu « au mois de juin
@@ -386,16 +405,7 @@ jusqu'à une rage féroce, et sa colère éclate simplement par une fierté mena
 trois figures qui regardent ce spectacle en paraissent touchées de compassion<anchor xml:id="A032" corresp="#N032"/>, mais
 rien n'est plus remarquable que le visage serein et tranquille de saint Étienne. Ce qui
 
-<pb n="243">
-	<figure type="peinture"><head><hi rend="bold">Annibal Carrache,</hi></head> 
-<hi rend="it">Le Martyre de saint Étienne,</hi> 
-Paris, musée du Louvre.
-</figure>
 
-<pb n="244">
-	<figure type="estampe"><head><hi rend="bold">Jean-Baptiste Corneille, d'après Annibal Carrache,</hi></head> 
-<hi rend="it">Polyphème lançant un rocher,</hi>
-BNF, département des Estampes.</figure>
 
 <pb n="245">
 montre le ravissement où il est dans l'attente des félicités du Ciel, et exprime la joie de
@@ -439,16 +449,7 @@ Et c'est par cette harmonie que tout le spectacle paraît plutôt la nature mêm
 l'ouvrage du pinceau.</p>
 
 
-<note xml:id="N028" target="#A028"><p>Ms. : « Hiérusalem ».</p></note>
-<note xml:id="N029" target="#A029"><p>Dans une autre version du même paragraphe proposée dans le manuscrit, Guillet écrit que, concernant ces deux œuvres, Bourdon « dit qu'on remarque dans le premier un dessein grand et terrible, et dans la Canané[enne] un contour plus doux et plus délicat, en sorte que chaque dessein convient à la nature de son sujet».</p></note>
-<note xml:id="N030" target="#A030"><p>Guillet précise dans une autre version du paragraphe qu' « on connaît qu'elles [ces figures] sont d'une basse naissance, ce qui est inséparable de la cruauté ».</p></note>
-<note xml:id="N031" target="#A031"><p>Deux autres versions de ce passage peuvent être lues dans le manuscrit de Guillet, dont une sensiblement différente : « [Saint Paul] paraît d'une autre condition que ces gens-là., et quoique sa colère éclate contre ce martyr, elle ne passe pas jusqu' à la férocité comme la leur. »</p></note>
-<note xml:id="N032" target="#A032"><p>Guillet avait d'abord écrit : « douleur». Bourdon pense vraisemblablement à la vocation prochaine de saint Paul pour interpréter ainsi sa figure dans le tableau du Carrache, de même qu'il associe sans doute les trois figures aux « hommes pieux » cités dans les Actes et qui « recueillirent Étienne et firent sur lui une grande lamentation» (Ac 8, 2). Cela explique que, dans une autre rédaction du passage, Guillet écrive : « Les trois figures qui regardent ce spectacle en paraissent aussi d'une qualité relevée ».</p></note>
-<note xml:id="N033" target="#A033"><p>Autre rédaction du paragraphe : « en parlant de cette économie des couleurs, M. Bourdon avait remarqué que le rouge et le blanc s'accordaient admirablement dans les draperies d'une figure posée derrière un arbre et s'était excusé de ne pouvoir en dire davantage parce que l'arbre la lui cachait ».</p></note>
-<note xml:id="N034" target="#A034"><p>Dans les deux autres versions du paragraphe, Guillet dit : « les draperies de saint Paul ». </p></note>
-<note xml:id="N035" target="#A035"><p>La fin de la conférence à partir de ce point ne nous est connue que par une seule version, datée de 1683, transcrite par Helsdingen et que nous reproduisons ici.</p></note>
-<note xml:id="N036" target="#A036"><p> Ms. : « Hierusalem ».</p></note>
-<note xml:id="N037" target="#A037"><p> Première version rayée : « glacé ».</p></note>
+
 
 <pb n="247">
 
@@ -480,10 +481,7 @@ reconstituer la conférence de Champaigne. Félibien a en effet assisté à la c
 Nous donnons donc cette description avant le texte de Guillet.
 
 
-<pb n="248">
-	<figure type="peinture"><head><hi rend="bold">Nicolas Poussin,</hi></head> 
-<hi rend="it">Moïse sauvé des eaux,</hi>
-Paris, musée du Louvre.</figure>
+
 
 <pb n="249">
 <hi rend="capitals">TABLEAU</hi> Le tableau a été peint en 1647 pour le banquier Pointel, acheté par le duc de Richelieu,
@@ -613,9 +611,7 @@ pas juste de lui en ôter la liberté. C'est ce qui a fait dire que la peinture 
 muette et la rhétorique des peintres.</p>
 
 
-<note xml:id="N038" target="#A038"><p>Première version : « Ensuite M. Champaigne voulant que les académiciens conservassent la liberté de leurs sentiments et de leurs objections ».</p></note>
-<note xml:id="N039" target="#A039"><p>Première version : « après avoir fait paraître le Nil dans son canal à l'ordinaire, eût encore représenté la divinité de ce fleuve ».</p></note>
-<note xml:id="N040" target="#A040"><p>Première version : «l'Écriture».</p></note>
+
 
 </div>
 
@@ -626,7 +622,7 @@ muette et la rhétorique des peintres.</p>
 <h1><head><hi rend="bold">4 août 1668
 Nicolas Loir : <hi rend="it">L'Hiver</hi> ou <hi rend="it">Le Déluge</hi> de Poussin</hi></head></h1>
 
-<métadonnée><hi rend="capitals">MANUSCRIT</hi> ENSBA, ms. 132. Une page de garde ajoutée au XVIIIe siècle porte un commentaire
+<hi rend="capitals">MANUSCRIT</hi> ENSBA, ms. 132. Une page de garde ajoutée au XVIIIe siècle porte un commentaire
 de Caylus.
 <hi rend="capitals">AUTRE VERSION</hi> ENSBA, ms. 132.
 <hi rend="capitals">PROCÈS- VERBAUX</hi> Pas de mention.
@@ -664,10 +660,7 @@ par vous, Messieurs, qui avez fait des discours, qu'il n'y aurait guère de chos
 dire. Cependant, parce que ces grands hommes n'ont pas seulement été soigneux de
 bien traiter les sujets les plus abondants mais aussi qu'ils n'ont rien négligé dans les
 
-<pb n="254">
-<figure type="peinture"><head><hi rend="bold">Nicolas Poussin,</hi></head> 
-<hi rend="it">L'Hiver ou Le Déluge,</hi>
-Paris, musée du Louvre.</figure>
+
 
 
 <pb n="255">
@@ -713,15 +706,10 @@ Il est maintenant à propos, Messieurs, pour conclusion de ce petit discours, qu
 <pb n="256">
 remarquer<anchor xml:id="A045" corresp="#N045"/>en détail ce qui paraît de l'expression du tout ensemble, de l'expression<anchor xml:id="A046" corresp="#N046"/>
 de la lumière, et de celle de la couleur.
-<métadonnée> Prononcé en l'assemblée du quatrième août mil six cent soixante-huit par M. Loir. H. Testelin</métadonnée>
 
 
-<note xml:id="N041" target="#A041"><p>Note à la sanguine sur le manuscrit : « l'apparence».</p></note>
-<note xml:id="N042" target="#A042"><p>Note: « l'éclat».</p></note>
-<note xml:id="N043" target="#A043"><p>Note: « l'harmonie».</p></note>
-<note xml:id="N044" target="#A044"><p>Note : « la sensation ».</p></note>
-<note xml:id="N045" target="#A045"><p>Note : « Ce détail a été sans doute prononcé de vive voix en démontrant les parties du tableau. »</p></note>
-<note xml:id="N046" target="#A046"><p>Note : « l'effet. »</p></note>
+
+
 
 </div>
 
@@ -730,32 +718,8 @@ de la lumière, et de celle de la couleur.
 <h1><head><hi rend="bold">1er septembre 1668
 Jean Nocret : <hi rend="it">Le Marquis del Vasto</hi> de Titien</hi></head></h1>
 
-<métadonnée>MANUSCRIT ENSBA, ms. 133.
-PROCÈS-VERBAUX Pas de mention. Il s'agit sans doute de la conférence qui a eu lieu le samedi
-1er septembre 1668 : « Cejourd'hui, l'Académie étant assemblée, les deseins pour le prix ont été
-présentés, mais, la conférence ayant occupé tout le temps, l'on a remis à l'Assemblée suivante» (t. I,
-p. 333, 1er septembre 1668).
-DATATION Le manuscrit est daté au bas de la dernière page par Testelin du 7 septembre 1668.
-Mais il s'agit vraisemblablement d'une datation a posteriori puisque les conférences n'avaient lieu
-que le premier samedi du mois et que les Procès-verbaux mentionnent la tenue d'une conférence au
-1er septembre (voir plus haut). Sur cette datation flottante, voir B. Teyssèdre 1965, n. 5, p. 542.
-RELECTURES 7 août 1694 («lecture d'une conférence, autrefois prononcée par défunt Monsieur
-Nocret, sur un tableau du Titien, représentant le Marquis del Vasto »).
-AUTRE VERSION Le manuscrit 133 de l'ENSBA comporte une version réécrite a posteriori de la
-conférence de Nocret, de la main de Caylus.
-ÉDITIONS Le premier texte du manuscrit 133 a été publié par A. Fontaine 1903, p. 225-230
-et A. Mérot 1996, p. 165-168, à l'exception d'un paragraphe jugé peu lisible et repris de la version
-postérieure.
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 145-146.
-TABLEAU Le tableau de Titien, conservé au musée du Louvre (inv. 754), est considéré aujourd'hui
-moins comme un portrait d'Alphonse d'Avalos, marquis del Vasto, que comme une composition à
-portée allégorique. Il a été acquis des collections Jabach en 1662 (A. Brejon de Lavergnée 1987,
-cat. 54, p. 131-132).</métadonnée>
 
-<pb n="257">
-<figure type="peinture"><head><hi rend="bold">Titien,</hi></head>
-<hi rend="it">Allégorie d'Alphonso Avalos,</hi>
-Paris, musée du Louvre.</figure>
+
 
 <p><pb n="258">
 Messieurs,
@@ -840,12 +804,10 @@ d'un air le plus accompli, il forme dans sa dernière beauté le dieu de l'amour
 Et sur le derrière l'on voit comme une manière de domestique tenant entre ses mains un
 panier de fleurs qu'il semble présenter audit soldat peint d'une manière sombre pour ne
 point entrer en confusion avec les parties supérieures, et plutôt y servir d'ornement.
-<métadonnée> Prononcé à l'Académie le septième jour de septembre 1668 par Monsieur Nocret. H. Testelin</métadonnée>
 
 
-<note xml:id="N047" target="#A047"><p>Ms. : « Titian ».</p></note>
-<note xml:id="N048" target="#A048"><p>Ms. : « étant ».</p></note>
-<note xml:id="N049" target="#A049"><p>Ms. : « Titian ».</p></note>
+
+
 
 </div>
 
@@ -854,7 +816,7 @@ point entrer en confusion avec les parties supérieures, et plutôt y servir d'o
 <h1><head><hi rend="bold">6 octobre et 10 novembre 1668
 Charles Le Brun : L'expression particulière</hi></head></h1>
 
-<métadonnée><p>La conférence de Le Brun sur l'expression, sans doute la plus célèbr e et la plus
+<p>La conférence de Le Brun sur l'expression, sans doute la plus célèbr e et la plus
 lue aujourd'hui de toutes les conférences de l'Académie royale, est la seule à avoir
 été publiée en volume séparé au XVIIe siècle. Elle n'est pas cependant sans soulever
 d'importantes difficultés. Sa date est incertaine, comme le montre J. Montagu
@@ -984,11 +946,7 @@ fait que par le changement des muscles.
 Les muscles n'ont de mouvement que par l'entremise des nerfs qui les lient ce<anchor xml:id="A056" corresp="#N056"/> qui
 passe au travers. Les nerfs n'agissent que par les esprits qui sont contenus dans les
 
-<pb n="264">
-<figure type="planche"><head><hi rend="bold">Jean Andran d'après Charles Le Brun,</hi></head>
-<hi rend="it">Le ris,</hi> planche des <hi rend="it">Expression des passions de l'âme,</hi>
-édition de 1727 de la conférence de Charles Le Brun,
-Paris, ENSBA.</figure>
+
 
 <pb n="265">
 cavités du cerveau, et le cerveau <ne reçoit les><anchor xml:id="A057" corresp="#N057"/> esprits que du sang qui, passant
@@ -1223,73 +1181,6 @@ celle de dessus<anchor xml:id="A091" corresp="#N091"/>.</p>
 <p>Mais si au lieu du mépris l'objet qu'on a admiré cause de l'horreur, alors le sourcil sera
 encore plus enfoncé que dans la première action, la prunelle au lieu d'être située au
 
-<pb n="272">
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">La tristesse,</hi>
-Paris, ENSBA.
-</figure>
-
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">La tranquilité,</hi>
-Paris, ENSBA.
-</figure>
-
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">Le Pleurer,</hi>
-Paris, ENSBA.
-</figure>
-
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">La Frayeur,</hi>
-Paris, ENSBA.
-</figure>
-
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">L'Horreur,</hi>
-Paris, ENSBA.
-</figure>
-
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">Le Mépris et la Haine,</hi>
-Paris, ENSBA.
-</figure>
-
-<pb n="273">
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">L'Attention et l'Estime,</hi>
-Paris, ENSBA.
-</figure>
-
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">L'Etonnement,</hi>
-Paris, ENSBA.
-</figure>
-
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">L'Admiration,</hi>
-Paris, ENSBA.
-</figure>
-
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">La Joye,</hi>
-Paris, ENSBA.
-</figure>
-
-<figure type="schéma"><head><hi rend="bold">Sébastien Le Clerc,
-d'après Charles Le Brun</hi></head>
-<hi rend="it">La Colère,</hi>
-Paris, ENSBA.
-</figure>
 
 <pb n="274">
 milieu de l'œil sera située en en bas, la bouche sera entrouverte, mais plus serrée par le
@@ -1564,72 +1455,7 @@ effets différents que causent les passions selon la divers<ité><anchor xml:id=
 reçoivent.</p>
 
 
-<note xml:id="N050" target="#A050"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N051" target="#A051"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N052" target="#A052"><p>Chez Picart et Jouin : « C'est, Messieurs, ce que j'ai... »</p></note>
-<note xml:id="N053" target="#A053"><p>« leurs opinions » dans le ms. 130.</p></note>
-<note xml:id="N054" target="#A054"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<pb n="282">
-<note xml:id="N055" target="#A055"><p>« réside en » chez Picart et Jouin.</p></note>
-<note xml:id="N056" target="#A056"><p>Jouin donne « et qui passent au travers ».</p></note>
-<note xml:id="N057" target="#A057"><p>Omis dans le ms. 130. Présent chez Picart.</p></note>
-<note xml:id="N058" target="#A058"><p>Ms : « se ratifie » ; « le raréfie » chez Picart.</p></note>
-<note xml:id="N059" target="#A059"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N060" target="#A060"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N061" target="#A061"><p>Le ms. 130 porte « au »</p></note>
-<note xml:id="N062" target="#A062"><p>« ces » chez Picart et Jouin.</p></note>
-<note xml:id="N063" target="#A063"><p>« la » au lieu de « l'âme » dans le ms. 130.</p></note>
-<note xml:id="N064" target="#A064"><p>« le lieu » chez Picart et Jouin.</p></note>
-<note xml:id="N065" target="#A065"><p>Le ms. 130 porte « vacquant ».</p></note>
-<note xml:id="N066" target="#A066"><p>« deux objets au lieu d'un » chez Picart et Jouin.</p></note>
-<note xml:id="N067" target="#A067"><p>« que» chez Picart et Jouin. « ou » dans le ms. 130.</p></note>
-<note xml:id="N068" target="#A068"><p>« en ensuite » dans le ms. 130.</p></note>
-<note xml:id="N069" target="#A069"><p>« ceci ils en font... » dans le ms. 130.</p></note>
-<note xml:id="N070" target="#A070"><p>Omis dans le Ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N071" target="#A071"><p>« acause » dans le ms. 130.</p></note>
-<note xml:id="N072" target="#A072"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N073" target="#A073"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N074" target="#A074"><p>Le copiste du ms. 130 a sauté une ligne et a donné à l'amour la définition de la haine.</p></note>
-<note xml:id="N075" target="#A075"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N076" target="#A076"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N077" target="#A077"><p>Omis dans le ms. 130 et chez Jouin. Présent chez Picart.</p></note>
-<note xml:id="N078" target="#A078"><p>Omis dans le ms. 130. Présent chez Picart.</p></note>
-<note xml:id="N079" target="#A079"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N080" target="#A080"><p>« de part à » chez Picart et Jouin.</p></note>
-<note xml:id="N081" target="#A081"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N082" target="#A082"><p>Omis dans le ms. 130. Présent chez Picart et, dans une formulation quasiment identique, chez Jouin.</p></note>
-<note xml:id="N083" target="#A083"><p>« tiennent » chez Picart et Jouin.</p></note>
-<note xml:id="N084" target="#A084"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N085" target="#A085"><p>Omis dans le ms. 130 et chez Picart. Présent chez Juin.</p></note>
-<note xml:id="N086" target="#A086"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N087" target="#A087"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N088" target="#A088"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N089" target="#A089"><p>Omis chez Picart et Jouin.</p></note>
-<note xml:id="N090" target="#A090"><p>« des » dans le ms. 130.</p></note>
-<note xml:id="N091" target="#A091"><p>« passant un peu celle de dessus » chez Jouin. « excédant celle de dessus » chez Picart.</p></note>
-<note xml:id="N092" target="#A092"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N093" target="#A093"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N094" target="#A094"><p>« l'assurance » chez Picart et Jouin.</p></note>
-<note xml:id="N095" target="#A095"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N096" target="#A096"><p>« le » chez Picart et Jouin.</p></note>
-<note xml:id="N097" target="#A097"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N098" target="#A098"><p>Omis dans le ms. 130. Présent chez Jouin.</p></note>
-<note xml:id="N099" target="#A099"><p>« Douleur aiguë » en marge dans le ms. 130.</p></note>
-<note xml:id="N100" target="#A100"><p>« précédente » chez Picart et Jouin.</p></note>
-<note xml:id="N101" target="#A101"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N102" target="#A102"><p>Omis dans le ms. 130 et chez Jouin. Présent chez Picart.</p></note>
-<note xml:id="N103" target="#A103"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N104" target="#A104"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N105" target="#A105"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N106" target="#A106"><p>Omis dans le ms. 130. Présent chez Picart. Le paragraphe entier manque chez Jouin.</p></note>
-<note xml:id="N107" target="#A107"><p>« un transport de joie » chez Picart et Jouin.</p></note>
-<note xml:id="N108" target="#A108"><p>« se » barré dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N109" target="#A109"><p>« forts et » manquent chez Picart et Jouin.</p></note>
-<note xml:id="N110" target="#A110"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N111" target="#A111"><p>« le désordre » chez Picart et Jouin.</p></note>
-<note xml:id="N112" target="#A112"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N113" target="#A113"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
-<note xml:id="N114" target="#A114"><p>Omis dans le ms. 130. Présent chez Picart et Jouin.</p></note>
+
 
 </div>
 
@@ -1646,29 +1472,6 @@ survienne occasion de manquement. » (<hi rend="it">Procès-verbaux</hi>, t. 1, 
 <h1><head><hi rend="bold">4 janvier 1669
 Nicolas Loir : Le Martyre de saint Étienne du Carrache</hi></head></h1>
 
-<métadonnée>MANUSCRIT ENSBA, ms. 141. Une page de garde ajoutée au XVIIIe siècle porte un commentaire
-de Caylus.
-PROCÈS-VERBAUX Pas de mention.
-DATATION La date est inscrite sur la feuille de titre. La date donnée par Testelin semble fausse
-(voir la note finale).
-AUTRE VERSION 6 juin 1682, par Guillet de Saint-Georges (« quelques abrégés qu'il a faits sur
-trois conférences [... ],l'autre sur le tableau de saint Étienne faite par M. Loir »).
-RELECTURES 1er février 1681 («lecture d'un mémoire qu'a laissé M. Loir sur un tableau du martyre
-de St Étienne ») ; 6 mars 1683 (« deux conférences [... ] l'autre de Monsieur Loir, sur deux tableaux faits
-par le Carrache, et représentant tous deux le martyre de saint Étienne») ; 4 septembre 1694, par Guillet
-de Saint-Georges (« discours qui contient les observations que feu Monsieur Loir a faites sur un t ableau
-de l'Albane d'après les desseins du Carrache [... ] ; ce tableau représente le martyre de saint Etienne »).
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 133, 146, 335-336.
-NOTICE ÉDITORIALE Les nombreuses abréviations ont été résolues.
-TABLEAU Le tableau étudié par Loir, qu'il pense avoir été peint par l'Albane d'après un dessin
-du Carrache, est aujourd'hui plutôt considéré comme un original du second. Il est conservé au
-musée du Louvre (inv. 204). Il a été acquis par le Roi du duc de Montausier vers 1667 (A. Brejon
-<pb n="284">
-de Lavergnée 1987, cat. 357, p. 361-362), gravé pour le Cabinet du Roi par Guillaume Chasteau et
-commenté par Félibien dans les Tab leaux du Cabinet du Roi (Paris, 1677, n° IV).
-REMARQUES Lorsqu'il désigne des éléments du tableau, Loir adopte non pas le point de vue du
-spectateur mais celui du tableau, ce qui a pour effet d'inverser systématiquement la droite et la gauche.
-Cette inversion n'est pas due à la gravure, puisque celle-ci est dans le même sens que le tableau.</métadonnée>
 
 <p>Messieurs,
 Le tableau sur lequel je prétends aujourd'hui faire quelques observations en vos
@@ -1766,11 +1569,7 @@ aux statues antiques, accompagnée de cette belle liberté du naturel, chose que
 les Carrache ont possédée en un degré éminent. Cette observation me confirme que cet
 heureux succès est arrivé par l'usage du modèle d'un corps humain vivant et bien
 
-<pb n="287">
-<figure type="schéma"><head><hi rend="bold">Annibal Carrache,</hi></head>
-<hi rend="it">Le Martyr de saint Étienne,</hi>
-Paris, musée du Louvre.
-</figure>
+
 
 <pb n="288">
 choisi parce qu'après qu'un desseignateur s'est formé le goût dans la grande manière sur
@@ -1950,11 +1749,7 @@ Prononcé par Monsieur Loir en l'assemblée publique du samedi quatrième jour d
 H. Testelin</p>
 
 
-<note xml:id="N115" target="#A115"><p>Ms. : « qu'il ».</p></note>
-<note xml:id="N116" target="#A116"><p>Ms. : « l'accompliment ».</p></note>
-<note xml:id="N117" target="#A117"><p>Ms. : « participant ».</p></note>
-<note xml:id="N118" target="#A118"><p>Ms. : «fonds ».</p></note>
-<note xml:id="N119" target="#A119"><p>Ms. : «fonds ».</p></note>
+
 </div>
 
 <div xml:lang="fr" xml:id="C19" type="conference">
@@ -1963,41 +1758,7 @@ H. Testelin</p>
 <h1><head><hi rend="bold">9 février 1669
 Sébastien Bourdon : Sur la lumière</hi></head></h1>
 
-<métadonnée>MANUSCRIT Perdu.
-AUTRES VERSIONS On possède deux versions plus tardives de cette conférence, l'une de Guillet de
-Saint-Georges (ENSBA, ms. 48), et l'autre de Mariette. La version que nous proposons est celle de
-Guillet (voir plus bas).
-PROCÈS-VERBAUX Pas de mention.
-DATATION Conférence datée par Watelet.
-RELECTURES 7 juin 1681 («lecture du mémoire de Monsieur Bourdon sur la lumière dans les
-différentes heures du jour») ; 8 mai 1683, par Guillet («l'autre sur les six parties du jour pour
-la distribution de la lumière, faite par Monsieur Bourdon ») ; 4 décembre 1694, par Guillet (« un
-discours qui a été autrefois prononcé par Monsieur Bourdon sur les six parties du jour ») ; 4 septembre
-1717 (« discours autrefois prononcé par feu Monsieur Bourdon sur la lumière ») ; 10 mai 1752, par
-Mariette (« M. Mariette, associé libre, a lu une dissertation de M. Bourdon sur la lumière [... ] que
-M. Mariette a mise dans un nouvel ordre »).
-ÉDITIONS La version Mariette de cette conférence a été publiée par C.-H. Watelet, Dictionnaire
-des arts de peinture, sculpture et gravure, Paris, 1788, t. 1, p. 398-415; H. Jouin 1883, p. 122-135;
-A. Mérot 1996, p. 169-180. La version Guillet a été publiée par M. Bornscheuer 2005, p. 534-542.
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 131-137, p. 288 ; Bornscheuer 2005, p. 95-11 7.
-NOTICE ÉDITORIALE Pour l' édition de cette conférence, nous nous sommes fondés sur le manuscrit
-de Guillet de Saint-Georges. Selon son habitude, celui-ci a ajouté en marge du texte quelques notes
-complémentaires d'explication ou de critique. Le texte de la version Mariette, jusqu'à présent le seul
-à avoir été publié, a été « mis dans un nouvel ordre », selon les termes de Mariette lui-même, qui a
-supprimé une bonne partie des correspondances mystiques élaborées par Bourdon. Bien que moins
-lisible, la version de Guillet de Saint-Georges semble conserver une plus grande part du matériau
-d'origine de la conférence de Bourdon, et paraît ainsi plus proche de la pensée de l'auteur. Nous
-avons donc préféré nous y reporter. On verra à la date du 10 mai 1752 la version Mariette de cette
-conférence, ainsi que celle d'une autre conférence de Bourdon (5 juillet 1670), que Mariette lit à la
-suite dans la même séance.
-REMARQUES Après celles de Le Brun sur l'expression générale et sur l'expression particulière,
-cette conférence est la troisième, parmi celles qui sont parvenues jusqu'à nous, à être consacrée à
-un thème et non à l'analyse d'une œuvre. Elle devait être la première (et sera la seule effectivement
-prononcée) d'une série de six conférences que la mort empêchera Bourdon de mener à son terme (voir
-plus haut les remarques sur la conférence du 3 décembre 1667). En 1788, dans le Dictionnaire des
-arts de peinture, sculpture et gravure de Watelet, l'article« Conférences »reproduit seulement deux
-conférences : celle-ci dans la version Mariette et celle d'Oudry du 7 juin 1749 intitulée « Réflexions
-sur la manière d'étudier la couleur ».</métadonnée>
+
 
 <hi rend="it">[Guillet de Saint-Georges]
 Discours de M. Bourdon sur la lumière
@@ -2042,17 +1803,7 @@ et d'Haï. La bataille d'issus, où Alexandre et Darius se trouvèrent pour la p
 fois en présence, celle de Pharsale donnée de Romains contre Romains, celle où les
 
 
-<pb n="295">
-<figure type="peinture"><head><hi rend="bold">Sébastien Bourdon,</hi></head>
-<hi rend="it">L'Enlèvement d'Hélène</hi> [l'aube du jour],
-Rouen, musée des beaux-arts.
-</figure>
 
-<pb n="296">
-<figure type="peinture"><head><hi rend="bold">Sébastien Bourdon,</hi></head>
-<hi rend="it">Le Baptême du Christ</hi> [le soleil levant],
-New York, Metropolitan museum of Art.
-</figure>
 
 <pb n="297">
 Romains cédèrent à la valeur des Parthes et plusieurs autres aussi sanglantes se donnèrent 
@@ -2114,18 +1865,7 @@ recouvrirent la terre en signe de détestation, et que le soleil demeura obscurc
 cacher cet acte exécrable. M. Bourdon inféra de cette remarque qu'on choquerait le bon
 sens si on faisait servir des temps égayés pour exprimer un sujet de désolation.</p>
 
-<pb n="299">
-<figure type="peinture"><head><hi rend="bold">Sébastien Hourdon,</hi></head>
-<hi rend="it">Le Massacre des Innocents</hi> [la matinée].
-Turin, Galleria Sabanda.
-</figure>
 
-<pb n="300">
-<figure type="peinture"><head><hi rend="bold">Sébastien Bourdon,</hi></head>
-<hi rend="it">Abraham et les trois anges</hi> [le midi].
-Saint-Germain-en-Laye.
-musée municipal.
-</figure>
 
 <pb n="301">
 <head><hi rend="bold">[Le midi]</hi></head>
@@ -2159,18 +1899,7 @@ avec de grands succès.
 Il dit ensuite qu'il n'insisterait pas longtemps sur cette partie du jour de crainte que
 les élèves ne se laissassent trop éblouir à ses charmes et ne se fissent une habitude
 
-<pb n="302">
-<figure type="peinture"><head><hi rend="bold">Sébastien Bourdon,</hi></head>
-<hi rend="it">Paysage avec retour de l'Arche de l'alliance</hi>
-[l'après-midi].
-Londres, National Gallery.
-</figure>
 
-<pb n="303">
-<figure type="peinture"><head><hi rend="bold">Sébastien Bourdon,</hi></head>
-<hi rend="it">La Sainte Famille au lavoir</hi> [le couchant].
-Brest, musée des beaux-arts.
-</figure>
 
 <pb n="304">
 d'employer cette sorte de lumière dans tous leurs sujets. Il blâma ceux qui se bornent
@@ -2207,8 +1936,7 @@ pour satisfaire à l'étroite amitié qui nous a joints ensemble jusqu'au dernie
 de sa vie.</p>
 
 
-<note xml:id="N120" target="#A120"><p>Cette dernière phrase a été ajoutée ultérieurement par Guillet lui-même.</p></note>
-<note xml:id="N121" target="#A121"><p>Ms. : « Caravache ».</p></note>
+
 
 </div>
 
@@ -2218,28 +1946,6 @@ de sa vie.</p>
 <h1><head><hi rend="bold">2 mars 1669
 Philippe de Champaigne : <hi rend="it">La Vierge à l'Enfant</hi> de Raphaël</hi></head></h1>
 
-<métadonnée> MANUSCRIT ENSBA, ms. 134.
-PROCÈS- VERBAUX Pas de mention.
-DATATION Le manuscrit est daté sur la page de garde ainsi qu'au bas de la dernière page (inscription
-de Testelin).
-RELECTURES 3 mai 1681 (« lecture a été faite d'une [conférence] de Monsieur de Champaigne, du
-2emars 1669, sur un tableau d'une Vierge de Raphaël»).
-AUTRE VERSION Dans le même manuscrit 134 se trouve une autre version de la conférence de
-Champaigne, rédigée par Caylus, publiée par A. Fontaine 1903, p. 219-224.
-ÉDITIONS A. Fontaine 1903, p. 90-96; L. Marin 1995, p. 376-378.
-BIBLIOGRAPHIE L. Hourticq, De Poussin à Watteau, ou des origines de l'école parisienne de
-peinture, Paris, 1921, p. 194-195; B. Teyssèdre 1965, p. 127-128 et 137.
-TABLEAU Aujourd'hui attribué à Giulio Romano et intitulé la Petite sainte Famille, (musée du
-Louvre, inv. 605) ce tableau a été acquis de Loménie de Brienne en 1663 (A. Brejon de Lavergnée
-1987, cat. 118, p. 174-175).
-REMARQUES Peut-être Champaigne a-t-il choisi ce tableau pour attirer l'attention des élèves sur les
-défauts qui résultent de la collaboration de plusieurs peintres à la réalisation d'un même ouvrage.
-Les fautes dans l'emploi des couleurs (la lumière qui éclaire le bosquet au-dessus des personnages
-semble différente de celle qui baigne le reste du tableau) et surtout les fautes de dessin (la jambe
-droite de Jean-Baptiste, la position des jambes du Christ, la pied de la Vierge) l'amènent à considérer
-ce tableau comme ayant été peint par Jules Romain et un ou plusieurs collaborateurs sous la direction
-de Raphaël. On notera ici une inflexion intéressante pour justifier les libertés prises avec l'Histoire :
-l'inscription de cette œuvre dans la tradition des ex-voto.</métadonnée>
 
 <p>Messieurs,
 <hi rend="bold">[La lumière]</hi>
@@ -2256,11 +1962,7 @@ des parties de son art, et qu'il faut absolument qu'elles fassent chez lui en to
 une agréable harmonie qui soit capable de contenter l'œil, de même qu'une
 musique bien concertée contente l'oreille.</p>
 
-<pb n="306">
-<figure type="peinture"><head><hi rend="bold">Giulio Romano,</hi></head>
-<hi rend="it">La Petite Sainte Famille.</hi>
-Paris. musée du Louvre.
-</figure>
+
 
 <pb n="307">
 <head><hi rend="bold">[Les figures]</hi></head>
@@ -2299,11 +2001,7 @@ vivantes, et l'on doit rapporter ce merveilleux effet à la justesse et à la si
 expressions du maître qui, certes avec grande justice, a porté le nom de l'ange Raphaël
 (qui signifie médecine de Dieu), puisqu'il a ouvert nos yeux et guéri nos esprits de
 
-<pb n="308">
-<figure type="estampe"><head><hi rend="bold">Giovianni Jacopo Caraglio, d'après Giulio Romano,</hi></head>
-<hi rend="it">Vierge à L'Enfant,</hi>
-Paris, BNF, département des Estampes.
-</figure>
+
 
 <pb n="309">
 la maladie de cette manière gothique et barbare qui, jusques à lui, avait régné plus
@@ -2366,18 +2064,7 @@ Prononcé en l'assemblée de l'Académie le deuxième jour de mars 1669 par M. d
 <h1><head><hi rend="bold">6 avril 1669
 Jean Nocret : <hi rend="it">La Vierge à l'Enfant</hi> et saint Jean de Raphaël</hi></head></h1>
 
-<métadonnée> MANUSCRIT ENSBA, ms. 135.
-PROCÈS- VERBAUX Pas de mention.
-DATATION Le manuscrit est daté au bas de la dernière page par Testelin.
-RELECTURE 6 juin 1682, par Guillet (« la troisième [conférence] sur le tableau de Raphaël,
-représentant la Vierge et l'Enfant Jésus, faite par Monsieur Nocret ») ; 9 avril 1695, par Guillet
-(« discours qui a été autrefois prononcé par feu Monsieur Nocret, adjoint-recteur, sur un tableau de
-Raphaël qui représente l'enfant Jésus, la Vierge et saint Jean »).
-AUTRE VERSION Ce même manuscrit 135 contient une autre version de la conférence de Nocret,
-écrite par Caylus.
-TABLEAU L'œuvre étudiée est la Belle Jardinière du musée du Louvre (inv. 602). Le tableau provient
-sans doute des collections de François 1er (A. Brejon de Lavergnée 1987, cat. 1, p. 84) et a été gravé
-pour1e Cabinet du Roi par Gilles Rousselet.</métadonnée>
+ 
 
 <pb n="311">
 <head><hi rend="it">Discours de M. Nocret sur un tableau de Raphaël
@@ -2418,11 +2105,7 @@ d'autres endroits particuliers, lesquels ne sauraient être trop estimés, et je
 que c'est beaucoup de justice de leur donner ce qu'ils ont pu espérer par leurs mérites.
 Je ne prétends point, en élevant celui qui, à mon sens, a mérité la palme en matière de
 
-<pb n="312">
-<figure type="peinture"><head><hi rend="bold">Raphaël,</hi></head>
-<hi rend="it">La Vierge à l'Enfant et saint Jean.</hi>
-Paris. musée du Louvre.
-</figure>
+
 
 <pb n="313">
 peinture, abaisser les droits qui sont dus à tous ces illustres maîtres, mais vous me
@@ -2510,7 +2193,7 @@ grâces que sa naissance lui a données et que, pour le peu de temps qu'il a vé
 voir qu'il était le seul capable de posséder toutes les plus nobles parties de cet art.
 Prononcé en l'Académie par Monsieur Nocret, le 6e avril 1669</p>
 
-<note xml:id="N122" target="#A122"><p>Titre ajouté après coup de la main de Guillet de Saint-Georges.</p></note>
+
 
 </div>
 
@@ -2558,7 +2241,7 @@ essayer de les résoudre, établir un corpus de règles.</p>
 
 <h1><head><hi rend="bold">Mai 1669 (?)
 Charles Le Brun : Sur la proportion des antiques</hi></head></h1>
-<métadonnée><p>Bien qu'aucune conférence de Le Brun ne soit mentionnée pour l'année 1669,
+<p>Bien qu'aucune conférence de Le Brun ne soit mentionnée pour l'année 1669,
 il est toutefois peu probable que celui-ci ait été à l'origine de l'interruption des
 conférences, dont Colbert se plaint au mois d'août. Il n'aurait guère pris le risque
 de déplaire ainsi à son protecteur. L'on est d'autant plus mal informé sur les
@@ -2600,11 +2283,7 @@ qui avait appartenu à Fouquet. Les moulages en plâtre des statues antiques ét
 difficiles à déplacer, on peut supposer que la séance s'est tenue dans la Salle des
 antiques qui se trouvait alors à l'hôtel Brion, où était aussi le siège de l'Académie.</p>
 
-<pb n="318">
-<figure type="planche"><head><hi rend="bold">Henry Testelin,</hi></head>
-<hi rend="it">Exemple touchant les proportions et les contours,</hi>
-planche des <hi rend="it">Sentiments des plus habiles peintres,</hi>
-1680, Paris, ENSBA.</figure>
+
 
 <pb n="319">
 <p>Ce n'est en effet que le 7 novembre 1671 que furent remis à l'Académie, sur ordre
@@ -2698,33 +2377,6 @@ les petites parties doivent céder aux plus grandes qui servent aux mouvements.
 <h1><head><hi rend="bold">9 novembre 1669
 Michel Anguier : L'Hercule Farnèse</hi></head></h1>
 
-<métadonnée>MANUSCRIT Nous disposons de trois manuscrits : deux à l'ENSBA, ms. 136 (un manuscrit d'origine
-et une version réécrite par Guillet de Saint-Georges) et un à la BNF, ms. N.a.f. 10936, fol. 1-41. Une
-page de garde ajoutée au XVIIIe siècle porte un commentaire de Caylus 1.
-PROCÈS-VERBAUX «Il est échu à Monsieur Anguier d'entrer dans ladite charge dont il a pris rang
-et séance et a promis volontairement de faire l'ouverture de la conférence publique au premier jour
-destiné pour cet effet » (t. I, p. 343, 7 octobre 1669).
-DATATION La date est donnée par les Procès-verbaux.
-RELECTURES 3 avril 1683, par Guillet (« a été faite la lecture d'une conférence prononcée cidevant 
-par M. Anguier en novembre 1669 ») ; 7 mai 1695, par Guillet (« discours fait par [le] défunt
-Monsieur Anguier sur l'Hercule, fait par Glycon, Athénien, ce qui a servi de sujet d'entretien») ;
-6 juin 1716, par Tavernier(« un discours autrefois prononcé dans l'Académie par Monsieur Anguier
-sur la figure de l'Hercule faite par Glycon, Athénien ») ; 6 mars 1728, par Tavernier (« une ancienne
-conférence de l'année 1669, où M. Anguier prononça un discours fort élégant sur la figure de
-l'Hercule de Glycon »).
-ÉDITIONS H. Stein 1889; p. 527-609; H. van Helsdingen 1983, p. 75-118.
-NOTICE ÉDITORIALE Pour l'édition de cette conférence, nous avons choisi d'utiliser la version du
-manuscrit ENSBA qui est datée à la fin par Testelin (ms. 136). Ont été mentionnées en notes les
-variantes significatives ou les additions de la seconde version de l'ENSBA (ms. 136) et du manuscrit
-de la BNF. Dans le manuscrit de l'ENSBA, Anguier emploie tantôt le terme de température et tantôt
-celui de tempérament ; les deux termes sont synonymes et renvoient à la théorie hippocratique
-et galénique des humeurs. Nous avons préféré unifier le vocabulaire et ne garder que le terme de
-tempérament, comme le copiste du manuscrit de la BNF.
-SCULPTURE Mentionnée au palais Farnèse dès le milieu du XVIe siècle, l'œuvre étudiée est aujourd'hui
-conservée au musée national de Naples. Un modèle en plâtre était conservé à l'Académie royale
-depuis mai 1668. Voir F. Haskell, N. Penny 1981, cat. 46, p. 229-232.
-REMARQUE Anguier avait remis comme morceau de réception à l'Académie un groupe de terre-cuite
-représentant Hercule et Atlas soutenant le Globe terrestre (Paris, musée du Louvre, MR 3516).</métadonnée>
 
 <head><hi rend="it">Conférence du samedi neuvième novembre 1669</hi></head>
 <p>Messieurs,
@@ -2734,22 +2386,7 @@ véritables études que les savants scu lpteurs et peintres possédaient de son 
 Art. 1. Premièrement, nous parlerons du tempérament, étude très nécessaire pour bien
 faire les airs des visages, la forme du poil, la force et douceur des muscles, la façon des
 
-<pb n="324">
-<figure rend="planche"><head><hi rend="bold">François Perrier,</hi></head>
-<hi rend="it">Hercule Farnèse,</hi> planche des
-<hi rend="it">Segmenta nobilium signorum et statuarum</hi>, 1638,
-Paris, ENSBA.
 
-<figure type="planche"><head><hi rend="bold">Anonyme, d'après Charles Errard,</hi></head>
-<hi rend="it">Statue de L'Hercule Farnèse</hi>, planche de <hi rend="it">L'Anatomia
-per uso et intelligenza del disegno</hi> de Bernardino Genga
-et Giovanni Maria Lancisi, 1690, Paris, ENSBA.
-</figure>
-
-<figure type="planche"><head><hi rend="bold">Michel Anguier,</hi></head>
-<hi rend="it">Hercule et Atlas soutenant le globe terrestre,</hi>
-Paris, musée du Louvre.
-</figure>
 
 <pb n="325">
 draperies, et vous ferai voir comme toutes les parties de cette figure correspondent au
@@ -3227,11 +2864,7 @@ de Monseigneur Colbert, la force de notre protection et de tous les princes et p
 amateurs du beau dessing.
 Et vous, Messieurs, qui, tous les jours, pratiquez cette vertu honorable par la force de
 
-<pb n="337">
-<figure type="estampe"><head><hi rend="bold">Michel Corneille d'après Raphaël,</hi></head>
-<hi rend="it">Le Massacre des Innocents,</hi>
-BNF, Département des Estampes.
-</figure>
+
 
 <pb n="338">
 votre grand dessing, vous remplissez les grands palais de vos illustres œuvres.
@@ -3293,29 +2926,7 @@ voyons par tant de si beaux et rares tableaux.
 Prononcé à l'Assemblée de l'Académie du neuvième novembre 1669 par Monsieur Anguier. H. Testelin</p>
 
 
-<note xml:id="N123" target="#A123"><p>Addition BNF, en marge : « Ce discours a été récité en présence de la figure de Glycon. »</p></note>
-<note xml:id="N124" target="#A124"><p>Addition ENSBA, ms. 136 : « et combattre ».</p></note>
-<note xml:id="N125" target="#A125"><p>Addition BNF, en marge : « Pluton fait par l'auteur de ce discours. » Sur cette statue d'Anguier, voir la conférence de son auteur (voir plus bas, 1er août 1676). On se reportera également à l'ouvrage de B. Black, H. W. Nadeau, <hi rend="it">Michel Anguier's Pluto. The Marble of 1669. New Light on the French ScuLptor's Career,</hi> Londres, 1990.</p></note>
-<note xml:id="N126" target="#A126"><p>Addition ENSBA, ms. 136 : « desséchée ».</p></note>
-<note xml:id="N127" target="#A127"><p>Addition BNF, en marge: « Aristote dans un de ses <hi rend="it">Problèmes</hi> dit que les petites têtes ont beaucoup de prudence. »</p></note>
-<note xml:id="N128" target="#A128"><p>Addition BNF : « pectoraux. »</p></note>
-<note xml:id="N129" target="#A129"><p>Addition ENSBA, ms. 136 : « Hippocrate dit qu'il faut estimer la nature des os par la grosseur de la tête».</p></note>
-<note xml:id="N130" target="#A130"><p>Addition ENSBA, ms. 136 : « humides ».</p></note>
-<note xml:id="N131" target="#A131"><p>Addition BNF, en marge : « Le fleuve du Nil au Belvédère à Rome. »</p></note>
-<note xml:id="N132" target="#A132"><p>Variante BNF: « subtilité. »</p></note>
-<note xml:id="N133" target="#A133"><p>En marge: « Des veines. »</p></note>
-<note xml:id="N134" target="#A134"><p>Ms. : « elles », ainsi que pour les pronoms de la phrase suivante.</p></note>
-<note xml:id="N135" target="#A135"><p>Première version modifiée : « 6 p. ».</p></note>
-<note xml:id="N136" target="#A136"><p>Ms. 136 : « 1 m. ».</p></note>
-<note xml:id="N137" target="#A137"><p>Ms. 136 : « p. 4 1/4 ».</p></note>
-<note xml:id="N138" target="#A138"><p>Ms. 136 : «Longueur de la main».</p></note>
-<note xml:id="N139" target="#A139"><p>Variante ENSBA, ms. 136 : « largeur».</p></note>
-<note xml:id="N140" target="#A140"><p>Variante ENSBA, ms. 136 : « largeur».</p></note>
-<note xml:id="N141" target="#A141"><p>Variante BNF : « de mes amis. »</p></note>
-<note xml:id="N142" target="#A142"><p>Ms. 136 : « Guizi ».</p></note>
-<note xml:id="N143" target="#A143"><p>Variante BNF: «Académie royale. »</p></note>
-<note xml:id="N144" target="#A144"><p>Addition ENSBA, ms. 136 : « jusqu'au ciel ».</p></note>
-<note xml:id="N145" target="#A145"><p>Première version rayée : « tête ».</p></note>
+
 </div>
 
 <div xml:lang="fr" xml:id="C24" type="conference">
@@ -3324,23 +2935,6 @@ Prononcé à l'Assemblée de l'Académie du neuvième novembre 1669 par Monsieur
 <h1><head><hi rend="bold">7 décembre 1669
 Gaspard Marsy : Le <hi rend="it">Torse d'Hercule</hi> d'Hérodote</hi></head></h1>
 
-<métadonnée>MANUSCRIT ENSBA, ms. 137. L'exorde de la conférence figure sur une page à part ; nous l'avons
-intégré à sa place. Une page de garde ajoutée au XVIIIe siècle porte un commentaire de Caylus.
-PROCÈS-VERBAUX « Ce même :jour, Monsieur Marsy a été rétabli à la charge de professeur, dont
-il a promis de faire l'exercice dans le mois de décembre, prenant le rang et séance selon le temps de
-sa première réception en ladite charge, promettant aussi volontairement de faire l'ouverture de la
-conférence au mois de décembre» (t. I, p. 343-344, 7 octobre 1669).
-DATATION La date est inscrite à la :fin_du texte, de la main de Testelin.
-RELECTURE 2 juillet 1695, par Guillet (« conférence autrefois prononcée par feu M. de Marsy en
-cette académie »).
-AUTRE VERSION Le manuscrit ENSBA ms. 137 contient une autre version, postérieure., de la
-conférence de Marsy, de la main de Caylus.
-ÉDITIONS T. Hedin 1983, p. 238-239.
-SCULPTURE La sculpture dont parle Marsy dans sa conférence, le «Torse du Belvédère», est
-conservée au Vatican (voir F. Haskell, N. Penny 1981, cat. 80, p. 311-314). Le marbre porte l' inscription 
-ATIO/\/\.O.N N AGH ETIOI El- ce qui explique que l'erreur sur le nom
-du sculpteur préalablement envisagé (Hérodote) ait été corrigée par des ratures postérieures dans le
-manuscrit. Un plâtre de la sculpture se trouvait à l'Académie de France à Rome (Ibid., p. 313).</métadonnée>
 
 <p>Messieurs,
 J'eus l'honneur de vous dire, il y a huit jours, combien j'avais fait d'efforts pour me
@@ -3359,10 +2953,6 @@ j'ai appris qu'ils ont remarqué quatre grandes manières de sculpture pratiqué
 les Grecs, auteurs de toutes les belles choses et surtout de l'architecture, sculpture, et
 peinture, qui sont trois sœurs.
 
-<pb n="341">
-<figure type="sculpture"><head><hi rend="it">Torse du Belvédère,</hi></head>
-Rome. musée du Vatican.
-</figure>
 
 <pb n="342">
 La première qui nous regarde touchant le dessing, ou autrement la membrification,
@@ -3421,15 +3011,9 @@ Vous suppliant, Messieurs, de me pardonner ce qui serait glissé dans mon discou
 ne serait pas conforme à vos sentiments, auxquels je me soumettrai toujours, et dès à
 présent avec la soumission respectueuse que je dois à vos suffisances et à vos grandes
 lumières.
-<métadonnée>
-Prononcé à l'Assemblée publique du [blanc] décembre 1669 par Monsieur Marsy. H. Testelin</métadonnée></p>
+Prononcé à l'Assemblée publique du [blanc] décembre 1669 par Monsieur Marsy. H. Testelin</p>
 
-<note xml:id="N146" target="#A146"><p>Ms. : « Bonarota ».</p></note>
-<note xml:id="N147" target="#A147"><p>Le manuscrit comporte ici une rature remplaçant « Hérodote » par « Apollonius ».</p></note>
-<note xml:id="N148" target="#A148"><p>« les défauts » est rayé dans le manuscrit, mais nous le rétablissons afin de donner un sens à la phrase.</p></note>
-<note xml:id="N149" target="#A149"><p>Ajout au-dessus du segment de phrase : « de Corinthe».</p></note>
-<note xml:id="N150" target="#A150"><p>Nouvelle rature remplaçant « Hérodote » par « Apollonius ».</p></note>
-<note xml:id="N151" target="#A151"><p>Ms. : « Corregio ».</p></note>
+
 
 </div>
 
@@ -3440,7 +3024,7 @@ Prononcé à l'Assemblée publique du [blanc] décembre 1669 par Monsieur Marsy.
 Charles Le Brun : Sur la manière que l'écolier devait prendre
 pour dessiner à l'Académie</hi></head></h1>
 
-<métadonnée><p>Le premier semestre de l'année 1670 a surtout été consacré à une réflexion sur
+<p>Le premier semestre de l'année 1670 a surtout été consacré à une réflexion sur
 l'enseignement du dessin. Toutes les conférences ont été conservées à l'exception
 de celle du mois de janvier. Celle-ci n'est pas mentionnée dans les <hi rend="it">Procès-verbaux</hi>,
 mais, le 5 juillet 1670, Bourdon évoque « l'ouverture que Monsieur Le Brun fit
@@ -3509,24 +3093,7 @@ le même jour de la conférence, pour être datés et mis en la liasse des regis
 Noël Coypel : Le discernement à faire du génie des étudiants et
 sur la manière de prononcer les ombres</hi></head></h1>
 
-<métadonnée>MANUSCRIT ENSBA, ms. 175. Une page de garde ajoutée au XVIII e siècle porte un commentaire
-de Caylus.
-PROCÈS-VERBAUX Pas de mention.
-DATATION Le manuscrit ne comporte ni date ni signature de Testelin. Il peut être daté grâce à
-l'édition de Carême.
-RELECTURE 4 octobre 1681 (annoncée le 6 septembre 1681, « on a remis la lecture du mémoire
-de Monsieur Coypel au jour suivant) ; 12 juin 1683 (« lectu re d'une conférence autrefois faite par
-Monsieur Coypel ») ; 6 novembre 1717 (« dissertation autrefois faite et prononcée par feu Monsieur
-Coypel»).
-ÉDITIONS Une copie du manuscrit ayant appartenu à Carême, et datée de février 1670 a été publiée
-dans les Amusements du cœur et de l'esprit, deuxième partie (1741), p. 455-472, puis r ééditée dans
-la Revue Univers elle des Arts, XVIII, 1863, p. 336-344.
-NOTICE ÉDITORIALE Le manuscrit de l'École des Beaux-Arts est plus complet que l' édition du
-XVIII e siècle, qui omet des membres de phrases et propose quelques lectures fautives ; mais il
-comprend lui-aussi quelques lacunes que nous avons comblées en nous servant du t exte imprimé.
-Ces adjonctions sont signalées par @...@, et accompagnées de notes philologiques.
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 137-142, 149-150 ; H. van Helsdingen, «Body and soul in
-french art theory of the seventeenth century after Descartes », Simiolus, XI, 1980, p. 14-22.</métadonnée>
+
 
 <p>Messieurs,
 Lorsque pour satisfaire à l'intention de Monsieur notre protecteur, lequel témoigna
@@ -3614,10 +3181,7 @@ il est assuré que le chemin en sera toujours très long et souvent incertain, p
 l'expérience @nous a fait connaître@<anchor xml:id="A158" corresp="#N158"/> qu'il y a eu des jeunes gens qui, par la facilité
 et bonne disposition qu'ils ont eues de concevoir les enseignements qui leur ont été
 
-<pb n="349">
-<figure type="estampe"><head><hi rend="bold">Noël Coypel,</hi></head>
-<hi rend="it">Académie,</hi>
-Paris, ENSBA.</figure>
+
 
 <pb n="350">
 donnés, ont fait en peu de temps un progrès considérable dans la manière à laquelle ils
@@ -3808,23 +3372,7 @@ dans son étendue générale.
 Si j'ai avancé quelques propositions qu i ne soient pas conformes au sentiment de la
 Compagnie, je les soumets à sa prudence avec tout le respect que je dois avoir pour elle.</p>
 
-<note xml:id="N152" target="#A152"><p>Mot ajouté dans le texte publié.</p></note>
-<note xml:id="N153" target="#A153"><p>« professeur » a été rayé et remplacé par « recteur ».</p></note>
-<note xml:id="N154" target="#A154"><p>Mot ajouté dans le texte publié.</p></note>
-<note xml:id="N155" target="#A155"><p>Mot ajouté dans le texte publié.</p></note>
-<note xml:id="N156" target="#A156"><p>Ms. : « avant que faire »</p></note>
-<note xml:id="N157" target="#A157"><p>Ms. : « soit beaucoup de cette disposition »</p></note>
-<note xml:id="N158" target="#A158"><p>« nous a fait connaître » oublié dans le ms.</p></note>
-<note xml:id="N159" target="#A159"><p>Ms.: « n'ont pas fait ».</p></note>
-<note xml:id="N160" target="#A160"><p>Mot a jouté dans la version publiée.</p></note>
-<note xml:id="N161" target="#A161"><p>Ms. : « la comparaison ».</p></note>
-<note xml:id="N162" target="#A162"><p>Ms. : « différents ».</p></note>
-<note xml:id="N163" target="#A163"><p>Toujours orthographié : « Carrace » dans le manuscrit.</p></note>
-<note xml:id="N164" target="#A164"><p>Ms. : « la forme».</p></note>
-<note xml:id="N165" target="#A165"><p>Ms. : « désignent».</p></note>
-<note xml:id="N166" target="#A166"><p>Adjonction dans le texte publié : « Je veux dire que le terme de l'ombre soit prescrit sans être arrondi. »</p></note>
-<note xml:id="N167" target="#A167"><p>Adjonction dans le texte publié : « leur permettant de finir ou d'arrondir un peu plus en leur montrantla méthode nécessaire. »</p></note>
-<note xml:id="N168" target="#A168"><p>Ms. : « avec par».</p></note>
+
 
 </div>
 
@@ -3834,38 +3382,7 @@ Compagnie, je les soumets à sa prudence avec tout le respect que je dois avoir 
 <h1><head><hi rend="bold">1er mars 1670
 Jean-Baptiste de Champaigne : <hi rend="it">La Peste d'Asdod</hi> de Poussin</hi></head></h1>
 
-<métadonnée>MANUSCRIT ENSBA, ms. 138.
-AUTRE VERSION ENSBA, ms. 138. Ce manuscrit contient une seconde version, considérablement
-étendue, de la main de Guillet, écrite sans doute en 1683, qui sera publiée à cette date.
-PROCÈS-VERBAUX Pas de mention.
-DATATION La date est inscrite sur la page de garde du manuscrit.
-RELECTURE 6 septembre 1681 («mémoire de Monsieur Champaigne sur le tableau du Poussin
-sur la maladie qui arriva aux Philistins pour avoir pris l'Arche d'Alliance »); 3 juillet 1683 («La
-conférence, qui a servi d'entretien cejourd'hui, a été celle de M. de Champaigne, qu' il a autrefois
-faite sur un tableau de Monsieur Poussin, au sujet de l'Arche d'Alliance prise par les Philistins ») ;
-6 août 1695 par Guillet (« discours autrefois fait par Monsieur de Champaigne, le neveu, sur le
-tableau du Poussin, représentant !"'Arche d'Alliance, pour servir de sujet d'entretien») ; 3août 1715,
-par Tavernier (« dissertation faite autrefois par Monsieur de Champaigne, le neveu, sur le tableau
-de M. Poussin qui représente la Peste »).
-ÉDITION Cette conférence a été éditée par A. Fontaine 1903, p. 112-115, qui l'associe à la version
-de Guillet.
-BIBLIOGRAPHIE B. Teyssèdre 1965 p. 126-127.
 
-<pb n="356">
-<figure type="peinture"><head><hi rend="bold">Nicolas Poussin,</hi></head>
-<hi rend="it">La Peste d'Asdod,</hi>
-Paris, musée du Louvre.</figure>
-
-<pb n="357">
-<figure type="estampe"><head><hi rend="bold">Jean-Baptiste de Champaigne,</hi></head>
-<hi rend="it">Académie,</hi>
-Paris, ENSBA.
-</figure>
-
-<pb n="358">
-TABLEAU Le tableau de Poussin, peint vers 1630, a été acquis par le roi du duc de Richelieu en
-1665 (A. Brejon de Lavergnée 1987., cat. 165, p. 220-221). Il a été gravé pour le <hi rend="it">Cabinet du Roi</hi> par
-Étienne Picart.</métadonnée>
 
 <p>Je ne puis, Messieurs, proposer un sujet mieux exprimé qu'est celui où Monsieur
 Poussin a traité de l'histoire de l'Arche d'Alliance, qui causa après sa prise par les
@@ -3902,7 +3419,7 @@ propre caprice, avant de s'être rendus capables de le pouvoir faire avec raison
 laisse, Mess.ieurs, au zèle que vous avez pour l'avancement de la jeunesse de résoudre
 en public sur ce sujet ce que vous avez souvent agité en particulier, et d'établir une
 convenance gér.iérale de la manière de les enseigner.
-<métadonnée> Prononcé par Monsieur de Champaigne neveu, cejourd'hui premier jour de mars 1670. H. Testelin</métadonnée>
+
 
 </div>
 
@@ -3911,39 +3428,12 @@ convenance gér.iérale de la manière de les enseigner.
 <h1><head><hi rend="bold">12 avril 1670
 Louis de Boullongne : <hi rend="it">La Vierge au lapin</hi> de Titien</hi></head></h1>
 
-<métadonnée> MANUSCRIT ENSBA, ms. 139.
-AUTRE VERSION ENSBA, ms. 176. On trouvera cette nouvelle version, rédigée par Guillet, à la
-date de 1683 : les objections faites par la Compagnie sont san s doute, pour certaines d'entre elles,
-datables de 1670. On les trouvera ici en note.
-PROCÈS- VERBAUX « Monsieur Boullongne a proposé le suj et de sa conférence et, considérant que
-samedi prochain est la veille de Pâques, la Compagnie, suivant l'ordre des délibérations précédentes,
-a résolu que l'Assemblée sera remise au samedi suivant » (t. I, p. 348, 29 mars 1670).
-DATATION La date peut être déduite des Procès-verbau.x.
-RELECTURES 7 août 1683, par Guillet(« conférence, autrefois faite par Monsieur Boullongne su r
-un tableau du Titien r eprésentant la Vierge, le p etit Jésus et une sainte Catherine avec un petit lapin
-blanc ») ; 1er octobre 1695, par Guillet(« un discours, autrefois prononcé par fonsieur Boullongne
-père, sur un tableau du Titien, représentant une Vierge qui reçoit le p etit Jésu s des mains de sainte
-Catherine, ce qui a servi de sujet d'entretien») ; 2 mai 1716, par Tavernier(« discours fait autrefois
-et prononcé à l'Académie par feu Monsieur Boullongne»); 7 août 1728, par Dubois(« un discours
-de M. de Boullongne le père sur la Vierge au lapin du Titien »).
-ÉDITIONS Seul le résumé de Guillet de Saint-Georges a été jusqu'à présent publié (Mémoires inédits,
-1854, t. I, p. 205-211 ; H. Jouin 1883, p. 207-214 ; A. Mérot 1996, p. 181-187).
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 133, 141, 147-148, 248, 338-339.
-NOTICE ÉDITORIALE Boullongne a insér é quelques titres que nous transcrivons en les complétant.
-Nous avons dû intervertir à l'occasion articles possessifs et démonstratifs pour rétablir le sens du
-propos.
-TABLEAU Le tableau, autrefois dans les collections des Gonzague à Mantoue, est entré dans celles
-du cardinal de Richelieu en 1627. Il a été acquis par le Roi du duc de Richelieu en 1665 (A. Brejon de
-Lavergnée 1987, cat. 157, p. 211-212). Il est aujourd' hui conservé au musée du Louvre (inv. 743).</métadonnée>
+
 
 <p>Messieurs, puisque Sa Majesté et Monseigneur Colbert nous ont ordonné de tenir
 des conférences sur les tableaux du cabinet, qu'on a cru judicieusement que cette
 méthode, allant droit à l'imagination des élèves qui travaille ordinairement plus que
 
-<pb n="360">
-<figure type="peinture"><head><hi rend="bold">Titien,</hi></head>
-<hi rend="it">La Vierge au lapin.</hi>
-Paris, musée du Louvre.</figure>
 
 <pb n="361">
 leur esprit, serait plus courte pour l'instruction des disciples et qu'ainsi, profitant des
@@ -4086,11 +3576,7 @@ les corriger. Je suis de même avis que ceux qui m'ont précédé dans ces conf�
 mais aussi, suivant votre meilleur avis, qu'il ne faut pas qu'ils s'attachent si exactement 
 à copier le modèle, [de] crainte qu'ils ne se fassent une manière mesquine qui les
 
-<pb n="365">
-<figure type="estampe"><head><hi rend="bold">Louis de Boullongne,</hi></head>
-<hi rend="it">Hercule et l'hydre de Lerne.</hi>
-Paris.
-</figure>
+
 
 <pb n="366">
 empêcherait de donner quelque goût à leurs desseins et académies.
@@ -4141,38 +3627,18 @@ qu'un peintre doit être aussi fidèle en ses représentations que l'historien e
 et tous deux très jaloux de la pureté et vérité des histoires sacrées, la peinture
 pouvant instruire l'esprit aussi bien que le divertir.</p>
 
-<note xml:id="N169" target="#A169"><p>Ms. : « Fra Sebastiano del Piomb ».</p></note>
-<note xml:id="N170" target="#A170"><p>Correction postérieure sur le manuscrit : « renflements ».</p></note>
-<note xml:id="N171" target="#A171"><p>Ms. : « Gorgon>>, corrigé en « Georgeon ».</p></note>
-<note xml:id="N172" target="#A172"><p>Ms. : « l'os coronel ».</p></note>
-<note xml:id="N173" target="#A173"><p>Ce paragraphe figure sur une feuille détachée. Il semble que sa place soit ici.</p></note>
-<note xml:id="N174" target="#A174"><p>Ms. : «Fra Sébastien del Piomb ».</p></note>
-<note xml:id="N175" target="#A175"><p>Ms. : « Ridolfe ».</p></note>
+
 </div>
 
 <div xml:lang="fr" xml:id="C28" type="conference">
 
-<pb n="368">
-<figure type="sculpture"><head><hi rend="it">Gladiateur Borghèse,</hi></head>
-Paris, musée du Louvre.</figure>
+
 
 <pb n="369">
 <h1><head><hi rend="bold">3 mai 1670
 Philippe Buyster : <hi rend="it">Le Gladiateur Borghèse</hi></hi></head></h1>
 
-<métadonnée> MANUSCRIT ENSBA, ms. 140. Une page de garde ajoutée au XVIIIe siècle porte un commentaire
-de Caylus.
-PROCÈS- VERBAUX «Monsieur Buyster a promis de faire l'ouverture de sa conférence au premier
-jour» (t. 1, p. 349, 12 avril 1670) ; «Monsieur Buyster a communiqué son discours pour l'ouverture
-de la conférence prochaine » (t. 1, p. 349, 26 avril 1670).
-DATATION Le manuscrit est daté au bas de la dernière page par Testelin.
-RELECTURE 5 novembre 1695.
-ÉDITION P. Chaleix, Philippe de Buyster sculpteur 1595-1688, Paris, 1967, p. 158-159.
-SCULPTURE L'œuvre étudiée est la figure du fameux Gladiateur Borghèse, dont Perrier réalisa pas
-moins de quatre gravures 2.
-REMARQUES Pour analyser le contraste des membres, Buyster s'est peut-être servi des chapitres
-CCXI, CCXII et CCLV du Traité de la Peinture de Léonard de Vinci. Une autre conférence sera
-consacrée au Gladiateur Borghèse le 6 février 1677 par Regnaudin.</métadonnée>
+
 
 <p>Messieurs,
 Suivant les ordonnances de Monseigneur Colbert pour faire des conférences comme
@@ -4202,7 +3668,7 @@ et les sourcils sont musclés, les yeux petits, l'estomac large. Les grands cont
 sont dans les épaules, le ventre délié et les cuisses de chair fort musclées et nerveuses,
 les jambes aussi fort musclées et de belle proportion. Sur ce que j'ai dit, Messieurs, je
 demande votre sentiment.
-<métadonnée> Prononcé par Monsieur Buyster en l'assemblée du 3e jour de mai 1670. H. Testelin</p></métadonnée>
+
 </div>
 
 <div xml:lang="fr" xml:id="C29" type="conference">
@@ -4211,22 +3677,7 @@ demande votre sentiment.
 <h1><head><hi rend="bold">7 juin 1670
 Philippe de Champaigne : Les ombres</hi></head></h1>
 
-<métadonnée> MANUSCRIT ENSBA, ms. 142.
-PROCÈS-VERBAUX Pas de mention.
-DATATION Le manuscrit est daté au bas de la dernière page par Testelin.
-RELECTURES 4 septembre 1683, par Guillet («un traité sur l'ombre et la lumière fait par [le]
-défunt Monsieur Champaigne, l'oncle») ; 4 février 1696, par Guillet («un discours, qui a été
-autrefois prononcé par feu Monsieur de Champaigne l'oncle, sur le sujet des ombres et la manière
-de les traiter») ; 2 octobre 1717 («un discours sur les ombres, prononcé par feu Monsieur de
-Champaigne »).
-AUTRE VERSION Le manuscrit 142 contient une autre version, plus courte, de la conférence de
-Champaigne, écrite de la main de Caylus.
-ÉDITIONS A. Fontaine 1903, p. 97-101 ; L. Marin 1995, p. 379-380 ; A. Mérot 1996, p. 188-191.
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 137-142, 288, 294-295.
-REMARQUES Champaigne revient dans cette conférence sur un sujet que Noël Coypel avait abordé
-à la fin de son intervention du 1er février 1670. Mais alors que celui-ci l'avait traité d'u n point de
-vue essentiellement pédagogique, Champaigne lui donne un développement théorique et notamment
-théologique, plaçant sa réflexion sous l' invocation du Deus pictor.</métadonnée>
+
 
 <h1><head><hi rend="it">Le 7 juin 1670
 Ouverture de conférence</hi></head></h1>
@@ -4278,11 +3729,7 @@ esprit et entente sur plusieurs. Car comme pour faire une figure avec entente, i
 qu'il y en ait une partie ombrée, aussi une ordonnance ne peut bien réussir qu'il n'y en
 ait aussi une partie dans l'ombre, laquelle, outre le repos qu'elle donne à la vue, fait
 
-<pb n="372">
-<figure type="peinture"><head><hi rend="bold">Philippe de Champaigne,</hi></head>
-<hi rend="it">Saint Jean-Baptiste,</hi>
-Grenoble, musée des beaux-arts.
-</figure>
+
 
 <pb n="373">
 avancer les figures que l'on dispose sur le devant, qui ne peuvent jamais faire un effet
@@ -4310,7 +3757,7 @@ sans qu'il y eut aucun sujet éclai ré qui les pourrait causer.
 Prononcé en l'assemblée publique du 7e jour de juin 1670, en l'Académie assemblée par M. Champaigne.
 H. Testelin</p>
 
-<note xml:id="N176" target="#A176"><p>Une écriture différente, vraisemblablement celle de Guillet,propose sur la même ligne le terrne « situations » comme synonyme.</p></note>
+
 
 </div>
 
@@ -4321,28 +3768,7 @@ H. Testelin</p>
 Sébastien Bourdon : Les proportions de la figure humaine
 expliquées sur l'antique</hi></head></h1>
 
-<métadonnée> MANUSCRIT ENSBA, ms. 143.
-PROCÈS-VERBAUX «Ce même jour, Monsieur Bourdon a annoncé qu'il a choisi pour sujet de la
-conférence prochaine de parler sur les proportions, où il proposera quelques observations sur les
-largeurs » (t. 1, p. 349, 28 juin 1670) ; « Ce jour, M. Bourdon ayant fait l'ouverture de la conférence
-sur le sujet des proportions et a libéralement laissé à l'Académie, pour l' étude des écoliers, sept
-planches de démonstrations sur les quatre figures, l'une du Commode, l'autre de l'Hercule, l'autre
-du Gladiateur blessé et l'autre de l'un des fleuves de Belvédère» (t. I, p. 349-350, 5 juillet 1670).
-DATATION Le manuscrit est daté au bas de la dernière page par Testelin.
-RELECTURE 3 mars 1696, par Guillet(« discours, qui a été autrefois prononcé en cette Académie par
-défunt Monsieur Bourdon, sur l'étude et la proportion des antiques, ce qui a servi de sujet d'entretien»).
-ÉDITIONS C. Ponsonailhe 1886, p. 85-87; A. Mérot 1996, p. 248-249. Un résumé fait par Mariette
-a été publié par C.-H. Watelet, op.cit., 1788, t. I, p. 416-419; H. Jouin 1883, p. 137-140 ; A. Mérot
-1996, p. 250-251, M. Bornscheuer, 2005, p. 543-545, Paris.
-NOTICE ÉDITORIALE Dans ce texte, de nombreuses corrections ont dû être apportées à l'orthographe
-et à la ponctuation. Bourdon écrit presque toujours « desiner » pour dessiner.
-REMARQUES Les académiciens consacreront plusieurs conférences à la recherche de proportions
-prises sur les principales sculptures antiques, en vue de la constitution d'un canon. L'Hercule
-Commode, choisi ici par Bourdon, et déjà mentionné par Le Brun dans sa conférence du 5 novembre
-1667 sur La Manne de Poussin, sera reproduit par Testelin dans une planche de ses Sentiments
-consacrée précisement aux proportions. On notera que Testelin, dans ce même ouvrage, propose,
-lui aussi, un canon dans la Table seconde des préceptes sur les proportions, lue à l'Académie le
-3 octobre 1678 (voir à cette date).</métadonnée>
+
 
 <p>Après les soins que votre illustre Assemblée a pris et prend tous les jours pour le
 bien et l'instruction des étudiants, et après l'ouverture que Monsieur Le Brun fit il y a
@@ -4401,10 +3827,7 @@ ni de leurs caractères, Monsieur Le Brun ayant dignement éclairci ces matière
 ne parlerai seulement que de la manière de mesurer et ensuite des largeurs, [ce] qui
 ne sera que de la figure du Commode seulement, étant trop ennuyeux de parler des
 autres qui se montreront assez d'elles-mêmes, étant instruit des mesures.
-<métadonnée> Prononcé et éclairci par Monsieur Bourdon en l'assemblée du 5e jour de juillet 1670 ayant présenté les proportions prises et mesurées sur quatre figures antiques, lesquelles il a ensuite attachées en l'école des étudiants de l'Académie. H. Testelin.</p>
 
-<p>Un passage des <hi rend="it">Sentiments</hi> de Testelin nous semble rendre compte des discussions 
-que la conférence de Bourdon a vraisemblablement suscitées :</métadonnée>
 
 Quelqu'un de la Compagnie, par une imitation louable et obligeante à l'Académie,
 présenta des desseins qu'il avait faits à Rome d'après les plus belles figures antiques,
@@ -4431,7 +3854,7 @@ la racine des cheveux ; que cet usage de mesurer est observé dans l'architectur
 l'on se propose premièrement les grandes parties, et ensuite la subdivision des petits
 membres.</p>
 
-<note xml:id="N177" target="#A177"><p>Ms.:« sil ».</p></note>
+
 
 </div>
 
@@ -4440,31 +3863,8 @@ membres.</p>
 <h1><head><hi rend="bold">2 août 1670
 Michel Anguier : Le groupe de <hi rend="it">Laocoon</hi></hi></head></h1>
 
-<métadonnée> MANUSCRIT ENSBA, ms. 144 ; BNF, ms., N.a.f. 10936, fol. 42-68. Nous avons choisi d'éditer ici le
-texte du manuscrit de l'ENSBA Il est parfois un peu moins clair que sa version remaniée de la BNF,
-mais en revanche plus complet. Une page de garde ajoutée au XVIII e siècle porte un commentaire
-de Caylus 1.
-PROCÈS-VERBAUX «Monsieur Anguier a communiqué à l'assemblée le discours qu'il a résolu de
-prononcer en la conférence publique de l'assemblée prochaine sur le sujet de Laocoon » (t. I, 26 juillet
-1670, p. 350).
-DATATION La date peut être déduite des Procès-verbaux.
-RELECTURE 5 juillet 1681, annoncée le 7 juin 1681 («le mémoire de Monsieur Anguier touchant
-le Laocoon »).
-BIBLIOGRAPHIE H. van Helsdingen, « Laokoon in the seventeenth century », Sùniolus, X, 1979, p. 127-141; Ch. Michel,« Anatomie d'un chef-d'œuvre : Laocoon en France au XVIIe siècle »,Revue germanique
-internationale, 19, 2003, p. 105-117 ; J. Lichtenstein 2003, p. 43-49.
-NOTICE ÉDITORIALE Nous avons mentionné en notes les variantes ou les additions éventuelles qui
-pouvaient être trouvées dans le manuscrit de la BNF. Anguier écrit systématiquement « temples »
-pour « tempes ».
-SCULPTURE La conférence s'est tenue devant un modèle exécuté par Anguier lui-même. Ce n'est
-qu'en 1692 que le Roi fit présent à l'Académie d'un plâtre du Laocoon. Une conférence avait déjà été
-consacrée au Laocoon (voir plus haut, 2 juillet 1667).
-REMARQUES Cette conférence propose sans doute l'analyse la plus complète d'une sculpture qui
-ait jamais été prononcée à l'Académie.</métadonnée>
 
-<pb n="378">
-<figure type="sculpture"><head>Agésandre, Polidore et Athénodore, <hi rend="it">Laocoon,</hi></head>
-photo avant restauration, Rome, musée du Vatican.
-</figure>
+
 
 <pb n="379">
 <head><hi rend="it">Conférence sur le Laocoon et ses enfants du deuxième août 1670<anchor xml:id="A178" corresp="#N178"/></hi></head>
@@ -4754,16 +4154,7 @@ beau travail en toutes ses parties, se trouve tant rapiécé ; si la grandeur é
 il y aurait sujet d'excuse<anchor xml:id="A187" corresp="#N187"/>.</p>
 
 <pb n="387">
-<note xml:id="N178" target="#A178"><p>Variante BNF : « Conférence du samedi deuxième jour du mois d'Août de l'année mil six cent soixante et dix sur le Laocoon et ses enfants, faits par Agesander, Polidore et Athénodore, sculpteurs rhodiens. »</p></note>
-<note xml:id="N179" target="#A179"><p>Cette présentation du plan de la conférence est écrite sur la première page des deux manuscrits.</p></note>
-<note xml:id="N180" target="#A180"><p>Ms. ENSBA: «sortant».</p></note>
-<note xml:id="N181" target="#A181"><p>Ms. ENSBA: « rude nœud ».</p></note>
-<note xml:id="N182" target="#A182"><p>Ms. ENSBA : « temples »·</p></note>
-<note xml:id="N183" target="#A183"><p>Le manuscrit BNF comporte une suite à ce paragraphe qui constitue peut-être l'explication complémentaire : « La cuisse du même côté s'allonge en se retirant de la partie offensée, et les muscles se serrant ensemble se grossissent et laissant des largeurs de la peau entre deux groupes de muscles, qui les détachent l'un de l'autre et qui fait connaître que la peau est très délicate. La jambe et le pied contribuent beaucoup à l'expression de la douleur : la cuisse et la jambe du côté droit font le contraire, d'autant qu'elles se retirent et se raccourcissent, le pied est plus court et plus étroit que l'autre. Nous pouvons juger par ces disproportions qu'il faut aider à la nature lorsqu'on veut exprimer quelque passion violente. »</p></note>
-<note xml:id="N184" target="#A184"><p>Addition BNF, à la suite de ce paragraphe : « Il reste encore à donner l'esprit de vie qui se doit étendre par tout également ; c'est un don de nature qui ne se peut en seigner par écrit ni par paroles, nos habiles sculpteurs ont fait voir par ces trois figures qu'ils possédaient cette excellente grâce. »</p></note>
-<note xml:id="N185" target="#A185"><p>Ms. : « Prospero Briciana ».</p></note>
-<note xml:id="N186" target="#A186"><p>Ms. : « lequel me paraît ». Nous avons supprimé « lequel » pour respecter la grammaire moderne.</p></note>
-<note xml:id="N187" target="#A187"><p>Addition BNF : « Chacun en parle diversement, la compagnie en dira ce qui lui plaira. »</p></note>
+
 
 </div>
 
@@ -4784,11 +4175,7 @@ principes de l'anatomie. » (<hi rend="it">Procès-verbaux</hi>, t. I, p. 3 51).
 <h1><head><hi rend="bold">4 octobre 1670
 François Quatroulx : Idée succincte d'ostéologie</hi></head></h1>
 
-<métadonnée>MANUSCRIT ENSBA, ms. 145. Une page de garde ajoutée au XVIIJC siècle porte un commentaire
-de Caylus.
-DATATION Le manuscrit es t daté au bas de la dernière page par Testelin.
-RELECTURE 2 juin 1696, par Guillet (« discours fait par M. Quatroulx, lors professeur en anatomie,
-sur le dénombrement des os du corps humain, ce qui a servi de sujet d'entretien»).</métadonnée>
+
 <p>Messieurs,
 L'inclination naturelle que j'ai toujours eue pour l'art scientifique de la peinture et
 sculpture a été un puissant motif pour m'exciter à la recherche des occasions possibles
@@ -4838,45 +4225,20 @@ Tous ces os en général sont joints ou articulés ensemble par deux moyens, sav
 artron ou par symphyse, ce que je réserve à démontrer à une autre fois, pour faire voir
 les différents mouvements de toutes les parties du corps humain fort nécessaires à la
 peinture et sculptures.
-<métadonnée>
-Prononcé en l'assemblée de l'Académie le quatrième jour d'octobre mil six cent soixante-dix par M. Quatroulx.
-H. Testelin</métadonnée></p>
+</p>
 
-<note xml:id="N188" target="#A188"><p>Ms.: «ces».</p></note>
-<note xml:id="N189" target="#A189"><p>Sur la même ligne est écrit de la main de Guillet : « le bréchet ou l'os de la poitrine. »</p></note>
-<note xml:id="N190" target="#A190"><p>Sur la même ligne, de la main de Guillet: « Paume de la main. »</p></note>
 
 </div>
 
 <div xml:lang="fr" xml:id="C33" type="conference">
 
-<pb n="390">
-<figure type="peinture"><head><hi rend="bold">Nicolas Poussin,</hi></head>
-<hi rend="it">Le Ravissement de saint Paul.</hi>
-Paris, musée du Louvre.
-</figure>
+
 
 <pb n="391">
 <h1><head><hi rend="bold">6 décembre 1670
 Jean Nocret : Le Ravissement de saint Paul de Poussin</hi></head></h1>
 
-<métadonnée>MANUSCRIT ENSBA, ms. 146. Une page de garde ajoutée au XVIIIe siècle porte un commentaire
-de Caylus.
-PROCÈS-VERBAUX « Monsieur Nocret a dit qu'il avait choisi pour sujet de la conférence prochaine un
-tableau du Poussin, représentant le ravissement de saint Paul » (t. 1, p. 353, 29 novembre 1670).
-DATATION La conférence est datée de la main de Testelin, sur la dernière page du manuscrit.
-AUTRE VERSION Le ms. 146 contient également une réécriture de cette conférence par Guillet, quI
-a vraisemblablement servi pour cette relecture, ou qui en est la transcription.
-RELECTURE 4 août 1696, par Guillet (« discours, qui a été autrefois prononcé par M. Nocret, sur
-le tableau représentant un Ravissement de saint Paul par Monsieur le Poussin »).
-ÉDITIONS Seule la relecture faite par Guillet de Saint-Georges en 1696 a été publiée (Mémoires
-inédits, 1854, t. 1, p. 315-317 ; H. Jouin 1883, p. 104-107 ; A. Mérot 1996, p. 192-194).
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 133, 141-144.
-TABLEAU Le tableau de Poussin a été peint entre 1649 et 1650. Il a été acquis du duc de Richelieu en
-1665 (voir A. Brejon de Lavergnée 1987, cat. 171, p. 225-226). Il est conservé au musée du Louvre
-(inv. 7288). Il fut gravé pour le Cabinet du Roi par Guillaume Chasteau.
-REMARQUES La méthode descriptive utilisée ici par Nocret peut-être rapprochée de celle qu'il avait
-appliquée au Marquis del Vasto de Titien, dans sa conférence du 1er septembre 1668.</métadonnée>
+
 
 <p>Messieurs,
 Les images que l'esprit invente et qui, par les choses qu'il signifie (à mon sens) sont les
@@ -4987,7 +4349,7 @@ réduit ce bel ouvrage dans une perfection si admirable et si bien concertée, t
 disposition que la correction du dessein, le mélange des couleurs, la belle entente des
 lumières et la soigneuse distribution des ombres, que le tout ensemble fait une harmonie
 surprenante.
-<métadonnée> Prononcé en l'assemblée publique de l'Académie du sixième jour de décembre mil six cent soixante-dix par M. Nocret. H. Testelin</p></métadonnée>
+</p>
 
 </div>
 
@@ -4996,44 +4358,7 @@ surprenante.
 <h1><head><hi rend="bold">10 janvier 1671
 Charles Le Brun : <hi rend="it">Le Ravissement de saint Paul</hi> de Poussin</hi></head></h1>
 
-<métadonnée>MANUSCRIT ENSBA, ms. 147. Une page de garde ajoutée au XVIIIe siècle porte un commentaire
-de Caylus.
-PROCÈS-VERBAUX Pas de mention.
-DATATION Le manuscrit est daté au bas de la dernière page.
-RELECTURES 4 mai 1709, par Guérin («un discours que feu M. Le Brun a fait autrefois sur un
-tableau du Poussin, qui représente une extase de saint Paul, pour servir de sujet d'entretien ») ;
-1er juin 1715, par Tavernier (« un discours sur l'enlèvement de saint Paul, par M. Poussin, qui a été
-autrefois prononcé à l'Académie par M. Le Brun. Cela a servi d'entretien et a consommé le temps
-de l'assemblée») ; 7 juin 1727, par Dubois (un discours que M. Le Brun prononça en 1671, dans
-l'assemblée du dixième de janvier, sur le tableau du Ravissement de saint Paul, qui est dans le
-Cabinet du Roi ») ; 2 août 1727, par Dubois (« discours de M. Le Brun, sur le Ravissement de saint
-Paul de M. Poussin »).
-ÉDITIONS A. Fontaine 1903, p. 77-89 ; A. Mérot 1996, p. 192-200.
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 142-143 ; C. Dempsey, « Poussin's Ecstasy ofSaint Paul :
-Charles Le Brun's'over-interpretation' »,in Commemorating Poussin. Reception and interpretation
-ofthe artist, sous la dir. de K. Scott et G. Warwick, Cambridge, 1999, p. 114-133.
-TABLEAU Sur le tableau de Poussin, voir la notice qui lui est consacrée pour la conférence de Nocret
-du 6 décembre 1670.
-REMARQUES C'est la première et l'unique fois dans l'histoire de l'Académie que deux conférences
-portant sur la même œuvre sont prononcées à la suite par deux conférenciers différents. Le Brun
-a-t-il considéré sa conférence comme un complément ou comme une réponse à celle de Nocret
-qui développait une analyse essentiellement formelle du tableau ? Quelle qu'ait été l'intention de
-Le Brun, il n'en reste pas moins que sa conférence semble réaliser le projet d'une lecture symbolique
 
-<pb n="395">
-de l'œuvre d'art, dont la première phrase de la conférence de Nocret ouvrait la possibilité. Il s'agit
-pour Le Brun de dévoiler l'un après l'autre chacun des « mystères » contenus dans l'œuvre. Le Brun
-aborde ici des questions théologiques, alors que les statuts de l'Académie interdisaient de traiter
-d'autre chose que de peinture et de sculpture (statuts de 1648, art. II ; statuts de 1663, art. III). En
-outre, à une époque où il est fortement déconseillé de débattre publiquement de la question de la
-grâce (la Paix de l'Église est effective depuis l'automne 1668), c'est sur elle qu'il concentre toute son
-analyse. Il est vrai que, sur cette question, autour de laquelle s'opposaient violemment Jésuites et
-Jansénistes, il adopte la position médiane des Thomistes. La réception de cette conférence fut pour le
-moins contrastée, ainsi que le révèle Nivelon : « Cette conférence émut les esprits différemment. La
-plus grande partie [reconnurent] qu'il était impossible de concevoir de plus hautes idées sur ce sujet,
-et regardèrent ce tableau de près et avec estime ; d'autres eurent des sentiments opposés, soutenant
-des opinions fondées sur ce qui leur [put] venir en pensée, mais ces contestations spirituelles prirent
-fin presque en naissant ».</métadonnée>
 
 <head><hi rend="it">Discours sur le tableau du Ravissement de saint Paul
 10 janvier 1671</hi></head>
@@ -5245,28 +4570,17 @@ toutes ses principales parties, comme celui que je montre ici, s'il arrive que c
 spirituelle s'y rencontre, alors elle donnera un grand éclat à tout l'ouvrage et le rendra
 parfait, et que ceux qui travailleront de cette sorte imiteront ce grand homme, et ils
 s'acquerront comme lui par leurs travaux une gloire immortelle.
-<métadonnée>
-Ce jourd'hui, 10e jour de janvier mil six cent soixante et onze, M. Le Brun a prononcé ce discours en présence
-de l'assemblée publique avec amplification et démonstration sur diverses parties. Signé Testelin </métadonnée></p>
+</p>
 
-<note xml:id="N191" target="#A191"><p>Écrit sur la même ligne, d'une autre main : « de son origine. »</p></note>
-<note xml:id="N192" target="#A192"><p>Ms. : « n'expriment-ils ».</p></note>
-<note xml:id="N193" target="#A193"><p>L'auteur du manuscrit avait d'abord envisagé d'écrire « trouvé » avant de barrer ce terme.</p></note>
+
+
 
 </div>
 
 <h1><head><hi rend="bold">28 mars 1671.
 Visite de Colbert à l'Académie</hi></head></h1>
 
-<métadonnée>« Après quoi M. Le Brun a fait rapport de sa dernière conférence sur la
-physionomie et représenté toutes les diverses démonstrations qu'il en a dessinées,
-soit des têtes d'animaux, soit des têtes d'hommes ; faisant remarquer les signes
-qui marquent leurs inclinations naturelles, sur quoi mondit seigneur Colbert a
-témoigné beaucoup de satisfaction et s'est retiré. » (<hi rend="it">Procès-verbaux</hi>, t. I, p. 358-359)
-On ne possède aucun manuscrit de cette conférence, et Nivelon affirme que
-«M. Le Brun n'a laissé aucun mémoire sur ce sujet». Les dessins de Le Brun sont
-conservés, et les thèmes résumés à la fin du discours de Testelin sur l'expression,
-dans Nivelon et dans Jouin.</métadonnée>
+
 
 <div xml:lang="fr" xml:id="C35" type="conference">
 
@@ -5276,20 +4590,7 @@ dans Nivelon et dans Jouin.</métadonnée>
 
 <h1><head><hi rend="bold">2 mai 1671
 Jean-Baptiste de Champaigne : <hi rend="it">L'Été</hi> ou <hi rend="it">Ruth</hi> et <hi rend="it">Booz</hi> de Poussin</hi></head></h1>
-<métadonnée> MANUSCRIT ENSBA, ms. 148.
-PROCÈS-VERBAUX Pas de mention.
-DATATION Le manuscrit est daté au bas de la dernière page par Testelin.
-RELECTURES 2 octobre 1683 («conférence faite autrefois par défunt Monsieur Champaigne le
-neveu sur un tableau du Poussin, représentant l'histoire de Ruth et de Booz, ce qui a servi d'entretien
-cejourd'hui ») ; 1er décembre 1696, par Guillet(« un discours de Monsieur de Champaigne le neveu
-sur un tableau de Monsieur le Poussin, qui représente Ruth qui glane dans le champ de Booz, ce qui
-a servi de sujet d'entretien»).
-ÉDITION A. Fontaine 1903, p. 119-123.
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 132.
-TABLEAU Le tableau de Poussin a été acquis du duc de Richelieu en 1665 et gravé par Jean Pesne (voir
-A. Brejon de Lavergnée 1987, cat. 174, p. 228). Il est conservé au musée du Louvre (inv. 7304).
-REMARQUE L'éloge du peu fini du tableau de Poussin évoque ce qu'Apelle disait à propos de Protogène
-« qu'un travail minutieux à l'excès est souvent nuisible» (Histoire naturelle, XXXV, 79).</métadonnée>
+
 
 <p><hi rend="it">Du 2 mai 1671</hi>
 Je propose pour le sujet de notre entretien, Messieurs, un des derniers tableaux que
@@ -5308,11 +4609,7 @@ agréable dans le tout ensemble de cet ouvrage.</p>
 <p>Ce tableau représente une des quatre saisons de l'année qui est celle de l'été, comme
 il se voit très clairement. Il a choisi pour orner ce sujet l'histoire de Ruth, laquelle il a
 
- <pb n="403">
-<figure type="peinture"><head><hi rend="bold">Nicolas Poussin,</hi></head>
-<hi rend="it">L'Été,</hi>
-Paris, musée du Louvre.
-</figure>
+ 
 
 <pb n="404">
 faite sur le devant, à genou, parlant à Booz qui lui accorda de glaner dans son champ, et
@@ -5369,7 +4666,6 @@ que, finissant extrêmement les parties, l'on détourne l'esprit par de longs ar
 un grand temps de s'appliquer au plus essentiel et à ce que la peinture a de
 plus grand et de plus magnifique en elle.
 
-<métadonnée> Prononcé en l'assemblée publique de l'Académie du deuxième jour de mai 1671 par M. Champaigne le neveu. H. Testelin</métadonnée>
 
 Testelin rapporte que l'avis de Champaigne sur l'économie générale du tableau,
 prévalut dans la discu ssion qui suivit la conférence :
@@ -5384,7 +4680,7 @@ il faut dans un tableau négliger ce qui n'est pas éclairé, en imitant le natu
 pénétrer les choses qui demeurent cachées par les ombres, ou effacées par leurs
 éloignements.</p>
 
-<note xml:id="N194" target="#A194"><p>Ms. : « dans l'apparence».</p></note>
+
 
 </div>
 
@@ -5393,27 +4689,7 @@ pénétrer les choses qui demeurent cachées par les ombres, ou effacées par le
 <pb n="406">
 <h1><head><hi rend="bold">12 juin 1671
 Philippe de Champaigne : La Vierge à l'Enfant de Titien</hi></head></h1>
-<métadonnée> MANUSCRIT ENSBA, ms. 149.
-PROCÈS-VERBAUX Pas de mention.
-DATATION Le manuscrit est daté au bas de la dernière page par Testelin.
-RELECTURES 2 janvier 1672, par Jean-Baptiste de Champaigne, annoncée le 24 décembre 1671 ;
-6 novembre 1683, par Guillet (« conférence faite autrefoi s par défunt M. Champaigne l'oncle, ce
-qui a servi d'entretien ce jourd'hui » ; le contenu de cette conférence peut être identifié grâce à la
-mention portée sur le manuscrit) ; 9 février 1697, par Guillet (« un discours de défunt Monsieur de
-Champaigne, vivant recteur en cette académie, sur un tableau du Titien représentant l' Enfant Jésu s
-auprès de sainte Agnès »).
-ÉDITIONS A. Fontaine 1903, p. 9-13 ; L. Marin 1995, p. 380-382 ; A. Mérot 1996, p. 203-205.
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 165-168; J. Montagu, «The Quarrel of Drawing and Colour
-in the French Academy », in Ars naturam adiuuans. Matthias Winner, Mayence, 1996,
-p. 549-550 ; Ch. Michel, «Les Conférences académiques, enjeux et pratiques », La Naissance de la
-théorie de l'art en France, Revue d'esthétique, 1997, p. 80-81 ; Rubens contre Poussin. La querelle
-du co loris dans la peinture fran çaise, cat. exp., Valenciennes, 2004, cat. n° 4, p. 86.
-TABLEAU L'authenticité du tableau dont parle Champaigne est aujourd'hui discutée. Il fut acquis
-de Loménie de Brienne, puis de Jabach en 1671 (voir A. Brejon de Lavergnée 1987, cat. 251, p. 289-290). Il a été déposé par le musée du Louvre (inv. 744) au musée des beaux-arts de Dijon en 1946.
-REMARQUES Depuis Fontaine, on date de cette conférence le déclenchement du conflit entre
-défenseurs du dessin et partisans du coloris à l'intérieur de l'Académie. C'est assurément ce discours
-de Champaigne qui a incité Gabriel Blanchard à prononcer, le 7 novembre 1671, son discours sur
-Le mérite de la couleur.</métadonnée>
+
 
 <head><hi rend="it">Le 12 juin 1671</hi></head>
 <p>Il me semble, Messieurs, que ce tableau du Titien mérite bien d'être le sujet de notre
@@ -5472,12 +4748,7 @@ des proportions, c'est aussi ce qui doit occuper le plus. Car cette partie est p
 <head><hi rend="bold">[Contre ceux qui se laissent éblouir par le bel éclat]</hi></head>
 <p>Car l'expérience nous fait voir, comme tout le monde en demeure d'accord, qu'il est
 
-<pb n="408">
-<figure type="peinture"><head><hi rend="bold">Titien,</hi></head>
-<hi rend="it">La Vierge à l'Enfant ; sainte Agnès.</hi>
-Dijon, musée des beaux-arts.
-dépôt du musée du Louvre.</figure>
-    
+
 <pb n="409">
 vrai qu'il y a peu de peintres corrects, et il s'en trouve bien plus qui ont un beau faire
 en traitant les couleurs, parce que plusieurs s'appliquent naturellement à cette belle
@@ -5501,10 +4772,7 @@ par des raisons invincibles que qui s'attache au principal et au solide de la pe
 acquiert toujours en pratiquant une assez belle méthode de peindre, sans qu'il soit
 nécessaire de s'entêter de cette partie seule.
 P. de Champaigne
-<métadonnée> Prononcé par Monsieur Champaigne en l'assemblée générale de l'Académie du douzième jour de juin 1671.
-H. Testelin
-La réaction de Blanchard, le 7 novembre 1671, indique que l'Académie résolut que
-« la couleur était de peu d'importance et qu'il fallait ne s'attacher qu'au dessein. »</p></métadonnée>
+
 
 </div>
 
@@ -5513,27 +4781,6 @@ La réaction de Blanchard, le 7 novembre 1671, indique que l'Académie résolut 
 <pb n="410">
 <h1><head><hi rend="bold">4 juillet et 1er août 1671
 Michel Anguier : L'union de l'Art et de la Nature</hi></head></h1>
-<métadonnée> MANUSCRITS ENSBA, ms. 150 ; BNF, ms., N.a.f. 10936, fo l. 69-128. Une page de garde ajou tée au
-XVIIIe siècle au ms. ENSBA porte un commentaire de Caylus.
-PROCÈS-VERBAUX « Ce jour, l'Académie assemblée, Monsieur Anguier a proposé le sujet de la
-conférence, en a laissé copie, laquelle la Compagnie a résolu de l'attacher en la salle » (t. I, p. 363.)
-27 juin 1671).
-DATATION La date est donnée par les Procès-verbaux et par le manuscrit. Le discours a été lu en
-deux séances (4 ju illet et 1er août 1671).
-RELECTURE 6 décembre 1681 (« conférence de Monsieur Anguier sur l'union de l'Art avec la
-Nature»).
-NOTICE ÉDITORIALE Nous avons choisi d'éditer le manuscrit de l'ENSBA antérieur à celui de la
-BNF, mais nous mentionnons en notes les variantes ou additions éventuelles.
-Les passages que nous reproduisons ici en italique correspondent dans le ms. 150 à des paragraphes
-qu'Anguier a écrits en retrait par rapport au reste du texte. Ils donnent à chaque fois l'argument du
-développement qui suit.
-BIBLIOGRAPHIE Ch. Michel, « Ornement et convenance dans les premières années du règne personnel
-de Louis XIV», inRinceaux etFigures. L'OrnementenFrance auXVIIesiècle, sous la di r. d'E. Coquery,
-Paris, 2005, p. 201-203.
-REMARQUES Ce discours est une des rares conférence du XVIIe siècle à s'interroger sur la place
-de l'ornement dans les arts. Anguier s'intéresse d'autant plus au rapport de la sculpture et de
-l'architecture qu'il a été chargé de l'essentiel des ornements sculptés de l'appar tement d'été d'Anne
-d'Autriche au Louvre et de ceux de l' église du Val- de-Grâce.</métadonnée>
 
 <head><hi rend="it">Conférence sur l'union de l'Art et de la Nature du samedi 4 juillet 1671</hi></head>
 <p>Messieurs<anchor xml:id="A195" corresp="#N195"/>,
@@ -5764,12 +5011,7 @@ cette ruine un reste de la grave majesté et puissance de cet empereur de l'univ
 se trouve dans cet ouvrage une proportion et dans l'élévation une diminution si naturelle 
 des parties qui s'élèvent les unes sur les autres qu'il semble que ce soit la nature
 
-<pb n="417">
-<figure type="planche"><head><hi rend="it">[Façade du sanctuaire du Temple de Salomon],</hi></head>
-planche de Juan Bautista Villalpando,
-<hi rend="it">ln Ezechielem explanationes et apparatus urbis ac
-Templi hierosolymitani,</hi> t. II, planche 4, 1604,
-Paris, ENSBA.</figure>
+
 
 <pb n="418">
 plutôt que l'art qui ait composé ce monument, et c'est aussi ce que les Italiens appellent
@@ -5847,9 +5089,7 @@ porte, dans chacune porte était une figure représentée comme la pure vérité
 mélange d'art, comme celles de la Rotonde.
 Nous pouvons voir ces formes de porte dans un temple antique à Nîmes, en Languedoc.
 
-<pb n="420">
-<figure type="sculpture"><head>Rome.</head>
-vue du Forum Transitorium.</figure>
+
 
 <pb n="421">
 Ce sont les premières que j'ai observées auparavant que d'aller à Rome.
@@ -6077,19 +5317,7 @@ studieux en très bonne intelligence puisqu'ils s'embrassent avec tant d'amitié
 Pour conserver la nécessaire mémoire de cet amour, je suis d'avis de les obliger à se
 joindre ensemble par un légitime mariage, afin que dorénavant ils ne se puissent désunir
 
-<pb n="427">
-	<figure type="bas relief"><head><hi rend="it">François Perrier,</hi></head>
-<hi rend="it">Minister sacrificii cum acerra et urceolo...</hi>
-[bas-relief de l'Ara PacisJ,
-planches des <hi rend="it">Icones et segmenta illustrium
-e marrnore tabularum,</hi> 1645.
-Paris, ENSBA.
-</figure>
 
-<pb n="428">
-<figure type="peinture"><head><hi rend="it">Giulio Homano,</hi></head>
-<hi rend="it">Bataille de Constin</hi>, détail.
-Rome, musée du Vatican.</figure>
 
 <pb n="429">
 ni disjoindre. Et pour la conservation d'une si nécessaire amitié, nous représenterons la
@@ -6143,24 +5371,7 @@ Compagnie attend vos meilleurs avis.
 Lu et expliqué en l'assemblée publique de l'Académie par Monsieur Anguier, cejourd'hui premier jour du
 mois d'août<anchor xml:id="A211" corresp="#N211"/> mil six cent soixante et onze. Signé Testelin<anchor xml:id="A212" corresp="#N212"/></p>
 
-<note xml:id="N195" target="#A195"><p>Addition BNF, avant ce paragraphe : « Du samedi premier jour du mois d'août de l'année mil six cent soixante et onze, où il [est fait] mention de sept articles dont la nature fait sept plaintes contre l'art, en ce qu' il s'éloigne de ses volontés. 1. Premièrement, la nature enseigne comme il faut faire les ornements des dedans des temples, des salons et autres lieux enfermés. 2. Savoir si on doit faire les figures et les ornements de l'architecture plus grands et plus forts dans les parties supérieures que dans les inférieures. 3. Des figures naturelles ou artificielles. 4. Savoir par quel lieu les figures sont entrées dans leurs niches, étant représentées naturelles. 5. Accord des figures avec l'architecture. 6. L'union que doivent avoir les bas-reliefs des arrière-corps avec les avant-corps. 7. Des bas-reliefs naturels et des artificiels. 8. Le mariage de l'art avec la nature. »</p></note>
-<note xml:id="N196" target="#A196"><p>Ainsi orthographié dans le manuscrit de l'ENSBA.</p></note>
-<note xml:id="N197" target="#A197"><p>Variante BNF : « La nature se plaint de l'art, en ce qu' il représente. »</p></note>
-<note xml:id="N198" target="#A198"><p>Variante BNF : « monuments. »</p></note>
-<note xml:id="N199" target="#A199"><p>Variante BNF : « parties et ordres. »</p></note>
-<note xml:id="N200" target="#A200"><p>Ms. : « bases ».</p></note>
-<note xml:id="N201" target="#A201"><p>Variante BNF: « qui poussent leurs branches fort haut et fort droit. »</p></note>
-<note xml:id="N202" target="#A202"><p>Variante BNF : « maître. »</p></note>
-<note xml:id="N203" target="#A203"><p>Variante BNF : « Des figures naturelles ou artificielles. »</p></note>
-<note xml:id="N204" target="#A204"><p>Ms. : «figure de niche».</p></note>
-<note xml:id="N205" target="#A205"><p>Ms. : «est».</p></note>
-<note xml:id="N206" target="#A206"><p>Ms. : « qu' ils ».</p></note>
-<note xml:id="N207" target="#A207"><p>Addition BNF : « ou bas-relief. »</p></note>
-<note xml:id="N208" target="#A208"><p>Variante BNF: « dans les parties ou corps de l'architecture. »</p></note>
-<note xml:id="N209" target="#A209"><p>Variante BNF : « sacrificateurs. »</p></note>
-<note xml:id="N210" target="#A210"><p>Variante BNF : « la dernière. »</p></note>
-<note xml:id="N211" target="#A211"><p>Écrit d'une seconde main, sur la même ligne : « juillet. »</p></note>
-<note xml:id="N212" target="#A212"><p>Ce dernier paragraphe a été écrit par le même copiste que le reste du manuscrit.</p></note>
+
 
 </div>
 
@@ -6170,14 +5381,7 @@ mois d'août<anchor xml:id="A211" corresp="#N211"/> mil six cent soixante et onz
 <h1><head><hi rend="bold">4 septembre 1671
 François Quatroulx : Les opérations de la nature humaine dans
 les divers mouvements de ses parties</hi></head></h1>
-<métadonnée> MANUSCRIT ENSBA, ms. 151. Une page de garde ajoutée au XVIII e siècle porte un commentaire
-de Caylus 1.
-PROCÈS- VERBAUX « Ce jour, l'Académie assemblée, à l'issue de la conférence ouverte par Monsieur
-Quatroulx sur les opérations de la nature humaine dans les divers mouvements de ses parties » (t. I,
-p. 365, 4 septembre 1671).
-DATATION Le manu scrit est daté au bas de la dernière page par Testelin.
-RELECTURE 6 décembre 1696.
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 206 -209.</métadonnée>
+
 
 <p>Messieurs,
 De toutes les opinions qui ont paru jusques à présent touchant les opérations de
@@ -6244,7 +5448,7 @@ utiles qu'ils vous sont fidèlement consacrés.
 Discours prononcé en l'assemblée du 4e septembre 1671 par M. Quatroulx pour ouverture de la conférence.
 H. Testelin</p>
 
-<note xml:id="N213" target="#A213"><p>Ms. : « prestige ».</p></note>
+
 
 </div>
 
@@ -6258,7 +5462,7 @@ mais on ignore quel fut l'objet traité.</p>
 
 <h1><head><hi rend="bold">7 novembre 1671
 Gabriel Blanchard : Le mérite de la couleur</hi></head></h1>
-<métadonnée> MANUSCRIT ENSBA, ms. 152. Une page de garde ajoutée au XVIIIe siècle porte le commentaire
+ MANUSCRIT ENSBA, ms. 152. Une page de garde ajoutée au XVIIIe siècle porte le commentaire
 de Caylus 1.
 PROCÈS-VERBAUX Pas de mention.
 DATATION Le texte est daté de la main de Testelin, au bas de la dernière page.
@@ -6510,18 +5714,7 @@ seulement on ne peut diminuer son mérite sans diminuer celui des peintres, mais
 qu'elle a mérité les louanges de l'Antiquité et qu'elle mérite celles de notre siècle.
 Prononcé à l'assemblée générale du 7 novembre 1671 par Monsieur Blanchard. H. Testelin</p>
 
-<note xml:id="N214" target="#A214"><p>Dans le ms., « justement» a été barré et remplacé par « l'âme et le premier mobile de notre art ».</p></note>
-<note xml:id="N215" target="#A215"><p>Dans le ms., « décidé » a été barré et remplacé par « dit par quelqu'un ».</p></note>
-<note xml:id="N216" target="#A216"><p>Les deux derniers paragraphes sont raturés clans le manuscrit, sans qu'il soit possible de savoir si ces biffures sont d'une seconde main.</p></note>
-<note xml:id="N217" target="#A217"><p>Ms. : « 12. 1 ».</p></note>
-<note xml:id="N218" target="#A218"><p>Dans le ms., « vérités » a été barré et remplacé par « difficultés ».</p></note>
-<note xml:id="N219" target="#A219"><p>Ms. : « les unes ».</p></note>
-<note xml:id="N220" target="#A220"><p>Dans le ms., « vraisemblable » a été barré et remplacé par « raisonnable ».</p></note>
-<note xml:id="N221" target="#A221"><p>Ms. : « 27. 2 ».</p></note>
-<note xml:id="N222" target="#A222"><p>« la perfection de » ajouté.</p></note>
-<note xml:id="N223" target="#A223"><p>Dans le ms., « vous donne la qualité du peintre » a été barré et remplacé par « rend le peintre parfait ».</p></note>
-<note xml:id="N224" target="#A224"><p>Dans le ms., « nos yeux » a été barré et remplacé par « les yeux de l'homme ».</p></note>
-<note xml:id="N225" target="#A225"><p>Ce membre de phrase ajouté.</p></note>
+
 
 </div>
 
@@ -6529,24 +5722,7 @@ Prononcé à l'assemblée générale du 7 novembre 1671 par Monsieur Blanchard. 
 
 <h1><head><hi rend="bold">5 décembre 1671
 Jean Nocret : <hi rend="it">Le Seigneur au Jardin des Oliviers</hi> de Guido Reni</hi></head></h1>
-<métadonnée> MANUSCRIT ENSBA, ms. 153. Une page de garde ajoutée au XVIIIe siècle porte le commentaire
-de Caylus.
-PROCÈS-VERBAUX «En cette assemblée Monsieur Nocret a dit qu'il avait choisi pour le sujet de la
-conférence prochaine un petit tableau du Guide, représentant le Seigneur au Jardin des Oliviers »
-(t. I, p. 368, 28 novembre 1671).
-DATATION Le manuscrit est daté au bas de la dernière page par Testelin.
-AUTRES VERSIONS ENSBA, ms. 146. Il s'agit d'une réécriture par Guillet de Saint-Georges de
-cette conférence. Dans le manuscrit ENSBA, ms. 153, est conservée une réécriture par Caylus de
-cette conférence.
 
-<pb n="441">
-RELECTURE 10 novembre 1696, par Guillet («un discours qui a été autrefois fait et prononcé
-à l'Académie par défunt Monsieur Nocret, sur un tableau du Guide, lequel tableau représente un
-Christ au Jardin des Oliviers, ce qui a servi de sujet d'entretien»).
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 141.
-TABLEAU Le tableau a appartenu au cardinal Mazarin ; il fut vendu au Roi en 1668 par Gaspard
-Marsy (voir A. Brejon de Lavergnée 1987, cat. 375, p. 375-376). Il appartient au musée du Louvre
-(inv. 527), mais est déposé au musée municipal de Sens.</métadonnée>
 
 <p>Messieurs,
 Je crois qu'il est fort difficile de repasser souvent sur une même matière et ne pas
@@ -6579,11 +5755,7 @@ Véronèse, M. Poussin et autres.
 Je me suis attaché à ce présent tableau, qui est de la main de ce grand peintre Guido
 Reni<anchor xml:id="A227" corresp="#N227"/>. Il n'est pas d'une grande étendue, mais il est d'une beauté très considérable.
 
-<pb n="442">
-<figure type="peinture"><head><hi rend="it">Guido Reni,</hi></head>
-<hi rend="it">Le Christ au jardin des Oliviers,</hi>
-Sens, musée municipal
-dépôt du musée du Louvre.</figure>
+
 
 <pb n="443">
 Vous trouverez bon, Messieurs, qu'en peu de mots, j'aie l'honneur de vous entretenir
@@ -6658,9 +5830,7 @@ autant de chefs-d'œuvre qui éterniseront sa mémoire.
 Prononcé en l'Académie publiquement assemblée le cinquième jour de décembre mil six cent soixante et
 onze par Monsieur Nocret. H. Testelin</p>
 
-<note xml:id="N226" target="#A226"><p>Ms. : « Titian ».</p></note>
-<note xml:id="N227" target="#A227"><p>Ms. : « Guide Bolognese ».</p></note>
-<note xml:id="N228" target="#A228"><p>La première version (« l'ombre ») a été corrigée en « sombre ».</p></note>
+
 
 </div>
 
@@ -6691,9 +5861,9 @@ ses sentiments à l'absence de Monsieur Le Brun, qui était malade alors, prése
 que le Ciel nous l'a rendu à nos vœux, que cette conférence soit relue avec celle de
 Monsieur Blanchard pour la justification de mon oncle, les sentiments duquel ont toujours 
 été très conformes à la vérité.
-<métadonnée> Présenté à l'assemblée du 24e décembre 1671 par M. de Champaigne. H. Testelin</métadonnée></p>
+</p>
 
-<note xml:id="N229" target="#A229"><p>Une seconde main a raturé cette expression et écrit : « émulation ».</p></note>
+
 
 </div>
 
@@ -6711,24 +5881,6 @@ avait été proposée par Jean-Baptiste de Champaigne lors de la séance précé
 Jean-Baptiste de Champaigne : Contre le discours de Blanchard
 Charles Le Brun : Sentiments sur le discours de Blanchard</hi></head></h1>
 <head><hi rend="capitals">JEAN-BAPTISTE DE CHAMPAIGNE : CONTRE LE DISCOURS DE BLANCHARD</hi></head>
-<métadonnée> MANUSCRIT ENSBA, ms. 155. Sur la page de garde, deux commentaires, dont le premier est
-visiblement de la main de Caylus, renvoient à l'ensemble de cette« querelle» 1.
-PROCÈS-VERBAUX Pas de mention.
-DATATION Le manuscrit est daté au bas de la dernière page par Testelin.
-RELECTURES 13 avril 1697, par Guillet (« un discours, fait par M. Champaigne le neveu, pour
-répondre à une autre conférence précédente qui avait été faite sur le mérite de la couleur. Ce discours
-de M. Champaigne avait déjà été lu dans l'Académie le 9 janvier 16922 »); 5 septembre 1711 («un
-discours fait par M. Champaigne le jeune, qui contient quelques réflexions sur un discours de
-M. Blanchard, qui a été lu dans la dernière assemblée de conférence »).
-ÉDITIONS A. Fontaine 1903, p. 29-34; A. Mérot 1996, p. 214-217.
-BIBLIOGRAPHIE B. Teyssèdre 1965, p. 174-176.
-REMARQUES Contre l'usage qui voulait qu'une seule séance, au début de chaque mois, fût consacrée
-à la lecture de conférences, il semble bien que l'Académie ait jugé nécessaire de se réunir à deux
-reprises, à une semaine d'intervalle, pour traiter de la question du coloris. On peut donc supposer
-que la séance publique du 2 janvier 1672, mentionnée par les Procès-verbaux, a été consacrée à la
-relecture des conférences de Philippe de Champaigne et de Blanchard, et celle du 9 janvier 1672,
-que les Procès-verbaux ne mentionnent pas (et qui n'a peut-être pas été publique), à la lecture de
-celles de Jean-Baptiste de Champaigne et de Le Brun.</métadonnée>
 
 <pb n="447">
 <p>C'est inutilement, Messieurs, que dans ce discours l'on ait tant élevé le mérite de la
@@ -6814,31 +5966,16 @@ juste en sa place par l'effort du dessein est le plus savant coloriste et le plu
 peintre. Car elle sert au dessein sur une toile de la même manière que fait le crayon sur
 le papier, et du moment qu'elle ne sert plus à ce premier mobile de notre art, elle ne sert
 qu'à égarer et changer le nom de peintre en celui de barbouilleur.
-<métadonnée> Prononcé en l'assemblée publique de l'Académie royale de peinture et de sculpture le neuvième jour de
-janvier mil six cent soixante et douze par M. Champaigne le neveu. H. Testelin</p></métadonnée>
 
-<note xml:id="N230" target="#A230"><p>Le corps de phrase qui suit a été abondamment raturé.</p></note>
+
+
 
 </div>
 
 <div xml:lang="fr" xml:id="C43" type="conference">
 
 <h1><head><hi rend="capitals">CHARLES LE BRUN : SENTIMENTS SUR LE DISCOURS DU MÉRITE DE LA COULEUR</hi></head></h1>
-<métadonnée> MANUSCRIT ENSBA, ms. 154. Une page de garde ajoutée au XVIIIe siècle porte un commentaire
-de Caylus.
-PROCÈS- VERBAUX Pas de mention.
-DATATION Le manuscrit est daté au bas de la dernière page par Testelin.
-RELECTURES 4 mai 1726 (« un discours de feu M. Le Brun, intitulé : Sentiments sur le discours
-du mérite de la couleur, qui fut lu à l'Académie le 7 e de novembre 1671 »). Peut-être éga lement la
-conférence du 10 novembre 1714 (« discours sur le dessein, prononcé autr efois par M. Le Brun »).
-ÉDITIONS A. Fontaine 1903, p. 35 -44 ; A. Mérot 1996, p. 218-223.
-BIBLIOGRAPHIE B. Teyssèdr e 1965, p. 176-179, 439 -441, 444 ; J. Lichten st ein 1989 ; J. Montagu
-1996, p. 550-554 ; M. Imdahl, Couleur. L es écrits des p eintres français d e Poussin à
-Paris, 1996, p. 29-39.
-REMARQUES Voir les remarques sur la conférence de Jean-Baptiste de Champaigne.
-NOTICE ÉDITORIALE Le texte comporte de nombreuses ratures et corrections effectuées d'une
-seconde main, datant vraisemblablement du XVIIIe siècle - toutes les références à Louis XIV et au
-contexte historique de la conférence sont supprimées.</métadonnée>
+
 
 <head><hi rend="it">Sentiments sur le discours du mérite de la couleur qui fut lu à l'Académie de peinture</hi></head>
 <p>Pour bien parler du mérite de quelque chose, il faut savoir en quoi il consiste.
@@ -6976,11 +6113,7 @@ siècles.
 Il n'y en a presque pas un qui ne fût peintre ou sculpteur. Et pour s'en instruire, il
 ne faut que lire VasariVII et voir les fameux temples, les superbes palais qu'ont faits
 
-<pb n="454">
-<figure type="estampe"><head><hi rend="it">Sébastien Le Clerc, d'après Charles Le Brun,</hi></head>
-<hi rend="it">Ordre français,</hi>
-Paris, BNF, département des Estampes.
-</figure>
+
 
 <pb n="455">
 Michel-Ange et Raphaël. Et si ce dernier a mérité le nom de divin par son dessein et
@@ -7006,26 +6139,8 @@ Ce sera lui qui vous fera prendre part dans la composition de ce fameux ord re f
 qui doit porter autant de figures allégoriques qu'il aura d'ornements pour marquer
 l'état glorieux où est aujourd'hui la France sous le règne de Louis XIV, le plus grand et
 le plus triomphant monarque qu'elle ait jamais eu.
-<métadonnée> Ce présent discours a été prononcé par Monsieur Le Brun en l'assemblée publique de l'Académie royale de
-peinture et de sculpture le 9e jour de janvier mil six cent soixante et douze. H. Testelin</p>
 
-<p>À la fin du mois de janvier 1672, meurt le chancelier Séguier, protecteur de
-l'Académie. Celle-ci interrompt alors la plupart de ses occupations habituelles pour
-lui préparer une cérémonie funèbre, qui a lieu le 5 mai 1672. Les conférences sont
-suspendues jusqu'au début du mois de juin.</p></métadonnée>
 
-<pb n="456">
-<note xml:id="N231" target="#A231"><p>Expression raturée et remplacée par : « fait paraître à nos yeux. »</p></note>
-<note xml:id="N232" target="#A232"><p>Raturé et remplacé d'une seconde main par : « figures. »</p></note>
-<note xml:id="N233" target="#A233"><p>Terme raturé et remplacé par « Stasicrate ». Il s'agit effectivement de cet architecte, également appelé Dinocratès, et cité par Vitruve, op. cit., II, préface.</p></note>
-<note xml:id="N234" target="#A234"><p>« s'accommoda » d'une seconde main.</p></note>
-<note xml:id="N235" target="#A235"><p>Ce paragraphe et le précédent depuis « Car assurément » ont été rayés sur le manuscrit.</p></note>
-<note xml:id="N236" target="#A236"><p>Ajouté d'une seconde main : « et les ingénieurs ».</p></note>
-<note xml:id="N237" target="#A237"><p>Ms. : « Vasarry ».</p></note>
-<note xml:id="N238" target="#A238"><p>Ms. : « Cerlio ».</p></note>
-<note xml:id="N239" target="#A239"><p>Ms. : « Pietre de Cortone, André Saquy ».</p></note>
-<note xml:id="N240" target="#A240"><p>De là à la fin de l'avant-dernier paragraphe, le manuscrit est rayé.</p></note>
-<note xml:id="N241" target="#A241"><p>En marge, d'une autre main : « n'ayant autre intention, comme il le fait assez voir, que de porter ces beaux arts dans la perfection où ils ont été autrefois. »</p></note>
 </div>
 
 		</body>
