@@ -2,78 +2,92 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title xml:lang="fra">Optique de portraiture et de peinture, Paris, chez l'auteur</title>
-        <respStmt>
-          <name>Emma Bondoerffer</name>
-          <resp>Transcription</resp>
-        </respStmt>
-        <respStmt>
-          <name>Carla Tricon</name>
-          <resp>Identification des œuvres</resp>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>ArTerm</publisher>
-        <pubPlace>Paris</pubPlace>
-        <date when="2028">2028</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>Public domain<author ref="ark:/12148/cb306298335">Huret<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=8/TTL=1/SHW?FRST=2</idno>
-          </author>
-          <title xml:lang="fra">Optique de portraiture et de peinture, Paris, chez l'auteur</title>
-          <publisher>Chez l'Auteur</publisher>
-          <pubPlace>Paris</pubPlace>
-          <date when="1670">1670</date>
-        </bibl>
-        <msDesc>
-          <msIdentifier>
-            <country>France</country>
-            <settlement ref="#Paris">Paris</settlement>
-            <institution>Bibliothèque nationale de France</institution>
-            <repository />
-            <idno type="USTC">https://www.ustc.ac.uk/editions/6123137</idno>
-          </msIdentifier>
-        </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
-      </projectDesc>
-      <editorialDecl>
-        <correction status="medium" method="silent">
-          <p>édition complète</p>
-        </correction>
-        <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
-        </normalization>
-        <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
-        </punctuation>
-        <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
-        </segmentation>
-        <hyphenation eol="none" />
-        <stdVals>
-          <p>Norme ISO-8601 pour les dates</p>
-        </stdVals>
-      </editorialDecl>
-      <p />
-    </encodingDesc>
-    <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
-    </profileDesc>
-  </teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="fra">Optique de portraiture et de peinture, Paris, chez
+               l'auteur</title>
+            <respStmt>
+               <name>Emma Bondoerffer</name>
+               <resp>Transcription</resp>
+            </respStmt>
+            <respStmt>
+               <name>Carla Tricon</name>
+               <resp>Identification des œuvres</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>ArTerm</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2028">2028</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora ©
+                  2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Public domain<author ref="ark:/12148/cb306298335">Huret<idno type="ISNI"
+                     >https://isni.oclc.org/cbs/DB=1.2/SET=8/TTL=1/SHW?FRST=2</idno>
+               </author>
+               <title xml:lang="fra">Optique de portraiture et de peinture, Paris, chez
+                  l'auteur</title>
+               <publisher>Chez l'Auteur</publisher>
+               <pubPlace>Paris</pubPlace>
+               <date when="1670">1670</date>
+            </bibl>
+            <msDesc>
+               <msIdentifier>
+                  <country>France</country>
+                  <settlement ref="#Paris">Paris</settlement>
+                  <institution>Bibliothèque nationale de France</institution>
+                  <repository/>
+                  <idno type="USTC">https://www.ustc.ac.uk/editions/6123137</idno>
+               </msIdentifier>
+            </msDesc>
+            <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de
+               la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de
+               traduction des théories des arts d'une langue à l'autre et des transferts
+               linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire
+               franco-italien du patrimoine artistique.</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction status="medium" method="silent">
+               <p>édition complète</p>
+            </correction>
+            <normalization method="silent">
+               <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des
+                  ponctuations et accentuations ont été normalisées en suivant les règles de
+                  typographies du 20è siècle.</p>
+            </normalization>
+            <punctuation marks="some">
+               <p>En français, les point-virgules ont souvent été transformés en virgules ou en
+                  point, le reste des ponctuations ont été conservées comme dans les imprimés de
+                  référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier
+                  la lecture.</p>
+            </punctuation>
+            <segmentation>
+               <p>Les paragraphes sont indiqués dans des balises p, enfant de balises
+                  div/div1/div2/div3/div4. Structure de ce fichier : </p>
+            </segmentation>
+            <hyphenation eol="none"/>
+            <stdVals>
+               <p>Norme ISO-8601 pour les dates</p>
+            </stdVals>
+         </editorialDecl>
+         <p/>
+      </encodingDesc>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
    <text>
       <front>
          <div type="titre">
@@ -181,29 +195,29 @@
                debitez publiquement de toutes parts, l'honneur de ladite Academie s'en trouveroit
                notablement interessé, si elle ne faisoit connoistre aussi publiquement, par
                quelqu'un de son corps, les erreurs et faussetez non seulement des leçons contenuës
-               audit Traité de <date when="1665">1665</date>. mais aussi des autres œuvres dudit
-               Autheur, pour faire voir qu'elles sont absolument indignes d'être enseignées dans son
-               école à ses eleves ; et c'est à quoy je m'employe vers la fin de ce Traité, comme y
-               estant non seulement obligé pour l'interest de la verité, et les motifs cy-dessus,
-               mais encore parce que cette Royale et celebre Academie a receu le deuxième serment
-               que j'ay fait au Roy, de servir fidellement sa Majesté de tout mon pouvoir, et sadite
-               Academie, ainsi que je suis resolu de faire, sans que l'interest des Autheurs anciens
-               et modernes, qui auront écrit des faussetez sur ce sujet, m'en puisse détourner, quoy
-               que d'ailleurs j'estime leurs personnes, que je voudrois servir en autre occasion. </p>
+               audit <bibl key="bosseTraitePratiquesGeometrales1665">Traité de <date when="1665"
+                     >1665</date></bibl>. mais aussi des autres œuvres dudit Autheur, pour faire
+               voir qu'elles sont absolument indignes d'être enseignées dans son école à ses eleves
+               ; et c'est à quoy je m'employe vers la fin de ce Traité, comme y estant non seulement
+               obligé pour l'interest de la verité, et les motifs cy-dessus, mais encore parce que
+               cette Royale et celebre Academie a receu le deuxième serment que j'ay fait au Roy, de
+               servir fidellement sa Majesté de tout mon pouvoir, et sadite Academie, ainsi que je
+               suis resolu de faire, sans que l'interest des Autheurs anciens et modernes, qui
+               auront écrit des faussetez sur ce sujet, m'en puisse détourner, quoy que d'ailleurs
+               j'estime leurs personnes, que je voudrois servir en autre occasion. </p>
             <pb/>
             <p xml:id="HUR_OPP_avertissement_P3"> Or le principal de cet ouvrage consiste aux regles
                et moyens que j'ay cy-devant promis en mes Réponses, tant au Journal des Sçavans du
-               2. <persName ref="#Mars">Mars</persName>
-               <date when="1665">1665</date>. qu'audit écrit sans nom, adressé aux curieux de
-               l'Architecture, etc. du 23. May audit an, sçavoir pour trouver les diminutions des
-               figures, etc. en un quelconque enfoncement requis, au moyen de la seule ligne
-               horizontale, et de reduire les plus superbes Architectures en perspective, sans aucun
-               plan geometral ny aucun point de distance, soit dehors ny dedans le Tableau ; comme
-               encore de trouver l'enfoncement perspectif d'une quelconque grandeur geometrale
-               incommensurable à la distance et à la base du Tableau, sans se servir d'aucun point
-               de distance, ny d'aucune diagonale de quarré perspectif, laquelle maniere à cinq
-               avantages considerable sur toutes celles données cy-devant, ainsi qu'il sera remarqué
-               Section 28. </p>
+                  <date when="1665.03.02">2 mars 1665</date> qu'audit écrit sans nom, adressé aux
+               curieux de l'Architecture, etc. du <date when="1665.05.23">23. May audit an</date>, sçavoir pour trouver les
+               diminutions des figures, etc. en un quelconque enfoncement requis, au moyen de la
+               seule ligne horizontale, et de reduire les plus superbes Architectures en
+               perspective, sans aucun plan geometral ny aucun point de distance, soit dehors ny
+               dedans le Tableau ; comme encore de trouver l'enfoncement perspectif d'une quelconque
+               grandeur geometrale incommensurable à la distance et à la base du Tableau, sans se
+               servir d'aucun point de distance, ny d'aucune diagonale de quarré perspectif,
+               laquelle maniere à cinq avantages considerable sur toutes celles données cy-devant,
+               ainsi qu'il sera remarqué Section 28. </p>
             <p xml:id="HUR_OPP_avertissement_P4"> Et voilà par où je commence la premiere Partie de
                ce Traité, de laquelle j'employe jusques à la Section 52. à en donner divers exemples
                sur les trois premieres figures des soixante-deux que contiennent ensemble les huit
@@ -4199,12 +4213,12 @@
                   soient equidistantes comme les plintes, fig. 24. ou non, il faut donner à chaque
                   plinte son point particulier, qui soit en mesme raison entr'eux que les
                   intervalles desdites plintes. </p>
-               <p xml:id="HUR_OPP_L1_L1S142_P2"> Et pour ce faire vous décrirez sur le plan de niveau
-                  devant le Tableau, et du point de station E, comme centre, et d'une intervalle à
-                  discretion, quoy que le plus grand soit le meilleur l'arc H, u, t. lequel vous
-                  diviscrez en tel nombre de parties pair ou impair de parties égales que vous aurez
-                  de besoin, pour trouver les points de concours correspondans aux divers corps
-                  d'Architecture que vous voulez reduire. </p>
+               <p xml:id="HUR_OPP_L1_L1S142_P2"> Et pour ce faire vous décrirez sur le plan de
+                  niveau devant le Tableau, et du point de station E, comme centre, et d'une
+                  intervalle à discretion, quoy que le plus grand soit le meilleur l'arc H, u, t.
+                  lequel vous diviscrez en tel nombre de parties pair ou impair de parties égales
+                  que vous aurez de besoin, pour trouver les points de concours correspondans aux
+                  divers corps d'Architecture que vous voulez reduire. </p>
             </div2>
             <div2 xml:id="L1S143" type="section" n="143">
                <p xml:id="HUR_OPP_L1_L1S_P10"> Exemple, ayant à moderer la dépravation du quarré
