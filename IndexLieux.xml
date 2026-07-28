@@ -4,7 +4,7 @@
     <listPlace>
       <place xml:id="Abruzzes" source="https://www.wikidata.org/wiki/Q1284"/>
       <place xml:id="Basilicate" source="https://www.wikidata.org/wiki/Q1452"/>
-      <place xml:id="Soest" source="https://www.wikidata.org/wiki/Q6149"></place>
+      <place xml:id="Soest" source="https://www.wikidata.org/wiki/Q6149"/>
       <place xml:id="Panchaea" source="https://www.wikidata.org/wiki/Q1120415"/>
       <place xml:id="Carmania" source="https://www.wikidata.org/wiki/Q1734044"/>
       <place xml:id="Thermopyles" source="https://www.wikidata.org/wiki/Q194450"/>
@@ -232,6 +232,8 @@
         <placeName xml:lang="ita">Parnaso</placeName>
       </place>
       <place xml:id="Cracovie" source="https://www.wikidata.org/wiki/Q31487"/>
+      <place xml:id="Chaillot" source="https://www.wikidata.org/wiki/Q3413160"/>
+      <place xml:id="Auteuil" source="https://www.wikidata.org/wiki/Q784536"/>
       <place xml:id="Arno" source="https://www.wikidata.org/wiki/Q115457"/>
       <place xml:id="MontFalterona" source="https://www.wikidata.org/wiki/Q749841"/>
       <place xml:id="Salerno" source="https://www.wikidata.org/wiki/Q1083"/>
@@ -2776,14 +2778,14 @@
         </location>
         <idno type="wikidata">Q190134</idno>
       </place>
-      <place xml:id="Urbino" source="https://www.wikidata.org/wiki/Q190134">
-        <placeName xml:lang="fra">Urbania</placeName>
-        <placeName xml:lang="ita">Urbania</placeName>
+      <place xml:id="Urbino" source="https://www.wikidata.org/wiki/Q2759">
+        <placeName xml:lang="fra">Urbino</placeName>
+        <placeName xml:lang="ita">Urbino</placeName>
         <location>
           <country>Italie</country>
-          <geo>43.667773055556 12.522088055556</geo>
+          <geo>43.725239, 12.6372</geo>
         </location>
-        <idno type="wikidata">Q190134</idno>
+        <idno type="wikidata">Q2759</idno>
       </place>
       <place xml:id="Valdarno" source="https://www.wikidata.org/wiki/Q538820">
         <placeName xml:lang="fra">Valdarno</placeName>
