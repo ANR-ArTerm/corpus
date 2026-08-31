@@ -4,17 +4,62 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title xml:lang="fra"> Entretiens 2 </title>
+				<title xml:lang="fra">Entretiens sur les vies et sur les ouvrages des plus excellens peintre, anciens et modernes, 2e partie</title>
+				<respStmt>
+					<name>Teklia</name>
+					<resp>Transcription</resp>
+				</respStmt>
+				<respStmt>
+					<name>Julia Castiglione</name>
+					<resp>Structuration</resp>
+				</respStmt>
 			</titleStmt>
+			<editionStmt>
+				<edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+			</editionStmt>
 			<publicationStmt>
-				<publisher> tranScriptorium </publisher>
+				<publisher>ArTerm</publisher>
+				<pubPlace>Paris</pubPlace>
+				<date when="2028">2028</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+				</availability>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl>
-					<publisher> TRP document creator: julia.castiglione1@gmail.com </publisher>
+				<bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k1040250v.r=entretiens%20f%C3%A9libien?rk=21459;2">
+					<author>André Félibien<idno type="ISNI">https://isni.org/isni/0000000121355571</idno>
+					</author>
+					<title xml:lang="fra">Entretiens sur les vies et sur les ouvrages des plus excellens peintre, anciens et modernes, 2e partie</title>
+					<publisher>Sébastien Mabre-Cramoisy</publisher>
+					<pubPlace>Paris</pubPlace>
+					<date when="1672">1672</date>
+					<availability>
+						<p>BnF/Gallica</p>
+					</availability>
 				</bibl>
+				<xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
 			</sourceDesc>
 		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+			</projectDesc>
+			<editorialDecl>
+				<correction status="low" method="silent">
+					<p>édition synthétique</p>
+				</correction>
+				<normalization method="silent">
+					<p>Les ambiguïtés entre i, j, u, v ont été corrigées automatiquement ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+				</normalization>
+				<segmentation>
+					<p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4.</p>
+				</segmentation>
+				<hyphenation eol="none"/>
+				<stdVals>
+					<p>Norme ISO-8601 pour les dates</p>
+				</stdVals>
+			</editorialDecl>
+		</encodingDesc>
 		<profileDesc>
 			<xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
 			<xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
@@ -688,7 +733,7 @@
 					<p xml:id="FEL_E2_L2_E4_P167"> Son Chef-d'œeuvre fut une descente de Croix, qu'il fit pour la Confrairie des Menui siers d'<placeName ref="#Anvers">Anvers</placeName>, qui la mirent dans une Chapel le de l'Eglise Cathedrale. Ce Tableau est couvert de deux volets. Dans l'un est representé le Martyre de <persName ref="#SaintJean">Saint Jean</persName> l'Evangeliste; et dans l'autre Hérodias qui danse tenant la <pb n="339"/> teste de <persName ref="#SaintJeanBaptiste">S. Jean Baptiste</persName>. Lors que le Roy d'Espagne Philippes II. alla en <placeName ref="#Flandres">Flandres</placeName>, il eust bien voulu emporter ce Tableau, mais on luy témoigna qu'on ne pouvoit l'oster du licu où il estoit. Toutefois dans les troubles qui ar riverent ensuite, lors que les Héretiques bri serent quantité d'Images, <persName ref="#MaertenDeVos">Martin de Vos</persName> Peintre, qui craignoit que cette Peinture ne fust perduë, persuada aux Magistrats de l'acheter des Maistres de la Confrairie pour la mettre en seûreté : ce qu'ils firent, et en payerent quinze cens livres, dont les Maistres achete rent une maison pour faire leurs assemblées. </p>
 					<p xml:id="FEL_E2_L2_E4_P168"> Ce Peintre a fait quantité d'autres Tableaux, qui ont esté répandus de tous costez. Il y avoit dans le Cabinet du feu Roy d'Angleterre Charles I. les Portraits d'<persName ref="#Erasmus">Erasme</persName> et de Petrus Aegidius dans une mesme Ovale; le dernier tenoit une Lettre, que <persName ref="#ThomasMore">Thomas Morus</persName>, qui estoit intime amy de tous les deux, luy avoit écrite. Il y a des Vers de ce Chancelier d'<placeName ref="#Angleterre">Angleterre</placeName> sur le sujet de ces deux Portraits que jay appris autrefois d'un de mes amis amateur des belles Lettres, et qui a fait plu sieurs recherches sur les vies des personnes il lustres dans toutes les sciences . C'est aussi de luy que jay sceû plusieurs choses qui regar <pb n="340"/> 340 dent quelques Peintres Flamans. Je vas vous dire les Vers, si je puis men souvenir. </p>
 					<p xml:id="FEL_E2_L2_E4_P169"> C'est le Tableau qui parle. Quanti olim fuerant <persName ref="#Pollux">Pollux</persName> et <persName ref="#Castor">Castor</persName> amici, Erasmum tantos Agidiumque fero Morus ab his dolet esse loco sejunctus amore, Tam prope quàm quisquam vix queat esse sibi. Sic desiderio est consultum absentis vt horum Reddat amans animum littera, corpus ego. Et aprés Morus parle luy-mesme à <persName ref="#QuintenMetsys">Quintin</persName> en cette sorte: Quintine, ò veteris Novator artis Magno non minor artifex <persName ref="#Apelle">Appelle</persName>! Mire composito potens colore Vitam adfingere mortuis figuris Hei! cur effigies labore tanto Factas tam benè, talium virorum Quales prisca tulere secla raros, Quales tempora nostra rariores, Quales, haud scio, post futura, an vllos Te juvit fragili indidisse ligno Dandas materiae fideliori Quae servare datas queat perennes: O si sic poteras tuaque famae, et Votis consuluisse posterorum Nam si saecula quae sequentur, vllum Servabunt studium artium bonarum <pb n="341"/> Nec <persName ref="#Mars">Mars</persName> horridus obteret Minervam, Quanti hanc posteritas emat tabellam. </p>
-					<p xml:id="FEL_E2_L2_E4_P170"> Il y avoit chez <persName ref="#GeorgeVilliers">le Duc de Bouquingan</persName>, et chez le Comte d'Arondel plusicurs Portraits de la main de <persName ref="#QuintenMetsys">Quintin</persName>. Les plus beaux qui se voyent encore de luy estoient il n'y a pas long-temps chez un Marchand d'<placeName ref="#Anvers">Anvers</placeName> nom mé Stenens, dont l'un represente un Banquier et sa femme qui comptent et pesent de l'ar gent, et qui fut fait dés l'an <date when="1514">1514</date>. Il y en a d'autres, où l'on voit des gens qui jouënt aux Cartes. Le sieur <persName ref="#CorneliusVanDerGeest">Corneille Vander-Geest</persName>  avoit aussi une <persName ref="#Marie">Vierge</persName> que l'on estimoit beaucoup. Il y a dans l'Eglise de <persName ref="#SaintPierre">Saint Pierre</persName> de Louvain un Tableau de Sainte Anne; et ceux de cette Ville qui en font grand estat ont soû tenu que ce Peintre estoit né chez eux: mais ceux d'<placeName ref="#Anvers">Anvers</placeName> leur disputent cét honneur. Il y mourut l'an <date when="1529">1529</date>. et fut enterré dans l'Eglise des Chartreux, qui estoit dans les fos sez de la Ville, d'où cent ans aprés ses os ont esté retirez par les soins de ce <persName ref="#CorneliusVanDerGeest">Corneille Vander-Geest</persName>, qui les fit mettre au pied de la Tour de l'Eglise Cathedrale de Nostre-Dame d'<placeName ref="#Anvers">Anvers</placeName>, et au dessus fit élever l'lmage de <persName ref="#QuintenMetsys">Quintin</persName> taillée de Marbre blanc avec cet Epi taphe. </p>
+					<p xml:id="FEL_E2_L2_E4_P170"> Il y avoit chez <persName ref="#GeorgeVilliers">le Duc de Bouquingan</persName>, et chez le Comte d'Arondel plusicurs Portraits de la main de <persName ref="#QuintenMetsys">Quintin</persName>. Les plus beaux qui se voyent encore de luy estoient il n'y a pas long-temps chez un Marchand d'<placeName ref="#Anvers">Anvers</placeName> nom mé Stenens, dont l'un represente un Banquier et sa femme qui comptent et pesent de l'ar gent, et qui fut fait dés l'an <date when="1514">1514</date>. Il y en a d'autres, où l'on voit des gens qui jouënt aux Cartes. Le sieur <persName ref="#CorneliusVanDerGeest">Corneille Vander-Geest</persName> avoit aussi une <persName ref="#Marie">Vierge</persName> que l'on estimoit beaucoup. Il y a dans l'Eglise de <persName ref="#SaintPierre">Saint Pierre</persName> de Louvain un Tableau de Sainte Anne; et ceux de cette Ville qui en font grand estat ont soû tenu que ce Peintre estoit né chez eux: mais ceux d'<placeName ref="#Anvers">Anvers</placeName> leur disputent cét honneur. Il y mourut l'an <date when="1529">1529</date>. et fut enterré dans l'Eglise des Chartreux, qui estoit dans les fos sez de la Ville, d'où cent ans aprés ses os ont esté retirez par les soins de ce <persName ref="#CorneliusVanDerGeest">Corneille Vander-Geest</persName>, qui les fit mettre au pied de la Tour de l'Eglise Cathedrale de Nostre-Dame d'<placeName ref="#Anvers">Anvers</placeName>, et au dessus fit élever l'lmage de <persName ref="#QuintenMetsys">Quintin</persName> taillée de Marbre blanc avec cet Epi taphe. </p>
 					<p xml:id="FEL_E2_L2_E4_P171">
 						<pb n="342"/> QUINTINO MATSYS INCOMPARABILIS ARTIS PICTORI, ADMIRATRIX GRATAQUE POSTERITAS ANNO POST OBITUM SAECULARI CIO IOCXXIX. Posuit. Et plus bas est écrit sur un Marbre noir en lettres d'or. CONNUBIALIS AMOR DE MULCIBE FECIT APELLEM. </p>
 					<p xml:id="FEL_E2_L2_E4_P172"> Il fit beaucoup mieux les Portraits que les autres Tableaux d'Histoires. Il laissa de son mariage un fils nommé Jean, qui fut aussi Pein tre, et imita la manière de son pere. </p>
