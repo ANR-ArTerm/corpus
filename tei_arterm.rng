@@ -1386,6 +1386,8 @@
       <ref name="tei_att.sortable.attributes"/>
       <ref name="tei_att.canonical.attribute.ref"/>
       <ref name="tei_att.canonical.attribute.key"/>
+    </optional>
+    <optional>
       <attribute name="source"/>
     </optional>
   </define>
@@ -2974,6 +2976,8 @@
         <value>it</value>
         <value>capitals</value>
         <value>normal</value>
+        <value>bold</value>
+        <value>underline</value>
       </choice>
     </attribute>
     <optional>
