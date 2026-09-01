@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title xml:lang="fra">Traicté de perspective, faict par un peintre de l'Academie royale. Dedié a Monsieur Lebrun, premier peintre du Roy.</title>
@@ -26,7 +26,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Source gallica.bnf.fr / Bibliothèque nationale de France<author ref="https://catalogue.bnf.fr/ark:/12148/cb33628973v.public">Le Bicheur<idno type="ISNI" />
+        <bibl>Source gallica.bnf.fr / Bibliothèque nationale de France<author ref="https://catalogue.bnf.fr/ark:/12148/cb33628973v.public">Le Bicheur<idno type="ISNI"/>
           </author>
           <title xml:lang="fra">Traicté de perspective, faict par un peintre de l'Academie royale. Dedié a Monsieur Lebrun, premier peintre du Roy.</title>
           <publisher>Gérard Jollain</publisher>
@@ -38,11 +38,11 @@
             <country>France</country>
             <settlement ref="#Paris">Paris</settlement>
             <institution>Bibliothèque nationale de France</institution>
-            <repository />
+            <repository/>
             <idno type="USTC">https://www.ustc.ac.uk/editions/6164232</idno>
           </msIdentifier>
         </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -62,1010 +62,330 @@
         <segmentation>
           <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (TitlePage + dedicate + 4 notes) + body (div1 11 div2 + div1 10 div2) + back (privilege)</p>
         </segmentation>
-        <hyphenation eol="none" />
+        <hyphenation eol="none"/>
         <stdVals>
           <p>Norme ISO-8601 pour les dates</p>
         </stdVals>
       </editorialDecl>
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
     </profileDesc>
   </teiHeader>
-   <text>
-      <front>
-         <titlePage>
-            <pb n="1"/>
-            <docTitle>
-               <titlePart type="main">Traicté de Perspective Faict Par un Peintre de L'Academie
-                        Royale</titlePart>
-            </docTitle>
-            <byline> Dedié A Monsieurs <persName ref="#CharlesLeBrun"> le Brun</persName>
-                    Premier Peintre du Roy A <placeName ref="#Paris">Paris</placeName>
-            </byline>
-            <docImprint>
-               <pubPlace>Chez Jollain, Rue st Jacques, à la ville de <placeName ref="#Cologne">
-                            Cologne</placeName>
-               </pubPlace>
-            </docImprint>
-            <imprimatur>Avec Privilege du Roy</imprimatur>
-            <docImprint>
-               <publisher>
-                  <persName ref="#Jo">F. Jollain
-                        Sculpsit.</persName>
-               </publisher>
-            </docImprint>
-         </titlePage>
-         <pb type="blankpage"/>
-         <div type="dedicace">
-            <pb n="2" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f7/full/full/0/native.jpg"/>
-            <head> A Monsieur <persName ref="#CharlesLeBrun">Monsieur le Brun</persName> premier
-                    Peintre du Roy</head>
-            <p xml:id="LEB_TP_dedicace_P1">Monsieur</p>
-            <p xml:id="LEB_TP_dedicace_P2"> Je Vous supplie d'avoir agreable ce petit Traicté de Perspective. il est
-                    tellement à vous, et je vous le dois par tant de raisons, que je ne pourois le
-                    presenter à quelqu'autre, sans paroistre le plus Ingrat le plus Injuste, et le
-                    plus meconoissant du monde. je Vous ledois premierement pour l'honneur que Vous
-                    me faicte de Vostre amitie. Secondement par Justice, puis que Vous avez souffert
-                    pour lui des invectives, mesmes auparavant sa naissance. et come si ses bouclies
-                    mensongeres et ses cœurs plains denvie eussent preveu que Vous deviez estre son
-                    protecteur et son deffenseur, il Vous ont attaque par anticipation fulminat de
-                    secrette menace de le faire avorter, mais puisque dieu merci il amaintenant un
-                    corps et quil ne craidra rien sous Vostre protection, il se vient amoureusement
-                    rendre entre vos mains, pour estre sous l'asile de Vostre nom celebre, avec le
-                    quel il espere passer par tous les cabinets des honnestes gens, et des personnes
-                    Vertueuses. il espere encore que demeurant particulierement chez vous come un de
-                    vos amis, il poura quelquefois <pb n="3" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f8/full/full/0/native.jpg"/> vous faire ressouvenir quil y a este
-                    conceu, lorsque dans les agreables entretiens que j'ai eu avec vous sur le sujet
-                    de cette belle, science, je recevois par je ne scai quelle influence de vostre
-                    rare esprit des mouvemens secrets, et des desirs ardans, de m'appliquer à ce
-                    subjet, et come vous posseder excellement toutes les belles et riches parties de
-                    la peinture, dont la perspective en est une autant dificile en sa pratique,
-                    quelle est belle et necessaire je formai le dessei d'inventer cette nouvelle
-                    maniere, pour Soulager particulierement les peintres, et satisfaire a beaucoup
-                    d'honnestes gens. Vous aiant communiqué mon projet Vous ne l'approuvastes pas
-                    seullement, mais Vous my incitastes si genereusement, que Jentrepris ce travail
-                    avec beaucoup de courage, et de hardiesse. si bien que je puis franchement
-                    advouer que ce petit ouvrage est plus à Vous qu'à moy et quil est juste quil
-                    retourne à son principe, où je le viens humblement rendre, Vous suppliant
-                    Monsieur de le recevoir comme une offrande que vous faict </p>
-            <signed> Vostre plus humble serviteur et plus Inthime Amy J.B </signed>
-         </div>
-         <pb n="4" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f9/full/full/0/native.jpg"/>
-         <div type="preface">
-            <head> De la connoissance quil faut avoir pour pratiquer la Perspective </head>
-            <p xml:id="LEB_TP_preface_P1"> Toutes les personnes savantes en perspective sont d'accord, que pour bien
-                    pratiquer cet art, Il faut premierement considerer et connoistre trois choses,
-                    comme l'on void, ce que l'on void, et ce surquoy il faut faire les
-                    representations ; lesquelles choses sont entendues sous ces trois mots, L'œil,
-                    l'Objet, et le Tableau. </p>
-            <p xml:id="LEB_TP_preface_P2"> L'œil se considerera comme un point, ou pour mieux dire, ce point pour son
-                    centre. Il faut se figurer qui de ce point partent une infinité de rayons vers
-                    les objets, ou que par leur moien les objets lui renvoient leur especes : et
-                    s'imaginer que ces rayons forment tous ensembles une figure Conique, dont la
-                    pointe est au centre de Lœil, et la baze enveloppe les objets. </p>
-            <p xml:id="LEB_TP_preface_P3"> Il faut aussi savoir à quelle distance L'œil sera eloigné du tableau. prendre
-                    garde s'il n'en est point si proche quil ne pût voir ce qui y seroit representé
-                    sans effort et sans confusion, et de la distance raisonnable, je ferai quelques
-                    demonstrations à la fin de ce livre. il faut encore connoistre son elevation,
-                    sur la terre : et remarquer s'il est dehors ou vis à vis quelqu'endroit du
-                    Tableau. </p>
-            <p xml:id="LEB_TP_preface_P4"> L'objet se doit connoistre en sa nature, en sa situation, et en sa grandeur. </p>
-            <p xml:id="LEB_TP_preface_P5"> En sa nature, si cest un point, une ligne, une superficie, ou un Corps </p>
-            <p xml:id="LEB_TP_preface_P6"> En sa situation, si le point est en l'air, ou posé sur la terre si la ligne est
-                    etendue dessus, ou elevée perpendiculairement, ou obliquement, si la superficie,
-                    et le Corps, sont droits ou panchez si ils sont veus de face ou non. </p>
-            <p xml:id="LEB_TP_preface_P7"> En sa grandeur, le point n'a aucune dimension, et ne se peut mesurer, la ligne
-                    se mesure en longueur : la superficie en longueur et largeure. le Corps a de
-                    plus une troisiesme dimension, qui est hauteur ou profondeur. </p>
-            <pb n="5" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f10/full/full/0/native.jpg"/>
-            <p xml:id="LEB_TP_preface_P8"> Le Tableau qui est le sujet sur lequel se doivent tracer et peindre, les
-                    representations, se doit semblablement connoistre en sa nature, en son étendue,
-                    et en sa situation. </p>
-            <p xml:id="LEB_TP_preface_P9"> En sa nature, s'il est plain, cest à dire uni, concave, ou convexe,ou sil a
-                    quelqu'autre inegalité. </p>
-            <p xml:id="LEB_TP_preface_P10"> En son étendue, il faut savoir la mesure de sa hauteur, et de sa largeur a fin
-                    de deliberer et choisir ce qui si poura convenablement representer, et selon son
-                    espace determiner la distance de l'œil. En sa situation, s'il est
-                    perpendiculaire sur la terre, ou panché en devant ou renversé en ariere si il
-                    est veu de face ou detourné adroit ou à gauche. </p>
-            <p xml:id="LEB_TP_preface_P11"> Apres les connoissances dont je viens de traitter, il faut encore avoir celles
-                    du point et de quelques lignes principalles, qui servent à la reduction de
-                    toutes sortes de figure en racourci, et il est necessaire de les connoistre par
-                    leurs noms. </p>
-            <p xml:id="LEB_TP_preface_P12"> Premierement la ligne qui se trace sur le tableau à la hauteur de l'œil se nomme
-                    communement ligne orisontalle, qu'oi qu'assez improprement : toutefois je lui
-                    laisserai ce nom, elle traverse tout le tableau,a fin de donner la liberté
-                    d'assoir le point entel lieu que l'on voudra, ce point est nommé principal, et
-                    par quelques uns, point de l'œil mais il ne peut avoir ce nom puis qu'au
-                    contraire il n'est que la representanon d'un point qui lui est directement
-                    opposé, mesme d'une distance infinie, le nom de principal lui conuient beaucoup
-                    mieux, particulierement en cette pratque, où il est le principal agent : cest
-                    donc celui que je lui laisserai, de ce point ce tire une infinité de lignes
-                    s'ouvrant en se rabaissant sur la baze elles portent le nom de Radialles Raions,
-                    ou Rais visuels, presque par tous les auteurs, pour moy je ne puis comprendre
-                    pourquoy : puis qu'elles partent d'un point qui n'est pas celui de l'œil comme
-                    je viens de dire, je croi qu'elles sont plustost les representations des
-                    paralelles lesquelles sont étendues en long sur la terre cependant je leur
-                    laisserai ce nom de Radialles puis quil est en usage. </p>
-            <pb n="6" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f11/full/full/0/native.jpg"/>
-            <p xml:id="LEB_TP_preface_P13"> Bien que tout ce que je viens de faire entendre soit general, et que ces
-                    connoissances soient necessaires en toutes sortes de pratiques de perspectives,
-                    il y a pourtant quelque singuliarité pour celle ci, comme cette distance de
-                    l'œil au tableau, laquelle sert ici ainsi que seroit une mesure telle qu'ne
-                    toise perché ou chaine, avec laquelle l'on iroit mesurant la terre en sa
-                    longueur, de plus que neje ne fais estat que d'un point qui est ce lui appelle
-                    principal, qui travaille, seul en cette pratique, l'on peut remarquer quelle a
-                    peu de lignes, qu'elle est prompte et juste au rapport du geometral au
-                    perspectif, duquel la reduction ce fait sur deux ou 3 lignes dans le tableau, et
-                    que l'echelle est simplement geometral. Voila en gros les remarques, que je
-                    laisse à particuliariser à ceux qui voudront pratiquer cette maniere, mais a fin
-                    de donner plus de satisfaction aux intelligens, ils trouveront des theoresmes
-                    sur Quelque probleme par lesquels ils connoistront la certitude de ces
-                    constructions pour ce qui est des simples praticiens, outre que jai taché de me
-                    rendre clair en l'explication de mes problemes, je leur donne ici une
-                    demonstration mecanique, par laquelle ils toucheront au doit et a l'œil come se
-                    font les representations sur le tableau à la facon que les especes des objets ce
-                    raportent sur les corps diaphanes. </p>
-            <p xml:id="LEB_TP_preface_P14"> Si ce ci peut estre utille a quelque uns, je serai assez satisfait et je supplie
-                    les scavans de ne point trouver mauvais si je donne le jour à ce traité, puis
-                    que je l'œil fait sans ambition, et sans interest, avec assez de connoissance de
-                    mon incapacité : mais je me suis trouve engagé sans y penser, et le jugement des
-                    plus Intelligens me donne le courage de l'achever : ce que jai fait pour ceux
-                    qui le trouveront à leurs gré : et pour les autres ce la me sera toujours assez
-                    indifferent </p>
-         </div>
-         <div type="section">
-            <pb n="7" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f12/full/full/0/native.jpg"/>
-            <figure type="gravure"/>
-            <pb n="8" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f13/full/full/0/native.jpg"/>
-            <head type="main"> Theoreme 1 </head>
-            <head type="sub">De quelque distance que l'œil soit éloigné d'un triangle élevé sur
-                    la terre pourveu quil soit à la hauteur du Sommet de ce triangle luy semblera
-                    Couvrir Une Espace paralelle et infinie en longeur. </head>
-            <p xml:id="LEB_TP_section_P1"> Ce theoreme est le fondement de la demonstration mecanique dont voicy la figure,
-                    en la quelle par deux triangles de carton est representé le racourci en
-                    perspective dun plan, geometral, sur le quel ils sont posez il ya aussi deux
-                    autres cartons où est figuré l'œil de l'homme, au centre du quel est attaché un
-                    filet à la hauteur du sommet du triangle et ce filet faict icy l'office d'un
-                    rayon Visuel, de toutes ces choses ansi establies, je ferai ma demonstration par
-                    deux principalles observations </p>
-            <p xml:id="LEB_TP_section_P2"> I. Que les lignes radialles nous representent les lignes paralelles etendues en
-                    longeur au plan geometral parceque si vous dressez les triangles de carton
-                    parallellement aux cartons où est figuré l'œil de l'homme, et que vous
-                    conduissiez le filet le long des paralelles en longeur qui sont nottez A.B. et
-                    AB.Vous Verez qu'à mesure que vous conduirez le filet il s'elevera et suivera
-                    Les costez du triangle, qui sont en perspective des lignes radiales que si par
-                    une autre experiance vous ostez le filet, et que par le trou où il estoit
-                    attaché, vous reqardiez le triangle Pous apperèeueez que ces costez suvierent
-                    justement les parallles AB. et AB. au plan geometral : et le triangle couvrira
-                    toute lespace contenue entre ces lignes davantage vous connoistrez que quelque
-                    longeur quelles puissent avoir, elle ne s'eleveront jamais à la hauteur des
-                    triangles et que lespace qui restera de ces triangles Sera toujours proportionel
-                    à son tout. </p>
-            <pb n="9" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f14/full/full/0/native.jpg"/>
-            <p xml:id="LEB_TP_section_P3"> II. Que les parallelles à la baze der triangles, et qui traverse lespace entre
-                    les deux paraleles des longeurs AB. et AB. que je nomnreray icy parallelles des
-                    largeurs, composent entre elles Distances egalles, et qui le sont aussi à la
-                    distance de l'œil au tableau qui est en cette figure la distance depuis le
-                    carton où est figuré l'œil de l'homme, jusques au triangle de carton qui est le
-                    tableau. </p>
-            <p xml:id="LEB_TP_section_P4"> Que si vous arrestez le filet sur chacque pont où les lignes des largeurs
-                    toucheront celles des longeurs, vours verez que ce filet touchera sur les costez
-                    des triangles les extremitez de ces lignes des largeurs racourcies ce qui sera
-                    facille de veoir par le rapport de ces lignes du geometral au perpectif. Notez
-                    de pareils chiffres 1.1.2.2..3.3.4.4. etc. </p>
-         </div>
-         <div type="section">
-            <pb n="10" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f15/full/full/0/native.jpg"/>
-            <head type="main"> Theoreme II </head>
-            <head type="sub">Tout Parallellograme du quel deux costez opposez sont divisez en
-                    deux parties egalles par une ligne droitte, cette ligne sera aussi divisee en
-                    deux parties egalles par la diagonnalle.</head>
-            <figure type="gravure"/>
-            <p xml:id="LEB_TP_section_P5"> Par ce theoreme il est connu, que la moitie dont l'œil est elevé sur la terre
-                    est sur le tableau la hauteur qui temine le racourci d'une longeur egalle a la
-                    distance de l'œil au tableau. Car si en la figure de ce parallellograme A.B.C.D
-                    le costé A.B. est pris pour la hauteur de l'œil, le point B. pour son centre,
-                    B.F. pour la distance de l'œil au tableau, A.D. pour une longeur sur la terre,
-                    B.D. pour rayon visuel, E.F. pour une partie du tableau, E.G. qui est la moitié
-                    de cette ligne par la construction du theoreme sera le racourci de E.D.
-                    parcequ'au point de l'œil B. par le moien de son rayon B.D. ; la longeur E.D.
-                    est rapportee en E.G. : lequel E.G. est aussi moitié de la hauteur de l'œil A.B.
-                    egal à E.F. Ainsi il est certain que E.G. qui est la moitié de la hauteur de
-                    l'œil, est le racourci de la distance E.D. La quelle est egalle à la distance de
-                    l'œil au tableau. </p>
-            <pb n="11" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f16/full/full/0/native.jpg"/>
-            <p xml:id="LEB_TP_section_P6"> Autre preuve par Arithsmetique</p>
-            <p xml:id="LEB_TP_section_P7"> Soit Suppose la hauteur de l'œil A.B. etre de 5 pieds, la longeur sur la terre
-                    A.D. de trente, les deux moitie A.E. et E.D. seront chacune de 15 et je dirai si
-                    A.D. de 30 me donne A.B. 5, que me donnera E.D. de 15. lors je trouverai
-                    infalliblement par la reigle dor 2 1/2 qui est E.G., le quel est moitié de 5,
-                    hauteur de l'œil A.B. mais cest le racourci de la longeur de 15 E.D. qui est
-                    egalle a la distance 15 A.E., ou a son egalle B..E, distance de l'œil au
-                    tableau. </p>
-         </div>
-         <div type="section">
-            <pb n="12" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f17/full/full/0/native.jpg"/>
-            <head type="main"> Theroeme III </head>
-            <head type="sub"> Si deux costez opposez d'un rectangle sont divisez en deux parties
-                    egalles par une ligne droitte le rectangle sera aussi divisé en deux rectangles
-                    egaux par cette mesme ligne et si l'un des costez parallelle a leur coste commun
-                    est prolongé indeterminement et que de lautre rectangle soit menée une
-                    diagonnale par langle superieur de leur division et continuée au dehors jusqu'à
-                    ce quelle touche le costé prolongé cette diagonnale sera double comme aussi le
-                    costé prolongé et mesme le rectangle descrit alentour de cette diagonnalle
-                    prolongée sera double au premier rectangle </head>
-            <figure type="gravure"/>
-            <p xml:id="LEB_TP_section_P8"> Soit le rectangle C.E.e.c. divisé en deux parties egalles par la ligne F.f. et
-                    aussi en deux rectangles egaux C.E.f.F et F.f.e.c le costé prolongé soit C.G
-                    lequel est parallel au costé commun la diagonale qui passe par langle de leur
-                    division c.f. la quelle et menée au dehors et touche le costé prolongé au point
-                    G. toute cette ligne c.G. <pb n="13" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f18/full/full/0/native.jpg"/> est double de c.f. et la ligne C.G double
-                    du costé CE et encore le rectangle desrit a lentour de la diagonale prolongée
-                    C.G.g.c double du premier rectangle C.E.e.c. </p>
-            <p xml:id="LEB_TP_section_P9"> Application du 2me problème perspective</p>
-            <p xml:id="LEB_TP_section_P10"> Puisque le plan C.E.e.c. est le racourci dun plan rectangle et quil est divisé
-                    en deux parties egalles par la ligne A.F. et par mesme moien en deux plans egaux
-                    la diagonale c.f. si elle passe par langle de leur division et va toucher la
-                    radialle, qui est le costé prolongé, au point G. cette ligne sera double cpùùe
-                    aussi le costé prolongé selon le theorene et le plan C.G.g.c sera encore double
-                    du plan C.E.e.c. </p>
-         </div>
-      </front>
-      <body>
-         <div1 type="livre" n="1" xml:id="L1">
-            <pb n="14" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f19/full/full/0/native.jpg"/>
-            <head type="main"> Traite de Perspective </head>
-            <head> Première Partie </head>
-            <head type="sub"> Où il est enseigné à Reduire en perspective letendue superficielle
-                    de la terre qui se peut Veoir d'une seule station de l'œil et d'en conoistre la
-                    mesure tant en longueur quen largeur d'y situer des poincts et des lignes ou lon
-                    desirera eta telle distance et hauteur quon Voudra que l'œil soit du tableau. </head>
-            <div2 xml:id="L1C1" n="1" type="chapitre">
-               <pb n="15" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f20/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="16" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f21/full/full/0/native.jpg"/>
-               <head> Probleme I. </head>
-               <head> Comnent il faut sur un tableau, ou autre Superficie plane tournée de
-                        front, et dressée perpendiculairement, tracer les principalles lignes qui
-                        servent à reduire toutes sortes d'objets en perspective et comment il faut
-                        trouver le racourci dun plan rectangle, dont la longeur soit egalle a la
-                        distance de l'œil au tableau. </head>
-               <p xml:id="LEB_TP_L1_L1C1_P1"> Tirez au bas de vostre tableau une ligne qui serve de baze telle quest en
-                        cette figure la ligne C.c. deliberez la hauteur que vous voulez que l'œil
-                        soit élevé pardessus cette ligne, tirez a cette hauteur parallellement à la
-                        baze la ligne horisontalle B.b. posez dessus le point principal, jai mis ici
-                        deux de ces points, marquez A.A. pour faire entendre que lon peut poser ce
-                        point en telle place quon voudra de la ligne horisontalle. Apres, tirez de
-                        ce poit jusques sur la baze les lignes radialles telles que sont A.C. et
-                        A.c. ces lignes nous representent des lignes parallelles en longeur. Comme
-                        jai dit en mon avant propos, et fait veoir en la demonstration mecanique,
-                        ces radialles doivent enfermer sur la baze une mesure conue et pour ce
-                        subjet il faut faire une échelle de pieds qui soient convenable à la
-                        grandeur de vostre tableau, et au subjet que vous voulez representer dessus.
-                        de ces pieds vous mesurerez sur la baze lespace que vous voudrez donner
-                        entre les radialles <pb n="17" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f22/full/full/0/native.jpg"/> Comme aussi toute autre sorte de largeurs,
-                        hauteurs, et profondeurs, qui seront perpendiculaire à la baze lexemple est
-                        en cette figure, où jai fait une echelle de pieds, que je nomme pieds
-                        entiers des quels jen ai donné six sur la baze entre les radialles, et
-                        quatre à la hauteur de la ligue horisontalle. Toutes ces choses ainsi
-                        Disposez pour trouver le racourci du plan demandé, jay divisé en deux
-                        parties egalles la hauteur depuis la baze Jusqu'à la ligne horisontalle : Et
-                        par cette division jai tiré la ligne D.d. entre la quelle et les radialles
-                        jai le trapeize. C.E.e.c. qui est le racourci d'un plan rectangle, le quel a
-                        de largeur six pieds, et de longeur autant que l'œil est eloigné du tableau. </p>
-               <pb type="blankpage"
-                   facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f23/full/full/0/native.jpg"/>
-            </div2>
-            <div2 type="chapitre" n="2" xml:id="L1C2">
-               <pb n="18" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f24/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="19" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f25/full/full/0/native.jpg"/>
-               <head> Probleme II. </head>
-               <head> La maniere d'adjouter plusieurs plans racourcis au premier plan,
-                        lesquelles Luy soient egaux, et à la distance de l'œil au tableau. </head>
-               <p xml:id="LEB_TP_L1_L1C2_P1"> Par le premier probleme vous avez trouvé le racourci d'un plan rectangle :
-                        par ce second vous pourez luy en adjouter dautres qui lui seront egaux. </p>
-               <p xml:id="LEB_TP_L1_L1C2_P2"> Suivant la figure de ce probleme si vous menez du point principal A, la
-                        ligne AF. laquelle divise la baze C.c. en deux parties egalles, cette ligne
-                        divisera semblablement la ligne qui est le terme plus éloigné du premier
-                        plan et si de l'un des angles que les radialles font avec la baze vous menez
-                        une ligne qui passe par la section f. et touche la radialle au point g. ou
-                        G. et que vous tiriez par ce point la parallelle à la baze G. vous aurez un
-                        plan egal au premier et si de plus vous voulez avoir un troisieme plan,
-                        menez une ligne de l'un des angles que font les radialles avec la ligne E.e.
-                        laquelle passe par la section H. et touche la radialle au point I. ou i. et
-                        par ce point tiriez encore une parallelle à la baze, telle quest I.i. et
-                        vous aurez le plan defirez il fera facille d'en produire tant que l'on
-                        voudra par cette maniene. </p>
-            </div2>
-            <div2 xml:id="L1C3" n="3" type="chapitre">
-               <pb n="20" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f26/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="21" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f27/full/full/0/native.jpg"/>
-               <head> Probleme III </head>
-               <head> Seconde maniere de produire le racourci et tant de plans egaux quelon
-                        voudra </head>
-               <p xml:id="LEB_TP_L1_L1C3_P1"> Le probleme precedent enseigne la maniere de produire et trouver le racourci
-                        de tant de plans egaux que lon voudra, par le moien des lignes diagonalles,
-                        et celui ci fait la mesme chose en divisant des perpendiculaires à la baze,
-                        ou des lignes radialles, au premier probleme nous avons trouvé le racourci
-                        d'un plan, dont la longneur est egalle à la distance de l'æil au tableau, en
-                        divisant la hauteur de lhorison en deux parties egalles : ou nous avons pu
-                        remarquer que la parallelle à la baze qui passe par cette division divise
-                        aussi les radialle en deux parties egalles, ce questant connu et construit,
-                        si vous voulez adjouter à ce plan d'autres plans qui lui soient egaux,
-                        divisez la moitié qui est vers la ligne horisontalle, ou sur les
-                        perpendiculaires, ou sur les radialles, en trois parties egalles et par la
-                        plus basse de ces divisions une parallelle à la baze : et vous aurez un
-                        second plan tel quest en cette figure le plan E.G.g.e. egal au premier pour
-                        le troisieme divisez ce qui vous restera jusq'à l'horison, en quatres
-                        parties egalles: et par la plus basse, tirez la parallelle à la baze, marqué
-                        en cet exemple G.I.i.g. et vous aurez le troisieme plan, si vous voulez le
-                        quatrieme divisez ce qui reste jusq'à lhorison en cinq partes eqalles :
-                        tirez sur la plus basse, la parallelle à la baze et vous aurez le plan
-                        désiré, si vous en voulez davantage divisant tous jours ce qui restera
-                        jusqu'à lhorison selon la simple numeration: et tirer par les plus basse de
-                        ces divisions les parallelles à la baze et vous aurez le juste racourci de
-                        tant de plans egaux que l'on voudra. </p>
-            </div2>
-            <div2 type="chapitre" n="4" xml:id="L1C4">
-               <pb n="22" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f28/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="23" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f29/full/full/0/native.jpg"/>
-               <head> Probleme IIII. </head>
-               <head> Troisieme maniere de trouver des plans </head>
-               <p xml:id="LEB_TP_L1_L1C4_P1"> Voici une maniere fort commode particuliairement pour les grands desseins
-                        puis qpar dessus les precedentes manieres, elle a cette singularité que vous
-                        pouvez trouver tel plan que ce soit et connoistre à quelle
-                            <reg>longueur</reg> il sera situé sans commencer par les plus proches.
-                        la pratique est que si nous rabaissez le point principal perpendiculairement
-                        sur la baze, comme A en E : et meniez la radialle AC. ou Ac. lespace sur la
-                        baze CE. ou Ec. sera la partie quil faudra diviser a fin d'éslever des
-                        perpendiculaires dessus, qui toucheront la radialle en un point, par le quel
-                        il faut tirer des parallelles à la baze, qui seront les termes des plans.
-                        exemple si Vous voulez trouver le cinqiesme plan, divisez lun ou lautre
-                        espace sur la baze C.E. ou E.c. en six parties egalles, ainsi quen cette
-                        figure est lespace E.c et sur la division plus proche du point E., élevez la
-                        perpendiculaire F.f. et par f. qui est le point où cette perpendiculaire
-                        touche la radialle, menez la parallelle à la baze, et vous aurez le terme
-                        plus eloigné du cinquiesme plan, et pour en avoir le terme le plus proche
-                        divisez la mesme espace en cinq parties egalles : et sur la division
-                        toujours plus proche du point rabaissé E. eslevez la perpendiculaire jusq'à
-                        ce quelle touche la radialle : et par ce point d'atouchement mener la
-                        parallelle à la baze : et vous aurez ce terme plus proche qui sera aussi le
-                        terme plus eloigné du quatriesme plan : par ce que si vous voulez trouver ce
-                        quatriesme plan, vous n'aurez q'à diviser lespace sur la baze, en quatre
-                        parties egalles : er eslever la perpendiculaire de la mesme façon que vous
-                        avez fait les autres et par le point où elle touchera la radialle, tirer
-                        nvstre parallele à la baze <pb n="24" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f30/full/full/0/native.jpg"/> et cette ligne sera le terme plus
-                        proche du quatriesme plan et le plus eloigné du troisiesme, ce la sufit pour
-                        faire entendre toute cette panique et la figure facilitera l'intelligence.
-                        De plus si vous voulez sçavoir à quelle longueur il sont situez, contez les
-                        plans qui precede le plan dont vous voulez savoir la situation. exemple je
-                        veux savoir à quelle longueur est le cinquiesme plan : je dis il y a quatres
-                        plans qui le precede et chaque plan contient autant en sa longueur que mon
-                        œil est esloigné de mon tableau : je ne fais donc qu'aditonner quatre fois
-                        cette distance de l'œil au tableau et je connois à combien le terme le plus
-                        proche de ce plan est situé ainsi je puis connoistre tous les autres. </p>
-               <pb type="blankpage"
-                   facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f31/full/full/0/native.jpg"/>
-            </div2>
-            <div2 xml:id="L1C5" n="5" type="chapitre">
-               <pb n="25" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f32/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="26" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f33/full/full/0/native.jpg"/>
-               <head> Probleme V </head>
-               <head> Pour trouver des points situez à telle distance de longueur et de largeur
-                        racourcie que lon voudra </head>
-               <p xml:id="LEB_TP_L1_L1C5_P1"> Au paravant que de venir à cette pratique il faut scavoir que toutes les
-                        mesures des largeurs se posent et se content sur la baze, et sur toutes les
-                        lignes qui lui sont parallelles, lesquelles pour ce subjet je nomme en ma
-                        demonstration mecanique, parallelles des largeurs : et que toutes celles des
-                        longueurs se content en montant et se racourcissent sur les lignes
-                        diagonalles de chacun plan, mais parceque pour les trouver il est necessaire
-                        de construire une seconde echelle j'enseignerai le moien de la faire et
-                        ensuitte cellui de sen serluir. </p>
-               <p xml:id="LEB_TP_L1_L1C5_P2"> Il faut donc pour ce faire diviser, la baze entre les radialles, en autant
-                        de parties egalles, que vous voulez que vostre œil soit Eloigné de vostre
-                        tableau, par exemple, en cette figure jai voulu la distance de l'œil au
-                        tableau estre de quinze pieds : j'ai divisé la baze entre les radialles de C
-                        en c, en quinze parties egalles et de quelque unes de ces divisions jai fait
-                        lechelle qui et au bas de la figure, nommée de pieds diminuez et parceque
-                        chacun plan contient en longueur mesme nombre de pieds racourcis, jai pour
-                        ce subjet, tracé à chacun des plans une diagonale que vous pouvez voir
-                        nottez c.D.D.e. e.F. F.g </p>
-               <p xml:id="LEB_TP_L1_L1C5_P3"> apres toute cette disposition je suppose d'avoir besoin dun point à la
-                        distance racourcie de trois pieds de longueur et pour le trouver je prens
-                        sur lechelle des pieds diminuez, louverture de trois pieds, que je pose sur
-                        la baze depus c. jusqu'à auquel poinct jareste la reigle ou le <pb n="27" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f34/full/full/0/native.jpg"/>
-                        filet du point principal qui coupe la diagonale au point i qui est le point
-                        cherché à trois pieds racourcies en longueur. Mais quand à la largeur
-                        j'aurois besoin quil fut à trois pieds dans mon tableau de la gauche à la
-                        droitte donc pour le placer en ce lieu je prens trois pieds, sur lechelle
-                        des pieds entiers je les mets sur la baze entre les radialles de la gauche à
-                        la droite comme depuis C. jusqu'en M. sur le quel point j'areste la reigle
-                        ou le filet du point principal et je trace une petite portion de radialle à
-                        la hauteur du point trouvé, puis je coule ce point parallellement à la baze
-                        jusque à ce quil touche cette petite portion de radialle, comme vous voiez,
-                        au point m. qui est le point situé à telle longueur et largeur que jai
-                        desiré je suppose encore que jai besoin de trois autres points situez, le
-                        premien à vingtrois pieds de longueur et à quatre de largeur de la gauche à
-                        la droitte, le second à quarante pieds de longueur et à deux de largeur de
-                        la gauche à la droitte, et le troisiesme à quarantehuit pieds de longueur et
-                        à quatre et demi de largeur contez touyours de la gauche à la droitte du
-                        tableau. </p>
-               <p xml:id="LEB_TP_L1_L1C5_P4"> Je conte pour le premier plan quinze pieds, il me faut donc adjouter dans le
-                        second plan huit pieds que je prens sur lechelle des pieds diminuez et je
-                        les pose sur la baze depuis C. jusqu'au point N. sur le quel du point
-                        principal j'areste la reigle ou le filet qui coupe la diagonale du second
-                        plan à hutpieds racourcis le quel pouit est marqué n. qui est situé a
-                        vingttrois pieds de longueur pour la largeur je prens quatre pieds entiers
-                        jsr la baze de la gauche à la droite je trace une petite particule dune
-                        radiale à la hauteur de ce point troué le quel je coule parallellement à la
-                        baze jusquace quil <pb n="28" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f35/full/full/0/native.jpg"/> touche cette petite ligne et lors il est
-                        situé en sa largeur desirée pour le second je conte deux plans qui valent
-                        tente pieds puis je prens dix pieds diminuez que je pose sur la baze depuis
-                        c. jusqu'à 0 au point du quel j'areste la reigle ou le filet du point
-                        principal et je marque le point sur la diagonale du troisiesme Plan le quel
-                        est par ainsi situé à quarante pieds de longueur pour la largeur je prens
-                        deux pieds entiers je les pose sur la baze de la droitte à la gauche je
-                        trace à la hauteur du point trouvé cette petite radiale je coulle le point
-                        parallellement à la baze jusqu'à cequil touche cette petite ligne et ainsi
-                        il est situe en la largeur desirée, je fais de mesme pour le troisiesme je
-                        conte trois plans qui vallent quarante cinq pieds, je pose sur la baze
-                        depuis C. jusqua P. trois pieds diminuez par la reigle ou lefilet je place
-                        mon point sur la diagonale du quatriesme plan apres pour la largeur je prens
-                        quatre pieds et demi que je pose sur la ligne de la baze de la gauche à la
-                        droitte je tire cette petitte radiale à la hauteur du point trouvé je le
-                        coule parallellement à la baze jusqu'à cette petite ligne et par ainsi jai
-                        situé tous ces points aux lieux propres que je desirois. </p>
-            </div2>
-            <div2 type="chapitre" n="6" xml:id="L1C6">
-               <pb n="29" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f36/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="30" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f37/full/full/0/native.jpg"/>
-               <head> Probleme VI </head>
-               <head>Pour quareler les aires des plans de quareaux veus de front </head>
-               <p xml:id="LEB_TP_L1_L1C6_P1"> Si sur autant de pieds dimuniez, qu'en contiendra la baze de vostre tableau
-                        entre les radialles qui termine la largeur des plans, vous couppez, du point
-                        principal toutes les diagonales des plans et que vous meniez par ces
-                        sections des parallelles à la baze vous aurez en chacqun de vos plans le
-                        racourci d'autant de pieds quil y aura de pieds entiers : en la distance de
-                        l'œil au tableau. </p>
-               <p xml:id="LEB_TP_L1_L1C6_P2"> Et si sur la mesme baze vous tirez des radialles sur autant de pieds entiers
-                        qu'elle en poura contenir, vous aurez tous vos plans quanrelez de quareaux
-                        racourcies veus de front por tant chacqun un pied en guare. </p>
-               <p xml:id="LEB_TP_L1_L1C6_P3"> Exemple jai marqué sun la baze C.c. entre les radialles AG. et Ac. treize
-                        pieds diminuez, qui est le nombre des pieds entiers contenus en la distante
-                        de l'œil au tableau puis du point principal, posant la reigle sur tous ces
-                        pieds, jai marqué sur les diagonales des petites sections, par lesquelles
-                        jai mené des parallelles à la baze lesquelles mont donné en chacqun plan
-                        treize divisions de pieds racourcis en longueur. Apres sur la mesme baze
-                        entre les mesmes radialles,jai posé huit pieds entiers, qui y sont
-                        presissement contenus et du point pricipal jai tiré des radiales à tous ces
-                        pieds entiers qui sont sur la baze ce qui ma donné en chacqun plan le
-                        racourci de nonantequatre quareaux veus de front portant chaqun un pied en
-                        quaré. </p>
-               <pb n="31" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f38/full/full/0/native.jpg"/>
-               <p xml:id="LEB_TP_L1_L1C6_P4"> Mais si vous voulez remplir toute la largeur de vostre tableau de quareaux :
-                        continuez le terme plus éloigné de vos plans tout jusquaux extremitez de
-                        vostre tableau et faites en autant de toutes vos parallelles à la baze puis
-                        de louverture des pies entiers, ou de largeur qui seront sur cette ligne
-                        terme plus éloigné des plans, remplisez tout le reste de cette ligne, et
-                        passez des radialles par ces points : vous aurez toute la largeur de vostre
-                        tableau quarelée. </p>
-            </div2>
-            <div2 xml:id="L1C7" n="7" type="chapitre">
-               <pb n="32" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f39/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb type="blankpage"
-                   facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f40/full/full/0/native.jpg"/>
-               <pb n="33" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f41/full/full/0/native.jpg"/>
-               <head> Probleme VII </head>
-               <head> Autre maniere de faire des quareaux racourcis. </head>
-               <p xml:id="LEB_TP_L1_L1C7_P1"> Par cette maniere si vous divisez le rectangle C.B. b.c. en deux parties
-                        egalles, par une ligue perpendiculaire à la baze telle que est AE. et que
-                        vous divisiez la partie de la baze Ec. en autant de parties égalles quil y a
-                        de pieds entiers depuis l'œil jusquau tableau et que du point B. avec la
-                        reigle ou le filet vous posiez sur chacqune de ces divisions et coupiez la
-                        perpendiculaure par des petites sections vous verez que les parallelles à la
-                        baze que vous passerez par toutes ces petites sections diviseront le premier
-                        plan en autant de pieds racourcis que l'œil sera éloigné du tableau. Pour
-                        continuer un second plan tirez la diagonale Ac. au rectangle E.A.b.c. et
-                        divisez la derniere ligne, ou terme plus eloigné du premier plan, depuis la
-                        perpendiculaire jusqu'à la diagonale en autant de parties que vous avez fait
-                        la moitié de la baze ce que vous ferez facillement posant la reigle au point
-                        A. et de ce point la marquant sur chacqune de ces divisions et les marquant
-                        sur cette derniere ligne du plan vous aurez autant de divisions quil y en a
-                        dessus la baze mais diminuez justement de la moitié. apres comme au
-                        paravant, du point B. portez la reigle sur toutes les divisions et les
-                        marquez par de petites sections, par lesquelle vous continurez de passer des
-                        parallelles à la baze et vous aurez le second plan divisé comme le premier.
-                        pour le troisiesme divisez comme vous avez fait, le terme plus eloigné du
-                        second plan qui est la derniere ligne, en autant de parties que la baze : et
-                        par le moien que je vous ai enseigné vous trouverez autant de divisions mais
-                        diminuez des deux tieres vous ferez encore du point les sections sur la
-                        perpendiculaire, et passerez par ces sections les parallelles à la baze et
-                        vous aurez le troisiesme plan. vous continurez ainsi tant quil vous plaira. </p>
-            </div2>
-            <div2 type="chapitre" n="8" xml:id="L1C8">
-               <pb n="34" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f42/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="35" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f43/full/full/0/native.jpg"/>
-               <head> Probleme VIII </head>
-               <head> Pour Connoistre aquelle longueur, et largeur, est situé un point posé à
-                        la ladventure </head>
-               <p xml:id="LEB_TP_L1_L1C8_P1"> Devant que de Rion Commencer, il faut savoir lamesure de la distance de
-                        l'œil au tableau de Combien il est éleve sur la terre : et connoistre le
-                        point que lon aura posé dans le tableau </p>
-               <p xml:id="LEB_TP_L1_L1C8_P2"> En Cette figure Je suppose que la distance de l'œil au tableau est de dix
-                        huit pieds et quil est élevé par dessus la terre à la hauteur de Cinq pieds
-                        que le point dont je Veux Connoistre la situation est le point marqué F. je
-                        tire pour ce subject les deux radialles AC., et Ac., la perpandiculaire A.D.
-                        Et je menne du point F. la parallele à la baze Ff. puis avec le compas, je
-                        prens lespace sur cette parallele de puis G. jusqua g. et j'observe de puis
-                        sur la baze, combien de fois elle y est contenue de puis D. jusqua c. je
-                        trouve en cette exemple quelle y est contenue plus de trois fois et moins de
-                        quatre. Cest pourquoi je divise lamesme espace D. en trois puis en quatre
-                        parties egalles et selon le 4e probleme, je trouve un plan qui est le
-                        troisiesme, dans le quel est enfermé la parallele à la baze Ff. ce plan je
-                        tire une diagonale et où elle coupe la parallele à la baze Ff. je passe du
-                        point principal, une radialle jusque sur la baze telle quest AE. puis je dis
-                        les deux premiers plans contiennent chacun dix huict pieds, qui sont trente
-                        six pour les deux je messure avec les piez diminuez lespace E.c. et je
-                        trouve quelle contient unze de ces pieds j'adjoute donc unze à trente six,
-                        qui me donne quarente sept, nombre des pieds de longueur, où est situé ce
-                        point. et pour connoistre sa situation, en largeure je prens l'ouverture
-                        depuis le point F. jusqu'à la radialle g. que je porte depuis g.jusqua h.
-                        sur la mesme ligne Ff. et du principal je menne une radialle passant par h.
-                        jusque sur la baze come H. et je mesure sur la baze avec les pieds entiers,
-                        lespace CH. que je trouve estre dez piez 2/3 dont je conois que le point
-                        posé à laventure est située à tele largeur hors lextreme radialle. </p>
-            </div2>
-            <div2 xml:id="L1C9" n="9" type="chapitre">
-               <pb n="36" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f44/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="37" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f45/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="38" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f46/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="39" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f47/full/full/0/native.jpg"/>
-               <head> Probleme 9 10 et 11 </head>
-               <head> Pour Racourcir en perspective des Rectangles Triangles et Cercles. </head>
-               <p xml:id="LEB_TP_L1_L1C9_P1"> Puisque jai enseigné à mettre en perspective, et à mesurer de grande
-                        estendues sur la terre: à y situer des points en tel lieu que l'on voudra à
-                        conoistre la situation de ceux qui seroient posez à ladventure et à
-                        quarreler les aires. il me faut maintenant enseigner ce que peut cette
-                        simple maniere, pour reduire des superficies qui ne sestend que sur quelques
-                        rectangles, triangles, et cercles posez de front cest à dire que lun de
-                        leurs costez sont tourné parallelement au tableau les triangles sont les
-                        Isoselles, et lequilateal, le cercle sinscrit dans un quarré, il faut
-                        necessairement conoistre la mesure de leurs costez puisque lon ne se sert
-                        simplement que des echeles geometrales. Venons aux quatre rectangles de la
-                        figure 9. qui seront faciles à représenter puisquil ne faut que trouver des
-                        points à tous leurs angles ce quenseiqne le 7e probleme: et puis former
-                        leurs figures par les lignes de leurs costez par les triangles de la figure
-                        10. II faut faire les plans geometraux, mesurez par l'echelle des pieds
-                        diminuez, come Vous voiez ces trois triangles dont le premier est l'isoselle
-                        aiant l'angle de son somet, obtus, qui est soutenu de la baze de 5 pieds, le
-                        second est Isoselle dont langle du somet est aigu, et sa baze est de 3
-                        pieds. le 3e est equilateral dont les costez portent 4 pieds. il faut tirer
-                        à tous. la perpendiculaire de langle de leur somet; puis par les pieds
-                        entiers ou des largeurs, reduire leurs baze. en tel lieu que l'on voudra
-                        quelle paroisse deriere le tableau et prendre Les lignes perpendiculaires
-                        sur le geometral pour les porter sur la baze du tableau pour ler couper sur
-                        la diagonale et avoir les longueurs la figure 11. porte un cercle Inscrit
-                        dans un quarré. Il faut donc reduire ce quarré, come vous avez fait les
-                        rectangles. vous tirerez les deux diagonales, et les deux qui se croisent au
-                        centre, et duvisez les costez puis vous diviserez l'un des costez.
-                        parallales à la baze, en sept parties egales : et tirerez les deux plus
-                        eloignées du centre, au point principal, que couperont les diagonales, où il
-                        faut faire passer le cercle comme la figure le fait voir. </p>
-            </div2>
-            <div2 type="chapitre" n="10" xml:id="L1C10">
-               <pb n="40" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f48/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="41" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f49/full/full/0/native.jpg"/>
-               <head> Probleme 12. </head>
-               <head> D'une figure, dont le point principal seroit hors le tableau. </head>
-               <p xml:id="LEB_TP_L1_L1C10_P1"> Si l'on vouloit que quelque figure fut veue de telle facon que l'axe de la
-                        veue qui se termine au point principal se trouvast hors le tableau. Come en
-                        cette exemple, où je supose que lon demande un quare dont les costez soient
-                        de 3 pieds chaquun et que le point principal soit 4 pieds hors le tableau je
-                        comence ainsi. je situe une parallele à la baze en tel lieu que lon voudra
-                        que le premier costé de ce quare aparoisse deriere le tableau. Puis suivant
-                        la demande je situe encire une deuxième parallele à ladistance de 3 pieds en
-                        longueur, apres je pose sur la ligne de l'horizon un point principal
-                        indiferement ainsi que jai fait celui marqué A. du quel je tire deux
-                        radialles sur la baze à louverture de 3 pieds entiers, les queles radialles
-                        coupé les deux paralleles à la baze, et me donne entre elles un quarré qui
-                        porte 3 pieds en chaqun de ses costez et pour trouver le point principal
-                        hors le tableau je tire une portion de radiale depuis lextremité de la ligne
-                        du premier plan marqué d. jusques sur la baze à 4 pieds au dedans marqué D.
-                        cette ligne coupe ainsi les deux paralleles à la baze et pour achever je
-                        prens louverture entre les radialles des deux paralleles du quare deja faite
-                        et je les porte chaquune sur la ligne depuis la ligne d.D. en dedans et
-                        joints ces deux ouverture pour fermer le quare demandé qui est noté Ee et
-                        fF. </p>
-            </div2>
-            <div2 xml:id="L1C11" n="11" type="chapitre">
-               <pb n="42" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f50/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="43" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f51/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="44" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f52/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="45" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f53/full/full/0/native.jpg"/>
-               <head> Probleme 13 et i des Elevations </head>
-               <head> Elevations des corps sur leur superficies par la maniere de la premiere
-                        partie </head>
-               <p xml:id="LEB_TP_L1_L1C11_P1"> Pour elever des corps sur les superficies des fig 17.18.19. de la maniere
-                        enseignée en la I partie. il faut conduire de tous les angles des
-                        superficies des paralleles à la baze jusqua la radialle extreme qui tombe
-                        dans langle de la baze et de la perpendiculaire extreme du tableau puis
-                        poser les hauteurs sur cette ligne perpendiculaire selon les pieds entiers
-                        et à leur extremitez mener une radialle au point principal et de tous les
-                        points où touchent les paralleles des angles elever des perpondiculaires aux
-                        lignes radialles qui tendent au point principal et ce chaqu une à la sienne
-                        et prendre ses hauteurs avec le compas et les raporter chaqune sur le propre
-                        angle de sa superficie come lexemple la manifesté par les lignes punctée
-                        cest pourquoi cet escrit servira pour toutes les trois exemples. </p>
-            </div2>
-            <pb type="blankpage"
-                facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f54/full/full/0/native.jpg"/>
-         </div1>
-         <pb n="46" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f55/full/full/0/native.jpg"/>
-         <div1 type="livre" n="2" xml:id="L2">
-            <head type="main"> Traicté de Perspective Deuxieme Partie </head>
-            <head type="sub"> En laquelle est demonstre la maniere de mettre en perspective
-                    toute sorte de figures geometralles reguliere ou irregulieres droictement posée
-                    ou non par transport immediat des poincts et des lignes du geometral et les
-                    reduire à telle proportion que lon Voudra par une pratique Nouvelle non Usitée
-                    Ny trouvée jusques à present.</head>
-            <div2 xml:id="L2C1" n="1" type="chapitre">
-               <pb n="47" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f56/full/full/0/native.jpg"/>
-               <head> Probleme 14 </head>
-               <head> Pour Racourcir des superficies Irregulieres </head>
-               <p xml:id="LEB_TP_L2_L2C1_P1"> Par la simple maniere precedante, on ne peut racourcir les figures
-                        ireguleres, ou iregulerement posez sans un moien qui nous raporte les
-                        lignes, ou les distances qui ne se peuvent justement mesurer voici donc si
-                        dessous une figure qui servira come dinstrument pour ce faire, jenseignerai
-                        premierement la construction de cette figure instrumentalle et deuxiemement
-                        la pratique et le moyen de sen servir. </p>
-               <p xml:id="LEB_TP_L2_L2C1_P2"> 1. tirez en quelque lieu apart proche de vostre tableau, une ligne droitte
-                        de niveau, telle quest la ligne ab. et de lextremité de cette ligne noté a
-                        pris pour centre, et de quelque ouverture de compas, descrivez un cercle tel
-                        a peu pres du cerde cd. sur le quel cercle vous poserez, un pied diminué
-                        come de e. en c. et par le point c. du centre a. passerez une ligne occulte
-                        telle que la ligne af. puis vous trouverez entre ces lignes a.b. et a.f. le
-                        lieu où le pied entier touchera de ces deux extremitez, les deux lignes a.b.
-                        et a.f. à la distance egale du centre et par les points de ses attouchemens,
-                        et du centre a. descriver le cercle gh. et ainsi <unclear/> selon que vous
-                        le voiez en lexemple </p>
-               <p xml:id="LEB_TP_L2_L2C1_P3"> Il refait, je viens à la pratique, si lon vous demandoit de mettre en
-                        perspective les figures iregulere et geometralle qui sont au haut de
-                        lexemple notées O et ∆ aiant tiré, come nous avons monstre, la ligne
-                        diagonale du 1er plan, dans lequel lon desire que ses figures soient
-                        reduittes et aient tiré de tous les angles des plans geometraux les
-                        perpendiculaires et les traversantes qui sont ici figurés de lignes punctée,
-                        et je comence à poser un pied diminué sur la baze que je coupe du point
-                        principal sur la diagonale qui me done un pied racourci en longueur,
-                        supposant que lon a desiré que la figure cette longueur derriere le tableau,
-                        puis je pose le point a. où lon desire que soit le premier angle de cette
-                        figure apres je prens sur le geometral depuis la ligne de niveau, les
-                        longueurs de tous les angles selon les lignes punctées, que je porte sur la
-                        baze depuis le pied diminué marqué b. et je les coupe tous sur la diagonale
-                        qui porte les longueurs racourcies de tous ces angles que je meine tous
-                        parallelement à la baze pour rencontrer leur largeurs que je trouve par ce
-                        moien je prens louverture de b. au geometral que je pose sur le petit cercle
-                        de ma figure instrumentalle et je passe la reigle du centre a. par le point
-                        de cette ouverture et je prens celle qui se trouve sur le grand cercle que
-                        je porte sur mabre et du point principal je tire un portion de radialle qui
-                        vient rencontrer la parallele à la baze <pb n="48" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f57/full/full/0/native.jpg"/> de cet angle et en leur
-                        attouchement est le point en sa distance racourcie je continue de prendre au
-                        geometral les autres largeurs come 6.4.6.2.6.1. et les posant les unes apres
-                        les autres sur le petit cercle quavec la reigle du centre a. je coupe sur le
-                        grand cercle, que je porte sur la baze, come jai fait la 1re largeur 6.4. :
-                        et du <reg>point</reg> principal je leur fais rencontrer à chaqune sa
-                        parallele à la baze, qui partant des longueurs reduites sur la diagonale
-                        ainsi jai tous les points de ma figure que je ferme par les costes, cette
-                        figure entendue, lautre sera facille destre faite, puisque cest de la mesme
-                        maniere je croi que cela sufira. </p>
-               <figure type="gravure"/>
-               <pb n="49" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f58/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb type="blankpage"
-                   facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f59/full/full/0/native.jpg"/>
-            </div2>
-            <div2 type="chapitre" n="2" xml:id="L2C2">
-               <pb n="50" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f60/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="51" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f61/full/full/0/native.jpg"/>
-               <head> Probleme 15 </head>
-               <head>Pour trouver une ligne sur laquelle un module doné y estant posé sera
-                        rendu par les radialles, aussi grand que le pied entier. </head>
-               <p xml:id="LEB_TP_L2_L2C2_P1"> Pour trouver cette ligne il faut scavoir combien de piedz entiers contient
-                        la baze de vostre tableau, et sur la mesme baze y poser autant de module ou
-                        piez diminuez au termes desquels il faut elever une perperdiculaire de la
-                        baze à l'horison : puis du rectangle construit des deux perpendiculaires de
-                        la baze et de l'horison, il faut tirer la diagonnale, laquelle couppera la
-                        perpendiculaire en un point, par lequel si vous menez une parallelle à la
-                        baze, vous aurez la ligne desirée. </p>
-               <p xml:id="LEB_TP_L2_L2C2_P2"> Exemple en cette figure la baze contient six piedz entiers, je pose donc six
-                        modulles sur la mesme baze, de puis c. jusq'en M. et sur Mm. j'eleve la
-                        perpendiculaire Mm. puis je tire la diagonnalle Cb. au rectangle CB.b.c. et
-                        cette diagonale couppe la perpendiculaire Mm. au point O par le quel je
-                        menne D.d. parallelle à la bazeq ui est la ligne sur Laquell si je pose des
-                        module il me seront rendus par les radialles sur la baze à la juste grandeur
-                        des piedz entiers. </p>
-            </div2>
-            <div2 xml:id="L2C3" n="3" type="chapitre">
-               <pb n="52" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f62/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="53" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f63/full/full/0/native.jpg"/>
-               <head> Probleme 16</head>
-               <head> Pour racourcir des plans geometraux Mesurez par des pieds diminuez, et
-                        les rendre à la Mesure des pieds entiers </head>
-               <p xml:id="LEB_TP_L2_L2C3_P1"> Voici la pratique et le Moyen des Lignes de Reduction du precedent Probleme
-                        par la quelle on poura racourcir toutes sortes de Superficies et de Corps
-                        posez droits ou obliques. </p>
-               <p xml:id="LEB_TP_L2_L2C3_P2"> En cette exemple, je suppose que l'on aye la Liberté de Construire les plans
-                        geometraux mesurez par l'Echelle des pieds Diminuez, ce qui sera d'une plus
-                        grande facilité que sils estoient faits sur une autre mesure. </p>
-               <p xml:id="LEB_TP_L2_L2C3_P3"> Le Quarré, et le Triangle equilateral, qui sont en cette Figure sont
-                        Construits selon cette proposition. </p>
-               <p xml:id="LEB_TP_L2_L2C3_P4"> Le Plan du Triangle me servira seul à en Racourcir deux de diverse Veüe L'un
-                        veü de fron, par lun de ses costez: et L'autre droit par lun de ses angles. </p>
-               <p xml:id="LEB_TP_L2_L2C3_P5"> Les plans perspectifs doivent estre rendus à la mesure des pieds entiers </p>
-               <p xml:id="LEB_TP_L2_L2C3_P6"> Tout ce ci supposé et bien entendu, je commance à tracer sur mon tableau la
-                        ligne de Reduction des Pieds Diminuez, D.d. et la Diagonalle du premier Plan
-                        C.E. puis pour faire paroistre le Quaré situé à deux pieds deriere le
-                        tableau, ausi quil paroiest en cette Figure, je pren l'ouverture de deux
-                        pieds diminuez sur leur eschelle, que je pose sur la Base depuis C. jusq'à
-                        E. et de ce Point, et du Principal A., je couppe par une Radialle, la
-                        Diagonnalle en f. et la ligne de Reduction au Point G. parce que je veux
-                        commencer de ce pount, à poser les Largeurs sur cette ligne ensuite je prens
-                        au Plan Geometral, la longueur de lun de ses Costez, 1.4. ou 2.3. que je
-                        pose sur la Base depuis F. jusq'à H, et de ce Point, et du Principal, je
-                        coupe la diagonalle en h. er par <pb n="54" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f64/full/full/0/native.jpg"/> ce Point h., et par l'autre f.
-                        sur la mesme Diagonalle, je meine deux Parallelles à la Base, indeterminées,
-                        qui sont le deux Costés 1.2 et 4.3 apres je prens au Geomeral la Largeur
-                        1.2. je la porte sur la ligne de Reduction, depuis G jusqu'à I. et du
-                        Principal, par ces deux Points je ferme la figure des deux autres Côtes. </p>
-               <p xml:id="LEB_TP_L2_L2C3_P7"> Venons aux triangles, pour les placer selon cette Figure, à six Pied deriere
-                        le Tableau, je prens six Pieds diminuez, que je pose sur la Base depuis C.
-                        jusq'à L. duquel et du Prinipal je marque un Point sur la Diagonnalle en l.
-                        par où je meine une Paralelle à la Base indeterminée, puis je prens la
-                        longueur du Triangle sur sa Perpendiculaire, et la pose sur la Base du
-                        Tableau, depuis L. jusqu'au Point M. duquel et du Principal je marque encore
-                        un point sur la diagonalle en m. par où je meine une autre Parallelle à la
-                        base, apres pour le largeurs je pose sur la Ligne de Reduction, le point où
-                        je veux commancer tel quest le point N. puis je prens au triangle geometral,
-                        la moitié du costé 1.3 qui est 1.4 et le pose depuis N. jusqu'à O. et O.en
-                        P. et du principal passant par ces points, je marque sur les parallelles
-                        trois points, scavoir le point passant par N. sur la premiere parallell,
-                        celui passant par O sur la seconde parallelle, et celui passant par P.
-                        encore sur la premiere ainsi jai trois point des trois angles 1.2.3. que je
-                        joins par les ligne qui acheve les angles. L'autre triangle se fait de mesme
-                        apres avoir posé sur la ligne </p>
-               <p xml:id="LEB_TP_L2_L2C3_P8"> L'autre triangle se fait de mesme apres avoir posé sur la ligne de
-                        reduction, le point ou je veux commancer les largeurs, tel quest I., je
-                        prens comme jai fait au premier la demie largeur de 1.3. qui est 1.4. que je
-                        porte de I. en o. et de o. en p. du principal passant par ces points je les
-                        marque sur les parallelles avec cette differencee, que je marque I. sur la
-                        seconde parallelle, o. sur la premiere et p. encore sur la seconde : par ce
-                        que je veux, que ce triangle soit veu par un angle ce que je fais voir
-                        joignans ces trois points ensembles par les lignes. </p>
-               <pb type="blankpage"
-                   facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f65/full/full/0/native.jpg"/>
-            </div2>
-            <div2 type="chapitre" n="4" xml:id="L2C4">
-               <pb n="55" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f66/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="56" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f67/full/full/0/native.jpg"/>
-               <head> Probleme 17</head>
-               <head> Autre exemple pour racourcir Un Cercle, un Octogone, et une figure
-                        irreguliere </head>
-               <p xml:id="LEB_TP_L2_L2C4_P1"> Le probleme precedent bien estudié et bien entendu suffira pour faire
-                        connoïstre lestendue de cette pratique sur toutes sortes de figures, cest
-                        pour quoi desormais je me contenterai, de doner seulement les figures
-                        accompagnée de quelques lignes punctée, et de quelques caracteres, et
-                        lettres, expliquez suvcintement. </p>
-               <p xml:id="LEB_TP_L2_L2C4_P2"> Come en cette figure Vous connoistrez que les lignes punctée qui monte de la
-                        baze à la diagonale, marquent les longueurs des figures et les distances où
-                        elles sont posées derriere le tableau : que les poincts marquez, sur la
-                        ligne de reduction nottez a. b. c. sont les divers endroicts où jai voulu
-                        commencer les largeurs de chacqu'une figure que le poinct a. est le
-                        comencement du cercle; b. est celui de locogone; et e. celui de la figure
-                        irreguliere : ce que vous feront facillement connoistre les lignes punctée
-                        qui touchent de ces poincts aux figures. </p>
-            </div2>
-            <div2 xml:id="L2C5" n="5" type="chapitre">
-               <pb n="57" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f68/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="58" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f69/full/full/0/native.jpg"/>
-               <head> Probleme 18 </head>
-               <head> Pour racourcir quelque plan que se soit, dont le pied qui le mesure est
-                        plus grand que le pied diminué, et plus petit qu'un entier. </head>
-               <p xml:id="LEB_TP_L2_L2C5_P1"> Come jai advancé en mon 2 probleme, cette pratique ce trouve plus longue,
-                        que si les plans estoient mesurez par les pieds diminuez mais cest un grand
-                        expediant lorsque l'on Vous donne un plan geometral chargé de beaucoup
-                        d'ouvrage, de le scavoir racourcir et reduire à la grandeur des pieds
-                        entiers sans quil soit necessaire de le coppier à la mesure de Vos pieds
-                        diminuez, pour le racourcir selon la maniere que jai desja enseignée, qui
-                        n'est seulement comode que pour des geometraux que nous aurons la liberté de
-                        construire. </p>
-               <p xml:id="LEB_TP_L2_L2C5_P2"> Venons à cette pratique soit proposé de racourcir et rendre à la grandeur
-                        des pieds entiers un quarré veu droictement par lun de ses costez, et une
-                        figure ireguliere, telle que sont ces deux superficies geometralles, au bas
-                        desqueles est le pied qui les mesure. </p>
-               <p xml:id="LEB_TP_L2_L2C5_P3"> Pour commencer je trouve deux lignes de reduction par le 15e problème
-                            <unclear>szz</unclear> l'une des pieds diminuez et lautre du pied de mon
-                        geometral, tel qu'est en cette exemple la ligne D.d. des diminuez, et la
-                        ligne E.e. du geometral. apres de la baze et du principal, je coupe la
-                        diagonale à la distance racourcie que je veux que ce quaré m'apparoisse
-                        deriere le tableau : et par cette section sur la diagonale je mene une ligne
-                        indeterminée, et parallele à la baze, et de ce poinct encore, et du
-                        principal, par une radiale je coupe les 2 lignes de reduction ; puis je
-                        prens louverture de la longueur 1.4. du quarré geometral, que je porte sur
-                        la ligne des pieds du geometral, depuis la radialle, et à l'extremité de
-                        cette ouverture, et du principal je tire une seconde Radialle, dont je coupe
-                        la ligne des pieds diminuez, sur la quelle je prens cette ouverture
-                        rapportée, et je la pose sur la baze, depuis le poinct de la 1re radialle,
-                        et de l'extremité de cette ouverture et du principal, je coupe encore la
-                        diagonale : et par cette section, je mene une parallele à la baze de la
-                        quelle je ferme ma figure racourcie comme par le rapport des chiffres il est
-                        facile de le conoistre, pour ce qui est de la figure ireguliere elle se
-                        racourcira en la mesme maniere portant toutes les longueurs prise au
-                        geomemal sur la ligne E.c. et les reduisant par les radiales sur la ligne de
-                        reduction des pieds duminuez D.d. pour les raporter sur la baze et les
-                        couper sur la diagonale les largeurs de mesme come au quarré se porteront du
-                        geometral encore sur la ligne E. et seront menées par des radialles aux
-                        parallales à la baze des points de leurs longueurs. </p>
-            </div2>
-            <div2 type="chapitre" n="6" xml:id="L2C6">
-               <pb n="59" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f70/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="60" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f71/full/full/0/native.jpg"/>
-               <head> Probleme 19 </head>
-               <head> Pour Racourcir des geometraux, mesurez par des pieds egaux aux pieds
-                        entiers. </head>
-               <p xml:id="LEB_TP_L2_L2C6_P1"> Cette proposition ne demande que de racourcir en la mesme grandeur du
-                        geometral : puisque les pieds qui le mesure, mesurent aussi le tableau. </p>
-               <p xml:id="LEB_TP_L2_L2C6_P2"> Il n'y a point de difference de cette maniere à la precedente : bien quil
-                        semble quil ni aie pas deux lignes de reducion. neanmoins la ligne de la
-                        baze sert de cette ligne parce que les pieds du geometral sont egaux à ceux
-                        qui mesure le tableau cest pourquoy il faut poser les longueurs sur la baze,
-                        come sur une ligne de reduction: et les reduire, par les radialles sur la
-                        ligne des pieds diminuez, pour les rapporter sur la baze et les couper sur
-                        les diagonales, où se trouve le racourci des longueurs. </p>
-            </div2>
-            <div2 xml:id="L2C7" n="7" type="chapitre">
-               <pb n="61" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f72/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="62" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f73/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="63" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f74/full/full/0/native.jpg"/>
-               <head> Probleme 20 </head>
-               <head> Pour elever des corps sur les superficies, par le moien de la ligne de
-                        reduction. </head>
-               <p xml:id="LEB_TP_L2_L2C7_P1"> Jenseignerai ici la pratique d'elever les corps sur les superficies, par le
-                        moien des lignes de reduction, de mesme, et pour mesme raison que je men
-                        suis servi, à reduire les superficies, puisquil est plus juste de raporter
-                        les axes,et ler diametres et toutes autres lignes dont lon ignore les
-                        mesures, par celle maniere. </p>
-               <p xml:id="LEB_TP_L2_L2C7_P2"> Exemple je veux elever les corps sur les superficies racourcies de la figure
-                        23.24. de la 2e partie, pour ce faire je prens la hauteur depuis la baze
-                        jusqua la ligne horizontale et je place cette mesure sur la ligne
-                        horizontale depuis la perpendiculaire extreme du tableau en dedans : et de
-                        ce point, je tire come une radialle à langle que cette perpendiculaure
-                        extremne fait sur la baze et où cette mesme radiale coupe la ligne de
-                        reduction, je leve une perpendiculaire, sur la quelle je poserai toutes mes
-                        hauteurs, ensuite come jai monstré aux precedentes figures je menerai tous
-                        les angles de toutes mes superficies parallelement à la baze toucher
-                        lextrenne radialle, soit suposé que lon me demande d'elever le quarré d'un
-                        pied, je prens pour ce faire un pied diminué par cequil est le pied qui a
-                        construit mes plans geometraux je le pose donc sur la perpendiculaire de
-                        reduction et du point posé sur l'orizon passant par le point marqué sur la
-                        perpendiculaire de reduction, je mene une radiale jusqua la ligne
-                        perpendiculaire extreme de mon tableau : et ler points dattouchement des
-                        parallele à la baze sur la radialle extreme, je leve les perpendiculaires,
-                        jusqua la radialle superieure et prenant toutes ces hauteurs des
-                        perpendiculaires, je les porterai sur chaqun de leur angles, pour les elever
-                        perpendiculairement sur les superficies : et apres le clore par des lignes
-                        en la superficie superieure, pour ce qui est des Thetrahedres, pour leurs
-                        hauteurs je prens l'axe sur le plan geometral, qui ma servi à reduire mes
-                        superficies : et cet axe posé sur la perpendiculaire de reduction me donne
-                        les hauteurs de ces corps, come nous venons de faire entendre ainsi de
-                        quelque dessein que ce soit, le plan se reduira, sur la ligne de reduction
-                        parallele à la baze et lortographie sur sa perpendiculaire. </p>
-               <pb type="blankpage"
-                   facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f75/full/full/0/native.jpg"/>
-            </div2>
-            <div2 type="chapitre" n="8" xml:id="L2C8">
-               <pb n="64" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f76/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="65" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f77/full/full/0/native.jpg"/>
-               <head> Probleme 21 </head>
-               <p xml:id="LEB_TP_L2_L2C8_P1"> Pour elever en solide ces superficies d'autant que le pied du geometral est
-                        plus grand que le pied diminué et plus petit que le pied entier il faut
-                        faire une perpendiculaire à la ligne E.e. telle quest la ligne F.f. afin d'y
-                        poser les ortographie pris au geometral. </p>
-            </div2>
-            <div2 xml:id="L2C9" n="9" type="chapitre">
-               <pb n="66" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f78/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="67" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f79/full/full/0/native.jpg"/>
-               <head> Probleme 22 et <unclear/> des Elevations </head>
-               <head> Exemple dun chapiteau, et d'une baze Toscan par la premiere maniere </head>
-               <p xml:id="LEB_TP_L2_L2C9_P1"> Ce chapiteau et baze tarcan est pris et mesuré sur <bibl key="lemuetReglesCinqOrdres1632">le petit
-                            Vignole</bibl> de <persName ref="#PierreLeMuet">M. le
-                            muet</persName>, dont je me suis servi come dun dessein geometral donné,
-                        ainsi que se pouroit faire à quelque jeune home qui ignorant les mesures de
-                        larchitecture, et lintelligence des livres seroit pourtant obligé de reduire
-                        en perspective ce chapiteau, et cette baze et les rendre, selon un pied
-                        doné, dont le diametre de la colone seroit de deux pieds. </p>
-               <p xml:id="LEB_TP_L2_L2C9_P2"> Il faut faire lechelle des pieds entiers du pied doné et les pieds diminuez
-                        de la moitié du diametre de la colone du dessein doné puis aiant trouvé la
-                        ligne de reduction pour poser les largeurs, come il est enseigné par le
-                        probleme de la premiere maniere, et la ligne de reduction pour les
-                        elevations, ou hauteurs, ainsi que le probleme <unclear/> lenseigne, il sera
-                        facille de reduire ce que lon aura proposé. </p>
-            </div2>
-            <div2 type="chapitre" n="10" xml:id="L2C10">
-               <pb n="68" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f80/full/full/0/native.jpg"/>
-               <figure type="gravure"/>
-               <pb n="69" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f81/full/full/0/native.jpg"/>
-               <head> Probleme 23 </head>
-               <head>D'un cube posé iregulierement sur l'un de ses angles. </head>
-               <p xml:id="LEB_TP_L2_L2C10_P1"> Voici une exemple dun cube, qui est posé iregulierement sur lun de ses
-                        angles, dont le plan et lortographie sont mesurez, et construits selon les
-                        pieds diminuez et qui est mis en Perspective par le moien de la ligne de
-                        reduction ainsi quil a esté enseigné par les precedens problemes cest
-                        pourquoi je nen escriré davantage. </p>
-            </div2>
-         </div1>
-         <pb type="blankpage"
-             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f82/full/full/0/native.jpg"/>
-         <pb type="blankpage"
-             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f83/full/full/0/native.jpg"/>
-      </body>
-      <back type="privilege">
-         <pb n="70" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f84/full/full/0/native.jpg"/>
-         <head> Privillege du Roy </head>
-         <p xml:id="LEB_TP_P1"> Louis par lagrace de Dieu Roy de france et de Navarre À nos amez et feaux les Gens
-                Tenans nos Cours de Parlements Messieurs des Requestes ordinaires de nostre hostel
-                Baillifs, S'eneschaux, Prevostz, leurs Lieutenans et tous autres nos Justiciers et
-                officiers qu'il appartiendra. Salut. <persName ref="#JacquesLeBicheur">Jacques
-                    LePicheur</persName> peintre accademissiens nous a fait remonstrer quil
-                desireroit faire Imprimer un livre Intitulé Traicté de la Perspective quil a faict
-                sil nous plaisoit luy en accorder la permission et nos lettres Sur ce necessaires,
-                quil nous a tres hublement Supplier luy vouloir octroyer à ces causes nous autres de
-                notre grace Speciale permis et permettons par ces presentes de faire imprimer Vendre
-                et distribuer ledit livre en tel Volume et caractere que bon luy Semblera durant le
-                temps de neuf ans, faisant deffences à tous libraires imprimeurs et autres nos
-                Subjets de quelque condition quil Soient d'imprimer ou contrefaire en quelque Sorte
-                et maniere que ce soit ledit livre, pendant, lesdites annez apeine de trois mil
-                livres damande confiscation des exemplaires et de tous despens domages et interests
-                enuers Lexposant acondition de mettre deus exemplaires dudit livre en notre
-                biblioteque, et un en celle de notre tres cher et feal le Sieur Seguier chevalier
-                chancelier de france Commandons au premier nostre Huissier ou Sergant Sur ce requis
-                faire pour l'execution des uies tous exploits necessaires Sans demander autre
-
-                permission, car tel est notre plaisir Donné à Paris le <date when="1657-02-10">X fevrier lan de grace 1657</date> et de notre reigne le quatorzieme. signé par
-
-                permission, car tel est notre plaisir Donné à Paris le <date when="10 février 1657">X fevrier lan de grace 1657</date> et de notre reigne le quatorzieme. signé par
-
-                le Roy en son conseil Salmont.</p>
-         <p xml:id="LEB_TP_P2"> Ledit <persName ref="#JacquesLeBicheur">LePicheur</persName> a cedé le Privilege ci
-                dessus à <persName ref="#GerardJollain">G. Jollain</persName> Graveur et Marchand de
-                taille douce. </p>
-         <p xml:id="LEB_TP_P3">Achevé D'imprimer le <date when="1660-05-01">1er jour de May 1660</date>. </p>
-         <p xml:id="LEB_TP_P4">Achevé D'imprimer le <date when="1 mai 1660">1er jour de May 1660</date>. </p>
-      </back>
-   </text>
+  <text>
+    <front>
+      <titlePage>
+        <pb n="1" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f5/full/full/0/native.jpg"/>
+        <docTitle>
+          <titlePart type="main">Traicté de Perspective Faict Par un Peintre de L'Academie Royale</titlePart>
+        </docTitle>
+        <byline> Dedié A Monsieurs <persName ref="#CharlesLeBrun"> le Brun</persName> Premier Peintre du Roy A <placeName ref="#Paris">Paris</placeName>
+        </byline>
+        <docImprint>
+          <pubPlace>Chez Jollain, Rue st Jacques, à la ville de <placeName ref="#Cologne"> Cologne</placeName>
+          </pubPlace>
+        </docImprint>
+        <imprimatur>Avec Privilege du Roy</imprimatur>
+        <docImprint>
+          <publisher>
+            <persName ref="#Jo">F. Jollain Sculpsit.</persName>
+          </publisher>
+        </docImprint>
+      </titlePage>
+      <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f6/full/full/0/native.jpg"/>
+      <div type="dedicace">
+        <pb n="2" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f7/full/full/0/native.jpg"/>
+        <head> A Monsieur <persName ref="#CharlesLeBrun">Monsieur le Brun</persName> premier Peintre du Roy</head>
+        <p xml:id="LEB_TP_dedicace_P1">Monsieur</p>
+        <p xml:id="LEB_TP_dedicace_P2"> Je Vous supplie d'avoir agreable ce petit Traicté de Perspective. il est tellement à vous, et je vous le dois par tant de raisons, que je ne pourois le presenter à quelqu'autre, sans paroistre le plus Ingrat le plus Injuste, et le plus meconoissant du monde. je Vous ledois premierement pour l'honneur que Vous me faicte de Vostre amitie. Secondement par Justice, puis que Vous avez souffert pour lui des invectives, mesmes auparavant sa naissance. et come si ses bouclies mensongeres et ses cœurs plains denvie eussent preveu que Vous deviez estre son protecteur et son deffenseur, il Vous ont attaque par anticipation fulminat de secrette menace de le faire avorter, mais puisque dieu merci il amaintenant un corps et quil ne craidra rien sous Vostre protection, il se vient amoureusement rendre entre vos mains, pour estre sous l'asile de Vostre nom celebre, avec le quel il espere passer par tous les cabinets des honnestes gens, et des personnes Vertueuses. il espere encore que demeurant particulierement chez vous come un de vos amis, il poura quelquefois <pb n="3" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f8/full/full/0/native.jpg"/> vous faire ressouvenir quil y a este conceu, lorsque dans les agreables entretiens que j'ai eu avec vous sur le sujet de cette belle, science, je recevois par je ne scai quelle influence de vostre rare esprit des mouvemens secrets, et des desirs ardans, de m'appliquer à ce subjet, et come vous posseder excellement toutes les belles et riches parties de la peinture, dont la perspective en est une autant dificile en sa pratique, quelle est belle et necessaire je formai le dessei d'inventer cette nouvelle maniere, pour Soulager particulierement les peintres, et satisfaire a beaucoup d'honnestes gens. Vous aiant communiqué mon projet Vous ne l'approuvastes pas seullement, mais Vous my incitastes si genereusement, que Jentrepris ce travail avec beaucoup de courage, et de hardiesse. si bien que je puis franchement advouer que ce petit ouvrage est plus à Vous qu'à moy et quil est juste quil retourne à son principe, où je le viens humblement rendre, Vous suppliant Monsieur de le recevoir comme une offrande que vous faict </p>
+        <signed> Vostre plus humble serviteur et plus Inthime Amy J.B </signed>
+      </div>
+      <pb n="4" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f9/full/full/0/native.jpg"/>
+      <div type="preface">
+        <head> De la connoissance quil faut avoir pour pratiquer la Perspective </head>
+        <p xml:id="LEB_TP_preface_P1"> Toutes les personnes savantes en perspective sont d'accord, que pour bien pratiquer cet art, Il faut premierement considerer et connoistre trois choses, comme l'on void, ce que l'on void, et ce surquoy il faut faire les representations ; lesquelles choses sont entendues sous ces trois mots, L'œil, l'Objet, et le Tableau. </p>
+        <p xml:id="LEB_TP_preface_P2"> L'œil se considerera comme un point, ou pour mieux dire, ce point pour son centre. Il faut se figurer qui de ce point partent une infinité de rayons vers les objets, ou que par leur moien les objets lui renvoient leur especes : et s'imaginer que ces rayons forment tous ensembles une figure Conique, dont la pointe est au centre de Lœil, et la baze enveloppe les objets. </p>
+        <p xml:id="LEB_TP_preface_P3"> Il faut aussi savoir à quelle distance L'œil sera eloigné du tableau. prendre garde s'il n'en est point si proche quil ne pût voir ce qui y seroit representé sans effort et sans confusion, et de la distance raisonnable, je ferai quelques demonstrations à la fin de ce livre. il faut encore connoistre son elevation, sur la terre : et remarquer s'il est dehors ou vis à vis quelqu'endroit du Tableau. </p>
+        <p xml:id="LEB_TP_preface_P4"> L'objet se doit connoistre en sa nature, en sa situation, et en sa grandeur. </p>
+        <p xml:id="LEB_TP_preface_P5"> En sa nature, si cest un point, une ligne, une superficie, ou un Corps </p>
+        <p xml:id="LEB_TP_preface_P6"> En sa situation, si le point est en l'air, ou posé sur la terre si la ligne est etendue dessus, ou elevée perpendiculairement, ou obliquement, si la superficie, et le Corps, sont droits ou panchez si ils sont veus de face ou non. </p>
+        <p xml:id="LEB_TP_preface_P7"> En sa grandeur, le point n'a aucune dimension, et ne se peut mesurer, la ligne se mesure en longueur : la superficie en longueur et largeure. le Corps a de plus une troisiesme dimension, qui est hauteur ou profondeur. </p>
+        <pb n="5" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f10/full/full/0/native.jpg"/>
+        <p xml:id="LEB_TP_preface_P8"> Le Tableau qui est le sujet sur lequel se doivent tracer et peindre, les representations, se doit semblablement connoistre en sa nature, en son étendue, et en sa situation. </p>
+        <p xml:id="LEB_TP_preface_P9"> En sa nature, s'il est plain, cest à dire uni, concave, ou convexe,ou sil a quelqu'autre inegalité. </p>
+        <p xml:id="LEB_TP_preface_P10"> En son étendue, il faut savoir la mesure de sa hauteur, et de sa largeur a fin de deliberer et choisir ce qui si poura convenablement representer, et selon son espace determiner la distance de l'œil. En sa situation, s'il est perpendiculaire sur la terre, ou panché en devant ou renversé en ariere si il est veu de face ou detourné adroit ou à gauche. </p>
+        <p xml:id="LEB_TP_preface_P11"> Apres les connoissances dont je viens de traitter, il faut encore avoir celles du point et de quelques lignes principalles, qui servent à la reduction de toutes sortes de figure en racourci, et il est necessaire de les connoistre par leurs noms. </p>
+        <p xml:id="LEB_TP_preface_P12"> Premierement la ligne qui se trace sur le tableau à la hauteur de l'œil se nomme communement ligne orisontalle, qu'oi qu'assez improprement : toutefois je lui laisserai ce nom, elle traverse tout le tableau,a fin de donner la liberté d'assoir le point entel lieu que l'on voudra, ce point est nommé principal, et par quelques uns, point de l'œil mais il ne peut avoir ce nom puis qu'au contraire il n'est que la representanon d'un point qui lui est directement opposé, mesme d'une distance infinie, le nom de principal lui conuient beaucoup mieux, particulierement en cette pratque, où il est le principal agent : cest donc celui que je lui laisserai, de ce point ce tire une infinité de lignes s'ouvrant en se rabaissant sur la baze elles portent le nom de Radialles Raions, ou Rais visuels, presque par tous les auteurs, pour moy je ne puis comprendre pourquoy : puis qu'elles partent d'un point qui n'est pas celui de l'œil comme je viens de dire, je croi qu'elles sont plustost les representations des paralelles lesquelles sont étendues en long sur la terre cependant je leur laisserai ce nom de Radialles puis quil est en usage. </p>
+        <pb n="6" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f11/full/full/0/native.jpg"/>
+        <p xml:id="LEB_TP_preface_P13"> Bien que tout ce que je viens de faire entendre soit general, et que ces connoissances soient necessaires en toutes sortes de pratiques de perspectives, il y a pourtant quelque singuliarité pour celle ci, comme cette distance de l'œil au tableau, laquelle sert ici ainsi que seroit une mesure telle qu'ne toise perché ou chaine, avec laquelle l'on iroit mesurant la terre en sa longueur, de plus que neje ne fais estat que d'un point qui est ce lui appelle principal, qui travaille, seul en cette pratique, l'on peut remarquer quelle a peu de lignes, qu'elle est prompte et juste au rapport du geometral au perspectif, duquel la reduction ce fait sur deux ou 3 lignes dans le tableau, et que l'echelle est simplement geometral. Voila en gros les remarques, que je laisse à particuliariser à ceux qui voudront pratiquer cette maniere, mais a fin de donner plus de satisfaction aux intelligens, ils trouveront des theoresmes sur Quelque probleme par lesquels ils connoistront la certitude de ces constructions pour ce qui est des simples praticiens, outre que jai taché de me rendre clair en l'explication de mes problemes, je leur donne ici une demonstration mecanique, par laquelle ils toucheront au doit et a l'œil come se font les representations sur le tableau à la facon que les especes des objets ce raportent sur les corps diaphanes. </p>
+        <p xml:id="LEB_TP_preface_P14"> Si ce ci peut estre utille a quelque uns, je serai assez satisfait et je supplie les scavans de ne point trouver mauvais si je donne le jour à ce traité, puis que je l'œil fait sans ambition, et sans interest, avec assez de connoissance de mon incapacité : mais je me suis trouve engagé sans y penser, et le jugement des plus Intelligens me donne le courage de l'achever : ce que jai fait pour ceux qui le trouveront à leurs gré : et pour les autres ce la me sera toujours assez indifferent </p>
+      </div>
+      <div type="section">
+        <pb n="7" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f12/full/full/0/native.jpg"/>
+        <figure type="gravure"/>
+        <pb n="8" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f13/full/full/0/native.jpg"/>
+        <head type="main"> Theoreme 1 </head>
+        <head type="sub">De quelque distance que l'œil soit éloigné d'un triangle élevé sur la terre pourveu quil soit à la hauteur du Sommet de ce triangle luy semblera Couvrir Une Espace paralelle et infinie en longeur. </head>
+        <p xml:id="LEB_TP_section_P1"> Ce theoreme est le fondement de la demonstration mecanique dont voicy la figure, en la quelle par deux triangles de carton est representé le racourci en perspective dun plan, geometral, sur le quel ils sont posez il ya aussi deux autres cartons où est figuré l'œil de l'homme, au centre du quel est attaché un filet à la hauteur du sommet du triangle et ce filet faict icy l'office d'un rayon Visuel, de toutes ces choses ansi establies, je ferai ma demonstration par deux principalles observations </p>
+        <p xml:id="LEB_TP_section_P2"> I. Que les lignes radialles nous representent les lignes paralelles etendues en longeur au plan geometral parceque si vous dressez les triangles de carton parallellement aux cartons où est figuré l'œil de l'homme, et que vous conduissiez le filet le long des paralelles en longeur qui sont nottez A.B. et AB.Vous Verez qu'à mesure que vous conduirez le filet il s'elevera et suivera Les costez du triangle, qui sont en perspective des lignes radiales que si par une autre experiance vous ostez le filet, et que par le trou où il estoit attaché, vous reqardiez le triangle Pous apperèeueez que ces costez suvierent justement les parallles AB. et AB. au plan geometral : et le triangle couvrira toute lespace contenue entre ces lignes davantage vous connoistrez que quelque longeur quelles puissent avoir, elle ne s'eleveront jamais à la hauteur des triangles et que lespace qui restera de ces triangles Sera toujours proportionel à son tout. </p>
+        <pb n="9" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f14/full/full/0/native.jpg"/>
+        <p xml:id="LEB_TP_section_P3"> II. Que les parallelles à la baze der triangles, et qui traverse lespace entre les deux paraleles des longeurs AB. et AB. que je nomnreray icy parallelles des largeurs, composent entre elles Distances egalles, et qui le sont aussi à la distance de l'œil au tableau qui est en cette figure la distance depuis le carton où est figuré l'œil de l'homme, jusques au triangle de carton qui est le tableau. </p>
+        <p xml:id="LEB_TP_section_P4"> Que si vous arrestez le filet sur chacque pont où les lignes des largeurs toucheront celles des longeurs, vours verez que ce filet touchera sur les costez des triangles les extremitez de ces lignes des largeurs racourcies ce qui sera facille de veoir par le rapport de ces lignes du geometral au perpectif. Notez de pareils chiffres 1.1.2.2..3.3.4.4. etc. </p>
+      </div>
+      <div type="section">
+        <pb n="10" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f15/full/full/0/native.jpg"/>
+        <head type="main"> Theoreme II </head>
+        <head type="sub">Tout Parallellograme du quel deux costez opposez sont divisez en deux parties egalles par une ligne droitte, cette ligne sera aussi divisee en deux parties egalles par la diagonnalle.</head>
+        <figure type="gravure"/>
+        <p xml:id="LEB_TP_section_P5"> Par ce theoreme il est connu, que la moitie dont l'œil est elevé sur la terre est sur le tableau la hauteur qui temine le racourci d'une longeur egalle a la distance de l'œil au tableau. Car si en la figure de ce parallellograme A.B.C.D le costé A.B. est pris pour la hauteur de l'œil, le point B. pour son centre, B.F. pour la distance de l'œil au tableau, A.D. pour une longeur sur la terre, B.D. pour rayon visuel, E.F. pour une partie du tableau, E.G. qui est la moitié de cette ligne par la construction du theoreme sera le racourci de E.D. parcequ'au point de l'œil B. par le moien de son rayon B.D. ; la longeur E.D. est rapportee en E.G. : lequel E.G. est aussi moitié de la hauteur de l'œil A.B. egal à E.F. Ainsi il est certain que E.G. qui est la moitié de la hauteur de l'œil, est le racourci de la distance E.D. La quelle est egalle à la distance de l'œil au tableau. </p>
+        <pb n="11" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f16/full/full/0/native.jpg"/>
+        <p xml:id="LEB_TP_section_P6"> Autre preuve par Arithsmetique</p>
+        <p xml:id="LEB_TP_section_P7"> Soit Suppose la hauteur de l'œil A.B. etre de 5 pieds, la longeur sur la terre A.D. de trente, les deux moitie A.E. et E.D. seront chacune de 15 et je dirai si A.D. de 30 me donne A.B. 5, que me donnera E.D. de 15. lors je trouverai infalliblement par la reigle dor 2 1/2 qui est E.G., le quel est moitié de 5, hauteur de l'œil A.B. mais cest le racourci de la longeur de 15 E.D. qui est egalle a la distance 15 A.E., ou a son egalle B..E, distance de l'œil au tableau. </p>
+      </div>
+      <div type="section">
+        <pb n="12" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f17/full/full/0/native.jpg"/>
+        <head type="main"> Theroeme III </head>
+        <head type="sub"> Si deux costez opposez d'un rectangle sont divisez en deux parties egalles par une ligne droitte le rectangle sera aussi divisé en deux rectangles egaux par cette mesme ligne et si l'un des costez parallelle a leur coste commun est prolongé indeterminement et que de lautre rectangle soit menée une diagonnale par langle superieur de leur division et continuée au dehors jusqu'à ce quelle touche le costé prolongé cette diagonnale sera double comme aussi le costé prolongé et mesme le rectangle descrit alentour de cette diagonnalle prolongée sera double au premier rectangle </head>
+        <figure type="gravure"/>
+        <p xml:id="LEB_TP_section_P8"> Soit le rectangle C.E.e.c. divisé en deux parties egalles par la ligne F.f. et aussi en deux rectangles egaux C.E.f.F et F.f.e.c le costé prolongé soit C.G lequel est parallel au costé commun la diagonale qui passe par langle de leur division c.f. la quelle et menée au dehors et touche le costé prolongé au point G. toute cette ligne c.G. <pb n="13" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f18/full/full/0/native.jpg"/> est double de c.f. et la ligne C.G double du costé CE et encore le rectangle desrit a lentour de la diagonale prolongée C.G.g.c double du premier rectangle C.E.e.c. </p>
+        <p xml:id="LEB_TP_section_P9"> Application du 2me problème perspective</p>
+        <p xml:id="LEB_TP_section_P10"> Puisque le plan C.E.e.c. est le racourci dun plan rectangle et quil est divisé en deux parties egalles par la ligne A.F. et par mesme moien en deux plans egaux la diagonale c.f. si elle passe par langle de leur division et va toucher la radialle, qui est le costé prolongé, au point G. cette ligne sera double cpùùe aussi le costé prolongé selon le theorene et le plan C.G.g.c sera encore double du plan C.E.e.c. </p>
+      </div>
+    </front>
+    <body>
+      <div1 type="livre" n="1" xml:id="L1">
+        <pb n="14" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f19/full/full/0/native.jpg"/>
+        <head type="main"> Traite de Perspective </head>
+        <head> Première Partie </head>
+        <head type="sub"> Où il est enseigné à Reduire en perspective letendue superficielle de la terre qui se peut Veoir d'une seule station de l'œil et d'en conoistre la mesure tant en longueur quen largeur d'y situer des poincts et des lignes ou lon desirera eta telle distance et hauteur quon Voudra que l'œil soit du tableau. </head>
+        <div2 xml:id="L1C1" n="1" type="chapitre">
+          <pb n="15" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f20/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="16" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f21/full/full/0/native.jpg"/>
+          <head> Probleme I. </head>
+          <head> Comnent il faut sur un tableau, ou autre Superficie plane tournée de front, et dressée perpendiculairement, tracer les principalles lignes qui servent à reduire toutes sortes d'objets en perspective et comment il faut trouver le racourci dun plan rectangle, dont la longeur soit egalle a la distance de l'œil au tableau. </head>
+          <p xml:id="LEB_TP_L1_L1C1_P1"> Tirez au bas de vostre tableau une ligne qui serve de baze telle quest en cette figure la ligne C.c. deliberez la hauteur que vous voulez que l'œil soit élevé pardessus cette ligne, tirez a cette hauteur parallellement à la baze la ligne horisontalle B.b. posez dessus le point principal, jai mis ici deux de ces points, marquez A.A. pour faire entendre que lon peut poser ce point en telle place quon voudra de la ligne horisontalle. Apres, tirez de ce poit jusques sur la baze les lignes radialles telles que sont A.C. et A.c. ces lignes nous representent des lignes parallelles en longeur. Comme jai dit en mon avant propos, et fait veoir en la demonstration mecanique, ces radialles doivent enfermer sur la baze une mesure conue et pour ce subjet il faut faire une échelle de pieds qui soient convenable à la grandeur de vostre tableau, et au subjet que vous voulez representer dessus. de ces pieds vous mesurerez sur la baze lespace que vous voudrez donner entre les radialles <pb n="17" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f22/full/full/0/native.jpg"/> Comme aussi toute autre sorte de largeurs, hauteurs, et profondeurs, qui seront perpendiculaire à la baze lexemple est en cette figure, où jai fait une echelle de pieds, que je nomme pieds entiers des quels jen ai donné six sur la baze entre les radialles, et quatre à la hauteur de la ligue horisontalle. Toutes ces choses ainsi Disposez pour trouver le racourci du plan demandé, jay divisé en deux parties egalles la hauteur depuis la baze Jusqu'à la ligne horisontalle : Et par cette division jai tiré la ligne D.d. entre la quelle et les radialles jai le trapeize. C.E.e.c. qui est le racourci d'un plan rectangle, le quel a de largeur six pieds, et de longeur autant que l'œil est eloigné du tableau. </p>
+          <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f23/full/full/0/native.jpg"/>
+        </div2>
+        <div2 type="chapitre" n="2" xml:id="L1C2">
+          <pb n="18" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f24/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="19" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f25/full/full/0/native.jpg"/>
+          <head> Probleme II. </head>
+          <head> La maniere d'adjouter plusieurs plans racourcis au premier plan, lesquelles Luy soient egaux, et à la distance de l'œil au tableau. </head>
+          <p xml:id="LEB_TP_L1_L1C2_P1"> Par le premier probleme vous avez trouvé le racourci d'un plan rectangle : par ce second vous pourez luy en adjouter dautres qui lui seront egaux. </p>
+          <p xml:id="LEB_TP_L1_L1C2_P2"> Suivant la figure de ce probleme si vous menez du point principal A, la ligne AF. laquelle divise la baze C.c. en deux parties egalles, cette ligne divisera semblablement la ligne qui est le terme plus éloigné du premier plan et si de l'un des angles que les radialles font avec la baze vous menez une ligne qui passe par la section f. et touche la radialle au point g. ou G. et que vous tiriez par ce point la parallelle à la baze G. vous aurez un plan egal au premier et si de plus vous voulez avoir un troisieme plan, menez une ligne de l'un des angles que font les radialles avec la ligne E.e. laquelle passe par la section H. et touche la radialle au point I. ou i. et par ce point tiriez encore une parallelle à la baze, telle quest I.i. et vous aurez le plan defirez il fera facille d'en produire tant que l'on voudra par cette maniene. </p>
+        </div2>
+        <div2 xml:id="L1C3" n="3" type="chapitre">
+          <pb n="20" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f26/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="21" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f27/full/full/0/native.jpg"/>
+          <head> Probleme III </head>
+          <head> Seconde maniere de produire le racourci et tant de plans egaux quelon voudra </head>
+          <p xml:id="LEB_TP_L1_L1C3_P1"> Le probleme precedent enseigne la maniere de produire et trouver le racourci de tant de plans egaux que lon voudra, par le moien des lignes diagonalles, et celui ci fait la mesme chose en divisant des perpendiculaires à la baze, ou des lignes radialles, au premier probleme nous avons trouvé le racourci d'un plan, dont la longneur est egalle à la distance de l'æil au tableau, en divisant la hauteur de lhorison en deux parties egalles : ou nous avons pu remarquer que la parallelle à la baze qui passe par cette division divise aussi les radialle en deux parties egalles, ce questant connu et construit, si vous voulez adjouter à ce plan d'autres plans qui lui soient egaux, divisez la moitié qui est vers la ligne horisontalle, ou sur les perpendiculaires, ou sur les radialles, en trois parties egalles et par la plus basse de ces divisions une parallelle à la baze : et vous aurez un second plan tel quest en cette figure le plan E.G.g.e. egal au premier pour le troisieme divisez ce qui vous restera jusq'à l'horison, en quatres parties egalles: et par la plus basse, tirez la parallelle à la baze, marqué en cet exemple G.I.i.g. et vous aurez le troisieme plan, si vous voulez le quatrieme divisez ce qui reste jusq'à lhorison en cinq partes eqalles : tirez sur la plus basse, la parallelle à la baze et vous aurez le plan désiré, si vous en voulez davantage divisant tous jours ce qui restera jusqu'à lhorison selon la simple numeration: et tirer par les plus basse de ces divisions les parallelles à la baze et vous aurez le juste racourci de tant de plans egaux que l'on voudra. </p>
+        </div2>
+        <div2 type="chapitre" n="4" xml:id="L1C4">
+          <pb n="22" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f28/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="23" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f29/full/full/0/native.jpg"/>
+          <head> Probleme IIII. </head>
+          <head> Troisieme maniere de trouver des plans </head>
+          <p xml:id="LEB_TP_L1_L1C4_P1"> Voici une maniere fort commode particuliairement pour les grands desseins puis qpar dessus les precedentes manieres, elle a cette singularité que vous pouvez trouver tel plan que ce soit et connoistre à quelle <reg>longueur</reg> il sera situé sans commencer par les plus proches. la pratique est que si nous rabaissez le point principal perpendiculairement sur la baze, comme A en E : et meniez la radialle AC. ou Ac. lespace sur la baze CE. ou Ec. sera la partie quil faudra diviser a fin d'éslever des perpendiculaires dessus, qui toucheront la radialle en un point, par le quel il faut tirer des parallelles à la baze, qui seront les termes des plans. exemple si Vous voulez trouver le cinqiesme plan, divisez lun ou lautre espace sur la baze C.E. ou E.c. en six parties egalles, ainsi quen cette figure est lespace E.c et sur la division plus proche du point E., élevez la perpendiculaire F.f. et par f. qui est le point où cette perpendiculaire touche la radialle, menez la parallelle à la baze, et vous aurez le terme plus eloigné du cinquiesme plan, et pour en avoir le terme le plus proche divisez la mesme espace en cinq parties egalles : et sur la division toujours plus proche du point rabaissé E. eslevez la perpendiculaire jusq'à ce quelle touche la radialle : et par ce point d'atouchement mener la parallelle à la baze : et vous aurez ce terme plus proche qui sera aussi le terme plus eloigné du quatriesme plan : par ce que si vous voulez trouver ce quatriesme plan, vous n'aurez q'à diviser lespace sur la baze, en quatre parties egalles : er eslever la perpendiculaire de la mesme façon que vous avez fait les autres et par le point où elle touchera la radialle, tirer nvstre parallele à la baze <pb n="24" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f30/full/full/0/native.jpg"/> et cette ligne sera le terme plus proche du quatriesme plan et le plus eloigné du troisiesme, ce la sufit pour faire entendre toute cette panique et la figure facilitera l'intelligence. De plus si vous voulez sçavoir à quelle longueur il sont situez, contez les plans qui precede le plan dont vous voulez savoir la situation. exemple je veux savoir à quelle longueur est le cinquiesme plan : je dis il y a quatres plans qui le precede et chaque plan contient autant en sa longueur que mon œil est esloigné de mon tableau : je ne fais donc qu'aditonner quatre fois cette distance de l'œil au tableau et je connois à combien le terme le plus proche de ce plan est situé ainsi je puis connoistre tous les autres. </p>
+          <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f31/full/full/0/native.jpg"/>
+        </div2>
+        <div2 xml:id="L1C5" n="5" type="chapitre">
+          <pb n="25" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f32/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="26" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f33/full/full/0/native.jpg"/>
+          <head> Probleme V </head>
+          <head> Pour trouver des points situez à telle distance de longueur et de largeur racourcie que lon voudra </head>
+          <p xml:id="LEB_TP_L1_L1C5_P1"> Au paravant que de venir à cette pratique il faut scavoir que toutes les mesures des largeurs se posent et se content sur la baze, et sur toutes les lignes qui lui sont parallelles, lesquelles pour ce subjet je nomme en ma demonstration mecanique, parallelles des largeurs : et que toutes celles des longueurs se content en montant et se racourcissent sur les lignes diagonalles de chacun plan, mais parceque pour les trouver il est necessaire de construire une seconde echelle j'enseignerai le moien de la faire et ensuitte cellui de sen serluir. </p>
+          <p xml:id="LEB_TP_L1_L1C5_P2"> Il faut donc pour ce faire diviser, la baze entre les radialles, en autant de parties egalles, que vous voulez que vostre œil soit Eloigné de vostre tableau, par exemple, en cette figure jai voulu la distance de l'œil au tableau estre de quinze pieds : j'ai divisé la baze entre les radialles de C en c, en quinze parties egalles et de quelque unes de ces divisions jai fait lechelle qui et au bas de la figure, nommée de pieds diminuez et parceque chacun plan contient en longueur mesme nombre de pieds racourcis, jai pour ce subjet, tracé à chacun des plans une diagonale que vous pouvez voir nottez c.D.D.e. e.F. F.g </p>
+          <p xml:id="LEB_TP_L1_L1C5_P3"> apres toute cette disposition je suppose d'avoir besoin dun point à la distance racourcie de trois pieds de longueur et pour le trouver je prens sur lechelle des pieds diminuez, louverture de trois pieds, que je pose sur la baze depus c. jusqu'à auquel poinct jareste la reigle ou le <pb n="27" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f34/full/full/0/native.jpg"/> filet du point principal qui coupe la diagonale au point i qui est le point cherché à trois pieds racourcies en longueur. Mais quand à la largeur j'aurois besoin quil fut à trois pieds dans mon tableau de la gauche à la droitte donc pour le placer en ce lieu je prens trois pieds, sur lechelle des pieds entiers je les mets sur la baze entre les radialles de la gauche à la droite comme depuis C. jusqu'en M. sur le quel point j'areste la reigle ou le filet du point principal et je trace une petite portion de radialle à la hauteur du point trouvé, puis je coule ce point parallellement à la baze jusque à ce quil touche cette petite portion de radialle, comme vous voiez, au point m. qui est le point situé à telle longueur et largeur que jai desiré je suppose encore que jai besoin de trois autres points situez, le premien à vingtrois pieds de longueur et à quatre de largeur de la gauche à la droitte, le second à quarante pieds de longueur et à deux de largeur de la gauche à la droitte, et le troisiesme à quarantehuit pieds de longueur et à quatre et demi de largeur contez touyours de la gauche à la droitte du tableau. </p>
+          <p xml:id="LEB_TP_L1_L1C5_P4"> Je conte pour le premier plan quinze pieds, il me faut donc adjouter dans le second plan huit pieds que je prens sur lechelle des pieds diminuez et je les pose sur la baze depuis C. jusqu'au point N. sur le quel du point principal j'areste la reigle ou le filet qui coupe la diagonale du second plan à hutpieds racourcis le quel pouit est marqué n. qui est situé a vingttrois pieds de longueur pour la largeur je prens quatre pieds entiers jsr la baze de la gauche à la droite je trace une petite particule dune radiale à la hauteur de ce point troué le quel je coule parallellement à la baze jusquace quil <pb n="28" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f35/full/full/0/native.jpg"/> touche cette petite ligne et lors il est situé en sa largeur desirée pour le second je conte deux plans qui valent tente pieds puis je prens dix pieds diminuez que je pose sur la baze depuis c. jusqu'à 0 au point du quel j'areste la reigle ou le filet du point principal et je marque le point sur la diagonale du troisiesme Plan le quel est par ainsi situé à quarante pieds de longueur pour la largeur je prens deux pieds entiers je les pose sur la baze de la droitte à la gauche je trace à la hauteur du point trouvé cette petite radiale je coulle le point parallellement à la baze jusqu'à cequil touche cette petite ligne et ainsi il est situe en la largeur desirée, je fais de mesme pour le troisiesme je conte trois plans qui vallent quarante cinq pieds, je pose sur la baze depuis C. jusqua P. trois pieds diminuez par la reigle ou lefilet je place mon point sur la diagonale du quatriesme plan apres pour la largeur je prens quatre pieds et demi que je pose sur la ligne de la baze de la gauche à la droitte je tire cette petitte radiale à la hauteur du point trouvé je le coule parallellement à la baze jusqu'à cette petite ligne et par ainsi jai situé tous ces points aux lieux propres que je desirois. </p>
+        </div2>
+        <div2 type="chapitre" n="6" xml:id="L1C6">
+          <pb n="29" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f36/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="30" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f37/full/full/0/native.jpg"/>
+          <head> Probleme VI </head>
+          <head>Pour quareler les aires des plans de quareaux veus de front </head>
+          <p xml:id="LEB_TP_L1_L1C6_P1"> Si sur autant de pieds dimuniez, qu'en contiendra la baze de vostre tableau entre les radialles qui termine la largeur des plans, vous couppez, du point principal toutes les diagonales des plans et que vous meniez par ces sections des parallelles à la baze vous aurez en chacqun de vos plans le racourci d'autant de pieds quil y aura de pieds entiers : en la distance de l'œil au tableau. </p>
+          <p xml:id="LEB_TP_L1_L1C6_P2"> Et si sur la mesme baze vous tirez des radialles sur autant de pieds entiers qu'elle en poura contenir, vous aurez tous vos plans quanrelez de quareaux racourcies veus de front por tant chacqun un pied en guare. </p>
+          <p xml:id="LEB_TP_L1_L1C6_P3"> Exemple jai marqué sun la baze C.c. entre les radialles AG. et Ac. treize pieds diminuez, qui est le nombre des pieds entiers contenus en la distante de l'œil au tableau puis du point principal, posant la reigle sur tous ces pieds, jai marqué sur les diagonales des petites sections, par lesquelles jai mené des parallelles à la baze lesquelles mont donné en chacqun plan treize divisions de pieds racourcis en longueur. Apres sur la mesme baze entre les mesmes radialles,jai posé huit pieds entiers, qui y sont presissement contenus et du point pricipal jai tiré des radiales à tous ces pieds entiers qui sont sur la baze ce qui ma donné en chacqun plan le racourci de nonantequatre quareaux veus de front portant chaqun un pied en quaré. </p>
+          <pb n="31" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f38/full/full/0/native.jpg"/>
+          <p xml:id="LEB_TP_L1_L1C6_P4"> Mais si vous voulez remplir toute la largeur de vostre tableau de quareaux : continuez le terme plus éloigné de vos plans tout jusquaux extremitez de vostre tableau et faites en autant de toutes vos parallelles à la baze puis de louverture des pies entiers, ou de largeur qui seront sur cette ligne terme plus éloigné des plans, remplisez tout le reste de cette ligne, et passez des radialles par ces points : vous aurez toute la largeur de vostre tableau quarelée. </p>
+        </div2>
+        <div2 xml:id="L1C7" n="7" type="chapitre">
+          <pb n="32" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f39/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f40/full/full/0/native.jpg"/>
+          <pb n="33" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f41/full/full/0/native.jpg"/>
+          <head> Probleme VII </head>
+          <head> Autre maniere de faire des quareaux racourcis. </head>
+          <p xml:id="LEB_TP_L1_L1C7_P1"> Par cette maniere si vous divisez le rectangle C.B. b.c. en deux parties egalles, par une ligue perpendiculaire à la baze telle que est AE. et que vous divisiez la partie de la baze Ec. en autant de parties égalles quil y a de pieds entiers depuis l'œil jusquau tableau et que du point B. avec la reigle ou le filet vous posiez sur chacqune de ces divisions et coupiez la perpendiculaure par des petites sections vous verez que les parallelles à la baze que vous passerez par toutes ces petites sections diviseront le premier plan en autant de pieds racourcis que l'œil sera éloigné du tableau. Pour continuer un second plan tirez la diagonale Ac. au rectangle E.A.b.c. et divisez la derniere ligne, ou terme plus eloigné du premier plan, depuis la perpendiculaire jusqu'à la diagonale en autant de parties que vous avez fait la moitié de la baze ce que vous ferez facillement posant la reigle au point A. et de ce point la marquant sur chacqune de ces divisions et les marquant sur cette derniere ligne du plan vous aurez autant de divisions quil y en a dessus la baze mais diminuez justement de la moitié. apres comme au paravant, du point B. portez la reigle sur toutes les divisions et les marquez par de petites sections, par lesquelle vous continurez de passer des parallelles à la baze et vous aurez le second plan divisé comme le premier. pour le troisiesme divisez comme vous avez fait, le terme plus eloigné du second plan qui est la derniere ligne, en autant de parties que la baze : et par le moien que je vous ai enseigné vous trouverez autant de divisions mais diminuez des deux tieres vous ferez encore du point les sections sur la perpendiculaire, et passerez par ces sections les parallelles à la baze et vous aurez le troisiesme plan. vous continurez ainsi tant quil vous plaira. </p>
+        </div2>
+        <div2 type="chapitre" n="8" xml:id="L1C8">
+          <pb n="34" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f42/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="35" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f43/full/full/0/native.jpg"/>
+          <head> Probleme VIII </head>
+          <head> Pour Connoistre aquelle longueur, et largeur, est situé un point posé à la ladventure </head>
+          <p xml:id="LEB_TP_L1_L1C8_P1"> Devant que de Rion Commencer, il faut savoir lamesure de la distance de l'œil au tableau de Combien il est éleve sur la terre : et connoistre le point que lon aura posé dans le tableau </p>
+          <p xml:id="LEB_TP_L1_L1C8_P2"> En Cette figure Je suppose que la distance de l'œil au tableau est de dix huit pieds et quil est élevé par dessus la terre à la hauteur de Cinq pieds que le point dont je Veux Connoistre la situation est le point marqué F. je tire pour ce subject les deux radialles AC., et Ac., la perpandiculaire A.D. Et je menne du point F. la parallele à la baze Ff. puis avec le compas, je prens lespace sur cette parallele de puis G. jusqua g. et j'observe de puis sur la baze, combien de fois elle y est contenue de puis D. jusqua c. je trouve en cette exemple quelle y est contenue plus de trois fois et moins de quatre. Cest pourquoi je divise lamesme espace D. en trois puis en quatre parties egalles et selon le 4e probleme, je trouve un plan qui est le troisiesme, dans le quel est enfermé la parallele à la baze Ff. ce plan je tire une diagonale et où elle coupe la parallele à la baze Ff. je passe du point principal, une radialle jusque sur la baze telle quest AE. puis je dis les deux premiers plans contiennent chacun dix huict pieds, qui sont trente six pour les deux je messure avec les piez diminuez lespace E.c. et je trouve quelle contient unze de ces pieds j'adjoute donc unze à trente six, qui me donne quarente sept, nombre des pieds de longueur, où est situé ce point. et pour connoistre sa situation, en largeure je prens l'ouverture depuis le point F. jusqu'à la radialle g. que je porte depuis g.jusqua h. sur la mesme ligne Ff. et du principal je menne une radialle passant par h. jusque sur la baze come H. et je mesure sur la baze avec les pieds entiers, lespace CH. que je trouve estre dez piez 2/3 dont je conois que le point posé à laventure est située à tele largeur hors lextreme radialle. </p>
+        </div2>
+        <div2 xml:id="L1C9" n="9" type="chapitre">
+          <pb n="36" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f44/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="37" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f45/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="38" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f46/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="39" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f47/full/full/0/native.jpg"/>
+          <head> Probleme 9 10 et 11 </head>
+          <head> Pour Racourcir en perspective des Rectangles Triangles et Cercles. </head>
+          <p xml:id="LEB_TP_L1_L1C9_P1"> Puisque jai enseigné à mettre en perspective, et à mesurer de grande estendues sur la terre: à y situer des points en tel lieu que l'on voudra à conoistre la situation de ceux qui seroient posez à ladventure et à quarreler les aires. il me faut maintenant enseigner ce que peut cette simple maniere, pour reduire des superficies qui ne sestend que sur quelques rectangles, triangles, et cercles posez de front cest à dire que lun de leurs costez sont tourné parallelement au tableau les triangles sont les Isoselles, et lequilateal, le cercle sinscrit dans un quarré, il faut necessairement conoistre la mesure de leurs costez puisque lon ne se sert simplement que des echeles geometrales. Venons aux quatre rectangles de la figure 9. qui seront faciles à représenter puisquil ne faut que trouver des points à tous leurs angles ce quenseiqne le 7e probleme: et puis former leurs figures par les lignes de leurs costez par les triangles de la figure 10. II faut faire les plans geometraux, mesurez par l'echelle des pieds diminuez, come Vous voiez ces trois triangles dont le premier est l'isoselle aiant l'angle de son somet, obtus, qui est soutenu de la baze de 5 pieds, le second est Isoselle dont langle du somet est aigu, et sa baze est de 3 pieds. le 3e est equilateral dont les costez portent 4 pieds. il faut tirer à tous. la perpendiculaire de langle de leur somet; puis par les pieds entiers ou des largeurs, reduire leurs baze. en tel lieu que l'on voudra quelle paroisse deriere le tableau et prendre Les lignes perpendiculaires sur le geometral pour les porter sur la baze du tableau pour ler couper sur la diagonale et avoir les longueurs la figure 11. porte un cercle Inscrit dans un quarré. Il faut donc reduire ce quarré, come vous avez fait les rectangles. vous tirerez les deux diagonales, et les deux qui se croisent au centre, et duvisez les costez puis vous diviserez l'un des costez. parallales à la baze, en sept parties egales : et tirerez les deux plus eloignées du centre, au point principal, que couperont les diagonales, où il faut faire passer le cercle comme la figure le fait voir. </p>
+        </div2>
+        <div2 type="chapitre" n="10" xml:id="L1C10">
+          <pb n="40" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f48/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="41" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f49/full/full/0/native.jpg"/>
+          <head> Probleme 12. </head>
+          <head> D'une figure, dont le point principal seroit hors le tableau. </head>
+          <p xml:id="LEB_TP_L1_L1C10_P1"> Si l'on vouloit que quelque figure fut veue de telle facon que l'axe de la veue qui se termine au point principal se trouvast hors le tableau. Come en cette exemple, où je supose que lon demande un quare dont les costez soient de 3 pieds chaquun et que le point principal soit 4 pieds hors le tableau je comence ainsi. je situe une parallele à la baze en tel lieu que lon voudra que le premier costé de ce quare aparoisse deriere le tableau. Puis suivant la demande je situe encire une deuxième parallele à ladistance de 3 pieds en longueur, apres je pose sur la ligne de l'horizon un point principal indiferement ainsi que jai fait celui marqué A. du quel je tire deux radialles sur la baze à louverture de 3 pieds entiers, les queles radialles coupé les deux paralleles à la baze, et me donne entre elles un quarré qui porte 3 pieds en chaqun de ses costez et pour trouver le point principal hors le tableau je tire une portion de radiale depuis lextremité de la ligne du premier plan marqué d. jusques sur la baze à 4 pieds au dedans marqué D. cette ligne coupe ainsi les deux paralleles à la baze et pour achever je prens louverture entre les radialles des deux paralleles du quare deja faite et je les porte chaquune sur la ligne depuis la ligne d.D. en dedans et joints ces deux ouverture pour fermer le quare demandé qui est noté Ee et fF. </p>
+        </div2>
+        <div2 xml:id="L1C11" n="11" type="chapitre">
+          <pb n="42" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f50/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="43" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f51/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="44" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f52/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="45" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f53/full/full/0/native.jpg"/>
+          <head> Probleme 13 et i des Elevations </head>
+          <head> Elevations des corps sur leur superficies par la maniere de la premiere partie </head>
+          <p xml:id="LEB_TP_L1_L1C11_P1"> Pour elever des corps sur les superficies des fig 17.18.19. de la maniere enseignée en la I partie. il faut conduire de tous les angles des superficies des paralleles à la baze jusqua la radialle extreme qui tombe dans langle de la baze et de la perpendiculaire extreme du tableau puis poser les hauteurs sur cette ligne perpendiculaire selon les pieds entiers et à leur extremitez mener une radialle au point principal et de tous les points où touchent les paralleles des angles elever des perpondiculaires aux lignes radialles qui tendent au point principal et ce chaqu une à la sienne et prendre ses hauteurs avec le compas et les raporter chaqune sur le propre angle de sa superficie come lexemple la manifesté par les lignes punctée cest pourquoi cet escrit servira pour toutes les trois exemples. </p>
+        </div2>
+        <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f54/full/full/0/native.jpg"/>
+      </div1>
+      <pb n="46" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f55/full/full/0/native.jpg"/>
+      <div1 type="livre" n="2" xml:id="L2">
+        <head type="main"> Traicté de Perspective Deuxieme Partie </head>
+        <head type="sub"> En laquelle est demonstre la maniere de mettre en perspective toute sorte de figures geometralles reguliere ou irregulieres droictement posée ou non par transport immediat des poincts et des lignes du geometral et les reduire à telle proportion que lon Voudra par une pratique Nouvelle non Usitée Ny trouvée jusques à present.</head>
+        <div2 xml:id="L2C1" n="1" type="chapitre">
+          <pb n="47" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f56/full/full/0/native.jpg"/>
+          <head> Probleme 14 </head>
+          <head> Pour Racourcir des superficies Irregulieres </head>
+          <p xml:id="LEB_TP_L2_L2C1_P1"> Par la simple maniere precedante, on ne peut racourcir les figures ireguleres, ou iregulerement posez sans un moien qui nous raporte les lignes, ou les distances qui ne se peuvent justement mesurer voici donc si dessous une figure qui servira come dinstrument pour ce faire, jenseignerai premierement la construction de cette figure instrumentalle et deuxiemement la pratique et le moyen de sen servir. </p>
+          <p xml:id="LEB_TP_L2_L2C1_P2"> 1. tirez en quelque lieu apart proche de vostre tableau, une ligne droitte de niveau, telle quest la ligne ab. et de lextremité de cette ligne noté a pris pour centre, et de quelque ouverture de compas, descrivez un cercle tel a peu pres du cerde cd. sur le quel cercle vous poserez, un pied diminué come de e. en c. et par le point c. du centre a. passerez une ligne occulte telle que la ligne af. puis vous trouverez entre ces lignes a.b. et a.f. le lieu où le pied entier touchera de ces deux extremitez, les deux lignes a.b. et a.f. à la distance egale du centre et par les points de ses attouchemens, et du centre a. descriver le cercle gh. et ainsi <unclear/> selon que vous le voiez en lexemple </p>
+          <p xml:id="LEB_TP_L2_L2C1_P3"> Il refait, je viens à la pratique, si lon vous demandoit de mettre en perspective les figures iregulere et geometralle qui sont au haut de lexemple notées O et ∆ aiant tiré, come nous avons monstre, la ligne diagonale du 1er plan, dans lequel lon desire que ses figures soient reduittes et aient tiré de tous les angles des plans geometraux les perpendiculaires et les traversantes qui sont ici figurés de lignes punctée, et je comence à poser un pied diminué sur la baze que je coupe du point principal sur la diagonale qui me done un pied racourci en longueur, supposant que lon a desiré que la figure cette longueur derriere le tableau, puis je pose le point a. où lon desire que soit le premier angle de cette figure apres je prens sur le geometral depuis la ligne de niveau, les longueurs de tous les angles selon les lignes punctées, que je porte sur la baze depuis le pied diminué marqué b. et je les coupe tous sur la diagonale qui porte les longueurs racourcies de tous ces angles que je meine tous parallelement à la baze pour rencontrer leur largeurs que je trouve par ce moien je prens louverture de b. au geometral que je pose sur le petit cercle de ma figure instrumentalle et je passe la reigle du centre a. par le point de cette ouverture et je prens celle qui se trouve sur le grand cercle que je porte sur mabre et du point principal je tire un portion de radialle qui vient rencontrer la parallele à la baze <pb n="48" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f57/full/full/0/native.jpg"/> de cet angle et en leur attouchement est le point en sa distance racourcie je continue de prendre au geometral les autres largeurs come 6.4.6.2.6.1. et les posant les unes apres les autres sur le petit cercle quavec la reigle du centre a. je coupe sur le grand cercle, que je porte sur la baze, come jai fait la 1re largeur 6.4. : et du <reg>point</reg> principal je leur fais rencontrer à chaqune sa parallele à la baze, qui partant des longueurs reduites sur la diagonale ainsi jai tous les points de ma figure que je ferme par les costes, cette figure entendue, lautre sera facille destre faite, puisque cest de la mesme maniere je croi que cela sufira. </p>
+          <figure type="gravure"/>
+          <pb n="49" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f58/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f59/full/full/0/native.jpg"/>
+        </div2>
+        <div2 type="chapitre" n="2" xml:id="L2C2">
+          <pb n="50" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f60/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="51" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f61/full/full/0/native.jpg"/>
+          <head> Probleme 15 </head>
+          <head>Pour trouver une ligne sur laquelle un module doné y estant posé sera rendu par les radialles, aussi grand que le pied entier. </head>
+          <p xml:id="LEB_TP_L2_L2C2_P1"> Pour trouver cette ligne il faut scavoir combien de piedz entiers contient la baze de vostre tableau, et sur la mesme baze y poser autant de module ou piez diminuez au termes desquels il faut elever une perperdiculaire de la baze à l'horison : puis du rectangle construit des deux perpendiculaires de la baze et de l'horison, il faut tirer la diagonnale, laquelle couppera la perpendiculaire en un point, par lequel si vous menez une parallelle à la baze, vous aurez la ligne desirée. </p>
+          <p xml:id="LEB_TP_L2_L2C2_P2"> Exemple en cette figure la baze contient six piedz entiers, je pose donc six modulles sur la mesme baze, de puis c. jusq'en M. et sur Mm. j'eleve la perpendiculaire Mm. puis je tire la diagonnalle Cb. au rectangle CB.b.c. et cette diagonale couppe la perpendiculaire Mm. au point O par le quel je menne D.d. parallelle à la bazeq ui est la ligne sur Laquell si je pose des module il me seront rendus par les radialles sur la baze à la juste grandeur des piedz entiers. </p>
+        </div2>
+        <div2 xml:id="L2C3" n="3" type="chapitre">
+          <pb n="52" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f62/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="53" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f63/full/full/0/native.jpg"/>
+          <head> Probleme 16</head>
+          <head> Pour racourcir des plans geometraux Mesurez par des pieds diminuez, et les rendre à la Mesure des pieds entiers </head>
+          <p xml:id="LEB_TP_L2_L2C3_P1"> Voici la pratique et le Moyen des Lignes de Reduction du precedent Probleme par la quelle on poura racourcir toutes sortes de Superficies et de Corps posez droits ou obliques. </p>
+          <p xml:id="LEB_TP_L2_L2C3_P2"> En cette exemple, je suppose que l'on aye la Liberté de Construire les plans geometraux mesurez par l'Echelle des pieds Diminuez, ce qui sera d'une plus grande facilité que sils estoient faits sur une autre mesure. </p>
+          <p xml:id="LEB_TP_L2_L2C3_P3"> Le Quarré, et le Triangle equilateral, qui sont en cette Figure sont Construits selon cette proposition. </p>
+          <p xml:id="LEB_TP_L2_L2C3_P4"> Le Plan du Triangle me servira seul à en Racourcir deux de diverse Veüe L'un veü de fron, par lun de ses costez: et L'autre droit par lun de ses angles. </p>
+          <p xml:id="LEB_TP_L2_L2C3_P5"> Les plans perspectifs doivent estre rendus à la mesure des pieds entiers </p>
+          <p xml:id="LEB_TP_L2_L2C3_P6"> Tout ce ci supposé et bien entendu, je commance à tracer sur mon tableau la ligne de Reduction des Pieds Diminuez, D.d. et la Diagonalle du premier Plan C.E. puis pour faire paroistre le Quaré situé à deux pieds deriere le tableau, ausi quil paroiest en cette Figure, je pren l'ouverture de deux pieds diminuez sur leur eschelle, que je pose sur la Base depuis C. jusq'à E. et de ce Point, et du Principal A., je couppe par une Radialle, la Diagonnalle en f. et la ligne de Reduction au Point G. parce que je veux commencer de ce pount, à poser les Largeurs sur cette ligne ensuite je prens au Plan Geometral, la longueur de lun de ses Costez, 1.4. ou 2.3. que je pose sur la Base depuis F. jusq'à H, et de ce Point, et du Principal, je coupe la diagonalle en h. er par <pb n="54" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f64/full/full/0/native.jpg"/> ce Point h., et par l'autre f. sur la mesme Diagonalle, je meine deux Parallelles à la Base, indeterminées, qui sont le deux Costés 1.2 et 4.3 apres je prens au Geomeral la Largeur 1.2. je la porte sur la ligne de Reduction, depuis G jusqu'à I. et du Principal, par ces deux Points je ferme la figure des deux autres Côtes. </p>
+          <p xml:id="LEB_TP_L2_L2C3_P7"> Venons aux triangles, pour les placer selon cette Figure, à six Pied deriere le Tableau, je prens six Pieds diminuez, que je pose sur la Base depuis C. jusq'à L. duquel et du Prinipal je marque un Point sur la Diagonnalle en l. par où je meine une Paralelle à la Base indeterminée, puis je prens la longueur du Triangle sur sa Perpendiculaire, et la pose sur la Base du Tableau, depuis L. jusqu'au Point M. duquel et du Principal je marque encore un point sur la diagonalle en m. par où je meine une autre Parallelle à la base, apres pour le largeurs je pose sur la Ligne de Reduction, le point où je veux commancer tel quest le point N. puis je prens au triangle geometral, la moitié du costé 1.3 qui est 1.4 et le pose depuis N. jusqu'à O. et O.en P. et du principal passant par ces points, je marque sur les parallelles trois points, scavoir le point passant par N. sur la premiere parallell, celui passant par O sur la seconde parallelle, et celui passant par P. encore sur la premiere ainsi jai trois point des trois angles 1.2.3. que je joins par les ligne qui acheve les angles. L'autre triangle se fait de mesme apres avoir posé sur la ligne </p>
+          <p xml:id="LEB_TP_L2_L2C3_P8"> L'autre triangle se fait de mesme apres avoir posé sur la ligne de reduction, le point ou je veux commancer les largeurs, tel quest I., je prens comme jai fait au premier la demie largeur de 1.3. qui est 1.4. que je porte de I. en o. et de o. en p. du principal passant par ces points je les marque sur les parallelles avec cette differencee, que je marque I. sur la seconde parallelle, o. sur la premiere et p. encore sur la seconde : par ce que je veux, que ce triangle soit veu par un angle ce que je fais voir joignans ces trois points ensembles par les lignes. </p>
+          <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f65/full/full/0/native.jpg"/>
+        </div2>
+        <div2 type="chapitre" n="4" xml:id="L2C4">
+          <pb n="55" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f66/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="56" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f67/full/full/0/native.jpg"/>
+          <head> Probleme 17</head>
+          <head> Autre exemple pour racourcir Un Cercle, un Octogone, et une figure irreguliere </head>
+          <p xml:id="LEB_TP_L2_L2C4_P1"> Le probleme precedent bien estudié et bien entendu suffira pour faire connoïstre lestendue de cette pratique sur toutes sortes de figures, cest pour quoi desormais je me contenterai, de doner seulement les figures accompagnée de quelques lignes punctée, et de quelques caracteres, et lettres, expliquez suvcintement. </p>
+          <p xml:id="LEB_TP_L2_L2C4_P2"> Come en cette figure Vous connoistrez que les lignes punctée qui monte de la baze à la diagonale, marquent les longueurs des figures et les distances où elles sont posées derriere le tableau : que les poincts marquez, sur la ligne de reduction nottez a. b. c. sont les divers endroicts où jai voulu commencer les largeurs de chacqu'une figure que le poinct a. est le comencement du cercle; b. est celui de locogone; et e. celui de la figure irreguliere : ce que vous feront facillement connoistre les lignes punctée qui touchent de ces poincts aux figures. </p>
+        </div2>
+        <div2 xml:id="L2C5" n="5" type="chapitre">
+          <pb n="57" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f68/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="58" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f69/full/full/0/native.jpg"/>
+          <head> Probleme 18 </head>
+          <head> Pour racourcir quelque plan que se soit, dont le pied qui le mesure est plus grand que le pied diminué, et plus petit qu'un entier. </head>
+          <p xml:id="LEB_TP_L2_L2C5_P1"> Come jai advancé en mon 2 probleme, cette pratique ce trouve plus longue, que si les plans estoient mesurez par les pieds diminuez mais cest un grand expediant lorsque l'on Vous donne un plan geometral chargé de beaucoup d'ouvrage, de le scavoir racourcir et reduire à la grandeur des pieds entiers sans quil soit necessaire de le coppier à la mesure de Vos pieds diminuez, pour le racourcir selon la maniere que jai desja enseignée, qui n'est seulement comode que pour des geometraux que nous aurons la liberté de construire. </p>
+          <p xml:id="LEB_TP_L2_L2C5_P2"> Venons à cette pratique soit proposé de racourcir et rendre à la grandeur des pieds entiers un quarré veu droictement par lun de ses costez, et une figure ireguliere, telle que sont ces deux superficies geometralles, au bas desqueles est le pied qui les mesure. </p>
+          <p xml:id="LEB_TP_L2_L2C5_P3"> Pour commencer je trouve deux lignes de reduction par le 15e problème <unclear>szz</unclear> l'une des pieds diminuez et lautre du pied de mon geometral, tel qu'est en cette exemple la ligne D.d. des diminuez, et la ligne E.e. du geometral. apres de la baze et du principal, je coupe la diagonale à la distance racourcie que je veux que ce quaré m'apparoisse deriere le tableau : et par cette section sur la diagonale je mene une ligne indeterminée, et parallele à la baze, et de ce poinct encore, et du principal, par une radiale je coupe les 2 lignes de reduction ; puis je prens louverture de la longueur 1.4. du quarré geometral, que je porte sur la ligne des pieds du geometral, depuis la radialle, et à l'extremité de cette ouverture, et du principal je tire une seconde Radialle, dont je coupe la ligne des pieds diminuez, sur la quelle je prens cette ouverture rapportée, et je la pose sur la baze, depuis le poinct de la 1re radialle, et de l'extremité de cette ouverture et du principal, je coupe encore la diagonale : et par cette section, je mene une parallele à la baze de la quelle je ferme ma figure racourcie comme par le rapport des chiffres il est facile de le conoistre, pour ce qui est de la figure ireguliere elle se racourcira en la mesme maniere portant toutes les longueurs prise au geomemal sur la ligne E.c. et les reduisant par les radiales sur la ligne de reduction des pieds duminuez D.d. pour les raporter sur la baze et les couper sur la diagonale les largeurs de mesme come au quarré se porteront du geometral encore sur la ligne E. et seront menées par des radialles aux parallales à la baze des points de leurs longueurs. </p>
+        </div2>
+        <div2 type="chapitre" n="6" xml:id="L2C6">
+          <pb n="59" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f70/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="60" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f71/full/full/0/native.jpg"/>
+          <head> Probleme 19 </head>
+          <head> Pour Racourcir des geometraux, mesurez par des pieds egaux aux pieds entiers. </head>
+          <p xml:id="LEB_TP_L2_L2C6_P1"> Cette proposition ne demande que de racourcir en la mesme grandeur du geometral : puisque les pieds qui le mesure, mesurent aussi le tableau. </p>
+          <p xml:id="LEB_TP_L2_L2C6_P2"> Il n'y a point de difference de cette maniere à la precedente : bien quil semble quil ni aie pas deux lignes de reducion. neanmoins la ligne de la baze sert de cette ligne parce que les pieds du geometral sont egaux à ceux qui mesure le tableau cest pourquoy il faut poser les longueurs sur la baze, come sur une ligne de reduction: et les reduire, par les radialles sur la ligne des pieds diminuez, pour les rapporter sur la baze et les couper sur les diagonales, où se trouve le racourci des longueurs. </p>
+        </div2>
+        <div2 xml:id="L2C7" n="7" type="chapitre">
+          <pb n="61" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f72/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="62" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f73/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="63" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f74/full/full/0/native.jpg"/>
+          <head> Probleme 20 </head>
+          <head> Pour elever des corps sur les superficies, par le moien de la ligne de reduction. </head>
+          <p xml:id="LEB_TP_L2_L2C7_P1"> Jenseignerai ici la pratique d'elever les corps sur les superficies, par le moien des lignes de reduction, de mesme, et pour mesme raison que je men suis servi, à reduire les superficies, puisquil est plus juste de raporter les axes,et ler diametres et toutes autres lignes dont lon ignore les mesures, par celle maniere. </p>
+          <p xml:id="LEB_TP_L2_L2C7_P2"> Exemple je veux elever les corps sur les superficies racourcies de la figure 23.24. de la 2e partie, pour ce faire je prens la hauteur depuis la baze jusqua la ligne horizontale et je place cette mesure sur la ligne horizontale depuis la perpendiculaire extreme du tableau en dedans : et de ce point, je tire come une radialle à langle que cette perpendiculaure extremne fait sur la baze et où cette mesme radiale coupe la ligne de reduction, je leve une perpendiculaire, sur la quelle je poserai toutes mes hauteurs, ensuite come jai monstré aux precedentes figures je menerai tous les angles de toutes mes superficies parallelement à la baze toucher lextrenne radialle, soit suposé que lon me demande d'elever le quarré d'un pied, je prens pour ce faire un pied diminué par cequil est le pied qui a construit mes plans geometraux je le pose donc sur la perpendiculaire de reduction et du point posé sur l'orizon passant par le point marqué sur la perpendiculaire de reduction, je mene une radiale jusqua la ligne perpendiculaire extreme de mon tableau : et ler points dattouchement des parallele à la baze sur la radialle extreme, je leve les perpendiculaires, jusqua la radialle superieure et prenant toutes ces hauteurs des perpendiculaires, je les porterai sur chaqun de leur angles, pour les elever perpendiculairement sur les superficies : et apres le clore par des lignes en la superficie superieure, pour ce qui est des Thetrahedres, pour leurs hauteurs je prens l'axe sur le plan geometral, qui ma servi à reduire mes superficies : et cet axe posé sur la perpendiculaire de reduction me donne les hauteurs de ces corps, come nous venons de faire entendre ainsi de quelque dessein que ce soit, le plan se reduira, sur la ligne de reduction parallele à la baze et lortographie sur sa perpendiculaire. </p>
+          <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f75/full/full/0/native.jpg"/>
+        </div2>
+        <div2 type="chapitre" n="8" xml:id="L2C8">
+          <pb n="64" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f76/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="65" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f77/full/full/0/native.jpg"/>
+          <head> Probleme 21 </head>
+          <p xml:id="LEB_TP_L2_L2C8_P1"> Pour elever en solide ces superficies d'autant que le pied du geometral est plus grand que le pied diminué et plus petit que le pied entier il faut faire une perpendiculaire à la ligne E.e. telle quest la ligne F.f. afin d'y poser les ortographie pris au geometral. </p>
+        </div2>
+        <div2 xml:id="L2C9" n="9" type="chapitre">
+          <pb n="66" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f78/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="67" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f79/full/full/0/native.jpg"/>
+          <head> Probleme 22 et <unclear/> des Elevations </head>
+          <head> Exemple dun chapiteau, et d'une baze Toscan par la premiere maniere </head>
+          <p xml:id="LEB_TP_L2_L2C9_P1"> Ce chapiteau et baze tarcan est pris et mesuré sur <bibl key="lemuetReglesCinqOrdres1632">le petit Vignole</bibl> de <persName ref="#PierreLeMuet">M. le muet</persName>, dont je me suis servi come dun dessein geometral donné, ainsi que se pouroit faire à quelque jeune home qui ignorant les mesures de larchitecture, et lintelligence des livres seroit pourtant obligé de reduire en perspective ce chapiteau, et cette baze et les rendre, selon un pied doné, dont le diametre de la colone seroit de deux pieds. </p>
+          <p xml:id="LEB_TP_L2_L2C9_P2"> Il faut faire lechelle des pieds entiers du pied doné et les pieds diminuez de la moitié du diametre de la colone du dessein doné puis aiant trouvé la ligne de reduction pour poser les largeurs, come il est enseigné par le probleme de la premiere maniere, et la ligne de reduction pour les elevations, ou hauteurs, ainsi que le probleme <unclear/> lenseigne, il sera facille de reduire ce que lon aura proposé. </p>
+        </div2>
+        <div2 type="chapitre" n="10" xml:id="L2C10">
+          <pb n="68" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f80/full/full/0/native.jpg"/>
+          <figure type="gravure"/>
+          <pb n="69" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f81/full/full/0/native.jpg"/>
+          <head> Probleme 23 </head>
+          <head>D'un cube posé iregulierement sur l'un de ses angles. </head>
+          <p xml:id="LEB_TP_L2_L2C10_P1"> Voici une exemple dun cube, qui est posé iregulierement sur lun de ses angles, dont le plan et lortographie sont mesurez, et construits selon les pieds diminuez et qui est mis en Perspective par le moien de la ligne de reduction ainsi quil a esté enseigné par les precedens problemes cest pourquoi je nen escriré davantage. </p>
+        </div2>
+      </div1>
+      <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f82/full/full/0/native.jpg"/>
+      <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f83/full/full/0/native.jpg"/>
+    </body>
+    <back type="privilege">
+      <pb n="70" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8703191d/f84/full/full/0/native.jpg"/>
+      <head> Privillege du Roy </head>
+      <p xml:id="LEB_TP_P1"> Louis par lagrace de Dieu Roy de france et de Navarre À nos amez et feaux les Gens Tenans nos Cours de Parlements Messieurs des Requestes ordinaires de nostre hostel Baillifs, S'eneschaux, Prevostz, leurs Lieutenans et tous autres nos Justiciers et officiers qu'il appartiendra. Salut. <persName ref="#JacquesLeBicheur">Jacques LePicheur</persName> peintre accademissiens nous a fait remonstrer quil desireroit faire Imprimer un livre Intitulé Traicté de la Perspective quil a faict sil nous plaisoit luy en accorder la permission et nos lettres Sur ce necessaires, quil nous a tres hublement Supplier luy vouloir octroyer à ces causes nous autres de notre grace Speciale permis et permettons par ces presentes de faire imprimer Vendre et distribuer ledit livre en tel Volume et caractere que bon luy Semblera durant le temps de neuf ans, faisant deffences à tous libraires imprimeurs et autres nos Subjets de quelque condition quil Soient d'imprimer ou contrefaire en quelque Sorte et maniere que ce soit ledit livre, pendant, lesdites annez apeine de trois mil livres damande confiscation des exemplaires et de tous despens domages et interests enuers Lexposant acondition de mettre deus exemplaires dudit livre en notre biblioteque, et un en celle de notre tres cher et feal le Sieur Seguier chevalier chancelier de france Commandons au premier nostre Huissier ou Sergant Sur ce requis faire pour l'execution des uies tous exploits necessaires Sans demander autre permission, car tel est notre plaisir Donné à Paris le <date when="1657-02-10">X fevrier lan de grace 1657</date> et de notre reigne le quatorzieme. signé par permission, car tel est notre plaisir Donné à Paris le <date when="10 février 1657">X fevrier lan de grace 1657</date> et de notre reigne le quatorzieme. signé par le Roy en son conseil Salmont.</p>
+      <p xml:id="LEB_TP_P2"> Ledit <persName ref="#JacquesLeBicheur">LePicheur</persName> a cedé le Privilege ci dessus à <persName ref="#GerardJollain">G. Jollain</persName> Graveur et Marchand de taille douce. </p>
+      <p xml:id="LEB_TP_P3">Achevé D'imprimer le <date when="1660-05-01">1er jour de May 1660</date>. </p>
+      <p xml:id="LEB_TP_P4">Achevé D'imprimer le <date when="1 mai 1660">1er jour de May 1660</date>. </p>
+    </back>
+  </text>
 </TEI>

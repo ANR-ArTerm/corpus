@@ -2892,7 +2892,10 @@
   <define name="attlist.gap" combine="interleave">
     <optional>
       <attribute name="reason">
-        <data type="NMTOKENS"/>
+        <value>editorial</value>
+      </attribute>
+      <attribute name="quantity">
+        <data type="int"/>
       </attribute>
     </optional>
   </define>

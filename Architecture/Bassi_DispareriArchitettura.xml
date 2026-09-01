@@ -1,133 +1,129 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title xml:lang="ita">Dispareri in materia d'architettura e prospettiva</title>
-            <respStmt>
-               <name>Irene Calcagno</name>
-               <resp>Transcription, Correction, Structuration, Balisage, Indexation</resp>
-            </respStmt>
-            <respStmt>
-               <name>Nicolò Zanolli</name>
-               <resp>Correction, Balisage, Indexation, Identification des œuvres</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>ArTerm</publisher>
-            <pubPlace>Paris</pubPlace>
-            <date when="2028">2028</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora ©
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="ita">Dispareri in materia d'architettura e prospettiva</title>
+        <respStmt>
+          <name>Irene Calcagno</name>
+          <resp>Transcription, Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Nicolò Zanolli</name>
+          <resp>Correction, Balisage, Indexation, Identification des œuvres</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora ©
                   2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb102995049">Bassi<idno type="ISNI">https://isni.org/page/search-database/</idno>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb102995049">Bassi<idno type="ISNI">https://isni.org/page/search-database/</idno>
                </author>
                <title xml:lang="ita">Dispareri in materia d'architettura e prospettiva</title>
                <publisher>Francesco et Pietro Maria Marchetti (frères)</publisher>
                <pubPlace>Brescia</pubPlace>
                <date when="1572">1572</date>
             </bibl>
-            <msDesc>
-               <msIdentifier>
-                  <country>France</country>
-                  <settlement ref="#Paris">Paris</settlement>
-                  <institution>Bibliothèque nationale de France</institution>
-                  <repository/>
-                  <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb300645526</idno>
-               </msIdentifier>
-            </msDesc> <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/></sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository/>
+            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb300645526</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de
                la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de
                traduction des théories des arts d'une langue à l'autre et des transferts
                linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire
                franco-italien du patrimoine artistique.</p>
-         </projectDesc>
-         <editorialDecl>
-            <correction status="medium" method="silent">
-               <p>édition complète</p>
-            </correction>
-            <normalization method="silent">
-               <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des
                   ponctuations et accentuations ont été normalisées en suivant les règles de
                   typographies du 20è siècle.</p>
-            </normalization>
-            <punctuation marks="some">
-               <p>En français, les point-virgules ont souvent été transformés en virgules ou en
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en
                   point, le reste des ponctuations ont été conservées comme dans les imprimés de
                   référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier
                   la lecture.</p>
-            </punctuation>
-            <segmentation>
-               <p>Les paragraphes sont indiqués dans des balises p, enfant de balises
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises
                   div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage) + body (L1
                   avec 10 lettres)</p>
-            </segmentation>
-            <hyphenation eol="none"/>
-            <stdVals>
-               <p>Norme ISO-8601 pour les dates</p>
-            </stdVals>
-         </editorialDecl>
-         <p/>
-      </encodingDesc>
-      <profileDesc><xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/></profileDesc>
-   </teiHeader>
-   <text>
-      <front>
-         <pb n="1"/>
-         <titlePage>
-            <docTitle>
-               <titlePart type="main" rend="capitals">
-                  <figure xml:id="F1" type="ornement">
-                     <p>DISPARERI</p>
-                  </figure> IN MATERIA D'architettura,<lb/>ET perspettiva.</titlePart>
-               <titlePart type="sub">
-                  <hi rend="capitals">CON PARERI DI ECCELLENTI, ET</hi>
-                  <lb/>
-                  <hi rend="it">Famosi Architetti, che li risolvono.</hi>
-               </titlePart>
-            </docTitle>
-            <byline rend="capitals">DI <docAuthor ref="#MartinoBassi">MARTINO BASSI</docAuthor>
+        </segmentation>
+        <hyphenation eol="none"/>
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f1/full/full/0/native.jpg"/>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main" rend="capitals"><figure xml:id="F1" type="ornement"><p>DISPARERI</p></figure> IN MATERIA D'architettura,<lb/>ET perspettiva.</titlePart>
+          <titlePart type="sub">
+            <hi rend="capitals">CON PARERI DI ECCELLENTI, ET</hi>
+            <lb/>
+            <hi rend="it">Famosi Architetti, che li risolvono.</hi>
+          </titlePart>
+        </docTitle>
+        <byline rend="capitals">DI <docAuthor ref="#MartinoBassi">MARTINO BASSI</docAuthor>
                <lb/> MILANESE.</byline>
-            <figure xml:id="F2" type="ornement"/>
-            <docImprint rend="capitals">IN <pubPlace>BRESSA</pubPlace>
+        <figure xml:id="F2" type="ornement"/>
+        <docImprint rend="capitals">IN <pubPlace>BRESSA</pubPlace>
                <lb/>Per <persName ref="#FrancescoMarchetti">Francesco</persName>, et <persName ref="#PietroMariaMarchetti">Pietro Maria Marchetti
                Fratelli</persName>.</docImprint>
-            <docDate when="1572">M: D. LXXII.</docDate>
-         </titlePage>
-      </front>
-      <body>
-         <pb n="2" type="blankpage"/>
-         <pb n="3"/>
-         <div1 xml:id="L1" type="lettre" n="1">
-            <div2 xml:id="M1" type="lettre" n="1" xml:lang="ita">
-               <opener>
-                  <salute>
-                     <hi rend="it">
-                        <hi rend="capitals">AGLI ILLUSTRI, ET</hi> molto Magnifici Signori, i
+        <docDate when="1572">M: D. LXXII.</docDate>
+      </titlePage>
+    </front>
+    <body>
+      <pb n="2" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f2/full/full/0/native.jpg"/>
+      <pb n="3" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f3/full/full/0/native.jpg"/>
+      <div1 xml:id="L1" type="lettre" n="1">
+        <div2 xml:id="M1" type="lettre" n="1" xml:lang="ita">
+          <opener>
+            <salute>
+              <hi rend="it"><hi rend="capitals">AGLI ILLUSTRI, ET</hi> molto Magnifici Signori, i
                         Signori Deputati della Fabrica del <objectName ref="#DomeDeMilan">Duomo di
                               <placeName ref="#Milan">Milano</placeName>
                         </objectName>.</hi>
-                  </salute>
-                  <signed>
-                     <hi rend="capitals">
-                        <persName ref="#MartinoBassi">MARTINO BASSI</persName>
-                     </hi>.</signed>
-               </opener>
-               <p xml:id="BAS_DA_L1_M1_P1" rend="it">
-                  <figure type="lettrine"/>
-                  <hi rend="it">
-                     <hi rend="capitals">NE'</hi> passati mesi, mosso da quel zelo, che
+            </salute>
+            <signed><hi rend="capitals"><persName ref="#MartinoBassi">MARTINO BASSI</persName></hi>.</signed>
+          </opener>
+          <p xml:id="BAS_DA_L1_M1_P1" rend="it">
+            <figure type="lettrine"/>
+            <hi rend="it"><hi rend="capitals">NE'</hi> passati mesi, mosso da quel zelo, che
                      in me sarà sempre ardentissimo, di veder che l'opere di questa gran Mole del
                      nostro <objectName ref="#DomeDeMilan">Duomo</objectName>, procedano con
                      quell'ordine, et con quella felicità, che ogni christiano dee desiderare, et
@@ -141,7 +137,7 @@
                      fine, con buona intenzione, et con fondamenti reali (che sebene poi vede
                      seguirne effetto contrario, si consola nondimeno con la sua conscienza) così
                      andava io persuadendo me stesso, consapevole della buona intention mia, quando
-                     per lettere <pb n="4"/>, et per avisi di qualche mio amico, et Signore, io
+                     per lettere <pb n="4" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f4/full/full/0/native.jpg"/>, et per avisi di qualche mio amico, et Signore, io
                      sentii, che quello che era seguito, si narrava differente assai. Là onde
                      giovane essendo ancora, et col faticarmi di continouo nelli studi dell'arte, et
                      profession mia, non potetti lasciare di pensare al modo, come io facilmente
@@ -160,7 +156,7 @@
                      huomini(come ho detto) stimati tra i più famosi di questo secolo, ai quali, e
                      per l'età, et poca esperienza mia, et per la fama, et grandezza delle opere
                      loro, dopo l'essere stato da un di loro richiesto, hebbi ricorso. Et finalmente
-                        <pb n="5"/> vi troverà tutte le opinioni, et ragioni loro, corrispondenti
+                        <pb n="5" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f5/full/full/0/native.jpg"/> vi troverà tutte le opinioni, et ragioni loro, corrispondenti
                      alle opinioni, et ragioni mie: coi disegni delle opere, et luoghi tutti, dei
                      quali io intendo di ragionare. Et di architettura, et di perspettiva parlando,
                      et di cose al <objectName ref="#DomeDeMilan">Duomo</objectName>, et alla patria
@@ -180,38 +176,31 @@
                      Fabrica, et va predicando, come sotto il prudentissimo, et accuratissimo
                      governo delle Signorie Vostre vive, et si sostenta, et moltiplica grande
                      schiera di artefici vertuosi. I quali quivi, come in ischola ordinatissima, col
-                     tempo sono divenuti eccellenti, <pb n="6"/> et famosi, a beneficio, et
+                     tempo sono divenuti eccellenti, <pb n="6" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f6/full/full/0/native.jpg"/> et famosi, a beneficio, et
                      ornamento, non pur della <placeName ref="#Milan">Città nostra</placeName>, ma
                         d'<placeName ref="#Italie">Italia</placeName>, et del Mondo. Onde sarebbe
                      certo di grandissima importanza, se da qui inanzi s'interrompesse il corso di
                      sì honorata, lodevole, et necessaria utilità. Alle Signorie Vostre bacio le
                      mani, raccomandandomi nella lor buona grazia.</hi>
-               </p>
-               <p xml:id="BAS_DA_L1_M1_P2" rend="it">
-                  <hi rend="it">Di <placeName ref="#Milan">Milano</placeName> il dì <date when="1571-03-20"> XX. Marzo. M. D.
+          </p>
+          <p xml:id="BAS_DA_L1_M1_P2" rend="it">
+            <hi rend="it">Di <placeName ref="#Milan">Milano</placeName> il dì <date when="1571-03-20"> XX. Marzo. M. D.
                         LXXI.</date>
                   </hi>
-               </p>
-            </div2>
-            <div2 xml:id="M2" type="lettre" n="2" xml:lang="ita">
-               <pb n="7"/>
-               <opener rend="capitals">
-                  <signed>DEL MAGNIFICO SIGNOR <persName ref="#AlfonsoN">ALFONSO N.</persName>
+          </p>
+        </div2>
+        <div2 xml:id="M2" type="lettre" n="2" xml:lang="ita">
+          <pb n="7" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f7/full/full/0/native.jpg"/>
+          <opener rend="capitals">
+            <signed>DEL MAGNIFICO SIGNOR <persName ref="#AlfonsoN">ALFONSO N.</persName>
                   </signed>
-                  <salute>A MESSER <persName ref="#MartinoBassi">
-                        <reg>MARTINO</reg> BASSI</persName>.</salute>
-               </opener>
-               <p xml:id="BAS_DA_L1_M2_P1">
-                  <figure type="lettrine"/>
-                  <hi rend="capitals">Mi</hi> è pervenuto agli orecchi per avviso d'un amico, che
+            <salute>A MESSER <persName ref="#MartinoBassi"><reg>MARTINO</reg> BASSI</persName>.</salute>
+          </opener>
+          <p xml:id="BAS_DA_L1_M2_P1"><figure type="lettrine"/><hi rend="capitals">Mi</hi> è pervenuto agli orecchi per avviso d'un amico, che
                   credeva ch'io lo sapessi minuta mente, di non so che virtuosi ragionamenti avuti
                   da voi sopra le opere d'architettura, et di perspettiva, che si fanno nel
                      <objectName ref="#DomeDeMilan">Duomo di <placeName ref="#Milan">Milano</placeName>
-                  </objectName>, col consenso di Messer <persName ref="#PellegrinoTibaldi">
-                     <choice>
-                        <sic>Pellegrin</sic>
-                        <corr>Pellegrino</corr>
-                     </choice> Pellegrini </persName> nuovo Architetto di esso <objectName ref="#DomeDeMilan">Duomo</objectName>; et d'una oratione, che sopra ciò
+                  </objectName>, col consenso di Messer <persName ref="#PellegrinoTibaldi"><choice><sic>Pellegrin</sic><corr>Pellegrino</corr></choice> Pellegrini </persName> nuovo Architetto di esso <objectName ref="#DomeDeMilan">Duomo</objectName>; et d'una oratione, che sopra ciò
                   faceste; et appresentaste al capitolo di detta fabrica. Delle qual cose io mi
                   credeva (per essere stato sempre amico vostro, et aver, dove mi si è porta
                   l'occasione, fatto segno d'amar la vostra virtù) dover avere particolar aviso da
@@ -229,21 +218,18 @@
                   informato. Percioché avendovi io sempre tenuto, et nominato per perito, et per
                   ingegnioso, si possa veder chiaro, che ragionevolmente vi sete mosso. State
                   sano.</p>
-               <p xml:id="BAS_DA_L1_M2_P2">Di <placeName ref="#Verone">Verona</placeName>
+          <p xml:id="BAS_DA_L1_M2_P2">Di <placeName ref="#Verone">Verona</placeName>
                   <date when="1570-04-01"> il primo d'Aprile. M. D. LXX. </date>
                </p>
-            </div2>
-            <pb n="8"/>
-            <div2 xml:id="M3" type="lettre" n="3" xml:lang="ita">
-               <opener>
-                  <salute>AL MOLTO MAGNIFICO SIGNOR<persName ref="#AlfonsoN">Alfonso N.</persName>
+        </div2>
+        <pb n="8" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f8/full/full/0/native.jpg"/>
+        <div2 xml:id="M3" type="lettre" n="3" xml:lang="ita">
+          <opener>
+            <salute>AL MOLTO MAGNIFICO SIGNOR<persName ref="#AlfonsoN">Alfonso N.</persName>
                   </salute>
-                  <signed>
-                     <persName ref="#MartinoBassi"> MARTINO BASSI </persName>.</signed>
-               </opener>
-               <p xml:id="BAS_DA_L1_M3_P1">
-                  <figure type="lettrine"/>
-                  <hi rend="capitals">LA</hi> lettera di Vostra Signoria del <date when="04-01">primo d'Aprile</date> passato mi ha dato piacer grande; et maggior sarebbe
+            <signed><persName ref="#MartinoBassi"> MARTINO BASSI </persName>.</signed>
+          </opener>
+          <p xml:id="BAS_DA_L1_M3_P1"><figure type="lettrine"/><hi rend="capitals">LA</hi> lettera di Vostra Signoria del <date when="04-01">primo d'Aprile</date> passato mi ha dato piacer grande; et maggior sarebbe
                   stato, se ella non si avesse preso tanto a petto il mio tacere, causato più tosto
                   da modestia, che da trascuraggine, et per non volere, come si usa di fare, per
                   ogni poco di cosa, stordir le orecchie a gli amici, et Signori, come mi è, et sarà
@@ -269,7 +255,7 @@
                   termini di perspettiva, et d'architettura, bisogna, che mi si conceda, ch'io sia
                   nato a <placeName ref="#Milan">Milano</placeName>, et non in <placeName ref="#Toscane">Toscana</placeName>, ch'io sia giovane, et non vecchio, ch'io
                   sia più tosto timido, che ardito. Con queste conditioni, narrerò il fatto secondo
-                  la verità, et poi mi rimetterò al maturo giudicio di Vostra Signoria <pb n="9"/>
+                  la verità, et poi mi rimetterò al maturo giudicio di Vostra Signoria <pb n="9" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f9/full/full/0/native.jpg"/>
                   et degli altri famosi, che più sanno di me. Essendo io, com'ho detto, milanese, et
                   allevato nell'opera della Fabrica del <objectName ref="#DomeDeMilan">Duomo</objectName>, intanto che da certi anni a dietro passarono per le mie
                   mani come Vostra Signoria sa quasi tutte le opere, che giornalmente vi si
@@ -290,23 +276,21 @@
                   d'esso; et finalmente della mia <placeName ref="#Milan">Città</placeName> nativa.
                   Così porsi a detti Signori Deputati, col parere, et consiglio di huomini degni,
                   una pistola da me fatta sopra ciò, et fu questa. </p>
-            </div2>
-            <pb n="10"/>
-            <div2 xml:id="M4" type="section" n="4">
-               <div3 xml:id="M4S1" type="lettre" n="1" xml:lang="lat">
-                  <opener rend="capitals">
-                     <salute>ILLUSTRIBUS, ET HONESTIS VIRIS <hi rend="normal">Templi majoris
+        </div2>
+        <pb n="10" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f10/full/full/0/native.jpg"/>
+        <div2 xml:id="M4" type="section" n="4">
+          <div3 xml:id="M4S1" type="lettre" n="1" xml:lang="lat">
+            <opener rend="capitals">
+              <salute>ILLUSTRIBUS, ET HONESTIS VIRIS <hi rend="normal">Templi majoris
                            Mediolani praefectis</hi>
                      </salute>
-                     <signed>
-                        <persName ref="#MartinoBassi">MARTINUS BASSIUS S.</persName>
-                     </signed>
-                  </opener>
-                  <p xml:id="BAS_DA_L1_M4_M4S1_P1">
-                     <unclear>
-                        <foreign xml:lang="lat">
-                           <figure type="lettrine"/>
-                           <hi rend="capitals">Miramini</hi> forsan, Viri Ornatissimi, quid sit,
+              <signed>
+                <persName ref="#MartinoBassi">MARTINUS BASSIUS S.</persName>
+              </signed>
+            </opener>
+            <p xml:id="BAS_DA_L1_M4_M4S1_P1">
+              <unclear>
+                <foreign xml:lang="lat"><figure type="lettrine"/><hi rend="capitals">Miramini</hi> forsan, Viri Ornatissimi, quid sit,
                            quod ego, qui antea nunquam in hunc locum venire sim solitus, nunc in
                            conspectum vestrum prodire non dubitarim: Verum cum causam ipsam, qua
                            commotus huc introire ausus sum cognoveritis, spero sore ut, qui nunc me
@@ -333,7 +317,7 @@
                            eaque non contemnendi pretij, quibus sterneretur pavimentum, ubi vas
                            illud erat collo candum, in quo, qui <persName ref="#Jesus">Christo</persName> nomen dant, de more solent ablui cum ipse
                            stylobatas fecisset, in illud incidisse incommodum mihi vide tur, ut
-                           sumptus, atque opisicum fortasse labor, ipsi esset perdendus. <pb n="11"/> as quanta in eo opere faciundo sit pecunla Impensa, tum in cee dendis,
+                           sumptus, atque opisicum fortasse labor, ipsi esset perdendus. <pb n="11" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f11/full/full/0/native.jpg"/> as quanta in eo opere faciundo sit pecunla Impensa, tum in cee dendis,
                            et secandis, rum friandis, ac poliendis marmoribus, melius vos, quàm ego,
                            cognitum habere potestis, si ea marmora expolita, et ab ipso demum
                            rtiecta, considerare yplutritis. in quo opere, vi proportioves, et
@@ -364,14 +348,12 @@
                            ut Deum Optimum Maximum, eiusque Matrem sanctissimam, semper propitios
                            habeatis; resque vestrae cùm publicem, tùm privatè ex sententia vobis
                            suecedant.</foreign>
-                     </unclear>
-                  </p>
-               </div3>
-               <pb n="12"/>
-               <div3 xml:id="M4S2" type="section" n="2" xml:lang="ita">
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P1">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">LETTA</hi> nella congregatione l'epistola sopra detta, et
+              </unclear>
+            </p>
+          </div3>
+          <pb n="12" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f12/full/full/0/native.jpg"/>
+          <div3 xml:id="M4S2" type="section" n="2" xml:lang="ita">
+            <p xml:id="BAS_DA_L1_M4_M4S2_P1"><figure type="lettrine"/><hi rend="capitals">LETTA</hi> nella congregatione l'epistola sopra detta, et
                      da tutti i Signori deputati con silentio udita, tutti concordevolmente
                      deliberarono ch'ella si desse a tre di loro: cioè al molto Ilustre <persName ref="#SforzaMoroni">Signor Conte Sforza</persName>, fratello dell'
                      illustrissimo <persName ref="#GiovanniGirolamoMorone">Cardinal
@@ -406,7 +388,7 @@
                      non però si mutò di quello, che egli aveva prima detto; anzi di nuovo disse ad
                      essi tre Signori Eletti, esser necessario, che ambidue noi andassimo da lui
                      alla presenza loro. Là onde di nuovo riferito questo nel Capitolo, quivi fu
-                     stabilito, <pb n="13"/> che le cose proposte s'avessero a decidere alla
+                     stabilito, <pb n="13" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f13/full/full/0/native.jpg"/> che le cose proposte s'avessero a decidere alla
                      presenza di tutto esso Capitolo, et fu detto il giorno; ma non hebbe effetto,
                      perché all'Architetto non era acconcio. Né si sa qual fosse la cagione, basta
                      che fu differita la cosa ad un altro dì; et in quel mezo furono dati per
@@ -418,9 +400,7 @@
                         Città</placeName> molto intendenti, et <persName ref="#Barnaba">Messer
                         Barnaba</persName> matematico publico, et eccellente. Inoltre furono
                      proposti da particolari di esso Capitolo due Pittori <persName ref="#CarloUrbino"/>l'uno da <placeName ref="#Crema">Crema</placeName>,
-                        <persName>l'altro di <placeName ref="#Valsolda">
-                           <reg>Valsolda</reg>
-                        </placeName>
+                        <persName>l'altro di <placeName ref="#Valsolda"><reg>Valsolda</reg></placeName>
                      </persName>; et di più, hebbe libertà di poter menar seco <persName ref="#GiacomoSoldati">Messer Giacomo Soldato</persName>, uno degli
                      ingegnieri di questa <placeName ref="#Milan">Città</placeName>, persona di
                      molto spirito, et valore. Et, perché o la cosa paresse difficile, o pure perché
@@ -443,12 +423,11 @@
                      creanza motto alcuno, fui dal Signor <persName ref="#SforzaMoroni">Conte Sforza
                         Morrone</persName> invitato a dire. Onde io con quel meglior modo ch'io
                      seppi; così dissi.</p>
-                  <pb n="14"/>
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P2" xml:lang="lat">
-                     <figure type="lettrine"/>
-                     <unclear>
-                        <foreign xml:lang="lat">
-                           <hi rend="capitals">CREDO</hi> ego vos, viri omatissimi, non mediocri
+            <pb n="14" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f14/full/full/0/native.jpg"/>
+            <p xml:id="BAS_DA_L1_M4_M4S2_P2" xml:lang="lat">
+              <figure type="lettrine"/>
+              <unclear>
+                <foreign xml:lang="lat"><hi rend="capitals">CREDO</hi> ego vos, viri omatissimi, non mediocri
                            admiratione affici, quod unus ex omnibus, neque aetate, neque partd iam
                            xistimatione, cum alijs hvius urbis Archi ctectis conserendus, huc
                            accesserim demon straturus, quae in hvius templi conssroctio ne ineocpta,
@@ -476,12 +455,10 @@
                            Deum vobis unum ante oculos praeponentes, sententiam ferte. quod si
                            feceritis, on solùm Dei Opt. Max, magnam graziam inibitis: sed etiam
                            hvius augustissimi Templi dignitati, et elegantiae consuletis. </foreign>
-                     </unclear>
-                  </p>
-                  <pb n="15"/>
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P3">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">CIÒ</hi> finito, presi a trattare il primo capo esposto
+              </unclear>
+            </p>
+            <pb n="15" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f15/full/full/0/native.jpg"/>
+            <p xml:id="BAS_DA_L1_M4_M4S2_P3"><figure type="lettrine"/><hi rend="capitals">CIÒ</hi> finito, presi a trattare il primo capo esposto
                      nell'epistola da me prima data, il quale è d'intorno alla perspettiva da
                         <persName ref="#PellegrinoTibaldi">Messer Pellegrino Tibaldi</persName> a la
                      sua volontà ridotta, come di presente si vede nel pezzo del marmo in lunghezza
@@ -511,7 +488,7 @@
                      conoscere l'angolo, che consiste nel loro congiungimento. Oltre a ciò, ha sopra
                      di esso smusso levato una parete, con un uscio in scorcio, che pare fatto più
                      tosto dall'accidente, che dall'arte, con un camino quadro, et un pezzo di
-                     cortinaggio, et tutte queste sue cose aggiunte, ubbidiscono <pb n="16"/> al suo
+                     cortinaggio, et tutte queste sue cose aggiunte, ubbidiscono <pb n="16" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f16/full/full/0/native.jpg"/> al suo
                      secondo orizzonte, et alla sua seconda distanza, rimanendo l'altra opera del
                      primo <persName ref="#VincenzoSeregni">Architetto</persName> digradata al suo
                      primo orizzonte, et primiera distanza; come il tutto si vede ancho per lo <ptr target="#F2L1" type="renvoie">primo</ptr>, et <ptr target="#F3L1" type="renvoie">secondo disegno</ptr>, con li suoi profili, et annotazioni
@@ -545,7 +522,7 @@
                      fuggito, come sono <persName ref="#GiulioRomano">Giulio Romano</persName>, il
                         <persName ref="#GirolamoGenga">Genga</persName>, <persName ref="#BaldassarrePeruzzi">Baldassarre Peruzzi</persName>, il gran <persName ref="#AndreaMantegna">Mantegna</persName>, <persName ref="#Raphael">Raffaello da <placeName ref="#Urbino">Urbino</placeName>
                      </persName>, ch'io doveva dir prima, et tanti altri, ch'io taccio per brevità,
-                     nelle opere <pb n="17"/> dei quali giammai non si ritrovò più d'uno orizzonte,
+                     nelle opere <pb n="17" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f17/full/full/0/native.jpg"/> dei quali giammai non si ritrovò più d'uno orizzonte,
                      et d'una distanza, et pur due, et due se ne veggiono <objectName ref="#TibaldiAnnonciationSantaMariaAnnunciataCamposanto">in questo
                         marmo</objectName>. Oltre a ciò dico che niun oggetto, di qual si voglia
                      sorte o forma, non potrà mai con ragione di perspettiva, esser digradato; se
@@ -577,7 +554,7 @@
                      ufficio. Perciòche per l'ottava definitione del primo di <persName ref="#Euclide">Euclide</persName> si sa, che una sola retta linea non può
                      formare alcun angolo; et per la prima propositione dell'undecimo, che l'istessa
                      retta linea non può esser parte a giacer in piano et parte levata in alto.
-                     Oltre a ciò, essendo le forme degli oggetti in quel modo ordinate, <pb n="18"/>
+                     Oltre a ciò, essendo le forme degli oggetti in quel modo ordinate, <pb n="18" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f18/full/full/0/native.jpg"/>
                      et disposte nella superficie dell'occhio, et nell'anima ricevute, col quale
                      sono ordinate, et disposte nella superficie degli oggeti, (o bene, o male, che
                      ci stiano) si conchiude ch'egli è necessario di correggere quest'opera, acciò
@@ -612,7 +589,7 @@
                      X. XI. XII. de l'<bibl key="EuclidePerspective">Ottica</bibl> di <persName ref="#Euclide">Euclide</persName>, et a le XXXVI. XXXVII; e XXXVIII del
                         <bibl>quarto di <persName ref="#Vitellion">Vitellione</persName>
                      </bibl>, dalle quali si comprendono per dimostrationi gli effetti, che fanno i
-                     piani, et le superficie rettilinee, <pb n="19"/> superiori, inferiori, et
+                     piani, et le superficie rettilinee, <pb n="19" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f19/full/full/0/native.jpg"/> superiori, inferiori, et
                      laterali, alla veduta nostra; ciò si vede pur ancor chiaro nelle cose naturali,
                      che se noi riguardiamo dal dirotto in su, qual si voglia cosa, che habbia
                      sporta, o proiettura, et sia più alta della veduta nostra, non vi possiam
@@ -631,9 +608,7 @@
                      alcuni dei suoi amorevoli, che sin da principio s'affrettavano molto (né so a
                      qual fine) di volermi rispondere. Alle quali cose <persName ref="#PellegrinoTibaldi">Messer Pellegrino Tibaldi</persName> dicendo a quei
                      Signori, et a me, così rispose. </p>
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P4">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">IO</hi>, con gran studio, et pensamento messi l'orizzonte a
+            <p xml:id="BAS_DA_L1_M4_M4S2_P4"><figure type="lettrine"/><hi rend="capitals">IO</hi>, con gran studio, et pensamento messi l'orizzonte a
                      livello dell'occhio a l'<persName ref="#AngeGabriel">Angelo</persName>. Perciò
                      che torna a livello dell'altro orizzonte dell'historia di fuori, incominciata,
                      (voleva egli dire dall'altra parte del sasso), né per me vi seppi trovare luogo
@@ -644,7 +619,7 @@
                      dell'occhio suo, dal quale si reggesse, come fa hora da questo mio, con tanta
                      bella movenza, come si vede. Et mostrando una figura ignuda in forma d'
                         <persName ref="#AngeGabriel">Angelo</persName>, la quale non aveva sotto
-                     alcun piano, dei quali si trattava, né sopra a quale <pb n="20"/> havesse a
+                     alcun piano, dei quali si trattava, né sopra a quale <pb n="20" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f20/full/full/0/native.jpg"/> havesse a
                      posare, come vide ogn'uno, disse, a me rivolto: voi, che d'orizzonte parlate,
                      qual è l'orizzonte della figura? Et perché non vi volli altro rispondere
                      (parendomi, avere pur troppo parlato) soggiunse egli, non è egli a livello
@@ -681,7 +656,7 @@
                      disse or lassa seguitar loro, et se sei Pittore, falla tu. Quasi dicesse, che
                      cosa hanno a fare i granchi con la luna? Tornando ove lasciai, dico, che
                      volend'io di nuovo rispondere, che questa opera stava molto bene prima, fuori
-                     che del piano superiore a gli occhi nostri; ecco che ci mandaron ambidue <pb n="21"/> in disparte, per ragionare fra di loro, sì come è il solito. Fu
+                     che del piano superiore a gli occhi nostri; ecco che ci mandaron ambidue <pb n="21" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f21/full/full/0/native.jpg"/> in disparte, per ragionare fra di loro, sì come è il solito. Fu
                      detto poi, che fra i tre eletti, et i Signori del Capitolo, furono alcune varie
                      opinioni, come in simili cose suol avvenire. Percioché il Signore <persName ref="#AlessandroCaimo"> Alessandro Caimo</persName>, et <persName>Messer
                         Barnaba</persName> matematico, dissero, che quanto a la ragione, la
@@ -714,7 +689,7 @@
                      gli altri, non averebbe finto in pittura il quadro disopra detto ne la pace, a
                         <placeName ref="#Rome">Roma</placeName>, appiccato con i chiodi, se si
                      potesse fare ciò, che torna bene. Ma Vostra Signoria conosce il <persName ref="#Paciotto">Pacchiotto</persName> così bene come io, et sa quel che sa
-                     dire, et quel che sa fare. <pb n="22"/>
+                     dire, et quel che sa fare. <pb n="22" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f22/full/full/0/native.jpg"/>
                      <figure type="lettrine"/>
                      <hi rend="capitals">ESSENDO</hi> noi di nuovo richiamati alla presenza d'essi
                      signori, sopra l'opera del <objectName ref="#BaptistereDomeDeMilan">Battistero</objectName>, del quale pur nell'epistola mia fu fatta mentione,
@@ -752,7 +727,7 @@
                         nome di <persName ref="#Nerva">Nerva</persName>
                      </objectName>, eran distanti una grossezza, et due terzi di
                      colonna, oltre a molti altri, per le vestigia dei quali, ancor si vede, che non
-                     passarono mai la bella <pb n="23"/> dispositione degli Epistylli, che ci dà
+                     passarono mai la bella <pb n="23" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f23/full/full/0/native.jpg"/> dispositione degli Epistylli, che ci dà
                         <persName ref="#Vitruve">Vitruvio</persName>. Quanto maggiormente adunque,
                      per le dette ragioni si doveranno spezzare gli architravi di vivo, che si
                      metteranno in opera sopra alle dette colonne; se gli intercolunni loro passano
@@ -785,7 +760,7 @@
                      poca, non mancavano le forme poligonie, o vogliam dire di più faccie, et
                      angoli, le quali tutte tornano benissimo, quando che in esse si osservano le
                      simmetrie, et le regole date, et usate da buoni: non vi essendo (come si vede)
-                     necessità, che vi <pb n="24"/> astringesse ad appigliarvi più ad una, che ad
+                     necessità, che vi <pb n="24" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f24/full/full/0/native.jpg"/> astringesse ad appigliarvi più ad una, che ad
                      un'altra forma. Et se si volesse addurre, che il principio dell'<persName ref="#VincenzoSeregni">Architetto passato</persName>, v'havesse a ciò fare
                      astretto, gli risponderebbe che egli haveva gittato, i suoi fondamenti
                      congionti con la facciata del <objectName ref="#DomeDeMilan">Tempio</objectName>, per maggior sodezza dell'edificio; che sotto alle sue
@@ -796,9 +771,7 @@
                      che dal suo principio sia tal necessità tratta, essendosi levato quanto vi era
                      di suo, sino alle fondamenta. Alle quali tutte cose, così mi rispose Messer
                         <persName ref="#PellegrinoTibaldi">Pellegrino Tibaldi</persName>. </p>
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P5">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">È VERO</hi>, che questi intercolunni sono oltre le regole
+            <p xml:id="BAS_DA_L1_M4_M4S2_P5"><figure type="lettrine"/><hi rend="capitals">È VERO</hi>, che questi intercolunni sono oltre le regole
                      sproporzionati, ma se io havessi (parlando con faccia allegra, et tutto
                      baldanzoso) il rimedio pronto, et all'una, all'altra cosa, non sarebbe questo
                      bello? Veggiamo (dissi io) quanto prima questo nuovo trovato; perciòche io fui
@@ -816,7 +789,7 @@
                      incatenamenti, et insoliti sostenere quello che non si deve, et che è quasi
                      impossibile. Non però voglio mancare di ricordare, che i fregi sono finiti,
                      come si vede da ognuno: né in essi è spazio per tali incatenamenti, se di nuovo
-                     spezzandogli non ve lo farà. Et quando anco <pb n="25"/> si possa fare, ciò che
+                     spezzandogli non ve lo farà. Et quando anco <pb n="25" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f25/full/full/0/native.jpg"/> si possa fare, ciò che
                      egli ora disegna sì facile, non però s'assicurerà quest'opera di maniera, che
                      non resti anco (al creder di molti) più pericolosa, né si debbon fare le
                      fabriche a caso, per dire poi, io vi rimedierò, che da principio ci insegna
@@ -852,7 +825,7 @@
                      dell'altra, et l'uno spazio simile, et proporzionato all'altro, et gli
                      intercolunni di mezo d'esso <objectName ref="#ScuroloSanCarloMilan">Tempietto</objectName>, sono uguali alli spazi di circonferenza, et nella
                      proporzione, che è il tutto, della maggiore circonferenza d'esso <objectName ref="#ScuroloSanCarloMilan">Tempietto</objectName>, alla minore: ove sono le
-                     colonne, <pb n="26"/> sono ogni due spazi di circonferenza ad uno intercolunnio
+                     colonne, <pb n="26" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f26/full/full/0/native.jpg"/> sono ogni due spazi di circonferenza ad uno intercolunnio
                      di mezo, come ci ammaestra la prima, et duodecima propositione del <bibl key="EuclidePerspective" ref="Livre V">quinto libro</bibl> d' <persName ref="#Euclide">Euclide</persName>. Inoltre lo spazio rinchiuso da dette
                      colonne, viene anch'esso in proporzione dupla, con le sue logge, com'è dovere.
                      Et il tutto è proporzionato, con simiglianza delle larghezze alle altezze, come
@@ -884,7 +857,7 @@
                      con tal digradatione, cosa che non è, come vedete, per <ptr target="#F8L1" type="renvoie">questa pianta</ptr>, presa sul dosso dell'opera vostra. Non
                      istarò ora a dirvi quello, che hanno notato molti, cioé, che non habbiate fatto
                      le colonne d'ordine ionico, essendo quelle di sopra del <objectName ref="#DomeDeMilan">Tempio maggiore</objectName> di che si ragiona di ordine
-                     composito, ma averò ben caro d'intendere sopra ciò qualche <pb n="27"/> vostra
+                     composito, ma averò ben caro d'intendere sopra ciò qualche <pb n="27" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f27/full/full/0/native.jpg"/> vostra
                      bella ragione. Questo diss'io sopra il primo capo del <objectName ref="#ScuroloSanCarloMilan">Tempietto sotterraneo</objectName>, come vostra
                      signoria vedrà per le piante, et profili dal settimo al decimo luogo dei
                      disegni. Poi soggiunsi intorno all'altro capo, appartenente al
@@ -924,7 +897,7 @@
                      occupare, contra ogni ragione, quello intercolunnio di più. Perché nella pianta
                      d'esso <objectName ref="#DomeDeMilan">Tempio</objectName> lo comporta, nelle
                      colonne della tribuna debbono già mai aver alcun impedimento di fuori, per qual
-                     si voglia cosa, per importante che sia, <pb n="28"/> altrimenti né il popolo di
+                     si voglia cosa, per importante che sia, <pb n="28" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f28/full/full/0/native.jpg"/> altrimenti né il popolo di
                         <placeName ref="#Milan">questa Città</placeName>, né gli intelligenti di
                      fuori, se non in un tempo, almeno in un altro, (al creder mio) ve lo
                      comporteranno. Oltre a ciò, facendosi dico, al primo modo, si leverà quasi
@@ -934,15 +907,12 @@
                      non però, per l'altezza delle spalle, et muri d'esso Choro si farà, che veder
                      si possa l'Altare maggiore all'intrare delle porte
                      laterali; come prima si vedeva, et come per questa <ptr target="#F13L1" type="renvoie">mia pianta</ptr> d'esso <objectName ref="#DomeDeMilan">Tempio</objectName>, et per i raggi tirati in essa, potete veder voi
-                     ancora, (et mostrai la pianta al <ptr target="#F13L1" type="renvoie">
-                        <reg>XII</reg> luogo</ptr>). Ma per conchiuderla (al parer mio) detto
+                     ancora, (et mostrai la pianta al <ptr target="#F13L1" type="renvoie"><reg>XII</reg> luogo</ptr>). Ma per conchiuderla (al parer mio) detto
                         Coro, et <objectName ref="#AutelDomeDeMilan">Altare</objectName>, poi che si hanno a movere starebber molto meglio, et
                      avere bon il sito, et luogo loro proprio, sotto alla tribuna. Che così fu
                      l'intenzione dei primi Architetti: lasciando libero esso <objectName ref="#DomeDeMilan">Tempio</objectName> in ogni altra parte, come da così
                      grand'huomini fu ordinato. Alle quali tutte cose, rispose <persName ref="#PellegrinoTibaldi">Messer Pellegrino Tibaldi</persName> dicendo.</p>
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P6">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">CIRCA</hi> la pianta dello <objectName ref="#ScuroloSanCarloMilan">Scurolo</objectName>, io ne feci di molte forme,
+            <p xml:id="BAS_DA_L1_M4_M4S2_P6"><figure type="lettrine"/><hi rend="capitals">CIRCA</hi> la pianta dello <objectName ref="#ScuroloSanCarloMilan">Scurolo</objectName>, io ne feci di molte forme,
                      et tra tutte quelle (volgendosi a quei signori) faceste elezione voi di questa
                      circolare. Né per questo occorre, che dirvi sopra, poi ché vostra fu
                      l'elezione. Quasi (Signor mio) ch'io avessi detto, che la forma circolare non
@@ -957,7 +927,7 @@
                      sopra d'un disegno da lui lasciato dentro, senza mia saputa; acciò che io non
                      vedessi una sua certa invenzione, di uno piano digradato, et a pendio in un
                         Choro d'un <objectName ref="#DomeDeMilan">Tempio</objectName> di così gran nome, et <placeName ref="#Milan">
-                        Città</placeName>, com'è <pb n="29"/> la nostra: opera più tosto da profane
+                        Città</placeName>, com'è <pb n="29" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f29/full/full/0/native.jpg"/> la nostra: opera più tosto da profane
                      dimostrationi, et comedie, che da celebrarvi i sacri, et divini offici. Sopra
                      il qual disegno, avendo essi signori molto ragionato, et à chi piacque, à chi
                      no, fummo di nuovo richiamati alla preferenza loro, che ancora facevano gran
@@ -969,9 +939,7 @@
                      dimostrato con ragione, quanto eravamo diversi di pareri. Quasi volesser dire,
                      che la scienza non avesse che fare con la pratica, et con questo ogni huomo si
                      partì per all'ora irresoluto. </p>
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P7">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">SI</hi> è da poi lavorato intorno ad esso <objectName ref="#ScuroloSanCarloMilan">Scurolo</objectName>, et
+            <p xml:id="BAS_DA_L1_M4_M4S2_P7"><figure type="lettrine"/><hi rend="capitals">SI</hi> è da poi lavorato intorno ad esso <objectName ref="#ScuroloSanCarloMilan">Scurolo</objectName>, et
                         Coro, tutto quello, che Vostra Signoria vederà per
                      la <ptr target="#F8L1" type="renvoie">mezza pianta</ptr>, et suo <ptr target="#F9L1" type="renvoie">profilo</ptr> messi nel settimo, et ottavo
                      luogo, per la quale conoscerà ch'esso <persName ref="#PellegrinoTibaldi">Architetto</persName> ha fatto il piano pendente molto, con molti
@@ -980,9 +948,7 @@
                         Coro: come, Vostra Signoria vedrà per li disegni.
                      Ancora che siano piccioli, et non molti politi, perché non alla politezza ho io
                      atteso, ma si bene al soggeto della cosa. </p>
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P8">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">NON</hi> voglio tacer a Vostra Signoria di un altro fatto,
+            <p xml:id="BAS_DA_L1_M4_M4S2_P8"><figure type="lettrine"/><hi rend="capitals">NON</hi> voglio tacer a Vostra Signoria di un altro fatto,
                      seguito per inanzi, del quale Vostra Signoria ne farà poi quel giudicio, che a
                      lei parerà. Et fu che data ch'io hebbi l'epistola al Capitolo, pregai
                      l'Illustre <persName ref="#SforzaMoroni">Signor Conte Sforza</persName> che si
@@ -990,7 +956,7 @@
                         Architetto</persName> accioché non si tramutasse l'opera in cominciata, et
                      che ancora non era molto inanzi: il qual <persName ref="#SforzaMoroni">
                         Signore</persName> l'ebbe, ma diversissimo dall'opera; et è l'<ptr target="#F13L1" type="renvoie">ultima pianta</ptr> posta nei disegni, vicina
-                     alle regole, et divisione del circolo <pb n="30"/> da me dette di sopra, et
+                     alle regole, et divisione del circolo <pb n="30" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f30/full/full/0/native.jpg"/> da me dette di sopra, et
                      l'originale è anco appresso d'esso <persName ref="#SforzaMoroni">Illustre
                         Signore</persName>. Nondimeno egli continuava l'opera diversamente, nel
                      modo, ch'io ho dimostrato, per non si abbassare ai buoni autori, et buoni
@@ -1004,9 +970,7 @@
                         <persName ref="#SforzaMoroni">Signore</persName>, per modestia, non volle
                      ch'io per all'ora rivelassi questa cosa, ma ella è poi venura in luce, come
                      molti lo fanno. </p>
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P9">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">RESTA</hi> che io dica (non per Vostra Signoria che lo sa
+            <p xml:id="BAS_DA_L1_M4_M4S2_P9"><figure type="lettrine"/><hi rend="capitals">RESTA</hi> che io dica (non per Vostra Signoria che lo sa
                      molto meglio di me) in quali, et quanti modi siano giunte, et disgiunte la
                      pratica, et la scienza: accioché, se questi miei scritti (poi che vostra
                      signoria m'ha dato materia di farli, di che sommamente la ringratio) saranno
@@ -1022,15 +986,13 @@
                      ogni artefice, che operi con ragione, si parte dalla scienza, et camina alla
                      pratica. Ma se l'operare sarà senza ragione questo sarà o a caso o ad
                      imitatione. Et perché tanto le buone opere, quanto le false, et tanto le fatte
-                     con ragione, quanto le sproporzionate possono essere imitate da colui <pb n="31"/> che non ha in sé la ragione, per mezo della quale egli possa
+                     con ragione, quanto le sproporzionate possono essere imitate da colui <pb n="31" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f31/full/full/0/native.jpg"/> che non ha in sé la ragione, per mezo della quale egli possa
                      discernere le buone opere dalle vitiose. Di qui nasce, che l'imitatione può
                      facilmente errare, senza la guida dell'arte. Per lo che si vede quanto sia più
                      eccellente, et più degna l'arte dell'isperienza, poiché l'arte è più vicina al
                      sapere, intendendo ella le cause, et le ragioni delle cose. Ma perché si
                      veggia, che l'arte, et la pratica disgiunte, et da per sé poco vagliono, non
-                     ricorderò salvo che <bibl key="vitruveArchitectura">
-                        <persName ref="#Vitruve">Vitruvio</persName>
-                     </bibl> (poiché si parla d'architettura) il quale
+                     ricorderò salvo che <bibl key="vitruveArchitectura"><persName ref="#Vitruve">Vitruvio</persName></bibl> (poiché si parla d'architettura) il quale
                      come sa Vostra Signoria dice cosi. <quote rend="normal" xml:lang="lat">Architectura est scientia pluribus disciplinis, et varijs erv ditionibus
                         ornata: cuius iudicio probantur omnia, quae a ceteris artibus perficiuntur
                         opera</quote>. Cioè, l'architettura è scienza di molte dottrine, et di
@@ -1043,30 +1005,22 @@
                         nella mente, ma bella cosa, et utile è il sopporre per ragione, et
                         dimostrare per pratica: in quello è la dottrina, in questo l'eruditione,
                         cioè lo sgrossamento. </quote>
-                     <bibl key="vitruveArchitectura">
-                        <persName ref="#Vitruve">Vitruvio</persName>
-                     </bibl>.<quote rend="normal" xml:lang="lat">Ea nascitur
+                     <bibl key="vitruveArchitectura"><persName ref="#Vitruve">Vitruvio</persName></bibl>.<quote rend="normal" xml:lang="lat">Ea nascitur
                         ex Fabrica, et ratiocinatione.</quote> Ma perché questa conseguenza non si
                      può sapere, se prima non si fa manifesto, che cosa è Fabrica, et che cosa è
                      discorso, soggiugne. <quote rend="normal" xml:lang="lat">Fabrica est
                         continuata, ac trita usus meditatio: quae manibus perficitur è materia
                         cuiuscunque generis opus est, ad propolitum deformationis.</quote>
                   </p>
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P10">
-                     <figure type="lettrine"/>
-                     <quote rend="normal" xml:lang="lat">
-                        <bibl key="vitruveArchitectura"/>
-                        <hi rend="capitals">RATIOCINATIO</hi> autem est, quae res Fabrica tas
+            <p xml:id="BAS_DA_L1_M4_M4S2_P10"><figure type="lettrine"/><quote rend="normal" xml:lang="lat"><bibl key="vitruveArchitectura"/><hi rend="capitals">RATIOCINATIO</hi> autem est, quae res Fabrica tas
                         solertia, ac ratione proporzioni s demonstrare, atque explicare
                         potest.</quote> Fabrica è continuo, et essercitato pensamento dell'uso, che
                      di qualunque materia, che per dar forma all'opera proposta si richiede, con le
                      mani si compie. Discorso è quello, che le cose fabricate prontamente, et con
-                     ragionevole proportione può, dimostrando, manifestare. Il <bibl key="VitruvearchitetturaBarbaro">
-                        <persName ref="#DanieleBarbaro">Patriarca</persName>
-                     </bibl>. <quote>Ogni artificioso componimento ha
+                     ragionevole proportione può, dimostrando, manifestare. Il <bibl key="VitruvearchitetturaBarbaro"><persName ref="#DanieleBarbaro">Patriarca</persName></bibl>. <quote>Ogni artificioso componimento ha
                         l'esser suo dalla notitia del fine. Volendo dunque fabricare, fa di mestieri
                         avere conoscimento del fine. Fine intendo io quello a cui s'indirizza
-                        l'operatione: et in questo l'intelletto<pb n="32"/> considera, che cosa è
+                        l'operatione: et in questo l'intelletto<pb n="32" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f32/full/full/0/native.jpg"/> considera, che cosa è
                         principio et che cosa è mezo: et truova che il principio si considera in
                         modo di presidenza, et nel principiare il fine è prima, che l'Agente, perché
                         il fine è quello che lo muove all'opera. L'agente è prima che la forma, et
@@ -1076,9 +1030,7 @@
                         necessità. Ma per la cognitione del fine è necessario lo studio, et il
                         pensamento. Et sì come il saettatore non indrizzarebbe la saetta alla
                         brocca, se egli non tenesse ferma la mira così l'artefice non toccherebbe il
-                        fine, se ad altro si rivolgesse.</quote> Ma torniamo a <bibl key="vitruveArchitectura">
-                        <persName ref="#Vitruve">Vitruvio</persName>
-                     </bibl>, il quale dice. <quote rend="normal" xml:lang="lat">Itaque Architecti, quisineli teris
+                        fine, se ad altro si rivolgesse.</quote> Ma torniamo a <bibl key="vitruveArchitectura"><persName ref="#Vitruve">Vitruvio</persName></bibl>, il quale dice. <quote rend="normal" xml:lang="lat">Itaque Architecti, quisineli teris
                         contendelunt, ut manibus essent exercitati, non potuerun efficere, ut
                         haberent pro laboribus authoritatem. qui autem ratio cinationibus, et
                         literis solis confisi fuerant, umbram, non rem per secuti videntur. At, qui
@@ -1103,7 +1055,7 @@
                      se per avere un lieve esercitio, et alquanto di pratica, di sì gran nome si
                      credesse esser degno, non potrebbe un intendente chiuderli la bocca, domandando
                      li conto, et ragione delle cose fatte? Perché adunque i pratici non hanno
-                     acquistato credito?<pb n="33"/> Percioché l'architettura nasce dal discorso.
+                     acquistato credito?<pb n="33" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f33/full/full/0/native.jpg"/> Percioché l'architettura nasce dal discorso.
                      Perché non i letterati? Perché nasce ancor dall'atto del fabricare. Ma in
                      questo luogo potrebbe alcuno dubitar, et dire: se veramente arte è
                      nell'intelletto; perché cagione dice <persName ref="#Vitruve">
@@ -1117,18 +1069,14 @@
                      dinota giudicio degli imperiti esser fatto dalle cose apparenti. Or
                      conchiudendola dico che l'arte senza il suo uso, non è d'alcun giovamento, et
                      l'uso senza l'arte non farà mai cosa, che degna sia di lode. Ma torniamo a
-                        <bibl key="vitruveArchitectura">
-                        <persName ref="#Vitruve">Vitruvio</persName>
-                     </bibl>.<quote rend="normal" xml:lang="lat"> Cum in omnibus rebus, tum maximè in Architectura, haec duo
+                        <bibl key="vitruveArchitectura"><persName ref="#Vitruve">Vitruvio</persName></bibl>.<quote rend="normal" xml:lang="lat"> Cum in omnibus rebus, tum maximè in Architectura, haec duo
                         insunt; quod significatur, et quod significat. significatur proposita res,
                         de qua dicitur; hanc autem significat demonstratio rationibus doctrinarum
                         explicata.</quote> Cioè: perché così in ogni altra cosa, come spetialmente
                      nell'architettura, queste due parti si truovano, cioè, la cosa significata, et
                      quella, che significa. La cosa significata è l'opera proposta, della quale si
                      ragiona. Quella che significa, è la prova, et il perché di essa con
-                     ammaestrevole ragione espresso, et dichiarato. Il <bibl key="VitruvearchitetturaBarbaro">
-                        <persName ref="#DanieleBarbaro">Patriarca</persName>
-                     </bibl>. <quote>Tutti
+                     ammaestrevole ragione espresso, et dichiarato. Il <bibl key="VitruvearchitetturaBarbaro"><persName ref="#DanieleBarbaro">Patriarca</persName></bibl>. <quote>Tutti
                         gli effetti adunque, et tutte le opere, o lavori delle Arti, tutte le
                         conclusioni di tutte le scienze, sono le cose significate, ma le ragioni, le
                         prove, le cause di quelle, sono le significanti. Et questo è per che il
@@ -1143,13 +1091,11 @@
                         Architectum profitetur.</quote> Onde avviene che chi fa professione
                      d'architetto pare che nell'una, et nell'altra parte esser debba esercitato.
                      Cioè, nella cosa significata, la qual nasce dalla fabrica, et nella
-                     significante, la qual viene <pb n="34"/> dal discorso. Talché per l'una la
+                     significante, la qual viene <pb n="34" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f34/full/full/0/native.jpg"/> dal discorso. Talché per l'una la
                      pratica, et per l'altra la scienza si viene ad abbracciare, et congiugnere, in
                      modo, che separar non li possono l'una dall altra. Perciò deve l' architetto
                      esser, et nell'una, et nell'altra esercitato. </p>
-                  <p xml:id="BAS_DA_L1_M4_M4S2_P11">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">HOR</hi> io credo, signor mio, che dalle ragioni di
+            <p xml:id="BAS_DA_L1_M4_M4S2_P11"><figure type="lettrine"/><hi rend="capitals">HOR</hi> io credo, signor mio, che dalle ragioni di
                         <persName ref="#Vitruve">Vitruvio</persName>, et suo espositore sin qui
                      dette, si vegga chiaro, che arte senza l'uso, o sia pratica, et la pratica
                      senza l'arte, non può stare per modo alcuno. Ma se tuttavia qualch'uno non
@@ -1169,20 +1115,18 @@
                      averò sempre per dolcissima legge. Di <placeName ref="#Milan">Milano</placeName>
                      <date when="1570-05-10">il X. Maggio. M. D. LXX.</date>
                   </p>
-               </div3>
-            </div2>
-            <div2 xml:id="M5" type="section" n="5" xml:lang="ita">
-               <div3 xml:id="M5S1" type="lettre" n="1" xml:lang="ita">
-                  <pb n="35"/>
-                  <opener>
-                     <signed>DEL MAGNIFICO SIGNOR <persName ref="#AlfonsoN">ALFONSO N.</persName>
+          </div3>
+        </div2>
+        <div2 xml:id="M5" type="section" n="5" xml:lang="ita">
+          <div3 xml:id="M5S1" type="lettre" n="1" xml:lang="ita">
+            <pb n="35" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f35/full/full/0/native.jpg"/>
+            <opener>
+              <signed>DEL MAGNIFICO SIGNOR <persName ref="#AlfonsoN">ALFONSO N.</persName>
                      </signed>
-                     <salute>A MESSER<persName ref="#MartinoBassi">MARTINO
+              <salute>A MESSER<persName ref="#MartinoBassi">MARTINO
                         BASSI</persName>.</salute>
-                  </opener>
-                  <p xml:id="BAS_DA_L1_M5_M5S1_P1">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">CON</hi> grandissima sodisfattione, et contento lessi i
+            </opener>
+            <p xml:id="BAS_DA_L1_M5_M5S1_P1"><figure type="lettrine"/><hi rend="capitals">CON</hi> grandissima sodisfattione, et contento lessi i
                      belli scritti vostri, et vidi li disegni da voi fatti, sopra le opere del
                         <objectName ref="#DomeDeMilan">Duomo</objectName>: nei quali ritrovai quello
                      a punto, ch'io dal canto vostro giudicava dover esser in fatti, et che con ogni
@@ -1209,7 +1153,7 @@
                      quanti vertuosi mi capiteranno in questa città gli scritti vostri. Et sono
                      sicuro, che troveranno lode et commendatione appresso d'ogni intendente. Voi
                      fra tanto perseverate nelli studi vostri. Che a così belli principi, come
-                     avete, vi convien <pb n="36"/> fare che segua un perfetto fine. Et essendo nel
+                     avete, vi convien <pb n="36" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f36/full/full/0/native.jpg"/> fare che segua un perfetto fine. Et essendo nel
                      fior de gli anni potete (avendo vita) sperarlo al sicuro, non mancando per voi.
                      Et perdonatemi, se spronato dall'amor che vi porto, et che portate voi a me, vo
                      trappassando i termini con questi ricordi. Né restandomi altro che pregarvi, a
@@ -1218,20 +1162,16 @@
                      continuo. <persName ref="#Dieu">Dio</persName> vi guardi. Di <placeName ref="#Verone">Verona</placeName> il dì <date when="1570-06-15"> XV. di
                         Giugno. M. D. LXX.</date>
                   </p>
-               </div3>
-               <div3 xml:id="M5S2" type="section" n="2" xml:lang="ita">
-                  <p xml:id="BAS_DA_L1_M5_M5S2_P1">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">Havuta</hi> la passata risposta, io mi elessi di veder di
+          </div3>
+          <div3 xml:id="M5S2" type="section" n="2" xml:lang="ita">
+            <p xml:id="BAS_DA_L1_M5_M5S2_P1"><figure type="lettrine"/><hi rend="capitals">Havuta</hi> la passata risposta, io mi elessi di veder di
                      havere degli altri pareri per acquetarmi poi totalmente alla lor giustissima
                      sentenza et tenerla per legge irrefragabile da qui in poi. Però la seguente è
                      la narratione dei capi delle cose proposte: et la lettera, che le va inanzi,
                      mutatis mutandis, è quella con che si è mandata essa narratione ai famosi
                      architetti infrascritti; come dalle risposte loro, che appresso seguiteranno,
                      si può vedere. </p>
-                  <p xml:id="BAS_DA_L1_M5_M5S2_P2">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">MOLTO</hi> Magnifico Signor mio osservandissimo. Io non
+            <p xml:id="BAS_DA_L1_M5_M5S2_P2"><figure type="lettrine"/><hi rend="capitals">MOLTO</hi> Magnifico Signor mio osservandissimo. Io non
                      haverei ardire di dar molestia a Vostra Signoria con mie lettere, se la bontà
                      dell'animo che io odo esser in lei pari al valore, non m'assicurasse, ch'ella
                      non solo mi riceverà et ascolterà volontieri, ma con il venirmene a lei
@@ -1240,15 +1180,13 @@
                      affetto et merito, che Vostra Signoria mi tenga per suo divotissimo et
                      affettionatissimo servitore. Et così la prego caramente, che faccia da hoggi
                      inanzi, con mandandomi sempre alcuna cosa, in che io possa mostrarle l'amore et
-                     riverenza che le porto. Appresso la supplico, che non le gravi<pb n="37"/> di
+                     riverenza che le porto. Appresso la supplico, che non le gravi<pb n="37" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f37/full/full/0/native.jpg"/> di
                      leggere et considerare maturamente i pareri che le mando alligati, et darmene
                      il suo fondatissimo giudicio, riprendendomi o facendomi favore alla libera, in
                      quel tanto che le parrà ch'io meriti l'uno o l'altro, che di tutto rimarrò
                      appagato et obligatissimo verso la sua cortesia. Et qui mi resto, basciandole
                      la mano. Di <placeName ref="#Milan">Milano</placeName>.</p>
-                  <p xml:id="BAS_DA_L1_M5_M5S2_P3">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">DUE</hi> Architetti, in diversi tempi, hanno ghiribizzato
+            <p xml:id="BAS_DA_L1_M5_M5S2_P3"><figure type="lettrine"/><hi rend="capitals">DUE</hi> Architetti, in diversi tempi, hanno ghiribizzato
                      sopra un gran pezzo di marmo, il quale doverà servire ad un <objectName ref="#DomeDeMilan">Tempio</objectName> di <placeName ref="#Milan">Milano</placeName>. Di questi loro capricci, et opinioni fanno indicio i
                      disegni, che se ne mandano alligati; postovi i caratteri et le linee evidenti
                      et occolte, al meglio che s'è potuto per farli più chiari et intelligibili.
@@ -1272,7 +1210,7 @@
                      quattro braccia, ancor che l'opera sia per andar alta da terra braccia
                      diecesette e mezo. Dietro al quale nuovo orizzonte et nuova distanza ha fatto
                      sculpire un pezzo di smusso segnato D, G, E, F che forma angolo col primo
-                     piano, come si vede per lo secondo profilo in punto I. Nondimeno, <pb n="38"/>
+                     piano, come si vede per lo secondo profilo in punto I. Nondimeno, <pb n="38" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f38/full/full/0/native.jpg"/>
                      detto <persName ref="#PellegrinoTibaldi">architetto</persName>, tiene che sia
                      col primo continuovo in superficie. Oltre à ciò vi ha innalzato una parete, con
                      un uscio in scorcio, un camin quadro et un pezzo di cortinaggio. Tutte le quali
@@ -1305,7 +1243,7 @@
                      l'altra da un altro, ma il tutto da un solo, come è dovere et come l'arte
                      comanda. Facendovi poi ornamenti convenienti, come variatamente vi si pon fare,
                      che per brevità gli ho insime con le figure in questo <ptr target="#F4L1" type="renvoie">terzo disegno</ptr> tralasciate. Non intendo però che le due
-                     figure siano alterate, poiché si trovino fornite nel detto <pb n="39"/> marmo,
+                     figure siano alterate, poiché si trovino fornite nel detto <pb n="39" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f39/full/full/0/native.jpg"/> marmo,
                      come si vede per lo <ptr target="#F3L1" type="renvoie">secondo disegno</ptr>.
                      L'altro mio parere di racconciar questo marmo, sarebbe che posto l'orizonte a
                      livello dell'occhio nostro nel congiungimento delle due linee A C et B D del
@@ -1343,7 +1281,7 @@
                      nel modo che dimostra il <ptr target="#F7L1" type="renvoie">detto
                      disegno</ptr>: né veggendo tali incatenamenti esser superflui, poiché detti
                      architravi, quanto alla ragione, ancor che non vi si sopraponesse altra cosa,
-                     per causa delli sproporzionati intervalli, <pb n="40"/> od intercolunni per sé
+                     per causa delli sproporzionati intervalli, <pb n="40" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f40/full/full/0/native.jpg"/> od intercolunni per sé
                      stessi si spaccherebbero. Il rimedio, al mio parere, sarebbe di far le colonne
                      di maggior grossezza, acciò gli intercolunni venissero ad essere secondo le
                      regole et proporzioni usate da buoni. Et se lo spazio da basso fosse poco
@@ -1379,10 +1317,8 @@
                      l'altra china bistorti et scomodissimi; come mostra il suo profilo all'<ptr target="#F9L1" type="renvoie">ottavo</ptr> luogo. Interrompimenti et
                      bruttezze poco convenevoli ai Templi sacri et famosi, qual è questo di che si
                      tratta. </p>
-                  <pb n="41"/>
-                  <p xml:id="BAS_DA_L1_M5_M5S2_P4">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">IO</hi> per questo vorrei (rimettendomi però a miglior
+            <pb n="41" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f41/full/full/0/native.jpg"/>
+            <p xml:id="BAS_DA_L1_M5_M5S2_P4"><figure type="lettrine"/><hi rend="capitals">IO</hi> per questo vorrei (rimettendomi però a miglior
                      giudicio) che il detto <objectName ref="#ScuroloSanCarloMilan">Tempietto</objectName> si facesse in tutto corrispondente al <objectName ref="#DomeDeMilan">maggior Tempio</objectName>: la cella del quale è fatta
                      con la bella et bene intesa ragione dei trianguli, i lati dei quali passano per
                      li centri delle colonne mediane, come si vede nella pianta posta nel <ptr target="#F10L1" type="renvoie">nono luogo</ptr>, assignando il proprio sito
@@ -1416,10 +1352,8 @@
                      paralelli al pavimento d'esso <objectName ref="#DomeDeMilan">maggior
                         Tempio</objectName>; come si è usato per l'adietro in ogni tempio sacro sin
                      a questi dì nostri, et come lo detto profilo si mostra. </p>
-                  <pb n="42"/>
-                  <p xml:id="BAS_DA_L1_M5_M5S2_P5">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">NON</hi> lascierò anco di dire a Vostra Signoria per
+            <pb n="42" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f42/full/full/0/native.jpg"/>
+            <p xml:id="BAS_DA_L1_M5_M5S2_P5"><figure type="lettrine"/><hi rend="capitals">NON</hi> lascierò anco di dire a Vostra Signoria per
                      haverne il suo savio parere, che per la grande altezza delle spalle et dei muri
                      attorno ad esso Choro et per l'occupatione d'uno
                      intercolunnio di più, nel <objectName ref="#DomeDeMilan">maggior
@@ -1440,22 +1374,20 @@
                      poiché si vedrebbero et s'udirebbero i divini uffici egualmente da tutte le
                      parti d'esso <objectName ref="#DomeDeMilan">Tempio</objectName> con commodo et
                      contento grande dei riguardanti. </p>
-               </div3>
-            </div2>
-            <div2 xml:id="M6" type="lettre" n="6" xml:lang="ita">
-               <opener rend="capitals">
-                  <signed>DEL SIGNOR <persName ref="#AndreaPalladio">ANDREA
+          </div3>
+        </div2>
+        <div2 xml:id="M6" type="lettre" n="6" xml:lang="ita">
+          <opener rend="capitals">
+            <signed>DEL SIGNOR <persName ref="#AndreaPalladio">ANDREA
                      PALLADIO</persName>.</signed>
-               </opener>
-               <p xml:id="BAS_DA_L1_M6_P1">
-                  <figure type="lettrine"/>
-                  <hi rend="capitals">MAGNIFICO</hi> Messer <persName ref="#MartinoBassi">Martino</persName>. Ho ad havere obligo grandissimo al nostro commune amico,
+          </opener>
+          <p xml:id="BAS_DA_L1_M6_P1"><figure type="lettrine"/><hi rend="capitals">MAGNIFICO</hi> Messer <persName ref="#MartinoBassi">Martino</persName>. Ho ad havere obligo grandissimo al nostro commune amico,
                   per esser stato mezo di farmi con lettere pigliare l'amicitia vostra, la quale,
                   per quello ch'egli mi scrive ma molto più per quello che i vostri discorsi
                   dimostrano, è da esser tenuta carissima da ciascuno che desidera aver amicitia di
                   quelli, che in effetto et non in nome solamente, sono intendentissimi della
                   professione, ch'essi fanno. Voglio adunque pregarvi, che come avete cominciato,
-                  così per lo <pb n="43"/> avenire con tutta quella sicurtà, che si può avere con un
+                  così per lo <pb n="43" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f43/full/full/0/native.jpg"/> avenire con tutta quella sicurtà, che si può avere con un
                   suo affettionatissimo, voi vi serviate di me in tutto quello mi conoscerete buono.
                   Resto poi anco obligatissimo a voi dell'onor che mi fate, in farmi come giudice
                   dei vostri molto ben intesi pareri, circa i quali, poiché così mi ricercate, dirò
@@ -1467,13 +1399,13 @@
                   grandezza et maggior maestà a quelle cose che agli occhi nostri si rappresentano,
                   devono rappresentarsi in modo che dagli estremi al punto dell'orizzonte siano le
                   linee uguali. </p>
-               <p xml:id="BAS_DA_L1_M6_P2">Non può anco esser dubbio appresso di me che la <ptr target="#F3L1" type="renvoie">seconda opinione</ptr>, la quale vuole che si
+          <p xml:id="BAS_DA_L1_M6_P2">Non può anco esser dubbio appresso di me che la <ptr target="#F3L1" type="renvoie">seconda opinione</ptr>, la quale vuole che si
                   facciano due orizzonti, non sia da esser lasciata. Si per le ragioni
                   dottissimamente dette da voi, si anco per che, come ho detto, il proprio di tali
                   opere è il porre l'orizzonte nel mezzo et così si vede esser osservato da tutti i
                   più eccellenti uomini, dall'autorità dei quali non mi partirei mai nelle mie
                   opere, se una viva ragione non mi mostrasse, che il partirsene fosse meglio. </p>
-               <p xml:id="BAS_DA_L1_M6_P3">Per le cose fin qui dette, potete già comprendere, che la
+          <p xml:id="BAS_DA_L1_M6_P3">Per le cose fin qui dette, potete già comprendere, che la
                      <ptr target="#F4L1" type="renvoie">terza opinione</ptr>, la qual pone un sol
                   orizzonte, mi sodisfarebbe più delle due passate, se in essa non vi fosse il piano
                   digradato, sopra il quale si pongono le figure. Perciòche ripugna alla ragione et
@@ -1486,8 +1418,8 @@
                   della perspettiva et non vi partiate da quello che la natura ci insegna, la quale
                   deve essere da noi seguita, se desideriamo di far le opere nostre, che stiano bene
                   et siano lodevoli. </p>
-               <p xml:id="BAS_DA_L1_M6_P4">Quanto al <objectName ref="#BaptistereDomeDeMilan">Battistero</objectName>, io non veggio come l'opinione di quell'<persName ref="#PellegrinoTibaldi">architetto</persName>
-                  <pb n="44"/>, che lo vuol far quadro con così larghi spazi tra le colonne, possa
+          <p xml:id="BAS_DA_L1_M6_P4">Quanto al <objectName ref="#BaptistereDomeDeMilan">Battistero</objectName>, io non veggio come l'opinione di quell'<persName ref="#PellegrinoTibaldi">architetto</persName>
+                  <pb n="44" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f44/full/full/0/native.jpg"/>, che lo vuol far quadro con così larghi spazi tra le colonne, possa
                   stare a modo alcuno. Percioché ancor che gli architravi si facessero di pietra
                   forte et salda, et non avessero altro peso sopra, verrebbono nondimeno per la
                   molta lunghezza loro a spezzarsi. Però mi piace sommamente l'opinione di farlo di
@@ -1500,7 +1432,7 @@
                   quello, che è in <placeName ref="#Rome">Roma</placeName>, et si dimanda
                      <objectName ref="#EgliseSaintEtienneLeRondRome">San Stefano
                      rotondo</objectName>. </p>
-               <p xml:id="BAS_DA_L1_M6_P5">Quanto alle inventioni del
+          <p xml:id="BAS_DA_L1_M6_P5">Quanto alle inventioni del
                   Choro, et sotto Choro mi piace
                   infinitamente l'opinion vostra, si perché si confà con l'altra parte del
                      <objectName ref="#DomeDeMilan">Tempio</objectName> che è fornita, si perché
@@ -1512,7 +1444,7 @@
                   a livello et vi consiglio a non partirvi da tale opinione. Percioché altrimenti
                   facendosi ne nascerebbe grandissima incommodirà nel sedere et bruttissima vista,
                   come benissimo da voi è stato considerato.</p>
-               <p xml:id="BAS_DA_L1_M6_P6">Non laudo, che il Choro si
+          <p xml:id="BAS_DA_L1_M6_P6">Non laudo, che il Choro si
                   allunghi sino alle colonne della tribuna, ma mi
                   piacerebbe che le logge restassero libere et il Choro non
                   passasse il diritto dei muri d'esso <objectName ref="#DomeDeMilan">Tempio</objectName>: overo si facesse detto Choro,
@@ -1524,25 +1456,22 @@
                   Questo è quel tanto, che circa le vostre ingeniose, et belle inventioni per ora vi
                   posso dire. Et perché mi sono parute degne di esser viste da huomini intendenti:
                   le ho fatte vedere anco a Messer <persName ref="#GiuseppePorta">Giuseppe
-                     Salviati</persName>, pittore<pb n="45"/> et perspettivo eccellentissimo, et a
+                     Salviati</persName>, pittore<pb n="45" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f45/full/full/0/native.jpg"/> et perspettivo eccellentissimo, et a
                   messer <persName ref="#SilvioBelli">Silvio dei Belli</persName> vicentino
                   geometra, il più eccellente di queste nostre parti, i quali unanimi le hanno
                   sommamente commendate et sono restati affettionatissimi al vostro valore. Il che
                   ho voluto scrivervi per maggior vostra consolatione et molto mi offero et
                   raccomando. Di <placeName ref="#Venise">Venetia</placeName> il <date when="1570-07-03">III. Luglio del M. D. LXX.</date>
                </p>
-               <salute> vostro affettionatissimo </salute>
-               <signed>
-                  <persName ref="#AndreaPalladio">Andrea Palladio</persName>.</signed>
-            </div2>
-            <div2 xml:id="M7" type="lettre" n="7" xml:lang="ita">
-               <opener rend="capitals">
-                  <signed>DEL SIGNOR <persName ref="#JacopoBarozziDaVignola">IACOMO
+          <salute> vostro affettionatissimo </salute>
+          <signed><persName ref="#AndreaPalladio">Andrea Palladio</persName>.</signed>
+        </div2>
+        <div2 xml:id="M7" type="lettre" n="7" xml:lang="ita">
+          <opener rend="capitals">
+            <signed>DEL SIGNOR <persName ref="#JacopoBarozziDaVignola">IACOMO
                         BAROZZI<lb/>VIGNOLA</persName>.</signed>
-               </opener>
-               <p xml:id="BAS_DA_L1_M7_P1">
-                  <figure type="lettrine"/>
-                  <hi rend="capitals">MOLTO</hi> magnifico messer <persName ref="#MartinoBassi">Martino</persName> di casa dell'illustrissimo et reverendissimo <persName ref="#GiovanniGirolamoMorone">cardinal Morone</persName>, per le mani del
+          </opener>
+          <p xml:id="BAS_DA_L1_M7_P1"><figure type="lettrine"/><hi rend="capitals">MOLTO</hi> magnifico messer <persName ref="#MartinoBassi">Martino</persName> di casa dell'illustrissimo et reverendissimo <persName ref="#GiovanniGirolamoMorone">cardinal Morone</persName>, per le mani del
                   Signor <persName>Pier Luigi Fedeli</persName>, molto mio padrone, mi è stato
                   inviato un plico con ordine ch'io gli dessi risposta, nel quale ho trovato una
                   lettera di Vostra Signoria con altre scritture et disegni a fine ch'io le dica il
@@ -1550,14 +1479,14 @@
                   debito mio. Et prima sopra il sasso dell'<objectName ref="#TibaldiAnnonciationSantaMariaAnnunciataCamposanto">Annuntiatione</objectName> fatto in perspettiva, dico che il <persName ref="#VincenzoSeregni">primo architetto</persName> averebbe fatto meglio,
                   avendo messo il punto della veduta in mezo: se già non era necessitato per qualche
                   suo effetto, fare in contrario. </p>
-               <p xml:id="BAS_DA_L1_M7_P2">Del parere del <persName ref="#PellegrinoTibaldi">secondo
+          <p xml:id="BAS_DA_L1_M7_P2">Del parere del <persName ref="#PellegrinoTibaldi">secondo
                      architetto</persName>, che vuole fare due orizzonti, a me par tempo perduto a
                   parlarne, perché egli mostra non aver termine alcuno di perspettiva. E per dire
                   quel che mi pare di detta opera, mi piace più il parer di Vostra Signoria del <ptr target="#F5L1" type="renvoie">quarto disegno</ptr>; volendo osservare la vera
                   regola di perspettiva; cioè metter l'orizzonte al luogo suo, o almeno metterlo
                   tanto basso che non si veggia il piano, et non pigli tale licenza di far veder il
                   piano in tanta altezza, cosa falsissima, come che molti l'habbiano usata. Ma in
-                  pittura <pb n="46"/> si può meglio tolerare che in scultura: et la ragione è che
+                  pittura <pb n="46" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f46/full/full/0/native.jpg"/> si può meglio tolerare che in scultura: et la ragione è che
                   altri si può coprire con dire, fingere cotal pittura esser un quadro dipinto
                   attaccato al muro, come fece l'intendente <persName ref="#BaldassarrePeruzzi">Baldassarre Peruzzi</persName> senese nel <objectName ref="#EgliseSainteMariePaixRome">Tempio della Pace</objectName> in <placeName ref="#Rome">Roma</placeName>: il quale finse un telaio di legname esser
                   attaccato a gangheri di ferro alla muraglia. Talché chi non sa che sia dipinto nel
@@ -1565,7 +1494,7 @@
                   tale effetto. Ma a mio parere vorrei mettere l'orizzonte non tanto basso, come per
                   ragion vorrebbe stare, ma alquanto più alto a fine che l'opera non dechinasse
                   tanto, riportandomi alla sua discretione et buon giudicio. </p>
-               <p xml:id="BAS_DA_L1_M7_P3">Quanto al Tempietto, over <objectName ref="#BaptistereDomeDeMilan">Battistero</objectName> secondo il <ptr target="#F7L1" type="renvoie">disegno</ptr> mandato da Vostra Signoria il qual
+          <p xml:id="BAS_DA_L1_M7_P3">Quanto al Tempietto, over <objectName ref="#BaptistereDomeDeMilan">Battistero</objectName> secondo il <ptr target="#F7L1" type="renvoie">disegno</ptr> mandato da Vostra Signoria il qual
                   vorrebbe fare quell'<persName ref="#PellegrinoTibaldi"> architetto</persName> con
                   quattro colonne sopra piedistalli et in tal larghezza dei vani, io lo reputo per
                   mio parere debolissimo et non mi piacciono quelli suoi pezzi di pietre messe nel
@@ -1577,34 +1506,30 @@
                   debite distributioni, come comporta la buona et ben'intesa architettura, o
                   voglinsi far quadre o tonde o a faccie come più viene a proposito, rapportandomi
                   sempre al parer dei più periti. </p>
-               <p xml:id="BAS_DA_L1_M7_P4">Circa il <objectName ref="#ScuroloSanCarloMilan">Tempio
+          <p xml:id="BAS_DA_L1_M7_P4">Circa il <objectName ref="#ScuroloSanCarloMilan">Tempio
                      Sotterraneo</objectName> et Choro et <objectName ref="#AutelDomeDeMilan">Altare maggiore</objectName>, per esser cose, che mi
                   bisognerebbe esser in sul luogo, non posso darne il mio intero parere, et perché
                   Vostra Signoria per quanto comprendo per li suoi disegni, et scritti, mi par ne
                   sia capacissima et conosco che va di buona mossa, mi riporterei sempre al suo
                   buono giudicio. </p>
-               <p xml:id="BAS_DA_L1_M7_P5">Questo ben dico che il fare li pavimenti a pendio mi pare
+          <p xml:id="BAS_DA_L1_M7_P5">Questo ben dico che il fare li pavimenti a pendio mi pare
                   una cosa monstruosa et fuor di ogni ragione, il che è quanto le so dire. </p>
-               <p xml:id="BAS_DA_L1_M7_P6">Restami a ringraziarla della buona opinione, che tiene di
-                  me, <pb n="47"/> forse di gran lunga maggior che non sono li meriti miei, et anco
+          <p xml:id="BAS_DA_L1_M7_P6">Restami a ringraziarla della buona opinione, che tiene di
+                  me, <pb n="47" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f47/full/full/0/native.jpg"/> forse di gran lunga maggior che non sono li meriti miei, et anco
                   dell'amorevole confidenza di che per l'una et per l'altra gliene resto obligato.
                   Et con questo, per quel poco ch'io vaglia, me le offero et raccomando. Da
                      <placeName ref="#Caprarola">Capriola</placeName> alli <date when="08-28">
                      XXVIII. di Agosto</date>. </p>
-               <signed>Di Vostra Signoria <persName ref="#JacopoBarozziDaVignola">Iacomo
+          <signed>Di Vostra Signoria <persName ref="#JacopoBarozziDaVignola">Iacomo
                      Barrozzi</persName> detto il Vignola. </signed>
-            </div2>
-            <div2 xml:id="M8" type="lettre" n="8">
-               <div3 xml:id="M8S1" type="lettre" n="1" xml:lang="ita">
-                  <opener rend="capitals">
-                     <signed>DEL SIGNOR <persName ref="#GiorgioVasari">GEORGIO
+        </div2>
+        <div2 xml:id="M8" type="lettre" n="8">
+          <div3 xml:id="M8S1" type="lettre" n="1" xml:lang="ita">
+            <opener rend="capitals">
+              <signed>DEL SIGNOR <persName ref="#GiorgioVasari">GEORGIO
                         VASSARI</persName>.</signed>
-                  </opener>
-                  <p xml:id="BAS_DA_L1_M8_M8S1_P1">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">
-                        <reg>HO</reg>
-                     </hi> veduto quanto si chiede per li vostri di disegni et scritti, et in somma
+            </opener>
+            <p xml:id="BAS_DA_L1_M8_M8S1_P1"><figure type="lettrine"/><hi rend="capitals"><reg>HO</reg></hi> veduto quanto si chiede per li vostri di disegni et scritti, et in somma
                      le dico che tutte le cose dell'arte nostra che di loro natura hanno disgrazia
                      all'occhio, per lo quale si fanno tutte le cose per compiacerlo, ancora che
                      s'habbia la misura in mano et sia approvata dai più periti et fatta con regola
@@ -1619,17 +1544,14 @@
                      secondo la misura et la grazia non mi dispiaceva dell'<objectName ref="#TibaldiAnnonciationSantaMariaAnnunciataCamposanto">Annuntiata</objectName> il <ptr target="#F2L1" type="renvoie">primo
                         disegno</ptr> fatto con un'orizzonte solo, ove non si esce di regola. Il
                         <ptr target="#F3L1" type="renvoie">secondo</ptr> fatto con due orizzonti,
-                     non s'è approvato giamai et la veduta no'l comporta. Il <ptr target="#F4L1" type="renvoie">terzo</ptr> sta meglio perché racconcia il secondo per <pb n="48"/> orizonte solo, ma non l'arrichisce di maniera che passi di molto il
+                     non s'è approvato giamai et la veduta no'l comporta. Il <ptr target="#F4L1" type="renvoie">terzo</ptr> sta meglio perché racconcia il secondo per <pb n="48" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f48/full/full/0/native.jpg"/> orizonte solo, ma non l'arrichisce di maniera che passi di molto il
                      primo. Il <ptr target="#F5L1" type="renvoie">quarto</ptr>, non mi dispiace per
                      la sua varietà, ma avendosi a far di nuovo quella veduta si bassa, rovina tanto
                      che a coloro che non sono dell'arte darà fastidio alla vista, che se bene può
                      stare gli toglie di grazia assai. Crederei che chi volesse durar fatica a
                      trovar qualche bel casamento, come fece Messer <persName ref="#AndreaSansovino">Andrea Sansovino</persName>
-                     <choice>
-                        <sic>all'Oreto</sic>
-                        <corr>a <placeName ref="#Loreto">Loreto</placeName>
-                        </corr>
-                     </choice> nella facciata dinanzi della <objectName>capella della
+                     <choice><sic>all'Oreto</sic><corr>a <placeName ref="#Loreto">Loreto</placeName>
+                        </corr></choice> nella facciata dinanzi della <objectName>capella della
                         Madonna</objectName>, in quella sua <objectName ref="#TibaldiAnnonciationSantaMariaAnnunciataCamposanto">Nunciata</objectName>, dov'è un casamento di colonne in piedistalli
                      gittando Archi fa un isfuggimento di traffori molto bello, ricco et vario.
                      Oltre che quell'<persName ref="#AngeGabriel"> Angelo</persName> che è
@@ -1646,7 +1568,7 @@
                      racconciare il <ptr target="#F3L1" type="renvoie">secondo</ptr> col <ptr target="#F4L1" type="renvoie">terzo</ptr> vostro, et il capriccio del <ptr target="#F5L1" type="renvoie">quarto</ptr> non mi dispiace, pur che si fugga
                      il travagliar l'occhio, il qual offeso che è, fa che il cuore, non da aiuto
                      alla lingua, che ragioni di modo, che si resti contento. </p>
-                  <p xml:id="BAS_DA_L1_M8_M8S1_P2">Della pianta del <objectName ref="#ScuroloSanCarloMilan">Tempietto</objectName>, et d'altro che voi dite,
+            <p xml:id="BAS_DA_L1_M8_M8S1_P2">Della pianta del <objectName ref="#ScuroloSanCarloMilan">Tempietto</objectName>, et d'altro che voi dite,
                      non è dubbio, che è meglio l'ordine et <ptr target="#F8L1" type="renvoie">disegni vostri</ptr>. Et credo ch'altri di valore v'habbino detto sopra a
                      bastanza: perciò mi rimetto al giudicio d'essi et di coloro, i quali tutti
                      credo che ne sappiano assai più di me. Restami a dirvi che l'occupationi per
@@ -1656,15 +1578,13 @@
                         <date when="1570-09-30">l'ultimo di Settembre</date>, per istare questa
                      vernata con sua <persName ref="#PieV">Santità</persName> in <placeName ref="#Rome">Roma</placeName>. Et con questo faccio fine dicendovi, che qua,
                      et la sarò sempre vostro. Hor udite questo nostro valente Accademico. </p>
-               </div3>
-               <div3 xml:id="M8S2" type="lettre" n="2" xml:lang="ita">
-                  <pb n="49"/>
-                  <opener>
-                     <salute>MAGNIFICO MESSER <persName ref="#GiorgioVasari">GEORGIO</persName>.</salute>
-                  </opener>
-                  <p xml:id="BAS_DA_L1_M8_M8S2_P1">
-                     <figure type="lettrine"/>
-                     <hi rend="capitals">POICHÉ</hi> a
+          </div3>
+          <div3 xml:id="M8S2" type="lettre" n="2" xml:lang="ita">
+            <pb n="49" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f49/full/full/0/native.jpg"/>
+            <opener>
+              <salute>MAGNIFICO MESSER <persName ref="#GiorgioVasari">GEORGIO</persName>.</salute>
+            </opener>
+            <p xml:id="BAS_DA_L1_M8_M8S2_P1"><figure type="lettrine"/><hi rend="capitals">POICHÉ</hi> a
                      bocca dissi a Vostra Signoria a bastanza nel ragionamento che avessimo, per
                      conto dei disegni che da <placeName ref="#Milan">Milano</placeName> vi furono
                      mandati di perspettiva et d'architettura, non occorre dirle altro, salvo che
@@ -1677,16 +1597,14 @@
                      ci dà le regole come ci viene scritto da <placeName ref="#Milan">
                         Milano</placeName>. Però se si potesse trovar forma di tener su gli
                      architravi così distanti et che non rovinassero, non mi spiacerebbe. </p>
-               </div3>
-            </div2>
-            <div2 xml:id="M9" type="lettre" n="9" xml:lang="ita">
-               <opener>
-                  <signed>DEL SIGNOR <persName ref="#GiovanBattistaBertani">GIOVAN BATTISTA
+          </div3>
+        </div2>
+        <div2 xml:id="M9" type="lettre" n="9" xml:lang="ita">
+          <opener>
+            <signed>DEL SIGNOR <persName ref="#GiovanBattistaBertani">GIOVAN BATTISTA
                         BERTANI</persName>.</signed>
-               </opener>
-               <p xml:id="BAS_DA_L1_M9_P1">
-                  <figure type="lettrine"/>
-                  <hi rend="capitals">HO</hi> ricevuto una lettera di Vostra Signoria delli <date when="1570-12-06">VI. Decembre del LXX.</date> per la quale ho mandato i suoi
+          </opener>
+          <p xml:id="BAS_DA_L1_M9_P1"><figure type="lettrine"/><hi rend="capitals">HO</hi> ricevuto una lettera di Vostra Signoria delli <date when="1570-12-06">VI. Decembre del LXX.</date> per la quale ho mandato i suoi
                   disegni, com'ella m'impose a messer <persName>Pompeo</persName>. Et mi doglio
                   molto a non avere più per tempo potuto dare sodisfattione a Vostra Signoria et ciò
                   è causato per la lunga et disperata infirmità mia. Per la quale al presente mi
@@ -1694,7 +1612,7 @@
                   incommodo. Pur mi sforzerò con brevità dirvi una particella del mio parere, poiché
                   volendo dar risposta a tutti li capi sopra i quali sono ricerco, non me lo
                   concedono le intolerabili doglie c'hor sento: basta ch'io vi risolvo laudando et
-                  approvando per buoni tutti i vostri pareri, et ben'intesi avertimenti, <pb n="50"/> eccettuando però li pareri del piano di marmo, ove è scolpita l'immagine
+                  approvando per buoni tutti i vostri pareri, et ben'intesi avertimenti, <pb n="50" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f50/full/full/0/native.jpg"/> eccettuando però li pareri del piano di marmo, ove è scolpita l'immagine
                      dell'<objectName ref="#TibaldiAnnonciationSantaMariaAnnunciataCamposanto">Annuntiatione</objectName>, messa in perspettiva in vari modi. Non nego che le
                   vostre regole di perspettiva non siano ottimie et meglio intese de quelle delli
                   due primi architetti, i quali hanno diversamente operato nel sudetto marmo. Ma ben
@@ -1719,14 +1637,7 @@
                   sopra i fondi delle historie. Tengo io la verità esser il rilevo naturale et la
                   perspettiva esser la bugia et finzione, come so che Vostra Signoria sa meglio di
                   me. Ben è vero che <persName ref="#Donatello">Donatello</persName>; et
-                     <persName>Ceccotto</persName> nipote del vecchio <persName>
-                     <choice>
-                        <sic>Bonzino</sic>
-                        <corr>
-                           <persName ref="#AgnoloBronzino">Bronzino</persName>
-                        </corr>
-                     </choice>
-                  </persName>, ambidue usarono di fare li piani in perspettiva, facendovi sopra le
+                     <persName>Ceccotto</persName> nipote del vecchio <persName><choice><sic>Bonzino</sic><corr><persName ref="#AgnoloBronzino">Bronzino</persName></corr></choice></persName>, ambidue usarono di fare li piani in perspettiva, facendovi sopra le
                   figure di non più rilevo d'un mezo dito in grossezza et di altezza le dette figure
                   d'un braccio, come si vede in un quadro di sua mano in casa dei <persName ref="#Frangipane">Frangipani</persName>, pur a <placeName ref="#Quirinal">Monte
                      Cavallo</placeName>, scolpite con tanta arte, magistero et scienza di
@@ -1739,20 +1650,12 @@
                   raccomando. Di <placeName ref="#Mantoue">Mantoa</placeName>
                   <date when="1570-12-13">il XIII. Decembrio. M. D. LXX.</date>
                </p>
-            </div2>
-            <div2 xml:id="M10" type="lettre" n="10" xml:lang="ita">
-               <pb n="51"/>
-               <opener>
-                  <salute>AL MAGNIFICO SIGNOR <persName ref="#AlfonsoN">ALFONSO N.</persName>
-                  </salute>
-                  <signed>
-                     <persName ref="#MartinoBassi">
-                        <reg>MARTINO BASSI</reg>
-                     </persName>
-                  </signed>.</opener>
-               <p xml:id="BAS_DA_L1_M10_P1">
-                  <figure type="lettrine"/>
-                  <hi rend="capitals">IO</hi> m'allegrai infinitamente quando <persName ref="#LattanzioGambara">messer Lattantio</persName> suo mi mostrò l'instrutione
+        </div2>
+        <div2 xml:id="M10" type="lettre" n="10" xml:lang="ita">
+          <pb n="51" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f51/full/full/0/native.jpg"/>
+          <opener><salute>AL MAGNIFICO SIGNOR <persName ref="#AlfonsoN">ALFONSO N.</persName>
+                  </salute><signed><persName ref="#MartinoBassi"><reg>MARTINO BASSI</reg></persName></signed>.</opener>
+          <p xml:id="BAS_DA_L1_M10_P1"><figure type="lettrine"/><hi rend="capitals">IO</hi> m'allegrai infinitamente quando <persName ref="#LattanzioGambara">messer Lattantio</persName> suo mi mostrò l'instrutione
                   delle cose ch'egli aveva a fare a <placeName ref="#Milan"> Milano</placeName>, per
                   conto di Vostra Signoria. Onde mi tenni bene aventurato quando vidi che un par di
                   Vostra Signoria tanto intelligente si fida del mio debole giudicio: nondimeno non
@@ -1774,7 +1677,7 @@
                   aerose et messe in luogo commodo, di poter essere da ogn'uno facilmente ritrovate,
                   et di più senza che apportano alcuna sorte d'impedimento al resto dell'edificio.
                   Mi piace ancora che siano (come ella dice) libere nel mezo, per maggior contento
-                  et leggiadria di quelli che stando <pb n="52"/> al sommo della scala vedranno
+                  et leggiadria di quelli che stando <pb n="52" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f52/full/full/0/native.jpg"/> al sommo della scala vedranno
                   tutti coloro che saliranno, o ver che incomincieranno a salire, et similmente
                   saranno da quelli veduti. Alla sala, che Vostra Signoria dice esser di longhezza
                   ottanta palmi et quarantaotto larga, ancora che sia di maggior grandezza delle
@@ -1806,7 +1709,7 @@
                   d'intendere: parendomi, per quanto mi detta il mio poco giudicio avere con quella
                   maggior modestia, ch'io seppi, scoperto a bastanza, al Capitolo, et a <persName ref="#PellegrinoTibaldi"> Messer Pellegrino Tibaldi</persName>, che per le
                   sproporzioni et altri evidenti difetti che causava la pianta dello <objectName ref="#ScuroloSanCarloMilan">Scurolo</objectName>, posto in opera da lui,
-                  s'apparecchiavano <pb n="53"/> mille inconvenienti. Dalla quale, avemo ancora da
+                  s'apparecchiavano <pb n="53" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f53/full/full/0/native.jpg"/> mille inconvenienti. Dalla quale, avemo ancora da
                   pensare, et credere, che ne siano nate queste loro contese, et differenze.
                   Percioché per quanta diligenza, et arte si possa usare, non crederò che si possano
                   mai questi inconvenienti nascondere, avendoli seco portato la sudetta pianta. Ma
@@ -1830,293 +1733,249 @@
                   bascio la mano. Di <placeName ref="#Milan">Milano</placeName> il di <date when="1570-09-20">XX. Settembre. M. D. LXX.</date>
                   <hi rend="capitals">IL FINE.</hi>
                </p>
-            </div2>
-            <pb n="54"/>
-            <figure xml:id="F1L1"
-                    source="https://architectura.cesr.univ-tours.fr/Traite/Images/LES0056Index.asp"
-                    type="ornement"/>
-            <pb n="55" type="blankpage"/>
-            <pb n="56" type="blankpage"/>
-            <pb n="57" type="blankpage"/>
-            <pb n="58"/>
-            <figure xml:id="F2L1"
-                    source="https://architectura.cesr.univ-tours.fr/Traite/Images/LES0056Index.asp"
-                    type="dessin"
-                    n="1">
-               <p> l'architetto di fare per vageza dell'opera <hi rend="capitals">PROFILO</hi>
+        </div2>
+        <pb n="54" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f54/full/full/0/native.jpg"/>
+        <figure xml:id="F1L1" source="https://architectura.cesr.univ-tours.fr/Traite/Images/LES0056Index.asp" type="ornement"/>
+        <pb n="55" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f55/full/full/0/native.jpg"/>
+        <pb n="56" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f56/full/full/0/native.jpg"/>
+        <pb n="57" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f57/full/full/0/native.jpg"/>
+        <pb n="58" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f58/full/full/0/native.jpg"/>
+        <figure xml:id="F2L1" source="https://architectura.cesr.univ-tours.fr/Traite/Images/LES0056Index.asp" type="dessin" n="1">
+          <p> l'architetto di fare per vageza dell'opera <hi rend="capitals">PROFILO</hi>
                </p>
-               <p>Nel profilo. <list rend="numbered">
-                     <item>H.I. fondo del marmo. </item>
-                     <item>I.P. grosezza del marmo. </item>
-                     <item>I.K. piano digradato. </item>
-                     <item>L.M. luogo delle figure sopra al digradato. </item>
-                  </list>
+          <p>Nel profilo. <list rend="numbered"><item>H.I. fondo del marmo. </item><item>I.P. grosezza del marmo. </item><item>I.K. piano digradato. </item><item>L.M. luogo delle figure sopra al digradato. </item></list>
                </p>
-               <p>il rimanente per sé è chiaro, oltre a quello s'intendeva.</p>
-               <p>Primo disegno è del <persName ref="#VincenzoSeregni">primo architetto</persName>.
-                     <list rend="numbered">
-                     <item>A. orizonte con el quale è <choice>
-                           <sic>digrato</sic>
-                           <corr>digradato</corr>
-                        </choice> il piano. </item>
-                     <item>B. linea della distanza de' braza 16. </item>
-                     <item>D.C. linea piana del marmo. </item>
-                     <item>G.H. linea parallela alla piana che termina il piano digradato. </item>
-                     <item>N. panchetta, O. cortinaggio </item>
-                  </list>
+          <p>il rimanente per sé è chiaro, oltre a quello s'intendeva.</p>
+          <p>Primo disegno è del <persName ref="#VincenzoSeregni">primo architetto</persName>.
+                     <list rend="numbered"><item>A. orizonte con el quale è <choice><sic>digrato</sic><corr>digradato</corr></choice> il piano. </item><item>B. linea della distanza de' braza 16. </item><item>D.C. linea piana del marmo. </item><item>G.H. linea parallela alla piana che termina il piano digradato. </item><item>N. panchetta, O. cortinaggio </item></list>
                </p>
-            </figure>
-            <pb n="59"/>
-            <figure xml:id="F3L1" type="dessin" n="2">
-               <p> Nel profilo. <list rend="numbered">
-                     <item>K.I. primo piano. </item>
-                     <item>I.P. secondo piano over smuso l'angolo. </item>
-                     <item>P.K. la linea che dismostra l'angolo nel congiongimento dell'opera. </item>
-                     <item>I.H. el fondo lassiato tanto come piglia l'angelo. </item>
-                     <item>P.P. linea del fondo caciato a dentro tutto l'accrescimento serve al
-                        secondo orizonte et il restante al primo, <reg>cosa</reg> fantastica.</item>
-                  </list>
+        </figure>
+        <pb n="59" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f59/full/full/0/native.jpg"/>
+        <figure xml:id="F3L1" type="dessin" n="2">
+          <p> Nel profilo. <list rend="numbered"><item>K.I. primo piano. </item><item>I.P. secondo piano over smuso l'angolo. </item><item>P.K. la linea che dismostra l'angolo nel congiongimento dell'opera. </item><item>I.H. el fondo lassiato tanto come piglia l'angelo. </item><item>P.P. linea del fondo caciato a dentro tutto l'accrescimento serve al
+                        secondo orizonte et il restante al primo, <reg>cosa</reg> fantastica.</item></list>
                </p>
-               <p>Secondo disegno fatto nel modo si arritrova l'opera al presente acconzo per messer
-                     <persName ref="#PellegrinoTibaldi">Pelegrino</persName>. <list rend="numbered">
-                     <item>B. secondo orizonte. </item>
-                     <item>
-                        <reg>G.</reg> linea della seconda distanza di braccia 4.</item>
-                     <item>D.E.F.G. piano, o sia smuso secondo. </item>
-                  </list>
+          <p>Secondo disegno fatto nel modo si arritrova l'opera al presente acconzo per messer
+                     <persName ref="#PellegrinoTibaldi">Pelegrino</persName>. <list rend="numbered"><item>B. secondo orizonte. </item><item><reg>G.</reg> linea della seconda distanza di braccia 4.</item><item>D.E.F.G. piano, o sia smuso secondo. </item></list>
                </p>
-               <p>
-                  <list rend="numbered">
-                     <item>R. camino. </item>
-                     <item>S. uscio nel parete V.</item>
-                  </list>
-               </p>
-            </figure>
-            <pb n="60" type="blankpage"/>
-            <pb n="61" type="blankpage"/>
-            <pb n="62"/>
-            <figure xml:id="F4L1" type="dessin" n="3">
-               <p>Terzo disegno nel modo della prima corretione che io proposto.</p>
-               <p>
-                  <hi rend="capitals">PROFILO</hi>.</p>
-               <p>
-                  <list rend="numbered">
-                     <item>A.C. linea dal primo orizonte al mezo del'opera. </item>
-                     <item>B.C. perpendicolare dal secondo et al mezo del'opera. </item>
-                     <item>D. linea della distanza. </item>
-                     <item>E.F.G.H. el pavimento che dismostra de disgradato braccia 16. </item>
-                     <item>I. pancheta. </item>
-                     <item>K. cortinaggio le linee appontate disegnano tutto quello
+          <p>
+            <list rend="numbered">
+              <item>R. camino. </item>
+              <item>S. uscio nel parete V.</item>
+            </list>
+          </p>
+        </figure>
+        <pb n="60" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f60/full/full/0/native.jpg"/>
+        <pb n="61" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f61/full/full/0/native.jpg"/>
+        <pb n="62" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f62/full/full/0/native.jpg"/>
+        <figure xml:id="F4L1" type="dessin" n="3">
+          <p>Terzo disegno nel modo della prima corretione che io proposto.</p>
+          <p><hi rend="capitals">PROFILO</hi>.</p>
+          <p>
+            <list rend="numbered">
+              <item>A.C. linea dal primo orizonte al mezo del'opera. </item>
+              <item>B.C. perpendicolare dal secondo et al mezo del'opera. </item>
+              <item>D. linea della distanza. </item>
+              <item>E.F.G.H. el pavimento che dismostra de disgradato braccia 16. </item>
+              <item>I. pancheta. </item>
+              <item>K. cortinaggio le linee appontate disegnano tutto quello
                         <reg>che</reg>anderebbe levato per acconciare il marmo.</item>
-                  </list>
+            </list>
+          </p>
+          <p>Nel profilo. <list rend="numbered"><item>Q.M. primo piano. </item><item>M.N. piano alongato. </item><item>N.O. fondo del marmo. </item><item>Q.P. luogo delle figure.</item></list>
                </p>
-               <p>Nel profilo. <list rend="numbered">
-                     <item>Q.M. primo piano. </item>
-                     <item>M.N. piano alongato. </item>
-                     <item>N.O. fondo del marmo. </item>
-                     <item>Q.P. luogo delle figure.</item>
-                  </list>
-               </p>
-            </figure>
-            <pb n="63"/>
-            <figure xml:id="F5L1" type="dessin" n="4">
-               <p> Quarto et ultimo disegno di perspetiva nel secondo modo per me proposto per
+        </figure>
+        <pb n="63" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f63/full/full/0/native.jpg"/>
+        <figure xml:id="F5L1" type="dessin" n="4">
+          <p> Quarto et ultimo disegno di perspetiva nel secondo modo per me proposto per
                   coregere il detto marmo</p>
-               <p>
-                  <list rend="numbered">
-                     <item>A.B. linea <choice>
-                           <sic>piena</sic>
-                           <corr>piana</corr>
-                        </choice> del marmo. </item>
-                     <item>A.C.B.D. linee <reg>orizontali</reg>. </item>
-                     <item>B.C. linea della distancia. </item>
-                     <item>F. Pancheta rastremata. </item>
-                     <item>G. cortinagio. </item>
-                  </list>
-               </p>
-               <p>Le linee oculte disegnano il piano digradato al ingiù</p>
-               <p> Il rimanente è per sé chiaro</p>
-            </figure>
-            <pb n="64" type="blankpage"/>
-            <pb n="65"/>
-            <figure xml:id="F6L1" type="dessin" n="5">
-               <p>Quinta figura.</p>
-               <p>Pianta del <objectName ref="#BaptistereDomeDeMilan">batisterio</objectName> in
+          <p>
+            <list rend="numbered">
+              <item>A.B. linea <choice><sic>piena</sic><corr>piana</corr></choice> del marmo. </item>
+              <item>A.C.B.D. linee <reg>orizontali</reg>. </item>
+              <item>B.C. linea della distancia. </item>
+              <item>F. Pancheta rastremata. </item>
+              <item>G. cortinagio. </item>
+            </list>
+          </p>
+          <p>Le linee oculte disegnano il piano digradato al ingiù</p>
+          <p> Il rimanente è per sé chiaro</p>
+        </figure>
+        <pb n="64" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f64/full/full/0/native.jpg"/>
+        <pb n="65" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f65/full/full/0/native.jpg"/>
+        <figure xml:id="F6L1" type="dessin" n="5">
+          <p>Quinta figura.</p>
+          <p>Pianta del <objectName ref="#BaptistereDomeDeMilan">batisterio</objectName> in
                   otto facce.</p>
-            </figure>
-            <pb n="66" type="blankpage"/>
-            <pb n="67" type="blankpage"/>
-            <pb n="68"/>
-            <figure xml:id="F7L1" type="dessin" n="6">
-               <p>Sesto dissegno del <objectName ref="#BaptistereDomeDeMilan">Batisterio</objectName> simile a quello mostro capitolo messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName> con gli mantenamenti da lui
+        </figure>
+        <pb n="66" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f66/full/full/0/native.jpg"/>
+        <pb n="67" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f67/full/full/0/native.jpg"/>
+        <pb n="68" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f68/full/full/0/native.jpg"/>
+        <figure xml:id="F7L1" type="dessin" n="6">
+          <p>Sesto dissegno del <objectName ref="#BaptistereDomeDeMilan">Batisterio</objectName> simile a quello mostro capitolo messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName> con gli mantenamenti da lui
                   novellamente ritovati et dopo messi in opera.</p>
-               <p>
-                  <list rend="numbered">
-                     <item>A. Pianta. </item>
-                     <item>B. Intercollunio sproportionato.</item>
-                     <item>D. Pezzi di pietra ne friggi. </item>
-                     <item>E. Stagne di ferro alle colonne. </item>
-                     <item>F. Chiava di ferro da colla a colona. </item>
-                     <item>G. Frontespitio a tutte le faccie. </item>
-                     <item>H. Piramide. </item>
-                  </list>
-               </p>
-               <p>Il rimanente è per sé chiaro. </p>
-            </figure>
-            <pb n="69"/>
-            <figure xml:id="F8L1" type="dessin" n="7">
-               <p>Mezza pianta del Choro superiore. B.</p>
-               <p>
-                  <list rend="numbered">
-                     <item>A. Gradi. </item>
-                     <item>B. Piani rotti dai gradi. </item>
-                     <item>C. Spaci per li sederi.</item>
-                  </list>
-               </p>
-               <p>Mezza pianta del <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName>
+          <p>
+            <list rend="numbered">
+              <item>A. Pianta. </item>
+              <item>B. Intercollunio sproportionato.</item>
+              <item>D. Pezzi di pietra ne friggi. </item>
+              <item>E. Stagne di ferro alle colonne. </item>
+              <item>F. Chiava di ferro da colla a colona. </item>
+              <item>G. Frontespitio a tutte le faccie. </item>
+              <item>H. Piramide. </item>
+            </list>
+          </p>
+          <p>Il rimanente è per sé chiaro. </p>
+        </figure>
+        <pb n="69" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f69/full/full/0/native.jpg"/>
+        <figure xml:id="F8L1" type="dessin" n="7">
+          <p>Mezza pianta del Choro superiore. B.</p>
+          <p>
+            <list rend="numbered">
+              <item>A. Gradi. </item>
+              <item>B. Piani rotti dai gradi. </item>
+              <item>C. Spaci per li sederi.</item>
+            </list>
+          </p>
+          <p>Mezza pianta del <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName>
                   simile all'opera de messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName>.</p>
-               <p>
-                  <list rend="numbered">
-                     <item>A. Colonne di mezzo. </item>
-                     <item>B. Pilastri in circonferenza. </item>
-                     <item>G. Intercolunni di mezzo ineguali con quelli di circonferenza.</item>
-                  </list>
-               </p>
-               <p>
-                  <list rend="numbered">
-                     <item>H. Altare. </item>
-                     <item>I. Spacio delle Sale. </item>
-                     <item>K. Colonne del <objectName ref="#DomeDeMilan">Tempio</objectName>.</item>
-                     <item>L.M. Linee che rispondono dalle colonne alla circonferenza senza alcuno
+          <p>
+            <list rend="numbered">
+              <item>A. Colonne di mezzo. </item>
+              <item>B. Pilastri in circonferenza. </item>
+              <item>G. Intercolunni di mezzo ineguali con quelli di circonferenza.</item>
+            </list>
+          </p>
+          <p>
+            <list rend="numbered">
+              <item>H. Altare. </item>
+              <item>I. Spacio delle Sale. </item>
+              <item>K. Colonne del <objectName ref="#DomeDeMilan">Tempio</objectName>.</item>
+              <item>L.M. Linee che rispondono dalle colonne alla circonferenza senza alcuno
                         incontro dei pilastri.</item>
-                  </list>
-               </p>
-               <p>
-                  <list rend="numbered">
-                     <item>N. Loggie sproportionate</item>
-                  </list>.</p>
-            </figure>
-            <pb n="70" type="blankpage"/>
-            <pb n="71" type="blankpage"/>
-            <pb n="72"/>
-            <figure xml:id="F9L1" type="dessin" n="8">
-               <p>Profillo del <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName> et dei
+            </list>
+          </p>
+          <p><list rend="numbered"><item>N. Loggie sproportionate</item></list>.</p>
+        </figure>
+        <pb n="70" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f70/full/full/0/native.jpg"/>
+        <pb n="71" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f71/full/full/0/native.jpg"/>
+        <pb n="72" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f72/full/full/0/native.jpg"/>
+        <figure xml:id="F9L1" type="dessin" n="8">
+          <p>Profillo del <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName> et dei
                   piani interotti et pendii nel choro di sopra guidato da messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName>.</p>
-               <p>
-                  <list rend="numbered">
-                     <item>A. Colonne nel mezzo. </item>
-                     <item>C. Loggie sproportionate tra il parete et le colonne. </item>
-                     <item>D. Intercolunni di mezzo inequali con quelli di circonferenza. </item>
-                     <item>H. Altare. I. Spacio per le scale.</item>
-                  </list>
-               </p>
-               <p>
-                  <list rend="numbered">
-                     <item>K. Colonne del <objectName ref="#DomeDeMilan">Tempio</objectName>. </item>
-                     <item>M.O. Piano del <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName>. </item>
-                     <item>P.Q. Piano del <objectName ref="#DomeDeMilan">Tempio</objectName>.</item>
-                     <item>R. Gradi che rompono lo piano. </item>
-                     <item>S. Piani pendenti come quelli delle Scene.</item>
-                  </list>
-               </p>
-               <p>
-                  <list rend="numbered">
-                     <item>T. Spalle del choro con li sederi pendenti. Il rimanente si può con il
+          <p>
+            <list rend="numbered">
+              <item>A. Colonne nel mezzo. </item>
+              <item>C. Loggie sproportionate tra il parete et le colonne. </item>
+              <item>D. Intercolunni di mezzo inequali con quelli di circonferenza. </item>
+              <item>H. Altare. I. Spacio per le scale.</item>
+            </list>
+          </p>
+          <p>
+            <list rend="numbered">
+              <item>K. Colonne del <objectName ref="#DomeDeMilan">Tempio</objectName>. </item>
+              <item>M.O. Piano del <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName>. </item>
+              <item>P.Q. Piano del <objectName ref="#DomeDeMilan">Tempio</objectName>.</item>
+              <item>R. Gradi che rompono lo piano. </item>
+              <item>S. Piani pendenti come quelli delle Scene.</item>
+            </list>
+          </p>
+          <p>
+            <list rend="numbered">
+              <item>T. Spalle del choro con li sederi pendenti. Il rimanente si può con il
                         compasso in mano ritrovare.</item>
-                  </list>
-               </p>
-            </figure>
-            <pb n="73"/>
-            <figure xml:id="F10L1" type="dessin" n="9">
-               <p>Pianta della Cella del <objectName ref="#DomeDeMilan">maggior tempio</objectName>
+            </list>
+          </p>
+        </figure>
+        <pb n="73" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f73/full/full/0/native.jpg"/>
+        <figure xml:id="F10L1" type="dessin" n="9">
+          <p>Pianta della Cella del <objectName ref="#DomeDeMilan">maggior tempio</objectName>
                   drento della quale vi si vede la pianta del <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName> al tutto con essa
                   corrispondente.</p>
-               <p>Spacio che per ragione non andarebbe ocupato</p>
-               <p>
-                  <list rend="numbered">
-                     <item>A. colonne drento alli pareti del <objectName ref="#DomeDeMilan">tempio</objectName>. </item>
-                     <item>B. colonne interiori d'esso <objectName ref="#DomeDeMilan">tempio</objectName>.</item>
-                     <item>C. triangoli che passano per i centri delle colone. </item>
-                     <item>D. triangoli nel <objectName ref="#ScuroloSanCarloMilan">tempietto</objectName>
+          <p>Spacio che per ragione non andarebbe ocupato</p>
+          <p>
+            <list rend="numbered">
+              <item>A. colonne drento alli pareti del <objectName ref="#DomeDeMilan">tempio</objectName>. </item>
+              <item>B. colonne interiori d'esso <objectName ref="#DomeDeMilan">tempio</objectName>.</item>
+              <item>C. triangoli che passano per i centri delle colone. </item>
+              <item>D. triangoli nel <objectName ref="#ScuroloSanCarloMilan">tempietto</objectName>
                      </item>
-                  </list>
+            </list>
+          </p>
+          <p>
+            <list rend="numbered">
+              <item>E. <reg>colonne</reg> d'esso <objectName ref="#DomeDeMilan">tempio</objectName>. </item>
+              <item>F. pilastri in circonferenza.</item>
+              <item>G. spaci di mezzo e di circonferenza tra loro eguali. </item>
+              <item>I. spacio per le scale della tribuna. </item>
+              <item>K. colonne.</item>
+            </list>
+          </p>
+        </figure>
+        <pb n="74" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f74/full/full/0/native.jpg"/>
+        <pb n="75" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f75/full/full/0/native.jpg"/>
+        <pb n="76" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f76/full/full/0/native.jpg"/>
+        <figure xml:id="F11L1" type="dessin" n="10">
+          <p>piano dil <objectName ref="#DomeDeMilan">maggior tempio</objectName>
                </p>
-               <p>
-                  <list rend="numbered">
-                     <item>E. <reg>colonne</reg> d'esso <objectName ref="#DomeDeMilan">tempio</objectName>. </item>
-                     <item>F. pilastri in circonferenza.</item>
-                     <item>G. spaci di mezzo e di circonferenza tra loro eguali. </item>
-                     <item>I. spacio per le scale della tribuna. </item>
-                     <item>K. colonne.</item>
-                  </list>
-               </p>
-            </figure>
-            <pb n="74" type="blankpage"/>
-            <pb n="75" type="blankpage"/>
-            <pb n="76"/>
-            <figure xml:id="F11L1" type="dessin" n="10">
-               <p>piano dil <objectName ref="#DomeDeMilan">maggior tempio</objectName>
-               </p>
-               <p>
-                  <list rend="numbered">
-                     <item>B. Colonne del <objectName ref="#DomeDeMilan">maggior
+          <p>
+            <list rend="numbered">
+              <item>B. Colonne del <objectName ref="#DomeDeMilan">maggior
                         tempio</objectName>.</item>
-                     <item>C. Colonne del <objectName ref="#ScuroloSanCarloMilan">Tempietto</objectName>.</item>
-                     <item>F. Pidastri in circonferenza.</item>
-                     <item>G. Colonne di mezzo et di circonferenza tra loro uguali.</item>
-                     <item>H. Altare del <objectName ref="#DomeDeMilan">maggior
+              <item>C. Colonne del <objectName ref="#ScuroloSanCarloMilan">Tempietto</objectName>.</item>
+              <item>F. Pidastri in circonferenza.</item>
+              <item>G. Colonne di mezzo et di circonferenza tra loro uguali.</item>
+              <item>H. Altare del <objectName ref="#DomeDeMilan">maggior
                         Tempio</objectName>.</item>
-                     <item>I. Spatio per le scale.</item>
-                     <item>L.K. Piano del Tempietto parallelo al disopra.</item>
-                  </list>
-               </p>
-               <p>
-                  <list rend="numbered">
-                     <item>M.N. Pavimento del <objectName ref="#DomeDeMilan">tempiotto
+              <item>I. Spatio per le scale.</item>
+              <item>L.K. Piano del Tempietto parallelo al disopra.</item>
+            </list>
+          </p>
+          <p>
+            <list rend="numbered">
+              <item>M.N. Pavimento del <objectName ref="#DomeDeMilan">tempiotto
                            maggiore</objectName>. </item>
-                     <item>O. Volti delle loggie. </item>
-                     <item>P. Volta de mezzo più alta delle loggie come è dovere. </item>
-                     <item>Q. Sedie rettelinee et a livello. </item>
-                     <item>R. Piano del Choro rettelineo et parallelo al
+              <item>O. Volti delle loggie. </item>
+              <item>P. Volta de mezzo più alta delle loggie come è dovere. </item>
+              <item>Q. Sedie rettelinee et a livello. </item>
+              <item>R. Piano del Choro rettelineo et parallelo al
                         piano del <objectName ref="#DomeDeMilan">Tempio</objectName>.</item>
-                  </list>
-               </p>
-               <p>Profillo del <objectName ref="#ScuroloSanCarloMilan">
-                     <reg>Tempietto</reg>
-                  </objectName> et Choro superiore ridotto a maggior forma
+            </list>
+          </p>
+          <p>Profillo del <objectName ref="#ScuroloSanCarloMilan"><reg>Tempietto</reg></objectName> et Choro superiore ridotto a maggior forma
                   della passata pianta nel modo che io proposi di fare.</p>
-            </figure>
-            <pb n="77"/>
-            <figure xml:id="F12L1" type="dessin" n="11">
-               <p> Disegno dello <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName>,
+        </figure>
+        <pb n="77" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f77/full/full/0/native.jpg"/>
+        <figure xml:id="F12L1" type="dessin" n="11">
+          <p> Disegno dello <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName>,
                   diverso da l'opera fatta all'Illustrissimo Signor <persName ref="#SforzaMoroni">Conte Sforza Moroni</persName>, per messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName>.</p>
-            </figure>
-            <pb n="78" type="blankpage"/>
-            <pb n="79" type="blankpage"/>
-            <pb n="80"/>
-            <figure xml:id="F13L1" type="dessin" n="12">
-               <p>Pianta del <objectName ref="#DomeDeMilan">Domo de <placeName ref="#Milan">Milano</placeName>
+        </figure>
+        <pb n="78" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f78/full/full/0/native.jpg"/>
+        <pb n="79" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f79/full/full/0/native.jpg"/>
+        <pb n="80" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f80/full/full/0/native.jpg"/>
+        <figure xml:id="F13L1" type="dessin" n="12">
+          <p>Pianta del <objectName ref="#DomeDeMilan">Domo de <placeName ref="#Milan">Milano</placeName>
                   </objectName> per la quale si veggono gli ultimi termini de esso <objectName ref="#DomeDeMilan">tempio</objectName>.</p>
-               <p>
-                  <list rend="numbered">
-                     <item>A. Altare maggiore. </item>
-                     <item>B.C. Intercolunio impedito oltre al dovere.</item>
-                     <item>E.F. Longhezza del primo Coro. </item>
-                     <item>E.G. Longhezza del choro pendio de messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName>. </item>
-                     <item>A.H. raggi drento delli quali si vedeva l'<objectName ref="#AutelDomeDeMilan">Altare</objectName>.</item>
-                  </list>
-               </p>
-               <p>
-                  <list rend="numbered">
-                     <item>A.I. linee che terminano il spatio nel quale oggidi si vede l'<objectName ref="#AutelDomeDeMilan">Altare</objectName>.</item>
-                     <item>K. <objectName ref="#AutelDomeDeMilan">Altare</objectName> sotto alla
+          <p>
+            <list rend="numbered">
+              <item>A. Altare maggiore. </item>
+              <item>B.C. Intercolunio impedito oltre al dovere.</item>
+              <item>E.F. Longhezza del primo Coro. </item>
+              <item>E.G. Longhezza del choro pendio de messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName>. </item>
+              <item>A.H. raggi drento delli quali si vedeva l'<objectName ref="#AutelDomeDeMilan">Altare</objectName>.</item>
+            </list>
+          </p>
+          <p>
+            <list rend="numbered">
+              <item>A.I. linee che terminano il spatio nel quale oggidi si vede l'<objectName ref="#AutelDomeDeMilan">Altare</objectName>.</item>
+              <item>K. <objectName ref="#AutelDomeDeMilan">Altare</objectName> sotto alla
                         tribuna al loco suo.</item>
-                     <item>C. Circonferenza del Choro sotto alla tribuna. </item>
-                     <item>G.E. Choro che si levarebbe via.</item>
-                  </list>
-               </p>
-            </figure>
-         </div1>
-      </body>
-   </text>
+              <item>C. Circonferenza del Choro sotto alla tribuna. </item>
+              <item>G.E. Choro che si levarebbe via.</item>
+            </list>
+          </p>
+        </figure>
+      </div1>
+    </body>
+  </text>
 </TEI>
