@@ -107,8 +107,7 @@
             <desc>Alberti nomme ce monument <objectName>Temple de Léto</objectName> mais d'après la
                 description qu'il en fait il semblerait que ce soit plutôt la <objectName
                     ref="#BasiliqueDeMaxenxeConstantinRome">Basilique de Maxence et
-                    Constantin</objectName><bibl key="AlbertiArchitettura1989"
-                />.</desc>
+                    Constantin</objectName><bibl key="AlbertiArchitettura1989"/>.</desc>
         </certainty>
         <certainty xml:id="TempleAthena" locus="value">
             <desc>Deux hypothèses d'identification possibles : <object
@@ -146,12 +145,23 @@
                 néanmoins un <objectName ref="RembrandtAutoportraitAvecSaskiaRijksmuseum">portrait
                     gravé des époux</objectName> que l'on signale donc.</desc>
         </certainty>
-        <certainty xml:id="PieterCoeckeVanAelstTenture" locus="value"> <desc> La tenture de l'histoire de Saint Paul figure des soldats vétus "à la turc" et sa réalisation coïncide avec son retour de Constantinople, aussi, il est possible que l'artiste ait conçu une partie des compositions de la <objectName ref="#PieterCoeckeVanAelstTentureSaintPaul">tenture </objectName> au cours de son voyage. </desc> 
+        <certainty xml:id="PieterCoeckeVanAelstTenture" locus="value">
+            <desc> La tenture de l'histoire de Saint Paul figure des soldats vétus "à la turc" et sa
+                réalisation coïncide avec son retour de Constantinople, aussi, il est possible que
+                l'artiste ait conçu une partie des compositions de la <objectName
+                    ref="#PieterCoeckeVanAelstTentureSaintPaul">tenture </objectName> au cours de
+                son voyage. </desc>
         </certainty>
-       <certainty xml:id="WillemKeyPortraitFerdinandAlvareDeTolede" locus="value"> <desc> L'auteur ne faisant pas référence à un portrait précis, 
-        il pourrait s'agir du <objectName ref="WillemKeyPortraitMiCorpsFerdinandAlvareDeToledeFoundationCasaDeAlba">portrait à mi-corps</objectName> 
-        ou du <objectName ref="WillemKeyPortraitFerdinandAlvareDeToledeFoundationCasaDeAlba">portrait au format plus resseré</objectName>, 
-        tous deux conservés au Palais Liria, à la Foundation Casa de Alba, ou encore <objectName ref="WillemKeyPortraitFerdinandAlvareDeToledeCollectionPrivee">une version actuellement conservée en collection particulière</objectName>. </desc>
+        <certainty xml:id="WillemKeyPortraitFerdinandAlvareDeTolede" locus="value">
+            <desc> L'auteur ne faisant pas référence à un portrait précis, il pourrait s'agir du
+                    <objectName
+                    ref="WillemKeyPortraitMiCorpsFerdinandAlvareDeToledeFoundationCasaDeAlba"
+                    >portrait à mi-corps</objectName> ou du <objectName
+                    ref="WillemKeyPortraitFerdinandAlvareDeToledeFoundationCasaDeAlba">portrait au
+                    format plus resseré</objectName>, tous deux conservés au Palais Liria, à la
+                Foundation Casa de Alba, ou encore <objectName
+                    ref="WillemKeyPortraitFerdinandAlvareDeToledeCollectionPrivee">une version
+                    actuellement conservée en collection particulière</objectName>. </desc>
         </certainty>
         <certainty xml:id="JeanCousinJugementDernier" locus="value">
             <desc> L'auteur fait ici référence à <ojectName
@@ -161,9 +171,14 @@
                 l'on connait du père un <objectName ref="#JeanCousinJugementDernierReims">Jugement
                     dernier conservé au musée des Beaux-Arts de Reims</objectName>.</desc>
         </certainty>
-        <certainty xml:id="PhilippeDeChampaigneCouventCarmelitesParis" locus="value"> 
-            <desc> Il est possible que les peintures de <objectName ref="#PhilippeDeChampaignePresentationTempleDijon">la Présentation au Temple </objectName> conservée au musée des Beaux-arts de Dijon, 
-                <objectName ref="#PhilippeDeChampaigneResurrectionLazareGrenoble"> la Résurrection de Lazare</objectName>  de Grenoble et <objectName ref="#PhilippeDeChampaigneAssomptionLouvre"> l'Assomption </objectName> du Louvre viennent de l'église du couvent des Carmelites. </desc> 
+        <certainty xml:id="PhilippeDeChampaigneCouventCarmelitesParis" locus="value">
+            <desc> Il est possible que les peintures de <objectName
+                    ref="#PhilippeDeChampaignePresentationTempleDijon">la Présentation au Temple
+                </objectName> conservée au musée des Beaux-arts de Dijon, <objectName
+                    ref="#PhilippeDeChampaigneResurrectionLazareGrenoble"> la Résurrection de
+                    Lazare</objectName> de Grenoble et <objectName
+                    ref="#PhilippeDeChampaigneAssomptionLouvre"> l'Assomption </objectName> du
+                Louvre viennent de l'église du couvent des Carmelites. </desc>
         </certainty>
         <certainty xml:id="PhilippeDeChampaignePortraitsRichelieu" locus="value">
             <desc> Roger de Piles le précise lui-même dans son texte, Philippe de Champaigne a peint
@@ -186,7 +201,10 @@
                     ref="#PhilippeDeChampaignePortraitProfilRichelieuStrasbourg">le portrait de
                     profil</objectName> du musée des Beaux-Arts de Strasbourg.</desc>
         </certainty>
-        <certainty xml:id="CharlesLeBrunPortraitAieul" locus="value"> <desc> Il est probable que Roger De Piles fasse ici référence au <objectName ref="#CharlesLeBrunPortraitNicolasLeBrunResidenzgalerie">portrait de Nicolas Le Brun </objectName> peint par son fils. </desc>
+        <certainty xml:id="CharlesLeBrunPortraitAieul" locus="value">
+            <desc> Il est probable que Roger De Piles fasse ici référence au <objectName
+                    ref="#CharlesLeBrunPortraitNicolasLeBrunResidenzgalerie">portrait de Nicolas Le
+                    Brun </objectName> peint par son fils. </desc>
 
         </certainty>
         <certainty xml:id="CharlesLeBrunMaySaintPierre" locus="value">
@@ -207,6 +225,17 @@
                     ref="#PierreMignardGalerieApollonSaintCloud">galerie d'Apollon</objectName>. Il
                 est néamoins plus probable que l'auteur fasse référence au salon de Mars.</desc>
         </certainty>
+        <certainty xml:id="OttoVanVeenPortraitAlbertDAutricheIsabelleClaireEugenieDAutriche"
+            locus="value">
+            <desc> Il est possible que les portraits dont parle De Piles soit deux portraits
+                différents ou un seul portrait du couple. <objectName
+                    ref="#OttoVanVeenPortraitAlbertDAutricheIsabelleClaireEugenieDAutricheGloucestershire">Le
+                    double portrait</objectName> conservé dans le Gloucestershire, en Angleterre,
+                dans une demeure de la famille royale, pourrait être le portrait en question,
+                d’autant plus que l’on ne connaît pas d’autre portrait de l’infante
+                Isabelle-Claire-Eugénie d’Autriche peint par Otto Van Veen. </desc>
+        </certainty>
+
 
 
 
