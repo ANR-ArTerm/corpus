@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="ita">Disegno del Doni, partito in più ragionamenti, ne' quali si tratta della scoltura et pittura, de' colori, de' getti, de' modegli, con molte cose appartenenti a quest'arti, et si termina la nobiltà dell'una et dell'altra professione. Con historie, essempi, et sentenze, et nel fine alcune lettere che trattano della medesima materia</title>
+            <title xml:lang="ita">Disegno del Doni, partito in piu ragionamenti, ne quali si tratta della scoltura et pittura; de colori, de getti, de modegli, con molte cose appartenenti a quest'arti, et si termina la nobiltà dell'una et dell'altra professione. Con historie, essempi, et sentenze, et nel fine alcune lettere che trattano della medesima materia</title>
             <respStmt>
                <name>Anaïs Mazoué</name>
                <resp>Indexation</resp>
@@ -12,10 +12,6 @@
             <respStmt>
                <name>Julia Castiglione</name>
                <resp>Correction, Structuration, Balisage</resp>
-            </respStmt>
-            <respStmt>
-               <name>Diletta Rombaldoni</name>
-               <resp>Indexation, Correction, Structuration, Balisage</resp>
             </respStmt>
             <respStmt>
                <name>ATIR</name>
@@ -30,14 +26,14 @@
             <pubPlace>Paris</pubPlace>
             <date when="2028">2028</date>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
-               <author ref="ark:/12148/cb303480041">Doni<idno type="ISNI">https://isni.org/isni/000000011872331X</idno>
+            <bibl source="https://archive.org/details/deldonipatitoinp00doni">
+               <author ref="ark:/12148/cb303480041">Anton Francesco Doni<idno type="ISNI">https://isni.org/isni/000000011872331X</idno>
                </author>
-               <title xml:lang="ita">Disegno del Doni, partito in più ragionamenti, ne' quali si tratta della scoltura et pittura, de' colori, de' getti, de' modegli, con molte cose appartenenti a quest'arti, et si termina la nobiltà dell'una et dell'altra professione. Con historie, essempi, et sentenze, et nel fine alcune lettere che trattano della medesima materia</title>
+               <title xml:lang="ita">Disegno del Doni, partito in piu ragionamenti, ne quali si tratta della scoltura et pittura; de colori, de getti, de modegli, con molte cose appartenenti a quest'arti, et si termina la nobiltà dell'una et dell'altra professione. Con historie, essempi, et sentenze, et nel fine alcune lettere che trattano della medesima materia</title>
                <publisher>G. Giolito di Ferrarii</publisher>
                <pubPlace>Venise</pubPlace>
                <date when="1549">1549</date>
@@ -47,11 +43,11 @@
                   <country>USA</country>
                   <settlement ref="#Los Angeles">Los Angeles</settlement>
                   <institution>Getty Institute</institution>
-                  <repository/>
+                  <repository />
                   <idno type="USTC">https://www.ustc.ac.uk/editions/827607</idno>
                </msIdentifier>
             </msDesc>
-            <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+            <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -71,16 +67,16 @@
             <segmentation>
                <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
             </segmentation>
-            <hyphenation eol="none"/>
+            <hyphenation eol="none" />
             <stdVals>
                <p>Norme ISO-8601 pour les dates</p>
             </stdVals>
          </editorialDecl>
-         <p/>
+         <p />
       </encodingDesc>
       <profileDesc>
-         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
       </profileDesc>
    </teiHeader>
    <text>
@@ -108,7 +104,7 @@
       </front>
       <body>
          <pb n="4"/>
-         <gap reason="editorial"/>
+         <gap reason="editorial" quantity="2"/>
          <div1 type="livre" n="1" xml:id="T1">
             <div2 type="chapitre" n="1" xml:id="C1">
                <pb n="5"/>
@@ -721,7 +717,9 @@
                <salute>Di vostra signoria Illustrissima</salute>
                <signed>Servitore di cuore, et obligatissimo. Il <persName ref="#AntonFrancescoDoni">Doni</persName>.</signed>
             </div2>
-            <gap reason="editorial"/>
+            <gap reason="editorial" quantity="4"/>
+            <pb/>
+            <figure type="ornement"/>
          </div1>
       </body>
    </text>

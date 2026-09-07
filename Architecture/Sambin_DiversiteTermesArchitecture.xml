@@ -22,12 +22,12 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Public domain<author ref="https://data.bnf.fr/fr/ark:/12148/cb12144720z">Sambin<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=1/TTL=1/CMD?ACT=SRCH&amp;IKT=8006&amp;SRT=LST_nd&amp;TRM=Huges+sambin</idno>
-          </author>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k79300d?rk=21459;2">Public domain<author ref="https://data.bnf.fr/fr/ark:/12148/cb12144720z">Hugues Sambin<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=1/TTL=1/CMD?ACT=SRCH&amp;IKT=8006&amp;SRT=LST_nd&amp;TRM=Huges+sambin</idno>
+        </author>
           <title xml:lang="fra">Œuvre de la diversité des termes dont on use en architecture, reduict en ordre par maistre</title>
           <publisher>Jean Marcorelle et Jean Durand</publisher>
           <pubPlace>Lyon</pubPlace>
@@ -38,11 +38,11 @@
             <country>France</country>
             <settlement ref="#Paris">Paris</settlement>
             <institution>Bibliothèque nationale de France</institution>
-            <repository/>
+            <repository />
             <idno type="USTC">https://www.ustc.ac.uk/editions/24496</idno>
           </msIdentifier>
         </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -62,16 +62,16 @@
         <segmentation>
           <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
         </segmentation>
-        <hyphenation eol="none"/>
+        <hyphenation eol="none" />
         <stdVals>
           <p>Norme ISO-8601 pour les dates</p>
         </stdVals>
       </editorialDecl>
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
     </profileDesc>
   </teiHeader>
   <text>

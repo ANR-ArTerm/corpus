@@ -4,13 +4,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">https://data.bnf.fr/fr/ark:/12148/cb11912491s</title>
+        <title xml:lang="fra">Traitté de la peinture de Léonard de Vinci donné au public et traduit d'Italien en françois par R.F. S. D.C.</title>
         <respStmt>
-          <name>Julia Castiglione</name>
+          <name>Youssouf Diawara</name>
           <resp>Transcription, Structuration [Flora Belin, Maxine Schoehuys-Kreiss]</resp>
         </respStmt>
         <respStmt>
-          <name>Irene Calcagno</name>
+          <name>Anna Sconza</name>
           <resp>Correction</resp>
         </respStmt>
       </titleStmt>
@@ -22,24 +22,24 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>https://gallica.bnf.fr/ark:/12148/btv1b86207616.r=Traitt%C3%A9%20de%20la%20peinture%20de%20L%C3%A9onard%20de%20Vinci%20donn%C3%A9%20au%20public%20et%20traduit%20d%27Italien%20en%20fran%C3%A7ois%20par%20R.F.%20S.%20D.C.?rk=21459;2<author ref="https://isni.oclc.org/cbs/DB=1.2/SET=12/TTL=1/SHW?FRST=3">10/0302024<idno type="ISNI">Léonard</idno>
-          </author>
-          <title xml:lang="fra">https://data.bnf.fr/fr/ark:/12148/cb11912491s</title>
-          <publisher>Paris</publisher>
-          <pubPlace>Traitté de la peinture de Léonard de Vinci donné au public et traduit d'Italien en françois par R.F. S. D.C.</pubPlace>
-          <date when="Jacques Langlois">Jacques Langlois</date>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/btv1b86207616.r=Traitt%C3%A9%20de%20la%20peinture%20de%20L%C3%A9onard%20de%20Vinci%20donn%C3%A9%20au%20public%20et%20traduit%20d%27Italien%20en%20fran%C3%A7ois%20par%20R.F.%20S.%20D.C.?rk=21459;2">Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb11912491s">Léonard De Vinci<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=12/TTL=1/SHW?FRST=3</idno>
+        </author>
+          <title xml:lang="fra">Traitté de la peinture de Léonard de Vinci donné au public et traduit d'Italien en françois par R.F. S. D.C.</title>
+          <publisher>Jacques Langlois</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1651">1651</date>
         </bibl>
         <msDesc>
           <msIdentifier>
-            <country>Bibliothèque nationale de France</country>
-            <settlement ref="#France">France</settlement>
-            <institution>https://catalogue.bnf.fr/ark:/12148/cb31588107n</institution>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
             <repository />
-            <idno type="USTC">1651</idno>
+            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb31588107n</idno>
           </msIdentifier>
         </msDesc>
         <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
@@ -60,7 +60,7 @@
           <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
         </punctuation>
         <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettre) + body (365 chapitres)</p>
         </segmentation>
         <hyphenation eol="none" />
         <stdVals>

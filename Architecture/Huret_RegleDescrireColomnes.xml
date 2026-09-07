@@ -4,14 +4,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title xml:lang="fra">La règle précise pour descrire le profil eslevé du fust des colonnes</title>
+				<title xml:lang="fra">La regle precise, pour descrire le profil eslevé du fust des colomnes, suivant une hauteur, grosseur, et retrécissement donné à discretion, demonstrée geometriquement. [...]</title>
 				<respStmt>
 					<name>Emma Bondoerffer</name>
-					<resp>Transcription</resp>
-				</respStmt>
-				<respStmt>
-					<name>Octave Philibert</name>
-					<resp>Correction, Structuration, Balisage, Indexation</resp>
+					<resp>Transcription, Correction, Structuration, Balisage, Indexation</resp>
 				</respStmt>
 			</titleStmt>
 			<editionStmt>
@@ -22,14 +18,13 @@
 				<pubPlace>Paris</pubPlace>
 				<date when="2028">2028</date>
 				<availability>
-					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl>
-					<author ref="https://bibliotheque-numerique.inha.fr/idurl/1/12652">Huret<idno type="ISNI"/>
-					</author>
-					<title xml:lang="fra">La règle précise pour descrire le profil eslevé du fust des colonnes</title>
+				<bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k1509638p.r=La%20regle%20precise%2C%20pour%20descrire%20le%20profil%20eslev%C3%A9%20du%20fust%20des%20colomnes?rk=21459;2">Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb12191860s">Grégoire Huret<idno type="ISNI">http://isni.org/isni/0000000109120963</idno>
+				</author>
+					<title xml:lang="fra">La regle precise, pour descrire le profil eslevé du fust des colomnes, suivant une hauteur, grosseur, et retrécissement donné à discretion, demonstrée geometriquement. [...]</title>
 					<publisher>Edme Martin</publisher>
 					<pubPlace>Paris</pubPlace>
 					<date when="1665">1665</date>
@@ -39,11 +34,11 @@
 						<country>France</country>
 						<settlement ref="#Paris">Paris</settlement>
 						<institution>Bibliothèque nationale de France</institution>
-						<repository/>
-						<idno type="USTC">https://www.ustc.ac.uk/editions/6114248</idno>
+						<repository />
+						<idno type="USTC">http://catalogue.bnf.fr/ark:/12148/cb39316816c</idno>
 					</msIdentifier>
 				</msDesc>
-				<xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+				<xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
@@ -61,18 +56,18 @@
 					<p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
 				</punctuation>
 				<segmentation>
-					<p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+					<p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface) + body (2 chapitres [43 et 10 section] + 1 conclusion)</p>
 				</segmentation>
-				<hyphenation eol="none"/>
+				<hyphenation eol="none" />
 				<stdVals>
 					<p>Norme ISO-8601 pour les dates</p>
 				</stdVals>
 			</editorialDecl>
-			<p/>
+			<p />
 		</encodingDesc>
 		<profileDesc>
-			<xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-			<xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+			<xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+			<xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
 		</profileDesc>
 	</teiHeader>
 	<text>
