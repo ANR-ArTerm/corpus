@@ -1914,6 +1914,15 @@
       <attribute name="calendar"/>
     </optional>
   </define>
+  <define name="def">
+    <element name="def">
+      <ref name="attlist.def"/>
+      <ref name="macro.phraseSeq"/>
+    </element>
+  </define>
+  <define name="attlist.def" combine="interleave">
+    <ref name="tei_att.global.attributes"/>
+  </define>
   <!-- doc:(deletion) contains a letter, word, or passage deleted, marked as deleted, or otherwise indicated as superfluous or spurious in the copy text by an author, scribe, or a previous annotator or corrector. [3.5.3. Additions, Deletions, and Omissions] -->
   <define name="del">
     <element name="del">
@@ -2058,7 +2067,10 @@
     <element name="div1">
       <ref name="attlist.div1"/>
       <zeroOrMore>
-        <choice>
+         <choice>
+          <ref name="schemaSpec"/>
+          <ref name="model.common"/>
+          <ref name="entry"/>
           <ref name="model.divTop"/>
           <ref name="model.global"/>
         </choice>
@@ -2139,6 +2151,9 @@
       <ref name="attlist.div2"/>
       <zeroOrMore>
         <choice>
+          <ref name="schemaSpec"/>
+          <ref name="model.common"/>
+          <ref name="entry"/>
           <ref name="model.divTop"/>
           <ref name="model.global"/>
         </choice>
@@ -2221,6 +2236,9 @@
       <ref name="attlist.div3"/>
       <zeroOrMore>
         <choice>
+          <ref name="schemaSpec"/>
+          <ref name="model.common"/>
+          <ref name="entry"/>
           <ref name="model.divTop"/>
           <ref name="model.global"/>
         </choice>
@@ -2639,6 +2657,17 @@
   <define name="attlist.encodingDesc" combine="interleave">
     <empty/>
   </define>
+  <define name="entry">
+    <element name="entry">
+        <ref name="attlist.entry"/>      
+      <ref name="form"/>
+      <optional><ref name="def"/></optional>
+    </element>    
+  </define>
+  <define name="attlist.entry" combine="interleave">
+    <ref name="tei_att.global.attributes"/>
+    
+  </define>
   <!-- doc:(epigraph) contains a quotation, anonymous or attributed, appearing at the start or end of a section or on a title page. [4.2.3. Arguments, Epigraphs, and Postscripts 4.2. Elements Common to All Divisions 4.6. Title Pages] -->
   <define name="epigraph">
     <element name="epigraph">
@@ -2795,6 +2824,15 @@
   <define name="attlist.forename" combine="interleave">
     <ref name="tei_att.global.attributes"/>
     <ref name="tei_att.typed.attributes"/>
+  </define>
+  <define name="form">
+    <element name="form">
+      <ref name="attlist.form"/>
+      <ref name="macro.phraseSeq"/>
+    </element>
+  </define>
+  <define name="attlist.form" combine="interleave">
+    <ref name="tei_att.global.attributes"/>
   </define>
   <!-- doc:(front matter) contains any prefatory matter (headers, abstracts, title page, prefaces, dedications, etc.) found at the start of a document, before the main body. [4.6. Title Pages 4. Default Text Structure] -->
   <define name="front">
