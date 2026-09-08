@@ -30,11 +30,11 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/ark:/12148/cb12195679m">Monier<idno type="ISNI">https://isni.org/isni/0000000121263908</idno>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k74873s">Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/ark:/12148/cb12195679m">Pierre Monier<idno type="ISNI">https://isni.org/isni/0000000121263908</idno>
           </author>
           <title xml:lang="fra">Histoire des arts qui ont rapport au dessein</title>
           <publisher>Pierre Giffart</publisher>
@@ -46,11 +46,11 @@
             <country>France</country>
             <settlement ref="#Paris">Paris</settlement>
             <institution>Bibliothèque nationale de France</institution>
-            <repository />
+            <repository/>
             <idno type="USTC">https://www.ustc.ac.uk/editions/3131573</idno>
           </msIdentifier>
         </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -70,16 +70,16 @@
         <segmentation>
           <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettre + preface + dedicace) + body (3 livres L avec chapitres C)</p>
         </segmentation>
-        <hyphenation eol="none" />
+        <hyphenation eol="none"/>
         <stdVals>
           <p>Norme ISO-8601 pour les dates</p>
         </stdVals>
       </editorialDecl>
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
     </profileDesc>
   </teiHeader>
   <text>
@@ -285,8 +285,7 @@
           </noteGrp>
           <lb/>
           <pb n="16" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6557500p/f76/full/full/0/native.jpg"/>
-          <p xml:id="MON_HARD_L1_L1C4_P4">Sur la fin du troisiéme âge <placeName ref="#Athenes">Atenes</placeName> 3<ref target="#L1C4N3"/> eut son commencement par <persName ref="#Cecrops">Cecrops</persName> son premier Roi, qui étoit venu d'<placeName ref="#Egypte">Egipte</placeName>, où aparemment il fit voir le commencement des Arts et des Siences: puisque ce fut premierement à <placeName ref="#Athenes">Atenes</placeName> que nâquit l'ingenieux <persName ref="#Dedale">Dedale</persName> 4<ref target="#L1C4N4"/> de famille Royale, habile dans l'Art du Dessein et recommandable par les machines 5<ref target="#L1C4N5"/> dont il animoit ses statues
-            <noteGrp>
+          <p xml:id="MON_HARD_L1_L1C4_P4">Sur la fin du troisiéme âge <placeName ref="#Athenes">Atenes</placeName> 3<ref target="#L1C4N3"/> eut son commencement par <persName ref="#Cecrops">Cecrops</persName> son premier Roi, qui étoit venu d'<placeName ref="#Egypte">Egipte</placeName>, où aparemment il fit voir le commencement des Arts et des Siences: puisque ce fut premierement à <placeName ref="#Athenes">Atenes</placeName> que nâquit l'ingenieux <persName ref="#Dedale">Dedale</persName> 4<ref target="#L1C4N4"/> de famille Royale, habile dans l'Art du Dessein et recommandable par les machines 5<ref target="#L1C4N5"/> dont il animoit ses statues <noteGrp>
               <note xml:id="PPN2"><p xml:id="MON_HARD_L1_L1C4_PPN2_P4">y alla pour admiter ses superbes ruines. <persName>H.R. de Coifeteau</persName> p.276 et <persName ref="#Tacite">Corneille Tacite</persName>, Livre second, il dit que de cette Ville, il en sortoit sept cens mille combatans.</p></note>
               <note xml:id="L1C4N3"><p xml:id="MON_HARD_L1_L1C4_L1C4N3_P5">3. En <date when-custom="2496Deluge">2496</date>. fut fondé <placeName ref="#Athenes">Atenes</placeName>, et l'on tient qu'<placeName ref="#Argos">Argos</placeName> est auparavant; mais encore davantage <placeName ref="#Sicyone">Sicione</placeName></p></note>
               <note xml:id="L1C4N4"><p xml:id="MON_HARD_L1_L1C4_L1C4N4_P6">4. Il vivoit environ l'an <date when-custom="2644Deluge">2644</date> il étoit du Sang des Rois d'<placeName ref="#Athenes">Atenes</placeName> fils de <persName ref="#Metion">Metion</persName>, Cousin germain de <persName ref="#Thesee">Tesée</persName>, selon <persName ref="#Pausanias">Pausanias</persName> en ses Attiques. <persName ref="#DiodoreDeSicile">Diodore</persName>, sic. <persName ref="#EusebeDeCesaree">Eusebe</persName>. li. 3. de la p E. et <persName ref="#Plutarque">Plutarque</persName> dans la vie de <persName ref="#Thesee">Tesée</persName>.</p><p xml:id="MON_HARD_L1_L1C4_L1C4N4_P7"><persName>Diopene</persName> et <persName>Scylli</persName> furent enfans de <persName ref="#Dedale">Dedale</persName>. <persName>Mito</persName>
@@ -542,7 +541,7 @@
               <note xml:id="L1C11N10"><p xml:id="MON_HARD_L1_L1C11_L1C11N10_P17">10. Cette prodigieuse Statue étoit placée dans la <hi rend="it">via sacra</hi>, prés la place où <persName ref="#Vespasien">Vespasien</persName> fit batir son Amfitéatre, lequel depuis a pris sa denomination de <objectName>ce Colosse</objectName>, en apellant <objectName>ce grand Edifice le Colisée</objectName>. <placeName ref="#Rome">Roma</placeName>. Antiq di <persName ref="#FamianoNardini">Nardini</persName>.</p></note>
               <note xml:id="L1C11N11"><p xml:id="MON_HARD_L1_L1C11_L1C11N11_P18">11. <persName ref="#Pline">Pline</persName> li. 34.c.7.</p></note>
             </noteGrp>
-            <pb n="55" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6557500p/f115/full/full/0/native.jpg"/>Regnes de <persName ref="#Vespasien">Vespasien</persName>, et de <persName ref="#Titus">Titus</persName>, les Arts continuerent à fleurir, <objectName>les belles Scultures qui embelissoient <objectName ref="#ColosseumRome">le Colisée</objectName>, le <placeName>Temple de la Paix</placeName>, et l'Arc de <persName ref="#Titus">Titus</persName></objectName>, font voir combien il y avoit alors d'illustres Sculteurs. Ce qui reste de ces excelens ouvrages à cet Arc, nous marque cette verité, aussi bien que l'incomparable <objectName >Statue de <persName ref="#Laocoon">Laôcon</persName></objectName>, qui fut trouvée aux ruines du Palais de <persName ref="#Titus">ce Prince</persName>, et qui fait encore aujourd'hui l'admiration de tous les amateurs du Dessein, comme elle le faisoit du tems de <persName ref="#Pline">Pline</persName>, qui nous a donné le nom des trois 12<ref target="#L1C11N12"/> habiles Sculteurs Rodiens, qui travaillerent de concert ce beau groupe de <objectName>Sculture</objectName>, que composent cette Statue <note xml:id="L1C11N12"><p xml:id="MON_HARD_L1_L1C11_L1C11N12_P19">12. <hi rend="it" xml:lang="lat">Sicut in Laoconte qui est in Titi Imperatoris domo opus omnibus: et pictura et Statuaria artis ante ferendum ex uno lapide eum et liberos Draconum qua mirabiles nexus de consilii sententia fecere summi artifices Agesander, et Polydorus, et Atenodorus Rhodii</hi>. <persName ref="#Pline">Pline</persName> li. 36.C.5.</p></note>
+            <pb n="55" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6557500p/f115/full/full/0/native.jpg"/>Regnes de <persName ref="#Vespasien">Vespasien</persName>, et de <persName ref="#Titus">Titus</persName>, les Arts continuerent à fleurir, <objectName>les belles Scultures qui embelissoient <objectName ref="#ColosseumRome">le Colisée</objectName>, le <placeName>Temple de la Paix</placeName>, et l'Arc de <persName ref="#Titus">Titus</persName></objectName>, font voir combien il y avoit alors d'illustres Sculteurs. Ce qui reste de ces excelens ouvrages à cet Arc, nous marque cette verité, aussi bien que l'incomparable <objectName>Statue de <persName ref="#Laocoon">Laôcon</persName></objectName>, qui fut trouvée aux ruines du Palais de <persName ref="#Titus">ce Prince</persName>, et qui fait encore aujourd'hui l'admiration de tous les amateurs du Dessein, comme elle le faisoit du tems de <persName ref="#Pline">Pline</persName>, qui nous a donné le nom des trois 12<ref target="#L1C11N12"/> habiles Sculteurs Rodiens, qui travaillerent de concert ce beau groupe de <objectName>Sculture</objectName>, que composent cette Statue <note xml:id="L1C11N12"><p xml:id="MON_HARD_L1_L1C11_L1C11N12_P19">12. <hi rend="it" xml:lang="lat">Sicut in Laoconte qui est in Titi Imperatoris domo opus omnibus: et pictura et Statuaria artis ante ferendum ex uno lapide eum et liberos Draconum qua mirabiles nexus de consilii sententia fecere summi artifices Agesander, et Polydorus, et Atenodorus Rhodii</hi>. <persName ref="#Pline">Pline</persName> li. 36.C.5.</p></note>
             <pb n="56" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6557500p/f116/full/full/0/native.jpg"/>de <persName ref="#Laocoon">Laôcon</persName>, avec celles de ses deux Enfans.</p>
           <p xml:id="MON_HARD_L1_L1C11_P21">L'excelence de cet Art, continua particulierement sous la domination de <persName ref="#Trajan">Trajan</persName>: <persName ref="#Trajan">ce grand Empereur,</persName> aprés ses victoires, s'apliqua à embelir <placeName ref="#Rome">Rome</placeName> par l'Architecture, et la Sculture. Celle qui est à sa Colonne, et les <objectName>bas-reliefs de l'Arc de <persName ref="#Constantin">Constantin</persName></objectName>, que l'on ôta de celui de <persName ref="#Trajan">Trajan</persName>, font voir que l'art n'étoit pas encore decliné, non plus que du tems d'<persName ref="#Hadrien">Adrien</persName> qui lui succeda. Car <persName ref="#Hadrien">cet Empereur</persName> possedoit 12<ref target="#L1C11N12bis"/> les belles Lettres, la Peinture, la Sculture et l'Architecture; c'est pourquoi il porta si haut tous les Arts du Dessein, qu'ils se soûtinrent durant son regne <note xml:id="L1C11N12bis"><p xml:id="MON_HARD_L1_L1C11_L1C11N12bis_P21">12. <persName ref="#Hadrien">Adrien</persName> n'ignoroit rien des Matematiques, et savoit en perfection l'Astrologie, l'Aritmetique, la Geometrie ; outre cela avoit un grand goût pour la Medecine, et la Filosophie. Il étoit admirable en la Peinture et en la Sculture jusqu'à egaler les plus fameux de l'antiquité. Coiffseteau page 569.</p></note>
             <pb n="57" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6557500p/f117/full/full/0/native.jpg"/>dans tout l'éclat et le progrés où ils étoient parvenus.</p>

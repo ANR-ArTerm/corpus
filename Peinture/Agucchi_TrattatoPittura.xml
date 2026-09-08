@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title xml:lang="ita">"Trattato della pittura" in Annibale Carracci, Diverse figure al numero di ottanta, disegnate di penna nell'hore di ricreatione, intagliate in rame e cavate dagli originali da Simone Giulino, stampatore parigino (p.3-21)</title>
@@ -30,13 +30,13 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://www.treccani.it/enciclopedia/giovanni-battista-agucchi_(Dizionario-Biografico)/">Agucchi<idno type="ISNI">https://isni.org/isni/000000006127302X</idno>
-          </author>
-          <title xml:lang="ita">"Trattato della pittura" in Annibale Carracci, Diverse figure al numero di ottanta, disegnate di penna nell'hore di ricreatione, intagliate in rame e cavate dagli originali da Simone Giulino, stampatore parigino (p.3-21)</title>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/btv1b8454358x.item">Gallica, Bibliothèque nationale de France<author ref="https://www.treccani.it/enciclopedia/giovanni-battista-agucchi_(Dizionario-Biografico)/">Giovan Battista Agucchi<idno type="ISNI">https://isni.org/isni/000000006127302X</idno>
+        </author>
+          <title xml:lang="fra">"Trattato della pittura" in Annibale Carracci, Diverse figure al numero di ottanta, disegnate di penna nell'hore di ricreatione, intagliate in rame e cavate dagli originali da Simone Giulino, stampatore parigino (p.3-21)</title>
           <publisher>Ludovico Grignani</publisher>
           <pubPlace>Rome</pubPlace>
           <date when="1646">1646</date>

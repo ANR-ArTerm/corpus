@@ -22,18 +22,17 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora ©
-                  2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb102995049">Bassi<idno type="ISNI">https://isni.org/page/search-database/</idno>
-               </author>
-               <title xml:lang="ita">Dispareri in materia d'architettura e prospettiva</title>
-               <publisher>Francesco et Pietro Maria Marchetti (frères)</publisher>
-               <pubPlace>Brescia</pubPlace>
-               <date when="1572">1572</date>
-            </bibl>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/bd6t57781345.r=dispareri%20in%20materia%20d%27architettura?rk=21459;2">Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb102995049">Martino Bassi<idno type="ISNI">https://isni.org/page/search-database/</idno>
+        </author>
+          <title xml:lang="ita">Dispareri in materia d'architettura e prospettiva</title>
+          <publisher>Francesco et Pietro Maria Marchetti (frères)</publisher>
+          <pubPlace>Brescia</pubPlace>
+          <date when="1572">1572</date>
+        </bibl>
         <msDesc>
           <msIdentifier>
             <country>France</country>
@@ -48,31 +47,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de
-               la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de
-               traduction des théories des arts d'une langue à l'autre et des transferts
-               linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire
-               franco-italien du patrimoine artistique.</p>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
           <p>édition complète</p>
         </correction>
         <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des
-                  ponctuations et accentuations ont été normalisées en suivant les règles de
-                  typographies du 20è siècle.</p>
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
         </normalization>
         <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en
-                  point, le reste des ponctuations ont été conservées comme dans les imprimés de
-                  référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier
-                  la lecture.</p>
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
         </punctuation>
         <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises
-                  div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage) + body (L1
-                  avec 10 lettres)</p>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage) + body (L1 avec 10 lettres)</p>
         </segmentation>
         <hyphenation eol="none"/>
         <stdVals>
@@ -88,7 +76,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f1/full/full/0/native.jpg"/>
+      <pb n="1" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0005.jp2/full/max/0/default.jpg"/>
       <titlePage>
         <docTitle>
           <titlePart type="main" rend="capitals"><figure xml:id="F1" type="ornement"><p>DISPARERI</p></figure> IN MATERIA D'architettura,<lb/>ET perspettiva.</titlePart>
@@ -108,8 +96,8 @@
       </titlePage>
     </front>
     <body>
-      <pb n="2" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f2/full/full/0/native.jpg"/>
-      <pb n="3" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f3/full/full/0/native.jpg"/>
+      <pb n="2" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0006.jp2/full/max/0/default.jpg"/>
+      <pb n="3" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0007.jp2/full/max/0/default.jpg"/>
       <div1 xml:id="L1" type="lettre" n="1">
         <div2 xml:id="M1" type="lettre" n="1" xml:lang="ita">
           <opener>
@@ -137,7 +125,7 @@
                      fine, con buona intenzione, et con fondamenti reali (che sebene poi vede
                      seguirne effetto contrario, si consola nondimeno con la sua conscienza) così
                      andava io persuadendo me stesso, consapevole della buona intention mia, quando
-                     per lettere <pb n="4" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f4/full/full/0/native.jpg"/>, et per avisi di qualche mio amico, et Signore, io
+                     per lettere <pb n="4" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0008.jp2/full/max/0/default.jpg"/>, et per avisi di qualche mio amico, et Signore, io
                      sentii, che quello che era seguito, si narrava differente assai. Là onde
                      giovane essendo ancora, et col faticarmi di continouo nelli studi dell'arte, et
                      profession mia, non potetti lasciare di pensare al modo, come io facilmente
@@ -156,7 +144,7 @@
                      huomini(come ho detto) stimati tra i più famosi di questo secolo, ai quali, e
                      per l'età, et poca esperienza mia, et per la fama, et grandezza delle opere
                      loro, dopo l'essere stato da un di loro richiesto, hebbi ricorso. Et finalmente
-                        <pb n="5" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f5/full/full/0/native.jpg"/> vi troverà tutte le opinioni, et ragioni loro, corrispondenti
+                        <pb n="5" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0009.jp2/full/max/0/default.jpg"/> vi troverà tutte le opinioni, et ragioni loro, corrispondenti
                      alle opinioni, et ragioni mie: coi disegni delle opere, et luoghi tutti, dei
                      quali io intendo di ragionare. Et di architettura, et di perspettiva parlando,
                      et di cose al <objectName ref="#DomeDeMilan">Duomo</objectName>, et alla patria
@@ -176,7 +164,7 @@
                      Fabrica, et va predicando, come sotto il prudentissimo, et accuratissimo
                      governo delle Signorie Vostre vive, et si sostenta, et moltiplica grande
                      schiera di artefici vertuosi. I quali quivi, come in ischola ordinatissima, col
-                     tempo sono divenuti eccellenti, <pb n="6" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f6/full/full/0/native.jpg"/> et famosi, a beneficio, et
+                     tempo sono divenuti eccellenti, <pb n="6" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0010.jp2/full/max/0/default.jpg"/> et famosi, a beneficio, et
                      ornamento, non pur della <placeName ref="#Milan">Città nostra</placeName>, ma
                         d'<placeName ref="#Italie">Italia</placeName>, et del Mondo. Onde sarebbe
                      certo di grandissima importanza, se da qui inanzi s'interrompesse il corso di
@@ -190,7 +178,7 @@
           </p>
         </div2>
         <div2 xml:id="M2" type="lettre" n="2" xml:lang="ita">
-          <pb n="7" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f7/full/full/0/native.jpg"/>
+          <pb n="7" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0011.jp2/full/max/0/default.jpg"/>
           <opener rend="capitals">
             <signed>DEL MAGNIFICO SIGNOR <persName ref="#AlfonsoN">ALFONSO N.</persName>
                   </signed>
@@ -222,7 +210,7 @@
                   <date when="1570-04-01"> il primo d'Aprile. M. D. LXX. </date>
                </p>
         </div2>
-        <pb n="8" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f8/full/full/0/native.jpg"/>
+        <pb n="8" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0012.jp2/full/max/0/default.jpg"/>
         <div2 xml:id="M3" type="lettre" n="3" xml:lang="ita">
           <opener>
             <salute>AL MOLTO MAGNIFICO SIGNOR<persName ref="#AlfonsoN">Alfonso N.</persName>
@@ -255,7 +243,7 @@
                   termini di perspettiva, et d'architettura, bisogna, che mi si conceda, ch'io sia
                   nato a <placeName ref="#Milan">Milano</placeName>, et non in <placeName ref="#Toscane">Toscana</placeName>, ch'io sia giovane, et non vecchio, ch'io
                   sia più tosto timido, che ardito. Con queste conditioni, narrerò il fatto secondo
-                  la verità, et poi mi rimetterò al maturo giudicio di Vostra Signoria <pb n="9" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f9/full/full/0/native.jpg"/>
+                  la verità, et poi mi rimetterò al maturo giudicio di Vostra Signoria <pb n="9" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0013.jp2/full/max/0/default.jpg"/>
                   et degli altri famosi, che più sanno di me. Essendo io, com'ho detto, milanese, et
                   allevato nell'opera della Fabrica del <objectName ref="#DomeDeMilan">Duomo</objectName>, intanto che da certi anni a dietro passarono per le mie
                   mani come Vostra Signoria sa quasi tutte le opere, che giornalmente vi si
@@ -277,7 +265,7 @@
                   Così porsi a detti Signori Deputati, col parere, et consiglio di huomini degni,
                   una pistola da me fatta sopra ciò, et fu questa. </p>
         </div2>
-        <pb n="10" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f10/full/full/0/native.jpg"/>
+        <pb n="10" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0014.jp2/full/max/0/default.jpg"/>
         <div2 xml:id="M4" type="section" n="4">
           <div3 xml:id="M4S1" type="lettre" n="1" xml:lang="lat">
             <opener rend="capitals">
@@ -317,7 +305,7 @@
                            eaque non contemnendi pretij, quibus sterneretur pavimentum, ubi vas
                            illud erat collo candum, in quo, qui <persName ref="#Jesus">Christo</persName> nomen dant, de more solent ablui cum ipse
                            stylobatas fecisset, in illud incidisse incommodum mihi vide tur, ut
-                           sumptus, atque opisicum fortasse labor, ipsi esset perdendus. <pb n="11" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f11/full/full/0/native.jpg"/> as quanta in eo opere faciundo sit pecunla Impensa, tum in cee dendis,
+                           sumptus, atque opisicum fortasse labor, ipsi esset perdendus. <pb n="11" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0015.jp2/full/max/0/default.jpg"/> as quanta in eo opere faciundo sit pecunla Impensa, tum in cee dendis,
                            et secandis, rum friandis, ac poliendis marmoribus, melius vos, quàm ego,
                            cognitum habere potestis, si ea marmora expolita, et ab ipso demum
                            rtiecta, considerare yplutritis. in quo opere, vi proportioves, et
@@ -351,7 +339,7 @@
               </unclear>
             </p>
           </div3>
-          <pb n="12" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f12/full/full/0/native.jpg"/>
+          <pb n="12" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0016.jp2/full/max/0/default.jpg"/>
           <div3 xml:id="M4S2" type="section" n="2" xml:lang="ita">
             <p xml:id="BAS_DA_L1_M4_M4S2_P1"><figure type="lettrine"/><hi rend="capitals">LETTA</hi> nella congregatione l'epistola sopra detta, et
                      da tutti i Signori deputati con silentio udita, tutti concordevolmente
@@ -388,7 +376,7 @@
                      non però si mutò di quello, che egli aveva prima detto; anzi di nuovo disse ad
                      essi tre Signori Eletti, esser necessario, che ambidue noi andassimo da lui
                      alla presenza loro. Là onde di nuovo riferito questo nel Capitolo, quivi fu
-                     stabilito, <pb n="13" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f13/full/full/0/native.jpg"/> che le cose proposte s'avessero a decidere alla
+                     stabilito, <pb n="13" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0017.jp2/full/max/0/default.jpg"/> che le cose proposte s'avessero a decidere alla
                      presenza di tutto esso Capitolo, et fu detto il giorno; ma non hebbe effetto,
                      perché all'Architetto non era acconcio. Né si sa qual fosse la cagione, basta
                      che fu differita la cosa ad un altro dì; et in quel mezo furono dati per
@@ -423,7 +411,7 @@
                      creanza motto alcuno, fui dal Signor <persName ref="#SforzaMoroni">Conte Sforza
                         Morrone</persName> invitato a dire. Onde io con quel meglior modo ch'io
                      seppi; così dissi.</p>
-            <pb n="14" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f14/full/full/0/native.jpg"/>
+            <pb n="14" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0018.jp2/full/max/0/default.jpg"/>
             <p xml:id="BAS_DA_L1_M4_M4S2_P2" xml:lang="lat">
               <figure type="lettrine"/>
               <unclear>
@@ -457,7 +445,7 @@
                            hvius augustissimi Templi dignitati, et elegantiae consuletis. </foreign>
               </unclear>
             </p>
-            <pb n="15" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f15/full/full/0/native.jpg"/>
+            <pb n="15" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0019.jp2/full/max/0/default.jpg"/>
             <p xml:id="BAS_DA_L1_M4_M4S2_P3"><figure type="lettrine"/><hi rend="capitals">CIÒ</hi> finito, presi a trattare il primo capo esposto
                      nell'epistola da me prima data, il quale è d'intorno alla perspettiva da
                         <persName ref="#PellegrinoTibaldi">Messer Pellegrino Tibaldi</persName> a la
@@ -488,7 +476,7 @@
                      conoscere l'angolo, che consiste nel loro congiungimento. Oltre a ciò, ha sopra
                      di esso smusso levato una parete, con un uscio in scorcio, che pare fatto più
                      tosto dall'accidente, che dall'arte, con un camino quadro, et un pezzo di
-                     cortinaggio, et tutte queste sue cose aggiunte, ubbidiscono <pb n="16" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f16/full/full/0/native.jpg"/> al suo
+                     cortinaggio, et tutte queste sue cose aggiunte, ubbidiscono <pb n="16" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0020.jp2/full/max/0/default.jpg"/> al suo
                      secondo orizzonte, et alla sua seconda distanza, rimanendo l'altra opera del
                      primo <persName ref="#VincenzoSeregni">Architetto</persName> digradata al suo
                      primo orizzonte, et primiera distanza; come il tutto si vede ancho per lo <ptr target="#F2L1" type="renvoie">primo</ptr>, et <ptr target="#F3L1" type="renvoie">secondo disegno</ptr>, con li suoi profili, et annotazioni
@@ -522,7 +510,7 @@
                      fuggito, come sono <persName ref="#GiulioRomano">Giulio Romano</persName>, il
                         <persName ref="#GirolamoGenga">Genga</persName>, <persName ref="#BaldassarrePeruzzi">Baldassarre Peruzzi</persName>, il gran <persName ref="#AndreaMantegna">Mantegna</persName>, <persName ref="#Raphael">Raffaello da <placeName ref="#Urbino">Urbino</placeName>
                      </persName>, ch'io doveva dir prima, et tanti altri, ch'io taccio per brevità,
-                     nelle opere <pb n="17" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f17/full/full/0/native.jpg"/> dei quali giammai non si ritrovò più d'uno orizzonte,
+                     nelle opere <pb n="17" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0021.jp2/full/max/0/default.jpg"/> dei quali giammai non si ritrovò più d'uno orizzonte,
                      et d'una distanza, et pur due, et due se ne veggiono <objectName ref="#TibaldiAnnonciationSantaMariaAnnunciataCamposanto">in questo
                         marmo</objectName>. Oltre a ciò dico che niun oggetto, di qual si voglia
                      sorte o forma, non potrà mai con ragione di perspettiva, esser digradato; se
@@ -554,7 +542,7 @@
                      ufficio. Perciòche per l'ottava definitione del primo di <persName ref="#Euclide">Euclide</persName> si sa, che una sola retta linea non può
                      formare alcun angolo; et per la prima propositione dell'undecimo, che l'istessa
                      retta linea non può esser parte a giacer in piano et parte levata in alto.
-                     Oltre a ciò, essendo le forme degli oggetti in quel modo ordinate, <pb n="18" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f18/full/full/0/native.jpg"/>
+                     Oltre a ciò, essendo le forme degli oggetti in quel modo ordinate, <pb n="18" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0022.jp2/full/max/0/default.jpg"/>
                      et disposte nella superficie dell'occhio, et nell'anima ricevute, col quale
                      sono ordinate, et disposte nella superficie degli oggeti, (o bene, o male, che
                      ci stiano) si conchiude ch'egli è necessario di correggere quest'opera, acciò
@@ -589,7 +577,7 @@
                      X. XI. XII. de l'<bibl key="EuclidePerspective">Ottica</bibl> di <persName ref="#Euclide">Euclide</persName>, et a le XXXVI. XXXVII; e XXXVIII del
                         <bibl>quarto di <persName ref="#Vitellion">Vitellione</persName>
                      </bibl>, dalle quali si comprendono per dimostrationi gli effetti, che fanno i
-                     piani, et le superficie rettilinee, <pb n="19" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f19/full/full/0/native.jpg"/> superiori, inferiori, et
+                     piani, et le superficie rettilinee, <pb n="19" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0023.jp2/full/max/0/default.jpg"/> superiori, inferiori, et
                      laterali, alla veduta nostra; ciò si vede pur ancor chiaro nelle cose naturali,
                      che se noi riguardiamo dal dirotto in su, qual si voglia cosa, che habbia
                      sporta, o proiettura, et sia più alta della veduta nostra, non vi possiam
@@ -619,7 +607,7 @@
                      dell'occhio suo, dal quale si reggesse, come fa hora da questo mio, con tanta
                      bella movenza, come si vede. Et mostrando una figura ignuda in forma d'
                         <persName ref="#AngeGabriel">Angelo</persName>, la quale non aveva sotto
-                     alcun piano, dei quali si trattava, né sopra a quale <pb n="20" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f20/full/full/0/native.jpg"/> havesse a
+                     alcun piano, dei quali si trattava, né sopra a quale <pb n="20" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0024.jp2/full/max/0/default.jpg"/> havesse a
                      posare, come vide ogn'uno, disse, a me rivolto: voi, che d'orizzonte parlate,
                      qual è l'orizzonte della figura? Et perché non vi volli altro rispondere
                      (parendomi, avere pur troppo parlato) soggiunse egli, non è egli a livello
@@ -656,7 +644,7 @@
                      disse or lassa seguitar loro, et se sei Pittore, falla tu. Quasi dicesse, che
                      cosa hanno a fare i granchi con la luna? Tornando ove lasciai, dico, che
                      volend'io di nuovo rispondere, che questa opera stava molto bene prima, fuori
-                     che del piano superiore a gli occhi nostri; ecco che ci mandaron ambidue <pb n="21" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f21/full/full/0/native.jpg"/> in disparte, per ragionare fra di loro, sì come è il solito. Fu
+                     che del piano superiore a gli occhi nostri; ecco che ci mandaron ambidue <pb n="21" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0025.jp2/full/max/0/default.jpg"/> in disparte, per ragionare fra di loro, sì come è il solito. Fu
                      detto poi, che fra i tre eletti, et i Signori del Capitolo, furono alcune varie
                      opinioni, come in simili cose suol avvenire. Percioché il Signore <persName ref="#AlessandroCaimo"> Alessandro Caimo</persName>, et <persName>Messer
                         Barnaba</persName> matematico, dissero, che quanto a la ragione, la
@@ -689,7 +677,7 @@
                      gli altri, non averebbe finto in pittura il quadro disopra detto ne la pace, a
                         <placeName ref="#Rome">Roma</placeName>, appiccato con i chiodi, se si
                      potesse fare ciò, che torna bene. Ma Vostra Signoria conosce il <persName ref="#Paciotto">Pacchiotto</persName> così bene come io, et sa quel che sa
-                     dire, et quel che sa fare. <pb n="22" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f22/full/full/0/native.jpg"/>
+                     dire, et quel che sa fare. <pb n="22" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0026.jp2/full/max/0/default.jpg"/>
                      <figure type="lettrine"/>
                      <hi rend="capitals">ESSENDO</hi> noi di nuovo richiamati alla presenza d'essi
                      signori, sopra l'opera del <objectName ref="#BaptistereDomeDeMilan">Battistero</objectName>, del quale pur nell'epistola mia fu fatta mentione,
@@ -727,7 +715,7 @@
                         nome di <persName ref="#Nerva">Nerva</persName>
                      </objectName>, eran distanti una grossezza, et due terzi di
                      colonna, oltre a molti altri, per le vestigia dei quali, ancor si vede, che non
-                     passarono mai la bella <pb n="23" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f23/full/full/0/native.jpg"/> dispositione degli Epistylli, che ci dà
+                     passarono mai la bella <pb n="23" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0027.jp2/full/max/0/default.jpg"/> dispositione degli Epistylli, che ci dà
                         <persName ref="#Vitruve">Vitruvio</persName>. Quanto maggiormente adunque,
                      per le dette ragioni si doveranno spezzare gli architravi di vivo, che si
                      metteranno in opera sopra alle dette colonne; se gli intercolunni loro passano
@@ -760,7 +748,7 @@
                      poca, non mancavano le forme poligonie, o vogliam dire di più faccie, et
                      angoli, le quali tutte tornano benissimo, quando che in esse si osservano le
                      simmetrie, et le regole date, et usate da buoni: non vi essendo (come si vede)
-                     necessità, che vi <pb n="24" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f24/full/full/0/native.jpg"/> astringesse ad appigliarvi più ad una, che ad
+                     necessità, che vi <pb n="24" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0028.jp2/full/max/0/default.jpg"/> astringesse ad appigliarvi più ad una, che ad
                      un'altra forma. Et se si volesse addurre, che il principio dell'<persName ref="#VincenzoSeregni">Architetto passato</persName>, v'havesse a ciò fare
                      astretto, gli risponderebbe che egli haveva gittato, i suoi fondamenti
                      congionti con la facciata del <objectName ref="#DomeDeMilan">Tempio</objectName>, per maggior sodezza dell'edificio; che sotto alle sue
@@ -789,7 +777,7 @@
                      incatenamenti, et insoliti sostenere quello che non si deve, et che è quasi
                      impossibile. Non però voglio mancare di ricordare, che i fregi sono finiti,
                      come si vede da ognuno: né in essi è spazio per tali incatenamenti, se di nuovo
-                     spezzandogli non ve lo farà. Et quando anco <pb n="25" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f25/full/full/0/native.jpg"/> si possa fare, ciò che
+                     spezzandogli non ve lo farà. Et quando anco <pb n="25" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0029.jp2/full/max/0/default.jpg"/> si possa fare, ciò che
                      egli ora disegna sì facile, non però s'assicurerà quest'opera di maniera, che
                      non resti anco (al creder di molti) più pericolosa, né si debbon fare le
                      fabriche a caso, per dire poi, io vi rimedierò, che da principio ci insegna
@@ -825,7 +813,7 @@
                      dell'altra, et l'uno spazio simile, et proporzionato all'altro, et gli
                      intercolunni di mezo d'esso <objectName ref="#ScuroloSanCarloMilan">Tempietto</objectName>, sono uguali alli spazi di circonferenza, et nella
                      proporzione, che è il tutto, della maggiore circonferenza d'esso <objectName ref="#ScuroloSanCarloMilan">Tempietto</objectName>, alla minore: ove sono le
-                     colonne, <pb n="26" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f26/full/full/0/native.jpg"/> sono ogni due spazi di circonferenza ad uno intercolunnio
+                     colonne, <pb n="26" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0030.jp2/full/max/0/default.jpg"/> sono ogni due spazi di circonferenza ad uno intercolunnio
                      di mezo, come ci ammaestra la prima, et duodecima propositione del <bibl key="EuclidePerspective" ref="Livre V">quinto libro</bibl> d' <persName ref="#Euclide">Euclide</persName>. Inoltre lo spazio rinchiuso da dette
                      colonne, viene anch'esso in proporzione dupla, con le sue logge, com'è dovere.
                      Et il tutto è proporzionato, con simiglianza delle larghezze alle altezze, come
@@ -857,7 +845,7 @@
                      con tal digradatione, cosa che non è, come vedete, per <ptr target="#F8L1" type="renvoie">questa pianta</ptr>, presa sul dosso dell'opera vostra. Non
                      istarò ora a dirvi quello, che hanno notato molti, cioé, che non habbiate fatto
                      le colonne d'ordine ionico, essendo quelle di sopra del <objectName ref="#DomeDeMilan">Tempio maggiore</objectName> di che si ragiona di ordine
-                     composito, ma averò ben caro d'intendere sopra ciò qualche <pb n="27" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f27/full/full/0/native.jpg"/> vostra
+                     composito, ma averò ben caro d'intendere sopra ciò qualche <pb n="27" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0031.jp2/full/max/0/default.jpg"/> vostra
                      bella ragione. Questo diss'io sopra il primo capo del <objectName ref="#ScuroloSanCarloMilan">Tempietto sotterraneo</objectName>, come vostra
                      signoria vedrà per le piante, et profili dal settimo al decimo luogo dei
                      disegni. Poi soggiunsi intorno all'altro capo, appartenente al
@@ -897,7 +885,7 @@
                      occupare, contra ogni ragione, quello intercolunnio di più. Perché nella pianta
                      d'esso <objectName ref="#DomeDeMilan">Tempio</objectName> lo comporta, nelle
                      colonne della tribuna debbono già mai aver alcun impedimento di fuori, per qual
-                     si voglia cosa, per importante che sia, <pb n="28" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f28/full/full/0/native.jpg"/> altrimenti né il popolo di
+                     si voglia cosa, per importante che sia, <pb n="28" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0032.jp2/full/max/0/default.jpg"/> altrimenti né il popolo di
                         <placeName ref="#Milan">questa Città</placeName>, né gli intelligenti di
                      fuori, se non in un tempo, almeno in un altro, (al creder mio) ve lo
                      comporteranno. Oltre a ciò, facendosi dico, al primo modo, si leverà quasi
@@ -927,7 +915,7 @@
                      sopra d'un disegno da lui lasciato dentro, senza mia saputa; acciò che io non
                      vedessi una sua certa invenzione, di uno piano digradato, et a pendio in un
                         Choro d'un <objectName ref="#DomeDeMilan">Tempio</objectName> di così gran nome, et <placeName ref="#Milan">
-                        Città</placeName>, com'è <pb n="29" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f29/full/full/0/native.jpg"/> la nostra: opera più tosto da profane
+                        Città</placeName>, com'è <pb n="29" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0033.jp2/full/max/0/default.jpg"/> la nostra: opera più tosto da profane
                      dimostrationi, et comedie, che da celebrarvi i sacri, et divini offici. Sopra
                      il qual disegno, avendo essi signori molto ragionato, et à chi piacque, à chi
                      no, fummo di nuovo richiamati alla preferenza loro, che ancora facevano gran
@@ -956,7 +944,7 @@
                         Architetto</persName> accioché non si tramutasse l'opera in cominciata, et
                      che ancora non era molto inanzi: il qual <persName ref="#SforzaMoroni">
                         Signore</persName> l'ebbe, ma diversissimo dall'opera; et è l'<ptr target="#F13L1" type="renvoie">ultima pianta</ptr> posta nei disegni, vicina
-                     alle regole, et divisione del circolo <pb n="30" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f30/full/full/0/native.jpg"/> da me dette di sopra, et
+                     alle regole, et divisione del circolo <pb n="30" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0034.jp2/full/max/0/default.jpg"/> da me dette di sopra, et
                      l'originale è anco appresso d'esso <persName ref="#SforzaMoroni">Illustre
                         Signore</persName>. Nondimeno egli continuava l'opera diversamente, nel
                      modo, ch'io ho dimostrato, per non si abbassare ai buoni autori, et buoni
@@ -986,7 +974,7 @@
                      ogni artefice, che operi con ragione, si parte dalla scienza, et camina alla
                      pratica. Ma se l'operare sarà senza ragione questo sarà o a caso o ad
                      imitatione. Et perché tanto le buone opere, quanto le false, et tanto le fatte
-                     con ragione, quanto le sproporzionate possono essere imitate da colui <pb n="31" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f31/full/full/0/native.jpg"/> che non ha in sé la ragione, per mezo della quale egli possa
+                     con ragione, quanto le sproporzionate possono essere imitate da colui <pb n="31" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0035.jp2/full/max/0/default.jpg"/> che non ha in sé la ragione, per mezo della quale egli possa
                      discernere le buone opere dalle vitiose. Di qui nasce, che l'imitatione può
                      facilmente errare, senza la guida dell'arte. Per lo che si vede quanto sia più
                      eccellente, et più degna l'arte dell'isperienza, poiché l'arte è più vicina al
@@ -1020,7 +1008,7 @@
                      ragionevole proportione può, dimostrando, manifestare. Il <bibl key="VitruvearchitetturaBarbaro"><persName ref="#DanieleBarbaro">Patriarca</persName></bibl>. <quote>Ogni artificioso componimento ha
                         l'esser suo dalla notitia del fine. Volendo dunque fabricare, fa di mestieri
                         avere conoscimento del fine. Fine intendo io quello a cui s'indirizza
-                        l'operatione: et in questo l'intelletto<pb n="32" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f32/full/full/0/native.jpg"/> considera, che cosa è
+                        l'operatione: et in questo l'intelletto<pb n="32" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0036.jp2/full/max/0/default.jpg"/> considera, che cosa è
                         principio et che cosa è mezo: et truova che il principio si considera in
                         modo di presidenza, et nel principiare il fine è prima, che l'Agente, perché
                         il fine è quello che lo muove all'opera. L'agente è prima che la forma, et
@@ -1055,7 +1043,7 @@
                      se per avere un lieve esercitio, et alquanto di pratica, di sì gran nome si
                      credesse esser degno, non potrebbe un intendente chiuderli la bocca, domandando
                      li conto, et ragione delle cose fatte? Perché adunque i pratici non hanno
-                     acquistato credito?<pb n="33" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f33/full/full/0/native.jpg"/> Percioché l'architettura nasce dal discorso.
+                     acquistato credito?<pb n="33" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0037.jp2/full/max/0/default.jpg"/> Percioché l'architettura nasce dal discorso.
                      Perché non i letterati? Perché nasce ancor dall'atto del fabricare. Ma in
                      questo luogo potrebbe alcuno dubitar, et dire: se veramente arte è
                      nell'intelletto; perché cagione dice <persName ref="#Vitruve">
@@ -1091,7 +1079,7 @@
                         Architectum profitetur.</quote> Onde avviene che chi fa professione
                      d'architetto pare che nell'una, et nell'altra parte esser debba esercitato.
                      Cioè, nella cosa significata, la qual nasce dalla fabrica, et nella
-                     significante, la qual viene <pb n="34" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f34/full/full/0/native.jpg"/> dal discorso. Talché per l'una la
+                     significante, la qual viene <pb n="34" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0038.jp2/full/max/0/default.jpg"/> dal discorso. Talché per l'una la
                      pratica, et per l'altra la scienza si viene ad abbracciare, et congiugnere, in
                      modo, che separar non li possono l'una dall altra. Perciò deve l' architetto
                      esser, et nell'una, et nell'altra esercitato. </p>
@@ -1119,7 +1107,7 @@
         </div2>
         <div2 xml:id="M5" type="section" n="5" xml:lang="ita">
           <div3 xml:id="M5S1" type="lettre" n="1" xml:lang="ita">
-            <pb n="35" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f35/full/full/0/native.jpg"/>
+            <pb n="35" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0039.jp2/full/max/0/default.jpg"/>
             <opener>
               <signed>DEL MAGNIFICO SIGNOR <persName ref="#AlfonsoN">ALFONSO N.</persName>
                      </signed>
@@ -1153,7 +1141,7 @@
                      quanti vertuosi mi capiteranno in questa città gli scritti vostri. Et sono
                      sicuro, che troveranno lode et commendatione appresso d'ogni intendente. Voi
                      fra tanto perseverate nelli studi vostri. Che a così belli principi, come
-                     avete, vi convien <pb n="36" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f36/full/full/0/native.jpg"/> fare che segua un perfetto fine. Et essendo nel
+                     avete, vi convien <pb n="36" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0040.jp2/full/max/0/default.jpg"/> fare che segua un perfetto fine. Et essendo nel
                      fior de gli anni potete (avendo vita) sperarlo al sicuro, non mancando per voi.
                      Et perdonatemi, se spronato dall'amor che vi porto, et che portate voi a me, vo
                      trappassando i termini con questi ricordi. Né restandomi altro che pregarvi, a
@@ -1180,7 +1168,7 @@
                      affetto et merito, che Vostra Signoria mi tenga per suo divotissimo et
                      affettionatissimo servitore. Et così la prego caramente, che faccia da hoggi
                      inanzi, con mandandomi sempre alcuna cosa, in che io possa mostrarle l'amore et
-                     riverenza che le porto. Appresso la supplico, che non le gravi<pb n="37" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f37/full/full/0/native.jpg"/> di
+                     riverenza che le porto. Appresso la supplico, che non le gravi<pb n="37" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0041.jp2/full/max/0/default.jpg"/> di
                      leggere et considerare maturamente i pareri che le mando alligati, et darmene
                      il suo fondatissimo giudicio, riprendendomi o facendomi favore alla libera, in
                      quel tanto che le parrà ch'io meriti l'uno o l'altro, che di tutto rimarrò
@@ -1210,7 +1198,7 @@
                      quattro braccia, ancor che l'opera sia per andar alta da terra braccia
                      diecesette e mezo. Dietro al quale nuovo orizzonte et nuova distanza ha fatto
                      sculpire un pezzo di smusso segnato D, G, E, F che forma angolo col primo
-                     piano, come si vede per lo secondo profilo in punto I. Nondimeno, <pb n="38" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f38/full/full/0/native.jpg"/>
+                     piano, come si vede per lo secondo profilo in punto I. Nondimeno, <pb n="38" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0042.jp2/full/max/0/default.jpg"/>
                      detto <persName ref="#PellegrinoTibaldi">architetto</persName>, tiene che sia
                      col primo continuovo in superficie. Oltre à ciò vi ha innalzato una parete, con
                      un uscio in scorcio, un camin quadro et un pezzo di cortinaggio. Tutte le quali
@@ -1243,7 +1231,7 @@
                      l'altra da un altro, ma il tutto da un solo, come è dovere et come l'arte
                      comanda. Facendovi poi ornamenti convenienti, come variatamente vi si pon fare,
                      che per brevità gli ho insime con le figure in questo <ptr target="#F4L1" type="renvoie">terzo disegno</ptr> tralasciate. Non intendo però che le due
-                     figure siano alterate, poiché si trovino fornite nel detto <pb n="39" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f39/full/full/0/native.jpg"/> marmo,
+                     figure siano alterate, poiché si trovino fornite nel detto <pb n="39" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0043.jp2/full/max/0/default.jpg"/> marmo,
                      come si vede per lo <ptr target="#F3L1" type="renvoie">secondo disegno</ptr>.
                      L'altro mio parere di racconciar questo marmo, sarebbe che posto l'orizonte a
                      livello dell'occhio nostro nel congiungimento delle due linee A C et B D del
@@ -1281,7 +1269,7 @@
                      nel modo che dimostra il <ptr target="#F7L1" type="renvoie">detto
                      disegno</ptr>: né veggendo tali incatenamenti esser superflui, poiché detti
                      architravi, quanto alla ragione, ancor che non vi si sopraponesse altra cosa,
-                     per causa delli sproporzionati intervalli, <pb n="40" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f40/full/full/0/native.jpg"/> od intercolunni per sé
+                     per causa delli sproporzionati intervalli, <pb n="40" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0044.jp2/full/max/0/default.jpg"/> od intercolunni per sé
                      stessi si spaccherebbero. Il rimedio, al mio parere, sarebbe di far le colonne
                      di maggior grossezza, acciò gli intercolunni venissero ad essere secondo le
                      regole et proporzioni usate da buoni. Et se lo spazio da basso fosse poco
@@ -1317,7 +1305,7 @@
                      l'altra china bistorti et scomodissimi; come mostra il suo profilo all'<ptr target="#F9L1" type="renvoie">ottavo</ptr> luogo. Interrompimenti et
                      bruttezze poco convenevoli ai Templi sacri et famosi, qual è questo di che si
                      tratta. </p>
-            <pb n="41" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f41/full/full/0/native.jpg"/>
+            <pb n="41" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0045.jp2/full/max/0/default.jpg"/>
             <p xml:id="BAS_DA_L1_M5_M5S2_P4"><figure type="lettrine"/><hi rend="capitals">IO</hi> per questo vorrei (rimettendomi però a miglior
                      giudicio) che il detto <objectName ref="#ScuroloSanCarloMilan">Tempietto</objectName> si facesse in tutto corrispondente al <objectName ref="#DomeDeMilan">maggior Tempio</objectName>: la cella del quale è fatta
                      con la bella et bene intesa ragione dei trianguli, i lati dei quali passano per
@@ -1352,7 +1340,7 @@
                      paralelli al pavimento d'esso <objectName ref="#DomeDeMilan">maggior
                         Tempio</objectName>; come si è usato per l'adietro in ogni tempio sacro sin
                      a questi dì nostri, et come lo detto profilo si mostra. </p>
-            <pb n="42" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f42/full/full/0/native.jpg"/>
+            <pb n="42" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0046.jp2/full/max/0/default.jpg"/>
             <p xml:id="BAS_DA_L1_M5_M5S2_P5"><figure type="lettrine"/><hi rend="capitals">NON</hi> lascierò anco di dire a Vostra Signoria per
                      haverne il suo savio parere, che per la grande altezza delle spalle et dei muri
                      attorno ad esso Choro et per l'occupatione d'uno
@@ -1387,7 +1375,7 @@
                   dimostrano, è da esser tenuta carissima da ciascuno che desidera aver amicitia di
                   quelli, che in effetto et non in nome solamente, sono intendentissimi della
                   professione, ch'essi fanno. Voglio adunque pregarvi, che come avete cominciato,
-                  così per lo <pb n="43" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f43/full/full/0/native.jpg"/> avenire con tutta quella sicurtà, che si può avere con un
+                  così per lo <pb n="43" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0047.jp2/full/max/0/default.jpg"/> avenire con tutta quella sicurtà, che si può avere con un
                   suo affettionatissimo, voi vi serviate di me in tutto quello mi conoscerete buono.
                   Resto poi anco obligatissimo a voi dell'onor che mi fate, in farmi come giudice
                   dei vostri molto ben intesi pareri, circa i quali, poiché così mi ricercate, dirò
@@ -1419,7 +1407,7 @@
                   deve essere da noi seguita, se desideriamo di far le opere nostre, che stiano bene
                   et siano lodevoli. </p>
           <p xml:id="BAS_DA_L1_M6_P4">Quanto al <objectName ref="#BaptistereDomeDeMilan">Battistero</objectName>, io non veggio come l'opinione di quell'<persName ref="#PellegrinoTibaldi">architetto</persName>
-                  <pb n="44" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f44/full/full/0/native.jpg"/>, che lo vuol far quadro con così larghi spazi tra le colonne, possa
+                  <pb n="44" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0048.jp2/full/max/0/default.jpg"/>, che lo vuol far quadro con così larghi spazi tra le colonne, possa
                   stare a modo alcuno. Percioché ancor che gli architravi si facessero di pietra
                   forte et salda, et non avessero altro peso sopra, verrebbono nondimeno per la
                   molta lunghezza loro a spezzarsi. Però mi piace sommamente l'opinione di farlo di
@@ -1456,7 +1444,7 @@
                   Questo è quel tanto, che circa le vostre ingeniose, et belle inventioni per ora vi
                   posso dire. Et perché mi sono parute degne di esser viste da huomini intendenti:
                   le ho fatte vedere anco a Messer <persName ref="#GiuseppePorta">Giuseppe
-                     Salviati</persName>, pittore<pb n="45" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f45/full/full/0/native.jpg"/> et perspettivo eccellentissimo, et a
+                     Salviati</persName>, pittore<pb n="45" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0049.jp2/full/max/0/default.jpg"/> et perspettivo eccellentissimo, et a
                   messer <persName ref="#SilvioBelli">Silvio dei Belli</persName> vicentino
                   geometra, il più eccellente di queste nostre parti, i quali unanimi le hanno
                   sommamente commendate et sono restati affettionatissimi al vostro valore. Il che
@@ -1486,7 +1474,7 @@
                   regola di perspettiva; cioè metter l'orizzonte al luogo suo, o almeno metterlo
                   tanto basso che non si veggia il piano, et non pigli tale licenza di far veder il
                   piano in tanta altezza, cosa falsissima, come che molti l'habbiano usata. Ma in
-                  pittura <pb n="46" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f46/full/full/0/native.jpg"/> si può meglio tolerare che in scultura: et la ragione è che
+                  pittura <pb n="46" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0050.jp2/full/max/0/default.jpg"/> si può meglio tolerare che in scultura: et la ragione è che
                   altri si può coprire con dire, fingere cotal pittura esser un quadro dipinto
                   attaccato al muro, come fece l'intendente <persName ref="#BaldassarrePeruzzi">Baldassarre Peruzzi</persName> senese nel <objectName ref="#EgliseSainteMariePaixRome">Tempio della Pace</objectName> in <placeName ref="#Rome">Roma</placeName>: il quale finse un telaio di legname esser
                   attaccato a gangheri di ferro alla muraglia. Talché chi non sa che sia dipinto nel
@@ -1515,7 +1503,7 @@
           <p xml:id="BAS_DA_L1_M7_P5">Questo ben dico che il fare li pavimenti a pendio mi pare
                   una cosa monstruosa et fuor di ogni ragione, il che è quanto le so dire. </p>
           <p xml:id="BAS_DA_L1_M7_P6">Restami a ringraziarla della buona opinione, che tiene di
-                  me, <pb n="47" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f47/full/full/0/native.jpg"/> forse di gran lunga maggior che non sono li meriti miei, et anco
+                  me, <pb n="47" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0051.jp2/full/max/0/default.jpg"/> forse di gran lunga maggior che non sono li meriti miei, et anco
                   dell'amorevole confidenza di che per l'una et per l'altra gliene resto obligato.
                   Et con questo, per quel poco ch'io vaglia, me le offero et raccomando. Da
                      <placeName ref="#Caprarola">Capriola</placeName> alli <date when="08-28">
@@ -1544,7 +1532,7 @@
                      secondo la misura et la grazia non mi dispiaceva dell'<objectName ref="#TibaldiAnnonciationSantaMariaAnnunciataCamposanto">Annuntiata</objectName> il <ptr target="#F2L1" type="renvoie">primo
                         disegno</ptr> fatto con un'orizzonte solo, ove non si esce di regola. Il
                         <ptr target="#F3L1" type="renvoie">secondo</ptr> fatto con due orizzonti,
-                     non s'è approvato giamai et la veduta no'l comporta. Il <ptr target="#F4L1" type="renvoie">terzo</ptr> sta meglio perché racconcia il secondo per <pb n="48" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f48/full/full/0/native.jpg"/> orizonte solo, ma non l'arrichisce di maniera che passi di molto il
+                     non s'è approvato giamai et la veduta no'l comporta. Il <ptr target="#F4L1" type="renvoie">terzo</ptr> sta meglio perché racconcia il secondo per <pb n="48" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0052.jp2/full/max/0/default.jpg"/> orizonte solo, ma non l'arrichisce di maniera che passi di molto il
                      primo. Il <ptr target="#F5L1" type="renvoie">quarto</ptr>, non mi dispiace per
                      la sua varietà, ma avendosi a far di nuovo quella veduta si bassa, rovina tanto
                      che a coloro che non sono dell'arte darà fastidio alla vista, che se bene può
@@ -1580,7 +1568,7 @@
                      et la sarò sempre vostro. Hor udite questo nostro valente Accademico. </p>
           </div3>
           <div3 xml:id="M8S2" type="lettre" n="2" xml:lang="ita">
-            <pb n="49" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f49/full/full/0/native.jpg"/>
+            <pb n="49" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0053.jp2/full/max/0/default.jpg"/>
             <opener>
               <salute>MAGNIFICO MESSER <persName ref="#GiorgioVasari">GEORGIO</persName>.</salute>
             </opener>
@@ -1612,7 +1600,7 @@
                   incommodo. Pur mi sforzerò con brevità dirvi una particella del mio parere, poiché
                   volendo dar risposta a tutti li capi sopra i quali sono ricerco, non me lo
                   concedono le intolerabili doglie c'hor sento: basta ch'io vi risolvo laudando et
-                  approvando per buoni tutti i vostri pareri, et ben'intesi avertimenti, <pb n="50" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f50/full/full/0/native.jpg"/> eccettuando però li pareri del piano di marmo, ove è scolpita l'immagine
+                  approvando per buoni tutti i vostri pareri, et ben'intesi avertimenti, <pb n="50" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0054.jp2/full/max/0/default.jpg"/> eccettuando però li pareri del piano di marmo, ove è scolpita l'immagine
                      dell'<objectName ref="#TibaldiAnnonciationSantaMariaAnnunciataCamposanto">Annuntiatione</objectName>, messa in perspettiva in vari modi. Non nego che le
                   vostre regole di perspettiva non siano ottimie et meglio intese de quelle delli
                   due primi architetti, i quali hanno diversamente operato nel sudetto marmo. Ma ben
@@ -1652,7 +1640,7 @@
                </p>
         </div2>
         <div2 xml:id="M10" type="lettre" n="10" xml:lang="ita">
-          <pb n="51" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f51/full/full/0/native.jpg"/>
+          <pb n="51" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0055.jp2/full/max/0/default.jpg"/>
           <opener><salute>AL MAGNIFICO SIGNOR <persName ref="#AlfonsoN">ALFONSO N.</persName>
                   </salute><signed><persName ref="#MartinoBassi"><reg>MARTINO BASSI</reg></persName></signed>.</opener>
           <p xml:id="BAS_DA_L1_M10_P1"><figure type="lettrine"/><hi rend="capitals">IO</hi> m'allegrai infinitamente quando <persName ref="#LattanzioGambara">messer Lattantio</persName> suo mi mostrò l'instrutione
@@ -1677,7 +1665,7 @@
                   aerose et messe in luogo commodo, di poter essere da ogn'uno facilmente ritrovate,
                   et di più senza che apportano alcuna sorte d'impedimento al resto dell'edificio.
                   Mi piace ancora che siano (come ella dice) libere nel mezo, per maggior contento
-                  et leggiadria di quelli che stando <pb n="52" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f52/full/full/0/native.jpg"/> al sommo della scala vedranno
+                  et leggiadria di quelli che stando <pb n="52" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0056.jp2/full/max/0/default.jpg"/> al sommo della scala vedranno
                   tutti coloro che saliranno, o ver che incomincieranno a salire, et similmente
                   saranno da quelli veduti. Alla sala, che Vostra Signoria dice esser di longhezza
                   ottanta palmi et quarantaotto larga, ancora che sia di maggior grandezza delle
@@ -1709,7 +1697,7 @@
                   d'intendere: parendomi, per quanto mi detta il mio poco giudicio avere con quella
                   maggior modestia, ch'io seppi, scoperto a bastanza, al Capitolo, et a <persName ref="#PellegrinoTibaldi"> Messer Pellegrino Tibaldi</persName>, che per le
                   sproporzioni et altri evidenti difetti che causava la pianta dello <objectName ref="#ScuroloSanCarloMilan">Scurolo</objectName>, posto in opera da lui,
-                  s'apparecchiavano <pb n="53" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f53/full/full/0/native.jpg"/> mille inconvenienti. Dalla quale, avemo ancora da
+                  s'apparecchiavano <pb n="53" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0057.jp2/full/max/0/default.jpg"/> mille inconvenienti. Dalla quale, avemo ancora da
                   pensare, et credere, che ne siano nate queste loro contese, et differenze.
                   Percioché per quanta diligenza, et arte si possa usare, non crederò che si possano
                   mai questi inconvenienti nascondere, avendoli seco portato la sudetta pianta. Ma
@@ -1734,12 +1722,12 @@
                   <hi rend="capitals">IL FINE.</hi>
                </p>
         </div2>
-        <pb n="54" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f54/full/full/0/native.jpg"/>
+        <pb n="54" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0058.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F1L1" source="https://architectura.cesr.univ-tours.fr/Traite/Images/LES0056Index.asp" type="ornement"/>
-        <pb n="55" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f55/full/full/0/native.jpg"/>
-        <pb n="56" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f56/full/full/0/native.jpg"/>
-        <pb n="57" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f57/full/full/0/native.jpg"/>
-        <pb n="58" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f58/full/full/0/native.jpg"/>
+        <pb n="55" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0059.jp2/full/max/0/default.jpg"/>
+        <pb n="56" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0060.jp2/full/max/0/default.jpg"/>
+        <pb n="57" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0061.jp2/full/max/0/default.jpg"/>
+        <pb n="58" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0062.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F2L1" source="https://architectura.cesr.univ-tours.fr/Traite/Images/LES0056Index.asp" type="dessin" n="1">
           <p> l'architetto di fare per vageza dell'opera <hi rend="capitals">PROFILO</hi>
                </p>
@@ -1750,7 +1738,7 @@
                      <list rend="numbered"><item>A. orizonte con el quale è <choice><sic>digrato</sic><corr>digradato</corr></choice> il piano. </item><item>B. linea della distanza de' braza 16. </item><item>D.C. linea piana del marmo. </item><item>G.H. linea parallela alla piana che termina il piano digradato. </item><item>N. panchetta, O. cortinaggio </item></list>
                </p>
         </figure>
-        <pb n="59" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f59/full/full/0/native.jpg"/>
+        <pb n="59" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0063.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F3L1" type="dessin" n="2">
           <p> Nel profilo. <list rend="numbered"><item>K.I. primo piano. </item><item>I.P. secondo piano over smuso l'angolo. </item><item>P.K. la linea che dismostra l'angolo nel congiongimento dell'opera. </item><item>I.H. el fondo lassiato tanto come piglia l'angelo. </item><item>P.P. linea del fondo caciato a dentro tutto l'accrescimento serve al
                         secondo orizonte et il restante al primo, <reg>cosa</reg> fantastica.</item></list>
@@ -1765,9 +1753,9 @@
             </list>
           </p>
         </figure>
-        <pb n="60" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f60/full/full/0/native.jpg"/>
-        <pb n="61" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f61/full/full/0/native.jpg"/>
-        <pb n="62" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f62/full/full/0/native.jpg"/>
+        <pb n="60" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0064.jp2/full/max/0/default.jpg"/>
+        <pb n="61" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0065.jp2/full/max/0/default.jpg"/>
+        <pb n="62" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0066.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F4L1" type="dessin" n="3">
           <p>Terzo disegno nel modo della prima corretione che io proposto.</p>
           <p><hi rend="capitals">PROFILO</hi>.</p>
@@ -1785,7 +1773,7 @@
           <p>Nel profilo. <list rend="numbered"><item>Q.M. primo piano. </item><item>M.N. piano alongato. </item><item>N.O. fondo del marmo. </item><item>Q.P. luogo delle figure.</item></list>
                </p>
         </figure>
-        <pb n="63" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f63/full/full/0/native.jpg"/>
+        <pb n="63" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0067.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F5L1" type="dessin" n="4">
           <p> Quarto et ultimo disegno di perspetiva nel secondo modo per me proposto per
                   coregere il detto marmo</p>
@@ -1801,16 +1789,16 @@
           <p>Le linee oculte disegnano il piano digradato al ingiù</p>
           <p> Il rimanente è per sé chiaro</p>
         </figure>
-        <pb n="64" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f64/full/full/0/native.jpg"/>
-        <pb n="65" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f65/full/full/0/native.jpg"/>
+        <pb n="64" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0068.jp2/full/max/0/default.jpg"/>
+        <pb n="65" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0069.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F6L1" type="dessin" n="5">
           <p>Quinta figura.</p>
           <p>Pianta del <objectName ref="#BaptistereDomeDeMilan">batisterio</objectName> in
                   otto facce.</p>
         </figure>
-        <pb n="66" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f66/full/full/0/native.jpg"/>
-        <pb n="67" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f67/full/full/0/native.jpg"/>
-        <pb n="68" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f68/full/full/0/native.jpg"/>
+        <pb n="66" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0070.jp2/full/max/0/default.jpg"/>
+        <pb n="67" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0071.jp2/full/max/0/default.jpg"/>
+        <pb n="68" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0072.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F7L1" type="dessin" n="6">
           <p>Sesto dissegno del <objectName ref="#BaptistereDomeDeMilan">Batisterio</objectName> simile a quello mostro capitolo messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName> con gli mantenamenti da lui
                   novellamente ritovati et dopo messi in opera.</p>
@@ -1827,7 +1815,7 @@
           </p>
           <p>Il rimanente è per sé chiaro. </p>
         </figure>
-        <pb n="69" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f69/full/full/0/native.jpg"/>
+        <pb n="69" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0073.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F8L1" type="dessin" n="7">
           <p>Mezza pianta del Choro superiore. B.</p>
           <p>
@@ -1857,9 +1845,9 @@
           </p>
           <p><list rend="numbered"><item>N. Loggie sproportionate</item></list>.</p>
         </figure>
-        <pb n="70" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f70/full/full/0/native.jpg"/>
-        <pb n="71" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f71/full/full/0/native.jpg"/>
-        <pb n="72" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f72/full/full/0/native.jpg"/>
+        <pb n="70" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0074.jp2/full/max/0/default.jpg"/>
+        <pb n="71" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0075.jp2/full/max/0/default.jpg"/>
+        <pb n="72" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0076.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F9L1" type="dessin" n="8">
           <p>Profillo del <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName> et dei
                   piani interotti et pendii nel choro di sopra guidato da messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName>.</p>
@@ -1887,7 +1875,7 @@
             </list>
           </p>
         </figure>
-        <pb n="73" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f73/full/full/0/native.jpg"/>
+        <pb n="73" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0077.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F10L1" type="dessin" n="9">
           <p>Pianta della Cella del <objectName ref="#DomeDeMilan">maggior tempio</objectName>
                   drento della quale vi si vede la pianta del <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName> al tutto con essa
@@ -1912,9 +1900,9 @@
             </list>
           </p>
         </figure>
-        <pb n="74" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f74/full/full/0/native.jpg"/>
-        <pb n="75" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f75/full/full/0/native.jpg"/>
-        <pb n="76" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f76/full/full/0/native.jpg"/>
+        <pb n="74" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0078.jp2/full/max/0/default.jpg"/>
+        <pb n="75" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0079.jp2/full/max/0/default.jpg"/>
+        <pb n="76" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0080.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F11L1" type="dessin" n="10">
           <p>piano dil <objectName ref="#DomeDeMilan">maggior tempio</objectName>
                </p>
@@ -1945,14 +1933,14 @@
           <p>Profillo del <objectName ref="#ScuroloSanCarloMilan"><reg>Tempietto</reg></objectName> et Choro superiore ridotto a maggior forma
                   della passata pianta nel modo che io proposi di fare.</p>
         </figure>
-        <pb n="77" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f77/full/full/0/native.jpg"/>
+        <pb n="77" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0081.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F12L1" type="dessin" n="11">
           <p> Disegno dello <objectName ref="#ScuroloSanCarloMilan">Scurollo</objectName>,
                   diverso da l'opera fatta all'Illustrissimo Signor <persName ref="#SforzaMoroni">Conte Sforza Moroni</persName>, per messer <persName ref="#PellegrinoTibaldi">Pelegrino</persName>.</p>
         </figure>
-        <pb n="78" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f78/full/full/0/native.jpg"/>
-        <pb n="79" type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f79/full/full/0/native.jpg"/>
-        <pb n="80" facs="https://gallica.bnf.fr/iiif/ark:/12148/bd6t57781345/f80/full/full/0/native.jpg"/>
+        <pb n="78" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0082.jp2/full/max/0/default.jpg"/>
+        <pb n="79" type="blankpage" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0083.jp2/full/max/0/default.jpg"/>
+        <pb n="80" facs="https://iiif.archive.org/image/iiif/3/inmateriadarchit00bass%2Finmateriadarchit00bass_jp2.zip%2Finmateriadarchit00bass_jp2%2Finmateriadarchit00bass_0084.jp2/full/max/0/default.jpg"/>
         <figure xml:id="F13L1" type="dessin" n="12">
           <p>Pianta del <objectName ref="#DomeDeMilan">Domo de <placeName ref="#Milan">Milano</placeName>
                   </objectName> per la quale si veggono gli ultimi termini de esso <objectName ref="#DomeDeMilan">tempio</objectName>.</p>

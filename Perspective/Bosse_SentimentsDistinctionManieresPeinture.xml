@@ -22,27 +22,27 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb118930604">Bosse<idno type="ISNI">http://isni.org/isni/0000000121355423</idno>
-               </author>
-               <title xml:lang="fra">Sentimens sur la distinction des diverses manieres de peinture, dessein &amp; graveure, &amp; des originaux d'avec leurs copies. Ensemble du choix des sujets, &amp; des chemins pour arriver facilement &amp; promptement à bien pourtraire.</title>
-               <publisher>Pierre Des Hayes</publisher>
-               <pubPlace>Paris</pubPlace>
-               <date when="1649">1649</date>
-            </bibl>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/btv1b8612040z">Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb118930604">Abraham Bosse<idno type="ISNI">http://isni.org/isni/0000000121355423</idno>
+        </author>
+          <title xml:lang="fra">Sentimens sur la distinction des diverses manieres de peinture, dessein &amp; graveure, &amp; des originaux d'avec leurs copies. Ensemble du choix des sujets, &amp; des chemins pour arriver facilement &amp; promptement à bien pourtraire.</title>
+          <publisher>Pierre Des Hayes</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1649">1649</date>
+        </bibl>
         <msDesc>
           <msIdentifier>
             <country>France</country>
             <settlement ref="#Paris">Paris</settlement>
             <institution>Bibliothèque nationale de France</institution>
-            <repository/>
+            <repository />
             <idno type="USTC">http://catalogue.bnf.fr/ark:/12148/cb30134732p</idno>
           </msIdentifier>
         </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -62,16 +62,16 @@
         <segmentation>
           <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : body avec div des heading Transkribus</p>
         </segmentation>
-        <hyphenation eol="none"/>
+        <hyphenation eol="none" />
         <stdVals>
           <p>Norme ISO-8601 pour les dates</p>
         </stdVals>
       </editorialDecl>
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
     </profileDesc>
   </teiHeader>
   <text>

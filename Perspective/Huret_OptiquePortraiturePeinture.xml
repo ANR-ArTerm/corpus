@@ -22,27 +22,27 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Public domain<author ref="ark:/12148/cb306298335">Huret<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=8/TTL=1/SHW?FRST=2</idno>
-               </author>
-               <title xml:lang="fra">Optique de portraiture et de peinture, Paris, chez l'auteur</title>
-               <publisher>Chez l'Auteur</publisher>
-               <pubPlace>Paris</pubPlace>
-               <date when="1670">1670</date>
-            </bibl>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/btv1b8612087c">Public domain<author ref="ark:/12148/cb306298335">Grégoire Huret<idno type="ISNI">http://isni.org/isni/0000000109120963</idno>
+        </author>
+          <title xml:lang="fra">Optique de portraiture et de peinture, Paris, chez l'auteur</title>
+          <publisher>Chez l'Auteur</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1670">1670</date>
+        </bibl>
         <msDesc>
           <msIdentifier>
             <country>France</country>
             <settlement ref="#Paris">Paris</settlement>
             <institution>Bibliothèque nationale de France</institution>
-            <repository/>
+            <repository />
             <idno type="USTC">https://www.ustc.ac.uk/editions/6123137</idno>
           </msIdentifier>
         </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -62,18 +62,19 @@
         <segmentation>
           <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
         </segmentation>
-        <hyphenation eol="none"/>
+        <hyphenation eol="none" />
         <stdVals>
           <p>Norme ISO-8601 pour les dates</p>
         </stdVals>
       </editorialDecl>
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
     </profileDesc>
   </teiHeader>
+  
   <text>
     <front>
       <div type="titre">

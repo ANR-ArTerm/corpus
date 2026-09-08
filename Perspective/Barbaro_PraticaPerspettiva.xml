@@ -22,13 +22,13 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>
-          <author ref="https://catalogue.bnf.fr/ark:/12148/cb39315875n48z">Barbaro<idno type="ISNI"/>
-               </author>
+        <bibl source="https://archive.org/details/gri_33125008285765/page/n3/mode/2up">
+          <author ref="https://catalogue.bnf.fr/ark:/12148/cb39315875n48z">Daniele Barbaro<idno type="ISNI">https://isni.org/isni/0000000121185823</idno>
+          </author>
           <title xml:lang="ita">La pratica della perspettiva di Monsignor Daniel Barbaro eletto patriarca d'Aquileia, opera molto utile a pittori, a scultori, &amp; ad architetti. Con due tavole, una de'capitoli principali, l'altra delle cose più notabili contenute nella presente opera.</title>
           <publisher>Camillo et Rutilio Borgominieri</publisher>
           <pubPlace>Venise</pubPlace>
@@ -36,14 +36,14 @@
         </bibl>
         <msDesc>
           <msIdentifier>
-            <country/>
-            <settlement ref="#"/>
+            <country />
+            <settlement ref="#" />
             <institution>Getty Institute</institution>
-            <repository/>
+            <repository />
             <idno type="USTC">https://www.ustc.ac.uk/editions/812217</idno>
           </msIdentifier>
         </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -63,16 +63,16 @@
         <segmentation>
           <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage, dedicace, preface), body (9 livres [L1: 9Chap, L2 : 11C, L3: 33C, L4: 18C, L5: 3C, L6: 4C, L7: 2C, L8: 4C, L9: 5C], back (postface, gap)</p>
         </segmentation>
-        <hyphenation eol="none"/>
+        <hyphenation eol="none" />
         <stdVals>
           <p>Norme ISO-8601 pour les dates</p>
         </stdVals>
       </editorialDecl>
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
     </profileDesc>
   </teiHeader>
   <text>
@@ -1023,7 +1023,6 @@
       </div>
       <pb n="195" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9928904/f200/full/full/0/native.jpg"/>
       <figure type="gravure"/>
-      <gap reason="editorial"/>
     </back>
   </text>
 </TEI>

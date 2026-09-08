@@ -22,12 +22,12 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb13011007f">Dupuy du Grez<idno type="ISNI">https://isni.org/isni/0000000122704314</idno>
-          </author>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k111861m">Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb13011007f">Bernard Dupuy du Grez<idno type="ISNI">https://isni.org/isni/0000000122704314</idno>
+        </author>
           <title xml:lang="fra">Traité sur la peinture pour apprendre la teorie et se perfectionner dans la pratique</title>
           <publisher>Veuve de J. Pech &amp; A. Pech</publisher>
           <pubPlace>Toulouse</pubPlace>
@@ -38,11 +38,11 @@
             <country>France</country>
             <settlement ref="#Paris">Paris</settlement>
             <institution>Bibliothèque nationale de France</institution>
-            <repository/>
+            <repository />
             <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb30383816v</idno>
           </msIdentifier>
         </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -62,16 +62,16 @@
         <segmentation>
           <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface + avertissement + privilege + errata) + body (4 livres avec C1 dissertation et C2 supplément à la dissertation) + back (table des matieres)</p>
         </segmentation>
-        <hyphenation eol="none"/>
+        <hyphenation eol="none" />
         <stdVals>
           <p>Norme ISO-8601 pour les dates</p>
         </stdVals>
       </editorialDecl>
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
     </profileDesc>
   </teiHeader>
   <text>
