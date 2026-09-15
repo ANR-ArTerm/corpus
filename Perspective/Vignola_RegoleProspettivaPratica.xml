@@ -92,13 +92,17 @@
       <titlePage>
         <pb n="5"
           facs="https://iiif.archive.org/image/iiif/3/dveregoledellapr00vign%2Fdveregoledellapr00vign_jp2.zip%2Fdveregoledellapr00vign_jp2%2Fdveregoledellapr00vign_0005.jp2/full/max/0/default.jpg"/>
-        <titlePart> LE DUE REGOLE DELLA PROSPETTIVA PRATICA DI M JACOMO BAROZZI DA VIGNOLA Con i
-          comentarii del R. P. M. <persName ref="#IgnazioDanti">Egnatio Danti</persName> dell'ordine
-          de Predicatori Matematico della Studio di <placeName ref="#Bologne">Bologna</placeName>
-          ALL ILL ET ECELL SIG JACOMO BUONCOMPAGNI Duca di Sora et d'Arce Signor d'Arpino Marchese
-          di Vignola Cap. Gen degl'buomini d'arme del Re Catt nello stato di <placeName ref="#Milan"
-            >Milano</placeName> et Gouvernatore Generale di Santa Chiesa IN <placeName ref="#Rome"
-            >ROMA</placeName> Per Francesco Zannetti M. D. L XXXIII Con licenza de superiori </titlePart>
+        <titlePart> LE DUE REGOLE DELLA PROSPETTIVA PRATICA DI M <persName
+            ref="#JacopoBarozziDaVignola">JACOMO BAROZZI DA VIGNOLA</persName> Con i comentarii del
+          R. P. M. <persName ref="#IgnazioDanti">Egnatio Danti</persName> dell'ordine de Predicatori
+          Matematico della Studio di <placeName ref="#Bologne">Bologna</placeName> ALL ILL ET ECELL
+          SIG <persName ref="#GiacomoBoncompagni">JACOMO BUONCOMPAGNI</persName> Duca di <placeName
+            ref="#DucatoDiSora">Sora</placeName> et d'<placeName ref="#Arce">Arce</placeName>,
+          Signor d'<placeName ref="#Arpino">Arpino</placeName> Marchese di <placeName ref="#Vignola"
+            >Vignola</placeName> Cap. Gen degl'huomini d'arme del Re Catt nello stato di <placeName
+            ref="#Milan">Milano</placeName> et Gouvernatore Generale di Santa Chiesa IN <placeName
+            ref="#Rome">ROMA</placeName> Per <persName>Francesco Zannetti</persName>
+          <date when="1583">M. D. L XXXIII</date> Con licenza de superiori </titlePart>
         <pb type="blankpage"
           facs="https://iiif.archive.org/image/iiif/3/dveregoledellapr00vign%2Fdveregoledellapr00vign_jp2.zip%2Fdveregoledellapr00vign_jp2%2Fdveregoledellapr00vign_0006.jp2/full/max/0/default.jpg"
         />
@@ -106,47 +110,51 @@
       <div type="dedicace">
         <pb n="7"
           facs="https://iiif.archive.org/image/iiif/3/dveregoledellapr00vign%2Fdveregoledellapr00vign_jp2.zip%2Fdveregoledellapr00vign_jp2%2Fdveregoledellapr00vign_0007.jp2/full/max/0/default.jpg"/>
-        <head> ALL ILLVSTRIS ET ECCELLENTIS SIGNOR IACOMO BONCOMPAGNI, DVCA DISORA ET DARCE, SIGNOR
-          D'ARPINO, Marchese di Vignola, Capitano generale de gl'huomini d'arme del Re Cattolico
-          nello Stato di <placeName ref="#Milan">Milano</placeName>, et Governator. generale di
-          Santa Chiesa. </head>
-        <figure type="ornement"/>
-        <p xml:id="VIG_RPP_dedicace_P1"> MAVENDO iofin da primi anni della mia pueritia atteso all
-          arte del Disegno, come quello che oltre alla naturale inclinatione, che ci avevo, non
-          volevo degena rare da i miei maggiori, i quali per lungo ordine di tempisono stati di
-          cotali arti dotati, et d'altre ancora da esse dipendenti. Et havendo io da poi affaticato
-          assai intorno alla Prospettiva, in quei tempi massimamente, che seruendo la gloriosa
-          memoria del Gran Duca Cosimo habitai per molti anni nella città di <placeName
-            ref="#Florence">Firenze</placeName>, vera patria, et nutrice di queste nobilissime arti,
-          conl'occasione di questa piacevol pratica, et mediante la cortesia del Cavaliere <persName
-            ref="#NiccoloGaddi">Niccolo Gaddi</persName>, gentil huomo di singulare ingegno, il
-          quale oltre all altre doti è grandemente amatore di così fatte virtu, feci acquisto delle
-          due pre senti Regole, che prima per intera et certa notitia di dett Arte erano sta te dal
-          Vignola ritrovate. Et perché in esse ritrovai da poi molto maggior eccellenz,a, che prima
-          per la poca notitia che ne haveva, non m era andato immaginando: et conoscendo che
-          gl'artefici potevano da dette Regole trarre non minor commodo, che si havessero fatto
-          dall'osseruationi de gl ornamenti dell'Architettura del medesimo Vignola; operai tanto,
-          chel Autore s'indusse finalmente a participarle al mondo per mezo delle stape. Et quando
-          egli appunto dà ordine di far intagliare i rami, ecco che in un subito interponendovisi la
-          morte fu impedito il disegno suo, e desiderio universale. Al quale havendo io volontà di
-          soddisfare, pregatone an cora da lacinto figlivolo di esso Vignola, a cui era molto a
-          cuore, che si uti le opera, et degna memoria di suo padre non perisse del tutto, presi
-          assunto non pure di farla publicare, ma ancò di renderla piu perfetta, come cre do haver
-          fatto, mediante le dichiarationi, et dimostrationi, che ho aggiun te alle sopradette
-          Regole: l'eccellenz,a delle quali acciò tanto maggiormente apparisca dalla comparatione de
-          gl'altri modi, cò quali gl'artefici communemente sogliono operare in quest Arte, gl'ho
-          voluti aggiugnere alle prefate Regole. La qual cosa con tanto maggior prontez <pb n="8"
+        <head> ALL ILLVSTRIS ET ECCELLENTIS SIGNOR <persName ref="#GiacomoBoncompagni">IACOMO
+            BONCOMPAGNI</persName>, DUCA DI <placeName ref="#DucatoDiSora">SORA</placeName> ET
+            D'<placeName ref="#Arce">ARCE</placeName>, SIGNOR D'<placeName ref="#Arpino"
+            >ARPINO</placeName>, Marchese di <placeName ref="#Vignola">Vignola</placeName>, Capitano
+          generale degl'huomini d'arme del Re Cattolico nello Stato di <placeName ref="#Milan"
+            >Milano</placeName>, et Governatore generale di Santa Chiesa. </head>
+        <p xml:id="VIG_RPP_dedicace_P1"><figure type="ornement"/>HAVENDO io fin dai primi anni della
+          mia pueritia atteso all'arte del disegno, come quello che oltre alla naturale inclinatione
+          che ci avevo, non volevo degenerare dai miei maggiori, i quali per lungo ordine di tempi
+          sono stati di cotali arti dotati et d'altre ancora da esse dipendenti. Et havendo io da
+          poi affaticato assai intorno alla prospettiva, in quei tempi massimamente, che servendo la
+          gloriosa memoria del Gran Duca <persName>Cosimo</persName> habitai per molti anni nella
+          città di <placeName ref="#Florence">Firenze</placeName>, vera patria et nutrice di queste
+          nobilissime arti, con l'occasione di questa piacevol pratica et mediante la cortesia del
+          Cavaliere <persName ref="#NiccoloGaddi">Niccolo Gaddi</persName>, gentil huomo di
+          singulare ingegno, il quale oltre alle altre doti è grandemente amatore di così fatte
+          virtù, feci acquisto delle due presenti regole, che prima per intera et certa notitia di
+          detta arte erano state dal <persName ref="#JacopoBarozziDaVignola">Vignola</persName>
+          ritrovate. Et perché in esse ritrovai da poi molto maggior eccellenza che prima per la
+          poca notitia che ne haveva, non m'era andato immaginando: et conoscendo che gli artefici
+          potevano da dette regole trarre non minor commodo, che si havessero fatto
+          dall'osservationi degli ornamenti dell'architettura del medesimo <persName
+            ref="#JacopoBarozziDaVignola">Vignola</persName>; operai tanto, che l'Autore s'indusse
+          finalmente a participarle al mondo per mezo delle stampe. Et quando egli appunto dà ordine
+          di far intagliare i rami, ecco che in un subito interponendovisi la morte fu impedito il
+          disegno suo, e desiderio universale. Al quale havendo io volontà di soddisfare, pregatone
+          ancora da <persName>Iacinto</persName> figliuolo di esso <persName
+            ref="#JacopoBarozziDaVignola">Vignola</persName>, a cui era molto a cuore, che si utile
+          opera, et degna memoria di suo padre non perisse del tutto, presi assunto non pure di
+          farla publicare, ma anco di renderla più perfetta, come credo haver fatto, mediante le
+          dichiarationi et dimostrationi che ho aggiunte alle sopradette regole: l'eccellenza delle
+          quali acciò tanto maggiormente apparisca dalla comparatione degl'altri modi, coi quali gli
+          artefici comunemente sogliono operare in quest'arte, gli ho voluti aggiugnere alle prefate
+          Regole. La qual cosa con tanto maggior prontezza <pb n="8"
             facs="https://iiif.archive.org/image/iiif/3/dveregoledellapr00vign%2Fdveregoledellapr00vign_jp2.zip%2Fdveregoledellapr00vign_jp2%2Fdveregoledellapr00vign_0008.jp2/full/max/0/default.jpg"
-          /> za d'animo m e venuta esseguita, quanto che io oltre al desiderio grande, che ho avuto
-          sempre di giovare ad altrui et con gli scritti, et con la voce, conosceva anco V.Eccellenz
-          a Illustrissima (la quale è solita pigliar molto diletto di queste nobilissime arti,
-          conuenienti a qual si voglia honorato Cavaliere) desiderosissima fuor di modo
-          d'apprendere, et impadro nirsi della pratica di questa piacevolissima Arte, poi che oltre
-          a tanti conmodi, che ella apporta all artedMilitare, reca ancora giovamento not abi le all
-          espugnatione, et difesa delle fortez ze, potendosi congli strumenti di quest Arte levare
-          in disegno qual si voglia sito senza accostarvisi, et haverne non solamente la pianta,
-          mal'alzato, con ogni sua particolarità, et le misure delle sue parti proportionate alla
-          distanz,a, che è tra l'occhio nostro, et la cosa che habbiamo messa in disegno. Gradisca
+          /> za d'animo m'è venuta eseguita, quanto che io oltre al desiderio grande che ho avuto
+          sempre di giovare ad altrui et con gli scritti et con la voce, conosceva anco Vostra
+          Eccellenza Illustrissima (la quale è solita pigliar molto diletto di queste nobilissime
+          arti, convenienti a qual si voglia honorato Cavaliere) desiderosissima fuor di modo
+          d'apprendere, et impadronirsi della pratica di questa piacevolissima arte, poi che oltre a
+          tanti comodi, che ella apporta all'arte militare, reca ancora giovamento notabile
+          all'espugnatione et difesa delle fortezzze, potendosi con gli strumenti di quest'arte
+          levare in disegno qual si voglia sito senza accostarvisi, et haverne non solamente la
+          pianta, ma l'alzato con ogni sua particolarità et le misure delle sue parti proportionate
+          alla distanza che è tra l'occhio nostro et la cosa che habbiamo messa in disegno. Gradisca
           hor dunque V. Eccellenz, a lllustrissima queste mie fatiche, delle quali mi è parso
           fargliene dono non solamente per le sopradette ragioni, ma anco per esser impiegate
           attorno a si honorata inuentione del Vignola suo vassallo, et final mente per mostrarle
