@@ -1387,6 +1387,9 @@
       <ref name="tei_att.canonical.attribute.ref"/>
       <ref name="tei_att.canonical.attribute.key"/>
     </optional>
+    <optional>
+      <attribute name="source"/>
+    </optional>
   </define>
   <!-- doc:(fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI file description are present. [3.12.1. Methods of Encoding Bibliographic References and Lists of References 2.2. The File Description 2.2.7. The Source Description 16.3.2. Declarable Elements] -->
   <define name="biblFull">
@@ -1911,6 +1914,15 @@
       <attribute name="calendar"/>
     </optional>
   </define>
+  <define name="def">
+    <element name="def">
+      <ref name="attlist.def"/>
+      <ref name="macro.phraseSeq"/>
+    </element>
+  </define>
+  <define name="attlist.def" combine="interleave">
+    <ref name="tei_att.global.attributes"/>
+  </define>
   <!-- doc:(deletion) contains a letter, word, or passage deleted, marked as deleted, or otherwise indicated as superfluous or spurious in the copy text by an author, scribe, or a previous annotator or corrector. [3.5.3. Additions, Deletions, and Omissions] -->
   <define name="del">
     <element name="del">
@@ -2055,7 +2067,10 @@
     <element name="div1">
       <ref name="attlist.div1"/>
       <zeroOrMore>
-        <choice>
+         <choice>
+          <ref name="schemaSpec"/>
+          <ref name="model.common"/>
+          <ref name="entry"/>
           <ref name="model.divTop"/>
           <ref name="model.global"/>
         </choice>
@@ -2136,6 +2151,9 @@
       <ref name="attlist.div2"/>
       <zeroOrMore>
         <choice>
+          <ref name="schemaSpec"/>
+          <ref name="model.common"/>
+          <ref name="entry"/>
           <ref name="model.divTop"/>
           <ref name="model.global"/>
         </choice>
@@ -2218,6 +2236,9 @@
       <ref name="attlist.div3"/>
       <zeroOrMore>
         <choice>
+          <ref name="schemaSpec"/>
+          <ref name="model.common"/>
+          <ref name="entry"/>
           <ref name="model.divTop"/>
           <ref name="model.global"/>
         </choice>
@@ -2636,6 +2657,17 @@
   <define name="attlist.encodingDesc" combine="interleave">
     <empty/>
   </define>
+  <define name="entry">
+    <element name="entry">
+        <ref name="attlist.entry"/>      
+      <ref name="form"/>
+      <optional><ref name="def"/></optional>
+    </element>    
+  </define>
+  <define name="attlist.entry" combine="interleave">
+    <ref name="tei_att.global.attributes"/>
+    
+  </define>
   <!-- doc:(epigraph) contains a quotation, anonymous or attributed, appearing at the start or end of a section or on a title page. [4.2.3. Arguments, Epigraphs, and Postscripts 4.2. Elements Common to All Divisions 4.6. Title Pages] -->
   <define name="epigraph">
     <element name="epigraph">
@@ -2793,6 +2825,15 @@
     <ref name="tei_att.global.attributes"/>
     <ref name="tei_att.typed.attributes"/>
   </define>
+  <define name="form">
+    <element name="form">
+      <ref name="attlist.form"/>
+      <ref name="macro.phraseSeq"/>
+    </element>
+  </define>
+  <define name="attlist.form" combine="interleave">
+    <ref name="tei_att.global.attributes"/>
+  </define>
   <!-- doc:(front matter) contains any prefatory matter (headers, abstracts, title page, prefaces, dedications, etc.) found at the start of a document, before the main body. [4.6. Title Pages 4. Default Text Structure] -->
   <define name="front">
     <element name="front">
@@ -2889,7 +2930,10 @@
   <define name="attlist.gap" combine="interleave">
     <optional>
       <attribute name="reason">
-        <data type="NMTOKENS"/>
+        <value>editorial</value>
+      </attribute>
+      <attribute name="quantity">
+        <data type="int"/>
       </attribute>
     </optional>
   </define>
@@ -2973,6 +3017,8 @@
         <value>it</value>
         <value>capitals</value>
         <value>normal</value>
+        <value>bold</value>
+        <value>underline</value>
       </choice>
     </attribute>
     <optional>

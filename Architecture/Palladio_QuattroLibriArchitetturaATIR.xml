@@ -32,14 +32,14 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028
             by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Source gallica.bnf.fr / Bibliothèque national de France<author
-            ref="ark:/12148/cb119184708">Palladio<idno type="ISNI"
-              >https://isni.org/isni/0000000121222209</idno>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k322764c">Source gallica.bnf.fr /
+          Bibliothèque national de France<author ref="ark:/12148/cb119184708">Andrea Palladio<idno
+              type="ISNI">https://isni.org/isni/0000000121222209</idno>
           </author>
           <title xml:lang="ita">I quattro libri dell’architettura di Andrea Palladio. Ne’quali, dopo
             un breve trattato de’cinque ordini, e di quelli avertimenti, che sono piu necessarii nel
@@ -58,7 +58,6 @@
             <idno type="USTC">http://catalogue.bnf.fr/ark:/12148/cb119409036</idno>
           </msIdentifier>
         </msDesc>
-
         <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
       </sourceDesc>
     </fileDesc>
@@ -363,7 +362,7 @@
             deono lavorare, essendo di rugiada bagnati, o molto secchi; percioché quelli facilmente
             si corrompono, e questi fanno bruttissimo lavoro; nè avanti tre anni saranno ben secchi
             per uso dei palchi, e delle porte, e delle fenestre. Bisogna che i padroni che vogliono
-            fabricare s'informino bene da i periti, della natura de i legnami, e qual legno a qual
+            fabricare s'informino bene dai periti, della natura dei legnami, e qual legno a qual
             cosa è buono, e quale non. <persName ref="#Vitruve">Vitruvio</persName> al detto luogo
             ne dà buona instruttione, et altri dotti huomini, che ne han scritto copiosamente. </p>
         </div2>
@@ -4434,9 +4433,10 @@
               ref="#PonteCestiusRome">Cestio</objectName> hoggi<pb n="22"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k322764c/f170/full/full/0/native.jpg"
             /> detto di san Bartolomeo, il quale dall'altra banda dell'isola passa in Transtevere.
-            Il ponte detto <objectName>Senatorio</objectName> da senatori et <objectName>Palatino</objectName>, dal monte che gli è vicino, fatto di opera
-            rustica, che hora si chiama di Santa Maria. ma quei ponti, dei quali si vedono nel
-            Tevere i vestigi antichi solamente, sono, il <objectName ref="#PonteSubliciusRome"
+            Il ponte detto <objectName>Senatorio</objectName> da senatori et
+              <objectName>Palatino</objectName>, dal monte che gli è vicino, fatto di opera rustica,
+            che hora si chiama di Santa Maria. ma quei ponti, dei quali si vedono nel Tevere i
+            vestigi antichi solamente, sono, il <objectName ref="#PonteSubliciusRome"
               >Sublicio</objectName>, detto anco Lepido da <persName
               ref="MarcusAemiliusLepidusPreteur">Emilio Lepido</persName>, che essendo prima di
             legno lo fece di pietra, et era vicino a <placeName ref="#RipaRome">Ripa</placeName>. Il
@@ -5331,23 +5331,23 @@
             ornamenti come a <placeName ref="#Nimes">Nimes</placeName> in <placeName ref="#Provence"
               >Provenza</placeName>: et di questa sorte si può dire che sia in <placeName
               ref="#Rome">Roma</placeName> il tempio di ordine ionico che hora è la <objectName
-              ref="#EgliseSantaMariaEgiziacaRome">Chiesa di Santa Maria Egittiaca</objectName>. Il che
-            fecero quelli architetti per fare più larga la cella e per iscemare la spesa, rimanendo
-            non di meno il medesimo aspetto dell'alato a torno a chi vedeva il tempio per fianco.
-            Overo si pongono ai tempi otto colonne per fronte e quindeci dai lati con le angulari:
-            questi vengono ad havere i portici intorno doppi e però l'aspetto loro è detto dipteros,
-            cioè alato doppio. Overo si fanno bene i tempi che habbiano, come il sopradetto, otto
-            colonne per fronte e quindici nei lati ma i portici intorno non si fanno doppi perché si
-            toglie via un'ordine di colonne, onde essi portici vengono ad essere larghi quanto sono
-            due intercolunni et una grossezza di colonna et si chiama il loro aspetto
-            pseudodipteros, cioè falso alato doppio. Questo aspetto fu inventione di <persName
-              ref="#Hermogene">Hermogine</persName> antichissimo architetto, il quale in questo modo
-            fece i portici intorno al tempio larghi e commodi, aleggeri la fatica et la spesa e non
-            levò cosa alcuna dall'aspetto. Overo finalmente si fanno, che nell'una et l'altra
-            facciata vi siano diece colonne et i portici intorno doppi, come in quelli che hanno
-            l'aspetto dipteros. Questi tempi nella parte di dentro havevano altri portici con due
-            ordini di colonne uno sopra l'altro et erano queste colonne minori di quelle di fuori,
-            il coperto veniva dalle colonne di fuori a quelle di dentro et tutto lo spatio
+              ref="#EgliseSantaMariaEgiziacaRome">Chiesa di Santa Maria Egittiaca</objectName>. Il
+            che fecero quelli architetti per fare più larga la cella e per iscemare la spesa,
+            rimanendo non di meno il medesimo aspetto dell'alato a torno a chi vedeva il tempio per
+            fianco. Overo si pongono ai tempi otto colonne per fronte e quindeci dai lati con le
+            angulari: questi vengono ad havere i portici intorno doppi e però l'aspetto loro è detto
+            dipteros, cioè alato doppio. Overo si fanno bene i tempi che habbiano, come il
+            sopradetto, otto colonne per fronte e quindici nei lati ma i portici intorno non si
+            fanno doppi perché si toglie via un'ordine di colonne, onde essi portici vengono ad
+            essere larghi quanto sono due intercolunni et una grossezza di colonna et si chiama il
+            loro aspetto pseudodipteros, cioè falso alato doppio. Questo aspetto fu inventione di
+              <persName ref="#Hermogene">Hermogine</persName> antichissimo architetto, il quale in
+            questo modo fece i portici intorno al tempio larghi e commodi, aleggeri la fatica et la
+            spesa e non levò cosa alcuna dall'aspetto. Overo finalmente si fanno, che nell'una et
+            l'altra facciata vi siano diece colonne et i portici intorno doppi, come in quelli che
+            hanno l'aspetto dipteros. Questi tempi nella parte di dentro havevano altri portici con
+            due ordini di colonne uno sopra l'altro et erano queste colonne minori di quelle di
+            fuori, il coperto veniva dalle colonne di fuori a quelle di dentro et tutto lo spatio
             circondato dalle colonne di dentro era scoperto: onde l'aspetto di questi tempi si
             dimandava hipethros, cioè discoperto. Si dedicavano questi tempi a <persName
               ref="#Jupiter">Giove</persName> come a patrone del cielo e dell'aere, et nel mezo del

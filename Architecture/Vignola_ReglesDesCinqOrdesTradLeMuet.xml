@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="fra">Règles des cinq ordres d'architecture de Vignolle . Reveuee, augmentées et réduites de grand en petit par Le Muet</title>
+            <respStmt>
+               <name>Emma Bondoerffer</name>
+               <resp>Structuration</resp>
+            </respStmt>
+            <respStmt>
+               <name>Autre</name>
+               <resp>Edition travaillée à partir de la transcription d'Architectura</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>ArTerm</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2028">2028</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl source="https://architectura.univ-tours.fr/livres-notice/ensba_les0916/">
+               <author>Jacopo Vignola, Barozzi da<idno type="ISNI">https://isni.org/isni/0000000121341099</idno>
+               </author>
+               <title xml:lang="fra">Règles des cinq ordres d'architecture de Vignolle . Reveuee, augmentées et réduites de grand en petit par Le Muet</title>
+               <publisher>Melchior Tavernier</publisher>
+               <pubPlace>Paris</pubPlace>
+               <date when="1632">1632</date>
+               <availability>
+                  <p>© 2004 – CESR ARCHITECTURA</p>
+               </availability>
+            </bibl>
+            <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction status="low" method="silent">
+               <p>édition synthétique</p>
+            </correction>
+            <normalization method="silent">
+               <p>Les ambiguïtés entre i, j, u, v ont été corrigées automatiquement ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+            </normalization>
+            <segmentation>
+               <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4.</p>
+            </segmentation>
+            <hyphenation eol="none" />
+            <stdVals>
+               <p>Norme ISO-8601 pour les dates</p>
+            </stdVals>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+      </profileDesc>
+   </teiHeader>
+  <text>
+    <body>
+        <pb n="13"/>
+      <div>
+        <head># REGLES</head>
+      </div>
+      <div>
+        <head># DES CINQ ORDRES</head>
+      </div>
+      <div>
+        <head># D'ARCHITECTVRE</head>
+      </div>
+      <div>
+        <head># DE VIGNOLLE</head>
+        <p>Reveuce Augmentees et Reduites de Grand en petit par le Muet A PARIS, Chez Melchior Tavernier, Graveur &amp; Imprimeur du Roy pour les Tailles douces, demeurant en lise du Pallais sur le quay qui regarde la Megisserie REIGLES DES CINQ ORDRES D'ARCHITECTVRE DE VIGNOLLE Reveues Augmentees et Redu- ites de Grand en Petit.</p>
+        <figure type="ornement"/>
+        <figure type="ornement"/>
+        <p>Avec Privilege du Roy 1632</p>
+        <pb n="14"/>
+        
+        <pb n="15"/>
+        <p>Par le Muet.</p>
+        <p>Avec Privilege du Roy.</p>
+        <p>1631.</p>
+        <p>A Paris, Chez Melchior Tavernier, Graveur et Imprimeur du Roy, pour les Taille douces.</p>
+        
+        <pb n="16"/>
+      </div>
+      <div>
+        <head># Admis au Lecteur.</head>
+        <p>Avant que passer oultre, jay jugé quil estoit a propos pour les moins intelligents en ceste science, donner a entendre que cest que module, qui nest autre chose, qu'une mesure de la longue- ur du semy diamettre de la coulomne que voulez construire Exemple soit le diamettre de la Coulomne A de 18.16. ou 12. poules ou quelque aves nom- bres son semy diamettre sera de 9.8. ou 6. lequel semy diamettre sapellera module qui sera party en 12 parties esgalles, desquelles on vzera pour proportionner toutes les parties de ladite cou- lomne OR il est a notter que ceste particion du mo- dule en 12 parties esgalles ne ce pratique qu'ez ordres Toscan, et Dorique, et que pour les autres ordres, il se divisé en 18. parties esgal- les.</p>
+        <pb n="17"/>
+      </div>
+      <div>
+        <head># A Monseigneur de la Vrilliere Secretaire d'Estat.</head>
+        <p>Monseigneur Puisque vous appuyastes le desir que j'eus de travailler a cet ouvrage lors que je pris la hardieſſe de vous le communiquer, vous luy de uez ce me ſemble l'honneur de voſtre protection, a ceſte heure que je luy ſuis voir la lumiere, c'eſt le ſeul moyen dont je me ſuis aduiſe pour le ren- dre recommandable; car dautant qu'on ſcait bien que vous n'eſtes le plus curieux de tous les hommes, qu'a cauſe de la connoiſſance particuliere que vous aucez des belles choſes, quand on verra voſtre nom au frontiſpice de ces deſſeins, on en fera ſans doute vu jugement favorable. je n'en oſerois dire davan- tage a celuy qui connoit les deſauts et les perfec- tions de toutes choſes, et qui pourtant ne conceura jamais combien parfaitement je ſuis Monseigneur Son treſhumble et treſobeiſſant ſeruiteur le Muet.</p>
+        <pb n="18"/>
+        
+        
+        <p>N'Ayant trouve entre les Antiquitez de Rome aucun ornement Toscane, du quel j'aye peu sormer une reigle, comme j'ay bien fait des autres quattre Ordres, Dorique, Jonique, Co- runthien &amp; Compose je me suis serui de lau- thorite de Vitruve jure 4. chapit. 7. Ou il dit, que la Colonne Toscane doit avoir la hauteur de sept de ses propres grosseurs avec la ba- se &amp; le chapiteau, au reste de l'ornement asavoir l'architrave la frise &amp; la liste ou Corniche il me semble chose convenable, qu' on y garde la reigle que j'ay trouve es au- tres ordres c'est a savoir, que l'Architrave, la frise &amp; la corniche soyent le quart de la hauteur de la Colonne, laquelle est de 14. Modules, avec la base et le chapiteau, comme l'on voit ici note par nombres: et ainsi l'Archi- trave, frise et corniche, tiendront 3 ½ Modules, qui est le quart de 14. ses membres particuliers seront notez a menu chascun en son lieu Quand l'ordre Toscan devra estre fait sans piedestal on divisera sa hauteur entiere en 17 ½ parties, chascine des quelles sera par nous appellee Module lequel nous divisons en 12 parties egales, &amp; de celles ci est forme l'ordre tout entier, avec ses membres particuliers, come l'on voit en ce portrait, qui est quote parnombrés tant rompus que entiers.</p>
+        <pb n="19"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="20"/>
+        
+        
+        <pb n="21"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="22"/>
+        
+        
+        <p>M Ais ayant a estre fait le dit Ordre avec son piedestal sa hauteur toute entiere sera divisee en 22 parts &amp; 1/6, ce qu'on fait, pource que le piedestal requiert d'avoir en hauteur le tiers de sa colonne, avec la base &amp; le cha- piteau, laquelle estant de 14 Modules, le tiers en revient a quatre Modules &amp; 2/3, lesquels ad- joustez a 17 1/2 font ensemble 23. 1/6 ENcor que en l'ordre Tosean il n'adient que bien ra- rement qu'on y face piedestal, si estce, que pour sui- ure l'ordre, je l'ay propose en ce desseing, vous aduertissant en outre, qu'en tous les cinq Ordres j'ayobserué pour reigle generale, que les piedestaux avec leurs orne- ments doivent estre le tiers de leur colone avec sa base &amp; chapiteau : tout ainsi que l'ornement d'en haut, asavoir l'Architrave frise &amp; corniche, en doit es- tre la quatrieme partie et celle Intelligence donne un grand soulagement a ceux qui travaillent. Pource qu'ayant a faire l'un ou lautre des cinq Or- dres, apres avoir determinee la hauteur qu'il doita- uoir, icelle est divisee en dix neuf parties, avec ses or- nemens. Apres cela on prend de rechef la haute- ur de la colonne avec sa base &amp; chapiteau &amp; fait on la division de ses modules, selon qu'elle sera ou Dorique ou de quelque autre Ordre, &amp; puis apres tout le reste est basti par ce module divise en ses par- ties comme lon voit en son lieu.</p>
+        <pb n="23"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="24"/>
+        
+        
+        <p>A Fuste de la Colonne, B La centaine plus basse de la colonne ou reigle du base, C le Tore, D le Plin- the, E le Listeau, non general, &amp; yse indifferemment en tous membres semblables, soyent ils plus pe- tits ou plus grands, F. la gveule rennersee, G le piedestal, H le Listeau ceincture ou reigle, I le plinthe du piedestal.</p>
+        <pb n="25"/>
+        
+        <figure type="planche"/>
+        <pb n="26"/>
+        
+        
+        <p>Want descrit generalement ci dessus les mesures principales pour faire l'ordre Tosean, j'ay dessigne ici &amp; en la page precedentes parties en gros, afin que particulieremet on voye la division de chascun des plus petits membres avec les projectures tout ensemble, &amp; afin que la clarte du dessing avec les nombres y adjoustez soit suffisante de par soy a se faire entendre sans beaucoup de paroles, comme tout homme de consideration pourra cognoistre aisement de luy mesme A. Leuf, B Rondeau, C Listeau ou Reiglet D Couronne ou Goutierre, E Listeau, F Guelle renuersee, G Frise H Liste de l'Architrave, I l'Architrave, K Listeau de l'Abaco, L Abaco, M Oeuf, N Listeau, O Frise du chapiteau, P Rondeau, Q Collier de la Colonne, R Fuste de la Colonne LA maniere de faire la division de cette ordonnance Dorique sans piedestal, est telle: Toute sa hauteur est divisée en 20 parti- es, et de l'une dicelles est fait son Module, lequel est aussi divisé en 12 parties, tout ainsi qu e celuy de l'ordonnance Toscane. A la Base aux l'anneau ou ceinture plus basse de la colonne, sera donc un Module. Le tronc ou juste de la co- lonne sans la mœbrure plus basse sera fait de 14 modules. le chapiteau d'un module et l'ornent, c'est ascavoir l'Architrave, Frise et Corniche, se- ra de 4 modules, qui est le quart de la colonne, avec sa base et chapiteau, comme desia nous a- uons dit ci dessus, que l'Architrave doit estre d'un, la frise d'1 ½ et la corniche d'1 ½ qui ad- joustez ensemble font 4, et sommez avec les au- tres revienent a 20.</p>
+        <pb n="27"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="28"/>
+        
+        
+        <pb n="29"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="30"/>
+        
+        
+        <p>Q Vand on voudra faire l'ornement de Galeries ou loges selon l'ordonnance. Dorique, il faudra (comme il a este dit) di- uiser la hauteur en 20 parties, &amp; en former le Module puis apres on partagera en telle mani- ere les largeurs, que de l'un jusques a l'autre. Pilastre, il y aye 7 modules, &amp; que les pilastres en ayent trois. Car ainsi viendront reparties les largeurs avec les hauteurs a leur propor- tion avec la lumiere des vuides de deux large- urs en hauteur, &amp; viendra juste la distribution des Metopes &amp; Trigliphes, comme l'on voit. Reste seulement a considerer, que la colonne doit sortir hors du Pilastre le tiers d'un module plus que sa moitié. Ce qui se fait, afin que les Projectures Saillies ou larmières des Impostes ne passent la moitié des colonnes. Et sera ceci une reigle uni- uerfelle en tous cas semblables de toutes les or- donnances.</p>
+        <pb n="31"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="32"/>
+        
+        
+        <p>Ayant a faire des Galeries ou Loges selon l'ordonnance Dorique auce leurs Piedestaux, la Colonne deura estre divisee en 25 parties ♂ 1/3 ♂ de l'une d'icelles sera fait le module, la largeur de l'un jusques a l'autre Pilastre sera terminee par 10 Modules, ♂ la largeur des pilastre par 5. Car c'est ainsi que viendront a estre justes les distributions des Metopes ♂ Trigliphes. ♂ le vuide des arcs proportionne reque rant que la hauteur soit redoublee auce la largeur, laquelle est de 20 modules, comme l'on peut voir LE Piedestal de l'ordonnance Dorique~ doibt avoir 5 ½ modules en hauteur, l'im- poste de l'Arc ci dessus desseigné 1 module, Or ses membres particuliers seront repartisse- lon que portent les nombres ici notez. A les canaux ou rayons de la Colonne. B la ceinture plus basse de la Colonnelaquelle doit estre entendue ainsi par tout les Ordon- nances, C Rondeau, ou petit Baston.</p>
+        <pb n="33"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="34"/>
+        
+        
+        <pb n="35"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="36"/>
+        
+        
+        <p>C Este partie d'ordonnance Dorique est ti- ree du Theatre de Marcellus a Rome, comme je l'ay alleguee en l'Avant-propos par maniere d'exemple, &amp; estant desseign ee elle retient ceste mesme proportion. A Tuyau, B Dentelets, C Chapiteau du Tri- glife, D Triglife, auquel les parties fondees interieurement sont appellee canaux ou ray- ons, &amp; l'espace quarre de la frise qui reste entre l'un &amp; l'autre trigliphe, est appellee Me- tope. E Goutes, ou clochettes, F Cymatium, G Annelets ceinctures ou listeaux.</p>
+        <pb n="37"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="38"/>
+        
+        
+        <p>C Este autre piece d'ordonnance Dorique est tiree de diverses reliques dentre les Antiquites Romaines &amp; en est fait un tel composé qu'en ouvrant je l'ay trouve venir bien a propos.</p>
+        <p>A Gveule droite B Modillon ou Modelle, nom du quel ils sont appelles tous encor qu' ils ayent la forme differente moyennant qu'ils facent l'office de soustenir la corniche qu'ils ont chargee, C Pessons.</p>
+        <pb n="39"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="40"/>
+        
+        
+        <p>Voulant faire l'ordonnance Jonique sans Pic- destal, toute la hauteur doit estre divisee en 22 ½ parties, &amp; de l'une d'icelles est fait le module, lequel est reparti en 18. ce qui se fait, d'autant que ceste ordonnance, pour estre plus gentile que la Toscane &amp; Dorique, a aussi les diusions plus menues. Sa colonne do- it avoir 18 modules, y comprise la base &amp; le chapiteau, l'Architrave 1 module &amp; ¼ la Frise 1 ½ module, la Corniche 1 ¾ module Nom- bres qui adjoustez ensemble rendent l'Archi- trave, Frise &amp; Corniche 4 ½ modules, qui est le quart de ha hauteur de la Colonne~ Quand on voudra faire des Galeries ou Loges selon l'ordonnance Jonique, les Pi- lastres se feront de la grosseur de 3 modules, &amp; la largeur du vuide sera de 8 ½ modules, la hauteur de 17 qui sera le double de la largeur. Reigle qu'on doibt obseruer fermement en tous arcs de semblables ornemens, toutes &amp; quantes fois que la grande necessite ne nous contraint de faire autrement M Ais quand on voudra faire des Galeries ou Loges selon l'ordonnance Jonique avec les Piedestaux, toute la hauteur est divisee en 28 ½ parties, le Piedestal avec son ornement ayant 6 modules, qui est le tiers de la Colonne avec sa base &amp; chapiteau, come nous avons dit que sela s'obserue en toutes les ordonnances. La largeur du vuide sera de 11 modules, la hauteur de 22. La largeur des Pilastres de 4 modules, comme l'on voit note par nombres en ce desseing.</p>
+        <pb n="41"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="42"/>
+        
+        
+        <pb n="43"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="44"/>
+        
+        
+        <pb n="45"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="46"/>
+        
+        
+        <p>LA Corniche de l'imposte d'enhaut est- d'un module sa projecture d'un tiers les membres particuliers on les peut apprendre par les nombres comme aussi ceux du Pie- destal &amp; de la base.</p>
+        <p>A Scotie ou creux d'enhaut, B Astragales ou rondeaux, C Scotie, ou creux d'embas.</p>
+        <pb n="47"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="48"/>
+        
+        
+        <p>LA maniere de faire le Chapiteau Jonique, combien qu'elle soit pourtraite en ceste si- gure avec le plant &amp; profil, si est ce que pour plus claire intelligence il faut tirer deux li- gnes perpendiculaires, separees deux mo- dules l'une de l'autre, qui passent par le cen- tre des yeux de la volute, &amp; sont appellees Cathetes toute la volute doibt avoir la hauteur de 16 parts de module, dont les huit demeu- rent au dessus de l'œil (lequel tient deux parts) &amp; les autres six restent au dessous. La maniere de faire ces volutes est pourtrai- te au fevillet suivant, ou aussi sera exposee brievement (tant que l'espace le permettra) la maniere selon laquelle on procede- A Yant tire' la cathete O M de cette premiere volute &amp; une aves ligne a lesquerre par le centre de l'œil l'œil sera divise ainsy qu'on le void en la figure A puis on commence au pre- mier point signe I avec le compas pour faire le premier quart de cercle &amp; du point 2 on tire le second quart de cercle &amp; poursuivant ainsy les trois tours viennent a estre acomplys or pour faire la largeur de la bande R il ne fault apres luy avoir donne au commencement la lar- geur du filet que tourner sur les mesmes cen- tres ditz cy dessus &amp; par ce moien la bande ce restressira a mesure quelle aprochera du centre.</p>
+        <pb n="49"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="50"/>
+        
+        
+        <pb n="51"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="52"/>
+        
+        
+        <p>Que cy vous voules faire la volute par laver maniere cy dessoubz repntee soit ti- ree la ligne 1.5. apellée cathete laquelle aura la hauteur de 16 partz dun module dont les 9. demeureront au dessus du centre E. et les 7. au dessoubz puis sur ce centre soit faict une di- uision en 8.parties esgales ainsy quelle vous est repntee par les 8.lignes qui partent du ce- tre puis soit faict a part le triangle B.C.D. de sorte que la ligne B.C.ayt 9.partz dun module et la ligne C.D.7.et soit lare G.C.diuse en 7.par- ties esgales dot lune demeure pour le demy dia- metre de lœil et le reste G.N.soit diuse en 24. parties esgales continuées jusques en la ligne B.C.qui les rendra juessgales soit pris en apr- es la grandeur B.C.et raportée de E.A.1.et mar- quée puis de C.A.2.et raporter de E.a.2.et marquée puis C.3.raportée a E.3.et continuer ainsy sur les 8.diusions jusques a ce quon y ayt marque tous les 25.pointz de B.C.I.mais pour mener maintenant une circoference qui du point marque 1.aille au point marque 2.soit ouvert le copas de 1.a E.et estant poze ferme sur 1 soit meu le com- pas pour deserire la portion de circonference cy ponctuée puis soit la mesme ouverture du compas raportée sur 2.jusques a ce questant meu il face une section en p.qui sera le centre pour deserire la circonference de 1.a.2.et soit ain- sy continue pour faire 2.a 3.et pour les aves parties de circonference Pour faire ceste ordonnance Corinthienne sans Piedestal, toute la hauteur est divisee en 25 parties, &amp; de l'une d'icelles est fait le module, lequel est divise en 18 parties, tout ainsi que celuy de la Jonique. les autres divisions principales se voyent en la figure &amp; la largeur de l'une a l'autre Colonne doit estre de 4 modules &amp; ⅔ tant afin que les Architraves denhaut ne soyent surchargees, que pour accommoder les modelles d'enhaut en la Corniche de telle sorte qu'ils respondent droitement au milieu des Colomnes en leur compartiment egal~ V Oulant faire des Arcs de Galeries selon ceste ordonnance Corinthienne on y doit proceder comme il est ici noté par nom- bres tellement que les vuides tiennent 9. modules de largeur &amp; 18 de hauteur, les Pilastres seront de 3 modules.</p>
+        <pb n="53"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="54"/>
+        
+        
+        <pb n="55"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="56"/>
+        
+        
+        <pb n="57"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="58"/>
+        
+        
+        <p>M Ais ayant a faire des Loges ou gales ries auce piedestaux, toute la hauteur sera partie en 32, de l'une desquelles onfera le module, 12 dicelles sera la largeur du vu ide, &amp; 25 sa hauteur: Et quoy, que cela pas se les deux carrez, si est il convenable en ceste ordonnance, a cause de la gentileesse Les Pi lastres se feront de quatre modules, comme il est note.</p>
+        <pb n="59"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="60"/>
+        
+        
+        <p>SI le Piedestal de ceste ordonnance Corinthienne est le tiers de la colonne, il tiendra six modules et 3/5, mais on le pourra bien faire de sept modules pour plus grande solidité, forte conforme et convenable a ceste ordonnance: et aussi, afin que le Piedestal, sans la cimace et basement, renienne a deux quarrez, comme l'on pourra voir par les nombres. le reste, c'est asavoir la cimace et le basement, puis qu'ils sont notez par le menu, comme aussi l'impost de l'arc, il n'est ja besoin d'en escrire d'avantage.</p>
+        <p>A le tore ou baston d'enhaut, B le tore ou baston d'enbas.</p>
+        <pb n="61"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="62"/>
+        
+        <p>AV plant &amp; profil de ce chapiteau Corinthi- en on pourra cognoistre toutes ses mesu- res. Par le plant on mesure les largeurs, y faisant un quarre, duquel la ligne Diagonale sera de 4. Modul &amp; de l'une des costez de ce quar- re on fera un triangle, selon qu'on voit en la si- quire, &amp; la pointe du compas on la ferme au coing signe +, &amp; tire l'on le creux de l'A- baque, au profil est prinse la hauteur de ses feu- illes, tigettes &amp; Abaque, et l'estendue des fevil- les et tiges est prinse par la ligne qui naist de la pointe de l'Abaque jusques au rond de la co- lonne, comme l'on voit par le desseing du pro- sit. le reste, avec peu de consideration qu'on y apporte, sera aisement entendu.</p>
+        <p>A &amp; B sont appellez ensemble l'Abaque du cha- piteau, mais pour plus claire intelligence A est pris pour le cimace de l'Abaque, C Tijet, D feu- illes moindres, E Fevilles du millieu, F fevilles de dessous, &amp; Fleur.</p>
+        <pb n="63"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="64"/>
+        
+        
+        <p>C Este Corniche Corinthienne est tiree de diners endroits a Rome &amp; principale- ment du Pantheon ou temple de la Rotonde, &amp; de trois colonnes qui sont au marche Romain, et confrontez les membres principaux d'icelle, jay mis en avant sa reigle (ne m'esloignant rien qui soit des enciennes) &amp; icelle reduit a telle proportion, qu'il en vient un Modiglion au millieu de la colonne &amp; que ses œuf, den- tades, arequets &amp; spondiles respondent droi- tement l'un a l'autre, avec un ordre si soigneux que l'on poura voir pour donner a cognoistre ses mesures suppleront les nombres faicts par modules &amp; parts de modules, le module parti en 18, comme dit a este CE Piedestal composé garde les proportions du Corinthien, &amp; n'y a autre différence de membres qu'en la cimace &amp; basément, comme l'on peut cognoître. et d'autant que l'ornement composé a mesme proportions avec le Corinthien, j'ay juge n'estre necessaire d'en faire des colonnes &amp; ares a part, me raportant aux Corinthiens. seulement ay je monstre la diver-site de la base &amp; du chapiteau, &amp; autres leurs ornements, comme l'on pourra voir en ses lieux.</p>
+        <pb n="65"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="66"/>
+        
+        
+        <pb n="67"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="68"/>
+        
+        
+        <p>CE plant &amp; profil du Chapiteau côposé a mesme procedure auce ecluy de l'ordon nance Corinthienne deferite ci dessus. il n'y a que ecci de difference: c'est asavoir: la ou le Corinthien ases ligettes, ce composé a les volutes faites de mesme maniere auce celles de la Jonique. les an ciens Romains empruntans une partie de la Jonique..et une autre du Corinthien, ont fait un tel composé, pour unir ensemble en une seule partie tout ce qu'ils pouvoyent recouvrer de beauté.</p>
+        <pb n="69"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="70"/>
+        
+        
+        <p>C Este pièce d'ordonnance composée, asavoir le chapiteau, Architrave, Frise et Corniche est aussi tirée de divers lieux d'entre les Antiquités de Rome, et réduite à proportion comme il a esté dit de la Corinthienne. Ce qu'estant noté par nombres se monstre assez de soy mesine.</p>
+        <pb n="71"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="72"/>
+        
+        
+        <p>ENtre les Antiquitez de Rome se trounent presque mfinies varietez de chapiteaux qui n'ont point de pro- pres noms mais peuvèt estre copris tous ensemble sous ce vocable general de Compose, et sinuèt aussi les mesures principales des autres coposez derinez de l'onique et co- rinthe tant seulement il est bien vray qu'en aucuns d'j: coux lo verra des animaux en lieu de tigettes, en autres des cornes d'abdance, et en autres plusieurs autre choses selo qu'il est venu apropos aux Maîtres en leurs desse- nigs. ce que se peut juger par le preset j'a desseigné, le: quel ayant quatre Aigles en lieu de tigettes et en lieu de fruta- ge quatre faces de Jupiter auce la foudre au de sous done a cognoistre aisemèt qu'il est de quelque Temple co'sacre a iceluy Jupiter tout ainsi l'on peut dire de cest autre qui a quatre Grifons en lieu de tigettes et quatre Aigles au milieu d'icoux auce un chien en leurs ongles qu'il ait esté approprie a quelque autre de leurs Idoles sa proportio hor- smis les animaux est semblable aux Corinthiens.</p>
+        <p>Cette base Vitruve lib 3. chap. 3. la nome Atticurga, come esant troine originairemet et mise en œuvre par les Antions De nostre teps on vse de la mettre en œuvre indifférément sous le Corinthien, Copose Jonique et Donique toutefois elle a plus d'alliance auce le copo: se qu'auce nul autre, et est aussi tolerable en l'onique guad on ne se sert de la propre base d'icelle. mais so- us les autres ordonances je la jugerois du tout im- pertinente et en produirois beaucoup de raisós ma- is je ne veux m'amuser a parler auce une si grande licéce de chose passée. il suffira en mesme ordre que ci dessus d'en monstrer la partitio, qui n'aist du module lequel est diuse en 18 parties tout ainsi que ceux de l'onique et orinthe.</p>
+        <pb n="73"/>
+        
+        
+        <figure type="ornement"/>
+        <pb n="74"/>
+        
+        
+        <p>LA diminution des Colomnes ce faict en plusieurs façons dont voicy les deux meilleures pour la premiere soit la Colomme A.B. a dnuifer du tiers en hault soit au point E. faict le demy cercle E.D.C. et du point de la diminuO A. soit abessee perpendiculairement la ligne A.G soit puis apres lare G.E. divise en tant de parties esgales qu'on voudra comme en six et soit E.A. divise auffy en autant daves parties esgales et ou les lignes perpendiculaires et Orifontales se couperont soit menee la ligne L.H I.K.L.M.A. qui donnera la diminuon comme on la desire et de cette façon on s'en peult seruir au Tosean et au dorique Quand a cette autre façon je l'ay trouvée de moy mesme et quoy quelle soit moins connecelle est neantmoins facile a concevoir par les lignes je diray donc qu'ayant resolu les mesures de la colonne on doibt tirer une ligne a l'infiny en comancant par C. et continuant par D. puis reportant la mesure C. D. au point A. jusques a ce quelle coupe la perpendiculaire au point B. et que A.B. soit continuee jusques en E. de la on pourra tirer tant de lignes qu'on voudra qui partiront de la perpendiculaire et jront a la circonference de la colonne sur lesquelles a- pliquant la mesure C. D. on trouvera tant en hault quen bas l'enfleure de la colonne et cette maniere peult estre aph- quee a l'Innique Corinthien et composee.</p>
+        <pb n="75"/>
+        
+        <figure type="planche">
+          <figDesc>XXIX</figDesc>
+        </figure>
+        <pb n="76"/>
+        
+        
+        
+        <p>Que sy lon veult faire ces colonnes tortes a la maniere de celles qui sont a S. Pierre de Rome on en doibt faire le plan comme il est jey marqué et ce petit cercle du milieu monstre de combi- en elle est torte lequel estant divize en 8 parties et ayant tire ces 4 lignes paralelles a la perpendiculaire on diusera tout te la colonne en 48 parties et lon formera cette ligne spira- le par le meilleur qui sert de centre a la colonne sur laquelle on raportera la grosseur de la colonne droite ligne par ligne com- me il pareist jey mais il fault prendre garde que les 4 nom- bres 1 2 3 4 marques sur le plan sont pour seruir seulme- nt jusques a la premiere demy montee pour ce que le commancement part du centre et quil fault de la en haul. le sinure par le tour du petit cercle jusques a la derniere demy montee den hault ou il se fault encore seruir des quatre premiers pointz deibas.</p>
+        <pb n="77"/>
+        <figure type="planche"/>
+        
+        <pb n="78"/>
+        
+        
+        
+        <p>C Este Corniche, que j'ay mis en œuvre par plusieurs fois pour l'accomplissement de frontispices, et trouve estre fort aggreable quoy qu'elle soit de mon jnuention, ne m'a pourtant semble impertinente pour satisfaction de ceux qui s'en voudront seruir, d'estre mise jei sur la fin de ce petit œuvre. Sa proportion auce le frontispice est telle, que tout la hauteur estant dinisée en onze parties, il en demeure une pour la Corniche et dix pour le frontispice. le reste se voit assez clairement.</p>
+        <figure type="ornement"/>
+        <pb n="79"/>
+        
+        
+        <figure type="planche"/>
+        <pb n="80"/>
+        
+        <p>P Lan et ornement du desoubs de la corniche delér dre Dorique comme elle est Sy devant alla figure 30 Plan et ornement du desoubs de la corniche de l'ordre Dorique comme elle est si devant ala figure. 21.</p>
+        <figure type="lettrine"/>
+        <pb n="81"/>
+        
+        <figure type="planche"/>
+        <pb n="82"/>
+        
+        <figure type="ornement"/>
+        <pb n="83"/>
+        <figure type="ornement">
+          <figDesc>XXXIII</figDesc>
+        </figure>
+        <pb n="84"/>
+        
+        <p>A. C Orniche de l'jiuposte Corinthien B. C Orniche de l'jiuposte Jonique Plan et ornement du defous de la Corniche de l'ordre Corinthienne.</p>
+        <figure type="ornement"/>
+        <pb n="85"/>
+        <figure type="planche"/>
+        
+        <pb n="86"/>
+        <figure type="ornement"/>
+        <pb n="87"/>
+        
+        <figure type="ornement">
+          <figDesc>XXXX</figDesc>
+        </figure>
+        <pb n="88"/>
+        
+        <p>A. P Lan et ornement du defous de la Corniche de l'ordre composé B. P Rofil du Chapiteau de l'ordre Jonique C. P Lan et ornement du defous de la Corniche de la figure 31 me C Este Porte est d'œuvre Rustique, et sont si bien composées ensemble les pierres d'icelle, qu'encor qu'il n'y eut ni chaux ni autre mixtion, si sont elles suffisantes de régir toute edifice pour grand qu'il soit.</p>
+        <figure type="lettrine"/>
+        <pb n="89"/>
+        
+        <figure type="planche"/>
+        <pb n="90"/>
+        
+        <figure type="ornement"/>
+        <pb n="91"/>
+        
+        <figure type="ornement"/>
+        <figure type="planche"/>
+        <p>1 2 3 4 5 6 XXXVII 12.P.</p>
+        <pb n="92"/>
+        
+        <p>P Orte de l'édifice du Reverendissime et Illustissime Cardinal Farnese a Caprarole P Orte desseignee au service de l'illustrissime &amp; Reverendissime Cardinal Farnese pour l'entree principale du Palais de la Chancelerie.</p>
+        <figure type="lettrine"/>
+        <pb n="93"/>
+        
+        <figure type="ornement">
+          <figDesc>XXXVIII</figDesc>
+        </figure>
+        <pb n="94"/>
+        
+        <figure type="lettrine"/>
+        <pb n="95"/>
+        
+        <figure type="planche"/>
+        <pb n="96"/>
+        
+        <p>P Orte du Jardin du tres-fillustre et tres-excellent Seigneur le Duc Sforce Porte de la Vigne du Reverendissime Patri- arché Grimani à la Strade Pie 1. 2017年，公司与上海浦东发展银行股份有限公司签订了《关于使用部分闲置募集资金进行现金管理的协议》。</p>
+        <pb n="97"/>
+        
+        <figure type="ornement"/>
+        <pb n="98"/>
+        
+        <figure type="ornement"/>
+        <pb n="99"/>
+        
+        <figure type="planche"/>
+        <pb n="100"/>
+        
+        <pb n="101"/>
+        
+        <figure type="ornement">
+          <figDesc>XLII</figDesc>
+        </figure>
+        <pb n="102"/>
+        
+        <pb n="103"/>
+        <figure type="ornement">
+          <figDesc>XLIII</figDesc>
+        </figure>
+        
+        <pb n="104"/>
+       
+        <figure type="ornement"/>
+        <pb n="105"/>
+        
+        <figure type="planche"/>
+        <pb n="106"/>
+        
+        <figure type="lettrine"/>
+        <pb n="107"/>
+        <figure type="ornement"/>
+        <figure type="ornement">
+          <figDesc>XLV.</figDesc>
+        </figure>
+        <pb n="108"/>
+        <figure type="planche"/>
+       
+       
+        <pb n="109"/>
+        
+        <figure type="ornement"/>
+        <pb n="110"/>
+        
+        <pb n="111"/>
+        
+        <figure type="ornement">
+          <figDesc>XLVII.</figDesc>
+        </figure>
+        <figure type="planche"/>
+        <pb n="112"/>
+        <figure type="planche"/>
+        
+        <pb n="113"/>
+        
+        <figure type="ornement"/>
+        <pb n="114"/>
+        <figure type="lettrine"/>
+        <pb n="115"/>
+        
+        <figure type="ornement"/>
+        <pb n="116"/>
+        
+        <pb n="117"/>
+        <figure type="ornement"/>
+        
+        <pb n="118"/>
+        
+        <pb n="119"/>
+        
+        <pb n="120"/>
+       
+        <figure type="planche"/>
+        <pb n="121"/>
+        
+        <pb n="122"/>
+       
+        <figure type="ornement"/>
+        <pb n="123"/>
+        
+        <pb n="124"/>
+       
+        <figure type="ornement"/>
+        <pb n="125"/>
+        <figure type="ornement"/>
+        
+        <pb n="126"/>
+        
+        <pb n="127"/>
+        <pb n="128"/>
+        
+        <pb n="129"/>
+        <pb n="130" type="blankpage"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+

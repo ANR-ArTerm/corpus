@@ -2,86 +2,86 @@
 <?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title xml:lang="fra">La peinture parlante</title>
-        <respStmt>
-          <name>Anaïs Mazoué</name>
-          <resp>Correction, Balisage, Indexation</resp>
-        </respStmt>
-        <respStmt>
-          <name>Teklia</name>
-          <resp>Transcription, Structuration</resp>
-        </respStmt>
-        <respStmt>
-          <name>Hippolyte Faré</name>
-          <resp>Correction, Balisage</resp>
-        </respStmt>
-        <respStmt>
-          <name>Pierre Husson</name>
-          <resp>Correction, Identification des œuvres</resp>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>ArTerm</publisher>
-        <pubPlace>Paris</pubPlace>
-        <date when="2028">2028</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb12629498q">Pader<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/CMD?ACT=SRCH&amp;IKT=8006&amp;TRM=ISN%3A0000000122591313&amp;TERMS_OF_USE_AGREED=Y&amp;terms_of_use_agree=send</idno>
-          </author>
-          <title xml:lang="fra">La peinture parlante</title>
-          <publisher>Arnaud Colomiez</publisher>
-          <pubPlace>Toulouse</pubPlace>
-          <date when="1653">1653</date>
-        </bibl>
-        <msDesc>
-          <msIdentifier>
-            <country>France</country>
-            <settlement ref="#Paris">Paris</settlement>
-            <institution>Bibliothèque nationale de France</institution>
-            <repository />
-            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb310486316</idno>
-          </msIdentifier>
-        </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
-      </projectDesc>
-      <editorialDecl>
-        <correction status="medium" method="silent">
-          <p>édition complète</p>
-        </correction>
-        <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
-        </normalization>
-        <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
-        </punctuation>
-        <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface + lexique + avis +poeme + lettre + privilege + eloge) + body (L1 + lettre)</p>
-        </segmentation>
-        <hyphenation eol="none" />
-        <stdVals>
-          <p>Norme ISO-8601 pour les dates</p>
-        </stdVals>
-      </editorialDecl>
-      <p />
-    </encodingDesc>
-    <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
-    </profileDesc>
-  </teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="fra">La peinture parlante</title>
+				<respStmt>
+					<name>Anaïs Mazoué</name>
+					<resp>Correction, Balisage, Indexation</resp>
+				</respStmt>
+				<respStmt>
+					<name>Teklia</name>
+					<resp>Transcription, Structuration</resp>
+				</respStmt>
+				<respStmt>
+					<name>Hippolyte Faré</name>
+					<resp>Correction, Balisage</resp>
+				</respStmt>
+				<respStmt>
+					<name>Pierre Husson</name>
+					<resp>Correction, Identification des œuvres</resp>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>ArTerm</publisher>
+				<pubPlace>Paris</pubPlace>
+				<date when="2028">2028</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k6570462t/f5.item">Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb12629498q">Hilaire Pader<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/CMD?ACT=SRCH&amp;IKT=8006&amp;TRM=ISN%3A0000000122591313&amp;TERMS_OF_USE_AGREED=Y&amp;terms_of_use_agree=send</idno>
+					</author>
+					<title xml:lang="fra">La peinture parlante</title>
+					<publisher>Arnaud Colomiez</publisher>
+					<pubPlace>Toulouse</pubPlace>
+					<date when="1653">1653</date>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<country>France</country>
+						<settlement ref="#Paris">Paris</settlement>
+						<institution>Bibliothèque nationale de France</institution>
+						<repository/>
+						<idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb310486316</idno>
+					</msIdentifier>
+				</msDesc>
+				<xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+			</projectDesc>
+			<editorialDecl>
+				<correction status="medium" method="silent">
+					<p>édition complète</p>
+				</correction>
+				<normalization method="silent">
+					<p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+				</normalization>
+				<punctuation marks="some">
+					<p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+				</punctuation>
+				<segmentation>
+					<p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface + lexique + avis +poeme + lettre + privilege + eloge) + body (L1 + lettre)</p>
+				</segmentation>
+				<hyphenation eol="none"/>
+				<stdVals>
+					<p>Norme ISO-8601 pour les dates</p>
+				</stdVals>
+			</editorialDecl>
+			<p/>
+		</encodingDesc>
+		<profileDesc>
+			<xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+			<xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+		</profileDesc>
+	</teiHeader>
 	<text>
 		<front>
 			<pb n="I" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6570462t/f5/full/full/0/native.jpg"/>
@@ -136,8 +136,7 @@
 				</p>
 				<p xml:id="PAD_LPP_lexique_P20"><hi rend="capitals">L'OUTREMER</hi>, est un azur tres fin, et le plus beau que le Peintre puisse employer, il s'en fait de si riche qu'il couste au-delà de l'or, veu qu'il y en a de quarante à cinquante escus l'once : On le tire par un grand artifice du l'Apis Lazuli qui est marquetée de petites estoilles d'or ; aussi dit-on que c'est la mere veine de ce Roy des metaux ; ce qui est croyable, puis qu'elle a beaucoup de raport avec l'or, et sur tout en ce qu'elle resiste à l'examen du feu d'où elle sort avec sa premiere beauté. Voyla pourquoy les Peintres experts font rougir la lame d'un couteau, lors qu'ils veulent achepter l'Outremer, et en mettent un peu dessus, observant s'il change de couleur, auquel cas il est falsifié. Où il faut remarquer que toutes les pierres d'où sont tirez les Azurs se trouvent dans les mines, ou au voisinage de celles des metaux, et que selon l'imperfection d'iceux, les Azurs qui en proviennent le sont aussi, quelque belle monstre qu'ils ayent en apparence ; voyla pourquoy ils deviennent livides et obscurs au susdit examen, s'ils sont d'une mine où il y ait de Plomb ; si de l'estaing, sandrés ; si de celle du fer, jaune ou rouge sale ; et vert si c'est des mines de cuyvre, à cause du Vitriol qui y abonde selon les Philosophes Chimiques. De sorte que la longueur du temps fait sur les Tableaux une partie des effects que la lame rougie fait en peu d'espace ausdits Azurs, ce qui n'arrive point au vray Outremarin qui morgue le temps et les flammes ; les bons Peintres (j'entens les grands Coloristes et qui sont bien payez) en mettent dans les carnations, pour les rendre plus nobles et les faire tenir. Quelques-uns l'appellent Azur d'Acre, d'où sans doubte a esté tiré celuy d'Outremer, parce qu'enciennement cét Azur estoit apporté d'<placeName ref="#Acre">Acre</placeName>, ville sur le bord de la mer de <placeName ref="#Judee">Judée</placeName>, et que les voyages qui se font en ces lieux sont appellez d'outremer.</p>
 				<p xml:id="PAD_LPP_lexique_P21"><hi rend="capitals">LA DRAPERIE</hi>, est un terme de Peinture pour exprimer en general toute sorte d'habits, où pour les bien faire les Peintres s'aydent d'un homme de bois qui est le</p>
-				<p xml:id="PAD_LPP_lexique_P22"><hi rend="capitals">MANEQUIN</hi>, fait par un tel artifice qu'il plie aux principales jointures, et pût tres bien servir pour certaines postures, mais non pour celles où il faut que le cosfre du corps courbe. Neantmoins un Peintre adroit en tire un grand soulagement pour bien 
-				</p>
+				<p xml:id="PAD_LPP_lexique_P22"><hi rend="capitals">MANEQUIN</hi>, fait par un tel artifice qu'il plie aux principales jointures, et pût tres bien servir pour certaines postures, mais non pour celles où il faut que le cosfre du corps courbe. Neantmoins un Peintre adroit en tire un grand soulagement pour bien </p>
 				<pb n="XI" facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6570462t/f18/full/full/0/native.jpg"/>
 				<p xml:id="PAD_LPP_lexique_P23"><hi rend="capitals">DRAPER</hi>, c'est parler en Peintre pour exprimer qu'on fait bien touttes estoffes, qui peuvent estre achevées avec loisir parce que l'action estant arrestée, et le Manequin habillé rien ne bouge, si les Vis de fer pressent fort les boules ; il est vray que la grande chaleur de l'Esté est contraire, parce que le bois venant à se restraindre les boules tournent quelque fois d'elles mesmes, se trouvant au large : Voylà pourquoy le Peintre doit estre commode pour avoir les choses qui luy sont necessaires, à sçavoir un lieu humide pour l'Esté, et un chaud pour l'Hiver. Lieux escartez et solitaires, afin que par la distraction des visites, il n'interrompe son estude : Où avant de commencer son ouvrage, il doit conferer avec ceux qui sont entendus en la Peinture, pour voir si la disposition de son Histoire est noble, et l'arrangement des figures qui la composent tel que l'Art le requiert, et apres avoir examiné leur conseil, le prendre s'il le juge à propos (parce qu'il y a bien souvent des envieux). Le Dessein estant arresté l'ouvrier doit commencer, poursuivre et achever son ouvrage en repos, et ne point souffrir qu'on voye son Tableau qu'il ne soit fini, au peril de passer pour fantasque et capricieux ; autrement il sera contraint d'essuyer mille affronts, mais je dis de si sensibles qu'ils le desgousteront de poursuivre à bien faire.</p>
 				<p xml:id="PAD_LPP_lexique_P24"><hi rend="capitals">LE COLORIS</hi> est une partie tres importante en la Peinture, les discoureurs mediocrement versez en cét Art confondent le Coloris avec le maniment du Pinceau, et s'imaginent que le bien Peindre fait le bon Coloriste : Ils se trompent pourtant, puis qu'un Tableau peut estre bien peint de blanc et noir, que nous appellons grisaille, où l'on ne peut pas dire qu'il y ait cette belle partie du Coloris ; surquoy il faut observer qu'un grand maniment de Pinceau est different d'un grand maniment de couleurs, et qu'un Tableau peut estre bien nourry de couleurs, et partir d'un pinceau franc et net, sans estre ny bien coloré, ny bien Desseigné, de mesme qu'il peut estre bien Desseigné, mal peint et mal coloré.</p>
