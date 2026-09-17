@@ -8,8 +8,9 @@
         </certainty>
         <certainty target="#HpCaraglioNativité" locus="value">
             <desc> Trois hypothèses d'identification possibles : <objectName
-                    ref="#GiovanniJacopoCaraglioViergeJBRaphael"/>, <objectName ref="#GiovanniJacopoCaraglioAdorationBergers"/>,
-                    <objectName ref="#GiovanniJacopoCaraglioAnnonciation"/>. </desc>
+                    ref="#GiovanniJacopoCaraglioViergeJBRaphael"/>, <objectName
+                    ref="#GiovanniJacopoCaraglioAdorationBergers"/>, <objectName
+                    ref="#GiovanniJacopoCaraglioAnnonciation"/>. </desc>
         </certainty>
     </Daret_VieRaphael>
     <Palladio_quattro_libri>
@@ -168,8 +169,8 @@
                     ref="#JeanCousinLeJeuneJugementDernierLouvre">l'oeuvre ayant été exposée au
                     couvent des Minimes</ojectName> à Vincennes. Cette oeuvre, actuellement exposée
                 au musée du Louvre, est attribuée à son fils, Jean Cousin dit le Jeune. Néanmoins,
-                l'on connait du père un <objectName ref="#JeanCousinJugementDernierMBAReims">Jugement
-                    dernier conservé au musée des Beaux-Arts de Reims</objectName>.</desc>
+                l'on connait du père un <objectName ref="#JeanCousinJugementDernierMBAReims"
+                    >Jugement dernier conservé au musée des Beaux-Arts de Reims</objectName>.</desc>
         </certainty>
         <certainty xml:id="PhilippeDeChampaigneCouventCarmelitesParis" locus="value">
             <desc> Il est possible que les peintures de <objectName
@@ -229,23 +230,27 @@
             locus="value">
             <desc> Il est possible que les portraits dont parle De Piles soit deux portraits
                 différents ou un seul portrait du couple. <objectName
-                    ref="#OttoVanVeenPortraitAlbertDAutricheIsabelleClaireEugenieDAutricheGloucestershire">Le
-                    double portrait</objectName> conservé dans le Gloucestershire, en Angleterre,
-                dans une demeure de la famille royale, pourrait être le portrait en question,
-                d’autant plus que l’on ne connaît pas d’autre portrait de l’infante
+                    ref="#OttoVanVeenPortraitAlbertDAutricheIsabelleClaireEugenieDAutricheGloucestershire"
+                    >Le double portrait</objectName> conservé dans le Gloucestershire, en
+                Angleterre, dans une demeure de la famille royale, pourrait être le portrait en
+                question, d’autant plus que l’on ne connaît pas d’autre portrait de l’infante
                 Isabelle-Claire-Eugénie d’Autriche peint par Otto Van Veen. </desc>
         </certainty>
-
-
-
-
-
-
-
-
-
-
-
-
     </Piles_Abrege_Peintres>
+    <Lomazzo_TraicteProportion>
+        <certaninty xml:id="RaphaelSaintGeorges1" locus="value">
+            <desc>Deux hypothèses d'identification possibles : <object
+                    ref="#RaphaelSaintGeorgesEtLeDragonLouvre">"Saint Georges et le dragon" conservé
+                    au Musée du Louvre</object> ou <objectName
+                    ref="#RaphaelSaintGeorgesEtLeDragonNGWashington">"Saint Georges et le dragon"
+                    conservé à la National Gallery à Washington</objectName></desc>
+        </certaninty>
+        <certaninty xml:id="RaphaelSaintGeorges2" locus="value">
+            <desc>Deux hypothèses d'identification possibles : <object
+                ref="#RaphaelSaintGeorgesEtLeDragonLouvre">"Saint Georges et le dragon" conservé
+                au Musée du Louvre</object> ou <objectName
+                    ref="#RaphaelSaintGeorgesEtLeDragonNGWashington">"Saint Georges et le dragon"
+                    conservé à la National Gallery à Washington</objectName></desc>
+        </certaninty>
+    </Lomazzo_TraicteProportion>
 </textes>
