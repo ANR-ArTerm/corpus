@@ -4,7 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">Abregé de la vie des peintres, Avec des reflexions sur leurs Ouvrages, Et un Traité du Peintre parfait, de la connoissance des Desseins, et de l’utilité des Estampes.</title>
+        <title xml:lang="fra">Abregé de la vie des peintres, Avec des reflexions sur leurs Ouvrages,
+          Et un Traité du Peintre parfait, de la connoissance des Desseins, et de l’utilité des
+          Estampes.</title>
         <respStmt>
           <name>Emma Bondoerffer</name>
           <resp>Correction, Structuration, Balisage, Indexation</resp>
@@ -26,13 +28,18 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028
+            by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k6568782t.r">Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb11998742h">Roger Piles (de)<idno type="ISNI">https://isni.org/isni/0000000083425581</idno>
-        </author>
-          <title xml:lang="fra">Abregé de la vie des peintres, Avec des reflexions sur leurs Ouvrages, Et un Traité du Peintre parfait, de la connoissance des Desseins, et de l’utilité des Estampes.</title>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/bpt6k6568782t.r">Gallica, Bibliothèque
+          nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb11998742h">Roger Piles
+              (de)<idno type="ISNI">https://isni.org/isni/0000000083425581</idno>
+          </author>
+          <title xml:lang="fra">Abregé de la vie des peintres, Avec des reflexions sur leurs
+            Ouvrages, Et un Traité du Peintre parfait, de la connoissance des Desseins, et de
+            l’utilité des Estampes.</title>
           <publisher>François Muguet</publisher>
           <pubPlace>Paris</pubPlace>
           <date when="1699">1699</date>
@@ -42,40 +49,51 @@
             <country>France</country>
             <settlement ref="#Paris">Paris</settlement>
             <institution>Bibliothèque nationale de France</institution>
-            <repository />
+            <repository/>
             <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb31112316k</idno>
           </msIdentifier>
         </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la
+          littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des
+          théories des arts d'une langue à l'autre et des transferts linguistiques du lexique
+          esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine
+          artistique.</p>
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
           <p>édition complète</p>
         </correction>
         <normalization method="silent">
-          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations
+            et accentuations ont été normalisées en suivant les règles de typographies du 20è
+            siècle.</p>
         </normalization>
         <punctuation marks="some">
-          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le
+            reste des ponctuations ont été conservées comme dans les imprimés de référence. En
+            italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
         </punctuation>
         <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface) + body (7 livres [L1 = idée du peintre, à partir de C30 = abregé vie des peintres] 255 chapitres au total)</p>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises
+            div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface) + body (7
+            livres [L1 = idée du peintre, à partir de C30 = abregé vie des peintres] 255 chapitres
+            au total)</p>
         </segmentation>
-        <hyphenation eol="none" />
+        <hyphenation eol="none"/>
         <stdVals>
           <p>Norme ISO-8601 pour les dates</p>
         </stdVals>
       </editorialDecl>
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
     </profileDesc>
   </teiHeader>
   <text>
@@ -3311,7 +3329,7 @@
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000171.tif/full/full/0/default.jpg"
             /> que <persName ref="#NicolasV">Nicolas V</persName> luy offrit. Ce Pape l'employa pour
             les <objectName ref="#FraAngelicoChapelleNicolineVatican">Peintures de sa
-            Chapelle</objectName>, et luy fit faire quelques Ouvrages de Miniature dans des Livres
+              Chapelle</objectName>, et luy fit faire quelques Ouvrages de Miniature dans des Livres
             d'Eglise. Dans ses meilleurs Tableaux il laissoit quelquefois des fautes grossiéres,
             pour modérer les loüanges qu'il en auroit pû éspérer. Il observoit de ne se mettre
             jamais à l'Ouvrage qu'il n'eût satisfait à son Office. Il a beaucoup travaillé à
@@ -3528,14 +3546,15 @@
             beaucoup de vivacité et de Génie, et renouvela dans les ornemens de Clair-obscur, qu'il
             faisoit la maniére Antique, telle qu'on la voit dans les frises d'Architecture et
             ailleurs. Il peignit à <placeName ref="#Rome">Rome</placeName> plusieurs choses, et
-            entr'autres une <objectName ref="#FilippinoLippiChapelleCarafaRome">Chapelle</objectName>
-            pour le <persName ref="#CarloCarafa">Cardinal Caraffe</persName> dans
-              l'<placeName>Eglise de la <persName ref="#Minerve">Minerve</persName></placeName>. Il
-            fit aussi quelques Tableaux pour <persName ref="#MatthiasCorvin">Mathias Corvinus Roy de
-                <placeName ref="#Hongrie">Hongrie</placeName></persName>. Ce <persName
-              ref="#FilippinoLippi">Lippi</persName> étoit de fort bonnes mœurs ; et sa vie étoit un
-            grand reproche à celle de <persName ref="#FraFilippoLippi">son Pére</persName>. Il
-            mourut en <date when="1505">1505</date> âgé de 45 ans.</p>
+            entr'autres une <objectName ref="#FilippinoLippiChapelleCarafaRome"
+              >Chapelle</objectName> pour le <persName ref="#CarloCarafa">Cardinal
+              Caraffe</persName> dans l'<placeName>Eglise de la <persName ref="#Minerve"
+                >Minerve</persName></placeName>. Il fit aussi quelques Tableaux pour <persName
+              ref="#MatthiasCorvin">Mathias Corvinus Roy de <placeName ref="#Hongrie"
+                >Hongrie</placeName></persName>. Ce <persName ref="#FilippinoLippi">Lippi</persName>
+            étoit de fort bonnes mœurs ; et sa vie étoit un grand reproche à celle de <persName
+              ref="#FraFilippoLippi">son Pére</persName>. Il mourut en <date when="1505">1505</date>
+            âgé de 45 ans.</p>
           <figure type="ornement"
             source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/b77de246-73b0-4916-b8db-da1086290d0e/1993,5750,1022,561/max/0/default.jpg"
           />
@@ -3588,10 +3607,11 @@
               rend="it"><persName ref="#FraFilippoLippi">Philippe Lippi</persName></hi> qui avoit
             été Carme, et grand Compétiteur de <hi rend="it"><persName ref="#DomenicoGhirlandaio"
                 >Domimico Ghirlandai</persName></hi>. Il avoit des Lettres, et fit un <objectName
-              ref="#SandroBotticelliDivineComedieKupferstichkabinett">Commentaire sur le <persName ref="#Dante"
-                >Danté</persName>, qu'il accompagna de Figures</objectName>. Cet Ouvrage luy consuma
-            beaucoup de tems, et il mourut sans avoir la satisfaction de le voir imprimer. Ce fut
-            l'année <date when="1515">1515</date> la soixante-dix-huitiéme de son âge. </p>
+              ref="#SandroBotticelliDivineComedieKupferstichkabinett">Commentaire sur le <persName
+                ref="#Dante">Danté</persName>, qu'il accompagna de Figures</objectName>. Cet Ouvrage
+            luy consuma beaucoup de tems, et il mourut sans avoir la satisfaction de le voir
+            imprimer. Ce fut l'année <date when="1515">1515</date> la soixante-dix-huitiéme de son
+            âge. </p>
         </div2>
         <div2 n="54" type="chapitre" xml:id="C54" xml:lang="fra">
           <head>
@@ -4458,15 +4478,16 @@
           <p xml:id="PIL_AVP_L3_C68_P3"> Le même <persName ref="#GiorgioVasari">Vasari</persName>
             raconte qu'<persName ref="#AndreaDelSarto">André del Sarte</persName> copioit si
             parfaitement, qu'un jour <persName ref="#FredericIIMantoue">Frideric Marquis de
-              Mantoué</persName> luy ayant Fait faire une <objectName ref="#AndreaDelSartoLeonXCapodimonte"
-              >Copie du Portrait de <persName ref="#LeonX">Leon X</persName></objectName>. avec
-            quelques Cardinaux (parce que <persName ref="#ClementVII">Clément VII</persName>. avoit
-            prié ce Peintre de luy donner l'Original,) il le fit avec tant de justesse, que
-              <persName ref="#GiulioRomano">Jules Romain</persName>, qui, sous la conduite de
-              <persName ref="#Raphael">Raphaël</persName>, en avoit fait les habits, la prit
-            toûjours pour l'Original, et dit à <persName ref="#GiorgioVasari">Vasari</persName>, qui
-            l'en vouloit de abuser, <hi rend="it">Ne vois-je pas les propres coups que j'y ay donné
-              moy-même ?</hi> Cependant <pb n="191"
+              Mantoué</persName> luy ayant Fait faire une <objectName
+              ref="#AndreaDelSartoLeonXCapodimonte">Copie du Portrait de <persName ref="#LeonX">Leon
+                X</persName></objectName>. avec quelques Cardinaux (parce que <persName
+              ref="#ClementVII">Clément VII</persName>. avoit prié ce Peintre de luy donner
+            l'Original,) il le fit avec tant de justesse, que <persName ref="#GiulioRomano">Jules
+              Romain</persName>, qui, sous la conduite de <persName ref="#Raphael"
+              >Raphaël</persName>, en avoit fait les habits, la prit toûjours pour l'Original, et
+            dit à <persName ref="#GiorgioVasari">Vasari</persName>, qui l'en vouloit de abuser, <hi
+              rend="it">Ne vois-je pas les propres coups que j'y ay donné moy-même ?</hi> Cependant
+              <pb n="191"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000216.tif/full/full/0/default.jpg"/>
             <persName ref="#GiorgioVasari">Vasari</persName> luy ayant fait voir la toile par
             derriére, <persName ref="#GiulioRomano">Jules Romain</persName> fut convaincu de la
@@ -5447,9 +5468,9 @@
                 ><persName ref="#Laocoon">Laocoon</persName></objectName>, de <objectName><persName
                 ref="#Commode">Commode</persName></objectName>, du <objectName ref="#TibreLouvre"
               >Tibre</objectName>, du <objectName ref="#NilVatian"><placeName ref="#Nil"
-                >Nil</placeName></objectName>, et de <objectName ref="#ArianeEndormieVatican">la <persName
-                ref="#Cleopatre">Cléopatre</persName> de Belvedere</objectName> le tout pour être
-            jetté en Bronze. </p>
+                >Nil</placeName></objectName>, et de <objectName ref="#ArianeEndormieVatican">la
+                <persName ref="#Cleopatre">Cléopatre</persName> de Belvedere</objectName> le tout
+            pour être jetté en Bronze. </p>
           <p xml:id="PIL_AVP_L3_C87_P3"> Aprés la mort de <persName ref="#RossoFiorentino">Maître
               Roux</persName>, <persName ref="#FrancescoPrimaticcio">le Primatice</persName> fut
             pourvû de la Charge d'Intendant des Bâtimens, et acheva en peu de tems la <objectName
@@ -5693,8 +5714,9 @@
             trente-sept ans. Fréderic fut employé par le Pape <persName ref="#GregoireXIII"
               >Grégoire XIII</persName>. pour quelques Ouvrages qui luy attirérent des différens
             avec les Officiers de Sa Sainteté ; et pour se vanger de leurs mauvais offices, il fit
-            le <objectName ref="#FedericoZuccaroCalomnieRoyalCollectionLondres">Tableau de la Calomnie</objectName>, qui a
-            depuis été <objectName ref="#CornelisCortFedericoZuccaroCalomnieApelle">gravé par <persName
+            le <objectName ref="#FedericoZuccaroCalomnieRoyalCollectionLondres">Tableau de la
+              Calomnie</objectName>, qui a depuis été <objectName
+              ref="#CornelisCortFedericoZuccaroCalomnieApelle">gravé par <persName
                 ref="#CornelisCort">Corneille Cort</persName></objectName>, où il répresenta avec
             des oreilles d'asne tous ceux qui l'avoient offensé. Il l'éxposa publiquement sur la
             Porte de l'<objectName ref="#SaintLucEtMartineRome">Eglise de <persName ref="#SaintLuc"
@@ -5706,20 +5728,20 @@
               /> de Lorraine</persName>, et à l'Escurial pour <persName ref="#PhilippeIIMacedoine"
               >Philippe II</persName>. sans que, ni l'un, ni l'autre fussent contens de son Ouvrage.
             Il fut plut heureux en <placeName ref="#Angleterre">Angleterre</placeName>, où il fit le
-              <objectName ref="#FedericoZuccaroPortraitElisabethI">Portrait de la <persName ref="#ElisabethI"
-                >Reine Elizabeth</persName></objectName>, et quelques autres Ouvrages qui furent
-            applaudis. Enfin aprés être retourné en <placeName ref="#Italie">Italie</placeName>, et
-            avoir travaillé quelque tems à <placeName ref="#Venise">Venise</placeName>, <persName
-              ref="#GregoireXIII">Grégoire XIII</persName>. le rappella, et luy pardonna. Ce fut en
-            ce tems-là, que se prévalant de la protection du Pape, il mit à éxecution le Bref que
-            Sa Sainteté avoit donné pour l'érection d'une Academie de Peinture. Il y fut élu Prince,
-            et l'affection qu'il portoit à son Art, luy fit batir à ses frais une Maison où se
-            tenoit l'Assemblée des Peintre. Il allu ensuite à <placeName ref="#Venise"
-              >Venise</placeName> pour y faire imprimer les Livres qu'il a composez sur la Peinture.
-            De là il passa à la Cour de <placeName ref="#Savoie">Savoye</placeName>, et dans un
-            voyage qu'il fit à <placeName ref="#Loreto">Lorette</placeName>, il mourut à <placeName
-              ref="#Ancone">Ancone</placeName> âgé de soixante-six ans, environ l'an <date
-              when="1602">1602</date>. </p>
+              <objectName ref="#FedericoZuccaroPortraitElisabethI">Portrait de la <persName
+                ref="#ElisabethI">Reine Elizabeth</persName></objectName>, et quelques autres
+            Ouvrages qui furent applaudis. Enfin aprés être retourné en <placeName ref="#Italie"
+              >Italie</placeName>, et avoir travaillé quelque tems à <placeName ref="#Venise"
+              >Venise</placeName>, <persName ref="#GregoireXIII">Grégoire XIII</persName>. le
+            rappella, et luy pardonna. Ce fut en ce tems-là, que se prévalant de la protection du
+            Pape, il mit à éxecution le Bref que Sa Sainteté avoit donné pour l'érection d'une
+            Academie de Peinture. Il y fut élu Prince, et l'affection qu'il portoit à son Art, luy
+            fit batir à ses frais une Maison où se tenoit l'Assemblée des Peintre. Il allu ensuite à
+              <placeName ref="#Venise">Venise</placeName> pour y faire imprimer les Livres qu'il a
+            composez sur la Peinture. De là il passa à la Cour de <placeName ref="#Savoie"
+              >Savoye</placeName>, et dans un voyage qu'il fit à <placeName ref="#Loreto"
+              >Lorette</placeName>, il mourut à <placeName ref="#Ancone">Ancone</placeName> âgé de
+            soixante-six ans, environ l'an <date when="1602">1602</date>. </p>
         </div2>
         <div2 n="93" type="chapitre" xml:id="C93" xml:lang="fra">
           <head>
@@ -7334,11 +7356,12 @@
           <p xml:id="PIL_AVP_L5_C129_P11"> La réputation des Caraches s'étant répanduë jusqu'à
               <placeName ref="#Rome">Rome</placeName>, le <persName ref="#EdouardFarnese">Cardinal
               Odoard Farnése</persName>, qui vouloit faire peindre <objectName
-              ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">la Galerie de son Palais</objectName>, fit venir
-              <persName ref="#AnnibaleCarracci">Annibal</persName> à <placeName ref="#Rome"
-              >Rome</placeName> pour l'exécution de son Dessein, et ce Peintre fit ce voyage
-            d'autant plus volontiers, qu'il avoit une tres grande envie de voir les Ouvrages de
-              <persName ref="#Raphael">Raphaël</persName>, les Statues et les Bas-reliefs Antiques. </p>
+              ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">la Galerie de son
+              Palais</objectName>, fit venir <persName ref="#AnnibaleCarracci">Annibal</persName> à
+              <placeName ref="#Rome">Rome</placeName> pour l'exécution de son Dessein, et ce Peintre
+            fit ce voyage d'autant plus volontiers, qu'il avoit une tres grande envie de voir les
+            Ouvrages de <persName ref="#Raphael">Raphaël</persName>, les Statues et les Bas-reliefs
+            Antiques. </p>
           <p xml:id="PIL_AVP_L5_C129_P12"> Le Goût qu'il prit aux Sculptures des Anciens luy fit
             changer sa maniére Bolonése, <pb n="307"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000332.tif/full/full/0/default.jpg"
@@ -7346,14 +7369,14 @@
             suivre une méthode plus sçavante, plus récherchée et plus prononcée ; mais plus séche
             et moins natuelle dans le dessein et dans la Couleur. Il eut occasion de la mettre en
             usage en Plusieurs Ouvrages qu'il y fit, et entre autres dans celui de la <objectName
-              ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">Gallerie du Palais Farnése</objectName>, où <persName
-              ref="#AgostinoCarracci">Augustin</persName> qui l'étoit venu trouver l'ayda, et pour
-            l'ordonnance et pour l'éxécution. Mais soit qu'<persName ref="#AgostinoCarracci"
-              >Augustin</persName> voulût trop régenter dans cet Ouvrage, soit qu'<persName
-              ref="#AnnibaleCarracci">Annibal</persName> en voulût avoir toute la gloire, ce dernier
-            ne put soûffrir que son Frére continuât à travailler à cet Ouvrage, quelques
-            soûmissions et quelques offres qu'<persName ref="#AgostinoCarracci">Augustin</persName>
-            luy fît pour l'adoucir. </p>
+              ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">Gallerie du Palais
+              Farnése</objectName>, où <persName ref="#AgostinoCarracci">Augustin</persName> qui
+            l'étoit venu trouver l'ayda, et pour l'ordonnance et pour l'éxécution. Mais soit
+              qu'<persName ref="#AgostinoCarracci">Augustin</persName> voulût trop régenter dans cet
+            Ouvrage, soit qu'<persName ref="#AnnibaleCarracci">Annibal</persName> en voulût avoir
+            toute la gloire, ce dernier ne put soûffrir que son Frére continuât à travailler à cet
+            Ouvrage, quelques soûmissions et quelques offres qu'<persName ref="#AgostinoCarracci"
+              >Augustin</persName> luy fît pour l'adoucir. </p>
           <p xml:id="PIL_AVP_L5_C129_P13"><persName ref="#EdouardFarnese">Le Cardinal
               Farnése</persName> voyant cette mesintelligence, envoya <persName
               ref="#AgostinoCarracci">Augustin</persName> à <placeName ref="#Parme"
@@ -7389,10 +7412,11 @@
               >Bologne</placeName>, dont on peut voir les circonstances dans la déscription que nous
             en a laissée <persName ref="#CarloCesareMalvasia">le Comte Malvasie</persName>. </p>
           <p xml:id="PIL_AVP_L5_C129_P17"> Cependant <persName ref="#AnnibaleCarracci"
-              >Annibal</persName> continua <objectName ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">la Galerie du
-              Cardinal Farnése</objectName>, il y prit des soins incroyables, et quoy qu'il fut
-            consommé dans sa profession, il n'a pas fait la moindre chose dans cet Ouvrage qu'il
-            n'ait consulté la nature, ni peint la moindre <pb n="309"
+              >Annibal</persName> continua <objectName
+              ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">la Galerie du Cardinal
+              Farnése</objectName>, il y prit des soins incroyables, et quoy qu'il fut consommé
+            dans sa profession, il n'a pas fait la moindre chose dans cet Ouvrage qu'il n'ait
+            consulté la nature, ni peint la moindre <pb n="309"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000334.tif/full/full/0/default.jpg"
             /> partie de ses Figures, pour laquelle il n'ait fait monter un modéle sur l'échaffaut,
             et n'ait ainsi dessiné exactement toutes les Attitudes. </p>
@@ -7409,11 +7433,12 @@
               elavora et tirala caretta tutto il di come un Cavallo, e fa loge camare e sale, quadri
               et ancone e lavori da mille scuti, e stenta, e crepa et ha poco gusto ancora di tal
               servitù ma questo di gratia non si dica ad alcuno.</hi> Enfin aprés des soins
-            inconcevables, ayant mis cette <objectName ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese"
-              >Galerie</objectName> dans le degré de perfection où nous la voyons, il espéroit que
-            le <persName ref="#EdouardFarnese">Cardinal Farnése</persName> lui donneroit une
-            récompense proportionnée à la qualité de l'Ouvrage, et à l'espace de huit années qu'il
-            avoit travaillé pour lui, mais un Espagnol nommé <pb n="305"
+            inconcevables, ayant mis cette <objectName
+              ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">Galerie</objectName> dans le
+            degré de perfection où nous la voyons, il espéroit que le <persName
+              ref="#EdouardFarnese">Cardinal Farnése</persName> lui donneroit une récompense
+            proportionnée à la qualité de l'Ouvrage, et à l'espace de huit années qu'il avoit
+            travaillé pour lui, mais un Espagnol nommé <pb n="305"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000335.tif/full/full/0/default.jpg"
               /><persName>Dom Jean de Castro</persName> qui gouvernoit l'Esprit de ce Cardinal, lui
             persuada que selon la supputation qu'il avoit faite, <persName ref="#AnnibaleCarracci"
@@ -7435,8 +7460,9 @@
           <p xml:id="PIL_AVP_L5_C129_P21"> Dans le tems qu'il y étoit le plus occupé, <persName
               ref="#AnnibaleCarracci">Annibal</persName> le solicita si puissamment de venir à
               <placeName ref="#Rome">Rome</placeName> pour l'ayder de ses Conseils dans l'Ouvrage de
-            la <objectName ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">Galerie Farnése</objectName>, qu'il ne put
-            se dispenser de faire ce voyage, et aprés avoir corrigé plusieurs choses <pb n="311"
+            la <objectName ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">Galerie
+              Farnése</objectName>, qu'il ne put se dispenser de faire ce voyage, et aprés avoir
+            corrigé plusieurs choses <pb n="311"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000336.tif/full/full/0/default.jpg"
             /> dans cette Galerie, et avoir peint lui même une de ces Figures nuës, qui soûtiennent
             le Médaillon de Sirinx ; il s'en détourna à <placeName ref="#Bologne"
@@ -7523,15 +7549,15 @@
             trois dessiné d'un grand Goût. Celuy d'<persName ref="#AnnibaleCarracci"
               >Annibal</persName> s'est encore augmenté dans le séjour qu'il fit à <placeName
               ref="#Rome">Rome</placeName>, comme on le peut voir par les Ouvrages qu'il a faits au
-              <objectName ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">Palais Farnése</objectName>. Ce Dessein est
-            chargé à la vérité mais cette charge est néanmoins si belle et si savante, qu'elle fait
-            plaisir à cet même qui la censurent ; car son Goût de dessiner est un composé de
-            l'Antique, de <persName ref="#MichelAnge">Michelange</persName>, et de la Nature. Mais
-            comme l'affection qu'il prénoit pour les beautez nouvelles luy faisoit oublier les
-            anciennes, la maniére Romaine luy fit quitter la Bolognése, qui étoit molle et pâteuse ;
-            et à mesure qu'il voulut augmenter dans le Gout du Dessein, il diminua dans celuy du
-            Coloris. Ainsi ses derniers Ouvrages sont d'un Dessein plus prononcé, mais d'un Pinceau
-            moins tendre, moins fondu, et moins agréable. </p>
+              <objectName ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">Palais
+              Farnése</objectName>. Ce Dessein est chargé à la vérité mais cette charge est
+            néanmoins si belle et si savante, qu'elle fait plaisir à cet même qui la censurent ; car
+            son Goût de dessiner est un composé de l'Antique, de <persName ref="#MichelAnge"
+              >Michelange</persName>, et de la Nature. Mais comme l'affection qu'il prénoit pour les
+            beautez nouvelles luy faisoit oublier les anciennes, la maniére Romaine luy fit quitter
+            la Bolognése, qui étoit molle et pâteuse ; et à mesure qu'il voulut augmenter dans le
+            Gout du Dessein, il diminua dans celuy du Coloris. Ainsi ses derniers Ouvrages sont d'un
+            Dessein plus prononcé, mais d'un Pinceau moins tendre, moins fondu, et moins agréable. </p>
           <p xml:id="PIL_AVP_L5_C130_P7"> Ce défaut est commun presqu'à tous ceux qui ont
             correctement dessiné. Ils ont crû qu'ils perdroient le fruit de leur travaux, s'ils
             laissoient ignorer au monde à quel point ils possédoient cette partie, <pb n="315"
@@ -7615,7 +7641,8 @@
             avoir de quoy subsister. Ses principaux Ouvrages sont dans les Cabinet des Grans. Il
             travailloit également bien à huile et à fraisque. Celuy de ses Tableaux qui a fait le
             plus de bruit dans <placeName ref="#Rome">Rome</placeName>, est <objectName
-              ref="#GuidoReniMartyreSaintAndreSanGregorioAlCelioRome">celuy qu'il peignit</objectName>
+              ref="#GuidoReniMartyreSaintAndreSanGregorioAlCelioRome">celuy qu'il
+              peignit</objectName>
             <objectName ref="#DominiquinSaintAndreSanGregorio">en concurrence du <persName
                 ref="#Dominiquin">Dominiquin</persName> dans <objectName
                 ref="#EgliseSanGregorioCelioRome">l'Eglise de Saint
@@ -8321,9 +8348,10 @@
               Graces</objectName>, et des <objectName>Têtes de Mort, avec d'autres Ossemens, un
               Enfer avec des Spéctre diaboliques</objectName> dans la maniere d'<persName
               ref="#IsrahelVanMeckenem">Israël, de <placeName ref="#Malines">Malines</placeName>
-            </persName>; au dessus de <objectName ref="#AlbrechtDurerTroisGracesOuQuatreSorcieres">ces trois
-              Femmes il y a un Globe sur lequel on voit ces troi Lettres O.G.H.</objectName> qui
-            veulent dire en Allemand <hi rend="normal" xml:lang="all">O Gott Hüte!</hi>
+            </persName>; au dessus de <objectName ref="#AlbrechtDurerTroisGracesOuQuatreSorcieres"
+              >ces trois Femmes il y a un Globe sur lequel on voit ces troi Lettres
+              O.G.H.</objectName> qui veulent dire en Allemand <hi rend="normal" xml:lang="all">O
+              Gott Hüte!</hi>
             <hi rend="it">O <persName ref="#Dieu">Dieu</persName> gardez-nous des enchantemens</hi>
             : Il avoit pour lors vingt-six ans, car c'êtoit en <date when="1497">1497</date>. Ayant
             mis ainsi son genie en mouvement il s'attacha de lui même à l'étude du dessein et y
@@ -8411,8 +8439,8 @@
             éxtrémes soins qu'il avoit pris pour connoître la structure du Corps humain, et aprés
             avoir trouvé une belle proportion entre toutes celles qu'il a données au Public, il
             s'en soit si peu servi dans ces Ouvrages, car à l'éxception de ses Vierges et des
-            Vertus, qui accompagnent <objectName ref="#AlbrechtDurerTriompheMaximilienI">le Triomphe de
-                l'<persName ref="#MaximilienI">Empereur Maximilien</persName></objectName>, tout ce
+            Vertus, qui accompagnent <objectName ref="#AlbrechtDurerTriompheMaximilienI">le Triomphe
+              de l'<persName ref="#MaximilienI">Empereur Maximilien</persName></objectName>, tout ce
             qu'il a fait est d'un Goût de Dessein, tout-à-fait pauvre, il s'est attaché uniquement à
             la Nature selon l'idée qu'il en avoit, et bien loin d'en relever les beautez et d'en
             rechercher les Graces, il en a rarement imité les beaux endroits que le hazard fournit
@@ -8809,7 +8837,8 @@
             le connoissoient. Il mourut en <date when="1562">1562</date>. âgé de soixante-sept ans.
             Deux ans avant son decez, <persName ref="#AnthonisMorVanDashorst">Antoine
               More</persName> son Disciple fit <objectName
-              ref="#AnthonisMorVanDashorstPortraitJanVanScorelBurlingtonHouse">son Portrait</objectName>. </p>
+              ref="#AnthonisMorVanDashorstPortraitJanVanScorelBurlingtonHouse">son
+              Portrait</objectName>. </p>
         </div2>
         <div2 n="160" type="chapitre" xml:id="C160" xml:lang="fra">
           <head>
@@ -11388,18 +11417,19 @@
             celle <objectName ref="#EgliseSaintGervaisSaintProtaisParis">Saint Gervais</objectName>,
             où il a peint sur les Vitres du Chœur <objectName
               ref="#JeanCousinMartyreSaintLaurentSaintGervaisSaintProtais">le martyre de Saint
-              Laurent</objectName>, <objectName ref="#JeanCousinSamaritaineSaintGervaisSaintProtais">la
-              Samaritaine</objectName>, et l'<objectName ref="#JeanCousinParalytiqueSaintGervaisSaintProtais"
-              >histoire du Paralytique</objectName>. On voit dans la <placeName ref="#Sens">Ville de
+              Laurent</objectName>, <objectName ref="#JeanCousinSamaritaineSaintGervaisSaintProtais"
+              >la Samaritaine</objectName>, et l'<objectName
+              ref="#JeanCousinParalytiqueSaintGervaisSaintProtais">histoire du
+              Paralytique</objectName>. On voit dans la <placeName ref="#Sens">Ville de
               Sens</placeName> quelques Tableaux de sa façon, et plusieurs Portraits : mais de tous
             ses Ouvrages, le plus estimé est le Tableau du <objectName cert="low"
               xml:id="JeanCousinJugementDernier">Jugement universel</objectName>, qui est dans la
               <objectName ref="#CouventMinimesVincennes">Sacristie des Minimes</objectName> du
               <placeName ref="#BoisDeVincennes">Bois de Vincennes</placeName>, et qui se voit
-              <objectName ref="#JeanCousinLeJeunePieterDeJodeIJugementDernier">gravé</objectName> par
-              <persName ref="#PieterDeJodeI">Pierre de Jode</persName> Flamand, bon Dessinateur. Ce
-            Tableau fait voir la fertilité du Génie de son Auteur, par la quantité de Figures dont
-            il est composé : ce que l'on y pourroit souhaiter, ce seroit seulement un peu plus
+              <objectName ref="#JeanCousinLeJeunePieterDeJodeIJugementDernier">gravé</objectName>
+            par <persName ref="#PieterDeJodeI">Pierre de Jode</persName> Flamand, bon Dessinateur.
+            Ce Tableau fait voir la fertilité du Génie de son Auteur, par la quantité de Figures
+            dont il est composé : ce que l'on y pourroit souhaiter, ce seroit seulement un peu plus
             d'élégance dans son Goût de Dessin. </p>
           <p xml:id="PIL_AVP_L7_C228_P2"> Il épousa la <persName>Fille du Lieutenant Général de
               Sens</persName>, et l'emmena à <placeName ref="#Paris">Paris</placeName>, ou il passa
@@ -11548,12 +11578,13 @@
           <p xml:id="PIL_AVP_L7_C233_P2"> Il a peint à <placeName ref="#Paris">Paris</placeName>
             deux Galeries : la <pb n="464"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000489.tif/full/full/0/default.jpg"
-              /><objectName ref="JacquesBlanchardGalerieChambreDesComptesParis">prémiére</objectName>
-            est dans la Maison qui appartenoit à M. le <persName>Président Perrault</persName>, et
-            l'autre, où il réprésenta <objectName ref="#JacquesBlanchardGalerieBasseBullionParis"
-              >les douze mois de l'année</objectName>, étoit à <persName ref="#ClaudeDeBullion">M.
-              de Bullion</persName> Sur-Intendant des Finances. Mais de tous ses Ouvrages, celuy qui
-            a le plus soûtenu sa réputation, c'est <objectName
+              /><objectName ref="JacquesBlanchardGalerieChambreDesComptesParis"
+              >prémiére</objectName> est dans la Maison qui appartenoit à M. le <persName>Président
+              Perrault</persName>, et l'autre, où il réprésenta <objectName
+              ref="#JacquesBlanchardGalerieBasseBullionParis">les douze mois de
+            l'année</objectName>, étoit à <persName ref="#ClaudeDeBullion">M. de Bullion</persName>
+            Sur-Intendant des Finances. Mais de tous ses Ouvrages, celuy qui a le plus soûtenu sa
+            réputation, c'est <objectName
               ref="#JacquesBlanchardDescenteSaintEspritMayNotreDameParis">le Tableau</objectName>
             qu'il fit à Nôtre-Dame pour le prémier jour de May. Il réprésente la Descente du Saint
             Esprit et cette Eglise le conserve chérement, comme le plus beau de tous les Tableaux
@@ -13119,7 +13150,8 @@
               ref="#AnnibaleCarracci">Annibal</persName> dans le séjour qu'il fit à <placeName
               ref="#Rome">Rome</placeName> prit tellement le Goût Romain, que je ne compte pour
             Lombards que les Ouvrages qui ont precédé celuy de la <objectName
-              ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">Gallerie Farnesse</objectName>. </p>
+              ref="#DomenichinoAnnibaleAgostinoCarracheGalerieFarnese">Gallerie
+              Farnesse</objectName>. </p>
           <p xml:id="PIL_AVP_L7_C255_P17"> Je ne mets pas n'on plus au nombre des Peintres Lombards
             ceux qui étans nez en <placeName ref="#Lombardie">Lombardie</placeName> ont suivi ou
             l'Ecole Romaine, ou l'Ecole Vénitienne : parce que j'ay plus d'égard en cela à la
