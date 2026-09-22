@@ -22829,9 +22829,10 @@
                             ref="#Titien">Titien</persName>, <persName ref="#PaoloVeronese">Paul
                             Veronese</persName>, et les autres Lombards s'en sont heureusement
                         servis, comme l'a fort bien remarqué monsieur <persName ref="#RogerDePiles"
-                            >de Pile</persName> sur le poëme du sieur <persName
-                            ref="#CharlesAlphonseDuFresnoy">du Fresnoy</persName>. Les Italiens
-                        nomment cela <hi rend="it">rottura de' colori</hi>.</p>
+                            >de Pile</persName>
+                        <bibl key="DePilesTraductionDeArteGraphica">sur le poëme du sieur <persName
+                                ref="#CharlesAlphonseDuFresnoy">du Fresnoy</persName></bibl>. Les
+                        Italiens nomment cela <hi rend="it">rottura de' colori</hi>.</p>
                     <p xml:id="couleurs5"> Bonnes <hi rend="capitals">COULEURS</hi>. Lorsqu'on dit
                         d'un tableau, que les <ref target="#couleurs1">couleurs</ref> en sont <hi
                             rend="it">bonnes</hi> cela ne signifie pas pour l'ordinaire qu'elles
@@ -29935,249 +29936,273 @@
                         >thyrorion</hi>.</p>
                     <pb n="706"
                         facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f740/full/full/0/native.jpg"/>
-                    <p xml:id="porte5">La <hi rend="capitals">PORTE</hi> de <ref
-                            target="#menuiserie">menuiserie</ref>, lat. Foris. Les bonnes portes
-                        doivent avoir un pouce et demy d'épaisseur, estre emboistées en haut et en
-                        bas ; assemblées à <ref target="#clef1">clefs</ref> et à <ref
-                            target="#langue1">languettes</ref>, et collées. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P247"> Lors qu'elles sont d'assemblage,
-                        on appelle le panneau du milieu, Tympan. Et les pieces des costez, <ref
-                            target="#montans2">montans</ref>. Celles du haut, du bas et du milieu,
-                        Traverses. C'est ce que les Latins nomment, Impages. Et la <ref
-                            target="#feuilleures">feuillure</ref>, Replum. <hi rend="it">V.
-                        p.</hi>17L.176.Pl.XXVIII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P248"> PoRTEs en <ref target="#placart"
-                            >placart</ref>. Idem. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P249"><hi rend="capitals"> Portes </hi>
-                        à deux battans, Bifores portæ. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P250"><hi rend="capitals"> Portes </hi>
-                        brisées, Fores-plicatiles. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P251"><hi rend="capitals"> Porte </hi>
-                        coupée en quatre, Quadriforis. Ces Portes estoient anciennement appellées
-                        diclides, c'est-à-dire, à deux <ref target="#clef1">clefs</ref>, parce que
-                        les deux batans où volets d'en haut estoiest fermez par une serrure, et les
-                        deux batans d'en bas par une autre. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P252"> Anciennement c'estoit une marque
-                        d'honneur, et un priuilege particulier de ceux qui avoient triomphé de
-                        pouvoir faire ouvrir les portes de leur <ref target="#maison">maison</ref>
-                        en dehors et sur la rue ; ce qui fut accordé à L. Valerius <persName
-                            ref="#PubliusValeriusPublicola">Publicola</persName> et à son frere,
-                        aprés avoir vaincu les Sabins. <persName ref="#Pline">Pline</persName>
+                    <p xml:id="porte5"><hi rend="capitals">PORTE</hi> de <ref target="#menuiserie"
+                            >menuiserie</ref>, latin <hi rend="it" xml:lang="lat">foris</hi>. Les
+                        bonnes portes doivent avoir un pouce et demy d'épaisseur, estre emboistées
+                        en haut et en bas ; assemblées à <ref target="#clef1">clefs</ref> et à <ref
+                            target="#langue1">languettes</ref>, et collées.</p>
+                    <p>Lorsqu'elles sont d'assemblage, on appelle le panneau du milieu, <hi
+                            rend="it">tympan</hi>. Et les pieces des costez, <hi rend="it"><ref
+                                target="#montans2">montans</ref></hi>. Celles du haut, du bas et du
+                        milieu, <hi rend="it">traverses</hi>. C'est ce que les Latins nomment, <hi
+                            rend="it">impages</hi>. Et la <ref target="#feuilleures"
+                        >feüillure</ref>, <hi rend="it">replum</hi>. <hi rend="it">V. p.</hi> 172,
+                        176, Pl. XXVIII.</p>
+                    <p xml:id="porte6"><hi rend="capitals">PORTES</hi> en <ref target="#placart"
+                            >placart</ref>. <hi rend="it">Idem</hi>.</p>
+                    <p xml:id="porte7"><hi rend="capitals">PORTES</hi> à deux battans, <hi rend="it"
+                            >bifores portæ</hi>.</p>
+                    <p xml:id="porte8"><hi rend="capitals">PORTES</hi> brisées, <hi rend="it"
+                            >fores-plicatiles</hi>.</p>
+                    <p xml:id="porte9"><hi rend="capitals">PORTE</hi> coupée en quatre, <hi
+                            rend="it">quadriforis</hi>. Ces portes estoient anciennement appellées
+                            <hi rend="it">diclides</hi>, c'est-à-dire à deux <ref target="#clef1"
+                            >clefs</ref>, parce que les deux batans ou volets d'en haut estoient
+                        fermez par une serrure, et les deux batans d'en bas par une autre.</p>
+                    <p>Anciennement c'estoit une marque d'honneur, et un privilege particulier de
+                        ceux qui avoient triomphé de pouvoir faire ouvrir les portes de leur <ref
+                            target="#maison">maison</ref> en dehors et sur la ruë ; ce qui fut
+                        accordé à <persName ref="#LuciusValeriusPublicola">Lucius Valerius
+                            Publicola</persName> et à son frere, aprés avoir vaincu les Sabins.
+                            <persName ref="#Pline">Pline</persName>
                         <bibl key="plineHistoireNaturelle">l. 36, c. 15</bibl>.</p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P253"><hi rend="capitals"> Portes-<ref
-                                target="#fenestres">fenestres</ref>
-                        </hi>, c'est-à-dire des <ref target="#fenestres">fenestres</ref> qui
-                        s'ouvrent jusques en bas sur le <ref target="#plancher">plancher</ref>.
-                            <persName ref="#Vitruve">Vitruve</persName> Valvatæ fenestra. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P254"><hi rend="capitals"> Porte-crayon
-                        </hi> pour desleigner. Voyez p.414, Pl. LXII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P255"><hi rend="capitals"> Portique
-                        </hi>, est un lieu long et couvert, soit par une voute, soit par un <ref
-                            target="#plancher">plancher</ref> soutenu par des <ref target="#colonne"
-                            >colonnes</ref>. Le <ref target="#plafond">plafond</ref> se nommoit
-                        Lacunar par les anciens. <pb n="707"
-                            facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f741/full/full/0/native.jpg"
-                        /></p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P256"><hi rend="capitals"> Por toro
-                        </hi>, espece de <ref target="#marbre1">marbre</ref> noir qui a des vemnes
-                            <ref target="#jaune">jaunes</ref>. Voyezp.59. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P257"><hi rend="capitals"> Portraire
-                        </hi>. Le mot de Portraire est un mot general, qui s'estend à tout ce qu'on
-                        fait lors qu'on veut tirer la ressemblance de quelque chose ; neantmoins on
-                        ne l'employe pas indifferemment à toutes sortes de sujets. On dit le
-                        Portrait d'un homme ou d'une femme ; mais on ne dit pas le portrait d'un
-                        cheval, d'une <ref target="#maison">maison</ref> ou d'un arbre. On dit la
-                            <ref target="#figure1">figure</ref> d'un cheval la representation d'une
-                            <ref target="#maison">maison</ref> la <ref target="#figure1"
-                            >figure</ref> d'un arbre. Ce n'est pas mesme un terme bien receu parmy
-                        les sçavans <ref target="#peintre">peintres</ref> de dire qu'on và se faire
-                        portraire, et moins encore celuy de se faire tirer, que la plus part des
-                        gens qui ne sont pas de l'art disent ordinairement. On dit plustost un tel
-                        se fait <ref target="#peindre">peindre</ref> par in tel, ou bien, fait faire
-                        son portrait. On ne dit guere aussi faire un portrait de sculpture, on dit
-                        faire la statue d'un tel ; se faire representer en <ref target="#marbre1"
-                            >marbre</ref> ou en <ref target="#bronze">bronze</ref>. On ne nomme
-                        jamais un tableau d'<ref target="#histoire">histoire</ref>, et qui est
-                        composé de plusieures <ref target="#figure1">figures</ref> ; un Portrait. On
-                        peut bien dire qu'il y a dedans le portrait d'un tel, pour dire son <ref
-                            target="#image">image</ref> ou sa ressemblance au naturel. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P258"> PosER un <ref target="#modelle"
-                            >modelle</ref> ; c'est à dire placerune personne afin de <ref
+                    <p xml:id="portes-fenestres"><hi rend="capitals">PORTES-FENESTRES</hi>,
+                        c'est-à-dire des <ref target="#fenestres">fenestres</ref> qui s'ouvrent
+                        jusques en bas sur le <ref target="#plancher">plancher</ref>. <persName
+                            ref="#Vitruve">Vitruve</persName>
+                        <hi rend="it">Valvatæ fenestræ</hi>.</p>
+                    <p xml:id="porte-crayon"><hi rend="capitals">PORTE-CRAYON</hi> pour <ref
+                            target="#desseigner">desseigner</ref>. <hi rend="it">Voyez page</hi>
+                        414, Pl. LXII.</p>
+                    <p xml:id="portique"><hi rend="capitals">PORTIQUE</hi>, est un lieu long et
+                        couvert, soit par une voute, soit par un <ref target="#plancher"
+                            >plancher</ref> soutenu par des <ref target="#colonne">colonnes</ref>.
+                        Le <ref target="#plafond">plafond</ref> se nommoit <hi rend="it"
+                            >lacunar</hi> par les anciens.</p>
+                    <pb n="707"
+                        facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f741/full/full/0/native.jpg"/>
+                    <p xml:id="portoro"><hi rend="capitals">PORTORO</hi>, espece de <ref
+                            target="#marbre1">marbre</ref> noir qui a des veines jaunes. <hi
+                            rend="it">Voyez page</hi> 59.</p>
+                    <p xml:id="portraire"><hi rend="capitals">PORTRAIRE</hi>. Le mot de portraire
+                        est un mot general, qui s'estend à tout ce qu'on fait lorsqu'on veut tirer
+                        la ressemblance de quelque chose ; neantmoins on ne l'employe pas
+                        indifferemment à toutes sortes de sujets. On dit le <hi rend="it">portrait
+                            d'un homme</hi> ou <hi rend="it">d'une femme</hi> ; mais on ne dit pas
+                            <hi rend="it">le portrait d'un cheval, d'une <ref target="#maison"
+                                >maison</ref></hi> ou <hi rend="it">d'un arbre</hi>. On dit <hi
+                            rend="it">la <ref target="#figure1">figure</ref> d'un cheval, la
+                            representation d'une <ref target="#maison">maison</ref>, la <ref
+                                target="#figure1">figure</ref> d'un arbre</hi>. Ce n'est pas mesme
+                        un terme bien receu parmy les sçavans <ref target="#peintre">peintres</ref>
+                        de dire <hi rend="it">qu'on va se faire portraire</hi>, et moins encore
+                        celuy de <hi rend="it">se faire tirer</hi>, que la plus part des gens qui ne
+                        sont pas de l'art disent ordinairement. On dit plustost <hi rend="it">un tel
+                            se fait <ref target="#peindre">peindre</ref> par un tel</hi>, ou bien,
+                            <hi rend="it">fait faire son portrait</hi>. On ne dit guere aussi <hi
+                            rend="it">faire un portrait de sculpture</hi>, on dit <hi rend="it"
+                            >faire la statuë d'un tel ; se faire representer en <ref
+                                target="#marbre1">marbre</ref> ou en <ref target="#bronze"
+                                >bronze</ref></hi>. On ne nomme jamais un tableau d'<ref
+                            target="#histoire">histoire</ref>, et qui est composé de plusieures <ref
+                            target="#figure1">figures</ref> ; <hi rend="it">un portrait</hi>. On
+                        peut bien dire qu'il y a dedans <hi rend="it">le portrait d'un tel</hi>,
+                        pour dire son <ref target="#image">image</ref> ou sa ressemblance au
+                        naturel.</p>
+                    <p xml:id="poser"><hi rend="capitals">POSER</hi> un <ref target="#modelle"
+                            >modelle</ref> ; c'est à dire placer une personne afin de <ref
                             target="#desseigner">desseigner</ref> d'aprés, comme l'on fait dans
-                        l'Academie de <ref target="#peinture">peinture</ref>. On dit aussi une <ref
-                            target="#figure1">figure</ref> bien posée. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P259"><hi rend="capitals"> Poseurs
-                        </hi> ; dans les grands asteliers ce sont ceux qui posent les <ref
-                            target="#pierre">pierres</ref>. <hi rend="it">V. p.</hi> 71. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P260"> POsTES. VoyeZp. 39. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P261"><hi rend="capitals"> Posture
-                        </hi>, ce mot ne se dit guere parmy les PeinVuuu ij <pb n="708"
-                            facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f742/full/full/0/native.jpg"/>
-                        <ref target="#peintre">peintres</ref> sçavans. On dit l'attitude, l'action,
-                        la disposition. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P262"><hi rend="capitals"> Poteaux
-                        </hi>. Dans les bastimens de bois il y a les gros poteaux ou poteaux <ref
-                            target="#cornier">corniers</ref> ; <ref target="mettre2">les poteaux qui
-                            se mettent de fond au pan de bois</ref> ; les poteaux des <ref
-                            target="#croisée">croisées</ref>; les poteaux d'<ref target="#huisserie"
-                            >huisseries</ref> les poteaux de remplages ; les petits poteaux ; les
-                        petits potelets. <hi rend="it">V. p.</hi> 117.118.130, Pl. XVI. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P263"><hi rend="capitals"> Pote'e </hi>
-                        ; c'est dê l'<ref target="#estain">estain</ref> calciné et redust en poudre
-                        tres fine. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P264"><hi rend="capitals"> Potence
-                        </hi> à un ou deux <ref target="#liens1">liens</ref> ; Celle à deux <ref
-                            target="#liens1">liens</ref> est un poteau qui a deux <ref
-                            target="#liens1">liens</ref> des deux costez lesquels soustiennent le
-                            <ref target="#chapeau">chapeau</ref>. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P265"><hi rend="capitals"> Poterne
-                        </hi> ou <ref target="#fausse-porte">fausse porte</ref>. V.p.95. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P266"><hi rend="capitals"> Potin </hi>.
-                            <hi rend="it">Voyez</hi> ARCOT. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P267"> Pour ; terme dont ceux qui
-                        travaillent en <ref target="#marbre1">marbre</ref> en expriment sa qualité.
-                            <hi rend="it">V. p.</hi> 60. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P268"> On dit aussi du <ref
-                            target="#grez">grez</ref> qui est pouf lorsqu'il s'égraine, et qu'il
-                        s'en va en poudre, ou par morceaux quand on le travaille. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P269"> PouILLEux bois gasté. <hi
-                            rend="it">V. p.</hi>16. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P270"><hi rend="capitals"> Poulaillier
-                        </hi>. Gallinarium. Lieu à mettre la volaille. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P271"> PoULAIN. C'est un assemblage de
-                        bois sur lequel on traisne de gros fardeaux. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P272"> PoULIETρOyRis lat. Troclea,
-                        Orbiculus. Dans <persName ref="#Vitruve">Vitruve</persName> Rechamus
-                        signifie la mesme chose que Troclea. V. MOUrLE. et page74. et84, Pl.XIII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P273"> PoupE E <hi rend="it">Voyez
-                            page</hi>373.380, Pl. LX. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P274"> PoURCELAINE espcce de <ref
-                            target="#coquille">coquille</ref>
-                        <hi rend="it">V. p.</hi>443. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P275"> PouRCELAINE espece de terre dont
-                        on fait des <pb n="709"
+                        l'academie de <ref target="#peinture">peinture</ref>. On dit aussi une <ref
+                            target="#figure1">figure</ref> bien posée.</p>
+                    <p xml:id="poseurs"><hi rend="capitals">POSEURS</hi>, dans les grands asteliers
+                        ce sont ceux qui posent les <ref target="#pierre">pierres</ref>. <hi
+                            rend="it">V. p.</hi> 71.</p>
+                    <p xml:id="postes"><hi rend="capitals">POSTES</hi>. <hi rend="it">Voyez
+                            page</hi> 39.</p>
+                    <p xml:id="posture"><hi rend="capitals">POSTURE</hi>, ce mot ne se dit guere
+                        parmy les <ref target="#peintre">peintres</ref>
+                        <pb n="708"
+                            facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f742/full/full/0/native.jpg"
+                        /> sçavans. On dit <hi rend="it">l'attitude, l'action, la
+                        disposition</hi>.</p>
+                    <p xml:id="poteaux"><hi rend="capitals">POTEAUX</hi>. Dans les bastimens de bois
+                        il y a les gros poteaux ou poteaux <ref target="#cornier">corniers</ref> ;
+                        les poteaux qui se <ref target="mettre2">mettent de fond au pan de
+                            bois</ref> ; les poteaux des <ref target="#croisée">croisées</ref> ; les
+                        poteaux d'<ref target="#huisserie">huisseries</ref> ; les poteaux de
+                        remplages ; les petits poteaux ; les petits potelets. <hi rend="it">V.
+                            p.</hi> 117, 118, 130, Pl. XVI.</p>
+                    <p xml:id="potée"><hi rend="capitals">POTÉE</hi>, c'est de l'<ref
+                            target="#estain">estain</ref> calciné et reduit en poudre tres fine.</p>
+                    <p xml:id="potence"><hi rend="capitals">POTENCE</hi> à un ou deux <ref
+                            target="#liens1">liens</ref>. Celle à deux <ref target="#liens1"
+                            >liens</ref> est un poteau qui a deux <ref target="#liens1">liens</ref>
+                        des deux costez lesquels soustiennent le <ref target="#chapeau"
+                            >chapeau</ref>.</p>
+                    <p xml:id="poterne"><hi rend="capitals">POTERNE</hi> ou <ref
+                            target="#fausse-porte">fausse porte</ref>. <hi rend="it">V. p.</hi>
+                        95.</p>
+                    <p xml:id="potin"><hi rend="capitals">POTIN</hi>. <hi rend="it">Voyez</hi>
+                        <hi rend="capitals">ARCOT</hi>.</p>
+                    <p xml:id="pouf"><hi rend="capitals">POUF</hi>, terme dont ceux qui travaillent
+                        en <ref target="#marbre1">marbre</ref> en expriment sa qualité. <hi
+                            rend="it">V. p.</hi> 60.</p>
+                    <p>On dit aussi du <ref target="#grez">grez</ref> qui est <hi rend="it"
+                            >pouf</hi> lorsqu'il s'égraine, et qu'il s'en va en poudre, ou par
+                        morceaux quand on le travaille.</p>
+                    <p xml:id="pouilleux"><hi rend="capitals">POUILLEUX</hi> bois gasté. <hi
+                            rend="it">V. p.</hi> 116.</p>
+                    <p xml:id="poulaillier"><hi rend="capitals">POULAILLIER</hi>. <hi rend="it"
+                            >Gallinarium</hi>. Lieu à mettre la volaille.</p>
+                    <p xml:id="poulain"><hi rend="capitals">POULAIN</hi>. C'est un assemblage de
+                        bois sur lequel on traisne de gros fardeaux.</p>
+                    <p xml:id="poulie"><hi rend="capitals">POULIE</hi>
+                        <foreign xml:lang="gre"/>, latin <hi rend="it">troclea, orbiculus</hi>. Dans
+                            <persName ref="#Vitruve">Vitruve</persName>
+                        <hi rend="it">rechamus</hi> signifie la mesme chose que <hi rend="it"
+                            >troclea. V.</hi>
+                        <hi rend="capitals">MOUFLE</hi> et <hi rend="it">page</hi> 74 et 84, Pl.
+                        XIII.</p>
+                    <p xml:id="poupée"><hi rend="capitals">POUPÉE</hi>
+                        <hi rend="it">Voyez page</hi> 373, 380, Pl. LX.</p>
+                    <p xml:id="pourcelaine1"><hi rend="capitals">POURCELAINE</hi> espece de <ref
+                            target="#coquille">coquille</ref>. <hi rend="it">V. p.</hi> 443.</p>
+                    <p xml:id="pourcelaine2"><hi rend="capitals">POURCELAINE</hi> espece de terre
+                        dont on fait des <pb n="709"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f743/full/full/0/native.jpg"
-                        /> PR PO 709 vases et de la vaiselle, elle vient de la <placeName
-                            ref="#Chine">Chine</placeName> et du Iapon. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P276"><hi rend="capitals"> Pourpre
-                        </hi> ostrum. <persName ref="#Vitruve">Vitruve</persName> liv. 7.c.13. parle
-                        de la pourpre des anciens. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P277"> POuRPRE <ref target="#couleurs1"
-                            >couleur</ref> en <ref target="#esmail1">esmail</ref>. Voyez p. 412. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P278"> PouRTOUR. Les ouvriers disent le
-                        pourtour, au lieu de tour. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P279"><hi rend="capitals"> Pousse'e
-                        </hi>. On appelle la poussée d'une voute, l'effort qu'elle peut faire par sa
-                        pesanteur contre les <ref target="#murs">murs</ref> qui la soutiennent.
-                        Faire le trait des poussées des voutes ; C'est chercher et marquer les
+                        /> vases et de la vaiselle, elle vient de la <placeName ref="#Chine"
+                            >Chine</placeName> et du <placeName ref="#Japon">Japon</placeName>.</p>
+                    <p xml:id="pourpre1"><hi rend="capitals">POURPRE</hi>
+                        <hi rend="it">ostrum</hi>. <persName ref="#Vitruve">Vitruve</persName>
+                        <bibl key="vitruveArchitectura">livre 7, c. 13</bibl> parle de la pourpre
+                        des anciens.</p>
+                    <p xml:id="pourpre2"><hi rend="capitals">POURPRE</hi>
+                        <ref target="#couleurs1">couleur</ref> en <ref target="#esmail1"
+                            >esmail</ref>. <hi rend="it">Voyez page</hi> 422.</p>
+                    <p xml:id="pourtour"><hi rend="capitals">POURTOUR</hi>. Les ouvriers disent le
+                            <hi rend="it">pourtour</hi>, au lieu de <hi rend="it">tour</hi>.</p>
+                    <p xml:id="poussée"><hi rend="capitals">POUSSÉE</hi>. On appelle la poussée
+                        d'une voute, l'effort qu'elle peut faire par sa pesanteur contre les <ref
+                            target="#murs">murs</ref> qui la soutiennent. <hi rend="it">Faire le
+                            trait des poussées des voutes</hi>. C'est chercher et marquer les
                         espaisseurs que doivent avoir les <ref target="#murs">murs</ref> et les
                         pilliers <ref target="#boutans">boutans</ref>, qui sont des corps saillans,
                         lesquels portent et appuyent les voutes ausquelles on donne plus de poussée,
                         c'est-à-dire qu'on <ref target="#fortifier1">fortifie</ref> par des <ref
                             target="#murs">murs</ref> plus espais, selon qu'elles sont davantage
                         surbaissées dans leur <ref target="#cherches2">cherche</ref> ou <ref
-                            target="#cintre">cintre</ref>. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P280"> POUsSOLANE. Voyez SABLE. <hi
-                            rend="it">V. p.</hi> 398. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P281"><hi rend="capitals"> Poutre ; C
-                        </hi> 'est une grosse piece de bois qui porte les solives, lat. trabs. <hi
-                            rend="it">V. p.</hi>118. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P282"><hi rend="capitals"> Poutrelle
-                        </hi>, petite poutre. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P283"><hi rend="capitals"> Presle </hi>
-                        ; espece d'herbe, dont les doreurs se servent pour adoucir le blanc qu'ils
-                        couchent sous l'<ref target="#or">or</ref>, on l'appelle en latin equisetum,
-                        c'est-à-dire queue de cheval. <hi rend="it">V. p.</hi>283 </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P284"><hi rend="capitals"> Presse </hi>
-                        des <ref target="#menuisier">menuisiers</ref> pour serrer le bois V. p
-                        273.180, Pl. XXX. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P285"><hi rend="capitals"> Presse </hi>
-                        à refendre le bois pour les ouvrages de <ref target="#marqueterie"
-                            >marqueterie</ref>. <hi rend="it">V. p.</hi>447.450, Pl. LXIV. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P286"><hi rend="capitals"> Presse </hi>
-                        dont l'on se sert pour la <ref target="#monnoye">monnoye</ref>
-                        <hi rend="it">Voyez page</hi> 348. V UUU Iij. <pb n="710"
-                            facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f744/full/full/0/native.jpg"
-                        />
-                    </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P287"> PRISsONS des anciens. <hi
-                            rend="it">V. p.</hi> 42. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P288"><hi rend="capitals"> Prive </hi>
-                        ou aisance. Latrina. <persName ref="#Vitruve">Vitruve</persName>
-                    </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P289"> PROriL ; C'est le contour de
-                        quelque <ref target="#figure1">figure</ref>.</p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P290"> On dit profiler pour dire <ref
-                            target="#desseigner">desseigner</ref> seulement les <ref
-                            target="#contours">contours</ref> de quelque chose que ce soit. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P291"> On dit, le profil d'un visage ou
-                        d'une teste lorsqu'on n'en voit que la moitie et un des costez. Quoyque le
-                        mot de profil soit general pour exprimer tous les <ref target="#contours"
-                            >contours</ref> d'un corps, neanmoins en <ref target="#peinture"
-                            >peinture</ref> l'on ne s'en sert pas d'ordinaire, on dit <ref
-                            target="#desseigner">desseigner</ref> ou <ref target="#contourner"
-                            >contourner</ref> ; et lorsqu'on parle d'un profil, on entend
-                        ordinairement un visage qui ne se voit qu'à moitié. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P292"> PRorIL d'un bastiment c'est
+                            target="#cintre">cintre</ref>.</p>
+                    <p xml:id="poussolane"><hi rend="capitals">POUSSOLANE</hi>. <hi rend="it"
+                            >Voyez</hi>
+                        <hi rend="capitals">SABLE</hi>. <hi rend="it">V. p.</hi> 398.</p>
+                    <p xml:id="poutre"><hi rend="capitals">POUTRE</hi>. C'est une grosse piece de
+                        bois qui porte les solives, latin <hi rend="it" xml:lang="lat">trabs</hi>.
+                            <hi rend="it">V. p.</hi> 118.</p>
+                    <p xml:id="poutrelle"><hi rend="capitals">POUTRELLE</hi>, petite poutre.</p>
+                    <p xml:id="presle"><hi rend="capitals">PRESLE</hi>, espece d'herbe, dont les
+                        doreurs se servent pour adoucir le blanc qu'ils couchent sous l'<ref
+                            target="#or">or</ref>, on l'appelle en latin <hi rend="it"
+                            >equisetum</hi>, c'est-à-dire queuë de cheval. <hi rend="it">V. p.</hi>
+                        283.</p>
+                    <p xml:id="presse1"><hi rend="capitals">PRESSE</hi> des <ref target="#menuisier"
+                            >menuisiers</ref> pour serrer le bois. <hi rend="it">V. p.</hi> 273,
+                        180, Pl. XXX.</p>
+                    <p xml:id="presse2"><hi rend="capitals">PRESSE</hi> à refendre le bois pour les
+                        ouvrages de <ref target="#marqueterie">marqueterie</ref>. <hi rend="it">V.
+                            p.</hi> 447, 450, Pl. LXIV.</p>
+                    <p xml:id="presse3"><hi rend="capitals">PRESSE</hi> dont l'on se sert pour la
+                            <ref target="#monnoye">monnoye</ref>. <hi rend="it">Voyez page</hi>
+                        348.</p>
+                    <pb n="710"
+                        facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f744/full/full/0/native.jpg"/>
+                    <p xml:id="prisons"><hi rend="capitals">PRISONS</hi> des anciens. <hi rend="it"
+                            >V. p.</hi> 42.</p>
+                    <p xml:id="privé"><hi rend="capitals">PRIVÉ</hi> ou aisance. <hi rend="it"
+                            >Latrina</hi>, <persName ref="#Vitruve">Vitruve</persName>.</p>
+                    <p xml:id="profil1"><hi rend="capitals">PROFIL</hi>. C'est le contour de quelque
+                            <ref target="#figure1">figure</ref>.</p>
+                    <p>On dit <hi rend="it">profiler</hi> pour dire <ref target="#desseigner"
+                            >desseigner</ref> seulement les <ref target="#contours">contours</ref>
+                        de quelque chose que ce soit.</p>
+                    <p>On dit, <hi rend="it">le profil d'un visage ou d'une teste</hi> lorsqu'on
+                        n'en voit que la moitié et un des costez. Quoyque le mot de profil soit
+                        general pour exprimer tous les <ref target="#contours">contours</ref> d'un
+                        corps, neanmoins en <ref target="#peinture">peinture</ref> l'on ne s'en sert
+                        pas d'ordinaire, on dit <hi rend="it"><ref target="#desseigner"
+                                >desseigner</ref> ou <ref target="#contourner">contourner</ref></hi>
+                        ; et lorsqu'on parle d'un profil, on entend ordinairement un visage qui ne
+                        se voit qu'à moitié.</p>
+                    <p xml:id="profil2"><hi rend="capitals">PROFIL</hi> d'un bastiment ; c'est
                         l'élevation geometrique et <ref target="#orthographie">orthographique</ref>,
                         qui fait voir les dedans du bastiment. Quelques-uns croyent que le profil
-                        est ce que <persName ref="#Vitruve">Vitruve</persName> appelle scenographia
-                        où sciographia. Voyez les notes de Monsieur <persName ref="#ClaudePerrault"
-                            >Perrault</persName> sur le ch.2. du 1. IiV. de <persName ref="#Vitruve"
-                            >Vitruve</persName>. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P293"><hi rend="capitals"> Profil </hi>
-                        d'une <ref target="#forteresse">forteresse</ref>. VoyeZ page ioo. 110, Pl.
-                        XIV. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P294"><hi rend="capitals"> Projecture
-                        </hi>, saillie avance. V. SAILLIE. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P295"><hi rend="capitals"> Prononcer
-                        </hi>, en terme de <ref target="#peinture">peinture</ref> ; C'est marquer et
-                        specifier les parties de toutes sortes de corps avec autant de forcc et de
-                        netteté qu'il est necessaire pour les rendre plus ou moins distinctes. Ainsi
-                        les <ref target="#peintre">peintres</ref>, en parlant d'un tableau, disent
-                        que certaines parties en sont bien prononcées ; qui est une <ref
-                            target="#maniere1">maniere</ref> metaphorique de s'enoncer ; Comme
-                        lorsqu'on dit d'un homme qui parle bien, qu'il a une belle prononciation: ce
-                        que Monsieur <persName ref="#RogerDePiles">de Pile</persName> a fort bien re
-                            <pb n="711"
+                        est ce que <persName ref="#Vitruve">Vitruve</persName> appelle <hi rend="it"
+                            >scenographia</hi> ou <hi rend="it">sciographia</hi>. Voyez les <bibl
+                            key="PerraultVitruve1673">notes de Monsieur <persName
+                                ref="#ClaudePerrault">Perrault</persName> sur le <bibl
+                                key="vitruveArchitectura">chapitre 2 du I livre</bibl> de <persName
+                                ref="#Vitruve">Vitruve</persName></bibl>.</p>
+                    <p xml:id="profil3"><hi rend="capitals">PROFIL</hi> d'une <ref
+                            target="#forteresse">forteresse</ref>. <hi rend="it">Voyez page</hi>
+                        100, 110, Pl. XIV.</p>
+                    <p xml:id="projecture"><hi rend="capitals">PROJECTURE</hi>, saillie avance. <hi
+                            rend="it">V.</hi>
+                        <hi rend="capitals">SAILLIE</hi>.</p>
+                    <p xml:id="prononcer"><hi rend="capitals">PRONONCER</hi>, en terme de <ref
+                            target="#peinture">peinture</ref>. C'est marquer et specifier les
+                        parties de toutes sortes de corps avec autant de force et de netteté qu'il
+                        est necessaire pour les rendre plus ou moins distinctes. Ainsi les <ref
+                            target="#peintre">peintres</ref>, en parlant d'un tableau, disent que
+                        certaines parties en sont bien <hi rend="it">prononcées</hi> ; qui est une
+                            <ref target="#maniere1">maniere</ref> metaphorique de s'enoncer. Comme
+                        lorsqu'on dit d'un homme qui parle bien, qu'il a une belle prononciation, ce
+                        que Monsieur <persName ref="#RogerDePiles">de Pile</persName> a fort bien
+                        remarqué <pb n="711"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f745/full/full/0/native.jpg"
-                        /> PU PS PY PR marqué dans ses notes sur le poeme du sieur du Fresnoy. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P296"><hi rend="capitals"> Proportion
-                        </hi> ; Rapport d'une chose à une autre avec une convenance du tout aux
-                        parties. On dit une <ref target="#figure1">figure</ref> bien proportionnée,
-                        un <ref target="#edifice">edifice</ref> où toutes les proportions sont bien
-                        gardées. V. SYMMETRIE. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P297"><hi rend="capitals"> Proscenivm
-                        </hi>, est ce qui est devant la Scene ; c'estoit le lieu où les Comediens
-                        jouoient, c'est-à-dire le theatre ou l'échaffaut. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P298"><hi rend="capitals">
-                            Pseudodiptere </hi> veut dire faux <ref target="#diptere">diptere</ref>
-                        ; C'estoit une espece de temple qui avoit des portiques tout au tour, dont
-                        chacun estoit aussi large que le double portique qui estoit au <ref
-                            target="#diptere">diptere</ref>. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P299"><hi rend="capitals"> Pulpitre
-                        </hi>. Pulpitum. c'estoit la mesme chose que le proscenium, et l'endroit du
-                        theatre sur lequel les acteurs venoient reciter. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P300"> PuRE AU. Les couvreurs appellent
-                        pureau la distance qu'il y a du bord d'unc tuile ou d'une ardoise à celles
-                        qui sont au dessus et au dessous ; ainsi le pureau d'une tuile sut la <ref
-                            target="#couverture1">couverture</ref> est la partie qui est à
-                        decouvert, et qui n'est pas cachée par les autres, Quand on dit qu'il ne
-                        faut donner que trois ou quatre pouces de pureau, c'est-à-dire que le reste
-                        doit estre couvert ; Moins les tuiles ont de pureau, plus elles sont
-                        pressées, et par consequent la <ref target="#couverture1">couverture</ref>
-                        en est meilleure ; la pluye et la neige ne pouvant y entrer. V...147.150,
-                        Pl. XXIII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreP_P301"><hi rend="capitals"> Pyenostyle,
-                            C </hi> 'est un <ref target="#edifice">edifice</ref> où les <ref
-                            target="#colonne">colonnes</ref> sont si pressées, que les <ref
-                            target="#entre-colonnes">entre-colonnemens</ref> n'ont qu'un <ref
-                            target="#diamettre">diametre</ref> et demy de la colonnc. <pb n="712"
-                            facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f746/full/full/0/native.jpg"
-                        /> UADRAN. Les lapidaires ont un instrument de bois qu'ils nomment Quadran ;
-                        ils s'en servent pour tenir les <ref target="#pierre">pierres</ref> fines
-                        sur la roue lors qu'ils les taillent. <hi rend="it">V. p.</hi> 360. 366, Pl.
-                        LVN. </p>
+                        /> dans ses <bibl key="DePilesTraductionDeArteGraphica">notes sur le poëme
+                            du sieur <persName ref="#CharlesAlphonseDuFresnoy">du
+                            Fresnoy</persName></bibl>.</p>
+                    <p xml:id="proportion"><hi rend="capitals">PROPORTION</hi>. Rapport d'une chose
+                        à une autre avec une convenance du tout aux parties. On dit <hi rend="it"
+                            >une <ref target="#figure1">figure</ref> bien proportionnée, un <ref
+                                target="#edifice">edifice</ref> où toutes les proportions sont bien
+                            gardées. V.</hi>
+                        <hi rend="capitals">SYMMETRIE</hi>.</p>
+                    <p xml:id="proscenium"><hi rend="capitals">PROSCENIUM</hi>, est ce qui est
+                        devant la scene ; c'estoit le lieu où les comediens joüoient, c'est-à-dire
+                        le theatre ou l'échaffaut.</p>
+                    <p xml:id="pseudodiptere"><hi rend="capitals">PSEUDODIPTERE</hi> veut dire <hi
+                            rend="it">faux <ref target="#diptere">diptere</ref></hi>. C'estoit une
+                        espece de temple qui avoit des portiques tout au tour, dont chacun estoit
+                        aussi large que le double portique qui estoit au <hi rend="it"><ref
+                                target="#diptere">diptere</ref></hi>.</p>
+                    <p xml:id="pulpitre"><hi rend="capitals">PULPITRE</hi>. <hi rend="it"
+                            >Pulpitum</hi>. C'estoit la mesme chose que le <hi rend="it"
+                            >proscenium</hi>, et l'endroit du theatre sur lequel les acteurs
+                        venoient reciter.</p>
+                    <p xml:id="pureau"><hi rend="capitals">PUREAU</hi>. Les couvreurs appellent <hi
+                            rend="it">pureau</hi> la distance qu'il y a du bord d'une tuile ou d'une
+                        ardoise à celles qui sont au dessus et au dessous ; ainsi le pureau d'une
+                        tuile sur la <ref target="#couverture1">couverture</ref> est la partie qui
+                        est à decouvert, et qui n'est pas cachée par les autres. Quand on dit qu'il
+                        ne faut donner que trois ou quatre pouces de <hi rend="it">pureau</hi>,
+                        c'est-à-dire que le reste doit estre couvert. Moins les tuiles ont de
+                        pureau, plus elles sont pressées, et par consequent la <ref
+                            target="#couverture1">couverture</ref> en est meilleure ; la pluye et la
+                        neige ne pouvant y entrer. <hi rend="it">V. p.</hi> 147, 150, Pl. XXIII.</p>
+                    <p xml:id="pycnostyle"><hi rend="capitals">PYCNOSTYLE</hi>. C'est un <ref
+                            target="#edifice">edifice</ref> où les <ref target="#colonne"
+                            >colonnes</ref> sont si pressées, que les <ref target="#entre-colonnes"
+                            >entre-colonnemens</ref> n'ont qu'un <ref target="#diamettre"
+                            >diametre</ref> et demy de la <ref target="#colonne">colonne</ref>.</p>
+                    <pb n="712"
+                        facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f746/full/full/0/native.jpg"
+                    />
+                </div2>
+                <div2 n="14" type="section" xml:id="lettreQ">
+                    <p xml:id="quadran"><hi rend="capitals">QUADRAN</hi>. Les lapidaires ont un
+                        instrument de bois qu'ils nomment Quadran ; ils s'en servent pour tenir les
+                            <ref target="#pierre">pierres</ref> fines sur la roue lors qu'ils les
+                        taillent. <hi rend="it">V. p.</hi> 360. 366, Pl. LVN. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreP_P302"> QuADRE. On appelle ainsi toutes
                         les <ref target="#bordure">bordures</ref> quarrées qui enferment quelque
                         ouvragé soit de sculpture soit de <ref target="#peinture">peinture</ref>, ou
@@ -30209,8 +30234,6 @@
                             >medailles</ref>. IVoyez CARRE. QUARREAUX <pb n="713"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f747/full/full/0/native.jpg"
                         /> QU 713 </p>
-                </div2>
-                <div2 n="14" type="section" xml:id="lettreQ">
                     <p xml:id="FEL_PASP_dictionnaire_lettreQ_P1">
                         <hi rend="capitals"> Quarreaux. V. <ref target="#carreaux1">carreaux</ref>.
                         </hi>
