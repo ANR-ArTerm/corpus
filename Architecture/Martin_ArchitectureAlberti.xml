@@ -1447,7 +1447,7 @@
           <p xml:id="MAR_AA_L1_L1C7_P5"> Quelzques uns pour avoir eu des voysins curieux de choses
             nouvelles, ont esté maintesfois en dangier de ruine, par la temerité de ces beaux
             couvoytans. </p>
-          <p xml:id="MAR_AA_L1_L1C7_P6"> La ville de <placeName>Peru</placeName> au
+          <p xml:id="MAR_AA_L1_L1C7_P6"> La ville de <placeName ref="#PeraGenes">Peru</placeName> au
               <placeName>royaume de Pont</placeName>, colonie des Genevois, est continuellement
             affligée de Peste, pource qu'on y reçoit tous les jours des esclaves alangoriz de
             douleur et melancholie, mesmes ethiques et descharnez, par pourete, ordure, vermine, et
@@ -1476,14 +1476,15 @@
             temps de <persName ref="#Sylla">Sylla</persName> ? Aussi combien de foys a esté le
               <placeName ref="#Capitole">Capitole</placeName> de <placeName ref="#Rome"
               >Rome</placeName> mis en feu et en flambe, jusques a consumer tout en cendre ? </p>
-          <p xml:id="MAR_AA_L1_L1C7_P12"> La ville des Sybaritains apres avoir esté fort souvent
-            bien battue, abandonnée, repeuplée, et destruite, finablement demoura toute deserte, et
-            qui pis est, ceulx lesquelz s'en fuirent, ne cesserent d'estre poursuiviz d'inconveniens
-            et malencontres, car nonobstant qu'ilz se feussent repatriez ailleurs, et delaissé le
-            surnom de leur ville, si ne se peurent ilz garder de cheoir en misere extreme par les
-            poursuites de nouveaux survenans, qui les taillerent finablement en pieces, sans
-            excepter les plus nobles familles, mesmes ne pardonnerent aux temples, ny aux clostures
-            de muraille, opinion de ains abbatirent et ruinerent le tout rez piedz, rez terre. </p>
+          <p xml:id="MAR_AA_L1_L1C7_P12"> La ville des <placeName ref="#Sibari"
+              >Sybaritains</placeName> apres avoir esté fort souvent bien battue, abandonnée,
+            repeuplée, et destruite, finablement demoura toute deserte, et qui pis est, ceulx
+            lesquelz s'en fuirent, ne cesserent d'estre poursuiviz d'inconveniens et malencontres,
+            car nonobstant qu'ilz se feussent repatriez ailleurs, et delaissé le surnom de leur
+            ville, si ne se peurent ilz garder de cheoir en misere extreme par les poursuites de
+            nouveaux survenans, qui les taillerent finablement en pieces, sans excepter les plus
+            nobles familles, mesmes ne pardonnerent aux temples, ny aux clostures de muraille,
+            opinion de ains abbatirent et ruinerent le tout rez piedz, rez terre. </p>
           <p xml:id="MAR_AA_L1_L1C7_P13"> Mais laissons maintenant ces choses dont toutes les
             histoires sont farncies, et seulement nous suffise de dire que ce n'est le faict d'un
             homme despourveu de bon entendement, d'experimenter toutes choses au moyen desquelles ne
@@ -1648,19 +1649,20 @@
             disoit que des son temps la ville de <placeName ref="#Rome">Rome</placeName> s'estoit
             grandement enflee de collines et tertres a cause de plusieurs demolitions qui avoient
             esté faictes par le feu, et aujourdhuy nous la voyons toute quasi couverte de ruines et
-            ordure. J'ay veu en la marche d'<placeName ref="#Ancone">Ancone</placeName> un vieil
-            temple, situé en terre platte, lequel estoi a demy enterré par le renflement de la
-            planure d'alentour, chose qui est advenue marche pource qu'il estoit pres des racines
-            d'aucunes montaignes. </p>
+            ordure. J'ay veu en la marche d'<placeName ref="#Ancone">Ancone</placeName> un
+              <objectName ref="#TempleCampelloSulClitunno">vieil temple</objectName>, situé en terre
+            platte, lequel estoi a demy enterré par le renflement de la planure d'alentour, chose
+            qui est advenue marche pource qu'il estoit pres des racines d'aucunes montaignes. </p>
           <p xml:id="MAR_AA_L1_L1C9_P14"> Mais qu'est il besoing que je parle en ce passage des
             choses qui sont en <placeName ref="#Ravenna">Ravenne</placeName> environ les piedz des
-            montz? Certes il y à tout joignant les murailles de la ville, ce noble temple tant
-            renommé, lequel n'à pour sa couverture fors une coupe d'une seule pierre entiere, mais
-            nonobstant qu'il soit assez loing de la mer et des montaignes, si est il par l'injure du
-            temps a cest'heure enfoncé en terre de plus de la quarte partie de sa haulteur. Parquoy
-            je diray quand ce viendra au poinct, combien doit estre relevée la chaussée de chacune
-            Aire, et n'en parleray lors en sommaire comme je fai icy, mais autant a plain que la
-            matiere se pourra estendre. </p>
+            montz? Certes il y à tout joignant les murailles de la ville, ce <objectName
+              ref="MausoleeTheodoricRavenne">noble temple</objectName> tant renommé, lequel n'à pour
+            sa couverture fors une coupe d'une seule pierre entiere, mais nonobstant qu'il soit
+            assez loing de la mer et des montaignes, si est il par l'injure du temps a cest'heure
+            enfoncé en terre de plus de la quarte partie de sa haulteur. Parquoy je diray quand ce
+            viendra au poinct, combien doit estre relevée la chaussée de chacune Aire, et n'en
+            parleray lors en sommaire comme je fai icy, mais autant a plain que la matiere se pourra
+            estendre. </p>
           <p xml:id="MAR_AA_L1_L1C9_P15"> Il fault que toute Aire soit ferme et solide, ou par art,
             ou par nature. Et suis d'opinion que lon doit croire ceulx qui apres avoir faict des
             fosses sur le terroer, à certaine distance les unes des autres, et bien consyderé la
@@ -1682,12 +1684,12 @@
             de la montaigne, qui montera plus hault que ne vouldrions, ou bien en relever une autre,
             si elle descendoit trop en pente. Chose certes a quoy donna bon ordre l'Architecte
             (quiconque ait il esté) qui eut la conduitte du Temple ou bien Chasteau dont lon voit
-            encores aujourdhuy les fondemens sans plus en la ville d'<placeName>Alatre</placeName>,
-            située sur un rocher au pays des Sabins : Car il feit avec les pierres decoupees du
-            sommet de la roche, un lict bon et solide, s'esgalant au plan ou il vouloit bastir, et
-            puis asseit son ouvrage dessus. En quoy je prise plus que toutes autres choses, ce qu'il
-            tourna un Angle devers la partie ou le rocher declinoit en pente, et le fortifia de
-            sorte en accommodant de grosses <pb n="13bis"
+            encores aujourdhuy les fondemens sans plus en la ville d'<placeName ref="#Alatri"
+              >Alatre</placeName>, située sur un rocher au pays des Sabins : Car il feit avec les
+            pierres decoupees du sommet de la roche, un lict bon et solide, s'esgalant au plan ou il
+            vouloit bastir, et puis asseit son ouvrage dessus. En quoy je prise plus que toutes
+            autres choses, ce qu'il tourna un Angle devers la partie ou le rocher declinoit en
+            pente, et le fortifia de sorte en accommodant de grosses <pb n="13bis"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k85631r/f43/full/full/0/native.jpg"/>
             et grandes pierres a cest effect, que la masse ne doit avoir crainte de ruyne. Puis
             donna ordre a si bien accoustrer les pierres, que son bastiment avoit une belle
