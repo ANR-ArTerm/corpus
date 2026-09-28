@@ -236,6 +236,18 @@
                 question, d’autant plus que l’on ne connaît pas d’autre portrait de l’infante
                 Isabelle-Claire-Eugénie d’Autriche peint par Otto Van Veen. </desc>
         </certainty>
+        <certainty xml:id="DavidTeniersArchiducLeopoldGuillaumeDansSaGalerieDeBruxelles"
+            locus="value">
+            <desc> Il existe plusieurs versions de l'Archiduc Leopold-Guillaume dans sa galerie :
+                l'une d'entre elle est conservée au <objectName
+                    ref="#DavidTeniersArchiducLeopoldGuillaumeDansSaGalerieDeBruxellesPrado">musée
+                    du Prado</objectName>, une autre au <objectName
+                    ref="#DavidTeniersArchiducLeopoldGuillaumeDansSaGalerieDeBruxellesKunstHistorischesMuseumVienne"
+                    >KunstHistorisches Museum de Vienne</objectName> et une autre dans les
+                    <objectName
+                    ref="#DavidTeniersArchiducLeopoldGuillaumeDansSaGalerieDeBruxellesMuseesRoyauxBeauxArtsBruxelles"
+                    >Musées Royaux des Beaux-Arts de Bruxelles</objectName>. </desc>
+        </certainty>
     </Piles_Abrege_Peintres>
     <Lomazzo_TraicteProportion>
         <certaninty xml:id="RaphaelSaintGeorges1" locus="value">
@@ -247,8 +259,8 @@
         </certaninty>
         <certaninty xml:id="RaphaelSaintGeorges2" locus="value">
             <desc>Deux hypothèses d'identification possibles : <object
-                ref="#RaphaelSaintGeorgesEtLeDragonLouvre">"Saint Georges et le dragon" conservé
-                au Musée du Louvre</object> ou <objectName
+                    ref="#RaphaelSaintGeorgesEtLeDragonLouvre">"Saint Georges et le dragon" conservé
+                    au Musée du Louvre</object> ou <objectName
                     ref="#RaphaelSaintGeorgesEtLeDragonNGWashington">"Saint Georges et le dragon"
                     conservé à la National Gallery à Washington</objectName></desc>
         </certaninty>
