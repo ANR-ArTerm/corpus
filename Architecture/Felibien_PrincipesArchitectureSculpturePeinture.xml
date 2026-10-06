@@ -485,7 +485,7 @@
                             <objectName><ref target="#louvre">Louvre</ref></objectName>, de
                         l'<placeName>Arc de Triomphe</placeName>, et de
                         l'<placeName>Observatoire</placeName>, par lesquels on peut assez juger
-                    quelle est sa connoissanée dans l'architecture et dans les autres arts. monsieur
+                    quelle est sa connoissanée dans l'architecture et dans les autres arts. Monsieur
                         <persName ref="#FrancoisBlondel">Blondel</persName>, comme Professeur Royal,
                     y donne deux fois la semaine des leçons publiques. Comme j'ay cet avantage
                     d'assister aussi dans cette assemblée, et de tenir le Registre des deliberations
@@ -6292,7 +6292,8 @@
                                 <list rend="numbered">
                                     <item>1<hi rend="it">Gros <ref target="#murs"
                                         >mur</ref></hi>.</item>
-                                    <item>2 <hi rend="it">Plate-forme</hi>.</item>
+                                    <item>2 <hi rend="it"><ref target="#platte-forme"
+                                                >Plate-forme</ref></hi>.</item>
                                     <item>3<hi rend="it"><ref target="#entretoises"
                                                 >Entretoises</ref></hi>. </item>
                                     <item>4 <hi rend="it"><ref target="#blochets"
@@ -6447,7 +6448,7 @@
                                                   >Maillets</ref> gros et mediocres</hi>.</item>
                                         <item>2 <hi rend="it"><ref target="#marteau1">Marteau</ref>
                                                 de <ref target="#fer1">fer</ref></hi>.</item>
-                                        <item>3 <hi rend="it">Petite <ref target="#coignées1"
+                                        <item>3 <hi rend="it">Petite <ref target="#coignée"
                                                   >coignée</ref> à grand manche pour abatre le Bois,
                                                 et <ref target="#esbauche"
                                             >ebaucher</ref></hi>.</item>
@@ -6963,7 +6964,8 @@
                                     ref="#BasiliqueSaintPierreRome">Eglise de S. Pierre</objectName>
                                 de <placeName ref="#Rome">Rome</placeName>, de Tuile de cuivre.
                                         <note><persName ref="#LeonBattistaAlberti">Leon Baptiste
-                                        Albert</persName>, liv. <unclear/> chap. 11. </note> Il y a
+                                        Albert</persName>, <bibl key="AlbertiDeReAedificatoria"
+                                        >livre <unclear/> chapitre 11</bibl>.</note> Il y a
                                 plusieurs <pb n="149"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f183/full/full/0/native.jpg"
                                 /> lieux en <placeName ref="#Allemagne">Allemagne</placeName>, où
@@ -7759,8 +7761,8 @@
                                     <ref target="#marbre1">marbre</ref> blanc, ce qui le rendoit si
                                 éclattant qu'il paroissoit de loin comme une montagne couverté de
                                 neige. <note><persName ref="#LeonBattistaAlberti">Leon Baptiste
-                                        Albert</persName>, liv. 6, chap. 11 </note>
-                            </p>
+                                        Albert</persName>, <bibl key="AlbertiDeReAedificatoria"
+                                        >livre 6, chapitre 11</bibl></note></p>
                             <p xml:id="FEL_PASP_principes_L1_L1C17_L1C17S1_P4"> Nos Terrasses sont
                                 ordinairement couvertes de <ref target="#plomb">plomb</ref>, de <ref
                                     target="#carreaux1">carreaux</ref> de <ref target="#marbre1"
@@ -16551,7 +16553,7 @@
                             <p xml:id="FEL_PASP_principes_L2_L2C9_L2C9S1_P26"> Ils ont aussi des <hi
                                     rend="it">Tarosts</hi> emboitez pour faire des vis de bois, et
                                 des <hi rend="it">Vis de <ref target="#fer1">fer</ref></hi> pour
-                                faire des Ecrous.</p>
+                                faire des <ref target="#escrou">ecrous</ref>.</p>
                         </div4>
                         <div4 type="planches" xml:id="L2C9S2">
                             <div5 xml:id="L2C9S2SS1">
@@ -19813,7 +19815,7 @@
                         dans le <ref target="#chapiteau">chapiteau</ref> corinthien en n'y
                         representant que des <ref target="#feuillages">feuilles</ref> d'<ref
                             target="#acanthe">Acanthe</ref>. Ils y ont souvent mis des <ref
-                            target="#feuillages">feuilles</ref> d'Olivier ou de Chesne. monsieur
+                            target="#feuillages">feuilles</ref> d'Olivier ou de Chesne. Monsieur
                             <persName ref="#ClaudePerrault">Perrault</persName> dans ses <bibl
                             key="PerraultVitruve1673">notes sur le <bibl key="vitruveArchitectura"
                                 >premier chapitre du quatriéme livre</bibl> de <persName
@@ -20280,7 +20282,7 @@
                         aux coins des <ref target="#murs">murs</ref> des temples. Ce mot signifie
                         generalement les <ref target="jambe1">jambes de <ref target="#forces2"
                                 >force</ref></ref>, qui sortent peu à peu hors du <ref
-                            target="#murs">mur</ref>. monsieur <persName ref="#ClaudePerrault"
+                            target="#murs">mur</ref>. Monsieur <persName ref="#ClaudePerrault"
                             >Perrault</persName> sur le I. chapitre du 3. liv. de <persName
                             ref="#Vitruve">Vitruve</persName> fait plusieurs remarques sur ce mot,
                         entr'autres, que les mots latins <hi rend="it" xml:lang="lat">antæ</hi> et
@@ -21082,12 +21084,12 @@
                         ou bien qui servent encore à attacher les <ref target="#serrure"
                             >serrures</ref> ; Il y a aussi des <ref target="#clef1">clefs</ref> dont
                         l'embase de la tige forme une espece de balustre.</p>
-                    <p xml:id="bandes1"><hi rend="capitals">BANDES</hi>, platebandes, <ref
-                            target="#fasces">fasces</ref>. Ce sont des mots dont les ouvriers se
-                        servent indifferemment pour signifier dans les <ref target="#mouleures"
-                            >moulures</ref> de l'architecture ce que <persName ref="#Vitruve"
-                            >Vitruve</persName> nomme <hi rend="it" xml:lang="lat">fasciæ,
-                            tania</hi>.</p>
+                    <p xml:id="bandes1"><hi rend="capitals">BANDES</hi>, <ref target="#platte-bande"
+                            >platebandes</ref>, <ref target="#fasces">fasces</ref>. Ce sont des mots
+                        dont les ouvriers se servent indifferemment pour signifier dans les <ref
+                            target="#mouleures">moulures</ref> de l'architecture ce que <persName
+                            ref="#Vitruve">Vitruve</persName> nomme <hi rend="it" xml:lang="lat"
+                            >fasciæ, tania</hi>.</p>
                     <p xml:id="bandeau"><hi rend="capitals">BANDEAU</hi>, c'est l'architrave qui
                         part d'une <ref target="#impostes">imposte</ref> à l'autre autour d'une <ref
                             target="#porte">porte</ref>, d'une <ref target="#fenestres"
@@ -21282,7 +21284,7 @@
                         sont les <ref target="#serrure">serrures</ref>. <hi rend="it">V. p.</hi>
                         176, Pl. XXVIII.</p>
                     <p xml:id="battaison"><hi rend="capitals">BATTAISON</hi>. Ce mot n'est pas en
-                        usage. monsieur <persName ref="#RolandFreartDeChambray">De
+                        usage. Monsieur <persName ref="#RolandFreartDeChambray">De
                             Chambray</persName> s'en est servy au 3 chapitre de son <bibl
                             key="DeChambrayParalleleArchitecture">Paralelle de l'architecture
                             ancienne avec la moderne</bibl>, où en parlant du <objectName>theatre de
@@ -22337,7 +22339,7 @@
                     <p xml:id="catapultes"><hi rend="capitals">CATAPULTES</hi>, <hi rend="it"
                             >catapulta</hi>, estoient des <ref target="#machine1">machines</ref>
                         dont les anciens se servoient pour lancer des javelots de douze et quinze
-                            <ref target="#pied">pieds</ref> de long. monsieur <persName
+                            <ref target="#pied">pieds</ref> de long. Monsieur <persName
                             ref="#ClaudePerrault">Perrault</persName> en a representé la <ref
                             target="#figure1">figure</ref> dans ses <bibl key="PerraultVitruve1673"
                             >notes sur le <bibl key="vitruveArchitectura">10 livre</bibl> de
@@ -22893,7 +22895,7 @@
                         comme lorsqu'on remplit des voutes ou des <ref target="#murs">murs</ref>
                         avec du <hi rend="it">moüellon</hi> ou blocage. L'on peut voir <persName
                             ref="#Vitruve">Vitruve</persName>
-                        <bibl key="vitruveArchitectura">l. 1, c. 5</bibl>. monsieur <persName
+                        <bibl key="vitruveArchitectura">l. 1, c. 5</bibl>. Monsieur <persName
                             ref="#ClaudePerrault">Perrault</persName> sur le <bibl
                             key="vitruveArchitectura">4 c. du 2 l.</bibl> de <persName
                             ref="#Vitruve">Vitruve</persName>, explique <hi rend="it">signinum</hi>
@@ -23148,21 +23150,21 @@
                         <hi rend="capitals"><ref target="#lingotiere">LINGOTIERE</ref></hi>.</p>
                     <p xml:id="coiaux"><hi rend="capitals">COIAUX</hi>. <hi rend="it">V.</hi><hi
                             rend="capitals"><ref target="#coiaux">COYAUX</ref></hi>.</p>
-                    <p xml:id="coignée"><hi rend="capitals">COIGNÉE</hi>. Les coignées sont des <ref
-                            target="#outil1">outils</ref> de <ref target="#fer1">fer</ref> aceré,
-                        plats et tranchans en <ref target="#maniere1">maniere</ref> de <ref
+                    <p xml:id="coignée1"><hi rend="capitals">COIGNÉE</hi>. Les coignées sont des
+                            <ref target="#outil1">outils</ref> de <ref target="#fer1">fer</ref>
+                        aceré, plats et tranchans en <ref target="#maniere1">maniere</ref> de <ref
                             target="#hache">hache</ref>. Il y en a de plusieurs grandeurs, qui ont
                         tous un manche de bois pour les tenir. Les coignées servent à abattre des
                         arbres, et à fendre et équarrir le bois. <hi rend="it">V. p.</hi> 124, 136,
                         Pl. XIX.</p>
-                    <p xml:id="coignées1"> Grandes <hi rend="capitals">COIGNÉES</hi> servant aux
+                    <p xml:id="coignée2"> Grandes <hi rend="capitals">COIGNÉES</hi> servant aux
                         charpentiers pour équarrir le bois. <hi rend="it">Id</hi>.</p>
-                    <p xml:id="coignées2"> Autres grandes <hi rend="capitals">COIGNÉES</hi> à deux
+                    <p xml:id="coignée3"> Autres grandes <hi rend="capitals">COIGNÉES</hi> à deux
                         biseaux pour dresser le bois.</p>
-                    <p xml:id="coignées3"> Autres grandes <hi rend="capitals">COIGNÉES</hi> qu'on
+                    <p xml:id="coignée4"> Autres grandes <hi rend="capitals">COIGNÉES</hi> qu'on
                         appelle <hi rend="it"><ref target="#espaule1">espaules</ref> de mouton</hi>,
                         parce qu'elles sont plus grandes que les autres.</p>
-                    <p xml:id="coignées4"> Il y a d'autres <hi rend="capitals">COIGNÉES</hi>
+                    <p xml:id="coignée5"> Il y a d'autres <hi rend="capitals">COIGNÉES</hi>
                         appellées petits <hi rend="it"><ref target="#hachereaux"
                             >hachereaux</ref></hi>.</p>
                     <p xml:id="coin1"><hi rend="capitals">COIN</hi> de bois ou de <ref
@@ -25311,7 +25313,7 @@
                         qu'elle s'affaisse également, et ne soit que comme une seule masse.</p>
                     <p xml:id="espaule1"><hi rend="capitals">ESPAULE</hi> de mouton. <hi rend="it"
                             >V.</hi>
-                        <hi rend="capitals"><ref target="#coignées3">COIGNÉE</ref></hi>.</p>
+                        <hi rend="capitals"><ref target="#coignée">COIGNÉE</ref></hi>.</p>
                     <p xml:id="espaule2"><hi rend="capitals">ESPAULE</hi>, ou <ref
                             target="#epaulement1">espaulement</ref> d'un bastion. <hi rend="it"
                             >Voyez</hi>
@@ -26177,7 +26179,7 @@
                         qu'en latin on appelle <hi rend="it" xml:lang="lat">forfices</hi>. <hi
                             rend="it">V. p.</hi> 242, Pl. XXXVIII.</p>
                     <p xml:id="forces2"><hi rend="capitals">FORCES</hi>, <ref target="jambe1">jambes
-                            de forces</ref>, <hi rend="it">canterii</hi>. monsieur <persName
+                            de forces</ref>, <hi rend="it">canterii</hi>. Monsieur <persName
                             ref="#ClaudePerrault">Perrault</persName> dans l'<bibl
                             key="PerraultVitruve1673">avertissement</bibl> qui sert de supplement à
                         ses <bibl key="PerraultVitruve1673"><reg>notes</reg> sur le <bibl
@@ -26689,12 +26691,13 @@
                         triglyphe, six petits corps faits en forme de clochettes, que les
                         architectes appellent <hi rend="it">gouttes</hi>, parce qu'ils disent
                         qu'elles representent les gouttes d'eau, qui ayant coulé le long des
-                        triglyphes pendent encore sous la plate-bande. <persName
-                            ref="#LeonBattistaAlberti">Leon Baptiste Albert</persName> les nomme <hi
-                            rend="it">clous</hi>. Il y a encore dix-huit de ces gouttes sous lo
-                        soffit ou plat-fond du <ref target="#larmier">larmier</ref> au droit des
-                        triglyphes. La difference qui se trouve entre les unes et les autres, c'est
-                        que les premieres sont quelquefois quarrées <pb n="610"
+                        triglyphes pendent encore sous la <ref target="#platte-bande"
+                            >plate-bande</ref>. <persName ref="#LeonBattistaAlberti">Leon Baptiste
+                            Albert</persName> les nomme <hi rend="it">clous</hi>. Il y a encore
+                        dix-huit de ces gouttes sous lo soffit ou plat-fond du <ref
+                            target="#larmier">larmier</ref> au droit des triglyphes. La difference
+                        qui se trouve entre les unes et les autres, c'est que les premieres sont
+                        quelquefois quarrées <pb n="610"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f644/full/full/0/native.jpg"
                         /> et en pyramides, et les dernieres sont toujours coniques.</p>
                     <p xml:id="goutiere"><hi rend="capitals">GOUTIERE</hi> qui sert à jetter les
@@ -26970,9 +26973,9 @@
                         charpentiers, et à plusieurs autres ouvriers, pour <ref target="#hacher"
                             >hacher</ref> ou fendre du bois.</p>
                     <p xml:id="hachereaux"><hi rend="capitals">HACHEREAUX</hi>. <hi rend="it"
-                            >V.</hi><hi rend="capitals"><ref target="#coignées4"
-                        >COIGNÉES</ref></hi>. On dit <hi rend="it"><ref target="#degrossir"
-                                >degrossir</ref></hi><pb n="616"
+                            >V.</hi><hi rend="capitals"><ref target="#coignée">COIGNÉES</ref></hi>.
+                        On dit <hi rend="it"><ref target="#degrossir">degrossir</ref></hi><pb
+                            n="616"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f650/full/full/0/native.jpg"
                             /><hi rend="it">une <ref target="#poutre">poutre</ref> avec la <ref
                                 target="#hache">hache</ref></hi>.</p>
@@ -27132,7 +27135,7 @@
                             rend="it">V. p.</hi> 76, Pl. IX.</p>
                     <p xml:id="hourder"><hi rend="capitals">HOURDER</hi>, c'est maçonner
                         grossierement. Comme il n'y a point de mot que celuy de <hi rend="it"
-                            >hourdage</hi> dont se servent les maçons. monsieur <persName
+                            >hourdage</hi> dont se servent les maçons. Monsieur <persName
                             ref="#ClaudePerrault">Perrault</persName> employe celuy de <hi rend="it"
                                 ><ref target="#ruderation">ruderation</ref></hi>, qui vient de <hi
                             rend="it">ruderatio</hi>, et qui dans <persName ref="#Vitruve"
@@ -28033,7 +28036,7 @@
                         costé, qu'on nome <hi rend="it"><ref target="#louveteaux"
                             >louveteaux</ref></hi>. Ils servent à resserrer la louve qui est entre
                         deux, et empeschent qu'elle ne puisse sortir lorsqu'on vient à la tirer
-                        avec un cable qui est attaché au bout. monsieur <persName
+                        avec un cable qui est attaché au bout. Monsieur <persName
                             ref="#ClaudePerrault">Perrault</persName>
                         <bibl key="PerraultVitruve1673">sur le <bibl key="vitruveArchitectura">2
                                 chapitre du 10 livre</bibl> de <persName ref="#Vitruve"
@@ -29061,7 +29064,7 @@
                         <bibl key="vitruveArchitectura">l. 4, c. 3</bibl> appelle <hi rend="it"
                             >mentum</hi>. Il est fait afin que l'eau ne puisse couler plus bas.</p>
                     <p xml:id="mouellon"><hi rend="capitals">MOUELLON</hi>, ou <hi rend="it"
-                            >moislon</hi>, <ref target="#pierre">pierre</ref> à bastir. monsieur de
+                            >moislon</hi>, <ref target="#pierre">pierre</ref> à bastir. Monsieur de
                             <persName ref="#ClaudeSaumaise">Saumaise</persName>
                         <bibl key="SaumaisePolyhistora">sur <persName ref="#Solinus"
                                 >Solin</persName></bibl> : <hi rend="it">Quod veteres</hi>, dit-il ;
@@ -29687,7 +29690,7 @@
                             target="#ordre">ordre</ref>, c'est à dire des parties qui composent les
                         cinq <ref target="#ordre">ordres</ref> d'architecture.</p>
                     <p xml:id="ordre"><hi rend="capitals">ORDRE</hi>. Il y a cinq ordres
-                        d'architecture. monsieur <pb n="676"
+                        d'architecture. Monsieur <pb n="676"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f710/full/full/0/native.jpg"
                             /><persName ref="#ClaudePerrault">Perrault</persName> dans ses <bibl
                             key="PerraultVitruve1673">notes sur la preface du <bibl
@@ -32950,234 +32953,243 @@
                         /> antique. Mais au corinthien, au composite et a l'<ref target="ionique"
                             >ionique</ref> moderne, mis en œuvre par <persName
                             ref="#VincenzoScamozzi">Scamozzi</persName>, qui a <ref target="#imiter"
-                            >imité</ref> ceux du <objectName>Temple de la Concorde</objectName>, il
-                        est creusé et recoupé en dedans. Ce qui fait qu'il n'est appellé <hi
-                            rend="it"><ref target="#abaque">abaque</ref></hi>, que parce qu'il est à
-                        la place où les autres <ref target="#ordre">ordres</ref> ont un veritable
-                            <ref target="#abaque">abaque</ref>.</p>
+                            >imité</ref> ceux du <objectName ref="#TempleDeLaConcordeRome">Temple de
+                            la Concorde</objectName>, il est creusé et recoupé en dedans. Ce qui
+                        fait qu'il n'est appellé <hi rend="it"><ref target="#abaque"
+                            >abaque</ref></hi>, que parce qu'il est à la place où les autres <ref
+                            target="#ordre">ordres</ref> ont un veritable <ref target="#abaque"
+                            >abaque</ref>.</p>
                     <p>Le tailloir ou <ref target="#abaque">abaque</ref> dans l'<ref target="#ordre"
                             >ordre</ref> toscan est appellé <ref target="#plinthe">plinthe</ref> au
                             <bibl key="vitruveArchitectura">chapitre 5 du 4 livre</bibl> de
                             <persName ref="#Vitruve">Vitruve</persName> parce que n'ayant point de
                             <ref target="#cymaise">cymaise</ref> comme les autres, il est quarré
                         comme les <ref target="#plinthe">plinthes</ref> des bases.</p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P12"><hi rend="capitals">TALON</hi>, en
-                        terme d'architecture c'est-un petit <ref target="#membre">membre</ref>
-                        composé d'un <ref target="#filet1">filet</ref> quatré et d'unse symaise
-                        droite. Voyez ASTRAGME. <hi rend="it">V. p.</hi> 176, Pl. XXVIII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P13"> TaloN d'un <ref target="#péne"
-                            >péne</ref>.V.p.217. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P14"><hi rend="capitals"> Talon </hi> ;
-                        espece d'<ref target="#esbauchoir3">esbauchoir</ref>. <hi rend="it">V.
-                            p.</hi> 342.Pl. LII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P15"> TALus. Les ouvriers appellont
-                        talus quand une <ref target="#murs">muraille</ref> diminue de son épaisseur
-                        à mesure qu'elle s'éleve. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P16"> Larus d'un bastion ou d'un <ref
+                    <p xml:id="talon1"><hi rend="capitals">TALON</hi>, en terme d'architecture c'est
+                        un petit <ref target="#membre">membre</ref> composé d'un <ref
+                            target="#filet1">filet</ref> quarré et d'une <hi rend="it"><ref
+                                target="#simaise">symaise</ref></hi> droite. <hi rend="it"
+                            >Voyez</hi>
+                        <hi rend="capitals">ASTRAGALE</hi>. <hi rend="it">V. p.</hi> 176, Pl.
+                        XXVIII.</p>
+                    <p xml:id="talon2"><hi rend="capitals">TALON</hi> d'un <ref target="#péne"
+                            >pêne</ref>. <hi rend="it">V. p.</hi> 217.</p>
+                    <p xml:id="talon3"><hi rend="capitals">TALON</hi>, espece d'<ref
+                            target="#esbauchoir3">esbauchoir</ref>. <hi rend="it">V. p.</hi> 342,
+                        Pl. LII.</p>
+                    <p xml:id="talus1"><hi rend="capitals">TALUS</hi>. Les ouvriers appellent <hi
+                            rend="it">talus</hi> quand une <ref target="#murs">muraille</ref>
+                        diminue de son épaisseur à mesure qu'elle s'éleve.</p>
+                    <p xml:id="talus2"><hi rend="capitals">TALUS</hi> d'un bastion ou d'un <ref
                             target="#rempart">rempart</ref>. <hi rend="it">V. p.</hi> 92.</p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P17">
-                        <hi rend="capitals"> Tamis. V. <ref target="#estamis">estamis</ref>. </hi>
-                    </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P18"><hi rend="capitals"> Tampon </hi>
-                        de feutre, dont se servent les graveurs en cuivre, pour frotter leurs <ref
-                            target="#planche">planches</ref>. <hi rend="it">V. p.</hi>385.388, Pl.
-                        LXI. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P19"> TAMpONs ou <ref
+                    <p xml:id="tamis"><hi rend="capitals">TAMIS</hi>. <hi rend="it">V.</hi>
+                        <hi rend="capitals"><ref target="#estamis">ESTAMIS</ref></hi>.</p>
+                    <p xml:id="tampon1"><hi rend="capitals">TAMPON</hi> de feutre, dont se servent
+                        les graveurs en cuivre, pour frotter leurs <ref target="#planche"
+                            >planches</ref>. <hi rend="it">V. p.</hi> 385, 388, Pl. LXI.</p>
+                    <p xml:id="tampon2"><hi rend="capitals">TAMPONS</hi> ou <ref
                             target="#chevilles3">chevilles</ref> de bois, dont l'on garnit les <ref
                             target="#solives">solives</ref> d'un <ref target="#plancher"
                             >plancher</ref> et les <ref target="#poteaux">poteaux</ref> des <ref
-                            target="#cloison1">cloisons</ref>. V. <hi rend="capitals"><ref
-                                target="#ruiné">RUINÉ</ref></hi> et TAMPONNÉ. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P20"><hi rend="capitals"> Taper </hi>.
-                        Terme dontse servent les doreurs ; <hi rend="it">Voyez page</hi> 182. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P21"><hi rend="capitals"> Taraux </hi>.
-                        Ce sont des <ref target="#rouleau">rouleaux</ref> d'acier en forme de cone
-                        taillez spiralement en vis, pour-faire des Ecroux. Il y a des Taraux pour
-                        faire des Ecroux Bbbbb ij <pb n="748"
+                            target="#cloison1">cloisons</ref>. <hi rend="it">V.</hi>
+                        <hi rend="capitals"><ref target="#ruiné">RUINÉ</ref></hi> et <hi
+                            rend="capitals">TAMPONNÉ</hi>.</p>
+                    <p xml:id="taper"><hi rend="capitals">TAPER</hi>. Terme dont se servent les
+                        doreurs. <hi rend="it">Voyez page</hi> 282.</p>
+                    <p xml:id="taraux"><hi rend="capitals">TARAUX</hi>. Ce sont des <ref
+                            target="#rouleau">rouleaux</ref> d'acier en forme de cone taillez
+                        spiralement en vis, pour faire des <ref target="#escrou">ecroux</ref>. Il y
+                        a des taraux pour faire des <ref target="#escrou">ecroux</ref>
+                        <pb n="748"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f782/full/full/0/native.jpg"
-                        /> de <ref target="#fer1">fer</ref>, et d'autres pour des Ectous de bois ;
-                        de mesme qu'il y a de differentes <ref target="#filieres2">filieres</ref>
-                        pour faire des Vis. <hi rend="it">V. p.</hi> 232.280, Pl. LX. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P22"><hi rend="capitals"> Tarauder. C
-                        </hi> 'est faire un Ecrou, ou un trou en façon d'Ecrou. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P23"><hi rend="capitals"> Tariere
-                        </hi>, <ref target="#outil1">outil</ref> de <ref target="#fer1">fer</ref>
-                        servant aux charpentiers et aux <ref target="#menuisier">menuisiers</ref>.
-                        Il y en a de plusieurs sortes et grosseurs. Ce mot vient du grec vepereor,
-                        terebrum, vipee, terebro. <hi rend="it">V. p.</hi>124.134?Pl. XVIII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P24"> Quand le Tariere est gros, les
-                        ouvriers disent un gros Tariere ; Et quand il est petit, ils disent une
-                        petite Tariere. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P25"><hi rend="capitals"> Tariere </hi>
-                        pointu. <hi rend="it">V. p.</hi> 452.Pl. LXV. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P26"><hi rend="capitals"> Tarjettes
-                        </hi> ; ce sont des Plaques avec verouils servant à fermer les <ref
-                            target="#fenestres">fenestres</ref>, il s'en fait de differentes façons.
-                            <hi rend="it">Voyez page</hi> 221.234, Pl. XXXIV. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P27"> Tas de charge. Ce sont les
-                        premieres piertes qu'on voit sur les angles ou dans le plain d'un <ref
-                            target="#murs">mur</ref>, et qui montrent le commencement et la <ref
-                            target="#naissance1">naissance</ref> d'une voute, ou des <ref
+                        /> de <ref target="#fer1">fer</ref>, et d'autres pour des <ref
+                            target="#escrou">ecrous</ref> de bois ; de mesme qu'il y a de
+                        differentes <ref target="#filieres2">filieres</ref> pour faire des vis. <hi
+                            rend="it">V. p.</hi> 232, 280, Pl. LX.</p>
+                    <p xml:id="tarauder"><hi rend="capitals">TARAUDER</hi>. C'est faire un <ref
+                            target="#escrou">ecrou</ref>, ou un trou en façon d'<ref
+                            target="#escrou">ecrou</ref>.</p>
+                    <p xml:id="tariere1"><hi rend="capitals">TARIERE</hi>, <ref target="#outil1"
+                            >outil</ref> de <ref target="#fer1">fer</ref> servant aux charpentiers
+                        et aux <ref target="#menuisier">menuisiers</ref>. Il y en a de plusieurs
+                        sortes et grosseurs. Ce mot vient du grec <hi rend="it"><foreign
+                                xml:lang="gre"/>, terebrum, <foreign xml:lang="gre"/>, terebro</hi>.
+                            <hi rend="it">V. p.</hi> 124, 134, Pl. XVIII.</p>
+                    <p>Quand le tariere est gros, les ouvriers disent un <hi rend="it">gros
+                            tariere</hi> ; et quand il est petit, ils disent <hi rend="it">une
+                            petite tariere</hi>.</p>
+                    <p xml:id="tariere2"><hi rend="capitals">TARIERE</hi> pointu. <hi rend="it">V.
+                            p.</hi> 452, Pl. LXV.</p>
+                    <p xml:id="tarjettes"><hi rend="capitals">TARJETTES</hi>, ce sont des plaques
+                        avec veroüils servant à fermer les <ref target="#fenestres">fenestres</ref>,
+                        il s'en fait de differentes façons. <hi rend="it">Voyez page</hi> 221, 234,
+                        Pl. XXXIV.</p>
+                    <p xml:id="tas"><hi rend="capitals">TAS</hi> de charge. Ce sont les premieres
+                            <ref target="#pierre">pierres</ref> qu'on voit sur les angles ou dans le
+                        plain d'un <ref target="#murs">mur</ref>, et qui montrent le commencement et
+                        la <ref target="#naissance1">naissance</ref> d'une voute, ou des <ref
                             target="#branches">branches</ref> des <ref target="#ogives"
-                        >ogives</ref>, Tiercerons, <ref target="#formerets">formerets</ref>, et Arcs
+                        >ogives</ref>, tiercerons, <ref target="#formerets">formerets</ref>, et arcs
                             <ref target="#doubleaux">doubleaux</ref>.</p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P28"> On dit, <ref target="#tailler"
-                            >tailler</ref>, ou finir un ouvrage de <ref target="#pierre"
-                            >pierre</ref> sur le tas, lorsqu'elle est preste à poser. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P29"> TASSEAUx ; Ce sont comme de
+                    <p>On dit <hi rend="it"><ref target="#tailler">tailler</ref>, ou finir un
+                            ouvrage de <ref target="#pierre">pierre</ref> sur le tas</hi>,
+                        lorsqu'elle est preste à poser.</p>
+                    <p xml:id="tasseaux1"><hi rend="capitals">TASSEAUX</hi>. Ce sont comme de
                         petites <ref target="#enclume1">enclumes</ref> propres pour percer, couper,
                             <ref target="#river">river</ref> et dresser le <ref target="#fer1"
-                            >fer</ref>, etqui se posent d'ordinaire sur l'<ref target="#establie4"
-                            >establie</ref>. Il y en a de quarrez, d'autres qui ont une petite
-                        Bigorne. <hi rend="it">Voyez page</hi>. 238.Pl. XXXVI. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P30"> TASSEAUx ; pieces de bois servant
+                            >fer</ref>, et qui se posent d'ordinaire sur l'<ref target="#establie4"
+                            >establie</ref>. Il y en a de quarrez, d'autres qui ont une petite <hi
+                            rend="it">bigorne. Voyez page</hi> 238, Pl. XXXVI.</p>
+                    <p xml:id="tasseaux2"><hi rend="capitals">TASSEAUX</hi>, pieces de bois servant
                         à la <ref target="#charpente">charpente</ref> d'un logis, pour porter les
-                        panes. Voyez p.119.130, Pl. XVI. <pb n="749"
-                            facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f783/full/full/0/native.jpg"
-                        /> 749 </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P31"> On appelle aussi Tasseaux deux
-                        tringles de bois, qui soustiennent un ais par les bouts. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P32"><hi rend="capitals"> Teintes,
-                            demy-teintes </hi>, ce sont-termes de <ref target="#peinture"
-                            >peinture</ref>, pour exprimer les diverses <ref target="#couleurs1"
-                            >couleurs</ref>, selon qu'elles sont plus claires ou plus brunes, ou
-                        plus vives ou plus tuées. </p>
+                        panes. <hi rend="it">Voyez p.</hi> 119, 130, Pl. XVI.</p>
+                    <pb n="749"
+                        facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f783/full/full/0/native.jpg"/>
+                    <p>On appelle aussi <hi rend="it">tasseaux</hi> deux tringles de bois, qui
+                        soustiennent un ais par les bouts.</p>
+                    <p xml:id="teintes"><hi rend="capitals">TEINTES,DEMY-TEINTES</hi>, ce sont
+                        termes de <ref target="#peinture">peinture</ref>, pour exprimer les diverses
+                            <ref target="#couleurs1">couleurs</ref>, selon qu'elles sont plus
+                        claires ou plus brunes, ou plus vives ou plus tuées.</p>
                     <p xml:id="temple"><hi rend="capitals">TEMPLE</hi>. Les temples des anciens
-                        avoient d'ordinaire quatre parties; sçavoir ce qu'ils nommoient Pteromata
-                        qui estoit les ailes en forme de <ref target="#galerie3">gallerie</ref> ou
-                            <ref target="#portique">portique</ref> ; le Pronaos ou <ref
-                            target="#porche">porche</ref> appellé aussi Prodomos et Propylea et
-                        mesme Vestibulum ; le Posticum ou Opistodomos, qui estoit opposé au Pronaos
-                        ; et Cella ou Secos qui estoit au milieu des trois autres parties. <persName
-                            ref="#Vitruve">Vitruve</persName>. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P34"> TEsMOIN6 ; quand on oste des
-                        terres, soit pour bastir ou autremen, les Entrepreneurs laissent
+                        avoient d'ordinaire quatre parties ; sçavoir ce qu'ils nommoient <hi
+                            rend="it">pteromata</hi> qui estoit les ailes en forme de <ref
+                            target="#galerie3">gallerie</ref> ou <ref target="#portique"
+                            >portique</ref> ; le <hi rend="it">pronaos</hi> ou <ref target="#porche"
+                            >porche</ref> appellé aussi <hi rend="it">prodomos</hi> et <hi rend="it"
+                            >propylea</hi> et mesme <hi rend="it">vestibulum</hi> ; le <hi rend="it"
+                            >posticum</hi> ou <hi rend="it">opistodomos</hi>, qui estoit opposé au
+                            <hi rend="it">pronaos</hi> ; et <hi rend="it">cella</hi> ou <hi
+                            rend="it">secos</hi> qui estoit au milieu des trois autres parties.
+                            <persName ref="#Vitruve">Vitruve</persName>.</p>
+                    <p xml:id="tesmoing"><hi rend="capitals">TESMOING</hi>, quand on oste des
+                        terres, soit pour bastir ou autrement, les entrepreneurs laissent
                         quelquesfois des butes d'espace en espace, afin de mesurer par leur hauteur
-                        la quantité que l'on a ostée ; ces butes se nomment Tesmoins. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P35"><hi rend="capitals"> Tenailles
-                        </hi> forcipes <persName ref="#Vitruve">Vitruve</persName> liv. 10. ch. 2.
-                        appelle ainsi un instrument que nos ouvriers nomment <ref target="#louve"
-                            >louve</ref> avec lequel on accrochoit de son temps les <ref
+                        la quantité que l'on a ostée ; ces butes se nomment <hi rend="capitals"
+                            >tesmoins</hi>.</p>
+                    <p xml:id="tenailles1"><hi rend="capitals">TENAILLES</hi>, <hi rend="it"
+                            >forcipes</hi>. <persName ref="#Vitruve">Vitruve</persName>
+                        <bibl key="vitruveArchitectura">livre 10, chapitre 2</bibl> appelle ainsi un
+                        instrument que nos ouvriers nomment <hi rend="it"><ref target="#louve"
+                                >louve</ref></hi> avec lequel on accrochoit de son temps les <ref
                             target="#pierre">pierres</ref> pour les enlever avec les <ref
-                            target="#grue">grues</ref> ou <ref target="#engin">engins</ref>.</p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P36"> TENAILLEs-des <ref
-                            target="#menuisier">menuisiers</ref>. <hi rend="it">V. p.</hi>175.184,
-                        Pl. XXXII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P37"> TENAILLESAdes vitriers. <hi
-                            rend="it">Voyez page</hi>164. 276, Pl. XLV. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P38"><hi rend="capitals"> Tenailles
-                        </hi> des Fondeurs <hi rend="it">V. p.</hi>334. Pl.L.p.336, Pl. LI. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P39"><hi rend="capitals"> Tenailes
-                        </hi> des lapidaires <hi rend="it">Voyez page</hi> 359. 364, Pl. LVI. Bbbbb
-                        iij <pb n="750"
-                            facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f784/full/full/0/native.jpg"
-                        />
-                    </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P40"> Grandes TENAILLES des serruriers
-                        servant pour la <ref target="#forge">forge</ref>. Vp. 238, Pl. XXXVI. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P41"> Grandes TENAILEs à crochet et à
-                        chauffer. <hi rend="it">Id.</hi>
-                    </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P42"> Autres TENAILLEs à faire <ref
-                            target="#boutons2">boutons</ref>. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P43"><hi rend="capitals"> Tenailles
-                        </hi> pour faire des vases à chaud. <hi rend="it">V. p.</hi> 240.Pl. XXXVII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P44"> TENAILLEs pour emboutir les
-                        vases. Idem. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P45"> TENAILLEs à <ref
-                            target="#chamfrain">chamfraindre</ref>. <hi rend="it">Id.</hi>
-                    </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P46"><hi rend="capitals"> Tenailles
-                        </hi> à liens. <hi rend="it">Id.</hi>
-                    </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P47"><hi rend="capitals"> Tenailles
-                        </hi> à <ref target="#fer2">fer à <ref target="#rouet">rouets</ref></ref>.
-                        Idem. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P48"><hi rend="capitals"> Tenailies
-                        </hi> à vis, ou <ref target="#estau1">estau</ref> à main. <hi rend="it"
-                            >Id.</hi>
-                    </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P49"> TENAILLEs ordinaires. <hi
-                            rend="it">Id.</hi>
-                    </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P50"><hi rend="capitals"> Tenailles
-                        </hi> de bois pour mettre dans l'<ref target="#estau1">estau</ref> servant à
-                        polir les grosses pieces <hi rend="it">V. p.</hi>231. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P51"><hi rend="capitals"> Tenailles
-                        </hi> pour monnoyer les <ref target="#medaille">medailles</ref> et pour
-                        emboister les quarrez. V. pag. 347. 354.Pl.LV. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P52"><hi rend="capitals"> Tenailles
-                        </hi> ; en terme de fortifiçation, gesont de grands ouvrages qui couvrent
-                        les courtines des <ref target="#place">places fortifiées</ref>. <hi
-                            rend="it">V. p.</hi>98. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P53"><hi rend="capitals"> Tendre </hi>
-                        ; c'est en terme de <ref target="#peinture">peinture</ref> et de <ref
-                            target="#sculpture">sculpture</ref> le contraire de <ref target="#dur"
-                            >dur</ref> et de scc, on dit cela est <ref target="#peint">peint</ref>,
-                        ou travaillé tendrement. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P54"><hi rend="capitals"> Tendresse
-                        </hi>, il y a beaucoup de tendresse dans ces plis, tout est <ref
-                            target="#peint">peint</ref> avec beaucoup, de tendresse et de douceur. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P55"><hi rend="capitals"> Tenie </hi>
-                        de rauia qui signifie une Bande ou Bandelette que les Lat. nomment Vitta,
-                        Fascia, Zona, Corona. C'est une partie de l'<ref target="#epistyle"
-                            >epistyle</ref>
+                            target="#grue">gruës</ref> ou <ref target="#engin">engins</ref>.</p>
+                    <p xml:id="tenailles2"><hi rend="capitals">TENAILLES</hi> des <ref
+                            target="#menuisier">menuisiers</ref>. <hi rend="it">V. p.</hi> 175, 184,
+                        Pl. XXXII.</p>
+                    <p xml:id="tenailles3"><hi rend="capitals">TENAILLES</hi> des vitriers. <hi
+                            rend="it">Voyez page</hi> 264, 276, Pl. XLV.</p>
+                    <p xml:id="tenailles4"><hi rend="capitals">TENAILLES</hi> des fondeurs. <hi
+                            rend="it">V. p.</hi> 334, Pl. L ; <hi rend="it">p.</hi> 336, Pl. LI.</p>
+                    <p xml:id="tenailles5"><hi rend="capitals">TENAILLES</hi> des lapidaires. <hi
+                            rend="it">Voyez page</hi> 359, 364, Pl. LVI.</p>
+                    <pb n="750"
+                        facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f784/full/full/0/native.jpg"/>
+                    <p xml:id="tenailles6">Grandes <hi rend="capitals">TENAILLES</hi> des serruriers
+                        servant pour la <ref target="#forge">forge</ref>. <hi rend="it">V. p.</hi>
+                        238, Pl. XXXVI.</p>
+                    <p xml:id="tenailles7">Grandes <hi rend="capitals">TENAILLES</hi> à crochet et
+                        à chauffer. <hi rend="it">Id.</hi></p>
+                    <p xml:id="tenailles8">Autres <hi rend="capitals">TENAILLES</hi> à faire <ref
+                            target="#boutons2">boutons</ref>.</p>
+                    <p xml:id="tenailles9"><hi rend="capitals">TENAILLES</hi> pour faire des vases à
+                        chaud. <hi rend="it">V. p.</hi> 240, Pl. XXXVII.</p>
+                    <p xml:id="tenailles10"><hi rend="capitals">TENAILLES</hi> pour emboutir les
+                        vases. <hi rend="it">Idem</hi>.</p>
+                    <p xml:id="tenailles11"><hi rend="capitals">TENAILLES</hi> à <ref
+                            target="#chamfrain">chamfraindre</ref>. <hi rend="it">Id.</hi></p>
+                    <p xml:id="tenailles12"><hi rend="capitals">TENAILLES</hi> à liens. <hi
+                            rend="it">Id.</hi></p>
+                    <p xml:id="tenailles13"><hi rend="capitals">TENAILLES</hi> à <ref target="#fer2"
+                            >fer à <ref target="#rouet">rouets</ref></ref>. <hi rend="it"
+                        >Idem</hi>.</p>
+                    <p xml:id="tenailles14"><hi rend="capitals">TENAILLES</hi> à vis, ou <ref
+                            target="#estau1">estau</ref> à main. <hi rend="it">Id.</hi></p>
+                    <p xml:id="tenailles15"><hi rend="capitals">TENAILLES</hi> ordinaires. <hi
+                            rend="it">Id.</hi></p>
+                    <p xml:id="tenailles16"><hi rend="capitals">TENAILLES</hi> de bois pour mettre
+                        dans l'<ref target="#estau1">estau</ref> servant à polir les grosses pieces.
+                            <hi rend="it">V. p.</hi> 231.</p>
+                    <p xml:id="tenailles17"><hi rend="capitals">TENAILLES</hi> pour monnoyer les
+                            <ref target="#medaille">medailles</ref> et pour emboister les quarrez.
+                            <hi rend="it">Voyez page</hi> 347, 354, Pl. LV.</p>
+                    <p xml:id="tenailles18"><hi rend="capitals">TENAILLES</hi>, en terme de
+                        fortification, ce sont de grands ouvrages qui couvrent les courtines des
+                            <ref target="#place">places fortifiées</ref>. <hi rend="it">V. p.</hi>
+                        98.</p>
+                    <p xml:id="tendre"><hi rend="capitals">TENDRE</hi>, c'est en terme de <ref
+                            target="#peinture">peinture</ref> et de <ref target="#sculpture"
+                            >sculpture</ref>, le contraire de <ref target="#dur">dur</ref> et de
+                        sec, on dit <hi rend="it">cela est <ref target="#peint">peint</ref>, ou
+                            travaillé tendrement</hi>.</p>
+                    <p xml:id="tendresse"><hi rend="capitals">TENDRESSE</hi>, il y a beaucoup <hi
+                            rend="it">de tendresse dans ces plis</hi>, tout est <ref target="#peint"
+                            >peint</ref> avec beaucoup <hi rend="it">de tendresse</hi> et de
+                        douceur.</p>
+                    <p xml:id="tenie"><hi rend="capitals">TENIE</hi> de <foreign xml:lang="gre"/>
+                        qui signifie une bande ou bandelette que les Latins nomment <hi rend="it"
+                            xml:lang="lat">vitta, fascia, zona, corona</hi>. C'est une partie de
+                            l'<ref target="#epistyle">epistyle</ref>
                         <ref target="#dorique">dorique</ref>, laquelle ressemble à une <ref
-                            target="#regle">regle</ref>, et tient lieu de symaise. Elle est comme
-                        attachée à l'<ref target="#epistyle">epistyle</ref> au dessous des
-                        triglyphes, ausquelles elle sert en quelqué <pb n="751"
+                            target="#regle">regle</ref>, et tient lieu de <ref target="#simaise"
+                            >symaise</ref>. Elle est comme attachée à l'<ref target="#epistyle"
+                            >epistyle</ref> au dessous des triglyphes, ausquelles elle sert en
+                        quelque <pb n="751"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f785/full/full/0/native.jpg"
-                        /> 751 sorte, de base. Barbaro l'appelle <ref target="#listel">listel</ref>.
-                        ; Mais <persName ref="#AndreaPalladio">Palladio</persName> lui conserve son
-                        nom ancien de Tenie. <persName ref="#GuillaumePhilandrier"
+                        /> sorte de base. <persName ref="#DanieleBarbaro">Barbaro</persName>
+                        l'appelle <ref target="#listel">listel</ref>, mais <persName
+                            ref="#AndreaPalladio">Palladio</persName> lui conserve son nom ancien de
+                            <hi rend="it">tenie</hi>. <persName ref="#GuillaumePhilandrier"
                             >Philander</persName> dit qu'il y en a de deux sortes, sçavoir celle
-                        dont je viens de parler, qu'il nomme Inferieure ; et l'autre Superieure, qui
-                        sert comme de <ref target="#chapiteau">chapiteau</ref> aux triglyphes.
-                            <persName ref="#LeonBattistaAlberti">Leon Baptiste Albert</persName>
-                        l.7.c.9. nomme les Tenies Regulæ, Pasciola. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P56"><hi rend="capitals"> Tenor. C
-                        </hi> 'est le bout d'une piece de bois, qui entre dans une <ref
-                            target="#mortaises">mortaise</ref>. <hi rend="it">V. p.</hi>132.Pl.
-                        XVII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P57"> TENONs à tournices ou <ref
+                        dont je viens de parler, qu'il nomme <hi rend="it">inferieure</hi> ; et
+                        l'autre <hi rend="it">superieure</hi>, qui sert comme de <ref
+                            target="#chapiteau">chapiteau</ref> aux triglyphes. <persName
+                            ref="#LeonBattistaAlberti">Leon Baptiste Albert</persName>
+                        <bibl key="AlbertiDeReAedificatoria">l. 7, c. 9</bibl> nomme les tenies <hi
+                            rend="it">regulæ, fasciolæ</hi>.</p>
+                    <p xml:id="tenon1"><hi rend="capitals">TENON</hi>. C'est le bout d'une piece de
+                        bois, qui entre dans une <ref target="#mortaises">mortaise</ref>. <hi
+                            rend="it">V. p.</hi> 132, Pl. XVII.</p>
+                    <p xml:id="tenon2"><hi rend="capitals">TENONS</hi> à tournices ou <ref
                             target="#oulices">oulices</ref> ; ce sont ceux qui sont coupez tout
-                        quarrement, et en about auprés le <ref target="#parement">parement</ref> du
-                        bois, pour <ref target="#revestir">revestir</ref> apres coup et quand
-                        l'ouvrage est fait. <hi rend="it">V. p.</hi>123.132.Pl. XVIl. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P58"><hi rend="capitals"> Tenons </hi>
-                        à mors d'asne, ou <ref target="#mordant">mordant</ref>, et <ref
-                            target="#renforts">renforts</ref>. <hi rend="it">V. p.</hi>121.132, Pl.
-                        XVII. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P59"> Il y a aussi les Tenons que les
-                            <ref target="#menuisier">menuisiers</ref> nomment <ref target="#clef2"
-                            >clefs</ref>, qui sont dedeux <ref target="#maniere1">manieres</ref> ;
-                        les, uns simples qui s'enferment dans deux <ref target="#mortaises"
-                            >mortaises</ref>, et qui sont arrestés avee deux <ref
-                            target="#chevilles4">chevilles</ref>. <persName ref="#Vitruve"
-                            >Vitruve</persName> les nomme subscudes ; les autres que l'on meten
-                        dehors et taillez en <ref target="#queue">queuë d'aironde</ref>, que
-                            <persName ref="#Vitruve">Vitruve</persName> appelle aussi securicule à
-                        cause qu'ils ressemblent à de petites coignées. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P60"><hi rend="capitals"> Terme </hi>,
-                            <ref target="#borne">borne</ref>, limite. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P61"><hi rend="capitals"> Terni </hi> ;
-                        on dit un <ref target="#tableau">tableau</ref> terni, dont les <ref
-                            target="#couleurs1">couleurs</ref> sont passées </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P62"><hi rend="capitals"> Terrasse
-                        </hi> signifie un lieu eslevé, soit qu'il soit de terre <ref
-                            target="#solide">solide</ref>;, soit qu'il soit sur une voute ; mais
-                        cette derniere <ref target="#maniere1">maniere</ref> s'appelle plus
-                        proprement plare-forme comme celles qui sont couvertes de <ref
+                        quarrement, et en <hi rend="it">about</hi> auprés le <ref target="#parement"
+                            >parement</ref> du bois, pour <ref target="#revestir">revestir</ref>
+                        aprés coup et quand l'ouvrage est fait. <hi rend="it">V. p.</hi> 123, 132,
+                        Pl. XVII.</p>
+                    <p xml:id="tenon3"><hi rend="capitals">TENONS</hi>
+                        <hi rend="it">à mors d'asne</hi>, ou <hi rend="it"><ref target="#mordant"
+                                >mordant</ref>, et <ref target="#renforts">renforts</ref></hi>. <hi
+                            rend="it">V. p.</hi> 121, 132, Pl. XVII.</p>
+                    <p>Il y a aussi les tenons que les <ref target="#menuisier">menuisiers</ref>
+                        nomment <hi rend="it"><ref target="#clef2">clefs</ref></hi>, qui sont de
+                        deux <ref target="#maniere1">manieres</ref> : les uns simples qui
+                        s'enferment dans deux <ref target="#mortaises">mortaises</ref>, et qui sont
+                        arrestés avec deux <ref target="#chevilles4">chevilles</ref>. <persName
+                            ref="#Vitruve">Vitruve</persName> les nomme <hi rend="it">subscudes</hi>
+                        ; les autres que l'on met en dehors et taillez en <hi rend="it"><ref
+                                target="#queue">queuë d'aironde</ref></hi>, que <persName
+                            ref="#Vitruve">Vitruve</persName> appelle aussi <hi rend="it"
+                            >securiculæ</hi> à cause qu'ils ressemblent à de petites <ref
+                            target="#coignée">coignées</ref>.</p>
+                    <p xml:id="terme"><hi rend="capitals">TERME</hi>, <ref target="#borne"
+                            >borne</ref>, limite.</p>
+                    <p xml:id="terni"><hi rend="capitals">TERNI</hi>, on dit <hi rend="it">un <ref
+                                target="#tableau">tableau</ref> terni</hi>, dont les <ref
+                            target="#couleurs1">couleurs</ref> sont passées.</p>
+                    <p xml:id="terrasse1"><hi rend="capitals">TERRASSE</hi> signifie un lieu eslevé,
+                        soit qu'il soit de terre <ref target="#solide">solide</ref>, soit qu'il soit
+                        sur une voute ; mais cette derniere <ref target="#maniere1">maniere</ref>
+                        s'appelle plus proprement <hi rend="it"><ref target="#platte-forme"
+                                >plate-forme</ref></hi> comme celles qui sont couvertes de <ref
                             target="#plomb">plomb</ref>, ou pavées de <ref target="#pierre"
-                            >pierres</ref>. etc. <hi rend="it">V. p.</hi>166 </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P63"><hi rend="capitals"> Terrasse
-                        </hi> ou balcon. Voyez BALCON. <pb n="752"
-                            facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f786/full/full/0/native.jpg"
-                        />
-                    </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P64"><hi rend="capitals"> Terrasse
-                        </hi>. On appellé aimsi, enlterme de <ref target="#peinture">peinture</ref>
-                        le devant des païsages. </p>
+                            >pierres</ref>, etc. <hi rend="it">V. p.</hi> 166.</p>
+                    <p xml:id="terrasse2"><hi rend="capitals">TERRASSE</hi> ou balcon. <hi rend="it"
+                            >Voyez</hi>
+                        <hi rend="capitals">BALCON</hi>.</p>
+                    <pb n="752"
+                        facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f786/full/full/0/native.jpg"/>
+                    <p xml:id="terrasse3"><hi rend="capitals">TERRASSE</hi>. On appelle ainsi, en
+                        terme de <ref target="#peinture">peinture</ref> le devant des païsages.</p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreT_P65"><hi rend="capitals"> Terre-verte
                         </hi> creta viridis, selon <persName ref="#GuillaumePhilandrier"
                             >Philander</persName> sur le z. ch. du 7. livre de <persName
@@ -33189,7 +33201,7 @@
                         <hi rend="capitals"> Thrre-plain. <hi rend="it">V. p.</hi> 9l. </hi>
                     </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreT_P68"> TEsTEs de Lions que l'on taille
-                        dans les symaises. Voyez GARGOUILLES. </p>
+                        dans les <ref target="#simaise">symaises</ref>. Voyez GARGOUILLES. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreT_P69"> TEsTU à <ref target="#demolir"
                             >demolir</ref> ; <ref target="#outil1">outil</ref> de maçon. Voyez pag.
                         78.Pl.X. </p>
@@ -33231,11 +33243,11 @@
                         ce mot est pris pour la <ref target="#coupe1">coupe</ref> d'un temple, ou
                         bien pour ce que nous appellons la <ref target="#lanterne1">lanterne</ref>
                         que l'on met au dessus, selon <persName ref="#GuillaumePhilandrier"
-                            >Philander</persName> et Barbaro. <persName ref="#Vitruve"
-                            >Vitruve</persName> nomme Tholus une <ref target="#coupe1">coupe</ref>
-                        ou <ref target="#dome">dome</ref> ; et Flos l'<ref target="#ornemens2"
-                            >ornement</ref> ou <ref target="#fleurons">fleuron</ref> qui ést au
-                        dessus </p>
+                            >Philander</persName> et <persName ref="#DanieleBarbaro"
+                            >Barbaro</persName>. <persName ref="#Vitruve">Vitruve</persName> nomme
+                        Tholus une <ref target="#coupe1">coupe</ref> ou <ref target="#dome"
+                            >dome</ref> ; et Flos l'<ref target="#ornemens2">ornement</ref> ou <ref
+                            target="#fleurons">fleuron</ref> qui ést au dessus </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreT_P79"> THnONE de ôpôros ; lieu eslevé,
                         où siege Royal. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreT_P80"><hi rend="capitals"> Tiercerons
@@ -33265,9 +33277,9 @@
                         </hi> ; il y a des lieux où les charpentiers appellent ainsi certains oùtils
                         qui leur servent pour <ref target="#degauchir">degauchir</ref> le dedans des
                             <ref target="#mortaises">mortaises</ref>. </p>
-                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P88"> TIREcrou ; c'est un qutil de <ref
-                            target="#fer1">fer</ref>, plat et dentele des deux costez, en formẽ
-                        d'une double cremailCCCCC <pb n="754"
+                    <p xml:id="FEL_PASP_dictionnaire_lettreT_P88"> TIRE crou ; c'est un qutil de
+                            <ref target="#fer1">fer</ref>, plat et dentele des deux costez, en
+                        formẽ d'une double cremailCCCCC <pb n="754"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f788/full/full/0/native.jpg"
                         /> lée et dont le manche est <ref target="#coudé">coudé</ref> quarrément en
                         dessus ; les couvreurs s'en servent lorsqu'ils travaillent à des toits
@@ -34112,8 +34124,8 @@
                             target="#abaque">Abaque</ref> et de l'<ref target="#entablement"
                             >entablement</ref> qui est au dessus. C'est pourquoy elle est appellée
                         Pulvinus par <persName ref="#Vitruve">Vitruve</persName>
-                        <bibl key="vitruveArchitectura">chapitre 3, livre 3</bibl> qui dit dans
-                        son-livre 4. ch. 1,qu'elles representent la coeffure des femmes, et les
+                        <bibl key="vitruveArchitectura">chapitre 3, livre 3</bibl> qui dit dans son
+                        livre 4, chapitre 1,qu'elles representent la coeffure des femmes, et les
                         boucles des cheveux, qui pendent des deux costez de leur visage. <persName
                             ref="#LeonBattistaAlberti">Leon Baptiste Albert</persName> les appelle
                             <ref target="#coquilles">coquilles</ref> à cause de la ressemblance
