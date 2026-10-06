@@ -1,1598 +1,1165 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TEI>
-  <listObject xmlns="http://www.tei-c.org/ns/1.0">
-    <object xml:id="AgnoloGaddiArno">
-      <p>AgnoloGaddi, Ponte Vecchio traversant l'Arno</p>
-    </object>
-    <object xml:id="AgnoloGaddiTour">
-      <p>Giotto, Campanile de Santa Maria del Fiore</p>
-    </object>
-    <object xml:id="AgostinoVenezianoEcoleAthenes">
-      <p>AgostinoVeneziano, Groupe de figures issues de l'Ecole d'Athènes de Raphaël</p>
-    </object>
-    <object xml:id="AlmoCollegioBorromeo">
-      <p>PellegrinoTibaldi, AlmoCollegioBorromeo</p>
-    </object>
-    <object xml:id="AmphitheatreCapoue">
-      <p>Inconnu, Amphitéathre de Capoue</p>
-    </object>
-    <object xml:id="AmphitheatrePula">
-      <p>Inconnu, Amphithéatre de Pula</p>
-    </object>
-    <object xml:id="AndreaAndreaniTriompheGrave">
-      <p>AndreaAndreani, Les Triomphes de Jules César</p>
-    </object>
-    <object xml:id="AndreaDelCastagnoExecutionConjures">
-      <p>AndreaDelCastagno, L'Exécution des conjurés ou Gli Impiccati</p>
-    </object>
-    <object xml:id="AndreaDelSartoLeonX">
-      <p>AndreaDelSarto, Portrait de Léon X</p>
-    </object>
-    <object xml:id="AndreaDelSartoSaintJerome">
-      <p>AndreaDelSarto, Saint Jérôme</p>
-    </object>
-    <object xml:id="AndreaDelSartoSebastien">
-      <p>AndreaDelSarto, Saint Sébastien</p>
-    </object>
-    <object xml:id="AnonymeHelene">
-      <p>Inconnu, Tableau représentant Hélène</p>
-    </object>
-    <object xml:id="AnonymeRaphaelDieuCreantAnimaux">
-      <p>anonyme, Dieu créant les animaux</p>
-    </object>
-    <object xml:id="ApelleCalomnie">
-      <p>Apelle, Calomnie</p>
-    </object>
-    <object xml:id="ApelleCampaspe">
-      <p>Apelle, Portrait de Campaspe</p>
-    </object>
-    <object xml:id="ArcAugusteSuse">
-      <p>Inconnu, Arc d'Auguste Suse</p>
-    </object>
-    <object xml:id="ArcCostantinRome">
-      <p>Inconnu, Arc de Costantin</p>
-    </object>
-    <object xml:id="ArcMalventuratoRome">
-      <p>Inconnu, Arco Malventurato</p>
-    </object>
-    <object xml:id="ArcSergiusPula">
-      <p>Inconnu, Arc des Sergius</p>
-    </object>
-    <object xml:id="ArcTitusRome">
-      <p>Inconnu, Arc de Titus Rome</p>
-    </object>
-    <object xml:id="ArcTrajanAncone">
-      <p>Inconnu, Arc de Trajan d'Ancône</p>
-    </object>
-    <object xml:id="ArcheAlliance">
-      <p>Inconnu, Arche d'alliance</p>
-    </object>
-    <object xml:id="ArcoDeiGaviVerone">
-      <p>Inconnu, Arco dei Gavi</p>
-    </object>
-    <object xml:id="ArenaVerone">
-      <p>Inconnu, Arènes de Vérone</p>
-    </object>
-    <object xml:id="ArianeEndormie">
-      <p>Inconnu, L'Ariane endormie, autrefois appellée la Cléopâtre</p>
-    </object>
-    <object xml:id="AthenaGiustiniani">
-      <p>Inconnu, Athena Giustiniani</p>
-    </object>
-    <object xml:id="BasiliqueSaintAugustinRome">
-      <p>Inconnu, Basilique Saint Augustin</p>
-    </object>
-    <object xml:id="BasiliqueSaintJeanLatranRome">
-      <p>Inconnu, Basilique Saint Jean De Latran</p>
-    </object>
-    <object xml:id="BasiliqueSaintPierreRome">
-      <p>Inconnu, Basilique Saint-Pierre de Rome</p>
-    </object>
-    <object xml:id="BasiliqueSainteAgnesHorsLesMursRome">
-      <p>Inconnu, Basilique Sainte Agnès hors les Murs de Rome</p>
-    </object>
-    <object xml:id="BasiliqueSaintsApotresRome">
-      <p>Inconnu, Basilique des Saints-Apôtres</p>
-    </object>
-    <object xml:id="BasiliqueSanMiniatoFlorence">
-      <p>Inconnu, Basilique San Miniato al Monte</p>
-    </object>
-    <object xml:id="BasiliqueSantaFrancescaRomanaRome">
-      <p>Inconnu, Basilique Santa Francesca Romana</p>
-    </object>
-    <object xml:id="BasiliqueSantaMariaDelPopolo">
-      <p>Aaron, Basilique Santa Maria del Popolo</p>
-    </object>
-    <object xml:id="BasiliqueSantaMariaDellaSaluteVenise">
-      <p>BaldassarreLonghena, Basilique Santa Maria della Salute</p>
-    </object>
-    <object xml:id="BasiliqueSantiCosmaDamianoRome">
-      <p>Inconnu, Basilique Santi Cosma e Damiano</p>
-    </object>
-    <object xml:id="BeatrizetAnnonciation">
-      <p>NicolasBeatrizet, Annonciation</p>
-    </object>
-    <object xml:id="BeatrizetArchers">
-      <p>NicolasBeatrizet, Les Tireurs de flèches</p>
-    </object>
-    <object xml:id="BeatrizetBacchanale">
-      <p>NicolasBeatrizet, Bacchanale de putti</p>
-    </object>
-    <object xml:id="BeatrizetCainAbel">
-      <p>NicolasBeatrizet, Cain et Abel</p>
-    </object>
-    <object xml:id="BeatrizetConversionSaintPaul">
-      <p>NicolasBeatrizet, Conversion de saint Paul</p>
-    </object>
-    <object xml:id="BeatrizetCrucifixion">
-      <p>NicolasBeatrizet, La Crucifixion</p>
-    </object>
-    <object xml:id="BeatrizetGanymede">
-      <p>NicolasBeatrizet, Le Rapt de Ganymède</p>
-    </object>
-    <object xml:id="BeatrizetPhaeton">
-      <p>NicolasBeatrizet, Chute de Phaeton</p>
-    </object>
-    <object xml:id="BeatrizetPieta">
-      <p>NicolasBeatrizet, Pietà</p>
-    </object>
-    <object xml:id="BeatrizetPropheteJeremie">
-      <p>NicolasBeatrizet, Le prophète Jérémie (Chapelle Sixtine)</p>
-    </object>
-    <object xml:id="BeatrizetSongeVieHumaine">
-      <p>NicolasBeatrizet, Le songe de la vie humaine</p>
-    </object>
-    <object xml:id="BeatrizetTityos">
-      <p>NicolasBeatrizet, Le supplice de Tityos</p>
-    </object>
-    <object xml:id="BelliniFestinDesDieuxWashington">
-      <p>GentileBellini, Le Festin des Dieux ou la bacchanale</p>
-    </object>
-    <object xml:id="BelvedereVatican">
-      <p>AntonioPollaiuolo, Palais du Belvédère (Vatican)</p>
-    </object>
-    <object xml:id="BernardSalomonBibliaSacra">
-      <p>BernardSalomon, Biblia sacra, ad optima quaeque veteris, ut vocant, tralationis exemplaria summa diligentia, parique, fide castigata cum indicibus copiosissimis</p>
-    </object>
-    <object xml:id="BibliothequeAmbrosienneMilan">
-      <p>Inconnu, Bibliothèque Ambrosienne</p>
-    </object>
-    <object xml:id="BibliothequeMediceaLaurenzianaFlorence">
-      <p>MichelAnge, Bibliothèque Medicea Laurenziana Florence</p>
-    </object>
-    <object xml:id="BoldriniBrittoSaintJerome">
-      <p>GiovanniBritto, Saint Jérôme dans le désert</p>
-    </object>
-    <object xml:id="BolswertRubensVueMalines">
-      <p>SchelteBolswert, Vue de Malines (Suite de six grands paysages)</p>
-    </object>
-    <object xml:id="BotticelliDivineComedie">
-      <p>SandroBotticelli, Commentaire et illustration de la Divine Comédie de Dante</p>
-    </object>
-    <object xml:id="BrittoAdorationBergers">
-      <p>GiovanniBritto, Adoration des bergers</p>
-    </object>
-    <object xml:id="CampanileSaintMarcVenise">
-      <p>Inconnu, Campanile de saint Marc</p>
-    </object>
-    <object xml:id="CaraglioAlexandreRoxane">
-      <p>GiovanniJacopoCaraglio, Alexandre et Roxane</p>
-    </object>
-    <object xml:id="CaraglioAnnonciation">
-      <p>GiovanniJacopoCaraglio, Annonciation</p>
-    </object>
-    <object xml:id="CaraglioDieux">
-      <p>GiovanniJacopoCaraglio, Série des vingt dieux dans des niches</p>
-    </object>
-    <object xml:id="CaraglioMariageVierge">
-      <p>GiovanniJacopoCaraglio, Mariage de la Vierge</p>
-    </object>
-    <object xml:id="CaraglioPlutonProserpine">
-      <p>GiovanniJacopoCaraglio, Pluton et Proserpine</p>
-    </object>
-    <object xml:id="CaraglioRaptSabines">
-      <p>GiovanniJacopoCaraglio, Le rapt des sabines</p>
-    </object>
-    <object xml:id="CaraglioSaturnePhilyra">
-      <p>GiovanniJacopoCaraglio, Saturne et Phylira</p>
-    </object>
-    <object xml:id="CarracheCrisBologne">
-      <p>SimonGuillainII, Cris de Bologne</p>
-    </object>
-    <object xml:id="CarracheGalerieFarnese">
-      <p>AnnibaleCarracci, Fresques de la Galerie Farnese</p>
-    </object>
-    <object xml:id="CasaBuonarroti">
-      <p>MichelAnge, Casa Buonarroti, maison de MichelAnge</p>
-    </object>
-    <object xml:id="CathedralePise">
-      <p>Inconnu, Cathédrale Notre-Dame-de-l'Assomption de Pise</p>
-    </object>
-    <object xml:id="CathedraleSantaMariaDelFioreFlorence">
-      <p>Inconnu, Cathédrale Santa Maria del Fiore</p>
-    </object>
-    <object xml:id="CavalliniCrucifixSaintPaul">
-      <p>PietroCavallini, Crucifix de bois</p>
-    </object>
-    <object xml:id="CesariBataillesCapitole">
-      <p>GiuseppeCesari, Les batailles du Capitole</p>
-    </object>
-    <object xml:id="ChapelleSixtine">
-      <p>MichelAnge, Chapelle Sixtine</p>
-    </object>
-    <object xml:id="ChateauChambord">
-      <p>Inconnu, Chateau de Chambord</p>
-    </object>
-    <object xml:id="CockVisitationPiombo">
-      <p>HieronymusCock, La Visitation</p>
-    </object>
-    <object xml:id="CockVisitationSalviati">
-      <p>HieronymusCock, Visitation</p>
-    </object>
-    <object xml:id="ColonneAntonineRome">
-      <p>Inconnu, Colonne Antonine</p>
-    </object>
-    <object xml:id="ColonneMarcAureleRome">
-      <p>Inconnu, Colonne de Marc-Aurèle</p>
-    </object>
-    <object xml:id="ColonneTrajaneRome">
-      <p>Inconnu, Colonne Trajane</p>
-    </object>
-    <object xml:id="ColosseRhodes">
-      <p>Inconnu, Colosse de Rhodes</p>
-    </object>
-    <object xml:id="ColosseumRome">
-      <p>Inconnu, Colisée</p>
-    </object>
-    <object xml:id="CopieLeonardCeneParis">
-      <p>Inconnu, Copie de la Cène de Léonard de Vinci</p>
-    </object>
-    <object xml:id="CornelisCortCalomnie">
-      <p>CornelisCort, La calomnie d'Apelle</p>
-    </object>
-    <object xml:id="CornelisCortTransfiguration">
-      <p>CornelisCort, La transfiguration</p>
-    </object>
-    <object xml:id="CorregeCoupoleAssomption">
-      <p>Correge, Assomption (Coupole)</p>
-    </object>
-    <object xml:id="CortAdorationBergersPolidoro">
-      <p>CornelisCort, Adoration des bergers</p>
-    </object>
-    <object xml:id="CortAnnonciationZuccaro">
-      <p>CornelisCort, Annonciation</p>
-    </object>
-    <object xml:id="CortBatailleScipionZama">
-      <p>CornelisCort, Bataille de Scipion à Zama</p>
-    </object>
-    <object xml:id="CortCalomnieApelle">
-      <p>CornelisCort, La Calomnie d'Appelle</p>
-    </object>
-    <object xml:id="CortMartyreSaintEtienne">
-      <p>CornelisCort, Martyre de saint Etienne</p>
-    </object>
-    <object xml:id="CortMartyreSaintLaurentTitien">
-      <p>CornelisCort, Martyre de saint Laurent</p>
-    </object>
-    <object xml:id="DaCarpiEneeAnchise">
-      <p>UgoDaCarpi, Enée et Anchise</p>
-    </object>
-    <object xml:id="DaCarpiEnvieHercule">
-      <p>UgoDaCarpi, L'Envie chassée du temple des Muses</p>
-    </object>
-    <object xml:id="DaCarpiMortAnanias">
-      <p>UgoDaCarpi, La Mort d'Ananias</p>
-    </object>
-    <object xml:id="DaCarpiVenusPutti">
-      <p>UgoDaCarpi, Vénus et les Amours</p>
-    </object>
-    <object xml:id="DaCarpiVeroniquePaulPierre">
-      <p>UgoDaCarpi, Sainte Véronique entre les saints Pierre et Paul</p>
-    </object>
-    <object xml:id="DanieleDaVolterraEquestreHenriII">
-      <p>DanieleDaVolterra, Statue équestre Henri II</p>
-    </object>
-    <object xml:id="DanseusesBorghese">
-      <p>Inconnu, Danseuses Borghese</p>
-    </object>
-    <object xml:id="DapMantegnaTriomphesBurin">
-      <p>AndreaMantegna, Le Triomphe de César</p>
-    </object>
-    <object xml:id="DapParmesanViergeOvale">
-      <p>Parmigianino, Vierge à l'enfant avec saint Jean-Baptiste</p>
-    </object>
-    <object xml:id="DapRaphaelSibylleEnfant">
-      <p>Raphael, Sibylle lisant avec un enfant tenant une torche</p>
-    </object>
-    <object xml:id="DapTitienTriompheChrist">
-      <p>Titien, Le Triomphe du Christ</p>
-    </object>
-    <object xml:id="DeCavalieriMartyreSaintPierre">
-      <p>GiovanniBattistaDeCavalieri, Martyre de saint Pierre</p>
-    </object>
-    <object xml:id="DedaleLabyrinthe">
-      <p>Dedale, Labyrinthe</p>
-    </object>
-    <object xml:id="DelSartoLeonX">
-      <p>AndreaDelSarto, Portrait de Léon X</p>
-    </object>
-    <object xml:id="DenteAnnonciation">
-      <p>MarcoDente, Annonciation</p>
-    </object>
-    <object xml:id="DenteCene">
-      <p>MarcoDente, Cène</p>
-    </object>
-    <object xml:id="DenteMassacreInnocents">
-      <p>MarcoDente, Massacre des Innocents</p>
-    </object>
-    <object xml:id="DomusAureaRome">
-      <p>Inconnu, Domus Aurea</p>
-    </object>
-    <object xml:id="DonatelloSaintGeorges">
-      <p>Donatello, Saint Georges</p>
-    </object>
-    <object xml:id="DuomoTurin">
-      <p>Inconnu, Cathédrale Saint-Jean6Baptiste de Turin</p>
-    </object>
-    <object xml:id="DurerDecollationSaintJeanBaptiste">
-      <p>AlbrechtDurer, La Décollation de saint Jean-Baptiste</p>
-    </object>
-    <object xml:id="DurerGrandePassionBois">
-      <p>AlbrechtDurer, Grande p</p>
-    </object>
-    <object xml:id="DurerMelencolia">
-      <p>AlbrechtDurer, Melencolia I</p>
-    </object>
-    <object xml:id="DurerPassionCuivre">
-      <p>AlbrechtDurer, Passion sur cuivre</p>
-    </object>
-    <object xml:id="DurerPetitePassionBois">
-      <p>AlbrechtDurer, La Petite Passion du Christ</p>
-    </object>
-    <object xml:id="DurerSaintEustache">
-      <p>AlbrechtDurer, Saint Eustache</p>
-    </object>
-    <object xml:id="DurerSaintJeromeBurin">
-      <p>AlbrechtDurer, Saint Jérôme dans sa cellule</p>
-    </object>
-    <object xml:id="EgliseSaintEtienneLeRondRome">
-      <p>Inconnu, Église Saint-Étienne-le-Rond</p>
-    </object>
-    <object xml:id="EgliseSaintSeverinParis">
-      <p>Inconnu, Église Saint-Séverin</p>
-    </object>
-    <object xml:id="EgliseSanLioVenise">
-      <p>Inconnu, Église San Lio</p>
-    </object>
-    <object xml:id="EgliseSanSalvadorVenise">
-      <p>BaldassarreLonghena, Eglise San Salvador</p>
-    </object>
-    <object xml:id="EgliseSantaMariaDellaPieveArezzo">
-      <p>GiorgioVasari, Église Santa Maria della Pieve</p>
-    </object>
-    <object xml:id="EneaVicoAnnonciationTitien">
-      <p>EneaVico, Annonciation</p>
-    </object>
-    <object xml:id="EneaVicoConversionPaul">
-      <p>EneaVico, Conversion de saint Paul</p>
-    </object>
-    <object xml:id="EneaVicoCosmeMedicis">
-      <p>EneaVico, Portrait de Cosme de Médicis</p>
-    </object>
-    <object xml:id="EneaVicoGiovanniMedici">
-      <p>EneaVico, Portrait de Giovanni de Medici</p>
-    </object>
-    <object xml:id="EneaVicoImaginiDeGliImperatori">
-      <p>EneaVico, Le Imagini Con Tvtti I Riversi Trovati Et Le Vite De Gli Imperatori Tratte Dalle Medaglie Et Dalle Historie De Gli Antichi</p>
-    </object>
-    <object xml:id="EneaVicoImaginiDonneAugustee">
-      <p>EneaVico, Le imagini delle Donne Auguste</p>
-    </object>
-    <object xml:id="EneaVicoJudith">
-      <p>EneaVico, Judith portant la tête d'Holopherne</p>
-    </object>
-    <object xml:id="EneaVicoLedaMichelange">
-      <p>EneaVico, Léda et le cygne</p>
-    </object>
-    <object xml:id="FedericoZuccaroCalomnie">
-      <p>FedericoZuccaro, La Calomnie</p>
-    </object>
-    <object xml:id="FedericoZuccaroElisabeth">
-      <p>FedericoZuccaro, Portrait Élisabeth Ier</p>
-    </object>
-    <object xml:id="FedericoZuccaroPieta">
-      <p>FedericoZuccaro, La Pietà</p>
-    </object>
-    <object xml:id="FedericoZuccaroVenus">
-      <p>FedericoZuccaro, Vénus nue</p>
-    </object>
-    <object xml:id="FilippinoLippiChapelleCarafa">
-      <p>FilippinoLippi, Chapelle Carafa</p>
-    </object>
-    <object xml:id="FilippoLippiViergeCeinturePrato">
-      <p>FilippoLippi, Vierge à la ceinture ou Madonna della Cintola</p>
-    </object>
-    <object xml:id="FondacoTedeschiVenise">
-      <p>Giorgione, Façade terrestre et du Fondaco dei Tedeschi</p>
-    </object>
-    <object xml:id="FontaineNeptuneFlorence">
-      <p>BartolomeoAmmannati, Fontaine de Neptune</p>
-    </object>
-    <object xml:id="FraAngelicoChapelleNicoline">
-      <p>Inconnu, Fresques de la chapelle Nicoline</p>
-    </object>
-    <object xml:id="FrancoAdorationBergersHauteur">
-      <p>BattistaFranco, Adoration des bergers</p>
-    </object>
-    <object xml:id="FrancoAdorationBergersLargeur">
-      <p>BattistaFranco, Adoration des bergers</p>
-    </object>
-    <object xml:id="FrancoAdorationDesRois">
-      <p>BattistaFranco, Adorations des rois mages</p>
-    </object>
-    <object xml:id="FrancoNativiteVieChrist">
-      <p>BattistaFranco, Nativité (issue de la suite de neuf gravures de la vie du Christ)</p>
-    </object>
-    <object xml:id="FrancoPierreJeanGuersisonParalytique">
-      <p>BattistaFranco, Pierre et Jean guérissant un paralytique à la porte du Temple</p>
-    </object>
-    <object xml:id="GaetanoZumboAdorationBergers">
-      <p>GaetanoZumbo, Adoration des bergers</p>
-    </object>
-    <object xml:id="GaetanoZumboDescenteCroix">
-      <p>GaetanoZumbo, Descente de croix</p>
-    </object>
-    <object xml:id="GalerieFrancoisIer">
-      <p>RossoFiorentino, Galerie François Ier</p>
-    </object>
-    <object xml:id="GalerieJustinienne">
-      <p>Inconnu, La Galerie Justinienne</p>
-    </object>
-    <object xml:id="GalerieUlysseFontainebleau">
-      <p>JacquesAndrouetDuCerceau, Galerie d'Ulysse</p>
-    </object>
-    <object xml:id="GhisiDisputeSacrement">
-      <p>GiorgioGhisi, Dispute du Saint Sacrement</p>
-    </object>
-    <object xml:id="GhisiEcoleAthenes">
-      <p>GiorgioGhisi, Ecole d'Athènes</p>
-    </object>
-    <object xml:id="GiambolognaStatueHenriIV">
-      <p>Giambologna, Statue d'Henri IV</p>
-    </object>
-    <object xml:id="GianoBifronte">
-      <p>Inconnu, Buste de Janus bifronts</p>
-    </object>
-    <object xml:id="GiorgioGhisiAllegorieMaladie">
-      <p>GiorgioGhisi, Allégorie de la Maladie (un malade couché sur le ventre à qui l'on applique les ventouses)</p>
-    </object>
-    <object xml:id="GiorgioGhisiFuiteEgypte">
-      <p>GiorgioGhisi, Le repos au cours de la fuite en Egypte</p>
-    </object>
-    <object xml:id="GiorgioneNudaGallerieAccademia">
-      <p>Giorgione, La Nuda</p>
-    </object>
-    <object xml:id="GiottoNacelleSaintPierreRome">
-      <p>Giotto, La Nacelle ou la Barque de Saint Pierre agitée par la tempête</p>
-    </object>
-    <object xml:id="GonnelliUrbainVIII">
-      <p>GiovanniGonnelli, Buste d'Urbain VIII</p>
-    </object>
-    <object xml:id="GrandeGalerieLouvreParis">
-      <p>Inconnu, Grande Galerie du Louvre</p>
-    </object>
-    <object xml:id="GraveurAnonymeEneeAnchise">
-      <p>Inconnu, Enee et Anchise</p>
-    </object>
-    <object xml:id="GuidoReniCrucifixion">
-      <p>GuidoReni, Crucifixion</p>
-    </object>
-    <object xml:id="GuillainFrontispiceCarrache">
-      <p>SimonGuillainII, Frontispice et portrait d'Annibale Carrache</p>
-    </object>
-    <object xml:id="HerculeFarnese">
-      <p>Inconnu, Hercule Farnèse</p>
-    </object>
-    <object xml:id="HerculesCapitolini">
-      <p>Inconnu, Hercules Boarium</p>
-    </object>
-    <object xml:id="JardinsBabylone">
-      <p>Inconnu, Jardins suspendus de Babylone</p>
-    </object>
-    <object xml:id="LabyrintheEgypte">
-      <p>Inconnu, Le Labyrinthe d'Egypte</p>
-    </object>
-    <object xml:id="LaocoonAntique">
-      <p>Agésandros, Le groupe du Laocoon</p>
-    </object>
-    <object xml:id="LeonardAdamEve">
-      <p>LeonardoDaVinci, Adam et Eve</p>
-    </object>
-    <object xml:id="LeonardAdorationMages">
-      <p>LeonardoDaVinci, Adoration des Mages</p>
-    </object>
-    <object xml:id="LeonardAnghiari">
-      <p>LeonardoDaVinci, Bataille d'Anghiari, Salle des Cinq-Cents au Palazzo Vecchio, Florence</p>
-    </object>
-    <object xml:id="LeonardAssomptionMilan">
-      <p>LeonardoDaVinci, Assomption avec saint Dominique et saint Pierre de Vérone, Ludovic le More et Béatrice d'Este</p>
-    </object>
-    <object xml:id="LeonardCartonBurlington">
-      <p>LeonardoDaVinci, La Vierge, l'Enfant Jésus avec sainte Anne et saint Jean-Baptiste</p>
-    </object>
-    <object xml:id="LeonardCeneMilan">
-      <p>LeonardoDaVinci, La Cène</p>
-    </object>
-    <object xml:id="LeonardDessinNeptune">
-      <p>LeonardoDaVinci, Dessin de Neptune pour Antonio Segni</p>
-    </object>
-    <object xml:id="LeonardGinevraBenci">
-      <p>LeonardoDaVinci, Portrait de Ginevra Benci</p>
-    </object>
-    <object xml:id="LeonardIsabelleEste">
-      <p>LeonardoDaVinci, Portrait d'Isabelle d'Este</p>
-    </object>
-    <object xml:id="LeonardJoconde">
-      <p>LeonardoDaVinci, La Joconde</p>
-    </object>
-    <object xml:id="LeonardLeda">
-      <p>LeonardoDaVinci, Léda et le cygne</p>
-    </object>
-    <object xml:id="LeonardLionMecanique">
-      <p>LeonardoDaVinci, Lion mécanique</p>
-    </object>
-    <object xml:id="LeonardMadoneOeillet">
-      <p>LeonardoDaVinci, Madonne à l'oeillet</p>
-    </object>
-    <object xml:id="LeonardManuscritMotoMisuraAcqua">
-      <p>LeonardoDaVinci, Del moto e misura dell'acqua</p>
-    </object>
-    <object xml:id="LeonardMeduse">
-      <p>LeonardoDaVinci, Tête de Méduse</p>
-    </object>
-    <object xml:id="LeonardSainteAnne">
-      <p>LeonardoDaVinci, Sainte Anne, la Vierge et l'Enfant Jésus jouant avec un agneau</p>
-    </object>
-    <object xml:id="LeonardViergeRochers">
-      <p>LeonardoDaVinci, La Vierge au Rocher</p>
-    </object>
-    <object xml:id="LescotGoujonFontaineInnocents">
-      <p>PierreLescot, Fontaine des saint Innocents</p>
-    </object>
-    <object xml:id="LibreriaPiccolomini">
-      <p>Inconnu, Libreria Piccolomini</p>
-    </object>
-    <object xml:id="LoSpagnaRaphaelJardinOlivier">
-      <p>LoSpagna, Copie du Jardin des oliviers Raphael</p>
-    </object>
-    <object xml:id="LoggiaOdeoCornaroPadoue">
-      <p>Inconnu, Loggia et Odeo Cornaro</p>
-    </object>
-    <object xml:id="LoggiaPsyche">
-      <p>Raphael, La Loggia de Psyché</p>
-    </object>
-    <object xml:id="Louvre">
-      <p>Inconnu, Louvre</p>
-    </object>
-    <object xml:id="LouvreParis">
-      <p>Inconnu, Palais du Louvre</p>
-    </object>
-    <object xml:id="LucaCambiasoFacadeNordPalaisMonaco">
-      <p>LucaCambiaso, Fresques de la façade Nord du Palais Princier de Monaco</p>
-    </object>
-    <object xml:id="LucaCambiasoParadisEscurial">
-      <p>LucaCambiaso, Le Paradis (voûte du monastère de l'Escorial)</p>
-    </object>
-    <object xml:id="LucasDeLeydeChristPortantCroix">
-      <p>LucasVanLeyden, Le Christ portant sa croix</p>
-    </object>
-    <object xml:id="LucasDeLeydeCrucifixion">
-      <p>LucasVanLeyden, Crucifixion</p>
-    </object>
-    <object xml:id="MantegnaBacchanales">
-      <p>AndreaMantegna, Bacchanales</p>
-    </object>
-    <object xml:id="MantegnaChapelleOvetari">
-      <p>AndreaMantegna, Fresques de la chapelle Ovetari</p>
-    </object>
-    <object xml:id="MantegnaChristAndreLongin">
-      <p>AndreaMantegna, Le Christ ressuscité entre saint André et Longin</p>
-    </object>
-    <object xml:id="MantegnaCombatDieuxMarins">
-      <p>AndreaMantegna, Combat des dieux marins</p>
-    </object>
-    <object xml:id="MantegnaDapDescenteCroix">
-      <p>AndreaMantegna, Descente de croix</p>
-    </object>
-    <object xml:id="MantegnaMiseAuTombeauLargeur">
-      <p>AndreaMantegna, La Mise au Tombeau en largeur</p>
-    </object>
-    <object xml:id="MantegnaMiseAuTombeauQuatreOiseaux">
-      <p>AndreaMantegna, Mise au tombeau aux quatre oiseaux</p>
-    </object>
-    <object xml:id="MantegnaRetableSainteSophiePadoue">
-      <p>AndreaMantegna, Tableau d'autel pour l'église Sainte-Sophie de Padoue</p>
-    </object>
-    <object xml:id="MantegnaTriompheCesar">
-      <p>AndreaMantegna, Les Triomphes de César</p>
-    </object>
-    <object xml:id="MargaritoArezzoTombeauGregoireX">
-      <p>Inconnu, Tombeau de Grégoire X</p>
-    </object>
-    <object xml:id="MartinoRotaJugementDernier">
-      <p>MartinoRota, Jugement dernier</p>
-    </object>
-    <object xml:id="MelziFlora">
-      <p>FrancescoMelzi, Flora</p>
-    </object>
-    <object xml:id="MetaRomuliRome">
-      <p>Inconnu, Meta Romuli</p>
-    </object>
-    <object xml:id="MichelAngeCapitoleRome">
-      <p>MichelAnge, Place du Capitole</p>
-    </object>
-    <object xml:id="MichelAngeCascina">
-      <p>MichelAnge, Bataille de Cascina</p>
-    </object>
-    <object xml:id="MichelAngeCupidonDormant">
-      <p>MichelAnge, Le Cupidon dormant</p>
-    </object>
-    <object xml:id="MichelAngeIsaieSixtine">
-      <p>MichelAnge, Le Prophète Isaïe</p>
-    </object>
-    <object xml:id="MichelAngeJugementSixtine">
-      <p>MichelAnge, Le Jugement dernier</p>
-    </object>
-    <object xml:id="MichelAngeLeda">
-      <p>MichelAnge, Léda et le cygne</p>
-    </object>
-    <object xml:id="MichelAngePlafondSixtine">
-      <p>MichelAnge, Plafond de la chapelle Sixtine</p>
-    </object>
-    <object xml:id="MichelAngeTombeauJulienMedicis">
-      <p>MichelAnge, Tombeau de Julien de Médicis</p>
-    </object>
-    <object xml:id="MichelAngeTombeauLaurentIIMedicis">
-      <p>MichelAnge, Tombeau de Laurent II de Médicis</p>
-    </object>
-    <object xml:id="MonastereSanLorenzoEscurial">
-      <p>Inconnu, Monastère royal de San Lorenzo de El Escorial</p>
-    </object>
-    <object xml:id="MonastereSantAgata">
-      <p>None, Monastère de Sant'Agata</p>
-    </object>
-    <object xml:id="MonastereSantAgataFlorence">
-      <p>AlessandroAllori, Monastère de Sant'Agata</p>
-    </object>
-    <object xml:id="MuraillesNaples">
-      <p>Inconnu, Murailles De Naples</p>
-    </object>
-    <object xml:id="NilVatian">
-      <p>Inconnu, Statue du dieu Nil</p>
-    </object>
-    <object xml:id="ObelisquesRome">
-      <p>Inconnu, Obélisques de Rome</p>
-    </object>
-    <object xml:id="OrcagnaJugementDernierPise">
-      <p>Orcagna, Fresque du jugement dernier</p>
-    </object>
-    <object xml:id="OttoVanVeenEmblemesAmour">
-      <p>Inconnu, Emblèmes des Amours divins et profanes</p>
-    </object>
-    <object xml:id="OttoVanVeenEmblemesHorace">
-      <p>OttoVanVeen, Les emblêmes d'Horace</p>
-    </object>
-    <object xml:id="OttoVanVeenThomasAquin">
-      <p>OttoVanVeen, Recueil de la Vie de saint Thomas d'Aquin</p>
-    </object>
-    <object xml:id="PalaisAntoniniUdine">
-      <p>AndreaPalladio, Palais Antonini à Udine</p>
-    </object>
-    <object xml:id="PalaisBarbaranDaPortoVicence">
-      <p>AndreaPalladio, Palais Barbaran da Porto à Vicence</p>
-    </object>
-    <object xml:id="PalaisBarberiniRome">
-      <p>CarloMaderno, Palais Barberini</p>
-    </object>
-    <object xml:id="PalaisCapriniRome">
-      <p>Inconnu, Palais Caprini</p>
-    </object>
-    <object xml:id="PalaisChiericatiVicence">
-      <p>AndreaPalladio, Palais Chiericati à Venice</p>
-    </object>
-    <object xml:id="PalaisDallaTorreVerone">
-      <p>AndreaPalladio, Palais Dalla Torre à Verone</p>
-    </object>
-    <object xml:id="PalaisFarneseRome">
-      <p>AntonioDaSangalloIlGiovane, Palais Farnese</p>
-    </object>
-    <object xml:id="PalaisLuxembourg">
-      <p>Marin de la Vallée, Palais du Luxembourg</p>
-    </object>
-    <object xml:id="PalaisMonaco">
-      <p>Inconnu, Palais princier de Monaco</p>
-    </object>
-    <object xml:id="PalaisPamphiljRome">
-      <p>GirolamoRainaldi, Palais Pamphilj</p>
-    </object>
-    <object xml:id="PalaisPortoVicence">
-      <p>AndreaPalladio, Palais Porto à Vicence</p>
-    </object>
-    <object xml:id="PalaisThieneVicence">
-      <p>AndreaPalladio, Palais Thiene à Vicence</p>
-    </object>
-    <object xml:id="PalaisTuileriesParis">
-      <p>Inconnu, Palais des Tuileries</p>
-    </object>
-    <object xml:id="PalaisValmaranaVicence">
-      <p>AndreaPalladio, Palais Valmarana à Vicence</p>
-    </object>
-    <object xml:id="PalaisDuTeMantoue">
-      <p>GiulioRomano, Palais du Té</p>
-    </object>
-    <object xml:id="PalazzoBranconioAquilaRome">
-      <p>Inconnu, Palazzo Branconio dell'Aquila</p>
-    </object>
-    <object xml:id="PalazzoPandolfiniFlorence">
-      <p>Inconnu, Palazzo Pandolfini</p>
-    </object>
-    <object xml:id="PalazzoVecchioFlorence">
-      <p>Inconnu, Palazzo Vecchio</p>
-    </object>
-    <object xml:id="PantheonRome">
-      <p>Inconnu, Panthéon</p>
-    </object>
-    <object xml:id="ParmesanPierreJeanMalades">
-      <p>Parmigianino, Saint Pierre et saint Jean guérissent les malades à la porte du temple</p>
-    </object>
-    <object xml:id="PavementDuomoSienne">
-      <p>DomenicoBeccafumi, Pavement intérieur du Duomo de Sienne</p>
-    </object>
-    <object xml:id="PerugiaSanSevero">
-      <p>Inconnu, Chapelle Saint Severe</p>
-    </object>
-    <object xml:id="PeruginRaphaelTrinita">
-      <p>Perugin, La Trinité et six saints</p>
-    </object>
-    <object xml:id="PhareAlexandrie">
-      <p>Inconnu, Phare d'Alexandrie</p>
-    </object>
-    <object xml:id="PietroBuonaccorsiTapisserieDiane">
-      <p>PietroBuonaccorsi, Tapisserie des sept planètes</p>
-    </object>
-    <object xml:id="PinturicchioAppartementsBorgia">
-      <p>Pinturicchio, Peintures des apparetements Borgia</p>
-    </object>
-    <object xml:id="PinturicchioViePieII">
-      <p>Pinturicchio, Scènes de la Vie de Pie II</p>
-    </object>
-    <object xml:id="PinturicchioVueVilleBelvedere">
-      <p>Pinturicchio, Vues de villes italiennes</p>
-    </object>
-    <object xml:id="PolidoroDaCaravaggioArcCharlesQuint">
-      <p>Inconnu, Arcs de Triomphe en l'honneur de Charles Quint à Messine</p>
-    </object>
-    <object xml:id="PolidoroDaCaravaggioFacadesRome">
-      <p>PolidoroDaCaravaggio, Façades peintes dans la ville de Rome</p>
-    </object>
-    <object xml:id="PontormoSanLorenzo">
-      <p>Pontormo, Chœur de la basilique San Lorenzo</p>
-    </object>
-    <object xml:id="PortaLeoniVerone">
-      <p>Inconnu, Porta Leoni Verona</p>
-    </object>
-    <object xml:id="PorteViminaleRome">
-      <p>Inconnu, Porte Viminale</p>
-    </object>
-    <object xml:id="PorticoPompeoRome">
-      <p>Inconnu, Portico di Pompeo</p>
-    </object>
-    <object xml:id="PortiquePompee">
-      <p>Inconnu, Portique de Pompée</p>
-    </object>
-    <object xml:id="PortraitGiovanniGentileBelliniLouvre">
-      <p>GiovanniBellini, Portrait de Giovanni et Gentile Bellini</p>
-    </object>
-    <object xml:id="PoussinMoise">
-      <p>Inconnu, Moïse</p>
-    </object>
-    <object xml:id="PoussinMoiseDresde">
-      <p>NicolasPoussin, Moïse exposé aux eaux</p>
-    </object>
-    <object xml:id="PoussinMoiseLeNotre">
-      <p>NicolasPoussin, Moïse sauvé des eaux</p>
-    </object>
-    <object xml:id="PoussinMoiseOxford">
-      <p>NicolasPoussin, Moïse exposé sur les eaux est</p>
-    </object>
-    <object xml:id="PoussinMoisePointel">
-      <p>NicolasPoussin, Moise sauvé des eaux</p>
-    </object>
-    <object xml:id="ProcuratieVenise">
-      <p>Inconnu, Procuratie</p>
-    </object>
-    <object xml:id="ProtogeneJalisus">
-      <p>Protogene, Tableau représentant Ialyssós ou Jalisus, héros de la ville éponyme</p>
-    </object>
-    <object xml:id="RaimondiAllegoriePaix">
-      <p>MarcantonioRaimondi, Allégorie de la Paix</p>
-    </object>
-    <object xml:id="RaimondiApollonSassi">
-      <p>MarcantonioRaimondi, L'Apollon citharède de la Casa Sassi</p>
-    </object>
-    <object xml:id="RaimondiAretin">
-      <p>MarcantonioRaimondi, Portrait de Pietro Aretino</p>
-    </object>
-    <object xml:id="RaimondiAurore">
-      <p>MarcantonioRaimondi, Le Lever de l'Aurore</p>
-    </object>
-    <object xml:id="RaimondiBataille">
-      <p>MarcantonioRaimondi, Scène de bataille</p>
-    </object>
-    <object xml:id="RaimondiCene">
-      <p>MarcantonioRaimondi, La Cène</p>
-    </object>
-    <object xml:id="RaimondiChristApotres">
-      <p>MarcantonioRaimondi, Le Christ et les douze apôtres</p>
-    </object>
-    <object xml:id="RaimondiChristPaulCatherine">
-      <p>MarcantonioRaimondi, Le Christ, la Vierge et saint Jean avec saint Paul et sainte Catherine</p>
-    </object>
-    <object xml:id="RaimondiClementVII">
-      <p>MarcantonioRaimondi, Portrait de Clement VII</p>
-    </object>
-    <object xml:id="RaimondiDescenteCroix">
-      <p>MarcantonioRaimondi, Descente de croix</p>
-    </object>
-    <object xml:id="RaimondiDouzeCesars">
-      <p>MarcantonioRaimondi, Portraits en médaille des douze Césars</p>
-    </object>
-    <object xml:id="RaimondiEnlevementHelene">
-      <p>MarcantonioRaimondi, L'enlèvement d'Hélène</p>
-    </object>
-    <object xml:id="RaimondiGalatee">
-      <p>MarcantonioRaimondi, Galatée</p>
-    </object>
-    <object xml:id="RaimondiHommeBaseColonne">
-      <p>MarcantonioRaimondi, L'homme portant la base d'une colonne</p>
-    </object>
-    <object xml:id="RaimondiHommeDrapeau">
-      <p>MarcantonioRaimondi, L'homme au drapeau</p>
-    </object>
-    <object xml:id="RaimondiJugementParis">
-      <p>MarcantonioRaimondi, Le Jugement de Paris</p>
-    </object>
-    <object xml:id="RaimondiLucrece">
-      <p>MarcantonioRaimondi, Lucrèce</p>
-    </object>
-    <object xml:id="RaimondiMadeleineMarie">
-      <p>MarcantonioRaimondi, Notre Dame de l'escalier</p>
-    </object>
-    <object xml:id="RaimondiMariesPleurantChristMort">
-      <p>MarcantonioRaimondi, Les Maries pleurant le Christ mort</p>
-    </object>
-    <object xml:id="RaimondiMartyreCecile">
-      <p>MarcantonioRaimondi, Martyre de Sainte Cecile</p>
-    </object>
-    <object xml:id="RaimondiMartyreSaintLaurent">
-      <p>MarcantonioRaimondi, Martyre de Saint Laurent</p>
-    </object>
-    <object xml:id="RaimondiMassacreInnocents">
-      <p>MarcantonioRaimondi, Massacre des Innocents</p>
-    </object>
-    <object xml:id="RaimondiNeptune">
-      <p>MarcantonioRaimondi, Neptune</p>
-    </object>
-    <object xml:id="RaimondiNoe">
-      <p>MarcantonioRaimondi, Dieu apparaissant à Noé</p>
-    </object>
-    <object xml:id="RaimondiParnasse">
-      <p>MarcantonioRaimondi, Parnasse</p>
-    </object>
-    <object xml:id="RaimondiPoesieSignature">
-      <p>MarcantonioRaimondi, Poésie</p>
-    </object>
-    <object xml:id="RaimondiPredicationSaintPaul">
-      <p>MarcantonioRaimondi, Predication de saint Paul</p>
-    </object>
-    <object xml:id="RaimondiReineSaba">
-      <p>MarcantonioRaimondi, La reine de Saba</p>
-    </object>
-    <object xml:id="RaimondiRepasSimon">
-      <p>MarcantonioRaimondi, Le repas chez Simon le Pharisien</p>
-    </object>
-    <object xml:id="RaimondiRomanoIModi">
-      <p>MarcantonioRaimondi, I Modi</p>
-    </object>
-    <object xml:id="RaimondiSaintJerome">
-      <p>MarcantonioRaimondi, Saint Jérôme</p>
-    </object>
-    <object xml:id="RaimondiTroisGraces">
-      <p>MarcantonioRaimondi, Les trois graces</p>
-    </object>
-    <object xml:id="RaimondiVenusAmourNiche">
-      <p>MarcantonioRaimondi, Vénus et l'amour dans une niche</p>
-    </object>
-    <object xml:id="RaimondiVertus">
-      <p>MarcantonioRaimondi, Vertus théologales et cardinales</p>
-    </object>
-    <object xml:id="RaimondiViergeFoligno">
-      <p>MarcantonioRaimondi, Vierge à l'enfant</p>
-    </object>
-    <object xml:id="RaimondiViergeLisantChaise">
-      <p>MarcantonioRaimondi, La Vierge lisant, accompagnée de l'enfant Jésus</p>
-    </object>
-    <object xml:id="RaphaelAdorationMagesOddi">
-      <p>Raphael, Adoration des Mages (Prédelle de la Pala Oddi)</p>
-    </object>
-    <object xml:id="RaphaelAgnoloDoni">
-      <p>Raphael, Portrait d'Agnolo Doni</p>
-    </object>
-    <object xml:id="RaphaelAnnonciationOddi">
-      <p>Raphael, Annonciation (Prédelle de la Pala Oddi)</p>
-    </object>
-    <object xml:id="RaphaelBaptemeConstantinVatican">
-      <p>Raphael, Baptême de Constantin</p>
-    </object>
-    <object xml:id="RaphaelBaptemeVatican">
-      <p>Raphael, Le Baptême du Christ</p>
-    </object>
-    <object xml:id="RaphaelBatailleOstie">
-      <p>Raphael, Bataille d'Ostie</p>
-    </object>
-    <object xml:id="RaphaelBelleJardiniere">
-      <p>Raphael, La Vierge à l'Enfant avec le petit saint Jean-Baptiste ou la Belle Jardinière</p>
-    </object>
-    <object xml:id="RaphaelBindoAltoviti">
-      <p>Raphael, Portrait de Bindo Altoviti</p>
-    </object>
-    <object xml:id="RaphaelCalvairePalaColonna">
-      <p>Raphael, Procession au Calvaire (Prédelle du Retable Colonna)</p>
-    </object>
-    <object xml:id="RaphaelCartonsTapisseriesApotres">
-      <p>Raphael, Cartons pour la tapisseries des actes des apôtres</p>
-    </object>
-    <object xml:id="RaphaelCeneVatican">
-      <p>Raphael, La Cène</p>
-    </object>
-    <object xml:id="RaphaelChambreHeliodore">
-      <p>Raphael, Chambre d'Heliodore</p>
-    </object>
-    <object xml:id="RaphaelChambreIncendieBorgo">
-      <p>Raphael, Chambre de l'Incendie de Borgo</p>
-    </object>
-    <object xml:id="RaphaelChambreSignature">
-      <p>Raphael, Chambre de la Signature</p>
-    </object>
-    <object xml:id="RaphaelChristJardinOliviersPalaColonna">
-      <p>Raphael, Le Christ au jardin des Oliviers (Prédelle du Retable Colonna)</p>
-    </object>
-    <object xml:id="RaphaelChuteJerichoVatican">
-      <p>Raphael, La chute des murs de Jéricho</p>
-    </object>
-    <object xml:id="RaphaelConseilDieuxFarnesina">
-      <p>Raphael, Conseil des Dieux (Loge de Psyché)</p>
-    </object>
-    <object xml:id="RaphaelConstructionArcheNoeVatican">
-      <p>Raphael, Construction de l'arche de Noé</p>
-    </object>
-    <object xml:id="RaphaelCouronnementCharlemagne">
-      <p>Raphael, Couronnement de Charlemagne</p>
-    </object>
-    <object xml:id="RaphaelCreationAnimauxVatican">
-      <p>Raphael, Dieu créant les animaux</p>
-    </object>
-    <object xml:id="RaphaelCreationEveVatican">
-      <p>Raphael, Création d'Ève</p>
-    </object>
-    <object xml:id="RaphaelDelivrancePierre">
-      <p>Raphael, La Délivrance de saint Pierre ou Saint Pierre dans sa Prison</p>
-    </object>
-    <object xml:id="RaphaelDepositionBorghese">
-      <p>Raphael, Déposition Borghèse</p>
-    </object>
-    <object xml:id="RaphaelDisputeSacrement">
-      <p>Raphael, La Dispute du saint Sacrement</p>
-    </object>
-    <object xml:id="RaphaelDonationConstantinVatican">
-      <p>Raphael, La Donation de Constantin</p>
-    </object>
-    <object xml:id="RaphaelEcoleAthenes">
-      <p>Raphael, Ecole d'Athènes</p>
-    </object>
-    <object xml:id="RaphaelEtudeOstie">
-      <p>Raphael, Etude de deux hommes nus pour la bataille d'Ostie (Stanza dell'Incendio di Borgo)</p>
-    </object>
-    <object xml:id="RaphaelEzechiel">
-      <p>Raphael, La Vision d'Ézéchiel</p>
-    </object>
-    <object xml:id="RaphaelGalatee">
-      <p>Raphael, Le triomphe de Galatée</p>
-    </object>
-    <object xml:id="RaphaelGracesFarnesina">
-      <p>Raphael, Cupidon et les grâces</p>
-    </object>
-    <object xml:id="RaphaelHeliodore">
-      <p>Raphael, Heliodore chassé du temple</p>
-    </object>
-    <object xml:id="RaphaelIncendieBorgo">
-      <p>Raphael, Incendie de Borgo</p>
-    </object>
-    <object xml:id="RaphaelIsaie">
-      <p>Raphael, Le Prophète Isaïe</p>
-    </object>
-    <object xml:id="RaphaelJGiulianoMedici">
-      <p>Raphael, Portrait de Giuliano de' Medici</p>
-    </object>
-    <object xml:id="RaphaelJardinOlivier">
-      <p>Raphael, Jardin des oliviers</p>
-    </object>
-    <object xml:id="RaphaelJosueVatican">
-      <p>Raphael, Josué arrêtant le soleil et la lune</p>
-    </object>
-    <object xml:id="RaphaelJourdainVatican">
-      <p>Raphael, Le Passage du Jourdain</p>
-    </object>
-    <object xml:id="RaphaelJulesII">
-      <p>Raphael, Portrait du pape Jules II</p>
-    </object>
-    <object xml:id="RaphaelJupiterAmourFarnesina">
-      <p>Raphael, Jupiter et l'Amour (Loge de Psyché)</p>
-    </object>
-    <object xml:id="RaphaelLaPerla">
-      <p>Raphael, La Sainte Famille dite La Perla</p>
-    </object>
-    <object xml:id="RaphaelLeonAttila">
-      <p>Raphael, La Rencontre entre Léon Ier le Grand et Attila</p>
-    </object>
-    <object xml:id="RaphaelLeonX">
-      <p>Raphael, Portrait de Leon X</p>
-    </object>
-    <object xml:id="RaphaelLogesVatican">
-      <p>Raphael, Loges vaticanes</p>
-    </object>
-    <object xml:id="RaphaelLorenzoMedici">
-      <p>Raphael, Portrait de Lorenzo de' Medici</p>
-    </object>
-    <object xml:id="RaphaelLunetteDieuPalaColonna">
-      <p>Raphael, Dieu le père bénissant entouré de deux anges (Lunette du Retable Colonna)</p>
-    </object>
-    <object xml:id="RaphaelMaddalenaDoni">
-      <p>Raphael, Portrait de Maddalena Doni</p>
-    </object>
-    <object xml:id="RaphaelMadoneAmourDivin">
-      <p>Raphael, La Madone de l'Amour divin</p>
-    </object>
-    <object xml:id="RaphaelMadoneBaldaquin">
-      <p>Raphael, Madone au baldaquin</p>
-    </object>
-    <object xml:id="RaphaelMadonnaCardellino">
-      <p>Raphael, La Vierge au chardonneret</p>
-    </object>
-    <object xml:id="RaphaelMadonnaOrleans">
-      <p>Raphael, Madone d'Orleans</p>
-    </object>
-    <object xml:id="RaphaelMadonnaPesce">
-      <p>Raphael, La Vierge au poisson</p>
-    </object>
-    <object xml:id="RaphaelMadonnaPrato">
-      <p>Raphael, La Madone à la prairie</p>
-    </object>
-    <object xml:id="RaphaelMadonneSixtine">
-      <p>Raphael, Madonne Sixtine</p>
-    </object>
-    <object xml:id="RaphaelMercureFarnesine">
-      <p>Raphael, Mercure</p>
-    </object>
-    <object xml:id="RaphaelMesseBolsena">
-      <p>Raphael, La messe de Bolsena ou le miracle du saint Sacrement de Bolsena</p>
-    </object>
-    <object xml:id="RaphaelMoiseSauveEauxVatican">
-      <p>Raphael, Moïse sauvé des eaux</p>
-    </object>
-    <object xml:id="RaphaelNativiteVatican">
-      <p>Raphael, La Nativité</p>
-    </object>
-    <object xml:id="RaphaelNocesPsycheFarnesina">
-      <p>Raphael, Noces de Psyché</p>
-    </object>
-    <object xml:id="RaphaelNouvelleOeuvre">
-      <p>Inconnu, Nouvelel oeuvre</p>
-    </object>
-    <object xml:id="RaphaelPalaAnsidei">
-      <p>Raphael, Retable Ansidei</p>
-    </object>
-    <object xml:id="RaphaelPalaColonna">
-      <p>Raphael, Retable Colonna</p>
-    </object>
-    <object xml:id="RaphaelPalaGavari">
-      <p>Raphael, Crucifixion Mond</p>
-    </object>
-    <object xml:id="RaphaelPalaOddi">
-      <p>Raphael, Retable Oddi</p>
-    </object>
-    <object xml:id="RaphaelPalaSanNicola">
-      <p>Raphael, Retable Baronci</p>
-    </object>
-    <object xml:id="RaphaelParnasse">
-      <p>Raphael, Parnasse</p>
-    </object>
-    <object xml:id="RaphaelPietaPalaColonna">
-      <p>Raphael, Lamentation sur le corps du Christ (Prédelle du retable Colonna)</p>
-    </object>
-    <object xml:id="RaphaelPortementCroix">
-      <p>Raphael, Portement de Croix</p>
-    </object>
-    <object xml:id="RaphaelPresentationTempleOddi">
-      <p>Raphael, Présentation au temple (Prédelle de la Pala Oddi)</p>
-    </object>
-    <object xml:id="RaphaelRomanoBatailleMilviusVatican">
-      <p>Raphael, Bataille du pont Milvius</p>
-    </object>
-    <object xml:id="RaphaelRomanoIsabelleRequesens">
-      <p>Raphael, Portrait d'Isabelle de Requesens</p>
-    </object>
-    <object xml:id="RaphaelSacrificeNoeVatican">
-      <p>Raphael, Sacrifice de Noé</p>
-    </object>
-    <object xml:id="RaphaelSaintJeanBaptisteFlorence">
-      <p>Raphael, Saint Jean-Baptiste</p>
-    </object>
-    <object xml:id="RaphaelSaintMichel">
-      <p>Raphael, Saint Michel</p>
-    </object>
-    <object xml:id="RaphaelSainteCecile">
-      <p>Raphael, L'Extase de sainte Cécile</p>
-    </object>
-    <object xml:id="RaphaelSainteCecileBologne">
-      <p>Raphael, L'extase de Saint Cécile</p>
-    </object>
-    <object xml:id="RaphaelSainteFamilleCanigiani">
-      <p>Raphael, Sainte Famille Canigiani</p>
-    </object>
-    <object xml:id="RaphaelSainteFamilleFrancoisIer">
-      <p>Raphael, Sainte Famille de François Ier</p>
-    </object>
-    <object xml:id="RaphaelSainteFamillePalmier">
-      <p>Raphael, La Sainte Famille au palmier</p>
-    </object>
-    <object xml:id="RaphaelSainteMargueriteLouvre">
-      <p>Raphael, Sainte Marguerite</p>
-    </object>
-    <object xml:id="RaphaelSermentLeonIII">
-      <p>Raphael, Serment de Léon III</p>
-    </object>
-    <object xml:id="RaphaelSibyllesProphetesChigi">
-      <p>Raphael, Les Sibylles et les Prophètes (Raphaël)</p>
-    </object>
-    <object xml:id="RaphaelSignatureJustice">
-      <p>Raphael, Allégorie de la Justice au plafond de la Chambre de la Signature</p>
-    </object>
-    <object xml:id="RaphaelSignaturePhilosophie">
-      <p>Raphael, Allégorie de la Philosophie au plafond de la Chambre de la Signature</p>
-    </object>
-    <object xml:id="RaphaelSignaturePoesie">
-      <p>Raphael, Allégorie de la Poésie au plafond de la Chambre de la Signature</p>
-    </object>
-    <object xml:id="RaphaelSignatureTheologie">
-      <p>Raphael, Allégorie de la Théologie au plafond de la Chambre de la Signature</p>
-    </object>
-    <object xml:id="RaphaelSpozalio">
-      <p>Raphael, Mariage de la Vierge</p>
-    </object>
-    <object xml:id="RaphaelStLuc">
-      <p>Raphael, Saint Luc peignant la Vierge en présence de Raphaël</p>
-    </object>
-    <object xml:id="RaphaelTapisseriesSixtine">
-      <p>Raphael, Tenture des Actes des Apôtres</p>
-    </object>
-    <object xml:id="RaphaelTransfiguration">
-      <p>Raphael, La Transfiguration</p>
-    </object>
-    <object xml:id="RaphaelVelata">
-      <p>Raphael, La Velata</p>
-    </object>
-    <object xml:id="RaphaelVenusCharFarnesina">
-      <p>Raphael, Vénus sur son char</p>
-    </object>
-    <object xml:id="RaphaelVertusVatican">
-      <p>Raphael, Les Vertus cardinales et théologales</p>
-    </object>
-    <object xml:id="RaphaelViergeEnfantErmitage">
-      <p>Raphael, La Vierge à l'Enfant et saint Joseph</p>
-    </object>
-    <object xml:id="RaphaelViergeEnfantSaintsPalaColonna">
-      <p>Raphael, Vierge à l'enfant entourée de saints (Retable Colonna)</p>
-    </object>
-    <object xml:id="RaphaelViergeFoligno">
-      <p>Raphael, Vierge de Foligno</p>
-    </object>
-    <object xml:id="RaphaelViergeImpannata">
-      <p>Raphael, Vierge de l'Impannata</p>
-    </object>
-    <object xml:id="RaphaelViergeLorette">
-      <p>Raphael, La Vierge de Lorette</p>
-    </object>
-    <object xml:id="RaphaelVisionCroixVatican">
-      <p>Raphael, La Vision de la Croix</p>
-    </object>
-    <object xml:id="RavennaBatailleCoutelas">
-      <p>MarcoDente, Bataille au coutelas</p>
-    </object>
-    <object xml:id="RembrandtJeuneFilleDulwich">
-      <p>Rembrandt, Jeune fille à la fenêtre</p>
-    </object>
-    <object xml:id="RubensAnghiari">
-      <p>PeterPaulRubens, Bataille d'Anghiari</p>
-    </object>
-    <object xml:id="RubensCycleMedicisLuxembourg">
-      <p>PeterPaulRubens, Cycle de Marie de Médicis</p>
-    </object>
-    <object xml:id="RubensNaissanceLouisXIII">
-      <p>PeterPaulRubens, Naissance de Louis XIII à Fontainebleau le 27 septembre 1601</p>
-    </object>
-    <object xml:id="SagrestiaNuovaFlorence">
-      <p>MichelAnge, La Sagrestia Nuova</p>
-    </object>
-    <object xml:id="SaintGermainLAuxerroisParis">
-      <p>Inconnu, Saint Germain L'Auxerrois</p>
-    </object>
-    <object xml:id="SaintLucEtMartineRome">
-      <p>PierreDeCortone, Eglise de Saint-Luc-et-Martine</p>
-    </object>
-    <object xml:id="SaintThomasPavie">
-      <p>Inconnu, Eglise de Saint-Thomas de Pavie</p>
-    </object>
-    <object xml:id="SainteMariePaixRome">
-      <p>Bramante, Église Sainte-Marie-de-la-Paix</p>
-    </object>
-    <object xml:id="SalaClementinaVatican">
-      <p>Inconnu, Salle Clémentine (Vatican)</p>
-    </object>
-    <object xml:id="Salle500Florence">
-      <p>Inconnu, Salle des Cinq-Cents, Palazzo Vecchio</p>
-    </object>
-    <object xml:id="ChambreConstantinVatican">
-      <p>Raphael, Salle de Constantin</p>
-    </object>
-    <object xml:id="SallePalfreniersVatican">
-      <p>Inconnu, Salle des Palefreniers</p>
-    </object>
-    <object xml:id="SanDomenicoMaggioreNaples">
-      <p>Inconnu, Église San Domenico Maggiore</p>
-    </object>
-    <object xml:id="SanFrancescoGrandeMilan">
-      <p>Inconnu, Eglise Saint-François-Majeur à Milan</p>
-    </object>
-    <object xml:id="SanLorenzoFlorence">
-      <p>Inconnu, Duomo San Lorenzo</p>
-    </object>
-    <object xml:id="SanPietroMontorioRome">
-      <p>Inconnu, Eglise San Pietro in Montorio</p>
-    </object>
-    <object xml:id="SantApolloniaFlorence">
-      <p>Inconnu, Monastère de Sant'Apollonia</p>
-    </object>
-    <object xml:id="SantaMariaDegliAngeliMartiriRome">
-      <p>LuigiVanvitelli, Basilique Santa Maria Degli Angeli Martiri</p>
-    </object>
-    <object xml:id="SantaMariaDellAnimaRome">
-      <p>Inconnu, Église Santa Maria dell'Anima</p>
-    </object>
-    <object xml:id="SantaMariaDellaCaritaVenise">
-      <p>Inconnu, Santa Maria della Carita Venise</p>
-    </object>
-    <object xml:id="SantaMariaGrazieMilan">
-      <p>Inconnu, Église Santa Maria delle Grazie (Milan)</p>
-    </object>
-    <object xml:id="SantaMariaMaggioreRome">
-      <p>FerdinandoFuga, Basilique Santa Maria Maggiore</p>
-    </object>
-    <object xml:id="SantaMariaVallicelliRome">
-      <p>MatteoBartolini, Église nouvelle, Santa Maria in Vallice</p>
-    </object>
-    <object xml:id="SantuarioMariaDellaRotondaRome">
-      <p>Inconnu, Santuario di Santa Maria della Rotonda</p>
-    </object>
-    <object xml:id="SebastianoDelPiomboLazare">
-      <p>SebastianoDelPiombo, La Résurrection de Lazare</p>
-    </object>
-    <object xml:id="SebastianoDelPiomboVisitation">
-      <p>SebastianoDelPiombo, La Visitation</p>
-    </object>
-    <object xml:id="SepulcreSaintDominique">
-      <p>NicolaPisano, Sépulcre de saint Dominique</p>
-    </object>
-    <object xml:id="SignorelliChapelleSanBrizio">
-      <p>LucaSignorelli, Chapelle San Brizio, jugement dernier</p>
-    </object>
-    <object xml:id="SimoneMartiniLaureSade">
-      <p>SimoneMemmi, Portrait de La belle Laure</p>
-    </object>
-    <object xml:id="SphinxGizeh">
-      <p>Inconnu, Sphinx de Gizeh</p>
-    </object>
-    <object xml:id="StanzeVatican">
-      <p>Inconnu, Chambres de Raphaël au Vatican</p>
-    </object>
-    <object xml:id="SuaireTurin">
-      <p>Inconnu, Suaire de Turin</p>
-    </object>
-    <object xml:id="TafiDiRicoChristFlorence">
-      <p>AndreaTafiDiRico, Le Christ Pantocrator au plafond du baptistère Saint-Jean-Baptiste de Florence</p>
-    </object>
-    <object xml:id="TempleArtemisEphese">
-      <p>Inconnu, Temple d'Artémis à</p>
-    </object>
-    <object xml:id="TempleAugusteRome">
-      <p>Inconnu, Temple d'Auguste</p>
-    </object>
-    <object xml:id="TempleDeSaturneRome">
-      <p>Inconnu, Temple de Saturne</p>
-    </object>
-    <object xml:id="TempleDesDioscuresRome">
-      <p>Inconnu, Temple des Dioscures</p>
-    </object>
-    <object xml:id="TemplePietasRome">
-      <p>Inconnu, Temple de Pietas Rome</p>
-    </object>
-    <object xml:id="TempleRomulusRome">
-      <p>Inconnu, Temple de Romulus</p>
-    </object>
-    <object xml:id="TempleSalomonJerusalem">
-      <p>Inconnu, Temple de Salomon à Jérusalem</p>
-    </object>
-    <object xml:id="TempleVestaTivoli">
-      <p>Inconnu, Temple de Vesta</p>
-    </object>
-    <object xml:id="TentureChassesMaximilien">
-      <p>BernaertVanOrley, Tenture des Chasses de Maximilien</p>
-    </object>
-    <object xml:id="TheatreBergaVicence">
-      <p>Inconnu, Theatre Berga</p>
-    </object>
-    <object xml:id="TheatreMarcellusRome">
-      <p>Inconnu, Théatre de Marcellus</p>
-    </object>
-    <object xml:id="TheatreRomainGubbio">
-      <p>Inconnu, Theatre Romain de Gubbio</p>
-    </object>
-    <object xml:id="TheatreRomainVerone">
-      <p>Inconnu, Théatre Romain de Vérone</p>
-    </object>
-    <object xml:id="ThermesDiocletienRome">
-      <p>Inconnu, Thermes de Dioclétien</p>
-    </object>
-    <object xml:id="ThermesTitusRome">
-      <p>Inconnu, Thermes De Titus</p>
-    </object>
-    <object xml:id="TibreLouvre">
-      <p>Inconnu, Statue du Tibre avec Romulus et Rémus</p>
-    </object>
-    <object xml:id="TimantheCyclope">
-      <p>Timanthe, Le cyclope dormant</p>
-    </object>
-    <object xml:id="TimantheSacrificeIphigenie">
-      <p>Timanthe, Le Sacrifice d'Iphigénie</p>
-    </object>
-    <object xml:id="TintoretCrucifixionSanRocco">
-      <p>JacopoTintoretto, La Crucifixion</p>
-    </object>
-    <object xml:id="TitienAlphonseIEsteBemberg">
-      <p>Titien, Portrait d'Alphonse I d'Este</p>
-    </object>
-    <object xml:id="TitienAnnoncitationSanSalvador">
-      <p>Titien, L'Annonciation</p>
-    </object>
-    <object xml:id="TitienBacchanaleAndriens">
-      <p>Titien, La Bacchanale des Andriens</p>
-    </object>
-    <object xml:id="TitienBacchusAriane">
-      <p>Titien, Bacchus et Ariane</p>
-    </object>
-    <object xml:id="TitienCharlesVChienPrado">
-      <p>Titien, Portrait de Charles Quint avec un chien</p>
-    </object>
-    <object xml:id="TitienCharlesVMunich">
-      <p>Titien, Portrait de Charles V</p>
-    </object>
-    <object xml:id="TitienCopieBacchanale">
-      <p>Inconnu, Bacchanale copiée d'après Titien, collection de Roger de Piles</p>
-    </object>
-    <object xml:id="TitienEquestreCharlesVPrado">
-      <p>Titien, Portrait équestre de Charles Quint à Mühlberg</p>
-    </object>
-    <object xml:id="TitienJusticeCaDoro">
-      <p>Titien, La Justice ou Judith</p>
-    </object>
-    <object xml:id="TitienLauraDiantiKreuzlingen">
-      <p>Titien, Portrait de Laura Dianti</p>
-    </object>
-    <object xml:id="TitienMartyreSaintLaurentVenise">
-      <p>Titien, Le Martyre de saint Laurent</p>
-    </object>
-    <object xml:id="TitienPapePaulIIIPetitsfilsNaples">
-      <p>Titien, Portrait du pape Paul III avec ses petits-fils</p>
-    </object>
-    <object xml:id="TitienRetableSanNicolo">
-      <p>Titien, Vierge à l'enfant en gloire avec six saints, dont saint Sébastien, retable de San Niccolò</p>
-    </object>
-    <object xml:id="TitienSaintAntoinePadoue">
-      <p>Titien, Histoires de la vie de Saint Antoine</p>
-    </object>
-    <object xml:id="TitienSaintJacquesMajeurSanLio">
-      <p>Titien, Retable de saint Jacques le Majeur</p>
-    </object>
-    <object xml:id="TitienSaintJeanBaptisteAccademia">
-      <p>Titien, Portrait de Saint Jean-Baptiste dans le désert</p>
-    </object>
-    <object xml:id="TitienSaintMarcSaluteVenise">
-      <p>Titien, Saint Marc en majesté</p>
-    </object>
-    <object xml:id="TitienSaintSebastien">
-      <p>Titien, Le saint Sébastien</p>
-    </object>
-    <object xml:id="TitienSaintSebastienErmitage">
-      <p>Titien, Saint Sébastien</p>
-    </object>
-    <object xml:id="TitienTransfigurationSanSalvator">
-      <p>Titien, La Transfiguration</p>
-    </object>
-    <object xml:id="TitienTriompheFoi">
-      <p>Titien, Le Triomphe de la Foi</p>
-    </object>
-    <object xml:id="TorreDelleMilizieRome">
-      <p>Inconnu, Tour des Milices</p>
-    </object>
-    <object xml:id="TourBabel">
-      <p>Inconnu, Tour de Babel</p>
-    </object>
-    <object xml:id="TriniteMontsRome">
-      <p>Inconnu, Eglise et couvent de la Trinité-des-Monts de Rome</p>
-    </object>
-    <object xml:id="TuileriesParis">
-      <p>Inconnu, Palais des Tuileries</p>
-    </object>
-    <object xml:id="VasariSepultureMichelAnge">
-      <p>GiorgioVasari, Tombeau de Michel Ange à Florence</p>
-    </object>
-    <object xml:id="VenezianoChristTroisAnges">
-      <p>AgostinoVeneziano, Christ mort soutenu par trois anges</p>
-    </object>
-    <object xml:id="VenezianoElymas">
-      <p>AgostinoVeneziano, L'aveuglement d'Élymas</p>
-    </object>
-    <object xml:id="VenezianoEvangelistesRomano">
-      <p>AgostinoVeneziano, Quatre évangélistes</p>
-    </object>
-    <object xml:id="VenezianoFerdinand">
-      <p>AgostinoVeneziano, Portrait de Ferdinand 1er</p>
-    </object>
-    <object xml:id="VenezianoLycaonJupiter">
-      <p>AgostinoVeneziano, Lycaon transformé en loup</p>
-    </object>
-    <object xml:id="VenezianoManne">
-      <p>AgostinoVeneziano, La Manne</p>
-    </object>
-    <object xml:id="VenezianoPortementCroix">
-      <p>AgostinoVeneziano, Portement de croix</p>
-    </object>
-    <object xml:id="VenezianoProvidence">
-      <p>AgostinoVeneziano, La Providence</p>
-    </object>
-    <object xml:id="VenezianoPsyche">
-      <p>AgostinoVeneziano, Histoire de Psyché (3 planches)</p>
-    </object>
-    <object xml:id="VenezianoTemperence">
-      <p>AgostinoVeneziano, La Tempérence</p>
-    </object>
-    <object xml:id="VeroneseCana">
-      <p>PaoloVeronese, Les Noces de Cana</p>
-    </object>
-    <object xml:id="VerrocchioBartolomeoColleoni">
-      <p>AlessandroLeopardi, Statue équestre du Colleone ; Bartolomeo Colleoni de Bergame</p>
-    </object>
-    <object xml:id="VerrocchioLeonardoBapteme">
-      <p>Verrocchio, Baptême du Christ</p>
-    </object>
-    <object xml:id="VesaleDeHumaniCorporisFabrica">
-      <p>AndreasVanWesel, De humani corporis fabrica</p>
-    </object>
-    <object xml:id="VestibuleBibliothequeMediceaLaurenziana">
-      <p>MichelAnge, Vestibule de la Bibliothèque Medicea Laurenziana Florence</p>
-    </object>
-    <object xml:id="VicoVulcainFleches">
-      <p>EneaVico, Vulcain et les Cyclopes forgent les flèches pour les Amours</p>
-    </object>
-    <object xml:id="ViergeAuxBalancesLouvre">
-      <p>Inconnu, Vierge aux Balances</p>
-    </object>
-    <object xml:id="VigneAldobrandine">
-      <p>Inconnu, Les Noces Aldobrandines</p>
-    </object>
-    <object xml:id="VillaAlmericoCapraVicence">
-      <p>AndreaPalladio, Villa Almerico Capra La Rotonda à Vicence</p>
-    </object>
-    <object xml:id="VillaAngaranoBassanoDelGrappa">
-      <p>AndreaPalladio, Villa Angarano à Bassano del Grappa</p>
-    </object>
-    <object xml:id="VillaBadoerFrattaPolesine">
-      <p>AndreaPalladio, Villa Badoer à Fratta Polesine</p>
-    </object>
-    <object xml:id="VillaBarbaroMaser">
-      <p>AndreaPalladio, Villa Barbaro à Maser</p>
-    </object>
-    <object xml:id="VillaCornaroPiombinoDese">
-      <p>AndreaPalladio, Villa Cornaro à Piombino Dese</p>
-    </object>
-    <object xml:id="VillaEmoFanzolo">
-      <p>AndreaPalladio, Villa Emo</p>
-    </object>
-    <object xml:id="VillaFarnesineRome">
-      <p>BaldassarrePeruzzi, La villa Farnesina anciennement appelée Palais Chigi</p>
-    </object>
-    <object xml:id="VillaFoscariMira">
-      <p>AndreaPalladio, Villa Foscari Malcontenta à Mira</p>
-    </object>
-    <object xml:id="VillaGodiLugo">
-      <p>AndreaPalladio, Villa Godi à Lugo de Vicence</p>
-    </object>
-    <object xml:id="VillaMadamaRome">
-      <p>Raphael, Villa Madame aussi appelée Vigne Madame</p>
-    </object>
-    <object xml:id="VillaMocenigoMarocco">
-      <p>AndreaPalladio, Villa Mocenigo à Marocco</p>
-    </object>
-    <object xml:id="VillaPisaniBagnolo">
-      <p>AndreaPalladio, Villa Pisani à Bagnolo</p>
-    </object>
-    <object xml:id="VillaPisaniMontagnana">
-      <p>AndreaPalladio, Villa Pisani à Montagnana</p>
-    </object>
-    <object xml:id="VillaPojana">
-      <p>AndreaPalladio, Villa à Pojana Maggiore</p>
-    </object>
-    <object xml:id="VillaRepetaCampigliaDeiBerici">
-      <p>AndreaPalladio, Villa Repeta à Campiglia dei Berici</p>
-    </object>
-    <object xml:id="VillaSaracenoAgugliaro">
-      <p>AndreaPalladio, Villa Saraceno à Agugliaro</p>
-    </object>
-    <object xml:id="VillaSeregoPedemonte">
-      <p>AndreaPalladio, Villa Serego à Pedemonte</p>
-    </object>
-    <object xml:id="VillaThieneQuintoVicentino">
-      <p>AndreaPalladio, Villa Thiene à Quinto Vicentino</p>
-    </object>
-    <object xml:id="VillaThieneVillafrancaPadovana">
-      <p>AndreaPalladio, Villa Thiene à Villafranca Padovana</p>
-    </object>
-    <object xml:id="VillaTrissinoSarego">
-      <p>AndreaPalladio, Villa Trissino à Sarego</p>
-    </object>
-    <object xml:id="VillaValmaranaLisiera">
-      <p>AndreaPalladio, Villa Valmarana</p>
-    </object>
-    <object xml:id="VillaZenoCessalto">
-      <p>AndreaPalladio, Villa Zeno à Cessalto</p>
-    </object>
-    <object xml:id="VilladelPrincipeGenes">
-      <p>Inconnu, Villa del Principe ou palazzo di Andrea Doria</p>
-    </object>
-    <object xml:id="ZeuxisCentaure">
-      <p>Zeuxis, La famille d'un centaure</p>
-    </object>
-    <object xml:id="ZeuxisGarconRaisin">
-      <p>Zeuxis, Garçon portant une corbeille de raisins</p>
-    </object>
-    <object xml:id="ZeuxisHeleneNue">
-      <p>Zeuxis, Hélène nue</p>
-    </object>
-    <object xml:id="ZeuxisVielleFemme">
-      <p>Zeuxis, Portrait d'une vieille</p>
-    </object>
-    <object xml:id="ZuccariCardinaleBorromeo">
-      <p>FedericoZuccaro, Imposizione del cappello cardinalizio a Carlo Borromeo</p>
-    </object>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <listObject>
+    <object xml:id="AbbayeDeChiaravalle" source="https://www.wikidata.org/wiki/Q860569" />
+    <object xml:id="AbbayeDePortRoyalParis" source="https://www.wikidata.org/wiki/Q2820659" />
+    <object xml:id="AbrahamJanszVanDiepenbeeckTempleDesMuses" />
+    <object xml:id="AbsideSanSigismondoBoccaccino" />
+    <object xml:id="AcropoleAlatri" source="https://www.wikidata.org/wiki/Q3604769" />
+    <object xml:id="AcropoleAthenes" source="https://www.wikidata.org/wiki/Q131013" />
+    <object xml:id="AdriaenCollaertMaertenDeVosVieChrist" />
+    <object xml:id="AdrienDeCroyCathedraleSaintBavonGand" source="https://www.wikidata.org/wiki/Q938154" />
+    <object xml:id="AegidiusSadelerPeterCandidQuatreDocteursEglise" />
+    <object xml:id="AgnoloGaddiGiottoCampanileSantaMariaDelFioreFlorence" source="https://www.wikidata.org/wiki/Q1140023" />
+    <object xml:id="AgostinoVenezianoChristTroisAnges" />
+    <object xml:id="AgostinoVenezianoEcoleAthenes" />
+    <object xml:id="AgostinoVenezianoEvangelistesRomano" />
+    <object xml:id="AgostinoVenezianoHistoireDePsyche" />
+    <object xml:id="AgostinoVenezianoManne" />
+    <object xml:id="AgostinoVenezianoPortementCroix" />
+    <object xml:id="AgostinoVenezianoPortraitCharlesQuintEnArmure" />
+    <object xml:id="AgostinoVenezianoPortraitCharlesQuintVieux" />
+    <object xml:id="AgostinoVenezianoPortraitFerdinandIer" />
+    <object xml:id="AgostinoVenezianoRaphaelAveuglementElymas" />
+    <object xml:id="AgostinoVenezianoRaphaelLycaonJupiter" />
+    <object xml:id="AgostinoVenezianoRaphaelMortDAnanias" />
+    <object xml:id="AgostinoVenezianoRaphaelProvidence" />
+    <object xml:id="AgostinoVenezianoRaphaelTemperence" />
+    <object xml:id="AlbrechtDurerAdamEtEve" source="https://www.wikidata.org/wiki/Q3898508" />
+    <object xml:id="AlbrechtDurerDecollationSaintJeanBaptiste" />
+    <object xml:id="AlbrechtDurerFeteDuRosairePrague" source="https://www.wikidata.org/wiki/Q1170194" />
+    <object xml:id="AlbrechtDurerGrandePassionBois" source="https://www.wikidata.org/wiki/Q127736" />
+    <object xml:id="AlbrechtDurerGrandePassionBoisCene" />
+    <object xml:id="AlbrechtDurerHansBurgkmairProcessionTriomphaleMaximilien" source="https://www.wikidata.org/wiki/Q1797620" />
+    <object xml:id="AlbrechtDurerMelencolia" source="https://www.wikidata.org/wiki/Q1362177" />
+    <object xml:id="AlbrechtDurerNativite" />
+    <object xml:id="AlbrechtDurerPassion" source="https://www.wikidata.org/wiki/Q3377374" />
+    <object xml:id="AlbrechtDurerPassionCuivre" />
+    <object xml:id="AlbrechtDurerSaintEustache" source="https://www.wikidata.org/wiki/Q3948861" />
+    <object xml:id="AlbrechtDurerSaintJeromeEtude" source="https://www.wikidata.org/wiki/Q1198912" />
+    <object xml:id="AlbrechtDurerTriompheMaximilienI" source="https://www.wikidata.org/wiki/Q1300406" />
+    <object xml:id="AlbrechtDurerTroisGracesOuQuatreSorcieres" source="https://www.wikidata.org/wiki/Q7735048" />
+    <object xml:id="AlbrechtDurerVieDeLaVierge" source="https://www.wikidata.org/wiki/Q4014884" />
+    <object xml:id="AlbrechtDurerViergeSinge" source="https://www.wikidata.org/wiki/Q18338506" />
+    <object xml:id="AlessandroAlloriMonastereSantAgataFlorence" source="https://www.wikidata.org/wiki/Q3672246" />
+    <object xml:id="AllegorieArno" />
+    <object xml:id="AlmoCollegioBorromeoPavie" source="https://www.wikidata.org/wiki/Q2644227" />
+    <object xml:id="AmphitheatreCapoue" source="https://www.wikidata.org/wiki/Q474970" />
+    <object xml:id="AmphitheatrePula" source="https://www.wikidata.org/wiki/Q474998" />
+    <object xml:id="AncienTempleAthenaPoliasAthenes" source="https://www.wikidata.org/wiki/Q683988" />
+    <object xml:id="AndreaAndreaniTriompheGraveMET" />
+    <object xml:id="AndreaBregnoGiovanninoDeDolciBasiliqueSantaMariaDelPopoloRome" source="https://www.wikidata.org/wiki/Q869513" />
+    <object xml:id="AndreaCalamechEgliseSanNiccoloDeiGentiluominiMessine" />
+    <object xml:id="AndreaDelCastagnoExecutionConjures" />
+    <object xml:id="AndreaDelCastagnoMonumentEquestreNiccoloDaTolentinoSantaMariaDelFiore" source="https://www.wikidata.org/wiki/Q3862683" />
+    <object xml:id="AndreaDelSartoCloitreScalzoFlorence" source="https://www.wikidata.org/wiki/Q2979780" />
+    <object xml:id="AndreaDelSartoLeonXCapodimonte" />
+    <object xml:id="AndreaDelSartoSaintJerome" />
+    <object xml:id="AndreaDelSartoSebastien" />
+    <object xml:id="AndreaDelSartoViergeHarpiesOfficesFlorence" source="https://www.wikidata.org/wiki/Q1235695" />
+    <object xml:id="AndreaMantegnaBacchanaleAvecSilene" source="https://www.wikidata.org/wiki/Q3632481" />
+    <object xml:id="AndreaMantegnaBacchanales" source="https://www.wikidata.org/wiki/Q3632482" />
+    <object xml:id="AndreaMantegnaChapelleBelvedereVatican" />
+    <object xml:id="AndreaMantegnaChapelleOvetariEgliseDesEremitiquesPadoue" source="https://www.wikidata.org/wiki/Q3087562" />
+    <object xml:id="AndreaMantegnaChristSaintAndreSaintLongin" source="https://www.wikidata.org/wiki/Q56305286" />
+    <object xml:id="AndreaMantegnaCombatDeDieuxMarins" source="https://www.wikidata.org/wiki/Q4024963" />
+    <object xml:id="AndreaMantegnaCombatDieuxMarins" source="https://www.wikidata.org/wiki/Q4024963" />
+    <object xml:id="AndreaMantegnaDapDescenteCroix" />
+    <object xml:id="AndreaMantegnaGianMarcoCavalliMiseAuTombeauQuatreOiseaux" />
+    <object xml:id="AndreaMantegnaMiseAuTombeauLargeur" source="https://www.wikidata.org/wiki/Q56305283" />
+    <object xml:id="AndreaMantegnaRetableSainteSophiePadoue" />
+    <object xml:id="AndreaMantegnaTriompheCesarRoyalCollectionHamptonCourtPalaceLondres" source="https://www.wikidata.org/wiki/Q385499" />
+    <object xml:id="AndreaPalladioBaldassarreLonghenaVillaAngaranoBassanoDelGrappa" source="https://www.wikidata.org/wiki/Q2299483" />
+    <object xml:id="AndreaPalladioBasiliquePalladienneVicence" source="https://www.wikidata.org/wiki/Q284719" />
+    <object xml:id="AndreaPalladioGiulioRomanoPalaisThieneVicence" source="https://www.wikidata.org/wiki/Q898904" />
+    <object xml:id="AndreaPalladioMartinoFischerPalaisAntoniniUdine" source="https://www.wikidata.org/wiki/Q1405208" />
+    <object xml:id="AndreaPalladioPalaisBarbaranDaPortoVicence" source="https://www.wikidata.org/wiki/Q925271" />
+    <object xml:id="AndreaPalladioPalaisChiericatiVicence" source="https://www.wikidata.org/wiki/Q729773" />
+    <object xml:id="AndreaPalladioPalaisPortoVicence" source="https://www.wikidata.org/wiki/Q2288502" />
+    <object xml:id="AndreaPalladioPalaisValmaranaVicence" source="https://www.wikidata.org/wiki/Q2298628" />
+    <object xml:id="AndreaPalladioPontRialtoVenise" />
+    <object xml:id="AndreaPalladioPonteVecchioBassanoDelGrappa" source="https://www.wikidata.org/wiki/Q608492" />
+    <object xml:id="AndreaPalladioVillaBadoerFrattaPolesine" source="https://www.wikidata.org/wiki/Q2031664" />
+    <object xml:id="AndreaPalladioVillaBarbaroMaser" source="https://www.wikidata.org/wiki/Q1071495" />
+    <object xml:id="AndreaPalladioVillaCornaroPiombinoDese" source="https://www.wikidata.org/wiki/Q2698156" />
+    <object xml:id="AndreaPalladioVillaEmoFanzolo" source="https://www.wikidata.org/wiki/Q1258865" />
+    <object xml:id="AndreaPalladioVillaFoscariMira" source="https://www.wikidata.org/wiki/Q1139609" />
+    <object xml:id="AndreaPalladioVillaGodiLugo" source="https://www.wikidata.org/wiki/Q2084394" />
+    <object xml:id="AndreaPalladioVillaMocenigoMarocco" source="https://www.wikidata.org/wiki/Q4012322" />
+    <object xml:id="AndreaPalladioVillaPisaniBagnolo" source="https://www.wikidata.org/wiki/Q514069" />
+    <object xml:id="AndreaPalladioVillaPisaniMontagnana" source="https://www.wikidata.org/wiki/Q2705507" />
+    <object xml:id="AndreaPalladioVillaPojanaMaggiore" source="https://www.wikidata.org/wiki/Q2688899" />
+    <object xml:id="AndreaPalladioVillaRagonaMontegaldella" />
+    <object xml:id="AndreaPalladioVillaRepetaCampigliaDeiBerici" source="https://www.wikidata.org/wiki/Q3558719" />
+    <object xml:id="AndreaPalladioVillaSaracenoAgugliaro" source="https://www.wikidata.org/wiki/Q387517" />
+    <object xml:id="AndreaPalladioVillaSaregoLaMigaVeronella" />
+    <object xml:id="AndreaPalladioVillaSeregoPedemonte" source="https://www.wikidata.org/wiki/Q2299393" />
+    <object xml:id="AndreaPalladioVillaThieneQuintoVicentino" source="https://www.wikidata.org/wiki/Q2115058" />
+    <object xml:id="AndreaPalladioVillaThieneVillafrancaPadovana" source="https://www.wikidata.org/wiki/Q2884298" />
+    <object xml:id="AndreaPalladioVillaTrissinoSarego" source="https://www.wikidata.org/wiki/Q2546376" />
+    <object xml:id="AndreaPalladioVillaValmaranaLisiera" source="https://www.wikidata.org/wiki/Q2721458" />
+    <object xml:id="AndreaPalladioVillaZenoCessalto" source="https://www.wikidata.org/wiki/Q2271810" />
+    <object xml:id="AndreaPalladioVincenzoScamozziVillaAlmericoCapraVicence" source="https://www.wikidata.org/wiki/Q505574" />
+    <object xml:id="AndreaTafiDiRicoChristPantocratorBaptistereFlorence" />
+    <object xml:id="AndreaVerrocchioAlessandroLeopardiStatueBartolomeoColleoniCampoDeiSantiGiovanniEPaoloVenise" />
+    <object xml:id="AndreaVerrocchioLeonardoDaVinciBaptemeChristOfficesFlorence" source="https://www.wikidata.org/wiki/Q1059211" />
+    <object xml:id="AndreasVanWeselDeHumaniCorporisFabrica" source="https://www.wikidata.org/wiki/Q1233009" />
+    <object xml:id="AnonymeEneeAnchise" />
+    <object xml:id="AnonymeGianoBifronteVatican" source="https://www.wikidata.org/wiki/Q167685" />
+    <object xml:id="AnonymeHelene" />
+    <object xml:id="AnonymeRaphaelDieuCreantAnimaux" />
+    <object xml:id="AnonymeRaphaelSibylleEnfant" />
+    <object xml:id="AnonymeTitienTriompheChrist" />
+    <object xml:id="AnonymeViergeAuxBalancesLouvre" source="https://www.wikidata.org/wiki/Q18565884" />
+    <object xml:id="AnthonisMorVanDashorstChristPierrePaulChantilly" source="https://www.wikidata.org/wiki/Q64900288" />
+    <object xml:id="AnthonisMorVanDashorstPortraitJanVanScorelBurlingtonHouse" source="https://www.wikidata.org/wiki/Q118875484" />
+    <object xml:id="AntoineCoysevoxSepultureCharlesLeBrunSaintNicolasDuChardonnet" />
+    <object xml:id="AntonioAbbondiEgliseSanSebastianoVenise" source="https://www.wikidata.org/wiki/Q588559" />
+    <object xml:id="AntonioAbbondiPietroBonSanteLombardoScuolaGrandeSanRoccoVenise" source="https://www.wikidata.org/wiki/Q1270723" />
+    <object xml:id="AntonioDaSangalloIlGiovaneBernardoBuontalentiArnolfoDiCambioMursDeFlorence" source="https://www.wikidata.org/wiki/Q1080815" />
+    <object xml:id="AntonioDaSangalloIlGiovaneCastelSantAngeloRome" source="https://www.wikidata.org/wiki/Q486382" />
+    <object xml:id="AntonioDaTrentoMartyrePierrePaul" />
+    <object xml:id="AntonioDaTrentoParmigianinoViergeOvale" />
+    <object xml:id="AntonioDaTrentoSibylle" />
+    <object xml:id="AntonioNuvoloneEgliseSanFrancescoGrandeMilan" source="https://www.wikidata.org/wiki/Q18223420" />
+    <object xml:id="ApelleAlexandreLeGrand" />
+    <object xml:id="ApelleCalomnie" source="https://www.wikidata.org/wiki/Q58370982" />
+    <object xml:id="ApelleCampaspe" />
+    <object xml:id="ApelleCythere" />
+    <object xml:id="ApelleLaprocessionDeMegabizoEphese" />
+    <object xml:id="ApelleVenusAnadyomene" source="https://www.wikidata.org/wiki/Q483760" />
+    <object xml:id="ApollodoreDeDamasPontDeTrajanDanube" source="https://www.wikidata.org/wiki/Q849786" />
+    <object xml:id="ApollonBelvedereVatican" source="https://www.wikidata.org/wiki/Q619135" />
+    <object xml:id="ApollonioDeAteneTorseBelvedereVatican" source="https://www.wikidata.org/wiki/Q2551806" />
+    <object xml:id="ArcAugusteSuse" source="https://www.wikidata.org/wiki/Q1892101" />
+    <object xml:id="ArcCostantinRome" source="https://www.wikidata.org/wiki/Q5786" />
+    <object xml:id="ArcDeTriompheDeMaximilienDurer" source="https://www.wikidata.org/wiki/Q1300406" />
+    <object xml:id="ArcDesGaviVerone" source="https://www.wikidata.org/wiki/Q1153879" />
+    <object xml:id="ArcMalventuratoRome" />
+    <object xml:id="ArcSeptimeSevereRome" source="https://www.wikidata.org/wiki/Q162353" />
+    <object xml:id="ArcSergiusPula" source="https://www.wikidata.org/wiki/Q952381" />
+    <object xml:id="ArcTitusRome" source="https://www.wikidata.org/wiki/Q723887" />
+    <object xml:id="ArcTrajanAncone" source="https://www.wikidata.org/wiki/Q1509102" />
+    <object xml:id="ArcheAlliance" source="https://www.wikidata.org/wiki/Q131316" />
+    <object xml:id="ArenaVerone" source="https://www.wikidata.org/wiki/Q641556" />
+    <object xml:id="ArianeEndormieVatican" source="https://www.wikidata.org/wiki/Q7539835" />
+    <object xml:id="ArnolfoDiCambioBasiliqueSantaCroceFlorence" source="https://www.wikidata.org/wiki/Q51177" />
+    <object xml:id="ArnolfoDiCambioPalazzoVecchioFlorence" source="https://www.wikidata.org/wiki/Q271928" />
+    <object xml:id="ArnolfoDiCambioTourArnolfo" />
+    <object xml:id="ArtemisEfesia" source="https://www.wikidata.org/wiki/Q50307591" />
+    <object xml:id="AthenaGiustinianiVatican" source="https://www.wikidata.org/wiki/Q4813374" />
+    <object xml:id="AurelioLuiniFacadeMisericordia" />
+    <object xml:id="AurelioTrezziEgliseSantaMariaAnnunciataCamposantoMilan" source="https://www.wikidata.org/wiki/Q16600273" />
+    <object xml:id="AutelDomeDeMilan" />
+    <object xml:id="BacchusSansovino" source="https://www.wikidata.org/wiki/Q3632505" />
+    <object xml:id="BaccioBandinelliHerculeEtCacus" source="https://www.wikidata.org/wiki/Q3731230" />
+    <object xml:id="BaccioBandinelliLaocoonOfficesFlorence" />
+    <object xml:id="BaccioBandinelliOrpheePalazzoMediciRiccardiFlorence" />
+    <object xml:id="BaccioDAgnoloPalaisBartoliniSalimbeniFlorence" source="https://www.wikidata.org/wiki/Q896608" />
+    <object xml:id="BaccioPontelliBasiliqueSaintAugustinRome" source="https://www.wikidata.org/wiki/Q1424095" />
+    <object xml:id="BaccioPontelliEgliseSanPietroInMontorio" source="https://www.wikidata.org/wiki/Q1258576" />
+    <object xml:id="BaccioPontelliPalaisChancellerieRome" source="https://www.wikidata.org/wiki/Q2031943" />
+    <object xml:id="BadiaFiesolana" source="https://www.wikidata.org/wiki/Q3632776" />
+    <object xml:id="BaldassarreLonghenaBasiliqueSantaMariaDellaSaluteVenise" source="https://www.wikidata.org/wiki/Q52531" />
+    <object xml:id="BaldassarreLonghenaVincenzoScamozziJacopoSansovinoProcuratiesVenise" source="https://www.wikidata.org/wiki/Q162796" />
+    <object xml:id="BaldassarrePeruzziVillaFarnesineRome" source="https://www.wikidata.org/wiki/Q1126723" />
+    <object xml:id="BaptistereDuLatranRome" source="https://www.wikidata.org/wiki/Q2519438" />
+    <object xml:id="BaptistereSaintJeanFlorence" source="https://www.wikidata.org/wiki/Q732511" />
+    <object xml:id="BartholomaeusSprangerJugementDernierGalleriaSabauda" />
+    <object xml:id="BartoliAllegorieCycleVie" />
+    <object xml:id="BartolomeoAmmannatiFontaineNeptuneFlorence" source="https://www.wikidata.org/wiki/Q645374" />
+    <object xml:id="BartolomeoAmmannatiTombeauDelMonteSanPietroInMontorioRome" />
+    <object xml:id="BartolomeoAmmannatiTombeauMarioNariBargello" />
+    <object xml:id="BartolomeoBonoEgliseSantaMariaDellaCaritaVenise" source="https://www.wikidata.org/wiki/Q2929873" />
+    <object xml:id="BartolomeoGadioEgliseSanSigismondoCremona" source="https://www.wikidata.org/wiki/Q3672044" />
+    <object xml:id="BartolomeoRizzoFraGiovanniDegliEremitaniPalaisDellaRagionePadoue" source="https://www.wikidata.org/wiki/Q2517428" />
+    <object xml:id="BasiliqueAemiliaRome" source="https://www.wikidata.org/wiki/Q522924" />
+    <object xml:id="BasiliqueDeMaxenxeConstantinRome" source="https://www.wikidata.org/wiki/Q1438" />
+    <object xml:id="BasiliquePorciaRome" source="https://www.wikidata.org/wiki/Q810068" />
+    <object xml:id="BasiliqueSaintDenis" source="https://www.wikidata.org/wiki/Q184407" />
+    <object xml:id="BasiliqueSaintMarcVenise" source="https://www.wikidata.org/wiki/Q172988" />
+    <object xml:id="BasiliqueSaintPaulHorsLesMursRome" source="https://www.wikidata.org/wiki/Q231699" />
+    <object xml:id="BasiliqueSaintPierreRome" source="https://www.wikidata.org/wiki/Q12512" />
+    <object xml:id="BasiliqueSainteAgnesHorsLesMursRome" source="https://www.wikidata.org/wiki/Q1636696" />
+    <object xml:id="BasiliqueSainteMarieMajeureRome" source="https://www.wikidata.org/wiki/Q186282" />
+    <object xml:id="BasiliqueSanGiacomoMaggioreBologne" source="https://www.wikidata.org/wiki/Q2446870" />
+    <object xml:id="BasiliqueSanGiorgioMaggioreVenise" source="https://www.wikidata.org/wiki/Q713558" />
+    <object xml:id="BasiliqueSanGiovanniInConcaMilan" source="https://www.wikidata.org/wiki/Q549977" />
+    <object xml:id="BasiliqueSanLorenzoFlorence" source="https://www.wikidata.org/wiki/Q573881" />
+    <object xml:id="BasiliqueSanMarcoFlorence" source="https://www.wikidata.org/wiki/Q1152774" />
+    <object xml:id="BasiliqueSanMiniatoAlMonteFlorence" source="https://www.wikidata.org/wiki/Q844337" />
+    <object xml:id="BasiliqueSanNicolaInCarcereRome" source="https://www.wikidata.org/wiki/Q2145580" />
+    <object xml:id="BasiliqueSanVitaleRavenna" source="https://www.wikidata.org/wiki/Q721817" />
+    <object xml:id="BasiliqueSantaGiustinaPadoue" source="https://www.wikidata.org/wiki/Q219502" />
+    <object xml:id="BasiliqueSantiGiovanniEPaoloVenise" source="https://www.wikidata.org/wiki/Q155225" />
+    <object xml:id="BasiliqueVaticaneAntique" source="https://www.wikidata.org/wiki/Q810126" />
+    <object xml:id="BattistaFrancoAdorationBergersHauteur" />
+    <object xml:id="BattistaFrancoAdorationBergersLargeur" />
+    <object xml:id="BattistaFrancoAdorationDesRoisMages" />
+    <object xml:id="BattistaFrancoNativiteVieChrist" />
+    <object xml:id="BattistaFrancoPierreJeanGuersisonParalytique" />
+    <object xml:id="BeatrizetBacchanale" />
+    <object xml:id="BeatrizetCainAbel" />
+    <object xml:id="BeatrizetConversionSaintPaul" />
+    <object xml:id="BeatrizetCrucifixion" />
+    <object xml:id="BeatrizetGanymede" />
+    <object xml:id="BeatrizetPhaeton" />
+    <object xml:id="BeatrizetPieta" />
+    <object xml:id="BeatrizetPropheteJeremie" />
+    <object xml:id="BeatrizetSongeVieHumaine" />
+    <object xml:id="BeatrizetTityos" />
+    <object xml:id="BenciDiCioneDamiNeriDiFioravanteSimoneTalentiEgliseOrsanMicheleFlorence" source="https://www.wikidata.org/wiki/Q860816" />
+    <object xml:id="BenedettoAntelamiCathedraleParme" source="https://www.wikidata.org/wiki/Q1287889" />
+    <object xml:id="BenedettoDaMaianoPalaisStrozziFlorence" source="https://www.wikidata.org/wiki/Q521619" />
+    <object xml:id="BernaertVanOrleyJugementDernierAnvers" source="https://www.wikidata.org/wiki/Q21615121" />
+    <object xml:id="BernaertVanOrleyTentureChassesMaximilienLouvre" source="https://www.wikidata.org/wiki/Q27861181" />
+    <object xml:id="BernardSalomonBibliaSacra" />
+    <object xml:id="BernardinoLaninoDieuLePereEtAngesNovare" />
+    <object xml:id="BernardinoLaninoHistoireViergeNovare" />
+    <object xml:id="BernardinoLaninoSibyllesNovare" />
+    <object xml:id="BernardoPanizzariEgliseSantAgostinoPlaisance" source="https://www.wikidata.org/wiki/Q19893837" />
+    <object xml:id="BouclierAchille" source="https://www.wikidata.org/wiki/Q2712103" />
+    <object xml:id="BramanteBelvedereVatican" source="https://www.wikidata.org/wiki/Q17354885" />
+    <object xml:id="BramanteChristALaColonnePinacothequeBrera" source="https://www.wikidata.org/wiki/Q3697588" />
+    <object xml:id="BramanteEgliseSantaMariaPressoSanSatiroMilan" source="https://www.wikidata.org/wiki/Q589462" />
+    <object xml:id="BramanteGiovanniAntonioAmadeoEgliseSantaMariaGrazieMilan" source="https://www.wikidata.org/wiki/Q1638622" />
+    <object xml:id="BramanteGiulianoDaSangalloAndreaSansovinoEgliseSantaMariaDellAnimaRome" source="https://www.wikidata.org/wiki/Q2140145" />
+    <object xml:id="BramanteGiulianoDaSangalloBaccioPontelliBasiliqueDellaSantaCasaLorette" source="https://www.wikidata.org/wiki/Q654996" />
+    <object xml:id="BramantePalaisDeLaLogeBrescia" source="https://www.wikidata.org/wiki/Q3891454" />
+    <object xml:id="BramantePalaisFontanaSilvestriMilan" source="https://www.wikidata.org/wiki/Q3661106" />
+    <object xml:id="BramantePierreDeCortoneEgliseSainteMariePaixRome" source="https://www.wikidata.org/wiki/Q1514683" />
+    <object xml:id="BramanteTempiettoSanPietroMontorioRome" source="https://www.wikidata.org/wiki/Q12960184" />
+    <object xml:id="BrunelleschiAntonioManettiBasiliqueSantoSpiritoFlorence" source="https://www.wikidata.org/wiki/Q1519975" />
+    <object xml:id="BrunelleschiHopitalInnocentiFlorence" source="https://www.wikidata.org/wiki/Q1257947" />
+    <object xml:id="BrunelleschiPlaceSantissimaAnnunziataFlorence" source="https://www.wikidata.org/wiki/Q866192" />
+    <object xml:id="BularqueBatailleMagnesiens" />
+    <object xml:id="BuschettoRainaldoCathedralePise" source="https://www.wikidata.org/wiki/Q1754247" />
+    <object xml:id="CallicratesTempleAthenaNikeAthenes" source="https://www.wikidata.org/wiki/Q384813" />
+    <object xml:id="CamilloBoccaccinoChristEtLAdultereCremona" />
+    <object xml:id="CamilloBoccaccinoResurrectionLazareEgliseDeSanSigismondoCremona" />
+    <object xml:id="CamilloProcacciniTransfiguration" />
+    <object xml:id="CaravageAlofWignacourtLouvre" source="https://www.wikidata.org/wiki/Q945164" />
+    <object xml:id="CaravageCupidonGemaldegalerie" source="https://www.wikidata.org/wiki/Q474024" />
+    <object xml:id="CaravageDecollationSaintJeanMalte" source="https://www.wikidata.org/wiki/Q2727560" />
+    <object xml:id="CaravageIncreduliteSaintThomasPotsdam" source="https://www.wikidata.org/wiki/Q2419166" />
+    <object xml:id="CarelVanManderDecollationSainteCatherineCourtrai" source="https://www.wikidata.org/wiki/Q121549166" />
+    <object xml:id="CarelVanManderHistoirePassion" />
+    <object xml:id="CarelVanManderPassionArrestationChristRotterdam" />
+    <object xml:id="CarelVanManderPassionChristCeneRotterdam" />
+    <object xml:id="CarelVanManderPassionChristDescenteDeCroixRotterdam" />
+    <object xml:id="CarelVanManderPassionChristDevantCaipheRotterdam" />
+    <object xml:id="CarelVanManderPassionChristEmmeneParPilateRotterdam" />
+    <object xml:id="CarelVanManderPassionChristLavagePiedsRotterdam" />
+    <object xml:id="CarelVanManderPassionChristMontOliviersRotterdam" />
+    <object xml:id="CarelVanManderPassionChristPressoirRotterdam" />
+    <object xml:id="CarelVanManderPassionCouronnementEpinesRotterdam" />
+    <object xml:id="CarelVanManderPassionCrucifixionRotterdam" />
+    <object xml:id="CarelVanManderPassionEcceHomoRotterdam" />
+    <object xml:id="CarelVanManderPassionFlagellationRotterdam" />
+    <object xml:id="CarelVanManderPassionPortementCroixRotterdam" />
+    <object xml:id="CarloFontanaFrancescoFontanaBasiliqueSaintsApotresRome" source="https://www.wikidata.org/wiki/Q1515300" />
+    <object xml:id="CarloLambardiBasiliqueSantaFrancescaRomanaRome" source="https://www.wikidata.org/wiki/Q1091640" />
+    <object xml:id="CarloMadernGianLorenzoBerniniFrancescoBorrominiPalaisBarberiniRome" source="https://www.wikidata.org/wiki/Q1136614" />
+    <object xml:id="CarloMadernoBasiliqueSantaMariaSopraMinerva" source="https://www.wikidata.org/wiki/Q823685" />
+    <object xml:id="CarloMadernoGiacomoDellaPortaFrancescoGrimaldiEgliseSantAndreaDellaValleRome" source="https://www.wikidata.org/wiki/Q1631593" />
+    <object xml:id="CarloRainaldiDomenicoCastelliEgliseSanGirolamoCaritaRome" source="https://www.wikidata.org/wiki/Q888055" />
+    <object xml:id="CasaBuonarroti" source="https://www.wikidata.org/wiki/Q2418618" />
+    <object xml:id="CastelVecchioVerone" source="https://www.wikidata.org/wiki/Q1049016" />
+    <object xml:id="CaterinaCantoniCamilloProcacciniArachne" />
+    <object xml:id="CathedraleNotreDameParis" source="https://www.wikidata.org/wiki/Q2981" />
+    <object xml:id="CathedraleSaintDonatienBruges" source="https://www.wikidata.org/wiki/Q2550254" />
+    <object xml:id="CathedraleSaintEtienneMeaux" source="https://www.wikidata.org/wiki/Q586471" />
+    <object xml:id="CesareDaSestoAdorationDesRoisMagesCapodimonte" />
+    <object xml:id="CesareDaSestoSalomeKunstHistorischesMuseumVienne" />
+    <object xml:id="ChapelleDelMonteSanPietroInMontorioRome" />
+    <object xml:id="ChapelleDesOrleans" />
+    <object xml:id="ChapelleSaintJosephNovara" />
+    <object xml:id="ChapelleSixtineVatican" source="https://www.wikidata.org/wiki/Q2943" />
+    <object xml:id="ChapitreNotreDameParis" source="https://www.wikidata.org/wiki/Q120869237" />
+    <object xml:id="CharlesLeBrunAlexandrePorusLouvre" source="https://www.wikidata.org/wiki/Q28070951" />
+    <object xml:id="CharlesLeBrunBatailleDArbellesLouvre" source="https://www.wikidata.org/wiki/Q29848371" />
+    <object xml:id="CharlesLeBrunCoupolePavillonAuroreSceaux" />
+    <object xml:id="CharlesLeBrunCycleHistoireAlexandre" />
+    <object xml:id="CharlesLeBrunDescenteSaintEspritLouvre" source="https://www.wikidata.org/wiki/Q29848196" />
+    <object xml:id="CharlesLeBrunEntreeAlexandreDansBabyloneLouvre" source="https://www.wikidata.org/wiki/Q27097122" />
+    <object xml:id="CharlesLeBrunEscalierDesAmbassadeursQuatreNationsVersailles" />
+    <object xml:id="CharlesLeBrunEscalierDesAmbassadeursVersailles" source="https://www.wikidata.org/wiki/Q3057826" />
+    <object xml:id="CharlesLeBrunExpressionsDesPassionDeLAme" />
+    <object xml:id="CharlesLeBrunGalerieDesGlacesVersailles" />
+    <object xml:id="CharlesLeBrunHerculeTuantChevauxDeDiomedeNottingham" source="https://www.wikidata.org/wiki/Q96614533" />
+    <object xml:id="CharlesLeBrunLeSerpentDAirainBristol" source="https://www.wikidata.org/wiki/Q90735765" />
+    <object xml:id="CharlesLeBrunMartyreSaintAndreMayNotreDameParis" source="https://www.wikidata.org/wiki/Q29212009" />
+    <object xml:id="CharlesLeBrunMartyreSaintEtienneMayNotreDameParis" source="https://www.wikidata.org/wiki/Q63213209" />
+    <object xml:id="CharlesLeBrunMystereSainteViergeAncienSeminaireSaintSulpice" />
+    <object xml:id="CharlesLeBrunPassageGraniqueLouvre" source="https://www.wikidata.org/wiki/Q29848329" />
+    <object xml:id="CharlesLeBrunPlafondChambreMusesVauxLeVicomte" />
+    <object xml:id="CharlesLeBrunPortraitNicolasLeBrunResidenzgalerie" source="https://www.wikidata.org/wiki/Q111132791" />
+    <object xml:id="CharlesLeBrunRoiGouverneParLuiMemeVersailles" source="https://www.wikidata.org/wiki/Q18683145" />
+    <object xml:id="CharlesLeBrunTenteDariusVersailles" />
+    <object xml:id="ChartreuseGalluzzoFlorence" source="https://www.wikidata.org/wiki/Q1056344" />
+    <object xml:id="ChevauxSaintMarcVenise" source="https://www.wikidata.org/wiki/Q1994701" />
+    <object xml:id="CircusMaximusRome" source="https://www.wikidata.org/wiki/Q207808" />
+    <object xml:id="ClementeBiragoPortraitCharlesDEspagneDiamant" />
+    <object xml:id="ColiseeRome" source="https://www.wikidata.org/wiki/Q10285" />
+    <object xml:id="ColonneAntonineRome" source="https://www.wikidata.org/wiki/Q599302" />
+    <object xml:id="ColonneMarcAureleRome" source="https://www.wikidata.org/wiki/Q265384" />
+    <object xml:id="ColonneTrajaneRome" source="https://www.wikidata.org/wiki/Q192784" />
+    <object xml:id="ColosseNeronRome" source="https://www.wikidata.org/wiki/Q1570519" />
+    <object xml:id="ColosseRhodes" source="https://www.wikidata.org/wiki/Q41553" />
+    <object xml:id="ComplexeSantApolloniaFlorence" source="https://www.wikidata.org/wiki/Q28668281" />
+    <object xml:id="CopieLeonardCeneParis" />
+    <object xml:id="CornelisCortCalomnieDApelleMET" />
+    <object xml:id="CornelisCortFedericoZuccaroAnnonciation" />
+    <object xml:id="CornelisCortFedericoZuccaroCalomnieApelle" />
+    <object xml:id="CornelisCortGiulioRomanoBatailleScipionZama" />
+    <object xml:id="CornelisCortMarcelloVenustiMartyreSaintEtienne" />
+    <object xml:id="CornelisCortPolidoroDaCaravaggioAdorationBergers" />
+    <object xml:id="CornelisCortRaphaelTransfiguration" />
+    <object xml:id="CornelisCortTitienMartyreSaintLaurent" />
+    <object xml:id="CorregeAgonieDansLeJardinWellingtonMuseumLondres" source="https://www.wikidata.org/wiki/Q3535914" />
+    <object xml:id="CorregeAssomptionViergeParme" source="https://www.wikidata.org/wiki/Q771210" />
+    <object xml:id="CorregeCoupoleAssomptionParme" source="https://www.wikidata.org/wiki/Q771210" />
+    <object xml:id="CosimoBartoliTriompheDuBonheur" />
+    <object xml:id="CouventCarmelitesFaubourgSaintJacquesParis" source="https://www.wikidata.org/wiki/Q41355013" />
+    <object xml:id="CouventCarmelitesRueChaponParis" source="https://www.wikidata.org/wiki/Q114080745" />
+    <object xml:id="CouventMinimesVincennes" source="https://www.wikidata.org/wiki/Q111745852" />
+    <object xml:id="CouventMoinesDePicpusParis" source="https://www.wikidata.org/wiki/Q107657489" />
+    <object xml:id="CouventNotreDameDuCalvaireParis" source="https://www.wikidata.org/wiki/Q33500094" />
+    <object xml:id="CouventSanFrancescoMacciFlorence" source="https://www.wikidata.org/wiki/Q3001634" />
+    <object xml:id="CuriaJuliaRome" source="https://www.wikidata.org/wiki/Q1144514" />
+    <object xml:id="CurieHostiliaRome" source="https://www.wikidata.org/wiki/Q1144512" />
+    <object xml:id="DanieleDaVolterraEquestreHenriII" />
+    <object xml:id="DanseusesBorgheseLouvre" />
+    <object xml:id="DavidTeniersArchiducLeopoldGuillaumeDansSaGalerieDeBruxellesKunstHistorischesMuseumVienne" source="https://www.wikidata.org/wiki/Q19960950" />
+    <object xml:id="DavidTeniersArchiducLeopoldGuillaumeDansSaGalerieDeBruxellesMuseesRoyauxBeauxArtsBruxelles" source="https://www.wikidata.org/wiki/Q19960946" />
+    <object xml:id="DavidTeniersArchiducLeopoldGuillaumeDansSaGalerieDeBruxellesPrado" source="https://www.wikidata.org/wiki/Q19939106" />
+    <object xml:id="DedaleLabyrinthe" />
+    <object xml:id="DenisAntoineCouventDesFeuillantsParis" source="https://www.wikidata.org/wiki/Q72700" />
+    <object xml:id="DomeDeMilan" source="https://www.wikidata.org/wiki/Q18068" />
+    <object xml:id="DomenichinoAnnibaleAgostinoCarracheGalerieFarnese" source="https://www.wikidata.org/wiki/Q7749083" />
+    <object xml:id="DomenicoBeccafumiPavementDuomoSantaMariaAssuntaSienne" source="https://www.wikidata.org/wiki/Q3372988" />
+    <object xml:id="DomenicoFontanaEgliseSantaMariaVallicelliRome" source="https://www.wikidata.org/wiki/Q2031901" />
+    <object xml:id="DomenicoFontanaFlaminioPonzioCarloRainaldiBasiliqueSantaMariaMaggioreRome" source="https://www.wikidata.org/wiki/Q186282" />
+    <object xml:id="DomenicoFontanaGianLorenzoBerniniPlaceSanPietroRome" source="https://www.wikidata.org/wiki/Q83425" />
+    <object xml:id="DomenicoFontanaSalaClementinaVatican" source="https://www.wikidata.org/wiki/Q642466" />
+    <object xml:id="DominiquinAdamEveGrenoble" source="https://www.wikidata.org/wiki/Q59211848" />
+    <object xml:id="DominiquinCommunionSaintJeromeVatican" source="https://www.wikidata.org/wiki/Q20087547" />
+    <object xml:id="DominiquinDavidVersailles" source="https://www.wikidata.org/wiki/Q117748727" />
+    <object xml:id="DominiquinEvangelistesSantAndreaDellaValleRome" />
+    <object xml:id="DominiquinPortementCroixGetty" source="https://www.wikidata.org/wiki/Q20180050" />
+    <object xml:id="DominiquinSaintAndreSanGregorioRome" />
+    <object xml:id="DomusAureaRome" source="https://www.wikidata.org/wiki/Q622438" />
+    <object xml:id="DonatelloChairesPassionResurrectionBasiliqueSanLorenzoFlorence" source="https://www.wikidata.org/wiki/Q3825329 ; https://www.wikidata.org/wiki/Q15141480" />
+    <object xml:id="DonatelloDavidBargello" source="https://www.wikidata.org/wiki/Q735085" />
+    <object xml:id="DonatelloJudithEtHolophernePalazzoVecchioFlorence" source="https://www.wikidata.org/wiki/Q1246440" />
+    <object xml:id="DonatelloMarieMadeleineMuseoDellOperaDelDuomo" source="https://www.wikidata.org/wiki/Q3275776" />
+    <object xml:id="DonatelloMichelozzoTombeauBaldassareCossaBaptistereFlorence" source="https://www.wikidata.org/wiki/Q2280593" />
+    <object xml:id="DonatelloMonumentEquestreGattamelataPadoue" source="https://www.wikidata.org/wiki/Q771017" />
+    <object xml:id="DonatelloSaintGeorgesBargello" source="https://www.wikidata.org/wiki/Q3947208" />
+    <object xml:id="DonatelloZucconeMuseoDellOperaDelDuomoFlorence" source="https://www.wikidata.org/wiki/Q1636061" />
+    <object xml:id="EgliseAbbatialeSaintAntoineSaintAntoineLAbbaye" source="https://www.wikidata.org/wiki/Q41706422" />
+    <object xml:id="EgliseCelestinsParis" source="https://www.wikidata.org/wiki/Q657921" />
+    <object xml:id="EgliseMadonnaDellOrtoVenise" source="https://www.wikidata.org/wiki/Q861436" />
+    <object xml:id="EgliseSaintDonatienBruges" source="https://www.wikidata.org/wiki/Q2550254" />
+    <object xml:id="EgliseSaintEtienneLeRondRome" source="https://www.wikidata.org/wiki/Q919456" />
+    <object xml:id="EgliseSaintGervaisSaintProtaisParis" source="https://www.wikidata.org/wiki/Q427340" />
+    <object xml:id="EgliseSaintGeryBruxelles" source="https://www.wikidata.org/wiki/Q42328277" />
+    <object xml:id="EgliseSaintJosephDesCarmesParis" source="https://www.wikidata.org/wiki/Q1153474" />
+    <object xml:id="EgliseSaintSeverinParis" source="https://www.wikidata.org/wiki/Q1710376" />
+    <object xml:id="EgliseSaintThomasPavie" source="https://www.wikidata.org/wiki/Q62008175" />
+    <object xml:id="EgliseSainteMarieDesPresSoest" source="https://www.wikidata.org/wiki/Q1337464" />
+    <object xml:id="EgliseSanBartolomeoMonteOlivetoFlorence" source="https://www.wikidata.org/wiki/Q3669552" />
+    <object xml:id="EgliseSanBartolomeoVenise" source="https://www.wikidata.org/wiki/Q1648609" />
+    <object xml:id="EgliseSanDionisioFlorence" source="https://www.wikidata.org/wiki/Q28668287" />
+    <object xml:id="EgliseSanLioVenise" source="https://www.wikidata.org/wiki/Q647427" />
+    <object xml:id="EgliseSanMarcoMilan" source="https://www.wikidata.org/wiki/Q839168" />
+    <object xml:id="EgliseSanTomasoMilan" source="https://www.wikidata.org/wiki/Q3672110" />
+    <object xml:id="EgliseSantAndreaCelioRome" source="https://www.wikidata.org/wiki/Q3884778" />
+    <object xml:id="EgliseSantaMariaCelana" source="https://www.wikidata.org/wiki/Q104670942" />
+    <object xml:id="EgliseSantaMariaDelCarmineFlorence" source="https://www.wikidata.org/wiki/Q1042634" />
+    <object xml:id="EgliseSantaMariaDellaFebbreVatican" source="https://www.wikidata.org/wiki/Q3673839" />
+    <object xml:id="EgliseSantaMariaEgiziacaRome" source="https://www.wikidata.org/wiki/Q3673396" />
+    <object xml:id="EgliseSantiNazaroECelsoVerone" source="https://www.wikidata.org/wiki/Q3668316" />
+    <object xml:id="EgliseSantoStefanoVenise" source="https://www.wikidata.org/wiki/Q974832" />
+    <object xml:id="EgliseTriniteMontsRome" source="https://www.wikidata.org/wiki/Q1229008" />
+    <object xml:id="EneaVicoFillesPierus" />
+    <object xml:id="EneaVicoFrancescoSalviatiConversionSaintPaul" />
+    <object xml:id="EneaVicoGiovanniMediciNGWashington" />
+    <object xml:id="EneaVicoImaginiDeGliImperatori" />
+    <object xml:id="EneaVicoImaginiDonneAugustee" />
+    <object xml:id="EneaVicoJudithHolopherneMET" />
+    <object xml:id="EneaVicoMichelangeLedaVictoriaAlbertMuseum" />
+    <object xml:id="EneaVicoPortraitCosmeMedicisBritishMuseum" />
+    <object xml:id="EneaVicoRossoFiorentinoCentauresLapithes" />
+    <object xml:id="EneaVicoTitienAnnonciationMET" />
+    <object xml:id="EneaVicoVulcainCyclopesForgentFleches" />
+    <object xml:id="ErcoleProcacciniViergeSurTroneSanGiacomoMaggioreBologne" />
+    <object xml:id="ErcoleProcacciniVoletsOrgueCathedraleParme" />
+    <object xml:id="EtemenankiBabylone" source="https://www.wikidata.org/wiki/Q285788" />
+    <object xml:id="EtienneMartellangeNoviciatJesuitesParis" source="https://www.wikidata.org/wiki/Q122186850" />
+    <object xml:id="FabioMangoneGiacomoMoragliaFrancescoMariaRichiniBibliothequeAmbrosienneMilan" source="https://www.wikidata.org/wiki/Q815611" />
+    <object xml:id="FacadesTempleSanteRome" />
+    <object xml:id="FedericoBarocciAnnonciationVatican" />
+    <object xml:id="FedericoBarocciMartyreSaintVitalPinacothequeBrera" />
+    <object xml:id="FedericoZuccaroCalomnieRoyalCollectionLondres" source="https://www.wikidata.org/wiki/Q28027815" />
+    <object xml:id="FedericoZuccaroCardinaleBorromeoCollegioBorromeoPavie" />
+    <object xml:id="FedericoZuccaroPieta" />
+    <object xml:id="FedericoZuccaroPortraitElisabethI" />
+    <object xml:id="FedericoZuccaroVenus" />
+    <object xml:id="FilippinoLippiChapelleCarafaRome" source="https://www.wikidata.org/wiki/Q769964" />
+    <object xml:id="FilippoLippiViergeCeinturePrato" source="https://www.wikidata.org/wiki/Q3842662" />
+    <object xml:id="FlaminioPonzioBasiliqueSaintSebastienHorsLesMursRome" source="https://www.wikidata.org/wiki/Q658051" />
+    <object xml:id="FontaineDesDioscuresRome" source="https://www.wikidata.org/wiki/Q1227084" />
+    <object xml:id="FontaineVenusRicasoli" />
+    <object xml:id="ForumAugusteRome" source="https://www.wikidata.org/wiki/Q770797" />
+    <object xml:id="ForumBoariumRome" source="https://www.wikidata.org/wiki/Q283650" />
+    <object xml:id="ForumDeLaPaixRome" source="https://www.wikidata.org/wiki/Q1456939" />
+    <object xml:id="FraAngelicoChapelleNicolineVatican" source="https://www.wikidata.org/wiki/Q249973" />
+    <object xml:id="FraBartolomeoSantissimaAnnunziata" source="https://www.wikidata.org/wiki/Q3945921 ; https://www.wikidata.org/wiki/Q3802365 ; https://www.wikidata.org/wiki/Q3764872" />
+    <object xml:id="FrancescoBassanoRaptSabinesGalerieSabauda" />
+    <object xml:id="FrancescoBorrominiGiacomoDellaPortaDomenicoFontanaBasiliqueSaintJeanLatranRome" source="https://www.wikidata.org/wiki/Q84090" />
+    <object xml:id="FrancescoCamillianiFontaineNeptuneRicasoli" />
+    <object xml:id="FrancescoMelziFloraHermitageSaintPetersbourg" source="https://www.wikidata.org/wiki/Q21716903" />
+    <object xml:id="FrancescoMoscaAdamEveCathedralePise" />
+    <object xml:id="FrancescoSalviatiFresquesSanGiovanniDecollato" />
+    <object xml:id="FrancescoSalviatiSalleUdienzaPalazzoVecchioFlorence" source="https://www.wikidata.org/wiki/Q21194500" />
+    <object xml:id="FrancoisPerrierGalerieDoreeHotelLaVrilliereParis" source="https://www.wikidata.org/wiki/Q55597037" />
+    <object xml:id="FrancoisPerrierHoraceLeBlancVieSaintBrunoCloitreChartreuxLyon" />
+    <object xml:id="FransStuyckDominikusDeWaghemakereEgliseSaintPaulDominicainsAnvers" source="https://www.wikidata.org/wiki/Q2272511" />
+    <object xml:id="FransVanMierisBoutiqueEtoffeKunstHistorischesMuseumVienne" source="https://www.wikidata.org/wiki/Q27982747" />
+    <object xml:id="GaetanoZumboAdorationBergers" />
+    <object xml:id="GaetanoZumboDescenteCroix" />
+    <object xml:id="GaleazzoAlessiCristoforoLombardoCouventSantAgostinoPlaisance" />
+    <object xml:id="GalerieFrancoisIerFontainebleau" source="https://www.wikidata.org/wiki/Q3094596" />
+    <object xml:id="GalerieUlysseFontainebleau" source="https://www.wikidata.org/wiki/Q113835939" />
+    <object xml:id="GalleriaGiustiniana" />
+    <object xml:id="GaudenzioFerrariCyclePassionVarallo" />
+    <object xml:id="GaudenzioFerrariSaintRoch" />
+    <object xml:id="GaudenzioViergeEnfantSaintFrancoisSaintGeorgesSanGiorgioValduggia" />
+    <object xml:id="GentileBelliniFestinDesDieuxNGWashington" source="https://www.wikidata.org/wiki/Q15008032" />
+    <object xml:id="GiacomoNizzolaTabernacleEscorialSanLorenzoEscurial" />
+    <object xml:id="GiambolognaEnlevementSabinesLoggiaDeiLanziFlorence" source="https://www.wikidata.org/wiki/Q3545179" />
+    <object xml:id="GiambolognaFontaineNeptuneBologne" source="https://www.wikidata.org/wiki/Q994471" />
+    <object xml:id="GiambolognaStatueEquestreCosmeIerMedicisFlorence" source="https://www.wikidata.org/wiki/Q3968679" />
+    <object xml:id="GiambolognaStatueHenriIV" />
+    <object xml:id="GianMarcoCavalliGiovanniAntonioDaBresciaGiulioCampagnolaAndreaMantegnaTriompheCesarBurin" />
+    <object xml:id="GiorgioGhisiDisputeSaintSacrement" />
+    <object xml:id="GiorgioGhisiGiulioCampiFuiteEgypte" />
+    <object xml:id="GiorgioGhisiGiulioRomanoAllegorieMaladie" />
+    <object xml:id="GiorgioGhisiRaphaelEcoleAthenes" />
+    <object xml:id="GiorgioVasariBernardoBuontalentiGalerieDesOfficesFlorence" source="https://www.wikidata.org/wiki/Q51252" />
+    <object xml:id="GiorgioVasariEgliseSantaMariaDellaPieveArezzo" source="https://www.wikidata.org/wiki/Q1475948" />
+    <object xml:id="GiorgioVasariGiovanniBattistaDelTassoSalleGualdradaPalazzoVecchioFlorence" source="https://www.wikidata.org/wiki/Q111975926" />
+    <object xml:id="GiorgioVasariNiccoloTriboloVillaCastello" source="https://www.wikidata.org/wiki/Q2094778" />
+    <object xml:id="GiorgioVasariSalaDeiCentoGiorniPalazzoDellaCancelleriaRome" source="https://www.wikidata.org/wiki/Q7403335" />
+    <object xml:id="GiorgioVasariSepultureMichelAngeSantaCroceFlorence" />
+    <object xml:id="GiorgioVasariStudioloCosmeIMedicisPalazzoVecchioFlorence" source="https://www.wikidata.org/wiki/Q3501045" />
+    <object xml:id="GiorgioVasariVincenzoBorghiniStudioloFrancoisIMedicisPalazzoVecchioFlorence" source="https://www.wikidata.org/wiki/Q1089115" />
+    <object xml:id="GiorgioneNudaGallerieAccademia" />
+    <object xml:id="GiorgioneTitienFondacoTedeschiVenise" source="https://www.wikidata.org/wiki/Q1259067" />
+    <object xml:id="GiottoBrunelleschiAndreaPisanoCathedraleSantaMariaDelFioreFlorence" source="https://www.wikidata.org/wiki/Q191739" />
+    <object xml:id="GiottoNacelleSaintPierreRome" source="https://www.wikidata.org/wiki/Q1311080" />
+    <object xml:id="GiovanFrancescoDiSangroAlessandroDiSangroChapelleSanSeveroPerouse" source="https://www.wikidata.org/wiki/Q2957143" />
+    <object xml:id="GiovanGiacomoDiConfortoGiovanBattistaCavagnaFrancescoGrimaldiEgliseSanPaoloNaples" source="https://www.wikidata.org/wiki/Q693174" />
+    <object xml:id="GiovanniAngeloMontorsoliMichelAngeSaintCosmeChapelleMedicisFlorence" />
+    <object xml:id="GiovanniAngeloMontorsoliMoiseSantissimaAnnunziataFlorence" />
+    <object xml:id="GiovanniAngeloMontorsoliSaintPaulBasiliqueSantissimaAnnunziataFlorence" />
+    <object xml:id="GiovanniAngeloMontorsoliTombeauAndreaDoriaSanMatteoGenes" />
+    <object xml:id="GiovanniBattistaDaSangalloEgliseSanGiovanniDecollatoRome" source="https://www.wikidata.org/wiki/Q1255741" />
+    <object xml:id="GiovanniBattistaDeCavalieriMartyreSaintPierre" />
+    <object xml:id="GiovanniBattistaScultoriCavalier" />
+    <object xml:id="GiovanniBattistaScultoriGiulioRomanoTroyesRepoussantGrecs" />
+    <object xml:id="GiovanniBattistaScultoriGuerrierEtendard" />
+    <object xml:id="GiovanniBattistaScultoriMarsVenus" />
+    <object xml:id="GiovanniBattistaScultoriTetesSoldats" />
+    <object xml:id="GiovanniBattistaScultoriViergeCroissant" />
+    <object xml:id="GiovanniBattistaSoriaEgliseSanGregorioCelioRome" source="https://www.wikidata.org/wiki/Q748459" />
+    <object xml:id="GiovanniBelliniPortraitGiovanniEtGentileBelliniLouvre" />
+    <object xml:id="GiovanniBrittoAdorationBergers" />
+    <object xml:id="GiovanniDiBalduccioEgliseSantaMariaInBreraMilan" source="https://www.wikidata.org/wiki/Q3674100" />
+    <object xml:id="GiovanniDiPietroRaphaelJardinOlivierNGLondres" source="https://www.wikidata.org/wiki/Q26493104" />
+    <object xml:id="GiovanniFrancescoPenniGiulioRomanoRaphaelBaptemeConstantinVatican" source="https://www.wikidata.org/wiki/Q1996917" />
+    <object xml:id="GiovanniFrancescoPenniGiulioRomanoRaphaelDonationConstantinVatican" source="https://www.wikidata.org/wiki/Q2485424" />
+    <object xml:id="GiovanniGonnelliUrbainVIIIPalaisBarberini" />
+    <object xml:id="GiovanniJacopoCaraglioAdorationBergers" />
+    <object xml:id="GiovanniJacopoCaraglioAlexandreRoxane" />
+    <object xml:id="GiovanniJacopoCaraglioAmourDieux" />
+    <object xml:id="GiovanniJacopoCaraglioAnnonciation" />
+    <object xml:id="GiovanniJacopoCaraglioDieux" />
+    <object xml:id="GiovanniJacopoCaraglioMariageVierge" />
+    <object xml:id="GiovanniJacopoCaraglioPlutonProserpine" />
+    <object xml:id="GiovanniJacopoCaraglioRaptSabines" />
+    <object xml:id="GiovanniJacopoCaraglioSaturnePhilyra" />
+    <object xml:id="GiovanniJacopoCaraglioViergeJBRaphael" />
+    <object xml:id="GiovanniLanfrancoCoupoleSantAndreaDellaValleRome" />
+    <object xml:id="GiovanniLanfrancoSistoBadalocchioRaphaelLogesVatican" />
+    <object xml:id="GiovanniMariaFalconettoLoggiaOdeoCornaroPadoue" source="https://www.wikidata.org/wiki/Q3836439" />
+    <object xml:id="GiovanniPaoloLomazzoAutoportraitAcademiePinacothequeBrera" source="https://www.wikidata.org/wiki/Q3630764" />
+    <object xml:id="GiovanniPaoloLomazzoChapelleFoppa" source="https://www.wikidata.org/wiki/Q27985723" />
+    <object xml:id="GiovanniPaoloLomazzoMoiseTreVerginiSaggeTreVerginiStolteSantaMariaDellaSteccataParme" />
+    <object xml:id="GiovanniPaoloLomazzoSeptGouverneursDuMonde" />
+    <object xml:id="GiovanniPaoloLomazzoTreVerginiSaggeTreVerginiStolteSantaMariaDellaSteccataParme" source="https://www.wikidata.org/wiki/Q3998164" />
+    <object xml:id="GirolamoCassarCathedraleSaintJeanLaValette" source="https://www.wikidata.org/wiki/Q613619" />
+    <object xml:id="GirolamoMacchiettiMartyreSaintLaurentSantaMariaNovellaFlorence" />
+    <object xml:id="GirolamoMuzianoDessinTrajane" />
+    <object xml:id="GirolamoRainaldiPalaisPamphiljRome" source="https://www.wikidata.org/wiki/Q2047593" />
+    <object xml:id="GiulianoDaMaianoPalaisPazziFlorence" source="https://www.wikidata.org/wiki/Q3890636" />
+    <object xml:id="GiulianoDaSangalloVillaMediceaPoggioCaiano" source="https://www.wikidata.org/wiki/Q733389" />
+    <object xml:id="GiulioCampiViergeEnGloireEtSaintsEgliseDeSanSigismondoCremona" />
+    <object xml:id="GiulioRomanoPalaisDuTeMantoue" source="https://www.wikidata.org/wiki/Q1261544" />
+    <object xml:id="GiulioRomanoPolyphemeVillaMadameRome" />
+    <object xml:id="GiulioRomanoRaphaelBatailleDuPontMilviusVatican" source="https://www.wikidata.org/wiki/Q1996932" />
+    <object xml:id="GiuseppeArcimboldoCaveAVinLondres" />
+    <object xml:id="GiuseppeArcimboldoCuisine" />
+    <object xml:id="GiuseppeArcimboldoFloreParis" />
+    <object xml:id="GiuseppeArcimboldoGiano" />
+    <object xml:id="GiuseppeArcimboldoJuristeNationalMuseumStockholm" source="https://www.wikidata.org/wiki/Q1194663" />
+    <object xml:id="GiuseppeArcimboldoQuatreElements" source="https://www.wikidata.org/wiki/Q1750032" />
+    <object xml:id="GiuseppeArcimboldoQuatreSaisons" source="https://www.wikidata.org/wiki/Q1395699" />
+    <object xml:id="GiuseppeArcimboldoVertumneChateauDeSkoklosteBalsta" source="https://www.wikidata.org/wiki/Q16333797" />
+    <object xml:id="GiuseppeCesariBataillesCapitoleMuseeCapitolinRome" />
+    <object xml:id="GrandeGalerieLouvreParis" source="https://www.wikidata.org/wiki/Q109405871" />
+    <object xml:id="GuidettoGuidettiBaccioPontelliAntonioDaSangalloIlGiovaneEgliseSantoSpiritoInSassiaRome" source="https://www.wikidata.org/wiki/Q1428488" />
+    <object xml:id="GuidoReniCrucifixion" />
+    <object xml:id="GuidoReniMartyreSaintAndreSanGregorioAlCelioRome" />
+    <object xml:id="HagiaSophiaIstanbul" source="https://www.wikidata.org/wiki/Q12506" />
+    <object xml:id="HansHolbeinDeJongeEtatPauvrete" />
+    <object xml:id="HansHolbeinDeJongePassion" source="https://www.wikidata.org/wiki/Q111821963" />
+    <object xml:id="HansHolbeinDeJongePortraitHenriVIIIEtSaFamille" />
+    <object xml:id="HansHolbeinDeJongeTriompheRichesses" />
+    <object xml:id="HeinrichAldegreverNativiteSoest" />
+    <object xml:id="HendrickGoltziusEpitapheHansBol" source="https://www.wikidata.org/wiki/Q65073017" />
+    <object xml:id="HendrickGoudtAdamElsheimerLesSeptTableauxGraves" />
+    <object xml:id="HeraionArgos" source="https://www.wikidata.org/wiki/Q1607754" />
+    <object xml:id="HerculeCapitoliniRome" source="https://www.wikidata.org/wiki/Q3918317" />
+    <object xml:id="HerculeFarneseNaples" source="https://www.wikidata.org/wiki/Q374591" />
+    <object xml:id="HermesBelvedereVatican" source="https://www.wikidata.org/wiki/Q2070542" />
+    <object xml:id="HieronymusCockFrancescoSalviatiVisitation" />
+    <object xml:id="HieronymusCockSebastianoDelPiomboVisitation" />
+    <object xml:id="HieronymusWierixJohannesWierixAntonIIWierixBernardinoPasseriMaertenDeVosBibliaNatalis" source="https://www.wikidata.org/wiki/Q20724571" />
+    <object xml:id="HopitalSanBonifatioFlorence" source="https://www.wikidata.org/wiki/Q3886594" />
+    <object xml:id="HotelDeVilleBale" source="https://www.wikidata.org/wiki/Q688984" />
+    <object xml:id="HotelSeguierParis" source="https://www.wikidata.org/wiki/Q22980216" />
+    <object xml:id="HotelVilleParis" source="https://www.wikidata.org/wiki/Q640968" />
+    <object xml:id="HubertJanVanEyckAgneauMystiqueGand" source="https://www.wikidata.org/wiki/Q734834" />
+    <object xml:id="HuisTenBoschLaHaye" source="https://www.wikidata.org/wiki/Q1072284" />
+    <object xml:id="IsaacMajorRoelandtSaveryPaysageJerome" />
+    <object xml:id="JacobDeGheynIIZachariasDolendoCarelVanManderHistoirePassion" />
+    <object xml:id="JacopoBarozziDaVignolaAntonioDaSangalloIlGiovaneBaldassarrePeruzziVillaFarneseCaprarola" source="https://www.wikidata.org/wiki/Q597957" />
+    <object xml:id="JacopoPalmaIlVecchioSainteBarbeSantaMariaFormosaVenise" source="https://www.wikidata.org/wiki/Q109767795" />
+    <object xml:id="JacopoSansovinoCampanileSaintMarcVenise" source="https://www.wikidata.org/wiki/Q754194" />
+    <object xml:id="JacopoTintoretCrucifixionSanRoccoVenise" source="https://www.wikidata.org/wiki/Q490312" />
+    <object xml:id="JacopoTintorettoDecouverteDuCorpsSaintMarcPinacothequeDeBrera" source="https://www.wikidata.org/wiki/Q3937806" />
+    <object xml:id="JacopoTintorettoJugementChristSantaMariaDellOrtoVenise" />
+    <object xml:id="JacopoTintorettoLeMiracleDeLEsclaveGalleriaDellAccademiaVenise" source="https://www.wikidata.org/wiki/Q2273890" />
+    <object xml:id="JacquesBlanchardDescenteSaintEspritMayNotreDameParis" source="https://www.wikidata.org/wiki/Q29214132" />
+    <object xml:id="JacquesBlanchardGalerieBullionParis" />
+    <object xml:id="JacquesBlanchardGalerieChambreDesComptesParis" />
+    <object xml:id="JacquesLemercierPalaisRoyalParis" source="https://www.wikidata.org/wiki/Q329948" />
+    <object xml:id="JacquesSourdeauPierreNepveuChateauChambord" source="https://www.wikidata.org/wiki/Q205367" />
+    <object xml:id="JanCorneliszVermeyenConqueteTunisPeintureGemaldegalerie" source="https://www.wikidata.org/wiki/Q131521853" />
+    <object xml:id="JanCorneliszVermeyenConqueteTunisTapisserieMalines" />
+    <object xml:id="JanSadelerJacobSylvaeSacraeMET" />
+    <object xml:id="JanStevenVanCalcarFabrica" source="https://www.wikidata.org/wiki/Q1233009" />
+    <object xml:id="JardinRicasoliFlorence" />
+    <object xml:id="JardinsBabylone" source="https://www.wikidata.org/wiki/Q41931" />
+    <object xml:id="JeanCousinJugementDernierMBAReims" />
+    <object xml:id="JeanCousinLeJeuneJugementDernierLouvre" source="https://www.wikidata.org/wiki/Q19820078" />
+    <object xml:id="JeanCousinLeJeunePieterDeJodeIJugementDernier" />
+    <object xml:id="JeanCousinMartyreSaintLaurentSaintGervaisSaintProtais" />
+    <object xml:id="JeanCousinParalytiqueSaintGervaisSaintProtais" />
+    <object xml:id="JeanCousinSamaritaineSaintGervaisSaintProtais" />
+    <object xml:id="JeanCousinTombeauPhilippeDeChabotLouvre" source="https://www.wikidata.org/wiki/Q87410213" />
+    <object xml:id="JoachimVonSandrartCornelisIIBloemaertGalleriaGiustiniana" source="https://www.wikidata.org/wiki/Q131764600" />
+    <object xml:id="JohannWilhelmBaurMetamorphosesOvide" />
+    <object xml:id="JustusSustermansPortraitCosimoIIOfficesFlorence" />
+    <object xml:id="LabyrintheEgypte" source="https://www.wikidata.org/wiki/Q3825160" />
+    <object xml:id="LeoVonKlenzeResidenceMunich" source="https://www.wikidata.org/wiki/Q686548" />
+    <object xml:id="LeonBattistaAlbertiBasiliqueSantaMariaNovellaFlorence" source="https://www.wikidata.org/wiki/Q51175" />
+    <object xml:id="LeonBattistaAlbertiMichelozzoBasiliqueSantissimaAnnunziataFlorence" source="https://www.wikidata.org/wiki/Q2287001" />
+    <object xml:id="LeonardoDaVinciAdamEve" />
+    <object xml:id="LeonardoDaVinciAdorationMagesOfficesFlorence" source="https://www.wikidata.org/wiki/Q1638622" />
+    <object xml:id="LeonardoDaVinciAssomptionSaintDominiqueSaintPierreLudovicLeMoreBeatriceDEsteMilan" />
+    <object xml:id="LeonardoDaVinciBatailleDAnghiari" source="https://www.wikidata.org/wiki/Q2045726" />
+    <object xml:id="LeonardoDaVinciCartonBurlingtonNGLondres" source="https://www.wikidata.org/wiki/Q2471531" />
+    <object xml:id="LeonardoDaVinciCeneSantaMariaDelleGrazieMilan" source="https://www.wikidata.org/wiki/Q128910" />
+    <object xml:id="LeonardoDaVinciDessinNeptune" />
+    <object xml:id="LeonardoDaVinciGiorgioVasariMichelAngeSalleDesCinqCentsPalazzoVecchioFlorence" source="https://www.wikidata.org/wiki/Q234364" />
+    <object xml:id="LeonardoDaVinciLeda" source="https://www.wikidata.org/wiki/Q2308934" />
+    <object xml:id="LeonardoDaVinciLionMecanique" />
+    <object xml:id="LeonardoDaVinciMadoneOeilletAltePinakothekMunich" source="https://www.wikidata.org/wiki/Q698015" />
+    <object xml:id="LeonardoDaVinciManuscritMotoMisuraAcquaVatican" />
+    <object xml:id="LeonardoDaVinciMeduse" source="https://www.wikidata.org/wiki/Q3492887" />
+    <object xml:id="LeonardoDaVinciMonaLisaLouvre" source="https://www.wikidata.org/wiki/Q12418" />
+    <object xml:id="LeonardoDaVinciPortraitGinevraBenciNGWashington" source="https://www.wikidata.org/wiki/Q1267893" />
+    <object xml:id="LeonardoDaVinciPortraitIsabelleEsteLouvre" source="https://www.wikidata.org/wiki/Q591128" />
+    <object xml:id="LeonardoDaVinciSainteAnneLouvre" source="https://www.wikidata.org/wiki/Q563727" />
+    <object xml:id="LeonardoDaVinciViergeRocherLouvre" source="https://www.wikidata.org/wiki/Q269342" />
+    <object xml:id="LeoneLeoniCharlesVPrado" source="https://www.wikidata.org/wiki/Q5752001" />
+    <object xml:id="LeoneLeoniPompeoLeoniMaitreAutelMonastereSanLorenzoEscurial" />
+    <object xml:id="LoggiaPsycheFarnesina" source="https://www.wikidata.org/wiki/Q3836436" />
+    <object xml:id="LorenzoDiMarianoLibreriaPiccolominiSienne" source="https://www.wikidata.org/wiki/Q3237948" />
+    <object xml:id="LorenzoGhibertiEvangelistesPorteNordBaptistereFlorence" source="https://www.wikidata.org/wiki/Q3908938" />
+    <object xml:id="LorenzoLottoAssomptionViergeEgliseSantaMaria" source="https://www.wikidata.org/wiki/Q104686802" />
+    <object xml:id="LorenzoLottoSaintNicolasEnGloireSantaMariaDeiCarminiVenise" source="https://www.wikidata.org/wiki/Q3947723" />
+    <object xml:id="LouisLeVauChateauDuRaincy" source="https://www.wikidata.org/wiki/Q2971810" />
+    <object xml:id="LouisLeVauChateauVauxLeVicomteMaincy" source="https://www.wikidata.org/wiki/Q739976" />
+    <object xml:id="LucaCambiasoFacadeNordPalaisMonaco" />
+    <object xml:id="LucaCambiasoGloireMonastereSanLorenzoEscurial" />
+    <object xml:id="LucaCambiasoParadisEscurial" />
+    <object xml:id="LucaFancelliPalaisPittiFlorence" source="https://www.wikidata.org/wiki/Q29286" />
+    <object xml:id="LucaSignorelliFraAngelicoChapelleSanBrizioOrvieto" source="https://www.wikidata.org/wiki/Q3657553" />
+    <object xml:id="LucasVanLeydenChristPortantCroix" />
+    <object xml:id="LucasVanLeydenCrucifixion" />
+    <object xml:id="LuigiArrigucciOrazioTorrianiBasiliqueSantiCosmaDamianoRome" source="https://www.wikidata.org/wiki/Q675513" />
+    <object xml:id="LysippeAlexandreLeGrandBlesse" />
+    <object xml:id="LysippeZeusTarente" />
+    <object xml:id="MaertenDeVosAdriaenCollaertMiracleChristMerGalilee" />
+    <object xml:id="MaisonCarreeNimes" source="https://www.wikidata.org/wiki/Q677659" />
+    <object xml:id="MarcantonioRaimondiAllegoriePaix" />
+    <object xml:id="MarcantonioRaimondiApollonCitharedeCasaSassi" />
+    <object xml:id="MarcantonioRaimondiAurore" />
+    <object xml:id="MarcantonioRaimondiBaccioBandinelliMartyreSaintLaurent" />
+    <object xml:id="MarcantonioRaimondiCene" />
+    <object xml:id="MarcantonioRaimondiChristApotres" />
+    <object xml:id="MarcantonioRaimondiChristViergeSaintJeanPaulCatherine" />
+    <object xml:id="MarcantonioRaimondiDavidGoliath" />
+    <object xml:id="MarcantonioRaimondiDouzeCesars" />
+    <object xml:id="MarcantonioRaimondiEnlevementHelene" />
+    <object xml:id="MarcantonioRaimondiGalatee" />
+    <object xml:id="MarcantonioRaimondiGiulioRomanoIModi" source="https://www.wikidata.org/wiki/Q2464946" />
+    <object xml:id="MarcantonioRaimondiHommeAuDrapeau" />
+    <object xml:id="MarcantonioRaimondiHommeBaseColonne" />
+    <object xml:id="MarcantonioRaimondiJeanBaptisteAssisDesert" />
+    <object xml:id="MarcantonioRaimondiLucrece" />
+    <object xml:id="MarcantonioRaimondiMariesPleurantChristMort" />
+    <object xml:id="MarcantonioRaimondiMartyreSaintLaurent" />
+    <object xml:id="MarcantonioRaimondiMartyreSainteCecile" />
+    <object xml:id="MarcantonioRaimondiNoe" />
+    <object xml:id="MarcantonioRaimondiParnasse" />
+    <object xml:id="MarcantonioRaimondiPortraitClementVII" />
+    <object xml:id="MarcantonioRaimondiPredicationSaintPaul" source="https://www.wikidata.org/wiki/Q125732373" />
+    <object xml:id="MarcantonioRaimondiRaphaelDescenteCroix" />
+    <object xml:id="MarcantonioRaimondiRaphaelGiulioRomanoBataille" />
+    <object xml:id="MarcantonioRaimondiRaphaelJugementParis" source="https://www.wikidata.org/wiki/Q18579333" />
+    <object xml:id="MarcantonioRaimondiRaphaelMassacreInnocents" source="https://www.wikidata.org/wiki/Q47534065" />
+    <object xml:id="MarcantonioRaimondiRaphaelNeptune" />
+    <object xml:id="MarcantonioRaimondiRaphaelNotreDameEscalier" />
+    <object xml:id="MarcantonioRaimondiRaphaelPoesieSignature" source="https://www.wikidata.org/wiki/Q64960146" />
+    <object xml:id="MarcantonioRaimondiRaphaelRavennaMadonnaPesce" />
+    <object xml:id="MarcantonioRaimondiRaphaelRepasSimon" />
+    <object xml:id="MarcantonioRaimondiRaphaelSainteCecile" />
+    <object xml:id="MarcantonioRaimondiRaphaelVenusAmourNiche" />
+    <object xml:id="MarcantonioRaimondiRaphaelViergeFoligno" />
+    <object xml:id="MarcantonioRaimondiReineSaba" />
+    <object xml:id="MarcantonioRaimondiSaintJerome" />
+    <object xml:id="MarcantonioRaimondiTitienPortraitAretin" />
+    <object xml:id="MarcantonioRaimondiTroisGraces" />
+    <object xml:id="MarcantonioRaimondiVertusTheologalesCardinales" />
+    <object xml:id="MarcantonioRaimondiViergeLisantChaise" />
+    <object xml:id="MarcoDaRavennaBaccioBandinelliMassacreInnocents" />
+    <object xml:id="MarcoDaRavennaRaphaelLaocoon" />
+    <object xml:id="MarcoDenteAnnonciation" />
+    <object xml:id="MarcoDenteCene" />
+    <object xml:id="MarcoDenteGiulioRomanoRavennaBatailleAuCoutelas" />
+    <object xml:id="MarcoDenteMassacreInnocents" />
+    <object xml:id="MargaritoArezzoTombeauGregoireXSanDonatoArezzo" />
+    <object xml:id="MarsiaRossoOfficesFlorence" />
+    <object xml:id="MartinFreminetChapelleTriniteFontainebleau" />
+    <object xml:id="MartinoRotaMichelAngeJugementDernier" />
+    <object xml:id="MauroCodussiEgliseSantaMariaFormosaVenise" source="https://www.wikidata.org/wiki/Q1813687" />
+    <object xml:id="MausoleeAugusteRome" source="https://www.wikidata.org/wiki/Q770847" />
+    <object xml:id="MausoleeCyrusLeGrandPasargades" source="https://www.wikidata.org/wiki/Q2635530" />
+    <object xml:id="MausoleeHalicarnasseBodrum" source="https://www.wikidata.org/wiki/Q45368" />
+    <object xml:id="MausoleeHonoriVatican" source="https://www.wikidata.org/wiki/Q63522197" />
+    <object xml:id="MausoleeMaxenceRome" source="https://it.wikipedia.org/wiki/Mausoleo_di_Massenzio" />
+    <object xml:id="MausoleeSainteCostanceRome" source="https://www.wikidata.org/wiki/Q831361" />
+    <object xml:id="MausoleeTheodoricRavenne" source="https://www.wikidata.org/wiki/Q289427" />
+    <object xml:id="MeleagreVatican" source="https://www.wikidata.org/wiki/Q16933120" />
+    <object xml:id="MenelasEtPatrocleOfficesFlorence" />
+    <object xml:id="MeodelCaprinoCathedraleSaintJeanBaptisteTurin" source="https://www.wikidata.org/wiki/Q958699" />
+    <object xml:id="MetaRomuliRome" source="https://www.wikidata.org/wiki/Q165815" />
+    <object xml:id="MetagenesTheodoreDeSamosChersiphronTempleArtemisEphese" source="https://www.wikidata.org/wiki/Q43018" />
+    <object xml:id="MichelAngeAuroreSanLorenzoFlorence" source="https://www.wikidata.org/wiki/Q596683" />
+    <object xml:id="MichelAngeBatailleCascina" />
+    <object xml:id="MichelAngeBibliothequeMediceaLaurenzianaFlorence" source="https://www.wikidata.org/wiki/Q856419" />
+    <object xml:id="MichelAngeChapellePaulineVatican" source="https://www.wikidata.org/wiki/Q1034868" />
+    <object xml:id="MichelAngeChristMinerveSantaMariaSopraMinervaRome" source="https://www.wikidata.org/wiki/Q2182509" />
+    <object xml:id="MichelAngeCrucifixSantoSpiritoFlorence" source="https://www.wikidata.org/wiki/Q1572984" />
+    <object xml:id="MichelAngeCupidonDormant" source="https://www.wikidata.org/wiki/Q581925" />
+    <object xml:id="MichelAngeDavidGalleriaDellAccademiaFlorence" source="https://www.wikidata.org/wiki/Q179900" />
+    <object xml:id="MichelAngeGiacomoDelDucaLuigiVanvitelliBasiliqueSantaMariaDegliAngeliMartiriRome" source="https://www.wikidata.org/wiki/Q569253" />
+    <object xml:id="MichelAngeGiacomoDellaPortaCapitoleRome" source="https://www.wikidata.org/wiki/Q34921" />
+    <object xml:id="MichelAngeJugementChapelleSixtineVatican" source="https://www.wikidata.org/wiki/Q567861" />
+    <object xml:id="MichelAngeLeda" source="https://www.wikidata.org/wiki/Q3829347" />
+    <object xml:id="MichelAngeMoiseSanPietroInVincoliRome" source="https://www.wikidata.org/wiki/Q1989744" />
+    <object xml:id="MichelAngeNicolasBeatrizetAnnonciation" />
+    <object xml:id="MichelAngePalaisFarneseRome" source="https://www.wikidata.org/wiki/Q848386" />
+    <object xml:id="MichelAngePietaSaintPierreVatican" source="https://www.wikidata.org/wiki/Q235242" />
+    <object xml:id="MichelAngePlafondSixtineVatican" source="https://www.wikidata.org/wiki/Q844675" />
+    <object xml:id="MichelAngePorteSantApolloniaFlorence" />
+    <object xml:id="MichelAngePropheteIsaieChapelleSixtineVatican" source="https://www.wikidata.org/wiki/Q3802366" />
+    <object xml:id="MichelAngeSagrestiaNuovaFlorence" source="https://www.wikidata.org/wiki/Q660876" />
+    <object xml:id="MichelAngeTombeauJulesIISanPietroInVincoliRome" source="https://www.wikidata.org/wiki/Q651551" />
+    <object xml:id="MichelAngeTombeauJulienMedicisSanLorenzoFlorence" source="https://www.wikidata.org/wiki/Q3992615" />
+    <object xml:id="MichelAngeTombeauLaurentIIMedicisSanLorenzoFlorence" source="https://www.wikidata.org/wiki/Q3992617" />
+    <object xml:id="MichelAngeTondoDoniOfficesFlorence" source="https://www.wikidata.org/wiki/Q1473546" />
+    <object xml:id="MichelAngeViergeMediciSanLorenzoFlorence" source="https://www.wikidata.org/wiki/Q1985071" />
+    <object xml:id="MichelozzoChiostrinoDeiVotiFlorence" source="https://www.wikidata.org/wiki/Q3675066" />
+    <object xml:id="MichelozzoPalaisMedicisFlorence" source="https://www.wikidata.org/wiki/Q911047" />
+    <object xml:id="MichelozzoVillaMediceaCareggi" source="https://www.wikidata.org/wiki/Q368346" />
+    <object xml:id="MonastereSanChiaritoFlorence" source="https://www.wikidata.org/wiki/Q3687238" />
+    <object xml:id="MonastereSanLorenzoEscurial" source="https://www.wikidata.org/wiki/Q28471" />
+    <object xml:id="MonastereSanLucaFlorence" source="https://www.wikidata.org/wiki/Q28669614" />
+    <object xml:id="MonastereSantaCaterinaFlorence" source="https://www.wikidata.org/wiki/Q3735846" />
+    <object xml:id="MontSacreDeVarallo" source="https://www.wikidata.org/wiki/Q2211082" />
+    <object xml:id="MurAntoninGrandeBretagne" source="https://www.wikidata.org/wiki/Q210957" />
+    <object xml:id="MurHadrienGrandeBretagne" source="https://www.wikidata.org/wiki/Q57357" />
+    <object xml:id="MurailleServienneRome" source="https://www.wikidata.org/wiki/Q281330" />
+    <object xml:id="MuraillesConstantinople" source="https://www.wikidata.org/wiki/Q89917" />
+    <object xml:id="MuraillesNaples" source="https://www.wikidata.org/wiki/Q3867291" />
+    <object xml:id="NiccoloBoldriniGiovanniBrittoSaintJerome" />
+    <object xml:id="NicolaPisanoSepulcreSaintDominiqueSanDomenicoBologne" source="https://www.wikidata.org/wiki/Q2417706" />
+    <object xml:id="NicolasBeatrizetArchers" />
+    <object xml:id="NicolasPoussinBaptemeNGScotlandGlasgow" />
+    <object xml:id="NicolasPoussinDerniereSouperNGScotlandGlasgow" />
+    <object xml:id="NicolasPoussinExtremeOnctionNGScotlandGlasgow" />
+    <object xml:id="NicolasPoussinGalerieTravauxHerculeLouvre" />
+    <object xml:id="NicolasPoussinInstitutionEucharistieLouvre" />
+    <object xml:id="NicolasPoussinMiracleSaintFrancoisXavierLouvre" source="https://www.wikidata.org/wiki/Q29842246" />
+    <object xml:id="NicolasPoussinMoiseAshmoleanMuseumOxford" source="https://www.wikidata.org/wiki/Q9380048" />
+    <object xml:id="NicolasPoussinMoiseGemaldegalerieAlteMeisterDresde" />
+    <object xml:id="NicolasPoussinMoiseLeNotreLouvre" />
+    <object xml:id="NicolasPoussinMoisePointelLouvre" />
+    <object xml:id="NicolasPoussinMortDeLaViergeBelgique" source="https://www.wikidata.org/wiki/Q106348454" />
+    <object xml:id="NicolasPoussinSeptSacrements" source="https://www.wikidata.org/wiki/Q7457394" />
+    <object xml:id="NympheeAlexandreRome" source="https://www.wikidata.org/wiki/Q3877101" />
+    <object xml:id="ObelisqueVatican" source="https://www.wikidata.org/wiki/Q1444766" />
+    <object xml:id="ObelisquesRome" source="https://www.wikidata.org/wiki/Q123809" />
+    <object xml:id="OratoireSanSebastianoDeBiniFlorence" source="https://www.wikidata.org/wiki/Q3884762" />
+    <object xml:id="OrcagnaJugementDernierPise" />
+    <object xml:id="OttoVanVeenEmblemesAmour" source="https://www.wikidata.org/wiki/Q61984569" />
+    <object xml:id="OttoVanVeenEmblemesAmourDivin" />
+    <object xml:id="OttoVanVeenEmblemesHorace" />
+    <object xml:id="OttoVanVeenPortraitAlbertDAutricheIsabelleClaireEugenieDAutricheGloucestershire" source="https://www.wikidata.org/wiki/Q134988935" />
+    <object xml:id="OttoVanVeenPortraitAlexandreFarneseMuseesRoyauxBeauxArtsBruxelles" source="https://www.wikidata.org/wiki/Q116296055" />
+    <object xml:id="OttoVanVeenRecueilVieThomasAquin" />
+    <object xml:id="OudeKerkAmsterdam" source="https://www.wikidata.org/wiki/Q623558" />
+    <object xml:id="PalaisBernardettoDeMediciFlorence" source="https://www.wikidata.org/wiki/Q3891549" />
+    <object xml:id="PalaisCapriniRome" source="https://www.wikidata.org/wiki/Q2047517" />
+    <object xml:id="PalaisCiteParis" source="https://www.wikidata.org/wiki/Q2047247" />
+    <object xml:id="PalaisDallaTorreVerone" source="https://www.wikidata.org/wiki/Q1406020" />
+    <object xml:id="PalaisDogesVenise" source="https://www.wikidata.org/wiki/Q189883" />
+    <object xml:id="PalaisDuLouvreParis" source="https://www.wikidata.org/wiki/Q1075988" />
+    <object xml:id="PalaisLuxembourgParis" source="https://www.wikidata.org/wiki/Q329852" />
+    <object xml:id="PalaisMonaco" source="https://www.wikidata.org/wiki/Q1164788" />
+    <object xml:id="PalaisRicasoliPonteAllaCarraiaFlorence" source="https://www.wikidata.org/wiki/Q3890759" />
+    <object xml:id="PalaisScaliRicasoliFlorence" source="https://www.wikidata.org/wiki/Q3890860" />
+    <object xml:id="PalaisTuileriesParis" source="https://www.wikidata.org/wiki/Q234364" />
+    <object xml:id="PantheonRome" source="https://www.wikidata.org/wiki/Q99309" />
+    <object xml:id="PaoloUccelloStatueEquestreGiovanniAcutoSantaMariaDelFioreFlorence" source="https://www.wikidata.org/wiki/Q2604153" />
+    <object xml:id="PaoloVeroneseDinerChezSimoneGalerieSabauda" source="https://www.wikidata.org/wiki/Q63871952" />
+    <object xml:id="PaoloVeroneseNocesCanaLouvre" source="https://www.wikidata.org/wiki/Q185255" />
+    <object xml:id="ParisBordonRemiseDeLanneauAuDogeBordoneGalleriaDellAccademiaVenise" source="https://www.wikidata.org/wiki/Q7758063" />
+    <object xml:id="ParmigianinoCupidonFabriquantSonArcKunstHistorischesMuseumVienne" source="https://www.wikidata.org/wiki/Q892604" />
+    <object xml:id="ParmigianinoNativite" />
+    <object xml:id="ParmigianinoPierreJeanMalades" />
+    <object xml:id="ParmigianinoTombeau" />
+    <object xml:id="ParmigianinoViergeAuLongCouOfficesFlorence" source="https://www.wikidata.org/wiki/Q867403" />
+    <object xml:id="PassignanoChapelleScaliSantissimaAnnunziataFlorence" />
+    <object xml:id="PellegrinoTibaldiEgliseSanFedeleMilan" source="https://www.wikidata.org/wiki/Q902210" />
+    <object xml:id="PellegrinoTibaldiGiuseppeMedaPalaisProsperoViscontiMilan" source="https://www.wikidata.org/wiki/Q3891600" />
+    <object xml:id="PellegrinoTibaldiHistoireUlyssePalaisPoggiBologne" />
+    <object xml:id="PellegrinoTibaldiVincenzoSeregniAnnonciationSantaMariaAnnunciataCamposantoMilan" />
+    <object xml:id="PerinDelVagaVillaDelPrincipeGenes" source="https://www.wikidata.org/wiki/Q3558847" />
+    <object xml:id="PeruginRaphaelTriniteSanSeveroPerouse" source="https://www.wikidata.org/wiki/Q3213322" />
+    <object xml:id="PeterCandidAegidiusSadelerSaintAmbroise" />
+    <object xml:id="PeterCandidAegidiusSadelerSaintAugustin" />
+    <object xml:id="PeterCandidAegidiusSadelerSaintGregoireLeGrand" />
+    <object xml:id="PeterCandidAegidiusSadelerSaintJerome" />
+    <object xml:id="PeterPaulRubensChuteDamnesMunichAltePinakothekMunich" source="https://www.wikidata.org/wiki/Q203259" />
+    <object xml:id="PeterPaulRubensCycleHenriIVLuxembourg" />
+    <object xml:id="PeterPaulRubensCycleHenriIVLuxembourgBatailleDArques" source="https://www.wikidata.org/wiki/Q29911246" />
+    <object xml:id="PeterPaulRubensCycleHenriIVLuxembourgBatailleDIvry" source="https://www.wikidata.org/wiki/Q111584930" />
+    <object xml:id="PeterPaulRubensCycleHenriIVLuxembourgCouronnementDHenriIV" source="https://www.wikidata.org/wiki/Q118882606" />
+    <object xml:id="PeterPaulRubensCycleHenriIVLuxembourgNaissanceDuRoi" />
+    <object xml:id="PeterPaulRubensCycleHenriIVLuxembourgSiegeVilleNormandie" source="https://www.wikidata.org/wiki/Q111357800" />
+    <object xml:id="PeterPaulRubensCycleHenriIVLuxembourgTriompheDHenriIV" source="https://www.wikidata.org/wiki/Q62274438" />
+    <object xml:id="PeterPaulRubensCycleHenriIVLuxembourgUnionDHenriIVEtDeMarieDeMedicis" source="https://www.wikidata.org/wiki/Q62274367" />
+    <object xml:id="PeterPaulRubensCycleMedicisLuxembourgLouvre" source="https://www.wikidata.org/wiki/Q2558141" />
+    <object xml:id="PeterPaulRubensMadonnaDellaVallicellaChiesaNuovaRome" source="https://www.wikidata.org/wiki/Q3842690" />
+    <object xml:id="PeterPaulRubensNaissanceLouisXIIILouvre" source="https://www.wikidata.org/wiki/Q29655353" />
+    <object xml:id="PeterPaulRubensRetableSainteHeleneCathedraleNotreDameDuPuyGrasse" />
+    <object xml:id="PeterPaulRubensRetableSainteHeleneCouronnementDEpinesNotreDameDuPuyGrasse" />
+    <object xml:id="PeterPaulRubensRetableSainteHeleneEtLaVraieCroixNotreDameDuPuyGrasse" />
+    <object xml:id="PhareAlexandrie" source="https://www.wikidata.org/wiki/Q43244" />
+    <object xml:id="PhidiasAthenaParthenos" source="http://wikidata.org/wiki/Q2070605" />
+    <object xml:id="PhidiasParthenonAthenes" source="https://www.wikidata.org/wiki/Q10288" />
+    <object xml:id="PhidiasZeusOlympie" source="https://www.wikidata.org/wiki/Q46239" />
+    <object xml:id="PhilippeDeChampaigneAppartementMarieMedicisLuxembourg" />
+    <object xml:id="PhilippeDeChampaigneAssomptionLouvre" source="https://www.wikidata.org/wiki/Q115675911" />
+    <object xml:id="PhilippeDeChampaignePortraitProfilRichelieuMBAStrasbourg" source="https://www.wikidata.org/wiki/Q38520998" />
+    <object xml:id="PhilippeDeChampaignePortraitRichelieuCollectionsRoyalesLondres" source="https://www.wikidata.org/wiki/Q28026344" />
+    <object xml:id="PhilippeDeChampaignePortraitRichelieuLouvre" source="https://www.wikidata.org/wiki/Q15707397" />
+    <object xml:id="PhilippeDeChampaignePortraitRichelieuMuseeCondeChantilly" />
+    <object xml:id="PhilippeDeChampaignePortraitRichelieuNGLondres" source="https://www.wikidata.org/wiki/Q26492852" />
+    <object xml:id="PhilippeDeChampaignePortraitRichelieuSorbonne" />
+    <object xml:id="PhilippeDeChampaignePortraitRichelieuVarsovie" source="https://www.wikidata.org/wiki/Q22341734" />
+    <object xml:id="PhilippeDeChampaignePresentationTempleMBADijon" source="https://www.wikidata.org/wiki/Q130379440" />
+    <object xml:id="PhilippeDeChampaigneResurrectionLazareGrenoble" source="https://www.wikidata.org/wiki/Q115676120" />
+    <object xml:id="PhilippeDeChampaigneSalleDuLivreDOrLuxembourg" />
+    <object xml:id="PhilippeDeChampaigneTriplePortraitRichelieuNGLondres" source="https://www.wikidata.org/wiki/Q20054113" />
+    <object xml:id="PiazzaDiPietraRome" source="https://www.wikidata.org/wiki/Q60840884" />
+    <object xml:id="PieroDiJacopoRosselliChapelleBilliSantissimaAnnunziataFlorence" />
+    <object xml:id="PierreChambigesChateauSaintGermainEnLaye" source="https://www.wikidata.org/wiki/Q1520841" />
+    <object xml:id="PierreDAngicourtPierreDeChaulEgliseSanDomenicoMaggioreNaples" source="https://www.wikidata.org/wiki/Q897603" />
+    <object xml:id="PierreDeCortoneEgliseSaintLucEtMartineRome" source="https://www.wikidata.org/wiki/Q1813867" />
+    <object xml:id="PierreLescotJeanGoujonFontaineInnocentsParis" source="https://www.wikidata.org/wiki/Q1435791" />
+    <object xml:id="PieterCoeckeVanAelstMoeursFachonsDeFaireDesTurcz" />
+    <object xml:id="PieterCoeckeVanAelstTentureSaintPaul" />
+    <object xml:id="PietroBuonaccorsiTapisserieDiane" />
+    <object xml:id="PietroCavalliniCrucifixSaintPaulHorsRome" />
+    <object xml:id="PietroLombardoScuolaGrandeSanMarcoVenise" source="https://www.wikidata.org/wiki/Q1273362" />
+    <object xml:id="PietroSantiBartoliGiovanniLanfrancoHistoireSaintPierre" />
+    <object xml:id="PinturicchioAppartementsBorgiaVatican" source="https://www.wikidata.org/wiki/Q498557" />
+    <object xml:id="PinturicchioViePieIILibreriaPiccolominiSienne" source="https://www.wikidata.org/wiki/Q19947694" />
+    <object xml:id="PinturicchioVueVilleBelvedereVatican" />
+    <object xml:id="PioLuogoDellaMisericordiaMilan" />
+    <object xml:id="PolidoroDaCaravaggioArcCharlesQuint" />
+    <object xml:id="PolidoroDaCaravaggioFacadePalaisGaddiRome" />
+    <object xml:id="PolidoroDaCaravaggioFacadePalaisSpinolaRome" />
+    <object xml:id="PolidoroDaCaravaggioFacadesRome" />
+    <object xml:id="PolydoreAthenodoreAgesandrosLaocoonVatican" source="https://www.wikidata.org/wiki/Q465762" />
+    <object xml:id="PompeoLeoniTombeauxCharlesVPhilippeIISanLorenzoEscurial" />
+    <object xml:id="PontAemiliusRome" source="https://www.wikidata.org/wiki/Q640092" />
+    <object xml:id="PontAltinatePadoue" source="https://www.wikidata.org/wiki/Q2103692" />
+    <object xml:id="PontAugusteNarni" source="https://www.wikidata.org/wiki/Q2103779" />
+    <object xml:id="PontCestiusRome" source="https://www.wikidata.org/wiki/Q734903" />
+    <object xml:id="PontCorvoPadoue" source="https://www.wikidata.org/wiki/Q1428534" />
+    <object xml:id="PontDeCesarSurLeRhinNeuwied" source="https://www.wikidata.org/wiki/Q320210" />
+    <object xml:id="PontDesAngesVicence" source="https://www.wikidata.org/wiki/Q115735043" />
+    <object xml:id="PontFabriciusRome" source="https://www.wikidata.org/wiki/Q944688" />
+    <object xml:id="PontMallioCagli" source="https://www.wikidata.org/wiki/Q28003389" />
+    <object xml:id="PontMilviusRome" source="https://www.wikidata.org/wiki/Q1127325" />
+    <object xml:id="PontMolinoPadoue" source="https://www.wikidata.org/wiki/Q474747" />
+    <object xml:id="PontNeronianoRome" source="https://www.wikidata.org/wiki/Q1902995" />
+    <object xml:id="PontSanLorenzoPadoue" source="https://www.wikidata.org/wiki/Q2103738" />
+    <object xml:id="PontSanPaoloVicence" source="https://www.wikidata.org/wiki/Q115676310" />
+    <object xml:id="PontSantAngeloRome" source="https://www.wikidata.org/wiki/Q870476" />
+    <object xml:id="PontSistoRome" source="https://www.wikidata.org/wiki/Q586329" />
+    <object xml:id="PontSubliciusRome" source="https://www.wikidata.org/wiki/Q1466700" />
+    <object xml:id="PontSulCismonBassanoDelGrappa" />
+    <object xml:id="PontTibereRimini" source="https://www.wikidata.org/wiki/Q2063557" />
+    <object xml:id="PontormoChoeurSanLorenzoFlorence" />
+    <object xml:id="PontormoDepositionSantaFelicitaFlorence" source="https://www.wikidata.org/wiki/Q3705703" />
+    <object xml:id="PordenoneFresqueSanStefanoVenise" source="Les Fresques de SanStefano" />
+    <object xml:id="PordenoneTapisserieHerculesIIEste" />
+    <object xml:id="PortAncienGenes" source="https://www.wikidata.org/wiki/Q2105217" />
+    <object xml:id="PortaCapenaRome" source="https://www.wikidata.org/wiki/Q1632777" />
+    <object xml:id="PortaComasinaMilan" source="https://it.wikipedia.org/wiki/Porta_Comasina_(medievale)" />
+    <object xml:id="PortaDelPopoloRome" source="https://www.wikidata.org/wiki/Q1760057" />
+    <object xml:id="PortaEsquilinaRome" source="https://www.wikidata.org/wiki/Q616887" />
+    <object xml:id="PortaLeoniVerone" source="https://www.wikidata.org/wiki/Q3908725" />
+    <object xml:id="PortaSanPancrazioRome" source="https://www.wikidata.org/wiki/Q2000448" />
+    <object xml:id="PortaSanPaoloRome" source="https://www.wikidata.org/wiki/Q1636207" />
+    <object xml:id="PortaSanSebastianoRome" source="https://www.wikidata.org/wiki/Q1234193" />
+    <object xml:id="PorteBasiliqueSantiCosmaDamianoRome" />
+    <object xml:id="PorteDeSyracuse" source="https://www.wikidata.org/wiki/Q3909290" />
+    <object xml:id="PorteNaeviaRome" source="https://www.wikidata.org/wiki/Q1058810" />
+    <object xml:id="PorteOrientaleMilan" source="https://www.wikidata.org/wiki/Q3908755" />
+    <object xml:id="PortePantheonRome" source="https://www.wikidata.org/wiki/Q125122565" />
+    <object xml:id="PorteSanGalloFlorence" source="https://www.wikidata.org/wiki/Q3908786" />
+    <object xml:id="PorteViminaleRome" source="https://www.wikidata.org/wiki/Q1516087" />
+    <object xml:id="PortesBaptistereSaintJeanFlorence" />
+    <object xml:id="PortiqueAtheniensDelphes" source="https://www.wikidata.org/wiki/Q7617753" />
+    <object xml:id="PortiqueDeLivieRome" source="https://www.wikidata.org/wiki/Q911539" />
+    <object xml:id="PortiqueDePompeeRome" source="https://www.wikidata.org/wiki/Q7231815" />
+    <object xml:id="PortiqueDeVipsaniaRome" source="https://www.wikidata.org/wiki/Q2430760" />
+    <object xml:id="PoussinMoise" />
+    <object xml:id="PraxiteleAphroditeCnide" source="https://www.wikidata.org/wiki/Q618535" />
+    <object xml:id="PraxitelePhidiasFontaineDioscuresQuirinalRome" />
+    <object xml:id="ProtogeneJalisus" />
+    <object xml:id="PyramideCaiusCestiusRome" source="https://www.wikidata.org/wiki/Q725404" />
+    <object xml:id="PyramideKheopsGizeh" source="https://www.wikidata.org/wiki/Q37200" />
+    <object xml:id="PyramideKhephrenGizeh" source="https://www.wikidata.org/wiki/Q208358" />
+    <object xml:id="PythagoreionSamos" source="https://www.wikidata.org/wiki/Q1915216" />
+    <object xml:id="QuentinVarinPresentationAuTempleEgliseSaintJosephDesCarmesParis" />
+    <object xml:id="QuintenMetsysDeplorationNGOttawa" source="https://www.wikidata.org/wiki/Q59505242" />
+    <object xml:id="RaffaelloDaMontelupoMichelAngeSaintDamianoChapelleMedicisFlorence" />
+    <object xml:id="RaphaelAdorationMagesPalaOddiVatican" />
+    <object xml:id="RaphaelAnnonciationPalaOddiVatican" source="https://www.wikidata.org/wiki/Q116286717" />
+    <object xml:id="RaphaelBaptemeVatican" />
+    <object xml:id="RaphaelBatailleOstieVatican" source="https://www.wikidata.org/wiki/Q2564496" />
+    <object xml:id="RaphaelBelleJardiniereLouvre" source="https://www.wikidata.org/wiki/Q2343778" />
+    <object xml:id="RaphaelCalvairePalaColonnaNGLondres" />
+    <object xml:id="RaphaelCartonsTapisseriesApotresVictoriaAlbertMuseum" source="https://www.wikidata.org/wiki/Q76844726" />
+    <object xml:id="RaphaelCeneVatican" />
+    <object xml:id="RaphaelChambreConstantinVatican" source="https://www.wikidata.org/wiki/Q3945256" />
+    <object xml:id="RaphaelChambreHeliodoreVatican" source="https://www.wikidata.org/wiki/Q774018" />
+    <object xml:id="RaphaelChambreIncendieBorgoVatican" source="https://www.wikidata.org/wiki/Q3968260" />
+    <object xml:id="RaphaelChambreSignatureVatican" source="https://www.wikidata.org/wiki/Q9292247" />
+    <object xml:id="RaphaelChristJardinOliviersPalaColonnaMET" />
+    <object xml:id="RaphaelChuteJerichoVatican" />
+    <object xml:id="RaphaelConseilDieuxFarnesina" source="https://www.wikidata.org/wiki/Q3221730" />
+    <object xml:id="RaphaelConstructionArcheNoeVatican" />
+    <object xml:id="RaphaelCouronnementCharlemagne" source="https://www.wikidata.org/wiki/Q1450935" />
+    <object xml:id="RaphaelCreationAnimauxVatican" />
+    <object xml:id="RaphaelCreationEveVatican" />
+    <object xml:id="RaphaelDelivrancePierre" source="https://www.wikidata.org/wiki/Q2719737" />
+    <object xml:id="RaphaelDepositionBorgheseRetableBaglioni" source="https://www.wikidata.org/wiki/Q2500226" />
+    <object xml:id="RaphaelDisputeSaintSacrementVatican" source="https://www.wikidata.org/wiki/Q549953" />
+    <object xml:id="RaphaelEcoleAthenesVatican" source="https://www.wikidata.org/wiki/Q186953" />
+    <object xml:id="RaphaelEtudeOstieAlbertinaVienne" source="/" />
+    <object xml:id="RaphaelEzechielGalleriaPalatinaFlorence" source="https://www.wikidata.org/wiki/Q1134281" />
+    <object xml:id="RaphaelGalateeFarnesina" source="https://www.wikidata.org/wiki/Q2344368" />
+    <object xml:id="RaphaelGiovanniFrancescoPenniMadoneAmourDivinCapodimonte" source="https://www.wikidata.org/wiki/Q3842605" />
+    <object xml:id="RaphaelGiulioRomanoGracesFarnesina" />
+    <object xml:id="RaphaelGiulioRomanoJupiterAmourFarnesina" />
+    <object xml:id="RaphaelGiulioRomanoPortraitIsabelleRequesensLouvre" source="https://www.wikidata.org/wiki/Q3399388" />
+    <object xml:id="RaphaelGiulioRomanoVenusCharFarnesina" />
+    <object xml:id="RaphaelGiulioRomanoVillaMadamaRome" source="https://www.wikidata.org/wiki/Q1267485" />
+    <object xml:id="RaphaelHeliodoreVatican" source="https://www.wikidata.org/wiki/Q2294201" />
+    <object xml:id="RaphaelIncendieBorgoVatican" source="https://www.wikidata.org/wiki/Q2531790" />
+    <object xml:id="RaphaelIsaie" source="https://www.wikidata.org/wiki/Q3226022" />
+    <object xml:id="RaphaelJardinOlivier" />
+    <object xml:id="RaphaelJosueVatican" />
+    <object xml:id="RaphaelJourdainVatican" />
+    <object xml:id="RaphaelLaPerlaPrado" source="https://www.wikidata.org/wiki/Q427390" />
+    <object xml:id="RaphaelLeonIerAttilaVatican" source="https://www.wikidata.org/wiki/Q2716974" />
+    <object xml:id="RaphaelLogesVatican" source="https://www.wikidata.org/wiki/Q3836438" />
+    <object xml:id="RaphaelLunetteDieuPalaColonnaMET" />
+    <object xml:id="RaphaelMaddalenaDoniGalleriaPalatinaRome" source="https://www.wikidata.org/wiki/Q2607055" />
+    <object xml:id="RaphaelMadoneBaldaquinOfficesFlorence" source="https://www.wikidata.org/wiki/Q3842604" />
+    <object xml:id="RaphaelMadonnaCardellinoOfficesFlorence" source="https://www.wikidata.org/wiki/Q2344505" />
+    <object xml:id="RaphaelMadonnaOrleansMuseeCondeChantilly" source="https://www.wikidata.org/wiki/Q1986597" />
+    <object xml:id="RaphaelMadonnaPescePrado" source="https://www.wikidata.org/wiki/Q2631335" />
+    <object xml:id="RaphaelMadonnaPratoGemaldegalerieKunsthistorischesMuseumVienne" source="https://www.wikidata.org/wiki/Q2452858" />
+    <object xml:id="RaphaelMadonneSixtineGemaldegalerieAlteMeisterDresde" source="https://www.wikidata.org/wiki/Q328079" />
+    <object xml:id="RaphaelMercureFarnesina" />
+    <object xml:id="RaphaelMesseBolsenaVatican" source="https://www.wikidata.org/wiki/Q2529969" />
+    <object xml:id="RaphaelMoiseSauveEauxVatican" />
+    <object xml:id="RaphaelNativiteVatican" />
+    <object xml:id="RaphaelNocesPsycheFarnesina" />
+    <object xml:id="RaphaelPalaAnsideiNGLondres" source="https://www.wikidata.org/wiki/Q2713620" />
+    <object xml:id="RaphaelPalaColonna" source="https://www.wikidata.org/wiki/Q27033728" />
+    <object xml:id="RaphaelPalaGavariNGLondres" source="https://www.wikidata.org/wiki/Q598913" />
+    <object xml:id="RaphaelPalaOddiVatican" source="https://www.wikidata.org/wiki/Q2344357" />
+    <object xml:id="RaphaelPalaSanNicola" source="https://www.wikidata.org/wiki/Q1778000" />
+    <object xml:id="RaphaelPalaisBranconioAquilaRome" source="https://www.wikidata.org/wiki/Q1267485" />
+    <object xml:id="RaphaelPalaisPandolfiniFlorence" source="https://www.wikidata.org/wiki/Q1228234" />
+    <object xml:id="RaphaelParnasseLouvre" source="https://www.wikidata.org/wiki/Q2715152" />
+    <object xml:id="RaphaelParnasseVatican" source="https://www.wikidata.org/wiki/Q2715152" />
+    <object xml:id="RaphaelPietaPredellePalaColonnaIsabellaStewartGardnerMuseumBoston" />
+    <object xml:id="RaphaelPortementCroixPrado" source="https://www.wikidata.org/wiki/Q2664637" />
+    <object xml:id="RaphaelPortraitAgnoloDoniOfficesFlorence" source="https://www.wikidata.org/wiki/Q2515309" />
+    <object xml:id="RaphaelPortraitBindoAltovitiNGWashington" source="https://www.wikidata.org/wiki/Q2528106" />
+    <object xml:id="RaphaelPortraitGiulianoMediciMET" />
+    <object xml:id="RaphaelPortraitJulesIINGLondres" source="https://www.wikidata.org/wiki/Q686848" />
+    <object xml:id="RaphaelPortraitLeonXOfficesFlorence" source="https://www.wikidata.org/wiki/Q2610729" />
+    <object xml:id="RaphaelPortraitLorenzoMedici" source="https://www.wikidata.org/wiki/Q3399434" />
+    <object xml:id="RaphaelPresentationTemplePredellePalaOddiVatican" />
+    <object xml:id="RaphaelPropheteIsaieBasiliqueSaintAugustinRome" source="https://www.wikidata.org/wiki/Q3226022" />
+    <object xml:id="RaphaelRomanoBatailleMilviusVatican" source="https://www.wikidata.org/wiki/Q1996932" />
+    <object xml:id="RaphaelSacrificeNoeVatican" />
+    <object xml:id="RaphaelSadelerJanSadelerMaertenDeVosErmites" />
+    <object xml:id="RaphaelSaintGeorgesEtLeDragonLouvre" source="https://www.wikidata.org/wiki/Q2529918" />
+    <object xml:id="RaphaelSaintGeorgesEtLeDragonNGWashington" source="https://www.wikidata.org/wiki/Q2622161" />
+    <object xml:id="RaphaelSaintJeanBaptisteOfficesFlorence" source="https://www.wikidata.org/wiki/Q3463871" />
+    <object xml:id="RaphaelSaintLucPeignantViergeAcademieSaintLucRome" />
+    <object xml:id="RaphaelSaintMichelLouvre" source="https://www.wikidata.org/wiki/Q594470" />
+    <object xml:id="RaphaelSaintMichelTerrassantLeDemonLouvre" source="https://www.wikidata.org/wiki/Q594470" />
+    <object xml:id="RaphaelSainteCecilePinacothequeBologne" source="https://www.wikidata.org/wiki/Q1103801" />
+    <object xml:id="RaphaelSainteFamilleCanigianiAltePinakothekMunich" source="https://www.wikidata.org/wiki/Q2713671" />
+    <object xml:id="RaphaelSainteFamilleFrancoisIerLouvre" source="https://www.wikidata.org/wiki/Q2467141" />
+    <object xml:id="RaphaelSainteFamillePalmierNGScotlandEdimbourg" source="https://www.wikidata.org/wiki/Q3212679" />
+    <object xml:id="RaphaelSainteMargueriteLouvre" source="https://www.wikidata.org/wiki/Q2310025" />
+    <object xml:id="RaphaelSermentLeonIIIVatican" source="https://www.wikidata.org/wiki/Q1619548" />
+    <object xml:id="RaphaelSibyllesProphetesChigiSantaMariaDellaPaceRome" source="https://www.wikidata.org/wiki/Q1639900" />
+    <object xml:id="RaphaelSignatureJusticeVatican" />
+    <object xml:id="RaphaelSignaturePhilosophieVatican" />
+    <object xml:id="RaphaelSignaturePoesieVatican" />
+    <object xml:id="RaphaelSignatureTheologieVatican" />
+    <object xml:id="RaphaelSposalizioPinacothequeBrera" source="https://www.wikidata.org/wiki/Q2030685" />
+    <object xml:id="RaphaelTapisseriesSixtineVatican" source="https://www.wikidata.org/wiki/Q76844726" />
+    <object xml:id="RaphaelTransfigurationVatican" source="https://www.wikidata.org/wiki/Q2344437" />
+    <object xml:id="RaphaelVelataGalleriaPalatinaFlorence" source="https://www.wikidata.org/wiki/Q948034" />
+    <object xml:id="RaphaelVertusVatican" source="https://www.wikidata.org/wiki/Q2568776" />
+    <object xml:id="RaphaelViergeEnfantErmitage" source="https://www.wikidata.org/wiki/Q2629419" />
+    <object xml:id="RaphaelViergeEnfantSaintsPalaColonnaMET" />
+    <object xml:id="RaphaelViergeFolignoVatican" source="https://www.wikidata.org/wiki/Q2610709" />
+    <object xml:id="RaphaelViergeImpannataGalleriaPalatinaFlorence" source="https://www.wikidata.org/wiki/Q2052275" />
+    <object xml:id="RaphaelViergeLoretteMuseeCondeChantilly" source="https://www.wikidata.org/wiki/Q2427320" />
+    <object xml:id="RaphaelVisionCroixVatican" source="https://www.wikidata.org/wiki/Q2405750" />
+    <object xml:id="RembrandtJeuneFilleDulwichPictureGallery" source="https://www.wikidata.org/wiki/Q11824948" />
+    <object xml:id="RiccardoTaurignyBattistaDaVicenzaChoirSantaGiustinaPadoue" />
+    <object xml:id="RichardTaurignyChoirCathedraleMilan" />
+    <object xml:id="RoelandtSaveryPaysageJeromeErmitageSaintPetersbourg" />
+    <object xml:id="RombautIIKeldermansCathedraleNotreDameAnvers" source="https://www.wikidata.org/wiki/Q5901" />
+    <object xml:id="RossoFiorentinoMariageViergeSanLorenzoFlorence" source="https://www.wikidata.org/wiki/Q3967209" />
+    <object xml:id="RossoFiorentinoPalaDeiGalleriaPalatinaFlorence" source="https://www.wikidata.org/wiki/Q3889199" />
+    <object xml:id="RubensAnghiari" source="https://www.wikidata.org/wiki/Q15981394" />
+    <object xml:id="SaintGermainLAuxerroisParis" source="https://www.wikidata.org/wiki/Q1429394" />
+    <object xml:id="SallePalfreniersVatican" source="https://www.wikidata.org/wiki/Q3945241" />
+    <object xml:id="SalusPopuliRomaniBasiliqueSainteMarieMajeureRome" source="https://www.wikidata.org/wiki/Q1391933" />
+    <object xml:id="SandroBotticelliDivineComedieKupferstichkabinett" source="https://www.wikidata.org/wiki/Q16912485" />
+    <object xml:id="SantiGucciSculptureVenusJardinsRicasoli" />
+    <object xml:id="SantidiTitoResurrectionSantaCroceFlorence" />
+    <object xml:id="SantuarioMariaDellaRotondaAlbanoLaziale" source="https://www.wikidata.org/wiki/Q3950079" />
+    <object xml:id="SchelteBolswertPeterPaulRubensVueMalines" />
+    <object xml:id="ScuroloSanCarloMilan" source="https://www.wikidata.org/wiki/Q124962520" />
+    <object xml:id="SebastianoDelPiomboFlagellationSanPietroInMontorio" />
+    <object xml:id="SebastianoDelPiomboResurrectionLazareNGLondres" source="https://www.wikidata.org/wiki/Q3933578" />
+    <object xml:id="SebastianoDelPiomboVisitationLouvre" source="https://www.wikidata.org/wiki/Q18572220" />
+    <object xml:id="SebastianoMarianiEgliseSantaMariaDeiCarminiVenise" source="https://www.wikidata.org/wiki/Q2780025" />
+    <object xml:id="SebastienBourdonAegrosCurareSeptOeuvresMisericorde" source="https://www.wikidata.org/wiki/Q65577286" />
+    <object xml:id="SebastienBourdonCrucifiementSaintPierreMayNotreDameParis" source="https://www.wikidata.org/wiki/Q63213201" />
+    <object xml:id="SebastienBourdonEsurientesPascereSeptOeuvresMisericorde" source="https://www.wikidata.org/wiki/Q65577278" />
+    <object xml:id="SebastienBourdonGrandeGalerieHotelDeBretonvilliersParis" />
+    <object xml:id="SebastienBourdonHospitioExipereAdvenasSeptOeuvresMisericorde" source="https://www.wikidata.org/wiki/Q65577282" />
+    <object xml:id="SebastienBourdonLiberareCaptivosSeptOeuvresMisericorde" source="https://www.wikidata.org/wiki/Q65577294" />
+    <object xml:id="SebastienBourdonPotareSitientesSeptOeuvresMisericorde" source="https://www.wikidata.org/wiki/Q65577280" />
+    <object xml:id="SebastienBourdonSepelireMortuosSeptOeuvresMisericorde" source="https://www.wikidata.org/wiki/Q65577296" />
+    <object xml:id="SebastienBourdonSeptOeuvresMisericorde" />
+    <object xml:id="SebastienBourdonVestireNudosSeptOeuvresMisericorde" />
+    <object xml:id="SerapeumAlexandrie" source="https://www.wikidata.org/wiki/Q521646" />
+    <object xml:id="SimonGuillainIIAnnibaleCarracciFrontispicePortraitDAnnibaleCarracci" />
+    <object xml:id="SimonGuillainIIAnnibaleCarracheCrisBologne" />
+    <object xml:id="SimonVouetBibliothequeSeguierParis" />
+    <object xml:id="SimonVouetPortraitAhmetI" />
+    <object xml:id="SimoneDaOrsenigoGiovanniSolariGiovanniAntonioAmadeoPellegrinoTibaldiCathedraleMilan" source="https://www.wikidata.org/wiki/Q18068" />
+    <object xml:id="SimoneMartiniPortraitLaureSade" />
+    <object xml:id="SphinxGizeh" source="https://www.wikidata.org/wiki/Q130958" />
+    <object xml:id="StadeOlympie" source="https://www.wikidata.org/wiki/Q4357227" />
+    <object xml:id="StanzeVatican" source="https://www.wikidata.org/wiki/Q249449" />
+    <object xml:id="StatueEquestreMarcAureleMuseeCapitolinRome" source="https://www.wikidata.org/wiki/Q907387" />
+    <object xml:id="StatueNabuchodonosor" />
+    <object xml:id="StatueNilVatian" source="https://www.wikidata.org/wiki/Q3968659" />
+    <object xml:id="SuaireTurinCathedraleSaintJeanBaptisteTurin" source="https://www.wikidata.org/wiki/Q3961619" />
+    <object xml:id="TaddeoGaddiPonteVecchioFlorence" source="https://www.wikidata.org/wiki/Q208633" />
+    <object xml:id="TempleAntoninFaustineRome" source="https://www.wikidata.org/wiki/Q752555" />
+    <object xml:id="TempleApollonDelphes" source="https://www.wikidata.org/wiki/Q10751359" />
+    <object xml:id="TempleApollonPalatinRome" source="https://www.wikidata.org/wiki/Q1236860" />
+    <object xml:id="TempleApollonThermo" source="https://www.wikidata.org/wiki/Q3983221" />
+    <object xml:id="TempleAugustePula" source="https://www.wikidata.org/wiki/Q770030" />
+    <object xml:id="TempleAugusteRome" source="https://www.wikidata.org/wiki/Q927222" />
+    <object xml:id="TempleCampelloSulClitunno" source="https://www.wikidata.org/wiki/Q3983167" />
+    <object xml:id="TempleDeDianeNimes" source="https://www.wikidata.org/wiki/Q1992203" />
+    <object xml:id="TempleDeJerusalem" source="https://www.wikidata.org/wiki/Q3906600" />
+    <object xml:id="TempleDeLaConcordeRome" source="https://www.wikidata.org/wiki/Q828143" />
+    <object xml:id="TempleDeLaLuneRome" source="https://www.wikidata.org/wiki/Q2484467" />
+    <object xml:id="TempleDeSaturneRome" source="https://www.wikidata.org/wiki/Q746721" />
+    <object xml:id="TempleDeSolRome" source="https://www.wikidata.org/wiki/Q4536138" />
+    <object xml:id="TempleDesDioscuresNaples" source="https://www.wikidata.org/wiki/Q3983199" />
+    <object xml:id="TempleDesDioscuresRome" source="https://www.wikidata.org/wiki/Q380530" />
+    <object xml:id="TempleHadrienRome" source="https://www.wikidata.org/wiki/Q431062" />
+    <object xml:id="TempleHerculeVictorRome" source="https://www.wikidata.org/wiki/Q576929" />
+    <object xml:id="TempleJanusForumHolitoriumRome" source="https://www.wikidata.org/wiki/Q3983253" />
+    <object xml:id="TempleJanusRome" source="https://www.wikidata.org/wiki/Q352799" />
+    <object xml:id="TempleJupiterCapitolinRome" source="https://www.wikidata.org/wiki/Q586468" />
+    <object xml:id="TempleJupiterStatorRome" source="TempleJupiterStatorRome" />
+    <object xml:id="TempleJupiterTonnantRome" source="https://www.wikidata.org/wiki/Q2364823" />
+    <object xml:id="TempleMarsVengeur" source="https://www.wikidata.org/wiki/Q679665" />
+    <object xml:id="TempleMinerveAssise" source="https://www.wikidata.org/wiki/Q11836" />
+    <object xml:id="TempleMinerveMedicaRome" source="https://www.wikidata.org/wiki/Q1411575" />
+    <object xml:id="TempleMinerveRome" source="https://www.wikidata.org/wiki/Q3983273" />
+    <object xml:id="TempleNabuPalmyre" source="https://www.wikidata.org/wiki/Q21129741" />
+    <object xml:id="TemplePietasRome" source="https://www.wikidata.org/wiki/Q21208569" />
+    <object xml:id="TemplePortunusRome" source="https://www.wikidata.org/wiki/Q849241" />
+    <object xml:id="TempleRomulusRome" source="https://www.wikidata.org/wiki/Q338397" />
+    <object xml:id="TempleSalomonJerusalem" source="https://www.wikidata.org/wiki/Q223644" />
+    <object xml:id="TempleSanteRome" source="https://www.wikidata.org/wiki/Q3983215" />
+    <object xml:id="TempleSerapisRome" source="https://www.wikidata.org/wiki/Q2288627" />
+    <object xml:id="TempleTrajanRome" source="https://www.wikidata.org/wiki/Q3074203" />
+    <object xml:id="TempleVenusErycinaErice" source="https://www.wikidata.org/wiki/Q29654127" />
+    <object xml:id="TempleVenusGenitrixRome" source="https://www.wikidata.org/wiki/Q2459870" />
+    <object xml:id="TempleVenusRome" source="https://www.wikidata.org/wiki/Q430792" />
+    <object xml:id="TempleVespasienRome" source="https://www.wikidata.org/wiki/Q731284" />
+    <object xml:id="TempleVestaRome" source="https://www.wikidata.org/wiki/Q753791" />
+    <object xml:id="TempleVestaTivoli" source="https://www.wikidata.org/wiki/Q1219688" />
+    <object xml:id="TempleZeusOlympie" source="https://www.wikidata.org/wiki/Q197019" />
+    <object xml:id="TheatreBergaVicence" source="https://www.wikidata.org/wiki/Q16912710" />
+    <object xml:id="TheatreDePompeeRome" source="https://www.wikidata.org/wiki/Q944814" />
+    <object xml:id="TheatreMarcellusRome" source="https://www.wikidata.org/wiki/Q659138" />
+    <object xml:id="TheatrePula" />
+    <object xml:id="TheatreRomainGubbio" source="https://www.wikidata.org/wiki/Q55164614" />
+    <object xml:id="TheatreRomainVerone" source="https://www.wikidata.org/wiki/Q1477572" />
+    <object xml:id="ThermesAgrippaRome" source="https://www.wikidata.org/wiki/Q518832" />
+    <object xml:id="ThermesCaracallaRome" source="https://www.wikidata.org/wiki/Q502098" />
+    <object xml:id="ThermesDiocletienRome" source="https://www.wikidata.org/wiki/Q836108" />
+    <object xml:id="ThermesNeronRome" source="https://www.wikidata.org/wiki/Q1890176" />
+    <object xml:id="ThermesStufeNeroneBaies" source="https://www.wikidata.org/wiki/Q3984386" />
+    <object xml:id="ThermesTitusRome" source="https://www.wikidata.org/wiki/Q1231749" />
+    <object xml:id="TibreLouvre" source="https://www.wikidata.org/wiki/Q22946197" />
+    <object xml:id="TimantheCyclope" />
+    <object xml:id="TimanthePolyphemeDormant" />
+    <object xml:id="TimantheSacrificeIphigenie" />
+    <object xml:id="TimareteDianeEphese" />
+    <object xml:id="TitienAnnoncitationSanSalvadorVenise" source="https://www.wikidata.org/wiki/Q2920183" />
+    <object xml:id="TitienBacchanaleAndriensPrado" source="https://www.wikidata.org/wiki/Q3632485" />
+    <object xml:id="TitienBacchusArianeNGLondres" source="https://www.wikidata.org/wiki/Q1206860" />
+    <object xml:id="TitienCopieBacchanale" />
+    <object xml:id="TitienEquestreCharlesVPrado" source="https://www.wikidata.org/wiki/Q1123378" />
+    <object xml:id="TitienJacopoPalmaIlVecchioPietaGalleriaDellAccademiaVenise" source="https://www.wikidata.org/wiki/Q2665840" />
+    <object xml:id="TitienJusticeCaDoro" source="https://www.wikidata.org/wiki/Q3771746" />
+    <object xml:id="TitienMartyreSaintLaurentSantaMariaAssuntaVenise" source="https://www.wikidata.org/wiki/Q7750471" />
+    <object xml:id="TitienNativiteNovare" />
+    <object xml:id="TitienPortraitAlphonseIEsteFondationBembergToulouse" source="https://www.wikidata.org/wiki/Q81794155" />
+    <object xml:id="TitienPortraitCharlesVAltePinakothekMunich" source="https://www.wikidata.org/wiki/Q2609585" />
+    <object xml:id="TitienPortraitCharlesVChienPrado" source="https://www.wikidata.org/wiki/Q19798137" />
+    <object xml:id="TitienPortraitFrancoisMarieDellaRovereOfficesFlorence" source="https://www.wikidata.org/wiki/Q3937531" />
+    <object xml:id="TitienPortraitLauraDiantiCollectionHeinzKistersKreuzlingen" source="https://www.wikidata.org/wiki/Q3937592" />
+    <object xml:id="TitienPortraitPapePaulIIIPetitsfilsCapodimonte" source="https://www.wikidata.org/wiki/Q180632" />
+    <object xml:id="TitienRetableSanNicoloVatican" source="https://www.wikidata.org/wiki/Q124261369" />
+    <object xml:id="TitienSaintAntoinePadoue" source="https://www.wikidata.org/wiki/Q3858712" />
+    <object xml:id="TitienSaintJacquesMajeurSanLioVenise" />
+    <object xml:id="TitienSaintJeanBaptisteGalleriaDellAccademiaVenise" />
+    <object xml:id="TitienSaintMarcSantaMariaDellaSaluteVenise" source="https://www.wikidata.org/wiki/Q3947595" />
+    <object xml:id="TitienSaintSebastien" />
+    <object xml:id="TitienSaintSebastienErmitage" source="https://www.wikidata.org/wiki/Q7402169" />
+    <object xml:id="TitienTransfigurationSanSalvatorVenise" />
+    <object xml:id="TitienTriompheFoiBNF" />
+    <object xml:id="TitienVieDouzeCesars" source="https://www.wikidata.org/wiki/Q4004621" />
+    <object xml:id="TobiasStimmerNeueKunstlicheFigurenBiblischerHistorien" />
+    <object xml:id="TombeAlyatteIISardes" />
+    <object xml:id="TombeArchimedeSyracuse" source="https://www.wikidata.org/wiki/Q21208579" />
+    <object xml:id="TombeauDeDavidJerusalem" source="https://www.wikidata.org/wiki/Q1177668" />
+    <object xml:id="TourBabel" source="https://www.wikidata.org/wiki/Q41213" />
+    <object xml:id="TourDesMilicesRome" source="https://www.wikidata.org/wiki/Q2547165" />
+    <object xml:id="ToursDesContiRome" source="https://www.wikidata.org/wiki/Q605721" />
+    <object xml:id="TroneSalomon" source="https://www.wikidata.org/wiki/Q7798360" />
+    <object xml:id="UgoDaCarpiBaldassarrePeruzziEnvieTempleDesMuses" />
+    <object xml:id="UgoDaCarpiBaldassarrePeruzziVenusPutti" />
+    <object xml:id="UgoDaCarpiDavidGoliath" />
+    <object xml:id="UgoDaCarpiDescenteCroix" />
+    <object xml:id="UgoDaCarpiEneeAnchise" />
+    <object xml:id="UgoDaCarpiMortAnanias" />
+    <object xml:id="UgoDaCarpiParmigianinoDiogene" />
+    <object xml:id="UgoDaCarpiSybilleFlambeau" />
+    <object xml:id="UgoDaCarpiVeroniquePaulPierre" />
+    <object xml:id="VestibuleBibliothequeMediceaLaurenzianaFlorence" />
+    <object xml:id="ViaAppiaRome" source="https://www.wikidata.org/wiki/Q189417" />
+    <object xml:id="ViaAureliaRome" source="https://www.wikidata.org/wiki/Q756816" />
+    <object xml:id="ViaFlaminiaRome" source="https://www.wikidata.org/wiki/Q374149" />
+    <object xml:id="ViaLabicanaRome" source="https://www.wikidata.org/wiki/Q763100" />
+    <object xml:id="ViaNomentanaRome" source="https://www.wikidata.org/wiki/Q647535" />
+    <object xml:id="ViaOstienseRome" source="https://www.wikidata.org/wiki/Q1232418" />
+    <object xml:id="ViaPortuenseRome" source="https://www.wikidata.org/wiki/Q1057246" />
+    <object xml:id="ViaPraenestinaRome" source="https://www.wikidata.org/wiki/Q550578" />
+    <object xml:id="ViaSacraRome" source="https://www.wikidata.org/wiki/Q655172" />
+    <object xml:id="VigneAldobrandineVatican" source="https://www.wikidata.org/wiki/Q594213" />
+    <object xml:id="VillaHadrienTivoli" source="https://www.wikidata.org/wiki/Q272777" />
+    <object xml:id="VincenzoDantiDecollationSaintJeanBaptisteMuseoDellOperaDelDuomo" />
+    <object xml:id="VincenzoFoppaSaintSebastienPinacothequeBrera" source="https://www.wikidata.org/wiki/Q3947949" />
+    <object xml:id="VincenzoScamozziJacopoSansovinoEgliseSanSalvadorVenise" source="https://www.wikidata.org/wiki/Q1028202" />
+    <object xml:id="VincenzoSeregniPellegrinoTibaldiBaptistereDomeDeMilan" />
+    <object xml:id="VitruveBasiliqueDeFano" source="https://www.wikidata.org/wiki/Q3635676" />
+    <object xml:id="WillemKeyPortraitFerdinandAlvareDeToledeCollectionPrivee" source="https://www.wikidata.org/wiki/Q121675626" />
+    <object xml:id="WillemKeyPortraitFerdinandAlvareDeToledeFoundationCasaDeAlbaMadrid" source="https://www.wikidata.org/wiki/Q121505490" />
+    <object xml:id="WillemKeyPortraitMiCorpsFerdinandAlvareDeToledeFoundationCasaDeAlbaMadrid" source="https://www.wikidata.org/wiki/Q121695974" />
+    <object xml:id="ZeuxisCentaure" />
+    <object xml:id="ZeuxisGarconRaisin" />
+    <object xml:id="ZeuxisHeleneNue" />
+    <object xml:id="ZeuxisJunon" />
+    <object xml:id="ZeuxisVielleFemme" />
   </listObject>
 </TEI>
