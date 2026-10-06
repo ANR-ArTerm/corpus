@@ -2,6 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <settingDesc>
     <listPlace>
+      <place xml:id="Lycie" source="https://www.wikidata.org/wiki/Q18927"/>
+      <place xml:id="Potidee" source="https://www.wikidata.org/wiki/Q999468"/>
       <place xml:id="Epernay" source="https://www.wikidata.org/wiki/Q205537"/>
       <place xml:id="Sauveterre" source="https://www.wikidata.org/wiki/Q379982"/>
       <place xml:id="SaintBertrandDeComminges" source="https://www.wikidata.org/wiki/Q632081"/>
@@ -18,7 +20,7 @@
         <idno type="wikidata">Q217373</idno>
       </place>
       <place xml:id="DucatoDiSora" source="https://www.wikidata.org/wiki/Q2738954">
-        <location />
+        <location/>
         <idno type="wikidata">Q2738954</idno>
       </place>
       <place xml:id="Arce" source="https://www.wikidata.org/wiki/Q116423">
@@ -52,7 +54,7 @@
         <idno type="wikidata">Q6149</idno>
       </place>
       <place xml:id="Panchaea" source="https://www.wikidata.org/wiki/Q1120415">
-        <location />
+        <location/>
         <idno type="wikidata">Q1120415</idno>
       </place>
       <place xml:id="Carmania" source="https://www.wikidata.org/wiki/Q1734044">
@@ -146,7 +148,7 @@
         <idno type="wikidata">Q854843</idno>
       </place>
       <place xml:id="CaputCilla" source="https://www.wikidata.org/wiki/Q1035211">
-        <location />
+        <location/>
         <idno type="wikidata">Q1035211</idno>
       </place>
       <place xml:id="Kayseri" source="https://www.wikidata.org/wiki/Q48338">
@@ -240,7 +242,7 @@
         <idno type="wikidata">Q565751</idno>
       </place>
       <place xml:id="Atlantide" source="https://www.wikidata.org/wiki/Q25373">
-        <location />
+        <location/>
         <idno type="wikidata">Q25373</idno>
       </place>
       <place xml:id="PlaceMaubert" source="https://www.wikidata.org/wiki/Q3030249">
@@ -250,7 +252,7 @@
         <idno type="wikidata">Q3030249</idno>
       </place>
       <place xml:id="CollegeDeLaon" source="https://www.wikidata.org/wiki/Q2983763">
-        <location />
+        <location/>
         <idno type="wikidata">Q2983763</idno>
       </place>
       <place xml:id="IleNotreDame" source="https://www.wikidata.org/wiki/Q1845956">
@@ -680,11 +682,11 @@
         <idno type="wikidata">Q192860</idno>
       </place>
       <place xml:id="Tazata" source="https://www.wikidata.org/wiki/Q19819711">
-        <location />
+        <location/>
         <idno type="wikidata">Q19819711</idno>
       </place>
       <place xml:id="Hyperboreens" source="https://www.wikidata.org/wiki/Q243333">
-        <location />
+        <location/>
         <idno type="wikidata">Q243333</idno>
       </place>
       <place xml:id="MontsTaurus" source="https://www.wikidata.org/wiki/Q172556">
@@ -718,11 +720,11 @@
         <idno type="wikidata">Q1724661</idno>
       </place>
       <place xml:id="FaubourgSaintJacques" source="https://www.wikidata.org/wiki/Q3067309">
-        <location />
+        <location/>
         <idno type="wikidata">Q3067309</idno>
       </place>
       <place xml:id="AgerGallicus" source="https://www.wikidata.org/wiki/Q644966">
-        <location />
+        <location/>
         <idno type="wikidata">Q644966</idno>
       </place>
       <place xml:id="Gaule" source="https://www.wikidata.org/wiki/Q38060">
@@ -828,7 +830,7 @@
         <idno type="wikidata">Q981293</idno>
       </place>
       <place xml:id="MarcheAncone" source="https://www.wikidata.org/wiki/Q1054409">
-        <location />
+        <location/>
         <idno type="wikidata">Q1054409</idno>
       </place>
       <place xml:id="AlbanoLaziale" source="https://www.wikidata.org/wiki/Q191115">
@@ -916,7 +918,7 @@
         <idno type="wikidata">Q7506929</idno>
       </place>
       <place xml:id="PeraGenes" source="https://www.wikidata.org/wiki/Q25432366">
-        <location />
+        <location/>
         <idno type="wikidata">Q25432366</idno>
       </place>
       <place xml:id="Procida" source="https://www.wikidata.org/wiki/Q72432">
@@ -1447,9 +1449,9 @@
         </location>
         <idno type="wikidata">Q647</idno>
       </place>
-      <place xml:id="Calidonia" />
-      <place xml:id="Adee" />
-      <place xml:id="Cotton" />
+      <place xml:id="Calidonia"/>
+      <place xml:id="Adee"/>
+      <place xml:id="Cotton"/>
       <place xml:id="Afrique" source="https://www.wikidata.org/wiki/Q15">
         <placeName xml:lang="fra">Afrique</placeName>
         <placeName xml:lang="ita">Africa</placeName>
@@ -1476,13 +1478,13 @@
       </place>
       <place xml:id="Catalogne" source="https://www.wikidata.org/wiki/Q113834065">
         <placeName xml:lang="fra">Catalogne (région culturelle)</placeName>
-        <location />
+        <location/>
         <idno type="wikidata">Q113834065</idno>
       </place>
       <place xml:id="Barbarie" source="https://www.wikidata.org/wiki/Q501768">
         <placeName xml:lang="fra">Côte des Barbaresques</placeName>
         <placeName xml:lang="ita">Stati barbareschi</placeName>
-        <location />
+        <location/>
         <idno type="wikidata">Q501768</idno>
       </place>
       <place xml:id="Europe" source="https://www.wikidata.org/wiki/Q46">
@@ -1496,7 +1498,7 @@
       <place xml:id="Ogygie" source="https://www.wikidata.org/wiki/Q1232442">
         <placeName xml:lang="fra">Ogygie</placeName>
         <placeName xml:lang="ita">Ogigia</placeName>
-        <location />
+        <location/>
         <idno type="wikidata">Q1232442</idno>
       </place>
       <place xml:id="AixLaChapelle" source="https://www.wikidata.org/wiki/Q1017">
@@ -5349,48 +5351,48 @@
         </location>
         <idno type="wikidata">Q45670</idno>
       </place>
-      <place xml:id="Albano Laziale" />
-      <place xml:id="Bristol" />
-      <place xml:id="Bâle" />
-      <place xml:id="Bålsta" />
-      <place xml:id="Careggi" />
-      <place xml:id="Castello" />
-      <place xml:id="Celana" />
-      <place xml:id="Chantilly" />
-      <place xml:id="Cremona" />
-      <place xml:id="Dijon" />
-      <place xml:id="Dresde" />
-      <place xml:id="Escorial" />
-      <place xml:id="FauxbourgSaintJacques" />
-      <place xml:id="Galluzzo" />
-      <place xml:id="Gizeh" />
-      <place xml:id="Grasse" />
-      <place xml:id="Grenoble" />
-      <place xml:id="Iran" />
-      <place xml:id="Isola Bella" />
-      <place xml:id="London" />
-      <place xml:id="Maincy" />
-      <place xml:id="Napoli" />
-      <place xml:id="New York" />
-      <place xml:id="Nottingham" />
-      <place xml:id="Olympie" />
-      <place xml:id="Ottawa" />
-      <place xml:id="PalaisDuVatican" />
-      <place xml:id="Peloponnese " />
-      <place xml:id="PoggioACaiano" />
-      <place xml:id="Postdam" />
-      <place xml:id="Reims" />
-      <place xml:id="Rotterdam" />
-      <place xml:id="Saint-Germain-en-Laye" />
-      <place xml:id="Saint-Pétersbourg" />
-      <place xml:id="Salzbourg" />
-      <place xml:id="Stockholm" />
-      <place xml:id="Suisse" />
-      <place xml:id="Varsovie" />
-      <place xml:id="Venic" />
-      <place xml:id="Washington" />
-      <place xml:id="Zaventem" />
-      <place xml:id="Édimbourg" />
+      <place xml:id="Albano Laziale"/>
+      <place xml:id="Bristol"/>
+      <place xml:id="Bâle"/>
+      <place xml:id="Bålsta"/>
+      <place xml:id="Careggi"/>
+      <place xml:id="Castello"/>
+      <place xml:id="Celana"/>
+      <place xml:id="Chantilly"/>
+      <place xml:id="Cremona"/>
+      <place xml:id="Dijon"/>
+      <place xml:id="Dresde"/>
+      <place xml:id="Escorial"/>
+      <place xml:id="FauxbourgSaintJacques"/>
+      <place xml:id="Galluzzo"/>
+      <place xml:id="Gizeh"/>
+      <place xml:id="Grasse"/>
+      <place xml:id="Grenoble"/>
+      <place xml:id="Iran"/>
+      <place xml:id="IsolaBella"/>
+      <place xml:id="London"/>
+      <place xml:id="Maincy"/>
+      <place xml:id="Napoli"/>
+      <place xml:id="NewYork"/>
+      <place xml:id="Nottingham"/>
+      <place xml:id="Olympie"/>
+      <place xml:id="Ottawa"/>
+      <place xml:id="PalaisDuVatican"/>
+      <place xml:id="Peloponnese"/>
+      <place xml:id="PoggioACaiano"/>
+      <place xml:id="Postdam"/>
+      <place xml:id="Reims"/>
+      <place xml:id="Rotterdam"/>
+      <place xml:id="Saint-Germain-en-Laye"/>
+      <place xml:id="Saint-Pétersbourg"/>
+      <place xml:id="Salzbourg"/>
+      <place xml:id="Stockholm"/>
+      <place xml:id="Suisse"/>
+      <place xml:id="Varsovie"/>
+      <place xml:id="Venic"/>
+      <place xml:id="Washington"/>
+      <place xml:id="Zaventem"/>
+      <place xml:id="Édimbourg"/>
     </listPlace>
   </settingDesc>
 </TEI>
