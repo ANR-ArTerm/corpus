@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="fra"><!--Titre de l'oeuvre--></title>
+            <respStmt><!--Ce bloc peut être répété -->
+               <resp><!--Indiquer la responsabilité : encodage, transcription, etc.--></resp>
+               <name><!--Nom de la personne : Prénom puis Nom--></name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt > <!--On indique ici des informations sur l'édition et le cadre dans lequel elle se place (ex première édition numérique, dans le cadre d'un projet, etc.)-->
+           <edition><!--Description du projet et contexte de l'édition--></edition>
+         </editionStmt>
+         <publicationStmt><!--Ajouter ici les infos relatives à l'édition électronique : date de publication, éditeur, licence-->
+            <publisher><!--Nom de l'organisme responsable de la publication ou de la distribution--></publisher>
+           <pubPlace>Paris</pubPlace>
+           <date when="2028">2028 ?</date> <!--Date de publication du corpus et du site à la fin de l'ANR ?-->
+           <availability>
+              <licence target="a completer"></licence> <!--Ajouter ici la licence-->
+           </availability>
+        </publicationStmt>
+        <sourceDesc> <!--Informations bibliographiques sur la source à partir de laquelle l'édition numérique a été produite-->
+           <bibl><!--Cette section correspond à la référence bibliographique du document-->
+              <author ref="a completer"><!--Nom de l'auteur--></author>
+              <title xml:lang="fra"><!--Titre de l'oeuvre--></title>
+              <publisher> <persName ref="#PrenomNomEditeur"><!--Nom de l'éditeur--></persName><!--Autres informations sur l'éditeur, le cas échéant--></publisher>
+              <pubPlace><!--Lieu de publication--></pubPlace>
+              <date when="date"><!--Date de publication--></date>
+           </bibl>
+           <msDesc> <!--Cette section correspond à la desciption de l'imprimé original-->
+              <msIdentifier> <!-- Informations requises pour identifier le document-->
+                 <country><!--Nom du pays dans lequel le document est conservé--></country>
+                 <settlement><!--Nom de la ville dans laquelle le document est conservé--></settlement>
+                 <institution><!--Nom de l'institution dans laquelle le document est conservé--></institution>
+                 <repository><!--Nom du dépot ou département dans lequel le document est conservé--></repository>
+                 <idno><!--Identifiant standardisé, par exemple l'identifiant ark pour les documents conservés à la BnF--></idno>
+              </msIdentifier>
+              <msContents><!--Cette section est réservée à la description du contenu intellectuel du document-->
+                 <summary><!--Informations diverses sur le contenu, l'histoire, la mise en page, etc. du document--></summary>
+              </msContents>
+           </msDesc>
+        </sourceDesc>
+       </fileDesc>
+     <profileDesc><!--On inclut ici les index des personnes et des lieux du projet-->
+        <xi:include href="IndexPersonnes.xml" xpointer="element(/1/1)"/>
+        <xi:include href="IndexLieux.xml" xpointer="element(/1/1)"/>
+     </profileDesc>
+  </teiHeader>
+  <text>
+     <front>
+        <titlePage type="titre">
+           <docTitle><!--Titre du document tel qu'il apparait sur la page de titre-->
+              <titlePart type="main"><!--Titre principal de l'ouvrage--></titlePart>
+              <titlePart type="sub"><!--Sous titre s'il existe--></titlePart>
+           </docTitle>
+           <byline><!--Informations sur l'auteur--><docAuthor ref="#PrenomNomAuteur"><!--Nom de l'auteur tel qu'il apparait sur la page de titre, ex : P. MONIER--></docAuthor><!--Autres informations sur l'auteur, ex : Peintre du Roi et Professeur en l’Académie Roiale de Peinture et Sculture.--></byline>
+          <figure type="ornement" source="" /><!--Si nécessaire-->
+           <docImprint> <!--Informations relatives à l'édition et à l'éditeur-->
+              A <pubPlace><!--Lieu d'édition--></pubPlace>
+              <publisher><!--Informations sur l'éditeur--></publisher>
+              <pubPlace><!--Si nécessaire, précisions sur le lieu d'édition--></pubPlace>
+           </docImprint>
+              <docDate when="date"><!-- Date d'édition --></docDate>
+              <imprimatur><!--Mention autorisant la publication de l'ouvrage type 'Avec Privilege de Sa Majesté'--></imprimatur>
+        </titlePage>
+        
+        <!-- Exemple
+        <front>
+			<figure type="gravure" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/ee88c0f5-211c-4508-8c13-242ee2272eed/1141,136,2003,3268/max/0/default.jpg"/>
+			<titlePage type="titre">
+				<docTitle>
+					<titlePart type="main"><hi rend="capitals">HISTOIRE <lb/> DES ARTS QUI ONT RAPORT AU DESSEIN, <lb/> DIVISEE EN TROIS LIVRES</hi></titlePart>
+					<titlePart><hi rend="capitals">OÙ IL EST TRAITÉ DE SON ORIGINE</hi>, de son Progrés, de sa Chute, et de son Rétablissement. Ouvrage utile au public pour savoir ce qui s’est fait de plus considerable en tous les ages, dans la Peinture, la Sculture, l'Architecture et la Gravure; et pour distinguer les bonnes manieres des mauvaises.</titlePart>
+				</docTitle>
+				<byline>Par<docAuthor ref="#PierreMonier"> P. MONIER</docAuthor> Peintre du Roi et Professeur en l’Académie Roiale de Peinture et Sculture.</byline>
+				<figure type="ornement" source="https://prod-arkindex-iiif.europe.iiif.teklia.com/iiif/2/7b568a57-4004-4aee-aef7-b1689a9d3adf/1566,2050,1097,577/max/0/default.jpg"/>
+				<docImprint>
+					A <pubPlace>PARIS</pubPlace>, <lb/><publisher>Chez PIERRE GIFFART, Libraire et Graveur du Roi</publisher>,<pubPlace>rue S. Jacques à l’Image sainte Therese, vis-à-vis S. Yves.</pubPlace>
+				</docImprint>
+				<docDate when="1698">M DC. LXXXXVIII.</docDate>
+				<imprimatur>Avec Privilege de Sa Majesté.</imprimatur>
+			</titlePage> -->
+     </front>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
