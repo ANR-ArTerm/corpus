@@ -2067,7 +2067,7 @@
     <element name="div1">
       <ref name="attlist.div1"/>
       <zeroOrMore>
-         <choice>
+        <choice>
           <ref name="schemaSpec"/>
           <ref name="model.common"/>
           <ref name="entry"/>
@@ -2659,14 +2659,16 @@
   </define>
   <define name="entry">
     <element name="entry">
-        <ref name="attlist.entry"/>      
+      <ref name="attlist.entry"/>
       <ref name="form"/>
-      <optional><ref name="def"/></optional>
-    </element>    
+      <optional>
+        <ref name="def"/>
+      </optional>
+    </element>
   </define>
   <define name="attlist.entry" combine="interleave">
     <ref name="tei_att.global.attributes"/>
-    
+
   </define>
   <!-- doc:(epigraph) contains a quotation, anonymous or attributed, appearing at the start or end of a section or on a title page. [4.2.3. Arguments, Epigraphs, and Postscripts 4.2. Elements Common to All Divisions 4.6. Title Pages] -->
   <define name="epigraph">
@@ -4384,7 +4386,7 @@
         <value>figure</value>
         <value>traduction</value>
         <value>intertextualite</value>
-        <value>renvoie</value>
+        <value>renvoi</value>
       </choice>
     </attribute>
   </define>
@@ -5179,7 +5181,14 @@
     </element>
   </define>
   <define name="attlist.trait" combine="interleave">
-    <empty/>
+    <optional>
+      <attribute name="type">
+        <choice>
+          <value>notice</value>
+          <value>categorie</value>
+        </choice>
+      </attribute>
+    </optional>
   </define>
   <!-- doc:(unclear) contains a word, phrase, or passage which cannot be transcribed with certainty because it is illegible or inaudible in the source. [12.3.3.1. Damage, Illegibility, and Supplied Text 3.5.3. Additions, Deletions, and Omissions] -->
   <define name="unclear">
