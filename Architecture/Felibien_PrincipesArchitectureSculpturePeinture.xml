@@ -3119,8 +3119,8 @@
                                     target="#maniere1">maniere</ref> dont on s'est toujours servy en
                                     <placeName ref="#Italie">Italie</placeName> pour tirer les <ref
                                     target="#marbre1">marbres</ref> de la <ref target="#carrieres"
-                                    >carriere</ref> et les détacher de la montagne, a esté de tracer
-                                les pieces tout <pb n="63"
+                                    >carriere</ref> et les détacher de la montagne, a esté de <ref
+                                    target="#tracer">tracer</ref> les pieces tout <pb n="63"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f97/full/full/0/native.jpg"
                                 /> a l'entour avec des <ref target="#outil1">outils</ref> d'<ref
                                     target="#acier">acier</ref> faits en <ref target="#pointe"
@@ -3282,7 +3282,7 @@
                                         >Louvre</ref></objectName>. Il est immediatement posé sur
                                 l'aire de la <ref target="#carrieres">carriere</ref>, il n'a que le
                                     <ref target="#souchet">souchet</ref> au dessous pour faire la
-                                tranchée. </p>
+                                    <ref target="#tranchées">tranchée</ref>.</p>
                             <p xml:id="FEL_PASP_principes_L1_L1C12_L1C12S1_P61"> Le <ref
                                     target="#liais">liais</ref> est une <ref target="#pierre"
                                     >pierre</ref> tres-dure, blanche et approchant du <ref
@@ -4635,8 +4635,8 @@
                                     pelle au <ref target="#pied">pied</ref> de quelque corps de
                                     terre pour le renverser sans poudre à canon ; ou bien à une
                                         <ref target="#esplanade">esplanade</ref> pour la percer, et
-                                    mesme lorsqu'on pousse une tranchée droite et enfilée ; mais <pb
-                                        n="97"
+                                    mesme lorsqu'on pousse une <ref target="#tranchées"
+                                        >tranchée</ref> droite et enfilée ; mais <pb n="97"
                                         facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f131/full/full/0/native.jpg"
                                     /> enfoncée en terre et couverte avant que d'arriver à faire un
                                         <ref target="#logement">logement</ref> sur un <ref
@@ -4759,26 +4759,27 @@
                                     on s'y loge et s'y retranche pour empescher les ennemis de le
                                     regagner. </p>
                                 <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S2_L1C13S2SS2_P12"><hi
-                                        rend="it">Tranchée d'approche</hi> est un <ref
-                                        target="#chemin2">chemin</ref> oblique, par lequel on va à
-                                    une <ref target="#place">place</ref>, sans en estre vu ; ou des
-                                        <ref target="#ligne">lignes</ref> obliques qui n'aboutissent
-                                    jamais aux ouvrages de la <ref target="#place">place</ref> qu'on
-                                    attaque. Elles ont leur <ref target="#parapet">parapet</ref>
-                                    partout du costé de la <ref target="#place">place</ref>, avec
-                                    deux <ref target="#banquette">banquettes</ref>, et quelquefois
-                                    des <ref target="#redoute">redoutes</ref> à leurs <ref
+                                        rend="it"><ref target="#tranchées">Tranchée</ref>
+                                        d'approche</hi> est un <ref target="#chemin2">chemin</ref>
+                                    oblique, par lequel on va à une <ref target="#place"
+                                    >place</ref>, sans en estre vu ; ou des <ref target="#ligne"
+                                        >lignes</ref> obliques qui n'aboutissent jamais aux ouvrages
+                                    de la <ref target="#place">place</ref> qu'on attaque. Elles ont
+                                    leur <ref target="#parapet">parapet</ref> partout du costé de la
+                                        <ref target="#place">place</ref>, avec deux <ref
+                                        target="#banquette">banquettes</ref>, et quelquefois des
+                                        <ref target="#redoute">redoutes</ref> à leurs <ref
                                         target="#angle">Angles</ref> saillans, pour soustenir
                                     l'effort des sorties. </p>
                                 <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S2_L1C13S2SS2_P13"><hi
                                         rend="it"><ref target="#boyaux">Boyaux</ref></hi> sont des
-                                    tranchées qui vont en serpentant et sans <ref target="#angle"
-                                        >Angles</ref>, comme les font les Turcs. Ces <ref
-                                        target="#ligne">lignes courbées</ref> sont les unes devant
-                                    les autres, et toutes paralelles à la face que presente la <ref
-                                        target="#place">place</ref> qu'on attaque, comme on a vu au
-                                    siege de <placeName ref="#Candie">Candie</placeName> où ce terme
-                                    s'est mis en voguc. </p>
+                                        <ref target="#tranchées">tranchées</ref> qui vont en
+                                    serpentant et sans <ref target="#angle">Angles</ref>, comme les
+                                    font les Turcs. Ces <ref target="#ligne">lignes courbées</ref>
+                                    sont les unes devant les autres, et toutes paralelles à la face
+                                    que presente la <ref target="#place">place</ref> qu'on attaque,
+                                    comme on a vu au siege de <placeName ref="#Candie"
+                                        >Candie</placeName> où ce terme s'est mis en voguc. </p>
                                 <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S2_L1C13S2SS2_P14"><hi
                                         rend="it"><ref target="#ligne">Lignes de <ref
                                                 target="#circonvallation"
@@ -5001,12 +5002,12 @@
                                         <ref target="#pied">pieds</ref>, avec des <ref
                                         target="#traverses">traverses</ref> de la teste de l'un à
                                     celle de l'autre. Il en faut deux rangs paralelles sur les deux
-                                    costez de la Tranchée, pour pouvoir appuyer les Fascines dont
-                                    on les couvre. On s'en sert aux lieux enfilez par necessité ou
-                                    par mégarde de l'Ingenieur, et lors qu'attaquant une <ref
-                                        target="#place">place</ref> qui est éminente, il faut
-                                    plustost traverser un fond et y descendre. Car en ce cas on est
-                                    toujours <pb n="104"
+                                    costez de la <ref target="#tranchées">tranchée</ref>, pour
+                                    pouvoir appuyer les Fascines dont on les couvre. On s'en sert
+                                    aux lieux enfilez par necessité ou par mégarde de l'Ingenieur,
+                                    et lors qu'attaquant une <ref target="#place">place</ref> qui
+                                    est éminente, il faut plustost traverser un fond et y descendre.
+                                    Car en ce cas on est toujours <pb n="104"
                                         facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f138/full/full/0/native.jpg"
                                     /> veu de la <ref target="#place">place</ref>, si l'on ne se
                                     couvre avec des Blindes ou avec des <hi rend="it"><ref
@@ -5023,8 +5024,9 @@
                                     grands paniers d'osier defoncez et ronds qu'on met de bout et
                                     qu'on remplit de terre, pour mettre entre deux, un canon en
                                     batterie. Il s'en fait aussi de petits qu'on met sur les <ref
-                                        target="#parapet">parapets</ref>, aux tranchées, et dans les
-                                        <ref target="#place">places</ref>, pour couvrir les
+                                        target="#parapet">parapets</ref>, aux <ref
+                                        target="#tranchées">tranchées</ref>, et dans les <ref
+                                        target="#place">places</ref>, pour couvrir les
                                     mousquetaires. On les approche si prés les uns des autres qu'il
                                     n'y puisse tenir qu'un mousquet entre deux. </p>
                                 <p xml:id="FEL_PASP_principes_L1_L1C13_L1C13S2_L1C13S2SS4_P14"><hi
@@ -5350,7 +5352,8 @@
                                 </head>
                                 <list rend="numbered">
                                     <item>A <hi rend="it"><ref target="#desseins">Dessein</ref> pour
-                                            tracer une <ref target="#figure1">figure</ref> en</hi>
+                                                <ref target="#tracer">tracer</ref> une <ref
+                                                target="#figure1">figure</ref> en</hi>
                                         Exagone.</item>
                                     <item>B <hi rend="it"><ref target="#galerie2"
                                             >Gallerie</ref>.</hi>
@@ -5830,8 +5833,9 @@
                                     target="#ligne">ligne</ref>.</p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P41"><hi rend="it"><ref
                                         target="#estelon">Estelon</ref></hi>, ce sont des <ref
-                                    target="#ais">ais</ref> que l'on met à terre pour tracer la
-                                    <ref target="#maistresse">maistresse</ref> ferme. </p>
+                                    target="#ais">ais</ref> que l'on met à terre pour <ref
+                                    target="#tracer">tracer</ref> la <ref target="#maistresse"
+                                    >maistresse</ref> ferme. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P42"><hi rend="it"><ref
                                         target="#enrayeures">Enrayeure</ref></hi> et <hi rend="it"
                                     >doubles <ref target="#enrayeures">enrayeures</ref></hi> ce sont
@@ -5851,9 +5855,10 @@
                                     qu'en about</hi>. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P45"><hi rend="it"><ref
                                         target="#abouts">About</ref></hi> des <ref target="#liens2"
-                                    >liens</ref>, Tournices, <ref target="#guettes">guettes</ref> et
-                                    <ref target="#esperons">esperons</ref>. C'est le bout du <ref
-                                    target="#tenon">tenon</ref>, qui est tant soit peu <pb n="123"
+                                    >liens</ref>, <ref target="#tournices">tournices</ref>, <ref
+                                    target="#guettes">guettes</ref> et <ref target="#esperons"
+                                    >esperons</ref>. C'est le bout du <ref target="#tenon"
+                                    >tenon</ref>, qui est tant soit peu <pb n="123"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f157/full/full/0/native.jpg"
                                 /> coupé à l'<ref target="#esquaire3">equaire</ref> suivant la pente
                                 du <hi rend="it">joint</hi> ou <ref target="#espaulement"
@@ -5862,10 +5867,11 @@
                                         target="#joints">Joints quarrez</ref></hi>, c'est une <ref
                                     target="#maniere1">maniere</ref> d'assembler les pieces de bois. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P47"> Les <hi rend="it"
-                                        ><ref target="#tenon">tenons</ref></hi> à tournices, ou <hi
-                                    rend="it"><ref target="#oulices">oulices</ref></hi> sont ceux
-                                qui sont coupez tout quarrément, et en about auprés les paremens du
-                                bois, pour <ref target="#revestir">revestir</ref> aprés coup, quand
+                                        ><ref target="#tenon">tenons</ref></hi> à <ref
+                                    target="#tournices">tournices</ref>, ou <hi rend="it"><ref
+                                        target="#oulices">oulices</ref></hi> sont ceux qui sont
+                                coupez tout quarrément, et en about auprés les paremens du bois,
+                                pour <ref target="#revestir">revestir</ref> aprés coup, quand
                                 l'ouvrage est fait. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P48"><hi rend="it">Faire
                                     un <ref target="#decolement">decolement</ref> à un <ref
@@ -5887,18 +5893,19 @@
                                 Pieces de bois qui doivent estre employées à la construction d'un
                                 logis, et pour connoistre celles de chaque costé. Ils nomment la
                                 premiere <hi rend="it"><ref target="#marc2">marc franc</ref></hi>
-                                qui sont de petites marques ou traits qu'ils tracent avec la <hi
-                                    rend="it"><ref target="#roinette">roinette</ref></hi> ou <hi
-                                    rend="it">traceret</hi>, et font autant de ces traits qu'il y a
-                                de pieces. La seconde, ils la nomment <hi rend="it"><ref
-                                        target="#contremarq">contre-marq</ref></hi>. La troisiesme,
-                                ils la font en forme de <hi rend="it">Crochet</hi>. Et la
-                                quatriesme, ils l'appelent <hi rend="it"><ref target="#patte-d'oye"
-                                        >patte-d'oye</ref></hi>. Lorsque le nombre des pieces est
-                                trop grand, et que les quatre Marques ne suffisent pas pour les
-                                distinguer, ils font des ronds et se servent de chiffres. Ils ont
-                                aussi des contres ou fausses marques dont l'on dit que quelques-uns
-                                    <pb n="124"
+                                qui sont de petites marques ou <ref target="#trait">traits</ref>
+                                qu'ils <ref target="#tracer">tracent</ref> avec la <hi rend="it"
+                                        ><ref target="#roinette">roinette</ref></hi> ou <hi
+                                    rend="it"><ref target="#tracerets">traceret</ref></hi>, et font
+                                autant de ces <ref target="#trait">traits</ref> qu'il y a de pieces.
+                                La seconde, ils la nomment <hi rend="it"><ref target="#contremarq"
+                                        >contre-marq</ref></hi>. La troisiesme, ils la font en forme
+                                de <hi rend="it">Crochet</hi>. Et la quatriesme, ils l'appelent <hi
+                                    rend="it"><ref target="#patte-d'oye">patte-d'oye</ref></hi>.
+                                Lorsque le nombre des pieces est trop grand, et que les quatre
+                                Marques ne suffisent pas pour les distinguer, ils font des ronds et
+                                se servent de chiffres. Ils ont aussi des contres ou fausses marques
+                                dont l'on dit que quelques-uns <pb n="124"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f158/full/full/0/native.jpg"
                                 /> se servent à tromper le public. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P53"><ref
@@ -5941,8 +5948,9 @@
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P63"> La <hi rend="it"
                                         ><ref target="#besaigue">Besaigue</ref></hi>. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P64"> La <hi rend="it"
-                                        ><ref target="#jauge">jauge</ref></hi> pour tracer les <ref
-                                    target="#mortaises">mortaises</ref>. </p>
+                                        ><ref target="#jauge">jauge</ref></hi> pour <ref
+                                    target="#tracer">tracer</ref> les <ref target="#mortaises"
+                                    >mortaises</ref>. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P65"> Le <hi rend="it"
                                         ><ref target="#tariere">tariere</ref></hi> qui sert pour
                                 percer les <ref target="#mortaises">mortaises</ref>. </p>
@@ -5998,7 +6006,8 @@
                                         ><ref target="#roinette">roinette</ref></hi> pour marquer le
                                 bois. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P80"> Les <hi rend="it"
-                                    >Tracerets</hi> pour le <ref target="#piquer">piquer</ref>.</p>
+                                        ><ref target="#tracerets">tracerets</ref></hi> pour le <ref
+                                    target="#piquer">piquer</ref>.</p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P81"> L'<hi rend="it"
                                         ><ref target="#herminette">herminette</ref></hi> pour planir
                                 et doler les <ref target="#ais">ais</ref> et autres choses. </p>
@@ -6287,7 +6296,8 @@
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P100"><hi rend="capitals"
                                     >LES <ref target="#rouleau">ROULEAUX</ref>.</hi><hi rend="it"
                                     >Les <ref target="#rouleau">rouleaux</ref> sans fin</hi> ou <hi
-                                    rend="it">Tours terrieres</hi> sont assemblez avec <ref
+                                    rend="it"><ref target="#tours-terrieres">tours
+                                    terrieres</ref></hi> sont assemblez avec <ref
                                     target="#entretoises">entretoises</ref>, et servent à mener de
                                 grosses pieces. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C14_L1C14S2_P101"> Toutes ces <ref
@@ -6430,8 +6440,8 @@
                                             >Mortaise</ref></hi>.</item>
                                     <item>32.<hi rend="it"><ref target="#tenon"
                                         >Tenon</ref></hi>.</item>
-                                    <item>33 <hi rend="it"><ref target="#tenon">Tenon</ref> a
-                                            tournices</hi>.</item>
+                                    <item>33 <hi rend="it"><ref target="#tenon">Tenon</ref> à <ref
+                                                target="#tournices">tournices</ref></hi>.</item>
                                     <item>34 <hi rend="it"><ref target="#tenon">Tenons</ref> à <ref
                                                 target="#mordant">mordant</ref></hi>.</item>
                                     <item>35 <hi rend="it"><ref target="#renforts">Renfort</ref>, ou
@@ -6494,9 +6504,9 @@
                                                 target="#debiter">debiter</ref></hi>.</item>
                                     <item>16 <hi rend="it"><ref target="#esbauchoir1"
                                                 >Esbauchoir</ref></hi>.</item>
-                                    <item>17 <hi rend="it"><ref target="#jauge">Jauge</ref> à tracer
-                                            les <ref target="#mortaises"
-                                        >mortaises</ref></hi>.</item>
+                                    <item>17 <hi rend="it"><ref target="#jauge">Jauge</ref> à <ref
+                                                target="#tracer">tracer</ref> les <ref
+                                                target="#mortaises">mortaises</ref></hi>.</item>
                                     <item>18 <hi rend="it"><ref target="#besaigue"
                                             >Besaigue</ref></hi>.</item>
                                     <item>19 <hi rend="it"><ref target="#ciseau1">Ciseau</ref> à
@@ -6540,7 +6550,8 @@
                                         <item>5 <hi rend="it"><ref target="#hachette2">Hachette à
                                                   <ref target="#marteau1"
                                             >marteau</ref></ref></hi>.</item>
-                                        <item>6 <hi rend="it">Traceret</hi>.</item>
+                                        <item>6 <hi rend="it"><ref target="#tracerets"
+                                                  >Traceret</ref></hi>.</item>
                                         <item>7 <hi rend="it"><ref target="#roinette"
                                                 >Roinette</ref></hi>.</item>
                                         <item>8 <hi rend="it"><ref target="#chevilles1"
@@ -6809,9 +6820,10 @@
                                             <hi rend="capitals">F TROUSSES.</hi>
                                         </item>
                                         <item><hi rend="capitals">VII. FIGURE.</hi><hi
-                                                rend="capitals">G <ref target="#rouleau"
-                                                  >ROULEAUX</ref> SANS PIN</hi>, <hi rend="it">ou
-                                                Tours tarrieres</hi>.</item>
+                                                rend="capitals">G <ref target="#rouleau">ROULEAUX
+                                                  SANS PIN</ref></hi>, <hi rend="it">ou <ref
+                                                  target="#tours-terrieres">tours
+                                                tarrieres</ref></hi>.</item>
                                         <item>
                                             <hi rend="capitals">VIII. FIGURE.</hi>
                                             <hi rend="capitals">H <ref target="#rouleau"
@@ -8403,9 +8415,10 @@
                                             >chien</ref> de mer</hi> pour polir le bois dans les
                                         <ref target="#figure1">figures</ref> irregulieres.</p>
                                 <p xml:id="FEL_PASP_principes_L1_L1C18_L1C18S2_L1C18S2SS4_P15"> Un
-                                        <hi rend="it">Tourne à gauche</hi> qui est un morceau de
-                                        <ref target="#fer1">fer</ref> fendu par le milieu pour
-                                    tourner les dents de costé et d'autre.</p>
+                                        <hi rend="it"><ref target="#tourne-à-gauche">tourne à
+                                            gauche</ref></hi> qui est un morceau de <ref
+                                        target="#fer1">fer</ref> fendu par le milieu pour tourner
+                                    les dents de costé et d'autre.</p>
                             </div5>
                         </div4>
                         <div4 type="planches" xml:id="L1C18S3">
@@ -8716,8 +8729,8 @@
                                     </item>
                                     <item>Y <hi rend="it">Villebrequin.</hi>
                                     </item>
-                                    <item>Z <hi rend="it">Tourne à gauche.</hi>
-                                    </item>
+                                    <item>Z <hi rend="it"><ref target="#tourne-à-gauche">Tourne à
+                                                gauche</ref></hi>. </item>
                                 </list>
                                 <pb n="185"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f219/full/full/0/native.jpg"/>
@@ -10566,13 +10579,13 @@
                                 doucement dessus, jusques à ce que le vinaigre emporte la <ref
                                     target="#couleurs1">couleur</ref> aux endroits qu'on a <ref
                                     target="#desseigner">desseignez</ref> sur le vernis, qu'il faut
-                                bien prendre garde de ne pas oster. Lorsque l'on voit les traits
-                                devenir blancs, et perdre leur <ref target="#couleurs1"
-                                    >couleur</ref>, l'on jette la besongne dans de l'eau claire, et
-                                ensuite la faisant un peu chauffer, on l'essuye doucement pour en
-                                oster le vernis: Et ce qui a esté <ref target="#desseigner"
-                                    >desseigné</ref> estant blanc, le reste demeure violet ou
-                                d'autre <ref target="#couleurs1">couleur</ref>. </p>
+                                bien prendre garde de ne pas oster. Lorsque l'on voit les <ref
+                                    target="#trait">traits</ref> devenir blancs, et perdre leur <ref
+                                    target="#couleurs1">couleur</ref>, l'on jette la besongne dans
+                                de l'eau claire, et ensuite la faisant un peu chauffer, on l'essuye
+                                doucement pour en oster le vernis: Et ce qui a esté <ref
+                                    target="#desseigner">desseigné</ref> estant blanc, le reste
+                                demeure violet ou d'autre <ref target="#couleurs1">couleur</ref>. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S1_P148"> Que si l'on
                                 vouloit oster toute la <ref target="#couleurs1">couleur</ref>
                                 violette ou autre, de dessus du <ref target="#fer1">fer</ref> sans
@@ -10712,13 +10725,15 @@
                                     target="#tarjettes">targettes</ref>, et autres pieces sur le
                                     <ref target="#plomb">plomb</ref>. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P35"> Les <hi rend="it"
-                                        ><ref target="#ciseaux5">cizeaux</ref> ou Tranches</hi>,
-                                pour fendre les barres de <ref target="#fer1">fer</ref> a chaud. </p>
+                                        ><ref target="#ciseaux5">cizeaux</ref> ou <ref
+                                        target="#tranche">tranches</ref></hi>, pour fendre les
+                                barres de <ref target="#fer1">fer</ref> a chaud. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P36"> Les <hi rend="it"
-                                        ><ref target="#ciseaux6">ciseaux</ref> ou Tranches</hi>
-                                percées pour couper les <ref target="#fiche1">fiches</ref> ou <ref
-                                    target="#couplets">couplets</ref>, et autres petites pieces de
-                                    <ref target="#fer1">fer</ref> à chaud. </p>
+                                        ><ref target="#ciseaux6">ciseaux</ref> ou <ref
+                                        target="#tranche">tranches</ref></hi> percées pour couper
+                                les <ref target="#fiche1">fiches</ref> ou <ref target="#couplets"
+                                    >couplets</ref>, et autres petites pieces de <ref target="#fer1"
+                                    >fer</ref> à chaud. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P37"> Les <hi rend="it"
                                         ><ref target="#ciseaux2">cizeaux</ref> à froid</hi> pour
                                 couper de petites pieces de <ref target="#fer1">fer</ref> à froid. </p>
@@ -10800,8 +10815,9 @@
                                         ><ref target="#filieres2">filieres</ref></hi> qui servent à
                                 faire des vis. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P57"> Les <hi rend="it"
-                                        ><ref target="#griffes2">griffes</ref></hi> pour tracer les
-                                Panetons des <ref target="#clef1">clefs</ref>. </p>
+                                        ><ref target="#griffes2">griffes</ref></hi> pour <ref
+                                    target="#tracer">tracer</ref> les Panetons des <ref
+                                    target="#clef1">clefs</ref>. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P58"> Les <hi rend="it"
                                         ><ref target="#gratoueres">gratoueres</ref> rondes,
                                     demy-rondes</hi> et d'autres <ref target="#figure1"
@@ -10964,10 +10980,11 @@
                                 quarrées, plattes, ou berlongues pour percer les pieces à froid et
                                 à chaud. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P97"> Les <hi rend="it"
-                                        ><ref target="#pointe">pointes</ref></hi> à tracer pour <ref
-                                    target="#portraire">portraire</ref> sur le <ref target="#fer1"
-                                    >fer</ref>, et tracer les <ref target="#rouet">rouets</ref> et
-                                autres pieces. </p>
+                                        ><ref target="#pointe">pointes</ref></hi> à <ref
+                                    target="#tracer">tracer</ref> pour <ref target="#portraire"
+                                    >portraire</ref> sur le <ref target="#fer1">fer</ref>, et <ref
+                                    target="#tracer">tracer</ref> les <ref target="#rouet"
+                                    >rouets</ref> et autres pieces. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P98"> Le <hi rend="it"
                                         ><ref target="#plastrouer">plastrouer</ref></hi> pour
                                 pousser la Brique, Ardoise ou <ref target="#pierre">pierre</ref>
@@ -11019,17 +11036,17 @@
                                         ><ref target="#scie">scie</ref></hi> à guichet pour faire
                                 les entrées des <ref target="#serrure">serrures</ref>. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P110"> Un <hi rend="it"
-                                    >Tranchet</hi> pour couper petites pieces de <ref target="#fer1"
-                                    >fer</ref> à chaud. </p>
+                                        ><ref target="#tranchet">tranchet</ref></hi> pour couper
+                                petites pieces de <ref target="#fer1">fer</ref> à chaud.</p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P111"> La <hi rend="it"
                                     >Tuyerre</hi> de la forge, ou conduit par où passe le vent des
                                     <ref target="#soufflet">soufflets</ref>.</p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P112"> Les <hi rend="it"
                                         ><ref target="#tenailles">tenailles</ref></hi> droites pour
-                                tenir les petites pieces dans le feu. </p>
+                                tenir les petites pieces dans le feu.</p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P113"> Les <hi rend="it"
                                         ><ref target="#tenailles">tenailles</ref></hi> croches pour
-                                tenir les grosses pieces. </p>
+                                tenir les grosses pieces.</p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P114"> Les <hi rend="it"
                                         ><ref target="#tenailles">tenailles</ref></hi> rondes, pour
                                 tenir des <ref target="#boutons2">boutons</ref>. </p>
@@ -11065,12 +11082,13 @@
                                     target="#filieres2">filieres</ref> et <ref target="#escrou"
                                     >escrous</ref> à vis. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P123"> Un <hi rend="it"
-                                    >Tourne-à-gauche</hi>, pour tourner les <ref target="#taraux"
-                                    >tarraux</ref>, et pour faire les <ref target="#escrou"
-                                    >escrous</ref> des vis. </p>
+                                        ><ref target="#tourne-à-gauche">tourne-à-gauche</ref></hi>,
+                                pour tourner les <ref target="#taraux">tarraux</ref>, et pour faire
+                                les <ref target="#escrou">escrous</ref> des vis. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P124"> Les <hi rend="it"
-                                    >Tranches ou <ref target="#ciseaux5">cizeaux</ref></hi> pour
-                                fendre à chaud les barres de <ref target="#fer1">fer</ref>. </p>
+                                        ><ref target="#tranche">tranches</ref> ou <ref
+                                        target="#ciseaux5">cizeaux</ref></hi> pour fendre à chaud
+                                les barres de <ref target="#fer1">fer</ref>. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C20_L1C20S2_P125"> Les <hi rend="it"
                                     >Valets ou <ref target="#chevalet2">chevalets</ref></hi> pour
                                 blanchir les <ref target="#tarjettes">targettes</ref>. </p>
@@ -11239,8 +11257,7 @@
                                 <pb n="236"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f270/full/full/0/native.jpg"/>
                                 <head>
-                                    <hi rend="capitals"> EXPLICATION DE LA PLANCHE XXXV. </hi>
-                                </head>
+                                    <hi rend="capitals">EXPLICATION DE LA PLANCHE XXXV</hi>. </head>
                                 <list rend="numbered">
                                     <item>A <hi rend="it"><ref target="#auge">Auge</ref> de <ref
                                                 target="#pierre">pierre</ref> Servant à mettre l'eau
@@ -11260,16 +11277,17 @@
                                         >Estau</ref></hi>.</item>
                                     <item>H <hi rend="it"><ref target="#enclume1"
                                         >Enclume</ref></hi>.</item>
-                                    <item>I <hi rend="it">Tranchoir à fendre, qui se pose sur l'<ref
-                                                target="#enclume1">enclume</ref>, ou sur un <ref
-                                                target="#tasseaux">tasseau</ref></hi>.</item>
+                                    <item>I <hi rend="it"><ref target="#tranchoir">Tranchoir</ref> à
+                                            fendre, qui se pose sur l'<ref target="#enclume1"
+                                                >enclume</ref>, ou sur un <ref target="#tasseaux"
+                                                >tasseau</ref></hi>.</item>
                                     <item> K <hi rend="it"><ref target="#perçouere">Perçouere</ref>
                                             ronde ou Virolle</hi>.</item>
                                     <item> L <hi rend="it">Autre <ref target="#perçouere"
                                                 >perçouere</ref> à mettre sur l'<ref
                                                 target="#establie4">establie</ref></hi>.</item>
-                                    <item>M <hi rend="it">Tranche à fendre à chaud avec son
-                                            manche</hi>.</item>
+                                    <item>M <hi rend="it"><ref target="#tranche">Tranche à
+                                                fendre</ref> à chaud avec son manche</hi>.</item>
                                     <item>N <hi rend="it">Gros <ref target="#marteau4">marteau à
                                                 rabatre</ref>, et à Pane de travers</hi>. <list
                                             rend="numbered">
@@ -11405,8 +11423,9 @@
                                                 >Archet</ref>
                                         </hi>.</item>
                                     <item>O <hi rend="it"><ref target="#filieres2">Filliere</ref>
-                                            avec son <ref target="#taraux">tarot</ref> et son tourne
-                                            à gauche</hi>. </item>
+                                            avec son <ref target="#taraux">tarot</ref> et son <ref
+                                                target="#tourne-à-gauche">tourne à
+                                        gauche</ref></hi>.</item>
                                 </list>
                             </div5>
                             <pb n="241"
@@ -11539,13 +11558,14 @@
                                 Verre qui avoit esté colorié dans les Verreries, pour faire les
                                     <ref target="#draperies">draperies</ref> des <ref
                                     target="#figure1">figures</ref>, et en marquoient seulement les
-                                    <ref target="#ombres">ombres</ref> avec des traits et hacheures
-                                noires. Et pour les <ref target="#carnation">carnations</ref>, ils
-                                choisissoient du Verre dont la <ref target="#couleurs1"
-                                    >couleur</ref> fust d'un <ref target="#rouge">rouge</ref> clair,
-                                sur lequel ils <ref target="#desseigner">desseignoient</ref> avec du
-                                noir les principaux <ref target="#lineamens">lineamens</ref> du
-                                visage, et les autres parties du corps. </p>
+                                    <ref target="#ombres">ombres</ref> avec des <ref target="#trait"
+                                    >traits</ref> et hacheures noires. Et pour les <ref
+                                    target="#carnation">carnations</ref>, ils choisissoient du Verre
+                                dont la <ref target="#couleurs1">couleur</ref> fust d'un <ref
+                                    target="#rouge">rouge</ref> clair, sur lequel ils <ref
+                                    target="#desseigner">desseignoient</ref> avec du noir les
+                                principaux <ref target="#lineamens">lineamens</ref> du visage, et
+                                les autres parties du corps. </p>
                             <pb n="246"
                                 facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f280/full/full/0/native.jpg"/>
                             <p xml:id="FEL_PASP_principes_L1_L1C21_L1C21S1_P4"> Mais pour faire les
@@ -11576,20 +11596,20 @@
                                     ref="#AlbrechtDurerElder">Albert Dure</persName>, et <persName
                                     ref="#LucasVanLeyden">Lucas de Leyde</persName> furent des
                                 premiers qui augmenterent encore cet art ; et ensuite l'on a fait
-                                une infinité d'ouvrages d'un travail si exquis qu'on ne peut rien
-                                desirer davantage pour la beauté du <ref target="#desseins"
-                                    >dessein</ref> et l'apprest des <ref target="#couleurs1"
-                                    >couleurs</ref>. Nous voyons en plusieurs endroits des Vitres
-                                admirables, principalement celles qui ont esté faites d'aprés les
-                                    <ref target="#desseins">desseins</ref> des excellens Maistres,
-                                comme il y en a encore dans l'<objectName>Eglise de S.
-                                    Gervais</objectName> à <placeName ref="#Paris">Paris</placeName>
-                                d'aprés <persName ref="#JeanCousin">Jean Cousin</persName> ; à la
-                                    <objectName>sainte Chapelle du bois de Vincennes</objectName>,
-                                    dont<persName ref="#LucaPenni"> Lucas Peni</persName> Italien a
-                                fait les <ref target="#cartons">cartons</ref> ; à <placeName
-                                    ref="#Anet">Anet</placeName>, et en divers autres lieux de ce
-                                Royaume. </p>
+                                une infinité d'ouvrages d'un <ref target="#travail">travail</ref> si
+                                exquis qu'on ne peut rien desirer davantage pour la beauté du <ref
+                                    target="#desseins">dessein</ref> et l'apprest des <ref
+                                    target="#couleurs1">couleurs</ref>. Nous voyons en plusieurs
+                                endroits des Vitres admirables, principalement celles qui ont esté
+                                faites d'aprés les <ref target="#desseins">desseins</ref> des
+                                excellens Maistres, comme il y en a encore dans l'<objectName>Eglise
+                                    de S. Gervais</objectName> à <placeName ref="#Paris"
+                                    >Paris</placeName> d'aprés <persName ref="#JeanCousin">Jean
+                                    Cousin</persName> ; à la <objectName>sainte Chapelle du bois de
+                                    Vincennes</objectName>, dont<persName ref="#LucaPenni"> Lucas
+                                    Peni</persName> Italien a fait les <ref target="#cartons"
+                                    >cartons</ref> ; à <placeName ref="#Anet">Anet</placeName>, et
+                                en divers autres lieux de ce Royaume. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C21_L1C21S1_P6"> De mesme que l'<ref
                                     target="#or">or</ref> est regardé comme le Chef <pb n="247"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f281/full/full/0/native.jpg"
@@ -11921,8 +11941,9 @@
                                     target="#couleurs1">couleurs</ref> que les autres Verres. Quand
                                 la piece qu'on veut faire n'est pas grande, on met le Verre sur le
                                     <ref target="#desseins">dessein</ref> qu'on veut <ref
-                                    target="#imiter">imiter</ref>, dont l'on prend le trait avec une
-                                plume ou un <ref target="#pinceau">pinceau</ref>, et de la <ref
+                                    target="#imiter">imiter</ref>, dont l'on prend le <ref
+                                    target="#trait">trait</ref> avec une plume ou un <ref
+                                    target="#pinceau">pinceau</ref>, et de la <ref
                                     target="#couleurs1">couleur</ref>
                                 <ref target="#noir1">noire</ref>, dont j'ay parlé. Si elle est
                                 seche, il faut la <ref target="#broyer">broyer</ref> une heure sur
@@ -11932,8 +11953,9 @@
                                 comme une noix de <ref target="#couleurs1">couleur</ref>. Il faut
                                 aussi que la <ref target="#gomme">gomme</ref> soit fondue avant que
                                 d'employer la <ref target="#couleurs1">couleur</ref> qui ne doit
-                                estre ny trop claire ny trop épaisse ; et quand les traits sont
-                                marquez, il faut les laisser secher deux jours. </p>
+                                estre ny trop claire ny trop épaisse ; et quand les <ref
+                                    target="#trait">traits</ref> sont marquez, il faut les laisser
+                                secher deux jours. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C21_L1C21S1_P27"> Ensuite on donne un
                                     <ref target="#lavis">lavis</ref>, qui se fait en prenant six ou
                                 sept grains de <ref target="#gomme">gomme arabique</ref> bien
@@ -11944,14 +11966,15 @@
                                 Pour bien faire, il faut que le noir soit dans un petit bassin de
                                     <ref target="#plomb">plomb</ref> couvert de ce <ref
                                     target="#lavis">lavis</ref>, afin qu'il ne seche pas si tost, et
-                                comme les traits auront esté deux jours à secher, l'on passe le <ref
-                                    target="#lavis">lavis</ref> également par tout, et fort
-                                legerement pour ne pas effacer les traits ; puis on le laisse
-                                reposer deux autres jours. Ce <ref target="#lavis">lavis</ref> sert
-                                de premiere <ref target="#ombres">ombre</ref>, ou <ref
-                                    target="#teintes">demy-teinte</ref> ; Et pour faire la seconde
-                                    <ref target="#teintes">teinte</ref>, il faut repasser encore une
-                                fois la <ref target="#couleurs1">couleur</ref> avec le <ref
+                                comme les <ref target="#trait">traits</ref> auront esté deux jours à
+                                secher, l'on passe le <ref target="#lavis">lavis</ref> également
+                                par tout, et fort legerement pour ne pas effacer les <ref
+                                    target="#trait">traits</ref> ; puis on le laisse reposer deux
+                                autres jours. Ce <ref target="#lavis">lavis</ref> sert de premiere
+                                    <ref target="#ombres">ombre</ref>, ou <ref target="#teintes"
+                                    >demy-teinte</ref> ; Et pour faire la seconde <ref
+                                    target="#teintes">teinte</ref>, il faut repasser encore une fois
+                                la <ref target="#couleurs1">couleur</ref> avec le <ref
                                     target="#pinceau">pinceau</ref> aux endroits necessaires. Pour
                                 donner les <ref target="#jour1">jours</ref> et les rehauts on prend
                                 une plume ou la <ref target="#hampe">hampe</ref> du <ref
@@ -11971,8 +11994,9 @@
                                 détrempez avec de l'eau de <ref target="#gomme">gomme</ref>. Et pour
                                 les autres <ref target="#couleurs1">couleurs</ref> il faut aussi les
                                 employer diligemment, selon le travail que l'on fait, et prendre
-                                garde à ne point effacer les traits, ou bien appliquer les <ref
-                                    target="#couleurs1">couleurs</ref> de l'autre costé du verre. </p>
+                                garde à ne point effacer les <ref target="#trait">traits</ref>, ou
+                                bien appliquer les <ref target="#couleurs1">couleurs</ref> de
+                                l'autre costé du verre. </p>
                             <p xml:id="FEL_PASP_principes_L1_L1C21_L1C21S1_P30"> Quant au <ref
                                     target="#jaune">jaune</ref>, c'est la <ref target="#couleurs1"
                                     >couleur</ref> la plutost faite au <ref target="#fourneau"
@@ -12124,18 +12148,23 @@
                                     pieces couchées, de la <ref target="#borne">borne</ref> en <ref
                                         target="#pieces">pieces quarrées</ref>, <ref
                                         target="#bornes">Bornes</ref> debout, <ref target="#bornes"
-                                        >Bornes</ref> couchées en tranchoir pointu, <ref
-                                        target="#bornes">Bornes</ref> doubles et simples, <ref
-                                        target="#bornes">Bornes</ref> couchées doubles, <ref
-                                        target="#bornes">Bornes</ref> longues en tranchoir pointu.
-                                    Tranchoirs en <ref target="#lozanges1">lozanges</ref>, Tranchoir
-                                    pointu à <ref target="#tringlettes">tringlette</ref> double,
-                                        <ref target="#tringlettes">tringlettes</ref> en tranchoirs,
-                                        <ref target="#chesnons">chesnons</ref>, <ref
-                                        target="#moulinet4">moulinets</ref> en tranchoirs, <ref
+                                        >Bornes</ref> couchées en <ref target="#tranchoir"
+                                        >tranchoir</ref> pointu, <ref target="#bornes">Bornes</ref>
+                                    doubles et simples, <ref target="#bornes">Bornes</ref> couchées
+                                    doubles, <ref target="#bornes">Bornes</ref> longues en <ref
+                                        target="#tranchoir">tranchoir</ref> pointu. <ref
+                                        target="#tranchoir">Tranchoirs</ref> en <ref
+                                        target="#lozanges1">lozanges</ref>, <ref target="#tranchoir"
+                                        >tranchoir</ref> pointu à <ref target="#tringlettes"
+                                        >tringlette</ref> double, <ref target="#tringlettes"
+                                        >tringlettes</ref> en <ref target="#tranchoir"
+                                        >tranchoirs</ref>, <ref target="#chesnons">chesnons</ref>,
+                                        <ref target="#moulinet4">moulinets</ref> en <ref
+                                        target="#tranchoir">tranchoirs</ref>, <ref
                                         target="#moulinet4">moulinets</ref> doubles, <ref
-                                        target="#moulinet4">moulinets</ref> à tranchoirs évidez,
-                                        <ref target="#croix2">croix</ref> de Lorraine, <ref
+                                        target="#moulinet4">moulinets</ref> à <ref
+                                        target="#tranchoir">tranchoirs</ref> évidez, <ref
+                                        target="#croix2">croix</ref> de Lorraine, <ref
                                         target="#molette1">molette d'esperon</ref>, <ref
                                         target="#feuilles4">feuilles de laurier</ref> ; Bastons
                                     rompus, <ref target="#du-dé">du dé</ref>, <ref target="#façon"
@@ -12436,18 +12465,20 @@
                                 </head>
                                 <list rend="numbered">
                                     <item>A <hi rend="it"><ref target="#borne">Borne</ref> couchee
-                                            en Tranchoir pointu</hi>.</item>
+                                            en <ref target="#tranchoir">tranchoir</ref>
+                                        pointu</hi>.</item>
                                     <item>B <hi rend="it"><ref target="#borne">Borne</ref> double et
                                             simple</hi>.</item>
                                     <item>C <hi rend="it"><ref target="#borne">Borne</ref> couchée
                                             double</hi>.</item>
                                     <item>D <hi rend="it"><ref target="#borne">Borne</ref> longue en
-                                            Tranchoix pointu</hi>.</item>
-                                    <item>E <hi rend="it">Tranchoirs en <ref target="#lozanges1"
-                                                >lozanges</ref></hi>.</item>
-                                    <item>F <hi rend="it">Tranchoirs pointus à <ref
-                                                target="#tringlettes">tringlettes</ref>
-                                        doubles</hi>.</item>
+                                                <ref target="#tranchoir">tranchoir</ref>
+                                        pointu</hi>.</item>
+                                    <item>E <hi rend="it"><ref target="#tranchoir">Tranchoirs</ref>
+                                            en <ref target="#lozanges1">lozanges</ref></hi>.</item>
+                                    <item>F <hi rend="it"><ref target="#tranchoir">Tranchoirs</ref>
+                                            pointus à <ref target="#tringlettes">tringlettes</ref>
+                                            doubles</hi>.</item>
                                 </list>
                                 <pb n="267"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f301/full/full/0/native.jpg"/>
@@ -12464,15 +12495,18 @@
                                 </head>
                                 <list rend="numbered">
                                     <item>A <hi rend="it"><ref target="#tringlettes"
-                                                >Tringlette</ref> en tranchoirs</hi>.</item>
+                                                >Tringlette</ref> en <ref target="#tranchoir"
+                                                >tranchoirs</ref></hi>.</item>
                                     <item>B <hi rend="it"><ref target="#chesnons"
                                             >Chesnons</ref></hi>.</item>
                                     <item>C <hi rend="it"><ref target="#moulinet4">Moulinets</ref>
-                                            en Tranchoirs</hi>.</item>
+                                            en <ref target="#tranchoir"
+                                        >tranchoirs</ref></hi>.</item>
                                     <item>D <hi rend="it"><ref target="#moulinet4">Moulinets</ref>
                                             doubles</hi>.</item>
                                     <item>E <hi rend="it"><ref target="#moulinet4">Moulinets</ref>
-                                            en Tranchoirs évidez</hi>.</item>
+                                            en <ref target="#tranchoir">tranchoirs</ref>
+                                        évidez</hi>.</item>
                                     <item>F <hi rend="it"><ref target="#croix2">Croix</ref> de
                                             Loraine</hi>.</item>
                                 </list>
@@ -13651,11 +13685,11 @@
                                 >Agesandre</persName>, <persName ref="#Polydore"
                             >Polydore</persName>, et <persName ref="#Athenodore"
                                 >Athenodore</persName>, dignes tous les trois d'une louange
-                            immortelle pour un si beau travail ; et une infinité d'autres dont les
-                            noms de quelques-uns ont passeéà la posterite, et les autres ont peri
-                            avec leurs ouvrages. Car quoyqu'il y eust un si grand nombre de <ref
-                                target="#statue">statues</ref> en <placeName ref="#Asie"
-                                >Asie</placeName>,<pb n="302"
+                            immortelle pour un si beau <ref target="#travail">travail</ref> ; et une
+                            infinité d'autres dont les noms de quelques-uns ont passeéà la
+                            posterite, et les autres ont peri avec leurs ouvrages. Car quoyqu'il y
+                            eust un si grand nombre de <ref target="#statue">statues</ref> en
+                                <placeName ref="#Asie">Asie</placeName>,<pb n="302"
                                 facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f336/full/full/0/native.jpg"
                             /> en <placeName ref="#Grece">Grece</placeName> et en <placeName
                                 ref="#Italie">Italie</placeName>, que dans <placeName ref="#Rome"
@@ -13708,14 +13742,15 @@
                             beauté si exquise. </p>
                         <p xml:id="FEL_PASP_principes_L2_L2C1_P9"> Outre que les <ref
                                 target="#statue">statues</ref> Greques sont les plus estimées pour
-                            l'excellence du travail. Il y a cette difference entr'elles et les <ref
-                                target="#statue">statues</ref> Romaines, que la pluspart des
-                            premieres sont presque toujours nues, à la <ref target="#maniere1"
-                                >maniere</ref> de ceux qui s'exerçoient à la lutte, ou aux autres
-                            exercices du corps, en quoy la jeunesse d'alors faisoit consister toute
-                            sa gloire ; Et que les autres sont couvertes d'habillemens ou d'armes,
-                            et particulierement de la <hi rend="it">Togue</hi>, qui estoit la plus
-                            grande marque d'honneur chez les Romains. </p>
+                            l'excellence du <ref target="#travail">travail</ref>. Il y a cette
+                            difference entr'elles et les <ref target="#statue">statues</ref>
+                            Romaines, que la pluspart des premieres sont presque toujours nues, à la
+                                <ref target="#maniere1">maniere</ref> de ceux qui s'exerçoient à la
+                            lutte, ou aux autres exercices du corps, en quoy la jeunesse d'alors
+                            faisoit consister toute sa gloire ; Et que les autres sont couvertes
+                            d'habillemens ou d'armes, et particulierement de la <hi rend="it"
+                                >Togue</hi>, qui estoit la plus grande marque d'honneur chez les
+                            Romains. </p>
                         <p xml:id="FEL_PASP_principes_L2_L2C1_P10"> Pour travailler de <ref
                                 target="#sculpture">sculpture</ref>, l'on commence par des ouvrages
                             de terre, non seulement pour s'instruire d'abord, mais lors mesme qu'on
@@ -13769,8 +13804,9 @@
                                 s'en veut servir, on la manie avec les doigts, et avec des <ref
                                     target="#esbauchoir2">esbauchoirs</ref>, comme on fait la terre.
                                 La pratique est la principale <ref target="#maistresse"
-                                    >maistresse</ref> dans cette sorte de travail, qui d'abord n'est
-                                pas si facile qu'avec de la terre.</p>
+                                    >maistresse</ref> dans cette sorte de <ref target="#travail"
+                                    >travail</ref>, qui d'abord n'est pas si facile qu'avec de la
+                                terre.</p>
                         </div4>
                         <div4 type="planches" xml:id="L2C2S2">
                             <div5 xml:id="L2C2S2SS1">
@@ -13893,12 +13929,12 @@
                                 >figure</ref>, il vaut mieux qu'elle soit de plusieurs pieces que
                             d'un seul morceau de bois, qui dans des <ref target="#figure1"
                                 >figures</ref>, de mesme que dans des <ref target="#ornemens2"
-                                >ornemens</ref>, se peut tourmenter et se <hi rend="it"><ref
-                                    target="#jerser">jerser</ref></hi> ; Car une piece entiere de
-                            gros bois peut n'estre pas seche dans le <ref target="#cœur">cœur</ref>,
-                            quoyqu'elle paroisse seche par dehors. Il faut que le bois ait esté
-                            coupé plus de dix ans avant que d'estre propre à employer dans ces
-                            sortes d'ouvrages.</p>
+                                >ornemens</ref>, se peut <ref target="#tourmenter">tourmenter</ref>
+                            et se <hi rend="it"><ref target="#jerser">jerser</ref></hi> ; Car une
+                            piece entiere de gros bois peut n'estre pas seche dans le <ref
+                                target="#cœur">cœur</ref>, quoyqu'elle paroisse seche par dehors. Il
+                            faut que le bois ait esté coupé plus de dix ans avant que d'estre propre
+                            à employer dans ces sortes d'ouvrages.</p>
                         <pb n="308"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f342/full/full/0/native.jpg"/>
                         <p xml:id="FEL_PASP_principes_L2_L2C3_P8"> Les <ref target="#sculpteur"
@@ -13956,10 +13992,11 @@
                                 usage la <hi rend="it"><ref target="#gradine">gradine</ref></hi>,
                                 qui est un <pb n="309"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f343/full/full/0/native.jpg"/>
-                                <ref target="#outil1">outil</ref> plat et tranchant, ayant deux <ref
-                                    target="#oches">oches</ref>, ou trois dents, mais qui n'est pas
-                                si fort que la <ref target="#pointe">pointe</ref>. C'est avec cet
-                                    <ref target="#outil1">outil</ref> que l'ouvrier travaille pour
+                                <ref target="#outil1">outil</ref> plat et <ref target="#tranchant"
+                                    >tranchant</ref>, ayant deux <ref target="#oches">oches</ref>,
+                                ou trois dents, mais qui n'est pas si fort que la <ref
+                                    target="#pointe">pointe</ref>. C'est avec cet <ref
+                                    target="#outil1">outil</ref> que l'ouvrier travaille pour
                                 avancer son ouvrage. </p>
                             <p xml:id="FEL_PASP_principes_L2_L2C4_L2C4S1_P6"> Aprés cela il prend un
                                     <hi rend="it"><ref target="#ciseau1">ciseau</ref></hi> tout uni
@@ -14484,8 +14521,9 @@
                                     target="#sculpteur">sculpteur</ref> peut encore en perfectionner
                                 beaucoup toutes les parties, en y adjoustant ou diminuant, pour
                                 donner plus de <ref target="#grace">grace</ref> et d'expression à
-                                certains traits ; car pour les attitudes et la disposition des <ref
-                                    target="#membre">membres</ref>, il ne peut plus y toucher. </p>
+                                certains <ref target="#trait">traits</ref> ; car pour les attitudes
+                                et la disposition des <ref target="#membre">membres</ref>, il ne
+                                peut plus y toucher. </p>
                             <p xml:id="FEL_PASP_principes_L2_L2C5_L2C5S1_P17"> Estant dans sa
                                 perfection on pose les <hi rend="it"><ref target="#jet1"
                                     >jets</ref></hi> et les <hi rend="it"><ref target="#esvents"
@@ -15328,11 +15366,12 @@
                                 à froid, il reçoit en<ref target="#creux1">creux</ref> ce qui est
                                 de <ref target="#relief">relief</ref> sur le bout du <ref
                                     target="#poinçon">poinçon</ref>. Comme ce <ref target="#carré"
-                                    >carré</ref> ne recoit pas tous les traits delicats du mesme
-                                    <ref target="#poinçon">poinçon</ref>, qui ne fait le plus
-                                souvent que la hauteur du <ref target="#relief">relief</ref>, il
-                                reste beaucoup à <ref target="#reparer">reparer</ref> pour finir le
-                                    <ref target="#creux1">creux</ref>, ce qui se fait avec des <ref
+                                    >carré</ref> ne recoit pas tous les <ref target="#trait"
+                                    >traits</ref> delicats du mesme <ref target="#poinçon"
+                                    >poinçon</ref>, qui ne fait le plus souvent que la hauteur du
+                                    <ref target="#relief">relief</ref>, il reste beaucoup à <ref
+                                    target="#reparer">reparer</ref> pour finir le <ref
+                                    target="#creux1">creux</ref>, ce qui se fait avec des <ref
                                     target="#outil1">outils</ref> d'<ref target="#acier">acier</ref>
                                 ; sçavoir des <hi rend="it"><ref target="#ciseaux7"
                                     >ciselets</ref></hi>, <pb n="345"
@@ -15362,12 +15401,12 @@
                                     target="#medaille">medaille</ref>, comme sont les <ref
                                     target="#mouleures">moulures</ref> de la bordure, les <ref
                                     target="#grenetis">grenetis</ref>, et les lettres. Pour cela on
-                                se sert de <hi rend="it">Traçoirs</hi>, de <hi rend="it"><ref
-                                        target="#grenetis">grenetis</ref></hi>, et d'autres sortes
-                                de <unclear><ref target="#poinçon">poinçons</ref></unclear> bien
-                                acerez, et bien trempez. Ceux qu'on employe pour les <ref
-                                    target="#mouleures">moulures</ref>, pour les <ref
-                                    target="#grenetis">grenetis</ref>, et pour les lettres se
+                                se sert de <hi rend="it"><ref target="#traçoir">traçoirs</ref></hi>,
+                                de <hi rend="it"><ref target="#grenetis">grenetis</ref></hi>, et
+                                d'autres sortes de <unclear><ref target="#poinçon"
+                                    >poinçons</ref></unclear> bien acerez, et bien trempez. Ceux
+                                qu'on employe pour les <ref target="#mouleures">moulures</ref>, pour
+                                les <ref target="#grenetis">grenetis</ref>, et pour les lettres se
                                 frappent, et s'<ref target="#imprimer1">impriment</ref> dans le <ref
                                     target="#carré">carré</ref> avec la <hi rend="it"><ref
                                         target="#masse4">masse</ref></hi> ; car le <ref
@@ -15936,7 +15975,7 @@
                                     >relief</ref>. Il s'en voit plusieurs où l'on peut admirer la
                                 science des anciens <ref target="#sculpteur">sculpteurs</ref>, soit
                                 dans la beauté du <ref target="#desseins">dessein</ref>, soit dans
-                                l'excellence du travail. </p>
+                                l'excellence du <ref target="#travail">travail</ref>.</p>
                             <p xml:id="FEL_PASP_principes_L2_L2C8_L2C8S1_P2"> Bien qu'ils ayent
                                 gravé presque toutes sortes de <ref target="#pierre">pierres</ref>
                                 precieuses, neanmoins les <ref target="#figure1">figures</ref> les
@@ -16117,26 +16156,27 @@
                                     >creux</ref> ; si ce sont de petits ouvrages, comme <ref
                                     target="#medaille">medailles</ref>, ou Cachets, on se sert d'une
                                     <ref target="#machine1">machine</ref> appellée <hi rend="it"
-                                    >Touret</hi>, qui n'est autre chose qu'une petite <ref
-                                    target="#roue">roue</ref> de <ref target="#fer1">fer</ref>, dont
-                                les deux bouts des <ref target="#essieu">essieux</ref> tournent, et
-                                sont enfermez dans deux pieces de <ref target="#fer1">fer</ref>
-                                mises de bout comme les <ref target="#lunettes3">lunettes</ref> des
-                                Tourneurs, ou les <ref target="#chevalet1">chevalets</ref> des
-                                serruriers, lesquelles s'ouvrent, et se ferment comme on veut,
-                                estant pour cet effet fendues par la moitié, et se rejoignant par le
-                                haut avec une <ref target="#traverses">traverse</ref> qui les tient,
-                                ou bien encore faits d'une autre <ref target="#maniere1"
-                                    >maniere</ref>. A un bout d'un des <ref target="#essieu"
-                                    >essieux</ref> de la <ref target="#roue">roue</ref> l'on met les
-                                    <ref target="#outil1">outils</ref> dont l'on se sert, lesquels
-                                s'y enclavent ; et s'y affermissent par le moyen d'une vis qui les
-                                serre, et les tient en estat, On fait tourner cette <ref
-                                    target="#roue">roue</ref> avec le <ref target="#pied">pied</ref>
-                                pendant que d'une main l'on presente, et l'on conduit son ouvrage
-                                contre l'<ref target="#outil1">outil</ref>, qui est de <ref
-                                    target="#fer1">fer</ref> doux, si ce n'est quelques-uns des plus
-                                grands qu'on fait quelquesfois de cuivre. </p>
+                                        ><ref target="#tour">touret</ref></hi>, qui n'est autre
+                                chose qu'une petite <ref target="#roue">roue</ref> de <ref
+                                    target="#fer1">fer</ref>, dont les deux bouts des <ref
+                                    target="#essieu">essieux</ref> tournent, et sont enfermez dans
+                                deux pieces de <ref target="#fer1">fer</ref> mises de bout comme les
+                                    <ref target="#lunettes3">lunettes</ref> des Tourneurs, ou les
+                                    <ref target="#chevalet1">chevalets</ref> des serruriers,
+                                lesquelles s'ouvrent, et se ferment comme on veut, estant pour cet
+                                effet fendues par la moitié, et se rejoignant par le haut avec une
+                                    <ref target="#traverses">traverse</ref> qui les tient, ou bien
+                                encore faits d'une autre <ref target="#maniere1">maniere</ref>. A un
+                                bout d'un des <ref target="#essieu">essieux</ref> de la <ref
+                                    target="#roue">roue</ref> l'on met les <ref target="#outil1"
+                                    >outils</ref> dont l'on se sert, lesquels s'y enclavent ; et s'y
+                                affermissent par le moyen d'une vis qui les serre, et les tient en
+                                estat, On fait tourner cette <ref target="#roue">roue</ref> avec le
+                                    <ref target="#pied">pied</ref> pendant que d'une main l'on
+                                presente, et l'on conduit son ouvrage contre l'<ref target="#outil1"
+                                    >outil</ref>, qui est de <ref target="#fer1">fer</ref> doux, si
+                                ce n'est quelques-uns des plus grands qu'on fait quelquesfois de
+                                cuivre. </p>
                             <p xml:id="FEL_PASP_principes_L2_L2C8_L2C8S1_P13"> Tous les <ref
                                     target="#outil1">outils</ref> quelques grands ou petits qu'ils
                                 soient, sont faits, ou de <ref target="#fer1">fer</ref>, ou de
@@ -16179,9 +16219,10 @@
                                 travail ; Et quand il y a un grand <ref target="#champ1"
                                 >champ</ref>, on fait exprés des <ref target="#outil1">outils</ref>
                                 de cuivre ou d'étain propres à polir le <ref target="#champ1"
-                                    >champ</ref> avec le tripoli, lesquels on applique sur le Touret
-                                de la mesme <ref target="#maniere1">maniere</ref> que l'on y met
-                                ceux qui servent à <ref target="#graver">graver</ref>.</p>
+                                    >champ</ref> avec le tripoli, lesquels on applique sur le <ref
+                                    target="#tour">touret</ref> de la mesme <ref target="#maniere1"
+                                    >maniere</ref> que l'on y met ceux qui servent à <ref
+                                    target="#graver">graver</ref>.</p>
                         </div4>
                         <div4 type="planches" xml:id="L2C8S2">
                             <pb n="364"
@@ -16319,7 +16360,8 @@
                                     <item>A <hi rend="it"><ref target="#roue">Roue</ref> de bois qui
                                             se tourne avec le <ref target="#pied"
                                         >pied</ref></hi>.</item>
-                                    <item>B <hi rend="it">Touret</hi>.</item>
+                                    <item>B <hi rend="it"><ref target="#tour"
+                                        >Touret</ref></hi>.</item>
                                     <item>C <hi rend="it"><ref target="#brosse">Brosse</ref> faite
                                             de poil de cochon, pour polir les <ref target="#pierre"
                                                 >pierres</ref> gravées</hi>. </item>
@@ -16993,20 +17035,21 @@
                                     >dessein</ref> qu'on leur donne, qu'ils collent sur la <ref
                                     target="#planche">planche</ref>, avec de la <ref target="#cole"
                                     >colle</ref> faite de bonne farine, d'eau, et d'un peu de
-                                vinaigre. Il faut que les traits soient collez contre le bois, et
-                                lorsque le papier est bien sec, ils le lavent doucement, et avec de
-                                l'eau, et le bout du doigt l'ostent peu à peu, en sorte qu'il ne
-                                reste plus sur le bois que les traits d'<ref target="#encre"
-                                    >encre</ref> qui forment le <ref target="#desseins"
-                                    >dessein</ref>, lesquels marquent sur la <ref target="#planche"
-                                    >planche</ref> tout ce qui doit estre <ref target="#espargner"
-                                    >espargné</ref> ; et pour le reste ils le coupent, et l'enlevent
-                                délicatement avec des <ref target="#pointe">pointes</ref> de <hi
-                                    rend="it">Canifs</hi> bien tranchans, ou de petits <hi rend="it"
-                                        ><ref target="#ciseaux7">ciselets</ref></hi>, ou des <hi
-                                    rend="it"><ref target="#gouges2">gouges</ref></hi>, selon la
-                                grandeur, et delicatesse du travail ; car ils n'ont pas besoin
-                                d'autres <ref target="#outil1">outils</ref>. </p>
+                                vinaigre. Il faut que les <ref target="#trait">traits</ref> soient
+                                collez contre le bois, et lorsque le papier est bien sec, ils le
+                                lavent doucement, et avec de l'eau, et le bout du doigt l'ostent peu
+                                à peu, en sorte qu'il ne reste plus sur le bois que les <ref
+                                    target="#trait">traits</ref> d'<ref target="#encre">encre</ref>
+                                qui forment le <ref target="#desseins">dessein</ref>, lesquels
+                                marquent sur la <ref target="#planche">planche</ref> tout ce qui
+                                doit estre <ref target="#espargner">espargné</ref> ; et pour le
+                                reste ils le coupent, et l'enlevent délicatement avec des <ref
+                                    target="#pointe">pointes</ref> de <hi rend="it">Canifs</hi> bien
+                                tranchans, ou de petits <hi rend="it"><ref target="#ciseaux7"
+                                        >ciselets</ref></hi>, ou des <hi rend="it"><ref
+                                        target="#gouges2">gouges</ref></hi>, selon la grandeur, et
+                                delicatesse du travail ; car ils n'ont pas besoin d'autres <ref
+                                    target="#outil1">outils</ref>. </p>
                             <p xml:id="FEL_PASP_principes_L2_L2C10_L2C10S1_P8"><hi rend="capitals">
                                     POUR </hi><ref target="#graver">graver</ref> sur le cuivre avec
                                 le <hi rend="it"><ref target="#burin">burin</ref></hi>, il n'est pas
@@ -17028,20 +17071,22 @@
                                     target="#outil1">outil</ref> d'<ref target="#acier">Acier</ref>
                                 d'environ six pouces de long, dont un des bouts qu'on appelle <hi
                                     rend="it"><ref target="#gratoir3">gratoir</ref></hi> est formé
-                                en <ref target="#triangle">triangle</ref>, tranchant des trois
-                                costez, pour ratisser sur le cuivre, quand il est necessaire. Et
-                                l'autre bout qu'on nomme <hi rend="it"><ref target="#brunissoir"
-                                        >brunissoir</ref></hi>, a la <ref target="#figure1"
-                                    >figure</ref> d'un cœur dont la <ref target="#pointe"
-                                    >pointe</ref> est alongée, ronde, et fort mince ; il sert à
-                                polir le cuivre, <ref target="#reparer">reparer</ref> les fautes, et
-                                    <ref target="#addoucir">adoucir</ref> les traits. Pour
-                                connoistre, et mieux voir ce que l'on fait, on a un <hi rend="it"
-                                        ><ref target="#tampon">tampon</ref></hi> de feustre noircy,
-                                dont on frotte la <ref target="#planche">planche</ref>, et dont l'on
-                                remplit les traits à mesure que l'on grave. On a aussi un petit <hi
-                                    rend="it"><ref target="#coussinet2">coussinet</ref></hi> de
-                                cuir, sur lequel on appuye le cuivre en travaillant. </p>
+                                en <ref target="#triangle">triangle</ref>, <ref target="#tranchant"
+                                    >tranchant</ref> des trois costez, pour ratisser sur le cuivre,
+                                quand il est necessaire. Et l'autre bout qu'on nomme <hi rend="it"
+                                        ><ref target="#brunissoir">brunissoir</ref></hi>, a la <ref
+                                    target="#figure1">figure</ref> d'un cœur dont la <ref
+                                    target="#pointe">pointe</ref> est alongée, ronde, et fort mince
+                                ; il sert à polir le cuivre, <ref target="#reparer">reparer</ref>
+                                les fautes, et <ref target="#addoucir">adoucir</ref> les <ref
+                                    target="#trait">traits</ref>. Pour connoistre, et mieux voir ce
+                                que l'on fait, on a un <hi rend="it"><ref target="#tampon"
+                                        >tampon</ref></hi> de feustre noircy, dont on frotte la <ref
+                                    target="#planche">planche</ref>, et dont l'on remplit les <ref
+                                    target="#trait">traits</ref> à mesure que l'on grave. On a
+                                aussi un petit <hi rend="it"><ref target="#coussinet2"
+                                        >coussinet</ref></hi> de cuir, sur lequel on appuye le
+                                cuivre en travaillant. </p>
                             <p xml:id="FEL_PASP_principes_L2_L2C10_L2C10S1_P10"><hi rend="capitals"
                                     >QUANT</hi> à la Graveure à l'Eau-forte, il y a plus de
                                 sujettion. Il est necessaire que la <ref target="#planche"
@@ -17064,17 +17109,18 @@
                                     target="#sanguine">sanguine</ref> qui est derriere le <ref
                                     target="#desseins">dessein</ref>, marquant aisément sur le
                                 Vernix, fait que l'on suit bien mieux dans cette sorte de travail,
-                                les mesmes traits du <ref target="#desseins">dessein</ref>, et qu'on
-                                est beaucoup plus <pb n="386"
+                                les mesmes <ref target="#trait">traits</ref> du <ref
+                                    target="#desseins">dessein</ref>, et qu'on est beaucoup plus <pb
+                                    n="386"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f420/full/full/0/native.jpg"/>
                                 <ref target="#correct">correct</ref> dans les <ref
                                     target="#contours">contours</ref>, et les expressions de toutes
                                 les <ref target="#figure1">figures</ref>. Ce qui est cause que les
                                     <ref target="#peintre">peintres</ref> qui font <ref
                                     target="#graver">graver</ref> cux-mesmes leurs ouvrages,
-                                travaillent souvent a former les premiers traits des <ref
-                                    target="#figure1">figures</ref> pour conserver la <ref
-                                    target="#force">force</ref>, et la beauté du <ref
+                                travaillent souvent a former les premiers <ref target="#trait"
+                                    >traits</ref> des <ref target="#figure1">figures</ref> pour
+                                conserver la <ref target="#force">force</ref>, et la beauté du <ref
                                     target="#desseins">dessein</ref>. Aussi dans les pieces faites à
                                 l'Eau forte, on y voit plus d'art que dans les autres qui sont
                                 gravées au <ref target="#burin">burin</ref>, ou quelquefois on se
@@ -17472,8 +17518,9 @@
                             la plume ou le <ref target="#crayons">crayon</ref> ; Et ceux dont les
                                 <ref target="#contours">contours</ref> des <ref target="#figure1"
                                 >figures</ref> sont achevez, ils les appellent <hi rend="it"><ref
-                                    target="#desseins">desseins</ref></hi> ou traits <hi rend="it"
-                                    ><ref target="#arreste">Arrestez</ref></hi>. </p>
+                                    target="#desseins">desseins</ref></hi> ou <ref target="#trait"
+                                >traits</ref>
+                            <hi rend="it"><ref target="#arreste">Arrestez</ref></hi>. </p>
                         <p xml:id="FEL_PASP_principes_L3_L3C3_P2"> Cet art de bien <ref
                                 target="#contourner">contourner</ref> les <ref target="#figure1"
                                 >figures</ref>, est le fondement de la <ref target="#peinture"
@@ -17498,9 +17545,9 @@
                             que l'on distinguera seulement par la <ref target="#couleurs1"
                                 >couleur</ref> des <ref target="#crayons">crayons</ref>, ou par
                                 l'<ref target="#encre">encre</ref> dont on s'est servy. Les uns
-                            employans avec les traits de la plume un peu de <hi rend="it"><ref
-                                    target="#lavis">lavis</ref></hi> fait avec de l'<ref
-                                target="#encre">encre</ref> de la <placeName ref="#Chine"
+                            employans avec les <ref target="#trait">traits</ref> de la plume un peu
+                            de <hi rend="it"><ref target="#lavis">lavis</ref></hi> fait avec de
+                                l'<ref target="#encre">encre</ref> de la <placeName ref="#Chine"
                                 >Chine</placeName>, ou le <hi rend="it"><ref target="#bistre"
                                     >Bistre</ref></hi> qui est de la suye bien détrempée ; d'autres
                             de la <hi rend="it"><ref target="#sanguine">sanguine</ref></hi> ;
@@ -18029,11 +18076,11 @@
                                 rend plus maniables en travaillant. Ce qui fait aussi que les <ref
                                     target="#couleurs1">couleurs</ref> ne conservent pas quelquefois
                                 longtemps leur beauté, c'est quand le <ref target="#peintre"
-                                    >peintre</ref> les tourmente trop en travaillant, car estans
-                                brouillées, il s'en trouve qui alterent, et corrompent les autres,
-                                et en ostent la vivacité. C'est pourquoy on doit les employer
-                                proprement, et <ref target="#coucher">coucher</ref> les <ref
-                                    target="#teintes">teintes</ref>
+                                    >peintre</ref> les <ref target="#tourmenter">tourmente</ref>
+                                trop en travaillant, car estans brouillées, il s'en trouve qui
+                                alterent, et corrompent les autres, et en ostent la vivacité. C'est
+                                pourquoy on doit les employer proprement, et <ref target="#coucher"
+                                    >coucher</ref> les <ref target="#teintes">teintes</ref>
                                 <pb n="409"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f443/full/full/0/native.jpg"
                                 /> chacune en sa place sans les mesler trop avec le <ref
@@ -18056,15 +18103,16 @@
                                     target="#chevalet3">chevalet</ref>, dont les <ref
                                     target="#couleurs1">couleurs</ref> n'ont guere duré, et se sont
                                 passées et esteintes en peu de temps, à cause que ceux qui les
-                                travailloient, avoient beaucoup de feu et de boutade, mais qui
-                                tourmentoient, comme j'ay dit, les <ref target="#couleurs1"
-                                    >couleurs</ref> avec la <ref target="#brosse">brosse</ref> et le
-                                    <ref target="#pinceau">pinceau</ref>. Ceux qui peignent avec
-                                jugement, les couchent avec moins de precipitation, les mettent plus
-                                épaisses, couvrent et recouvrent plusieurs fois leurs <ref
-                                    target="#carnation">carnations</ref>, ce que les <ref
-                                    target="#peintre">peintres</ref> appellent <hi rend="it">bien
-                                        <ref target="#empasté">empaster</ref></hi>. </p>
+                                travailloient, avoient beaucoup de feu et de boutade, mais qui <ref
+                                    target="#tourmenter">tourmentoient</ref>, comme j'ay dit, les
+                                    <ref target="#couleurs1">couleurs</ref> avec la <ref
+                                    target="#brosse">brosse</ref> et le <ref target="#pinceau"
+                                    >pinceau</ref>. Ceux qui peignent avec jugement, les couchent
+                                avec moins de precipitation, les mettent plus épaisses, couvrent et
+                                recouvrent plusieurs fois leurs <ref target="#carnation"
+                                    >carnations</ref>, ce que les <ref target="#peintre"
+                                    >peintres</ref> appellent <hi rend="it">bien <ref
+                                        target="#empasté">empaster</ref></hi>. </p>
                             <p xml:id="FEL_PASP_principes_L3_L3C6_L3C6S1_P7"> Pour ce qui est d'<ref
                                     target="#imprimer2">imprimer</ref> d'abord les <ref
                                     target="#toile">toiles</ref> avec une <ref target="#couche1"
@@ -18738,21 +18786,21 @@
                             que l'<ref target="#email">email</ref> s'attache sur le <ref
                                 target="#cuivre">cuivre</ref> rouge, ce n'est toutefois
                             qu'imparfaitement, estant aisé à se fendre et à se casser. Et outre que
-                            les <ref target="#couleurs1">couleurs</ref> s'y tourmentent, elles
-                            perdent mesme de leur <ref target="#force">force</ref> et de leur éclat,
-                            à cause (comme je viens de dire) de l'impureté qui se trouve dans le
-                            cuivre. </p>
+                            les <ref target="#couleurs1">couleurs</ref> s'y <ref
+                                target="#tourmenter">tourmentent</ref>, elles perdent mesme de leur
+                                <ref target="#force">force</ref> et de leur éclat, à cause (comme je
+                            viens de dire) de l'impureté qui se trouve dans le cuivre. </p>
                         <p xml:id="FEL_PASP_principes_L3_L3C10_P15"> Ces plaques d'<ref target="#or"
                                 >or</ref> doivent estre <hi rend="it">embouties</hi>, c'est-à-dire,
                             un peu creuses d'un costé et relevées de l'autre ; c'est pourquoy on
                             leur donne presque à toutes une figure ronde ou ovalle ; parce que si
-                            elles étoient plates, l'<ref target="#or">or</ref> se tourmenteroit au
-                            feu, et feroit éclatter l'<ref target="#email">email</ref>. Il ne faut
-                            pas aussi qu'elles soient trop épaisses, c'est assez qu'elles puissent
-                            soûtenir l'<ref target="#email">email</ref>, qu'on met dessus, et
-                            dessous. On les <ref target="#fortifier2">fortifie</ref> seulement tout
-                            autour par un <ref target="#cerceau">cercle</ref> qui a plus
-                            d'épaisseur.</p>
+                            elles étoient plates, l'<ref target="#or">or</ref> se <ref
+                                target="#tourmenter">tourmenteroit</ref> au feu, et feroit éclatter
+                                l'<ref target="#email">email</ref>. Il ne faut pas aussi qu'elles
+                            soient trop épaisses, c'est assez qu'elles puissent soûtenir l'<ref
+                                target="#email">email</ref>, qu'on met dessus, et dessous. On les
+                                <ref target="#fortifier2">fortifie</ref> seulement tout autour par
+                            un <ref target="#cerceau">cercle</ref> qui a plus d'épaisseur.</p>
                         <p xml:id="FEL_PASP_principes_L3_L3C10_P16"> Lorsque la plaque est forgée
                             bien égale partout, on y applique dessus et dessous un <ref
                                 target="#email">email</ref> blanc, quoyqu'on ne doive travailler
@@ -18760,13 +18808,13 @@
                                 facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f460/full/full/0/native.jpg"
                             /> s'il' n'y avoit de l'<ref target="#email">email</ref> que d'un costé,
                             il pourroit s'enfler au feu, et faire des inégalitez, à cause qu'il se
-                            tourmente toujours, principalement dans les grandes pieces, ou lorsqu'il
-                            n'a pas esté appliqué proprement il se fait des petits bouillons, que
-                            les ouvriers nomment de petits <hi rend="it"><ref target="#oeillets"
-                                    >œillets</ref></hi> ; Mais quand il y a de l'<ref
-                                target="#email">email</ref> de part et d'autre, le costé de dessus
-                            en estant plus <ref target="#chargé">chargé</ref> se tient en estat, et
-                                l'<ref target="#email">email</ref> pousse également dessus et
+                                <ref target="#tourmenter">tourmente</ref> toujours, principalement
+                            dans les grandes pieces, ou lorsqu'il n'a pas esté appliqué proprement
+                            il se fait des petits bouillons, que les ouvriers nomment de petits <hi
+                                rend="it"><ref target="#oeillets">œillets</ref></hi> ; Mais quand il
+                            y a de l'<ref target="#email">email</ref> de part et d'autre, le costé
+                            de dessus en estant plus <ref target="#chargé">chargé</ref> se tient en
+                            estat, et l'<ref target="#email">email</ref> pousse également dessus et
                             dessous ; ainsi cette premiere <ref target="#couche1">couche</ref> qui
                             est blanche demeurant égale et unie, sert de <ref target="#champ1"
                                 >champ</ref> à toutes les autres <ref target="#couleurs1"
@@ -19225,33 +19273,35 @@
                                     target="#marbre1">marbre</ref> sert pour les rehauts et les
                                 fortes <ref target="#lumiere1">lumieres</ref>, le second pour les
                                     <ref target="#teintes">demy-teintes</ref>, et le troisiéme pour
-                                les ombres. Il y a des traits et des hacheures remplis de <ref
-                                    target="#marbre1">marbre</ref> noir ou de mastic, qui joignent
-                                les ombres avec les <ref target="#teintes">demy teintes</ref>. Car
-                                pour faire de ces sortes d'ouvrages on assemble les differens <ref
-                                    target="#marbre1">marbres</ref> les uns auprés des autres, selon
-                                le <ref target="#desseins">dessein</ref> que l'on a, et quand ils
-                                sont joints et bien cimentez ; le mesme <ref target="#peintre"
-                                    >peintre</ref> qui a disposé le Sujet, prend du noir, et avec un
-                                    <ref target="#pinceau">pinceau</ref> marque les <ref
-                                    target="#contours">contours</ref> des <ref target="#figure1"
-                                    >figures</ref>, et observe par des traits et des hacheures, les
-                                    <ref target="#jour1">jours</ref> et les <ref target="#ombres"
+                                les ombres. Il y a des <ref target="#trait">traits</ref> et des
+                                hacheures remplis de <ref target="#marbre1">marbre</ref> noir ou de
+                                mastic, qui joignent les ombres avec les <ref target="#teintes">demy
+                                    teintes</ref>. Car pour faire de ces sortes d'ouvrages on
+                                assemble les differens <ref target="#marbre1">marbres</ref> les uns
+                                auprés des autres, selon le <ref target="#desseins">dessein</ref>
+                                que l'on a, et quand ils sont joints et bien cimentez ; le mesme
+                                    <ref target="#peintre">peintre</ref> qui a disposé le Sujet,
+                                prend du noir, et avec un <ref target="#pinceau">pinceau</ref>
+                                marque les <ref target="#contours">contours</ref> des <ref
+                                    target="#figure1">figures</ref>, et observe par des <ref
+                                    target="#trait">traits</ref> et des hacheures, les <ref
+                                    target="#jour1">jours</ref> et les <ref target="#ombres"
                                     >ombres</ref> de la mesme <ref target="#maniere1">maniere</ref>,
                                 que s'il <ref target="#desseigner">desseignoit</ref> sur du papier
                                 ou sur de la carte. Ensuite le <ref target="#sculpteur"
                                     >sculpteur</ref> grave avec un <ref target="#ciseau1"
-                                    >cizeau</ref> tous les traits que le <ref target="#peintre"
-                                    >peintre</ref> a tracez, aprés quoy l'on remplit tout ce que le
-                                    <ref target="#ciseau1">cizeau</ref> a gravé, d'un autre <ref
-                                    target="#marbre1">marbre</ref>, ou d'un <ref target="#mastiq2"
-                                    >mastic</ref> composé de poix noire, et d'autre poix qu'on fait
-                                bouillir avec du noir de terre. Quand ce <ref target="#mastiq2"
-                                    >mastic</ref> est refroidy, et qu'il a pris corps, on passe un
-                                morceau de <ref target="#grais">grais</ref>, ou une brique par
-                                dessus, et le frottant avec de l'eau et du <ref target="#grais"
-                                    >grais</ref>, ou du <ref target="#ciment">ciment</ref> pilé, on
-                                oste ce qu'il y a de superflu, et l'on le rend égal au <pb n="438"
+                                    >cizeau</ref> tous les <ref target="#trait">traits</ref> que le
+                                    <ref target="#peintre">peintre</ref> a tracez, aprés quoy l'on
+                                remplit tout ce que le <ref target="#ciseau1">cizeau</ref> a gravé,
+                                d'un autre <ref target="#marbre1">marbre</ref>, ou d'un <ref
+                                    target="#mastiq2">mastic</ref> composé de poix noire, et
+                                d'autre poix qu'on fait bouillir avec du noir de terre. Quand ce
+                                    <ref target="#mastiq2">mastic</ref> est refroidy, et qu'il a
+                                pris corps, on passe un morceau de <ref target="#grais">grais</ref>,
+                                ou une brique par dessus, et le frottant avec de l'eau et du <ref
+                                    target="#grais">grais</ref>, ou du <ref target="#ciment"
+                                    >ciment</ref> pilé, on oste ce qu'il y a de superflu, et l'on le
+                                rend égal au <pb n="438"
                                     facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f472/full/full/0/native.jpg"
                                 />; <ref target="#marbre1">marbre</ref>. C'est de cette <ref
                                     target="#maniere1">maniere</ref> que l'on pave plusieurs
@@ -19331,11 +19381,11 @@
                                     >marqueterie</ref> dont il sera parlé cy-aprés. </p>
                             <p xml:id="FEL_PASP_principes_L3_L3C12_L3C12S1_P5"> On se sert dans ce
                                 Travail des mesmes <hi rend="it"><ref target="#roue"
-                                    >roues</ref></hi>, <hi rend="it">Tourets</hi>, <hi rend="it"
-                                        ><ref target="#platines">platines</ref> d'<ref
-                                        target="#estain">estain</ref></hi>, et autres <ref
-                                    target="#outil1">outils</ref> dont il est parlé dans la <ref
-                                    target="#graveure">graveure</ref> des <ref target="#pierre"
+                                    >roues</ref></hi>, <hi rend="it"><ref target="#tour"
+                                        >tourets</ref></hi>, <hi rend="it"><ref target="#platines"
+                                        >platines</ref> d'<ref target="#estain">estain</ref></hi>,
+                                et autres <ref target="#outil1">outils</ref> dont il est parlé dans
+                                la <ref target="#graveure">graveure</ref> des <ref target="#pierre"
                                     >pierres</ref>, selon l'occasion et le besoin qu'on en a, tant
                                 pour donner quelque <ref target="#figure1">figure</ref> aux <ref
                                     target="#pierre">pierres</ref>, que pour les percer et pour les
@@ -19574,17 +19624,18 @@
                                 fond d'autre bois, et on les y fait tenir avec de bonne <ref
                                     target="#cole">colle</ref> forte d'<placeName ref="#Angleterre"
                                     >Angleterre</placeName>. Pour faire les fonds on prend
-                                d'ordinaire du Sapin ou du Chesne bien sec, afin qu'ils ne se
-                                tourmentent pas ; Et mesme l'on n'employe pas des pieces qui soient
-                                ttop longues ; Les ouvriers soigneux de faire un bon ouvrage,
-                                coupent, et établissent leur fond de plusieurs pieces, estant moins
-                                sujet à se dejetter, que quand il est d'un bois long. Ils prennent
-                                aussi plutost du bois de merain, ou marain, que du bois de <ref
-                                    target="#siage">siage</ref>, parce que celuy-cy se tourmente
-                                davantage que celuy de merein, qui estant fendu selon son <ref
-                                    target="#sil">sil</ref> ne se tourmente pas tant, c'est pourquoy
-                                ils se servent de vieilles <ref target="#douve1">douves</ref> de
-                                muid. </p>
+                                d'ordinaire du Sapin ou du Chesne bien sec, afin qu'ils ne se <ref
+                                    target="#tourmenter">tourmentent</ref> pas ; Et mesme l'on
+                                n'employe pas des pieces qui soient ttop longues ; Les ouvriers
+                                soigneux de faire un bon ouvrage, coupent, et établissent leur fond
+                                de plusieurs pieces, estant moins sujet à se dejetter, que quand il
+                                est d'un bois long. Ils prennent aussi plutost du bois de merain, ou
+                                marain, que du bois de <ref target="#siage">siage</ref>, parce que
+                                celuy-cy se <ref target="#tourmenter">tourmente</ref> davantage que
+                                celuy de merein, qui estant fendu selon son <ref target="#sil"
+                                    >sil</ref> ne se <ref target="#tourmenter">tourmente</ref> pas
+                                tant, c'est pourquoy ils se servent de vieilles <ref
+                                    target="#douve1">douves</ref> de muid. </p>
                             <p xml:id="FEL_PASP_principes_L3_L3C14_L3C14S1_P5"> Quand les mesmes
                                 ouvriers representent quelques <ref target="#figure1">figures</ref>
                                 au naturel, soit des personnages, soit des animaux, soit des fleurs,
@@ -19709,18 +19760,20 @@
                                 l'autre. Cet <ref target="#essieu">essieu</ref> estant tourné avec
                                 une <hi rend="it"><ref target="#manivelle1">manivelle</ref></hi>,
                                 les <ref target="#roue">roues</ref> font aller une <hi rend="it"
-                                    >Travée</hi> de bois qui est dans la boete, par le moyen de deux
-                                    <hi rend="it">bandes de <ref target="#fer1">fer</ref>
-                                    dentelées</hi>, qui sont attachées au dessous de la travée d'un
-                                bout à l'autre, et dans lesquelles entrent les dents des <ref
-                                    target="#roue">roues</ref>. Comme la travée hausse et baisse par
-                                le mouvement des <ref target="#roue">roues</ref> qui la font couler
-                                dans la boete entre les deux <ref target="#jumelle1">jumelles</ref>,
-                                le bois que l'on veut tailler, et qui est comme enchassé sur la
-                                travée, se coupe en ondes de differentes <ref target="#maniere1"
-                                    >manieres</ref>, par le moyen d'un <ref target="#outil1"
-                                    >outil</ref> de <ref target="#fer1">fer</ref> bien asseré et
-                                bien trenchant, qui pose dessus entre les deux <ref
+                                        ><ref target="#travée">travée</ref></hi> de bois qui est
+                                dans la boete, par le moyen de deux <hi rend="it">bandes de <ref
+                                        target="#fer1">fer</ref> dentelées</hi>, qui sont attachées
+                                au dessous de la <ref target="#travée">travée</ref> d'un bout à
+                                l'autre, et dans lesquelles entrent les dents des <ref
+                                    target="#roue">roues</ref>. Comme la <ref target="#travée"
+                                    >travée</ref> hausse et baisse par le mouvement des <ref
+                                    target="#roue">roues</ref> qui la font couler dans la boete
+                                entre les deux <ref target="#jumelle1">jumelles</ref>, le bois que
+                                l'on veut tailler, et qui est comme enchassé sur la <ref
+                                    target="#travée">travée</ref>, se coupe en ondes de differentes
+                                    <ref target="#maniere1">manieres</ref>, par le moyen d'un <ref
+                                    target="#outil1">outil</ref> de <ref target="#fer1">fer</ref>
+                                bien asseré et bien trenchant, qui pose dessus entre les deux <ref
                                     target="#jumelle1">jumelles</ref>, et qui hausse et baisse comme
                                 l'on veut. Car sur le haut de ces <ref target="#jumelle1"
                                     >jumelles</ref> il y a un <hi rend="it"><ref target="#sommier"
@@ -19738,16 +19791,17 @@
                                 c'est-à-dire qui ont le dessous du <ref target="#fust2">fust</ref>
                                 garny d'une plaque de <ref target="#fer1">fer</ref> fort unie ; de
                                     <hi rend="it"><ref target="#racloirs">racloirs</ref></hi>, de
-                                    <hi rend="it"><ref target="#pointe">pointes</ref> pour
-                                    tracer</hi> ; de <hi rend="it"><ref target="#tariere"
-                                        >tarrieres</ref></hi> pointus, de <hi rend="it">Cousteaux à
-                                    trancher</hi>, de <hi rend="it">Fraisoirs</hi>, de <hi rend="it"
-                                    >Tourne-vis</hi>, de <hi rend="it"><ref target="#tirefond"
-                                        >tire-fond</ref></hi>, de <hi rend="it"><ref target="#fer14"
-                                        >fers crochus</ref></hi> pour faire l'ouverture des <ref
-                                    target="#péne">pénes</ref>, de <hi rend="it"><ref
-                                        target="#polissoir">polissoirs</ref></hi> de jonc pour polir
-                                l'ouvrage.</p>
+                                    <hi rend="it"><ref target="#pointe">pointes</ref> pour <ref
+                                        target="#tracer">tracer</ref></hi> ; de <hi rend="it"><ref
+                                        target="#tariere">tarrieres</ref></hi> pointus, de <hi
+                                    rend="it">Cousteaux à trancher</hi>, de <hi rend="it"
+                                    >Fraisoirs</hi>, de <hi rend="it"><ref target="#tourne-vis"
+                                        >tourne-vis</ref></hi>, de <hi rend="it"><ref
+                                        target="#tirefond">tire-fond</ref></hi>, de <hi rend="it"
+                                        ><ref target="#fer14">fers crochus</ref></hi> pour faire
+                                l'ouverture des <ref target="#péne">pénes</ref>, de <hi rend="it"
+                                        ><ref target="#polissoir">polissoirs</ref></hi> de jonc pour
+                                polir l'ouvrage.</p>
                         </div4>
                         <div4 type="planches" xml:id="L3C14S2">
                             <div5 xml:id="L3C14S2SS1">
@@ -19814,10 +19868,11 @@
                                                   <item>6 <hi rend="it"><ref target="#outil1"
                                                   >Outil</ref> de <ref target="#fer14"
                                                   >fer</ref></hi>.</item>
-                                                  <item>7 <hi rend="it">Travée</hi>.</item>
+                                                  <item>7 <hi rend="it"><ref target="#travée"
+                                                  >Travée</ref></hi>.</item>
                                                   <item>8 <hi rend="it">Morceau de bois appliqué sur
-                                                  la travée, et comme il se travaille en
-                                                  onde</hi>.</item>
+                                                  la <ref target="#travée">travée</ref>, et comme il
+                                                  se travaille en onde</hi>.</item>
                                                   <item>9 <hi rend="it"><ref target="#roue"
                                                   >Roue</ref> à dents</hi>.</item>
                                                   <item>10 <hi rend="it"><ref target="#manivelle1"
@@ -19829,13 +19884,14 @@
                                             <item>C <hi rend="it"><ref target="#racloirs"
                                                   >Racloir</ref></hi>.</item>
                                             <item>D <hi rend="it"><ref target="#pointe">Pointe</ref>
-                                                  à tracer</hi>.</item>
+                                                  à <ref target="#tracer">tracer</ref></hi>.</item>
                                             <item>E <hi rend="it"><ref target="#tariere"
                                                   >Tarriere</ref> pointu</hi>.</item>
                                             <item>F <hi rend="it"><ref target="#couteau6"
                                                   >Couteau</ref> à trancher</hi>.</item>
                                             <item>G <hi rend="it">Fraisoir</hi>.</item>
-                                            <item>H <hi rend="it">Tourne vis</hi>.</item>
+                                            <item>H <hi rend="it"><ref target="#tourne-vis">Tourne
+                                                  vis</ref></hi>.</item>
                                             <item>I <hi rend="it"><ref target="#tirefond"
                                                   >Tirefond</ref></hi>.</item>
                                             <item>K <hi rend="it"><ref target="#fer14">Fer</ref> à
@@ -19890,12 +19946,13 @@
                                 target="#estrier">estriers</ref>, des Harnois de chevaux, des <ref
                                 target="#masse2">masses</ref> de <ref target="#fer1">fer</ref>, des
                             Poignées et des <ref target="#gardes">gardes</ref> d'espées, et une
-                            infinité d'autres choses d'un travail tres exquis. Depuis que l'on a
-                            commencé à faire en <placeName ref="#France">France</placeName> de ces
-                            sortes d'ouvrages, qui fut sous le regne de <persName ref="#HenriIV"
-                                >Henry IV</persName> on peut dire qu'on a surpassé ceux qui s'en
-                            sont meslez auparavant. <persName>Cursinet</persName> Fourbisseur à
-                                <placeName ref="#Paris">Paris</placeName>, <pb n="455"
+                            infinité d'autres choses d'un <ref target="#travail">travail</ref> tres
+                            exquis. Depuis que l'on a commencé à faire en <placeName ref="#France"
+                                >France</placeName> de ces sortes d'ouvrages, qui fut sous le regne
+                            de <persName ref="#HenriIV">Henry IV</persName> on peut dire qu'on a
+                            surpassé ceux qui s'en sont meslez auparavant.
+                                <persName>Cursinet</persName> Fourbisseur à <placeName ref="#Paris"
+                                >Paris</placeName>, <pb n="455"
                                 facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f489/full/full/0/native.jpg"
                             /> qui est mort depuis cinq ou six ans, a fait des ouvrages
                             incomparables en cette sorte de travail, tant pour le <ref
@@ -19922,7 +19979,7 @@
                             >or</ref>, ou l'argent plus espais, et avec des <ref target="#ciseaux7"
                                 >cizelets</ref> on fonme ce qu'on veut. </p>
                         <p xml:id="FEL_PASP_principes_L3_L3C15_P3"> Mais quand avec la
-                            Damasquinerie, on veut mesler un Travail de <ref target="#raport"
+                            Damasquinerie, on veut mesler un travail de <ref target="#raport"
                                 >rapport</ref> d'<ref target="#or">or</ref> ou d'argent, alors on
                             grave le fer profondement en dessous, et à <ref target="#queue">queue
                                     d'<hi rend="it">aironde</hi></ref>, ce que les Italiens
@@ -19984,8 +20041,8 @@
                         </hi>. Il signifie aussi un buffet, que les Italiens nomment <ref
                             target="#credence2">credence</ref>, et sur lequel on arrange les vases
                         pour un festin. D'autres fois un <ref target="#tailloir">tailloir</ref>, ou
-                        Tranchoir quarré. C'est pourquoy dans <persName ref="#Vitruve"
-                            >Vitruve</persName>,<pb n="460"
+                            <ref target="#tranchoir">tranchoir</ref> quarré. C'est pourquoy dans
+                            <persName ref="#Vitruve">Vitruve</persName>, <pb n="460"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f494/full/full/0/native.jpg"
                         /> et dans tous ceux qui ont traité de l'architecture <hi rend="it"
                             >Abacus</hi> n'est autre chose que cette <ref target="#table"
@@ -20018,10 +20075,11 @@
                             target="#maison">maison</ref>, etc. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreA_P4"><hi rend="capitals"><ref
                                 target="#abouts">Abouts</ref></hi> des <ref target="#liens1"
-                            >liens</ref>, des Tournices, des <ref target="#guettes">guettes</ref>,
-                        des <ref target="#esperons">esperons</ref>, etc. c'est-à-dire l'extremité et
-                        le bout de toutes sortes de pieces de charpenterie mises en œuvre, <hi
-                            rend="it">Voyez page</hi> 122, 132, Planche XVII.</p>
+                            >liens</ref>, des <ref target="#tournices">tournices</ref>, des <ref
+                            target="#guettes">guettes</ref>, des <ref target="#esperons"
+                            >esperons</ref>, etc. c'est-à-dire l'extremité et le bout de toutes
+                        sortes de pieces de charpenterie mises en œuvre, <hi rend="it">Voyez
+                            page</hi> 122, 132, Planche XVII.</p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreA_P5"><hi rend="capitals">ABOUEMENT</hi>.
                             <hi rend="it">V</hi>. <hi rend="capitals"><ref target="#bouement"
                                 >BOUEMENT</ref></hi>.</p>
@@ -20132,15 +20190,17 @@
                     <p xml:id="FEL_PASP_dictionnaire_lettreA_P19">On addoucit aussi les <ref
                             target="#desseins">desseins</ref> lavez, et faits à la plume, en
                         affoiblissant la <ref target="#teintes">teinte</ref>. On addoucit encore les
-                        traits d'un visage ou autre chose en les marquant moins. L'on appelle encore
-                        addoucir lorsqu'en changeant les traits on donne plus de douceur à l'air
-                        d'un <pb n="463"
+                            <ref target="#trait">traits</ref> d'un visage ou autre chose en les
+                        marquant moins. L'on appelle encore addoucir lorsqu'en changeant les <ref
+                            target="#trait">traits</ref> on donne plus de douceur à l'air d'un <pb
+                            n="463"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f497/full/full/0/native.jpg"
                         />visage qui avoit quelque chose de rude. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreA_P20"><hi rend="capitals">
                             ADDOUCISSEMENT </hi>. Est lorsque les <ref target="#couleurs1"
-                            >couleurs</ref> sont bien noyées les unes avec les autres, que les
-                        traits ne sont pas tranchez, et qu'il n'y a rien de rude. </p>
+                            >couleurs</ref> sont bien noyées les unes avec les autres, que les <ref
+                            target="#trait">traits</ref> ne sont pas tranchez, et qu'il n'y a rien
+                        de rude. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreA_P21"><hi rend="capitals"> Æolipyles
                         </hi>. Ce sont des boules d'airain qui sont creuses, et qui n'ont qu'un trou
                         tres petit, par lequel on les emplit d'eau. Estant mises devant le feu,
@@ -20167,7 +20227,7 @@
                             >outils</ref> prés de soy. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreA_P25"><hi rend="capitals"> AIGUISER
                         </hi> un <ref target="#outil1">outil</ref>, c'est le rendre plus aigu ou
-                        plus tranchant. </p>
+                        plus <ref target="#tranchant">tranchant</ref>.</p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreA_P26"><hi rend="capitals"> AIGUILLE
                         </hi>. <hi rend="it">Voyez</hi><ref target="#espics">ESPICS</ref>, <hi
                             rend="capitals"><ref target="#poinçon">POINÇON</ref></hi>.</p>
@@ -20588,9 +20648,9 @@
                         selon les mesures qu'on en a données pour la joindre avec d'autres, suivant
                         un <ref target="#desseins">dessein</ref> arresté. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreA_P94"><hi rend="capitals"> APPAREILLEUR
-                        </hi>, est celuy qui a soin de tracer les <ref target="#pierre"
-                            >pierres</ref> et les marquer, avant que les <ref target="#tailleurs"
-                            >tailleurs</ref> y travaillent. </p>
+                        </hi>, est celuy qui a soin de <ref target="#tracer">tracer</ref> les <ref
+                            target="#pierre">pierres</ref> et les marquer, avant que les <ref
+                            target="#tailleurs">tailleurs</ref> y travaillent. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreA_P95"><hi rend="capitals"> APPARTEMENT
                         </hi>, veut dire <ref target="#logement">logement</ref> ou demeure
                         particuliere dans une <ref target="#maison">maison</ref>. Les Grecs
@@ -21657,11 +21717,11 @@
                     <p xml:id="biais-passé"><hi rend="capitals">BIAIS PASSÉ</hi> . Lorsque dans les
                         bastimens il se rencontre des sujettions qui obligent de faire des <ref
                             target="#porte">portes</ref> ou <ref target="#fenestres">fenestres</ref>
-                        en biais, cela se nomme <hi rend="it">biais passé</hi>, dont le trait se
-                        fait ou par équarissement, ou par panneaux. Quand les <ref target="#passage"
-                            >passages</ref> ou les ouvertures qui se font de cette sorte ne sont de
-                        biais que d'un costé ; on appelle cela <hi rend="it"><ref target="#corne"
-                                >corne</ref> de bœuf</hi>.</p>
+                        en biais, cela se nomme <hi rend="it">biais passé</hi>, dont le <ref
+                            target="#trait">trait</ref> se fait ou par équarissement, ou par
+                        panneaux. Quand les <ref target="#passage">passages</ref> ou les ouvertures
+                        qui se font de cette sorte ne sont de biais que d'un costé ; on appelle cela
+                            <hi rend="it"><ref target="#corne">corne</ref> de bœuf</hi>.</p>
                     <pb n="494"
                         facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f528/full/full/0/native.jpg"/>
                     <p xml:id="bicoq"><hi rend="capitals">BICOQ</hi>, ou <ref target="#pied">pied
@@ -22090,8 +22150,8 @@
                             target="#esbauchoir2">esbauchoir</ref> de bois qui a des dents par un
                         bout, et qui en ostant la terre ou la cire ne fait que <pb n="503"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f537/full/full/0/native.jpg"
-                        /> dégrossir et laisser les traits sur l'ouvrage qu'on nomme <hi rend="it"
-                            >brettures</hi>.</p>
+                        /> dégrossir et laisser les <ref target="#trait">traits</ref> sur l'ouvrage
+                        qu'on nomme <hi rend="it">brettures</hi>.</p>
                     <p> Les maçons ont des truelles qu'ils nomment <hi rend="it">bretées</hi> ou
                         bretelées, parce qu'elles ont des dents. Elles leur servent pour dresser les
                             <ref target="#enduit1">enduits</ref> de <ref target="#plastre"
@@ -22268,7 +22328,8 @@
                             target="#esquaire2">equaire</ref>, mais au lieu que l'<ref
                             target="#esquaire2">equaire</ref> demeure fixe, et que les branches en
                         sont immobiles, celles du buveau se ferment et s'ouvrent comme l'on veut
-                        pour prendre et pour tracer toutes sortes d'angles.</p>
+                        pour prendre et pour <ref target="#tracer">tracer</ref> toutes sortes
+                        d'angles.</p>
                     <p>Outre cela au lieu que les branches d'une <ref target="#esquaire2"
                             >equaire</ref> sont à droite <ref target="#ligne">ligne</ref>, celles du
                         buveau ont quelquefois une forme ronde, et sont bombées. Quelquefois il n'y
@@ -22374,11 +22435,12 @@
                             target="#tarjettes">targettes</ref>.</p>
                     <p xml:id="calquer"><hi rend="capitals">CALQUER</hi>, c'est contre-tirer un <ref
                             target="#desseins">dessein</ref> sur une <ref target="#murs"
-                            >muraille</ref>, ou autrement, pour en avoir les mesmes traits : cela se
-                        fait en frottant le dessous du <ref target="#desseins">dessein</ref> avec du
-                        noir ou d'autre <ref target="#couleurs1">couleur</ref>, et ensuite avec une
-                            <ref target="#pointe">pointe</ref> qu'on passe dessus, on fait que la
-                            <ref target="#couleurs1">couleur</ref> marque sur la <ref target="#murs"
+                            >muraille</ref>, ou autrement, pour en avoir les mesmes <ref
+                            target="#trait">traits</ref> : cela se fait en frottant le dessous du
+                            <ref target="#desseins">dessein</ref> avec du noir ou d'autre <ref
+                            target="#couleurs1">couleur</ref>, et ensuite avec une <ref
+                            target="#pointe">pointe</ref> qu'on passe dessus, on fait que la <ref
+                            target="#couleurs1">couleur</ref> marque sur la <ref target="#murs"
                             >muraille</ref> ou autre chose qui est sous le <ref target="#desseins"
                             >dessein</ref>.</p>
                     <p>Quand au lieu de passer ainsi une <ref target="#pointe">pointe</ref>, on
@@ -22688,9 +22750,10 @@
                             target="#colonne">colonnes</ref>, et toutes sortes d'autres choses qui
                         ont une <ref target="#figure1">figure</ref> circulaire.</p>
                     <p> On dit aussi la <hi rend="capitals">CERCHE</hi> d'une voute, pour dire sa
-                        rondeur. Il y a des cerches ralongées, et d'autres mmanieres, pour les
-                        traits et <ref target="#coupe3">coupes</ref> des <ref target="#pierre"
-                            >pierres</ref> et autres differens ouvrages. <hi rend="it">V.</hi>
+                        rondeur. Il y a des cerches ralongées, et d'autres mmanieres, pour les <ref
+                            target="#trait">traits</ref> et <ref target="#coupe3">coupes</ref> des
+                            <ref target="#pierre">pierres</ref> et autres differens ouvrages. <hi
+                            rend="it">V.</hi>
                         <hi rend="capitals"><ref target="#cherches1">CHERCHE</ref></hi>.</p>
                     <p xml:id="cerne"><hi rend="capitals">CERNE</hi>, <ref target="#circuit"
                             >circuit</ref>. Cerner, c'est couper en rond. <hi rend="it">Faire un
@@ -22890,12 +22953,12 @@
                             p.</hi> 197.</p>
                     <p xml:id="chargé"><hi rend="capitals">CHARGÉ</hi>. Les <ref target="#peintre"
                             >peintres</ref> appellent un portrait chargé, lorsqu'on represente un
-                        visage avec des traits marquez avec excez, et de telle <ref
-                            target="#maniere1">maniere</ref> qu'avec trois ou quatre coups de <ref
-                            target="#crayons">crayon</ref> ou autrement on connoist une personne,
-                        quoy que ce ne soit pas un veritable portrait, mais plustost des deffauts
-                        marquez. Aussi quand une <ref target="#figure1">figure</ref> est trop
-                        marquée on dit qu'elle est chargée.</p>
+                        visage avec des <ref target="#trait">traits</ref> marquez avec excez, et de
+                        telle <ref target="#maniere1">maniere</ref> qu'avec trois ou quatre coups de
+                            <ref target="#crayons">crayon</ref> ou autrement on connoist une
+                        personne, quoy que ce ne soit pas un veritable portrait, mais plustost des
+                        deffauts marquez. Aussi quand une <ref target="#figure1">figure</ref> est
+                        trop marquée on dit qu'elle est chargée.</p>
                     <p xml:id="charnier"><hi rend="capitals">CHARNIER</hi> d'un cimetiere, <hi
                             rend="it">ossarium</hi>, c'est un lieu ou l'on met les os des trépassez,
                         comme font les charniers des <objectName>SS. Innocens</objectName>. Ce mot
@@ -23023,10 +23086,10 @@
                     <p xml:id="chenil"><hi rend="capitals">CHENIL</hi>, lieu et <ref
                             target="#maison">maison</ref> où l'on tient les chiens.</p>
                     <p xml:id="cherches1"><hi rend="capitals">CHERCHES</hi>. C'est tout arc qui ne
-                        se peut décrire d'un seul trait de <ref target="#compas1">compas</ref>, mais
-                        par des <ref target="#points">points</ref> recherchez. L'on nomme cherches,
-                        les panneaux ou especes de <ref target="#moule6">moules</ref>, qui servent à
-                        former <pb n="524"
+                        se peut décrire d'un seul <ref target="#trait">trait</ref> de <ref
+                            target="#compas1">compas</ref>, mais par des <ref target="#points"
+                            >points</ref> recherchez. L'on nomme cherches, les panneaux ou especes
+                        de <ref target="#moule6">moules</ref>, qui servent à former <pb n="524"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f558/full/full/0/native.jpg"
                         /> le <ref target="#cintre">cintre</ref> des voutes, et donner la figure aux
                         voussoirs, du costé des panneaux de doüelle. Car les cherches sont comme des
@@ -23041,7 +23104,7 @@
                             >cherche d'une montée</hi> ou d'un <hi rend="it"><ref
                                 target="#escalier">escalier</ref></hi>, c'est-à-dire le <ref
                             target="#cintre">cintre</ref>. <hi rend="it">V.</hi>
-                        <hi rend="capitals">TRACER</hi> en cherche.</p>
+                        <hi rend="capitals"><ref target="#tracer">TRACER</ref></hi> en cherche.</p>
                     <p xml:id="cherche-fiche"><hi rend="capitals">CHERCHE-FICHE</hi>, ou cherche
                             <ref target="#pointe">pointe</ref>, c'est une espece de <ref
                             target="#poinçon">poinçon</ref> de <ref target="#fer1">fer</ref> rond et
@@ -23236,12 +23299,14 @@
                             >fiches</ref> fort tenves, pour ferrer les <ref target="#fiche1"
                             >fiches</ref> dans le bois. <hi rend="it">V. p.</hi> 227.</p>
                     <p xml:id="ciseaux5"><hi rend="capitals">CISEAUX</hi>, ou <hi rend="capitals"
-                            >TRANCHES</hi> pour fendre les barres de <ref target="#fer1">fer</ref>
-                        à chaud. <hi rend="it">V. p.</hi> 226, <reg>242</reg>, Pl. XXXV.</p>
-                    <p xml:id="ciseaux6"><hi rend="capitals">CISEAUX</hi> ou tranches percées pour
-                        couper les <ref target="#fiche1">fiches</ref>, ou <ref target="#couplets"
-                            >couplets</ref> et autres petites pieces de <ref target="#fer1"
-                            >fer</ref> à chaud. <hi rend="it">V. p.</hi> 226.</p>
+                                ><ref target="#tranche">TRANCHES</ref></hi> pour fendre les barres
+                        de <ref target="#fer1">fer</ref> à chaud. <hi rend="it">V. p.</hi> 226,
+                            <reg>242</reg>, Pl. XXXV.</p>
+                    <p xml:id="ciseaux6"><hi rend="capitals">CISEAUX</hi> ou <ref target="#tranche"
+                            >tranches</ref> percées pour couper les <ref target="#fiche1"
+                            >fiches</ref>, ou <ref target="#couplets">couplets</ref> et autres
+                        petites pieces de <ref target="#fer1">fer</ref> à chaud. <hi rend="it">V.
+                            p.</hi> 226.</p>
                     <p xml:id="ciseaux7"><hi rend="capitals">CISEAUX</hi> ou <hi rend="capitals"
                             >CISELETS</hi> à relever des <ref target="#escussons">escussons</ref>,
                         des <ref target="#tarjettes">targettes</ref> et d'autres pieces qui se
@@ -23438,8 +23503,9 @@
                     <p xml:id="coin1"><hi rend="capitals">COIN</hi> de bois ou de <ref
                             target="#fer1">fer</ref>, pour fendre le <ref target="#fer1">fer</ref>
                         ou le bois. <hi rend="it">V. p.</hi> 75, 78 et 84, Pl. XIII.</p>
-                    <p xml:id="coin2"><hi rend="capitals">COIN</hi> ou tranchoir à fendre, dont les
-                        serruriers se servent. <hi rend="it">V. p.</hi> 236, Pl. XXXV.</p>
+                    <p xml:id="coin2"><hi rend="capitals">COIN</hi> ou <ref target="#tranchoir"
+                            >tranchoir</ref> à fendre, dont les serruriers se servent. <hi rend="it"
+                            >V. p.</hi> 236, Pl. XXXV.</p>
                     <p xml:id="coin3"><hi rend="capitals">COINS</hi> de bois dont l'on se sert pour
                         servir de <ref target="#cale">cale</ref>, lorsqu'on pose les <ref
                             target="#pierre">pierres</ref> d'un bastiment.</p>
@@ -23631,8 +23697,9 @@
                     <p xml:id="contourner"><hi rend="capitals">CONTOURNER</hi> quelque chose d'un
                         costé et d'autre <pb n="537"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f571/full/full/0/native.jpg"
-                        />, c'est marquer une <ref target="#figure1">figure</ref> avec des traits et
-                        des <ref target="#ligne">lignes</ref>.</p>
+                        />, c'est marquer une <ref target="#figure1">figure</ref> avec des <ref
+                            target="#trait">traits</ref> et des <ref target="#ligne"
+                        >lignes</ref>.</p>
                     <p>On dit que les <ref target="#contours">contours</ref> sont <hi rend="it"
                             >beaux et bien <ref target="#prononcer">prononcez</ref></hi>, lorsque
                         dans les ouvrages de <ref target="#peinture">peinture</ref> ou de <ref
@@ -23718,11 +23785,12 @@
                             target="#contrescarpe">contrescarpe</ref>.</p>
                     <p xml:id="contretirer"><hi rend="capitals">CONTRETIRER</hi> un <ref
                             target="#desseins">dessein</ref>, ou un <ref target="#tableau"
-                            >tableau</ref>, c'est en prendre les mesmes traits, ce qui se fait
-                        d'ordinaire avec une <ref target="#toile">toile</ref> de soye, ou du papier
-                        huilé qu'on applique contre le <ref target="#tableau">tableau</ref> ; puis
-                        avec du <ref target="#crayons">crayon</ref> l'on marque sur le papier ou sur
-                        la <ref target="#toile">toile</ref>, les mesmes traits du <ref
+                            >tableau</ref>, c'est en prendre les mesmes <ref target="#trait"
+                            >traits</ref>, ce qui se fait d'ordinaire avec une <ref target="#toile"
+                            >toile</ref> de soye, ou du papier huilé qu'on applique contre le <ref
+                            target="#tableau">tableau</ref> ; puis avec du <ref target="#crayons"
+                            >crayon</ref> l'on marque sur le papier ou sur la <ref target="#toile"
+                            >toile</ref>, les mesmes <ref target="#trait">traits</ref> du <ref
                             target="#tableau">tableau</ref> que l'on voit au travers de la <ref
                             target="#toile">toile</ref> ou du papier. On se sert aussi de verre, de
                             <pb n="539"
@@ -23732,7 +23800,8 @@
                         d'autres matieres claires et minces pour contretirer des ouvrages de moyenne
                         grandeur.</p>
                     <p xml:id="contretiré"><hi rend="capitals">CONTRETIRÉ</hi>, qui est pris sur le
-                        mesme trait de l'<ref target="#original">original</ref>.</p>
+                        mesme <ref target="#trait">trait</ref> de l'<ref target="#original"
+                            >original</ref>.</p>
                     <p xml:id="contrepreuve"><hi rend="capitals">CONTREPREUVE</hi>, c'est une <ref
                             target="#estampe">estampe</ref> qui est imprimée sur une autre <ref
                             target="#estampe">estampe</ref> fraischement tirée. Cela se fait pour
@@ -23997,9 +24066,9 @@
                             p.</hi> 307.</p>
                     <p xml:id="couper2">On dit encore, <hi rend="it">bien couper le cuivre</hi>,
                         pour dire bien <ref target="#graver">graver</ref> au <ref target="#burin"
-                            >burin</ref> ; c'est quand les traits de <ref target="#burin"
-                            >burin</ref> sont hardis et gravez également, selon le fort et le
-                        foible.</p>
+                            >burin</ref> ; c'est quand les <ref target="#trait">traits</ref> de <ref
+                            target="#burin">burin</ref> sont hardis et gravez également, selon le
+                        fort et le foible.</p>
                     <p xml:id="coupeaux"><hi rend="capitals">COUPEAUX</hi> ou éclats de bois ou de
                             <ref target="#pierre">pierre</ref>. <hi rend="it">Voyez</hi>
                         <hi rend="capitals">ECLATS</hi>.</p>
@@ -24869,12 +24938,12 @@
                             >plomb</ref> les uns sur les autres.</p>
                     <p xml:id="dur"><hi rend="capitals">DUR</hi>, <ref target="#sec">sec</ref> ; en
                         terme de <ref target="#peinture">peinture</ref>, c'est quand les choses sont
-                        trop marquées, soit par des traits trop forts, soit par des <ref
-                            target="#couleurs1">couleurs</ref> trop vives ou trop sombres proches
-                        les unes des autres, et lorsque le tout n'est pas <ref target="#desseigner"
-                            >desseigné</ref> et <ref target="#peint">peint</ref> tendrement ou avec
-                        molesse et union. On dit aussi dans l'architecture <hi rend="it">qu'il y a
-                            de la secheresse</hi>.</p>
+                        trop marquées, soit par des <ref target="#trait">traits</ref> trop forts,
+                        soit par des <ref target="#couleurs1">couleurs</ref> trop vives ou trop
+                        sombres proches les unes des autres, et lorsque le tout n'est pas <ref
+                            target="#desseigner">desseigné</ref> et <ref target="#peint">peint</ref>
+                        tendrement ou avec molesse et union. On dit aussi dans l'architecture <hi
+                            rend="it">qu'il y a de la secheresse</hi>.</p>
                     <pb n="564"
                         facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f598/full/full/0/native.jpg"
                     />
@@ -25561,10 +25630,10 @@
                     <p xml:id="esmiller"><hi rend="capitals">ESMILLER</hi>. <hi rend="it"
                             >Voyez</hi><hi rend="capitals"><ref target="#smiller"
                         >SMILLER</ref></hi>.</p>
-                    <p xml:id="espaces"><hi rend="capitals">ESPACES</hi>. Nous nommons travées les
-                        espaces qui sont entre les <ref target="#poutre">poutres</ref>. <persName
-                            ref="#Vitruve">Vitruve</persName> les appelle <hi rend="it"
-                            >intertignia</hi>.</p>
+                    <p xml:id="espaces"><hi rend="capitals">ESPACES</hi>. Nous nommons <ref
+                            target="#travée">travées</ref> les espaces qui sont entre les <ref
+                            target="#poutre">poutres</ref>. <persName ref="#Vitruve"
+                            >Vitruve</persName> les appelle <hi rend="it">intertignia</hi>.</p>
                     <p xml:id="espaisseurs"><hi rend="capitals">ESPAISSEURS</hi> de terre servant de
                         noyau pour <ref target="#mouler1">mouler</ref> en <ref target="#plomb"
                             >plomb</ref>. <hi rend="it">V. p.</hi> 338.</p>
@@ -25590,7 +25659,7 @@
                         faire <hi rend="it">des <ref target="#fondement">fondemens</ref> ou des <ref
                                 target="#murs">murailles</ref> par espaulées</hi>, lorsque les
                         maçons les achevent d'élever par un bout de la hauteur qu'ils doivent estre,
-                        et que le reste demeure plus bas ;<pb n="579"
+                        et que le reste demeure plus bas ; <pb n="579"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f613/full/full/0/native.jpg"
                         /> faisant leur ouvrage par morceaux et à diverses reprises : ce qui n'est
                         pas un bon travail. Car il faut mener toutes les assises de <ref
@@ -25669,8 +25738,8 @@
                             target="#murs">muraille</ref> ou sur des ais, pour l'execution de
                         quelque piece de <ref target="#maçonnerie">maçonnerie</ref>.</p>
                     <p xml:id="esquaire1"><hi rend="capitals">ESQUAIRE</hi>, equerre, ou equierre,
-                        instrument servant à <ref target="#esquairir">esquairir</ref> et à tracer un
-                        angle droit.</p>
+                        instrument servant à <ref target="#esquairir">esquairir</ref> et à <ref
+                            target="#tracer">tracer</ref> un angle droit.</p>
                     <p xml:id="esquaire2"><hi rend="capitals">ESQUAIRE</hi>, servant aux <ref
                             target="#tailleurs">tailleurs de <ref target="#pierre"
                             >pierre</ref></ref> pour équairir les <ref target="#pierre"
@@ -25721,8 +25790,9 @@
                             >squizzare</hi>, qui veut dire sortir dehors, et jalir avec
                         impetuosité.</p>
                     <p xml:id="esquisser"><hi rend="capitals">ESQUISSER</hi>, faire une <ref
-                            target="#esquisse">esquisse</ref>, c'est prendre promptement le trait
-                        d'une <ref target="#figure1">figure</ref> sans la finir.</p>
+                            target="#esquisse">esquisse</ref>, c'est prendre promptement le <ref
+                            target="#trait">trait</ref> d'une <ref target="#figure1">figure</ref>
+                        sans la finir.</p>
                     <p xml:id="essais"><hi rend="capitals">ESSAIS</hi>, ou petits morceaux de verre
                         qu'on met dans le <ref target="#fourneau">fourneau</ref> lorsqu'on cuit la
                             <ref target="#peinture">peinture</ref> sur le verre. <hi rend="it">V.
@@ -25864,9 +25934,9 @@
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f619/full/full/0/native.jpg"
                         /> avec plus d'étenduë la charge qui pose dessus.</p>
                     <p xml:id="estelon"><hi rend="capitals">ESTELON</hi>, ou estalon, ce sont des
-                        ais que l'on pose à terre pour y tracer la <ref target="#maistresse"
-                            >maistresse</ref> ferme d'un bastiment. <hi rend="it">V. p.</hi>
-                        122.</p>
+                        ais que l'on pose à terre pour y <ref target="#tracer">tracer</ref> la <ref
+                            target="#maistresse">maistresse</ref> ferme d'un bastiment. <hi
+                            rend="it">V. p.</hi> 122.</p>
                     <p xml:id="estirer"><hi rend="capitals">ESTIRER</hi>. Les serruriers disent <hi
                             rend="it">estirer un morceau de <ref target="#fer1">fer</ref></hi>, pour
                         dire le battre à chaud, et l'alonger sur l'<ref target="#enclume1"
@@ -26295,8 +26365,8 @@
                     <p xml:id="figure2"><hi rend="capitals">FIGURE</hi> de <ref target="#bronze"
                             >bronze</ref> ou de <ref target="#marbre1">marbre</ref>, pour dire <ref
                             target="#statue">statuë</ref>.</p>
-                    <p xml:id="figurer"><hi rend="capitals">FIGURER</hi>, tracer quelque <ref
-                            target="#figure1">figure</ref>.</p>
+                    <p xml:id="figurer"><hi rend="capitals">FIGURER</hi>, <ref target="#tracer"
+                            >tracer</ref> quelque <ref target="#figure1">figure</ref>.</p>
                     <p xml:id="filardeux"><hi rend="capitals">FILARDEUX</hi>. On dit <hi rend="it"
                             >une <ref target="#pierre">pierre</ref> filardeuse</hi>, qui a des fils,
                         c'est-à-dire qui n'est pas également pleine : une <hi rend="it"><ref
@@ -26317,13 +26387,14 @@
                         facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f629/full/full/0/native.jpg"/>
                     <p xml:id="filet2"><hi rend="capitals">FILET</hi> d'une vis. C'est une espece de
                         coin qui tourne en <ref target="#ligne">ligne</ref>
-                        <ref target="#spirale">spirale</ref> et en tranchant de <ref
-                            target="#couteau6">couteau</ref>, comme au tour d'un <ref
-                            target="#rouleau">rouleau</ref> ou <ref target="#cylindre"
+                        <ref target="#spirale">spirale</ref> et en <ref target="#tranchant"
+                            >tranchant</ref> de <ref target="#couteau6">couteau</ref>, comme au tour
+                        d'un <ref target="#rouleau">rouleau</ref> ou <ref target="#cylindre"
                             >cylindre</ref>, pour entrer et tenir dans les <ref target="#escrou"
-                            >escrous</ref>. Quelquefois ces filets sont quarrez plustost que
-                        tranchants, comme dans les grands <ref target="#estau1">estaux</ref> des
-                        serruriers. <hi rend="it">V. p.</hi> 84, Pl. XIII.</p>
+                            >escrous</ref>. Quelquefois ces filets sont quarrez plustost que <ref
+                            target="#tranchant">tranchants</ref>, comme dans les grands <ref
+                            target="#estau1">estaux</ref> des serruriers. <hi rend="it">V. p.</hi>
+                        84, Pl. XIII.</p>
                     <p xml:id="filieres1"><hi rend="capitals">FILIERES</hi>. On appelle ainsi de
                         petites pannes ou pieces de bois qui servent aux <ref target="#couverture1"
                             >couvertures</ref> des bastimens, et sur lesquelles portent les <ref
@@ -26448,10 +26519,11 @@
                             >Perrault</persName> sur le <bibl key="vitruveArchitectura">5 chapitre
                             du I livre</bibl> de <persName ref="#Vitruve">Vitruve</persName>.</p>
                     <p>Quand le terrain n'est pas ferme, on fait des <ref target="#pilotis"
-                            >pilotis</ref>, ou bien l'on remplit le fond de la tranchée de grosses
-                            <ref target="#planche">planches</ref> de bois. Il y a des pays où
-                        lorsqu'on fonde les <ref target="#pile">piles</ref> des <ref target="#pont"
-                            >ponts</ref>, ou autres bastimens prés <pb n="598"
+                            >pilotis</ref>, ou bien l'on remplit le fond de la <ref
+                            target="#tranchées">tranchée</ref> de grosses <ref target="#planche"
+                            >planches</ref> de bois. Il y a des pays où lorsqu'on fonde les <ref
+                            target="#pile">piles</ref> des <ref target="#pont">ponts</ref>, ou
+                        autres bastimens prés <pb n="598"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f632/full/full/0/native.jpg"
                         /> de l'eau l'on met des sacs pleins de l'aine en forme de matelats, parce
                         que la laine bien pressée, et grasse comme elle est, ne pourrit pas dans
@@ -27077,8 +27149,8 @@
                         de petit en grand. On se sert quelquefois d'un <ref target="#chassis1"
                             >chassis</ref> divisé par <ref target="#quarreaux">quarreaux</ref> qu'on
                         applique sur le <ref target="#tableau">tableau</ref>, pour n'avoir pas la
-                        peine d'y tracer tant de traits. <hi rend="it">Voyez page</hi> 414, Pl.
-                        LXII.</p>
+                        peine d'y <ref target="#tracer">tracer</ref> tant de <ref target="#trait"
+                            >traits</ref>. <hi rend="it">Voyez page</hi> 414, Pl. LXII.</p>
                     <p xml:id="gratoir1"><hi rend="capitals">GRATOIR</hi> servant aux <ref
                             target="#sculpteur">sculpteurs</ref>. <hi rend="it">Voyez page</hi> 311,
                         314, Pl. XLIX.</p>
@@ -27153,8 +27225,8 @@
                             >estain</ref>. <hi rend="it">V. p.</hi> 161.</p>
                     <p xml:id="griffes2"><hi rend="capitals">GRIFFES</hi>, <ref target="#outil1"
                             >outils</ref> de <ref target="#fer1">fer</ref> en forme d'une S, qui
-                        servent aux serruriers à tracer les pannetons des <ref target="#clef1"
-                            >clefs</ref>. <hi rend="it">V. p.</hi> 228.</p>
+                        servent aux serruriers à <ref target="#tracer">tracer</ref> les pannetons
+                        des <ref target="#clef1">clefs</ref>. <hi rend="it">V. p.</hi> 228.</p>
                     <p xml:id="grille1"><hi rend="capitals">GRILLE</hi>. Il y a des grilles de bois,
                         et d'autres qui sont faites avec des barreaux de <ref target="#fer1"
                             >fer</ref> en differentes <ref target="#maniere1">manieres</ref>. On dit
@@ -27276,9 +27348,10 @@
                 <div2 n="8" type="section" xml:id="lettreH">
                     <head>H</head>
                     <p xml:id="hache"><hi rend="capitals">HACHE</hi>, <ref target="#outil1"
-                            >outil</ref> de <ref target="#fer1">fer</ref> tranchant, et qui sert aux
-                        charpentiers, et à plusieurs autres ouvriers, pour <ref target="#hacher"
-                            >hacher</ref> ou fendre du bois.</p>
+                            >outil</ref> de <ref target="#fer1">fer</ref>
+                        <ref target="#tranchant">tranchant</ref>, et qui sert aux charpentiers, et
+                        à plusieurs autres ouvriers, pour <ref target="#hacher">hacher</ref> ou
+                        fendre du bois.</p>
                     <p xml:id="hachereaux"><hi rend="capitals">HACHEREAUX</hi>. <hi rend="it"
                             >V.</hi><hi rend="capitals"><ref target="#coignée">COIGNÉES</ref></hi>.
                         On dit <hi rend="it"><ref target="#degrossir">degrossir</ref></hi><pb
@@ -27288,10 +27361,11 @@
                                 target="#hache">hache</ref></hi>.</p>
                     <p xml:id="hacher"><hi rend="capitals">HACHER</hi>. On dit <hi rend="it">hacher
                             avec la plume, ou le <ref target="#crayons">crayon</ref></hi>, lorsqu'on
-                            <ref target="#desseigner">desseigne</ref>, et que les traits du <ref
-                            target="#crayons">crayon</ref>, <reg>ou</reg> de la plume sont croisez
-                        les uns sur les autres. Ce qui se dit aussi de la graveure. Tous les traits
-                        ainsi croisez se nomment <hi rend="it">hacheures</hi>.</p>
+                            <ref target="#desseigner">desseigne</ref>, et que les <ref
+                            target="#trait">traits</ref> du <ref target="#crayons">crayon</ref>,
+                            <reg>ou</reg> de la plume sont croisez les uns sur les autres. Ce qui se
+                        dit aussi de la graveure. Tous les <ref target="#trait">traits</ref> ainsi
+                        croisez se nomment <hi rend="it">hacheures</hi>.</p>
                     <p xml:id="hachette1"><hi rend="capitals">HACHETTE</hi> de couvreur. <hi
                             rend="it">V.</hi>
                         <hi rend="capitals">ASSETTE</hi>.</p>
@@ -27575,7 +27649,8 @@
                             rend="capitals"><ref target="#sebile">SEBILE</ref></hi>.</p>
                     <p xml:id="jauge"><hi rend="capitals">JAUGE</hi>. C'est une petite <ref
                             target="#regle">regle</ref> de bois dont se servent les charpentiers
-                        pour tracer leurs ouvrages et couper sur le trait. On dit <hi rend="it"><ref
+                        pour <ref target="#tracer">tracer</ref> leurs ouvrages et couper sur le <ref
+                            target="#trait">trait</ref>. On dit <hi rend="it"><ref
                                 target="#contrejauger">contrejauger</ref> les assemblages de
                             charpenterie. V. p.</hi> 124, 134, Pl. XVIII.</p>
                     <p xml:id="jauger"><hi rend="capitals">JAUGER</hi> une <ref target="#pierre"
@@ -27648,11 +27723,11 @@
                         sortes d'<ref target="#estampe">estampes</ref>.</p>
                     <p xml:id="imiter"><hi rend="capitals">IMITER</hi>. Quand on dit qu'il faut
                         imiter l'antique, ou la <ref target="#maniere1">maniere</ref> d'un tel
-                        maistre, ce n'est pas copier trait pour trait ce qui est <ref
-                            target="#desseigner">desseigné</ref> ou <ref target="#peint"
-                            >peint</ref>, ou ce qui est de <ref target="#sculpture">sculpture</ref>,
-                        mais c'est se former une idée semblable, et suivre la mesme <ref
-                            target="#maniere1">maniere</ref>.</p>
+                        maistre, ce n'est pas copier <ref target="#trait">trait</ref> pour <ref
+                            target="#trait">trait</ref> ce qui est <ref target="#desseigner"
+                            >desseigné</ref> ou <ref target="#peint">peint</ref>, ou ce qui est de
+                            <ref target="#sculpture">sculpture</ref>, mais c'est se former une idée
+                        semblable, et suivre la mesme <ref target="#maniere1">maniere</ref>.</p>
                     <p xml:id="imperiale"><hi rend="capitals">IMPERIALE</hi>, c'est une espece de
                             <ref target="#dome">dôme</ref>, ou <ref target="#couverture1"
                             >couverture</ref> dont le haut est en <ref target="#pointe"
@@ -28081,22 +28156,22 @@
                             page</hi> 121, 132, Pl. XVII.</p>
                     <p xml:id="ligne1"><hi rend="capitals">LIGNE</hi>. C'est ce que les
                         mathematiciens definissent une longueur sans largeur, et que les ouvriers
-                        appellent <hi rend="it">un trait</hi> qui va d'un point à un autre. Il y en
-                        a de plusieurs especes : les lignes droites sont les plus courtes de celles
-                        qui ont mesmes extremitez. Les <ref target="#courbes">courbes</ref> sont
-                        celles qui s'écartent de leurs extremitez. Les <ref target="#spirale"
-                            >spirales</ref> sont des lignes <ref target="#courbes">courbes</ref>,
-                        qui partant de leurs centres s'éloignent à <ref target="#proportion"
-                            >proportion</ref> qu'elles tournent au tour. La ligne <ref
-                            target="#perpendiculaire">perpendiculaire</ref> est celle qui tombe ou
-                        qui s'éleve sur une autre, faisant les angles de part et d'autre égaux
-                        entr'eux. La ligne à <ref target="#plomb">plomb</ref> est celle qui tombe
-                        de haut en bas sans incliner de part ny d'autre, et qui passeroit par le
-                        centre de la terre si elle estoit prolongée. Les lignes paralelles sont
-                        celles qui prolongées à l'infiny ne se rencontreroient jamais. Lignes
-                        horisontales sont toutes celles qui sont paralelles à l'horison. Et la ligne
-                        oblique est celle qui n'est ny horisontale, ny à <ref target="#plomb"
-                            >plomb</ref>.</p>
+                        appellent <hi rend="it">un <ref target="#trait">trait</ref></hi> qui va d'un
+                        point à un autre. Il y en a de plusieurs especes : les lignes droites sont
+                        les plus courtes de celles qui ont mesmes extremitez. Les <ref
+                            target="#courbes">courbes</ref> sont celles qui s'écartent de leurs
+                        extremitez. Les <ref target="#spirale">spirales</ref> sont des lignes <ref
+                            target="#courbes">courbes</ref>, qui partant de leurs centres
+                        s'éloignent à <ref target="#proportion">proportion</ref> qu'elles tournent
+                        au tour. La ligne <ref target="#perpendiculaire">perpendiculaire</ref> est
+                        celle qui tombe ou qui s'éleve sur une autre, faisant les angles de part et
+                        d'autre égaux entr'eux. La ligne à <ref target="#plomb">plomb</ref> est
+                        celle qui tombe de haut en bas sans incliner de part ny d'autre, et qui
+                        passeroit par le centre de la terre si elle estoit prolongée. Les lignes
+                        paralelles sont celles qui prolongées à l'infiny ne se rencontreroient
+                        jamais. Lignes horisontales sont toutes celles qui sont paralelles à
+                        l'horison. Et la ligne oblique est celle qui n'est ny horisontale, ny à <ref
+                            target="#plomb">plomb</ref>.</p>
                     <p xml:id="ligne2"><hi rend="capitals">LIGNE</hi> ou <ref target="#cordeau"
                             >cordeau</ref> de charpentier, ou de maçon. On dit <hi rend="it">tirer
                             une <ref target="#murs">muraille</ref> à la ligne, aligner</hi>, ou <hi
@@ -28109,9 +28184,9 @@
                         une piece de bois.</p>
                     <p xml:id="ligne3"><hi rend="capitals">LIGNES</hi><hi rend="it">ralongées,
                             lignes de pente</hi>. Ce sont termes dont l'on se sert pour l'usage des
-                        traits et <ref target="#coupe3">coupes</ref> des <ref target="#pierre"
-                            >pierres</ref>, et qu'il est malaisé de comprendre que par la pratique
-                        et avec demonstration.</p>
+                            <ref target="#trait">traits</ref> et <ref target="#coupe3">coupes</ref>
+                        des <ref target="#pierre">pierres</ref>, et qu'il est malaisé de comprendre
+                        que par la pratique et avec demonstration.</p>
                     <p>Les ouvriers disent à plein <ref target="#cintre">cintre</ref>, ou à pleine
                         rondeur. Les lignes qu'on nomme en geometrie <hi rend="it">coniques,
                             elipses, paraboles</hi>, ou <hi rend="it">hyperboles</hi> ; ils les
@@ -28221,8 +28296,9 @@
                     <p xml:id="lineamens"><hi rend="capitals">LINEAMENS</hi>. On ne dit guere en
                         termes de <ref target="#peinture">peinture</ref>, et de <ref
                             target="#sculpture">sculpture</ref>, les lineamens d'un corps ou d'un
-                        visage. On dit les traits, <hi rend="it">former les premiers traits d'un
-                            visage, d'une <ref target="#figure1">figure</ref></hi>, etc.</p>
+                        visage. On dit les <ref target="#trait">traits</ref>, <hi rend="it">former
+                            les premiers <ref target="#trait">traits</ref> d'un visage, d'une <ref
+                                target="#figure1">figure</ref></hi>, etc.</p>
                     <p xml:id="lingotiere"><hi rend="capitals">LINGOTIERE</hi>, c'est un <ref
                             target="#moule4">moule</ref> dont les vitriers se servent pour fondre le
                             <ref target="#plomb">plomb</ref> qu'ils employent aux vitres. Ils
@@ -29502,8 +29578,9 @@
                         C'est lorsqu'on fait couler la matiere dans les <ref target="#creux1"
                             >creux</ref>.</p>
                     <p xml:id="mouler2"><hi rend="capitals">MOULER</hi> une <ref target="#pierre"
-                            >pierre</ref>, c'est tracer dessus la <ref target="#figure1"
-                            >figure</ref> des panneaux sur quoy on doit la tailler.</p>
+                            >pierre</ref>, c'est <ref target="#tracer">tracer</ref> dessus la <ref
+                            target="#figure1">figure</ref> des panneaux sur quoy on doit la
+                        tailler.</p>
                     <p xml:id="moules"><hi rend="capitals">MOULES</hi>, <ref target="#coquilles"
                             >coquilles</ref>. L'on s'en sert à faire des <ref target="#grotte"
                             >grottes</ref>. <hi rend="it">V. p.</hi> 443.</p>
@@ -29533,8 +29610,9 @@
                     <p xml:id="moulinet3"><hi rend="capitals">MOULINETS</hi> qui se mettent dans les
                             <ref target="#dehors">dehors</ref> des <ref target="#place">places
                             fortifiées</ref>. <hi rend="it">V. p.</hi> 102.</p>
-                    <p xml:id="moulinet4"><hi rend="capitals">MOULINETS</hi> en tranchoirs ;
-                        moulinets doubles ; moulinets en tranchoirs évidez. Ce sont des pieces de
+                    <p xml:id="moulinet4"><hi rend="capitals">MOULINETS</hi> en <ref
+                            target="#tranchoir">tranchoirs</ref> ; moulinets doubles ; moulinets en
+                            <ref target="#tranchoir">tranchoirs</ref> évidez. Ce sont des pieces de
                         vitres. <hi rend="it">V. p.</hi> 268. Pl. XLI.</p>
                     <p xml:id="mouleures"><hi rend="capitals">MOULEURES</hi> d'architecture, soit en
                             <ref target="#pierre">pierre</ref>, soit en bois. Ce sont toutes les
@@ -30004,7 +30082,8 @@
                         bruny, ce sont deux <ref target="#maniere1">manieres</ref> differentes dont
                         l'on dore le bois et les autres metaux.</p>
                     <p>On prepare l'or en plusieurs façons, car il y a l'or batu par feüilles ; l'or
-                        moulu, ou en <ref target="#coquilles">coquilles</ref> ; l'or trait, etc.</p>
+                        moulu, ou en <ref target="#coquilles">coquilles</ref> ; l'or <ref
+                            target="#trait">trait</ref>, etc.</p>
                     <p xml:id="orchestre"><hi rend="capitals">ORCHESTRE</hi>, c'est aujourd'huy le
                         lieu où est enfermé la symphonie. Anciennement l'orchestre estoit le milieu
                         de tout le <ref target="#theatre">theatre</ref>, qui estoit composé de trois
@@ -30396,8 +30475,8 @@
                         les eschiffes et dans lesquels sont assemblés les <ref target="#noyau2"
                             >noyaux</ref> des <ref target="#escalier">escaliers</ref>.</p>
                     <p xml:id="patte-d'oye"><hi rend="capitals">PATTE-D'OYE</hi>, les charpentiers
-                        nomment ainsi certains traits dont ils marquent les pieces de bois. <hi
-                            rend="it">Voyez page</hi> 123.</p>
+                        nomment ainsi certains <ref target="#trait">traits</ref> dont ils marquent
+                        les pieces de bois. <hi rend="it">Voyez page</hi> 123.</p>
                     <p>Il y a aussi des <ref target="#enrayeures">enrayeures</ref> pour les <ref
                             target="#comble">combles</ref> qu'on appelle en patte-d'oye.</p>
                     <p xml:id="patron"><hi rend="capitals">PATRON</hi>. <hi rend="it">Voyez</hi>
@@ -30466,10 +30545,11 @@
                         d'une <ref target="#couleurs1">couleur</ref>
                         <ref target="#jaune">jaune</ref> ou <ref target="#rouge">rouge</ref>. Mais
                         le mot de peint s'estend plus loing qu'à couvrir de <ref target="#couleurs1"
-                            >couleur</ref> ; il signifie l'art, la beauté du travail, et le maniment
-                        du <ref target="#pinceau">pinceau</ref>. Ainsi l'on dit d'un portrait <hi
-                            rend="it">qu'il est bien print</hi>, pour dire bien travaillé en ce qui
-                        regarde la <ref target="#couleurs1">couleur</ref>.</p>
+                            >couleur</ref> ; il signifie l'art, la beauté du <ref target="#travail"
+                            >travail</ref>, et le maniment du <ref target="#pinceau">pinceau</ref>.
+                        Ainsi l'on dit d'un portrait <hi rend="it">qu'il est bien print</hi>, pour
+                        dire bien travaillé en ce qui regarde la <ref target="#couleurs1"
+                            >couleur</ref>.</p>
                     <p xml:id="pele1"><hi rend="capitals">PELE</hi> servant aux maçons. <hi
                             rend="it">V. p.</hi> 80, Pl. XI.</p>
                     <p xml:id="pele2"><hi rend="capitals">PELE</hi> servant aux paveurs. <hi
@@ -31247,13 +31327,14 @@
                             target="#mandrins1">mandrins</ref>.</p>
                     <p xml:id="pointal"><hi rend="capitals">POINTAL</hi>, piece de bois. <hi
                             rend="it">V. p.</hi> 130.</p>
-                    <p xml:id="pointe1"><hi rend="capitals">POINTE</hi> à tracer pour <ref
-                            target="#portraire">portraire</ref> et <ref target="#desseigner"
-                            >desseigner</ref> sur le <ref target="#fer1">fer</ref> et sur l'acier,
-                        et dont les serruriers se servent pour tracer toutes sortes de pieces. <hi
-                            rend="it">V. p.</hi> 230.</p>
-                    <p xml:id="pointe2"><hi rend="capitals">POINTE</hi> à tracer sur le bois. <hi
-                            rend="it">V. p.</hi> 452, Pl. LXV.</p>
+                    <p xml:id="pointe1"><hi rend="capitals">POINTE</hi> à <ref target="#tracer"
+                            >tracer</ref> pour <ref target="#portraire">portraire</ref> et <ref
+                            target="#desseigner">desseigner</ref> sur le <ref target="#fer1"
+                            >fer</ref> et sur l'acier, et dont les serruriers se servent pour <ref
+                            target="#tracer">tracer</ref> toutes sortes de pieces. <hi rend="it">V.
+                            p.</hi> 230.</p>
+                    <p xml:id="pointe2"><hi rend="capitals">POINTE</hi> à <ref target="#tracer"
+                            >tracer</ref> sur le bois. <hi rend="it">V. p.</hi> 452, Pl. LXV.</p>
                     <p xml:id="pointe3"><hi rend="capitals">POINTE</hi>, c'est un <ref
                             target="#outil1">outil</ref> de <ref target="#fer1">fer</ref> bien
                         aceré, dont les <ref target="#sculpteur">sculpteurs</ref> de <ref
@@ -31563,14 +31644,15 @@
                     <p xml:id="poussée"><hi rend="capitals">POUSSÉE</hi>. On appelle la poussée
                         d'une voute, l'effort qu'elle peut faire par sa pesanteur contre les <ref
                             target="#murs">murs</ref> qui la soutiennent. <hi rend="it">Faire le
-                            trait des poussées des voutes</hi>. C'est chercher et marquer les
-                        espaisseurs que doivent avoir les <ref target="#murs">murs</ref> et les
-                        pilliers <ref target="#boutans">boutans</ref>, qui sont des corps saillans,
-                        lesquels portent et appuyent les voutes ausquelles on donne plus de poussée,
-                        c'est-à-dire qu'on <ref target="#fortifier1">fortifie</ref> par des <ref
-                            target="#murs">murs</ref> plus espais, selon qu'elles sont davantage
-                        surbaissées dans leur <ref target="#cherches2">cherche</ref> ou <ref
-                            target="#cintre">cintre</ref>.</p>
+                                <ref target="#trait">trait</ref> des poussées des voutes</hi>.
+                        C'est chercher et marquer les espaisseurs que doivent avoir les <ref
+                            target="#murs">murs</ref> et les pilliers <ref target="#boutans"
+                            >boutans</ref>, qui sont des corps saillans, lesquels portent et
+                        appuyent les voutes ausquelles on donne plus de poussée, c'est-à-dire qu'on
+                            <ref target="#fortifier1">fortifie</ref> par des <ref target="#murs"
+                            >murs</ref> plus espais, selon qu'elles sont davantage surbaissées dans
+                        leur <ref target="#cherches2">cherche</ref> ou <ref target="#cintre"
+                            >cintre</ref>.</p>
                     <p xml:id="poussolane"><hi rend="capitals">POUSSOLANE</hi>. <hi rend="it"
                             >Voyez</hi>
                         <hi rend="capitals">SABLE</hi>. <hi rend="it">V. p.</hi> 398.</p>
@@ -31712,9 +31794,9 @@
                             >membre</ref> quarré. C'est ce qui paroist dans l'architecture, comme
                         une petite <ref target="#regle">regle</ref> ou <ref target="#listel"
                             >listel</ref>, et qui en termine souvent quelque partie.</p>
-                    <p>On dit parmy les ouvriers, <hi rend="it">faire le trait quarré</hi> pour
-                        dire en terme de geometrie <hi rend="it">eslever une <ref target="#ligne"
-                                >ligne</ref>
+                    <p>On dit parmy les ouvriers, <hi rend="it">faire le <ref target="#trait"
+                                >trait</ref> quarré</hi> pour dire en terme de geometrie <hi
+                            rend="it">eslever une <ref target="#ligne">ligne</ref>
                             <ref target="#perpendiculaire">perpendiculaire</ref> sur une autre <ref
                                 target="#ligne">ligne</ref></hi>.</p>
                     <p xml:id="quarré2"><hi rend="capitals">QUARRÉ</hi> ou <ref target="#creux2"
@@ -31877,9 +31959,9 @@
                     <p xml:id="ramender"><hi rend="capitals">RAMENDER</hi> terme des doreurs. <hi
                             rend="it">V. p.</hi> 288.</p>
                     <p xml:id="rameneret"><hi rend="capitals">RAMENERET</hi>. On dit en terme de
-                        charpenterie, <hi rend="it">tirer un trait rameneret avec le <ref
-                                target="#cordeau">cordeau</ref></hi>, c'est pour prendre la longueur
-                        des arrestiers.</p>
+                        charpenterie, <hi rend="it">tirer un <ref target="#trait">trait</ref>
+                            rameneret avec le <ref target="#cordeau">cordeau</ref></hi>, c'est pour
+                        prendre la longueur des arrestiers.</p>
                     <p xml:id="rampe"><hi rend="capitals">RAMPE</hi> d'un <ref target="#escalier"
                             >escalier</ref>. C'est la suite des marches depuis un <ref
                             target="#paillier">paillier</ref> jusques à un autre.</p>
@@ -32326,8 +32408,8 @@
                             >creux</ref>, et autres pieces. <hi rend="it">V. p.</hi> 230.</p>
                     <p xml:id="rigole"><hi rend="capitals">RIGOLE</hi> petit <ref target="#canal1"
                             >canal</ref>, ou petit <ref target="#fossez">fossé</ref> pour faire
-                        couler des eaux. On dit aussi <hi rend="it">faire une rigole ou
-                            tranchée</hi>
+                        couler des eaux. On dit aussi <hi rend="it">faire une rigole ou <ref
+                                target="#tranchées">tranchée</ref></hi>
                         <pb n="726"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f760/full/full/0/native.jpg"
                         /> pour faire les <ref target="#fondement">fondemens</ref> d'un
@@ -32451,11 +32533,11 @@
                     <p xml:id="rouleau2"><hi rend="capitals">ROULEAU</hi> dont se servent les
                         charpentiers et autres ouvriers pour mener de grosses pieces de bois. <hi
                             rend="it">V. p.</hi> 74, 84, 130 et 142, Pl. XXII.</p>
-                    <p xml:id="rouleau3"><hi rend="capitals">ROULEAUX</hi> sans fin ou
-                        tours-terrieres ; ce sont des rouleaux de bois assemblez avec <ref
-                            target="#entretoises">entre-toises</ref>. Ils servent à conduire de
-                        grands fardeaux, et à mener de grosses pieces d'un lieu à un autre. <hi
-                            rend="it">V. p.</hi> 130, 142, Pl. XXII.</p>
+                    <p xml:id="rouleau3"><hi rend="capitals">ROULEAUX</hi> sans fin ou <ref
+                            target="#tours-terrieres">tours-terrieres</ref> ; ce sont des rouleaux
+                        de bois assemblez avec <ref target="#entretoises">entre-toises</ref>. Ils
+                        servent à conduire de grands fardeaux, et à mener de grosses pieces d'un
+                        lieu à un autre. <hi rend="it">V. p.</hi> 130, 142, Pl. XXII.</p>
                     <p xml:id="rouleau4"><hi rend="capitals">ROULEAUX</hi> de bois dont se servent
                         les plombiers pour former les tuyaux de <ref target="#plomb">plomb</ref>.
                             <hi rend="it">V.</hi>
@@ -32635,8 +32717,9 @@
                         fait ordinairement de bois et presque semblable au <hi rend="it"><ref
                                 target="#buveau">buveau</ref></hi>, car elle est toute droite et
                         comme une équiaire ployante, qui s'ouvre et qui se ferme de mesme qu'un <ref
-                            target="#compas5">compas</ref>, pour former et pour tracer des angles,
-                        et aussi pour prendre des mesures sur le trait et sur l'ouvrage. Elle sert
+                            target="#compas5">compas</ref>, pour former et pour <ref
+                            target="#tracer">tracer</ref> des angles, et aussi pour prendre des
+                        mesures sur le <ref target="#trait">trait</ref> et sur l'ouvrage. Elle sert
                         pour couper une <ref target="#pierre">pierre</ref> par le bout ou autrement,
                         avant que de la mettre en œuvre quand il doit y avoir du biais. Les deux
                             <ref target="#branches">branches</ref> de la sauterelle doivent estre
@@ -32766,9 +32849,10 @@
                         >tire</ref></hi>.</p>
                     <p xml:id="serpe"><hi rend="capitals">SERPE</hi>, ou <ref target="#sarpe"
                             >sarpe</ref> pour couper du bois : c'est un <ref target="#outil1"
-                            >outil</ref> de <ref target="#fer1">fer</ref> aceré, et tranchant d'un
-                        costé qui a une poignée de bois. Il y a des serpes qui sont droittes et
-                        d'autres qui sont courbées par le bout.</p>
+                            >outil</ref> de <ref target="#fer1">fer</ref> aceré, et <ref
+                            target="#tranchant">tranchant</ref> d'un costé qui a une poignée de
+                        bois. Il y a des serpes qui sont droittes et d'autres qui sont courbées par
+                        le bout.</p>
                     <p xml:id="serpe-serpette"><hi rend="capitals">SERPE ET SERPETTE</hi>, dont les
                         plombiers se servent. <hi rend="it">Voyez page</hi> 164, Pl. XXVI.</p>
                     <p xml:id="serpentin"><hi rend="capitals">SERPENTIN</hi>, <ref target="#pierre"
@@ -32848,8 +32932,8 @@
                         <ref target="#tendre">tendre</ref>, hormis que les dents des <pb n="737"
                             facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86268296/f771/full/full/0/native.jpg"
                         /> sies de <ref target="#pierre">pierres</ref> ne sont pas detournées, et
-                        que celles à bois sont detournées de part et d'autre avec un
-                        tourne-à-gauche.</p>
+                        que celles à bois sont detournées de part et d'autre avec un <ref
+                            target="#tourne-à-gauche">tourne-à-gauche</ref>.</p>
                     <p xml:id="sie5"><hi rend="capitals">SIE</hi> des charpentiers. <hi rend="it">V.
                             p.</hi> 124, 134, Pl. XVII.</p>
                     <p xml:id="sie6"><hi rend="capitals">SIE</hi> à <ref target="#refendre"
@@ -32912,9 +32996,10 @@
                             target="#doucine">doucine</ref>. <hi rend="it">V.</hi>
                         <hi rend="capitals"><ref target="#cymaise">CYMAISE</ref></hi>.</p>
                     <p xml:id="simbleau"><hi rend="capitals">SIMBLEAU</hi>. Quand les charpentiers
-                        veulent tracer un <ref target="#cerceau">cercle</ref>, ils se servent d'un
-                            <ref target="#cordeau">cordeau</ref>, dont ils mettent un bout au point
-                        ou centre ; et de l'autre ils marquent, et tracent telle portion de <ref
+                        veulent <ref target="#tracer">tracer</ref> un <ref target="#cerceau"
+                            >cercle</ref>, ils se servent d'un <ref target="#cordeau">cordeau</ref>,
+                        dont ils mettent un bout au point ou centre ; et de l'autre ils marquent, et
+                            <ref target="#tracer">tracent</ref> telle portion de <ref
                             target="#cerceau">cercle</ref> qu'ils veulent. Ils appellent ce <ref
                             target="#cordeau">cordeau</ref> ou ficelle, un <hi rend="it"
                             >simbleau</hi>.</p>
@@ -33519,12 +33604,12 @@
                     <p xml:id="tenon1"><hi rend="capitals">TENON</hi>. C'est le bout d'une piece de
                         bois, qui entre dans une <ref target="#mortaises">mortaise</ref>. <hi
                             rend="it">V. p.</hi> 132, Pl. XVII.</p>
-                    <p xml:id="tenon2"><hi rend="capitals">TENONS</hi> à tournices ou <ref
-                            target="#oulices">oulices</ref> ; ce sont ceux qui sont coupez tout
-                        quarrement, et en <hi rend="it">about</hi> auprés le <ref target="#parement"
-                            >parement</ref> du bois, pour <ref target="#revestir">revestir</ref>
-                        aprés coup et quand l'ouvrage est fait. <hi rend="it">V. p.</hi> 123, 132,
-                        Pl. XVII.</p>
+                    <p xml:id="tenon2"><hi rend="capitals">TENONS</hi> à <ref target="#tournices"
+                            >tournices</ref> ou <ref target="#oulices">oulices</ref> ; ce sont ceux
+                        qui sont coupez tout quarrement, et en <hi rend="it">about</hi> auprés le
+                            <ref target="#parement">parement</ref> du bois, pour <ref
+                            target="#revestir">revestir</ref> aprés coup et quand l'ouvrage est
+                        fait. <hi rend="it">V. p.</hi> 123, 132, Pl. XVII.</p>
                     <p xml:id="tenon3"><hi rend="capitals">TENONS</hi>
                         <hi rend="it">à mors d'asne</hi>, ou <hi rend="it"><ref target="#mordant"
                                 >mordant</ref>, et <ref target="#renforts">renforts</ref></hi>. <hi
@@ -33837,13 +33922,13 @@
                         <hi rend="it">les <ref target="#couleurs1">couleurs</ref></hi> ; c'est
                         lorsqu'en peingnant on les manie trop avec le <ref target="#pinceau"
                             >pinceau</ref> ou la <ref target="#brosse">brosse</ref>.</p>
-                    <p xml:id="tourne-à-gauche1"><hi rend="capitals">TOURNE-A-GAUCHE</hi>. C'est un
+                    <p xml:id="tourne-à-gauche1"><hi rend="capitals">TOURNE-À-GAUCHE</hi>. C'est un
                             <ref target="#outil1">outil</ref> de <ref target="#fer1">fer</ref> qui
                         sert comme de <ref target="#clef1">clef</ref> pour tourner d'autres <ref
                             target="#outil1">outils</ref>. Plusieurs ouvriers s'en servent, comme
                         charpentiers, <ref target="#menuisier">menuisiers</ref>, et autres. <hi
                             rend="it">V. p.</hi> 176, 184, Pl. XXXII.</p>
-                    <p xml:id="tourne-à-gauche2"><hi rend="capitals">TOURNE-A-GAUCHE</hi>, servant
+                    <p xml:id="tourne-à-gauche2"><hi rend="capitals">TOURNE-À-GAUCHE</hi>, servant
                         aux serruriers pour tourner les vis, <ref target="#taraux">taraux</ref>, et
                         pour demonter les <ref target="#serrure">serrures</ref>, et quelquefois pour
                         redresser les <ref target="#rouet">rouëts</ref>. <hi rend="it">V. p.</hi>
@@ -33897,16 +33982,17 @@
                         <hi rend="capitals"><ref target="#quarré">QUARRÉ</ref></hi>.</p>
                     <p>Sçavoir le <hi rend="capitals">TRAIT</hi> et <ref target="#coupe3"
                             >coupe</ref> des <ref target="#pierre">pierres</ref>, c'est sçavoir
-                        l'art de tracer les <ref target="#pierre">pierres</ref> pour estre taillées
-                        et coupées hors leurs angles quarrez, quand il est besoin de faire des
-                        voutes, des arcs, des arceaux, des <ref target="#porte">portes</ref> et des
-                            <ref target="#fenestres">fenestres</ref>.</p>
-                    <p xml:id="trait3"><hi rend="capitals">TRAIT</hi>, on dit aussi le trait d'une
-                            <ref target="#figure1">figure</ref> ou d'un portrait. <hi rend="it"
-                            >N'avoir marqué sur une <ref target="#toile">toile</ref> que les
-                            premiers traits d'un visage, ou d'une main</hi>, c'est-à-dire n'en
-                        avoir representé ou marqué que les <ref target="#contours"
-                        >contours</ref>.</p>
+                        l'art de <ref target="#tracer">tracer</ref> les <ref target="#pierre"
+                            >pierres</ref> pour estre taillées et coupées hors leurs angles quarrez,
+                        quand il est besoin de faire des voutes, des arcs, des arceaux, des <ref
+                            target="#porte">portes</ref> et des <ref target="#fenestres"
+                            >fenestres</ref>.</p>
+                    <p xml:id="trait3"><hi rend="capitals">TRAIT</hi>, on dit aussi le <ref
+                            target="#trait">trait</ref> d'une <ref target="#figure1">figure</ref> ou
+                        d'un portrait. <hi rend="it">N'avoir marqué sur une <ref target="#toile"
+                                >toile</ref> que les premiers <ref target="#trait">traits</ref> d'un
+                            visage, ou d'une main</hi>, c'est-à-dire n'en avoir representé ou
+                        marqué que les <ref target="#contours">contours</ref>.</p>
                     <p xml:id="traitter"><hi rend="capitals">TRAITTER</hi>
                         <hi rend="it">noblement un sujet dans un <ref target="#tableau"
                                 >tableau</ref></hi>, c'est-à-dire le representer avec grandeur, et
@@ -34082,8 +34168,9 @@
                             >plomb</ref> pour enchasser le verre. <hi rend="it">V. p.</hi> 264.276,
                         Pl. XLV. </p>
                     <p xml:id="tringlettes2"><hi rend="capitals">TRINGLETTES</hi> doublés ;
-                        Tringlettes en tranchoirs, ce sont des pieces de verre dont on compose des
-                        panneaux de vitres. <hi rend="it">V. p.</hi> 268.Pl. XLI. </p>
+                        tringlettes en <ref target="#tranchoir">tranchoirs</ref>, ce sont des pieces
+                        de verre dont on compose des panneaux de vitres. <hi rend="it">V. p.</hi>
+                        268.Pl. XLI. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreT_P170"><hi rend="capitals"> Triquets
                         </hi>, Traquets ou <ref target="#chevalet6">chevalets</ref> dont les
                         couvreurs se servent pour eschaffauder. <hi rend="it">V. p.</hi>
@@ -34475,8 +34562,8 @@
                         avec une belle union de <ref target="#couleurs1">couleurs</ref>, quandelles
                         s'ac. cordent bied toutes ensemble, etet à la <ref target="#lumiere1"
                             >lumiere</ref> qui les éclaire ; qu'il n'y en a point de trop fortes qui
-                        detruisent les autres, et que toutes les parties sont si bien traittées, que
-                        chaque chose fait son effet. </p>
+                        detruisent les autres, et que toutes les parties sont si bien <ref
+                            target="#traitter">traittées</ref>, que chaque chose fait son effet. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreV_P56"> VOLANs ; ou Ailes d'un moulin à
                         vent. Ces Volans sont croisez vers un des ; bouts de ce qu'on appellé
                         l'Arbre tournant. V. AILES. </p>
@@ -34691,12 +34778,13 @@
                             >doubleaux</ref>, <ref target="#branches">branches</ref>, et <ref
                             target="#nerfs">nerfs</ref> d'<ref target="#ogives">ogives</ref>, que
                         les pendentifs, soient dans leur <ref target="#doille">douelles</ref>,
-                        conduits et façonnez au trait du <ref target="#compas2">compas</ref> ; les
-                            <ref target="#figure1">figures</ref> eliptiques, ou en ance de panier,
-                        surmonté́es ou surbaissées, n'estant pas communement en usage pour cela. Il
-                        faut aussi pour une plus grande beauté de l'ouvrage, que tous les lits
-                            en-<ref target="#joints">joints</ref> des pendants, et de tous les ares,
-                            <ref target="#nerfs">nerfs</ref>, et bran: ches d'<ref target="#ogives"
+                        conduits et façonnez au <ref target="#trait">trait</ref> du <ref
+                            target="#compas2">compas</ref> ; les <ref target="#figure1"
+                            >figures</ref> eliptiques, ou en ance de panier, surmonté́es ou
+                        surbaissées, n'estant pas communement en usage pour cela. Il faut aussi
+                        pour une plus grande beauté de l'ouvrage, que tous les lits en-<ref
+                            target="#joints">joints</ref> des pendants, et de tous les ares, <ref
+                            target="#nerfs">nerfs</ref>, et bran: ches d'<ref target="#ogives"
                             >ogives</ref>, et autres <ref target="#ornemens2">ornemens</ref>, soient
                         conduits en sorte qu'ils puissent estre bornoyez àà la <ref target="#regle"
                             >regle</ref>, et ne fassent aucun <ref target="#jarets">jaret</ref> en
@@ -34741,11 +34829,11 @@
                             >maistresses</ref> Voutes, les grandes Voutes, ausquelles sont
                         subordonnées celles qui ne servent que de <ref target="#porte">portes</ref>,
                             <ref target="#fenestres">fenestres</ref>, descentes ou <ref
-                            target="#passage">passages</ref>. Les traits de celles-cy se font
-                        ordinairement par panneaux ; et les <ref target="#maistresse"
-                            >maistresses</ref> Voutes par equanssement, si ce n'est pour l'execution
-                        de quelques traits particuliers. Ces grandes Voutes sont les Voutes
-                        d'arestes. </p>
+                            target="#passage">passages</ref>. Les <ref target="#trait">traits</ref>
+                        de celles-cy se font ordinairement par panneaux ; et les <ref
+                            target="#maistresse">maistresses</ref> Voutes par equanssement, si ce
+                        n'est pour l'execution de quelques <ref target="#trait">traits</ref>
+                        particuliers. Ces grandes Voutes sont les Voutes d'arestes. </p>
                     <p xml:id="FEL_PASP_dictionnaire_lettreV_P86"><persName ref="#AndreaPalladio"
                             >Palladio</persName> l.1.c.1A-reconnoist six differentes sortes de
                         Voutes. 1.A croisettes ou <ref target="#branches">branches</ref> d'<ref
