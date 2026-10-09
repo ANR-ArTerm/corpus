@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI>
-  <particDesc>
-    <listPerson xmlns="http://www.tei-c.org/ns/1.0">
+  <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+    <listPerson>
       <person xml:id="AndreaCesalpino" source="https://www.wikidata.org/wiki/Q346523" />
       <person xml:id="BernardoCesi" source="https://www.wikidata.org/wiki/Q59531958" />
       <person xml:id="NicolasMonardes" source="https://www.wikidata.org/wiki/Q950531" />
@@ -61782,10 +61782,8 @@
       <person xml:id="GiovanniBuora" />
       <person xml:id="GiovanniDiBalduccio" />
       <person xml:id="GiovanniDiBenedettoBandini" />
-      <person xml:id="GiovanniGabrielli   " />
       <person xml:id="GiovanniSolari" />
       <person xml:id="GirolamoArganini" />
-      <person xml:id="GiulianoDaMaiano" />
       <person xml:id="GiulianoDaMaiano " />
       <person xml:id="GiuseppeArchimboldo" />
       <person xml:id="HansBock" />
@@ -61802,8 +61800,6 @@
       <person xml:id="NeriDiFioravante" />
       <person xml:id="NicholasMignard" />
       <person xml:id="ParisBordon" />
-      <person xml:id="Passignano" />
-      <person xml:id="Pellegrino Tibaldi" />
       <person xml:id="PerinDelVaga" />
       <person xml:id="PieroDiJacopoRosselli" />
       <person xml:id="PierreChambiges" />
@@ -61823,7 +61819,6 @@
       <person xml:id="VincenzoDanti" />
       <person xml:id="WillemDePannemaker" />
       <person xml:id="Zeus" />
-      <person xml:id="ulan_500027513" />
     </listPerson>
   </particDesc>
 </TEI>
