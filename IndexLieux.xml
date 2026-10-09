@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI>
   <settingDesc>
-    <listPlace>
+    <listPlace  xmlns="http://www.tei-c.org/ns/1.0">
       <place xml:id="Lycie" source="https://www.wikidata.org/wiki/Q18927"/>
       <place xml:id="Potidee" source="https://www.wikidata.org/wiki/Q999468"/>
       <place xml:id="Epernay" source="https://www.wikidata.org/wiki/Q205537"/>
