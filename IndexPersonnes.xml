@@ -2,6 +2,7 @@
 <TEI>
   <particDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPerson>
+      <person xml:id="Epimenides" source="https://www.wikidata.org/wiki/Q319406"/>
       <person xml:id="AndreaCesalpino" source="https://www.wikidata.org/wiki/Q346523"/>
       <person xml:id="BernardoCesi" source="https://www.wikidata.org/wiki/Q59531958"/>
       <person xml:id="NicolasMonardes" source="https://www.wikidata.org/wiki/Q950531"/>
@@ -3194,8 +3195,7 @@
         source="https://www.wikidata.org/wiki/Q697942">
         <persName>
           <forename>Amycos</forename>
-          <surname>Amycos</surname>Psammetique
-          <addName>Roy Bebrie</addName>
+          <surname>Amycos</surname>Psammetique <addName>Roy Bebrie</addName>
         </persName>
         <trait type="categorie">
           <label>personnage mythologique</label>
