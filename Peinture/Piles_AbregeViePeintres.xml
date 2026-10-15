@@ -5,7 +5,8 @@
       <titleStmt>
         <title xml:lang="fra">Abregé de la vie des peintres, Avec des reflexions sur leurs Ouvrages,
           Et un Traité du Peintre parfait, de la connoissance des Desseins, et de l’utilité des
-          Estampes.</title> <respStmt>
+          Estampes.</title>
+        <respStmt>
           <name>Emma Bondoerffer</name>
           <resp>Correction, Structuration, Balisage, Indexation</resp>
         </respStmt>
@@ -1229,17 +1230,18 @@
             facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000077.tif/full/full/0/default.jpg"/>
           <p xml:id="PIL_AVP_L1_C20_P2"><persName ref="#Titien">Titien</persName> (comme je l'ay
             remarqué ailleurs) en a usé ainsi dans le tableau qu'il a fait du<objectName
-              ref="#TitienBacchusArianeNGLondres"> Triomphe de Baccus</objectName>, où ayant placé <persName
-              ref="#Ariane">Ariane</persName> sur un des côtez du tableau, et ne pouvant pour cette
-            raison la faire remarquer par les éclats de la lumiére qu'il a voulu conserver dans le
-            milieu, luy a donné une echarpe de vermillon sur une draperie bleue, tant pour la
-            détacher de son fond, qui est déja une mer bleue, qu'à cause que c'est une des
-            principales figures du sujet sur laquelle il veut que l'œil soit attiré. <persName
-              ref="#PaoloVeronese">Paul Veronése</persName> dans sa <objectName ref="#PaoloVeroneseNocesCanaLouvre"
-              >Nôce de Cana</objectName>; parce que le <persName ref="#Jesus">Christ</persName>, qui
-            est la principale figure du sujet, est un peu enfoncé dans le tableau, et qu'il n'a pû
-            le faire remarquer par le brillant du clair-obscur, l'a vêtu de bleu et de vermillon,
-            afin que la vue se portat sur cette figure.</p>
+              ref="#TitienBacchusArianeNGLondres"> Triomphe de Baccus</objectName>, où ayant placé
+              <persName ref="#Ariane">Ariane</persName> sur un des côtez du tableau, et ne pouvant
+            pour cette raison la faire remarquer par les éclats de la lumiére qu'il a voulu
+            conserver dans le milieu, luy a donné une echarpe de vermillon sur une draperie bleue,
+            tant pour la détacher de son fond, qui est déja une mer bleue, qu'à cause que c'est une
+            des principales figures du sujet sur laquelle il veut que l'œil soit attiré. <persName
+              ref="#PaoloVeronese">Paul Veronése</persName> dans sa <objectName
+              ref="#PaoloVeroneseNocesCanaLouvre">Nôce de Cana</objectName>; parce que le <persName
+              ref="#Jesus">Christ</persName>, qui est la principale figure du sujet, est un peu
+            enfoncé dans le tableau, et qu'il n'a pû le faire remarquer par le brillant du
+            clair-obscur, l'a vêtu de bleu et de vermillon, afin que la vue se portat sur cette
+            figure.</p>
         </div2>
         <div2 xml:id="C21" type="chapitre" n="21" xml:lang="fra">
           <head>
@@ -1356,7 +1358,7 @@
             autre rencontre où il les jugera necessaires.</p>
           <p xml:id="PIL_AVP_L1_C23_P8"><persName ref="#PeterPaulRubens">Rubens</persName>, qui de
             tous les peintres s'est le plus ingénieusement et le plus doctement servi de ces
-            symboles, comme on le peut voir par le livre de <objectName ref="#">l'Entrée du
+            symboles, comme on le peut voir par le livre de <objectName ref="#PeterPaulRubensDecorEphemereJoyeuseEntreeDuCardinalInfantFerdinand">l'Entrée du
               Cardinal Infant dans la Ville d'Anvers</objectName> ; et par les tableaux de
               <objectName ref="#PalaisLuxembourgParis">la Galerie de Luxembourg</objectName>, a été
             censuré par quelques-uns, pour avoir introduit dans ses compositions ces figures
@@ -1365,10 +1367,10 @@
               <persName ref="#PeterPaulRubens">Rubens</persName>, il n'a point confondu la fable
             avec la vérité, mais plutot que pour exprimer cette même vérité, il s'est servi des
             symboles de la fable. En effet, dans la peinture de <objectName
-              ref="#PeterPaulRubensNaissanceLouisXIIILouvre">la Naissance de Louis XIII</objectName>. il a
-            répresenté au haut du tableau sur des nuées un peu éloionées, <persName ref="#Castor"
-              >Castor</persName> sur son cheval ailé, et à côté <persName ref="#Apollon"
-              >Apollon</persName> dans son char qui <pb n="59"
+              ref="#PeterPaulRubensNaissanceLouisXIIILouvre">la Naissance de Louis
+            XIII</objectName>. il a répresenté au haut du tableau sur des nuées un peu éloionées,
+              <persName ref="#Castor">Castor</persName> sur son cheval ailé, et à côté <persName
+              ref="#Apollon">Apollon</persName> dans son char qui <pb n="59"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000084.tif/full/full/0/default.jpg"
             />monte en haut, pour marquer que ce prince est né le matin, et que l'accouchement fut
             heureux.</p>
@@ -1701,7 +1703,7 @@
               >Italie</placeName>, lesquelles étoient marquées de cette façon, <persName
               ref="#GiorgioVasari">M. C. Vasari</persName>, dans <bibl>la vie de <persName
                 ref="#MarcantonioRaimondi">Marc-Antoine</persName></bibl> en rapporte la plûpart des
-            sujets, dont il y en a un entr'autres, (c'est <objectName ref="#">la Vision de Saint
+            sujets, dont il y en a un entr'autres, (c'est <objectName ref="#RaphaelMarcantonioRaimondiLeSonge">la Vision de Saint
               Antoine</objectName>) que <persName ref="#MichelAnge">Michelange</persName>, encore
             fort jeune, trouva d'une invention si extraordinaire, qu'il voulut la colorier. Apres
               <persName ref="#MaertenDeVos">Martin d'Anvers</persName>,<persName
@@ -2206,14 +2208,14 @@
                 de Mantoue</persName>, passant à <placeName ref="#Florence">Florence</placeName>
               pour aller à <placeName ref="#Rome">Rome</placeName> saluer le <persName
                 ref="#ClementVII">Pape Clément VII</persName> vit dans le <placeName>Palais de
-                Medicis</placeName>, au dessus d'une porte, <objectName ref="#RaphaelPortraitLeonXOfficesFlorence">le
-                Portrait de Leon X</objectName> entre le <persName ref="#ClementVII">Cardinal Jules
-                de Medicis</persName> et le <persName ref="#LuigiDeRossi">Cardinal de
-                Rossi</persName>. Les têtes étoient de <persName ref="#Raphael">Raphaël</persName>,
-              et les habits de <persName ref="#GiulioRomano">Jules Romain</persName>, et le tout
-              étoit merveilleux. En effet le <persName ref="#FredericIIMantoue">Duc de
-                Mantoue</persName>, aprés l'avoir considéré, en devint si amoureux, qu'il ne pût
-              s'empêcher quand <pb n="102"
+                Medicis</placeName>, au dessus d'une porte, <objectName
+                ref="#RaphaelPortraitLeonXOfficesFlorence">le Portrait de Leon X</objectName> entre
+              le <persName ref="#ClementVII">Cardinal Jules de Medicis</persName> et le <persName
+                ref="#LuigiDeRossi">Cardinal de Rossi</persName>. Les têtes étoient de <persName
+                ref="#Raphael">Raphaël</persName>, et les habits de <persName ref="#GiulioRomano"
+                >Jules Romain</persName>, et le tout étoit merveilleux. En effet le <persName
+                ref="#FredericIIMantoue">Duc de Mantoue</persName>, aprés l'avoir considéré, en
+              devint si amoureux, qu'il ne pût s'empêcher quand <pb n="102"
                 facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000127.tif/full/full/0/default.jpg"
               />il fut à <placeName ref="#Rome">Rome</placeName> de le demander au pape, qui le luy
               accorda fort gracieusement. Sa sainteté fit aussi-tôt écrire à <persName
@@ -2225,7 +2227,7 @@
               tableau une bordure plus riche. Ce délay donna le tems à <persName
                 ref="#OttavioFarnese">Octavien</persName> de faire copier le tableau par <persName
                 ref="#AndreaDelSarto">André del Sarte</persName>, qui en imita jusqu'aux petites
-              taches qui étoient dessus. <objectName ref="#DelSartoLeonX">Cet Ouvrage</objectName>
+              taches qui étoient dessus. <objectName ref="#AndreaDelSartoLeonXCapodimonte">Cet Ouvrage</objectName>
               en effet étoit si conforme à son original, qu'<persName ref="#OttavioFarnese"
                 >Octavien</persName> luy-même avoit de la peine à les distinguer, et que pour ne S'y
               pas tromper, il mit une marque derriere la copie, et l'envoya à <placeName
@@ -2241,19 +2243,19 @@
               curiositez de <persName ref="#FredericIIMantoue">ce Duc</persName>, luy dit qu'il leur
               restoit encore à voir la plus belle chose qui fût <pb n="103"
                 facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000128.tif/full/full/0/default.jpg"
-              />dans le palais, savoir <objectName ref="#RaphaelPortraitLeonXOfficesFlorence">le Portrait de Leon X de la
-                main de Raphaël</objectName> ; et le luy ayant montré, <persName
-                ref="#GiorgioVasari">Vasari</persName> luy dit, <hi rend="it">qu'il étoit eu effet
-                tres-beau, mais qu'il n'étoit pas de Raphaël</hi>. <persName ref="#GiulioRomano"
-                >Jules Romain</persName> l'ayant plus attentivement consideré. <hi rend="it"
-                >Comment</hi>, repliqua-t-il, <hi rend="it">il n'est pas de Raphaël? Est-ce que je
-                ne reconnois pas mon Ouvrage, et que je ne voy par les coups de Pinceau que j'y ay
-                donnez moy-même ? Vous n'y prenez pas assez garde</hi>, repartit <persName
-                ref="#GiorgioVasari">Vasari</persName>, <hi rend="it">car je puis vous assurer que
-                je l'ay vû faire à André del Sarte : et qu'ainsi ne soit, vous y trouverez derriére
-                la toile une marque qu'on y mit exprés pour ne le pas confondre avec
-              l'Original</hi>. <persName ref="#GiulioRomano">Jules Romain</persName> ayant donc
-              tourné le tableau, et s'étant appercu de la vérité du fait, serra les épaules
+              />dans le palais, savoir <objectName ref="#RaphaelPortraitLeonXOfficesFlorence">le
+                Portrait de Leon X de la main de Raphaël</objectName> ; et le luy ayant montré,
+                <persName ref="#GiorgioVasari">Vasari</persName> luy dit, <hi rend="it">qu'il étoit
+                eu effet tres-beau, mais qu'il n'étoit pas de Raphaël</hi>. <persName
+                ref="#GiulioRomano">Jules Romain</persName> l'ayant plus attentivement consideré.
+                <hi rend="it">Comment</hi>, repliqua-t-il, <hi rend="it">il n'est pas de Raphaël?
+                Est-ce que je ne reconnois pas mon Ouvrage, et que je ne voy par les coups de
+                Pinceau que j'y ay donnez moy-même ? Vous n'y prenez pas assez garde</hi>, repartit
+                <persName ref="#GiorgioVasari">Vasari</persName>, <hi rend="it">car je puis vous
+                assurer que je l'ay vû faire à André del Sarte : et qu'ainsi ne soit, vous y
+                trouverez derriére la toile une marque qu'on y mit exprés pour ne le pas confondre
+                avec l'Original</hi>. <persName ref="#GiulioRomano">Jules Romain</persName> ayant
+              donc tourné le tableau, et s'étant appercu de la vérité du fait, serra les épaules
               d'étonnement, et dit ces paroles. <hi rend="it">Je l'estime autant que s'il étoit de
                 Raphaël, et même davantage : car il n'est pas naturel d'imiter un si excellent
                 Homme, jusqu'à tromper.</hi></p>
@@ -2391,10 +2393,10 @@
           <p xml:id="PIL_AVP_L2_C29_P5"> Nous avons à la vérité quelques morceaux de peinture
             antique, mais ni les tems, ni les auteurs n'en sont point connus : le plus considérable
             est a <placeName ref="#Rome">Rome</placeName> dans la <objectName
-              ref="#VigneAldobrandineVatican">Vigne Aldobrandine</objectName>, et réprésente un mariage.
-            Cet ouvrage est d'un grand goût de dessein, et tient beaucoup de la sculpture et des bas
-            reliefs grecs. Il est sec et sans intelligence de groupes, ni du clair-obscur : mais il
-            est à croire que tous les ouvrages de peinture qui se faisoient en <placeName
+              ref="#VigneAldobrandineVatican">Vigne Aldobrandine</objectName>, et réprésente un
+            mariage. Cet ouvrage est d'un grand goût de dessein, et tient beaucoup de la sculpture
+            et des bas reliefs grecs. Il est sec et sans intelligence de groupes, ni du clair-obscur
+            : mais il est à croire que tous les ouvrages de peinture qui se faisoient en <placeName
               ref="#Grece">Gréce</placeName> dans ces tems-là n'étoient pas de la même sorte ;
             puisque ce que nous lisons de <persName ref="#Zeuxis">Zeuxis</persName> et de <persName
               ref="#Parrhasios">Parrasius</persName>, qui ont trompé par leur pinceau, non seulement
@@ -2945,15 +2947,15 @@
             /> curieuse à cause de sa durée. Ils firent ensemble plusieurs histoires de la bible
             dans <placeName>l'Eglise de Saint Jean</placeName>, et ces ouvrages le mirent en
             réputation. Mais il en fit un qui luy attira beaucoup plus de gloire, et une grande
-            récompense du public. C'étoit un <objectName ref="#AndreaTafiDiRicoChristPantocratorBaptistereFlorence"
-              >Christ</objectName> de la hauteur de sept coudées, qu'il avoit travaillé avec un
-            grand soin. Les loüanges qu'il en reçût luy furent d'un grand préjudice, car se voyant
-            estimé de tout le monde, il négligea les soins de sa profession, pour ne songer plus
-            qu'à gagner de l'argent, dont il étoit fort avide. Ses ouvrages donnérent de l'émulation
-            à <persName ref="#GaddoGaddi">Gaddo Gaddi</persName> et a <persName ref="#Giotto"
-              >Giotto</persName>, et furent comme une semence qui produisit plusieurs peintres dans
-            la <placeName ref="#Toscane">Toscane</placeName>. Il mourut âgé de 81 ans, en <date
-              when="1294">1294</date>. </p>
+            récompense du public. C'étoit un <objectName
+              ref="#AndreaTafiDiRicoChristPantocratorBaptistereFlorence">Christ</objectName> de la
+            hauteur de sept coudées, qu'il avoit travaillé avec un grand soin. Les loüanges qu'il en
+            reçût luy furent d'un grand préjudice, car se voyant estimé de tout le monde, il
+            négligea les soins de sa profession, pour ne songer plus qu'à gagner de l'argent, dont
+            il étoit fort avide. Ses ouvrages donnérent de l'émulation à <persName ref="#GaddoGaddi"
+              >Gaddo Gaddi</persName> et a <persName ref="#Giotto">Giotto</persName>, et furent
+            comme une semence qui produisit plusieurs peintres dans la <placeName ref="#Toscane"
+              >Toscane</placeName>. Il mourut âgé de 81 ans, en <date when="1294">1294</date>. </p>
         </div2>
         <div2 n="33" type="chapitre" xml:id="C33" xml:lang="fra">
           <head>
@@ -2980,8 +2982,8 @@
               <persName ref="#SaintPierre">Saint Pierre</persName>, et <persName ref="#GregoireX"
               >Gregoire X</persName>. Etant mort dans la ville d'<placeName ref="#Arezzo"
               >Arezzo</placeName>, les habitans l'employérent a travailler de sculpture <objectName
-              ref="#MargaritoArezzoTombeauGregoireXSanDonatoArezzo">le Tombeau</objectName> de <persName
-              ref="#GregoireX">ce Pape</persName>. Cette occasion servit a <persName
+              ref="#MargaritoArezzoTombeauGregoireXSanDonatoArezzo">le Tombeau</objectName> de
+              <persName ref="#GregoireX">ce Pape</persName>. Cette occasion servit a <persName
               ref="#MargaritoArezzo">Margaritoné</persName> pour faire voir dans un même lieu des
             marques de sa capacité en l'une et en l'autre profession : car il enrichit de
               <objectName>plusieurs Tableaux</objectName> la chapelle où étoit la <objectName>Statut
@@ -3108,10 +3110,10 @@
           <p xml:id="PIL_AVP_L3_C39_P1"> DE <placeName ref="#Sienne">Siénne</placeName>, augmenta
             considérablement les progrés du dessein. Il avoit beaucoup de génie, et faisoit bien
             les portraits : et comme il étoit grand amy de <persName ref="#Petrarque"
-              >Pétrarque</persName>, il peignit celuy de <objectName ref="#SimoneMartiniPortraitLaureSade"
-              >la belle Laure</objectName>. Il mourut en <date when="1345">1345</date> âgé de 60
-            ans. Il eut un frére nommé <persName ref="#LippoMemmi">Lippo</persName> qui mourut en
-              <date when="1357">1357</date>. </p>
+              >Pétrarque</persName>, il peignit celuy de <objectName
+              ref="#SimoneMartiniPortraitLaureSade">la belle Laure</objectName>. Il mourut en <date
+              when="1345">1345</date> âgé de 60 ans. Il eut un frére nommé <persName
+              ref="#LippoMemmi">Lippo</persName> qui mourut en <date when="1357">1357</date>. </p>
         </div2>
         <div2 n="40" type="chapitre" xml:id="C40" xml:lang="fra">
           <head><hi rend="capitals">TADEO DI GADDO GADDI, ET ANGELO GADDI</hi> son Fils. </head>
@@ -3120,8 +3122,9 @@
               ref="#AgnoloGaddi">Angelo</persName> s'est fort attaché <pb n="142"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000167.tif/full/full/0/default.jpg"
             /> à exprimer les passions de l'ame, et il étoit ingénieux dans ses inventions. Il étoit
-            bon architecte, et c'est luy qui a bâti la <objectName ref="#AgnoloGaddiGiottoCampanileSantaMariaDelFioreFlorence"
-              >Tour de Sancta Maria del Fiore</objectName>, et le <objectName ref="#TaddeoGaddiPonteVecchioFlorence"
+            bon architecte, et c'est luy qui a bâti la <objectName
+              ref="#AgnoloGaddiGiottoCampanileSantaMariaDelFioreFlorence">Tour de Sancta Maria del
+              Fiore</objectName>, et le <objectName ref="#TaddeoGaddiPonteVecchioFlorence"
               >Pont</objectName> qui est mur l'arno à <placeName ref="#Florence"
               >Florence</placeName>. Il mourut en <date when="1350">1350</date> âgé de 50 ans. </p>
         </div2>
@@ -3191,11 +3194,12 @@
               <objectName>deux Tableaux</objectName>, qui furent mis a bas par le commandement de
               <persName ref="#JulesII">Jules II</persName>. pour y en substituer deux autres, que
               <persName ref="#Raphael">Raphaël</persName> fit du <objectName
-              ref="#RaphaelMesseBolsenaVatican">miracle du saint Sacrement</objectName> arrivé à <placeName
-              ref="#Bolsena">Bolséne</placeName>, et de <objectName ref="#RaphaelDelivrancePierre"
-              >Saint Pierre dans sa Prison</objectName>. Il a fait beaucoup de portraits, et a écrit
-            de l'arithmétique et de la géométrie. Il eût pour disciples <hi rend="capitals"
-              >LAURENTININO D'ANGELO d'Arezzo</hi> et <hi rend="capitals">LUCAS SIGNORELLI</hi>. </p>
+              ref="#RaphaelMesseBolsenaVatican">miracle du saint Sacrement</objectName> arrivé à
+              <placeName ref="#Bolsena">Bolséne</placeName>, et de <objectName
+              ref="#RaphaelDelivrancePierre">Saint Pierre dans sa Prison</objectName>. Il a fait
+            beaucoup de portraits, et a écrit de l'arithmétique et de la géométrie. Il eût pour
+            disciples <hi rend="capitals">LAURENTININO D'ANGELO d'Arezzo</hi> et <hi rend="capitals"
+              >LUCAS SIGNORELLI</hi>. </p>
           <p xml:id="PIL_AVP_L3_C45_P2"> Sous le pontificat du même pape <persName ref="#NicolasV"
               >Nicolas V</persName> travailloient à <placeName ref="#Rome">Rome</placeName> et dans
               <pb n="145"
@@ -3398,18 +3402,19 @@
             approfondir, et faisoit souvent pour cela des expériences de mathématiqus. Comme il
             faisoit fort bien les chevaux, et qu'il savoit l'art de fondre et de couler les métaux,
             les vénitiens voulurent le servir de luy pour ériger une <objectName
-              ref="#AndreaVerrocchioAlessandroLeopardiStatueBartolomeoColleoniCampoDeiSantiGiovanniEPaoloVenise">Statue Equestre de bronze</objectName> à
-            barthélemi de <placeName ref="#Bergame">Bergame</placeName>, à qui ils devoient les bons
-            succés de leurs armes. Il en fit le modéle de cire en grand : mais un autre luy ayant
-            été préféré pour fondre l'ouvrage, il en conçût tant de dépit, qu'il cassa la tête et
-            les jambes à son modéle, et s'enfuit. Le sénat de <placeName ref="#Venise"
-              >Venise</placeName> le fit poursuivre inutilement, et le bruit s'étant répandu, que si
-            on l'attrappoit, il luy en coûteroit la tête. Il fit réponse à cette menace, que si on
-            luy coupoit la tête, il seroit impossible de luy en faire une autre, au lieu qu'il
-            pouvoit facilement faire au modéle de son cheval une nouvelle tête, plus belle encore
-            que la premiére. Cette réponse spirituelle fit sa paix, mais il n'eut pas le plaisir de
-            mettre le cheval en place : car s'étant échauffé à le fondre, il en gagna une pleuresie,
-            dont il mourut en <date when="1488">1488</date> âgé de cinquante-six ans. <pb n="154"
+              ref="#AndreaVerrocchioAlessandroLeopardiStatueBartolomeoColleoniCampoDeiSantiGiovanniEPaoloVenise"
+              >Statue Equestre de bronze</objectName> à barthélemi de <placeName ref="#Bergame"
+              >Bergame</placeName>, à qui ils devoient les bons succés de leurs armes. Il en fit le
+            modéle de cire en grand : mais un autre luy ayant été préféré pour fondre l'ouvrage, il
+            en conçût tant de dépit, qu'il cassa la tête et les jambes à son modéle, et s'enfuit. Le
+            sénat de <placeName ref="#Venise">Venise</placeName> le fit poursuivre inutilement, et
+            le bruit s'étant répandu, que si on l'attrappoit, il luy en coûteroit la tête. Il fit
+            réponse à cette menace, que si on luy coupoit la tête, il seroit impossible de luy en
+            faire une autre, au lieu qu'il pouvoit facilement faire au modéle de son cheval une
+            nouvelle tête, plus belle encore que la premiére. Cette réponse spirituelle fit sa paix,
+            mais il n'eut pas le plaisir de mettre le cheval en place : car s'étant échauffé à le
+            fondre, il en gagna une pleuresie, dont il mourut en <date when="1488">1488</date> âgé
+            de cinquante-six ans. <pb n="154"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000179.tif/full/full/0/default.jpg"/>
             <persName ref="#LeonardoDaVinci">Léonard de Vinci</persName> et <persName ref="#Perugin"
               >Piétre Pérugin</persName> ont été ses disciples. </p>
@@ -3448,19 +3453,20 @@
             tableaux ; ce qui est une chose contraire à l'art de peinture, qui suppose une
             superficie plate. Aussi n'a t'il pas été suivi de personne en cela. On montre à
               <placeName ref="#Sienne">Siénne</placeName> dans la <placeName>Bibliothéque du
-              Dôme</placeName>, comme une belle chose, la <objectName ref="#PinturicchioViePieIILibreriaPiccolominiSienne"
-              >Vie du Pape</objectName>
+              Dôme</placeName>, comme une belle chose, la <objectName
+              ref="#PinturicchioViePieIILibreriaPiccolominiSienne">Vie du Pape</objectName>
             <persName ref="#PieII">Pie II </persName> qu'il a peinte. <persName ref="#Raphael"
               >Raphaël</persName> sortant de chez <persName ref="#Perugin">Piétre Pérugin</persName>
             l'aida dans cet ouvrage. <persName ref="#Pinturicchio">Pinturrichio</persName> a peint
             au <placeName ref="#Vatican">Vatican</placeName>
             <objectName ref="#PinturicchioVueVilleBelvedereVatican">plusieurs choses pour Innocent
-              VIII</objectName> et <objectName ref="#PinturicchioAppartementsBorgiaVatican">pour Alexandre
-              VI</objectName>. La cause de 1a mort est assez curieuse à savoir. Etant à <placeName
-              ref="#Sienne">Sienne</placeName>, les religieux de saint françois, qui vouloient avoir
-            un tableau de sa main, luy donnérent une chambre pour travailler plus commodément, et
-            afin que le lieu ne fut embarassé d'aucune chose inutile à son art, ils en ôterent tous
-            les meubles, à la réserve d'une vieille armoire, qui leur sembla trop <pb n="156"
+              VIII</objectName> et <objectName ref="#PinturicchioAppartementsBorgiaVatican">pour
+              Alexandre VI</objectName>. La cause de 1a mort est assez curieuse à savoir. Etant à
+              <placeName ref="#Sienne">Sienne</placeName>, les religieux de saint françois, qui
+            vouloient avoir un tableau de sa main, luy donnérent une chambre pour travailler plus
+            commodément, et afin que le lieu ne fut embarassé d'aucune chose inutile à son art, ils
+            en ôterent tous les meubles, à la réserve d'une vieille armoire, qui leur sembla trop
+              <pb n="156"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000181.tif/full/full/0/default.jpg"
             /> difficile à transporter. <persName ref="#Pinturicchio">Pinturrichio</persName>, dont
             le naturel étoit vif et impatient, voulut qu'on l'otat à l'heure même : mais en la
@@ -3494,11 +3500,13 @@
               Squarcioné</persName>, qui le trouva dans la suite si aimable, qu'il l'adopta pour son
             fils et l'institua son héritier. Le progrés qu'il fit en peu de tems dans la peinture
             luy attira une grande réputation et beaucoup d'ouvrage. Il n'avoit que dix-sept ans,
-            qu'on luy fit faire le <objectName ref="#AndreaMantegnaRetableSainteSophiePadoue">Tableau
-              d'Autel de Sainte Sophie</objectName> de <placeName ref="#Padoue">Padoue</placeName>,
-            et <objectName ref="#AndreaMantegnaChapelleOvetariEgliseDesEremitiquesPadoue">les quatre Evangelistes</objectName>.
-              <persName ref="#JacopoBellini">Jacques Bellin</persName> fut tellement émerveillé de
-            cette peinture, qu'il donna à <persName ref="#AndreaMantegna">Manteigne</persName>
+            qu'on luy fit faire le <objectName ref="#AndreaMantegnaRetableSainteSophiePadoue"
+              >Tableau d'Autel de Sainte Sophie</objectName> de <placeName ref="#Padoue"
+              >Padoue</placeName>, et <objectName
+              ref="#AndreaMantegnaChapelleOvetariEgliseDesEremitiquesPadoue">les quatre
+              Evangelistes</objectName>. <persName ref="#JacopoBellini">Jacques Bellin</persName>
+            fut tellement émerveillé de cette peinture, qu'il donna à <persName
+              ref="#AndreaMantegna">Manteigne</persName>
             <persName ref="#NicolosiaBellini">sa Fille</persName> en mariage. <persName
               ref="#FrancescoSquarcione">Squarcione</persName>, qui avoit toûjours vêcu en jalousie
             avec <persName ref="#JacopoBellini">Bellin</persName>, piqué d'ailleurs que ce fils
@@ -3514,17 +3522,17 @@
             /> lieu d'ajoûter au goût de l'antique la vérité et la tendresse du naturel, il s'est
             contenté de mêler quelques portraits parmi ses figures. Il travailla pour le <persName
               ref="#FrancoisIIGonzague">Duc de Mantoue</persName>, et fit ce beau <objectName
-              ref="#AndreaMantegnaTriompheCesarRoyalCollectionHamptonCourtPalaceLondres">Triomphe de Jules Cesar</objectName>, qui a été
-              <objectName ref="#AndreaAndreaniTriompheGraveMET">gravé de Clair-obscur</objectName>
-            en neuf feüilles, et qui par sa beauté est aussi le triomphe de <persName
-              ref="#AndreaMantegna">Monteigne</persName>. Le pape <persName ref="#InnocentVIII"
-              >Innocent VIII</persName> l'ayant appellé pour luy donner de l'ouvrage, <persName
-              ref="#FrancoisIIGonzague">ce Duc</persName> ne voulut point le laisser aller sans le
-            faire chevalier de son ordre. <persName ref="#AndreaMantegna">Manteigne</persName> grava
-            luy-même sur des planches d'etain plusieurs choses d'aprés ses desseins, et les italiens
-            le font inventeur de la graveure au burin pour les estampes. Il mourut à <placeName
-              ref="#Mantoue">Mantouë</placeName> en <date when="1517">1517</date> âgé de
-            soixante-six ans. </p>
+              ref="#AndreaMantegnaTriompheCesarRoyalCollectionHamptonCourtPalaceLondres">Triomphe de
+              Jules Cesar</objectName>, qui a été <objectName ref="#AndreaAndreaniTriompheGraveMET"
+              >gravé de Clair-obscur</objectName> en neuf feüilles, et qui par sa beauté est aussi
+            le triomphe de <persName ref="#AndreaMantegna">Monteigne</persName>. Le pape <persName
+              ref="#InnocentVIII">Innocent VIII</persName> l'ayant appellé pour luy donner de
+            l'ouvrage, <persName ref="#FrancoisIIGonzague">ce Duc</persName> ne voulut point le
+            laisser aller sans le faire chevalier de son ordre. <persName ref="#AndreaMantegna"
+              >Manteigne</persName> grava luy-même sur des planches d'etain plusieurs choses d'aprés
+            ses desseins, et les italiens le font inventeur de la graveure au burin pour les
+            estampes. Il mourut à <placeName ref="#Mantoue">Mantouë</placeName> en <date
+              when="1517">1517</date> âgé de soixante-six ans. </p>
         </div2>
         <div2 n="55" type="chapitre" xml:id="C55" xml:lang="fra">
           <head>
@@ -3549,15 +3557,16 @@
             : car <persName ref="#Raphael">Raphaël</persName> avoit ouï parler du mérite et de
             l'habileté de <persName ref="#FrancescoFrancia">Francia</persName>. <persName
               ref="#Raphael">Raphaël</persName> peignoit alors ce tableau si renommé de <objectName
-              ref="#RaphaelSainteCecilePinacothequeBologne">Sainte Cécile</objectName> pour une eglise de <placeName
-              ref="#Bologne">Bologne</placeName>, lors qu'il fut achevé, il l'adressa à <persName
-              ref="#FrancescoFrancia">Francia</persName>, et le pria par lettre de le placer, et de
-            vouloir bien auparavant corriger les fautes qu'il y trouveroit. <persName
-              ref="#FrancescoFrancia">Francia</persName> à l'ouverture de sa lettre fut transporté
-            de joye, il tira le tableau de sa caisse, il l'admira, il en fut vivement touché : mais
-            en même tems il eut le cœur si abbatu de voir cet ouvrage fort au dessus des siens,
-            qu'il tomba dans une mélancolie et dans une langueur, dont il mourut quelque tems aprés.
-            Ce fut en l'année <date when="1518">1518</date> la soixante-huitiéme de son âge. </p>
+              ref="#RaphaelSainteCecilePinacothequeBologne">Sainte Cécile</objectName> pour une
+            eglise de <placeName ref="#Bologne">Bologne</placeName>, lors qu'il fut achevé, il
+            l'adressa à <persName ref="#FrancescoFrancia">Francia</persName>, et le pria par lettre
+            de le placer, et de vouloir bien auparavant corriger les fautes qu'il y trouveroit.
+              <persName ref="#FrancescoFrancia">Francia</persName> à l'ouverture de sa lettre fut
+            transporté de joye, il tira le tableau de sa caisse, il l'admira, il en fut vivement
+            touché : mais en même tems il eut le cœur si abbatu de voir cet ouvrage fort au dessus
+            des siens, qu'il tomba dans une mélancolie et dans une langueur, dont il mourut quelque
+            tems aprés. Ce fut en l'année <date when="1518">1518</date> la soixante-huitiéme de son
+            âge. </p>
         </div2>
         <div2 n="56" type="chapitre" xml:id="C56" xml:lang="fra">
           <pb n="160"
@@ -3570,12 +3579,13 @@
             peignoit tellement en la maniére, que leurs ouvrages ont presque toûjours été confondus.
             Ce <persName ref="#LucaSignorelli">Luca</persName> étoit un habile dessinateur, et
               <persName ref="#MichelAngeJugementSixtine">Michelange</persName> l'estimoit tant,
-            qu'il n'a pas fait de difficulté de se servir dans son <objectName ref="#MichelAnge"
+            qu'il n'a pas fait de difficulté de se servir dans son <objectName ref="#MichelAngeJugementSixtine"
               >jugement</objectName> de quelque chose de <objectName
-              ref="#LucaSignorelliFraAngelicoChapelleSanBrizioOrvieto">celuy que Luca</objectName> avoit peint à
-              <placeName ref="#Orvieto">Orviette</placeName> avec beaucoup d'imagination et de
-            capacité. Il a peint aussi à <placeName ref="#Loreto">Lorette</placeName>, à <placeName
-              ref="#Cortone">Cortone</placeName> et à <placeName ref="#Rome">Rome</placeName>. </p>
+              ref="#LucaSignorelliFraAngelicoChapelleSanBrizioOrvieto">celuy que Luca</objectName>
+            avoit peint à <placeName ref="#Orvieto">Orviette</placeName> avec beaucoup d'imagination
+            et de capacité. Il a peint aussi à <placeName ref="#Loreto">Lorette</placeName>, à
+              <placeName ref="#Cortone">Cortone</placeName> et à <placeName ref="#Rome"
+              >Rome</placeName>. </p>
           <p xml:id="PIL_AVP_L3_C56_P2"> Son fils, qui étoit un jeune homme bien-fait, et dont il
             espéroit beaucoup, fut malheureusement tué à <placeName ref="#Cortone"
               >Cortone</placeName>. La nouvelle qu'on luy en apporta l'affligea sensiblement : mais
@@ -3583,9 +3593,9 @@
             le peignit pour en conserver la mémoire, ne trouvant point de consolation que dans son
             art, qui luy rendoit ce que la mort luy avoit ravi. Il alla ensuite à <placeName
               ref="#Rome">Rome</placeName>, où le pape <persName ref="#SixteIV">Sixte IV</persName>
-            l'avoit appellé, et aprés y avoir peints <objectName ref="#MichelAngePlafondSixtineVatican"
-              >plusieurs Sujets de la Génese</objectName>, il revint en sa patrie. Comme il avoit
-            beaucoup de bien, il ne travailla <pb n="161"
+            l'avoit appellé, et aprés y avoir peints <objectName
+              ref="#MichelAngePlafondSixtineVatican">plusieurs Sujets de la Génese</objectName>, il
+            revint en sa patrie. Comme il avoit beaucoup de bien, il ne travailla <pb n="161"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000186.tif/full/full/0/default.jpg"
             /> plus que pour son plaisir. Il mourut en <date when="1521">1521</date> âgé de
             quatre-vingt-deux ans. </p>
@@ -3632,9 +3642,9 @@
               ref="#Milan">Milan</placeName> ; et beaucoup de ses tableaux se sont répandus par
             toute l'<placeName ref="#Europe">Europe</placeName>. Il fit entr'autres dans
               <placeName>le Réfectoire des Dominicains</placeName> de <placeName ref="#Milan"
-              >Milan</placeName>, <objectName ref="#LeonardoDaVinciCeneSantaMariaDelleGrazieMilan">une Céne de Nôtre
-              Seigneur</objectName> d'une beauté exquise. Il n'en acheva pas le <persName
-              ref="#Jesus">Christ</persName>, parce qu'il cherchoit <pb n="163"
+              >Milan</placeName>, <objectName ref="#LeonardoDaVinciCeneSantaMariaDelleGrazieMilan"
+              >une Céne de Nôtre Seigneur</objectName> d'une beauté exquise. Il n'en acheva pas le
+              <persName ref="#Jesus">Christ</persName>, parce qu'il cherchoit <pb n="163"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000188.tif/full/full/0/default.jpg"
             /> un modéle propre au caractére qu'il imaginoit lorsque les guerres l'obligèrent de
             quitter <placeName ref="#Milan">Milan</placeName>. Il en avoit fait autant de <persName
@@ -3655,10 +3665,10 @@
             ont été perduës lorsque <placeName ref="#Milan">Milan</placeName> fut pris par <persName
               ref="#FrancoisIer">François Premier</persName>. <persName ref="#LeonardoDaVinci"
               >Leonard</persName> se retira à <placeName ref="#Florence">Florence</placeName>, où il
-            peignit <objectName ref="#LeonardoDaVinciBatailleDAnghiari">la grande Sale du Conseil</objectName>, et où
-            il trouva la réputation de <persName ref="#MichelAnge">Michelange</persName> fort
-            établie, ce qui forma une vive émulasion entr'eux : <persName ref="#LeonardoDaVinci"
-              >Leonard</persName> étant allé à <pb n="164"
+            peignit <objectName ref="#LeonardoDaVinciBatailleDAnghiari">la grande Sale du
+              Conseil</objectName>, et où il trouva la réputation de <persName ref="#MichelAnge"
+              >Michelange</persName> fort établie, ce qui forma une vive émulasion entr'eux :
+              <persName ref="#LeonardoDaVinci">Leonard</persName> étant allé à <pb n="164"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000189.tif/full/full/0/default.jpg"
               /><placeName ref="#Rome">Rome</placeName> à l'election de <persName ref="#LeonX">Leon
               X</persName>. <persName ref="#MichelAnge">Michelange</persName> s'y trouva aussi, et
@@ -3698,10 +3708,10 @@
             ordinaires, que les perfections dont elle est capable.</p>
           <p xml:id="PIL_AVP_L3_C59_P3">Les expressions de <persName ref="#LeonardoDaVinci">Leonard
               de Vinci</persName> sont tres-vives et tres-spirituelles. J'ay un dessein de sa main
-            de cette fameuse <objectName ref="#LeonardoDaVinciCeneSantaMariaDelleGrazieMilan">Céne</objectName> qu'il a peinte à
-              <placeName ref="#Milan">Milan</placeName>, et dont on ne voit presque plus aucun
-            vertige. Ce dessein seul est preuve suffisante, pour montrer combien profondément il
-            pénétroit dans le coeur humain, et avec<pb n="166"
+            de cette fameuse <objectName ref="#LeonardoDaVinciCeneSantaMariaDelleGrazieMilan"
+              >Céne</objectName> qu'il a peinte à <placeName ref="#Milan">Milan</placeName>, et dont
+            on ne voit presque plus aucun vertige. Ce dessein seul est preuve suffisante, pour
+            montrer combien profondément il pénétroit dans le coeur humain, et avec<pb n="166"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000191.tif/full/full/0/default.jpg"
             />quelle vivacité, quelle variété et quelle justesse il en savoit réprésenter tous les
             mouvemens. Mais plutôt que d'en parler sur mon jugement, il est plus à propos de
@@ -3830,14 +3840,14 @@
               >Pérugin</persName> ; et pour chercher ailleurs les moyens de s'avancer, il alla
             d'abord à <placeName ref="#Sienne">Sienne</placeName>, ou le <persName
               ref="#Pinturicchio">Pinturrichio</persName> son ami le mena pour faire les cartons
-              des<objectName ref="#PinturicchioViePieIILibreriaPiccolominiSienne"> Tableaux de la Bibliotheque</objectName> :
-            mais à peine en avoit-il fait quelques-uns, que sur le bruit des ouvrages que <persName
-              ref="#LeonardoDaVinci">Leonard de Vinci</persName> et <persName ref="#MichelAnge"
-              >Michelange</persName> faisoient à <placeName ref="#Florence">Florence</placeName>, il
-            s'y transporta pour en profiter. En effet, des qu'il eût considéré la maniére de ces
-            deux grans hommes, il prît la résolution de changer celle qu'il avoit contractée chez
-            son maître ; il retourna à <placeName ref="#Perugia">Perouse</placeName>, où il <pb
-              n="172"
+              des<objectName ref="#PinturicchioViePieIILibreriaPiccolominiSienne"> Tableaux de la
+              Bibliotheque</objectName> : mais à peine en avoit-il fait quelques-uns, que sur le
+            bruit des ouvrages que <persName ref="#LeonardoDaVinci">Leonard de Vinci</persName> et
+              <persName ref="#MichelAnge">Michelange</persName> faisoient à <placeName
+              ref="#Florence">Florence</placeName>, il s'y transporta pour en profiter. En effet,
+            des qu'il eût considéré la maniére de ces deux grans hommes, il prît la résolution de
+            changer celle qu'il avoit contractée chez son maître ; il retourna à <placeName
+              ref="#Perugia">Perouse</placeName>, où il <pb n="172"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000197.tif/full/full/0/default.jpg"
             /> trouva beaucoup d'occasions d'exercer se pinceau : mais le ressouvenir des ouvrages
             de <persName ref="#LeonardoDaVinci">Leonard de Vinci</persName> luy fit faire une
@@ -3849,16 +3859,16 @@
               <placeName ref="#Vatican">Vatican</placeName>. <persName ref="#Raphael"
               >Raphaël</persName> commença pa le tableau qu'on appelle<objectName
               ref="#RaphaelEcoleAthenesVatican"> l'Ecole d'Athénes</objectName>, puis <objectName
-              ref="#RaphaelDisputeSaintSacrementVatican">la Dispute du saint Sacrement</objectName>, et ensuite
-              <objectName ref="#RaphaelChambreSignatureVatican">les autres qui sont dans la Chambre de la
-              Signature</objectName>. Les soins qu'il y prit sont incroyables ; aussi ne furent-ils
-            pas infructueux, car la reputation de ces ouvrages porta le nom de <persName
-              ref="#Raphael">Raphaël</persName> par tout le monde. Il forma la délicatesse de son
-            goût sur les satues et sur les bas-reliefs antiques qu'il dessin long-tems avec une
-            extréme application. Et il joignit à cette delicatesse une grandeur de maniére que la
-            vue de la <objectName ref="#ChapelleSixtineVatican">Chapelle de Michelange </objectName>luy
-            inspira tout d'un coup. <ref target="#N4"/>Ce fut <persName ref="#Bramante"
-              >Bramante</persName> son ami qui <note xml:id="N4"> * <persName
+              ref="#RaphaelDisputeSaintSacrementVatican">la Dispute du saint Sacrement</objectName>,
+            et ensuite <objectName ref="#RaphaelChambreSignatureVatican">les autres qui sont dans la
+              Chambre de la Signature</objectName>. Les soins qu'il y prit sont incroyables ; aussi
+            ne furent-ils pas infructueux, car la reputation de ces ouvrages porta le nom de
+              <persName ref="#Raphael">Raphaël</persName> par tout le monde. Il forma la délicatesse
+            de son goût sur les satues et sur les bas-reliefs antiques qu'il dessin long-tems avec
+            une extréme application. Et il joignit à cette delicatesse une grandeur de maniére que
+            la vue de la <objectName ref="#ChapelleSixtineVatican">Chapelle de Michelange
+            </objectName>luy inspira tout d'un coup. <ref target="#N4"/>Ce fut <persName
+              ref="#Bramante">Bramante</persName> son ami qui <note xml:id="N4"> * <persName
                 ref="#GiovanniPietroBellori">Piétre Bellori</persName> dans son livre intitulé: <hi
                 rend="it">Descritioni delle imagini dipinte d'a Raphaelle nelle Camere del
                 Vaticano</hi>, combat cette histoire de toute sa force, et prétend que <persName
@@ -3895,16 +3905,17 @@
             nombre d'eléves qu'ont exécuté ses desseins en plusieurs endroits, principalement dans
             les <objectName ref="#RaphaelLogesVatican">Loges</objectName> et dans <objectName
               ref="#StanzeVatican">les Appartemens du Vatican </objectName>; dans <objectName
-              ref="#BramantePierreDeCortoneEgliseSainteMariePaixRome">l'Eglise de Nôtre-Dame de la Paix</objectName>, et
-            dans le <objectName ref="#BaldassarrePeruzziVillaFarnesineRome">Palais Ghigi</objectName>, à la résérve de
-            la <objectName ref="#RaphaelGalateeFarnesina">Galatée</objectName> et d'un seul angle, où sont
-              <objectName ref="#RaphaelGiulioRomanoGracesFarnesina">les trois Déesses</objectName> qu'il a
-            peint luy-même. Se tempéramment doux le fit aimer de tout le monde, et principalement
-            des papes de son tems. Le <persName ref="#BernardoDoviziDaBibbiena">Cardinal de Sainte
-              Bibiane</persName> luy offrit sa niéce en mariage, <persName ref="#Raphael"
-              >Raphaël</persName> s'y étoit engagé : mais dans l'attente du chapeau de cardinal que
-              <persName ref="#LeonX">Leon X</persName>. luy avoit fait espérer, il en différoit
-            toûjours l'exécution. </p>
+              ref="#BramantePierreDeCortoneEgliseSainteMariePaixRome">l'Eglise de Nôtre-Dame de la
+              Paix</objectName>, et dans le <objectName ref="#BaldassarrePeruzziVillaFarnesineRome"
+              >Palais Ghigi</objectName>, à la résérve de la <objectName
+              ref="#RaphaelGalateeFarnesina">Galatée</objectName> et d'un seul angle, où sont
+              <objectName ref="#RaphaelGiulioRomanoGracesFarnesina">les trois Déesses</objectName>
+            qu'il a peint luy-même. Se tempéramment doux le fit aimer de tout le monde, et
+            principalement des papes de son tems. Le <persName ref="#BernardoDoviziDaBibbiena"
+              >Cardinal de Sainte Bibiane</persName> luy offrit sa niéce en mariage, <persName
+              ref="#Raphael">Raphaël</persName> s'y étoit engagé : mais dans l'attente du chapeau de
+            cardinal que <persName ref="#LeonX">Leon X</persName>. luy avoit fait espérer, il en
+            différoit toûjours l'exécution. </p>
           <p xml:id="PIL_AVP_L3_C61_P2"> La passion qu'il avoit pour les femmes le fit périr à la
             fleur de son âge car un jour qu'il s'y étoit excessivement abandonné, il se trouva
             surpris d'une fiévre ardente, et les médecins, à qui avoit celé la cause de son mal,
@@ -3994,14 +4005,14 @@
             semble par ses derniers ouvrages qu'il l'ait cherché, et qu'il ait tâché de se
             l'aquérir : comme on le peut voir dans <objectName ref="#RaphaelTapisseriesApotres">les
               Tapisseries des Actes des Apôtres</objectName>, et dans son tableau de la <objectName
-              ref="#RaphaelTransfigurationVatican">Transfiguration</objectName>. Mais ce qui manquoit à
-              <persName ref="#Raphael">Raphaël</persName> du côté du coloris, se fait oublier par
-            quantité d'autres parties qu'il a possédées. Il a même fait des portraits si bien
-            entendus de couleurs et de lumiére, que même de ce côté-la ils pourroient entrer en
-            comparaison avec ceux du <persName ref="#Titien">Titien</persName>, aussi-bien que
-              <objectName ref="#TitienSaintJeanBaptisteGalleriaDellAccademiaVenise">le Saint Jean</objectName> qui est
-            dans le cabinet de monsieur le prémier président, et qui dans toutes les parties de la
-            peinture <pb n="179"
+              ref="#RaphaelTransfigurationVatican">Transfiguration</objectName>. Mais ce qui
+            manquoit à <persName ref="#Raphael">Raphaël</persName> du côté du coloris, se fait
+            oublier par quantité d'autres parties qu'il a possédées. Il a même fait des portraits
+            si bien entendus de couleurs et de lumiére, que même de ce côté-la ils pourroient entrer
+            en comparaison avec ceux du <persName ref="#Titien">Titien</persName>, aussi-bien que
+              <objectName ref="#TitienSaintJeanBaptisteGalleriaDellAccademiaVenise">le Saint
+              Jean</objectName> qui est dans le cabinet de monsieur le prémier président, et qui
+            dans toutes les parties de la peinture <pb n="179"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000204.tif/full/full/0/default.jpg"
             /> mérite d'être reconnu pour le chef d'œuvre de son auteur. </p>
           <p xml:id="PIL_AVP_L3_C62_P9"><persName ref="#NicolasPoussin">Le Poussin</persName> a dit
@@ -4101,27 +4112,27 @@
               Gonzagues</persName> Marquis de <placeName ref="#Mantoue">Mantouë</placeName> informe
             de la capacité de <persName ref="#GiulioRomano">Jules</persName>, l'attira dans ses
             etats ; sa bonne fortune l'y conduisit : car ayant fait <objectName
-              ref="#MarcantonioRaimondiGiulioRomanoIModi">les Desseins de vingt Estampes fort dissouës</objectName>,
-            qui avoient été gravées par <persName ref="#MarcantonioRaimondi"
-              >Marc-Antoine</persName>, et ausquelles <persName ref="#PietroAretino"
-              >l'Aretin</persName> avoit fait autant de sonnets, il auroit été sévérement puni s'il
-            se fut trouvé à <placeName ref="#Rome">Rome</placeName> dans ces tems-là, le traitement
-            qu'on fit à <persName ref="#MarcantonioRaimondi">Marc-Antoine</persName> en est une
-            preuve. On mit ce graveur en prison, où il souffrit beaucoup, et il luy en auroit coûté
-            la vie, si le crédit du <persName ref="#ClementVII">Cardinal de Medicis</persName> et
-            celuy de <persName>Bache Bandinelle</persName> ne l'eussent sauvé. Cependant <persName
-              ref="#GiulioRomano">Jules Romain</persName> travailloit à <placeName ref="#Mantoue"
-              >Mantoue</placeName>, où il donnoit des marques éternelles de son extrême habileté
-            dans l'architécture et dans la peinture. Il y bâtit le <objectName
-              ref="#PalaisDuTeMantoue">Palais du T.</objectName> et rendit la ville de <placeName
-              ref="#Mantoue">Mantoue</placeName> plus belle, plus forte et plus saine ; et à l'égard
-            de ses onvrages de peinture, on peut dire que c'est principalement à <placeName
-              ref="#Mantoue">Mantouë</placeName> que le génie de <persName ref="#GiulioRomano">Jules
-              Romain</persName> a pris l'essort, et qu'il s'est montré tel qu'il étoit. Il mourut à
-              <placeName ref="#Mantoue">Mantoue</placeName> en <date when="1546">1546</date>. âgé de
-            cinquante-quatre ans, au grand regret du marquis, qui l'aimoit comme son frére. Il
-            laissa un fils nommé <persName ref="#Raphael">Raphaël</persName>, et une fille<pb
-              n="184"
+              ref="#MarcantonioRaimondiGiulioRomanoIModi">les Desseins de vingt Estampes fort
+              dissouës</objectName>, qui avoient été gravées par <persName
+              ref="#MarcantonioRaimondi">Marc-Antoine</persName>, et ausquelles <persName
+              ref="#PietroAretino">l'Aretin</persName> avoit fait autant de sonnets, il auroit été
+            sévérement puni s'il se fut trouvé à <placeName ref="#Rome">Rome</placeName> dans ces
+            tems-là, le traitement qu'on fit à <persName ref="#MarcantonioRaimondi"
+              >Marc-Antoine</persName> en est une preuve. On mit ce graveur en prison, où il
+            souffrit beaucoup, et il luy en auroit coûté la vie, si le crédit du <persName
+              ref="#ClementVII">Cardinal de Medicis</persName> et celuy de <persName>Bache
+              Bandinelle</persName> ne l'eussent sauvé. Cependant <persName ref="#GiulioRomano"
+              >Jules Romain</persName> travailloit à <placeName ref="#Mantoue">Mantoue</placeName>,
+            où il donnoit des marques éternelles de son extrême habileté dans l'architécture et
+            dans la peinture. Il y bâtit le <objectName ref="#PalaisDuTeMantoue">Palais du
+              T.</objectName> et rendit la ville de <placeName ref="#Mantoue">Mantoue</placeName>
+            plus belle, plus forte et plus saine ; et à l'égard de ses onvrages de peinture, on peut
+            dire que c'est principalement à <placeName ref="#Mantoue">Mantouë</placeName> que le
+            génie de <persName ref="#GiulioRomano">Jules Romain</persName> a pris l'essort, et qu'il
+            s'est montré tel qu'il étoit. Il mourut à <placeName ref="#Mantoue">Mantoue</placeName>
+            en <date when="1546">1546</date>. âgé de cinquante-quatre ans, au grand regret du
+            marquis, qui l'aimoit comme son frére. Il laissa un fils nommé <persName ref="#Raphael"
+              >Raphaël</persName>, et une fille<pb n="184"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000209.tif/full/full/0/default.jpg"
             /> mariée à <persName ref="#HerculeMalatesta">Hercule Malateste</persName>. Entre ses
             disciples, les meilleurs ont été <persName ref="#FrancescoPrimaticcio">le
@@ -4194,19 +4205,20 @@
               ref="#GiulioRomano">Jules Romain</persName>. Il étoit fort habile, principalement dans
             le dessein. Il a fait beaucoup de choses sur les pensées de <persName ref="#Raphael"
               >Raphaël</persName>, qui passent pour être de <persName ref="#Raphael"
-              >Raphaël</persName> même, principalement dans <objectName ref="#BaldassarrePeruzziVillaFarnesineRome">le
-              Palais Ghisi</objectName>, comme on le peut remarquer quand on l'examine avec
-            attention. Il avoit une particuliére inclination pour le païsage, qu'il faisoit tres
-            bien, et qu'il enrichissoit de belles fabriques. </p>
+              >Raphaël</persName> même, principalement dans <objectName
+              ref="#BaldassarrePeruzziVillaFarnesineRome">le Palais Ghisi</objectName>, comme on le
+            peut remarquer quand on l'examine avec attention. Il avoit une particuliére inclination
+            pour le païsage, qu'il faisoit tres bien, et qu'il enrichissoit de belles fabriques. </p>
           <p xml:id="PIL_AVP_L3_C66_P2"> Aprés la mort de son maître il s'associa avec <persName
               ref="#GiulioRomano">Jules Romain</persName> et <persName ref="#PietroBuonaccorsi"
               >Perrin del Vague</persName>, et tous trois ensemble achevérent ce que <persName
               ref="#Raphael">Raphaël</persName> avoit laissé d'imparfait, tant de <objectName
               ref="#ChambreConstantinVatican">l'Histoire de Constantin</objectName>, que de quelques
-            autres ouvrages <objectName ref="#BramanteBelvedereVatican">du Palais de Belvédére</objectName>.
-            Mais ils se separérent à l'occasion d'une copie que <persName>le Pape</persName> vouloit
-            laire faire du <objectName ref="#RaphaelTransfigurationVatican">Tableau de la
-              Transfiguration</objectName>, <pb n="188"
+            autres ouvrages <objectName ref="#BramanteBelvedereVatican">du Palais de
+              Belvédére</objectName>. Mais ils se separérent à l'occasion d'une copie que
+              <persName>le Pape</persName> vouloit laire faire du <objectName
+              ref="#RaphaelTransfigurationVatican">Tableau de la Transfiguration</objectName>, <pb
+              n="188"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000213.tif/full/full/0/default.jpg"
             /> parce que ce tableau avoit été destiné pour la <placeName ref="#France"
               >France</placeName>. <persName ref="#GiovanniFrancescoPenni">Il Fattore</persName>
@@ -4311,10 +4323,10 @@
               <persName ref="#Pontormo">Pontorme</persName> n'étoit jamais content de ce qu'il
             faisoit : mais les loüanges qu'on luy donnoit soûtenoient son courage. Il fit beaucoup
             d'ouvrages à <placeName ref="#Florence">Florence</placeName>, qui luy donnérent de la
-            réputation. Ayant entrepris de peindre la <objectName ref="#PontormoChoeurSanLorenzoFlorence">Chapelle
-              de Saint Laurent</objectName> pour le <persName ref="#CosmeDeMedicis">Duc de
-              Florence</persName>, et voulant dans cet ouvrage, qui dura douze ans, se montrer
-            supérieur à tous <pb n="192"
+            réputation. Ayant entrepris de peindre la <objectName
+              ref="#PontormoChoeurSanLorenzoFlorence">Chapelle de Saint Laurent</objectName> pour le
+              <persName ref="#CosmeDeMedicis">Duc de Florence</persName>, et voulant dans cet
+            ouvrage, qui dura douze ans, se montrer supérieur à tous <pb n="192"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000217.tif/full/full/0/default.jpg"
             /> les autres, il fit voir au contraire qu'il étoit devenu inférieur à luy-même. Il
             étoit fort honnête homme et fort humble : mais ce qu'on ne peut assez louër, c'est que
@@ -4527,7 +4539,8 @@
               >Fontainebleau</placeName> ; sa majesté lui donna aussi une chanoinie de la
             sainte-chapelle, de sorte que l'affection du roy, et son propre mérite le mirent en
             grande réputation. On peut juger de son habileté par la grande <objectName
-              ref="#GalerieFrancoisIerFontainebleau">Galerie de Fontainebleau</objectName>, qui est de sa main </p>
+              ref="#GalerieFrancoisIerFontainebleau">Galerie de Fontainebleau</objectName>, qui est
+            de sa main </p>
           <p xml:id="PIL_AVP_L3_C74_P2"><persName ref="#RossoFiorentino">Maître Roux
             </persName>étoit bien fait, et il avoit cultivé son esprit par plusieurs connoissances
             mais il ternit toutes ses belles qualitez par la mort honteuse qu'il se procura a
@@ -4783,10 +4796,11 @@
             composition de ses tableaux, ou qui les accompagnoient. Il luy fit faire aussi les
               <objectName>Ornemens de Stuc</objectName>, qu'il entendoit fort bien, le tout sur les
             desseins de <persName ref="#Raphael">Raphaël</persName>, ou du moins sur ses esquisses.
-            Les instrumens de musique qui sont dans le <objectName ref="#RaphaelSainteCecilePinacothequeBologne"
-              >Tableau de la Sainte Cécile de Bologne</objectName> par éxemple, sont de la main de
-              <persName ref="#GiovanniDaUdine">Jean d'Udiné</persName>, aussi-bien que tous les
-              <objectName ref="#RaphaelLogesVatican">Ornemens des Loges</objectName>, et <objectName
+            Les instrumens de musique qui sont dans le <objectName
+              ref="#RaphaelSainteCecilePinacothequeBologne">Tableau de la Sainte Cécile de
+              Bologne</objectName> par éxemple, sont de la main de <persName ref="#GiovanniDaUdine"
+              >Jean d'Udiné</persName>, aussi-bien que tous les <objectName
+              ref="#RaphaelLogesVatican">Ornemens des Loges</objectName>, et <objectName
               ref="#VillaMadamaRome">ceux de la Vigne Madame</objectName>. C'est a luy que nous
             devons le renouvellement du stuc et la façon de l'employer. C'est luy qui a trouvé la
             véritable matiére dont les <pb n="213"
@@ -4852,10 +4866,11 @@
             sentant en état de se soûtenir par luy-même, il s'en retourna à <placeName ref="#Sienne"
               >Sienne</placeName>, il fit beaucoup de tableaux à huile et à détrempe, et de grans
             ouvrages à fraisque, qui le mirent en crédit. Mais ce qui soûtiendra long-tems sa
-            reputation, c'est <objectName ref="#DomenicoBeccafumiPavementDuomoSantaMariaAssuntaSienne">l'Ouvrage du Pavé de la grande
-              Eglise de Siénne</objectName>. Cet ouvrage est de clair-oblcur, et se fait par le
-            moyen de deux sortes de pierres de rapport, l'une blanche pour les jours, et l'autre de
-            demie teinte, pour en former les ombres : et ces pierres étant ainsi jointes dans les
+            reputation, c'est <objectName
+              ref="#DomenicoBeccafumiPavementDuomoSantaMariaAssuntaSienne">l'Ouvrage du Pavé de la
+              grande Eglise de Siénne</objectName>. Cet ouvrage est de clair-oblcur, et se fait par
+            le moyen de deux sortes de pierres de rapport, l'une blanche pour les jours, et l'autre
+            de demie teinte, pour en former les ombres : et ces pierres étant ainsi jointes dans les
             dimensions convenables au clair-obscur des objets que l'on y veut réprésenter, on y
             donne le trait l'union, la rondeur et les forces par des hachures assez profondes pour
             recevoir la poix noire dont on les remplit. Un peintre de <placeName ref="#Sienne"
@@ -4875,11 +4890,11 @@
           </head>
           <p xml:id="PIL_AVP_L3_C82_P1"><hi rend="capitals">DE</hi> la même ville de <placeName
               ref="#Sienne">Siénne</placeName>, étoit en réputation dans le même tems. Il a peint au
-              <objectName ref="#BaldassarrePeruzziVillaFarnesineRome">Palais Ghisi</objectName>, dans les eglises, et
-            sur les façades de beaucoup de maisons de <placeName ref="#Rome">Rome</placeName>. Il
-            savoit fort bien les mathématiques, et entendoit l'architécture parfaitement : et c'est
-            luy qui a renouvellé les anciennes décorations de théatre, ainsi qu'il le fit paroître
-            du tems de <persName ref="#LeonX">Leon X</persName>. </p>
+              <objectName ref="#BaldassarrePeruzziVillaFarnesineRome">Palais Ghisi</objectName>,
+            dans les eglises, et sur les façades de beaucoup de maisons de <placeName ref="#Rome"
+              >Rome</placeName>. Il savoit fort bien les mathématiques, et entendoit l'architécture
+            parfaitement : et c'est luy qui a renouvellé les anciennes décorations de théatre, ainsi
+            qu'il le fit paroître du tems de <persName ref="#LeonX">Leon X</persName>. </p>
           <p xml:id="PIL_AVP_L3_C82_P2"> Quand le cardinal <persName ref="#BernardoDoviziDaBibbiena"
               >Bernard de Bibiénne</persName> fit réprétenter devant ce pape la comédie intitulée,
               <hi rend="it">La Calandra</hi>, qui est une des prémiéres comédies italiennes qui
@@ -4969,21 +4984,22 @@
               >Raphaël</persName>, qui trouva cette peinture d'un si grand goût de dessein, qu'il
             resolut d'en profiter. En effet dans le premier tableau que <persName ref="#Raphael"
               >Raphaël</persName> peignit depuis, qui est le <objectName
-              ref="#MichelAngePropheteIsaieChapelleSixtineVatican">Prophete Isaïe,</objectName> qu'on exposa aussitôt dans
-              l'<placeName ref="#">Eglise saint Augustin</placeName> ; <persName ref="#MichelAnge"
-              >Michelange</persName> reconnût sans hésiter l'infidélité de <persName ref="#Bramante"
-              >Bramante</persName>. Ce trait est la plus grande loüange qu'on puisse jamais donner
-            aux ouvrages de <persName ref="#MichelAnge">Michelange</persName>, et une preuve en même
-            tems de la bonnne-foy de <persName ref="#Raphael">Raphaël</persName>, qui en cela voulut
-            profiter de ce qu'il trouvoit de bon dans les ouvrages de ses ennemis, bien moins pour
-            sa propre gloire, que pour celle de sa profession. </p>
+              ref="#MichelAngePropheteIsaieChapelleSixtineVatican">Prophete Isaïe,</objectName>
+            qu'on exposa aussitôt dans l'<placeName ref="#">Eglise saint Augustin</placeName> ;
+              <persName ref="#MichelAnge">Michelange</persName> reconnût sans hésiter l'infidélité
+            de <persName ref="#Bramante">Bramante</persName>. Ce trait est la plus grande loüange
+            qu'on puisse jamais donner aux ouvrages de <persName ref="#MichelAnge"
+              >Michelange</persName>, et une preuve en même tems de la bonnne-foy de <persName
+              ref="#Raphael">Raphaël</persName>, qui en cela voulut profiter de ce qu'il trouvoit de
+            bon dans les ouvrages de ses ennemis, bien moins pour sa propre gloire, que pour celle
+            de sa profession. </p>
           <p xml:id="PIL_AVP_L3_C83_P4"> Aprés la mort de <persName ref="#JulesII">Jules
               II</persName>. <persName ref="#MichelAnge">Michelange</persName> alla à <placeName
               ref="#Florence">Florence</placeName>, où il fit cet ouvrage admirable des <objectName
-              ref="#MichelAngeSagrestiaNuovaFlorence">Sépultures des Ducs de Toscane</objectName> ; il fut
-            interrompu par les guerres : car on l'obligea de travailler aux fortifications de la
-            ville, et prévoyant que ces précautions qu'on avoit prises trop tard seroient inutiles,
-            il sortit <pb n="221"
+              ref="#MichelAngeSagrestiaNuovaFlorence">Sépultures des Ducs de Toscane</objectName> ;
+            il fut interrompu par les guerres : car on l'obligea de travailler aux fortifications de
+            la ville, et prévoyant que ces précautions qu'on avoit prises trop tard seroient
+            inutiles, il sortit <pb n="221"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000246.tif/full/full/0/default.jpg"
             />de <placeName ref="#Florence">Florence</placeName> pour aller à <placeName
               ref="#Ferrare">Ferrare</placeName>, et de-là à <placeName ref="#Venise"
@@ -4991,10 +5007,10 @@
             le retenir pour le faire travailler : mais tout ce qu'il en pû tirer, fut un
               <objectName>Dessein pour le Pont de Rialto</objectName> : car <persName
               ref="#MichelAnge">Michelange</persName> étoit encore excellent architecte, comme on le
-            peut voir par le <objectName ref="#MichelAngePalaisFarneseRome">Palais Farnese</objectName>, par
-              <objectName ref="#CasaBuonarroti">sa Maison</objectName>, et par <objectName
-              ref="#MichelAngeGiacomoDellaPortaCapitoleRome">le Capitole</objectName>, qui est un edifice d'un grand
-            goût. </p>
+            peut voir par le <objectName ref="#MichelAngePalaisFarneseRome">Palais
+              Farnese</objectName>, par <objectName ref="#CasaBuonarroti">sa Maison</objectName>, et
+            par <objectName ref="#MichelAngeGiacomoDellaPortaCapitoleRome">le Capitole</objectName>,
+            qui est un edifice d'un grand goût. </p>
           <p xml:id="PIL_AVP_L3_C83_P5"> Etant retourné à <placeName ref="#Florence"
               >Florence</placeName>, il y peignit <objectName ref="#MichelAngeLeda">la Fable de
               Leda</objectName> avec <persName ref="#Jupiter">Jupiter</persName> en cigne pour le
@@ -5012,10 +5028,10 @@
             brûler par principe de conscience. </p>
           <p xml:id="PIL_AVP_L3_C83_P6"><persName ref="#MichelAnge">Michelange</persName> fit par
             ordre de <persName ref="#PaulIII">Paul III</persName>. <objectName
-              ref="#MichelAngeJugementChapelleSixtineVatican">la peinture du Jugement Universel</objectName>, qui
-            est une source inépuisable pour ceux qui cherchent une profondeur de sience, et un grand
-            goût dans le dessein ; <persName ref="#MichelAnge">Michelange</persName> c'est donné des
-            soins incroyables <pb n="222"
+              ref="#MichelAngeJugementChapelleSixtineVatican">la peinture du Jugement
+              Universel</objectName>, qui est une source inépuisable pour ceux qui cherchent une
+            profondeur de sience, et un grand goût dans le dessein ; <persName ref="#MichelAnge"
+              >Michelange</persName> c'est donné des soins incroyables <pb n="222"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000247.tif/full/full/0/default.jpg"
             />pour la perfection de son art. Il aimoit fort la solitude, et disoit que la peinture
             étoit jalouse et demandoit un homme tout seul et tout entier. Sur la demande qu'on luy
@@ -5045,9 +5061,9 @@
               >Florence</placeName>, où il fut enterré derechef dans l'<placeName
               ref="#BasiliqueSantaCroceFlorence">Eglise de Sainte Croix</placeName>, dans laquelle
             on luy fit des obseques magnifiques, et où l'on voit sa <objectName
-              ref="#GiorgioVasariSepultureMichelAngeSantaCroceFlorence">Sépulture</objectName> en marbre, qui consiste en
-            trois figures admirables ; la peinture, la sculpture, et l'architecture, qui sont de sa
-            main. </p>
+              ref="#GiorgioVasariSepultureMichelAngeSantaCroceFlorence">Sépulture</objectName> en
+            marbre, qui consiste en trois figures admirables ; la peinture, la sculpture, et
+            l'architecture, qui sont de sa main. </p>
         </div2>
         <div2 n="84" type="chapitre" xml:id="C84" xml:lang="fra">
           <head><hi rend="capitals"> REFLEXIONS </hi><hi rend="it">Sur les Ouvrages de
@@ -5126,13 +5142,15 @@
               <persName ref="#MichelAnge">Michelange</persName>. Non-seulement <persName
               ref="#SebastianoDelPiombo">Fra-Bastian</persName> ne choisit point <persName
               ref="#Raphael">Raphaël</persName> pour son maître, mais il en voulut faire son emule ;
-            c'est dans ce dessein qu'il fit <objectName ref="#SebastianoDelPiomboResurrectionLazareNGLondres">un Tableau
-              en concurrence</objectName> de celuy de <objectName>la Transfiguration</objectName>
-            que <persName ref="#Raphael">Raphaël</persName> faisoit alors pour <persName
+            c'est dans ce dessein qu'il fit <objectName
+              ref="#SebastianoDelPiomboResurrectionLazareNGLondres">un Tableau en
+              concurrence</objectName> de celuy de <objectName>la Transfiguration</objectName> que
+              <persName ref="#Raphael">Raphaël</persName> faisoit alors pour <persName
               ref="#FrancoisIer">François Premier</persName>, et dans ce tableau <persName
               ref="#SebastianoDelPiombo">Fra-Bastian</persName> répresenta <objectName
-              ref="#SebastianoDelPiomboResurrectionLazareNGLondres">la Resurrection du Lazare</objectName> ; cette
-            peinture est à <placeName ref="#Narbonne">Narbonne</placeName>. </p>
+              ref="#SebastianoDelPiomboResurrectionLazareNGLondres">la Resurrection du
+              Lazare</objectName> ; cette peinture est à <placeName ref="#Narbonne"
+              >Narbonne</placeName>. </p>
           <p xml:id="PIL_AVP_L3_C85_P2"> Aprés la mort de <persName ref="#Raphael"
               >Raphaël</persName>, <persName ref="#SebastianoDelPiombo">Fra-Bastian</persName> par
             son propre mérite et par la puissante protection de <persName ref="#MichelAnge"
@@ -5217,12 +5235,12 @@
           <p xml:id="PIL_AVP_L3_C87_P3"> Aprés la mort de <persName ref="#RossoFiorentino">Maître
               Roux</persName>, <persName ref="#FrancescoPrimaticcio">le Primatice</persName> fut
             pourvû de la charge d'intendant des bâtimens, et acheva en peu de tems la <objectName
-              ref="#GalerieFrancoisIerFontainebleau">Gallerie</objectName> que ce peintre avoit commencé, il fit
-            porter à <placeName ref="#Fontainebleau">Fontainebleau</placeName> tant de statues, soit
-            de marbre, soit de bronze, que ce lieu paroissoit un autre <placeName ref="#Rome"
-              >Rome</placeName>, dans les ouvrages qu'il y fit de peinture et de stuc ; il se servit
-            de <persName ref="#RuggieroDeRuggieri">Roger de Bologne</persName>, de <persName
-              ref="#ProsperoFontana">Prospero Fontana</persName>, de <persName
+              ref="#GalerieFrancoisIerFontainebleau">Gallerie</objectName> que ce peintre avoit
+            commencé, il fit porter à <placeName ref="#Fontainebleau">Fontainebleau</placeName> tant
+            de statues, soit de marbre, soit de bronze, que ce lieu paroissoit un autre <placeName
+              ref="#Rome">Rome</placeName>, dans les ouvrages qu'il y fit de peinture et de stuc ;
+            il se servit de <persName ref="#RuggieroDeRuggieri">Roger de Bologne</persName>, de
+              <persName ref="#ProsperoFontana">Prospero Fontana</persName>, de <persName
               ref="#GiovanniBattistaRamenghi">Jean-Baptiste Bagnacavallo</persName>, et sur tout de
               <persName ref="#NicoloDellAbbate">Nicolas de Modene</persName> qu'on appella <persName
               ref="#NicoloDellAbbate">Messer Nicolo</persName>, dont l'habileté et la diligence
@@ -5287,9 +5305,9 @@
           <p xml:id="PIL_AVP_L3_C88_P3"> Etant retourné en son païs, le <persName
               ref="#CarloBorromeo">Cardinal Borromée</persName> luy fit faire à <placeName
               ref="#Pavie">Pavie</placeName>
-            <objectName ref="#AlmoCollegioBorromeoPavie">le Palais de la Sapience</objectName>, et il fut
-            choisi par les milanois pour avoir l'intendance du bâtiment qui se faisoit alors de
-            leure eglise cathédrale. De là il fut appellé en <placeName ref="#Espagne"
+            <objectName ref="#AlmoCollegioBorromeoPavie">le Palais de la Sapience</objectName>, et
+            il fut choisi par les milanois pour avoir l'intendance du bâtiment qui se faisoit alors
+            de leure eglise cathédrale. De là il fut appellé en <placeName ref="#Espagne"
               >Espagne</placeName> par <persName ref="#PhilippeII">Philippe II</persName>. pour
             travailler de peinture et d'architécture au <objectName
               ref="#MonastereSanLorenzoEscurial">Palais de l'Escurial</objectName>. Il y fit
@@ -5415,8 +5433,8 @@
               <placeName ref="#Florence">Florence</placeName> en <date when="1578">1578</date>. âgé
             de soixante-quatre ans. Son corps fut transporté à <placeName ref="#Arezzo"
               >Arezzo</placeName>, où il fut enterré dans une <objectName
-              ref="#GiorgioVasariEgliseSantaMariaDellaPieveArezzo">Chapelle ornée d'Architecture</objectName>,
-            qu'il avoit fait bâtir pendant sa vie. </p>
+              ref="#GiorgioVasariEgliseSantaMariaDellaPieveArezzo">Chapelle ornée
+              d'Architecture</objectName>, qu'il avoit fait bâtir pendant sa vie. </p>
         </div2>
         <div2 n="92" type="chapitre" xml:id="C92" xml:lang="fra">
           <pb n="239"
@@ -5443,9 +5461,9 @@
               ref="#CornelisCortFedericoZuccaroCalomnieApelle">gravé par Corneille
             Cort</objectName>, où il répresenta avec des oreilles d'asne tous ceux qui l'avoient
             offensé. Il l'éxposa publiquement sur la porte de l'<objectName
-              ref="#PierreDeCortoneEgliseSaintLucEtMartineRome">Eglise de Saint Luc</objectName> le jour de la fête de ce
-            saint, et sortit de <placeName ref="#Rome">Rome</placeName> pour éviter la colére du
-            pape. </p>
+              ref="#PierreDeCortoneEgliseSaintLucEtMartineRome">Eglise de Saint Luc</objectName> le
+            jour de la fête de ce saint, et sortit de <placeName ref="#Rome">Rome</placeName> pour
+            éviter la colére du pape. </p>
           <p xml:id="PIL_AVP_L3_C92_P2"> Il travailla en <placeName ref="#France">France</placeName>
             pour le <persName ref="#CharlesDeLorraine">Cardinal de Lorraine</persName>, et à
             l'escurial pour <persName ref="#PhilippeIIMacedoine">Philippe II</persName>. sans que,
@@ -5478,11 +5496,11 @@
               ref="#FedericoZuccaro">Fréderic Zuccre</persName>, où il ne fut qu'un an. Il y fit un
             si merveilleux progrés, qu'il étoit presque égal à son maître. Il a fait plusieurs
             belles choses dans le <placeName ref="#Vatican">Vatican</placeName>, à <objectName
-              ref="#DomenicoFontanaFlaminioPonzioCarloRainaldiBasiliqueSantaMariaMaggioreRome">Sainte Marie Majeure</objectName>, et en d'autres lieux
-            de <placeName ref="#Rome">Rome</placeName>. Il étoit beau et bienfait, et l'on dit
-            qu'étant devenu amoureux d'une jeune fille, sa passion fut si violente qu'il en mourut.
-            Il avoit un camarade nommé <persName>Paris</persName>, qui l'aidoit dans ses ouvrages.
-          </p>
+              ref="#DomenicoFontanaFlaminioPonzioCarloRainaldiBasiliqueSantaMariaMaggioreRome"
+              >Sainte Marie Majeure</objectName>, et en d'autres lieux de <placeName ref="#Rome"
+              >Rome</placeName>. Il étoit beau et bienfait, et l'on dit qu'étant devenu amoureux
+            d'une jeune fille, sa passion fut si violente qu'il en mourut. Il avoit un camarade
+            nommé <persName>Paris</persName>, qui l'aidoit dans ses ouvrages. </p>
         </div2>
         <div2 n="94" type="chapitre" xml:id="C94" xml:lang="fra">
           <head>
@@ -5556,11 +5574,12 @@
             /> beaucoup d'employ. Il eut un violent compétiteur en la personne du <persName
               ref="#Caravage">Caravage</persName>, dont la maniére étoit entiérement opposée à la
             sienne. Ce qu'il a fait, plus digne d'estime, sont <objectName
-              ref="#GiuseppeCesariBataillesCapitoleMuseeCapitolinRome">les Batailles</objectName> qu'il a peintes au
-              <placeName ref="#Capitole">Capitole</placeName>, du reste n'a fait qu'effleurer la
-            peinture, sans en approfondir aucune partie. Il mourut en <date when="1640">1640</date>.
-            âgé de quatre-vingt ans. La plûpart des peintres de son tems suivoient sa maniére, et
-            les autres celle du <persName ref="#Caravage">Caravage</persName>. </p>
+              ref="#GiuseppeCesariBataillesCapitoleMuseeCapitolinRome">les Batailles</objectName>
+            qu'il a peintes au <placeName ref="#Capitole">Capitole</placeName>, du reste n'a fait
+            qu'effleurer la peinture, sans en approfondir aucune partie. Il mourut en <date
+              when="1640">1640</date>. âgé de quatre-vingt ans. La plûpart des peintres de son tems
+            suivoient sa maniére, et les autres celle du <persName ref="#Caravage"
+              >Caravage</persName>. </p>
         </div2>
         <div2 n="98" type="chapitre" xml:id="C98" xml:lang="fra">
           <head>
@@ -5568,8 +5587,9 @@
           </head>
           <p xml:id="PIL_AVP_L3_C98_P1"><hi rend="capitals">N'EST</hi> icy nommé, que parce que en
             un an il fit un progrés dans le peinture, qui passe pour un prodige. Il a des tableaux
-            de luy dans l'<objectName ref="#MichelAngeGiacomoDelDucaLuigiVanvitelliBasiliqueSantaMariaDegliAngeliMartiriRome">Eglise des Chartreux
-              aux termes de Dioclétian</objectName>. </p>
+            de luy dans l'<objectName
+              ref="#MichelAngeGiacomoDelDucaLuigiVanvitelliBasiliqueSantaMariaDegliAngeliMartiriRome"
+              >Eglise des Chartreux aux termes de Dioclétian</objectName>. </p>
           <p xml:id="PIL_AVP_L3_C98_P2"> Cet exemple doit encourager ceux, qui, bien qu'avancez en
             âge, se sentent assez de génie, assez d'ordre dans l'esprit, et assez de santé pour
             courir en peu de tems la lice de la peinture. <figure type="ornement"
@@ -5641,10 +5661,11 @@
             étoient la pâture la plus convenable a son génie. Il en a donné des preuves autentiques
             à <placeName ref="#Rome">Rome</placeName>, dans l'<objectName
               ref="#SantaMariaVallicellaRome">Eglise neuve les Péres de l'Oratoire</objectName>,
-            dans le <objectName ref="#CarloMadernGianLorenzoBerniniFrancescoBorrominiPalaisBarberiniRome">Palais des Barberins</objectName>, dans
-              le<objectName ref="#GirolamoRainaldiPalaisPamphiljRome"> Palais Pamphile</objectName> et dans
-            plusieurs autres lieux de <placeName ref="#Rome">Rome</placeName> et de <placeName
-              ref="#Florence">Florence</placeName>. </p>
+            dans le <objectName
+              ref="#CarloMadernGianLorenzoBerniniFrancescoBorrominiPalaisBarberiniRome">Palais des
+              Barberins</objectName>, dans le<objectName ref="#GirolamoRainaldiPalaisPamphiljRome">
+              Palais Pamphile</objectName> et dans plusieurs autres lieux de <placeName ref="#Rome"
+              >Rome</placeName> et de <placeName ref="#Florence">Florence</placeName>. </p>
           <p xml:id="PIL_AVP_L3_C100_P3"> Son coloris n'avoit rien de mauvais sur tout dans ses
             carnations, qui auroient encore été meilleures, si elle avoient été plus variées et plus
             recherchées. Pour les autres couleurs locales il ne s'est écarté de l'ecole romaine
@@ -5742,8 +5763,9 @@
             <date when="1514">MCCCCCXIV</date>.) <persName ref="#Giorgione">Giorgion</persName> fut
             son disciple avec <persName ref="#Titien">le Titien</persName>. <persName
               ref="#GiovanniBellini">Bellin</persName> mourut en <date when="1512">1512</date> âgé
-            de quatre-vingt-dix ans : son <objectName ref="#GiovanniBelliniPortraitGiovanniEtGentileBelliniLouvre"
-              >Portrait et celuy de son frére</objectName> sont dans le cabinet du roy </p>
+            de quatre-vingt-dix ans : son <objectName
+              ref="#GiovanniBelliniPortraitGiovanniEtGentileBelliniLouvre">Portrait et celuy de son
+              frére</objectName> sont dans le cabinet du roy </p>
         </div2>
         <div2 n="104" type="chapitre" xml:id="C104" xml:lang="fra">
           <head>
@@ -5849,11 +5871,12 @@
           <p xml:id="PIL_AVP_L4_C107_P1"><hi rend="capitals">COMME</hi><persName ref="#Giorgione">le
               Giorgion</persName> n'a vêcu que trente-deux ans, et qu'il a fait peu de grans
             ouvrages, on ne sauroit bien juger de la grandeur de son genie. La plus grande
-            composition qu'il ait faite est à vénise sur la <objectName ref="#GiorgioneTitienFondacoTedeschiVenise"
-              >Façade de la Maison où s'assemblent les Marchands Allemans</objectName> du côté qui
-            regarde le grand canal. Il fit cette peinture en concurrence du <persName ref="#Titien"
-              >Titien</persName>, qui peignit un autre côté de ce bâtiment ; mais ces deux ouvrages
-            étans presque entiérement ruinez par le tems. <pb n="257"
+            composition qu'il ait faite est à vénise sur la <objectName
+              ref="#GiorgioneTitienFondacoTedeschiVenise">Façade de la Maison où s'assemblent les
+              Marchands Allemans</objectName> du côté qui regarde le grand canal. Il fit cette
+            peinture en concurrence du <persName ref="#Titien">Titien</persName>, qui peignit un
+            autre côté de ce bâtiment ; mais ces deux ouvrages étans presque entiérement ruinez
+            par le tems. <pb n="257"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000282.tif/full/full/0/default.jpg"
             />il est difficile d'en tirer une conjecture bien solide, ainsi il faut se renfermer
             dans un petit nombre de tableaux de chevalet, et dans plusieurs portraits qu'il a faits
@@ -5921,8 +5944,8 @@
             trente-deux ans, laissât le champ libre au <persName ref="#Titien">Titien</persName>. A
             l'âge de vingt-huit ans<pb n="260"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000285.tif/full/full/0/default.jpg"
-            /> il mit au jour l'estampe en bois du <objectName ref="#TitienTriompheFoiBNF">Triomphe de
-              la Foy</objectName>, où sont les patriarches les prophétes, les apôtres, les
+            /> il mit au jour l'estampe en bois du <objectName ref="#TitienTriompheFoiBNF">Triomphe
+              de la Foy</objectName>, où sont les patriarches les prophétes, les apôtres, les
             evangelistes et les martyrs ; et cet ouvrage donna une grande opinion de ce qu'il devoit
             être un jour, et fit dire, que s'il avoit vû les antiques, il passeroit <persName
               ref="#Raphael">Raphaël</persName> et <persName ref="#MichelAnge"
@@ -5935,29 +5958,32 @@
               Antoine</objectName>. Les trois baccanales qui sont tombées dans la possession du
               <persName ref="#PietroAldobrandini">Cardinal Aldobrandin</persName>, ont été faites à
               <placeName ref="#Ferrare">Ferrare</placeName> pour le <persName ref="#AlphonseIEste"
-              >Duc Alfonse</persName> ; <objectName ref="#TitienBacchanaleAndriensPrado">celle de ces
-              Baccanales où il y a une femme nuë, qui dort sur le devant du Tableau</objectName>,
-            avoit été commencée par <persName ref="#GiovanniBellini">Jean Bellin</persName>.
-              <persName ref="#Titien">Titien</persName> en peignant ces trois baccanales, se servit
-            pour modéle de sa maîtresse appellée <persName ref="#ViolanteNegretti"
-              >Violente</persName> ; il fit aussi le <objectName ref="#TitienPortraitAlphonseIEsteFondationBembergToulouse"
-              >Portrait du Duc</objectName> et de la <objectName ref="#TitienPortraitLauraDiantiCollectionHeinzKistersKreuzlingen"
+              >Duc Alfonse</persName> ; <objectName ref="#TitienBacchanaleAndriensPrado">celle de
+              ces Baccanales où il y a une femme nuë, qui dort sur le devant du
+            Tableau</objectName>, avoit été commencée par <persName ref="#GiovanniBellini">Jean
+              Bellin</persName>. <persName ref="#Titien">Titien</persName> en peignant ces trois
+            baccanales, se servit pour modéle de sa maîtresse appellée <persName
+              ref="#ViolanteNegretti">Violente</persName> ; il fit aussi le <objectName
+              ref="#TitienPortraitAlphonseIEsteFondationBembergToulouse">Portrait du
+              Duc</objectName> et de la <objectName
+              ref="#TitienPortraitLauraDiantiCollectionHeinzKistersKreuzlingen"
               >Duchesse</objectName> qui ont été gravez par <persName ref="#AegidiusSadeler">G.
               Sadeler</persName>. </p>
           <p xml:id="PIL_AVP_L4_C108_P4"> En <date when="1546">1546</date>. il fut appellé à
               <placeName ref="#Rome">Rome</placeName> par le <persName
               ref="#AlessandroFarneseIlGiovane">Cardinal Farnése</persName>, pour faire le
-              <objectName ref="#TitienPortraitPapePaulIIIPetitsfilsCapodimonte">Portrait du Pape</objectName> ;
-            il y en fit aussi d'autres, et quelques tableaux de peu d'ouvrage, qui furent admirez
-            par <persName ref="#MichelAnge">Michelange</persName> et par <persName
-              ref="#GiorgioVasari">Vasari</persName>, lesquels ne pûrent néanmoins s'empêcher de
-            plaindre les peintres vénitiens <pb n="261"
+              <objectName ref="#TitienPortraitPapePaulIIIPetitsfilsCapodimonte">Portrait du
+              Pape</objectName> ; il y en fit aussi d'autres, et quelques tableaux de peu d'ouvrage,
+            qui furent admirez par <persName ref="#MichelAnge">Michelange</persName> et par
+              <persName ref="#GiorgioVasari">Vasari</persName>, lesquels ne pûrent néanmoins
+            s'empêcher de plaindre les peintres vénitiens <pb n="261"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000286.tif/full/full/0/default.jpg"
             /> de s'attacher si peu au dessein. <persName ref="#Titien">Titien</persName> a fait
             quantité d'ouvrages publics et particuliers, tant à fraisque qu'a huile, sans compter
-            une infinité de portraits. Il a fait <objectName ref="#TitienPortraitCharlesVChienPrado">trois
-              fois celuy de Charles-Quint</objectName>. <objectName ref="#TitienPortraitCharlesVAltePinakothekMunich">Cet
-              Empereur pour s'en éxprimer</objectName>, disoit qu'il avoit reçû <objectName
+            une infinité de portraits. Il a fait <objectName ref="#TitienPortraitCharlesVChienPrado"
+              >trois fois celuy de Charles-Quint</objectName>. <objectName
+              ref="#TitienPortraitCharlesVAltePinakothekMunich">Cet Empereur pour s'en
+              éxprimer</objectName>, disoit qu'il avoit reçû <objectName
               ref="#TitienEquestreCharlesVPrado">trois fois l'immortalité des mains du
               Titien</objectName> : aussi le fit-il chevalier et comte palatin, en luy assignant en
             même tems une grosse pension. <persName ref="#HenriIII">Henri III</persName>. ne crut
@@ -6108,27 +6134,30 @@
             /> fort étudiée, mais qui lui étoit propre, et la quatriéme qui avoit dégénéré en
             habitude, mais toûjours solide ; la premiere étoit un peu séche : la seconde étooit
             d'une extrême fiérté, comme on le peu voir par <objectName
-              ref="#TitienSaintMarcSantaMariaDellaSaluteVenise">le Tableau de saint Marc</objectName>, qui est à
-              <placeName ref="#Venise">Venise</placeName> dans la sacristie de la salute par celui
-            des cinq saints, qui est dans la petite <placeName>Eglise de saint Nicolas</placeName>
-            et par quelqu'autres : la troisiéme consistoit dans un juste et belle imitation de la
-            nature, elle étoit éxtrémement travaillée par les éxactes récherches qu'il faisoit en
-            retouchant par cy par là, tantôt avec des teintes vierges dans les clairs, et tantôt
-            avec de glacis dans les ombres, et qui à cause de ces minuties en paroist moins libre
-            mais qui est portant et plus forte, et plus finie. </p>
+              ref="#TitienSaintMarcSantaMariaDellaSaluteVenise">le Tableau de saint
+              Marc</objectName>, qui est à <placeName ref="#Venise">Venise</placeName> dans la
+            sacristie de la salute par celui des cinq saints, qui est dans la petite
+              <placeName>Eglise de saint Nicolas</placeName> et par quelqu'autres : la troisiéme
+            consistoit dans un juste et belle imitation de la nature, elle étoit éxtrémement
+            travaillée par les éxactes récherches qu'il faisoit en retouchant par cy par là, tantôt
+            avec des teintes vierges dans les clairs, et tantôt avec de glacis dans les ombres, et
+            qui à cause de ces minuties en paroist moins libre mais qui est portant et plus forte,
+            et plus finie. </p>
           <p xml:id="PIL_AVP_L4_C109_P14"> La <reg>quatriéme</reg> étoit une maniére libre qu'il a
             mis en usage sur la fin de sa vie ne pouvant plus se donner tant de fatigues, ou croyant
             avoir trouvé le moyen de les surmonter ; c'est de cette derniére maniere qu'ont été
             peints les tableaux de <objectName ref="#TitienAnnoncitationSanSalvadorVenise"
-              >l'Annonciation</objectName> et de <objectName ref="#TitienTransfigurationSanSalvatorVenise"
-              >la Transfiguration</objectName> qui sont à <objectName
-              ref="#VincenzoScamozziJacopoSansovinoEgliseSanSalvadorVenise">San Salvator</objectName>, <objectName
-              ref="#TitienSaintJacquesMajeurSanLioVenise">le saint Jacques</objectName> de <objectName
-              ref="#EgliseSanLioVenise">san Lio</objectName>, le <objectName
-              ref="#TitienMartyreSaintLaurentSantaMariaAssuntaVenise">saint Laurent des Jesuites</objectName>,
-              <objectName ref="">le saint Jérôme</objectName> de <objectName
-              ref="#BaldassarreLonghenaBasiliqueSantaMariaDellaSaluteVenise">sancta Maria Nova, la Pentecôte de la
-              Saluté</objectName>, et plusieur: autres de cette nature. Ainsi l'on peut<pb n="269"
+              >l'Annonciation</objectName> et de <objectName
+              ref="#TitienTransfigurationSanSalvatorVenise">la Transfiguration</objectName> qui sont
+            à <objectName ref="#VincenzoScamozziJacopoSansovinoEgliseSanSalvadorVenise">San
+              Salvator</objectName>, <objectName ref="#TitienSaintJacquesMajeurSanLioVenise">le
+              saint Jacques</objectName> de <objectName ref="#EgliseSanLioVenise">san
+              Lio</objectName>, le <objectName
+              ref="#TitienMartyreSaintLaurentSantaMariaAssuntaVenise">saint Laurent des
+              Jesuites</objectName>, <objectName ref="">le saint Jérôme</objectName> de <objectName
+              ref="#BaldassarreLonghenaBasiliqueSantaMariaDellaSaluteVenise">sancta Maria Nova, la
+              Pentecôte de la Saluté</objectName>, et plusieur: autres de cette nature. Ainsi l'on
+              peut<pb n="269"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000294.tif/full/full/0/default.jpg"
             /> voir à <placeName ref="#Venise">Venise</placeName> cinquante tableaux éxposez en
             public, dans lesquels <persName ref="#Titien">le Titien</persName> a donné à connoître
@@ -6192,8 +6221,8 @@
             nombre infini de portraits, qu'il a finis ou croquez selon l'argent dont il étoit
             convenu. Comme il y avoit encore une place à remplir dans la même chambre de <objectName
               ref="#ScuolaGrandeSanRocco">l'Ecole de Saint Roch</objectName>, où il a fait ce beau
-              <objectName ref="#JacopoTintoretCrucifixionSanRoccoVenise">Crucifix</objectName>, plusieurs
-            peintres se présentérent, et offrirent de faire<pb n="272"
+              <objectName ref="#JacopoTintoretCrucifixionSanRoccoVenise">Crucifix</objectName>,
+            plusieurs peintres se présentérent, et offrirent de faire<pb n="272"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000297.tif/full/full/0/default.jpg"
             /> chacun un dessein, afin qu'on préférât celuy qui seroit trouvé le meilleur. Les
             concurrens étoient <persName>Joseph Salviati</persName>, <persName
@@ -6334,8 +6363,8 @@
             /> qu'enfin la partie qui couronnoit toutes celles de la peinture consistoit dans la
             probité et dans l'intégrité des mœurs. Il est mort d'une fiévre en <date when="1588"
               >1588</date>. âgé de cinquante-huit ans. Sa sépulture est <objectName
-              ref="#AntonioAbbondiEgliseSanSebastianoVenise">Saint Sebastien</objectName>, où l'on voit son
-              <objectName>Portrait en Bronze</objectName>.</p>
+              ref="#AntonioAbbondiEgliseSanSebastianoVenise">Saint Sebastien</objectName>, où l'on
+            voit son <objectName>Portrait en Bronze</objectName>.</p>
         </div2>
         <div2 n="116" type="chapitre" xml:id="C116" xml:lang="fra">
           <head>
@@ -6432,11 +6461,11 @@
             éxécution est ferme, son pinceau leger, et sa réputation soutenuë d'assez de parties
             pour le conserver dans le rang des peintres du prémier ordre. </p>
           <p xml:id="PIL_AVP_L4_C116_P11"> Je n'omettray pas icy que le <objectName
-              ref="#PaoloVeroneseNocesCanaLouvre">Tableau des Nôces de Cana</objectName>, qu'il a fait à <objectName
-              ref="#BasiliqueSanGiorgioMaggioreVenise">Saint Georges Major de Venise</objectName>,
-            est tres-distingué de ses autres ouvrages, et qu'il est non seulement le triomphe de
-              <persName ref="#PaoloVeronese">Paul Véronése</persName>, mais que peu s'en faut qu'il
-            ne soit le triomphe de la peinture. </p>
+              ref="#PaoloVeroneseNocesCanaLouvre">Tableau des Nôces de Cana</objectName>, qu'il a
+            fait à <objectName ref="#BasiliqueSanGiorgioMaggioreVenise">Saint Georges Major de
+              Venise</objectName>, est tres-distingué de ses autres ouvrages, et qu'il est non
+            seulement le triomphe de <persName ref="#PaoloVeronese">Paul Véronése</persName>, mais
+            que peu s'en faut qu'il ne soit le triomphe de la peinture. </p>
         </div2>
         <div2 n="117" type="chapitre" xml:id="C117" xml:lang="fra">
           <head>
@@ -6490,24 +6519,25 @@
               >Titien</persName>, et il y avoit entr'eux une si grande jalousie, que <persName
               ref="#Pordenone">Pordénon</persName> craignant quelque insulte de la part de son
             compétiteur étoit toûjours sur ses gardes, et lorsqu'il <objectName
-              ref="#PordenoneFresqueSanStefanoVenise">peignoit le Cloître</objectName> de <objectName
-              ref="#EgliseSantoStefanoVenise">saint Estienne de Venise</objectName>, il travailloit
-            l'epée au côte avec une rondache auprés de luy, selon l'usage des braves de ce tems-la ;
-            il avoit une veine féconde, il dessinoit d'un bon goût, et n'étoit gueres inférieur au
-              <persName ref="#Titien">Titien</persName> dans le coloris, il a beaucoup travaillé à
-            fraisque ; il la faisoit avec facilité et y donnoit une grande force, ces principaux
-            ouvrages publics sont à <placeName ref="#Venise">Venise</placeName>, à <placeName
-              ref="#Udine">Udine</placeName>, à <placeName ref="#Mantoue">Mantouë</placeName>, à
-              <placeName ref="#Vicence">Vicénce</placeName>, à <placeName ref="#Genes"
-              >Génes</placeName>, et dans le <placeName ref="#Frioul">Frioul</placeName>. </p>
+              ref="#PordenoneFresqueSanStefanoVenise">peignoit le Cloître</objectName> de
+              <objectName ref="#EgliseSantoStefanoVenise">saint Estienne de Venise</objectName>, il
+            travailloit l'epée au côte avec une rondache auprés de luy, selon l'usage des braves de
+            ce tems-la ; il avoit une veine féconde, il dessinoit d'un bon goût, et n'étoit gueres
+            inférieur au <persName ref="#Titien">Titien</persName> dans le coloris, il a beaucoup
+            travaillé à fraisque ; il la faisoit avec facilité et y donnoit une grande force, ces
+            principaux ouvrages publics sont à <placeName ref="#Venise">Venise</placeName>, à
+              <placeName ref="#Udine">Udine</placeName>, à <placeName ref="#Mantoue"
+              >Mantouë</placeName>, à <placeName ref="#Vicence">Vicénce</placeName>, à <placeName
+              ref="#Genes">Génes</placeName>, et dans le <placeName ref="#Frioul"
+            >Frioul</placeName>. </p>
           <p xml:id="PIL_AVP_L4_C119_P3"><pb n="286"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000311.tif/full/full/0/default.jpg"
             />Il alla à <placeName ref="#Ferrare">Ferrare</placeName> par ordre du duc <persName
               ref="#HerculeIIEste">Hercules II</persName>. pour y achever des <objectName
-              ref="#PordenoneTapisserieHerculesIIEste">Desseins de Tapisserie</objectName> qu'il avoit
-            commencez à <placeName ref="#Venise">Venise</placeName> : mais à peine fut-il arrivé
-            qu'il tomba malade et mourut sans avoir achéve cet ouvrage qui contenoit les travaux
-              d'<persName ref="#Ulysse">Ulisse</persName>. Ce fut en l'année <date when="1540"
+              ref="#PordenoneTapisserieHerculesIIEste">Desseins de Tapisserie</objectName> qu'il
+            avoit commencez à <placeName ref="#Venise">Venise</placeName> : mais à peine fut-il
+            arrivé qu'il tomba malade et mourut sans avoir achéve cet ouvrage qui contenoit les
+            travaux d'<persName ref="#Ulysse">Ulisse</persName>. Ce fut en l'année <date when="1540"
               >1540</date> en la cinquante-sixiéme de son âge, non sans quelque soupcon de poison.
               <persName ref="#HerculeIIEste">Le Duc Hercules</persName> lui fit faire de somptueuses
             funérailles ; <persName ref="#Pordenone">Pordenon</persName> avoit un <persName
@@ -6526,9 +6556,9 @@
             se fortifier dans le dessein, il alla à <placeName ref="#Rome">Rome</placeName> où il
             travailla avec <persName ref="#TaddeoZuccaro">Tadée Zuccre</persName>. il y dessina
             beaucoup d'aprés l'antique, et d'aprés les bons tableaux, et y fit quantité de
-            portaits. Il acheva les <objectName ref="#GirolamoMuzianoDessinTrajane">Desseins des Bas-reliefs
-              de la Colonne Trajane</objectName>, que <persName ref="#GiulioRomano">Jules
-              Romain</persName> avoit commencez ; il les fit graver, et <persName
+            portaits. Il acheva les <objectName ref="#GirolamoMuzianoDessinTrajane">Desseins des
+              Bas-reliefs de la Colonne Trajane</objectName>, que <persName ref="#GiulioRomano"
+              >Jules Romain</persName> avoit commencez ; il les fit graver, et <persName
               ref="#AlonsoChacon">Ciaconius</persName> y a joint ses explications. <pb n="287"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000312.tif/full/full/0/default.jpg"
             />Le pape <persName ref="#GregoireXIII">Grégoire XIII</persName>. fit travailler
@@ -6565,21 +6595,24 @@
             convenable de le placer dans l'ecole veniténne que dans celle de <placeName
               ref="#Lombardie">Lombardie</placeName> où il a pris naissance. Sa maniére étoit si
             conforme à celle de son maître, que celui-cy ayant commencé <objectName
-              ref="#TitienJacopoPalmaIlVecchioPietaGalleriaDellAccademiaVenise">une descente de Croix</objectName>, que
-            la mort l'empêcha d'achever; <persName ref="#JacopoPalmaIlVecchio">le Palme</persName>
-            fut choisi pour y mettre la derniére main, ce qu'il fit avec respect pour la mémoire du
-              <persName ref="#Titien">Titien</persName>, ainsi qu'il voulut le témoigner par les
-            paroles suivantes qu'on lit encore aujourd'huy dans ce tableau.</p>
+              ref="#TitienJacopoPalmaIlVecchioPietaGalleriaDellAccademiaVenise">une descente de
+              Croix</objectName>, que la mort l'empêcha d'achever; <persName
+              ref="#JacopoPalmaIlVecchio">le Palme</persName> fut choisi pour y mettre la derniére
+            main, ce qu'il fit avec respect pour la mémoire du <persName ref="#Titien"
+              >Titien</persName>, ainsi qu'il voulut le témoigner par les paroles suivantes qu'on
+            lit encore aujourd'huy dans ce tableau.</p>
           <lg rend="it" xml:lang="lat">
             <l>Quod titianus inchoatum reliquit,</l>
             <l>Palma reverenter perfecit,</l>
             <l>Deoque dicavit opus.</l>
           </lg>
           <p xml:id="PIL_AVP_L4_C121_P2"> Entre ses ouvrages que l'on voit à <placeName
-              ref="#Venise">Venise</placeName>, <objectName ref="#JacopoPalmaIlVecchioSainteBarbeSantaMariaFormosaVenise">la
-              Sainte Barbe</objectName> qui est dans <objectName
-              ref="#MauroCodussiEgliseSantaMariaFormosaVenise">l'Eglise de Sainte Marie Formose</objectName> est
-            son plus beau, il mourut en <date when="1596">1596</date>, âgé de quarante-<pb n="289"
+              ref="#Venise">Venise</placeName>, <objectName
+              ref="#JacopoPalmaIlVecchioSainteBarbeSantaMariaFormosaVenise">la Sainte
+              Barbe</objectName> qui est dans <objectName
+              ref="#MauroCodussiEgliseSantaMariaFormosaVenise">l'Eglise de Sainte Marie
+              Formose</objectName> est son plus beau, il mourut en <date when="1596">1596</date>,
+            âgé de quarante-<pb n="289"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000314.tif/full/full/0/default.jpg"
             />huit ans, ce qui fait voir qu'on ne l'appelle vieux, que parce qu'il a précedé celui
             qu'on appelle <persName ref="#JacopoPalmaIlGiovane">le jeune Palme</persName>, qui étoit
@@ -6914,9 +6947,9 @@
             pourroient jamais trouver une meilleure ecole pour devenir habiles, que, ni <persName
               ref="#DomenicoTibaldi">Tibaldi</persName>, ni <persName>Nicolini</persName>, ni
               <persName ref="#Raphael">Raphaël</persName> même dans <objectName
-              ref="#RaphaelSainteCecilePinacothequeBologne">la Sainte Cécile</objectName>, n'avoient rien fait de
-            comparable aux merveilles qu'il voyoit dans les tableaux du <persName ref="#Correge"
-              >Corrége</persName> ; que tout y étoit grand et gracieux, qu'<persName
+              ref="#RaphaelSainteCecilePinacothequeBologne">la Sainte Cécile</objectName>, n'avoient
+            rien fait de comparable aux merveilles qu'il voyoit dans les tableaux du <persName
+              ref="#Correge">Corrége</persName> ; que tout y étoit grand et gracieux, qu'<persName
               ref="#AgostinoCarracci">Augustin</persName> et luy étudieroient ensemble ces belles
             choses avec plaisir, et qu'ils vivroient en bonne intelligence. </p>
           <p xml:id="PIL_AVP_L5_C129_P7"> De la <placeName ref="#Lombardie">Lombardie</placeName>,
@@ -7367,18 +7400,18 @@
               Ferrata</placeName> sont des témoignages éternels de grande capacité. <objectName
               ref="#DominiquinCommunionSaintJeromeVatican">Le Tableau de la Communion de saint
               Jérôme</objectName>, qu'il fit à <placeName ref="#Rome">Rome</placeName> pour
-              <objectName ref="#CarloRainaldiDomenicoCastelliEgliseSanGirolamoCaritaRome">l'Eglise de ce Saint</objectName> plût
-            tellement au <persName ref="#NicolasPoussin">Poussin</persName>, que ce fameux peintre
-            contoit <objectName ref="#RaphaelTransfigurationVatican">la Transfiguration</objectName> de
-              <persName ref="#Raphael">Raphaël</persName>, <objectName
-              ref="#DanieleVolterraDescenteCroix">la descente de Croix</objectName> de <persName
-              ref="#DanieleDaVolterra">Daniel de Volterre</persName>, et <objectName
-              ref="#DominiquinCommunionSaintJeromeVatican">le Saint Jérôme</objectName> du <persName
-              ref="#Dominiquin">Dominiquin</persName> pour les trois plus beaux tableaux de
-              <placeName ref="#Rome">Rome</placeName>. Il ajoûtoit qu'il ne connossoit point d'autre
-            peintre pour les expressions que <persName ref="#Dominiquin">le Dominiquin</persName>.
-            Comme il a beaucoup travaillé à fraisque, ses tableaux à huile sont peints avec quelque
-            sécheresse. </p>
+              <objectName ref="#CarloRainaldiDomenicoCastelliEgliseSanGirolamoCaritaRome">l'Eglise
+              de ce Saint</objectName> plût tellement au <persName ref="#NicolasPoussin"
+              >Poussin</persName>, que ce fameux peintre contoit <objectName
+              ref="#RaphaelTransfigurationVatican">la Transfiguration</objectName> de <persName
+              ref="#Raphael">Raphaël</persName>, <objectName ref="#DanieleVolterraDescenteCroix">la
+              descente de Croix</objectName> de <persName ref="#DanieleDaVolterra">Daniel de
+              Volterre</persName>, et <objectName ref="#DominiquinCommunionSaintJeromeVatican">le
+              Saint Jérôme</objectName> du <persName ref="#Dominiquin">Dominiquin</persName> pour
+            les trois plus beaux tableaux de <placeName ref="#Rome">Rome</placeName>. Il ajoûtoit
+            qu'il ne connossoit point d'autre peintre pour les expressions que <persName
+              ref="#Dominiquin">le Dominiquin</persName>. Comme il a beaucoup travaillé à fraisque,
+            ses tableaux à huile sont peints avec quelque sécheresse. </p>
           <p xml:id="PIL_AVP_L5_C133_P2"> Il étoit bon architecte, et le pape <persName
               ref="#GregoireXV">Grégoire XV</persName>. lui donna l'intendance des palais et des
             batimens apostoliques. Il aimoit la solitude, et lorsqu'il alloit par les ruës, on
@@ -7465,9 +7498,9 @@
             s'ils sont du maître ou du disciple. </p>
           <p xml:id="PIL_AVP_L5_C135_P2"> Son genie étoit de peindre à fraisque dans des lieux
             spacieux, comme on le peut remarquer par ses grans ouvrages, et sur tout par la
-              <objectName ref="#GiovanniLanfrancoCoupoleSantAndreaDellaValleRome">Coupole de saint André de
-              Laval</objectName> où il a beaucoup mieux reussi que dans ses tableaux de médiocre
-            grandeur; il dessinoit du coût d'<persName ref="#AnnibaleCarracci">Annibal
+              <objectName ref="#GiovanniLanfrancoCoupoleSantAndreaDellaValleRome">Coupole de saint
+              André de Laval</objectName> où il a beaucoup mieux reussi que dans ses tableaux de
+            médiocre grandeur; il dessinoit du coût d'<persName ref="#AnnibaleCarracci">Annibal
               Carache</persName>, et tant qu'il demeura sous la conduite de cet illustre maître, il
             fut toûjours correct, mais aprés la mort d'<persName ref="#AnnibaleCarracci"
               >Annibal</persName> il se laissa aller à l'impétuosité de son génie, sans prendre
@@ -7475,14 +7508,14 @@
               ref="#RaphaelLogesVatican">les Loges</objectName> de <persName ref="#Raphael"
               >Raphaël</persName>, conjointement avec <persName ref="#SistoBadalocchio">Sisto
               Badalocchi</persName>, et l'un et l'autre dédiérent <objectName
-              ref="#GiovanniLanfrancoSistoBadalocchioRaphaelLogesVatican">cet Ouvrage</objectName> à <persName
-              ref="#AnnibaleCarracci">Annibal</persName> leur maître. <persName
+              ref="#GiovanniLanfrancoSistoBadalocchioRaphaelLogesVatican">cet Ouvrage</objectName>
+            à <persName ref="#AnnibaleCarracci">Annibal</persName> leur maître. <persName
               ref="#GiovanniLanfranco">Lanfranc</persName> peignit <pb n="329"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000354.tif/full/full/0/default.jpg"
             />pour <persName ref="#UrbainVIII">Urbain VIII</persName>. <objectName
               ref="#LanfrancoHistoireSaintPierreVatican">l'Histoire de saint Pierre</objectName>,
-            qui a été <objectName ref="#PietroSantiBartoliGiovanniLanfrancoHistoireSaintPierre">gravée par Piétro
-              Santi</objectName> et d'autres ouvrages dans <objectName
+            qui a été <objectName ref="#PietroSantiBartoliGiovanniLanfrancoHistoireSaintPierre"
+              >gravée par Piétro Santi</objectName> et d'autres ouvrages dans <objectName
               ref="#BasiliqueSaintPierreRome">l'Eglise de saint Pierre</objectName>. Ce pape en fut
             si content qu'il le fit chevalier. </p>
           <p xml:id="PIL_AVP_L5_C135_P3"><persName ref="#GiovanniLanfranco">Lanfranc</persName> fut
@@ -7740,8 +7773,9 @@
             cabinets de l'<placeName ref="#Europe">Europe</placeName> ; il y en à plusieurs à
               <placeName ref="#Rome">Rome</placeName> et à <placeName ref="#Naples"
               >Naples</placeName> : il y en a un aux <objectName
-              ref="#FransStuyckDominikusDeWaghemakereEgliseSaintPaulDominicainsAnvers">Dominicains d'Anvers</objectName>, que
-              <persName ref="#PeterPaulRubens">Rubens</persName> appelloit son maître. </p>
+              ref="#FransStuyckDominikusDeWaghemakereEgliseSaintPaulDominicainsAnvers">Dominicains
+              d'Anvers</objectName>, que <persName ref="#PeterPaulRubens">Rubens</persName>
+            appelloit son maître. </p>
           <p xml:id="PIL_AVP_L5_C141_P3"> Le mépris avec lequel il parloit des ouvrages d'autruy,
             luy fit de grosses affaires, et sur tout avec <persName ref="#GiuseppeCesari"
               >Josepin</persName>, dont il se moquoit ouvertement. Un jour la dispute s'échauffa
@@ -7766,9 +7800,9 @@
             alla à <placeName ref="#Malte">Malthe</placeName>, fit ses caravanes, et reçût l'ordre
             de chevalerie en qualité de frére servant. C'est-là qu'il fit tableau de <objectName
               ref="#CaravageDecollationSaintJeanMalte">la Décollation de Saint Jean</objectName>
-            pour <objectName ref="#GirolamoCassarCathedraleSaintJeanLaValette">l'Eglise de Malthe</objectName>, et
-            le <objectName ref="#CaravageAlofWignacourtLouvre">Portrait du Grand Maître de
-              Vignacourt</objectName>, qui est aujourd'huy dans le cabinet du roy. </p>
+            pour <objectName ref="#GirolamoCassarCathedraleSaintJeanLaValette">l'Eglise de
+              Malthe</objectName>, et le <objectName ref="#CaravageAlofWignacourtLouvre">Portrait du
+              Grand Maître de Vignacourt</objectName>, qui est aujourd'huy dans le cabinet du roy. </p>
           <p xml:id="PIL_AVP_L5_C141_P5"> Etant ainsi revêtu de l'ordre de <placeName ref="#Malte"
               >Malthe</placeName>, il revint à <placeName ref="#Rome">Rome</placeName>, dans le
             dessein d'obliger <persName ref="#GiuseppeCesari">Josepin</persName> de se battre contre
@@ -7930,10 +7964,11 @@
           <p xml:id="PIL_AVP_L6_C146_P3"> Il a eu soin dans toutes ses planches, de mettre l'année
             qu'elles ont été gravées, qui est une chose dont les curieux ont sujet de se loüer, car
             ils peuvent juger par-là à quel âge il les a travaillées. Dans la <objectName
-              ref="AlbrechtDurerGrandePassionBois"> grande Passion de Nôtre-Seigneur</objectName> qu'il a
-            gravée, il a disposé la <objectName ref="AlbrechtDurerGrandePassionBoisCene">Céne</objectName>
-            selon l'opinion d'<persName ref="#JeanOecolampade">Æcolampade</persName> : <objectName
-              ref="#AlbrechtDurerMelencolia">la Mélancolie</objectName>
+              ref="AlbrechtDurerGrandePassionBois"> grande Passion de Nôtre-Seigneur</objectName>
+            qu'il a gravée, il a disposé la <objectName ref="AlbrechtDurerGrandePassionBoisCene"
+              >Céne</objectName> selon l'opinion d'<persName ref="#JeanOecolampade"
+              >Æcolampade</persName> : <objectName ref="#AlbrechtDurerMelencolia">la
+              Mélancolie</objectName>
             <pb n="349"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000374.tif/full/full/0/default.jpg"
             />est sa plus belle piéce, et les choses qui entrent dans la composition de ce sujet,
@@ -8050,10 +8085,10 @@
           </head>
           <p xml:id="PIL_AVP_L6_C149_P1"><hi rend="capitals">DE</hi><placeName ref="#Munich"
               >Munic</placeName> étoit habile homme. Il a peint presque tout <objectName
-              ref="#LeoVonKlenzeResidenceMunich">le Palais de Maximilien Duc de Baviére</objectName>, au service
-            duquel il étoit. C'est luy qui a fait <objectName>les Desseins des Hérmites de
-              Baviére</objectName>, que <persName ref="#RaphaelSadeler">Raphaël</persName> et
-              <persName ref="#JanSadeler">Jean Sadeler</persName>
+              ref="#LeoVonKlenzeResidenceMunich">le Palais de Maximilien Duc de
+            Baviére</objectName>, au service duquel il étoit. C'est luy qui a fait <objectName>les
+              Desseins des Hérmites de Baviére</objectName>, que <persName ref="#RaphaelSadeler"
+              >Raphaël</persName> et <persName ref="#JanSadeler">Jean Sadeler</persName>
             <objectName ref="#RaphaelSadelerJanSadelerErmites">ont gravez aussi</objectName> bien
             que plusieurs autres choses de son dessein. On voit encore de luy <objectName
               ref="#AegidiusSadelerPeterCandidQuatreDocteursEglise">quatre Docteurs de
@@ -8094,11 +8129,12 @@
             endroits beaucoup d'éclat, principalement dans une lumiere céleste, qu'il a peinte au
             tableau du <objectName ref="#BernaertVanOrleyJugementDernierAnvers">Jugement
               Universel</objectName> qui est à <placeName ref="#Anvers">Anvers</placeName>, dans la
-              <objectName ref="RombautIIKeldermansCathedraleNotreDameAnvers">Chapelle des Aumônes</objectName>. Il a
-            fait quantité de desseins de tapisseries pour l'<persName ref="#CharlesV">Empereur
-              Charles V</persName>. et a eû le principal soin de faire éxecuter <objectName
-              ref="#RaphaelTapisseriesSixtineVatican">celles du Pape, et des Souverains de ce tems-là, sur
-              les Desseins de Raphaël</objectName>, dont il avoit été disciple. </p>
+              <objectName ref="RombautIIKeldermansCathedraleNotreDameAnvers">Chapelle des
+              Aumônes</objectName>. Il a fait quantité de desseins de tapisseries pour l'<persName
+              ref="#CharlesV">Empereur Charles V</persName>. et a eû le principal soin de faire
+            éxecuter <objectName ref="#RaphaelTapisseriesSixtineVatican">celles du Pape, et des
+              Souverains de ce tems-là, sur les Desseins de Raphaël</objectName>, dont il avoit
+            été disciple. </p>
           <figure type="ornement"/>
         </div2>
         <div2 n="152" type="chapitre" xml:id="C152" xml:lang="fra">
@@ -8115,8 +8151,8 @@
             pour faire des tableaux : car il avoit de la peine à produire quelque chose de luy même,
             il dessinoit et colorioit dans le goût de <persName ref="#Raphael">Raphaël</persName>,
             étant de retour en <placeName ref="#Flandres">Flandre</placeName>, il conduisit les
-              <objectName ref="#RaphaelTapisseriesSixtineVatican">Tapisseries qui se faisoient sur les
-              Desseins du même Raphaël</objectName>, et mourut à <placeName ref="#Anvers"
+              <objectName ref="#RaphaelTapisseriesSixtineVatican">Tapisseries qui se faisoient sur
+              les Desseins du même Raphaël</objectName>, et mourut à <placeName ref="#Anvers"
               >Anvers</placeName> en <date when="1592">1592</date>. âgé de quatre-vingt-quinze ans.
           </p>
         </div2>
@@ -8185,10 +8221,11 @@
             l'amour luy ait ôté le marteau de la main pour y mettre le pinceau, et c'est l'opinion
             la plus commune : c'est ainsi que son epitaphe le dit, et l'on voit quelques epigrammes
             sur ce pied-là. On trouve beaucoup de ses tableaux à <placeName ref="#Anvers"
-              >Anvers</placeName>, et entr'autres <objectName ref="#QuintenMetsysDeplorationNGOttawa"
-              >une descente de Croix</objectName> dans <objectName ref="RombautIIKeldermansCathedraleNotreDameAnvers">
-              'Eglise de Nôtre-Dame</objectName>. Il ne faisoit ordinairement que des demi-figures
-            et des portraits. Ainsi ses ouvrages ayant été faciles à transporter, <pb n="360"
+              >Anvers</placeName>, et entr'autres <objectName
+              ref="#QuintenMetsysDeplorationNGOttawa">une descente de Croix</objectName> dans
+              <objectName ref="RombautIIKeldermansCathedraleNotreDameAnvers"> 'Eglise de
+              Nôtre-Dame</objectName>. Il ne faisoit ordinairement que des demi-figures et des
+            portraits. Ainsi ses ouvrages ayant été faciles à transporter, <pb n="360"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000385.tif/full/full/0/default.jpg"
             /> se sont dispersez de tous côtez dans les cabinets de l'<placeName ref="#Europe"
               >Europe</placeName>. Sa maniére, qui n'avoit rien de celle des autres peintres, étoit
@@ -8234,12 +8271,12 @@
             Il alla à <placeName ref="#Rome">Rome</placeName>, où la disposition qu'il avoit à
             proster des bonnes choses luy fit prendre un tres-bon goût, et luy aquit par l'éxercice
             une grande correction dans le dessein. Etant de retour en son païs, il se chargea de la
-            conduite de quelques <objectName ref="#RaphaelTapisseriesSixtineVatican">Tapisseries qu'on
-              faisoit sur les Desseins de Raphaël</objectName> : et se voyant sans enfans et veuf
-            aprés deux ans de mariage, il se laissa aller à la persuasion de quelques marchands de
-              <placeName ref="#Bruxelles">Bruxelles</placeName>, qui l'engagerent au voyage de
-              <placeName ref="#Constantinople">Constantinople</placeName> : mais ne trouvant rien à
-            faire dans ce païs-là que des <objectName cert="low"
+            conduite de quelques <objectName ref="#RaphaelTapisseriesSixtineVatican">Tapisseries
+              qu'on faisoit sur les Desseins de Raphaël</objectName> : et se voyant sans enfans et
+            veuf aprés deux ans de mariage, il se laissa aller à la persuasion de quelques
+            marchands de <placeName ref="#Bruxelles">Bruxelles</placeName>, qui l'engagerent au
+            voyage de <placeName ref="#Constantinople">Constantinople</placeName> : mais ne trouvant
+            rien à faire dans ce païs-là que des <objectName cert="low"
               xml:id="PieterCoeckeVanAelstTenture">Desseins de Tapis</objectName>, à cause que la
             religion du païs ne permet pas de représenter des figures, il s'occupa a dessiner en son
             particulier <pb n="362"
@@ -8347,11 +8384,11 @@
               >Raphaël</persName> et <persName ref="#MichelAnge">Michelange</persName>, et d'aprés
             les sculptures antiques et les ruines des anciens édifices. Le pape <persName
               ref="#AdrienVI">Adrien VI</persName>. qui monta pour lors sur la chaire de saint
-            pierre, luy donna l'intendance des <objectName ref="#BramanteBelvedereVatican">Ouvrages du
-              batiment de Belvedére</objectName> : mais aprés la mort d'<persName ref="#AdrienVI"
-              >Adrien</persName>, qui ne tint le pontificat qu'un an et huit mois, il s'en retourna
-            dans les <placeName ref="#PaysBas">Païs-Bas</placeName>. Il s'arrêta à <placeName
-              ref="#Utrecht">Utrec</placeName> où<pb n="366"
+            pierre, luy donna l'intendance des <objectName ref="#BramanteBelvedereVatican">Ouvrages
+              du batiment de Belvedére</objectName> : mais aprés la mort d'<persName
+              ref="#AdrienVI">Adrien</persName>, qui ne tint le pontificat qu'un an et huit mois, il
+            s'en retourna dans les <placeName ref="#PaysBas">Païs-Bas</placeName>. Il s'arrêta à
+              <placeName ref="#Utrecht">Utrec</placeName> où<pb n="366"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000391.tif/full/full/0/default.jpg"
             /> il a beaucoup travaillé. Dans ce voyage il passa par la <placeName ref="#France"
               >France</placeName>, où l'amour de la vie tranquille luy fit refuser l'offre que le
@@ -8783,9 +8820,9 @@
             à la poesie. Il y fit entre autres choses <objectName
               ref="#CarelVanManderHistoirePassion">l'Histoire de la Passion</objectName>, qu'un
             nommé de <persName ref="#JacobDeGheynII">Geyen</persName> a <objectName
-              ref="#JacobDeGheynIIZachariasDolendoCarelVanManderHistoirePassion">gravé</objectName>. Il établit dans
-            la même ville d'<placeName ref="#Haarlem">Harlem</placeName>, avec <persName
-              ref="#HendrickGoltzius">Goltius</persName> et <persName cert="low"
+              ref="#JacobDeGheynIIZachariasDolendoCarelVanManderHistoirePassion">gravé</objectName>.
+            Il établit dans la même ville d'<placeName ref="#Haarlem">Harlem</placeName>, avec
+              <persName ref="#HendrickGoltzius">Goltius</persName> et <persName cert="low"
               xml:id="LesCorneilles">les Corneilles</persName> une académie pour y dessiner d'aprés
             nature, et pour y éxercer les jeunes peintres. Ses ouvrages en prose et en poësie sont
             en si grand nombre, qu'il seroit trop long de les rapporter ici. Outre un <bibl>traité
@@ -8814,10 +8851,10 @@
               Ermites</objectName>. Il a fait aussi les <objectName
               ref="#AdriaenCollaertMaertenDeVosVieChrist">Desseins de la Vie de J. C.</objectName>
             que <persName ref="#AntonIIWierix">Vierx</persName> a <objectName
-              ref="#HieronymusWierixJohannesWierixAntonIIWierixBernardinoPasseriMaertenDeVosBibliaNatalis">gravez</objectName> pour les <bibl
-              key="nadaljeromeEvangelicaeHistoriaeImagines1596">evangiles de natalis</bibl>. Il
-            étoit fort gros, et aprés avoir vêcu fort vieil, il mourut en <date when="1604"
-              >1604</date>. </p>
+              ref="#HieronymusWierixJohannesWierixAntonIIWierixBernardinoPasseriMaertenDeVosBibliaNatalis"
+              >gravez</objectName> pour les <bibl key="nadaljeromeEvangelicaeHistoriaeImagines1596"
+              >evangiles de natalis</bibl>. Il étoit fort gros, et aprés avoir vêcu fort vieil, il
+            mourut en <date when="1604">1604</date>. </p>
         </div2>
         <div2 n="176" type="chapitre" xml:id="C176" xml:lang="fra">
           <head>
@@ -9065,26 +9102,27 @@
             arrester longtems, il vint offrir son service au <persName ref="#AlexandreFarnese"
               >Prince de Parme</persName>, qui gouvernoit alors les <placeName ref="#PaysBas"
               >Païs-Bas</placeName>, et fit son <objectName
-              ref="#OttoVanVeenPortraitAlexandreFarneseMuseesRoyauxBeauxArtsBruxelles">Portrait</objectName>
-            armé de toutes pieces d'une maniére qui confirma l'estime qu'on avoit conceuë de son
-            habilité. Aprés la mort du <persName ref="#AlexandreFarnese">Prince de
-            Parme</persName>, <persName ref="#OttoVanVeen">Vénius</persName> se retira à <placeName
-              ref="#Anvers">Anvers</placeName>, où il fit quantité d'excellens ouvrages de peinture,
-            que l'on voit encore dans les principales eglises. Quelques tems aprés l'<persName
-              ref="#AlbertVII">Archiduc Albert</persName>, qui avoit succedé au <persName
-              ref="#AlexandreFarnese">Prince de Parme</persName>, le fit aller à <placeName
-              ref="#Bruxelles">Bruxelles</placeName>. et luy donna l'intendance des monnoyes, parmi
-            ces occupations embarassantes, <persName ref="#OttoVanVeen">Vénius</persName> ne laissa
-            pas de travailler du pinceau, il fit <objectName cert="low"
-              xml:id="OttoVanVeenPortraitAlbertDAutricheIsabelleClaireEugenieDAutriche">les
-              Portraits de l'Archiduc et de l'Infante Isabelle, en grand</objectName> qui furent
-            envoyés à <persName ref="#JacquesIer">Jacques Roy de la Grande Brétagne</persName>, et
-            pour signaler son érudition, aussi bien que son pinceau, il mit en lumiére plusieurs
-            ouvrages, qu'il a enrichis de figures de son dessein, ceux qui sont venus à ma
-            connoissance et dans lesquels je trouve beaucoup d'art et de grace. Sont <objectName
-              ref="#OttoVanVeenEmblemesHorace">les emblémes d'Horace</objectName>, <objectName
-              ref="#OttoVanVeenVieThomasAquin">la vie de Saint Thomas d'Aquin</objectName>, et
-              <objectName ref="#OttoVanVeenEmblemesAmour">les emblêmes d'Amour.</objectName>
+              ref="#OttoVanVeenPortraitAlexandreFarneseMuseesRoyauxBeauxArtsBruxelles"
+              >Portrait</objectName> armé de toutes pieces d'une maniére qui confirma l'estime
+            qu'on avoit conceuë de son habilité. Aprés la mort du <persName ref="#AlexandreFarnese"
+              >Prince de Parme</persName>, <persName ref="#OttoVanVeen">Vénius</persName> se retira
+            à <placeName ref="#Anvers">Anvers</placeName>, où il fit quantité d'excellens ouvrages
+            de peinture, que l'on voit encore dans les principales eglises. Quelques tems aprés
+              l'<persName ref="#AlbertVII">Archiduc Albert</persName>, qui avoit succedé au
+              <persName ref="#AlexandreFarnese">Prince de Parme</persName>, le fit aller à
+              <placeName ref="#Bruxelles">Bruxelles</placeName>. et luy donna l'intendance des
+            monnoyes, parmi ces occupations embarassantes, <persName ref="#OttoVanVeen"
+              >Vénius</persName> ne laissa pas de travailler du pinceau, il fit <objectName
+              cert="low" xml:id="OttoVanVeenPortraitAlbertDAutricheIsabelleClaireEugenieDAutriche"
+              >les Portraits de l'Archiduc et de l'Infante Isabelle, en grand</objectName> qui
+            furent envoyés à <persName ref="#JacquesIer">Jacques Roy de la Grande
+              Brétagne</persName>, et pour signaler son érudition, aussi bien que son pinceau, il
+            mit en lumiére plusieurs ouvrages, qu'il a enrichis de figures de son dessein, ceux qui
+            sont venus à ma connoissance et dans lesquels je trouve beaucoup d'art et de grace. Sont
+              <objectName ref="#OttoVanVeenEmblemesHorace">les emblémes d'Horace</objectName>,
+              <objectName ref="#OttoVanVeenVieThomasAquin">la vie de Saint Thomas
+              d'Aquin</objectName>, et <objectName ref="#OttoVanVeenEmblemesAmour">les emblêmes
+              d'Amour.</objectName>
             <persName ref="#OttoVanVeen">Vénius</persName> dédia ceux de <objectName
               ref="#OttoVanVeenEmblemesAmour">l'Amour profane</objectName> à l'<persName
               ref="#IsabelleClaireEugenieDAutriche">Infante Isabelle</persName> qui l'obligea d'en
@@ -9176,9 +9214,10 @@
             et tantôt en faisant des réfléxions, qu'il mettoit par écrit, et qu'il accompagnoit
             ordinairement d'un dessein léger à la plume, portant toûjours sur luy un cahier de
             papier à cette intention. Il eût occasion pendant cet éxercice de faire des <objectName
-              ref="#PeterPaulRubensRetableSainteHeleneCathedraleNotreDameDuPuyGrasse">Tableaux d'Autel dans l'Eglise de Sainte
-              Croix</objectName>, et <objectName ref="#PeterPaulRubensMadonnaDellaVallicellaChiesaNuovaRome">dans
-              l'Eglise neuve des Péres de l'Oratoire</objectName>. </p>
+              ref="#PeterPaulRubensRetableSainteHeleneCathedraleNotreDameDuPuyGrasse">Tableaux
+              d'Autel dans l'Eglise de Sainte Croix</objectName>, et <objectName
+              ref="#PeterPaulRubensMadonnaDellaVallicellaChiesaNuovaRome">dans l'Eglise neuve des
+              Péres de l'Oratoire</objectName>. </p>
           <p xml:id="PIL_AVP_L6_C187_P4"> Il y avoit sept ans qu'il continuoit en <placeName
               ref="#Italie">Italie</placeName> les etudes de sa profession, quand il apprit que sa
             mére étoit dangereusement malade. Cette nouvelle le contraignit de retourner à
@@ -9219,14 +9258,15 @@
               >Rubens</persName> peignit les deux galeries de son palais de luxembourg, il vint à
               <placeName ref="#Paris">Paris</placeName> pour voir les lieux, et pour en faire ses
             desseins. L'une de ces galeries étoit destinée pour <objectName
-              ref="#PeterPaulRubensCycleMedicisLuxembourgLouvre">l'Histoire de la Vie de cette Reine</objectName>,
-            et l'autre pour la <objectName ref="#PeterPaulRubensCycleHenriIVLuxembourg">Vie du Roy Henry
-              IV</objectName>. <persName ref="#PeterPaulRubens">Rubens</persName> commenca par
-            l'histoire de la Reine, et l'acheva : mais la la mort du roy, qui arriva incontinent
-            aprés, ne luy permit pas d'achever l'histoire de ce prince, de laquelle il avoit
-            commencé beaucoup de tableaux. La Reine, qui aimoit la peinture, et qui dessinoit fort
-            proprement, voulut que <persName ref="#PeterPaulRubens">Rubens</persName> fit deux
-            tableaux de son histoire en sa présence, pour avoir le plaisir de le voir peindre. </p>
+              ref="#PeterPaulRubensCycleMedicisLuxembourgLouvre">l'Histoire de la Vie de cette
+              Reine</objectName>, et l'autre pour la <objectName
+              ref="#PeterPaulRubensCycleHenriIVLuxembourg">Vie du Roy Henry IV</objectName>.
+              <persName ref="#PeterPaulRubens">Rubens</persName> commenca par l'histoire de la
+            Reine, et l'acheva : mais la la mort du roy, qui arriva incontinent aprés, ne luy
+            permit pas d'achever l'histoire de ce prince, de laquelle il avoit commencé beaucoup de
+            tableaux. La Reine, qui aimoit la peinture, et qui dessinoit fort proprement, voulut que
+              <persName ref="#PeterPaulRubens">Rubens</persName> fit deux tableaux de son histoire
+            en sa présence, pour avoir le plaisir de le voir peindre. </p>
           <p xml:id="PIL_AVP_L6_C187_P7"> Dans le tems que <persName ref="#PeterPaulRubens"
               >Rubens</persName> étoit à <placeName ref="#Paris">Paris</placeName>, le <persName
               ref="GeorgeVilliers">Duc de Buquingam</persName> eut occasion de faire connoissance
@@ -9253,7 +9293,7 @@
             parler de <persName ref="#PeterPaulRubens">Rubens</persName>, écrivit à quelques
             seigneurs de ses amis qui étoient à la cour de <placeName ref="#Madrid"
               >Madrid</placeName>, pour les prier de faire ensorte que <persName
-                ref="#PeterPaulRubens">Rubens</persName> l'allât voir à <placeName ref="VilaVicosa">
+              ref="#PeterPaulRubens">Rubens</persName> l'allât voir à <placeName ref="VilaVicosa">
               Villa-Vizosa</placeName>, qui étoit le lieu de sa résidence : <persName
               ref="#PeterPaulRubens">Rubens</persName> entreprit ce voyage avec plaisir ; mais comme
             les amis de ce duc luy avoient donné avis que <persName ref="#PeterPaulRubens"
@@ -9364,7 +9404,8 @@
             personnes éclairées reconnoissent, que, bien-loing d'avoir ignoré la partie du
             dessein, il a fait paroître dans le général de ses ouvrages, qu'il y avoit beaucoup de
             pénétration. L'on voit dans la ville de <placeName ref="#Gand">Gand</placeName> un
-            tableau de sa main, réprésentant <objectName ref="#PeterPaulRubensChuteDamnesMunichAltePinakothekMunich">la chûte des
+            tableau de sa main, réprésentant <objectName
+              ref="#PeterPaulRubensChuteDamnesMunichAltePinakothekMunich">la chûte des
               Damnez</objectName>, où il y a prés de deux cens figures, dessinées d'un bon goût, et
             d'une grande correction. Cela fait voir que les fautes où <persName
               ref="#PeterPaulRubens">Rubens</persName> est tombé contre le dessein,<pb n="404"
@@ -9372,10 +9413,10 @@
             /> ne viennent que de la rapidité de les productions. </p>
           <p xml:id="PIL_AVP_L6_C188_P4"> Nous avons à <placeName ref="#Paris">Paris</placeName>
             quantité de tableaux de <persName ref="#PeterPaulRubens">Rubens</persName>, et sur tout
-            dans la <objectName ref="#PeterPaulRubensCycleMedicisLuxembourgLouvre">Galerie du Palais de
-              Luxembourg</objectName>. L'y renvoys les juges d'ésinteressez, et l'on y trouvera du
-            moins dans les divinitez et dans les figures principales dequoy se satisfaire en cette
-            matiére. </p>
+            dans la <objectName ref="#PeterPaulRubensCycleMedicisLuxembourgLouvre">Galerie du Palais
+              de Luxembourg</objectName>. L'y renvoys les juges d'ésinteressez, et l'on y trouvera
+            du moins dans les divinitez et dans les figures principales dequoy se satisfaire en
+            cette matiére. </p>
           <p xml:id="PIL_AVP_L6_C188_P5"> Il a exprimé ses sujets avec beaucoup d'énergie et de
             netteté, il y a fait entrer beaucoup de grandeur et de noblesse. Ses expressions
             particuliéres sont justes au sujet, il n'y en a point qui n'interessent le spectateur et
@@ -9556,8 +9597,8 @@
             de changer la sienne pour vendre ses tableaux, enquoy il réussit fort bien, ayant
             l'esprit bon et fléxible et étant d'ailleurs solidement fondé dans les régles de son
             art. Il est mort à <placeName ref="#Anvers">Anvers</placeName> en <date when="1651"
-              >1651</date> et a laissé un <persName ref="#JanBaptistSeghers"> fils</persName>
-            qui a suivi la même profession. </p>
+              >1651</date> et a laissé un <persName ref="#JanBaptistSeghers"> fils</persName> qui a
+            suivi la même profession. </p>
         </div2>
         <div2 n="193" type="chapitre" xml:id="C193" xml:lang="fra">
           <head>
@@ -9619,8 +9660,8 @@
             retour en <placeName ref="#Hollande">Hollande</placeName>, il peignit dans les maisons
             de plaisance du <persName ref="#GuillaumeIIOrangeNassau">Prince d'Orange</persName>
             quantité de grans sujets poëtiques, tant à fraisque qu'à huile, et entr'autres dans le
-            <objectName ref="#HuisTenBoschLaHaye">Palais appellé la Maison du Bois</objectName>, à demie
-            lieuë de <placeName ref="#LaHaye">la Haye</placeName>. </p>
+              <objectName ref="#HuisTenBoschLaHaye">Palais appellé la Maison du Bois</objectName>, à
+            demie lieuë de <placeName ref="#LaHaye">la Haye</placeName>. </p>
         </div2>
         <div2 n="196" type="chapitre" xml:id="C196" xml:lang="fra">
           <head>
@@ -9793,9 +9834,10 @@
               Sadeler</persName>, et <persName ref="#IsaacMajor">Isaac</persName> son disciple ont
             gravé plusieurs de ses<pb n="422"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000447.tif/full/full/0/default.jpg"
-            /> païsages. Le plus beau de tous est <objectName ref="#RoelandtSaveryPaysageJeromeErmitageSaintPetersbourg"
-              >celuy où se trouve representé Saint Jerôme</objectName>, <objectName
-                ref="#IsaacMajorRoelandtSaveryPaysageJerome">gravé par Isaac</objectName>. Il est mort
+            /> païsages. Le plus beau de tous est <objectName
+              ref="#RoelandtSaveryPaysageJeromeErmitageSaintPetersbourg">celuy où se trouve
+              representé Saint Jerôme</objectName>, <objectName
+              ref="#IsaacMajorRoelandtSaveryPaysageJerome">gravé par Isaac</objectName>. Il est mort
             à <placeName ref="#Utrecht">Utreck</placeName> fort vieux. </p>
         </div2>
         <div2 n="201" type="chapitre" xml:id="C201" xml:lang="fra">
@@ -9834,17 +9876,18 @@
             servit plutôt pour étudier le païsage et l'architecture, qu'il a faite d'un grand goût,
             que pour le nud, qu'il a tres-mal dessiné. Il ne peignoit qu'en petit à gomme sur du
             velin, et assez légérement. Ses expressions génerales et ses compositions sont d'une
-            beauté qui va souvent jusqu'au sublime. La <objectName ref="#RaphaelGiulioRomanoVillaMadamaRome">Vigne
-              Madame</objectName> est le naturel dont il s'est servi pour étudier les arbres, comme
-            les palais de <placeName ref="#Rome">Rome</placeName> et des environs pour
-            l'architecture. Il a gravé luy-même à l'eau-forte <objectName
-              ref="#JohannWilhelmBaurMetamorphosesOvide">les Metamorphoses d'Ovide</objectName>, qui
-            sont de son invention, et qui font un volume ; et il a fait graver d'aprés ses desseins
-            plusieurs <objectName>sujets de l'Histoire Sainte</objectName>, et autres par <persName
-              ref="#MelchiorIKusel">Melchior Kussel</persName>, qui font un autre volume. On peut
-            juger par ces deux livres de l'étenduë du génie de <persName ref="#JohannWilhelmBaur"
-              >Guillaume Baur</persName>. Il mourut à <placeName ref="#Vienne">Vienne</placeName>
-            peu de tems aprés son mariage, en <date when="1640">1640</date>. </p>
+            beauté qui va souvent jusqu'au sublime. La <objectName
+              ref="#RaphaelGiulioRomanoVillaMadamaRome">Vigne Madame</objectName> est le naturel
+            dont il s'est servi pour étudier les arbres, comme les palais de <placeName ref="#Rome"
+              >Rome</placeName> et des environs pour l'architecture. Il a gravé luy-même à
+            l'eau-forte <objectName ref="#JohannWilhelmBaurMetamorphosesOvide">les Metamorphoses
+              d'Ovide</objectName>, qui sont de son invention, et qui font un volume ; et il a fait
+            graver d'aprés ses desseins plusieurs <objectName>sujets de l'Histoire
+              Sainte</objectName>, et autres par <persName ref="#MelchiorIKusel">Melchior
+              Kussel</persName>, qui font un autre volume. On peut juger par ces deux livres de
+            l'étenduë du génie de <persName ref="#JohannWilhelmBaur">Guillaume Baur</persName>. Il
+            mourut à <placeName ref="#Vienne">Vienne</placeName> peu de tems aprés son mariage, en
+              <date when="1640">1640</date>. </p>
         </div2>
         <div2 n="204" type="chapitre" xml:id="C204" xml:lang="fra">
           <pb n="424"
@@ -9863,11 +9906,12 @@
               <persName ref="#HendrickGoudt">Henri</persName> étant de retour à <placeName
               ref="#Utrecht">Utreck</placeName> grava d'aprés les tableaux d'<persName
               ref="#AdamElsheimer">Adam</persName> les <objectName
-                ref="#HendrickGoudtAdamElsheimerLesSeptTableauxGraves">sept Piéces</objectName>, qui sont admirées
-            des curieux pour leur singuliére beauté. Une fille qui le vouloit épouser luy donna en
-              <date when="1624">1624</date>. un filtre, qui, au lieu de le rendre amoureux, luy fit
-            perdre l'esprit en sorte qu'il étoit tout hébêté quand on luy parloit d'autre chose que
-            de peinture, de laquelle il raisonna toûjours d'un tres-bon sens jusqu'à la mort. </p>
+              ref="#HendrickGoudtAdamElsheimerLesSeptTableauxGraves">sept Piéces</objectName>, qui
+            sont admirées des curieux pour leur singuliére beauté. Une fille qui le vouloit épouser
+            luy donna en <date when="1624">1624</date>. un filtre, qui, au lieu de le rendre
+            amoureux, luy fit perdre l'esprit en sorte qu'il étoit tout hébêté quand on luy parloit
+            d'autre chose que de peinture, de laquelle il raisonna toûjours d'un tres-bon sens
+            jusqu'à la mort. </p>
         </div2>
         <div2 n="205" type="chapitre" xml:id="C205" xml:lang="fra">
           <pb n="425"
@@ -10073,9 +10117,10 @@
             dessinoit bien et sa maniére est ferme et d'un pinceau legér, ç'a été ni <persName
               ref="#Protee">Prothée</persName> pour les copies et il s'est transforme en autant de
             tableaux qu'il en a voulu contrefaire, en sorte qu'on y est encore tous les jours
-            trompé, <objectName cert="low" xml:id="DavidTeniersArchiducLeopoldGuillaumeDansSaGalerieDeBruxelles">c'est par ses soins que
-              la Gallerie de l'Archiduc Léopol a été gravée</objectName> ayant pour lors la
-            direction des originaux. </p>
+            trompé, <objectName cert="low"
+              xml:id="DavidTeniersArchiducLeopoldGuillaumeDansSaGalerieDeBruxelles">c'est par ses
+              soins que la Gallerie de l'Archiduc Léopol a été gravée</objectName> ayant pour lors
+            la direction des originaux. </p>
         </div2>
         <div2 n="218" type="chapitre" xml:id="C218" xml:lang="fra">
           <pb n="433"
@@ -10250,8 +10295,8 @@
             dessein, plus de gentillesse dans ses compositions, et plus de suavité encore dans ses
             couleurs. Il se servoit comme luy du miroir convexe. Comme il est mort fort jeune, il a
             fait peu de tableaux. Il y en a un entr'autres de la grandeur de quinze pouces, où il a
-            représenté <objectName ref="#FransVanMierisBoutiqueEtoffeKunstHistorischesMuseumVienne">une
-              boutique d'étoffe, la Marchande, et un Acheteur</objectName>. Plusieurs étoffes y
+            représenté <objectName ref="#FransVanMierisBoutiqueEtoffeKunstHistorischesMuseumVienne"
+              >une boutique d'étoffe, la Marchande, et un Acheteur</objectName>. Plusieurs étoffes y
             paroissent dévelopées les unes auprés des autres, et l'on y reconnoît leur diversité
             tres-sensiblement. Les figures, et tout ce qui entre dans la compostion du tableau sont
             admirables. Il eut deux milles francs pour cet ouvrage : et tous ceux qu'on voit de luy,
@@ -10351,7 +10396,7 @@
               when="1627">1627</date>. que le <persName ref="#GeorgeVilliers">Duc le
               Bouquingam</persName> fut tué. Parmi les belles choses qu'il vit en <placeName
               ref="#Angleterre">Angleterre</placeName>, il est fait mention dans sa <objectName
-                ref="#TitienVieDouzeCesars">Vie des douze Empereurs</objectName> du <persName
+              ref="#TitienVieDouzeCesars">Vie des douze Empereurs</objectName> du <persName
               ref="#Titien">Titien</persName> plus grans que nature, qui ont été gravez par
               <persName ref="#AegidiusSadeler">G. Sadeler</persName>. Il y est dit aussi qu'aprés
             la mort du <persName ref="#GeorgeVilliers">Duc de Bouquingam</persName>, l'<persName
@@ -10399,7 +10444,8 @@
             belle qu'elle n'étoit ; et craignant une seconde invasion, il la vendit, et s'alla
             établir à <placeName ref="#Augsbourg">Ausbourg</placeName>, où il se mit à travailler à
             divers ouvrages, et entr'autres à <objectName ref="#JoachimVonSandrartDouzeMois">celuy
-              des douze mois de l'année</objectName> en grand, lesquels ont été <objectName ref="#JoachimVonSandrartDouzeMoisGraves">gravez</objectName> en <placeName
+              des douze mois de l'année</objectName> en grand, lesquels ont été <objectName
+              ref="#JoachimVonSandrartDouzeMoisGraves">gravez</objectName> en <placeName
               ref="#Hollande">Hollande</placeName> avec des vers latins, qui en font la déscription. </p>
           <p xml:id="PIL_AVP_L6_C225_P4"><persName ref="#JohannaVonMilkau">Sa Femme</persName> étant
             morte, il quitta <placeName ref="#Augsbourg">Ausbourg</placeName>, et alla demeurer à
@@ -10861,8 +10907,8 @@
               <persName ref="#LouisXIII">Loüis XIII</persName> qui, en considération de sa capacité
             luy avoit donné une pension durant son séjour en <placeName ref="#Italie"
               >Italie</placeName>, l'en fit revenir en <date when="1627">1627</date>. pour
-            travailler dans les maisons royales, et surtout au <objectName ref="#PalaisLuxembourgParis"
-              >Luxembourg</objectName>. </p>
+            travailler dans les maisons royales, et surtout au <objectName
+              ref="#PalaisLuxembourgParis">Luxembourg</objectName>. </p>
           <pb n="466"
             facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000491.tif/full/full/0/default.jpg"/>
           <p xml:id="PIL_AVP_L7_C234_P2"> La facilité que ce peintre avoit de faire des portraits au
@@ -11073,10 +11119,11 @@
             />une pension, et on luy donna aux <placeName ref="#PalaisTuileriesParis"
               >Thuilleries</placeName> un logement tout meublé. Le <persName ref="#NicolasPoussin"
               >Poussin</persName> fit pour la <objectName>Chapelle</objectName> du <objectName
-              ref="#PierreChambigesChateauSaintGermainEnLaye"> Chateau de Saint Germain</objectName> le <objectName
-              ref="#NicolasPoussinInstitutionEucharistieLouvre">Tableau de la Céne</objectName>, et
-              <objectName ref="#NicolasPoussinMiracleSaintFrancoisXavierLouvre">celuy qui est à
-              Paris dans le Novitiat des Jesuites</objectName>. Il commenca dans la <objectName
+              ref="#PierreChambigesChateauSaintGermainEnLaye"> Chateau de Saint Germain</objectName>
+            le <objectName ref="#NicolasPoussinInstitutionEucharistieLouvre">Tableau de la
+              Céne</objectName>, et <objectName
+              ref="#NicolasPoussinMiracleSaintFrancoisXavierLouvre">celuy qui est à Paris dans le
+              Novitiat des Jesuites</objectName>. Il commenca dans la <objectName
               ref="#NicolasPoussinGalerieTravauxHerculeLouvre">Galerie du Louvre les Travaux
               d'Hercule</objectName>, dans le tems que la brigue de l'ecole de <persName
               ref="#SimonVouet">Vouët</persName> le chagrinoit par les médisances et les mauvais
@@ -11527,12 +11574,13 @@
             l'autre <objectName ref="#CharlesAlphonseDuFresnoyVenusCouchee">une Vénus
               couchée</objectName>. Ce qu'il a peint en <placeName ref="#France">France</placeName>
             tient encore de ce goût-là, principalement ce qu'il a fait <objectName
-              ref="#LouisLeVauChateauDuRaincy">au Rinci</objectName> pour <persName ref="#JacquesBordier">M.
-              Bordier</persName> intendant des finances : cette <objectName>Peinture</objectName>
-            passant pour le plus beau de ses ouvrages au jugement des connoisseurs. Mais si le peu
-            de tableaux qu'il a faits ne sont pas suffisans pour répandre son nom en divers endroits
-            de l'<placeName ref="#Europe">Europe</placeName>, celuy de son poëme sur la peinture le
-            fera vivre autant que cet art sera en quelque estime dans le monde. </p>
+              ref="#LouisLeVauChateauDuRaincy">au Rinci</objectName> pour <persName
+              ref="#JacquesBordier">M. Bordier</persName> intendant des finances : cette
+              <objectName>Peinture</objectName> passant pour le plus beau de ses ouvrages au
+            jugement des connoisseurs. Mais si le peu de tableaux qu'il a faits ne sont pas
+            suffisans pour répandre son nom en divers endroits de l'<placeName ref="#Europe"
+              >Europe</placeName>, celuy de son poëme sur la peinture le fera vivre autant que cet
+            art sera en quelque estime dans le monde. </p>
         </div2>
         <div2 n="244" type="chapitre" xml:id="C244" xml:lang="fra">
           <head>
@@ -11731,9 +11779,9 @@
               ref="#Italie">Italie</placeName> demeuroit aussi : cette rencontre lia une espece
             d'amitié entr'eux, et fit qu'un peintre nommé <persName ref="#NicolasDuchesne">du
               Chesne</persName>, qui bien qu'ignorant, avoit entrepris les ouvrages de peinture du
-              <objectName ref="#PalaisLuxembourgParis">Palais de Luxembourg</objectName>, les employa
-            tous deux dans ce palais, <persName ref="#NicolasPoussin">Poussin</persName> à queslques
-            petits ouvrages dans les lambris, et <persName ref="#PhilippeDeChampaigne"
+              <objectName ref="#PalaisLuxembourgParis">Palais de Luxembourg</objectName>, les
+            employa tous deux dans ce palais, <persName ref="#NicolasPoussin">Poussin</persName> à
+            queslques petits ouvrages dans les lambris, et <persName ref="#PhilippeDeChampaigne"
               >Champagne</persName>, à faire quelques <objectName
               ref="#PhilippeDeChampaigneAppartementMarieMedicisLuxembourg">Tableaux dans
               l'Apartement de la Reine</objectName>, sa majesté les trouva si dort à son gré que
@@ -11759,17 +11807,17 @@
             du <placeName ref="#FaubourgSaintJacques">Faubourg Saint Jacques</placeName>, et
               <objectName ref="#CouventCarmelitesRueChaponParis">de la rue Chapon </objectName>; au
               <objectName ref="#CouventNotreDameDuCalvaireSaintGermainParis">Calvaire du Faubourg
-              Saint Germain</objectName> ; <objectName ref="#JacquesLemercierPalaisRoyalParis">au Palais
-              Royal</objectName> ; dans le <objectName ref="#ChapitreNotreDameParis">Chapitre de
-              Nôtre Dame</objectName> de <placeName ref="#Paris">Paris</placeName> et dans plusieurs
-            eglises : sans compter une infinité de portraits qu'il faisoit fort ressemblans et qu'il
-            finissoit beaucoup. <persName>Monsieur Poncet</persName> conseiller en la cour des aydes
-            qui étoit de ses amis le pria un jour de dimanche de faire celuy de sa fille, <pb
-              n="505"
+              Saint Germain</objectName> ; <objectName ref="#JacquesLemercierPalaisRoyalParis">au
+              Palais Royal</objectName> ; dans le <objectName ref="#ChapitreNotreDameParis">Chapitre
+              de Nôtre Dame</objectName> de <placeName ref="#Paris">Paris</placeName> et dans
+            plusieurs eglises : sans compter une infinité de portraits qu'il faisoit fort
+            ressemblans et qu'il finissoit beaucoup. <persName>Monsieur Poncet</persName> conseiller
+            en la cour des aydes qui étoit de ses amis le pria un jour de dimanche de faire celuy de
+            sa fille, <pb n="505"
               facs="https://bibliotheque-numerique.inha.fr/i/?IIIF=/28/29/16/be/282916be-b5f7-48c3-8171-6ce324e71bac/iiif/0630_doucet_12res382_000534.tif/full/full/0/default.jpg"
             /> qui devoit faire profession le lundi aux <objectName
-              ref="#CouventCarmelitesRueChaponParis">Carmelites de la ruë Chapon</objectName>, n'y ayant
-            plus que ce jour-là où les gens du monde pussent la voir, mais <persName
+              ref="#CouventCarmelitesRueChaponParis">Carmelites de la ruë Chapon</objectName>, n'y
+            ayant plus que ce jour-là où les gens du monde pussent la voir, mais <persName
               ref="#PhilippeDeChampaigne">Champagne</persName> faisant scrupule de peindre un
             dimanche ne voulut jamais, quoy qu'on luy put dire et offrir se laisser vaincre aux
             priéres de son ami, car outre qu'il étoit bon chrétien il étoit fort desintéressé, comme
@@ -11959,10 +12007,10 @@
               >Séminaire de Saint Sulpice</objectName> établirent si solidement sa réputation, que
               <persName ref="#NicolasFouquet">M. Foucquet</persName>, pour lors sur intendant des
             finances, le voulût avoir pour les ouvrages de peinture qui se voient embellir sa belle
-            maison de <objectName ref="#LouisLeVauChateauVauxLeVicomteMaincy">Vaux-le-Vicomte</objectName>.
-              <persName ref="#CharlesLeBrun">Le Brun</persName> y a laissé des témoignages de la
-            profondeur de son génie et de son savoir, sur tout dans l'appartement que l'on appelle
-            la chambre des muses. On y voit un <objectName
+            maison de <objectName ref="#LouisLeVauChateauVauxLeVicomteMaincy"
+              >Vaux-le-Vicomte</objectName>. <persName ref="#CharlesLeBrun">Le Brun</persName> y a
+            laissé des témoignages de la profondeur de son génie et de son savoir, sur tout dans
+            l'appartement que l'on appelle la chambre des muses. On y voit un <objectName
               ref="#CharlesLeBrunPlafondChambreMusesVauxLeVicomte">Plat-fond</objectName> qui paroît
             un des meilleurs tableaux qu'il ait faits. </p>
           <p xml:id="PIL_AVP_L7_C252_P7"><persName ref="#NicolasFouquet">M. Foucquet</persName>,
