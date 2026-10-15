@@ -1323,7 +1323,7 @@
               joye en la présence du Seigneur.</hi> Le peintre qui a la même intention d'instruire
             et d'édifier, ne sauroit suivre un meilleur modéle.</p>
           <p xml:id="PIL_AVP_L1_C23_P3"><persName ref="#NicolasPoussin">Le Poussin</persName>, qui
-            dans son <objectName ref="#PoussinMoise">Tableau de Moise</objectName> trouvé, a tenu la
+            dans son <objectName cert="low" xml:id="NicolasPoussinMoise">Tableau de Moise</objectName> trouvé, a tenu la
             même conduite pour représenter le fleuve du <placeName ref="#Nil">Nil</placeName>, en a
             été blâmé par quelques personnes, et voicy la raison qu'ils en apportent.</p>
           <p xml:id="PIL_AVP_L1_C23_P4">Ils disent qu'il ne faut point méler les faux dieux avec les
@@ -4693,7 +4693,7 @@
               ref="#RaphaelLogesVatican">Tableaux des Loges</objectName> qu'il a exécutez ; savoir,
             le <objectName ref="#RaphaelJourdainVatican">passage du Jordain</objectName>,
               <objectName ref="#RaphaelChuteJerichoVatican">la chûte des murs de
-            Jerico</objectName>, <objectName ref="#">le Combat</objectName>, où <objectName
+            Jerico</objectName>, le Combat où <objectName
               ref="#RaphaelJosueVatican">Josüé fit arrêter le Soleil</objectName>, <objectName
               ref="#RaphaelNativiteVatican">la Nativité de Nôtre-Seigneur</objectName>, <objectName
               ref="#RaphaelBaptemeVatican">le Baptême</objectName> et <objectName
@@ -6154,7 +6154,7 @@
               saint Jacques</objectName> de <objectName ref="#EgliseSanLioVenise">san
               Lio</objectName>, le <objectName
               ref="#TitienMartyreSaintLaurentSantaMariaAssuntaVenise">saint Laurent des
-              Jesuites</objectName>, <objectName ref="">le saint Jérôme</objectName> de <objectName
+                Jesuites</objectName>, <objectName cert="low" xml:id="TitienSaintJerome">le saint Jérôme</objectName> de <objectName
               ref="#BaldassarreLonghenaBasiliqueSantaMariaDellaSaluteVenise">sancta Maria Nova, la
               Pentecôte de la Saluté</objectName>, et plusieur: autres de cette nature. Ainsi l'on
               peut<pb n="269"
@@ -10754,9 +10754,9 @@
               <persName ref="#FrancescoPrimaticcio">Primatice</persName> furent chargez des ouvrages
             de peinture les plus considérables. <persName ref="#ToussaintDubreuil">Le
               premier</persName> peignit à <placeName ref="#Fontainebleau">Fontainebleau</placeName>
-            <objectName> quatorze Tableaux à fraisque dans une des Chambres qu'on appelle des
-              Poëles</objectName>, et fit avec <persName ref="#JacobBunel">Bunel</persName>
-            <objectName>la petite Galerie du Louvre</objectName>, qui fut brûlée en <date
+            <objectName> quatorze Tableaux à fraisque dans une des <objectName ref="#PavillonDesPoelesFontainebleau">Chambres qu'on appelle des
+              Poëles</objectName></objectName>, et fit avec <persName ref="#JacobBunel">Bunel</persName>
+            <objectName ref="#PetiteGalerieDuLouvre">la petite Galerie du Louvre</objectName>, qui fut brûlée en <date
               when="1660">1660</date>. Ils moururent sous le regne d'<persName ref="#HenriIV">Henri
               IV</persName>. </p>
         </div2>

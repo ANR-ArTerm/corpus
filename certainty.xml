@@ -119,6 +119,20 @@
     </Alberti_Bartoli_Architettura>
 
     <Piles_Abrege_Peintres>
+        <certainty xml:id="NicolasPoussinMoise" locus="value">
+            <desc> Il est possible que De Piles fasse ici référence à l'une de ces toiles de Nicolas
+                Poussin : la <objectName ref="#NicolasPoussinMoisePointelLouvre">version
+                    Pointel</objectName>, la <objectName ref="#NicolasPoussinMoiseLeNotreLouvre">
+                    version Le Notre</objectName> ou celles exposées à la <objectName
+                    ref="#NicolasPoussinMoiseGemaldegalerieAlteMeisterDresde">Gemaldegalerie de
+                    Dresde</objectName> et à <objectName
+                    ref="#NicolasPoussinMoiseAshmoleanMuseumOxford">l'Ashmolean Museum
+                    d'Oxford.</objectName></desc>
+        </certainty>
+        <certainty xml:id="TitienSaintJerome" locus="value">
+            <desc> Il est possible que l'œuvre citée par Piles soit <objectName ref="#TitienSaintJeromeBasiliqueSantaMariaDellaSaluteVenise">le petit saint Jérôme</objectName> sur un
+                panneau de bois conservé dans la basilique.</desc>
+        </certainty>
         <certainty xml:id="LesCorneilles" locus="value">
             <desc> Pourrait correspondre aux peintres <persName ref="#CornelisIIBloemaert"> Cornelis
                     II Bloemaert</persName> et à <persName ref="#CornelisVanHaarlem"> Cornelis Van
@@ -265,10 +279,12 @@
                     conservé à la National Gallery à Washington</objectName></desc>
         </certaninty>
     </Lomazzo_TraicteProportion>
-    <Martin_ArchitectureAlberti><certainty xml:id="TempleAthenaMartin" locus="value">
-        <desc>Deux hypothèses d'identification possibles : <object
-            ref="#TempleAthenaNikeAthenes">Temple d'Athéna Nikè</object>, <objectName
-                ref="#AncienTempleAthenaPoliasAthenes">Ancien Temple
+    <Martin_ArchitectureAlberti>
+        <certainty xml:id="TempleAthenaMartin" locus="value">
+            <desc>Deux hypothèses d'identification possibles : <object
+                    ref="#TempleAthenaNikeAthenes">Temple d'Athéna Nikè</object>, <objectName
+                    ref="#AncienTempleAthenaPoliasAthenes">Ancien Temple
                 d'Athéna</objectName></desc>
-    </certainty></Martin_ArchitectureAlberti>
+        </certainty>
+    </Martin_ArchitectureAlberti>
 </textes>
