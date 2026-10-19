@@ -106,7 +106,7 @@
                 GREZ</persName>, Avocat en parlement.</hi>
           </titlePart>
         </docTitle>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page4"/>
+        <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page4"/>
         <byline>A <placeName ref="#Toulouse">Toulouse</placeName>, Chez la VEUVE de <persName
             ref="#JeanPech">J. Pech</persName> et <persName ref="#AntoinePech">A. Pech</persName>,
           Imprimeurs du College de la Compagnie de JESUS, à l'Enseigne du Nom de JESUS.</byline>
@@ -115,7 +115,7 @@
       <div type="preface" xml:lang="fra">
         <pb n="I"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f3/full/full/0/native.jpg"/>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page5"/>
+        <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page5"/>
         <head>
           <hi rend="capitals">PREFACE</hi>
         </head>
@@ -184,7 +184,7 @@
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f7/full/full/0/native.jpg"/>
         <p xml:id="DUP_TP_preface_P11">C'est aussi dans l'ordre, dans la métode que j'ay suivie, et
           dans un soin exact d'expliquer toutes choses, qu'on peut remarquer de la nouveauté :
-          Principalement dans le petit <bibl id="dupuydugrezTraitePeinturePour1699a">traité d'Optique</bibl> que j'ay ajoûté à mon ouvrage,
+          Principalement dans le petit <bibl key="dupuydugrezTraitePeinturePour1699a">traité d'Optique</bibl> que j'ay ajoûté à mon ouvrage,
           et qui est entierement de mon invention, ne connoissant point d'Auteur qui en ait êcrit de
           cette maniere.</p>
         <p xml:id="DUP_TP_preface_P12">Et afin que vous sachiez d'abord l'ordre que j'ay suivi dans
@@ -339,12 +339,12 @@
           pouvois me persuader d'avoir mérité l'aprobation particuliére de ceux qui connoissent, qui
           pratiquent, ou qui aiment la Peinture : Et si quelques autres êtoient poussés par mon
           exemple à travailler sur la méme matiére.</p>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page18"/>
+        <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page18"/>
       </div>
       <div type="avertissement" xml:lang="fra">
         <pb n="XV"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f17/full/full/0/native.jpg"/>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page19"/>
+        <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page19"/>
         <head>
           <hi rend="it">AVERTISSEMENT.</hi>
         </head>
@@ -377,7 +377,7 @@
       <div type="privilege" xml:lang="fra">
         <pb n="XVI"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f18/full/full/0/native.jpg"/>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page20"/>
+        <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page20"/>
         <head>
           <hi rend="it">Extrait du Privilege du Roy</hi>
         </head>
@@ -435,7 +435,7 @@
       <div type="errata" xml:lang="fra">
         <pb n="XVIII"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f20/full/full/0/native.jpg"/>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page22"/>
+        <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page22"/>
         <head>
           <hi rend="it">ERRATA.</hi>
         </head>
@@ -485,7 +485,7 @@
         <div2 xml:id="L1C1" type="chapitre" n="1">
           <pb n="1"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f22/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page24"/>
+          <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page24"/>
           <head>
             <hi rend="capitals">TRAITE SUR LA PEINTURE<lb/> PREMIERE DISSERTATION,</hi>
             <lb/>
@@ -1373,7 +1373,7 @@
         <div2 xml:id="L1C2" type="chapitre" n="2">
           <pb n="42"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f63/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page65"/>
+          <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page65"/>
           <head>
             <hi rend="capitals">SUPPLEMENT A LA PREMIERE DISSERTATION</hi>
             <lb/>
@@ -2451,7 +2451,7 @@
         <div2 xml:id="L2C1" type="chapitre" n="1">
           <pb n="83"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f104/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page106"/>
+          <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page106"/>
           <head>
             <hi rend="capitals">TRAITE SUR LA PEINTURE <lb/> DISSERTATION SECONDE,</hi>
             <lb/>
@@ -3243,7 +3243,7 @@
         <div2 xml:id="L2C2" type="chapitre" n="2">
           <pb n="121"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f142/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page144"/>
+          <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page144"/>
           <head>
             <hi rend="capitals">SUPPLEMENT<lb/> A LA SECONDE DISSERTATION,<lb/></hi>
             <hi rend="it">De la Structure et des proportions du corps humain.</hi>
@@ -4507,7 +4507,7 @@
             <figure type="dessin"/>-->
             
             <!--A remplacer par :
-            <figure type="ornement" id="DupuyDugrez_TraitePeinture-page199"/>-->
+            <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page199"/>-->
             
             <!--A CORRIGER-->
             
@@ -4521,7 +4521,7 @@
         <div2 xml:id="L3C1" type="chapitre" n="1">
           <pb n="177"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f199/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page201"/>
+          <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page201"/>
           <p xml:id="DUP_TP_L3_L3C1_P1">
             <hi rend="capitals">TRAITE SUR LA PEINTURE.<lb/> TROISIEME DISSERTATION</hi>
             <lb/>
@@ -5611,7 +5611,7 @@
         <div2 xml:id="L3C2" type="chapitre" n="2">
           <pb n="229"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f251/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page253"/>
+          <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page253"/>
           <head>
             <hi rend="capitals">SUPPLEMENT<lb/>A LA TROISIEME DISSERTATION</hi>
             <lb/>
@@ -6790,7 +6790,7 @@
         <div2 xml:id="L4C1" type="chapitre" n="1">
           <pb n="283"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f305/full/full/0/native.jpg"/>
-          <figure type="ornement  id="DupuyDugrez_TraitePeinture-page307"/"/>
+          <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page307"/>
           <head>
             <hi rend="capitals">TRAITE SUR LA PEINTURE. DISSERTATION QUATRIEME</hi>
             <hi rend="it">De la Composition.</hi>
@@ -8118,7 +8118,7 @@
         </div2>-->
           
           <!--A remplacer par:          
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page368"/>-->
+          <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page368"/>-->
           
           <!--Je pense que le lien ci-dessous est peut-être une erreur car il renvoie une image de la page entière et c'est le seul dans ce document que j'ai trouvé pour l'instant. A mon avis il faudrait le supprimer.-->
           
@@ -8128,7 +8128,7 @@
           
           <!--A CORRIGER-->
           
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page369"/>
+          <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page369"/>
           <p xml:id="DUP_TP_L4_L4C2_P1">
             <hi rend="capitals">TRAITE D'OPTIQUE.<lb/><hi rend="it"> POUR SUPLEMENT A LA</hi></hi>
             <hi rend="it">quatriême Dissertation sur la Composition.</hi>
@@ -8914,7 +8914,7 @@
     <back type="postface">
       <pb n="381"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f403/full/full/0/native.jpg"/>
-      <figure type="ornement" id="DupuyDugrez_TraitePeinture-page405"/>
+      <figure type="ornement" xml:id="DupuyDugrez_TraitePeinture-page405"/>
       <head>Table des Principales Marieres.</head>
       <p xml:id="DUP_TP_P2"><hi rend="capitals">L'Auteur</hi> donne les raisons qui l'ont obligé
         d'écrire sur la Peinture, il expose le Plan de son Ouvrage, et declare que c'est
