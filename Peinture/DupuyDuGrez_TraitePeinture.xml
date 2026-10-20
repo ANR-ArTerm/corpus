@@ -106,7 +106,7 @@
                 GREZ</persName>, Avocat en parlement.</hi>
           </titlePart>
         </docTitle>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page4"/>
+        <figure type="ornement"/>
         <byline>A <placeName ref="#Toulouse">Toulouse</placeName>, Chez la VEUVE de <persName
             ref="#JeanPech">J. Pech</persName> et <persName ref="#AntoinePech">A. Pech</persName>,
           Imprimeurs du College de la Compagnie de JESUS, à l'Enseigne du Nom de JESUS.</byline>
@@ -115,7 +115,7 @@
       <div type="preface" xml:lang="fra">
         <pb n="I"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f3/full/full/0/native.jpg"/>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page5"/>
+        <figure type="ornement"/>
         <head>
           <hi rend="capitals">PREFACE</hi>
         </head>
@@ -184,9 +184,9 @@
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f7/full/full/0/native.jpg"/>
         <p xml:id="DUP_TP_preface_P11">C'est aussi dans l'ordre, dans la métode que j'ay suivie, et
           dans un soin exact d'expliquer toutes choses, qu'on peut remarquer de la nouveauté :
-          Principalement dans le petit <bibl id="dupuydugrezTraitePeinturePour1699a">traité d'Optique</bibl> que j'ay ajoûté à mon ouvrage,
-          et qui est entierement de mon invention, ne connoissant point d'Auteur qui en ait êcrit de
-          cette maniere.</p>
+          Principalement dans le petit <bibl key="dupuydugrezTraitePeinturePour1699a">traité
+            d'Optique</bibl> que j'ay ajoûté à mon ouvrage, et qui est entierement de mon invention,
+          ne connoissant point d'Auteur qui en ait êcrit de cette maniere.</p>
         <p xml:id="DUP_TP_preface_P12">Et afin que vous sachiez d'abord l'ordre que j'ay suivi dans
           mon traité, je l'ay divisé en quatre Dissertations : Dans la premiere je donne des idées
           assez précises de la Peinture, par sa définition et par sa division, traitant cette
@@ -339,12 +339,12 @@
           pouvois me persuader d'avoir mérité l'aprobation particuliére de ceux qui connoissent, qui
           pratiquent, ou qui aiment la Peinture : Et si quelques autres êtoient poussés par mon
           exemple à travailler sur la méme matiére.</p>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page18"/>
+        <figure type="ornement"/>
       </div>
       <div type="avertissement" xml:lang="fra">
         <pb n="XV"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f17/full/full/0/native.jpg"/>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page19"/>
+        <figure type="ornement"/>
         <head>
           <hi rend="it">AVERTISSEMENT.</hi>
         </head>
@@ -377,7 +377,7 @@
       <div type="privilege" xml:lang="fra">
         <pb n="XVI"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f18/full/full/0/native.jpg"/>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page20"/>
+        <figure type="ornement"/>
         <head>
           <hi rend="it">Extrait du Privilege du Roy</hi>
         </head>
@@ -435,7 +435,7 @@
       <div type="errata" xml:lang="fra">
         <pb n="XVIII"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f20/full/full/0/native.jpg"/>
-        <figure type="ornement" id="DupuyDugrez_TraitePeinture-page22"/>
+        <figure type="ornement"/>
         <head>
           <hi rend="it">ERRATA.</hi>
         </head>
@@ -477,7 +477,7 @@
         </list>
         <pb n="XIX"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f21/full/full/0/native.jpg"/>
-        <figure type="dessin"/>
+        <figure type="dessin" xml:id="DUP_TP_p23"/>
       </div>
     </front>
     <body>
@@ -485,7 +485,7 @@
         <div2 xml:id="L1C1" type="chapitre" n="1">
           <pb n="1"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f22/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page24"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">TRAITE SUR LA PEINTURE<lb/> PREMIERE DISSERTATION,</hi>
             <lb/>
@@ -550,11 +550,12 @@
           <pb n="4"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f25/full/full/0/native.jpg"/>
           <p xml:id="DUP_TP_L1_L1C1_P8"><persName ref="#FrancoisDuJon">François Junius</persName>
-            Auteur du <bibl key="jon1591-1677PeintureAnciens1637">Traité de la Peinture des anciens</bibl>, faisant la division de ses
-            parties, nous veut persuader qu'elles sont l'invention ou l'Histoire : la couleur, la
-            lumiere et les ombres ; le clair et l'obscur ; le mouvement ; et dans le mouvement
-            l'action et la passion ; l'arrangement enfin des objets, ou la disposition des parties
-            d'un ouvrage, qu'on apelle aussi l'ordonnance.</p>
+            Auteur du <bibl key="jon1591-1677PeintureAnciens1637">Traité de la Peinture des
+              anciens</bibl>, faisant la division de ses parties, nous veut persuader qu'elles sont
+            l'invention ou l'Histoire : la couleur, la lumiere et les ombres ; le clair et
+            l'obscur ; le mouvement ; et dans le mouvement l'action et la passion ; l'arrangement
+            enfin des objets, ou la disposition des parties d'un ouvrage, qu'on apelle aussi
+            l'ordonnance.</p>
           <p xml:id="DUP_TP_L1_L1C1_P9">Mais qui ne sait pas que l'Histoire dans la Peinture est une
             sorte d'ouvrage, comme le Païsage et les Portraits, et qu'elle est diferente de
             l'invention, comme l'éfet l'est de sa cause ? C'est par la même raison qu'elle n'est pas
@@ -595,13 +596,13 @@
             /> qui peut être. Ainsi si elle n'est pas possible dans l'ordre des choses naturelles,
             ou qui semblent naturelles, on ne doit point en former un'Image. C'est aussi la pensée
               d'<persName ref="#Horace">Horace</persName>, qui a remarqué fort judicieusement dans
-            son <bibl key="HoraceArsPoetica">Epitre aux Pisons</bibl> qu'il n'y a rien de plus ridicule que de Peindre une
-            Figure Humaine qui ait la Téte d'un Cheval : Parce que c'est un assemblage tout oposé à
-            l'ordre de la nature, qui s'est elle même prescrit des bornes, qui n'offensent jamais la
-            raison. C'est un'idée extravagante, qui fait plutôt de la peine qu'elle ne donne du
-            plaisir à la veue : bien diferente de celles qui tirent leur origine de l'Histoire
-            fabuleuse comme les Sirenes, les Centaures et les Satires, où l'homme conserve sa
-            dignité, par dessus la nature de la bête.</p>
+            son <bibl key="HoraceArsPoetica">Epitre aux Pisons</bibl> qu'il n'y a rien de plus
+            ridicule que de Peindre une Figure Humaine qui ait la Téte d'un Cheval : Parce que c'est
+            un assemblage tout oposé à l'ordre de la nature, qui s'est elle même prescrit des
+            bornes, qui n'offensent jamais la raison. C'est un'idée extravagante, qui fait plutôt de
+            la peine qu'elle ne donne du plaisir à la veue : bien diferente de celles qui tirent
+            leur origine de l'Histoire fabuleuse comme les Sirenes, les Centaures et les Satires, où
+            l'homme conserve sa dignité, par dessus la nature de la bête.</p>
           <p xml:id="DUP_TP_L1_L1C1_P13">Quelque liberté que les Peintres et les Poëtes ayent pris
             dans leur Art, il n'est pas permis aux uns ni aux autres de s'eloigner de la
             vraisemblance, dont ils doivent indispensablement garder les regles. Ce n'est pas sans
@@ -795,18 +796,18 @@
             d'or.</p>
           <p xml:id="DUP_TP_L1_L1C1_P27">Si l'Histoire des Peintres de l'antiquité ramassée par
               <persName ref="#Aristodeme">Aristodeme</persName>, dont parle <persName
-                ref="#Philostrate">Philostrate</persName> dans sa Préface des <bibl key="PhilostrateEikones">images</bibl>, Si
-            cette Histoire s'étoit conservée jusques à nos jours, elle nous aprendroit agreablement
-            la vie de ceux qui furent autrefois les plus illustres de cette Profession : Quelles
-            furent les villes qui rendirent le plus d'honneur à la Peinture, Et les Rois qui ont eu
-            autrefois une genereuse complaisance à favoriser le progrés de ce bel Art. Mais cét
-            Auteur, avec dix ou douze autres qui traitoient de la même matiére, nous ont été enlevez
-            par le tems envieux de la gloire des Peintres. On peut conjecturer qu'il y avoit des
-            avantures, dont le récit nous seroit bien agreable puisque les fameux Peintres ont
-            toujours passé leur vie parmi les puissans de leur siécle : Leur pinceau ayant été
-            particuliérement consacré à représenter les personnes extraodinaires, les Princesses et
-            les Souverains, les dieux et les déesses, et enfin tout ce qui est digne d'admiration et
-            de respect parmi les hommes.</p>
+              ref="#Philostrate">Philostrate</persName> dans sa Préface des <bibl
+              key="PhilostrateEikones">images</bibl>, Si cette Histoire s'étoit conservée jusques à
+            nos jours, elle nous aprendroit agreablement la vie de ceux qui furent autrefois les
+            plus illustres de cette Profession : Quelles furent les villes qui rendirent le plus
+            d'honneur à la Peinture, Et les Rois qui ont eu autrefois une genereuse complaisance à
+            favoriser le progrés de ce bel Art. Mais cét Auteur, avec dix ou douze autres qui
+            traitoient de la même matiére, nous ont été enlevez par le tems envieux de la gloire des
+            Peintres. On peut conjecturer qu'il y avoit des avantures, dont le récit nous seroit
+            bien agreable puisque les fameux Peintres ont toujours passé leur vie parmi les puissans
+            de leur siécle : Leur pinceau ayant été particuliérement consacré à représenter les
+            personnes extraodinaires, les Princesses et les Souverains, les dieux et les déesses, et
+            enfin tout ce qui est digne d'admiration et de respect parmi les hommes.</p>
           <p xml:id="DUP_TP_L1_L1C1_P28">Comme les Athéniens ont autrefois surpassé en esprit et en
             politesse non seulement les autres Grecs, mais tous les peuples de la terre, ils se
             distinguerent principalement par l'estime qu'ils faisoient de la Peinture : Car ils
@@ -908,26 +909,27 @@
             /> parts, pour en faire la matiére de leur magnificence, et les marques de leur
             grandeur.</p>
           <p xml:id="DUP_TP_L1_L1C1_P34">Plusieurs ont crû qu'<persName ref="#Ovide"
-              >Ovide</persName> a composé ses <bibl key="OvideMetamorphoses">Metamorphoses</bibl>, où l'on voit de si belles
-            descriptions sur de peintures qui se voïoient à <placeName ref="#Rome">Rome</placeName>
-            pendant le siécle d'<persName ref="#Auguste">Auguste</persName> : Et nous remarquons que
-            cét Art a suggeré de nouvelles inventions aux Poëtes, desquelles <persName ref="#Homere"
-              >Homere</persName> ne s'étoit pas servi. Ainsi <persName ref="#Virgile"
-              >Virgile</persName> a suivi le genie de quelque excellent Peintre lors qu'aïant
-            conduit <persName ref="#Enee">Enée</persName> au milieu de la ville de <placeName
-              ref="#Carthage">Cartage</placeName>, et dans le Temple que <persName ref="#Didon"
-              >Didon</persName> faisoit êlever avec beaucoup de magnificence à l'honneur de la
-            Déesse <persName ref="#Junon">Junon</persName> : Ce Poëte fait remarquer à son Héros
-            l'Histoire de la prise de <placeName ref="#Troie">Troye</placeName> representée dans des
-            tableaux où il se reconnut lui-méme, parmi les Grecs et les Troyens. Je ne doute point
-            que ces Peintures ne fussent éfectivement dans <placeName ref="#Rome">Rome</placeName>,
-            ou dans <placeName ref="#Naples">Naples</placeName>, et <persName ref="#Virgile"
-              >Virgile</persName> les avoit assurement devant ses yeux, lors qu'il travailloit à cét
-            endroit de son <bibl key="VirgilleAeneis">Eneïde</bibl>. Si bien que la Peinture, dont l'usage n'a été connu
-            que long-tems aprés celui de la Sculpture, ne sauroit lui contester l'ancienneté. Il est
-            vrai que ce desavantage lui est même favorable, parce qu'êtant un Art plus dificile et
-            plus surprenant par ses éféts, elle n'a pû arriver à sa perfection qu'aprés plusieurs
-            siécles, lorsque la Sculpture étoit déja fort connue parmi les hommes.</p>
+              >Ovide</persName> a composé ses <bibl key="OvideMetamorphoses">Metamorphoses</bibl>,
+            où l'on voit de si belles descriptions sur de peintures qui se voïoient à <placeName
+              ref="#Rome">Rome</placeName> pendant le siécle d'<persName ref="#Auguste"
+              >Auguste</persName> : Et nous remarquons que cét Art a suggeré de nouvelles inventions
+            aux Poëtes, desquelles <persName ref="#Homere">Homere</persName> ne s'étoit pas servi.
+            Ainsi <persName ref="#Virgile">Virgile</persName> a suivi le genie de quelque excellent
+            Peintre lors qu'aïant conduit <persName ref="#Enee">Enée</persName> au milieu de la
+            ville de <placeName ref="#Carthage">Cartage</placeName>, et dans le Temple que <persName
+              ref="#Didon">Didon</persName> faisoit êlever avec beaucoup de magnificence à l'honneur
+            de la Déesse <persName ref="#Junon">Junon</persName> : Ce Poëte fait remarquer à son
+            Héros l'Histoire de la prise de <placeName ref="#Troie">Troye</placeName> representée
+            dans des tableaux où il se reconnut lui-méme, parmi les Grecs et les Troyens. Je ne
+            doute point que ces Peintures ne fussent éfectivement dans <placeName ref="#Rome"
+              >Rome</placeName>, ou dans <placeName ref="#Naples">Naples</placeName>, et <persName
+              ref="#Virgile">Virgile</persName> les avoit assurement devant ses yeux, lors qu'il
+            travailloit à cét endroit de son <bibl key="VirgilleAeneis">Eneïde</bibl>. Si bien que
+            la Peinture, dont l'usage n'a été connu que long-tems aprés celui de la Sculpture, ne
+            sauroit lui contester l'ancienneté. Il est vrai que ce desavantage lui est même
+            favorable, parce qu'êtant un Art plus dificile et plus surprenant par ses éféts, elle
+            n'a pû arriver à sa perfection qu'aprés plusieurs siécles, lorsque la Sculpture étoit
+            déja fort connue parmi les hommes.</p>
           <p xml:id="DUP_TP_L1_L1C1_P35">On sait que <persName ref="#MichelAnge">Michel
               Ange</persName> est également reconnu <pb n="22"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f43/full/full/0/native.jpg"
@@ -984,12 +986,13 @@
             Peinture, Sculpture et Architecture, sans lequel les choses les plus somptueuses sont
             ridicules.</p>
           <p xml:id="DUP_TP_L1_L1C1_P37">J'ay été quelque-tems surpris que <persName
-              ref="#Philostrate">Philostrate</persName> eut osé dire dans la Préface de ses
-            <bibl key="PhilostrateEikones">Images</bibl> qu'il n'apartient qu'aux honétes gens de connoître et d'aimer la
-            Peinture : Mais je voi que cela va passer pour une maxime à l'avenir en <placeName
-              ref="#France">France</placeName>, comme dans le siécle de cét Auteur à <placeName
-              ref="#Rome">Rome</placeName>, et que ce sera, peut-être, une marque d'une éducation
-            fort negligée dans les personnes qui n'en connoîtront point le mérite.</p>
+              ref="#Philostrate">Philostrate</persName> eut osé dire dans la Préface de ses <bibl
+              key="PhilostrateEikones">Images</bibl> qu'il n'apartient qu'aux honétes gens de
+            connoître et d'aimer la Peinture : Mais je voi que cela va passer pour une maxime à
+            l'avenir en <placeName ref="#France">France</placeName>, comme dans le siécle de cét
+            Auteur à <placeName ref="#Rome">Rome</placeName>, et que ce sera, peut-être, une marque
+            d'une éducation fort negligée dans les personnes qui n'en connoîtront point le
+            mérite.</p>
           <p xml:id="DUP_TP_L1_L1C1_P38">Les Privileges que le <persName ref="#CharlesVII">Roi
               Charles VII</persName> avoit autrefois acordé aux Peintres et Vitriers par Lettres
             Patentes ne sont pas une preuve qu'on connoissoit la finesse de la Peinture : Car alors
@@ -1366,14 +1369,14 @@
               Ville</placeName>.</p>
           <p xml:id="DUP_TP_L1_L1C1_P62">
             <hi rend="it" xml:lang="lat">MULTA</hi>
-            <figure type="dessin"/>
+            <figure type="ornement"/>
             <hi rend="it" xml:lang="lat">RENASCENTUR.</hi>
           </p>
         </div2>
         <div2 xml:id="L1C2" type="chapitre" n="2">
           <pb n="42"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f63/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page65"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">SUPPLEMENT A LA PREMIERE DISSERTATION</hi>
             <lb/>
@@ -2451,7 +2454,7 @@
         <div2 xml:id="L2C1" type="chapitre" n="1">
           <pb n="83"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f104/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page106"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">TRAITE SUR LA PEINTURE <lb/> DISSERTATION SECONDE,</hi>
             <lb/>
@@ -3235,7 +3238,7 @@
           <p xml:id="DUP_TP_L2_L2C1_P57">
             <hi rend="capitals" xml:lang="ita">NATURA DUCE.</hi>
           </p>
-          <figure type="dessin"/>
+          <figure type="ornement"/>
           <p xml:id="DUP_TP_L2_L2C1_P58">
             <hi rend="capitals" xml:lang="ita">ARTE COMITE.</hi>
           </p>
@@ -3243,7 +3246,7 @@
         <div2 xml:id="L2C2" type="chapitre" n="2">
           <pb n="121"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f142/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page144"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">SUPPLEMENT<lb/> A LA SECONDE DISSERTATION,<lb/></hi>
             <hi rend="it">De la Structure et des proportions du corps humain.</hi>
@@ -4495,25 +4498,14 @@
               travail, pourveu qu'on l'empéche de secher promptement ; ce qu'on fait par le moïen de
               linges trempez dans de l'eau fraiche, lesquels on mouille de tems en tems, et dont on
               couvre l'ouvrage quand on ne travaille pas.</p>
-           
-            <!--A CORRIGER-->
-            
-            <!--cette figure est enregistrée comme un dessin, ce qui a l'air d'être une erreur car la même figure à la ligne 341 de ce document est indiquée comme un ornement. selon Anna il faudrait supprimer le lien vers le manifeste et juste indiquer ça comme un ornement-->
-            
-            
-            <!--Encodage erroné :
+
             <pb n="np"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f197/full/full/0/native.jpg"/>
-            <figure type="dessin"/>-->
-            
-            <!--A remplacer par :
-            <figure type="ornement" id="DupuyDugrez_TraitePeinture-page199"/>-->
-            
-            <!--A CORRIGER-->
-            
+            <figure type="ornement"/>
+
             <pb n="np"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f198/full/full/0/native.jpg"/>
-            <figure type="dessin"/>
+            <figure type="dessin" xml:id="DUP_TP_p200"/>
           </div3>
         </div2>
       </div1>
@@ -4521,7 +4513,7 @@
         <div2 xml:id="L3C1" type="chapitre" n="1">
           <pb n="177"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f199/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page201"/>
+          <figure type="ornement"/>
           <p xml:id="DUP_TP_L3_L3C1_P1">
             <hi rend="capitals">TRAITE SUR LA PEINTURE.<lb/> TROISIEME DISSERTATION</hi>
             <lb/>
@@ -5602,6 +5594,7 @@
             cette partie de la Peinture, que nous apellons le Coloris.</p>
           <pb n="np"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f250/full/full/0/native.jpg"/>
+          <figure type="ornement"></figure>
           <p xml:id="DUP_TP_L3_L3C1_P89"><hi rend="it"><hi rend="capitals">LUCIS ET
             UMBRÆ</hi></hi>.</p>
           <p xml:id="DUP_TP_L3_L3C1_P90">
@@ -5611,7 +5604,7 @@
         <div2 xml:id="L3C2" type="chapitre" n="2">
           <pb n="229"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f251/full/full/0/native.jpg"/>
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page253"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">SUPPLEMENT<lb/>A LA TROISIEME DISSERTATION</hi>
             <lb/>
@@ -6790,7 +6783,7 @@
         <div2 xml:id="L4C1" type="chapitre" n="1">
           <pb n="283"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f305/full/full/0/native.jpg"/>
-          <figure type="ornement  id="DupuyDugrez_TraitePeinture-page307"/"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">TRAITE SUR LA PEINTURE. DISSERTATION QUATRIEME</hi>
             <hi rend="it">De la Composition.</hi>
@@ -8100,35 +8093,20 @@
               <hi rend="capitals">DIVINA</hi>
             </hi>
           </p>
-          <figure type="dessin"/>
+          <figure type="ornement"/>
           <p xml:id="DUP_TP_L4_L4C1_P100">
             <hi rend="it">
               <hi rend="capitals">PALLADIS ARTE.</hi>
             </hi>
           </p>
-          
-          <!--A CORRIGER--> 
-          
-          <!--Le lien de manifeste ci-dessous renvoie vers une gravure, qui devrait être un type=ornement et non un type=dessin-->
-         
-         <!--Encodage erroné
           <pb n="np"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f366/full/full/0/native.jpg"/>
-          <figure type="dessin"/>
-        </div2>-->
-          
-          <!--A remplacer par:          
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page368"/>-->
-          
-          <!--Je pense que le lien ci-dessous est peut-être une erreur car il renvoie une image de la page entière et c'est le seul dans ce document que j'ai trouvé pour l'instant. A mon avis il faudrait le supprimer.-->
-          
-       <!-- <div2 xml:id="L4C2" type="chapitre" n="2">
+          <figure type="ornement"/>
+        </div2>
+        <div2 xml:id="L4C2" type="chapitre" n="2">
           <pb n="345"
-            facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f367/full/full/0/native.jpg"/>-->
-          
-          <!--A CORRIGER-->
-          
-          <figure type="ornement" id="DupuyDugrez_TraitePeinture-page369"/>
+            facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f367/full/full/0/native.jpg"/>
+          <figure type="ornement"/>
           <p xml:id="DUP_TP_L4_L4C2_P1">
             <hi rend="capitals">TRAITE D'OPTIQUE.<lb/><hi rend="it"> POUR SUPLEMENT A LA</hi></hi>
             <hi rend="it">quatriême Dissertation sur la Composition.</hi>
@@ -8914,7 +8892,7 @@
     <back type="postface">
       <pb n="381"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f403/full/full/0/native.jpg"/>
-      <figure type="ornement" id="DupuyDugrez_TraitePeinture-page405"/>
+      <figure type="ornement"/>
       <head>Table des Principales Marieres.</head>
       <p xml:id="DUP_TP_P2"><hi rend="capitals">L'Auteur</hi> donne les raisons qui l'ont obligé
         d'écrire sur la Peinture, il expose le Plan de son Ouvrage, et declare que c'est
@@ -9024,7 +9002,7 @@
           >Dufresnoy</persName>, <persName ref="#RogerDePiles">Depiles</persName>, <persName
           ref="#AndreFelibien">Felibien</persName> et l'<persName>Anonime</persName>, Page 81.et
         82.</p>
-      <p xml:id="DUP_TP_P11">Seconde Dissertation, Du <figure type="dessin"/></p>
+      <p xml:id="DUP_TP_P11">Seconde Dissertation, Du <figure type="ornement"/></p>
       <p xml:id="DUP_TP_P12"><hi rend="capitals">D'où</hi>vient l'ignorance du Dessein, Page 83.et
         84. Le Dessein comparé à la Grammaire, Page 85. </p>
       <pb n="386"
@@ -9239,22 +9217,22 @@
       <p xml:id="DUP_TP_P33">Fin de la Table.</p>
       <pb n="np"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f419/full/full/0/native.jpg"/>
-      <figure type="dessin"/>
-      <figure type="dessin"/>
+      <figure type="schema" xml:id="DUP_TP_p421_1"/>
+      <figure type="schema" xml:id="DUP_TP_p421_2"/>
       <pb n="np"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f420/full/full/0/native.jpg"/>
-      <figure type="dessin"/>
-      <figure type="dessin"/>
+      <figure type="schema" xml:id="DUP_TP_p422_1"/>
+      <figure type="schema" xml:id="DUP_TP_p422_2"/>
       <pb n="np"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f421/full/full/0/native.jpg"/>
-      <figure type="dessin"/>
-      <figure type="dessin"/>
+      <figure type="schema" xml:id="DUP_TP_p423_1"/>
+      <figure type="schema" xml:id="DUP_TP_p423_2"/>
       <pb n="np"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f422/full/full/0/native.jpg"/>
-      <figure type="dessin"/>
+      <figure type="schema" xml:id="DUP_TP_p424"/>
       <pb n="np"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f423/full/full/0/native.jpg"/>
-      <figure type="dessin"/>
+      <figure type="schema" xml:id="DUP_TP_p425"/>
     </back>
   </text>
 </TEI>
