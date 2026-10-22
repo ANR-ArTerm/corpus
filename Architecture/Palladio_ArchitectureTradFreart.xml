@@ -104,10 +104,11 @@
       <div type="lettre">
         <figure type="ornement"/>
         <head> A MES TRES-CHERS FRERES <persName>JEAN FREART</persName>, ESCUYER SIEVR DE
-            <placeName>CHANTELOY</placeName>, CONSEILLER DU ROY, ET COMMISSAIRE PROVINCIAL EN
-            <placeName>CHAMPAGNE</placeName>, <placeName>ALSACE</placeName>,
-            <placeName>LORRAINE</placeName>, ET <placeName>ALLEMAGNE</placeName>. ET <persName>PAUL
-            FREART</persName>, ESCUYER SIEUR DE <placeName>CHANTELOV</placeName>. CONSEILLER, ET
+            <placeName>CHANTELOU</placeName>, CONSEILLER DU ROY, ET COMMISSAIRE PROVINCIAL EN
+            <placeName ref="#Champagne">CHAMPAGNE</placeName>, <placeName ref="#Alsace"
+            >ALSACE</placeName>, <placeName ref="#Lorraine">LORRAINE</placeName>, ET <placeName
+            ref="#Allemagne">ALLEMAGNE</placeName>. ET <persName ref="#PaulFreartDeChantelou">PAUL
+            FREART</persName>, ESCUYER SIEUR DE <placeName>CHANTELOU</placeName>. CONSEILLER, ET
           MAISTRE D'HOSTEL ORDINAIRE DU ROY. </head>
         <p xml:id="PAL_ATF_lettre_P1"><figure type="lettrine"/><hi rend="capitals">MES TRES-CHERS
             FRERES</hi>, La fortune de cette version de <persName ref="#AndreaPalladio"
@@ -116,25 +117,27 @@
           mettre au jour, par une rencontre inespérée des planches originales de cet <persName
             ref="#AndreaPalladio">Autheur</persName>, après m'avoir envié, dans la conioncture la
           plus favorable qui sera jamais pour moy, l'honneur de la voir entre les livres de
-          l'Imprimerie Royale, lors qu'elle estoit si illustre et si fleurissante. Vous savez,
-          l'estime que <persName>Monseigneur de Noyers</persName> faisoit de <bibl>ce livre</bibl>,
-          et avec quelle affection il me chargea de le rendre intelligible aux François, quand il
-          resolut d'achever le <objectName>Louvre</objectName>, dans la pensée qu'il avoit de faire
+          l'Imprimerie Royale, lors qu'elle estoit si illustre et si fleurissante. Vous sçavez,
+          l'estime que <persName ref="#FrancoisSubletDeNoyers">Monseigneur de Noyers</persName>
+          faisoit de <bibl>ce livre</bibl>, et avec quelle affection il me chargea de le rendre
+          intelligible aux François, quand il resolut d'achever le <objectName
+            ref="#PalaisDuLouvreParis">Louvre</objectName>, dans la pensée qu'il avoit de faire
           connoistre en mesme temps par la theorie et par la pratique, la noblesse de l'Architecture
           reguliere; et de bannir cette capricieuse et monstrueuse façon de bastir, que quelques
-          modernes ont introduite malheureusement comme une heresie dans l'art, par je ne say quel
+          modernes ont introduite malheureusement comme une heresie dans l'art, par je ne sçay quel
           libertinage contre ses preceptes, et contre la raison mesme. J'en ay assez, dit mon
           sentiment dans le <bibl>Parallele de l'Architecture antique avec la moderne</bibl>, que je
           viens de vous offrir de la mesme sorte que je fais encore cette version; c'est à dire, que
           je vous prie, mes très-chers frères, d'estre les depositaires de ces deux ouvrages, qui
-          estoient voüez, à <persName>Monseigneur de Noyers</persName>, dont la memoire nous est à
-          tous trois en une mesme veneration. Il honora celui-cy qui fut achevé prés de deux ans
-          avant sa retraite de la Cour, d'un agreement et d'une estime si favorable, que parmy la
-          foule et presque l'accablement des affaires de l'Estat, dont il soustenoit le plus grand
-          faix, il eut la bonté pour moy, et la patience de voir et d'examiner mon manuscrit, et
-          mesme d'y corriger quelque chose de sa main, dont je garde cherement les feüilles ; et
-          donna ensuite à mon travail une approbation si avantageuse, qu'il le jugea digne de
-          l'Imprimerie du <objectName>Louvre</objectName>, et commanda aussi-tost qu'on y
+          estoient voüez, à <persName ref="#FrancoisSubletDeNoyers">Monseigneur de
+          Noyers</persName>, dont la memoire nous est à tous trois en une mesme veneration. Il
+          honora celui-cy qui fut achevé prés de deux ans avant sa retraite de la Cour, d'un
+          agreement et d'une estime si favorable, que parmy la foule et presque l'accablement des
+          affaires de l'Estat, dont il soustenoit le plus grand faix, il eut la bonté pour moy, et
+          la patience de voir et d'examiner mon manuscrit, et mesme d'y corriger quelque chose de sa
+          main, dont je garde cherement les feüilles ; et donna ensuite à mon travail une
+          approbation si avantageuse, qu'il le jugea digne de l'Imprimerie du <objectName
+            ref="#PalaisDuLouvreParis">Louvre</objectName>, et commanda aussi-tost qu'on y
           travaillast en diligence: mais l'entreprise estant grande, et de longue haleine, pour la
           quantité des planches dont le Livre est composé, et que l'on gravoit <pb
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f12/full/full/0/native.jpg"/>
@@ -181,7 +184,8 @@
           profession, et qu'on peut tenir ce Livre comme un Palladium de la vraye Architecture. Je
           suis, </p>
         <p xml:id="PAL_ATF_lettre_P2"> MES CHERS FRERES, Vostre très-humble et tres affectionné
-          serviteur, <hi rend="capitals"><persName>DE CHAMBRAY</persName></hi>.</p>
+          serviteur, <hi rend="capitals"><persName ref="#RolandFreartDeChambray">DE
+              CHAMBRAY</persName></hi>.</p>
         <p>De <placeName ref="#Paris">Paris</placeName><date when="1650-6-1">le premier de Juin
             1650</date>. </p>
       </div>
