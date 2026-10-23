@@ -2676,12 +2676,12 @@
         <optional>
           <ref name="form"/>
         </optional>
-        <optional>
+        <zeroOrMore>
           <ref name="def"/>
-        </optional>
-        <optional>
+        </zeroOrMore>
+        <zeroOrMore>
           <ref name="ref"/>
-        </optional>
+        </zeroOrMore>
         <zeroOrMore>
           <ref name="model.global"/>
         </zeroOrMore>
