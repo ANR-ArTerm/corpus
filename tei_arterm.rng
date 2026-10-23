@@ -2666,7 +2666,7 @@
         <ref name="figure"/>
       </optional>
       <ref name="attlist.entry"/>
-      <ref name="form"/>
+      <optional><ref name="form"/></optional>
       <optional>
         <ref name="def"/>
       </optional>
