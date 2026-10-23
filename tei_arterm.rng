@@ -2662,6 +2662,9 @@
   </define>
   <define name="entry">
     <element name="entry">
+      <optional>
+        <ref name="figure"/>
+      </optional>
       <ref name="attlist.entry"/>
       <ref name="form"/>
       <optional>
@@ -2669,9 +2672,6 @@
       </optional>
       <optional>
         <ref name="ref"/>
-      </optional>
-      <optional>
-        <ref name="figure"/>
       </optional>
     </element>
   </define>
