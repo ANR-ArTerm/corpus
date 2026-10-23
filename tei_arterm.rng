@@ -2670,24 +2670,23 @@
     <empty/>
   </define>
   <define name="entry">
-    <zeroOrMore><element name="entry">
-      <optional>
-        <ref name="figure"/>
-      </optional>
+    <element name="entry">
       <ref name="attlist.entry"/>
-      <optional>
-        <ref name="model.global"/>
-      </optional>
-      <optional>
-        <ref name="form"/>
-      </optional>
-      <optional>
-        <ref name="def"/>
-      </optional>
-      <optional>
-        <ref name="ref"/>
-      </optional>
-    </element></zeroOrMore>
+      <interleave>
+        <optional>
+          <ref name="form"/>
+        </optional>
+        <optional>
+          <ref name="def"/>
+        </optional>
+        <optional>
+          <ref name="ref"/>
+        </optional>
+        <zeroOrMore>
+          <ref name="model.global"/>
+        </zeroOrMore>
+      </interleave>
+    </element>
   </define>
   <define name="attlist.entry" combine="interleave">
     <ref name="tei_att.global.attributes"/>
