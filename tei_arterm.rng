@@ -1915,13 +1915,13 @@
     </optional>
   </define>
   <define name="def">
-    <element name="def">
+    <zeroOrMore><element name="def">
       <ref name="attlist.def"/>
       <ref name="macro.phraseSeq"/>
       <optional>
         <ref name="bibl"/>
       </optional>
-    </element>
+    </element></zeroOrMore>
   </define>
   <define name="attlist.def" combine="interleave">
     <ref name="tei_att.global.attributes"/>
