@@ -2670,7 +2670,7 @@
     <empty/>
   </define>
   <define name="entry">
-    <element name="entry">
+    <zeroOrMore><element name="entry">
       <optional>
         <ref name="figure"/>
       </optional>
@@ -2687,7 +2687,7 @@
       <optional>
         <ref name="ref"/>
       </optional>
-    </element>
+    </element></zeroOrMore>
   </define>
   <define name="attlist.entry" combine="interleave">
     <ref name="tei_att.global.attributes"/>
