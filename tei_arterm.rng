@@ -2664,6 +2664,9 @@
       <optional>
         <ref name="def"/>
       </optional>
+      <optional>
+        <ref name="ref"/>
+      </optional>
     </element>
   </define>
   <define name="attlist.entry" combine="interleave">
