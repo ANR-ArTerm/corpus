@@ -119,31 +119,31 @@
     </Alberti_Bartoli_Architettura>
 
     <Piles_Abrege_Peintres>
-        <certainty xml:id="LesCorneilles" locus="value">
-            <desc> Pourrait correspondre aux peintres <persName ref="#CornelisIIBloemaert"> Cornelis
-                    II Bloemaert</persName> et à <persName ref="#CornelisVanHaarlem"> Cornelis Van
-                    Haarlem</persName></desc>
+        <certainty xml:id="NicolasPoussinMoise" locus="value">
+            <desc> Il est possible que De Piles fasse ici référence à l'une de ces toiles de Nicolas
+                Poussin : la <objectName ref="#NicolasPoussinMoisePointelLouvre">version
+                    Pointel</objectName>, la <objectName ref="#NicolasPoussinMoiseLeNotreLouvre">
+                    version Le Notre</objectName> ou celles exposées à la <objectName
+                    ref="#NicolasPoussinMoiseGemaldegalerieAlteMeisterDresde">Gemaldegalerie de
+                    Dresde</objectName> et à <objectName
+                    ref="#NicolasPoussinMoiseAshmoleanMuseumOxford">l'Ashmolean Museum
+                    d'Oxford.</objectName></desc>
+        </certainty>
+        <certainty xml:id="TitienSaintJerome" locus="value">
+            <desc> Il est possible que l'œuvre citée par Piles soit <objectName ref="#TitienSaintJeromeBasiliqueSantaMariaDellaSaluteVenise">le petit saint Jérôme</objectName> sur un
+                panneau de bois conservé dans la basilique.</desc>
         </certainty>
         <certainty xml:id="JanVanDerStraetChambrePalazzoVecchio" locus="value">
             <desc> On ne sait pas exactement à quelle pièce Roger de Piles fait référence ici, il
-                pourrait s'agir du <objectName ref="SalleGualdradaPalazzoVecchio">plafond de la
+                pourrait s'agir du <objectName ref="#SalleGualdradaPalazzoVecchio">plafond de la
                     chambre d'Éléonore de Tolède</objectName> ou des panneaux peints pour le
-                    <objectName ref="StudioloFrancoisIMedicis">studiolo de François Ier de
-                    Médicis</objectName> ou encore pour le <objectName ref="StudioloCosmeIMedicis"
+                    <objectName ref="#StudioloFrancoisIMedicis">studiolo de François Ier de
+                    Médicis</objectName> ou encore pour le <objectName ref="#StudioloCosmeIMedicis"
                     >studiolo de Cosme Ier de Médicis</objectName>. </desc>
-        </certainty>
-        <certainty xml:id="MaitreBlort" locus="value">
-            <desc> Il est probable que De Piles fasse ici référence à <persName
-                    ref="#AbrahamBloemaert">Abraham Bloemaert</persName> mais l'orthographe du nom
-                ayant varié au cours de la rédaction, cela demeure une supposition. </desc>
-        </certainty>
-        <certainty xml:id="PeterLelyAnglois" locus="value">
-            <desc> Il est possible que De Piles fasse ici référence à <persName ref="#PeterLely"
-                    >Peter Lely</persName>.</desc>
         </certainty>
         <certainty xml:id="DoublePortraitSaskiaRembrandt" locus="value">
             <desc> L'on ne sait pas si De Piles fait ici référence à un double portrait. Il existe
-                néanmoins un <objectName ref="RembrandtAutoportraitAvecSaskiaRijksmuseum">portrait
+                néanmoins un <objectName ref="#RembrandtAutoportraitAvecSaskiaRijksmuseum">portrait
                     gravé des époux</objectName> que l'on signale donc.</desc>
         </certainty>
         <certainty xml:id="PieterCoeckeVanAelstTenture" locus="value">
@@ -156,12 +156,12 @@
         <certainty xml:id="WillemKeyPortraitFerdinandAlvareDeTolede" locus="value">
             <desc> L'auteur ne faisant pas référence à un portrait précis, il pourrait s'agir du
                     <objectName
-                    ref="WillemKeyPortraitMiCorpsFerdinandAlvareDeToledeFoundationCasaDeAlba"
+                    ref="#WillemKeyPortraitMiCorpsFerdinandAlvareDeToledeFoundationCasaDeAlba"
                     >portrait à mi-corps</objectName> ou du <objectName
-                    ref="WillemKeyPortraitFerdinandAlvareDeToledeFoundationCasaDeAlba">portrait au
+                    ref="#WillemKeyPortraitFerdinandAlvareDeToledeFoundationCasaDeAlba">portrait au
                     format plus resseré</objectName>, tous deux conservés au Palais Liria, à la
                 Foundation Casa de Alba, ou encore <objectName
-                    ref="WillemKeyPortraitFerdinandAlvareDeToledeCollectionPrivee">une version
+                    ref="#WillemKeyPortraitFerdinandAlvareDeToledeCollectionPrivee">une version
                     actuellement conservée en collection particulière</objectName>. </desc>
         </certainty>
         <certainty xml:id="JeanCousinJugementDernier" locus="value">
@@ -265,4 +265,12 @@
                     conservé à la National Gallery à Washington</objectName></desc>
         </certaninty>
     </Lomazzo_TraicteProportion>
+    <Martin_ArchitectureAlberti>
+        <certainty xml:id="TempleAthenaMartin" locus="value">
+            <desc>Deux hypothèses d'identification possibles : <object
+                    ref="#TempleAthenaNikeAthenes">Temple d'Athéna Nikè</object>, <objectName
+                    ref="#AncienTempleAthenaPoliasAthenes">Ancien Temple
+                d'Athéna</objectName></desc>
+        </certainty>
+    </Martin_ArchitectureAlberti>
 </textes>
