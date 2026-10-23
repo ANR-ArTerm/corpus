@@ -1918,6 +1918,9 @@
     <element name="def">
       <ref name="attlist.def"/>
       <ref name="macro.phraseSeq"/>
+      <optional>
+        <ref name="bibl"/>
+      </optional>
     </element>
   </define>
   <define name="attlist.def" combine="interleave">
@@ -2669,9 +2672,6 @@
       </optional>
       <optional>
         <ref name="figure"/>
-      </optional>
-      <optional>
-        <ref name="bibl"/>
       </optional>
     </element>
   </define>
