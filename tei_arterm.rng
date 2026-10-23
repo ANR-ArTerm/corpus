@@ -2670,6 +2670,9 @@
       <optional>
         <ref name="figure"/>
       </optional>
+      <optional>
+        <ref name="bibl"/>
+      </optional>
     </element>
   </define>
   <define name="attlist.entry" combine="interleave">
