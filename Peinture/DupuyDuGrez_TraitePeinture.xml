@@ -446,35 +446,36 @@
           lecteurs sont priez d'excuser plus particulierement.</p>
         <list rend="bulleted">
           <!--renvois-->
-          <item><hi rend="capitals">A</hi> La page 4, l. 8, au lieu de qu'on apelle lisez ce qu'on
+          <!--besoin de vérifier si les ids des paragraphes correspondent bien-->
+          <item><hi rend="capitals">A</hi> La page <ptr type="renvoi" target="">4</ptr>, <ptr type="renvoi" target="">l</ptr>. <ptr type="renvoi" target="">8</ptr>, au lieu de qu'on apelle lisez ce qu'on
             apelle.</item>
-          <item>Page 9 lig. 14, lisez il m'a toujours.</item>
-          <item>Page 10 lig. 4, lisez fait au lieu de faite.</item>
-          <item>Pag. 11 lig. 2, lisez suivie, et lig. 12 lisez proposé.</item>
-          <item>Pag. 16 lig. derniere, lisez qui avoient.</item>
-          <item>P. 31, l. 14, lisez, lequel est, au lieu de qui est.</item>
-          <item>P. 33, l. 3, lisez des ouvrages et non pas de.</item>
-          <item> P. 50, lig. 25, efacez avoit nom et lisez un autre <persName ref="#Dinias"
+          <item><ptr type="renvoi" target="#DUP_TP_L1_L1C1_P16">Page 9</ptr> lig. 14, lisez il m'a toujours.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L1_L1C1_P17">Page 10</ptr> lig. 4, lisez fait au lieu de faite.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L1_L1C1_P19">Pag. 11</ptr> lig. 2, lisez suivie, et lig. 12 lisez proposé.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L1_L1C1_P26">Pag. 16</ptr> lig. derniere, lisez qui avoient.</item>
+          <item>P. <ptr type="renvoi" target="DUP_TP_L1_L1C1_P45">31</ptr>, <ptr type="renvoi" target="">l</ptr>. <ptr type="renvoi" target="">14</ptr>, lisez, lequel est, au lieu de qui est.</item>
+          <item>P. <ptr type="renvoi" target="DUP_TP_L1_L1C1_P48">33</ptr>, <ptr type="renvoi" target="">l</ptr>. <ptr type="renvoi" target="">3</ptr>, lisez des ouvrages et non pas de.</item>
+          <item> <ptr type="renvoi" target="DUP_TP_L1_L1C2_P11">P. 50</ptr>, lig. 25, efacez avoit nom et lisez un autre <persName ref="#Dinias"
               >Dinias</persName>.</item>
-          <item>P. 52, l. 11, lisez qui regnerent, au lieu de qui durerent.</item>
-          <item> P. 57, lig 22, lisez <persName ref="#Antiphile">Antiphile</persName>.</item>
-          <item>P. 59, lig. 18, lisez l'Atitude.</item>
-          <item>P. 59, lig. 18, lisez au reste.</item>
-          <item>P. 52, lig. 10, lisez au reste.</item>
-          <item>P. 97, lig. 15 et 16, lisez d'aprés des nudités, d'apres des draperies.</item>
-          <item>P. 114, lig. 18, lisez d'aprés le modele.</item>
-          <item>P. 145, lig. 28, lisez et de la ceinture.</item>
-          <item>P. 171, lig. 28, lisez d'aprés le modele.</item>
-          <item>P. 212, lisez à son bonnet, et à lig. 2, dans ses genoux.</item>
-          <item>P. 213, lig. 30, lisez <persName ref="#Constantin">Constantin</persName> et à lig.
+          <item>P. <ptr type="renvoi" target="DUP_TP_L1_L1C2_P14">52</ptr>, <ptr type="renvoi" target="">l</ptr>. <ptr type="renvoi" target="">11</ptr>, lisez qui regnerent, au lieu de qui durerent.</item>
+          <item> <ptr type="renvoi" target="DUP_TP_L1_L1C2_P22">P. 57</ptr>, lig 22, lisez <persName ref="#Antiphile">Antiphile</persName>.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L1_L1C2_P26">P. 59</ptr>, lig. 18, lisez l'Atitude.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L1_L1C2_P26">P. 59</ptr>, lig. 18, lisez au reste.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L1_L1C2_P14">P. 52</ptr>, lig. 10, lisez au reste.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L2_L2C1_P24">P. 97</ptr>, lig. 15 et 16, lisez d'aprés des nudités, d'apres des draperies.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L2_L2C1_P50">P. 114</ptr>, lig. 18, lisez d'aprés le modele.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L2_L2C2_L2C2SC7_P3">P. 145</ptr>, lig. 28, lisez et de la ceinture.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L2_L2C2_L2C2SC16_P16">P. 171</ptr>, lig. 28, lisez d'aprés le modele.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L3_L3C1_P62">P. 212</ptr>, lisez à son bonnet, et à lig. 2, dans ses genoux.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L3_L3C1_P63">P. 213</ptr>, lig. 30, lisez <persName ref="#Constantin">Constantin</persName> et à lig.
             20, lisez Choeur.</item>
-          <item>P. 221, lig. 7, lisez fut au reste une ville, et lig. 22, lisez cela est d'un grand
+          <item><ptr type="renvoi" target="DUP_TP_L3_L3C1_P77">P. 221</ptr>, lig. 7, lisez fut au reste une ville, et lig. 22, lisez cela est d'un grand
             relief.</item>
-          <item>P. 244, lig. derniere, lisez s'en porteroient, non pas s'emporteroient.</item>
-          <item> P. 269, lig. 28, lisez de placer.</item>
-          <item>P. 304, lig. 17, lisez idées.</item>
-          <item>P. 314, lig. 8, lisez des meilleurs Peintres.</item>
-          <item>P. 318, lig. 8, lisez de bien alterer non pas de bien atirer.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L3_L3C2_L3C2SC3_P8">P. 244</ptr>, lig. derniere, lisez s'en porteroient, non pas s'emporteroient.</item>
+          <item> <ptr type="renvoi" target="DUP_TP_L3_L3C2_L3C2SC8_P7">P. 269</ptr>, lig. 28, lisez de placer.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L4_L4C1_P31">P. 304</ptr>, lig. 17, lisez idées.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L4_L4C1_P46">P. 314</ptr>, lig. 8, lisez des meilleurs Peintres.</item>
+          <item><ptr type="renvoi" target="DUP_TP_L4_L4C1_P50">P. 318</ptr>, lig. 8, lisez de bien alterer non pas de bien atirer.</item>
         </list>
         <pb n="XIX"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f21/full/full/0/native.jpg"/>
@@ -674,7 +675,7 @@
             l'Invention qui est un talent naturel plutôt qu'aquis : ni avec la disposition,
             l'ornement et la convenance, <pb n="10"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f31/full/full/0/native.jpg"
-            /> qui dépendent du jugement au Peintre et qui, avec l'Invention, sont comprises sous la
+            /> qui dépendent du jugement du Peintre et qui, avec l'Invention, sont comprises sous la
             partie qui s'apelle la Composition. On peut dire là méme chose de la partition que
               <persName ref="#FrancoisDuJon">Junius</persName> a faite de la Peinture, puisque
             l'Invention et la Disposition sont visiblement des dependences de la Composition.</p>
@@ -7783,7 +7784,7 @@
               ref="#NicolasTournier">Tournier</persName> au contraire a autant négligé la belle
             Composition qu'il a été merveilleusement exact et correct dans le Dessein : Les fonds de
             ses Tableaux sont tous obscurs ; sa Bataille de Constantin n'est qu'un Groupe assez
-            confus ; quoi qu'on y remarque de belles figures à mesure que le naturel dont il s'est
+            confus ; quoi qu'on y remarque de belles figures à mesure que le naturel dont il s'estrev
             servi a été beau. À mon avis, ce Peintre avoit le talent merveilleux pour les Portraits,
             parce qu'il copioit exactement la nature dans ses figures.</p>
           <p xml:id="DUP_TP_L4_L4C1_P74"> Aprés avoir remarqué tant de difficultez dans la

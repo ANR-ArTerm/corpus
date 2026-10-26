@@ -94,7 +94,7 @@
           un petit Traitté des cinq Ordres, avec quelquesunes des plus necessaires observations pour
           bien bastir, Il parle de la construction des maisons particulieres, des grands chemins,
           des Ponts, des Places publiques, des Xystes, des Basiliques, et des Temples: A <placeName
-            ref="#Paris">PARIS</placeName>, De j'Imprimerie d'<persName>EDME MARTIN</persName>, ruë
+            ref="#Paris">PARIS</placeName>, De l'Imprimerie d'<persName>EDME MARTIN</persName>, ruë
           S. Jacques, au Soleil d'or. <date when="1650">M. DC. L.</date>
         </titlePart>
       </titlePage>
@@ -104,41 +104,44 @@
       <div type="lettre">
         <figure type="ornement"/>
         <head> A MES TRES-CHERS FRERES <persName>JEAN FREART</persName>, ESCUYER SIEVR DE
-            <placeName>CHANTELOY</placeName>, CONSEILLER DU ROY, ET COMMISSAIRE PROVINCIAL EN
-            <placeName>CHAMPAGNE</placeName>, <placeName>ALSACE</placeName>,
-            <placeName>LORRAINE</placeName>, ET <placeName>ALLEMAGNE</placeName>. ET <persName>PAUL
-            FREART</persName>, ESCUYER SIEUR DE <placeName>CHANTELOV</placeName>. CONSEILLER, ET
+            <placeName>CHANTELOU</placeName>, CONSEILLER DU ROY, ET COMMISSAIRE PROVINCIAL EN
+            <placeName ref="#Champagne">CHAMPAGNE</placeName>, <placeName ref="#Alsace"
+            >ALSACE</placeName>, <placeName ref="#Lorraine">LORRAINE</placeName>, ET <placeName
+            ref="#Allemagne">ALLEMAGNE</placeName>. ET <persName ref="#PaulFreartDeChantelou">PAUL
+            FREART</persName>, ESCUYER SIEUR DE <placeName>CHANTELOU</placeName>. CONSEILLER, ET
           MAISTRE D'HOSTEL ORDINAIRE DU ROY. </head>
         <p xml:id="PAL_ATF_lettre_P1"><figure type="lettrine"/><hi rend="capitals">MES TRES-CHERS
             FRERES</hi>, La fortune de cette version de <persName ref="#AndreaPalladio"
             >Palladio</persName> est si bizarre, que je ne say quel succès je puis attendre (en un
-          temps contraire aux arts comme celui-cy) de j'occasion qu'elle me donne presentement de la
+          temps contraire aux arts comme celui-cy) de l'occasion qu'elle me donne presentement de la
           mettre au jour, par une rencontre inespérée des planches originales de cet <persName
             ref="#AndreaPalladio">Autheur</persName>, après m'avoir envié, dans la conioncture la
           plus favorable qui sera jamais pour moy, l'honneur de la voir entre les livres de
-          l'Imprimerie Royale, lors qu'elle estoit si illustre et si fleurissante. Vous savez,
-          l'estime que <persName>Monseigneur de Noyers</persName> faisoit de <bibl>ce livre</bibl>,
-          et avec quelle affection il me chargea de le rendre intelligible aux François, quand il
-          resolut d'achever le <objectName>Louvre</objectName>, dans la pensée qu'il avoit de faire
+          l'Imprimerie Royale, lors qu'elle estoit si illustre et si fleurissante. Vous sçavez,
+          l'estime que <persName ref="#FrancoisSubletDeNoyers">Monseigneur de Noyers</persName>
+          faisoit de <bibl>ce livre</bibl>, et avec quelle affection il me chargea de le rendre
+          intelligible aux François, quand il resolut d'achever le <objectName
+            ref="#PalaisDuLouvreParis">Louvre</objectName>, dans la pensée qu'il avoit de faire
           connoistre en mesme temps par la theorie et par la pratique, la noblesse de l'Architecture
           reguliere; et de bannir cette capricieuse et monstrueuse façon de bastir, que quelques
-          modernes ont introduite malheureusement comme une heresie dans l'art, par je ne say quel
+          modernes ont introduite malheureusement comme une heresie dans l'art, par je ne sçay quel
           libertinage contre ses preceptes, et contre la raison mesme. J'en ay assez, dit mon
           sentiment dans le <bibl>Parallele de l'Architecture antique avec la moderne</bibl>, que je
           viens de vous offrir de la mesme sorte que je fais encore cette version; c'est à dire, que
           je vous prie, mes très-chers frères, d'estre les depositaires de ces deux ouvrages, qui
-          estoient voüez, à <persName>Monseigneur de Noyers</persName>, dont la memoire nous est à
-          tous trois en une mesme veneration. Il honora celui-cy qui fut achevé prés de deux ans
-          avant sa retraite de la Cour, d'un agreement et d'une estime si favorable, que parmy la
-          foule et presque l'accablement des affaires de l'Estat, dont il soustenoit le plus grand
-          faix, il eut la bonté pour moy, et la patience de voir et d'examiner mon manuscrit, et
-          mesme d'y corriger quelque chose de sa main, dont je garde cherement les feüilles ; et
-          donna ensuite à mon travail une approbation si avantageuse, qu'il le jugea digne de
-          l'Imprimerie du <objectName>Louvre</objectName>, et commanda aussi-tost qu'on y
+          estoient voüez, à <persName ref="#FrancoisSubletDeNoyers">Monseigneur de
+          Noyers</persName>, dont la memoire nous est à tous trois en une mesme veneration. Il
+          honora celui-cy qui fut achevé prés de deux ans avant sa retraite de la Cour, d'un
+          agreement et d'une estime si favorable, que parmy la foule et presque l'accablement des
+          affaires de l'Estat, dont il soustenoit le plus grand faix, il eut la bonté pour moy, et
+          la patience de voir et d'examiner mon manuscrit, et mesme d'y corriger quelque chose de sa
+          main, dont je garde cherement les feüilles ; et donna ensuite à mon travail une
+          approbation si avantageuse, qu'il le jugea digne de l'Imprimerie du <objectName
+            ref="#PalaisDuLouvreParis">Louvre</objectName>, et commanda aussi-tost qu'on y
           travaillast en diligence: mais l'entreprise estant grande, et de longue haleine, pour la
           quantité des planches dont le Livre est composé, et que l'on gravoit <pb
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f12/full/full/0/native.jpg"/>
-          en cuiure avec un soin à une curiosité extraordinaire, les changemens qui arriverent
+          en cuivre avec un soin à une curiosité extraordinaire, les changemens qui arriverent
           depuis en interrompirent l'execution. Au mesme temps que ce grand <persName
             ref="#AndreaPalladio">Genie</persName> cessa d'agir, on veid aussi-tost une cessation
           generale dans les ouvrages publics, qui faisaient une partie de la gloire dont la
@@ -181,7 +184,8 @@
           profession, et qu'on peut tenir ce Livre comme un Palladium de la vraye Architecture. Je
           suis, </p>
         <p xml:id="PAL_ATF_lettre_P2"> MES CHERS FRERES, Vostre très-humble et tres affectionné
-          serviteur, <hi rend="capitals"><persName>DE CHAMBRAY</persName></hi>.</p>
+          serviteur, <hi rend="capitals"><persName ref="#RolandFreartDeChambray">DE
+              CHAMBRAY</persName></hi>.</p>
         <p>De <placeName ref="#Paris">Paris</placeName><date when="1650-6-1">le premier de Juin
             1650</date>. </p>
       </div>
@@ -191,396 +195,431 @@
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f13/full/full/0/native.jpg"/>
       <figure type="ornement"/>
       <div1 xml:id="L1" type="livre" n="1">
-        <head> LE PREMIER LIVRE DE LARCHITEURE DANDRE PALLADIO. AVANT-PROPOS AUX LECTEURS. </head>
-        <figure type="ornement"/>
-        <p xml:id="PAL_ATF_L1_P1"> Ne inclination naturelle me porta des mon jeune âge à j'estude de
-          j'Architecture, et parce qu'à mon jugement les anciens Romains excellerent en beaucoup de
-          choses, l'estimay encore qu'en j'art de bastir ils avoient passé tous les autres qui ont
-          esté depuis eux : C'est pourquoy je pris <persName ref="#Vitruve">Vitruve</persName> pour
-          maistre et pour guide, lequel est le seul des anciens dont les écrits nous soient demeurez
-          sur cette matiere, et me mis à rechercher et à observer curieusement les reliques de tous
-          ces vieux edifices, qui malgré le temps et la brutalité des barbares nous restent encore :
-          et d'autant qu'ils me paroissoient de jour en jour plus considerables, je commençay de
-          faire une estude tres exacte sur chacune de leurs parties, dont je me rendis enfin si
-          soigneux observateur, n'y remarquant rien qui ne fust fait avec tresgrande raison et tres
-          bonne grace) que souvent je me transportay exprès en divers endroits tant de j'<placeName
-            ref="#Italie">Italie</placeName> que d'ailleurs, pour tascher à concevoir par ce qui en
-          reste, quel avoit esté le tout ensemble, et le reduire en dessein. Voyant donc combien
-          nostre commune manière de bastir est essoignée de ce que l'ay remarqué en ces edifices, et
-          de ce que nous lisons en <persName ref="#Vitruve">Vitruve</persName>, <persName
-            ref="#LeonBattistaAlberti">Leon Baptiste</persName> Alberti et autres bons maistres,
-          lesquels ont écrit depuis <persName ref="#Vitruve">Vitruve</persName>, et (si je j'ose
-          dire encore) de ce que j'ay pratiqué avec honneur, et à la grande satisfaction de ceux qui
-          se sont servis de moy ; j'ay pensé que le ferois bien, puis que nous ne sommes pas nais
-          seulement pour nous, de donner à j'utilité publique tous les desseins et toute j'estude
-          que j'ay faite après les antiques depuis tant d'années et avec une si penible recherche,
-          écrivant succinctement tout ce qui m'y a semble digne de consideration, et de plus les
-          regles que l'ay observées et observe encore tous les jours en mes ouvrages, afin que ceux
+        <head> LE PREMIER LIVRE DE L'ARCHITEURE D'<persName ref="#AndreaPalladio">ANDRE'
+            PALLADIO</persName>. AVANT-PROPOS AUX LECTEURS. </head>
+        <p xml:id="PAL_ATF_L1_P1"><figure type="lettrine"/><hi rend="capitals">UNe</hi> inclination
+          naturelle me porta dés mon jeune âge à l'estude de l'architecture et, parce qu'à mon
+          jugement les anciens Romains excellerent en beaucoup de choses, j'estimay encore qu'en
+          l'art de bastir ils avoient passé tous les autres qui ont esté depuis eux: c'est pourquoy
+          je pris <persName ref="#Vitruve">Vitruve</persName> pour maistre et pour guide, lequel est
+          le seul des anciens dont les écrits nous soient demeurez sur cette matiere, et me mis à
+          rechercher et à observer curieusement les reliques de tous ces vieux edifices, qui malgré
+          le temps et la brutalité des barbares nous restent encore. Et d'autant qu'ils me
+          paroissoient de jour en jour plus considerables, je commençay de faire une estude
+          tres-exacte sur chacune de leurs parties, dont je me rendis enfin si soigneux observateur,
+          (n'y remarquant rien qui ne fust fait avec tres-grande raison et tres-bonne grace) que
+          souvent je me transportay exprés en divers endroits tant de l'<placeName ref="#Italie"
+            >Italie</placeName> que d'ailleurs pour tascher à concevoir, par ce qui en reste, quel
+          avoit esté le tout ensemble, et le reduire en dessein. Voyant donc combien nostre commune
+          maniere de bastir est esloignée de ce que j'ay remarqué en ces edifices, et de ce que nous
+          lisons en <persName ref="#Vitruve">Vitruve</persName>, <persName
+            ref="#LeonBattistaAlberti">Leon Baptiste Alberti</persName> et autres bons maistres,
+          lesquels ont écrit depuis <persName ref="#Vitruve">Vitruve</persName>, et (si je l'ose
+          dire encore) de ce que j'ay pratiqué avec honneur et à la grande satisfaction de ceux qui
+          se sont servis de moy, j'ay pensé que je ferois bien, puis que nous ne sommes pas nais
+          seulement pour nous de donner à l'utilité publique tous les desseins et toute l'estude que
+          j'ay faite aprés les antiques depuis tant d'années et avec une si penible recherche,
+          écrivant succinctement tout ce qui m'y a semblé digne de consideration et de plus les
+          regles que j'ay observées et observe encore tous les jours en mes ouvrages; afin que ceux
           qui liront mon livre en puissent facilement recueillir ce qui s'y trouvera de meilleur,
-          suppleant au reste qui ne sera pas si generalement approuvé, et par ce moyen qu'on
-          apprenne à corriger tant d'abus extravagans, d'inventions barbares, de dépenses
-          superflues, et ce qui importe davantage) que j'on previenne tant de sortes de ruines qui
-          arrivent ordinairement és grands edifices. Et je me suis engagé en cette entreprise
-          d'autant plus volontiers que le remarque à present beaucoup d'esprits studieux, et qui
-          affectionnent cette profession, de plusieurs desquels <persName ref="#GiorgioVasari"
-            >Georges Vasari</persName>
-          <persName ref="#PietroAretino">Aretin</persName> peintre et architecte fameux a fait une
-          tres honorable mention en ses livres ; ce qui me fait espérer que bien-tost j'art de
-          bastir reviendra en sa première perfection, de laquelle on peut dés à present remarquer
-          des eschantillons en divers endroits de j'<placeName ref="#Italie">Italie</placeName> ;
-          car non seulement à <placeName ref="#Venise">Venise</placeName> (où toutes les sciences
-          fleurissent, et qui seule à tousjours gardé j'éclat de cette grandeur et magnificence
-          Romaine, on commence à voir des bastiments qui tiennent desja du bon, depuis que lacques
-          Sansouino celebre sculpteur et architecte à le premier fait connoistre la belle maniere,
-          comme il paroist en plusieurs de ses ouvrages, et particulierement en celui de la
-          Procuratie neue, laquelle est peut-estre le plus <pb n="2"
+          suppleant au reste qui ne sera pas si generalement approuvé et par ce moyen qu'on apprenne
+          à corriger tant d'abus extravagans, d'inventions barbares, de dépenses superfluës, et (ce
+          qui importe davantage) que l'on previenne tant de sortes de ruines qui arrivent
+          ordinairement és grands edifices. Et je me suis engagé en cette entreprise d'autant plus
+          volontiers que je remarque à present beaucoup d'esprits studieux et qui affectionnent
+          cette profession, de plusieurs desquels <persName ref="#GiorgioVasari">Georges
+            Vasari</persName> aretin peintre et architecte fameux a fait une tres-honorable mention
+          en <bibl>ses livres</bibl>, ce qui me fait esperer que bien-tost l'art de bastir reviendra
+          en sa première perfection, de laquelle on peut dés à present remarquer des eschantillons
+          en divers endroits de l'<placeName ref="#Italie">Italie</placeName>. Car non seulement à
+            <placeName ref="#Venise">Venise</placeName> (où toutes les sciences fleurissent, et qui
+          seule à tousjours gardé l'éclat de cette grandeur et magnificence Romaine) on commence à
+          voir des bastiments qui tiennent desja du bon, depuis que <persName ref="#JacopoSansovino"
+            >Jacques Sansovino</persName> celebre sculpteur et architecte à le premier fait
+          connoistre la belle maniere, comme il paroist en plusieurs de ses ouvrages et
+          particulierement en celui de la <objectName
+            ref="#BaldassarreLonghenaVincenzoScamozziJacopoSansovinoProcuratiesVenise">Procuratie
+            neuve</objectName>, laquelle est peut-estre le plus <pb n="2"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f14/full/full/0/native.jpg"/>
-          somptveux, et le plus superbe edifice qui ait esté fait depuis les antiques : mais encore
-          en beaucoup d'autres endroits de moindre nom, comme à <placeName ref="#Vicence"
-            >Vicence</placeName>, ville à la verité d'une mediocre estendue, mais pleine
-          d'excellents esprits, et abondante en richesses. C'est là que j'ai eu les premières
+          somptueux et le plus superbe edifice qui ait esté fait depuis les antiques: mais encore en
+          beaucoup d'autres endroits de moindre nom, comme à <placeName ref="#Vicence"
+            >Vicence</placeName>, ville à la verité d'une mediocre estenduë, mais pleine
+          d'excellents esprits et abondante en richesses. C'est là que j'ay eu les premières
           occasions de mettre en pratique ces mesmes estudes que maintenant je donne au public. On y
           peut voir quantité de beaux bastiments qui sont les ouvrages d'un grand nombre de
-          Gentils-hommes qu'elle a portez, et lesquels se sont rendus si intelligents en j'art de
+          gentils-hommes qu'elle a portez et lesquels se sont rendus si intelligents en l'art de
           bastir, qu'ils peuvent bien estre mis au rang de nos meilleurs maistres, comme le Seigneur
-          Jean George Trissin j'honneur de ce siècle, les Seigneurs Comtes <persName
-            ref="#MarcantonioRaimondi">Marc-Antoine</persName> et Adrian frères de Thienes, le
-          Chevalier Antenor Pagello, et quelques autres qui ont laissé après leur mort de si nobles
-          monuments, que leur memoire sera eternelle. Nous avons encore maintenant le Seigneur Fabio
-            <placeName ref="#Monza">Monza</placeName> consommé en la connoissance de beaucoup de
-          choses, le Seigneur Elio de Belli fils de Valerio celebre ouvrier en camayeux et à tailler
-          le cristal, Antonio Francesco Olivier, lequel outre j'intelligence qu'il a de diverses
-          sciences est encore architecte et poëte excellent, comme il a fait voir en un poème
-          heroique intitulé j'<placeName ref="#Allemagne">Allemagne</placeName>, et en une maison
-          qu'il a bastie à Boschi di Nanto lieu du Vicentin ; et enfin pour n'estre pas ennuyeux à
-          la recherche d'un nombre d'autres de cette portée, le Seigneur Valerio Barbarano tres
-          soigneux observateur de toutes les choses qui concernent nostre profession. Mais pour
-          revenir à nostre suiet, ayant à produire au iour les estudes que j'ay faites depuis ma
+            <persName ref="#GianGiorgioTrissino">Jean George Trissin</persName> l'honneur de ce
+          siecle, les Seigneurs Comtes <persName>Marc-Antoine</persName> et
+            <persName>Adrian</persName> freres de <placeName ref="#Thiene">Thienes</placeName>, le
+          Chevalier <persName>Antenor Pagello</persName>, et quelques autres qui ont laissé après
+          leur mort de si nobles monuments, que leur memoire sera eternelle. Nous avons encore
+          maintenant le Seigneur <persName>Fabio Monza</persName> consommé en la connoissance de
+          beaucoup de choses, le Seigneur <persName>Elio de Belli</persName> fils de <persName
+            ref="#ValerioBelli">Valerio</persName> celebre ouvrier en camayeux et à tailler le
+          cristal, <persName>Antonio Francesco Oliviera</persName>, lequel outre l'intelligence
+          qu'il a de diverses sciences est encore architecte et poëte excellent, comme il a fait
+          voir en un poème heroique intitulé <hi rend="it"><bibl>l'Allemagne</bibl></hi>, et en une
+            <objectName>maison</objectName> qu'il a bastie à Boschi di <placeName ref="#Nanto"
+            >Nanto</placeName> lieu du Vicentin, et enfin pour n'estre pas ennuyeux à la recherche
+          d'un nombre d'autres de cette portée, le Seigneur <persName>Valerio Barbarano</persName>
+          tres-soigneux observateur de toutes les choses qui concernent nostre profession. Mais pour
+          revenir à nostre sujet, ayant à produire au jour les estudes que j'ay faites depuis ma
           jeunesse à rechercher et à mesurer avec toute la diligence possible ce qui est resté des
-          edifices antiques, et à cette occasion voulant traitter briefuement, mais avec ordre et
-          distinctement, de j'Architecture ; j'ay estimé à propos de commencer par les maisons des
+          edifices antiques, et à cette occasion voulant traitter briesvement, mais avec ordre et
+          distinctement, de l'architecture, j'ay estimé à propos de commencer par les maisons des
           particuliers, veu qu'il y a beaucoup d'apparence qu'elles furent comme les principes et
-          premiers essais, pour venir après à la structure des edifices publics ; car apparemment
-          les premiers hommes avoient leurs demeures separées, et puis connoissant avec le temps que
-          pour leur commodité et pour vivre heureux (s'il y a quelque felicité en ce monde la
+          premiers essais, pour venir aprés à la structure des edifices publics, car apparemment les
+          premiers hommes avoient leurs demeures separées, et puis connoissant avec le temps que
+          pour leur commodité et pour vivre heureux (s'il y a quelque felicité en ce monde) la
           compagnie des autres hommes leur estoit entierement necessaire, ils se rechercherent les
           uns les autres, et s'approchans peu à peu formerent d'abord quelque sorte de villages,
-          desquels après ils firent des villes et y bastirent des places et des edifices publics. On
-          peut dire encore que de toutes les parties de j'Architecture il n'y en a point de plus
-          utile ny dont j'usage soit si ordinaire. Le parleray donc premierement des maisons
-          privées, pour traitter en suitte des grands bastiments publics. le diray aussi quelque
-          chose touchant les rues, les ponts, les places publiques, les prisons, les basiliques,
-          c'est à dire les Palais où la Justice est administrée, les Xistes et les Palestres, lieux
-          destinez pour les exercices, les Temples, les Theatres et Amphitheatres, les Arcs de
-          triomphes, les Thermes et les Aqueducs, et enfin la manière de fortifier les Villes et les
-          Ports de mer. Et de tout cela s'écriray en peu de paroles et simplement les choses qui
+          desquels aprés ils firent des villes et y bastirent des places et des edifices publics. On
+          peut dire encore que de toutes les parties de l'architecture il n'y en a point de plus
+          utile ny dont l'usage soit si ordinaire. Je parleray donc premierement des maisons
+          privées, pour traitter en suitte des grands bastiments publics. Je diray aussi quelque
+          chose touchant les ruës, les ponts, les places publiques, les prisons, les basiliques,
+          c'est à dire les palais où la iustice est administrée, les xistes et les palestres, lieux
+          destinez pour les exercices, les temples, les theatres et amphitheatres, les arcs de
+          triomphes, les thermes et les aqueducs, et enfin la maniere de fortifier les villes et les
+          ports de mer. Et de tout cela j'écriray en peu de paroles et simplement les choses qui
           meriteront d'estre remarquées, et lesquelles me sembleront necessaires, me servant des
-          mesmes noms qui sont presentement en usage parmi nous. Mais d'autant que je ne puis
-          promettre de moy autre chose que la longue peine et j'extrême diligence et affection avec
+          mesmes noms qui sont presentement en usage parmy nous. Mais d'autant que je ne puis
+          promettre de moy autre chose que la longue peine et l'extréme diligence et affection avec
           laquelle je me suis porté à cette estude, pour connoistre et mettre en pratique ce que
-          maintenant j'offre au public ; si je suis assez heureux pour ne m'estre pas travaillé en
+          maintenant j'offre au public, si je suis assez heureux pour ne m'estre pas travaillé en
           vain, et qu'il plaise à <persName ref="#Dieu">Dieu</persName> que mon ouvrage se trouve en
-          quelque façon utile, l'auray suiet de luy en rendre de très-humbles graces, demeurant
-          encore beaucoup obligé à ceux lesquels parleurs belles inventions et leur experience nous
-          ont laissé des preceptes de cet art, dont j'ay tiré un grand avantage pour mourir et
+          quelque façon utile, j'auray sujet de luy en rendre de tres-humbles graces, demeurant
+          encore beaucoup obligé à ceux lesquels par leurs belles inventions et leur experience nous
+          ont laissé des preceptes de cét art, dont j'ay tiré un grand avantage pour mourir et
           faciliter le chemin à la recherche de beaucoup de choses nouvelles, dont peut-estre je
-          n'eusse jamais eu la connoissance. Cette première partie sera divisée en deux livres : au
-          premier je traiteray de la preparation de la matière, et en suitte comme il faudra
+          n'eusse jamais eu la connoissance. Cette premiere partie sera divisée en deux livres: au
+          premier je traiteray de la preparation de la matiere, et en suitte comme il faudra
           l'employer depuis les fondements jusques à la couverture, où je feray voir generalement
-          tout ce qui se doit observer en toutes sortes d'edifices tant publics que particuliers ;
-          dans j'autre je parleray de chaque espece de bastiment, et des diverses qualiter requises
-          selon la condition des personnes pour qui l'on travaille, le commencera par ceux des
-          villes, puis j'enseignera à choisir la situation et les commodite necessaires à la
+          tout ce qui se doit observer en toutes sortes d'edifices tant publics que particuliers;
+          dans l'autre je parleray de chaque espece de bastiment, et des diverses qualitez requises
+          selon la condition des personnes pour qui l'on travaille. Je commenceray par ceux des
+          villes, puis j'enseignera à choisir la situation et les commoditez necessaires à la
           campagne. Mais parce qu'il ne nous reste quasi plus rien des antiques en ce genre-là, qui
-          puisse servir dexemple, je rapportera le plan et j'élevation de plusieurs maisons de
-          Noblesse que l'ay basties en divers endroits, et seray encore en suite les desseins de
+          puisse servir d'exemple, je rapporteray le plan et l'élevation de plusieurs maisons de
+          noblesse que j'ay basties en divers endroits, et seray encore en suite les desseins de
           celles des anciens et de leurs parties plus considerables, conformément à ce que <persName
             ref="#Vitruve">Vitruve</persName> nous en enseigne. </p>
         <div2 xml:id="L1C1" type="chapitre" n="1">
           <pb n="3"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f15/full/full/0/native.jpg"/>
-          <head> Des considerations qu'il faut avoir, et des choses qu'il faut tenir toutes prestes
-            avant que de commencer à bastir. CHAPITRE I. </head>
-          <figure type="ornement"/>
-          <p xml:id="PAL_ATF_L1_L1C1_P1"> VANT que de commencer à bastir, il faudra considerer et
-            examiner bien soigneusement le plan et j'élevation de ce qu'on doit faire. Vitruus
-            enseigne de prendre garde a trois choses, sans lesquelles un edifice ne peut estre
-            estimé parfait, ce sont la commodité, la durée, et la beauté ; parce qu'on ne sauroit
-            dire qu'un ouvrage soit parfaitement accomply, qui seroit utile ou commode, mais pour
-            peu de temps, ou bien au contraire que la consideration de la durée auroit ment des plus
-            necessaires. quelque chose à desirer en mon livre, je diray mon sentiment de
-            quelques-uns, mais seuleque j'on doit avoir pour faire choix des bons materiaux ;
-            neantmoins de peur qu'il ne restast Baptiste Alberti, et d'autres excellents hommes
-            ayent donné les principaux aduertissemens dre facilement ce qui sera propre et plus
-            expedient à nostre dessein. Et bien que <persName ref="#Vitruve">Vitruve</persName>,
-            Leon rience de ceux qui auront basty auparavant nous, afin que sur leur advis nous
-            puissions resouqualité et la bonte de la matière pour la bien choisir, il faudra
-            rechercher avec soin j'expen'est pas assez de savoir la quantité, mais qu'il est encore
-            tres necessaire de connoistre et la quelque notion generale, et fait une esbauche, pour
-            ainsi dire, de tout j'edifice. Or comme ce lement toutes ces parties chacune en son
-            lieu, il suffira pour cette heure d'en avoir donné plus juste, et ne seront pas de
-            petite espargne. Mais parce que nous devons examiner ponctueldre garde à les diminuer à
-            mesure qu'on les éleue. Ces prevoyances aideront à faire le compte piteaux, et
-            j'entablement de pierre, et tout le reste de brique. Quant aux murs, il faut prenment
-            doit estre orné de colonnes ou de pilastres, on pourra faire seulement les bases, les
-            chala cinquième partie de j'ouverture du vuide, ny aussi de plus petite que la sixième :
-            et si le bastique pour faire les piédroits des portes et des fenestres, il ne faut point
-            de pierre plus grosse que d'une grosseur et demie de solive. Semblablement pour le
-            regard de la pierre, on doit savoir provision de solives, qu'estant toutes mises en
-            outre le vuide qui restera entre chacune soit taines considerations ; comme pour faire
-            les planchers des sales et des chambres, on fera telle pierre, de sable, de chaux, et de
-            metail : sur lesquelles provisions on doit encore avoir de cerner un bon acheminement à
-            l'ouvrage qu'on veut entreprendre, il faudra se munir de bois, de avoir choisi les
-            meilleurs maistres et les plus experimentez, par j'avis desquels on puisse donner à
-            s'entr'ouvrir, comme font ordinairement ceux qu'on bastit à plusieurs reprises. Donc
-            aprés murs estans esse uez ensemble ils s'affaisseront également, et ne seront point
-            suiets à fraction, fice vient à estre paracheue en un mesme temps, et avec la diligence
-            requise, parce que les neur de celui qui fait bastir, mais encore d'un assez notable
-            interest et avantage, si tout j'edimanque rien qui puisse retarder j'accomplissement de
-            j'oeuvre, y allant non seulement de j'hongent, et apprester la matière de laquelle on
-            aura besoin, afin qu'après avoir commencé il ne ment à quoy peut monter la dépense
-            entière ; et il faudra faire de bonne heure provision d'arsaire. Ces choses ayant esté
-            remarquées dessus le dessein ou le modele, on comptera bien exacte ensemble, et composer
-            un beau corps, dont chaque partie luy sert comme d'un membre necesle rapport qu'elles
-            ont entre elles : de sorte que toutes les pieces du bastiment semblent estre nées
-            beauté, elle se trouve dans la forme et belle correspondance des parties avec leur tout,
-            et dans les unes dessus les autres, en forte que le plein pose sur le plein, et le vuide
-            sur le vuide. Pour la les d'embas, et que toutes les ouvertures, comme les portes et les
-            fenestres, soient justement observer diligemment que les colonnes des plus hauts estages
-            soient posées bien droit sur celforts et plus espais vers leurs fondemens, lesquels
-            doivent estre bons et solides. Il faut encore nable. La durée dépend du soin qu'on aura
-            d'eleuer les murs bien à plomb, et de les tenir plus les sales, les chambres, les caves,
-            et les greniers ont chacun leur place et leur endroit conuetant à la dignité qu'à
-            l'usage pour lequel on le destine, comme quand les loges ou galleries, consiste à donner
-            à chaque departement le lieu et la situation qui lui est plus propre, eu égard mières
-            conditions, il se trouvoit defectveux en la derniere, qui est la beauté. La commodité
-            assujetty à quelque incommodité ; non plus que si ayant satisfait à ces deux pre </p>
+          <head><hi rend="it">Des considerations qu'il faut avoir, et des choses qu'il faut tenir
+              toutes prestes avant que de commencer à bastir.</hi>
+            <hi rend="capitals">CHAPITRE I.</hi></head>
+          <p xml:id="PAL_ATF_L1_L1C1_P1">
+            <figure type="lettrine"/><hi rend="capitals">AVANT</hi> que de commencer à bastir, il
+            faudra considerer et examiner bien soigneusement le plan et l'élevation de ce qu'on doit
+            faire. <persName ref="#Vitruve">Vitruve</persName> enseigne de prendre garde a trois
+            choses, sans lesquelles un edifice ne peut estre estimé parfait, ce sont la commodité,
+            la durée et la beauté; parce qu'on ne sçauroit dire qu'un ouvrage soit parfaitement
+            accomply, qui seroit utile ou commode, mais pour peu de temps; ou bien au contraire que
+            la consideration de la durée auroit assujetty à quelque incommodité ; non plus que si
+            ayant satisfait à ces deux premières conditions, il se trouvoit defectveux en la
+            derniere, qui est la beauté. La commodité consiste à donner à chaque departement le lieu
+            et la situation qui lui est plus propre, eu égard tant à la dignité qu'à l'usage pour
+            lequel on le destine, comme quand les loges ou galleries, les sales, les chambres, les
+            caves, et les greniers ont chacun leur place et leur endroit convenable. La durée dépend
+            du soin qu'on aura d'eleuer les murs bien à plomb, et de les tenir plus forts et plus
+            espais vers leurs fondemens, lesquels doivent estre bons et solides. Il faut encore
+            observer diligemment que les colonnes des plus hauts estages soient posées bien droit
+            sur celles d'embas, et que toutes les ouvertures, comme les portes et les fenestres,
+            soient justement les unes dessus les autres, en forte que le plein pose sur le plein, et
+            le vuide sur le vuide. Pour la beauté, elle se trouve dans la forme et belle
+            correspondance des parties avec leur tout et dans le rapport qu'elles ont entre elles:
+            de sorte que toutes les pieces du bastiment semblent estre nées ensemble et composer un
+            beau corps, dont chaque partie luy sert comme d'un membre necessaire. Ces choses ayant
+            esté remarquées dessus le dessein ou le modele, on comptera bien exactement à quoy peut
+            monter la dépense entiere; et il faudra faire de bonne heure provision d'argent et
+            apprester la matiere de laquelle on aura besoin, afin qu'aprés avoir commencé il ne
+            manque rien qui puisse retarder l'accomplissement de l'oeuvre, y allant non seulement de
+            l'honneur de celui qui fait bastir, mais encore d'un assez notable interest et avantage,
+            si tout l'edifice vient à estre paracheué en un mesme temps et avec la diligence requise
+            parce que les murs estans eslevez ensemble ils s'affaisseront également, et ne seront
+            point sujets à fraction, et à s'entr'ouvrir, comme font ordinairement ceux qu'on bastit
+            à plusieurs reprises. Donc aprés avoir choisi les meilleurs maistres et les plus
+            experimentez, par l'avis desquels on puisse donner un bon acheminement à l'ouvrage qu'on
+            veut entreprendre, il faudra se munir de bois, de pierre, de sable, de chaux, et de
+            metail : sur lesquelles provisions on doit encore avoir de certaines considerations,
+            comme pour faire les planchers des sales et des chambres, on fera telle provision de
+            solives, qu'estant toutes mises en oeuvre le vuide qui restera entre chacune soit d'une
+            grosseur et demie de solive. Semblablement pour le regard de la pierre, on doit sçavoir
+            que pour faire les piédroits des portes et des fenestres, il ne faut point de pierre
+            plus grosse que la cinquième partie de l'ouverture du vuide, ny aussi de plus petite que
+            la sixiéme: et si le bastiment doit estre orné de colonnes ou de pilastres, on pourra
+            faire seulement les bases, les chapiteaux et l'entablement de pierre et tout le reste de
+            brique. Quant aux murs, il faut prendre garde à les diminuer à mesure qu'on les éleve.
+            Ces prevoyances aideront à faire le compte plus juste, et ne seront pas de petite
+            espargne. Mais parce que nous devons examiner ponctuellement toutes ces parties chacune
+            en son lieu, il suffira pour cette heure d'en avoir donné quelque notion generale et
+            fait une esbauche, pour ainsi dire, de tout l'edifice. Or comme ce n'est pas assez de
+            sçavoir la quantité, mais qu'il est encore tres-necessaire de connoistre et la qualité
+            et la bonté de la matiere pour la bien choisir, il faudra rechercher avec soin
+            l'experience de ceux qui auront basty auparavant nous, afin que sur leur advis nous
+            puissions resoudre facilment ce qui sera propre et plus expedient à nostre dessein. Et
+            bien que <persName ref="#Vitruve">Vitruve</persName>, <persName
+              ref="#LeonBattistaAlberti">Leon Baptiste Alberti</persName> et d'autres excellents
+            hommes ayent donné les principaux advertissemens que l'on doit avoir pour faire choix
+            des bons materiaux; neantmoins de peur qu'il ne restast quelque chose à desirer en mon
+            livre, je diray mon sentiment de quelque-uns, mais seulement des plus necessaires. </p>
         </div2>
         <div2 xml:id="L1C2" type="chapitre" n="2">
           <pb n="4"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f16/full/full/0/native.jpg"/>
-          <head> Du bois de Charpenterie. CHAPITRE II. </head>
-          <p xml:id="PAL_ATF_L1_L1C2_P1"> Itre enseigne en son second livre, chapitre neufiéme, que
-            les bois se doivent couV per durant j'automne, et tout le long de l'hyver, parce que
-            vers ce temps-là les arbres reprennent de leurs racines cette vigveur et fermeté qu'ils
-            ont espandue et dissipée aux deux faisons precedentes pour la production des fruits et
-            des feuilles : et il faut encore prendre garde que ce soit la lune estant en decours,
-            car alors le bois est net et purgé d'une certaine humeur corrompus, laquelle engendre
-            les vers et les tignes qui le rongent. On le coupera seulement jusques au cour où est la
-            movelle, le laissant après secher sur le pied, d'autant que par ce moyen il se
-            déchargera mieux de j'humidité qui le rend fuit à la pourriture. Après qu'il aura esté
-            abatu, il sera bon de le mettre en quelque lieu à j'abry des grandes chaleurs du soleil,
-            aussi bien que de la pluye et du vent ; mais sur tout celui qui naist de luy-mesme, sans
-            estre semé, doit demeurer à conuert ; et de peur qu'il ne se fende et pour qu'il se
-            seche également, on le frottera de fient de vache. Le temps du matin pendant la rosée
-            n'estant pas propre à le transporter, il le faudra faire après midy ; et lors qu'on le
-            met en outre, il ne doit estre ny humide ny trop sec, parce qu'il seroit suiet a se
-            tourmenter, ou l'ouvrage en seroit desagréable. Celuy duquel on veut faire des
-            planchers, des portes et des fenestres, ne peut estre suffisamment sec en moins de trois
-            ans. Il est necessaire que les maistres qui veulent bastir s'informent soigneusement des
-            experts quelle est la nature de chaque bois, pour, discerner mieux celui qui est bon à
-            une chose d'avec un autre qui n'y est pas propre. <persName ref="#Vitruve"
-              >Vitruve</persName> au mesme chapitre nous en donne une assez bonne instruction, et
-            quelques autres encore en ont écrit amplement. </p>
+          <head>
+            <hi rend="it">Du bois de Charpenterie.</hi>
+            <hi rend="capitals">CHAPITRE II. </hi></head>
+          <p xml:id="PAL_ATF_L1_L1C2_P1"><hi rend="capitals"><persName ref="#Vitruve"
+                >VITRUVE</persName></hi> enseigne en son <bibl>second livre, chapitre
+              neufiéme</bibl>, que les bois se doivent couper durant l'automne, et tout le long de
+            l'hyver, parce que vers ce temps-là les arbres reprennent de leurs racines cette vigueur
+            et fermeté qu'ils ont espanduë et dissipée aux deux faisons precedentes pour la
+            production des fruits et des fëuilles: et il faut encore prendre garde que ce soit la
+            lune estant en decours, car alors le bois est net et purgé d'une certaine humeur
+            corrompuë, laquelle engendre les vers et les tignes qui le rongent. On le coupera
+            seulement jusques au cour où est la moüelle, le laissant après secher sur le pied,
+            d'autant que par ce moyen il se déchargera mieux de l'humidité qui le rend sujet à la
+            pourriture. Aprés qu'il aura esté abatu, il sera bon de le mettre en quelque lieu à
+            l'abry des grandes chaleurs du soleil, aussi bien que de la pluye et du vent; mais sur
+            tout celuy qui naist de luy-mesme, sans estre semé, doit demeurer à couvert, et de peur
+            qu'il ne se fende et pour qu'il se seche également, on le frottera de fient de vache. Le
+            temps du matin pendant la rosée n'estant pas propre à le transporter, il le faudra faire
+            aprés midy; et lors qu'on le met en oeuvre, il ne doit estre ny humide ny trop sec,
+            parce qu'il seroit sujet à se tourmenter, ou l'ouvrage en seroit desagréable. Celuy
+            duquel on veut faire des planchers, des portes et des fenestres, ne peut estre
+            suffisamment sec en moins de trois ans. Il est necessaire que les maistres qui veulent
+            bastir s'informent soigneusement des experts quelle est la nature de chaque bois, pour
+            discerner mieux celui qui est bon à une chose d'avec un autre qui n'y est pas propre.
+              <persName ref="#Vitruve">Vitruve</persName> au <bibl>mesme chapitre</bibl> nous en
+            donne une assez bonne instruction et quelques autres encore en ont écrit amplement. </p>
         </div2>
         <div2 xml:id="L1C3" type="chapitre" n="3">
-          <head> Des Pierres. CHAPITRE III. </head>
-          <p xml:id="PAL_ATF_L1_L1C3_P1"> Ly a deux sortes de pierres ; les unes sont telles que la
-            nature les donne, les autres sont artificielles et contrefaites par la main des hommes :
-            les naturelles se trouvent dans les carrieres, et servent ou à faire de la chaux ou au
-            massonnage. Nous parlerons cy-après de celles qui sont propres à la chaux. Pour les
-            autres dont on fait les murs, elles sont, ou marbre, ou pierre dure, que j'on nomme
-            encore pierre vive, ou bien du tufeau, qui est une espece de pierre molle facile à
-            tailler. Les marbres et les pierres vives doivent s'employer incontinent au sortir de la
-            carrière, pource que alors elles seront plus aisées à travailler que si elles avoient
-            demeuré quelque temps à j'air, où toutes sortes de pierres s'endurcissent, tellement
-            qu'il les faudra mettre en œuure tout aussi-tost. Mais pour le regard des pierres molles
-            et tendres, de la nature et solidité desquelles nous n'avons pas encore fait
-            d'experience, et qui ont este nouvellement découvertes, il faut les tirer durant j'esté,
-            et les mettre reposer à j'air deux ans entiers avant que de s'en servir. On les tire
-            pendant l'esté, afin que comme elles ne sont point encore accoustumées aux vents, à la
-            pluye, ny à la gelée, peu à peu elles viennent à s'y endurcir, en sorte qu'après elles
-            puissent resister à toutes ces iniures du temps. L'autre raison qui oblige à les garder
-            si longtemps est pour reconnoistre et mettre à part celles qui auront pâty, afin de les
-            employer dans les fondements ; et les autres qui se seront maintenues entières, pourront
-            servir comme les meilleures au reste du bastiment, et se conserveront beaucoup d'années.
-            Les pierres artificielles, que nous appellons ordinairement Carreaux, par la raison de
-            leur forme, doivent estre composées seulement de craye, qui est une terre blanchâtre et
-            maniable, sans y messer de la terre glaise ny sablonneuse. La terre se doit tirer en
-            automne, et estre broyee pendant l'hyver, afin qu'au printemps on puisse en former
-            commodément les carreaux : mais si la necessité obligeoit de les faire dés l'hyver ou
-            durant l'esté ; en huer on les couvrira de sable bien sec, et j'esté de paille. Après
-            qu'ils auront esté formez ils doivent secher long-temps, et il sera mieux encore de les
-            mettre à j'ombre, où ils secheront également au dedans comme pardessus; et cela ne se
-            peut faire en moins de deux ans. On les tiendra ou plus grands ou plus petits selon <pb
-              n="5"
+          <head>
+            <hi rend="it">Des Pierres.</hi>
+            <hi rend="capitals">CHAPITRE III. </hi></head>
+          <p xml:id="PAL_ATF_L1_L1C3_P1"><hi rend="capitals">IL</hi> y a deux sortes de pierres; les
+            unes sont telles que la nature les donne, les autres sont artificielles et contrefaites
+            par la main des hommes: les naturelles se trouvent dans les carrieres, et servent ou à
+            faire de la chaux ou au massonnage. Nous parlerons cy-aprés de celles qui sont propres à
+            la chaux. Pour les autres dont on fait les murs, elles sont, ou marbre, ou pierre dure,
+            que l'on nomme encore pierre vive, ou bien du tufeau, qui est une espece de pierre molle
+            facile à tailler. Les marbres et les pierres vives doivent s'employer incontinent au
+            sortir de la carriere, pource que alors elles seront plus aisées à travailler que si
+            elles avoient demeuré quelque temps à l'air, où toutes sortes de pierres s'endurcissent,
+            tellement qu'il les faudra mettre en oeuvre tout aussi-tost. Mais pour le regard des
+            pierres molles et tendres, de la nature et solidité desquelles nous n'avons pas encore
+            fait d'experience, et qui ont esté nouvellement découvertes, il faut les tirer durant
+            l'esté, et les mettre reposer à l'air deux ans entiers avant que de s'en servir. On les
+            tire pendant l'esté, afin que comme elles ne sont point encore accoustumées aux vents, à
+            la pluye, ny à la gelée, peu à peu elles viennent à s'y endurcir, en sorte qu'aprés
+            elles puissent resister à toutes ces iniures du temps. L'autre raison qui oblige à les
+            garder si long-temps est pour reconnoistre et mettre à part celles qui auront pâty, afin
+            de les employer dans les fondements et les autres qui se seront maintenuës entières,
+            pourront servir comme les meilleures au reste du bastiment, et se conserveront beaucoup
+            d'années. Les pierres artificielles, que nous appellons ordinairement carreaux, par la
+            raison de leur forme, doivent estre composées seulement de craye, qui est une terre
+            blanchâtre et maniable, sans y mesler de la terre glaise ny sablonneuse. La terre se
+            doit tirer en automne, et estre broyée pendant l'hyver, afin qu'au printemps on puisse
+            en former commodément les carreaux : mais si la necessité obligeoit de les faire dés
+            l'hyver ou durant l'esté, en hyver on les couvrira de sable bien sec, et l'esté de
+            paille. Après qu'ils auront esté formez ils doivent secher long-temps, et il sera mieux
+            encore de les mettre à l'ombre, où ils secheront également au dedans comme pardessus, et
+            cela ne se peut faire en moins de deux ans. On les tiendra ou plus grands ou plus petits
+            selon <pb n="5"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f17/full/full/0/native.jpg"
-            /> que la qualité du bastiment le requiert, ou la commodité de l'usage : Aussi les
-            Antiques les faisoient plus grands lors qu'ils avoient à bastir quelque superbe edifice
+            /> que la qualité du bastiment le requiert, ou la commodité de l'usage. Aussi les
+            antiques les faisoient plus grands lors qu'ils avoient à bastir quelque superbe edifice
             pour le public, que s'ils n'eussent travaillé que pour des personnes privées. Ceux qu'on
-            veut tenir plus espais que j'ordinaire se doivent percer en divers endroits, afin qu'ils
-            sechent plustost, et puissent mieux cuire. </p>
+            veut tenir plus espais que l'ordinaire se doivent percer en divers endroits, afin qu'ils
+            sechent plustost et puissent mieux cuire. </p>
         </div2>
         <div2 xml:id="L1C4" type="chapitre" n="4">
-          <head> Du Sable. CHAPITRE IV. </head>
-          <p xml:id="PAL_ATF_L1_L1C4_P1"> void trois sortes de sable ; j'un se trouve dans les
-            caves, j'autre se tire du fonds des rivieres, et le troisième se prend aux bords de la
-            mer. Celuy de cave est generalement le meilleur de tous, et il s'en rencontre de noir,
-            de blanc, de rouge, et de couleur de charbon roux, qui est une espèce de terre brussée
-            du feu resserré dessous les montagnes ; ce dernier est fort commun en <placeName
-              ref="#Toscane">Toscane</placeName>. Il se trouve encore dans le territoire de Baye et
-            de <placeName ref="#Cumes">Cumes</placeName> au milieu des champs une poudre que
+          <head>
+            <hi rend="it">Du Sable.</hi>
+            <hi rend="capitals">CHAPITRE IV.</hi>
+          </head>
+          <p xml:id="PAL_ATF_L1_L1C4_P1"><figure type="lettrine"/><hi rend="capitals">ON</hi> void
+            trois sortes de sable, l'un se trouve dans les caves, l'autre se tire du fonds des
+            rivieres et le troisième se prend aux bords de la mer. Celuy de cave est generalement le
+            meilleur de tous et il s'en rencontre de noir, de blanc, de rouge et de couleur de
+            charbon roux, qui est une espece de terre bruslée du feu resserré dessous les montagnes;
+            ce dernier est fort commun en <placeName ref="#Toscane">Toscane</placeName>. Il se
+            trouve encore dans le territoire de <placeName ref="#Baies">Baye</placeName> et de
+              <placeName ref="#Cumes">Cumes</placeName> au milieu des champs une poudre que
               <persName ref="#Vitruve">Vitruve</persName> nomme Pozzolane, laquelle fait prise en
-            l'eau tout incontinent, et donne beaucoup de force aux murailles. L'experience nous a
-            fait connoistre que de tous les sables de cave, le blanc est le pire : et qu'entre ceux
-            de rivière, le meilleur est dans les lieux les plus rapides, et vers les chaussées du
-            costé que le courant de j'eau tombe, parce qu'il est mieux purge. Le sable de mer vaut
-            moins que les autres : il doit tirer sur le noir, et estre luisant comme du verre : le
-            meilleur est le plus gros et le plus près du rivage. Le sable de cavestant plus gras que
-            les autres fait aussi meilleure prise et tient plus fort, mais il est suit à faire
-            fraction, et pour cette consideration on j'employe ordinairement dans les murs et dans
-            les voutes continues. Celuy des rivieres est excellent pour crespir et pour enduire les
-            dehors ; mais celui de mer n'est pas bon és lieux qui soustiennent quelque charge,
-            d'autant qu'il seche et se redetrempe aussi tost, et se fond mesme à cause qu'il tient
+            l'eau tout incontinent et donne beaucoup de force aux murailles. L'experience nous a
+            fait connoistre que de tous les sables de cave, le blanc est le pire, et qu'entre ceux
+            de rivière, le meilleur est dans les lieux les plus rapides et vers les chaussées du
+            costé que le courant de l'eau tombe, parce qu'il est mieux purgé. Le sable de mer vaut
+            moins que les autres: il doit tirer sur le noir et estre luisant comme du verre, le
+            meilleur est le plus gros et le plus prés du rivage. Le sable de cave estant plus gras
+            que les autres fait aussi meilleure prise et tient plus fort, mais il est sujet à faire
+            fraction, et pour cette consideration on l'employe ordinairement dans les murs et dans
+            les voutes continuës. Celuy des rivieres est excellent pour crespir et pour enduire les
+            dehors: mais celuy de mer n'est pas bon és lieux qui soustiennent quelque charge,
+            d'autant qu'il seche et se redétrempe aussi tost, et se fond mesme à cause qu'il tient
             du sel. De tous les sables generalement celuy-là sera tousjours le meilleur, lequel
             estant manié et pressé entre les doigts fera plus de bruit, et estant mis dessus une
-            estoffe blanche n'y laissera point de tache ny de salisseure de terre. Celui qui rend
-            j'eau boveuse et trouble, ne vaut rien du tout, non plus que celui qui a demeure
-            long-temps à j'air, au soleil, à la lune, ou aux brouillars, pource qu'il aura beaucoup
-            amassé de terre, et d'une certaine humeur pourrie d'où naissent tous ces petits
-            arbrisseaux et siguiers sauvages, qui causent de tres grands dommages aux bastiments.
+            estoffe blanche n'y laissera point de tache ny de salisseure de terre. Celuy qui rend
+            l'eau boüeuse et trouble, ne vaut rien du tout, non plus que celuy qui a demeuré
+            long-temps à l'air, au soleil, à la lune, ou aux broüillars, pource qu'il aura beaucoup
+            amassé de terre et d'une certaine humeur pourrie d'où naissent tous ces petits
+            arbrisseaux et siguiers sauvages, qui causent de tres-grands dommages aux bastiments.
           </p>
         </div2>
         <div2 xml:id="L1C5" type="chapitre" n="5">
-          <head> De la Chaux, et de la manière de j'esteindre. CHAPITRE V. </head>
-          <p xml:id="PAL_ATF_L1_L1C5_P1"> Es pierres à faire la chaux, ou se tirent des montagnes,
-            ou se prennent dedans les rivières. Celles de montagne sont tousjours bonnes, pourveu
-            qu'elles soient bien seches et purgées de toute humeur, en sorte qu'elles se cassent
-            facilement, et qu'elles ne soient messées d'aucune matière qui se consommant au feu
-            diminue la pierre. La meilleure chaux sera donc faite de pierre tres dure, pesante et
-            blanche, et qui estant cuitte demeurera seulement legere d'un tiers. Il se trouve encore
-            de certaines pierres spongieuses, lesquelles font une chaux tres propre à la
-            crespisseure des murs. Il y a dans les montagnes de Padove une nature de pierre
-            escaillée dont la chaux est excellente pour les ouvrages exposez à j'air et qui sont
-            dans j'eau, pource qu'elle fait bien-tost sa prise, et dure long-temps. Toute pierre
-            tirée de frais est meilleure à faire la chaux que la ramassée, et particulierement
-            encore celle des caves humides et à j'ombre, que celle des seches ; la blanche est aussi
-            d'un meilleur usage que n'est la brune. Les cailloux qui se rencontrent dans les
-            rivières et dans les torrens font une tres bonne chaux, et j'ouvrage en est fort blanc
-            et poly, c'est pourquoy pour j'ordinaire on s'en sert aux crespisseures des murs. Toute
-            pierre, soit de montagne, soit de riviere, reste plus ou moins de temps à cuire, selon
-            le feu qu'on lui donne, mais communement elle est cuitte en soixante heures. Estant
-            tirée du fourneau, pour la bien esteindre il ne luy faut pas jetter toute son eau à la
-            fois, mais à diversesreprises, continuant tousjours neantmoins jusques à tant qu'elle
-            soit bien détrempée et broyée, <pb n="6"
+          <head>
+            <hi rend="it">De la Chaux, et de la maniere de l'esteindre.</hi>
+            <hi rend="capitals">CHAPITRE V. </hi></head>
+          <p xml:id="PAL_ATF_L1_L1C5_P1">
+            <figure type="lettrine"/><hi rend="capitals">LE</hi>s pierres à faire la chaux, ou se
+            tirent des montagnes, ou se prennent dedans les rivieres. Celles de montagne sont
+            tousjours bonnes, pourveu qu'elles soient bien seches et purgées de toute humeur, en
+            sorte qu'elles se cassent facilement et qu'elles ne soient meslées d'aucune matiere qui
+            se consommant au feu diminuë la pierre. La meilleure chaux sera donc faite de pierre
+            tres-dure, pesante et blanche, et qui estant cuitte demeurera seulement legere d'un
+            tiers. Il se trouve encore de certaines pierres spongieuses, lesquelles font une chaux
+            tres-propre à la crespisseure des murs. Il y a dans les montagnes de <placeName
+              ref="#Padoue">Padouë</placeName> une nature de pierre escaillée dont la chaux est
+            excellente pour les ouvrages exposez à l'air et qui sont dans l'eau, pource qu'elle fait
+            bien-tost sa prise et dure long-temps. Toute pierre tirée de frais est meilleure à faire
+            la chaux que la ramassée, et particulierement encore celle des caves humides et à
+            l'ombre, que celle des seches; la blanche est aussi d'un meilleur usage que n'est la
+            brune. Les cailloux qui se rencontrent dans les rivieres et dans les torrens font une
+            tres-bonne chaux, et l'ouvrage en est fort blanc et poly, c'est pourquoy pour
+            l'ordinaire on s'en sert aux crespisseures des murs. Toute pierre, soit de montagne,
+            soit de riviere, reste plus ou moins de temps à cuire, selon le feu qu'on lui donne,
+            mais communement elle est cuitte en soixante heures. Estant tirée du fourneau, pour la
+            bien esteindre il ne luy faut pas jetter toute son eau à la fois, mais à diverses
+            reprises, continuant tousjours neantmoins jusques à tant qu'elle soit bien détrempée et
+            broyée, <pb n="6"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f18/full/full/0/native.jpg"
-            /> de peur qu'elle ne se brusse, après cela il la faudra mettre en un lieu humide et à
-            j'ombre, sans y messer aucune chose, la tenant couverte seulement d'un sable leger, et
-            elle sera d'autant plus liante et meilleure, qu'elle aura este mieux corroyée, à la
-            reserve de celle qu'on aura faite de cette pierre escailleuse de Padove, laquelle veut
-            estre employée toute frische esteinte, autrement elle se consomme et se brusse, en sorte
-            qu'elle ne fait plus de prise, et devient en tierement inutile. Pour la composition du
-            mortier, il faut y messer le sable avec cette discretion, que s'il est de cave on en
-            mette trois parties sur une de chaux, mais s'il est de meer, ou de riviere, il n'en faut
-            mettre que deux parties sur une de chaux. </p>
+            /> de peur qu'elle ne se brusse. Après cela il la faudra mettre en un lieu humide et à
+            l'ombre, sans y mesler aucune chose, la tenant couverte seulement d'un sable leger, et
+            elle sera d'autant plus liante et meilleure, qu'elle aura este mieux corroyée; à la
+            reserve de celle qu'on aura faite de cette pierre escailleuse de <placeName
+              ref="#Padoue">Padouë</placeName>, laquelle veut estre employée toute fraische
+            esteinte, autrement elle se consomme et se brusle, en sorte qu'elle ne fait plus de
+            prise et devient entierement inutile. Pour la composition du mortier, il faut y mesler
+            le sable avec cette discretion, que s'il est de cave on en mette trois parties sur une
+            de chaux, mais s'il est de mer ou de riviere, il n'en faut mettre que deux parties sur
+            une de chaux. </p>
         </div2>
         <div2 xml:id="L1C6" type="chapitre" n="6">
-          <head> Des Metaux. CHAPITRE VI. </head>
-          <p xml:id="PAL_ATF_L1_L1C6_P1"> Es metaux dont on se sert dans les bastiments, sont, le
-            fer, le plomb, et le cuiure. Le fer est propre à faire des clouds, des gons de portes,
-            des cadenats, les portes meses, les serrures, et autres choses semblables. Il ne se
-            trouve en aucune mine tout pur, mais après j'avoir tiré on le purge avec le feu, où il
-            se prepare en forte qu'il devient fusile, et ainsi quant qu'il soit refroidy j'on en
-            separe j'impur, puis après estre affiné et refroidy il devient luisant, doux et maniable
-            sous le marteau, mais il ne peut quasi plus estre refondu, si j'on ne le met dans des
-            fourneaux faits exprés. Si estant tiré rouge du feu il n'est promptement battu et
-            resserre à coups de marteau, il se gaste et se consomme. Ce sera une marque de sa bonté,
-            si estant reduit en barre, ses veines se trouvent droites et continues, et que les bouts
-            de la barre soient bien nets et sans escume, pource que les veines montrent que le fer
-            sera sans nouds et sans pailles, et par les bouts on verra quel il peut estre au dedans,
-            mais s'il a este forge en lames quarrées, ou de quelque autre figure, les costez en
-            estans droits, nous jugerons qu'il est également bon par tout, puis qu'il aura également
-            resisté aux coups de marteau. </p>
-          <p xml:id="PAL_ATF_L1_L1C6_P2"> Le plomb sert à faire la conuerture des grands Palais, des
-            Temples, des <placeName ref="#Tours">Tours</placeName>, et de tous les edifices publics
-            : on en fait aussi les tuyaux pour conduire j'eau : il sert encore à sceller et affermir
-            les gons et autres ferrures des piedroits des portes et des fenestres. Il s'en trouve de
-            trois sortes, de blanc, de noir, et d'une couleur moyenne entre ces deux-là, d'où vient
-            que quelques-uns j'appellent cendre. Le noir ne se nomme pas ainsi pour estre
-            entierement noir, mais pource qu'il en a quelques taches entremessées parmy sa
-            blancheur, et pour ce regard les anciens luy donnerent cette difference de nom. Le blanc
-            est le plus parfait, et vaut aussi davantage que le noir : le cendre tient le milieu
-            entre j'un et j'autre. On tire le plomb en grandes masses, lesquelles se trouvent ainsi
-            naturellement et sans artifice : il se rencontre aussi quelquefois en petites masses
-            luisantes avec une certaine noirceur, ou bien on le trouve en petites feuilles fort
-            tenues attachées à des cailloux, à du marbre, et à d'autres pierres. Toute sorte de
-            plomb se fond aisément, pource que la chaleur du feu le rend liquide, avant mesme qu'il
-            ait eu le temps de deuenit rouge : mais si on le met en un fourneau bien ardent, il ne
-            peut y resister ny conserver son espece, tellement qu'une partie se change en litarge,
-            et j'autre en escume. De ces trois sortes de plomb, le noir est mol, et par consequent
-            fort souple au marteau ; il est aussi plus pesant qu'aucun des autres : le blanc est
-            plus dur et plus leger, mais le cendré est encore beaucoup plus dur que le blanc, et
-            pour ce qui est du poids, il tient le milieu entre les deux autres. </p>
-          <p xml:id="PAL_ATF_L1_L1C6_P3"> Le cuiure s'employé quelquefois à la couverture des
-            edifices publics, et les anciens en faisoient des clouds que nous appellons communement
+          <head>
+            <hi rend="it">Des Metaux.</hi>
+            <hi rend="capitals">CHAPITRE VI. </hi></head>
+          <p xml:id="PAL_ATF_L1_L1C6_P1">
+            <figure type="lettrine"/><hi rend="capitals">LE</hi>s metaux dont on se sert dans les
+            bastiments sont le fer, le plomb et le cuivre. Le fer est propre à faire des clouds, des
+            gons de portes, des cadenats, les portes mesmes, les serrures et autres choses
+            semblables. Il ne se trouve en aucune mine tout pur, mais aprés l'avoir tiré on le purge
+            avec le feu, où il se prepare en forte qu'il devient fusile, et ainsi avant qu'il soit
+            refroidy l'on en separe l'impur. Puis aprés estre affiné et refroidy il devient luisant,
+            doux et maniable sous le marteau, mais il ne peut quasi plus estre refondu, si l'on ne
+            le met dans des fourneaux faits exprés. Si estant tiré rouge du feu il n'est promptement
+            battu et resserré à coups de marteau, il se gaste et se consomme. Ce sera une marque de
+            sa bonté, si estant reduit en barre, ses veines se trouvent droites et continues, et que
+            les bouts de la barre soient bien nets et sans escume, pource que les veines montrent
+            que le fer sera sans noeuds et sans pailles et par les bouts on verra quel il peut estre
+            au dedans. Mais s'il a este forge en lames quarrées, ou de quelque autre figure, les
+            costez en estans droits nous jugerons qu'il est également bon par tout, puis qu'il aura
+            également resisté aux coups de marteau. </p>
+          <p xml:id="PAL_ATF_L1_L1C6_P2"> Le plomb sert à faire la couverture des grands palais, des
+            temples, des tours et de tous les edifices publics: on en fait aussi les tuyaux pour
+            conduire l'eau. Il sert encore à sceller et affermir les gons et autres ferrures des
+            piedroits des portes et des fenestres. Il s'en trouve de trois sortes, de blanc, de noir
+            et d'une couleur moyenne entre ces deux-là, d'où vient que quelques-uns L'appellent
+            cendré. Le noir ne se nomme pas ainsi pour estre entierement noir, mais pource qu'il en
+            a quelques taches entremeslées parmy sa blancheur et pour ce regard les anciens luy
+            donnerent cette difference de nom. Le blanc est le plus parfai, et vaut aussi davantage
+            que le noir: le cendré tient le milieu entre L'un et l'autre. On tire le plomb en
+            grandes masses, lesquelles se trouvent ainsi naturellement et sans artifice: il se
+            rencontre aussi quelquefois en petites masses luisantes avec une certaine noirceur, ou
+            bien on le trouve en petites feüilles fort tenues attachées à des cailloux, à du marbre,
+            et à d'autres pierres. Toute sorte de plomb se fond aisément, pource que la chaleur du
+            feu le rend liquide, avant mesme qu'il ait eu le temps de devenir rouge: mais si on le
+            met en un fourneau bien ardent, il ne peut y resister ny conserver son espece, tellement
+            qu'une partie se change en litarge, et l'autre en escume. De ces trois sortes de plomb,
+            le noir est mol et par consequent fort souple au marteau, il est aussi plus pesant
+            qu'aucun des autres: le blanc est plus dur et plus leger, mais le cendré est encore
+            beaucoup plus dur que le blanc, et pour ce qui est du poids, il tient le milieu entre
+            les deux autres. </p>
+          <p xml:id="PAL_ATF_L1_L1C6_P3"> Le cuivre s'employé quelquefois à la couverture des
+            edifices publics et les anciens en faisoient des clouds que nous appellons communement
             des harpons de cuivre, lesquels estans fichez dans les pierres aux costez de leurs
-            iointures dessus et dessous, font qu'elles ne sortent jamais de leur place : ils en
+            jointures dessus et dessous, font qu'elles ne sortent jamais de leur place. Ils en
             faisoient aussi les crampons qui servent à joindre ensemble deux pierres bien niment
-            j'une à j'autre. Par le moyen de ces clouds et de ces harpons nous venons a faire en
-            sorte que tout j'edifice, qui est necessairement construit de plusieurs morceaux de
+            l'une à l'autre. Par le moyen de ces clouds et de ces harpons nous venons à faire en
+            sorte que tout l'edifice, qui est necessairement construit de plusieurs morceaux de
             pierres, se trouve tellement joint et lié ensemble, qu'il paroist comme d'une seule
-            piece, et en est bien plus solide, et de plus longue durée. On fait encore ces mesmes
+            piece, et en est bien plus solide et de plus longue durée. On fait encore ces mesmes
             clouds et crampons de fer, mais les anciens employerent plus volontiers ceux de cuivre,
             pource que n'estans pas sujets à la rouille ils durent bien davantage. Ils s'en
             servirent encore à faire les lettres des inscriptions qu'on met quelquefois en la frise
-            des edifices : et quelques autheurs ont remarque que les cent portes si celebres de
-              <placeName ref="#Babylone">Babylone</placeName> estoient fabriquées de ce metail : et
-            les deux colon <pb n="7"
+            des edifices et quelques autheurs ont remarque que les <objectName>cent
+              portes</objectName> si celebres de <placeName ref="#Babylone">Babylone</placeName>
+            estoient fabriquées de ce metail. Et les <objectName>deux colonnes</objectName>
+            <pb n="7"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f19/full/full/0/native.jpg"
-            /> nes de <persName ref="#Hercule">Hercule</persName> és Isles de Gades, lesquelles
-            avoient huit coudées de haut. On tient pour tresexcellent et pour le meilleur de tous
-            celui qui estant tiré de la minière et purgé au feu prend une couleur rouge tirant sur
-            le jaune, et est bien fleury, c'est à dire parsemé de petits trous, lesquels font
-            connoistre qu'il est bien net et bien esputé de toute ordure. Le cuiure rougit au feu de
-            la mesme sorte que le fer, et s'y rend liquide, si bien qu'on le peut jetter en fonte :
-            mais quand on luy donne le feu trop ardent dans le fourneau, il ne le peut endurer, et
-            s'y consomme entierement. Ce metail quoy qu'assez dur se rend neantmoins traittable au
-            marteau, jusques à se laisser reduire en feuilles : il se conserve parfaitement dans la
-            poix fondue, et bien qu'il ne soit pas suiet à la rouille comme le fer, il ne laisse pas
-            pourtant d'en jetter une qui luy est particuliere qu'on appelle verd-de-gris,
-            principalement s'il touche à des choses acres et humides. De cette matière messée avec
-            de j'estain, du plomb, et du leton, lequel est encore une autre espece de cuiure mis en
-            couleur avec de la calamine, il se fait un composé que j'on nomme bronze, dont les
-            Architectes se servent assez ordinairement, pource qu'on en fait des bases, des
-            colonnes, des chapiteaux, des statues, et d'autres choses semblables. A <placeName
-              ref="#Rome">Rome</placeName> en j'Eglise de <persName ref="#SaintJean">Saint
-              Jean</persName> de Latran il y a quatre colonnes de bronze, une desquelles seulement a
-            son chapiteau. <persName ref="#Auguste">Auguste</persName> les avoit fait faire du
-            bronze qui se trouva à la prove des vaisseaux de guerre qu'il conquit sur <persName
-              ref="#MarcantonioRaimondi">Marc-Antoine</persName> en la bataille qu'il lui donna en
-            Epire. Il en reste encore aujourd'hui à <placeName ref="#Rome">Rome</placeName> quatre
-            grandes portes antiques, scavoir, celle de la Rotonde, anciennement appellée le Pantheon
-            : celle de S. Adrian, qui estoit le Temple de <persName ref="#Saturne"
-              >Saturne</persName> : celle de S. Cosme et S. Damian, auparavant de <persName
-              ref="#Castor">Castor</persName> et de <persName ref="#Pollux">Pollux</persName>, ou
-            peut-estre de <persName ref="#Remus">Remus</persName> et <persName ref="#Romulus"
-              >Romulus</persName>: et celle qu'on void à Saincte Agnés hors la porte Viminale,
-            maintenant nommée Saincte Agnés sur la Numentane : mais la plus belle de toutes est à la
-            Rotonde, en la fonte de laquelle les anciens tascherent d'imiter avec artifice cette
-            espece de cuiure Corinthien, sur qui la couleur jaune de j'or dominoit ; car nous lisons
-            que dans le sac et j'embrasement de <placeName ref="#Corinthe">Corinthe</placeName>,
-            j'or et l'argent et le cuiure qui estoient dedans cette fleurissante ville estans tous
-            fondus j'un parmy j'autre, s'allierent et conuertirent en masses, et la fortune messant
-            ensemble diversement ces trois metaux, en composa trois sortes de cuivre, qui depuis fut
-            appelle Corinthien, entre lesquels celui qui se rencontra plus chargé d'argent, à cause
-            de sa blancheur retint beaucoup de sa ressemblance ; et j'autre où j'or prevaloit
-            demeura plus jaune et de couleur d'or : la troisiéme espece fut celle qui participa
-            également de tous les trois. Du depuis ces differentes sortes de cuiure ont esté
-            diversement imitées par les ouvriers. </p>
-          <p xml:id="PAL_ATF_L1_L1C6_P4"> Jusques icy je pense avoir assez amplement traité des
-            choses qu'il est necessaire de considerer, et des matières qu'on doit tenir prestes
-            avant que de s'engager à bastir : maintenant il est à propos de dire aussi quelque chose
-            des fondements, puis que c'est par eux qu'il faut commencer de mettre en œuvre les
+            />de <persName ref="#Hercule">Hercule</persName> és <placeName>Isles de
+              Gades</placeName>, lesquelles avoient huit coudées de haut. On tient pour
+            tres-excellent et pour le meilleur de tous celui qui estant tiré de la miniere et purgé
+            au feu prend une couleur rouge tirant sur le jaune et est bien fleury, c'est à dire
+            parsemé de petits trous, lesquels font connoistre qu'il est bien net et bien espuré de
+            toute ordure. Le cuivre rougit au feu de la mesme sorte que le fer et s'y rend liquide,
+            si bien qu'on le peut jetter en fonte: mais quand on luy donne le feu trop ardent dans
+            le fourneau, il ne le peut endurer et s'y consomme entierement. Ce metail quoy qu'assez
+            dur se rend neantmoins traittable au marteau, jusques à se laisser reduire en feüilles:
+            il se conserve parfaitement dans la poix fonduë et bien qu'il ne soit pas sujet à la
+            rouille comme le fer, il ne laisse pas pourtant d'en jetter une qui luy est particuliere
+            qu'on appelle verd-de-gris, principalement s'il touche à des choses acres et humides. De
+            cette matière meslée avec de l'estain, du plomb et du leton, lequel est encore une autre
+            espece de cuivre mis en couleur avec de la calamine, il se fait un composé que l'on
+            nomme bronze, dont les architectes se servent assez ordinairement, pource qu'on en fait
+            des bases, des colonnes, des chapiteaux, des statues et d'autres choses semblables. A
+              <placeName ref="#Rome">Rome</placeName> en l'<objectName
+              ref="#FrancescoBorrominiGiacomoDellaPortaDomenicoFontanaBasiliqueSaintJeanLatranRome"
+              >Eglise de Saint Jean de Latran</objectName> il y a <objectName>quatre colonnes de
+              bronze</objectName>, une desquelles seulement a son chapiteau. <persName
+              ref="#Auguste">Auguste</persName>
+            <objectName>les</objectName> avoit fait faire du bronze qui se trouva à la prove des
+            vaisseaux de guerre qu'il conquit sur <persName ref="#MarcAntoine"
+              >Marc-Antoine</persName> en la bataille qu'il lui donna en Epire. Il en reste encore
+            aujourd'hui à <placeName ref="#Rome">Rome</placeName> quatre grandes portes antiques,
+            sçavoir <objectName ref="#PortePantheonRome">celle</objectName> de la <objectName
+              ref="#PantheonRome">Rotonde</objectName>, anciennement appellée le <objectName
+              ref="#PantheonRome">Pantheon </objectName>: <objectName>celle de S.
+              Adrian</objectName>, qui estoit le <objectName ref="#TempleDeSaturneRome">Temple de
+              Saturne </objectName>, <objectName ref="#PorteBasiliqueSantiCosmaDamianoRome"
+              >celle</objectName> de <objectName
+              ref="#LuigiArrigucciOrazioTorrianiBasiliqueSantiCosmaDamianoRome">S. Cosme et S.
+              Damian</objectName>, auparavant de <objectName ref="#TempleDesDioscuresRome">Castor et
+              de Pollux</objectName>, ou peut-estre de <objectName ref="#TempleRomulusRome">Remus et
+              Romulus</objectName> et celle qu'on void à <objectName
+              ref="#BasiliqueSainteAgnesHorsLesMursRome">Saincte Agnés</objectName> hors la
+              <objectName ref="#PorteViminaleRome">porte Viminale</objectName>, maintenant nommée
+              <objectName>Saincte Agnés sur la Numentane</objectName>. Mais la plus belle de toutes
+            est à la <objectName ref="#SantuarioMariaDellaRotondaAlbanoLaziale"
+            >Rotonde</objectName>, en la fonte de laquelle les anciens tascherent d'imiter avec
+            artifice cette espece de cuivre corinthien, sur qui la couleur jaune de l'or dominoit.
+            Car nous lisons que dans le sac et l'embrasement de <placeName ref="#Corinthe"
+              >Corinthe</placeName>, l'or et l'argent et le cuivre qui estoient dedans cette
+            fleurissante ville estans tous fondus l'un parmy l'autre, s'allierent et convertirent en
+            masses et la fortune messant ensemble diversement ces trois metaux, en composa trois
+            sortes de cuivre, qui depuis fut appelle corinthien, entre lesquels celui qui se
+            rencontra plus chargé d'argent, à cause de sa blancheur retint beaucoup de sa
+            ressemblance et l'autre où l'or prevaloit demeura plus jaune et de couleur d'or. La
+            troisiéme espece fut celle qui participa également de tous les trois. Du depuis ces
+            differentes sortes de cuivre ont esté diversement imitées par les ouvriers. </p>
+          <p xml:id="PAL_ATF_L1_L1C6_P4"> Jusques icy je pense avoir assez amplement traitté des
+            choses qu'il est necessaire de considerer et des matieres qu'on doit tenir prestes avant
+            que de s'engager à bastir. Maintenant il est à propos de dire aussi quelque chose des
+            fondements, puis que c'est par eux qu'il faut commencer de mettre en oeuvre les
             provisions qu'on a preparées. </p>
         </div2>
         <div2 xml:id="L1C7" type="chapitre" n="7">
