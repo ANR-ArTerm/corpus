@@ -79,7 +79,7 @@
         <segmentation>
           <p>Les paragraphes sont indiqués dans des balises p, enfant de balises
             div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface +
-            avertissement + privilege + errata) + body (4 livres avec C1 dissertation et C2
+            avertissement + privilege) + body (4 livres avec C1 dissertation et C2
             supplément à la dissertation) + back (table des matieres)</p>
         </segmentation>
         <hyphenation eol="none"/>
@@ -432,55 +432,6 @@
         <p xml:id="DUP_TP_privilege_P4">Achevé d'imprimer pour la premiere fois le <date
             when="1699-03-28">28 Mars 1699</date>.</p>
       </div>
-      <div type="errata" xml:lang="fra">
-        <pb n="XVIII"
-          facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f20/full/full/0/native.jpg"/>
-        <figure type="ornement"/>
-        <head>
-          <hi rend="it">ERRATA.</hi>
-        </head>
-        <p xml:id="DUP_TP_errata_P1"><hi rend="capitals">CEUX</hi> qui font imprimer des livres
-          savent qu'il s'y glisse des fautes malgré la diligence des Auteurs. On remarquera ici
-          quelques mots où des lettres majuscules auroient eu meilleure grace : On y trouvera des
-          omissions ou des additions de lettres en quelques endroits. Mais voici des fautes que les
-          lecteurs sont priez d'excuser plus particulierement.</p>
-        <list rend="bulleted">
-          <!--renvois-->
-          <!--besoin de vérifier si les ids des paragraphes correspondent bien-->
-          <item><hi rend="capitals">A</hi> La page <ptr type="renvoi" target="">4</ptr>, <ptr type="renvoi" target="">l</ptr>. <ptr type="renvoi" target="">8</ptr>, au lieu de qu'on apelle lisez ce qu'on
-            apelle.</item>
-          <item><ptr type="renvoi" target="#DUP_TP_L1_L1C1_P16">Page 9</ptr> lig. 14, lisez il m'a toujours.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L1_L1C1_P17">Page 10</ptr> lig. 4, lisez fait au lieu de faite.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L1_L1C1_P19">Pag. 11</ptr> lig. 2, lisez suivie, et lig. 12 lisez proposé.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L1_L1C1_P26">Pag. 16</ptr> lig. derniere, lisez qui avoient.</item>
-          <item>P. <ptr type="renvoi" target="DUP_TP_L1_L1C1_P45">31</ptr>, <ptr type="renvoi" target="">l</ptr>. <ptr type="renvoi" target="">14</ptr>, lisez, lequel est, au lieu de qui est.</item>
-          <item>P. <ptr type="renvoi" target="DUP_TP_L1_L1C1_P48">33</ptr>, <ptr type="renvoi" target="">l</ptr>. <ptr type="renvoi" target="">3</ptr>, lisez des ouvrages et non pas de.</item>
-          <item> <ptr type="renvoi" target="DUP_TP_L1_L1C2_P11">P. 50</ptr>, lig. 25, efacez avoit nom et lisez un autre <persName ref="#Dinias"
-              >Dinias</persName>.</item>
-          <item>P. <ptr type="renvoi" target="DUP_TP_L1_L1C2_P14">52</ptr>, <ptr type="renvoi" target="">l</ptr>. <ptr type="renvoi" target="">11</ptr>, lisez qui regnerent, au lieu de qui durerent.</item>
-          <item> <ptr type="renvoi" target="DUP_TP_L1_L1C2_P22">P. 57</ptr>, lig 22, lisez <persName ref="#Antiphile">Antiphile</persName>.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L1_L1C2_P26">P. 59</ptr>, lig. 18, lisez l'Atitude.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L1_L1C2_P26">P. 59</ptr>, lig. 18, lisez au reste.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L1_L1C2_P14">P. 52</ptr>, lig. 10, lisez au reste.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L2_L2C1_P24">P. 97</ptr>, lig. 15 et 16, lisez d'aprés des nudités, d'apres des draperies.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L2_L2C1_P50">P. 114</ptr>, lig. 18, lisez d'aprés le modele.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L2_L2C2_L2C2SC7_P3">P. 145</ptr>, lig. 28, lisez et de la ceinture.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L2_L2C2_L2C2SC16_P16">P. 171</ptr>, lig. 28, lisez d'aprés le modele.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L3_L3C1_P62">P. 212</ptr>, lisez à son bonnet, et à lig. 2, dans ses genoux.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L3_L3C1_P63">P. 213</ptr>, lig. 30, lisez <persName ref="#Constantin">Constantin</persName> et à lig.
-            20, lisez Choeur.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L3_L3C1_P77">P. 221</ptr>, lig. 7, lisez fut au reste une ville, et lig. 22, lisez cela est d'un grand
-            relief.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L3_L3C2_L3C2SC3_P8">P. 244</ptr>, lig. derniere, lisez s'en porteroient, non pas s'emporteroient.</item>
-          <item> <ptr type="renvoi" target="DUP_TP_L3_L3C2_L3C2SC8_P7">P. 269</ptr>, lig. 28, lisez de placer.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L4_L4C1_P31">P. 304</ptr>, lig. 17, lisez idées.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L4_L4C1_P46">P. 314</ptr>, lig. 8, lisez des meilleurs Peintres.</item>
-          <item><ptr type="renvoi" target="DUP_TP_L4_L4C1_P50">P. 318</ptr>, lig. 8, lisez de bien alterer non pas de bien atirer.</item>
-        </list>
-        <pb n="XIX"
-          facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f21/full/full/0/native.jpg"/>
-        <figure type="dessin" xml:id="DUP_TP_p23"/>
-      </div>
     </front>
     <body>
       <div1 xml:id="L1" type="livre" n="1" xml:lang="fra">
@@ -556,7 +507,7 @@
               anciens</bibl>, faisant la division de ses parties, nous veut persuader qu'elles sont
             l'invention ou l'Histoire : la couleur, la lumiere et les ombres ; le clair et
             l'obscur ; le mouvement ; et dans le mouvement l'action et la passion ; l'arrangement
-            enfin des objets, ou la disposition des parties d'un ouvrage, qu'on apelle aussi
+            enfin des objets, ou la disposition des parties d'un ouvrage, ce qu'on apelle aussi
             l'ordonnance.</p>
           <p xml:id="DUP_TP_L1_L1C1_P9">Mais qui ne sait pas que l'Histoire dans la Peinture est une
             sorte d'ouvrage, comme le Païsage et les Portraits, et qu'elle est diferente de
@@ -677,7 +628,7 @@
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f31/full/full/0/native.jpg"
             /> qui dépendent du jugement du Peintre et qui, avec l'Invention, sont comprises sous la
             partie qui s'apelle la Composition. On peut dire là méme chose de la partition que
-              <persName ref="#FrancoisDuJon">Junius</persName> a faite de la Peinture, puisque
+              <persName ref="#FrancoisDuJon">Junius</persName> a fait de la Peinture, puisque
             l'Invention et la Disposition sont visiblement des dependences de la Composition.</p>
           <p xml:id="DUP_TP_L1_L1C1_P18">Je dis donc que cette division se fait plus commodement, en
             trois principales parties : La premiere est le Dessein, la Seconde le Coloris et la
@@ -695,7 +646,7 @@
               >Junius</persName> et les autres auteurs dont j'ay parlé que je rejete leur division
             des parties de la Peinture : C'est plutôt parce qu'elle <pb n="11"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f32/full/full/0/native.jpg"
-            /> m'a parû moins commode que celle que j'ay suivi, et que tous les Peintres que j'ay
+            /> m'a parû moins commode que celle que j'ay suivie, et que tous les Peintres que j'ay
             consulté la-dessus se sont declarez de ce Sentiment, avec les meilleurs auteurs
             modernes, <persName ref="#LeonBattistaAlberti">Leon Baptiste Albert</persName>,
               <persName ref="#GiorgioVasari">Vazari</persName>, <persName
@@ -704,7 +655,7 @@
             renferment tout ce qui depend de cét Art puisqu'il n'y a rien dans les Ouvrages de
             Peinture qui ne se reduise à quelqu'une de ces trois parties.</p>
           <p xml:id="DUP_TP_L1_L1C1_P20">Mais puis que nous avons resolu d'en parler amplement
-            ailleurs, et que la description que nous avons proposée de la Peinture et de la
+            ailleurs, et que la description que nous avons proposé de la Peinture et de la
             Sculpture ne comprend que ce qui leur est essentiel et propre, en qualité d'Arts
             liberaux : Donnons encore une Idée de ces deux professions, où l'on puisse facilement
             connoître leur noblesse et leur dignité. Metons les donc en parallèle l'un et l'autre et
@@ -814,7 +765,7 @@
             politesse non seulement les autres Grecs, mais tous les peuples de la terre, ils se
             distinguerent principalement par l'estime qu'ils faisoient de la Peinture : Car ils
             avoient eu le soin de faire Peindre leurs actions mémorables par les plus fameux
-            Peintres qui avoint parû. Et dans <placeName ref="#Athenes">Athénes</placeName> le
+            Peintres qui avoient parû. Et dans <placeName ref="#Athenes">Athénes</placeName> le
             pinceau aprénoit <pb n="17"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f38/full/full/0/native.jpg"
             /> encore mieux que les Annales l'Histoire des plus remarquables avantures de cette
@@ -1148,7 +1099,7 @@
             pourtant n'en paroit pas si exquis qu'à la principale Histoire.</p>
           <p xml:id="DUP_TP_L1_L1C1_P46">Puisque je me suis engagé si avant dans les ouvrages de
               <persName ref="#NicolasBachelier">Bachelier</persName>, je parlerai encore du
-              <objectName>Maître Autel de la méme Eglise</objectName>, qui est une excellente piece
+              <objectName>Maître Autel de la méme Eglise</objectName>, lequel est une excellente piece
             de Sculpture et d'Architecture, ayant trois corps un peu avancez, dont l'un est au
             milieu, les autres sont sur les credences : Chacun est fait de deux colomnes
             Corintiennes, entre lesquelles il y a des niches où l'on voit à celle du milieu une
@@ -1186,7 +1137,7 @@
             de lui, suivant <pb n="33"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f54/full/full/0/native.jpg"
             /> que j'ay apris des connoisseurs : Ils sont de bois ou de stuc, et pourtant de fort
-            bonne main. Pour ce qui est de ouvrages de <persName ref="#NicolasBachelier"
+            bonne main. Pour ce qui est des ouvrages de <persName ref="#NicolasBachelier"
               >Bachelier</persName> dont j'ay parlé, ils sont de pierre : on les a chargez, la
             plû-part d'or et de couleur ; ce qui plait au peuple mais qui fait de la peine aux
             intelligens.</p>
@@ -1610,7 +1561,7 @@
           <p xml:id="DUP_TP_L1_L1C2_P15">Pendant les règnes suivans des Rois de Perse, savoir
               d'<persName ref="#ArtaxerxesII">Artaxerce Mnémon</persName> qui avoit succedé à
               <persName ref="#DariusII">Darius Nothus</persName> et d'un <persName
-              ref="#ArtaxerxesIII">autre Artaxerce apellé Ochus</persName>, qui durerent aussi
+              ref="#ArtaxerxesIII">autre Artaxerce apellé Ochus</persName>, qui regnerent aussi
             environ soixante-dix ans, les Athéniens qui s'étoient délivrez des trente tirans que
               <persName ref="#Lysandre">Lisander</persName> leur avoir imposez s'adonnerent
             entierement aux beaux Arts : de sorte qu'<persName ref="#Apollodore"
@@ -7784,7 +7735,7 @@
               ref="#NicolasTournier">Tournier</persName> au contraire a autant négligé la belle
             Composition qu'il a été merveilleusement exact et correct dans le Dessein : Les fonds de
             ses Tableaux sont tous obscurs ; sa Bataille de Constantin n'est qu'un Groupe assez
-            confus ; quoi qu'on y remarque de belles figures à mesure que le naturel dont il s'estrev
+            confus ; quoi qu'on y remarque de belles figures à mesure que le naturel dont il s'est
             servi a été beau. À mon avis, ce Peintre avoit le talent merveilleux pour les Portraits,
             parce qu'il copioit exactement la nature dans ses figures.</p>
           <p xml:id="DUP_TP_L4_L4C1_P74"> Aprés avoir remarqué tant de difficultez dans la
