@@ -27,7 +27,7 @@
         <pubPlace>Paris</pubPlace>
         <date when="2028">2028</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Corpora © 2028
             by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
         </availability>
       </publicationStmt>
@@ -79,7 +79,7 @@
         <segmentation>
           <p>Les paragraphes sont indiqués dans des balises p, enfant de balises
             div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface +
-            avertissement + privilege + errata) + body (4 livres avec C1 dissertation et C2
+            avertissement + privilege) + body (4 livres avec C1 dissertation et C2
             supplément à la dissertation) + back (table des matieres)</p>
         </segmentation>
         <hyphenation eol="none"/>
@@ -106,7 +106,7 @@
                 GREZ</persName>, Avocat en parlement.</hi>
           </titlePart>
         </docTitle>
-        <figure type="ornement" key="DupuyDugrez_TraitePeinture-page4"/>
+        <figure type="ornement"/>
         <byline>A <placeName ref="#Toulouse">Toulouse</placeName>, Chez la VEUVE de <persName
             ref="#JeanPech">J. Pech</persName> et <persName ref="#AntoinePech">A. Pech</persName>,
           Imprimeurs du College de la Compagnie de JESUS, à l'Enseigne du Nom de JESUS.</byline>
@@ -115,7 +115,7 @@
       <div type="preface" xml:lang="fra">
         <pb n="I"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f3/full/full/0/native.jpg"/>
-        <figure type="ornement" key="DupuyDugrez_TraitePeinture-page5"/>
+        <figure type="ornement"/>
         <head>
           <hi rend="capitals">PREFACE</hi>
         </head>
@@ -184,11 +184,11 @@
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f7/full/full/0/native.jpg"/>
         <p xml:id="DUP_TP_preface_P11">C'est aussi dans l'ordre, dans la métode que j'ay suivie, et
           dans un soin exact d'expliquer toutes choses, qu'on peut remarquer de la nouveauté :
-          Principalement dans le petit <bibl key="dupuydugrezTraitePeinturePour1699a">traité d'Optique</bibl> que j'ay ajoûté à mon ouvrage,
-          et qui est entierement de mon invention, ne connoissant point d'Auteur qui en ait êcrit de
-          cette maniere.</p>
+          Principalement dans le petit <bibl key="dupuydugrezTraitePeinturePour1699a">traité
+            d'Optique</bibl> que j'ay ajoûté à mon ouvrage, et qui est entierement de mon invention,
+          ne connoissant point d'Auteur qui en ait êcrit de cette maniere.</p>
         <p xml:id="DUP_TP_preface_P12">Et afin que vous sachiez d'abord l'ordre que j'ay suivi dans
-          mon traité, je l'ay divisé en quatre Dissertations : Dans la premiere je donne des idées
+          mon traité, je l'ay divisé en quatre Dissertations : Dans <ptr type="renvoi" target="L1C1">la premiere</ptr> je donne des idées
           assez précises de la Peinture, par sa définition et par sa division, traitant cette
           matiere comme si je parlois de la Rétorique ou de l'Art Poëtique, ou même d'une veritable
           Sience. Je fais ensuite le parallele de la Peinture et de la Sculpture, et je tâche de
@@ -203,14 +203,14 @@
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f8/full/full/0/native.jpg"/>
         <p xml:id="DUP_TP_preface_P13">Mais n'ayant peu comprendre, dans les bornes d'une seule
           Dissertation, tout ce qui peut être avantageux à la gloire de l'Art que je traite : J'ay
-          ajoûté un Suplement qui contient ce que <persName ref="#Quintilien">Quintilien</persName>
+          ajoûté un <ptr type="renvoi" target="#L1C2">Suplement</ptr> qui contient ce que <persName ref="#Quintilien">Quintilien</persName>
           a dit en faveur de la Peinture, pour la mettre au nombre des Arts Liberaux du premier
           ordre. On y voit un abregé curieux de l'Histoire des Peintres de l'Antiquité, aprés ce que
             <persName ref="#Pline">Pline</persName> et quelques autres en ont êcrit. Puis venant aux
           Restaurateurs de ce bel Art dans les derniers siecles, je fais pareillement l'Histoire de
           toutes les Ecoles modernes de Peinture, où je parle succinctement de ceux qui en ont
           soûtenu la reputation, depuis qu'elles ont êté formées.</p>
-        <p xml:id="DUP_TP_preface_P14">Ma deuxiéme Dissertation est sur le Dessein, qui sert de base
+        <p xml:id="DUP_TP_preface_P14">Ma <ptr type="renvoi" target="#L2C1">deuxiéme Dissertation</ptr> est sur le Dessein, qui sert de base
           et de regle à plusieurs autres Arts : J'explique ce qu'on entend proprement par le
           Dessein, et en suite j'enseigne une metode aisée et naturelle pour s'y avancer. Je parle
           encore des Maîtres qu'il faut tâcher d'imiter, et d'un moyen tres-facile pour faire une
@@ -220,7 +220,7 @@
         <pb n="VII"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f9/full/full/0/native.jpg"/>
         <p xml:id="DUP_TP_preface_P15">Et comme l'unique but du dessein est, à mon avis, la Sience
-          de la proportion, cette Dissertation est de même suivie d'un Suplément, où je parle de la
+          de la proportion, cette Dissertation est de même suivie d'un <ptr type="renvoi" target="#L2C2">Suplément</ptr>, où je parle de la
           Structure du corps humain, et où je raporte le sentiment de ceux qui ont le mieux enseigné
           les proportions : Je commence par l'opinion de <persName ref="#Vitruve"
           >Vitruve</persName>, puis j'explique celle d'<persName ref="#AlbrechtDurer">Albert
@@ -230,7 +230,7 @@
             ref="#DanieleBarbaro">Barbaro Patriarche d'Aquilée</persName>; de <persName
             ref="#GiovanniPaoloLomazzo">Jean-Paul Lomasse Milanois</persName>, et enfin de quelques
           autres plus modernes.</p>
-        <p xml:id="DUP_TP_preface_P16">La troisiéme Dissertation traite du Coloris : J'explique en
+        <p xml:id="DUP_TP_preface_P16">La <ptr type="renvoi" target="#L3C1">troisiéme Dissertation</ptr> traite du Coloris : J'explique en
           premier lieu ce que c'est que le Coloris parmi les Peintres; j'y parle de la lumiere et
           des ombres; je fais voir ce qui en apartient au Dessein, et ce qui dépend de la couleur.
           Je m'arrête quelques momens sur la distribution qu'on doit faire des lumières suivant
@@ -243,7 +243,7 @@
             ref="#Toulouse">Toulouse</placeName> sur lesquels on peut faire choix d'un bon
           Coloris.</p>
         <p xml:id="DUP_TP_preface_P17">Mais comme c'est la partie la plus pratique de la Peinture
-          j'ay pareillement ajoûté à cette Dissertation un Suplément, où aprés avoir parlé de
+          j'ay pareillement ajoûté à cette Dissertation un <ptr type="renvoi" target="#L3C2">Suplément</ptr>, où aprés avoir parlé de
           diverses manieres de peindre de l'Antiquité, et remarqué celles qui se sont conservées, et
           celles dont l'usage s'est perdu, j'en propose d'autres qui étoient inconnues aux Anciens,
           et que nous avons inventées; j'entre dans l'Atelier du Peintre, où j'enseigne aprés ceux
@@ -252,7 +252,7 @@
           Fraisque, à la Détrempe, à Huile et à la Miniature. Je donne ensuite quelques preceptes
           pour l'aplication des couleurs dans la Miniature, lesquels peuvent servir de regle dans
           toutes les autres manieres de peindre.</p>
-        <p xml:id="DUP_TP_preface_P18">La quatriéme Dissertation comprend tout ce qui concerne la
+        <p xml:id="DUP_TP_preface_P18">La <ptr type="renvoi" target="#L4C1">quatriéme Dissertation</ptr> comprend tout ce qui concerne la
           Composition que j'explique <pb n="IX"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f11/full/full/0/native.jpg"/>
           avec ordre, comme les autres parties de mon sujet. Celle-ci renferme l'Invention,
@@ -339,12 +339,12 @@
           pouvois me persuader d'avoir mérité l'aprobation particuliére de ceux qui connoissent, qui
           pratiquent, ou qui aiment la Peinture : Et si quelques autres êtoient poussés par mon
           exemple à travailler sur la méme matiére.</p>
-        <figure type="ornement" key="DupuyDugrez_TraitePeinture-page18"/>
+        <figure type="ornement"/>
       </div>
       <div type="avertissement" xml:lang="fra">
         <pb n="XV"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f17/full/full/0/native.jpg"/>
-        <figure type="ornement" key="DupuyDugrez_TraitePeinture-page19"/>
+        <figure type="ornement"/>
         <head>
           <hi rend="it">AVERTISSEMENT.</hi>
         </head>
@@ -377,7 +377,7 @@
       <div type="privilege" xml:lang="fra">
         <pb n="XVI"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f18/full/full/0/native.jpg"/>
-        <figure type="ornement" key="DupuyDugrez_TraitePeinture-page20"/>
+        <figure type="ornement"/>
         <head>
           <hi rend="it">Extrait du Privilege du Roy</hi>
         </head>
@@ -432,60 +432,13 @@
         <p xml:id="DUP_TP_privilege_P4">Achevé d'imprimer pour la premiere fois le <date
             when="1699-03-28">28 Mars 1699</date>.</p>
       </div>
-      <div type="errata" xml:lang="fra">
-        <pb n="XVIII"
-          facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f20/full/full/0/native.jpg"/>
-        <figure type="ornement" key="DupuyDugrez_TraitePeinture-page22"/>
-        <head>
-          <hi rend="it">ERRATA.</hi>
-        </head>
-        <p xml:id="DUP_TP_errata_P1"><hi rend="capitals">CEUX</hi> qui font imprimer des livres
-          savent qu'il s'y glisse des fautes malgré la diligence des Auteurs. On remarquera ici
-          quelques mots où des lettres majuscules auroient eu meilleure grace : On y trouvera des
-          omissions ou des additions de lettres en quelques endroits. Mais voici des fautes que les
-          lecteurs sont priez d'excuser plus particulierement.</p>
-        <list rend="bulleted">
-          <item><hi rend="capitals">A</hi> La page 4, l. 8, au lieu de qu'on apelle lisez ce qu'on
-            apelle.</item>
-          <item>Page 9 lig. 14, lisez il m'a toujours.</item>
-          <item>Page 10 lig. 4, lisez fait au lieu de faite.</item>
-          <item>Pag. 11 lig. 2, lisez suivie, et lig. 12 lisez proposé.</item>
-          <item>Pag. 16 lig. derniere, lisez qui avoient.</item>
-          <item>P. 31, l. 14, lisez, lequel est, au lieu de qui est.</item>
-          <item>P. 33, l. 3, lisez des ouvrages et non pas de.</item>
-          <item> P. 50, lig. 25, efacez avoit nom et lisez un autre <persName ref="#Dinias"
-              >Dinias</persName>.</item>
-          <item>P. 52, l. 11, lisez qui regnerent, au lieu de qui durerent.</item>
-          <item> P. 57, lig 22, lisez <persName ref="#Antiphile">Antiphile</persName>.</item>
-          <item>P. 59, lig. 18, lisez l'Atitude.</item>
-          <item>P. 59, lig. 18, lisez au reste.</item>
-          <item>P. 52, lig. 10, lisez au reste.</item>
-          <item>P. 97, lig. 15 et 16, lisez d'aprés des nudités, d'apres des draperies.</item>
-          <item>P. 114, lig. 18, lisez d'aprés le modele.</item>
-          <item>P. 145, lig. 28, lisez et de la ceinture.</item>
-          <item>P. 171, lig. 28, lisez d'aprés le modele.</item>
-          <item>P. 212, lisez à son bonnet, et à lig. 2, dans ses genoux.</item>
-          <item>P. 213, lig. 30, lisez <persName ref="#Constantin">Constantin</persName> et à lig.
-            20, lisez Choeur.</item>
-          <item>P. 221, lig. 7, lisez fut au reste une ville, et lig. 22, lisez cela est d'un grand
-            relief.</item>
-          <item>P. 244, lig. derniere, lisez s'en porteroient, non pas s'emporteroient.</item>
-          <item> P. 269, lig. 28, lisez de placer.</item>
-          <item>P. 304, lig. 17, lisez idées.</item>
-          <item>P. 314, lig. 8, lisez des meilleurs Peintres.</item>
-          <item>P. 318, lig. 8, lisez de bien alterer non pas de bien atirer.</item>
-        </list>
-        <pb n="XIX"
-          facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f21/full/full/0/native.jpg"/>
-        <figure type="dessin"/>
-      </div>
     </front>
     <body>
       <div1 xml:id="L1" type="livre" n="1" xml:lang="fra">
         <div2 xml:id="L1C1" type="chapitre" n="1">
           <pb n="1"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f22/full/full/0/native.jpg"/>
-          <figure type="ornement" key="DupuyDugrez_TraitePeinture-page24"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">TRAITE SUR LA PEINTURE<lb/> PREMIERE DISSERTATION,</hi>
             <lb/>
@@ -550,11 +503,12 @@
           <pb n="4"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f25/full/full/0/native.jpg"/>
           <p xml:id="DUP_TP_L1_L1C1_P8"><persName ref="#FrancoisDuJon">François Junius</persName>
-            Auteur du <bibl key="jon1591-1677PeintureAnciens1637">Traité de la Peinture des anciens</bibl>, faisant la division de ses
-            parties, nous veut persuader qu'elles sont l'invention ou l'Histoire : la couleur, la
-            lumiere et les ombres ; le clair et l'obscur ; le mouvement ; et dans le mouvement
-            l'action et la passion ; l'arrangement enfin des objets, ou la disposition des parties
-            d'un ouvrage, qu'on apelle aussi l'ordonnance.</p>
+            Auteur du <bibl key="jon1591-1677PeintureAnciens1637">Traité de la Peinture des
+              anciens</bibl>, faisant la division de ses parties, nous veut persuader qu'elles sont
+            l'invention ou l'Histoire : la couleur, la lumiere et les ombres ; le clair et
+            l'obscur ; le mouvement ; et dans le mouvement l'action et la passion ; l'arrangement
+            enfin des objets, ou la disposition des parties d'un ouvrage, ce qu'on apelle aussi
+            l'ordonnance.</p>
           <p xml:id="DUP_TP_L1_L1C1_P9">Mais qui ne sait pas que l'Histoire dans la Peinture est une
             sorte d'ouvrage, comme le Païsage et les Portraits, et qu'elle est diferente de
             l'invention, comme l'éfet l'est de sa cause ? C'est par la même raison qu'elle n'est pas
@@ -595,13 +549,13 @@
             /> qui peut être. Ainsi si elle n'est pas possible dans l'ordre des choses naturelles,
             ou qui semblent naturelles, on ne doit point en former un'Image. C'est aussi la pensée
               d'<persName ref="#Horace">Horace</persName>, qui a remarqué fort judicieusement dans
-            son <bibl key="HoraceArsPoetica">Epitre aux Pisons</bibl> qu'il n'y a rien de plus ridicule que de Peindre une
-            Figure Humaine qui ait la Téte d'un Cheval : Parce que c'est un assemblage tout oposé à
-            l'ordre de la nature, qui s'est elle même prescrit des bornes, qui n'offensent jamais la
-            raison. C'est un'idée extravagante, qui fait plutôt de la peine qu'elle ne donne du
-            plaisir à la veue : bien diferente de celles qui tirent leur origine de l'Histoire
-            fabuleuse comme les Sirenes, les Centaures et les Satires, où l'homme conserve sa
-            dignité, par dessus la nature de la bête.</p>
+            son <bibl key="HoraceArsPoetica">Epitre aux Pisons</bibl> qu'il n'y a rien de plus
+            ridicule que de Peindre une Figure Humaine qui ait la Téte d'un Cheval : Parce que c'est
+            un assemblage tout oposé à l'ordre de la nature, qui s'est elle même prescrit des
+            bornes, qui n'offensent jamais la raison. C'est un'idée extravagante, qui fait plutôt de
+            la peine qu'elle ne donne du plaisir à la veue : bien diferente de celles qui tirent
+            leur origine de l'Histoire fabuleuse comme les Sirenes, les Centaures et les Satires, où
+            l'homme conserve sa dignité, par dessus la nature de la bête.</p>
           <p xml:id="DUP_TP_L1_L1C1_P13">Quelque liberté que les Peintres et les Poëtes ayent pris
             dans leur Art, il n'est pas permis aux uns ni aux autres de s'eloigner de la
             vraisemblance, dont ils doivent indispensablement garder les regles. Ce n'est pas sans
@@ -672,9 +626,9 @@
             l'Invention qui est un talent naturel plutôt qu'aquis : ni avec la disposition,
             l'ornement et la convenance, <pb n="10"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f31/full/full/0/native.jpg"
-            /> qui dépendent du jugement au Peintre et qui, avec l'Invention, sont comprises sous la
+            /> qui dépendent du jugement du Peintre et qui, avec l'Invention, sont comprises sous la
             partie qui s'apelle la Composition. On peut dire là méme chose de la partition que
-              <persName ref="#FrancoisDuJon">Junius</persName> a faite de la Peinture, puisque
+              <persName ref="#FrancoisDuJon">Junius</persName> a fait de la Peinture, puisque
             l'Invention et la Disposition sont visiblement des dependences de la Composition.</p>
           <p xml:id="DUP_TP_L1_L1C1_P18">Je dis donc que cette division se fait plus commodement, en
             trois principales parties : La premiere est le Dessein, la Seconde le Coloris et la
@@ -692,7 +646,7 @@
               >Junius</persName> et les autres auteurs dont j'ay parlé que je rejete leur division
             des parties de la Peinture : C'est plutôt parce qu'elle <pb n="11"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f32/full/full/0/native.jpg"
-            /> m'a parû moins commode que celle que j'ay suivi, et que tous les Peintres que j'ay
+            /> m'a parû moins commode que celle que j'ay suivie, et que tous les Peintres que j'ay
             consulté la-dessus se sont declarez de ce Sentiment, avec les meilleurs auteurs
             modernes, <persName ref="#LeonBattistaAlberti">Leon Baptiste Albert</persName>,
               <persName ref="#GiorgioVasari">Vazari</persName>, <persName
@@ -701,7 +655,7 @@
             renferment tout ce qui depend de cét Art puisqu'il n'y a rien dans les Ouvrages de
             Peinture qui ne se reduise à quelqu'une de ces trois parties.</p>
           <p xml:id="DUP_TP_L1_L1C1_P20">Mais puis que nous avons resolu d'en parler amplement
-            ailleurs, et que la description que nous avons proposée de la Peinture et de la
+            ailleurs, et que la description que nous avons proposé de la Peinture et de la
             Sculpture ne comprend que ce qui leur est essentiel et propre, en qualité d'Arts
             liberaux : Donnons encore une Idée de ces deux professions, où l'on puisse facilement
             connoître leur noblesse et leur dignité. Metons les donc en parallèle l'un et l'autre et
@@ -795,23 +749,23 @@
             d'or.</p>
           <p xml:id="DUP_TP_L1_L1C1_P27">Si l'Histoire des Peintres de l'antiquité ramassée par
               <persName ref="#Aristodeme">Aristodeme</persName>, dont parle <persName
-                ref="#Philostrate">Philostrate</persName> dans sa Préface des <bibl key="PhilostrateEikones">images</bibl>, Si
-            cette Histoire s'étoit conservée jusques à nos jours, elle nous aprendroit agreablement
-            la vie de ceux qui furent autrefois les plus illustres de cette Profession : Quelles
-            furent les villes qui rendirent le plus d'honneur à la Peinture, Et les Rois qui ont eu
-            autrefois une genereuse complaisance à favoriser le progrés de ce bel Art. Mais cét
-            Auteur, avec dix ou douze autres qui traitoient de la même matiére, nous ont été enlevez
-            par le tems envieux de la gloire des Peintres. On peut conjecturer qu'il y avoit des
-            avantures, dont le récit nous seroit bien agreable puisque les fameux Peintres ont
-            toujours passé leur vie parmi les puissans de leur siécle : Leur pinceau ayant été
-            particuliérement consacré à représenter les personnes extraodinaires, les Princesses et
-            les Souverains, les dieux et les déesses, et enfin tout ce qui est digne d'admiration et
-            de respect parmi les hommes.</p>
+              ref="#Philostrate">Philostrate</persName> dans sa Préface des <bibl
+              key="PhilostrateEikones">images</bibl>, Si cette Histoire s'étoit conservée jusques à
+            nos jours, elle nous aprendroit agreablement la vie de ceux qui furent autrefois les
+            plus illustres de cette Profession : Quelles furent les villes qui rendirent le plus
+            d'honneur à la Peinture, Et les Rois qui ont eu autrefois une genereuse complaisance à
+            favoriser le progrés de ce bel Art. Mais cét Auteur, avec dix ou douze autres qui
+            traitoient de la même matiére, nous ont été enlevez par le tems envieux de la gloire des
+            Peintres. On peut conjecturer qu'il y avoit des avantures, dont le récit nous seroit
+            bien agreable puisque les fameux Peintres ont toujours passé leur vie parmi les puissans
+            de leur siécle : Leur pinceau ayant été particuliérement consacré à représenter les
+            personnes extraodinaires, les Princesses et les Souverains, les dieux et les déesses, et
+            enfin tout ce qui est digne d'admiration et de respect parmi les hommes.</p>
           <p xml:id="DUP_TP_L1_L1C1_P28">Comme les Athéniens ont autrefois surpassé en esprit et en
             politesse non seulement les autres Grecs, mais tous les peuples de la terre, ils se
             distinguerent principalement par l'estime qu'ils faisoient de la Peinture : Car ils
             avoient eu le soin de faire Peindre leurs actions mémorables par les plus fameux
-            Peintres qui avoint parû. Et dans <placeName ref="#Athenes">Athénes</placeName> le
+            Peintres qui avoient parû. Et dans <placeName ref="#Athenes">Athénes</placeName> le
             pinceau aprénoit <pb n="17"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f38/full/full/0/native.jpg"
             /> encore mieux que les Annales l'Histoire des plus remarquables avantures de cette
@@ -908,26 +862,27 @@
             /> parts, pour en faire la matiére de leur magnificence, et les marques de leur
             grandeur.</p>
           <p xml:id="DUP_TP_L1_L1C1_P34">Plusieurs ont crû qu'<persName ref="#Ovide"
-              >Ovide</persName> a composé ses <bibl key="OvideMetamorphoses">Metamorphoses</bibl>, où l'on voit de si belles
-            descriptions sur de peintures qui se voïoient à <placeName ref="#Rome">Rome</placeName>
-            pendant le siécle d'<persName ref="#Auguste">Auguste</persName> : Et nous remarquons que
-            cét Art a suggeré de nouvelles inventions aux Poëtes, desquelles <persName ref="#Homere"
-              >Homere</persName> ne s'étoit pas servi. Ainsi <persName ref="#Virgile"
-              >Virgile</persName> a suivi le genie de quelque excellent Peintre lors qu'aïant
-            conduit <persName ref="#Enee">Enée</persName> au milieu de la ville de <placeName
-              ref="#Carthage">Cartage</placeName>, et dans le Temple que <persName ref="#Didon"
-              >Didon</persName> faisoit êlever avec beaucoup de magnificence à l'honneur de la
-            Déesse <persName ref="#Junon">Junon</persName> : Ce Poëte fait remarquer à son Héros
-            l'Histoire de la prise de <placeName ref="#Troie">Troye</placeName> representée dans des
-            tableaux où il se reconnut lui-méme, parmi les Grecs et les Troyens. Je ne doute point
-            que ces Peintures ne fussent éfectivement dans <placeName ref="#Rome">Rome</placeName>,
-            ou dans <placeName ref="#Naples">Naples</placeName>, et <persName ref="#Virgile"
-              >Virgile</persName> les avoit assurement devant ses yeux, lors qu'il travailloit à cét
-            endroit de son <bibl key="VirgilleAeneis">Eneïde</bibl>. Si bien que la Peinture, dont l'usage n'a été connu
-            que long-tems aprés celui de la Sculpture, ne sauroit lui contester l'ancienneté. Il est
-            vrai que ce desavantage lui est même favorable, parce qu'êtant un Art plus dificile et
-            plus surprenant par ses éféts, elle n'a pû arriver à sa perfection qu'aprés plusieurs
-            siécles, lorsque la Sculpture étoit déja fort connue parmi les hommes.</p>
+              >Ovide</persName> a composé ses <bibl key="OvideMetamorphoses">Metamorphoses</bibl>,
+            où l'on voit de si belles descriptions sur de peintures qui se voïoient à <placeName
+              ref="#Rome">Rome</placeName> pendant le siécle d'<persName ref="#Auguste"
+              >Auguste</persName> : Et nous remarquons que cét Art a suggeré de nouvelles inventions
+            aux Poëtes, desquelles <persName ref="#Homere">Homere</persName> ne s'étoit pas servi.
+            Ainsi <persName ref="#Virgile">Virgile</persName> a suivi le genie de quelque excellent
+            Peintre lors qu'aïant conduit <persName ref="#Enee">Enée</persName> au milieu de la
+            ville de <placeName ref="#Carthage">Cartage</placeName>, et dans le Temple que <persName
+              ref="#Didon">Didon</persName> faisoit êlever avec beaucoup de magnificence à l'honneur
+            de la Déesse <persName ref="#Junon">Junon</persName> : Ce Poëte fait remarquer à son
+            Héros l'Histoire de la prise de <placeName ref="#Troie">Troye</placeName> representée
+            dans des tableaux où il se reconnut lui-méme, parmi les Grecs et les Troyens. Je ne
+            doute point que ces Peintures ne fussent éfectivement dans <placeName ref="#Rome"
+              >Rome</placeName>, ou dans <placeName ref="#Naples">Naples</placeName>, et <persName
+              ref="#Virgile">Virgile</persName> les avoit assurement devant ses yeux, lors qu'il
+            travailloit à cét endroit de son <bibl key="VirgilleAeneis">Eneïde</bibl>. Si bien que
+            la Peinture, dont l'usage n'a été connu que long-tems aprés celui de la Sculpture, ne
+            sauroit lui contester l'ancienneté. Il est vrai que ce desavantage lui est même
+            favorable, parce qu'êtant un Art plus dificile et plus surprenant par ses éféts, elle
+            n'a pû arriver à sa perfection qu'aprés plusieurs siécles, lorsque la Sculpture étoit
+            déja fort connue parmi les hommes.</p>
           <p xml:id="DUP_TP_L1_L1C1_P35">On sait que <persName ref="#MichelAnge">Michel
               Ange</persName> est également reconnu <pb n="22"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f43/full/full/0/native.jpg"
@@ -984,12 +939,13 @@
             Peinture, Sculpture et Architecture, sans lequel les choses les plus somptueuses sont
             ridicules.</p>
           <p xml:id="DUP_TP_L1_L1C1_P37">J'ay été quelque-tems surpris que <persName
-              ref="#Philostrate">Philostrate</persName> eut osé dire dans la Préface de ses
-            <bibl key="PhilostrateEikones">Images</bibl> qu'il n'apartient qu'aux honétes gens de connoître et d'aimer la
-            Peinture : Mais je voi que cela va passer pour une maxime à l'avenir en <placeName
-              ref="#France">France</placeName>, comme dans le siécle de cét Auteur à <placeName
-              ref="#Rome">Rome</placeName>, et que ce sera, peut-être, une marque d'une éducation
-            fort negligée dans les personnes qui n'en connoîtront point le mérite.</p>
+              ref="#Philostrate">Philostrate</persName> eut osé dire dans la Préface de ses <bibl
+              key="PhilostrateEikones">Images</bibl> qu'il n'apartient qu'aux honétes gens de
+            connoître et d'aimer la Peinture : Mais je voi que cela va passer pour une maxime à
+            l'avenir en <placeName ref="#France">France</placeName>, comme dans le siécle de cét
+            Auteur à <placeName ref="#Rome">Rome</placeName>, et que ce sera, peut-être, une marque
+            d'une éducation fort negligée dans les personnes qui n'en connoîtront point le
+            mérite.</p>
           <p xml:id="DUP_TP_L1_L1C1_P38">Les Privileges que le <persName ref="#CharlesVII">Roi
               Charles VII</persName> avoit autrefois acordé aux Peintres et Vitriers par Lettres
             Patentes ne sont pas une preuve qu'on connoissoit la finesse de la Peinture : Car alors
@@ -1143,7 +1099,7 @@
             pourtant n'en paroit pas si exquis qu'à la principale Histoire.</p>
           <p xml:id="DUP_TP_L1_L1C1_P46">Puisque je me suis engagé si avant dans les ouvrages de
               <persName ref="#NicolasBachelier">Bachelier</persName>, je parlerai encore du
-              <objectName>Maître Autel de la méme Eglise</objectName>, qui est une excellente piece
+              <objectName>Maître Autel de la méme Eglise</objectName>, lequel est une excellente piece
             de Sculpture et d'Architecture, ayant trois corps un peu avancez, dont l'un est au
             milieu, les autres sont sur les credences : Chacun est fait de deux colomnes
             Corintiennes, entre lesquelles il y a des niches où l'on voit à celle du milieu une
@@ -1181,7 +1137,7 @@
             de lui, suivant <pb n="33"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f54/full/full/0/native.jpg"
             /> que j'ay apris des connoisseurs : Ils sont de bois ou de stuc, et pourtant de fort
-            bonne main. Pour ce qui est de ouvrages de <persName ref="#NicolasBachelier"
+            bonne main. Pour ce qui est des ouvrages de <persName ref="#NicolasBachelier"
               >Bachelier</persName> dont j'ay parlé, ils sont de pierre : on les a chargez, la
             plû-part d'or et de couleur ; ce qui plait au peuple mais qui fait de la peine aux
             intelligens.</p>
@@ -1366,14 +1322,14 @@
               Ville</placeName>.</p>
           <p xml:id="DUP_TP_L1_L1C1_P62">
             <hi rend="it" xml:lang="lat">MULTA</hi>
-            <figure type="dessin"/>
+            <figure type="ornement"/>
             <hi rend="it" xml:lang="lat">RENASCENTUR.</hi>
           </p>
         </div2>
         <div2 xml:id="L1C2" type="chapitre" n="2">
           <pb n="42"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f63/full/full/0/native.jpg"/>
-          <figure type="ornement" key="DupuyDugrez_TraitePeinture-page65"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">SUPPLEMENT A LA PREMIERE DISSERTATION</hi>
             <lb/>
@@ -1382,8 +1338,8 @@
           </head>
           <p xml:id="DUP_TP_L1_L1C2_P1"><hi rend="capitals">QUAND</hi> on nous dit que la Peinture
             est du nombre des Arts libéraux du premier ordre : on y comprend à même-tems la
-            Sculpture qui a les mémes principes, comme nous avons remarqué dans la premiere
-            dissertation de ce traité. Elles ont cét avantage l'une et l'autre, parce qu'elles
+            Sculpture qui a les mémes principes, comme nous avons remarqué dans la <ptr type="renvoi" target="#L1C1">premiere
+            dissertation de ce traité</ptr>. Elles ont cét avantage l'une et l'autre, parce qu'elles
             dépendent également de l'esprit, de l'intelligence et de cette partie que nous apellons
             le dessein.</p>
           <p xml:id="DUP_TP_L1_L1C2_P2"><persName ref="#Quintilien">Quintilien</persName> faisant la
@@ -1605,7 +1561,7 @@
           <p xml:id="DUP_TP_L1_L1C2_P15">Pendant les règnes suivans des Rois de Perse, savoir
               d'<persName ref="#ArtaxerxesII">Artaxerce Mnémon</persName> qui avoit succedé à
               <persName ref="#DariusII">Darius Nothus</persName> et d'un <persName
-              ref="#ArtaxerxesIII">autre Artaxerce apellé Ochus</persName>, qui durerent aussi
+              ref="#ArtaxerxesIII">autre Artaxerce apellé Ochus</persName>, qui regnerent aussi
             environ soixante-dix ans, les Athéniens qui s'étoient délivrez des trente tirans que
               <persName ref="#Lysandre">Lisander</persName> leur avoir imposez s'adonnerent
             entierement aux beaux Arts : de sorte qu'<persName ref="#Apollodore"
@@ -2451,7 +2407,7 @@
         <div2 xml:id="L2C1" type="chapitre" n="1">
           <pb n="83"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f104/full/full/0/native.jpg"/>
-          <figure type="ornement" key="DupuyDugrez_TraitePeinture-page106"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">TRAITE SUR LA PEINTURE <lb/> DISSERTATION SECONDE,</hi>
             <lb/>
@@ -3235,7 +3191,7 @@
           <p xml:id="DUP_TP_L2_L2C1_P57">
             <hi rend="capitals" xml:lang="ita">NATURA DUCE.</hi>
           </p>
-          <figure type="dessin"/>
+          <figure type="ornement"/>
           <p xml:id="DUP_TP_L2_L2C1_P58">
             <hi rend="capitals" xml:lang="ita">ARTE COMITE.</hi>
           </p>
@@ -3243,7 +3199,7 @@
         <div2 xml:id="L2C2" type="chapitre" n="2">
           <pb n="121"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f142/full/full/0/native.jpg"/>
-          <figure type="ornement" key="DupuyDugrez_TraitePeinture-page144"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">SUPPLEMENT<lb/> A LA SECONDE DISSERTATION,<lb/></hi>
             <hi rend="it">De la Structure et des proportions du corps humain.</hi>
@@ -4495,25 +4451,14 @@
               travail, pourveu qu'on l'empéche de secher promptement ; ce qu'on fait par le moïen de
               linges trempez dans de l'eau fraiche, lesquels on mouille de tems en tems, et dont on
               couvre l'ouvrage quand on ne travaille pas.</p>
-           
-            <!--A CORRIGER-->
-            
-            <!--cette figure est enregistrée comme un dessin, ce qui a l'air d'être une erreur car la même figure à la ligne 341 de ce document est indiquée comme un ornement. selon Anna il faudrait supprimer le lien vers le manifeste et juste indiquer ça comme un ornement-->
-            
-            
-            <!--Encodage erroné :
+
             <pb n="np"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f197/full/full/0/native.jpg"/>
-            <figure type="dessin"/>-->
-            
-            <!--A remplacer par :
-            <figure type="ornement" key="DupuyDugrez_TraitePeinture-page199"/>-->
-            
-            <!--A CORRIGER-->
-            
+            <figure type="ornement"/>
+
             <pb n="np"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f198/full/full/0/native.jpg"/>
-            <figure type="dessin"/>
+            <figure type="dessin" xml:id="DUP_TP_p200"/>
           </div3>
         </div2>
       </div1>
@@ -4521,7 +4466,7 @@
         <div2 xml:id="L3C1" type="chapitre" n="1">
           <pb n="177"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f199/full/full/0/native.jpg"/>
-          <figure type="ornement" key="DupuyDugrez_TraitePeinture-page201"/>
+          <figure type="ornement"/>
           <p xml:id="DUP_TP_L3_L3C1_P1">
             <hi rend="capitals">TRAITE SUR LA PEINTURE.<lb/> TROISIEME DISSERTATION</hi>
             <lb/>
@@ -5602,9 +5547,9 @@
             cette partie de la Peinture, que nous apellons le Coloris.</p>
           <pb n="np"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f250/full/full/0/native.jpg"/>
+          <figure type="ornement"></figure>
           <p xml:id="DUP_TP_L3_L3C1_P89"><hi rend="it"><hi rend="capitals">LUCIS ET
             UMBRÆ</hi></hi>.</p>
-          <figure type="ornement"/>
           <p xml:id="DUP_TP_L3_L3C1_P90">
             <hi rend="it"><hi rend="capitals">CONCORDIA</hi>.</hi>
           </p>
@@ -5612,7 +5557,7 @@
         <div2 xml:id="L3C2" type="chapitre" n="2">
           <pb n="229"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f251/full/full/0/native.jpg"/>
-          <figure type="ornement" key="DupuyDugrez_TraitePeinture-page253"/>
+          <figure type="ornement"/>
           <head>
             <hi rend="capitals">SUPPLEMENT<lb/>A LA TROISIEME DISSERTATION</hi>
             <lb/>
@@ -6861,7 +6806,7 @@
             par <persName ref="#NicolasPoussin">Poussin</persName>, qui faisoit des Esquisses de
             tout ce qu'il remarquoit de plus beau dans la nature, et les ouvrages de l'Antiquité.
             Elle a été dépuis pratiquée par <persName ref="#RaymondLafage">Lafage</persName>, de qui
-            j'ay assez parlé dans ma dissertation sur le Dessein Ce n'est pas qu'on doive copier
+            j'ay assez parlé dans ma <ptr type="renvoi" target="#L2C1">dissertation sur le Dessein</ptr> Ce n'est pas qu'on doive copier
             tout ce qu'on voit de beau en presence d'un objet qui s'ofre quelque moment à nos yeux :
               <pb n="287"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f309/full/full/0/native.jpg"
@@ -7219,7 +7164,7 @@
             devons disposer nos figures et les autres corps representez, en sorte que les premiers
             paroissent d'une grandeur proportionnée à l'étendue du lieu où est l'ouvrage, et suivant
             l'éloignement de l'endroit le plus commode pour le voir. Mais comme j'ay fait un petit
-              <objectName>Traité d'Optique</objectName> qui doit acompagner cetre dissertation, et
+           <ptr type="renvoi" target="#L4C2">Traité d'Optique</ptr> qui doit acompagner cetre dissertation, et
             que cette partie de l'Ordonnance y est assez éclaircie par de figures, il seroit
             superflu d'en dire ici davantage.</p>
           <p xml:id="DUP_TP_L4_L4C1_P30"> Les Peintres au reste, comme je puis avoir remarqué
@@ -8101,7 +8046,7 @@
               <hi rend="capitals">DIVINA</hi>
             </hi>
           </p>
-          <figure type="dessin"/>
+          <figure type="ornement"/>
           <p xml:id="DUP_TP_L4_L4C1_P100">
             <hi rend="it">
               <hi rend="capitals">PALLADIS ARTE.</hi>
@@ -8109,7 +8054,7 @@
           </p>
           <pb n="np"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f366/full/full/0/native.jpg"/>
-          <figure type="dessin"/>
+          <figure type="ornement"/>
         </div2>
         <div2 xml:id="L4C2" type="chapitre" n="2">
           <pb n="345"
@@ -8898,349 +8843,27 @@
       </div1>
     </body>
     <back type="postface">
-      <pb n="381"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f403/full/full/0/native.jpg"/>
-      <figure type="ornement"/>
-      <head>Table des Principales Marieres.</head>
-      <p xml:id="DUP_TP_P2"><hi rend="capitals">L'Auteur</hi> donne les raisons qui l'ont obligé
-        d'écrire sur la Peinture, il expose le Plan de son Ouvrage, et declare que c'est
-        principalement en vueu des grandes Ordonnances qu'il a écrit. Préface</p>
-      <p xml:id="DUP_TP_P3">Premiere Dissertation.</p>
-      <p xml:id="DUP_TP_P4"><hi rend="capitals">La</hi> curiosité pour la Peinture, dépend de la
-        politesse des Peuples et des Villes, Page 1. Parmi ceux qui ont écrit sur la Peinture, il uy
-        en a qui se sont trompés dans sa definition et division, Page 2. et suivantes. Définition de
-        la Peinture défectueuse, et ce que <persName ref="#Vitruve">Vitruve</persName> en a dit,
-        Page 5. Comparaison de la Peinture et de la Poesie, p.6 et les suivantres. Definition exacte
-        de la Peinture. Page 8. Division exacte de parties de la Peinture. p.9. et suivantes.
-        Parallelle de la Peinture et de la Sculpture avec les</p>
-      <pb n="382"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f404/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P5">avantages de la Peinture, p. 11. et suivantes. L'antiquité a honoré la
-        Peinture et la Sculpture, Page 13. Les Papes ont honnoré du rang de Chevalier les excellens
-        Peintrees et Sculpteurs, Page 14. Avantages qui mettent la Peinture et la Sculpture par
-        dessus l'Architecture, Page 15. Les Aténiens consacroinet leur Histoire à la posterité par
-        le moien de la Peinture; Page 16. Laquelle des deux Peintures et Sculpture est la plus
-        ancienne pour l'usage. p.17 et suivantes. L'usage de la Peinture inconnu du tems de
-          <persName ref="#Moise">Moise</persName>, et méme du tems d'<persName ref="#Homere"
-          >Homére</persName>, sort conne du tems d'<persName ref="#Ezechiel">Ezechiel</persName> et
-          d'<persName ref="#Anacreon">Anacréon</persName> Page 19. <persName ref="#Ovide"
-          >Ovide</persName> et <persName ref="#Virgile">Virgile</persName> se dont aider de la
-        Peinture, pour faire de belles descriptions, Page 21. La Ville de <placeName ref="#Florence"
-          >Florence</placeName> et <placeName>la Maison de Medicis</placeName> favorables aux beaux
-        Arts, Page 22. L'ignorance des beaux Arts est une marque de Barbarie, Page 23. Dans quel
-        tems on commença de favoriser les Peintres et la Peinture en <placeName ref="#France"
-          >France</placeName>, Page 24. Lettres Patentes de <persName ref="#LouisXIV"><hi
-            rend="capitals">LOUIS</hi> le Grand</persName>, en faveur des Acamies de Peinture, Page
-        25. Preuve de l'inclination pour les beaux Arts à <placeName ref="#Toulouse"
-          >Toulouse</placeName> par les ouvrages de Bachelier, Page 27. Description de l'Autel de
-        Parroisse de l'<placeName>Eglise S. Etienne</placeName> à <placeName ref="#Toulouse"
-          >Toulouse</placeName> Page 28.</p>
-      <pb n="383"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f405/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P6">Autel de la Trinité et de Sepulchre, Page 30. Autel de la Dalbade et de
-        S.Nicolas, Page 31. Sculpture de l'Eglise des Cordeliers, Page 32. Portail de S. Jori, Page
-        33. Caractere des ouvrages de <persName ref="#NicolasBachelier">Bachelier</persName>, p.34.
-        et suivantes. Les ouvrages de <persName ref="#NicolasBachelier">Bachelier</persName> ont
-        porté le bon goût d'<placeName ref="#Italie">Italie</placeName> à <placeName ref="#Toulouse"
-          >Toulouse</placeName>, Page 37. Vieille Mosaique à la Daurade, Page 38. Ancien Fraisque à
-        S.Sernin, Page 38. Concluison de la premiere dissertation, p.39, et suivantes.</p>
-      <p xml:id="DUP_TP_P7">Suplement à la premiere Dissertation.</p>
-      <p xml:id="DUP_TP_P8"><hi rend="capitals">Preuves</hi>que la Peinture est un Art liberal du
-        premier ordre, p.42. et suivantes. La Peinture égale la Poesie et la Retorique, p.46.et
-        suivantes. Antiquité de la Peinture raportée aux Egiptiens et aux Grecs, est d'un invention
-        naturelle, Page 49. Les premiers Peintres qui se firent remarquer, Page 50. La Peinture
-        étoit dans quelques perfections au siecle d'un <persName ref="#Candaule">Roy de
-          Lidie</persName> apellé <persName ref="#Candaule">Candules</persName> qui regnoit à
-        méme-tems que <persName ref="#Romulus">Romulus</persName>, Page 51. Peintres qui ont vécu
-        dépuis la guerre Persique jusques à la chute des Athéniens, Page 51. Peintres qui ont vécu
-        depuis la liberté recouvrée par les Athenies, jusques à l'Empire d'<persName
-          ref="#AlexandreLeGrand">Alexandre</persName>, avec l'éloge d'<persName ref="#Apollodore"
-          >Apollodore</persName>, de <persName ref="#Polygnote">Polignote</persName> et de <persName
-          ref="#Zeuxis">Zeuxis</persName>, Page 52. </p>
-      <pb n="384"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f406/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P9">Caractere de <persName ref="#Timanthe">Timante</persName>, <persName
-          ref="#Androcydes">d'Androcide</persName> et <persName ref="#Eupompe">d'Eupompe</persName>,
-        Page 53. Caractere de <persName ref="#Parrhasios">Parrhasius</persName>, <persName
-          ref="#Euphranor">d'Euphranor</persName> et <persName ref="#Aristide"
-        >d'Aristide</persName>, Page 54. Caractere <persName ref="#Apelle">d'Appelle</persName>,
-        Page 56. De <persName ref="#Protogene">Protogene</persName> et d'<persName ref="#Echion"
-          >Aetion</persName>, Page 56. Tems de plusieurs Peintres fameux incertain : Periode de la
-        Peinture et se decadance, Page 57. Les principales Ecoles de la Peinture dans l'antiquité,
-        Peintres qui écrivirent sur la Peinture, Page 58. Romains qui furent grands Peintres, Page
-        59 et 60. Auteurs qui écrivirent de la Peinture dans l'antiquité, Ruine des beaux Arts dans
-        la Décadance de l'Emprie, Ce qui s'étoit conservé parmi l'ignorance des beaux Arts : De
-        l'Oucremenr et de l'usage des vitres, Page 64. Dans quel tems l'ignorance des beaux Arts
-        commenca de se dissiper à <placeName ref="#Florence">Florence</placeName>, et des premiers
-        restaurateurs de la Peinture, <persName ref="#SimoneMartini">Sinon Memmi</persName> invité à
-          <placeName ref="#Avignon">Avignon</placeName>, ou il fit <objectName>le portrait de
-            <persName>Madonna Laura</persName></objectName>, Page 65. Qui est celuy qui fit
-        l'ouverture à la belle maniere dans la Peinture et dans la Sculpture, et dans quel tems,
-          <persName ref="#LaurentDeMedicis">Laurent de Medicis</persName> favorisa beaucpu tous les
-        beaux Arts, Page 66. <persName ref="#NicolasBachelier">Bachelier</persName> vint à
-          <placeName ref="#Toulouse">Toulouse</placeName> sous le Regne de <persName
-          ref="#FrancoisIer">François 1</persName> ses premiers ouvrages. Page 67. <persName
-          ref="#LeonardoDaVinci">Leonard de Vinci</persName> appellé à <placeName ref="#Milan"
-          >Milan</placeName>, et de quelques-uns des plus fameux Peinture Lombards, Page 68.</p>
-      <pb n="385"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f407/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P10"><persName ref="#LeonardoDaVinci">Leonard de Vinci</persName> invité à
-          <placeName ref="#Paris">Paris</placeName>, y fit connoitre le bon goût pour le Dessein qui
-        a été beaucoup cultivé sous <persName ref="#LouisXIV">LOUIS le Grand</persName>, Page 69.
-          <persName ref="#Raphael">Raphael d'Urbin</persName> agrandit sa maniere à <placeName
-          ref="#Florence">Florence</placeName> son caractère et son merite, Page 69.70 et 71.
-          <persName ref="#GiulioRomano">Jule Romain</persName>, la <persName
-          ref="#FrancescoPrimaticcio">Primatice</persName>, les <persName ref="#Carrache"
-          >Caraches</persName> et leurs diciplines, Page 72. <persName ref="#NicolasPoussin"
-          >Poussin</persName> et son caractère, Page 72. Origine de l'Academie de S. Luc à
-          <placeName ref="#Rome">Rome</placeName>, Page 73. <persName ref="#JeanCousin">Jean
-          Cousin</persName> travailla sur le verre, Page 73. Voeut et l'obligation qu'on lui a en
-          <placeName ref="#France">France</placeName>, ses Eleves,<persName ref="#EustacheLeSueur">
-          le Sueur</persName> et <persName ref="#CharlesLeBrun">le Brun</persName>, Page 73. et 74.
-          <persName ref="#PierreMignard">Mignard</persName> Peintre du Val de Grace, Page 74.
-        Reputation de l'Academie de Peintur et de Sculpture soutenue par ceux qui ont succedé aux
-        premiers Ecole d'<placeName ref="#Allemagne">Allemagne</placeName>, de <placeName
-          ref="#Flandres">Flandre</placeName> et d'<placeName ref="#Angleterre"
-          >Angleterre</placeName> ce qu'on entend par le mot d'Ecole, Page 75. La graveure en bois
-        et l'Imprimûre se raporte aux Alemans et aux Flamans, Page 76. <persName
-          ref="#FrancoisDuQuesnoy">François du Quesnoy</persName>, Page 76. Page 76. Academue de
-        Peinture établie à <placeName ref="#Berlin">Berlin</placeName>, Page 76. Auteurs modernes
-        sut la Peinture, p. 77 et suivantes. <persName ref="#IsaacVossius">Vossius</persName> s'est
-        trompé, Page 80. Auteurs François sur la Peinture, <persName ref="#CharlesAlphonseDuFresnoy"
-          >Dufresnoy</persName>, <persName ref="#RogerDePiles">Depiles</persName>, <persName
-          ref="#AndreFelibien">Felibien</persName> et l'<persName>Anonime</persName>, Page 81.et
-        82.</p>
-      <p xml:id="DUP_TP_P11">Seconde Dissertation, Du <figure type="dessin"/></p>
-      <p xml:id="DUP_TP_P12"><hi rend="capitals">D'où</hi>vient l'ignorance du Dessein, Page 83.et
-        84. Le Dessein comparé à la Grammaire, Page 85. </p>
-      <pb n="386"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f408/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P13">Definition du Dessein, Page 86.et 87. Qu'est-ce que la proportion, Page
-        88.et 89. Le corps humain est le plus parfait ouvrage de la nature, Page. 90. Plusieurs ont
-        travaillé sur les proportions et l'utilité qu'- on en doit tirer, Page. 91. Esprits
-        extraordinaires qui aprennent d'eux-méme, <persName ref="#AlbrechtDurer">Albert
-          Durer</persName> a traité des proportions du corps humain, Page. 93. Caractère des jeunes
-        enfans propres au Dessein, Page. 93. Que la santé est necessaire à ceux qu'on éleve à la
-        Peinture Page. 93. et de leurs commencemens, Page. 94. Avis pour elever les endants au
-        Dessein, Page. 94 et 95. On doit acoutumer les jeunes gens à faire de leur invention Page.
-        95 et la metode qu'on doit suivre pour cela, Seconde tentative des enfants congrus au
-        Dessein, et d'aprés quels maintres ils doivent dessiner, Page. 97 Il est necessaire de
-        desssiner d'aprés la Bosse, le conseil de <persName ref="#CharlesAlphonseDuFresnoy"
-          >Dufresnoy</persName> sur cela, et d'aprés quelles bosses il fait dessiner, Page. 98 Qu'il
-        faut dessiner d'aprés le modele vivant, et qu'il est bon de modeler, Page. 100 Metode pour
-        apprendre à faire d'invention, Page. 100 et 101. L'etude des Draperies, Page. 101 et 102.
-        Conseil avantageux pour faire l'invention, Page. 102 et 103. Gistoire de <persName
-          ref="#RaymondLafage">Lafage</persName> grand Dessinateur, Page. 104.105 et 106. De la
-        connoissance de l'Anatomie, Page. 106 et 107. Avantages que les nouveaux modernes ont sur
-        les plus anciens modernes, Page. 108.</p>
-      <pb n="387"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f409/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P14">Quels Maitres on doit suivre, sans aller à <placeName ref="#Rome"
-          >Rome</placeName>, Objection et réponse Avis de l'auteur sur l'établisement d'un Ecole de
-        Peinture, Epilogue de la Dissertation sur le Dessein, </p>
-      <p xml:id="DUP_TP_P15">Suplement à la seconde Dissertation.</p>
-      <p xml:id="DUP_TP_P16"><hi rend="capitals">La</hi>beauté des Statues Grecques admirable, Page.
-        121. D'où depend la perfaction du Dessein, Page. 121 De la Structure des os, Page. 122.
-        jusques à 124. Des Muscles et premierement de ceux du devant du cofre, Page. 124.125. et
-        126. Des Muscles du derrier du cofre, Page. 126 et 127. Muscles du bras, Page. 128 et 129.
-        Muscles des hanches, Page. 130. Des Muscles de la cuisse, Page. 130. et 131. Muscles de la
-        jambe, Page. 131. et 132. Principales divisions et mouvements du corps, En quoy consiste la
-        proportions, Page. 134. et 135. Des regles du mouvement. Page. 135. De la proportion de
-        l'homme et du sentiment de <persName ref="#Vitruve">Vitruve</persName>, Page. 135.136. et
-        137. Observatiuons d'<persName ref="#AlbrechtDurer">Albert Durer</persName> sur les
-        proportions, Page. 138.139. et 140. Mesures du sommet de la Téte jusques aux os traversiers,
-        Page. 141.142. et 143.</p>
-      <pb n="388"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f410/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P17">Mesures depuis les os traversiers jusques à l'emboiture des cuisses,
-        Page. 144.145. et 146. Mesures depuis les boetes des cuisses jusques à l'emboiture du genou,
-        et jusques à la plante des piés, Page. 147.148. et 149. Mesures de la Téte, Page. 150.151.
-        et 152. Mesures des petits enfans, Page. 153. et 154. Observations de <persName
-          ref="#GuillaumePhilandrier">Philander</persName> sur la proportion, Page. 157. et 158.
-        Mesures de <persName ref="#PomponioGaurico">Pomponius Gauricues</persName>, Mesuresde
-          <persName ref="#DanieleBarbaro">Mr. Barbaro Partiarche d'Aquilée</persName>, Page. 159. et
-        160. La raison pour laquelle il faur savoir plusieurs diferentes maniere de mesurer le corps
-        humain avec un avis aux jeunes Dessinateurs, Page. 161. Mesures de <persName
-          ref="#GiovanniPaoloLomazzo">Lomasse</persName>, Page. 162. Mesures de l'Auteur de
-        remarques sur <persName ref="#CharlesAlphonseDuFresnoy">Dufresnoy</persName>, Page. 163.164
-        et 165. Mesures raportées par <persName ref="#AndreFelibien">Felibien</persName>, Page. 166.
-        Page. 163. Plusieurs observations pour donner de la beauté aux figures, Page. 167.et 168. Ce
-        qu'il faut faire outre la contemplation des beaux ouvrages, et de l'Etude du modele vivant,
-        Page. 169 et 170. De l'Etude des anciens d'aprés le nu, et des Academies du modele, Page.
-        171. Avis à ceux qui commencent à dessiner et modeler, Page. 172, 173, 174 et 175.</p>
-      <pb n="389"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f411/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P18">Troisiéme Dissertation du Coloris.</p>
-      <p xml:id="DUP_TP_P19"><hi rend="capitals">Qu'est-ce</hi>que les Peintres entendent par le
-        terme de Coloris, Page. 177. Quelle est la plus excellent maniere du Coloris, et l'efet
-        qu'elle doit produire, Page. 178. Merveilles des Coloristes de l'Antiquité et des avantages
-        des modernes, Page. 178.et 179. Des ouvrages à Fraisque et à huile et leur parallele, Page.
-        180 et 181. Le Miniature inconnue à l'Antiquité, Page. 181. l'antiquité pegnoit à Fraisque
-        avec des cires de plusieurs teintes à détrempe et de Mosaique, Page. 182. l'Art d'employer
-        le verre aux fenétres est moderne, Page. 182. et 183. Dificulté à choisir un bon Coloris et
-        sa définition exacte, Du clair-obscur, Page. 184. Devoir du Peintre dans la partie du
-        Coloris, Page. 185. Conseil de <persName ref="#GiovanniPaoloLomazzo">Lomasse</persName>,
-        pour reussier au Coloris, et pour bien déveloper toutes ses dificultés, Page. 186. 187. et
-        188. Du jour de réflexion, Page.188. et 189. Du jour principal, Comment le jour principal et
-        de réflexion se pratiquent dans les lieux couverts et clos, Page.190. et 191. Metode des gra
-        nds Coloristes pour les jours et pour les ombres, Page.192. Observations sur les jours et
-        sur les ombres, Page.193.</p>
-      <pb n="390"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f412/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P20">De la gratitude des ombres, Page.193. et 194. Du plus clair des
-        couleurs, Page.194. et 195. Du menagement des teintes suivant les lignes du Tableau, et du
-        brillant, Page.195. et 196. Le Coloris comparé à la Musique du ton des couleurs et de leur
-        rupture, Page.197. Remarque importante sur les grands et les petits ouvrages, Page.198. Il y
-        a plusieurs choses dans le Coloris qui dépendent de la Composition et du <figure
-          type="dessin"/> Page.199. De l'entente, de la fraicheur de la vaguese des couleurs,
-        Page.199. et 200. <persName ref="#GiovanniPaoloLomazzo">Lomasse</persName> a trouvé à redire
-        aux Peintres Venitiens, et <persName ref="#GiorgioVasari">Vazari</persName> à <persName
-          ref="#LeonardoDaVinci">Leonard de Vinci</persName>, Page.201. Les couleurs simples, mais
-        propres sont les meilleurs, L'union, l'entente, la fraicheur, et la vaguesse rarement
-        asemblées dans les ouvrages, Page.202. De la maniere du <persName ref="#Caravage"
-          >Caravage</persName>, Page.203. De la maniere Lombarde, <persName ref="#Correge">du
-          Correge</persName>, du <persName ref="#Giorgione">Georgion</persName> et du <persName
-          ref="#Titien">Titien</persName>, Page.204 Caractère du <persName ref="#Titien"
-          >Titien</persName>, Page.204.et 205. Avantage du Dessein sur le Coloris prouvé par
-        l'exemple de <persName ref="#Raphael">Raphael</persName> et de <persName
-          ref="#NicolasPoussin">Poussin</persName>, Page.205. Eloge de <persName
-          ref="#PaoloVeronese">Paul Cagliari</persName> ou <persName ref="#PaoloVeronese"
-          >Veronnez</persName>, Page.206. La maniere des <persName ref="#Carrache"
-          >Caraches</persName> preserée à celle du <persName ref="#Caravage">Caravage</persName>,
-        tant en <placeName ref="#Italie">Italie</placeName> qu'en <placeName ref="#France"
-          >France</placeName>, Page.206. et 207. La licence dans le Coloris est quelquesfois
-        agreable, Page.207. Aplication des regles du Coloris sur divers ouvrages</p>
-      <pb n="391"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f413/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P21">à <placeName ref="#Toulouse">Toulouse</placeName>, et premierement sur
-        le Tableau des Page.208. et 209. Grands Augustins, Sur <objectName>le Tableau des Dames
-          Maltoises</objectName>, Page.210. et 211. Tableaux de <persName ref="#NicolasTournier"
-          >Tournier</persName>, Page.212.213 et 214. Tableaux de <persName ref="#JeanChalette"
-          >Charlette</persName> et de <persName ref="#AntoineDurand">Durand</persName>, Page.214. et
-        215. Tableaux de <persName ref="#HilairePader">Pader</persName>, Page.215. et 216.
-          <objectName>Tableau de Ste. Catherine aux PP. Dominicains,</objectName> Page.217. Tableau
-        aux Cordelirs, Page.217. Tableau aux Cartreux, Page.218. Tableau aux PP. Carmes Déchaussés,
-        Page.219. Tableau aux Grands Carmes. Page.220. Tableau de la Fondation d'Ancrire à l'Hôtel
-        de Ville, Tableaux de <persName ref="#SimonVouet">Simon Voeut</persName> aux Penitens Noirs
-        avec la reflexion de l'Auteur, Page.222.223 et 224. Tableaux du Frere Fredeau, Page.225.
-        Avis pour se former au bon Coloris, Page.225 et 226. Trois maximes pour bien peindre,
-        Page.226.et 227. </p>
-      <p xml:id="DUP_TP_P22">Suplement à la troisiéme Dissertation.</p>
-      <p xml:id="DUP_TP_P23"><hi rend="capitals">De</hi>diverses manieres de peindre anciennces et
-        modernes, Page.229.240 et 231. Reflexions sur les couleurs, Page.232. Dela fraisque,
-        Page.233. jusques à 238. De la Peinture à huile, Page.238. jusques à 240. De la Miniature,
-        Page.241. jusques à 253. Draperies de diverses couleurs, Page.261. jusques à 263. Draperies
-        changeantes, Page.284.</p>
-      <pb n="392"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f414/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P24">Draperies communes, Page.265. jusques à 267. Architecture et peisages,
-        Page.267. jusques à 270. Des Carnations, Page.270. jusques à 276. De la premiere preparation
-        des couleurs, Page.267. jusques à 280. De l'Outremer, Page.278. jusques à 280. Moien
-        d'employr l'Or comme une couleur, Page.280. Maniere d'apliquer l'Or par feuilles, Page.280.
-        et 281. Avis pour la dorure contrefaite, Maniere d'apliquer l'Or sur les pierres, et pour
-        faire l'or mat Page. 282.</p>
-      <p xml:id="DUP_TP_P25">Dissertation quatriéme de la Composition.</p>
-      <p xml:id="DUP_TP_P26"><hi rend="capitals">La</hi>Composition comparée à l'éloquence,
-        Page.283. Definition de la Composition, Page.284. Divistion de la Composition en ses
-        parties, Page.285. Definition de l'invention et le moyen d'augmenter cette faculté,
-        Page.285, 286 et 287. Des parties de l'invention, Page.285, et 288. Diference des Peintres
-        par l'invention, Ce qu'on demande pour la parfaite Composition, Page.289. De l'expression et
-        de la fierté, Page.290. Les mains sercent beaucoup à l'expression, Avis de <persName
-          ref="#GiovanniPaoloLomazzo">Lomasse</persName> pour l'expression, Page.291, et 292.
-        Qu'est-ce que la bonne grace, Comparaison des Peintres et des Sculpteurs avec les orateurs,
-        Page.292, et 293. Caracteres des anciens Peintres, suivant <persName ref="#Quintilien"
-          >Quintilien</persName>, Page.294, et 295.</p>
-      <pb n="393"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f415/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P27">Caracteres des anciens Statuaires par le méme Auteur, Page.295, et 296.
-        On peut faire la méme observation dans les modenres suivant l'Auteur, Page.296, et 297. La
-        derniere perfection de la Peinture et de la Sculpture, C'est l'expression, Page.297. De
-        l'ordonnance et de son éfet, Page.298. Du nombree des Groupes, et plusieurs observations sur
-        cela, Page.299. et 300. Où se doit placer la principale figure, L'Optique nécessaire à
-        l'Ordonnance, et ce que c'est, Page.302. Des Ordonnances, Page.303. Les modernes ont
-        surpassé les anciens dans l'Ordonnance, De la Convenance ou le jugement du Peintre paroit
-        principalement, Page.304. Du choix du sujet, et s'il est mieux de le prendre de l'Histoire
-        ou de la Fable, Page.305. De la vrai-semblance, Page.306.307. et 308. De l'usage apellé
-        Costume par les Italies, De la Composition des draperies, Page.310. jusques à 313. Des
-        nudités, et de la discretion du Peintre sur cela, Page.313, 314. et 315. Du décore,
-        Page.316. Remarques critiques touchant le décore, Page.317. De la Composition des portraits,
-        Page.318.319. et 320. De divers ornemens des Tableaux, Page.321.322. et 323. Tableaux
-        remarquables à <placeName ref="#Toulouse">Toulouse</placeName> par les ornemens, Page.323.
-        et 324.</p>
-      <pb n="394"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f416/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P28">Des vices oposez à la belle composition, Page.324. jusques à 327.
-          <persName ref="#NicolasPoussin">Poussin</persName> admirable dans ses ordonnances, et en
-        quoi les Italiessont consister la gloire des grands Peintres, Page.327. et 328. La
-          <placeName ref="#France">France</placeName> a eu de tres-grands hommes dans la Peinture,
-        et de <persName ref="#SimonVouet">Vouet</persName>, Page.328. Comparaison des Tableaux de
-          <persName ref="#SimonVouet">Vouet</persName> et de <persName ref="#HilairePader"
-          >Pader</persName> aux Penitens Noirs, Page.327. et 329. Critique des Tableaux de <persName
-          ref="#SimonVouet">Vouet</persName>, de <persName ref="#NicolasTournier"
-          >Tournier</persName> et de <persName ref="#HilairePader">Pader</persName>, Page.329. et
-        330. Réflexions sur plusieurs choses qui rebutent de la Peinture et de leur resutation,
-        Page.333. et 331. Divers modeles que les Peintres peuvent choisir pour leur conduite,
-        Page.332. 333. et 324. Liaison des gens de Lettres et des grands Peintures, Page.335. et
-        336. Conseil aux jeunes Peintres, Page.336. et 337. Raport entre la Retorique, la Poesie et
-        la Peinture, Page.337. et 338. La Bibliotheque des grands Peintrres, et de ce qui est
-        necessaire à leur Cabinet, Page.339. et 340. De l'Architecture, Page.341. et 342. Conclusion
-        de la quatriéme Dissertation, Page.342. et 343. </p>
-      <p xml:id="DUP_TP_P29">Suplement à la quatriéme Dissertation, Traité d'Optique.</p>
-      <p xml:id="DUP_TP_P30"><hi rend="capitals">Qu'il y</hi>a deux sortes de Perspective, Page.343.
-        Pricnipes de Perspective, qui ne conviennent point à la Peinture, Page.346. et 347.</p>
-      <pb n="395"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f417/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P31">Nouvelle méthode, pour mettre les objets en perspective, Page.348. et
-        349. Figure premiere sur la diminution des objets, Page.349. et 350. Du champ des figures,
-        plan ou Aire que les Italiens appellent la Pianta, Page.351. Figure deuxiéme sur plan ou
-        aire, Page.352. De la largeure de l'aire ou du champ et des objets par les memes principes,
-        Page.353. Figure troisiéme sur la precedente proposition, Page.353.354.355.356.et 357.
-        Figure quatriéme pour faire voir que la vision se fait clairement, Page.357. 358. et 360.
-        Moyen pour mettre en pratique les precedentes propositions, Page.360 et 361. Figure
-        cinquiéme pour l'opération, Page.361.362.363. et 364. Moeins pour marquer les lignes du
-        champ syr la superficie du quadre, Page.364. Figure sixiéme pour l'opération,
-        Page.364.365.366. et 367. Moein mécanique pour l'Ordonnance, Page.367. et 368. Metode
-        mécanique du <persName ref="#JacopoTintoretto">Tintoret</persName> et de <persName
-          ref="#NicolasPoussin">Poussin</persName>, Page.368. et 369. Les regles de l'Autreur
-        peuvent servir pour faire des bâtimens dans un Tableau, et la Beveue de l'<persName
-          ref="#Hadrien">Empereur Hadrien</persName> sur cela, Page.369. Observations qu'on doit
-        faire, lors qu"in met de l'Architecture dans un Tableau, Page.370. Autres observations pour
-        pratiquer les regles de l'Auteur, Page.371. et 372. Avantages de la metode de l'Auteur,
-        Page.372.</p>
-      <pb n="396"
-        facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f418/full/full/0/native.jpg"/>
-      <p xml:id="DUP_TP_P32">Conjecture de l'Auteur sur la Perspective à l'égard des Grands
-        Peintres, Page.373. De la grandeur qu'il faut donner aux objets éloignez, afin qu'ils
-        paroissent d'une juste grandeur, Page.374. Regles de <persName ref="#SebastianoSerlio"
-          >Serlio</persName> piur les objetqss éloignez, où un endroit de <persName ref="#Vitruve"
-          >Vitruve</persName> est touché, Page.375.et 376. De quelle maniere on doit operer dans la
-        methode de <persName ref="#SebastianoSerlio">Serlio</persName>, Figure septiéme, Page.376.
-        et 377. Des figures qui sont vueus obliquement, Page.377. Figure huitiéme de la maniere que
-        les objets veux obliquement, peuvent paroitre dans leur juste grandeur, Page.377. et 378.
-        Operation du <persName ref="#EmmanuelMaignan">P.Magnan</persName> pour un Optique au Convent
-        de La Trinité à <placeName ref="#Rome">Rome</placeName>, Page.378. Observation sur
-        l'Architecture et sur les Statues Colossales, Page.379. Conduite poposée de deux grands
-        Statuaires de l'Antiquité, dont l'unreussissoit dans sont Atelier, et l'autre lorsque la
-        figure étoit en place, Page.380.</p>
-      <p xml:id="DUP_TP_P33">Fin de la Table.</p>
+      <!--suppression de la table des matières-->
+      <gap reason="editorial" quantity="16"></gap>
+      
       <pb n="np"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f419/full/full/0/native.jpg"/>
-      <figure type="dessin"/>
-      <figure type="dessin"/>
+      <figure type="schema" xml:id="DUP_TP_p421_1"/>
+      <figure type="schema" xml:id="DUP_TP_p421_2"/>
       <pb n="np"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f420/full/full/0/native.jpg"/>
-      <figure type="dessin"/>
-      <figure type="dessin"/>
+      <figure type="schema" xml:id="DUP_TP_p422_1"/>
+      <figure type="schema" xml:id="DUP_TP_p422_2"/>
       <pb n="np"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f421/full/full/0/native.jpg"/>
-      <figure type="dessin"/>
-      <figure type="dessin"/>
+      <figure type="schema" xml:id="DUP_TP_p423_1"/>
+      <figure type="schema" xml:id="DUP_TP_p423_2"/>
       <pb n="np"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f422/full/full/0/native.jpg"/>
-      <figure type="dessin"/>
+      <figure type="schema" xml:id="DUP_TP_p424"/>
       <pb n="np"
         facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f423/full/full/0/native.jpg"/>
-      <figure type="dessin"/>
+      <figure type="schema" xml:id="DUP_TP_p425"/>
     </back>
   </text>
 </TEI>

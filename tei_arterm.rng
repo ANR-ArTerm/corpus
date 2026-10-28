@@ -6,7 +6,12 @@
   
 -->
 <!-- start datatypes -->
-<grammar xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://www.tei-c.org/ns/1.0">
+<grammar xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tei="http://www.tei-c.org/ns/1.0"
+  xmlns:teix="http://www.tei-c.org/ns/Examples"
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+  xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://relaxng.org/ns/structure/1.0"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://www.tei-c.org/ns/1.0">
 
 
 
@@ -32,7 +37,9 @@
     <data type="string" datatypeLibrary=""/>
   </define>
   <define name="teidata.pointer">
-    <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
+    <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference)
+      provides an explicit means of locating a full definition or identity for the entity being
+      named by means of one or more URIs.</a:documentation>
     <choice>
       <list>
         <oneOrMore>
@@ -410,7 +417,8 @@
   <define name="tei_att.pointing.attribute.target">
     <optional>
       <attribute name="target">
-        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the destination of the reference by supplying one or more URI References</a:documentation>
+        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the
+          destination of the reference by supplying one or more URI References</a:documentation>
         <list>
           <oneOrMore>
             <data type="anyURI">
@@ -799,6 +807,8 @@
       <ref name="model.global.edit"/>
       <ref name="figure"/>
       <ref name="quote"/>
+      <ref name="bibl"/>
+      <ref name="list"/>
     </choice>
   </define>
   <define name="model.biblPart">
@@ -2660,10 +2670,20 @@
   <define name="entry">
     <element name="entry">
       <ref name="attlist.entry"/>
-      <ref name="form"/>
-      <optional>
-        <ref name="def"/>
-      </optional>
+      <interleave>
+        <optional>
+          <ref name="form"/>
+        </optional>
+        <zeroOrMore>
+          <ref name="def"/>
+        </zeroOrMore>
+        <zeroOrMore>
+          <ref name="ref"/>
+        </zeroOrMore>
+        <zeroOrMore>
+          <ref name="model.global"/>
+        </zeroOrMore>
+      </interleave>
     </element>
   </define>
   <define name="attlist.entry" combine="interleave">
