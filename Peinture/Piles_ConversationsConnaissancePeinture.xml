@@ -3614,7 +3614,7 @@
             <figure type="ornement">
               <p>Ornement</p>
             </figure>
-            <head><hi rend="it"><objectName><hi rend="capitals">ERICTON</hi>, ou <hi rend="capitals"
+            <head><hi rend="it"><objectName><hi rend="capitals"><persName ref="#Erichthonios">ERICTON</persName></hi>, ou <hi rend="capitals"
                     >LA CURIOSITÉ DES FILLES DE <persName ref="#Cecrops"
                   >CECROPS</persName></hi></objectName></hi>.</head>
             <p xml:id="PIL_CCP_L2_C1_SC12_P2"><hi rend="capitals">VOUS</hi> sçavez comme <persName
@@ -3710,8 +3710,8 @@
             <figure type="ornement">
               <p>Ornement</p>
               <head>
-                <hi rend="it"><hi rend="capitals">LE <persName ref="#SaintGeorges">SAINT
-                      GEORGE</persName></hi>.</hi>
+                <hi rend="it"><hi rend="capitals"><objectName>LE <persName ref="#SaintGeorges">SAINT
+                      GEORGE</persName></objectName></hi>.</hi>
               </head>
             </figure>
             <p xml:id="PIL_CCP_L2_C1_SC14_P2"><hi rend="capitals"><persName ref="#PeterPaulRubens"
@@ -3788,7 +3788,7 @@
               estoit plustost un conte de vieille qu'une histoire veritable ; et qu'ayant esté
               declarée apocriphe par un Concile, on avoit negligé de la faire imprimer ; qu'il
               estoit bon cependant, pour l'intelligence de ce Tableau et pour tous ceux qui ont esté
-              faits jusques icy de <persName>S.Georges</persName>, de sçavoir cette histoire qui
+              faits jusques icy de <persName ref="#SaintGeorges">S.Georges</persName>, de sçavoir cette histoire qui
               leur sert de fondement, et qui toute <pb n="170"
                 facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65173190/f222/full/full/0/native.jpg"
               /> apocriphe qu'elle est a esté rapportée comme veritable par un certain <hi rend="it"
@@ -4053,13 +4053,13 @@
               <placeName ref="#Italie">Italie</placeName>, il fit gloire de prendre la qualité de
             l'un de ses Gentils-hommes ; et apres avoir rendu ses assiduitez à ce Prince durant un
             temps considerable, il alla à <placeName ref="#Rome">Rome</placeName>, où il peignit
-            trois Tableaux dans <placeName>l'Eglise de Sainte Croix-en-Jerusalem</placeName> pour
+            trois Tableaux dans <objectName>l'Eglise de Sainte Croix-en-Jerusalem</objectName> pour
               <persName ref="#AlbertVII">l'Archiduc Albert d'<placeName ref="#Autriche"
                 >Autriche</placeName></persName>, qui avoit esté autrefois Cardinal du titre de
             cette Eglise et qui y avoit fait restaurer la <placeName>chapelle de <persName
                 ref="#SainteHelene">Sainte Heleine</persName></placeName>, où sont ces trois
-            Tableaux, dont celuy de l' Autel qui est au milieu represente la Sainte qui tient la
-            Croix, et les autres des deux costez un couronnement d'épines et un Crucifix.</p>
+            Tableaux, dont <objectName>celuy de l' Autel qui est au milieu represente la Sainte qui tient la
+            Croix</objectName>, et les autres des deux costez un <objectName>couronnement d'épines</objectName> et un <objectName>Crucifix</objectName>.</p>
           <p xml:id="PIL_CCP_L2_C2_P9"> Il fut envoyé peu de temps apres en <placeName
               ref="#Espagne">Espagne</placeName> par le <persName ref="#VincentIdeMantoue ">Duc de
                 <placeName ref="#Mantoue">Mantoue</placeName></persName> pour presenter au Roy un
@@ -4080,17 +4080,17 @@
             les copiant, il retourna à <placeName ref="#Rome">Rome</placeName>, où il fut choisi
             pour faire <pb n="189"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65173190/f241/full/full/0/native.jpg"
-            /> les principaux Tableaux de <placeName>l'Eglise neuve des Peres de
-              l'Oratoire</placeName>, qui venoit d'estre achevée ; l'un est au grand Autel et les
-            deux autres aux costez. Il a peint dans celuy du milieu la <persName ref="#Marie"
-              >Vierge</persName> qui tient l'Enfant <persName ref="#Jesus">Jesus</persName>, des
+            /> les principaux Tableaux de <objectName ref="#SantaMariaVallicellaRome">l'Eglise neuve des Peres de
+              l'Oratoire</objectName>, qui venoit d'estre achevée ; l'un est au grand Autel et les
+            deux autres aux costez. Il a peint dans <objectName ref="#PeterPaulRubensMadonnaDellaVallicellaChiesaNuovaRome">celuy du milieu la <persName ref="#Marie"
+              >Vierge</persName> qui tient l'Enfant <persName ref="#Jesus">Jesus</persName></objectName>, des
             Anges tout autour en differentes actions d'adorer. Les Tableaux qui sont aux costez
-            representent plusieurs Saints debout, et entr'autres <persName ref="#GregoireLeGrand"
+            <objectName>representent plusieurs Saints debout</objectName>, et entr'autres <objectName><persName ref="#GregoireLeGrand"
               >saint Gregoire Pape</persName>, et <persName ref="#SaintMaurice">saint
-              Maurice</persName> en habit de soldat : ces Figures sont d'une grande noblesse et
+              Maurice</persName> en habit de soldat</objectName> : ces Figures sont d'une grande noblesse et
             peintes dans le goust de <persName ref="#PaoloVeronese">Paul Veronése</persName> ; les
-            esquisses de ces trois Tableaux sont aujourd'huy dans l'<placeName>Abbaye de Saint
-              Michel d'<placeName ref="#Anvers">Anvers</placeName></placeName>, où <persName
+            esquisses de ces trois Tableaux sont aujourd'huy dans l'<objectName>Abbaye de Saint
+              Michel d'<placeName ref="#Anvers">Anvers</placeName></objectName>, où <persName
               ref="#PeterPaulRubens">Rubens</persName> les porta lors qu'il s'en retourna en
               <placeName ref="#Flandres">Flandre</placeName>.</p>
           <p xml:id="PIL_CCP_L2_C2_P11"> De toutes les villes d'<placeName ref="#Italie"
@@ -4102,9 +4102,9 @@
             avantageuses de faire valoir ce qu'il avoit appris, d'exercer les talens qu'il avoit
             receus pour la Peinture : car on y voit beaucoup de ses Ouvrages, et ils y sont estimez
             autant qu'en lieu du monde ; la pluspart des gens de qualité voulurent avoir un morceau
-            de se main, et <placeName>l'Eglise du Jesus</placeName> conserve cherement deux de ses
-            Tableaux, dont l'un est une Circoncision et l'autre un <persName ref="#IgnaceDeLoyola"
-              >saint Ignace</persName> qui guerit des malades.</p>
+            de se main, et <objectName>l'Eglise du Jesus</objectName> conserve cherement deux de ses
+            Tableaux, dont l'un est une <objectName>Circoncision</objectName> et l'autre un <objectName><persName ref="#IgnaceDeLoyola"
+              >saint Ignace</persName> qui guerit des malades</objectName>.</p>
           <p xml:id="PIL_CCP_L2_C2_P12"> Il y avoit sept ans que <persName ref="#PeterPaulRubens"
               >Rubens</persName> estoit en <placeName ref="#Italie">Italie</placeName>, lors que la
             nouvelle d'une perilleuse maladie, dont, sa mere estoit atteinte, le fit retourner en
@@ -4113,9 +4113,9 @@
           <p xml:id="PIL_CCP_L2_C2_P13"> Estant donc arrivé en son païs l'an <date when="1609"
               >1609</date>, et le bruit de son sçavoir <pb n="191"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65173190/f243/full/full/0/native.jpg"
-            /> et de son merite s'y estant répandu, <persName ref="#AlbertVII">l'Archiduc
-              Albert</persName> et <persName ref="#IsabelleClaireEugenieDAutriche">l'lnfante
-              Isabelle</persName> sa femme voulurent avoir leurs Portraits de sa main ; et de
+            /> et de son merite s'y estant répandu, <objectName><persName ref="#AlbertVII">l'Archiduc
+              Albert</persName></objectName> et <objectName><persName ref="#IsabelleClaireEugenieDAutriche">l'lnfante
+              Isabelle</persName> sa femme voulurent avoir leurs Portraits de sa main</objectName> ; et de
             crainte qu'ils avoient qu'il ne s'en retournast en <placeName ref="#Italie"
               >Italie</placeName>, ils luy firent des presens considerables et l'engagerent par une
             pension et par toutes sortes de maniere honnestes à demeurer auprés de leurs personnes.
@@ -4143,7 +4143,7 @@
             curiosité des arbres de toutes les especes qu'il put recouvrer. Entre sa court et son
             jardin, il a fait bastir une sale de forme ronde <pb n="193"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65173190/f245/full/full/0/native.jpg"
-            />comme <objectName>le Temple du Panteon</objectName> qui est à <placeName ref="#Rome"
+            />comme <objectName ref="#PantheonRome">le Temple du Panteon</objectName> qui est à <placeName ref="#Rome"
               >Rome</placeName>, dont le jour n'entre que par le haut et par une seule ouverture qui
             est le centre du Dôme. Cette sale estoit pleine de Bustes, de Statues Antiques, de
             Tableaux precieux qu'il avoit apportés d'<placeName ref="#Italie">Italie</placeName> et
@@ -4169,12 +4169,12 @@
             croyoit qu'un des moins considerables estoit celuy de la Peinture.</p>
           <p xml:id="PIL_CCP_L2_C2_P18"> C'estoit environ ce temps-là que la <persName
               ref="#MarieDeMedicis">Reyne Marie de Medicis</persName> faisoit bastir son
-              <placeName>Palais de Luxembourg</placeName>,et que, pour le rendre parfait de tout
+              <objectName>Palais de Luxembourg</objectName>,et que, pour le rendre parfait de tout
             point, elle en voulut orner les deux Galeries des Ouvrages de <persName
-              ref="#PeterPaulRubens">Rubens</persName> et luy faire peindre dans <pb n="195"
+              ref="#PeterPaulRubens">Rubens</persName> et luy faire peindre <objectName>dans <pb n="195"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65173190/f247/full/full/0/native.jpg"
-            /> l'une sa vie, et dans l'autre les actions d'<persName ref="#HenriIV">Henry
-              IV</persName>. Mais elle n'accomplit que la moitié de son dessein, car son exil arriva
+            /> l'une sa vie</objectName>, et dans <objectName>l'autre les actions d'<persName ref="#HenriIV">Henry
+              IV</persName></objectName>. Mais elle n'accomplit que la moitié de son dessein, car son exil arriva
             dans le temps que <persName ref="#PeterPaulRubens">Rubens</persName> travailloit à
             éterniser les grandes actions du Roy son mary, ayant commencé par l'histoire de la vie
             de cette grande Reyne, et ayant laissé cet ouvrage dans sa perfection comme un monument
@@ -4190,7 +4190,7 @@
             estoit informé du merite de <persName ref="#PeterPaulRubens">Rubens</persName> ; et
             comme il avoit à l'entretenir de choses d'importance, il le pria de faire <pb n="196"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65173190/f248/full/full/0/native.jpg"
-            /> son portrait. Ce Peintre s'en acquita parfaitement et passa l'attente du <persName
+            /> <objectName>son portrait</objectName>. Ce Peintre s'en acquita parfaitement et passa l'attente du <persName
               ref="#GeorgeVilliers">Duc</persName> de toutes les manieres. Aprés s'estre entretenus
             quelque temps et qu'ils eurent lié ensemble une estroite amitié, le <persName
               ref="#GeorgeVilliers">Duc</persName> luy fit confidence du chagrin que luy donnoient
@@ -4276,8 +4276,8 @@
             témoignages possibles d'estime, de confiance et d'amitié.<persName ref="#PhilippeIV"> Le
               Roy </persName>le fit un des Gentils-hommes de sa Chambre, <pb n="201"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65173190/f253/full/full/0/native.jpg"
-            /> et l'honnora de la Clef d'or : et aprés avoir fait les portraits de la famille
-            Royale, leurs Majestez joignirent aux honneurs qu'elles luy avoient faits des biens
+            /> et l'honnora de la Clef d'or : et aprés avoir fait <objectName>les portraits de la famille
+            Royale</objectName>, leurs Majestez joignirent aux honneurs qu'elles luy avoient faits des biens
             considerables.</p>
           <p xml:id="PIL_CCP_L2_C2_P25"><persName ref="#PeterPaulRubens">Rubens</persName> ayant
             glorieusement achevé ce grand ouvrage de la Paix, et estant de retour à <placeName
@@ -4302,24 +4302,24 @@
             plusieurs autres Princes, il a remply presque toutes les Eglises de <placeName
               ref="#Flandres">Flandre</placeName> de ses Peintures ; principalement celle de
               <objectName>Nostre Dame d'<placeName ref="#Anvers">Anvers</placeName></objectName>,
-            les <placeName>Eglises des Premonstrez</placeName>, <placeName>des
-              Cordeliers</placeName>, <placeName>des Jacobins</placeName>, <placeName>des
-              Augustins</placeName> et entr'autres celle <placeName>des Jésuites</placeName> dont il
-            a peint mesme les platfonds. La Salle où le <persName>Roy d'Angleterre</persName> donne
-            audience aux Ambassadeurs est ornée de neuf grands tableaux de sa main : Ils
-            representent les belles actions du <persName>Roy Jacques</persName>, et comme il entra
+            les <objectName>Eglises des Premonstrez</objectName>, <objectName>des
+              Cordeliers</objectName>, <objectName>des Jacobins</objectName>, <objectName>des
+              Augustins</objectName> et entr'autres <objectName>celle des Jésuites</objectName> dont il
+            a <objectName>peint mesme les platfonds</objectName>. La <objectName>Salle où le <persName ref="#CharlesI">Roy d'Angleterre</persName> donne
+            audience aux Ambassadeurs est ornée de neuf grands tableaux de sa main</objectName> : Ils
+            representent les belles actions du <persName ref="#JacquesIer">Roy Jacques</persName>, et comme il entra
             en <placeName ref="#Angleterre">Angleterre</placeName> aprés s'estre assûré du Royaume
               d'<placeName ref="#Ecosse">Escosse</placeName> ; et en <placeName ref="#Espagne"
-              >Espagne</placeName>, dans le <placeName>Palais de la tour della Parada</placeName> à
+              >Espagne</placeName>, dans le <objectName>Palais de la tour della Parada</objectName> à
               <pb n="203"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65173190/f255/full/full/0/native.jpg"
             /> trois lieues de <placeName ref="#Madrid">Madrid</placeName>, l'on void quantité de
-            tableaux tirez des <objectName>Metamorphoses</objectName> d'<persName ref="#Ovide"
-              >Ovide</persName>, dont le Roy avoit fait prendre les mesures à <persName
+            <objectName>tableaux tirez des <bibl>Metamorphoses</bibl> d'<persName ref="#Ovide"
+              >Ovide</persName></objectName>, dont le Roy avoit fait prendre les mesures à <persName
               ref="#PeterPaulRubens">Rubens</persName> dans le temps qu'il estoit à la Cour, pour y
             travailler à sa commodité et lors qu'il seroit arrivé dans sa maison. Et comme ces
             tableaux sont disposez de maniere qu'il y a beaucoup de vuide entre deux, <persName
-              ref="#FransSnyders">Sneïdre</persName> a peint dans ces espaces des jeux d'animaux. </p>
+              ref="#FransSnyders">Sneïdre</persName> a peint dans ces espaces des <objectName>jeux d'animaux</objectName>. </p>
           <p xml:id="PIL_CCP_L2_C2_P27">Si c'est vivre tranquillement que de s'employer aux choses
             pour lesquelles la nature a donné des talens particuliers comme des assurances d'un bon
             succés dans nos entreprises, l'on peut dire que <persName ref="#PeterPaulRubens"
@@ -4363,9 +4363,9 @@
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65173190/f258/full/full/0/native.jpg"
             /> renommée qui durera autant que la Vertu et les beaux Arts trouveront d'amateurs.</p>
           <p xml:id="PIL_CCP_L2_C2_P31"> Il mourut en <date when="1640">1640</date>. âgé de 64 ans,
-            et fut enterré à l'<placeName>Eglise saint Jacques d'<placeName ref="#Anvers"
-                >Anvers</placeName></placeName>, dans laquelle sa veuve et ses enfans ont fait
-            bastir en sa memoire une Chapelle où ils ont fait mettre cette Epitaphe.</p>
+            et fut enterré à l'<objectName>Eglise saint Jacques d'<placeName ref="#Anvers"
+                >Anvers</placeName></objectName>, dans laquelle sa veuve et ses enfans ont fait
+            bastir en sa memoire une <objectName>Chapelle où ils ont fait mettre cette Epitaphe</objectName>.</p>
           <figure type="ornement">
             <p>Ornement</p>
           </figure>
@@ -4460,7 +4460,7 @@
             fut surpris de la rage, dont l'accés fut si violent qu'il l'emporta en une nuit aux yeux
             de ses parens. Monsieur <persName ref="#DanielHeinsius">Heinsius</persName> a fait en
             vers la description de ces deux morts funestes, qui se voit imprimée au commencement
-            d'un <objectName>traité des Vestemens antiques</objectName> que ce pere infortuné avoit
+            d'un <bibl>traité des Vestemens antiques</bibl> que ce pere infortuné avoit
             composé peu de temps avant sa mort ; ces vers meritent asseurément d'estre leus. Voicy
             son Epitaphe qui est dans la mesme Chapelle que celle de son pere. Vous y verrez que sa
             femme, s'estant laissée <pb n="210"
