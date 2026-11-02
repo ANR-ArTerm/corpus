@@ -1366,7 +1366,9 @@
           <surname>Ajax</surname>
           <addName>Ajax</addName>
         </persName>
-        <trait type="notice">le grand ? le petit ?</trait>
+        <trait type="notice">
+          <p>le grand ? le petit ?</p>
+        </trait>
       </person>
       <person xml:id="AlamannoRinuccini" role="humaniste italien de la seconde moitié du XVe siècle"
         source="https://www.wikidata.org/wiki/Q4394728">
@@ -1508,7 +1510,7 @@
       </person>
       <person xml:id="AlbertII" role="roi des Romains, duc d'Autriche"
         source="https://www.wikidata.org/wiki/Q157112">
-        <persName>          
+        <persName>
           <surname>Albert II</surname>
           <addName>Albert</addName>
           <addName>Albert le Magnanime</addName>
@@ -14589,8 +14591,7 @@
         <idno type="vat">495/217</idno>
         <idno type="wikidata">Q518767</idno>
       </person>
-      <person xml:id="CornelisThomasz">
-      </person>
+      <person xml:id="CornelisThomasz"> </person>
       <person xml:id="CornelisVanHaarlem" role="peintre néerlandais"
         source="https://www.wikidata.org/wiki/Q442484">
         <persName ref="https://vocab.getty.edu/ulan/500020887">
@@ -38714,8 +38715,7 @@
           <objectName>L'enlèvement d' Europe</objectName>
         </floruit>
       </person>
-      <person xml:id="MaertenJaqueszSayery">
-      </person>
+      <person xml:id="MaertenJaqueszSayery"> </person>
       <person xml:id="MaertenVanHeemskerck" role="peintre néerlandais (1498–1574)"
         source="https://www.wikidata.org/wiki/Q538350">
         <persName ref="https://vocab.getty.edu/ulan/500124291">
