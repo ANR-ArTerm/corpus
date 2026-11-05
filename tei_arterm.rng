@@ -609,6 +609,7 @@
       <ref name="model.lLike"/>
       <ref name="model.pLike"/>
       <ref name="lg"/>
+      <ref name="sp"/>
     </choice>
   </define>
   <define name="model.persStateLike">
@@ -4767,6 +4768,38 @@
     <optional>
       <attribute name="xml:base"/>
     </optional>
+  </define>
+  <!-- doc:(speech) contains an individual speech in a performance text, or a passage presented as such in a prose or verse text. [3.13.2 Core Tags for Drama 3.13 Passages of Verse or Drama 7.2.2 Speeches and Speakers] -->
+  <define name="sp">
+    <element name="sp">
+      <ref name="attlist.sp"/>
+      <zeroOrMore>
+        <choice>
+          <ref name="speaker"/>
+          <ref name="p"/>          
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="attlist.sp" combine="interleave">
+    <optional>
+      <attribute name="who">
+        <ref name="teidata.pointer"/>
+      </attribute>
+    </optional>
+  </define>
+  <!-- contains a specialized form of heading or label, giving the name of one or more speakers in a dramatic text or fragment. [3.13.2 Core Tags for Drama] -->
+  <define name="speaker">
+    <element name="speaker">
+      <zeroOrMore>
+        <choice>
+          <ref name="persName"/>
+          <ref name="placeName"/>
+          <ref name="objectName"/>
+          <text/>          
+        </choice>
+      </zeroOrMore>
+    </element>
   </define>
   <!-- doc:(state) contains a description of some status or quality attributed to a person, place, or organization often at some specific time or for a specific date range. [14.3.1. Basic Principles 14.3.2.1. Personal Characteristics] -->
   <define name="state">

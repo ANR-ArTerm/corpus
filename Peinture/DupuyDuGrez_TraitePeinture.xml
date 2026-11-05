@@ -184,8 +184,7 @@
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f7/full/full/0/native.jpg"/>
         <p xml:id="DUP_TP_preface_P11">C'est aussi dans l'ordre, dans la métode que j'ay suivie, et
           dans un soin exact d'expliquer toutes choses, qu'on peut remarquer de la nouveauté :
-          Principalement dans le petit <bibl key="dupuydugrezTraitePeinturePour1699a">traité
-            d'Optique</bibl> que j'ay ajoûté à mon ouvrage, et qui est entierement de mon invention,
+          Principalement dans le petit <ptr type="renvoi" target="#L4C2">traité d'Optique</ptr> que j'ay ajoûté à mon ouvrage, et qui est entierement de mon invention,
           ne connoissant point d'Auteur qui en ait êcrit de cette maniere.</p>
         <p xml:id="DUP_TP_preface_P12">Et afin que vous sachiez d'abord l'ordre que j'ay suivi dans
           mon traité, je l'ay divisé en quatre Dissertations : Dans <ptr type="renvoi" target="L1C1">la premiere</ptr> je donne des idées
@@ -388,8 +387,8 @@
           Parlement, Mes. des Requétes ordinaires de nôtre Hôtel, Baillifs et Senéchaux, leurs
           Lieutenans et autres nos Justiciers et Oficiers qu'il apartiendra : Salut. Nôtre Amé
             <persName ref="#BernardDupuyDeGrez">Maître Bernard Dupuy du Grez</persName> Avocat en
-          Parlemen, Nous a fait rêmontrer qu'il a composé un livre intitulé <hi rend="it">Traité sur
-            la Peinture pour en aprendre la Téorie, et se perfectionner dans la pratique</hi>,
+          Parlemen, Nous a fait rêmontrer qu'il a composé un livre intitulé <hi rend="it"><bibl key="dupuydugrezTraitePeinturePour1699a">Traité sur
+            la Peinture pour en aprendre la Téorie, et se perfectionner dans la pratique</bibl></hi>,
           lequel il desireroit de faire imprimer et donner au public mais aprehendant qu'aprés en
           avoir fait la dépense, d'autres voulussent l'imprimer à son préjudice, il nous a
           tres-humblement supliez de luy accorder nos Lettres de privilege sur ce necessaires. <hi
@@ -742,7 +741,7 @@
             la fin principale ou, pour parler d'une autre maniere, la prémiere dans l'intention ?
             L'ouvrage de l'Architecte se peut assez bien comparer à ce tableau où le fameux
               <persName ref="#Apelle">Apelle</persName> s'étoit surpassé lui-même à representer la
-            Déesse de la beauté. Y a-t-il aparence que ceux qui connoissoient la réputation de ce
+            <persName ref="#Venus">Déesse de la beauté</persName>. Y a-t-il aparence que ceux qui connoissoient la réputation de ce
             Peintre eussent voulu préferer la toile, ou la planche dont il s'êtoit <pb n="16"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f37/full/full/0/native.jpg"
             /> servi, à la Peinture dont elle étoit enrichie : quand c'eut êté méme une table
@@ -813,12 +812,12 @@
             inutile à nôtre question.</p>
           <pb n="19"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f40/full/full/0/native.jpg"/>
-          <p xml:id="DUP_TP_L1_L1C1_P31">Nous voïons dans l'Histoire de ce Prophete que la Sculpture
+          <p xml:id="DUP_TP_L1_L1C1_P31">Nous voïons dans l'Histoire de <persName ref="#Moise">ce Prophete</persName> que la Sculpture
             étoit dés ce tems là un Art fort connu parmi les Egïptiens : Car le peuple Juif qui
             érigea le veau d'or dans le désert, pour s'en faire un'Idole avoit apris la fonte dans
               <placeName ref="#Egypte">l'Egipte</placeName> et, à l'exemple de cette Nation
             Idolatre, il adoroit l'ouvrage de ses mains comme une divinité. La Sculpture pourtant
-            n'a rien de criminel que par son mauvais usage, puisque ce Proféte lui même fit orner
+            n'a rien de criminel que par son mauvais usage, puisque <persName ref="#Moise">ce Proféte</persName> lui même fit orner
             l'Arche d'aliance de deux Cherubins de plein relief. J'avoue que le tissu, la broderie,
             qu'on doit considerer comme un ouvrage de raport n'étoit pas inconnue dans ce siécle-là.
             Mais je ne puis conjecturer que la Peinture qui se fait avec le pinceau et plusieurs
@@ -902,7 +901,7 @@
             de Peinture, de Sculpture, et d'Architecture s'oseront comparer avec ceux de
             l'antiquité, on ne sauroit disputer à la Ville de <placeName ref="#Florence"
               >Florence</placeName> la gloire de les avoir tirés de l'oubli où ils étoient tombés
-            dépuis plusieurs siécles. Il est vrai que dans les suites la maison de Médicis s'en
+            dépuis plusieurs siécles. Il est vrai que dans les suites la maison de <persName ref="#Medicis">Médicis</persName> s'en
             déclara particuliérement la fautrice, et que ce fut à la faveur de <persName
               ref="#LaurentDeMedicis">Laurent</persName>, <pb n="23"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f44/full/full/0/native.jpg"
@@ -928,10 +927,10 @@
               >Alabande</placeName>, dit <persName ref="#Vitruve">Vitruve</persName>, étoient fort
             riches : Mais ils <pb n="24"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f45/full/full/0/native.jpg"
-            /> avoient placé dans leur Gimnase ou Palestre des Statues qui sembloient haranguer
-            devant des Juges. Tout au contraire on voyoit dans leur Barreau, qui étoit le lieu
+            /> avoient placé dans leur <objectName>Gimnase</objectName> ou <objectName>Palestre</objectName> des Statues qui sembloient haranguer
+            devant des Juges. Tout au contraire on voyoit dans leur <objectName>Barreau</objectName>, qui étoit le lieu
             destiné pour les Harangueurs, des Statues qui representoient les courses et les autres
-            exercices du Gimnase : il est vrai que les gens de bon goût ne pouvoient soufrir ce
+            exercices du <objectName>Gimnase</objectName> : il est vrai que les gens de bon goût ne pouvoient soufrir ce
             renversement, mais le nombre en étoit si petit qu'il étoit toujours entraîné par la
             multitude. Cependant quoique cette Ville fut tres opulente, il paroît que le peuple y
             manquoit de politesse et de dicernement. Et les <hi rend="capitals">G</hi>recs avoient tourné en raillerie cette
@@ -954,7 +953,7 @@
             /> cét Art que par le seul éclat des couleurs sur le vérre. Ce ne fut que long-tems
             aprés et sous le regne de <persName ref="#FrancoisIer">François I</persName> que la
               <placeName ref="#France">France</placeName> commença de l'estimer, par l'intelligence
-            du dessein, dont la connoissance se répandit au deça des Alpes : Il est vrai que les
+            du dessein, dont la connoissance se répandit au deça des <placeName>Alpes</placeName> : Il est vrai que les
             Guérres qui troublerent ce Royaume dans les suites en arréterent le progrés pour
             quelque-tems.</p>
           <p xml:id="DUP_TP_L1_L1C1_P39">On renouvella la faveur pour les excellent Peintres soûs
@@ -1033,7 +1032,7 @@
             representer en ronde bosse la mort de la <persName ref="#Marie">sainte Vierge Mere de
               Dieu</persName>, à laquelle nous savons par tradition, que se trouverent tous les
             Apôtres : L'ouvrier a fait un corps d'Architecture, qui regne dans toute l'étendue des
-            deux Credences, et de l'Autel. Il est soutenu de huit colonnes : il y en a quatre sur le
+            deux Credences, et de l'<objectName>Autel</objectName>. Il est soutenu de huit colonnes : il y en a quatre sur le
             devant et autant sur le derriere ; Les deux angulaires antérieures sont torses,
             tres-bien ornées, et d'un ordre composé ; elles ont leurs pié-d'estaux de méme ordre ;
             les autres six sont d'ordre Corentien, dont les deux sont placées derrière les torses à
@@ -1076,15 +1075,15 @@
             l'entablement et le sofite. Ce soubassement à méme prés de deux piés de hauteur à la
               <placeName>Trinité</placeName>, et il est orné d'une belle basse taille. Dans
             l'entre-colomne du milieu, qui forme un Pavillon, est representée la Naissance du
-            Sauveur dont les principales figures sont de ronde bosse et celles de derriere de demi
+            <persName ref="#Jesus">Sauveur</persName> dont les principales figures sont de ronde bosse et celles de derriere de demi
             relief. Par dessus l'entablement, il y a un autre corps de deux colomnes avec leur
               architr<reg>a</reg>ve, frise et corniche, et sur le tout un fronton. On voit au milieu
             de ces colomnes un grand demi-relief, qui represente le Mistere de la Trinité et le
             couronnement de la sainte <persName ref="#Marie">Vierge</persName> aprés son
-            Assomption : les figures de <persName ref="#Dieu">Dieu</persName> le Pere et Dieu le
-            Fils y sont d'une beauté surprenante. Cét Autel au reste est d'ordre Corintien mais le
-              <objectName>Sépulcre de la Dalbade</objectName> est d'ordre Dorique. On voit à ce
-            dernier le Corps du Sauveur nud, tout étendu sur un tombeau et la <persName
+            Assomption : les figures de <persName ref="#Dieu">Dieu le Pere</persName> et <persName ref="#Jesus">Dieu le
+            Fils</persName> y sont d'une beauté surprenante. Cét Autel au reste est d'ordre Corintien mais le
+              <objectName>Sépulcre de <placeName>la Dalbade</placeName></objectName> est d'ordre Dorique. On voit à ce
+            dernier le Corps du <persName ref="#Jesus">Sauveur</persName> nud, tout étendu sur un tombeau et la <persName
               ref="#MarieMadeleine">Magdelaine</persName> à genoux sur le devant, qui lui prend la
             main pour la baiser : <pb n="31"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f52/full/full/0/native.jpg"
@@ -1124,7 +1123,7 @@
           <p xml:id="DUP_TP_L1_L1C1_P48">Je ne puis m'empécher de remarquer encore qu'il y a de fort
             belle Sculpture de <persName ref="#NicolasBachelier">Bachelier</persName> dans
               <placeName>l'Eglise des Peres Cordeliers</placeName> : on y distingue sur tout le
-            reste un grand <objectName>demi-relief de la Naissance du Sauveur</objectName>, et cette
+            reste un grand <objectName>demi-relief de la Naissance du <persName ref="#Jesus">Sauveur</persName></objectName>, et cette
             piece est incomparable pour le dessein, l'expression et l'ordonnance, et les figures y
             sont grandes comme le naturel. Ce n'est pas que tout ce qui est de lui n'y soit fort
             beau, et particulierement les basse-tailles qui sont sur les trois portes : il est vrai
@@ -1133,7 +1132,7 @@
             extraordinaire. Les petites figures des Evangelistes et des premiers Peres de l'Eglise,
             qu'on voit dans de niches aux deux grands pilastres isolés, où est atachée la balustrade
             sont encore merveilleuses. Du reste les deux larrons de la Passion de <persName
-              ref="#Jesus">Jesus-Christ</persName> clouez en Croix, grands comme nature, ne sont pas
+              ref="#Jesus">Jesus-Christ</persName> cloüez en Croix, grands comme nature, ne sont pas
             de lui, suivant <pb n="33"
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k111861m/f54/full/full/0/native.jpg"
             /> que j'ay apris des connoisseurs : Ils sont de bois ou de stuc, et pourtant de fort
@@ -1143,10 +1142,10 @@
             intelligens.</p>
           <p xml:id="DUP_TP_L1_L1C1_P49">Je remarquerai, puisque je suis en train, un autre piece de
             cét excellent homme : c'est une façade de maison qu'on apelle le <objectName>portail de
-              Saint Jory</objectName> : elle est pareillement de pierre, exposée à l'air depuis
+            Saint Jory</objectName> : elle est pareillement de pierre, exposée à l'air depuis
             environ cent soixante années. On y voit au corps inférieur quatre colomnes, au milieu
             desquelles est l'entrée : elles sont d'ordre Dorique, cannelées, rudentées, et posées
-            deux à deux sur un soubassement ou large pié-destal, qui s'avance quelque peu dans la
+            deux à deux sur un soubassement ou large piédestal, qui s'avance quelque peu dans la
             rue ; ces colomnes soûtiennent un entablement, dont la saillie est à proportion, où
             pourtant on ne voit ni Metopes ni Trigliphes, qui sont afectés à l'ordre Dorique, mais
             au dessus de la frise il y a des modillons qui suportent la corniche, et celle ci fait
@@ -1163,7 +1162,7 @@
             soubassement, qui les éleve au point de veue. Au milieu de ces colomnes sous le fronton,
             on voit une grande croisée avec de beaux termes de chaque côté qui portent un cartouche
             de la largeur du linteau, avec ces mots <persName ref="#Horace">d'Horace</persName>, <hi
-              rend="it">Multa renascentur</hi>. Il y a encore une demi-croisée de chaque côté du
+              rend="it" xml:lang="lat">Multa renascentur</hi>. Il y a encore une demi-croisée de chaque côté du
             fronton sur l'arriere-corps que fait le mur, avec des termes de méme qu'à la croisée du
             milieu. Ces termes sont si beaux et enfin toutes les figures et autres ornemens ont tant
             de force, que parmi les ouvriers on tient que cette picce est du Dessein de <persName
@@ -1171,7 +1170,7 @@
             qu'il faudroit dire la méme chose de la plú-part de ce que nous avons de <persName
               ref="#NicolasBachelier">Bachelier</persName>. Car ce n'est pas la seule maison
             particuliere, où l'on admire son savoir : on voit d'excellente Sculpture de sa main dans
-            la cour d'une <placeName>maison à la rue de l'arc des Carmes</placeName>. Ce sont divers
+            la cour d'une <objectName>maison à la rue de <placeName>l'arc des Carmes</placeName></objectName>. Ce sont divers
             termes aux fenétres superieures à la droite, où la pierre paroit extremement atendrie,
             tant ce travail est exquis. Cette opinion pourtant fait assez voir le merite de
               <persName ref="#NicolasBachelier">Bachelier</persName>.</p>
@@ -1267,7 +1266,7 @@
             Ouvriers de ce tems-là.</p>
           <p xml:id="DUP_TP_L1_L1C1_P58">La <objectName>Fraisque qui est à la voûte de
                 l'<objectName>Eglise Saint Sernin</objectName></objectName>, où l'on voit un grand
-              <persName ref="#Jesus">Christ</persName> assis, et I'Histoire de ce Saint lors qu'il
+              <persName ref="#Jesus">Christ</persName> assis, et I'Histoire de <persName ref="#SaintSernin">ce Saint</persName> lors qu'il
             fut trainé par un Taureau, est un ouvrage sur le stuc de prés de deux cens ans, si je ne
             me trompe ; on y voit beaucoup d'or et d'outremer ; le dessein en est tres-bon et il y a
             des endroits excelenment <pb n="39"
@@ -1304,7 +1303,7 @@
               >Grece</placeName> et particulierement dans la Ville <placeName ref="#Athenes"
               >d'Athènes</placeName> : j'ay parlé de l'estime que les Romains en firent dans les
             suites lors qu'ils considererent les ouvrages de la main des fameux Peintres et
-            Statuaires comme les plus éclatantes marques.de leur grandeur, et comme des choses
+            Statuaires comme les plus éclatantes marques de leur grandeur, et comme des choses
             necessaires à leur magnificence. J'ay fait remarquer le tems de leur rétablissement, et
             ceux qui en avoient merité la gloire : premierement en <placeName ref="#Italie"
               >Italie</placeName>, et en suite deçà les Monts, où nos Rois les ont toujours honorez
@@ -1601,7 +1600,7 @@
               >Eupompe</persName> qui fut le maître de <persName ref="#Pamphile">Pamphile
               Macédonien</persName> ; comme celui-ci le fut de l'incomparable <persName
               ref="#Apelle">Apelle</persName>. Cét <persName ref="#Eupompe">Eupompe</persName> forma
-            une nouvelle maniere qu'on apelloit la Sicionienne, parce qu'il êtoit de Sicionne : car
+            une nouvelle maniere qu'on apelloit la Sicionienne, parce qu'il êtoit de <placeName ref="#Sicyone">Sicionne</placeName> : car
             auparavant on n'en connoissoit que deux, dont l'une êtoit l'Asiatique ou Ionique, et
             l'autre l'Attique ou Helladique. On nous aprend que <persName ref="#Lysippe"
               >Lisippe</persName>, encore jeune, aiant demandé à <persName ref="#Eupompe"
@@ -1709,8 +1708,7 @@
             qu'on les apella <hi rend="it">Riparograpbes</hi> parmi les <hi rend="capitals">G</hi>recs.</p>
           <p xml:id="DUP_TP_L1_L1C2_P24">Au reste il y avoit en <placeName ref="#Grece"
               >Grece</placeName> quatre principales Ecoles de cét Art, dont l'une êtoit à <placeName
-              ref="#Corinthe">Corinte</placeName>, l'autre à <placeName ref="#Sicyone"
-              >Sicionne</placeName>, la troisiéme à <placeName ref="#Athenes">Athènes</placeName> et
+              ref="#Corinthe">Corinte</placeName>, l'autre à <placeName ref="#Sicyone">Sicionne</placeName>, la troisiéme à <placeName ref="#Athenes">Athènes</placeName> et
             la derniere dans l'Isle de <placeName ref="#Rhodes">Rodes</placeName>. Elles n'êtoient
             pas moins célebres pour la Sculpture que pour la Peinture ; et celle de <placeName
               ref="#Rhodes">Rodes</placeName> a subsisté long-tems aprés la décadence des autres :
@@ -1799,7 +1797,7 @@
             l'Empereur <persName ref="#Hadrien">Hadrien</persName> qui dessinoit, peignoit et
             modeloit tres-bien, et l'Empereur <persName ref="#MarcAurele">Marc Aurelle</persName>
             apellé le Philosophe, qui savoit aussi manier le pinceau. Mais il y a eu à <placeName
-              ref="#Rome">Rome</placeName> un'infinité d'excellens Peintres dont l'Histoire s'est
+            ref="#Rome">Rome</placeName> un'infinité d'excellens Peintres dont l'Histoire s'est
             perdue ; et quoi-que la plû-part des Romains ayent crû que c'étoit au dessous de leur
             dignité de s'ocuper à la Peinture, ils ne laissoient pas d'estimer infiniment les <pb
               n="61"
@@ -2041,7 +2039,7 @@
             l'honneur que <persName ref="#LouisXIV">LOUIS LE GRAND</persName> a fait dans nôtre
             siécle à la Peinture, et à tous les Arts qui dépendent du Dessein, a produit en
               <placeName ref="#France">France</placeName> des ouvrages admirables, qui seront à
-            jamais des marques éternelles de la magnificence de ce glorieux Monarque.</p>
+            jamais des marques éternelles de la magnificence de <persName ref="#LouisXIV">ce glorieux Monarque</persName>.</p>
           <p xml:id="DUP_TP_L1_L1C2_P42">Aprés que <persName ref="#MichelAnge">Michel
               Ange</persName> eut établi à <placeName ref="#Florence">Florence</placeName> la
             reputation de son Ecole, qui a êté la premiere qu'on ait veu en <placeName ref="#Italie"
@@ -2070,7 +2068,7 @@
               ref="#Urbino">Urbin</placeName>, où il fît un'infinité de Desseins, et d'autres
             ouvrages puis encore il revint à <placeName ref="#Florence">Florence</placeName>, d'où
             étant apellé à <placeName ref="#Rome">Rome</placeName> pour y travailler au
-              <placeName>Palais du Pape</placeName> : Ces ouvrages surpasserent tout ce que les
+              <objectName>Palais du Pape</objectName> : Ces ouvrages surpasserent tout ce que les
             modernes avoient veu auparavant ; il en fit une infinité tant de sa main, que par ses
             Eleves sur ses Desseins ; il est vrai qu'il en retouchoit ensuite les tableaux.</p>
           <p xml:id="DUP_TP_L1_L1C2_P43">La grace de ses figures et la disposition de ses Histoires
