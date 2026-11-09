@@ -2236,13 +2236,15 @@
             s'il demeuroit découvert. On les peut faire avec le mur en dedans et alors dans les deux
             parties qu'on donne aux marches, le mur mesme s'y enferme encore, bien qu'il n'y ait
             point de necessité de le faire. Ces deux manieres d'escaliers sont de l'invention du
-            seigneur <persName>Liugi Cornaro</persName> Gentilhomme d'excellent esprit et tres
-            judicieux, comme on peut connoistre par le dessein d'une tres belle
-              <objectName>gallerie</objectName> et d'un magnifique <objectName>palais</objectName>
-            qu'il a basty à <placeName ref="#Padoue">Padoue</placeName> pour sa demeure. Les
-            escaliers à limace qui se nomment encore à coquille, ou bien à vis, se font tantost
-            ronds, tantost en ovale, quelque-fois avec une colonne ou noyau dans le milieu et
-            d'autres fois vuides, principalement <choice>
+            seigneur <persName ref="#AlviseCornaro"><reg>Luigi</reg> Cornaro</persName> Gentilhomme d'excellent
+            esprit et tres judicieux, comme on peut connoistre par le dessein d'une tres belle
+              <objectName ref="#GiovanniMariaFalconettoLoggiaOdeoCornaroPadoue"
+              >gallerie</objectName> et d'un magnifique <objectName
+              ref="#GiovanniMariaFalconettoLoggiaOdeoCornaroPadoue">palais</objectName> qu'il a
+            basty à <placeName ref="#Padoue">Padoue</placeName> pour sa demeure. Les escaliers à
+            limace qui se nomment encore à coquille, ou bien à vis, se font tantost ronds, tantost
+            en ovale, quelque-fois avec une colonne ou noyau dans le milieu et d'autres fois vuides,
+            principalement <choice>
               <sic>és</sic>
               <corr>en</corr>
             </choice> lieux étroits, parce qu'ils occupent moins de place que les droits, mais ils
@@ -2269,8 +2271,9 @@
               facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f74/full/full/0/native.jpg"
             /> est tres agréable à l'oeil, parce que toutes les fenestres et les portes se
             rencontrent aux deux bouts et au milieu de l'ovale et sont fort commodes. J'en ay fait
-            une dans le <objectName>monastere de la Charité</objectName> à <placeName ref="#Venise"
-              >Venise</placeName>, qui est sans noyau, et reussit merveilleusement </p>
+            une dans le <objectName ref="#BartolomeoBonoEgliseSantaMariaDellaCaritaVenise">monastere
+              de la Charité</objectName> à <placeName ref="#Venise">Venise</placeName>, qui est sans
+            noyau, et reussit merveilleusement </p>
           <p xml:id="PAL_ATF_L1_L1C28_P2">
             <list rend="numbered">
               <item>A. <hi rend="it">Escalier à vis ou à limace avec un noyau dans le milieu.</hi>
@@ -2295,36 +2298,39 @@
           <pb n="65"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f77/full/full/0/native.jpg"/>
           <p xml:id="PAL_ATF_L1_L1C28_P3"> On void une autre belle maniere d'escalier à vis dans le
-              <objectName>chasteau de Chambor</objectName> en <placeName ref="#France"
-              >France</placeName>, lequel a este basty à l'entrée d'un bois par le magnanime Roy
-              <persName ref="#FrancoisIer">François premier</persName> le dessein en est ainsi. Ce
-            sont quatre rampans d'escaliers qui ont quatre entrées, c'est à dire chacun la sienne et
-            vont montant et tournant l'un dessus l'autre, en sorte qu'estans placez au milieu du
-            bastiment, ils peuvent servir à quatre appartemens separez, sans que de l'un on puisse
-            passer dedans l'autre. Et parce que le milieu en est vuide, on void monter et descendre
-            tout le monde sans que personne vienne à se rencontrer. Cette invention m'ayant semble
-            belle et rare, j'en ay voulu rapporter icy le dessein et marquer chaque escalier avec
-            ses lettres particulieres sur le plan et le profil, afin qu'on puisse connoistre
-            l'endroit où ils commencent et comment ils montent. On avoit encore dans les <objectName
-              ref="#PortiqueDePompeeRome">portiques de Pompée</objectName>, qui sont à <placeName
-              ref="#Rome">Rome</placeName> proche le quartier des juifs, trois escaliers de la mesme
-            espece, dont l'invention est tres belle, en ce qu'estans tous trois posez au milieu de
-            l'edifice, où le jour ne pouvoit venir que d'enhaut, l'architecte les avoit assis dessus
-            des colonnes pour faire que la lumière s'épandist également par tout. A l'imitation
-            desquels, <persName ref="#Bramante">Bramante</persName> le plus fameux architecte de son
-            temps, en fit un semblable au <objectName>palais de Belueder</objectName>, mais il n'y
-            mit point de marches: il le composa des quatre principaux ordres de colonnes, qui sont
-            le dorique, l'ionique, le corinthien et le composite. Pour faire ces escaliers, on
+              <objectName ref="#JacquesSourdeauPierreNepveuChateauChambord">chasteau de
+              Chambor</objectName> en <placeName ref="#France">France</placeName>, lequel a este
+            basty à l'entrée d'un bois par le magnanime Roy <persName ref="#FrancoisIer">François
+              premier</persName> le dessein en est ainsi. Ce sont quatre rampans d'escaliers qui ont
+            quatre entrées, c'est à dire chacun la sienne et vont montant et tournant l'un dessus
+            l'autre, en sorte qu'estans placez au milieu du bastiment, ils peuvent servir à quatre
+            appartemens separez, sans que de l'un on puisse passer dedans l'autre. Et parce que le
+            milieu en est vuide, on void monter et descendre tout le monde sans que personne vienne
+            à se rencontrer. Cette invention m'ayant semble belle et rare, j'en ay voulu rapporter
+            icy le dessein et marquer chaque escalier avec ses lettres particulieres sur le plan et
+            le profil, afin qu'on puisse connoistre l'endroit où ils commencent et comment ils
+            montent. On avoit encore dans les <objectName ref="#PortiqueDePompeeRome">portiques de
+              Pompée</objectName>, qui sont à <placeName ref="#Rome">Rome</placeName> proche le
+            quartier des juifs, trois escaliers de la mesme espece, dont l'invention est tres belle,
+            en ce qu'estans tous trois posez au milieu de l'edifice, où le jour ne pouvoit venir que
+            d'enhaut, l'architecte les avoit assis dessus des colonnes pour faire que la lumière
+            s'épandist également par tout. A l'imitation desquels, <persName ref="#Bramante"
+              >Bramante</persName> le plus fameux architecte de son temps, en fit un semblable au
+              <objectName ref="#BramanteBelvedereVatican">palais de Belveder</objectName>, mais il
+            n'y mit point de marches: il le composa des quatre principaux ordres de colonnes, qui
+            sont le dorique, l'ionique, le corinthien et le composite. Pour faire ces escaliers, on
             divise tout l'espace en quatre parties, deux desquelles sont pour le vuide du milieu et
             il en reste une à chaque costé des marches et des colonnes. Il se trouve quantité
             d'autres manières d'escaliers dans les bastimens antiques, comme de triangulaires, tels
             que ceux par où l'on monte à la coupe de la <objectName ref="#PantheonRome"
               >Rotonde</objectName>, lesquelles sont vuides au milieu et prennent leur jour
-            d'enhaut. En la mesme ville, ceux de l'<objectName>Eglise St. Apostolo</objectName>,
-            vers <placeName ref="#Quirinal">Montecaval</placeName>, sont encore tres-magnifiques.
-            Ces escaliers estoient doubles et ils ont servy d'exemple à plusieurs qui les ont depuis
-            imitez: ils conduisoient à un temple sis au haut du mont, comme on verra en mon livre
-            traitant des temples. Et c'est icy le dernier dessein des escaliers de cette maniere. </p>
+            d'enhaut. En la mesme ville, ceux de l'<objectName
+              ref="#CarloFontanaFrancescoFontanaBasiliqueSaintsApotresRome">Eglise St.
+              Apostolo</objectName>, vers <placeName ref="#Quirinal">Montecaval</placeName>, sont
+            encore tres-magnifiques. Ces escaliers estoient doubles et ils ont servy d'exemple à
+            plusieurs qui les ont depuis imitez: ils conduisoient à un temple sis au haut du mont,
+            comme on verra en mon livre traitant des temples. Et c'est icy le dernier dessein des
+            escaliers de cette maniere. </p>
           <pb n="66"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f78/full/full/0/native.jpg"/>
           <figure type="planche"/>
@@ -2379,10 +2385,11 @@
       <div1 xml:id="L2" type="livre" n="2">
         <pb n="69"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f81/full/full/0/native.jpg"/>
-        <head> REGINA VIRTUS LE SECOND LIVRE DE L'ARCHITECTURE D'ANDRE PALLADIO Où Il donne les
-          desseins de plusieurs maisons qu'il a basties tant à la campagne que dans les villes ET
-          Quelques desseins de la maniere de bastir des anciens Grecs et Romains A <placeName
-            ref="#Paris">PARIS</placeName>, M.DC.L. </head>
+        <head>LE SECOND LIVRE DE L'ARCHITECTURE D'<persName ref="#AndreaPalladio">ANDRE
+            PALLADIO</persName> Où Il donne les desseins de plusieurs maisons qu'il a basties tant à
+          la campagne que dans les villes ET Quelques desseins de la maniere de bastir des anciens
+          Grecs et Romains A <placeName ref="#Paris">PARIS</placeName>, <date when="1650">M.DC.L.
+          </date></head>
         <pb n="70"
           facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f82/full/full/0/native.jpg"/>
         <pb n="71"
