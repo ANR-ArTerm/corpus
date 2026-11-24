@@ -3880,15 +3880,16 @@
           <pb n="145"
             facs="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8712725f/f157/full/full/0/native.jpg"/>
           <p xml:id="PAL_ATF_L2_L2C17_P6">Dans <placeName ref="#Verone">Verone</placeName> sur une
-            tres-belle situation qui se nomme gli <objectName>Portoni della Brà</objectName>, le
-            Comte <persName>Giovan Battista della Torre </persName>avoit eu dessein de faire le
-              <objectName>bastiment</objectName> du dessein suivant, lequel devoit estre accompagné
-            de jardins et de toutes sortes d'embellissemens, qui peuvent rendre un lieu commode et
-            divertissant. Les premieres chambres estoient voûtées et sur les petites on eust fait
-            des mezanines, où l'on eust monté par les petits escaliers. Les chambres du second
-            estage avoient des planchers: l'exhaussement de la sale alloit jusques à la couverture
-            et au niveau du soffite, il y auroit eu un corridor en accoudoir. Elle eust pris son
-            jour par une loge et par des fenestres qu'elle auroit euës sur les aisles. </p>
+            tres-belle situation qui se nomme gli <objectName ref="#PortoniDellaBraVerone">Portoni
+              della Brà</objectName>, le Comte <persName>Giovan Battista della Torre
+            </persName>avoit eu dessein de faire le <objectName>bastiment</objectName> du dessein
+            suivant, lequel devoit estre accompagné de jardins et de toutes sortes d'embellissemens,
+            qui peuvent rendre un lieu commode et divertissant. Les premieres chambres estoient
+            voûtées et sur les petites on eust fait des mezanines, où l'on eust monté par les petits
+            escaliers. Les chambres du second estage avoient des planchers: l'exhaussement de la
+            sale alloit jusques à la couverture et au niveau du soffite, il y auroit eu un corridor
+            en accoudoir. Elle eust pris son jour par une loge et par des fenestres qu'elle auroit
+            euës sur les aisles. </p>
           <figure type="plan"/>
           <figure type="élévation"/>
           <pb n="146"
@@ -3959,7 +3960,8 @@
               temple dorique, que je reserve pour la conclusion de cét ouvrage) s'est trouvée de
               plus entre les autres qui mont esté envoyées icy de <placeName ref="#Venise"
                 >Venise</placeName>. </hi></p>
-          <figure type="plan" place="right"/><figure type="élévation" place="right"/>
+          <figure type="plan" place="right"/>
+          <figure type="élévation" place="right"/>
           <p xml:id="PAL_ATF_L2_L2C17_P11"> FIN DU SECOND LIVRE. </p>
         </div2>
       </div1>
